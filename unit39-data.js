@@ -3,832 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 39",
     "cards": [
       {
-        "word": "meticulous",
-        "pos": "adj.",
-        "definition": "showing great attention to detail; very careful.",
-        "chinese": "一絲不苟的；細心的",
-        "synonyms": "precise, scrupulous, thorough",
-        "image": "mountain",
-        "sentence": "The forensic accountant's __________ reconstruction of the transaction trail revealed a pattern of deliberate concealment spanning nearly seven years, requiring her team to cross-reference over forty thousand individual financial records from multiple jurisdictions before a coherent picture of the full scheme finally emerged.",
-        "translation": "法醫會計師對交易軌跡一絲不苟的重建，揭示了跨越近七年的蓄意隱瞞模式，需要她的團隊對來自多個司法管轄區的四萬多條個別財務記錄進行交叉核對，才能最終呈現出整個計劃的完整面貌。",
-        "lookup": {
-          "english": "showing great attention to detail; very careful.",
-          "chinese": "一絲不苟的；細心的"
-        }
-      },
-      {
-        "word": "misanthrope",
+        "word": "saga",
         "pos": "n.",
-        "definition": "a person who dislikes and distrusts other people.",
-        "chinese": "厭世者；憎恨人類者",
-        "synonyms": "cynic, recluse, pessimist",
-        "image": "eraser",
-        "sentence": "Colleagues who initially dismissed him as a confirmed __________ were surprised to discover that his apparent hostility toward social interaction concealed a profound disappointment in human behavior rather than any innate disregard for individuals. He had simply expected more from people than experience had consistently delivered.",
-        "translation": "最初將他視為徹底厭世者的同事們驚訝地發現，他對社交互動的明顯敵意隱藏的是對人類行為的深刻失望，而非對個人的任何天生漠視。他只是對人們抱有比經驗所能持續提供的更高期望。",
+        "definition": "long heroic story.",
+        "memoryChant": "saga (Old Norse: story) → 'A long Viking story—saga!'",
+        "chinese": "傳奇；長篇故事",
+        "synonyms": "epic, chronicle, legend",
+        "image": "crack",
+        "sentence": "The novel tells the __________ of three generations of a Taiwanese family, beginning with a young farmer who arrived from Fujian in the nineteenth century. Over nearly six hundred pages, readers follow his descendants through wars, economic hardship, political change, and eventual prosperity. Critics praised the author for weaving personal struggles into major historical events. Many readers described the sweeping family chronicle as one of the most moving books they had ever read.",
+        "translation": "這部小說講述一個台灣家族三代人的傳奇，從十九世紀一位從福建渡海而來的年輕農夫開始。在將近六百頁的篇幅中，讀者跟隨他的子孫歷經戰爭、經濟困頓、政治變遷，最終走向富足。評論家讚揚作者將個人的奮鬥融入重大歷史事件之中。許多讀者形容這部波瀾壯闊的家族史詩，是他們讀過最感人的書籍之一。",
         "lookup": {
-          "english": "a person who dislikes and distrusts other people.",
-          "chinese": "厭世者；憎恨人類者"
+          "english": "long heroic story.",
+          "chinese": "傳奇；長篇故事"
         }
       },
       {
-        "word": "mitigate",
-        "pos": "v.",
-        "definition": "to make less severe or serious.",
-        "chinese": "緩和；減輕",
-        "synonyms": "alleviate, lessen, moderate",
-        "image": "mountain",
-        "sentence": "The engineering team implemented a series of redundant safety systems designed to __________ the consequences of any single point of failure within the critical infrastructure network. Regulators praised the layered approach as substantially exceeding minimum compliance requirements while demonstrating genuine commitment to operational safety.",
-        "translation": "工程團隊實施了一系列冗餘安全系統，旨在減輕關鍵基礎設施網絡中任何單點故障的後果。監管機構讚揚這種分層方法大幅超越了最低合規要求，同時展現了對運營安全的真誠承諾。",
-        "lookup": {
-          "english": "to make less severe or serious.",
-          "chinese": "緩和；減輕"
-        }
-      },
-      {
-        "word": "mollify",
-        "pos": "v.",
-        "definition": "to appease the anger of someone.",
-        "chinese": "安撫；使平靜",
-        "synonyms": "appease, placate, soothe",
-        "image": "rubble",
-        "sentence": "The customer service director made a personal call to __________ the aggrieved client whose legitimate complaint had been mishandled through three successive tiers of automated response systems. The director's direct acknowledgment of the institutional failure and the concrete remedies she offered proved sufficient to restore the relationship.",
-        "translation": "客戶服務總監親自致電，安撫這位投訴被三個連續自動化回應系統誤處理的受委屈客戶。總監對機構失誤的直接承認以及她提供的具體補救措施，足以恢復雙方的關係。",
-        "lookup": {
-          "english": "to appease the anger of someone.",
-          "chinese": "安撫；使平靜"
-        }
-      },
-      {
-        "word": "morose",
+        "word": "belated",
         "pos": "adj.",
-        "definition": "sullen and ill-tempered.",
-        "chinese": "陰鬱的；悶悶不樂的",
-        "synonyms": "sullen, gloomy, sulky",
-        "image": "mountain",
-        "sentence": "The __________ novelist rarely attended public literary events, preferring solitary work to the social performances that promotional culture demanded of commercially successful authors. Those who managed to engage him in substantive conversation discovered a warmth and intellectual generosity that his public persona entirely obscured.",
-        "translation": "這位陰鬱的小說家很少出席公開文學活動，更喜歡獨自工作，而非商業成功作家所需的那種社交表演。那些能夠與他進行實質性交談的人，發現了他公眾形象完全掩蓋的溫暖和智識慷慨。",
+        "definition": "late, delayed.",
+        "memoryChant": "be- (make) + late → 'Made late—belated!'",
+        "chinese": "遲來的",
+        "synonyms": "late, overdue, delayed",
+        "image": "clock",
+        "sentence": "Two weeks after forgetting his best friend's birthday, the embarrassed teenager finally delivered a __________ gift along with a handwritten apology. He had been so busy preparing for examinations that the date had completely slipped his mind. His friend laughed and accepted the present graciously, saying that the thoughtful note mattered more than the timing. The two later joked that the overdue celebration had actually lasted longer than a normal birthday.",
+        "translation": "在忘記最好朋友的生日兩週後，這名尷尬的青少年終於送上一份遲來的禮物，並附上一張手寫的道歉卡。他一直忙著準備考試，完全忘了這個日子。他的朋友笑著大方地收下禮物，說這張用心的卡片比時間更重要。兩人後來開玩笑說，這場遲來的慶祝其實比一般的生日持續得更久。",
         "lookup": {
-          "english": "sullen and ill-tempered.",
-          "chinese": "陰鬱的；悶悶不樂的"
+          "english": "late, delayed.",
+          "chinese": "遲來的"
         }
       },
       {
-        "word": "mundane",
+        "word": "decrepit",
         "pos": "adj.",
-        "definition": "lacking interest or excitement; ordinary.",
-        "chinese": "平凡的；世俗的",
-        "synonyms": "ordinary, routine, prosaic",
-        "image": "rubble",
-        "sentence": "The philosopher argued that genuine happiness required finding authentic meaning within __________ daily activities rather than perpetually deferring fulfillment to some imagined future state of achievement. This capacity to invest ordinary experience with genuine significance, she contended, was the most reliable indicator of psychological maturity.",
-        "translation": "這位哲學家認為，真正的幸福需要在平凡的日常活動中尋找真實的意義，而非不斷地將滿足感推遲到某個想像中的未來成就狀態。她認為，在普通體驗中投入真正意義的能力，是心理成熟度最可靠的指標。",
+        "definition": "broken down, worn out.",
+        "memoryChant": "de- (down) + crepare (to crack) → 'Cracked and falling down—decrepit!'",
+        "chinese": "衰老的；破舊的",
+        "synonyms": "dilapidated, run-down, crumbling",
+        "image": "small",
+        "sentence": "The __________ farmhouse had been abandoned for nearly forty years, and its roof had partially collapsed after countless typhoons. Broken windows let rain pour into the rooms, and wild plants grew through cracks in the wooden floors. When a young architect purchased the property, neighbors assumed she would demolish it. Instead, she spent three years carefully restoring the crumbling structure, transforming it into a beautiful guesthouse that preserved its historic character.",
+        "translation": "這棟破舊的農舍已荒廢將近四十年，屋頂在無數次颱風後部分坍塌。破掉的窗戶讓雨水灌進屋內，野生植物從木地板的裂縫中長了出來。當一位年輕建築師買下這處房產時，鄰居們以為她會把它拆掉。然而她卻花了三年時間細心修復這座搖搖欲墜的建築，將它改造成一間保留歷史特色的美麗民宿。",
         "lookup": {
-          "english": "lacking interest or excitement; ordinary.",
-          "chinese": "平凡的；世俗的"
+          "english": "broken down, worn out.",
+          "chinese": "衰老的；破舊的"
         }
       },
       {
-        "word": "nefarious",
+        "word": "imperturbable",
         "pos": "adj.",
-        "definition": "wicked and criminal; evil.",
-        "chinese": "邪惡的；罪惡的",
-        "synonyms": "wicked, villainous, criminal",
-        "image": "flag",
-        "sentence": "The prosecutor detailed the __________ scheme in compelling terms, describing how the defendants had systematically exploited elderly victims over a period of nearly three years, deliberately targeting those with cognitive vulnerabilities who were least capable of recognizing or reporting the predatory financial manipulation they were experiencing.",
-        "translation": "檢察官以令人信服的方式詳細描述了這一邪惡計劃，描述被告如何在近三年的時間裡系統性地剝削老年受害者，刻意針對那些認知能力最弱、最無法識別或舉報其所遭受的掠奪性財務操縱的人。",
-        "lookup": {
-          "english": "wicked and criminal; evil.",
-          "chinese": "邪惡的；罪惡的"
-        }
-      },
-      {
-        "word": "nonchalant",
-        "pos": "adj.",
-        "definition": "appearing casually calm and relaxed.",
-        "chinese": "漫不經心的；若無其事的",
-        "synonyms": "casual, indifferent, blasé",
-        "image": "fire",
-        "sentence": "The experienced surgeon maintained a deliberately __________ demeanor during the most technically demanding phases of the complex procedure, having learned through decades of practice that projecting calm confidence significantly reduced the anxiety of both the wider surgical team and the alert portions of her own nervous system.",
-        "translation": "這位經驗豐富的外科醫生在複雜手術最具技術難度的階段保持著刻意若無其事的態度，她通過數十年的實踐學到，展現平靜的自信能顯著降低整個外科手術團隊的焦慮，以及她自身神經系統警覺部分的緊張感。",
-        "lookup": {
-          "english": "appearing casually calm and relaxed.",
-          "chinese": "漫不經心的；若無其事的"
-        }
-      },
-      {
-        "word": "notorious",
-        "pos": "adj.",
-        "definition": "famous or well-known for a bad quality.",
-        "chinese": "臭名昭著的；聲名狼藉的",
-        "synonyms": "infamous, disreputable, infamous",
-        "image": "chest",
-        "sentence": "The district became __________ for chronic flooding following decades of inadequate stormwater infrastructure investment, a problem that local authorities had repeatedly acknowledged in planning documents while consistently failing to allocate the sustained funding necessary to implement the structural improvements that engineers had recommended.",
-        "translation": "由於數十年來暴雨排水基礎設施投資不足，該地區因慢性洪水而聲名狼藉，這個問題地方當局在規劃文件中一再承認，卻始終未能分配持續資金，以實施工程師所建議的結構改善措施。",
-        "lookup": {
-          "english": "famous or well-known for a bad quality.",
-          "chinese": "臭名昭著的；聲名狼藉的"
-        }
-      },
-      {
-        "word": "obdurate",
-        "pos": "adj.",
-        "definition": "stubbornly refusing to change one's opinion.",
-        "chinese": "頑固的；執拗的",
-        "synonyms": "stubborn, inflexible, unyielding",
-        "image": "eraser",
-        "sentence": "The committee found the developer __________ in the face of overwhelming community opposition, declining to modify any substantive element of the contentious proposal despite the presentation of extensive petitions, alternative design studies, and independent environmental assessments that challenged the project's core assumptions.",
-        "translation": "委員會發現這位開發商面對壓倒性的社區反對時執拗不化，儘管提交了大量請願書、替代設計研究和挑戰項目核心假設的獨立環境評估，他仍拒絕修改爭議提案的任何實質性內容。",
-        "lookup": {
-          "english": "stubbornly refusing to change one's opinion.",
-          "chinese": "頑固的；執拗的"
-        }
-      },
-      {
-        "word": "obsequious",
-        "pos": "adj.",
-        "definition": "excessively submissive and compliant.",
-        "chinese": "諂媚的；奴顏婢膝的",
-        "synonyms": "servile, fawning, sycophantic",
-        "image": "table",
-        "sentence": "The __________ assistant anticipated every preference of the visiting executive with an attentiveness that initially seemed impressively professional but gradually revealed itself as a calculated performance designed to secure preferential treatment rather than genuine commitment to excellent service.",
-        "translation": "這位諂媚的助手以一種最初看似令人印象深刻的專業性預測到訪高管的每一個偏好，但這種殷勤逐漸被揭示為一種精心計算的表演，旨在獲得特殊待遇，而非對卓越服務的真誠承諾。",
-        "lookup": {
-          "english": "excessively submissive and compliant.",
-          "chinese": "諂媚的；奴顏婢膝的"
-        }
-      },
-      {
-        "word": "obstinate",
-        "pos": "adj.",
-        "definition": "stubbornly refusing to change; pigheaded.",
-        "chinese": "固執的；倔強的",
-        "synonyms": "stubborn, dogged, headstrong",
-        "image": "burst",
-        "sentence": "The __________ negotiator's refusal to consider any compromise on the intellectual property provisions ultimately collapsed discussions that had otherwise progressed considerably, leaving both parties without an agreement that independent analysts agreed would have substantially benefited each side's long-term commercial interests.",
-        "translation": "這位固執的談判者拒絕在知識產權條款上做出任何妥協，最終使在其他方面取得相當進展的談判破裂，雙方未能達成獨立分析師一致認為將大幅惠及雙方長期商業利益的協議。",
-        "lookup": {
-          "english": "stubbornly refusing to change; pigheaded.",
-          "chinese": "固執的；倔強的"
-        }
-      },
-      {
-        "word": "obtuse",
-        "pos": "adj.",
-        "definition": "annoyingly insensitive or slow to understand.",
-        "chinese": "遲鈍的；不敏感的",
-        "synonyms": "dull, dense, slow-witted",
-        "image": "warning",
-        "sentence": "The manager's __________ response to repeated signals of team dissatisfaction — dismissing documented performance concerns as mere complaints — eventually resulted in the resignation of four of his most productive employees within a single quarter, a loss that senior leadership deemed entirely preventable.",
-        "translation": "這位經理對團隊不滿信號的遲鈍回應——將有記錄的績效問題斥為單純抱怨——最終導致他四名最具生產力的員工在一個季度內相繼辭職，高層管理認為這一損失完全是可以避免的。",
-        "lookup": {
-          "english": "annoyingly insensitive or slow to understand.",
-          "chinese": "遲鈍的；不敏感的"
-        }
-      },
-      {
-        "word": "onerous",
-        "pos": "adj.",
-        "definition": "involving heavy obligations; burdensome.",
-        "chinese": "繁重的；苦楚的",
-        "synonyms": "burdensome, demanding, oppressive",
+        "definition": "calm, steady, serene.",
+        "memoryChant": "im- (not) + per- (thoroughly) + turbare (disturb) → 'Cannot be disturbed at all—imperturbable!'",
+        "chinese": "鎮定的；泰然自若的",
+        "synonyms": "calm, composed, unflappable",
         "image": "energy",
-        "sentence": "Small business owners described the revised reporting framework as deeply __________, requiring monthly submissions of documentation that previously demanded only annual compliance. Industry associations argued that the administrative burden would disproportionately disadvantage smaller enterprises that lacked the dedicated compliance staff available to larger competitors.",
-        "translation": "小企業主將修訂後的報告框架描述為極其繁重，要求每月提交以前只需年度合規的文件。行業協會認為，這一行政負擔將對缺乏大型競爭對手所擁有的專職合規人員的小型企業造成不成比例的不利影響。",
+        "sentence": "Throughout the chaotic press conference, the spokesperson remained completely __________, answering hostile questions in a calm, steady voice while reporters shouted over one another. Even when one journalist accused her of lying, she simply smiled and repeated the facts patiently. Her colleagues marveled at her composure under such intense pressure. Communication experts later used video of the event to teach young professionals how to handle aggressive questioning without losing control.",
+        "translation": "在整場混亂的記者會中，這位發言人始終泰然自若，在記者們七嘴八舌大喊時，以平靜穩定的語氣回答充滿敵意的問題。即使一名記者指控她說謊，她也只是微笑，耐心地重申事實。同事們對她在如此巨大壓力下的沉著感到驚嘆。溝通專家後來用這場記者會的影片，教導年輕專業人士如何在不失控的情況下應對咄咄逼人的提問。",
         "lookup": {
-          "english": "involving heavy obligations; burdensome.",
-          "chinese": "繁重的；苦楚的"
+          "english": "calm, steady, serene.",
+          "chinese": "鎮定的；泰然自若的"
         }
       },
       {
-        "word": "opaque",
-        "pos": "adj.",
-        "definition": "not clearly understood; hard to see through.",
-        "chinese": "不透明的；晦澀難懂的",
-        "synonyms": "unclear, obscure, impenetrable",
-        "image": "lamp",
-        "sentence": "The regulatory filing's __________ language made it virtually impossible for retail investors to assess the actual risk profile of the financial product being described, prompting consumer advocacy organizations to demand mandatory plain-language summaries that would make material information genuinely accessible to non-specialist shareholders.",
-        "translation": "監管文件晦澀難懂的語言使散戶投資者幾乎無法評估所描述金融產品的實際風險狀況，促使消費者倡導組織要求強制提供通俗語言摘要，使實質性信息真正能夠被非專業股東所理解。",
-        "lookup": {
-          "english": "not clearly understood; hard to see through.",
-          "chinese": "不透明的；晦澀難懂的"
-        }
-      },
-      {
-        "word": "ostracize",
+        "word": "vacillate",
         "pos": "v.",
-        "definition": "to exclude from a society or group.",
-        "chinese": "排斥；放逐",
-        "synonyms": "exclude, shun, banish",
-        "image": "shield",
-        "sentence": "The research group's tendency to __________ colleagues who challenged the prevailing methodological consensus created a culture of intellectual conformity that ultimately constrained the innovative thinking essential to maintaining its competitive position in a rapidly evolving field.",
-        "translation": "這個研究小組排斥挑戰主流方法論共識的同事的傾向，形成了一種智識上的從眾文化，最終制約了在快速演變的領域保持競爭地位所必需的創新思維。",
+        "definition": "to hesitate, fluctuate.",
+        "memoryChant": "vacillare (to sway) → 'Swaying back and forth—vacillate!'",
+        "chinese": "猶豫不決；搖擺",
+        "synonyms": "waver, hesitate, dither",
+        "image": "rings",
+        "sentence": "For months, the high school senior continued to __________ between studying medicine and pursuing a career in music. One week she felt certain that becoming a doctor was the practical choice; the next week she dreamed of performing on international stages. Her parents grew frustrated by her constant hesitation. Finally, a conversation with a doctor who also played in an orchestra convinced her that she might combine both passions. She is now studying medicine happily.",
+        "translation": "好幾個月來，這名高三學生一直在學醫與追求音樂事業之間猶豫不決。這一週她確信成為醫生是務實的選擇；下一週她又夢想著站上國際舞台演出。她的父母對她不斷的搖擺感到沮喪。最後，與一位同時在管弦樂團演奏的醫生的一席話，讓她相信自己或許能兼顧這兩項熱情。她如今快樂地攻讀醫學。",
         "lookup": {
-          "english": "to exclude from a society or group.",
-          "chinese": "排斥；放逐"
+          "english": "to hesitate, fluctuate.",
+          "chinese": "猶豫不決；搖擺"
         }
       },
       {
-        "word": "ostentatious",
+        "word": "staunch",
         "pos": "adj.",
-        "definition": "designed to impress through conspicuous display.",
-        "chinese": "炫耀的；賣弄的",
-        "synonyms": "showy, flamboyant, pretentious",
-        "image": "chest",
-        "sentence": "The __________ renovation of the corporate headquarters drew criticism from shareholders who questioned whether the lavish expenditure on imported marble, custom lighting installations, and an art collection was consistent with the austerity measures simultaneously being imposed on operational staff.",
-        "translation": "公司總部的炫耀性翻新引發了股東的批評，他們質疑在進口大理石、定制照明裝置和藝術品收藏上的奢侈支出，是否與同時對運營員工實施的緊縮措施相符。",
+        "definition": "strong, trusty, firm.",
+        "memoryChant": "stant- (standing) → 'Standing firm—staunch!'",
+        "chinese": "堅定的；忠誠的",
+        "synonyms": "loyal, steadfast, committed",
+        "image": "clock",
+        "sentence": "The elderly woman has been a __________ supporter of the local baseball team for more than sixty years, attending nearly every home game regardless of weather or the team's performance. Even during seasons when the players lost repeatedly, she remained loyal, cheering loudly from her usual seat behind third base. The club eventually honored her steadfast devotion by naming a section of the stadium after her. Fans often ask for her autograph.",
+        "translation": "這位老太太六十多年來一直是當地棒球隊的忠實球迷，無論天氣如何或球隊表現好壞，她幾乎每場主場比賽都到場。即使在球員屢戰屢敗的球季，她依然忠心不二，從她三壘後方的老位子上大聲加油。球團最終以她的名字為球場的一個區域命名，以表彰她堅定不移的熱愛。球迷們常向她索取簽名。",
         "lookup": {
-          "english": "designed to impress through conspicuous display.",
-          "chinese": "炫耀的；賣弄的"
+          "english": "strong, trusty, firm.",
+          "chinese": "堅定的；忠誠的"
         }
       },
       {
-        "word": "paucity",
+        "word": "opprobrium",
         "pos": "n.",
-        "definition": "the presence of something in only small amounts.",
-        "chinese": "缺乏；少量",
-        "synonyms": "scarcity, shortage, dearth",
-        "image": "small",
-        "sentence": "The __________ of reliable longitudinal data made it extremely difficult to draw definitive conclusions about the long-term health effects of the compound, a limitation that researchers consistently acknowledged in their publications while simultaneously advocating for the sustained funding necessary to generate more comprehensive evidence.",
-        "translation": "可靠縱向數據的缺乏使得對該化合物長期健康影響得出確定性結論極為困難，這一局限性研究人員在其出版物中始終加以承認，同時倡導獲得產生更全面證據所必需的持續資金。",
+        "definition": "scorn, insult, public disgrace.",
+        "memoryChant": "ob- (upon) + probrum (disgrace) → 'Disgrace heaped upon you—opprobrium!'",
+        "chinese": "恥辱；公開的譴責",
+        "synonyms": "disgrace, condemnation, scorn",
+        "image": "cup",
+        "sentence": "The company faced international __________ after journalists revealed that its factories had been dumping toxic waste into rivers used by thousands of villagers. Environmental organizations condemned the company, consumers organized boycotts, and several countries banned its products. Executives who had once been celebrated as business leaders were suddenly treated with public scorn. The disgrace eventually forced the chief executive to resign and the company to fund an expensive cleanup program.",
+        "translation": "在記者揭露該公司工廠一直將有毒廢棄物排入數千名村民使用的河川後，這家公司遭受國際社會的強烈譴責。環保組織對其大加撻伐，消費者發起抵制，數個國家也禁止其產品進口。曾被譽為商界領袖的高層主管，突然成為眾人鄙視的對象。這場恥辱最終迫使執行長辭職，公司也不得不出資推動一項昂貴的清理計畫。",
         "lookup": {
-          "english": "the presence of something in only small amounts.",
-          "chinese": "缺乏；少量"
+          "english": "scorn, insult, public disgrace.",
+          "chinese": "恥辱；公開的譴責"
         }
       },
       {
-        "word": "pedantic",
+        "word": "Machiavellian",
         "pos": "adj.",
-        "definition": "excessively concerned with minor rules and details.",
-        "chinese": "迂腐的；賣弄學問的",
-        "synonyms": "fastidious, fussy, nit-picking",
-        "image": "small",
-        "sentence": "The professor's __________ insistence on formatting conventions consumed seminar time that might otherwise have been devoted to substantive engagement with the genuinely complex intellectual content, prompting students to question whether stylistic compliance had displaced conceptual understanding as the primary measure of scholarly achievement.",
-        "translation": "這位教授對格式規範的迂腐堅持佔用了研討課時間，否則這些時間可以用於對真正複雜智識內容的實質性探討，促使學生質疑形式合規是否已取代概念理解，成為衡量學術成就的主要標準。",
+        "definition": "cunning, governed by opportunity rather than principle.",
+        "memoryChant": "from Niccolò Machiavelli, author of The Prince → 'The ends justify the means—Machiavellian!'",
+        "chinese": "不擇手段的；權謀的",
+        "synonyms": "scheming, cunning, unscrupulous",
+        "image": "crack",
+        "sentence": "In the popular television drama, the __________ prime minister manipulates allies, betrays friends, and spreads false rumors about rivals in order to stay in power. He treats every relationship as a tool for achieving his ambitions and never hesitates to deceive anyone who stands in his way. Viewers find his cunning schemes both fascinating and disturbing. Critics describe the character as a brilliant portrait of unscrupulous political ambition. The show has won numerous awards.",
+        "translation": "在這部熱門電視劇中，這位不擇手段的首相為了保住權力，操弄盟友、背叛朋友，並散布關於對手的不實謠言。他把每一段關係都視為實現野心的工具，毫不猶豫地欺騙任何擋路的人。觀眾覺得他狡猾的陰謀既引人入勝又令人不安。評論家形容這個角色是對毫無原則的政治野心的精彩刻畫。這部劇已贏得無數獎項。",
         "lookup": {
-          "english": "excessively concerned with minor rules and details.",
-          "chinese": "迂腐的；賣弄學問的"
+          "english": "cunning, governed by opportunity rather than principle.",
+          "chinese": "不擇手段的；權謀的"
+        }
+      },
+      {
+        "word": "unconscionable",
+        "pos": "adj.",
+        "definition": "unreasonable, unjust, shocking to the conscience.",
+        "memoryChant": "un- (not) + con- (with) + scire (to know) → 'Without a conscience—unconscionable!'",
+        "chinese": "沒良心的；不合理的",
+        "synonyms": "outrageous, unjust, indefensible",
+        "image": "cup",
+        "sentence": "Consumer groups described the pharmacy's decision to triple the price of a life-saving medicine during a health emergency as completely __________. Patients who depended on the drug suddenly could not afford their treatment, and some were forced to skip doses. Lawmakers condemned the price increase as morally indefensible and introduced legislation to prevent similar exploitation. Under intense public pressure, the pharmacy eventually reduced its prices and apologized to affected customers.",
+        "translation": "消費者團體形容這家藥局在衛生緊急狀況期間將救命藥物的價格提高三倍，是完全沒有良心的決定。依賴這種藥物的病患突然負擔不起治療費用，有些人被迫減少服藥次數。立法者譴責這次漲價在道德上站不住腳，並提出法案以防止類似的剝削行為。在強大的輿論壓力下，這家藥局最終調降價格，並向受影響的顧客道歉。",
+        "lookup": {
+          "english": "unreasonable, unjust, shocking to the conscience.",
+          "chinese": "沒良心的；不合理的"
+        }
+      },
+      {
+        "word": "pandemonium",
+        "pos": "n.",
+        "definition": "disorder, uproar.",
+        "memoryChant": "pan- (all) + daimon (demon) → 'All the demons let loose—pandemonium!'",
+        "chinese": "大混亂；喧囂",
+        "synonyms": "chaos, uproar, bedlam",
+        "image": "crack",
+        "sentence": "__________ broke out in the stadium when the home team scored the winning goal in the final seconds of the championship match. Fans leaped over barriers, strangers hugged each other, and firecrackers exploded throughout the stands. Security guards struggled to control the celebrating crowd that rushed onto the field. The joyful chaos continued in the streets for hours, as drivers honked their horns and residents danced outside their homes. Nobody slept much that night.",
+        "translation": "當地主隊在冠軍賽最後幾秒踢進致勝一球時，體育場內頓時陷入一片狂亂。球迷們跳過護欄，陌生人互相擁抱，看台上鞭炮四處炸響。保全人員難以控制衝進場內慶祝的人群。這場歡樂的混亂在街頭持續了好幾個小時，駕駛們猛按喇叭，居民們在家門外跳起舞來。那天晚上幾乎沒有人睡得著。",
+        "lookup": {
+          "english": "disorder, uproar.",
+          "chinese": "大混亂；喧囂"
+        }
+      },
+      {
+        "word": "flay",
+        "pos": "v.",
+        "definition": "to strip off the skin; to scold harshly.",
+        "memoryChant": "flan (to strip) → 'Strip someone raw with words—flay!'",
+        "chinese": "剝皮；嚴厲批評",
+        "synonyms": "criticize, lambaste, condemn",
+        "image": "rings",
+        "sentence": "Theater critics did not hesitate to __________ the expensive new musical, describing its songs as forgettable, its plot as confusing, and its lead performances as painfully stiff. One reviewer called it the worst production he had seen in thirty years. The harsh criticism spread quickly online, and ticket sales collapsed within a week. The producers closed the show early, admitting that the brutal reviews had made recovery impossible. The composer vowed to try again.",
+        "translation": "劇評家毫不留情地嚴厲抨擊這部昂貴的新音樂劇，形容其歌曲毫無記憶點、劇情混亂不清，主角的表演更是僵硬得令人難受。一位評論家稱它是他三十年來看過最糟糕的製作。這些嚴厲的批評迅速在網路上傳開，票房在一週內崩盤。製作人提前結束演出，並承認這些無情的評論讓該劇無法挽回。作曲家誓言要捲土重來。",
+        "lookup": {
+          "english": "to strip off the skin; to scold harshly.",
+          "chinese": "剝皮；嚴厲批評"
+        }
+      },
+      {
+        "word": "demeanor",
+        "pos": "n.",
+        "definition": "conduct, bearing, outward manner.",
+        "memoryChant": "de- (completely) + mener (to lead) → 'How you lead yourself—demeanor!'",
+        "chinese": "舉止；風度",
+        "synonyms": "manner, bearing, conduct",
+        "image": "scatter",
+        "sentence": "The new teacher's friendly __________ put nervous students at ease on the first day of school. She greeted each child with a warm smile, spoke gently, and listened patiently when they described their summer vacations. Parents noticed that even shy children seemed eager to attend her class. Her calm, cheerful behavior created a welcoming atmosphere that encouraged students to ask questions and participate actively throughout the year. She was later named teacher of the year.",
+        "translation": "新老師親切的舉止讓緊張的學生們在開學第一天就放鬆下來。她以溫暖的微笑迎接每個孩子，說話溫柔，並耐心聆聽他們描述自己的暑假。家長們注意到，即使是害羞的孩子也似乎很期待上她的課。她沉穩開朗的態度營造出友善的氛圍，鼓勵學生整年都積極提問與參與。她後來獲選為年度最佳教師。",
+        "lookup": {
+          "english": "conduct, bearing, outward manner.",
+          "chinese": "舉止；風度"
+        }
+      },
+      {
+        "word": "delineation",
+        "pos": "n.",
+        "definition": "sketch, description in words or lines.",
+        "memoryChant": "de- (out) + linea (line) → 'Drawing out the lines—delineation!'",
+        "chinese": "描繪；描述；輪廓",
+        "synonyms": "depiction, portrayal, outline",
+        "image": "eraser",
+        "sentence": "The novelist's careful __________ of the main character's inner thoughts allowed readers to understand her motivations deeply. Through detailed descriptions of her memories, fears, and hopes, the author created a portrait so vivid that many readers felt they personally knew her. Literature professors frequently use the book to demonstrate how skillful character description can transform a simple plot into a powerful and emotionally complex story. It has been translated into twenty languages.",
+        "translation": "這位小說家對主角內心想法的細膩描繪，讓讀者能深入理解她的動機。透過對她的回憶、恐懼與希望的詳盡描述，作者塑造出一個如此鮮活的形象，讓許多讀者覺得自己彷彿真的認識她。文學教授經常以這本書來說明，高明的人物描寫如何能將簡單的情節轉化為一個強而有力、情感複雜的故事。這本書已被翻譯成二十種語言。",
+        "lookup": {
+          "english": "sketch, description in words or lines.",
+          "chinese": "描繪；描述；輪廓"
+        }
+      },
+      {
+        "word": "vindicate",
+        "pos": "v.",
+        "definition": "to clear of blame, justify.",
+        "memoryChant": "vim (force) + dicere (to say) → 'Say it with force: you were right—vindicate!'",
+        "chinese": "證明清白；證明…正確",
+        "synonyms": "exonerate, justify, clear",
+        "image": "rings",
+        "sentence": "The scientist's controversial prediction was mocked by colleagues for years, but new satellite data finally helped __________ her theory about melting glaciers. Measurements showed that ice sheets were disappearing exactly as she had calculated decades earlier. Researchers who had once dismissed her work publicly acknowledged their mistake. She was later awarded a prestigious international prize, and her once-rejected ideas now form the foundation of modern climate models. Her story now inspires young scientists everywhere.",
+        "translation": "這位科學家具爭議性的預測多年來一直遭同行嘲笑，但新的衛星資料終於證實了她關於冰河融化的理論。測量結果顯示，冰層正如她數十年前所計算的那樣在消失。曾經否定她研究的學者們公開承認了自己的錯誤。她後來獲頒一項享有盛譽的國際大獎，而她曾被否定的想法，如今已成為現代氣候模型的基礎。她的故事如今激勵著各地的年輕科學家。",
+        "lookup": {
+          "english": "to clear of blame, justify.",
+          "chinese": "證明清白；證明…正確"
+        }
+      },
+      {
+        "word": "heinous",
+        "pos": "adj.",
+        "definition": "hatefully evil, shockingly wicked.",
+        "memoryChant": "haine (hatred) → 'Worthy of hatred—heinous!'",
+        "chinese": "十惡不赦的；極其可憎的",
+        "synonyms": "atrocious, monstrous, abominable",
+        "image": "table",
+        "sentence": "The judge described the defendant's crimes as truly __________, noting that he had deliberately defrauded hundreds of elderly retirees of their life savings while pretending to be their trusted financial advisor. Many victims had lost their homes and could no longer afford medical care. The judge imposed the maximum sentence, explaining that such shockingly wicked behavior, targeting the most vulnerable members of society, deserved the strongest possible punishment. Victims applauded the decision.",
+        "translation": "法官形容被告的罪行實在是十惡不赦，並指出他假扮成值得信賴的理財顧問，蓄意詐騙了數百名年長退休人士的畢生積蓄。許多受害者失去了房子，再也負擔不起醫療費用。法官判處最重的刑罰，並解釋說，這種鎖定社會中最弱勢族群、令人震驚的邪惡行為，理應受到最嚴厲的懲罰。受害者們對此判決報以掌聲。",
+        "lookup": {
+          "english": "hatefully evil, shockingly wicked.",
+          "chinese": "十惡不赦的；極其可憎的"
+        }
+      },
+      {
+        "word": "turpitude",
+        "pos": "n.",
+        "definition": "vileness, wickedness.",
+        "memoryChant": "turpis (base, vile) → 'Vile and base behavior—turpitude!'",
+        "chinese": "卑鄙；墮落",
+        "synonyms": "depravity, wickedness, corruption",
+        "image": "burst",
+        "sentence": "The university dismissed the professor for moral __________ after investigators discovered that he had sold stolen examination papers to wealthy students for years. His actions betrayed the trust of colleagues, damaged the institution's reputation, and cheated honest students out of fair evaluation. Legal experts explained that employment contracts often allow immediate termination for such serious wickedness, since it undermines the fundamental values an organization is supposed to represent. Several students were also expelled.",
+        "translation": "在調查人員發現這名教授多年來一直將偷來的考卷賣給富有的學生後，大學以道德敗壞為由將他解聘。他的行為辜負了同事的信任，損害了學校的聲譽，也剝奪了誠實學生接受公平評量的權利。法律專家解釋，僱傭契約通常允許因這類嚴重的惡行而立即解僱，因為它破壞了一個組織應該代表的基本價值。數名學生也遭到退學。",
+        "lookup": {
+          "english": "vileness, wickedness.",
+          "chinese": "卑鄙；墮落"
+        }
+      },
+      {
+        "word": "infraction",
+        "pos": "n.",
+        "definition": "violation of a rule or law.",
+        "memoryChant": "in- (in) + frangere (to break) → 'Breaking a rule—infraction!'",
+        "chinese": "違規；違法",
+        "synonyms": "violation, offense, breach",
+        "image": "lamp",
+        "sentence": "The referee stopped the match after the player committed his third __________ of the game, deliberately tripping an opponent who was about to score. Under tournament rules, repeated violations result in automatic suspension. Although the player argued that the contact was accidental, video replay clearly showed otherwise. The league later fined him heavily and warned all teams that intentional breaches of the rules would be punished more severely in future.",
+        "translation": "在這名球員犯下本場比賽第三次犯規、蓄意絆倒一名即將得分的對手後，裁判中止了比賽。依照錦標賽規則，屢次違規將自動遭到禁賽。雖然這名球員辯稱接觸是意外，但影片重播清楚顯示並非如此。聯盟後來對他處以重罰，並警告所有球隊，未來蓄意違反規則將受到更嚴厲的懲處。",
+        "lookup": {
+          "english": "violation of a rule or law.",
+          "chinese": "違規；違法"
+        }
+      },
+      {
+        "word": "callous",
+        "pos": "adj.",
+        "definition": "unfeeling, insensitive.",
+        "memoryChant": "callus (hard skin) → 'Hard-skinned and unfeeling—callous!'",
+        "chinese": "冷酷無情的",
+        "synonyms": "heartless, insensitive, uncaring",
+        "image": "cup",
+        "sentence": "The landlord's __________ response shocked the tenants who had lost everything in the apartment fire. Instead of offering sympathy or temporary housing, he immediately demanded that they pay the remaining rent and remove their damaged belongings within two days. Neighbors who witnessed the conversation were horrified by his lack of compassion. Local newspapers reported the story, and community members quickly organized donations to help the families he had treated so heartlessly.",
+        "translation": "房東冷酷無情的反應讓在公寓火災中失去一切的房客們大為震驚。他非但沒有表示同情或提供臨時住所，反而立刻要求他們付清剩餘的房租，並在兩天內搬走受損的物品。目睹這段對話的鄰居們對他毫無同情心感到震驚。地方報紙報導了這則消息，社區居民迅速發起捐款，幫助這些遭他無情對待的家庭。",
+        "lookup": {
+          "english": "unfeeling, insensitive.",
+          "chinese": "冷酷無情的"
+        }
+      },
+      {
+        "word": "redress",
+        "pos": "v.",
+        "definition": "to right a wrong, remedy.",
+        "memoryChant": "re- (again) + drecier (to straighten) → 'Straighten it again—redress!'",
+        "chinese": "糾正；補償",
+        "synonyms": "remedy, rectify, compensate",
+        "image": "flag",
+        "sentence": "The government established a special commission to __________ injustices suffered by families whose land had been seized illegally during the martial law period. Officials reviewed thousands of documents, interviewed elderly survivors, and calculated appropriate compensation for each case. Although money could never fully repair the damage, many families welcomed the official apology and financial settlements. Historians described the process as an important step toward correcting past wrongs. The commission's work continues today.",
+        "translation": "政府成立了一個特別委員會，以彌補在戒嚴時期土地遭非法徵收的家庭所蒙受的不公。官員們審閱了數千份文件、訪談年長的倖存者，並為每個案件計算適當的賠償金額。雖然金錢永遠無法完全彌補傷害，許多家庭仍對官方的道歉與財務補償表示歡迎。歷史學家形容這個過程是糾正過去錯誤的重要一步。委員會的工作至今仍在持續。",
+        "lookup": {
+          "english": "to right a wrong, remedy.",
+          "chinese": "糾正；補償"
+        }
+      },
+      {
+        "word": "vituperation",
+        "pos": "n.",
+        "definition": "harsh blame, verbal abuse.",
+        "memoryChant": "vitium (fault) + parare (to prepare) → 'Preparing a list of faults to shout—vituperation!'",
+        "chinese": "謾罵；辱罵",
+        "synonyms": "abuse, invective, insults",
+        "image": "energy",
+        "sentence": "The online forum became so filled with __________ that the moderators finally decided to shut it down. Users who disagreed about politics had begun attacking each other with vicious insults, threats, and personal accusations rather than reasonable arguments. Many thoughtful members left the community entirely. The administrators explained that constructive discussion had become impossible in an atmosphere of constant abuse, and they introduced strict rules for a new, carefully monitored platform.",
+        "translation": "這個網路論壇充斥著大量謾罵，版主們最終決定將其關閉。政治立場不同的使用者開始以惡毒的侮辱、威脅與人身攻擊互相攻訐，而非提出合理的論點。許多理性的成員完全離開了這個社群。管理員解釋，在不斷的辱罵氛圍中，建設性的討論已不可能進行，於是他們為一個受到嚴格監管的新平台制定了嚴格的規則。",
+        "lookup": {
+          "english": "harsh blame, verbal abuse.",
+          "chinese": "謾罵；辱罵"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The conservation team's __________ survey of the archaeological site documented over three thousand individual artifacts with provenance notes, photographic records, and GPS coordinates, creating a reference archive that substantially exceeded the documentation standards typically applied to sites of comparable significance.",
+        "question": "The documentary chronicles the remarkable __________ of the explorers who spent three years crossing Antarctica on foot, enduring blizzards, crevasses, and severe food shortages. Their journey involved countless dramatic moments, from rescuing companions who fell through ice to surviving months of complete darkness. Viewers praised the film for capturing both the heroism and the suffering of the expedition. Critics called it an unforgettable epic of human endurance and courage. The film has since won several international awards.",
         "options": [
           {
             "letter": "A",
-            "text": "morose"
+            "text": "turpitude"
           },
           {
             "letter": "B",
-            "text": "meticulous"
+            "text": "saga"
           },
           {
             "letter": "C",
-            "text": "nonchalant"
+            "text": "infraction"
           },
           {
             "letter": "D",
-            "text": "mundane"
+            "text": "demeanor"
           }
         ],
         "answer": "B",
-        "answerWord": "meticulous"
+        "answerWord": "saga"
       },
       {
         "number": 2,
-        "question": "The department head maintained a characteristically __________ demeanor throughout the contentious budget negotiations, her apparent indifference to the heated exchanges around her concealing a precise situational awareness that she later credited as the key to identifying the compromise that resolved the impasse.",
+        "question": "The government's __________ apology for the environmental disaster came nearly twenty years after thousands of residents had been affected by contaminated water. Many victims had already died without hearing any official acknowledgment of their suffering. Survivors appreciated the gesture but criticized the long delay. They argued that an overdue apology, however sincere, could not replace the compensation and medical care that should have been provided decades earlier. The debate over accountability continues today.",
         "options": [
           {
             "letter": "A",
-            "text": "notorious"
+            "text": "callous"
           },
           {
             "letter": "B",
-            "text": "obstinate"
+            "text": "heinous"
           },
           {
             "letter": "C",
-            "text": "nonchalant"
+            "text": "belated"
           },
           {
             "letter": "D",
-            "text": "obdurate"
+            "text": "staunch"
           }
         ],
         "answer": "C",
-        "answerWord": "nonchalant"
+        "answerWord": "belated"
       },
       {
         "number": 3,
-        "question": "The __________ engineer insisted on verifying every calculation independently before signing off on the structural assessment, her refusal to rely on automated outputs alone ultimately identifying a critical load-bearing error that would have had catastrophic consequences had the building proceeded to construction.",
+        "question": "Engineers declared the __________ bridge unsafe after discovering rusted steel beams, crumbling concrete, and dangerous cracks along its supports. The structure had been built more than eighty years ago and had received little maintenance since. Authorities immediately closed it to traffic and began planning a replacement. Residents were relieved, since many had noticed the worn-out bridge shaking whenever heavy trucks crossed it during rush hour. Construction of the new bridge began the following year.",
         "options": [
           {
             "letter": "A",
-            "text": "meticulous"
+            "text": "decrepit"
           },
           {
             "letter": "B",
-            "text": "morose"
+            "text": "Machiavellian"
           },
           {
             "letter": "C",
-            "text": "mundane"
+            "text": "imperturbable"
           },
           {
             "letter": "D",
-            "text": "nonchalant"
+            "text": "belated"
           }
         ],
         "answer": "A",
-        "answerWord": "meticulous"
+        "answerWord": "decrepit"
       },
       {
         "number": 4,
-        "question": "The prosecutor detailed the __________ scheme in compelling terms, describing how the defendants had systematically exploited elderly victims over nearly three years, deliberately targeting those with cognitive vulnerabilities least capable of recognizing or reporting the predatory financial manipulation they were experiencing.",
+        "question": "The veteran pilot remained __________ when warning lights suddenly flashed across the cockpit during the storm. While passengers screamed and the aircraft shook violently, she calmly checked each instrument, communicated clearly with air traffic control, and guided the plane to a smooth landing. Investigators later praised her steady composure. Her colleagues said that nothing ever seemed to disturb her, no matter how frightening the situation became. Every passenger walked off the plane safely.",
         "options": [
           {
             "letter": "A",
-            "text": "nonchalant"
+            "text": "callous"
           },
           {
             "letter": "B",
-            "text": "notorious"
+            "text": "unconscionable"
           },
           {
             "letter": "C",
-            "text": "obdurate"
+            "text": "staunch"
           },
           {
             "letter": "D",
-            "text": "nefarious"
+            "text": "imperturbable"
           }
         ],
         "answer": "D",
-        "answerWord": "nefarious"
+        "answerWord": "imperturbable"
       },
       {
         "number": 5,
-        "question": "The novelist rarely attended public literary events — those who managed to engage him in substantive conversation discovering that his __________ public persona concealed a warmth and intellectual generosity his guardedness toward strangers entirely obscured from more casual acquaintances.",
+        "question": "Voters grew frustrated with the candidate who seemed to __________ on every major issue, supporting new taxes one week and opposing them the next. His constantly changing positions made it impossible to know what he truly believed. Rival campaigns released videos comparing his contradictory statements side by side. Political analysts concluded that his hesitation and inconsistency had cost him the trust of undecided voters in the final weeks. He eventually lost the election by a wide margin.",
         "options": [
           {
             "letter": "A",
-            "text": "mundane"
+            "text": "redress"
           },
           {
             "letter": "B",
-            "text": "morose"
+            "text": "vacillate"
           },
           {
             "letter": "C",
-            "text": "nonchalant"
+            "text": "vindicate"
           },
           {
             "letter": "D",
-            "text": "notorious"
+            "text": "flay"
           }
         ],
         "answer": "B",
-        "answerWord": "morose"
+        "answerWord": "vacillate"
       },
       {
         "number": 6,
-        "question": "The philosopher argued that genuine happiness required finding authentic meaning within __________ daily activities rather than perpetually deferring fulfillment to some imagined future achievement, this capacity to invest ordinary experience with genuine significance being the most reliable indicator of psychological maturity.",
+        "question": "Throughout the difficult trial, the defendant's sister remained his most __________ defender, attending every hearing and insisting publicly on his innocence. When friends and neighbors doubted him, she organized fundraising events to pay for his lawyers and gathered witnesses who could confirm his alibi. Her loyal, unwavering support never weakened. When he was finally found not guilty, he thanked her tearfully for standing firmly by his side. The two remain inseparable to this day.",
         "options": [
           {
             "letter": "A",
-            "text": "nefarious"
+            "text": "decrepit"
           },
           {
             "letter": "B",
-            "text": "notorious"
+            "text": "belated"
           },
           {
             "letter": "C",
-            "text": "mundane"
+            "text": "staunch"
           },
           {
             "letter": "D",
-            "text": "obdurate"
+            "text": "Machiavellian"
           }
         ],
         "answer": "C",
-        "answerWord": "mundane"
+        "answerWord": "staunch"
       },
       {
         "number": 7,
-        "question": "The experienced surgeon maintained a deliberately __________ demeanor during the most technically demanding phases of the complex procedure, having learned through decades of practice that projecting calm confidence significantly reduced anxiety in both the wider surgical team and her own nervous system.",
+        "question": "The famous athlete faced widespread __________ after admitting that he had cheated in several international competitions. Former fans burned his jersey, sponsors withdrew their contracts, and newspapers published harsh editorials condemning his dishonesty. Even children who had once admired him expressed disappointment. The public disgrace was so intense that he withdrew from public life entirely, eventually moving abroad to escape the constant criticism and scorn. He has never publicly competed again.",
         "options": [
           {
             "letter": "A",
-            "text": "nonchalant"
+            "text": "opprobrium"
           },
           {
             "letter": "B",
-            "text": "notorious"
+            "text": "demeanor"
           },
           {
             "letter": "C",
-            "text": "nefarious"
+            "text": "saga"
           },
           {
             "letter": "D",
-            "text": "obsequious"
+            "text": "delineation"
           }
         ],
         "answer": "A",
-        "answerWord": "nonchalant"
+        "answerWord": "opprobrium"
       },
       {
         "number": 8,
-        "question": "The district became __________ for chronic flooding following decades of inadequate stormwater infrastructure investment, local authorities repeatedly acknowledging the problem in planning documents while consistently failing to allocate the sustained funding necessary to implement the structural improvements engineers had recommended.",
+        "question": "The corporate executive was widely regarded as __________, willing to deceive partners, manipulate employees, and break promises whenever it advanced his personal ambitions. He secretly encouraged rivalries among his managers so that none could challenge his authority. Although his cunning strategies made the company extremely profitable, few colleagues trusted him. Business ethicists often cite his career as an example of success achieved without principles. His successor adopted a very different leadership style.",
         "options": [
           {
             "letter": "A",
-            "text": "obtuse"
+            "text": "belated"
           },
           {
             "letter": "B",
-            "text": "obdurate"
+            "text": "staunch"
           },
           {
             "letter": "C",
-            "text": "obstinate"
+            "text": "decrepit"
           },
           {
             "letter": "D",
-            "text": "notorious"
+            "text": "Machiavellian"
           }
         ],
         "answer": "D",
-        "answerWord": "notorious"
+        "answerWord": "Machiavellian"
       },
       {
         "number": 9,
-        "question": "The planning authority found the developer __________ in the face of significant community opposition and documented environmental concerns, declining to modify any element of the contested proposal and forcing a formal determination that resulted in refusal on grounds of incompatibility with the statutory development plan.",
+        "question": "Labor inspectors discovered that workers at the clothing factory were forced to work sixteen hours a day for wages far below the legal minimum, conditions that officials described as absolutely __________. Employees were locked inside the building and punished for taking breaks. Human rights organizations demanded immediate action against the owners. Global brands that purchased the clothing quickly ended their contracts, calling the treatment morally indefensible. Several owners were later arrested and prosecuted.",
         "options": [
           {
             "letter": "A",
-            "text": "obtuse"
+            "text": "imperturbable"
           },
           {
             "letter": "B",
-            "text": "obstinate"
+            "text": "belated"
           },
           {
             "letter": "C",
-            "text": "obdurate"
+            "text": "staunch"
           },
           {
             "letter": "D",
-            "text": "ostentatious"
+            "text": "unconscionable"
           }
         ],
-        "answer": "C",
-        "answerWord": "obdurate"
+        "answer": "D",
+        "answerWord": "unconscionable"
       },
       {
         "number": 10,
-        "question": "The assessment described the quarterly tax compliance requirements as deeply __________ for small enterprises, noting that the submission cycle required substantially more administrative time than the equivalent annual process and created disproportionate burdens relative to the regulatory objectives the framework was designed to achieve.",
+        "question": "When the fire alarm suddenly sounded during the crowded concert, __________ erupted as thousands of people rushed toward the exits at once. Some fans screamed, others pushed desperately through the crowd, and several people fell in the confusion. Security staff struggled to restore order and guide spectators safely outside. Fortunately, the alarm proved false, but the chaotic uproar led organizers to redesign the venue's emergency evacuation procedures. Nobody was seriously injured, fortunately.",
         "options": [
           {
             "letter": "A",
-            "text": "opaque"
+            "text": "delineation"
           },
           {
             "letter": "B",
-            "text": "obstinate"
+            "text": "pandemonium"
           },
           {
             "letter": "C",
-            "text": "onerous"
+            "text": "demeanor"
           },
           {
             "letter": "D",
-            "text": "obsequious"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "onerous"
-      },
-      {
-        "number": 11,
-        "question": "The junior associate's __________ behavior toward clients of perceived seniority was noticed immediately by the partner who had initially recommended her, who worried that the calculated attentiveness concealed a transactional approach to professional relationships that would ultimately undermine her long-term credibility.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "obsequious"
-          },
-          {
-            "letter": "B",
-            "text": "obstinate"
-          },
-          {
-            "letter": "C",
-            "text": "obtuse"
-          },
-          {
-            "letter": "D",
-            "text": "ostentatious"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "obsequious"
-      },
-      {
-        "number": 12,
-        "question": "The researcher's persistent failure to recognize clear signals of team frustration with his management style eventually prompted three of his most capable postdoctoral researchers to accept positions at competing institutions, his __________ response to obvious discontent regarded by colleagues as professionally inexplicable.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "obtuse"
-          },
-          {
-            "letter": "B",
-            "text": "obstinate"
-          },
-          {
-            "letter": "C",
-            "text": "obdurate"
-          },
-          {
-            "letter": "D",
-            "text": "opaque"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "obtuse"
-      },
-      {
-        "number": 13,
-        "question": "The financial regulator remained deeply __________ about the investment firm's reported returns, noting that the consistently extraordinary performance figures defied established market patterns and suggested either exceptional luck or potentially fraudulent manipulation of the reported data.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "notorious"
-          },
-          {
-            "letter": "B",
-            "text": "obdurate"
-          },
-          {
-            "letter": "C",
-            "text": "onerous"
-          },
-          {
-            "letter": "D",
-            "text": "opaque"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "notorious"
-      },
-      {
-        "number": 14,
-        "question": "The financial prospectus's deliberately __________ language made it effectively impossible for ordinary investors to assess the risk-adjusted return profile of the product, a characteristic the regulator subsequently cited as a material deficiency requiring mandatory revision before the offering could proceed to market.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "ostentatious"
-          },
-          {
-            "letter": "B",
-            "text": "obsequious"
-          },
-          {
-            "letter": "C",
-            "text": "obtuse"
-          },
-          {
-            "letter": "D",
-            "text": "opaque"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "opaque"
-      },
-      {
-        "number": 15,
-        "question": "The research group's leading authority proved utterly __________ when challenged by junior colleagues who presented compelling contradictory evidence, his refusal to engage with the data gradually depleting the intellectual diversity that had originally distinguished the laboratory's work and eventually contributing to several high-profile replication failures.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "nonchalant"
-          },
-          {
-            "letter": "B",
-            "text": "notorious"
-          },
-          {
-            "letter": "C",
-            "text": "obstinate"
-          },
-          {
-            "letter": "D",
-            "text": "onerous"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "obstinate"
-      },
-      {
-        "number": 16,
-        "question": "The competing firm's __________ display of newly acquired resources, including a prominent advertising campaign, a dramatic office relocation, and a high-profile series of executive hires, was interpreted by industry observers as a signal of strategic insecurity rather than genuine competitive confidence.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "onerous"
-          },
-          {
-            "letter": "B",
-            "text": "ostentatious"
-          },
-          {
-            "letter": "C",
-            "text": "obstinate"
-          },
-          {
-            "letter": "D",
-            "text": "obtuse"
+            "text": "infraction"
           }
         ],
         "answer": "B",
-        "answerWord": "ostentatious"
+        "answerWord": "pandemonium"
       },
       {
-        "number": 17,
-        "question": "The supplier's __________ refusal to implement any element of the agreed improvement plan, despite repeated documented warnings and multiple missed deadlines, ultimately left the manufacturer with no practical alternative to invoking the termination clause that both parties had hoped to avoid.",
+        "number": 11,
+        "question": "During the parliamentary hearing, opposition lawmakers took turns to __________ the minister for his handling of the flood crisis, criticizing him harshly for ignoring warnings and responding slowly. Several legislators accused him of incompetence and demanded his resignation. The minister sat silently as the fierce attacks continued for nearly three hours. Political observers described it as one of the most brutal public reprimands in recent memory. He resigned from his position the following week.",
         "options": [
           {
             "letter": "A",
-            "text": "nonchalant"
+            "text": "flay"
           },
           {
             "letter": "B",
-            "text": "notorious"
+            "text": "vacillate"
           },
           {
             "letter": "C",
-            "text": "obstinate"
+            "text": "redress"
           },
           {
             "letter": "D",
-            "text": "obtuse"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "obstinate"
-      },
-      {
-        "number": 18,
-        "question": "The seminar participants found the facilitator's __________ attention to procedural detail, repeatedly interrupting substantive discussion to correct minor formatting violations in participant presentations, more disruptive than beneficial to the intellectual quality of the session.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "pedantic"
-          },
-          {
-            "letter": "B",
-            "text": "nonchalant"
-          },
-          {
-            "letter": "C",
-            "text": "nefarious"
-          },
-          {
-            "letter": "D",
-            "text": "notorious"
+            "text": "vindicate"
           }
         ],
         "answer": "A",
-        "answerWord": "pedantic"
+        "answerWord": "flay"
       },
       {
-        "number": 19,
-        "question": "The __________ ambassador arrived at the reception without any visible anticipation, greeting foreign dignitaries with the same impassive courtesy she maintained in every professional context, her studied indifference to social hierarchies simultaneously unsettling to those who expected deference and reassuring to those who valued directness.",
+        "number": 12,
+        "question": "Detectives often pay close attention to a suspect's __________ during interviews, noting whether the person appears nervous, relaxed, defensive, or cooperative. Subtle behaviors, such as avoiding eye contact or fidgeting constantly, may suggest that someone is hiding information. However, experienced investigators caution that outward manner alone cannot prove guilt, since innocent people often behave anxiously when questioned by police in stressful situations. Experienced detectives therefore always seek additional evidence before drawing firm conclusions.",
         "options": [
           {
             "letter": "A",
-            "text": "nonchalant"
+            "text": "opprobrium"
           },
           {
             "letter": "B",
-            "text": "mundane"
+            "text": "demeanor"
           },
           {
             "letter": "C",
-            "text": "notorious"
+            "text": "pandemonium"
           },
           {
             "letter": "D",
-            "text": "nefarious"
+            "text": "turpitude"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "demeanor"
+      },
+      {
+        "number": 13,
+        "question": "The architect's precise __________ of the proposed museum, including detailed drawings of every gallery, staircase, and window, impressed the selection committee. Her plans showed exactly how visitors would move through the building and how natural light would illuminate each exhibition space. Committee members said the clear outline allowed them to imagine the finished museum vividly. Her design was selected unanimously from among forty international submissions. Construction began just six months later.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "delineation"
+          },
+          {
+            "letter": "B",
+            "text": "vituperation"
+          },
+          {
+            "letter": "C",
+            "text": "opprobrium"
+          },
+          {
+            "letter": "D",
+            "text": "saga"
           }
         ],
         "answer": "A",
-        "answerWord": "nonchalant"
+        "answerWord": "delineation"
       },
       {
-        "number": 20,
-        "question": "The administrator's behavior at professional events, constantly referencing credentials in casual conversation, introducing himself with full title in informal contexts, and redirecting every discussion toward personal achievements, struck colleagues as __________ rather than professionally impressive.",
+        "number": 14,
+        "question": "After spending twelve years in prison for a robbery he did not commit, the man was finally released when DNA evidence helped __________ him completely. The genetic testing proved that another person had committed the crime. His lawyers held a press conference celebrating the decision that cleared his name. Legal reform advocates used his case to argue for greater access to modern forensic testing in older criminal convictions. He later received substantial financial compensation from the state.",
         "options": [
           {
             "letter": "A",
-            "text": "opaque"
+            "text": "vacillate"
           },
           {
             "letter": "B",
-            "text": "obtuse"
+            "text": "redress"
           },
           {
             "letter": "C",
-            "text": "nonchalant"
+            "text": "flay"
           },
           {
             "letter": "D",
-            "text": "ostentatious"
+            "text": "vindicate"
           }
         ],
         "answer": "D",
-        "answerWord": "ostentatious"
+        "answerWord": "vindicate"
+      },
+      {
+        "number": 15,
+        "question": "International courts exist to prosecute leaders responsible for the most __________ crimes, including genocide and deliberate attacks on civilians during wartime. These atrocities shock the conscience of humanity and violate fundamental principles of international law. Prosecutors gather testimony from survivors, documents, and physical evidence to build their cases. Supporters argue that holding perpetrators accountable for such monstrous acts helps prevent future violence and brings justice to victims. Such trials often last for many years.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "belated"
+          },
+          {
+            "letter": "B",
+            "text": "staunch"
+          },
+          {
+            "letter": "C",
+            "text": "heinous"
+          },
+          {
+            "letter": "D",
+            "text": "imperturbable"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "heinous"
+      },
+      {
+        "number": 16,
+        "question": "Voters were shocked when investigators revealed evidence of deep moral __________ within the city government, including officials who accepted bribes, stole public funds, and threatened witnesses. The corruption had continued secretly for more than a decade. Citizens organized protests demanding the resignation of everyone involved. Legal experts said the wickedness uncovered by the investigation was among the worst they had encountered in municipal politics. Several officials were eventually sentenced to prison.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "saga"
+          },
+          {
+            "letter": "B",
+            "text": "turpitude"
+          },
+          {
+            "letter": "C",
+            "text": "demeanor"
+          },
+          {
+            "letter": "D",
+            "text": "delineation"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "turpitude"
+      },
+      {
+        "number": 17,
+        "question": "Although the student's late arrival was only a minor __________ of school rules, the principal insisted on recording it in his file because it was his tenth tardiness that semester. Repeated violations, she explained, suggested a pattern of carelessness that needed correction. The student's parents met with the principal to discuss solutions. Together they created a plan to help him wake earlier and arrive punctually each morning. His attendance improved dramatically within a month.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "pandemonium"
+          },
+          {
+            "letter": "B",
+            "text": "vituperation"
+          },
+          {
+            "letter": "C",
+            "text": "infraction"
+          },
+          {
+            "letter": "D",
+            "text": "opprobrium"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "infraction"
+      },
+      {
+        "number": 18,
+        "question": "Viewers were outraged by the reality show contestant's __________ remarks about homeless people, whom he mockingly described as lazy and undeserving of help. His complete lack of empathy shocked audiences, and thousands demanded that he be removed from the program. The network eventually edited his comments out of future broadcasts. Charity organizations used the controversy to raise awareness about the genuine struggles faced by people without homes. He later issued a public apology.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "callous"
+          },
+          {
+            "letter": "B",
+            "text": "decrepit"
+          },
+          {
+            "letter": "C",
+            "text": "belated"
+          },
+          {
+            "letter": "D",
+            "text": "staunch"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "callous"
+      },
+      {
+        "number": 19,
+        "question": "The airline promised to __________ the problems experienced by passengers whose flights had been canceled without warning during the holiday season. It offered full refunds, free hotel accommodations, and vouchers for future travel. Customer service representatives personally contacted thousands of affected travelers to apologize. Consumer advocates said the company's efforts to correct its mistakes were unusually generous and could restore customer trust over time. Most affected passengers warmly praised the response.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "redress"
+          },
+          {
+            "letter": "B",
+            "text": "vindicate"
+          },
+          {
+            "letter": "C",
+            "text": "vacillate"
+          },
+          {
+            "letter": "D",
+            "text": "flay"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "redress"
+      },
+      {
+        "number": 20,
+        "question": "The celebrity's angry social media post, filled with __________ against journalists who had criticized her latest film, quickly attracted millions of views. She called reviewers stupid, jealous, and dishonest, using language many readers found shockingly offensive. Her publicist urged her to delete the post, but the damage had already been done. Media experts noted that responding to criticism with personal insults rarely improves a public figure's reputation. She deleted it the next morning.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "delineation"
+          },
+          {
+            "letter": "B",
+            "text": "saga"
+          },
+          {
+            "letter": "C",
+            "text": "demeanor"
+          },
+          {
+            "letter": "D",
+            "text": "vituperation"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "vituperation"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "meticulous": [
-    "showing great attention to detail; very careful.",
-    "一絲不苟的；細心的"
+  "saga": [
+    "long heroic story.",
+    "傳奇；長篇故事"
   ],
-  "misanthrope": [
-    "a person who dislikes and distrusts other people.",
-    "厭世者；憎恨人類者"
+  "belated": [
+    "late, delayed.",
+    "遲來的"
   ],
-  "mitigate": [
-    "to make less severe or serious.",
-    "緩和；減輕"
+  "decrepit": [
+    "broken down, worn out.",
+    "衰老的；破舊的"
   ],
-  "mollify": [
-    "to appease the anger of someone.",
-    "安撫；使平靜"
+  "imperturbable": [
+    "calm, steady, serene.",
+    "鎮定的；泰然自若的"
   ],
-  "morose": [
-    "sullen and ill-tempered.",
-    "陰鬱的；悶悶不樂的"
+  "vacillate": [
+    "to hesitate, fluctuate.",
+    "猶豫不決；搖擺"
   ],
-  "mundane": [
-    "lacking interest or excitement; ordinary.",
-    "平凡的；世俗的"
+  "staunch": [
+    "strong, trusty, firm.",
+    "堅定的；忠誠的"
   ],
-  "nefarious": [
-    "wicked and criminal; evil.",
-    "邪惡的；罪惡的"
+  "opprobrium": [
+    "scorn, insult, public disgrace.",
+    "恥辱；公開的譴責"
   ],
-  "nonchalant": [
-    "appearing casually calm and relaxed.",
-    "漫不經心的；若無其事的"
+  "Machiavellian": [
+    "cunning, governed by opportunity rather than principle.",
+    "不擇手段的；權謀的"
   ],
-  "notorious": [
-    "famous or well-known for a bad quality.",
-    "臭名昭著的；聲名狼藉的"
+  "unconscionable": [
+    "unreasonable, unjust, shocking to the conscience.",
+    "沒良心的；不合理的"
   ],
-  "obdurate": [
-    "stubbornly refusing to change one's opinion.",
-    "頑固的；執拗的"
+  "pandemonium": [
+    "disorder, uproar.",
+    "大混亂；喧囂"
   ],
-  "obsequious": [
-    "excessively submissive and compliant.",
-    "諂媚的；奴顏婢膝的"
+  "flay": [
+    "to strip off the skin; to scold harshly.",
+    "剝皮；嚴厲批評"
   ],
-  "obstinate": [
-    "stubbornly refusing to change; pigheaded.",
-    "固執的；倔強的"
+  "demeanor": [
+    "conduct, bearing, outward manner.",
+    "舉止；風度"
   ],
-  "obtuse": [
-    "annoyingly insensitive or slow to understand.",
-    "遲鈍的；不敏感的"
+  "delineation": [
+    "sketch, description in words or lines.",
+    "描繪；描述；輪廓"
   ],
-  "onerous": [
-    "involving heavy obligations; burdensome.",
-    "繁重的；苦楚的"
+  "vindicate": [
+    "to clear of blame, justify.",
+    "證明清白；證明…正確"
   ],
-  "opaque": [
-    "not clearly understood; hard to see through.",
-    "不透明的；晦澀難懂的"
+  "heinous": [
+    "hatefully evil, shockingly wicked.",
+    "十惡不赦的；極其可憎的"
   ],
-  "ostracize": [
-    "to exclude from a society or group.",
-    "排斥；放逐"
+  "turpitude": [
+    "vileness, wickedness.",
+    "卑鄙；墮落"
   ],
-  "ostentatious": [
-    "designed to impress through conspicuous display.",
-    "炫耀的；賣弄的"
+  "infraction": [
+    "violation of a rule or law.",
+    "違規；違法"
   ],
-  "paucity": [
-    "the presence of something in only small amounts.",
-    "缺乏；少量"
+  "callous": [
+    "unfeeling, insensitive.",
+    "冷酷無情的"
   ],
-  "pedantic": [
-    "excessively concerned with minor rules and details.",
-    "迂腐的；賣弄學問的"
+  "redress": [
+    "to right a wrong, remedy.",
+    "糾正；補償"
+  ],
+  "vituperation": [
+    "harsh blame, verbal abuse.",
+    "謾罵；辱罵"
   ]
 });

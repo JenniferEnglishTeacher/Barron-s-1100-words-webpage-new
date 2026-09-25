@@ -3,850 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 31",
     "cards": [
       {
-        "word": "abridge",
-        "pos": "v.",
-        "definition": "to shorten by condensing.",
-        "chinese": "縮短；刪節",
-        "synonyms": "condense, abbreviate, curtail",
-        "image": "eraser",
-        "sentence": "The editor decided to __________ the lengthy manuscript, removing repetitive sections and trimming verbose passages to make the work more accessible to general readers. Critics praised the condensed version, noting that the essential arguments remained intact while the overall structure became far more coherent and concise for a broader scholarly audience.",
-        "translation": "編輯決定刪節這份冗長的手稿，刪除重複的段落並精簡囉唆的文句，使作品對一般讀者更易理解。評論家讚揚了這個縮短版本，指出核心論點仍然完整，而整體結構對更廣泛的學術讀者而言也變得更為清晰簡潔。",
-        "lookup": {
-          "english": "to shorten by condensing.",
-          "chinese": "縮短；刪節"
-        }
-      },
-      {
-        "word": "acrimonious",
-        "pos": "adj.",
-        "definition": "bitter and sharp in manner or speech.",
-        "chinese": "尖刻的；充滿敵意的",
-        "synonyms": "caustic, vitriolic, contentious",
-        "image": "warning",
-        "sentence": "The __________ dispute between the two scholars dominated the academic conference, with each delivering sharp rebukes and pointed criticisms of the other's methodology. Observers noted that the increasingly hostile exchange undermined the collegial atmosphere that had previously characterized the institution's annual gathering of distinguished researchers and practitioners.",
-        "translation": "兩位學者之間的尖刻爭論主導了這場學術研討會，雙方都對對方的研究方法提出犀利的駁斥與批評。觀察者指出，這場日益激烈的交鋒破壞了該機構年度知名研究人員與從業者聚會中一向友好的氛圍。",
-        "lookup": {
-          "english": "bitter and sharp in manner or speech.",
-          "chinese": "尖刻的；充滿敵意的"
-        }
-      },
-      {
-        "word": "acumen",
+        "word": "heresy",
         "pos": "n.",
-        "definition": "keen insight and practical wisdom.",
-        "chinese": "敏銳；洞察力",
-        "synonyms": "shrewdness, discernment, astuteness",
+        "definition": "a belief that goes against accepted doctrine.",
+        "memoryChant": "hairesis (choice) → 'Choosing against the church—heresy!'",
+        "chinese": "異端；邪說",
+        "synonyms": "blasphemy, dissent, unorthodoxy",
         "image": "rings",
-        "sentence": "Her financial __________ became evident when she identified an undervalued sector months before other analysts recognized its potential. Colleagues attributed her remarkable foresight to years of rigorous study combined with an intuitive ability to perceive subtle market patterns that eluded even the most experienced professionals in the competitive investment industry.",
-        "translation": "她的財務敏銳度在她比其他分析師提前數個月發現一個被低估的行業時變得顯而易見。同事們將她非凡的遠見歸因於多年嚴格的學習，加上一種直覺能力，能察覺即使是競爭激烈的投資行業中最有經驗的專業人士也無法感知的細微市場規律。",
+        "sentence": "In the seventeenth century, Galileo's claim that the Earth revolved around the Sun was condemned as __________ by church authorities, who regarded any challenge to established doctrine as a grave offense. Forced to recant publicly, the elderly astronomer spent his final years under house arrest. Today, historians cite his trial as a sobering reminder that ideas once denounced as dangerous deviations from orthodoxy may later be recognized as fundamental scientific truths.",
+        "translation": "十七世紀時，伽利略主張地球繞太陽運行，被教會當局譴責為異端邪說，他們將任何挑戰既定教義的行為視為嚴重罪行。這位年邁的天文學家被迫公開撤回主張，晚年在軟禁中度過。如今，歷史學家以他的審判作為警世案例：曾被斥為危險背離正統的思想，日後可能被公認為基本的科學真理。",
         "lookup": {
-          "english": "keen insight and practical wisdom.",
-          "chinese": "敏銳；洞察力"
+          "english": "a belief that goes against accepted doctrine.",
+          "chinese": "異端；邪說"
         }
       },
       {
-        "word": "adulation",
-        "pos": "n.",
-        "definition": "excessive admiration or flattery.",
-        "chinese": "過分奉承；諂媚",
-        "synonyms": "flattery, veneration, idolization",
-        "image": "mountain",
-        "sentence": "The crowd's __________ for the celebrated performer was overwhelming, with thousands of devoted followers chanting her name and showering the stage with flowers. Journalists noted that such fervent admiration, while touching, risked distorting the public's perception of her actual artistic contributions to the broader cultural landscape.",
-        "translation": "人群對這位著名表演者的過分崇拜令人不知所措，數千名忠實粉絲高呼她的名字，並向舞台投擲花朵。記者指出，這種熱烈的崇拜雖然令人感動，但有可能扭曲公眾對她對更廣泛文化景觀的實際藝術貢獻的看法。",
-        "lookup": {
-          "english": "excessive admiration or flattery.",
-          "chinese": "過分奉承；諂媚"
-        }
-      },
-      {
-        "word": "allay",
-        "pos": "v.",
-        "definition": "to reduce fear or concern; to relieve.",
-        "chinese": "減輕；緩和（恐懼或憂慮）",
-        "synonyms": "soothe, mitigate, assuage",
-        "image": "cup",
-        "sentence": "The physician worked carefully to __________ the patient's anxiety about the procedure by explaining each step in clear, accessible language. Her calm demeanor and thorough explanations proved remarkably effective, transforming a visibly apprehensive individual into someone who approached the forthcoming treatment with considerably greater composure and confidence.",
-        "translation": "醫生仔細地用清晰易懂的語言解釋每個步驟，努力緩解患者對手術的焦慮。她冷靜的態度和詳細的解釋證明非常有效，將一個明顯緊張的人轉變為以相當大的沉著和信心面對即將到來的治療的人。",
-        "lookup": {
-          "english": "to reduce fear or concern; to relieve.",
-          "chinese": "減輕；緩和（恐懼或憂慮）"
-        }
-      },
-      {
-        "word": "altercation",
-        "pos": "n.",
-        "definition": "a noisy, heated quarrel.",
-        "chinese": "爭吵；口角",
-        "synonyms": "quarrel, dispute, confrontation",
-        "image": "fire",
-        "sentence": "A heated __________ erupted between the two vendors at the crowded marketplace, drawing a large audience of bewildered onlookers who watched the increasingly volatile exchange. Security personnel intervened swiftly before the verbal confrontation could escalate into physical conflict, successfully restoring order to the previously tranquil commercial district.",
-        "translation": "兩名攤販在擁擠的市場爆發了一場激烈的爭吵，吸引了大批困惑的旁觀者目睹這場越來越激烈的對峙。安保人員迅速介入，阻止了口頭衝突升級為肢體衝突，成功恢復了之前平靜的商業區秩序。",
-        "lookup": {
-          "english": "a noisy, heated quarrel.",
-          "chinese": "爭吵；口角"
-        }
-      },
-      {
-        "word": "ameliorate",
-        "pos": "v.",
-        "definition": "to make better; to improve a bad situation.",
-        "chinese": "改善；改進",
-        "synonyms": "improve, alleviate, rectify",
-        "image": "energy",
-        "sentence": "Government officials introduced a comprehensive series of policies designed to __________ living conditions in the most impoverished urban districts. Sociologists monitoring the initiative observed gradual but measurable progress across multiple indicators, including reduced unemployment rates, improved access to healthcare, and enhanced educational opportunities for previously underserved communities.",
-        "translation": "政府官員推出了一系列全面政策，旨在改善最貧困城市地區的生活條件。監測該計劃的社會學家觀察到多項指標的逐步但可衡量的進展，包括失業率下降、醫療保健普及程度提高，以及為以前服務不足的社區提供更好的教育機會。",
-        "lookup": {
-          "english": "to make better; to improve a bad situation.",
-          "chinese": "改善；改進"
-        }
-      },
-      {
-        "word": "anachronism",
-        "pos": "n.",
-        "definition": "something misplaced in time.",
-        "chinese": "時代錯誤；不符合時代的事物",
-        "synonyms": "anomaly, incongruity, archaism",
-        "image": "cup",
-        "sentence": "The historian identified the detailed wristwatch visible in the painted portrait as a glaring __________, since the artwork was supposedly created three centuries before such timepieces existed. This single inconsistency raised serious doubts about the painting's authenticity and prompted a thorough forensic investigation by museum experts and independent scholars.",
-        "translation": "歷史學家發現畫像中清晰可見的精緻手錶是一個明顯的時代錯誤，因為這幅畫據說是在這類計時器存在之前三個世紀創作的。這一單一矛盾對這幅畫的真實性產生了嚴重懷疑，並促使博物館專家和獨立學者進行了徹底的法醫調查。",
-        "lookup": {
-          "english": "something misplaced in time.",
-          "chinese": "時代錯誤；不符合時代的事物"
-        }
-      },
-      {
-        "word": "anarchy",
-        "pos": "n.",
-        "definition": "absence of government; disorder and lawlessness.",
-        "chinese": "無政府狀態；混亂",
-        "synonyms": "chaos, disorder, lawlessness",
-        "image": "fire",
-        "sentence": "Following the collapse of the central government, the region descended into __________, with rival factions competing violently for territorial control. International observers expressed urgent concern as essential services deteriorated rapidly and civilian populations faced mounting hardship without any functioning institutions capable of maintaining basic security or providing humanitarian assistance.",
-        "translation": "中央政府崩潰後，該地區陷入無政府狀態，各對立派系為爭奪領土控制權而激烈競爭。國際觀察員表達了緊迫的關切，隨著基本服務迅速惡化，平民百姓面臨日益嚴峻的困境，沒有任何運作中的機構能夠維持基本安全或提供人道主義援助。",
-        "lookup": {
-          "english": "absence of government; disorder and lawlessness.",
-          "chinese": "無政府狀態；混亂"
-        }
-      },
-      {
-        "word": "antithesis",
-        "pos": "n.",
-        "definition": "the direct opposite; contrast of ideas.",
-        "chinese": "對立面；對比",
-        "synonyms": "opposite, contrast, contradiction",
-        "image": "rubble",
-        "sentence": "The candidate's aggressive campaign rhetoric proved to be the complete __________ of the collaborative approach he had promised during his earlier political career. Disillusioned supporters found this stark contradiction between his stated principles and actual conduct deeply troubling, prompting widespread criticism from both political allies and former admirers.",
-        "translation": "這位候選人激進的競選言論被證明與他在早期政治生涯中承諾的協作方式完全相反。幻滅的支持者發現他所聲明的原則與實際行為之間的這種鮮明矛盾令人深感不安，引發了政治盟友和昔日崇拜者的廣泛批評。",
-        "lookup": {
-          "english": "the direct opposite; contrast of ideas.",
-          "chinese": "對立面；對比"
-        }
-      },
-      {
-        "word": "apathy",
-        "pos": "n.",
-        "definition": "lack of interest or emotion.",
-        "chinese": "冷漠；漠不關心",
-        "synonyms": "indifference, lethargy, dispassion",
-        "image": "scatter",
-        "sentence": "Civic leaders expressed deep frustration at the widespread __________ among eligible voters, noting that only a fraction of registered citizens had participated in the most recent local elections. Researchers attributed this troubling pattern of disengagement to eroding trust in institutional processes and a pervasive sense that individual participation yielded negligible influence.",
-        "translation": "公民領袖對合格選民中普遍存在的冷漠感到深深沮喪，指出只有一小部分登記公民參與了最近一次地方選舉。研究人員將這種令人不安的脫離模式歸因於對制度程序信任的侵蝕，以及個人參與幾乎沒有影響力的普遍感受。",
-        "lookup": {
-          "english": "lack of interest or emotion.",
-          "chinese": "冷漠；漠不關心"
-        }
-      },
-      {
-        "word": "appease",
-        "pos": "v.",
-        "definition": "to pacify by yielding to demands.",
-        "chinese": "安撫；平息（尤指讓步）",
-        "synonyms": "pacify, placate, mollify",
-        "image": "small",
-        "sentence": "Diplomatic negotiators attempted to __________ the aggrieved nation by offering substantial economic concessions and formal expressions of regret. However, historians later argued that this strategy ultimately emboldened rather than satisfied the opposing party, whose subsequent demands grew progressively more unreasonable with each successive round of negotiations.",
-        "translation": "外交談判代表試圖通過提供重大經濟讓步和正式表達遺憾來安撫這個憤憤不平的國家。然而，歷史學家後來認為，這一策略最終激勵而非滿足了對方，其後續要求在每一輪讓步談判中都變得越來越不合理。",
-        "lookup": {
-          "english": "to pacify by yielding to demands.",
-          "chinese": "安撫；平息（尤指讓步）"
-        }
-      },
-      {
-        "word": "apprise",
-        "pos": "v.",
-        "definition": "to inform or give notice.",
-        "chinese": "通知；告知",
-        "synonyms": "inform, notify, advise",
-        "image": "regret",
-        "sentence": "The supervisor was careful to __________ all team members of the significant policy changes before the formal announcement reached the broader organization. This proactive communication strategy helped prevent confusion, allowed employees adequate time to prepare appropriate responses, and demonstrated the management's genuine commitment to transparent and respectful workplace practices.",
-        "translation": "主管在正式公告傳達至整個組織之前，謹慎地通知所有團隊成員重大政策變化。這種積極主動的溝通策略有助於防止混亂，讓員工有足夠的時間準備適當的回應，並展示了管理層對透明和尊重職場實踐的真誠承諾。",
-        "lookup": {
-          "english": "to inform or give notice.",
-          "chinese": "通知；告知"
-        }
-      },
-      {
-        "word": "arbitrary",
+        "word": "prudent",
         "pos": "adj.",
-        "definition": "based on random choice rather than reason.",
-        "chinese": "任意的；專斷的",
-        "synonyms": "capricious, random, discretionary",
-        "image": "scatter",
-        "sentence": "The committee's __________ selection process drew sharp criticism from applicants who found the criteria inconsistent and the decision-making opaque. Legal scholars argued that such unpredictable administrative procedures undermined public confidence in institutional fairness and created fertile conditions for potential bias or preferential treatment of certain individuals.",
-        "translation": "委員會任意的選拔過程引發了申請者的強烈批評，他們發現標準前後矛盾，決策過程不透明。法律學者認為，這種不可預測的行政程序削弱了公眾對制度公正性的信心，並為某些個人的潛在偏見或優待創造了滋生條件。",
-        "lookup": {
-          "english": "based on random choice rather than reason.",
-          "chinese": "任意的；專斷的"
-        }
-      },
-      {
-        "word": "arduous",
-        "pos": "adj.",
-        "definition": "requiring great effort; difficult.",
-        "chinese": "艱難的；費力的",
-        "synonyms": "strenuous, laborious, taxing",
-        "image": "mountain",
-        "sentence": "The mountaineering expedition proved far more __________ than the team had anticipated, with treacherous weather conditions and unexpected technical challenges testing even the most experienced climbers. Despite exhaustion and mounting physical strain, the group demonstrated remarkable resilience, ultimately reaching the summit after an unexpectedly prolonged and demanding ascent.",
-        "translation": "這次登山探險被證明比團隊預期的要艱難得多，惡劣的天氣條件和意外的技術挑戰考驗了即使是最有經驗的攀登者。儘管精疲力竭、身體負擔不斷加重，這支隊伍展現了非凡的韌性，在經歷了出乎意料的漫長而艱苦的攀登後，最終抵達了頂峰。",
-        "lookup": {
-          "english": "requiring great effort; difficult.",
-          "chinese": "艱難的；費力的"
-        }
-      },
-      {
-        "word": "articulate",
-        "pos": "adj.",
-        "definition": "able to express ideas clearly and fluently.",
-        "chinese": "表達清晰的；口才好的",
-        "synonyms": "eloquent, fluent, expressive",
-        "image": "lamp",
-        "sentence": "The professor was remarkably __________ in presenting complex theoretical concepts, making even the most abstract philosophical arguments accessible to undergraduate students encountering the material for the first time. Her gift for translating dense academic discourse into vivid, relatable language earned widespread admiration from both students and professional colleagues.",
-        "translation": "這位教授在呈現複雜的理論概念時表達異常清晰，使即使是最抽象的哲學論點對第一次接觸該材料的大學生來說也易於理解。她將晦澀的學術話語轉化為生動、易懂語言的天賦，贏得了學生和專業同事的廣泛讚賞。",
-        "lookup": {
-          "english": "able to express ideas clearly and fluently.",
-          "chinese": "表達清晰的；口才好的"
-        }
-      },
-      {
-        "word": "aspersion",
-        "pos": "n.",
-        "definition": "an attack on someone's reputation; a false charge.",
-        "chinese": "誹謗；污名",
-        "synonyms": "slander, defamation, calumny",
-        "image": "warning",
-        "sentence": "The candidate vigorously rejected the __________ cast upon her professional record by anonymous sources, demanding a thorough public investigation to expose the individuals responsible for circulating demonstrably false allegations. Her legal team filed formal complaints, citing substantial evidence that the fabricated claims had already inflicted measurable damage on her electoral prospects.",
-        "translation": "這位候選人強烈拒絕匿名消息來源對她職業記錄的誹謗，要求進行徹底的公開調查，以揭露散布明顯虛假指控的相關人員。她的法律團隊提出了正式投訴，引用大量證據表明，這些捏造的指控已對她的選舉前景造成了可衡量的損害。",
-        "lookup": {
-          "english": "an attack on someone's reputation; a false charge.",
-          "chinese": "誹謗；污名"
-        }
-      },
-      {
-        "word": "assiduous",
-        "pos": "adj.",
-        "definition": "showing persistent and careful effort.",
-        "chinese": "勤勉的；孜孜不倦的",
-        "synonyms": "diligent, industrious, persevering",
-        "image": "flag",
-        "sentence": "The __________ researcher spent nearly a decade meticulously documenting every observable behavioral pattern among the isolated primate population. Her painstaking attention to detail and unwavering commitment to methodological rigor ultimately produced findings that fundamentally challenged several long-standing assumptions about social hierarchy formation within closely related primate communities.",
-        "translation": "這位勤勉的研究人員花了近十年時間，細緻地記錄這個孤立靈長類種群的每一個可觀察的行為模式。她對細節的一絲不苟和對方法論嚴謹性的堅定承諾，最終產生了從根本上挑戰幾個長期假設的發現，這些假設涉及密切相關的靈長類群體中的社會層級形成。",
-        "lookup": {
-          "english": "showing persistent and careful effort.",
-          "chinese": "勤勉的；孜孜不倦的"
-        }
-      },
-      {
-        "word": "atrophy",
-        "pos": "v.",
-        "definition": "to waste away from lack of use.",
-        "chinese": "萎縮；退化",
-        "synonyms": "deteriorate, wither, degenerate",
-        "image": "small",
-        "sentence": "Without regular intellectual stimulation, cognitive faculties can begin to __________ gradually, making sustained mental engagement critically important throughout every phase of human development. Neuroscientists emphasize that deliberately challenging activities, including learning new languages and engaging with complex problem-solving, help maintain robust neural connectivity.",
-        "translation": "沒有定期的智識刺激，認知功能可能會逐漸萎縮，使持續的心智參與在人類發展的每個階段都至關重要。神經科學家強調，刻意具有挑戰性的活動，包括學習新語言和參與複雜問題解決，有助於維持強健的神經連接。",
-        "lookup": {
-          "english": "to waste away from lack of use.",
-          "chinese": "萎縮；退化"
-        }
-      },
-      {
-        "word": "audacious",
-        "pos": "adj.",
-        "definition": "showing bold daring; recklessly brave.",
-        "chinese": "大膽的；無畏的",
-        "synonyms": "bold, daring, intrepid",
+        "definition": "wise, cautious.",
+        "memoryChant": "pro- (ahead) + videre (see) → 'Seeing ahead—prudent!'",
+        "chinese": "謹慎的；明智的",
+        "synonyms": "cautious, sensible, wise",
         "image": "cane",
-        "sentence": "The architect presented an __________ design for the new civic center that incorporated unconventional structural elements and dramatically reimagined the relationship between interior space and the surrounding urban landscape. While some committee members initially expressed skepticism, the proposal ultimately won unanimous approval for its extraordinary originality and transformative civic vision.",
-        "translation": "這位建築師為新的市民中心提出了一個大膽的設計，融入了非傳統的結構元素，並戲劇性地重新想像了室內空間與周圍城市景觀之間的關係。雖然一些委員會成員最初表示懷疑，但該提案最終以其非凡的原創性和變革性的城市願景獲得了一致批准。",
+        "sentence": "Facing an uncertain economic outlook, the board of directors made the __________ decision to postpone its ambitious expansion plans and build up substantial cash reserves instead. Several competitors that had borrowed heavily to finance rapid growth soon struggled to repay their debts when interest rates rose sharply. Analysts later praised the company's cautious, far-sighted strategy, noting that careful planning had allowed it to survive the downturn without laying off a single employee.",
+        "translation": "面對不確定的經濟前景，董事會做出了謹慎明智的決定，推遲雄心勃勃的擴張計畫，轉而累積大量現金儲備。數家為了快速成長而大舉借貸的競爭對手，在利率急遽上升後很快便難以償還債務。分析師事後稱讚該公司謹慎且具遠見的策略，指出周詳的規劃使公司得以度過經濟衰退，且未裁撤任何一名員工。",
         "lookup": {
-          "english": "showing bold daring; recklessly brave.",
-          "chinese": "大膽的；無畏的"
+          "english": "wise, cautious.",
+          "chinese": "謹慎的；明智的"
+        }
+      },
+      {
+        "word": "ostensible",
+        "pos": "adj.",
+        "definition": "outward, seeming.",
+        "memoryChant": "ob- (before) + tendere (stretch) → 'Stretched out in front for show—ostensible!'",
+        "chinese": "表面的；假裝的",
+        "synonyms": "apparent, outward, supposed",
+        "image": "eraser",
+        "sentence": "The __________ purpose of the new surveillance program was to improve public safety by reducing street crime in the downtown area. However, investigative journalists soon uncovered internal documents revealing that the cameras were also being used to monitor peaceful protesters and collect data on their movements. Critics argued that officials had deliberately concealed the program's true objectives behind a reassuring justification designed to minimize public opposition. Public trust in the city council declined sharply afterward.",
+        "translation": "這項新監控計畫表面上的目的，是透過減少市中心的街頭犯罪來提升公共安全。然而，調查記者很快便發現內部文件，顯示這些攝影機也被用來監視和平抗議者並蒐集其行動資料。批評者認為，官員刻意以一個令人安心的理由掩蓋計畫的真正目標，藉此將民眾的反對降到最低。此後，民眾對市議會的信任急遽下降。",
+        "lookup": {
+          "english": "outward, seeming.",
+          "chinese": "表面的；假裝的"
+        }
+      },
+      {
+        "word": "fervid",
+        "pos": "adj.",
+        "definition": "intense, enthusiastic, passionate.",
+        "memoryChant": "fervere (to boil) → 'Boiling with passion—fervid!'",
+        "chinese": "熱情的；熱烈的",
+        "synonyms": "passionate, ardent, intense",
+        "image": "table",
+        "sentence": "The candidate delivered a __________ speech that electrified the enormous crowd gathered in the town square. Speaking with intense passion about economic justice and educational opportunity, she repeatedly raised her fist as supporters cheered and waved banners. Even skeptical journalists admitted that her emotional energy was remarkably contagious. Political observers predicted that such enthusiastic public appearances would significantly boost her popularity among young voters who had previously felt ignored. Her campaign office reported record donations.",
+        "translation": "這位候選人發表了一場熱情洋溢的演說，令聚集在城鎮廣場的廣大群眾情緒沸騰。她以強烈的熱忱談論經濟正義與教育機會，在支持者歡呼、揮舞旗幟之際一再高舉拳頭。就連抱持懷疑態度的記者也承認，她的情感能量極具感染力。政治觀察家預測，如此熱烈的公開露面將大幅提升她在過去一直覺得被忽視的年輕選民中的聲望。她的競選辦公室回報捐款創下新高。",
+        "lookup": {
+          "english": "intense, enthusiastic, passionate.",
+          "chinese": "熱情的；熱烈的"
+        }
+      },
+      {
+        "word": "spurious",
+        "pos": "adj.",
+        "definition": "false, counterfeit.",
+        "memoryChant": "spurius (false, illegitimate) → 'False from birth—spurious!'",
+        "chinese": "虛假的；偽造的",
+        "synonyms": "false, fake, counterfeit",
+        "image": "regret",
+        "sentence": "The museum curator quickly recognized that the so-called ancient manuscript was __________. Chemical analysis revealed that the ink contained synthetic compounds invented only in the twentieth century, and the paper showed no signs of genuine aging. Although the seller had provided an elaborate certificate of authenticity, experts confirmed that the document was a skillful forgery. The discovery prompted the institution to adopt far stricter verification procedures for all future acquisitions.",
+        "translation": "博物館策展人很快便看出，這份所謂的古代手稿是偽造的。化學分析顯示，墨水含有二十世紀才發明的合成化合物，而紙張也沒有任何真正老化的跡象。儘管賣家提供了一份精心製作的真品證書，專家仍確認這份文件是一件高明的贗品。此一發現促使該機構對未來所有收購品採取更嚴格的鑑定程序。",
+        "lookup": {
+          "english": "false, counterfeit.",
+          "chinese": "虛假的；偽造的"
+        }
+      },
+      {
+        "word": "propagate",
+        "pos": "v.",
+        "definition": "to multiply, spread.",
+        "memoryChant": "pro- (forth) + pangere (fasten) → 'Fasten forth and spread—propagate!'",
+        "chinese": "傳播；繁殖",
+        "synonyms": "spread, circulate, multiply",
+        "image": "shield",
+        "sentence": "Social media platforms have made it alarmingly easy to __________ misinformation across the globe within a matter of hours. A single misleading post, shared by thousands of users who never verify its accuracy, can reach millions of readers before fact-checkers have an opportunity to respond. Researchers warn that false claims often spread faster than corrections because they provoke stronger emotional reactions, particularly fear, outrage, and surprise. Slowing this cycle requires both technology and education.",
+        "translation": "社群媒體平台讓錯誤資訊能在短短幾小時內傳播到全球，其容易程度令人憂心。一則誤導性的貼文，經由數千名從不查證其正確性的使用者分享，可能在事實查核人員有機會回應之前就觸及數百萬名讀者。研究人員警告，虛假說法往往比更正消息傳得更快，因為它們會激起更強烈的情緒反應，尤其是恐懼、憤怒和驚訝。要減緩這種循環，科技與教育兩者缺一不可。",
+        "lookup": {
+          "english": "to multiply, spread.",
+          "chinese": "傳播；繁殖"
+        }
+      },
+      {
+        "word": "anomaly",
+        "pos": "n.",
+        "definition": "irregularity, abnormality.",
+        "memoryChant": "an- (not) + homalos (even) → 'Not even—anomaly!'",
+        "chinese": "異常；反常",
+        "synonyms": "irregularity, abnormality, oddity",
+        "image": "crack",
+        "sentence": "While analyzing years of climate records, the research team noticed a striking __________: one remote mountain station had reported temperatures consistently five degrees higher than every surrounding location. Initially suspecting a natural phenomenon, the scientists launched a thorough investigation. They eventually discovered that the irregular readings were caused by a malfunctioning sensor installed beside a heating vent, which had been distorting the station's measurements for nearly a decade. Replacing it solved the mystery.",
+        "translation": "在分析多年的氣候紀錄時，研究團隊注意到一個明顯的異常現象：一座偏遠的山區測站所回報的氣溫，始終比周遭所有地點高出五度。科學家起初懷疑這是某種自然現象，於是展開徹底調查。他們最終發現，這些不規則的讀數是由一個安裝在暖氣出風口旁的故障感測器所造成，它扭曲了該測站的測量數據將近十年。更換感測器後，謎團隨之解開。",
+        "lookup": {
+          "english": "irregularity, abnormality.",
+          "chinese": "異常；反常"
+        }
+      },
+      {
+        "word": "innocuous",
+        "pos": "adj.",
+        "definition": "harmless, mild, innocent.",
+        "memoryChant": "in- (not) + nocuus (harmful) → 'Not harmful—innocuous!'",
+        "chinese": "無害的",
+        "synonyms": "harmless, mild, inoffensive",
+        "image": "rubble",
+        "sentence": "At first, the email appeared completely __________, containing only a friendly greeting and a link to what seemed to be a holiday card. However, when several employees clicked the link, malicious software was secretly installed on the company's network, allowing hackers to steal confidential financial records. Cybersecurity experts emphasize that the most dangerous attacks often disguise themselves as ordinary, trustworthy messages to lower their victims' natural defenses. Regular training helps staff recognize such traps.",
+        "translation": "起初，這封電子郵件看起來完全無害，只有一句友善的問候和一個看似節日賀卡的連結。然而，當幾名員工點擊該連結後，惡意軟體便被秘密安裝到公司網路中，使駭客得以竊取機密財務紀錄。資安專家強調，最危險的攻擊往往偽裝成普通、可信的訊息，以降低受害者的天然戒心。定期訓練能幫助員工識破這類陷阱。",
+        "lookup": {
+          "english": "harmless, mild, innocent.",
+          "chinese": "無害的"
+        }
+      },
+      {
+        "word": "surfeit",
+        "pos": "n.",
+        "definition": "excess, superabundance.",
+        "memoryChant": "super- (over) + facere (do) → 'Overdone—surfeit!'",
+        "chinese": "過量；飲食過度",
+        "synonyms": "excess, overabundance, glut",
+        "image": "crack",
+        "sentence": "Many modern consumers suffer not from a lack of information but from a __________ of it. Every day, they are bombarded with countless notifications, advertisements, news updates, and messages competing relentlessly for their limited attention. Psychologists observe that this overwhelming excess can impair concentration, increase anxiety, and make thoughtful decision-making considerably more difficult. Consequently, some people deliberately schedule periods of digital silence to restore their mental clarity. Less, they find, is often more.",
+        "translation": "許多現代消費者所苦的並非資訊不足，而是資訊過量。每天，他們被無數的通知、廣告、新聞更新和訊息轟炸，這些內容不停地爭奪他們有限的注意力。心理學家觀察到，這種壓倒性的過剩會損害專注力、加劇焦慮，並使深思熟慮的決策變得困難許多。因此，有些人刻意安排「數位靜默」時段，以恢復思緒的清晰。他們發現，少往往就是多。",
+        "lookup": {
+          "english": "excess, superabundance.",
+          "chinese": "過量；飲食過度"
+        }
+      },
+      {
+        "word": "milieu",
+        "pos": "n.",
+        "definition": "environment, setting.",
+        "memoryChant": "mi- (middle) + lieu (place) → 'The place you are in the middle of—milieu!'",
+        "chinese": "環境；社會背景",
+        "synonyms": "environment, setting, surroundings",
+        "image": "chest",
+        "sentence": "Growing up in the vibrant artistic __________ of 1920s Paris, the young painter was constantly surrounded by writers, musicians, and philosophers who challenged conventional ideas. Evenings spent in crowded cafés debating politics and aesthetics profoundly shaped his creative vision. Art historians argue that his innovative style cannot be fully understood without considering the intellectual environment and social setting that nurtured his remarkable talent during those formative years. His early sketches clearly reflect this lively atmosphere.",
+        "translation": "這位年輕畫家成長於1920年代巴黎充滿活力的藝術環境中，身邊不斷圍繞著挑戰傳統觀念的作家、音樂家與哲學家。在擁擠的咖啡館中辯論政治與美學的夜晚，深刻地塑造了他的創作視野。藝術史學家認為，若不考慮在那些關鍵成長歲月中培育他非凡才華的知識氛圍與社會背景，便無法完全理解他的創新風格。他早期的素描清楚反映了這種活潑的氛圍。",
+        "lookup": {
+          "english": "environment, setting.",
+          "chinese": "環境；社會背景"
+        }
+      },
+      {
+        "word": "strident",
+        "pos": "adj.",
+        "definition": "shrill, harsh, rough.",
+        "memoryChant": "stridere (harsh noise) → 'Screeching harshly—strident!'",
+        "chinese": "刺耳的；尖銳的",
+        "synonyms": "shrill, harsh, grating",
+        "image": "rings",
+        "sentence": "The neighbors complained repeatedly about the __________ alarm that sounded from the abandoned warehouse every night at midnight. Its harsh, piercing tone echoed through the quiet residential streets, waking sleeping children and disturbing elderly residents. Local officials initially ignored the complaints, but after a petition gathered hundreds of signatures, they finally dispatched technicians to disconnect the faulty system. Residents celebrated the restored peace with a small community gathering. Silence, they agreed, had never sounded sweeter.",
+        "translation": "鄰居們一再抱怨那座廢棄倉庫每晚午夜響起的刺耳警報聲。那尖銳、穿透性的聲響在寧靜的住宅街道間迴盪，吵醒熟睡的孩童，也打擾年長的居民。地方官員起初對這些投訴置之不理，但在一份請願書蒐集到數百人連署後，他們終於派遣技術人員切斷這套故障的系統。居民們舉辦了一場小型社區聚會，慶祝恢復寧靜。他們一致認為，寂靜從未如此美好。",
+        "lookup": {
+          "english": "shrill, harsh, rough.",
+          "chinese": "刺耳的；尖銳的"
+        }
+      },
+      {
+        "word": "concomitant",
+        "pos": "adj.",
+        "definition": "accompanying, attending.",
+        "memoryChant": "con- (together) + comitari (accompany) → 'Coming along together—concomitant!'",
+        "chinese": "伴隨的",
+        "synonyms": "accompanying, attendant, associated",
+        "image": "cane",
+        "sentence": "Rapid urbanization has brought substantial economic benefits to many developing nations, but it has also produced several __________ problems. As millions of rural workers migrate to cities in search of employment, overcrowded housing, traffic congestion, and air pollution inevitably accompany this population growth. Urban planners argue that governments must address these related challenges simultaneously rather than treating them as separate issues, since each one tends to intensify the others. Integrated planning is therefore essential.",
+        "translation": "快速都市化為許多開發中國家帶來可觀的經濟利益，但也產生了若干伴隨而來的問題。隨著數百萬名農村勞工為了就業而遷往城市，住宅過度擁擠、交通壅塞與空氣污染無可避免地伴隨著人口成長而出現。都市規劃者主張，政府必須同時處理這些相關挑戰，而非將其視為各自獨立的問題，因為每一個問題往往會加劇其他問題。因此，整合性的規劃至關重要。",
+        "lookup": {
+          "english": "accompanying, attending.",
+          "chinese": "伴隨的"
+        }
+      },
+      {
+        "word": "lassitude",
+        "pos": "n.",
+        "definition": "weariness, fatigue.",
+        "memoryChant": "lassus (weary) + -tude (state) → 'A state of weariness—lassitude!'",
+        "chinese": "疲倦；無精打采",
+        "synonyms": "fatigue, weariness, exhaustion",
+        "image": "regret",
+        "sentence": "After weeks of working double shifts at the understaffed hospital, the nurse was overcome by a profound __________ that no amount of coffee could relieve. Her limbs felt heavy, her concentration faded, and even simple tasks required enormous effort. Medical researchers warn that such chronic exhaustion among healthcare workers not only damages their own wellbeing but also significantly increases the likelihood of errors that could endanger patients' lives. Adequate staffing remains the most effective remedy.",
+        "translation": "在人手不足的醫院連續數週值雙班後，這名護理師被一股深沉的疲倦所淹沒，再多的咖啡也無法緩解。她四肢沉重、注意力渙散，就連簡單的工作都需要付出極大的努力。醫學研究人員警告，醫護人員這種長期的疲憊不僅損害他們自身的健康，也大幅增加了可能危及病患生命的失誤機率。充足的人力配置仍是最有效的解決之道。",
+        "lookup": {
+          "english": "weariness, fatigue.",
+          "chinese": "疲倦；無精打采"
+        }
+      },
+      {
+        "word": "deleterious",
+        "pos": "adj.",
+        "definition": "bad, harmful.",
+        "memoryChant": "delere (destroy) → 'Deletes your health—deleterious!'",
+        "chinese": "有害的；造成傷害的",
+        "synonyms": "harmful, damaging, detrimental",
+        "image": "cane",
+        "sentence": "Numerous scientific studies have documented the __________ effects of prolonged screen exposure on adolescents' sleep patterns. Blue light emitted by phones and tablets suppresses the production of melatonin, a hormone that regulates the body's natural sleep cycle. As a result, teenagers who use devices late at night frequently experience reduced sleep quality, impaired memory, and declining academic performance. Pediatricians therefore recommend removing electronic devices from bedrooms entirely. Many families now enforce a strict nighttime curfew.",
+        "translation": "許多科學研究已記錄了長時間使用螢幕對青少年睡眠模式的有害影響。手機與平板電腦所發出的藍光會抑制褪黑激素的分泌，而這種荷爾蒙負責調節人體的自然睡眠週期。因此，深夜使用電子裝置的青少年經常出現睡眠品質下降、記憶力受損以及學業表現退步的情況。小兒科醫師因此建議將電子裝置完全移出臥室。許多家庭現在實施嚴格的夜間使用禁令。",
+        "lookup": {
+          "english": "bad, harmful.",
+          "chinese": "有害的；造成傷害的"
+        }
+      },
+      {
+        "word": "efficacy",
+        "pos": "n.",
+        "definition": "power to produce an effect.",
+        "memoryChant": "ex- (out) + facere (do) → 'It does the job—efficacy!'",
+        "chinese": "功效；效力",
+        "synonyms": "effectiveness, potency, power",
+        "image": "burst",
+        "sentence": "Before any new medication can be approved for public use, researchers must conduct rigorous clinical trials to demonstrate its __________ and safety. Thousands of volunteers are randomly assigned to receive either the experimental drug or a placebo, allowing scientists to measure whether the treatment genuinely produces the intended results. Only when the data consistently confirm the drug's effectiveness without serious side effects will regulatory agencies grant final approval. This process often takes nearly a decade.",
+        "translation": "任何新藥在獲准供大眾使用之前，研究人員都必須進行嚴謹的臨床試驗，以證明其功效與安全性。數千名志願者被隨機分配服用實驗藥物或安慰劑，讓科學家能夠衡量該療法是否確實產生預期的效果。唯有當數據一致證實藥物有效且無嚴重副作用時，主管機關才會給予最終核准。這個過程往往需要將近十年。",
+        "lookup": {
+          "english": "power to produce an effect.",
+          "chinese": "功效；效力"
+        }
+      },
+      {
+        "word": "dissent",
+        "pos": "v.",
+        "definition": "to differ, disagree, protest.",
+        "memoryChant": "dis- (apart) + sentire (feel) → 'Feeling apart—dissent!'",
+        "chinese": "持異議；不同意",
+        "synonyms": "disagree, object, protest",
+        "image": "flag",
+        "sentence": "Although the majority of the Supreme Court justices supported the controversial ruling, two members chose to __________, publishing a lengthy opinion that explained their objections in considerable detail. They argued that the decision contradicted established legal precedent and threatened fundamental civil liberties. Legal scholars note that such disagreements, though they carry no immediate legal force, often influence future judges and occasionally lay the groundwork for overturning flawed decisions. History has vindicated many such opinions.",
+        "translation": "雖然大多數最高法院大法官支持這項具爭議性的判決，但有兩位成員選擇提出異議，並發表了一份冗長的意見書，相當詳盡地說明他們反對的理由。他們主張，該判決違背既有的法律判例，並威脅到基本的公民自由。法律學者指出，這類不同意見雖然不具即時的法律效力，卻常常影響後世的法官，有時更為推翻有缺陷的判決奠定基礎。歷史已證明許多這類意見是正確的。",
+        "lookup": {
+          "english": "to differ, disagree, protest.",
+          "chinese": "持異議；不同意"
+        }
+      },
+      {
+        "word": "ferment",
+        "pos": "n.",
+        "definition": "uproar, agitation, turmoil.",
+        "memoryChant": "fervere (boil) → 'Society boiling over—ferment!'",
+        "chinese": "騷動；動亂（亦指發酵）",
+        "synonyms": "turmoil, unrest, agitation",
+        "image": "energy",
+        "sentence": "The sudden announcement of massive tuition increases threw the entire university campus into a state of __________. Within hours, students organized protests, occupied administrative buildings, and circulated petitions demanding the immediate resignation of the president. Faculty members were sharply divided, with some supporting the demonstrators and others urging calm negotiation. The turmoil lasted several weeks before administrators finally agreed to reconsider their controversial financial decision. Tuition was eventually frozen for two full years.",
+        "translation": "學費大幅調漲的突然宣布，使整個大學校園陷入一片騷動。短短數小時內，學生們便組織抗議、佔領行政大樓，並傳閱請願書要求校長立即辭職。教職員的意見嚴重分歧，有人支持示威者，也有人呼籲冷靜協商。這場動亂持續了數週，校方才終於同意重新考慮這項具爭議性的財務決定。學費最終凍漲了整整兩年。",
+        "lookup": {
+          "english": "uproar, agitation, turmoil.",
+          "chinese": "騷動；動亂（亦指發酵）"
+        }
+      },
+      {
+        "word": "attenuated",
+        "pos": "adj.",
+        "definition": "weakened, thinned, decreased.",
+        "memoryChant": "ad- (to) + tenuis (thin) → 'Made thin—attenuated!'",
+        "chinese": "減弱的；變薄的",
+        "synonyms": "weakened, diminished, reduced",
+        "image": "burst",
+        "sentence": "By the time the powerful hurricane reached the mountainous inland region, its strength had been considerably __________. The rugged terrain and cooler air had gradually weakened its winds from devastating speeds to moderate gusts, sparing most villages from serious destruction. Meteorologists explained that storms typically lose energy once they move away from warm ocean waters, which supply the heat and moisture necessary to sustain their intensity. Heavy rainfall, however, still caused minor flooding in several valleys.",
+        "translation": "當這場強烈颶風抵達內陸山區時，其威力已大幅減弱。崎嶇的地形與較涼的空氣，逐漸將其風速從毀滅性的強度削弱為中等陣風，使大部分村莊免於嚴重破壞。氣象學家解釋，暴風一旦遠離溫暖的海水便通常會失去能量，因為溫暖海水提供了維持其強度所需的熱量與水氣。然而，豪雨仍在數個山谷造成輕微淹水。",
+        "lookup": {
+          "english": "weakened, thinned, decreased.",
+          "chinese": "減弱的；變薄的"
+        }
+      },
+      {
+        "word": "arbiter",
+        "pos": "n.",
+        "definition": "judge.",
+        "memoryChant": "ad- (to) + baetere (go) → 'One who comes to judge—arbiter!'",
+        "chinese": "仲裁者；權威",
+        "synonyms": "judge, referee, mediator",
+        "image": "table",
+        "sentence": "When the two technology companies could not resolve their bitter patent dispute through negotiation, they agreed to appoint an independent __________ to settle the matter. The retired judge carefully examined thousands of pages of technical documents, interviewed engineers from both firms, and listened to lengthy arguments from each legal team. Both parties had promised in advance to accept her final judgment, avoiding years of expensive and unpredictable litigation. Her ruling was widely respected as fair.",
+        "translation": "當兩家科技公司無法透過協商解決激烈的專利糾紛時，他們同意指派一位獨立的仲裁者來裁決此事。這位退休法官仔細審閱了數千頁技術文件，訪談兩家公司的工程師，並聆聽雙方律師團隊冗長的論述。雙方事先都承諾接受她的最終裁決，藉此避免了多年昂貴且結果難料的訴訟。她的裁決被普遍認為公正而備受尊重。",
+        "lookup": {
+          "english": "judge.",
+          "chinese": "仲裁者；權威"
+        }
+      },
+      {
+        "word": "incumbent",
+        "pos": "adj.",
+        "definition": "morally required.",
+        "memoryChant": "in- (on) + cumbere (lie) → 'A duty lying on you—incumbent!'",
+        "chinese": "負有責任的；現任的",
+        "synonyms": "obligatory, required, binding",
+        "image": "eraser",
+        "sentence": "When a serious error is discovered in published research, it is __________ upon the authors to issue a prompt and transparent correction. Other scientists may have already relied on the flawed findings to design their own experiments, so any delay could waste valuable time and resources. Most academic institutions regard this obligation as a fundamental ethical responsibility, and researchers who deliberately conceal mistakes may face severe professional consequences. Honesty, in short, is non-negotiable in science.",
+        "translation": "當已發表的研究被發現有嚴重錯誤時，作者有責任迅速且透明地發布更正。其他科學家可能已經依據這些有缺陷的研究結果來設計自己的實驗，因此任何延誤都可能浪費寶貴的時間與資源。大多數學術機構將此義務視為基本的倫理責任，而刻意隱瞞錯誤的研究人員可能面臨嚴重的職業後果。簡而言之，在科學中誠實是不容妥協的。",
+        "lookup": {
+          "english": "morally required.",
+          "chinese": "負有責任的；現任的"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The __________ debate between the two senior colleagues dominated the department meeting, with each delivering pointed criticisms of the other's methodology and refusing to yield on any substantive point despite the discomfort their exchanges visibly caused every other person in the room.",
+        "question": "In medieval Europe, anyone who openly questioned the teachings of the established church risked being accused of __________, a charge that could result in imprisonment, exile, or even execution. Religious authorities viewed such unorthodox beliefs as a direct threat to social order and spiritual unity. Consequently, many independent thinkers concealed their controversial ideas, sharing them only with trusted companions or publishing them anonymously to avoid persecution. Some paid a terrible price for their courage.",
         "options": [
           {
             "letter": "A",
-            "text": "arbitrary"
+            "text": "anomaly"
           },
           {
             "letter": "B",
-            "text": "acrimonious"
+            "text": "heresy"
           },
           {
             "letter": "C",
-            "text": "arduous"
+            "text": "milieu"
           },
           {
             "letter": "D",
-            "text": "articulate"
+            "text": "efficacy"
           }
         ],
         "answer": "B",
-        "answerWord": "acrimonious"
+        "answerWord": "heresy"
       },
       {
         "number": 2,
-        "question": "Her business __________ was evident months before her colleagues recognized the same opportunity: she identified the undervalued sector, repositioned her portfolio quietly, and waited for the market to confirm what her analysis had already told her with complete clarity.",
+        "question": "Financial advisors generally consider it __________ to maintain an emergency fund covering at least six months of living expenses. Unexpected events such as sudden job loss, serious illness, or major home repairs can create enormous pressure for unprepared households. By saving consistently and avoiding unnecessary debt, families can protect themselves from desperate borrowing at high interest rates. This sensible, cautious approach provides both economic security and considerable peace of mind.",
         "options": [
           {
             "letter": "A",
-            "text": "adulation"
+            "text": "fervid"
           },
           {
             "letter": "B",
-            "text": "altercation"
+            "text": "strident"
           },
           {
             "letter": "C",
-            "text": "acumen"
+            "text": "prudent"
           },
           {
             "letter": "D",
-            "text": "apathy"
+            "text": "spurious"
           }
         ],
         "answer": "C",
-        "answerWord": "acumen"
+        "answerWord": "prudent"
       },
       {
         "number": 3,
-        "question": "The physician worked carefully to __________ the patient's anxiety about the upcoming procedure by explaining each step in clear, accessible language, and her calm demeanor proved remarkably effective in transforming visible apprehension into composed, confident acceptance.",
+        "question": "The diplomat's __________ reason for visiting the neighboring country was to attend a cultural festival celebrating traditional music and dance. Behind closed doors, however, he conducted secret negotiations with government ministers regarding a sensitive trade agreement. Journalists later revealed that the festival appearance had merely provided convenient cover for discussions that neither administration wished to disclose publicly until the final terms had been settled. The ministers themselves never mentioned the festival again.",
         "options": [
           {
             "letter": "A",
-            "text": "allay"
+            "text": "ostensible"
           },
           {
             "letter": "B",
-            "text": "abridge"
+            "text": "innocuous"
           },
           {
             "letter": "C",
-            "text": "apprise"
+            "text": "concomitant"
           },
           {
             "letter": "D",
-            "text": "atrophy"
+            "text": "incumbent"
           }
         ],
         "answer": "A",
-        "answerWord": "allay"
+        "answerWord": "ostensible"
       },
       {
         "number": 4,
-        "question": "The architect presented an __________ vision for the new civic center that incorporated floating structures, subterranean galleries, and a rooftop ecological garden — elements that captured media attention immediately but drew skepticism from engineers who questioned whether the ambition could be realized within any realistic budget.",
+        "question": "The young environmental activist was known for her __________ commitment to protecting endangered rainforests. She traveled tirelessly across continents, delivered passionate speeches at international conferences, and organized massive demonstrations demanding immediate government action. Her intense enthusiasm inspired thousands of teenagers to join the movement. Even her critics acknowledged that few campaigners displayed such burning dedication, although some questioned whether her uncompromising demands were realistic. Her influence on youth climate activism remains undeniable today.",
         "options": [
           {
             "letter": "A",
-            "text": "acrimonious"
+            "text": "deleterious"
           },
           {
             "letter": "B",
-            "text": "arbitrary"
+            "text": "attenuated"
           },
           {
             "letter": "C",
-            "text": "arduous"
+            "text": "prudent"
           },
           {
             "letter": "D",
-            "text": "audacious"
+            "text": "fervid"
           }
         ],
         "answer": "D",
-        "answerWord": "audacious"
+        "answerWord": "fervid"
       },
       {
         "number": 5,
-        "question": "The government's new surveillance policy represented the complete __________ of the civil liberties protections the administration had repeatedly promised during the election, leaving civil rights organizations with no choice but to challenge every provision in the courts.",
+        "question": "The scientific journal retracted the celebrated study after investigators determined that its conclusions were based on __________ data. The lead researcher had fabricated hundreds of measurements and manipulated statistical results to support his favored hypothesis. Several laboratories had wasted years attempting to replicate the impossible findings. The scandal prompted urgent calls for stricter oversight, including mandatory data sharing and independent verification of all published experimental results. The researcher was permanently dismissed.",
         "options": [
           {
             "letter": "A",
-            "text": "aspersion"
+            "text": "strident"
           },
           {
             "letter": "B",
-            "text": "antithesis"
+            "text": "spurious"
           },
           {
             "letter": "C",
-            "text": "altercation"
+            "text": "ostensible"
           },
           {
             "letter": "D",
-            "text": "anarchy"
+            "text": "concomitant"
           }
         ],
         "answer": "B",
-        "answerWord": "antithesis"
+        "answerWord": "spurious"
       },
       {
         "number": 6,
-        "question": "The professor was remarkably __________ when presenting dense philosophical arguments, translating the most abstract theoretical positions into vivid, relatable language that even students encountering the material for the first time found genuinely accessible and intellectually engaging.",
+        "question": "Gardeners who wish to __________ their favorite plants do not always need to purchase seeds. Many species, including roses and geraniums, can be reproduced simply by cutting a healthy stem and placing it in moist soil until roots develop. Within several weeks, each cutting grows into an independent plant genetically identical to its parent. This inexpensive technique allows enthusiasts to multiply their collections and share specimens with neighbors. No special equipment is required.",
         "options": [
           {
             "letter": "A",
-            "text": "acrimonious"
+            "text": "dissent"
           },
           {
             "letter": "B",
-            "text": "audacious"
+            "text": "attenuate"
           },
           {
             "letter": "C",
-            "text": "articulate"
+            "text": "propagate"
           },
           {
             "letter": "D",
-            "text": "arduous"
+            "text": "ferment"
           }
         ],
         "answer": "C",
-        "answerWord": "articulate"
+        "answerWord": "propagate"
       },
       {
         "number": 7,
-        "question": "The __________ researcher spent nearly a decade meticulously recording every behavioral pattern among the isolated primate population, her painstaking attention to detail producing findings that fundamentally challenged long-standing assumptions about hierarchy formation within closely related primate communities.",
+        "question": "Astronomers were puzzled by an unexpected __________ in the orbit of a distant planet, which appeared to wobble irregularly rather than follow the predictable path calculated by established models. After years of careful observation, they concluded that the unusual movement was caused by the gravitational pull of a previously undiscovered companion. The deviation, once considered a frustrating error, ultimately led to one of the decade's most significant discoveries. Careful attention to oddities often pays off.",
         "options": [
           {
             "letter": "A",
-            "text": "assiduous"
+            "text": "anomaly"
           },
           {
             "letter": "B",
-            "text": "arbitrary"
+            "text": "surfeit"
           },
           {
             "letter": "C",
-            "text": "acrimonious"
+            "text": "arbiter"
           },
           {
             "letter": "D",
-            "text": "arduous"
+            "text": "lassitude"
           }
         ],
         "answer": "A",
-        "answerWord": "assiduous"
+        "answerWord": "anomaly"
       },
       {
         "number": 8,
-        "question": "Without regular intellectual stimulation, cognitive faculties can begin to __________ gradually, making sustained mental engagement critically important throughout every phase of human development — a finding that neuroscientists now cite as strong evidence for lifelong learning programs.",
+        "question": "Many common garden plants that appear entirely __________ can actually be poisonous to household pets. Lilies, for instance, look delicate and attractive, yet even small amounts can cause fatal kidney failure in cats. Veterinarians urge pet owners to research every plant before bringing it indoors, because symptoms of poisoning are often subtle at first. What seems perfectly harmless to humans may pose a serious danger to curious animals. When in doubt, consult an expert.",
         "options": [
           {
             "letter": "A",
-            "text": "abridge"
+            "text": "spurious"
           },
           {
             "letter": "B",
-            "text": "allay"
+            "text": "fervid"
           },
           {
             "letter": "C",
-            "text": "appease"
+            "text": "strident"
           },
           {
             "letter": "D",
-            "text": "atrophy"
+            "text": "innocuous"
           }
         ],
         "answer": "D",
-        "answerWord": "atrophy"
+        "answerWord": "innocuous"
       },
       {
         "number": 9,
-        "question": "The candidate vigorously rejected every __________ cast upon her professional record by anonymous sources, demanding a thorough public investigation and presenting documented evidence that directly contradicted each allegation before the findings could permanently damage her electoral prospects.",
+        "question": "During the holiday season, many families experience a __________ of rich food, consuming far more sugar, fat, and alcohol than their bodies can comfortably process. Nutritionists report that this excessive indulgence frequently leads to indigestion, disrupted sleep, and temporary weight gain. Rather than attempting extreme diets afterward, they recommend moderate portions, regular exercise, and plenty of water to prevent overconsumption from becoming a lasting habit. Balance, after all, is the key to healthy celebration.",
         "options": [
           {
             "letter": "A",
-            "text": "acumen"
+            "text": "efficacy"
           },
           {
             "letter": "B",
-            "text": "altercation"
+            "text": "heresy"
           },
           {
             "letter": "C",
-            "text": "apathy"
+            "text": "milieu"
           },
           {
             "letter": "D",
-            "text": "aspersion"
+            "text": "surfeit"
           }
         ],
         "answer": "D",
-        "answerWord": "aspersion"
+        "answerWord": "surfeit"
       },
       {
         "number": 10,
-        "question": "The philosopher cautioned that uncritical __________ directed at influential public figures dangerously impairs citizens' capacity for independent rational judgment, noting that when admiration transcends reasoned assessment and becomes unconditional reverence, the conditions for the abuse of power are already in place.",
+        "question": "Sociologists emphasize that a child's social __________ strongly influences his or her values, ambitions, and behavior. Young people raised in communities that celebrate education, surrounded by libraries and supportive mentors, often develop greater academic confidence. Conversely, those growing up in environments marked by instability may face additional obstacles. Understanding these surroundings helps educators design programs that address the specific circumstances shaping each student's development. No student develops in complete isolation from such influences.",
         "options": [
           {
             "letter": "A",
-            "text": "anarchy"
+            "text": "arbiter"
           },
           {
             "letter": "B",
-            "text": "adulation"
+            "text": "milieu"
           },
           {
             "letter": "C",
-            "text": "aspersion"
+            "text": "anomaly"
           },
           {
             "letter": "D",
-            "text": "altercation"
+            "text": "ferment"
           }
         ],
         "answer": "B",
-        "answerWord": "adulation"
+        "answerWord": "milieu"
       },
       {
         "number": 11,
-        "question": "The __________ selection process drew sharp criticism from applicants who found the criteria inconsistent and the decision-making entirely opaque, with legal scholars arguing that such unpredictable administrative procedures undermined public confidence and created fertile conditions for preferential treatment.",
+        "question": "The televised debate quickly deteriorated when one panelist adopted a __________ tone, shouting over his opponents and repeatedly interrupting the moderator. His harsh, grating voice made it difficult for the audience to follow the actual arguments being presented. Several viewers complained afterward that the aggressive behavior had overshadowed an important discussion about public health policy. Organizers subsequently introduced strict rules limiting speaking time and prohibiting interruptions. Calm, respectful dialogue soon returned to the program.",
         "options": [
           {
             "letter": "A",
-            "text": "arbitrary"
+            "text": "strident"
           },
           {
             "letter": "B",
-            "text": "arduous"
+            "text": "prudent"
           },
           {
             "letter": "C",
-            "text": "acrimonious"
+            "text": "innocuous"
           },
           {
             "letter": "D",
-            "text": "articulate"
+            "text": "incumbent"
           }
         ],
         "answer": "A",
-        "answerWord": "arbitrary"
+        "answerWord": "strident"
       },
       {
         "number": 12,
-        "question": "Diplomatic negotiators attempted to __________ the aggrieved nation by offering substantial economic concessions and formal expressions of regret, though historians later argued that this strategy ultimately emboldened rather than satisfied the opposing party.",
+        "question": "The introduction of automation in manufacturing has increased productivity dramatically, but it has also brought __________ changes in the labor market. As machines take over repetitive tasks, demand for unskilled workers declines while demand for technicians and programmers rises. Economists note that these accompanying shifts require substantial investment in retraining programs so that displaced workers can acquire the skills necessary for emerging occupations in a rapidly evolving economy. Such programs cannot be postponed.",
         "options": [
           {
             "letter": "A",
-            "text": "abridge"
+            "text": "deleterious"
           },
           {
             "letter": "B",
-            "text": "appease"
+            "text": "concomitant"
           },
           {
             "letter": "C",
-            "text": "apprise"
+            "text": "ostensible"
           },
           {
             "letter": "D",
-            "text": "atrophy"
+            "text": "fervid"
           }
         ],
         "answer": "B",
-        "answerWord": "appease"
+        "answerWord": "concomitant"
       },
       {
         "number": 13,
-        "question": "Government officials introduced a comprehensive series of policies designed to __________ living conditions in the most impoverished urban districts, and sociologists monitoring the initiative observed gradual but measurable progress across multiple indicators over the following three years.",
+        "question": "During the sweltering summer afternoons, a heavy __________ settled over the small tropical village. Shopkeepers dozed behind their counters, children abandoned their games, and even the stray dogs lay motionless in the shade. Only when the evening breeze finally arrived did residents regain enough energy to resume their daily activities. Visitors often remarked that the oppressive heat seemed to drain every ounce of vitality from the community. Nobody attempted serious work before sunset.",
         "options": [
           {
             "letter": "A",
-            "text": "ameliorate"
+            "text": "lassitude"
           },
           {
             "letter": "B",
-            "text": "allay"
+            "text": "ferment"
           },
           {
             "letter": "C",
-            "text": "abridge"
+            "text": "efficacy"
           },
           {
             "letter": "D",
-            "text": "apprise"
+            "text": "heresy"
           }
         ],
         "answer": "A",
-        "answerWord": "ameliorate"
+        "answerWord": "lassitude"
       },
       {
         "number": 14,
-        "question": "The tribunal ruled that the licensing authority's rejection had been entirely without legal basis and procedurally irregular, noting that the documented record could not explain its decisions through reference to any coherent regulatory principle — rendering the outcome the clearest possible example of institutional __________ .",
+        "question": "Environmental scientists have warned that microplastics may have __________ consequences for marine ecosystems. These tiny fragments are swallowed by plankton and fish, gradually accumulating in the food chain and potentially causing internal injuries, reproductive problems, and toxic contamination. Because humans also consume seafood, researchers are increasingly concerned about the damaging long-term impact on public health. Several countries have consequently banned plastic microbeads in cosmetic products. Many more nations are expected to follow.",
         "options": [
           {
             "letter": "A",
-            "text": "aspersion"
+            "text": "concomitant"
           },
           {
             "letter": "B",
-            "text": "acumen"
+            "text": "incumbent"
           },
           {
             "letter": "C",
-            "text": "apathy"
+            "text": "ostensible"
           },
           {
             "letter": "D",
-            "text": "anarchy"
+            "text": "deleterious"
           }
         ],
         "answer": "D",
-        "answerWord": "anarchy"
+        "answerWord": "deleterious"
       },
       {
         "number": 15,
-        "question": "Film historians identified the detailed wristwatch visible in the period portrait as a glaring __________, since the artwork was supposedly created three centuries before such manufactured objects existed, raising serious doubts about the painting's authenticity.",
+        "question": "School administrators decided to evaluate the __________ of their new reading program before expanding it to every classroom. Over one academic year, they compared the test scores of participating students with those of a control group using traditional methods. The results showed a remarkable improvement in comprehension and vocabulary among participants, convincing the board that the innovative approach genuinely produced the desired outcomes and deserved additional funding. Other districts soon requested details of the program.",
         "options": [
           {
             "letter": "A",
-            "text": "altercation"
+            "text": "milieu"
           },
           {
             "letter": "B",
-            "text": "apathy"
+            "text": "arbiter"
           },
           {
             "letter": "C",
-            "text": "anachronism"
+            "text": "efficacy"
           },
           {
             "letter": "D",
-            "text": "anarchy"
+            "text": "surfeit"
           }
         ],
         "answer": "C",
-        "answerWord": "anachronism"
+        "answerWord": "efficacy"
       },
       {
         "number": 16,
-        "question": "The supervisor was careful to __________ all team members of the significant policy changes before the formal announcement reached the broader organization, a proactive communication strategy that prevented confusion and allowed employees adequate time to prepare appropriate responses.",
+        "question": "In a healthy democracy, citizens must be free to __________ from government policies without fearing punishment or censorship. Peaceful protests, critical newspaper editorials, and public petitions allow ordinary people to express disagreement and hold leaders accountable. Political theorists argue that societies which suppress opposing voices eventually lose the diverse perspectives necessary for sound decision-making, making them more vulnerable to corruption and poorly considered policies. Tolerating disagreement is therefore a sign of strength, not weakness.",
         "options": [
           {
             "letter": "A",
-            "text": "atrophy"
+            "text": "propagate"
           },
           {
             "letter": "B",
-            "text": "apprise"
+            "text": "dissent"
           },
           {
             "letter": "C",
-            "text": "ameliorate"
+            "text": "ferment"
           },
           {
             "letter": "D",
-            "text": "abridge"
+            "text": "attenuate"
           }
         ],
         "answer": "B",
-        "answerWord": "apprise"
+        "answerWord": "dissent"
       },
       {
         "number": 17,
-        "question": "The mountaineering expedition proved far more __________ than the team had anticipated, with treacherous weather and unexpected technical challenges testing even the most experienced climbers, yet the group demonstrated remarkable resilience in ultimately reaching the summit.",
+        "question": "The late eighteenth century was a period of intense political __________ throughout Europe. Revolutionary ideas about liberty, equality, and popular sovereignty spread rapidly through pamphlets and secret societies, inspiring uprisings against monarchies. In France, widespread discontent eventually exploded into violent revolution, while neighboring governments nervously suppressed any signs of rebellion. Historians describe the era as one of extraordinary turmoil that permanently transformed the continent's political landscape. Few periods have been so turbulent.",
         "options": [
           {
             "letter": "A",
-            "text": "arbitrary"
+            "text": "lassitude"
           },
           {
             "letter": "B",
-            "text": "acrimonious"
+            "text": "anomaly"
           },
           {
             "letter": "C",
-            "text": "arduous"
+            "text": "ferment"
           },
           {
             "letter": "D",
-            "text": "audacious"
+            "text": "heresy"
           }
         ],
         "answer": "C",
-        "answerWord": "arduous"
+        "answerWord": "ferment"
       },
       {
         "number": 18,
-        "question": "The editor systematically moved to __________ the lengthy manuscript, removing repetitive sections and trimming verbose passages to make the work more accessible to general readers while preserving the scholarly integrity and essential arguments of the original.",
+        "question": "Although the new vaccine contains the virus in __________ form, it poses virtually no risk to healthy recipients. Scientists deliberately weaken the pathogen in the laboratory so that it can no longer cause serious illness while still stimulating the immune system to produce protective antibodies. This clever technique, developed more than a century ago, remains one of the most reliable methods for preventing dangerous infectious diseases worldwide. Millions of lives have been saved as a result.",
         "options": [
           {
             "letter": "A",
-            "text": "abridge"
+            "text": "attenuated"
           },
           {
             "letter": "B",
-            "text": "allay"
+            "text": "spurious"
           },
           {
             "letter": "C",
-            "text": "appease"
+            "text": "prudent"
           },
           {
             "letter": "D",
-            "text": "atrophy"
+            "text": "strident"
           }
         ],
         "answer": "A",
-        "answerWord": "abridge"
+        "answerWord": "attenuated"
       },
       {
         "number": 19,
-        "question": "Civic leaders expressed deep frustration at the widespread __________ among eligible voters, noting that only a fraction of registered citizens had participated in the most recent elections — a troubling pattern they attributed to eroding trust in institutional processes.",
+        "question": "For decades, the influential critic served as the ultimate __________ of taste in the city's restaurant scene. A single favorable review from her could fill a new establishment's reservations for months, while a harsh assessment might force it to close. Chefs anxiously awaited her verdicts, knowing that her judgment carried more authority than any award. Younger critics now question whether one person should wield such decisive power over an entire industry.",
         "options": [
           {
             "letter": "A",
-            "text": "apathy"
+            "text": "arbiter"
           },
           {
             "letter": "B",
-            "text": "acumen"
+            "text": "milieu"
           },
           {
             "letter": "C",
-            "text": "adulation"
+            "text": "surfeit"
           },
           {
             "letter": "D",
-            "text": "aspersion"
+            "text": "lassitude"
           }
         ],
         "answer": "A",
-        "answerWord": "apathy"
+        "answerWord": "arbiter"
       },
       {
         "number": 20,
-        "question": "The committee repeatedly praised her ability to convey extraordinarily complex theoretical arguments in language that non-specialist board members could evaluate with genuine understanding — a quality that distinguished her presentations as among the most __________ the institution had ever hosted.",
+        "question": "In emergencies, it is __________ upon every airline passenger to follow the crew's safety instructions immediately and without argument. Flight attendants are trained to evacuate an aircraft within ninety seconds, and any delay caused by passengers retrieving luggage could endanger lives. Aviation authorities stress that this obligation is not merely a courtesy but a serious responsibility, and those who disregard it may face substantial fines or prosecution. Safety must always come before personal belongings.",
         "options": [
           {
             "letter": "A",
-            "text": "acrimonious"
+            "text": "innocuous"
           },
           {
             "letter": "B",
-            "text": "assiduous"
+            "text": "attenuated"
           },
           {
             "letter": "C",
-            "text": "arbitrary"
+            "text": "deleterious"
           },
           {
             "letter": "D",
-            "text": "articulate"
+            "text": "incumbent"
           }
         ],
         "answer": "D",
-        "answerWord": "articulate"
+        "answerWord": "incumbent"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "abridge": [
-    "to shorten by condensing.",
-    "縮短；刪節"
+  "heresy": [
+    "a belief that goes against accepted doctrine.",
+    "異端；邪說"
   ],
-  "acrimonious": [
-    "bitter and sharp in manner or speech.",
-    "尖刻的；充滿敵意的"
+  "prudent": [
+    "wise, cautious.",
+    "謹慎的；明智的"
   ],
-  "acumen": [
-    "keen insight and practical wisdom.",
-    "敏銳；洞察力"
+  "ostensible": [
+    "outward, seeming.",
+    "表面的；假裝的"
   ],
-  "adulation": [
-    "excessive admiration or flattery.",
-    "過分奉承；諂媚"
+  "fervid": [
+    "intense, enthusiastic, passionate.",
+    "熱情的；熱烈的"
   ],
-  "allay": [
-    "to reduce fear or concern; to relieve.",
-    "減輕；緩和（恐懼或憂慮）"
+  "spurious": [
+    "false, counterfeit.",
+    "虛假的；偽造的"
   ],
-  "altercation": [
-    "a noisy, heated quarrel.",
-    "爭吵；口角"
+  "propagate": [
+    "to multiply, spread.",
+    "傳播；繁殖"
   ],
-  "ameliorate": [
-    "to make better; to improve a bad situation.",
-    "改善；改進"
+  "anomaly": [
+    "irregularity, abnormality.",
+    "異常；反常"
   ],
-  "anachronism": [
-    "something misplaced in time.",
-    "時代錯誤；不符合時代的事物"
+  "innocuous": [
+    "harmless, mild, innocent.",
+    "無害的"
   ],
-  "anarchy": [
-    "absence of government; disorder and lawlessness.",
-    "無政府狀態；混亂"
+  "surfeit": [
+    "excess, superabundance.",
+    "過量；飲食過度"
   ],
-  "antithesis": [
-    "the direct opposite; contrast of ideas.",
-    "對立面；對比"
+  "milieu": [
+    "environment, setting.",
+    "環境；社會背景"
   ],
-  "apathy": [
-    "lack of interest or emotion.",
-    "冷漠；漠不關心"
+  "strident": [
+    "shrill, harsh, rough.",
+    "刺耳的；尖銳的"
   ],
-  "appease": [
-    "to pacify by yielding to demands.",
-    "安撫；平息（尤指讓步）"
+  "concomitant": [
+    "accompanying, attending.",
+    "伴隨的"
   ],
-  "apprise": [
-    "to inform or give notice.",
-    "通知；告知"
+  "lassitude": [
+    "weariness, fatigue.",
+    "疲倦；無精打采"
   ],
-  "arbitrary": [
-    "based on random choice rather than reason.",
-    "任意的；專斷的"
+  "deleterious": [
+    "bad, harmful.",
+    "有害的；造成傷害的"
   ],
-  "arduous": [
-    "requiring great effort; difficult.",
-    "艱難的；費力的"
+  "efficacy": [
+    "power to produce an effect.",
+    "功效；效力"
   ],
-  "articulate": [
-    "able to express ideas clearly and fluently.",
-    "表達清晰的；口才好的"
+  "dissent": [
+    "to differ, disagree, protest.",
+    "持異議；不同意"
   ],
-  "aspersion": [
-    "an attack on someone's reputation; a false charge.",
-    "誹謗；污名"
+  "ferment": [
+    "uproar, agitation, turmoil.",
+    "騷動；動亂（亦指發酵）"
   ],
-  "assiduous": [
-    "showing persistent and careful effort.",
-    "勤勉的；孜孜不倦的"
+  "attenuated": [
+    "weakened, thinned, decreased.",
+    "減弱的；變薄的"
   ],
-  "atrophy": [
-    "to waste away from lack of use.",
-    "萎縮；退化"
+  "arbiter": [
+    "judge.",
+    "仲裁者；權威"
   ],
-  "audacious": [
-    "showing bold daring; recklessly brave.",
-    "大膽的；無畏的"
+  "incumbent": [
+    "morally required.",
+    "負有責任的；現任的"
   ]
 });

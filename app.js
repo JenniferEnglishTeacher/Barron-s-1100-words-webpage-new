@@ -21,6 +21,7 @@ const els = {
   backWord: document.querySelector("#backWord"),
   posTag: document.querySelector("#posTag"),
   definition: document.querySelector("#definition"),
+  memoryChant: null,
   synonyms: document.querySelector("#synonyms"),
   sentence: document.querySelector("#sentence"),
   translation: document.querySelector("#translation"),
@@ -59,8 +60,18 @@ function init() {
   });
   resetOrder();
   bindEvents();
+  createMemoryChant();
   createQuizSection();
   render();
+}
+
+function createMemoryChant() {
+  if (!els.definition || document.querySelector("#memoryChant")) return;
+  const paragraph = document.createElement("p");
+  paragraph.className = "memory-chant";
+  paragraph.id = "memoryChant";
+  els.definition.insertAdjacentElement("afterend", paragraph);
+  els.memoryChant = paragraph;
 }
 
 function resetOrder() {
@@ -139,6 +150,10 @@ function render() {
   els.backWord.textContent = card.word;
   els.posTag.textContent = card.pos;
   els.definition.textContent = card.definition;
+  if (els.memoryChant) {
+    els.memoryChant.textContent = card.memoryChant ? `Memory chant: ${card.memoryChant}` : "";
+    els.memoryChant.hidden = !card.memoryChant;
+  }
   els.synonyms.textContent = `Synonyms: ${card.synonyms}`;
   els.translation.textContent = card.translation;
   els.cardImage.src = makeIllustration(card);

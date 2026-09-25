@@ -3,758 +3,778 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 36",
     "cards": [
       {
-        "word": "fawn",
-        "pos": "v.",
-        "definition": "to seek favor through servile flattery.",
-        "chinese": "奉承；諂媚",
-        "synonyms": "flatter, grovel, toady",
+        "word": "genre",
+        "pos": "n.",
+        "definition": "a certain form or style in art or literature.",
+        "memoryChant": "genus (kind) → 'A kind of art—genre!'",
+        "chinese": "類型；流派",
+        "synonyms": "category, style, type",
+        "image": "regret",
+        "sentence": "Science fiction was once dismissed as a minor __________ suitable only for teenagers, but it has gained enormous respect among literary critics over the past fifty years. Authors such as Ursula Le Guin and Ted Chiang have used futuristic settings to explore profound questions about identity, technology, and morality. Today, universities offer entire courses on this category of literature, and science fiction novels regularly win prestigious awards that once ignored them completely.",
+        "translation": "科幻小說曾被視為只適合青少年閱讀的次要文類，但在過去五十年間，它在文學評論家之間贏得了極大的尊重。娥蘇拉．勒瑰恩與姜峯楠等作家，利用未來的場景探討關於身分、科技與道德的深刻問題。如今，大學開設整門探討這類文學的課程，而科幻小說也經常贏得那些過去完全忽視它們的重要獎項。",
+        "lookup": {
+          "english": "a certain form or style in art or literature.",
+          "chinese": "類型；流派"
+        }
+      },
+      {
+        "word": "candid",
+        "pos": "adj.",
+        "definition": "frank, open, honest.",
+        "memoryChant": "candere (shine) → 'Shining clear and honest—candid!'",
+        "chinese": "坦白的；直率的",
+        "synonyms": "frank, honest, open",
         "image": "cane",
-        "sentence": "The new associate would __________ over every senior partner's remark, laughing excessively at unremarkable jokes and volunteering lavish praise for routine decisions. Veteran colleagues found this obsequious behavior deeply off-putting, noting that genuine professional respect was earned through demonstrated competence rather than hollow displays of manufactured admiration.",
-        "translation": "這位新來的員工對每位資深合夥人的言論都諂媚奉承，對平淡無奇的笑話大笑不止，對例行決策大加讚揚。資深同事覺得這種諂媚行為令人極為不舒服，指出真正的職業尊重是通過展示能力贏得的，而非空洞的虛假崇拜。",
+        "sentence": "In a remarkably __________ interview, the famous actress admitted that she had struggled with self-doubt throughout her career and had nearly quit acting several times. Instead of presenting a polished image, she spoke honestly about her failures, rejections, and fears. Many fans found her openness refreshing and inspiring, especially young performers facing similar challenges. Journalists noted that such frank conversations are rare in an industry that usually values carefully managed reputations.",
+        "translation": "在一次極為坦率的訪談中，這位知名女演員承認自己在整個演藝生涯中一直與自我懷疑搏鬥，還曾好幾次差點放棄演戲。她沒有呈現精心修飾的形象，而是誠實地談論自己的失敗、被拒絕的經歷與恐懼。許多粉絲認為她的坦誠令人耳目一新且深受鼓舞，尤其是面臨類似挑戰的年輕演員。記者們指出，在一個通常重視精心經營形象的產業裡，如此坦白的對話實屬罕見。",
         "lookup": {
-          "english": "to seek favor through servile flattery.",
-          "chinese": "奉承；諂媚"
+          "english": "frank, open, honest.",
+          "chinese": "坦白的；直率的"
         }
       },
       {
-        "word": "fervent",
+        "word": "unsavory",
         "pos": "adj.",
-        "definition": "having or showing passionate intensity.",
-        "chinese": "熱情的；熱切的",
-        "synonyms": "ardent, passionate, zealous",
+        "definition": "disagreeable, offensive, morally bad.",
+        "memoryChant": "un- (not) + sapor (flavor) → 'Without good flavor—unsavory!'",
+        "chinese": "令人討厭的；道德敗壞的",
+        "synonyms": "disreputable, distasteful, shady",
+        "image": "flag",
+        "sentence": "The businessman's reputation suffered when reporters discovered his __________ connections to organized crime groups and corrupt officials. Leaked documents showed that he had accepted money from suspicious sources and arranged secret meetings with people under criminal investigation. Although he denied any wrongdoing, several major companies immediately canceled their partnerships with him. Ethics experts warned that associating with disreputable individuals can destroy trust, even when no crime has been proven. His company never fully recovered.",
+        "translation": "當記者發現這位商人與組織犯罪集團及貪腐官員之間不光彩的關係時，他的名聲一落千丈。外洩的文件顯示，他曾收受來源可疑的金錢，並與正受刑事調查的人安排秘密會面。儘管他否認有任何不法行為，數家大公司仍立即終止與他的合作。倫理專家警告，與名聲不佳的人往來可能摧毀信任，即使並未證實有任何犯罪行為。他的公司從未完全恢復元氣。",
+        "lookup": {
+          "english": "disagreeable, offensive, morally bad.",
+          "chinese": "令人討厭的；道德敗壞的"
+        }
+      },
+      {
+        "word": "degrade",
+        "pos": "v.",
+        "definition": "to make contemptible, lower.",
+        "memoryChant": "de- (down) + gradus (step) → 'Step down and lower—degrade!'",
+        "chinese": "貶低；使降級",
+        "synonyms": "demean, humiliate, debase",
         "image": "energy",
-        "sentence": "The community organizer's __________ belief in the transformative power of civic participation inspired hundreds of previously disengaged residents to attend planning meetings and contribute meaningfully to the collaborative redesign of their deteriorating neighborhood infrastructure. Her genuine enthusiasm proved far more persuasive than any formal presentation of statistics or policy rationale.",
-        "translation": "這位社區組織者對公民參與變革力量的熱切信念激勵了數百名此前漠然的居民參加規劃會議，並對他們老化社區基礎設施的協作重建作出有意義的貢獻。她真誠的熱情被證明遠比任何正式的統計數據或政策理由更具說服力。",
+        "sentence": "Human rights organizations criticized the reality television program for encouraging participants to __________ themselves in exchange for fame and prize money. Contestants were pressured to eat disgusting insects, insult one another, and reveal embarrassing personal secrets on camera. Psychologists warned that such humiliating experiences could cause lasting emotional harm. After widespread public complaints, the broadcasting network finally canceled the show and introduced stricter guidelines protecting the dignity of future participants.",
+        "translation": "人權組織批評這個實境節目鼓勵參賽者為了名氣與獎金而自貶身價。參賽者被迫吃下噁心的昆蟲、互相辱罵，並在鏡頭前揭露令人難堪的個人秘密。心理學家警告，這類羞辱性的經歷可能造成長久的情緒傷害。在民眾大規模投訴後，電視台終於停播該節目，並推出更嚴格的規範，以保護未來參賽者的尊嚴。",
         "lookup": {
-          "english": "having or showing passionate intensity.",
-          "chinese": "熱情的；熱切的"
+          "english": "to make contemptible, lower.",
+          "chinese": "貶低；使降級"
         }
       },
       {
-        "word": "fickle",
+        "word": "venial",
         "pos": "adj.",
-        "definition": "changing frequently; not loyal or constant.",
-        "chinese": "善變的；靠不住的",
-        "synonyms": "capricious, inconstant, mercurial",
-        "image": "fire",
-        "sentence": "The entertainment industry's __________ consumer preferences made long-term franchise planning exceptionally challenging, as audiences who enthusiastically embraced a new format one season demonstrated complete indifference toward sequels produced using the very formula they had previously celebrated. Producers learned to anticipate this cyclical pattern of enthusiasm and abandonment.",
-        "translation": "娛樂業善變的消費者偏好使長期品牌規劃變得格外困難，因為一季中熱情擁抱新形式的觀眾，在下一季面對使用他們之前讚揚的同一公式製作的續集時，卻顯示出完全的漠不關心。製片人學會了預判這種熱情與拋棄的週期性模式。",
-        "lookup": {
-          "english": "changing frequently; not loyal or constant.",
-          "chinese": "善變的；靠不住的"
-        }
-      },
-      {
-        "word": "flagrant",
-        "pos": "adj.",
-        "definition": "conspicuously offensive; blatant.",
-        "chinese": "公然的；罪惡昭彰的",
-        "synonyms": "blatant, glaring, egregious",
-        "image": "scatter",
-        "sentence": "The audit revealed a __________ misuse of public resources, with senior administrators diverting substantial operational funds to personal accounts over nearly four years. The scale and deliberate concealment of the misconduct left investigators with no doubt that the violations were intentional rather than the product of administrative negligence or inadvertent procedural error.",
-        "translation": "審計揭示了公然的公共資源濫用，資深行政人員在近四年的時間裡將大量運營資金轉移到個人帳戶。不當行為的規模和蓄意隱瞞使調查人員毫不懷疑這些違規是故意的，而非行政疏忽或無意的程序錯誤。",
-        "lookup": {
-          "english": "conspicuously offensive; blatant.",
-          "chinese": "公然的；罪惡昭彰的"
-        }
-      },
-      {
-        "word": "flippant",
-        "pos": "adj.",
-        "definition": "not showing appropriate seriousness.",
-        "chinese": "輕率的；不嚴肅的",
-        "synonyms": "frivolous, glib, cavalier",
-        "image": "fire",
-        "sentence": "The spokesperson's __________ response to questions about the product safety recall generated immediate and intense public backlash. Crisis communications specialists noted that this dismissive tone was precisely the kind of response that transformed manageable public relations challenges into sustained reputational catastrophes requiring extensive remediation efforts.",
-        "translation": "這位發言人對產品安全召回問題的輕率回應立即引發了強烈的公眾反彈。危機公關專家指出，這種輕蔑的語氣正是那種將可管理的公關挑戰轉變為需要大量補救的持續聲譽災難的回應方式。",
-        "lookup": {
-          "english": "not showing appropriate seriousness.",
-          "chinese": "輕率的；不嚴肅的"
-        }
-      },
-      {
-        "word": "flounder",
-        "pos": "v.",
-        "definition": "to struggle helplessly; to proceed clumsily.",
-        "chinese": "掙扎；手足無措",
-        "synonyms": "struggle, stumble, falter",
+        "definition": "pardonable, forgivable.",
+        "memoryChant": "venia (forgiveness) → 'Worthy of forgiveness—venial!'",
+        "chinese": "可寬恕的；輕微的",
+        "synonyms": "forgivable, pardonable, minor",
         "image": "table",
-        "sentence": "Without clear strategic direction from senior leadership, the newly assembled project team began to __________ visibly during its initial weeks, producing inconsistent outputs and missing sequential deadlines. A focused facilitated workshop ultimately helped the group establish shared priorities and effective collaborative working practices that restored productive momentum.",
-        "translation": "由於缺乏高層管理者明確的戰略指導，這個新組建的項目團隊在最初幾週開始明顯手足無措，產出不一致的成果，錯過一個又一個截止日期。一次有針對性的引導研討最終幫助團隊建立了共同的優先事項和有效的協作工作方式，恢復了富有成效的動力。",
+        "sentence": "The teacher considered the student's late homework a __________ offense, since the boy had been caring for his sick grandmother all week. She reminded the class that forgetting an assignment occasionally is a minor mistake compared with cheating or lying. Instead of punishing him, she simply extended the deadline by two days. The student was deeply grateful for her understanding and submitted an excellent essay before the new due date.",
+        "translation": "老師認為這名學生遲交作業是可以原諒的小過錯，因為這男孩整個星期都在照顧生病的祖母。她提醒全班，偶爾忘記一項作業，與作弊或說謊相比只是小錯誤。她沒有處罰他，而是將截止日期延後兩天。這名學生深深感激她的體諒，並在新的截止日前交出一篇出色的文章。",
         "lookup": {
-          "english": "to struggle helplessly; to proceed clumsily.",
-          "chinese": "掙扎；手足無措"
+          "english": "pardonable, forgivable.",
+          "chinese": "可寬恕的；輕微的"
         }
       },
       {
-        "word": "fortuitous",
-        "pos": "adj.",
-        "definition": "happening by lucky chance; unexpected.",
-        "chinese": "偶然的；幸運的",
-        "synonyms": "accidental, serendipitous, coincidental",
-        "image": "rubble",
-        "sentence": "The discovery of the compound's therapeutic properties was entirely __________, occurring when a researcher accidentally contaminated a culture medium and subsequently noticed an unexpected inhibition of bacterial growth. This unplanned observation launched a decade of systematic investigation that eventually produced a widely used clinical antibiotic.",
-        "translation": "這種化合物治療特性的發現完全是偶然的，起因是一位研究員不小心污染了培養基，隨後注意到細菌生長意外受到抑制。這個計劃外的觀察開啟了十年的系統性研究，最終產生了一種廣泛使用的臨床抗生素。",
-        "lookup": {
-          "english": "happening by lucky chance; unexpected.",
-          "chinese": "偶然的；幸運的"
-        }
-      },
-      {
-        "word": "frugal",
-        "pos": "adj.",
-        "definition": "sparing with money or resources; economical.",
-        "chinese": "節儉的；節約的",
-        "synonyms": "thrifty, economical, sparing",
-        "image": "chest",
-        "sentence": "Despite accumulating considerable personal wealth, the philanthropist remained characteristically __________ in her private life, living modestly and directing the vast majority of her resources toward educational endowments that would benefit generations of students well beyond her own lifetime. She regarded excessive personal consumption as a moral failure rather than a reward for professional success.",
-        "translation": "儘管積累了相當可觀的個人財富，這位慈善家在私人生活中仍保持其一貫的節儉，生活樸素，將絕大部分資源投入到教育捐贈，以造福超越她自身有生之年的幾代學生。她認為過度的個人消費是道德失敗，而非成功的獎勵。",
-        "lookup": {
-          "english": "sparing with money or resources; economical.",
-          "chinese": "節儉的；節約的"
-        }
-      },
-      {
-        "word": "garrulous",
-        "pos": "adj.",
-        "definition": "excessively talkative about trivial matters.",
-        "chinese": "饒舌的；喋喋不休的",
-        "synonyms": "loquacious, verbose, talkative",
-        "image": "regret",
-        "sentence": "The __________ witness consumed nearly three hours of court time elaborating on peripheral biographical details that bore no discernible relevance to the specific legal questions under consideration. The presiding judge ultimately intervened to redirect testimony toward substantive issues, expressing measured frustration at the difficulty of extracting focused responses.",
-        "translation": "這個喋喋不休的證人花了近三個小時詳細闡述與審議中的具體法律問題毫無明顯關聯的周邊傳記細節。主審法官最終介入，將證詞引回實質性問題，對從如此冗長的敘述者那裡獲取集中回答的困難表達了適度的沮喪。",
-        "lookup": {
-          "english": "excessively talkative about trivial matters.",
-          "chinese": "饒舌的；喋喋不休的"
-        }
-      },
-      {
-        "word": "grandiose",
-        "pos": "adj.",
-        "definition": "impressively large and ambitious; pompously showy.",
-        "chinese": "宏偉的；誇大的",
-        "synonyms": "pompous, extravagant, ostentatious",
-        "image": "regret",
-        "sentence": "The developer's __________ vision for the waterfront district captivated media attention but drew skepticism from engineers and urban planners who questioned both its technical feasibility and the realistic availability of the financing it would require to bring even its most essential components to completion.",
-        "translation": "這位開發商對濱水區的宏偉構想吸引了媒體的廣泛關注，但也引來了工程師和城市規劃師的質疑，他們對其技術可行性和所需資金的現實可用性均持懷疑態度，即使是最基本的組成部分。",
-        "lookup": {
-          "english": "impressively large and ambitious; pompously showy.",
-          "chinese": "宏偉的；誇大的"
-        }
-      },
-      {
-        "word": "gregarious",
-        "pos": "adj.",
-        "definition": "fond of company; sociable.",
-        "chinese": "愛社交的；合群的",
-        "synonyms": "sociable, outgoing, convivial",
+        "word": "epitome",
+        "pos": "n.",
+        "definition": "a person or thing that represents the best.",
+        "memoryChant": "epi- (into) + temnein (cut) → 'Cut down to its perfect essence—epitome!'",
+        "chinese": "縮影；典範",
+        "synonyms": "embodiment, model, essence",
         "image": "shield",
-        "sentence": "The __________ diplomat excelled in multilateral settings where building personal relationships across cultural boundaries proved as strategically important as mastering formal negotiating protocols. Her natural ease with strangers and genuine curiosity about diverse personal backgrounds enabled her to establish productive working relationships far more rapidly than many technically superior colleagues.",
-        "translation": "這位愛社交的外交官在多邊場合表現出色，在那裡跨越文化界限建立個人關係被證明與掌握正式談判協議同樣具有戰略重要性。她與陌生人相處時的自然輕鬆和對多元個人背景的真誠好奇心，使她能夠比許多技術上更優秀的同事更快地建立富有成效的工作關係。",
+        "sentence": "For many travelers, the small Japanese inn represented the __________ of traditional hospitality. Staff members greeted every guest by name, prepared elaborate seasonal meals, and anticipated needs before visitors even expressed them. The rooms were simple yet elegant, with sliding paper doors opening onto peaceful gardens. Guidebooks consistently described the inn as the perfect example of Japanese service culture, and reservations were often booked more than a year in advance.",
+        "translation": "對許多旅人而言，這間日本小旅館是傳統待客之道的典範。工作人員會叫出每位客人的名字迎接他們，準備精緻的季節料理，並在客人開口之前就預先想到他們的需求。房間簡樸卻優雅，紙拉門外便是寧靜的庭園。旅遊指南一再形容這間旅館是日本服務文化的完美範例，訂房經常在一年多前就已額滿。",
         "lookup": {
-          "english": "fond of company; sociable.",
-          "chinese": "愛社交的；合群的"
+          "english": "a person or thing that represents the best.",
+          "chinese": "縮影；典範"
         }
       },
       {
-        "word": "guile",
+        "word": "dexterity",
         "pos": "n.",
-        "definition": "sly or cunning intelligence; deceitfulness.",
-        "chinese": "狡猾；詭計",
-        "synonyms": "cunning, craft, duplicity",
-        "image": "eraser",
-        "sentence": "The experienced negotiator recognized that her counterpart's apparent concessions were motivated by __________ rather than genuine goodwill, each ostensible compromise strategically designed to extract a more valuable reciprocal concession or establish a precedent that would constrain future negotiating positions in subsequent rounds of discussion.",
-        "translation": "這位經驗豐富的談判者意識到，對方表面上的讓步是出於狡猾而非真誠的善意，每一個表面上的妥協都是戰略性地設計來換取更有價值的對等讓步，或建立將制約未來談判立場的先例。",
+        "definition": "mental or physical skill.",
+        "memoryChant": "dexter (right hand) → 'Skilled as a right hand—dexterity!'",
+        "chinese": "靈巧；敏捷",
+        "synonyms": "skill, agility, nimbleness",
+        "image": "scatter",
+        "sentence": "The young pianist performed the extremely difficult concerto with astonishing __________, her fingers racing across the keys without a single mistake. Audience members watched in amazement as she executed rapid passages that challenge even experienced professionals. Her teacher explained that such remarkable skill developed through years of disciplined practice, often beginning before dawn. Critics predicted that her nimble technique and emotional sensitivity would make her one of the most celebrated musicians of her generation.",
+        "translation": "這位年輕鋼琴家以驚人的靈巧演奏這首極為艱難的協奏曲，她的手指在琴鍵上飛馳，沒有一絲失誤。觀眾驚嘆地看著她彈奏出連經驗豐富的專業人士都覺得具挑戰性的快速樂段。她的老師解釋，如此非凡的技巧是經年累月、常在黎明前就開始的自律練習所培養出來的。評論家預測，她靈活的技巧與細膩的情感，將使她成為同世代最受讚譽的音樂家之一。",
         "lookup": {
-          "english": "sly or cunning intelligence; deceitfulness.",
-          "chinese": "狡猾；詭計"
+          "english": "mental or physical skill.",
+          "chinese": "靈巧；敏捷"
         }
       },
       {
-        "word": "hamper",
+        "word": "grotesque",
+        "pos": "adj.",
+        "definition": "strange, bizarre, misshapen.",
+        "memoryChant": "grotta (cave) → 'Strange figures from cave paintings—grotesque!'",
+        "chinese": "奇形怪狀的；荒誕的",
+        "synonyms": "bizarre, distorted, monstrous",
+        "image": "energy",
+        "sentence": "The medieval cathedral is decorated with hundreds of __________ stone figures, including twisted demons, monsters with enormous mouths, and animals with human faces. These strange, distorted sculptures, often called gargoyles, served a practical purpose by directing rainwater away from the walls. Historians also believe they were meant to frighten evil spirits and remind worshippers of the dangers of sin. Today, tourists photograph the bizarre creatures from every possible angle. Children especially love spotting them.",
+        "translation": "這座中世紀大教堂裝飾著數百尊奇形怪狀的石雕，包括扭曲的惡魔、張著巨口的怪物，以及長著人臉的動物。這些奇異扭曲的雕像通常被稱為滴水嘴獸，具有將雨水導離牆面的實際用途。歷史學家也認為，它們是用來嚇退邪靈，並提醒信徒罪惡的危險。如今，遊客們從各種角度拍攝這些古怪的生物。孩子們尤其喜歡尋找它們。",
+        "lookup": {
+          "english": "strange, bizarre, misshapen.",
+          "chinese": "奇形怪狀的；荒誕的"
+        }
+      },
+      {
+        "word": "compassion",
+        "pos": "n.",
+        "definition": "sympathetic feeling, kindness.",
+        "memoryChant": "com- (with) + pati (suffer) → 'Suffering with others—compassion!'",
+        "chinese": "同情；憐憫",
+        "synonyms": "sympathy, kindness, empathy",
+        "image": "small",
+        "sentence": "The nurse was known throughout the hospital for her deep __________ toward elderly patients who had no visiting relatives. She spent her lunch breaks reading newspapers aloud to them, holding their hands during painful treatments, and celebrating their birthdays with small cakes. Her kindness made lonely patients feel valued and remembered. When she retired after thirty-five years, dozens of former patients and their families gathered to thank her for her extraordinary sympathy.",
+        "translation": "這位護理師以她對沒有親人探望的年長病患所懷抱的深切同情而聞名全院。她利用午休時間為他們朗讀報紙，在痛苦的治療過程中握著他們的手，並用小蛋糕為他們慶祝生日。她的善良讓孤單的病患感到被重視、被記得。當她在服務三十五年後退休時，數十位昔日病患及其家屬齊聚一堂，感謝她非凡的關懷。",
+        "lookup": {
+          "english": "sympathetic feeling, kindness.",
+          "chinese": "同情；憐憫"
+        }
+      },
+      {
+        "word": "repugnant",
+        "pos": "adj.",
+        "definition": "distasteful, repulsive.",
+        "memoryChant": "re- (back) + pugnare (fight) → 'Makes you fight back in disgust—repugnant!'",
+        "chinese": "令人反感的",
+        "synonyms": "repulsive, offensive, disgusting",
+        "image": "clock",
+        "sentence": "Most people find the idea of profiting from other people's suffering deeply __________. When investigators revealed that a charity director had spent donations intended for earthquake victims on luxury cars and expensive vacations, public outrage was immediate. Citizens described his behavior as morally disgusting and demanded severe punishment. The scandal also damaged trust in legitimate charities, which reported sharp declines in donations during the following months. He was eventually sentenced to eight years in prison.",
+        "translation": "大多數人都認為從他人的苦難中牟利是極其令人反感的。當調查人員揭露一名慈善機構主管將捐給地震災民的善款揮霍在豪華汽車與昂貴旅遊上時，民眾立刻群情激憤。市民形容他的行為在道德上令人作嘔，並要求嚴懲。這起醜聞也損害了民眾對正當慈善機構的信任，這些機構在接下來幾個月中回報捐款大幅減少。他最終被判處八年徒刑。",
+        "lookup": {
+          "english": "distasteful, repulsive.",
+          "chinese": "令人反感的"
+        }
+      },
+      {
+        "word": "acme",
+        "pos": "n.",
+        "definition": "peak, pinnacle, zenith.",
+        "memoryChant": "akme (highest point) → 'The highest point—acme!'",
+        "chinese": "頂點；極點",
+        "synonyms": "peak, pinnacle, summit",
+        "image": "crack",
+        "sentence": "The Tang dynasty is often regarded as the __________ of classical Chinese civilization, a period when poetry, painting, and international trade flourished as never before. Poets such as Li Bai and Du Fu produced works that are still memorized by students today. The capital, Chang'an, became one of the largest and most cosmopolitan cities in the world. Historians describe this era as the highest point of Chinese cultural achievement. Its influence spread across Asia.",
+        "translation": "唐朝常被視為中國古典文明的巔峰，這個時期的詩歌、繪畫與國際貿易空前繁榮。李白與杜甫等詩人所創作的作品，至今仍為學生們背誦。首都長安成為當時世界上最大、最具國際色彩的城市之一。歷史學家將這個時代形容為中華文化成就的最高點。其影響力遍及整個亞洲。",
+        "lookup": {
+          "english": "peak, pinnacle, zenith.",
+          "chinese": "頂點；極點"
+        }
+      },
+      {
+        "word": "copious",
+        "pos": "adj.",
+        "definition": "ample, abundant, plentiful.",
+        "memoryChant": "copia (abundance) → 'In abundance—copious!'",
+        "chinese": "豐富的；大量的",
+        "synonyms": "abundant, plentiful, ample",
+        "image": "energy",
+        "sentence": "The diligent student took __________ notes during every lecture, filling several notebooks with detailed explanations, diagrams, and questions to research later. While her classmates relied on the professor's brief slides, she recorded examples and insights that were never included in the official materials. Before the final examination, she shared her abundant notes with friends, who were amazed by how thoroughly she had documented the entire semester's content. Everyone passed the exam comfortably.",
+        "translation": "這位勤奮的學生在每堂課都做大量筆記，寫滿了好幾本筆記本，內容包括詳細的解說、圖表，以及日後要查的問題。當同學們依賴教授簡短的投影片時，她記錄下從未出現在正式教材中的例子與見解。期末考前，她把豐富的筆記分享給朋友們，大家都驚訝於她將整學期的內容記錄得如此完整。大家都輕鬆通過了考試。",
+        "lookup": {
+          "english": "ample, abundant, plentiful.",
+          "chinese": "豐富的；大量的"
+        }
+      },
+      {
+        "word": "vehemently",
+        "pos": "adv.",
+        "definition": "violently, eagerly, passionately.",
+        "memoryChant": "vehere (carry) → 'Carried away with force—vehemently!'",
+        "chinese": "激烈地；強烈地",
+        "synonyms": "passionately, fiercely, forcefully",
+        "image": "scatter",
+        "sentence": "Local residents __________ opposed the plan to build a chemical factory beside the river, organizing protests, filling public hearings, and writing hundreds of angry letters to the city council. They argued passionately that pollution would poison their drinking water and destroy the fishing industry that supported many families. Their fierce resistance eventually persuaded officials to reject the proposal. Environmental groups praised the community for defending their natural resources so forcefully.",
+        "translation": "當地居民強烈反對在河邊興建化學工廠的計畫，他們組織抗議、擠滿公聽會，並寫了數百封憤怒的信給市議會。他們激動地主張，污染將毒害他們的飲用水，並摧毀許多家庭賴以維生的漁業。他們激烈的抵抗最終說服官員否決了該提案。環保團體讚揚這個社區如此強而有力地捍衛自己的自然資源。",
+        "lookup": {
+          "english": "violently, eagerly, passionately.",
+          "chinese": "激烈地；強烈地"
+        }
+      },
+      {
+        "word": "depict",
         "pos": "v.",
-        "definition": "to hinder or obstruct movement or progress.",
-        "chinese": "阻礙；妨礙",
-        "synonyms": "hinder, impede, obstruct",
-        "image": "lamp",
-        "sentence": "Persistent bureaucratic inefficiencies continued to __________ the rollout of the vaccination program, creating bottlenecks at multiple distribution points and preventing immunization resources from reaching the rural communities most in need. Health authorities convened an emergency coordination meeting to identify and systematically eliminate the procedural barriers delaying effective deployment.",
-        "translation": "持續的官僚低效繼續阻礙疫苗接種計劃的推廣，在多個分發點造成瓶頸，阻止免疫資源到達最需要保護的農村社區。衛生當局召開了緊急協調會議，以識別並系統性地消除延遲有效部署的程序障礙。",
+        "definition": "to describe clearly, picture, portray.",
+        "memoryChant": "de- (down) + pingere (paint) → 'Paint it down clearly—depict!'",
+        "chinese": "描繪；描述",
+        "synonyms": "portray, illustrate, represent",
+        "image": "burst",
+        "sentence": "The new documentary attempts to __________ daily life in rural Taiwan during the 1960s, using rare photographs, interviews with elderly farmers, and carefully restored film footage. Viewers see families harvesting rice by hand, children walking kilometers to school, and villages celebrating temple festivals. Critics praised the film for portraying the period honestly, showing both the hardships and the strong sense of community that characterized that era. Many elderly viewers were moved to tears by it.",
+        "translation": "這部新紀錄片試圖描繪1960年代台灣農村的日常生活，運用了珍貴的照片、年長農民的訪談，以及精心修復的影片畫面。觀眾可以看到家家戶戶以手工收割稻米、孩子們走好幾公里路上學，以及村莊慶祝廟會的情景。評論家稱讚這部影片忠實地呈現了那個時期，既展現了艱辛，也呈現了那個年代特有的強烈社群凝聚力。許多年長觀眾看得感動落淚。",
         "lookup": {
-          "english": "to hinder or obstruct movement or progress.",
-          "chinese": "阻礙；妨礙"
+          "english": "to describe clearly, picture, portray.",
+          "chinese": "描繪；描述"
         }
       },
       {
-        "word": "haughty",
+        "word": "naive",
         "pos": "adj.",
-        "definition": "arrogantly superior and disdainful.",
-        "chinese": "傲慢的；自大的",
-        "synonyms": "arrogant, supercilious, imperious",
-        "image": "fire",
-        "sentence": "The visiting dignitary's __________ manner alienated the local officials who had devoted considerable effort to arranging a welcoming reception. His visible contempt for the modest venue and dismissive treatment of junior staff communicated a profound disrespect that undermined the diplomatic objectives the visit was intended to advance.",
-        "translation": "這位到訪貴賓傲慢的態度疏遠了花費大量心力安排歡迎儀式的地方官員。他對簡樸場地的明顯輕視和對初級員工的蔑視態度，傳達出一種深刻的不尊重，破壞了此次訪問本應推進的外交目標。",
-        "lookup": {
-          "english": "arrogantly superior and disdainful.",
-          "chinese": "傲慢的；自大的"
-        }
-      },
-      {
-        "word": "hedonist",
-        "pos": "n.",
-        "definition": "a person who believes pleasure is the chief good.",
-        "chinese": "享樂主義者",
-        "synonyms": "pleasure-seeker, sybarite, sensualist",
-        "image": "fire",
-        "sentence": "The philosopher argued that characterizing Epicurus as a simple __________ fundamentally misrepresented his philosophical system, which actually prioritized modest pleasures, deep friendships, and intellectual contemplation over extravagant sensory indulgences. True Epicurean happiness was closer to tranquil simplicity than lavish excess.",
-        "translation": "這位哲學家認為，將伊比鳩魯定性為簡單的享樂主義者從根本上曲解了他的哲學體系，該體系實際上優先考慮適度的快樂、深厚的友誼和智識沉思，而非奢侈感官放縱。真正的伊比鳩魯幸福更接近寧靜的簡樸，而非奢華的過度。",
-        "lookup": {
-          "english": "a person who believes pleasure is the chief good.",
-          "chinese": "享樂主義者"
-        }
-      },
-      {
-        "word": "heresy",
-        "pos": "n.",
-        "definition": "a belief contrary to established doctrine.",
-        "chinese": "異端；離經叛道",
-        "synonyms": "blasphemy, apostasy, dissent",
+        "definition": "unworldly, unsophisticated.",
+        "memoryChant": "nativus (natural) → 'Natural as a newborn—naive!'",
+        "chinese": "天真的；幼稚的",
+        "synonyms": "innocent, gullible, inexperienced",
         "image": "regret",
-        "sentence": "Proposing that market competition might not always produce optimal social outcomes was considered virtual __________ within the economics department, where faculty committed to free-market orthodoxy viewed any structural critique of competitive mechanisms as an intellectually disreputable departure from rigorously established theoretical consensus.",
-        "translation": "在那個致力於自由市場正統觀念的經濟學系，提出市場競爭可能並不總能產生最佳社會結果被視為實際上的異端邪說，任何對競爭機制的結構性批評都被視為對嚴格確立的理論共識的智識上不可信的偏離。",
+        "sentence": "The __________ college freshman believed every advertisement promising easy money, and within his first semester he had lost his savings to three different online schemes. Having grown up in a small, trusting community, he had little experience with dishonest people. His older sister eventually sat him down and explained how to recognize common scams. He admitted that his innocent assumption that everyone told the truth had cost him dearly. He is much wiser now.",
+        "translation": "這位天真的大一新生相信每一則承諾輕鬆賺錢的廣告，才第一個學期，他就在三個不同的網路騙局中賠光了積蓄。由於在一個彼此信任的小社區長大，他幾乎沒有與不誠實的人打交道的經驗。他的姊姊最後找他坐下來談，教他如何辨識常見的詐騙手法。他承認，自己天真地以為每個人都說實話，這讓他付出了慘痛的代價。如今他明智多了。",
         "lookup": {
-          "english": "a belief contrary to established doctrine.",
-          "chinese": "異端；離經叛道"
+          "english": "unworldly, unsophisticated.",
+          "chinese": "天真的；幼稚的"
         }
       },
       {
-        "word": "hypocritical",
+        "word": "perfidious",
         "pos": "adj.",
-        "definition": "behaving in contradiction to stated beliefs.",
-        "chinese": "偽善的；言行不一的",
-        "synonyms": "insincere, sanctimonious, two-faced",
-        "image": "cup",
-        "sentence": "Critics characterized the senator's vocal advocacy for strict austerity measures as deeply __________, given that her legislative record included multiple appropriations earmarks directing substantial federal funding toward projects in her home district. The apparent contradiction between public rhetoric and voting history generated extensive media scrutiny.",
-        "translation": "批評者將這位參議員大力倡導嚴格緊縮措施的行為定性為深度偽善，因為她自己的立法記錄包含多項將大量聯邦資金導向其選區項目的撥款附加條款。她公開言論與投票歷史之間明顯的矛盾引發了廣泛的媒體審視。",
+        "definition": "treacherous, false.",
+        "memoryChant": "per- (through) + fides (faith) → 'Breaking through faith—perfidious!'",
+        "chinese": "背信棄義的",
+        "synonyms": "treacherous, disloyal, deceitful",
+        "image": "small",
+        "sentence": "In the famous play, the king's most trusted advisor turns out to be a __________ traitor who secretly plots with enemy forces to seize the throne. He pretends to be loyal, offering wise counsel and flattering the king, while sending coded messages to foreign armies. When his treachery is finally exposed in the final act, audiences gasp at the depth of his betrayal. Critics consider him one of literature's greatest villains.",
+        "translation": "在這齣著名的戲劇中，國王最信任的謀士竟是一名背信棄義的叛徒，暗中與敵軍密謀篡奪王位。他假裝忠心耿耿，提供明智的建言並奉承國王，同時卻向外國軍隊傳送密碼訊息。當他的背叛在最後一幕終於被揭穿時，觀眾對他背叛之深感到震驚。評論家認為他是文學史上最偉大的反派角色之一。",
         "lookup": {
-          "english": "behaving in contradiction to stated beliefs.",
-          "chinese": "偽善的；言行不一的"
+          "english": "treacherous, false.",
+          "chinese": "背信棄義的"
+        }
+      },
+      {
+        "word": "covet",
+        "pos": "v.",
+        "definition": "to want, envy, wish for.",
+        "memoryChant": "cupere (desire) → 'Cupid's desire—covet!'",
+        "chinese": "垂涎；貪求",
+        "synonyms": "desire, crave, envy",
+        "image": "energy",
+        "sentence": "Many young athletes __________ the championship trophy displayed in the school's entrance hall, imagining the day they might lift it above their heads. The gleaming silver cup has been awarded only five times in the school's century-long history. Coaches use the players' intense desire for the prize as motivation during exhausting training sessions. This year, the determined basketball team believes it finally has a realistic chance of winning it. The entire school will be watching.",
+        "translation": "許多年輕運動員都渴望得到陳列在學校大廳的冠軍獎盃，想像著有朝一日能將它高舉過頭。這座閃亮的銀盃在學校百年歷史中只頒發過五次。教練們利用球員們對這項榮譽的強烈渴望，作為激勵他們熬過艱苦訓練的動力。今年，這支意志堅定的籃球隊相信，他們終於有了贏得獎盃的真正機會。全校都會關注這場比賽。",
+        "lookup": {
+          "english": "to want, envy, wish for.",
+          "chinese": "垂涎；貪求"
+        }
+      },
+      {
+        "word": "ingratiate",
+        "pos": "v.",
+        "definition": "to win confidence, charm.",
+        "memoryChant": "in- (into) + gratia (favor) → 'Work your way into favor—ingratiate!'",
+        "chinese": "討好；迎合",
+        "synonyms": "flatter, curry favor, charm",
+        "image": "regret",
+        "sentence": "The new employee tried to __________ himself with the manager by bringing her coffee every morning, praising her ideas loudly during meetings, and volunteering for every task she mentioned. His colleagues quickly recognized these obvious attempts to win favor and found them uncomfortable. The manager, however, was more impressed by quiet, competent workers than by flattery. She eventually advised him to focus on improving his performance rather than seeking approval.",
+        "translation": "這名新進員工試圖討好經理，每天早上幫她帶咖啡，在會議上大聲稱讚她的點子，並自願承接她提到的每一項任務。同事們很快便看穿這些明顯想博取好感的舉動，並感到不自在。然而，經理更欣賞安靜又能幹的員工，而非奉承之舉。她最後建議他專注於提升工作表現，而不是一味尋求認可。",
+        "lookup": {
+          "english": "to win confidence, charm.",
+          "chinese": "討好；迎合"
+        }
+      },
+      {
+        "word": "penury",
+        "pos": "n.",
+        "definition": "poverty.",
+        "memoryChant": "paene (lacking) → 'Lacking even pennies—penury!'",
+        "chinese": "貧困；拮据",
+        "synonyms": "poverty, destitution, want",
+        "image": "cane",
+        "sentence": "The famous painter Vincent van Gogh lived much of his life in __________, depending on his brother's financial support to buy food, paint, and canvases. He sold only one painting during his lifetime and often went hungry to afford art supplies. Despite such extreme poverty, he produced more than two thousand works. Ironically, his paintings now sell for tens of millions of dollars at international auctions. His story remains deeply moving.",
+        "translation": "知名畫家梵谷一生大多數時間都過著貧困的生活，靠弟弟的經濟支援購買食物、顏料與畫布。他生前只賣出一幅畫，而且常常為了買得起繪畫用品而挨餓。儘管身處如此極端的貧窮，他仍創作了兩千多件作品。諷刺的是，他的畫作如今在國際拍賣會上以數千萬美元成交。他的故事至今仍令人深深動容。",
+        "lookup": {
+          "english": "poverty.",
+          "chinese": "貧困；拮据"
         }
       },
       {
         "word": "ignominious",
         "pos": "adj.",
-        "definition": "deserving or causing public disgrace.",
-        "chinese": "可恥的；丟臉的",
-        "synonyms": "shameful, disgraceful, humiliating",
-        "image": "mountain",
-        "sentence": "The decorated athlete's __________ disqualification from the championship erased a career of genuine achievement in the public memory, replacing decades of legitimate success with an association of deliberate dishonesty that proved extraordinarily difficult to overcome in subsequent public rehabilitation efforts.",
-        "translation": "這位功勳卓著的運動員在錦標賽中被取消資格，這種可恥的結局在公眾記憶中抹去了真實成就的職業生涯，用數十年合法成功換來了刻意不誠實的印象，在隨後的公眾形象恢復努力中被證明極難克服。",
+        "definition": "humiliating, disgraceful.",
+        "memoryChant": "in- (not) + nomen (name) → 'Losing your good name—ignominious!'",
+        "chinese": "可恥的；不光彩的",
+        "synonyms": "humiliating, disgraceful, shameful",
+        "image": "rubble",
+        "sentence": "The once-powerful corporation suffered an __________ collapse when auditors discovered that executives had falsified financial records for nearly a decade. Its shares became worthless within days, thousands of employees lost their jobs, and several top managers were sentenced to prison. The humiliating downfall shocked investors who had considered the company one of the most reliable in the nation. Business schools now use the scandal as a warning about corporate dishonesty.",
+        "translation": "這家曾經權勢顯赫的企業，在稽核人員發現高層將近十年來一直偽造財務紀錄後，經歷了一場不光彩的崩垮。其股票在幾天內變得一文不值，數千名員工失業，數名高階主管被判入獄。這場羞辱性的垮台震驚了原本認為該公司是全國最可靠企業之一的投資人。商學院如今以這起醜聞作為企業不誠實的警世案例。",
         "lookup": {
-          "english": "deserving or causing public disgrace.",
-          "chinese": "可恥的；丟臉的"
-        }
-      },
-      {
-        "word": "immutable",
-        "pos": "adj.",
-        "definition": "unchanging over time; impossible to change.",
-        "chinese": "不變的；不可改變的",
-        "synonyms": "invariable, fixed, permanent",
-        "image": "shield",
-        "sentence": "Constitutional scholars debated whether certain foundational rights should be treated as effectively __________, protected from revision even by overwhelming democratic majorities, or whether all provisions should remain subject to modification through sufficiently demanding procedural safeguards reflecting genuine long-term popular consensus.",
-        "translation": "憲法學者辯論某些基本權利是否應被視為實際上不可改變的，即使面對壓倒性的民主多數也受到保護，還是所有條款都應通過充分嚴格的程序保障保持可修改性，這些保障反映真正的長期民眾共識。",
-        "lookup": {
-          "english": "unchanging over time; impossible to change.",
-          "chinese": "不變的；不可改變的"
-        }
-      },
-      {
-        "word": "impasse",
-        "pos": "n.",
-        "definition": "a situation where no progress is possible.",
-        "chinese": "僵局；死胡同",
-        "synonyms": "deadlock, stalemate, standstill",
-        "image": "eraser",
-        "sentence": "Negotiations reached a complete __________ when neither party proved willing to compromise on the territorial provisions that each considered fundamental to their respective domestic political constituencies. International mediators proposed several creative interim arrangements designed to defer the most contentious issues while allowing progress on other dimensions of the framework.",
-        "translation": "當雙方都不願意在各自認為對其國內政治選民至關重要的領土條款上妥協時，談判陷入完全僵局。國際調解人提出了幾項創造性的臨時安排，旨在推遲最具爭議的具體問題，同時在全面解決框架的其他方面取得進展。",
-        "lookup": {
-          "english": "a situation where no progress is possible.",
-          "chinese": "僵局；死胡同"
+          "english": "humiliating, disgraceful.",
+          "chinese": "可恥的；不光彩的"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The community health worker's __________ dedication to improving sanitation access in underserved neighborhoods inspired volunteers who had previously lacked motivation, her visible passion and genuine belief that incremental improvements would cumulatively transform living conditions providing the emotional foundation that sustained collective effort through months of slow institutional progress.",
+        "question": "Although she began her career writing detective stories, the novelist later experimented with a completely different __________, publishing historical romances set in eighteenth-century Europe. Her loyal readers were initially surprised by the change in style and subject matter. However, she brought the same careful plotting and memorable characters to this new category of fiction. Bookstores now display her works in several sections, reflecting her remarkable versatility as a writer. Critics admire her fearless range.",
         "options": [
           {
             "letter": "A",
-            "text": "fickle"
+            "text": "acme"
           },
           {
             "letter": "B",
-            "text": "fervent"
+            "text": "genre"
           },
           {
             "letter": "C",
-            "text": "flagrant"
+            "text": "penury"
           },
           {
             "letter": "D",
-            "text": "flippant"
+            "text": "epitome"
           }
         ],
         "answer": "B",
-        "answerWord": "fervent"
+        "answerWord": "genre"
       },
       {
         "number": 2,
-        "question": "The scientific breakthrough was entirely __________, emerging from a laboratory accident in which an improperly sealed container contaminated a neighboring experiment and produced a compound with remarkable properties that no theoretical framework had predicted — an unplanned observation that launched a decade of systematic investigation.",
+        "question": "When the patient asked for an honest assessment of her condition, the doctor gave a __________ explanation, describing both the risks of surgery and the likely outcomes without softening the facts. Although the information was difficult to hear, the patient appreciated his frankness. She explained later that open, truthful communication allowed her to make informed decisions. Medical ethicists increasingly emphasize that honesty builds essential trust between physicians and patients. Her surgery was ultimately successful.",
         "options": [
           {
             "letter": "A",
-            "text": "frugal"
+            "text": "perfidious"
           },
           {
             "letter": "B",
-            "text": "fickle"
+            "text": "venial"
           },
           {
             "letter": "C",
-            "text": "fortuitous"
+            "text": "candid"
           },
           {
             "letter": "D",
-            "text": "flagrant"
+            "text": "grotesque"
           }
         ],
         "answer": "C",
-        "answerWord": "fortuitous"
+        "answerWord": "candid"
       },
       {
         "number": 3,
-        "question": "Experienced managers quickly recognized which subordinates genuinely respected their leadership and which merely attempted to __________ over senior partners to advance personal agendas — authentic professional relationships being distinguishable from calculated flattery by their consistency across contexts where hierarchical advantage was not immediately relevant.",
+        "question": "Parents grew concerned when their teenage son began spending time with __________ characters who hung around the abandoned parking lot late at night. Neighbors reported that several members of the group had been arrested for theft and vandalism. The worried parents encouraged him to join the school basketball team instead, hoping that positive role models would replace his disreputable companions. Within months, his grades and attitude had improved considerably. His parents were enormously relieved.",
         "options": [
           {
             "letter": "A",
-            "text": "fawn"
+            "text": "unsavory"
           },
           {
             "letter": "B",
-            "text": "flounder"
+            "text": "copious"
           },
           {
             "letter": "C",
-            "text": "hamper"
+            "text": "naive"
           },
           {
             "letter": "D",
-            "text": "fawn"
+            "text": "venial"
           }
         ],
         "answer": "A",
-        "answerWord": "fawn"
+        "answerWord": "unsavory"
       },
       {
         "number": 4,
-        "question": "The newly promoted executive's __________ dismissal of colleagues who had previously been her peers generated immediate resentment throughout the department, her sudden adoption of condescending mannerisms following elevation to senior leadership contradicting the collaborative reputation she had carefully built throughout her earlier career.",
+        "question": "Labor activists argue that forcing warehouse workers to request permission before using the restroom can __________ employees and deny them basic dignity. Some companies track every movement with cameras and timers, treating staff more like machines than human beings. Critics insist that such humiliating policies damage morale and ultimately reduce productivity. Several governments are now considering laws requiring employers to respect workers' fundamental rights and personal dignity. The debate continues in many countries.",
         "options": [
           {
             "letter": "A",
-            "text": "garrulous"
+            "text": "covet"
           },
           {
             "letter": "B",
-            "text": "grandiose"
+            "text": "depict"
           },
           {
             "letter": "C",
-            "text": "gregarious"
+            "text": "ingratiate"
           },
           {
             "letter": "D",
-            "text": "haughty"
+            "text": "degrade"
           }
         ],
         "answer": "D",
-        "answerWord": "haughty"
+        "answerWord": "degrade"
       },
       {
         "number": 5,
-        "question": "The tribunal characterized the contractor's billing practices as a __________ violation of procurement regulations, noting that the systematic inflation of labor hours was too extensive and consistent to represent anything other than deliberate fraud — a finding that resulted in criminal referrals alongside the civil recovery proceedings.",
+        "question": "Most readers regarded the author's occasional spelling errors as __________ mistakes that hardly affected the quality of her brilliant novel. Critics focused instead on her powerful characters and beautifully constructed plot. The publisher corrected the minor slips in the second printing without any public controversy. Editors explained that small, forgivable imperfections are common in first editions, whereas serious factual errors or plagiarism would have caused genuine damage to her reputation.",
         "options": [
           {
             "letter": "A",
-            "text": "fickle"
+            "text": "repugnant"
           },
           {
             "letter": "B",
-            "text": "flagrant"
+            "text": "venial"
           },
           {
             "letter": "C",
-            "text": "flippant"
-          },
-          {
-            "letter": "D",
-            "text": "fervent"
-          }
-        ],
-        "answer": "B",
-        "answerWord": "flagrant"
-      },
-      {
-        "number": 6,
-        "question": "The seasoned diplomat advised her junior colleagues to approach every negotiation by assuming that __________ rather than transparency motivated the positions initially presented, building verification mechanisms into any preliminary agreement before committing their government's resources or credibility to its implementation.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "heresy"
-          },
-          {
-            "letter": "B",
-            "text": "hedonist"
-          },
-          {
-            "letter": "C",
-            "text": "guile"
-          },
-          {
-            "letter": "D",
-            "text": "impasse"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "guile"
-      },
-      {
-        "number": 7,
-        "question": "The __________ committee member's tendency to deliver extended monologues on tangential historical precedents consumed disproportionate meeting time and required the chairperson to develop increasingly sophisticated facilitation strategies for politely limiting her contributions without creating interpersonal conflict.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "garrulous"
-          },
-          {
-            "letter": "B",
-            "text": "grandiose"
-          },
-          {
-            "letter": "C",
-            "text": "gregarious"
-          },
-          {
-            "letter": "D",
-            "text": "haughty"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "garrulous"
-      },
-      {
-        "number": 8,
-        "question": "Labor negotiations collapsed into a prolonged __________ when management refused to reconsider any element of its final compensation offer and union representatives faced membership pressure to reject terms that fell short of the minimum acceptable threshold, with third-party arbitration eventually invoked as the mechanism for breaking the deadlock.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "hedonist"
-          },
-          {
-            "letter": "B",
-            "text": "heresy"
-          },
-          {
-            "letter": "C",
-            "text": "guile"
-          },
-          {
-            "letter": "D",
-            "text": "impasse"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "impasse"
-      },
-      {
-        "number": 9,
-        "question": "The film that had been promoted with extraordinary fanfare made an __________ debut at the box office, earning only a fraction of its projected opening weekend revenue despite months of saturation marketing — critics pointing to the disconnect between the promotional campaign's promises and the film's actual narrative substance.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "immutable"
-          },
-          {
-            "letter": "B",
-            "text": "garrulous"
-          },
-          {
-            "letter": "C",
-            "text": "gregarious"
+            "text": "perfidious"
           },
           {
             "letter": "D",
             "text": "ignominious"
           }
         ],
+        "answer": "B",
+        "answerWord": "venial"
+      },
+      {
+        "number": 6,
+        "question": "With his perfectly tailored suit, polished shoes, and impeccable manners, the elderly gentleman seemed the very __________ of old-fashioned elegance. He opened doors for strangers, spoke softly and courteously, and never appeared in public without his silk tie. Younger neighbors often joked that he had stepped directly out of a classic film. To many people, he represented a perfect example of graciousness that seemed increasingly rare in modern society. Neighbors genuinely missed him after he moved.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "dexterity"
+          },
+          {
+            "letter": "B",
+            "text": "penury"
+          },
+          {
+            "letter": "C",
+            "text": "epitome"
+          },
+          {
+            "letter": "D",
+            "text": "genre"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "epitome"
+      },
+      {
+        "number": 7,
+        "question": "Watchmakers require extraordinary __________ to assemble mechanisms containing hundreds of tiny springs, gears, and screws, many smaller than a grain of rice. Using tweezers and magnifying glasses, they position each component with precise, delicate movements. A single careless motion can damage parts worth thousands of dollars. Master craftsmen typically train for more than a decade before developing the steady hands and nimble fingers that this demanding profession requires. Few people possess such patience.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "dexterity"
+          },
+          {
+            "letter": "B",
+            "text": "compassion"
+          },
+          {
+            "letter": "C",
+            "text": "acme"
+          },
+          {
+            "letter": "D",
+            "text": "genre"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "dexterity"
+      },
+      {
+        "number": 8,
+        "question": "The horror film featured __________ creatures with twisted limbs, oversized heads, and eyes positioned in unnatural places across their bodies. Special effects artists spent months designing these disturbing, misshapen monsters to provoke fear and disgust among viewers. Some audience members found the images so unsettling that they left the theater early. Nevertheless, critics praised the film's bold visual imagination and its ability to create genuinely frightening, unforgettable scenes. It has since become a cult classic.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "candid"
+          },
+          {
+            "letter": "B",
+            "text": "naive"
+          },
+          {
+            "letter": "C",
+            "text": "venial"
+          },
+          {
+            "letter": "D",
+            "text": "grotesque"
+          }
+        ],
         "answer": "D",
-        "answerWord": "ignominious"
+        "answerWord": "grotesque"
+      },
+      {
+        "number": 9,
+        "question": "After the typhoon destroyed hundreds of homes, volunteers from across the island arrived to help, demonstrating remarkable __________ for families who had lost everything. They distributed food, repaired roofs, and comforted frightened children in temporary shelters. Many volunteers had never met the victims before, yet they treated them like members of their own families. Community leaders said this outpouring of kindness and sympathy had given survivors hope during their darkest days.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "epitome"
+          },
+          {
+            "letter": "B",
+            "text": "dexterity"
+          },
+          {
+            "letter": "C",
+            "text": "acme"
+          },
+          {
+            "letter": "D",
+            "text": "compassion"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "compassion"
       },
       {
         "number": 10,
-        "question": "Inadequate telecommunications infrastructure continued to __________ economic development in rural areas, limiting entrepreneurs' access to digital markets, financial services, and collaborative networks that urban counterparts took for granted — policymakers debating whether universal connectivity mandates or targeted infrastructure subsidies represented the most cost-effective solution.",
+        "question": "The idea of testing cosmetics on animals has become increasingly __________ to consumers, many of whom consider the practice cruel and unnecessary. Surveys show that shoppers are willing to pay higher prices for products certified as cruelty-free. Responding to public disgust, several countries have banned animal testing for beauty products entirely. Companies that continue the practice risk damaging their reputations and losing customers who find it morally offensive. Consumer attitudes have shifted rapidly.",
         "options": [
           {
             "letter": "A",
-            "text": "fawn"
+            "text": "copious"
           },
           {
             "letter": "B",
-            "text": "hamper"
+            "text": "repugnant"
           },
           {
             "letter": "C",
-            "text": "flounder"
+            "text": "candid"
           },
           {
             "letter": "D",
-            "text": "fawn"
+            "text": "naive"
           }
         ],
         "answer": "B",
-        "answerWord": "hamper"
+        "answerWord": "repugnant"
       },
       {
         "number": 11,
-        "question": "The __________ sales director built her remarkable client retention record through genuine personal investment in understanding each customer's individual context and priorities, rather than relying on standardized relationship management protocols — her natural ease with strangers enabling her to establish productive working relationships far more rapidly than many technically superior colleagues.",
+        "question": "Winning the Olympic gold medal represented the __________ of the swimmer's long career, the moment toward which she had worked through fifteen years of early mornings and exhausting training. Standing on the podium as her national anthem played, she wept with joy. Although she competed for several more years, she never again reached such a height. She later described that victory as the absolute peak of her athletic life. Her medal now hangs in a museum.",
         "options": [
           {
             "letter": "A",
-            "text": "gregarious"
+            "text": "acme"
           },
           {
             "letter": "B",
-            "text": "grandiose"
+            "text": "penury"
           },
           {
             "letter": "C",
-            "text": "garrulous"
+            "text": "compassion"
           },
           {
             "letter": "D",
-            "text": "haughty"
+            "text": "dexterity"
           }
         ],
         "answer": "A",
-        "answerWord": "gregarious"
+        "answerWord": "acme"
       },
       {
         "number": 12,
-        "question": "Financial analysts warned that investor sentiment in the emerging technology sector was notoriously __________, capable of shifting dramatically between enthusiastic adoption and complete abandonment within a single quarter based on factors having little connection to underlying business fundamentals.",
+        "question": "The tropical region receives __________ rainfall throughout the year, often more than four meters annually, which supports some of the most diverse forests on Earth. Rivers overflow regularly, and the humid air encourages rapid plant growth. This abundant water allows thousands of species of insects, birds, and mammals to thrive. Scientists studying the area warn, however, that deforestation could disrupt the rainfall patterns on which the entire ecosystem depends. Visitors are always amazed by the vegetation.",
         "options": [
           {
             "letter": "A",
-            "text": "fervent"
+            "text": "ignominious"
           },
           {
             "letter": "B",
-            "text": "fickle"
+            "text": "copious"
           },
           {
             "letter": "C",
-            "text": "flippant"
+            "text": "unsavory"
           },
           {
             "letter": "D",
-            "text": "fortuitous"
+            "text": "perfidious"
           }
         ],
         "answer": "B",
-        "answerWord": "fickle"
+        "answerWord": "copious"
       },
       {
         "number": 13,
-        "question": "Without adequate mentorship or structured guidance, many first-generation university students begin to __________ academically during their initial semester, unfamiliar with the implicit expectations, informal networks, and strategic resource-utilization practices that students from more privileged educational backgrounds typically absorbed through family experience.",
+        "question": "The famous scientist __________ denied accusations that he had manipulated research data, pounding the table during the press conference and shouting at journalists who questioned his integrity. He insisted passionately that his critics were motivated by jealousy and demanded an independent investigation. His fierce reaction surprised many observers, who had expected a calm response. The investigation eventually cleared him, confirming that his results had been completely accurate. Critics later apologized publicly to him.",
         "options": [
           {
             "letter": "A",
-            "text": "flounder"
+            "text": "vehemently"
           },
           {
             "letter": "B",
-            "text": "fawn"
+            "text": "candidly"
           },
           {
             "letter": "C",
-            "text": "hamper"
+            "text": "naively"
           },
           {
             "letter": "D",
-            "text": "flounder"
+            "text": "copiously"
           }
         ],
         "answer": "A",
-        "answerWord": "flounder"
+        "answerWord": "vehemently"
       },
       {
         "number": 14,
-        "question": "Evolutionary biologists challenged the assumption that species characteristics were __________, demonstrating through longitudinal population studies that heritable traits responded to selective environmental pressures over surprisingly compressed timescales — a finding that generated productive debate about the appropriate timescales across which biological stability should be conceptualized.",
+        "question": "Ancient cave paintings discovered in southern France __________ horses, bison, and deer with astonishing realism, suggesting that prehistoric artists observed animals very carefully. Some images portray hunting scenes, while others appear to represent spiritual rituals. Researchers use modern technology to date the colorful illustrations, which may be more than thirty thousand years old. These remarkable artworks offer valuable insights into how early humans understood and represented their surrounding world. Tourists may view only replicas today.",
         "options": [
           {
             "letter": "A",
-            "text": "flippant"
+            "text": "ingratiate"
           },
           {
             "letter": "B",
-            "text": "flagrant"
+            "text": "degrade"
           },
           {
             "letter": "C",
-            "text": "fickle"
+            "text": "covet"
           },
           {
             "letter": "D",
-            "text": "immutable"
+            "text": "depict"
           }
         ],
         "answer": "D",
-        "answerWord": "immutable"
+        "answerWord": "depict"
       },
       {
         "number": 15,
-        "question": "The public official's __________ stance on environmental regulation became apparent when investigative reporters documented his extensive personal investments in the very industrial enterprises whose emissions standards he was publicly advocating to weaken — a conflict of interest generating immediate demands for recusal from the relevant legislative proceedings.",
+        "question": "It would be __________ to believe that every online review is written by a genuine customer. Investigations have revealed that some companies pay people to post enthusiastic comments about their products and negative reviews about competitors. Consumers who trust these ratings without question may make poor purchasing decisions. Experts advise shoppers to read reviews critically, compare multiple sources, and remain skeptical of comments that seem unusually positive or suspiciously similar.",
         "options": [
           {
             "letter": "A",
-            "text": "haughty"
+            "text": "grotesque"
           },
           {
             "letter": "B",
-            "text": "grandiose"
+            "text": "repugnant"
           },
           {
             "letter": "C",
-            "text": "hypocritical"
+            "text": "naive"
           },
           {
             "letter": "D",
-            "text": "garrulous"
+            "text": "ignominious"
           }
         ],
         "answer": "C",
-        "answerWord": "hypocritical"
+        "answerWord": "naive"
       },
       {
         "number": 16,
-        "question": "The startup's survival through its first three years of operation was attributable largely to the founders' __________ approach to resource allocation, consistently distinguishing between expenses that directly advanced core product development and those that merely created a more comfortable working environment without contributing measurably to strategic objectives.",
+        "question": "History remembers the general as a __________ commander who abandoned his allies in the middle of battle and secretly negotiated with the enemy for personal gain. His sudden betrayal led to the deaths of thousands of soldiers who had trusted his promises of support. After the war, his name became synonymous with treachery throughout the region. Even today, calling someone by his name is considered a serious insult. His descendants changed their family name.",
         "options": [
           {
             "letter": "A",
-            "text": "flagrant"
+            "text": "copious"
           },
           {
             "letter": "B",
-            "text": "frugal"
+            "text": "perfidious"
           },
           {
             "letter": "C",
-            "text": "fervent"
+            "text": "candid"
           },
           {
             "letter": "D",
-            "text": "fickle"
+            "text": "venial"
           }
         ],
         "answer": "B",
-        "answerWord": "frugal"
+        "answerWord": "perfidious"
       },
       {
         "number": 17,
-        "question": "The spokesperson's __________ dismissal of safety concerns raised by independent researchers proved strategically disastrous when subsequent events validated the warnings she had publicly ridiculed — communications advisors later citing this episode as a textbook example of how dismissive responses to legitimate technical concerns could transform manageable regulatory challenges into existential crises.",
+        "question": "Children in the village would often __________ the shiny red bicycle owned by the wealthy merchant's son, gathering around to admire it whenever he rode past. None of their families could afford such a luxury, and many dreamed of owning one someday. The boy, noticing their longing looks, eventually began lending the bicycle to his friends on weekends. His generosity transformed their envy into admiration and lasting friendship. Everyone eventually learned to ride it.",
         "options": [
           {
             "letter": "A",
-            "text": "fortuitous"
+            "text": "depict"
           },
           {
             "letter": "B",
-            "text": "fervent"
+            "text": "degrade"
           },
           {
             "letter": "C",
-            "text": "flippant"
+            "text": "covet"
           },
           {
             "letter": "D",
-            "text": "flagrant"
+            "text": "ingratiate"
           }
         ],
         "answer": "C",
-        "answerWord": "flippant"
+        "answerWord": "covet"
       },
       {
         "number": 18,
-        "question": "Suggesting that unlimited economic growth was neither environmentally sustainable nor necessarily conducive to human wellbeing was treated as intellectual __________ within policy circles dominated by development economists who had built theoretical careers on the premise that growth was the universal solution to social problems.",
+        "question": "Politicians often try to __________ themselves with voters by visiting local markets, shaking hands with shopkeepers, and tasting regional specialties in front of television cameras. Such carefully staged appearances are designed to create an impression of friendliness and understanding. Critics argue that these attempts to win favor rarely reflect genuine concern for ordinary citizens. Voters increasingly judge candidates by their policies rather than by charming public performances. Genuine sincerity usually matters most.",
         "options": [
           {
             "letter": "A",
-            "text": "heresy"
+            "text": "ingratiate"
           },
           {
             "letter": "B",
-            "text": "impasse"
+            "text": "covet"
           },
           {
             "letter": "C",
-            "text": "hedonist"
+            "text": "depict"
           },
           {
             "letter": "D",
-            "text": "guile"
+            "text": "degrade"
           }
         ],
         "answer": "A",
-        "answerWord": "heresy"
+        "answerWord": "ingratiate"
       },
       {
         "number": 19,
-        "question": "The urban regeneration proposal's __________ ambition attracted significant media attention but drew skepticism from experienced planners who noted that similar transformative visions had repeatedly foundered on the practical realities of securing adequate financing and sustaining political commitment across multiple electoral cycles.",
+        "question": "The economic crisis pushed thousands of families into __________, forcing parents to skip meals so their children could eat and to sell furniture to pay rent. Unemployment rose sharply, and charities struggled to meet the growing demand for food and shelter. Social workers reported that many households had fallen from comfortable middle-class lives into extreme poverty within months. Government assistance programs eventually helped some recover, but the hardship lasted years.",
         "options": [
           {
             "letter": "A",
-            "text": "grandiose"
+            "text": "penury"
           },
           {
             "letter": "B",
-            "text": "gregarious"
+            "text": "epitome"
           },
           {
             "letter": "C",
-            "text": "garrulous"
+            "text": "genre"
           },
           {
             "letter": "D",
-            "text": "haughty"
+            "text": "acme"
           }
         ],
         "answer": "A",
-        "answerWord": "grandiose"
+        "answerWord": "penury"
       },
       {
         "number": 20,
-        "question": "The veteran politician's __________ defeat in the primary election, losing to a largely unknown challenger by a substantial margin despite decades of incumbency advantage, was attributed by analysts to his failure to recognize how dramatically his constituents' priorities had shifted since his last competitive campaign.",
+        "question": "The heavily favored football team suffered a truly __________ defeat, losing ten to zero against an amateur club composed mostly of students and part-time workers. Fans who had traveled long distances booed loudly and left the stadium before the final whistle. Newspapers the next morning described the humiliating result as the most disgraceful performance in the club's history. The coach resigned immediately, apologizing publicly to supporters for the shameful loss.",
         "options": [
           {
             "letter": "A",
-            "text": "fickle"
+            "text": "venial"
           },
           {
             "letter": "B",
-            "text": "flippant"
+            "text": "candid"
           },
           {
             "letter": "C",
-            "text": "flagrant"
+            "text": "naive"
           },
           {
             "letter": "D",
@@ -769,84 +789,84 @@ window.FLASHCARD_UNITS = {
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "fawn": [
-    "to seek favor through servile flattery.",
-    "奉承；諂媚"
+  "genre": [
+    "a certain form or style in art or literature.",
+    "類型；流派"
   ],
-  "fervent": [
-    "having or showing passionate intensity.",
-    "熱情的；熱切的"
+  "candid": [
+    "frank, open, honest.",
+    "坦白的；直率的"
   ],
-  "fickle": [
-    "changing frequently; not loyal or constant.",
-    "善變的；靠不住的"
+  "unsavory": [
+    "disagreeable, offensive, morally bad.",
+    "令人討厭的；道德敗壞的"
   ],
-  "flagrant": [
-    "conspicuously offensive; blatant.",
-    "公然的；罪惡昭彰的"
+  "degrade": [
+    "to make contemptible, lower.",
+    "貶低；使降級"
   ],
-  "flippant": [
-    "not showing appropriate seriousness.",
-    "輕率的；不嚴肅的"
+  "venial": [
+    "pardonable, forgivable.",
+    "可寬恕的；輕微的"
   ],
-  "flounder": [
-    "to struggle helplessly; to proceed clumsily.",
-    "掙扎；手足無措"
+  "epitome": [
+    "a person or thing that represents the best.",
+    "縮影；典範"
   ],
-  "fortuitous": [
-    "happening by lucky chance; unexpected.",
-    "偶然的；幸運的"
+  "dexterity": [
+    "mental or physical skill.",
+    "靈巧；敏捷"
   ],
-  "frugal": [
-    "sparing with money or resources; economical.",
-    "節儉的；節約的"
+  "grotesque": [
+    "strange, bizarre, misshapen.",
+    "奇形怪狀的；荒誕的"
   ],
-  "garrulous": [
-    "excessively talkative about trivial matters.",
-    "饒舌的；喋喋不休的"
+  "compassion": [
+    "sympathetic feeling, kindness.",
+    "同情；憐憫"
   ],
-  "grandiose": [
-    "impressively large and ambitious; pompously showy.",
-    "宏偉的；誇大的"
+  "repugnant": [
+    "distasteful, repulsive.",
+    "令人反感的"
   ],
-  "gregarious": [
-    "fond of company; sociable.",
-    "愛社交的；合群的"
+  "acme": [
+    "peak, pinnacle, zenith.",
+    "頂點；極點"
   ],
-  "guile": [
-    "sly or cunning intelligence; deceitfulness.",
-    "狡猾；詭計"
+  "copious": [
+    "ample, abundant, plentiful.",
+    "豐富的；大量的"
   ],
-  "hamper": [
-    "to hinder or obstruct movement or progress.",
-    "阻礙；妨礙"
+  "vehemently": [
+    "violently, eagerly, passionately.",
+    "激烈地；強烈地"
   ],
-  "haughty": [
-    "arrogantly superior and disdainful.",
-    "傲慢的；自大的"
+  "depict": [
+    "to describe clearly, picture, portray.",
+    "描繪；描述"
   ],
-  "hedonist": [
-    "a person who believes pleasure is the chief good.",
-    "享樂主義者"
+  "naive": [
+    "unworldly, unsophisticated.",
+    "天真的；幼稚的"
   ],
-  "heresy": [
-    "a belief contrary to established doctrine.",
-    "異端；離經叛道"
+  "perfidious": [
+    "treacherous, false.",
+    "背信棄義的"
   ],
-  "hypocritical": [
-    "behaving in contradiction to stated beliefs.",
-    "偽善的；言行不一的"
+  "covet": [
+    "to want, envy, wish for.",
+    "垂涎；貪求"
+  ],
+  "ingratiate": [
+    "to win confidence, charm.",
+    "討好；迎合"
+  ],
+  "penury": [
+    "poverty.",
+    "貧困；拮据"
   ],
   "ignominious": [
-    "deserving or causing public disgrace.",
-    "可恥的；丟臉的"
-  ],
-  "immutable": [
-    "unchanging over time; impossible to change.",
-    "不變的；不可改變的"
-  ],
-  "impasse": [
-    "a situation where no progress is possible.",
-    "僵局；死胡同"
+    "humiliating, disgraceful.",
+    "可恥的；不光彩的"
   ]
 });

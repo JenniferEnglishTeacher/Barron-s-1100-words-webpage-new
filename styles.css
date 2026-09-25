@@ -343,6 +343,14 @@ select {
   font-weight: 700;
 }
 
+.memory-chant {
+  margin: 0 0 10px;
+  color: var(--teal-dark);
+  font-size: 17px;
+  line-height: 1.45;
+  font-weight: 700;
+}
+
 .synonyms {
   margin: 0 0 22px;
   color: var(--muted);

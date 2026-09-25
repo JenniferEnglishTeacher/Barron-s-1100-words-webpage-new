@@ -3,832 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 42",
     "cards": [
       {
-        "word": "revere",
-        "pos": "v.",
-        "definition": "to feel deep respect or admiration for.",
-        "chinese": "崇敬；尊重",
-        "synonyms": "respect, venerate, admire",
-        "image": "mountain",
-        "sentence": "Generations of students came to __________ the professor not for the difficulty of his examinations or the breadth of his published scholarship but for the genuine intellectual curiosity he modeled in every seminar, demonstrating that the most important thing a great teacher could transmit was a love of genuine inquiry.",
-        "translation": "幾代學生尊敬這位教授，不是因為他考試的難度或他發表的學術成果的廣度，而是因為他在每次研討課中所展現的真正求知慾，這表明一位偉大教師能夠傳遞的最重要的東西是對真正探究的熱愛。",
-        "lookup": {
-          "english": "to feel deep respect or admiration for.",
-          "chinese": "崇敬；尊重"
-        }
-      },
-      {
-        "word": "ribald",
-        "pos": "adj.",
-        "definition": "referring to sexual matters in a rude but humorous way.",
-        "chinese": "猥褻的；下流的",
-        "synonyms": "crude, coarse, bawdy",
-        "image": "warning",
-        "sentence": "The playwright's __________ comedies, while sometimes dismissed by critics as lacking the seriousness appropriate to genuine theatrical art, drew enormous popular audiences who recognized in their irreverent treatment of social convention an authentic voice that more formally ambitious productions rarely achieved.",
-        "translation": "這位劇作家猥褻的喜劇雖然有時被評論家斥為缺乏真正戲劇藝術應有的嚴肅性，卻吸引了大量普通觀眾，他們從中對社會慣例不敬的處理方式中認識到一種更正式的雄心勃勃的作品很少能達到的真實聲音。",
-        "lookup": {
-          "english": "referring to sexual matters in a rude but humorous way.",
-          "chinese": "猥褻的；下流的"
-        }
-      },
-      {
-        "word": "rococo",
-        "pos": "adj.",
-        "definition": "elaborately ornate; highly decorated.",
-        "chinese": "洛可可風格的；過分華麗的",
-        "synonyms": "ornate, elaborate, florid",
-        "image": "warning",
-        "sentence": "The interior designer warned that the proposed __________ decoration scheme would overwhelm the relatively modest proportions of the space, arguing that the visual complexity of the selected furnishings and finishes would create an oppressive rather than luxurious atmosphere in rooms of that particular scale.",
-        "translation": "室內設計師警告說，擬議的過分華麗的裝飾方案將壓倒空間相對樸素的比例，認為所選家具和裝飾材料的視覺複雜性將在那個特定規模的房間中創造出壓抑而非奢華的氛圍。",
-        "lookup": {
-          "english": "elaborately ornate; highly decorated.",
-          "chinese": "洛可可風格的；過分華麗的"
-        }
-      },
-      {
-        "word": "ruse",
+        "word": "quandary",
         "pos": "n.",
-        "definition": "an action intended to deceive.",
-        "chinese": "策略；詭計",
-        "synonyms": "trick, stratagem, ploy",
-        "image": "scatter",
-        "sentence": "The competitor's apparent withdrawal from the bidding process proved to be a calculated __________ designed to induce complacency in its primary rival, allowing it to return with a substantially revised proposal at the final stage when the opposing team had already begun scaling back its competitive preparation.",
-        "translation": "競爭對手表面上退出競標過程，被證明是一種精心計算的詭計，旨在讓主要對手產生自滿情緒，使其能夠在對手已開始縮減競爭準備的最後階段，以大幅修改的提案重新出現。",
+        "definition": "doubt, dilemma.",
+        "memoryChant": "quando (when?) → 'When? Which? I can't decide—quandary!'",
+        "chinese": "困惑；窘境",
+        "synonyms": "dilemma, predicament, plight",
+        "image": "crack",
+        "sentence": "The talented high school graduate found herself in a difficult __________ when she received scholarships from two excellent universities on opposite sides of the world. One offered a famous engineering program in the United States, while the other allowed her to stay close to her aging grandparents in Taiwan. For weeks she could not decide which path to choose. Eventually, a long conversation with her grandparents helped her resolve the painful dilemma.",
+        "translation": "這位優秀的高中畢業生收到了分別位於地球兩端的兩所頂尖大學的獎學金，讓她陷入了兩難的困境。其中一所提供美國知名的工程學程，另一所則讓她能留在台灣，陪伴年邁的祖父母。好幾個星期以來，她無法決定要走哪條路。最後，與祖父母的一次長談，幫助她解決了這個令人痛苦的兩難。",
         "lookup": {
-          "english": "an action intended to deceive.",
-          "chinese": "策略；詭計"
+          "english": "doubt, dilemma.",
+          "chinese": "困惑；窘境"
         }
       },
       {
-        "word": "sacrilegious",
+        "word": "callous",
         "pos": "adj.",
-        "definition": "involving or showing disrespect for sacred things.",
-        "chinese": "褻瀆神聖的；不敬的",
-        "synonyms": "blasphemous, irreverent, profane",
-        "image": "chest",
-        "sentence": "The congregation viewed the artist's reinterpretation of the traditional iconography as deeply __________, while secular critics argued that the work represented a legitimate artistic engagement with inherited visual traditions rather than any intentional disrespect toward the community whose symbolic language it employed.",
-        "translation": "這個會眾將藝術家對傳統圖像學的重新詮釋視為深度褻瀆，而世俗評論家認為，這部作品代表了對繼承的視覺傳統的合法藝術參與，而非對其所使用的象徵語言所屬社區的任何故意不尊重。",
+        "definition": "hardened, unfeeling.",
+        "memoryChant": "callus (hard skin) → 'Hard skin, hard heart—callous!'",
+        "chinese": "無情的；麻木的",
+        "synonyms": "heartless, insensitive, cold",
+        "image": "cup",
+        "sentence": "The company's __________ decision to fire hundreds of workers by text message, just days before the Lunar New Year holiday, provoked national outrage. Employees who had worked loyally for decades received no explanation, no personal meeting, and no additional compensation. Labor organizations condemned the heartless way the layoffs were handled, and politicians demanded new laws requiring respectful notification procedures. The company's reputation suffered serious damage, and sales declined sharply during the following months.",
+        "translation": "這家公司在農曆新年假期前幾天，以簡訊解僱數百名員工的冷酷決定，引發了全國的憤慨。為公司忠心工作數十年的員工，沒有得到任何解釋、沒有任何面談，也沒有額外的補償。勞工組織譴責這種冷血無情的裁員方式，政治人物也要求制定新法，規定必須以尊重的方式通知員工。這家公司的聲譽嚴重受損，接下來幾個月的銷售額也急遽下滑。",
         "lookup": {
-          "english": "involving or showing disrespect for sacred things.",
-          "chinese": "褻瀆神聖的；不敬的"
+          "english": "hardened, unfeeling.",
+          "chinese": "無情的；麻木的"
         }
       },
       {
-        "word": "sagacious",
+        "word": "expedient",
         "pos": "adj.",
-        "definition": "having or showing keen mental discernment.",
-        "chinese": "睿智的；有洞察力的",
-        "synonyms": "wise, perceptive, shrewd",
+        "definition": "convenient, useful for a purpose though not always fair or principled.",
+        "memoryChant": "ex- (out) + pes (foot) → 'Freeing the foot to act quickly—expedient!'",
+        "chinese": "權宜的；方便的",
+        "synonyms": "convenient, practical, opportunistic",
+        "image": "fire",
+        "sentence": "Faced with a sudden budget crisis, the mayor chose the most __________ solution by cutting funding for public libraries and after-school programs, which required no approval from the city council. Although the decision quickly balanced the budget, critics argued that it harmed children and low-income families who depended on these services. They accused him of choosing convenience over fairness. Community groups began raising money privately to keep several libraries open.",
+        "translation": "面對突如其來的預算危機，市長選擇了最權宜的解決辦法，刪減公共圖書館與課後輔導計畫的經費，因為這不需要市議會的批准。雖然這項決定很快便平衡了預算，批評者認為它傷害了仰賴這些服務的孩童與低收入家庭。他們指責他為了方便而犧牲公平。社區團體開始私下募款，以維持數間圖書館繼續開放。",
+        "lookup": {
+          "english": "convenient, useful for a purpose though not always fair or principled.",
+          "chinese": "權宜的；方便的"
+        }
+      },
+      {
+        "word": "negligible",
+        "pos": "adj.",
+        "definition": "trifling, too small to matter.",
+        "memoryChant": "neglegere (to neglect) + -ible → 'Small enough to neglect—negligible!'",
+        "chinese": "微不足道的；可忽略的",
+        "synonyms": "insignificant, trivial, minimal",
         "image": "lamp",
-        "sentence": "The __________ investor recognized the structural weakness in the prevailing market thesis months before the correction materialized, gradually repositioning her portfolio in ways that appeared inexplicable to colleagues who lacked her broader historical perspective on how similar configurations had resolved in previous cycles.",
-        "translation": "這位睿智的投資者在回調具體發生前數月就認識到主流市場論題中的結構性弱點，逐漸調整她的投資組合，這對缺乏她在以往週期中類似格局如何解決的更廣泛歷史視角的同事來說顯得難以理解。",
+        "sentence": "Engineers reassured residents that the new wind turbines would produce only __________ noise, quieter than the sound of a normal conversation at a distance of three hundred meters. Independent tests confirmed that the sound levels were so small that most people could not hear them above the wind itself. Although some neighbors had initially opposed the project, their concerns faded once the turbines began operating without disturbing daily life. Property values also remained stable.",
+        "translation": "工程師向居民保證，新的風力發電機只會產生微乎其微的噪音，在三百公尺外比一般對話的聲音還要安靜。獨立測試證實，音量小到大多數人在風聲之中根本聽不見。雖然部分鄰居起初反對這項計畫，但在風力發電機運轉後未曾干擾日常生活，他們的疑慮也就逐漸消散了。房價也維持穩定。",
         "lookup": {
-          "english": "having or showing keen mental discernment.",
-          "chinese": "睿智的；有洞察力的"
+          "english": "trifling, too small to matter.",
+          "chinese": "微不足道的；可忽略的"
         }
       },
       {
-        "word": "sanctimonious",
+        "word": "blasé",
         "pos": "adj.",
-        "definition": "making a show of being morally superior.",
-        "chinese": "假裝虔誠的；道貌岸然的",
-        "synonyms": "self-righteous, pious, hypocritical",
-        "image": "shield",
-        "sentence": "The editorial board found the op-ed's __________ tone more likely to alienate than persuade the readers it purported to address, recommending substantial revision to replace moralizing pronouncements with empirical arguments that would engage skeptical audiences on evidentiary rather than ethical grounds.",
-        "translation": "社論委員會發現這篇評論文章道貌岸然的語氣更可能疏遠而非說服其聲稱要對話的讀者，建議進行大幅修改，以實證論點取代說教式斷言，從而在實證而非倫理的基礎上吸引持懷疑態度的讀者。",
+        "definition": "indifferent, unexcited because of overfamiliarity.",
+        "memoryChant": "blaser (to satiate) → 'Seen it all, so bored—blasé!'",
+        "chinese": "厭倦的；無動於衷的",
+        "synonyms": "indifferent, unimpressed, nonchalant",
+        "image": "chest",
+        "sentence": "Having traveled to more than sixty countries, the wealthy businessman had become completely __________ about international trips, yawning through flights and barely glancing at famous landmarks. While his younger colleagues excitedly photographed the Eiffel Tower, he checked emails on his phone. His daughter eventually persuaded him to visit a remote village without internet access. The unfamiliar experience finally rekindled the sense of wonder he thought he had lost forever. He now travels far more thoughtfully.",
+        "translation": "這位富有的商人已經去過六十多個國家，對國際旅行變得完全無動於衷，搭飛機時哈欠連連，對著名的地標也幾乎不看一眼。當年輕的同事們興奮地拍攝艾菲爾鐵塔時，他卻在手機上查看電子郵件。他的女兒最終說服他去一個沒有網路的偏遠村莊。這次陌生的經歷，終於重新點燃了他以為早已永遠失去的好奇與驚喜。如今他旅行時用心多了。",
         "lookup": {
-          "english": "making a show of being morally superior.",
-          "chinese": "假裝虔誠的；道貌岸然的"
+          "english": "indifferent, unexcited because of overfamiliarity.",
+          "chinese": "厭倦的；無動於衷的"
         }
       },
       {
-        "word": "sanguine",
-        "pos": "adj.",
-        "definition": "optimistic, especially in a difficult situation.",
-        "chinese": "樂觀的；充滿希望的",
-        "synonyms": "optimistic, hopeful, positive",
-        "image": "clock",
-        "sentence": "The chief economist remained publicly __________ about the recovery timeline despite internal modeling that suggested considerably more uncertainty than her official statements acknowledged, a communication strategy that critics argued prioritized short-term confidence maintenance over the transparency essential to genuine public trust.",
-        "translation": "儘管內部模型顯示的不確定性遠超她官方聲明所承認的，這位首席經濟學家仍對復甦時間表保持公開樂觀，批評者認為這種溝通策略將短期信心維護置於對真正公眾信任至關重要的透明度之上。",
-        "lookup": {
-          "english": "optimistic, especially in a difficult situation.",
-          "chinese": "樂觀的；充滿希望的"
-        }
-      },
-      {
-        "word": "sardonic",
-        "pos": "adj.",
-        "definition": "grimly mocking or cynical.",
-        "chinese": "嘲諷的；冷嘲熱諷的",
-        "synonyms": "mocking, cynical, scornful",
-        "image": "cup",
-        "sentence": "The __________ columnist's commentary on political hypocrisy attracted a devoted readership who appreciated the combination of intellectual rigor and dark wit that made his analysis simultaneously more entertaining and more disturbing than conventional political journalism typically managed to achieve.",
-        "translation": "這位嘲諷的專欄作者對政治偽善的評論吸引了一批忠實讀者，他們欣賞智識嚴謹性與黑色幽默的結合，這使他的分析同時比傳統政治新聞通常能夠達到的更具娛樂性和更令人不安。",
-        "lookup": {
-          "english": "grimly mocking or cynical.",
-          "chinese": "嘲諷的；冷嘲熱諷的"
-        }
-      },
-      {
-        "word": "scrupulous",
-        "pos": "adj.",
-        "definition": "diligent and careful; very concerned about doing right.",
-        "chinese": "嚴謹的；一絲不苟的",
-        "synonyms": "meticulous, principled, conscientious",
-        "image": "warning",
-        "sentence": "The __________ auditor documented every procedural deviation regardless of its apparent materiality, recognizing that the disciplined maintenance of comprehensive records provided the evidential foundation that would prove essential if more significant irregularities were subsequently discovered in the same organizational context.",
-        "translation": "這位嚴謹的審計員記錄了每一個程序偏差，無論其明顯重要性如何，他認識到對全面記錄的有紀律維護，提供了如果在同一組織背景中隨後發現更重大不規則行為時將被證明至關重要的證據基礎。",
-        "lookup": {
-          "english": "diligent and careful; very concerned about doing right.",
-          "chinese": "嚴謹的；一絲不苟的"
-        }
-      },
-      {
-        "word": "secular",
-        "pos": "adj.",
-        "definition": "not connected with religious matters.",
-        "chinese": "世俗的；非宗教的",
-        "synonyms": "nonreligious, worldly, temporal",
-        "image": "cup",
-        "sentence": "The foundation of __________ democratic governance rests on the principle that legislation should be justified through reasoning accessible to all citizens regardless of their theological commitments, rather than through appeals to religious authority that inherently exclude those who do not share the relevant faith tradition.",
-        "translation": "世俗民主治理的基礎在於一個原則：立法應通過所有公民都能理解的推理來證明其合理性，無論其神學承諾如何，而非通過訴諸宗教權威，這種訴諸本質上排除了不共享相關信仰傳統的人。",
-        "lookup": {
-          "english": "not connected with religious matters.",
-          "chinese": "世俗的；非宗教的"
-        }
-      },
-      {
-        "word": "sedulous",
-        "pos": "adj.",
-        "definition": "showing dedication and great care.",
-        "chinese": "勤勉的；孜孜不倦的",
-        "synonyms": "diligent, industrious, persevering",
-        "image": "mountain",
-        "sentence": "The __________ apprentice documented every technique demonstrated by the master craftsman over three years of training, creating a comprehensive personal reference that served her well throughout a subsequent career distinguished by the quality and precision that her foundational training had instilled.",
-        "translation": "這位勤勉的學徒在三年的培訓中記錄了師傅展示的每一種技術，創建了一份全面的個人參考資料，在她隨後以基礎訓練所灌輸的質量和精確性著稱的職業生涯中大有裨益。",
-        "lookup": {
-          "english": "showing dedication and great care.",
-          "chinese": "勤勉的；孜孜不倦的"
-        }
-      },
-      {
-        "word": "skeptical",
-        "pos": "adj.",
-        "definition": "not easily convinced; doubting.",
-        "chinese": "懷疑的；持懷疑態度的",
-        "synonyms": "doubtful, questioning, dubious",
-        "image": "shield",
-        "sentence": "The panel of scientists remained deeply __________ about the proposed mechanism, acknowledging the striking correlation documented in the study while insisting that correlation alone was insufficient to establish the causal relationship the authors claimed without additional experimental evidence specifically designed to test the proposed pathway.",
-        "translation": "這個科學家小組對提出的機制仍持深度懷疑態度，承認研究中記錄的顯著相關性，同時堅持認為，在沒有專門設計來測試提出路徑的額外實驗證據的情況下，僅憑相關性不足以建立作者所聲稱的因果關係。",
-        "lookup": {
-          "english": "not easily convinced; doubting.",
-          "chinese": "懷疑的；持懷疑態度的"
-        }
-      },
-      {
-        "word": "sloth",
+        "word": "ennui",
         "pos": "n.",
-        "definition": "reluctance to work or make any effort; laziness.",
-        "chinese": "怠惰；懶惰",
-        "synonyms": "laziness, indolence, lethargy",
+        "definition": "boredom, listless weariness.",
+        "memoryChant": "inodiare (to make loathsome) → 'Everything feels loathsome and dull—ennui!'",
+        "chinese": "倦怠；無聊",
+        "synonyms": "boredom, tedium, listlessness",
+        "image": "rubble",
+        "sentence": "After retiring from her busy career as a hospital director, the former executive was overcome by __________, spending long afternoons staring out the window with nothing to occupy her mind. The endless free time she had once dreamed about now felt empty and dull. Her friends encouraged her to volunteer at a local literacy program. Teaching adults to read soon cured her boredom and gave her days a renewed sense of purpose.",
+        "translation": "從忙碌的醫院院長職位退休後，這位前主管陷入了倦怠之中，整個漫長的下午都盯著窗外，腦中空空如也。她曾夢寐以求的無盡空閒時光，如今卻令人感到空虛又無聊。朋友們鼓勵她到當地的識字計畫擔任志工。教成年人識字很快就治好了她的無聊，也讓她的生活重新有了目標。",
+        "lookup": {
+          "english": "boredom, listless weariness.",
+          "chinese": "倦怠；無聊"
+        }
+      },
+      {
+        "word": "comely",
+        "pos": "adj.",
+        "definition": "attractive, pleasant to look at.",
+        "memoryChant": "cymlic (lovely, fine) → 'Lovely to behold—comely!'",
+        "chinese": "清秀的；標緻的",
+        "synonyms": "attractive, pretty, handsome",
+        "image": "clock",
+        "sentence": "In the classic novel, the __________ young heroine attracts the attention of every wealthy bachelor in the village, yet she values intelligence and kindness far more than admiration for her appearance. Although many characters comment on her attractive face and graceful manner, she eventually marries a poor schoolteacher who respects her opinions. Literature teachers often use the story to discuss how society judges women primarily by their looks. Many students find the novel surprisingly modern.",
+        "translation": "在這部經典小說中，這位清秀標緻的年輕女主角吸引了村裡每一位富有單身漢的目光，但她重視智慧與善良，遠勝過他人對她外貌的欣賞。雖然許多角色都評論她迷人的面容與優雅的舉止，她最終嫁給了一位尊重她意見的清貧教師。文學老師常以這個故事來討論社會如何主要以外貌來評斷女性。許多學生覺得這部小說出奇地現代。",
+        "lookup": {
+          "english": "attractive, pleasant to look at.",
+          "chinese": "清秀的；標緻的"
+        }
+      },
+      {
+        "word": "frenetic",
+        "pos": "adj.",
+        "definition": "frantic, frenzied.",
+        "memoryChant": "phrenitikos (delirious) → 'Wildly delirious activity—frenetic!'",
+        "chinese": "狂熱的；發狂似的",
+        "synonyms": "frantic, hectic, feverish",
+        "image": "mountain",
+        "sentence": "The final week before the international trade fair was __________ for the small design company, as employees worked eighteen-hour days building display booths, printing brochures, and preparing product samples. Phones rang constantly, deliveries arrived late, and last-minute changes created chaos in the office. Despite the frantic atmosphere, the team finished everything just in time. Their exhibition attracted several major clients, making the exhausting effort entirely worthwhile. Everyone took a well-earned vacation afterward.",
+        "translation": "國際貿易展前的最後一週，對這家小型設計公司而言是一片忙亂，員工們每天工作十八小時，搭建展位、印製手冊並準備產品樣品。電話響個不停，貨物延遲送達，最後一刻的變更更讓辦公室陷入混亂。儘管氣氛手忙腳亂，團隊還是及時完成了一切。他們的展覽吸引了幾位重要客戶，讓這番精疲力竭的努力完全值得。事後大家都享受了一個應得的假期。",
+        "lookup": {
+          "english": "frantic, frenzied.",
+          "chinese": "狂熱的；發狂似的"
+        }
+      },
+      {
+        "word": "artifice",
+        "pos": "n.",
+        "definition": "clever trick, strategy, trickery.",
+        "memoryChant": "ars (art) + facere (to make) → 'An artfully made trick—artifice!'",
+        "chinese": "詭計；巧妙手段",
+        "synonyms": "trickery, deception, cunning",
         "image": "eraser",
-        "sentence": "The medieval moralists' characterization of __________ as among the most serious of spiritual failures reflected their understanding that deliberate inactivity represented not merely a personal failing but a fundamental refusal of one's responsibilities to the broader community from whose collective labor one nonetheless continued to benefit.",
-        "translation": "中世紀道德家將怠惰定性為最嚴重的靈性失敗之一，反映了他們的理解：刻意的不作為不僅代表個人失敗，更是對更廣泛社區責任的根本拒絕，而人卻仍然繼續從集體勞動中受益。",
+        "sentence": "The con artist relied on elaborate __________ to convince wealthy investors that his mining company had discovered enormous gold deposits. He hired actors to pose as geologists, displayed fake rock samples, and created convincing reports filled with technical language. For two years, his clever deception fooled even experienced financiers. When the truth finally emerged, investigators estimated that he had stolen more than fifty million dollars through his carefully planned trickery.",
+        "translation": "這名騙子依靠精心設計的詭計，說服富有的投資人相信他的礦業公司發現了大量金礦。他僱用演員假扮地質學家、展示偽造的岩石樣本，並製作充斥著專業術語、令人信服的報告。兩年來，他巧妙的騙局甚至騙過了經驗豐富的金融家。當真相終於曝光時，調查人員估計他透過這場精心策劃的騙局，詐取了超過五千萬美元。",
         "lookup": {
-          "english": "reluctance to work or make any effort; laziness.",
-          "chinese": "怠惰；懶惰"
+          "english": "clever trick, strategy, trickery.",
+          "chinese": "詭計；巧妙手段"
         }
       },
       {
-        "word": "soporific",
-        "pos": "adj.",
-        "definition": "tending to induce sleep.",
-        "chinese": "催眠的；令人昏昏欲睡的",
-        "synonyms": "sleep-inducing, sedative, boring",
-        "image": "eraser",
-        "sentence": "The visiting lecturer's __________ delivery — a monotonous drone delivered without variation in pace, pitch, or emphasis — gradually emptied the hall as students who had arrived with genuine interest in the subject found themselves unable to sustain attention regardless of the underlying quality of the material.",
-        "translation": "這位到訪講師催眠般的講課方式——以無節奏、音調和強調變化的單調嗡嗡聲傳達——隨著對主題真正感興趣的學生發現自己無法維持注意力而逐漸清空了大廳，無論材料本身的質量如何。",
+        "word": "diversity",
+        "pos": "n.",
+        "definition": "variety.",
+        "memoryChant": "dis- (apart) + vertere (to turn) → 'Turning in different directions—diversity!'",
+        "chinese": "多樣性",
+        "synonyms": "variety, range, heterogeneity",
+        "image": "shield",
+        "sentence": "Taiwan's remarkable biological __________ surprises many visitors, since the island contains tropical beaches, subtropical forests, and snow-covered mountains nearly four thousand meters high. Within a relatively small area, scientists have identified thousands of plant species and many animals found nowhere else on Earth. Conservation experts emphasize that protecting this rich variety of life requires careful management of national parks, especially as climate change threatens delicate mountain ecosystems. Visitors are always amazed.",
+        "translation": "台灣驚人的生物多樣性讓許多遊客感到驚訝，因為這座島嶼擁有熱帶海灘、亞熱帶森林，以及將近四千公尺高、白雪覆蓋的高山。在相對狹小的面積內，科學家已辨識出數千種植物，以及許多世界上其他地方找不到的動物。保育專家強調，要保護這豐富多樣的生命，需要謹慎管理國家公園，尤其是在氣候變遷威脅脆弱的高山生態系之際。遊客們總是驚嘆不已。",
         "lookup": {
-          "english": "tending to induce sleep.",
-          "chinese": "催眠的；令人昏昏欲睡的"
+          "english": "variety.",
+          "chinese": "多樣性"
         }
       },
       {
-        "word": "specious",
-        "pos": "adj.",
-        "definition": "seemingly true but actually wrong.",
-        "chinese": "似是而非的；外表好看但實際錯誤的",
-        "synonyms": "misleading, plausible-sounding, deceptive",
-        "image": "regret",
-        "sentence": "The defense attorney's __________ argument that the absence of physical evidence constituted positive proof of innocence was effectively dismantled by the prosecution's demonstration that the documented digital evidence trail established guilt beyond any reasonable standard of evidentiary proof.",
-        "translation": "辯護律師關於缺乏物理證據構成無罪積極證明的似是而非的論點，被控方有效地駁倒，控方展示了有記錄的數字證據線索在任何合理的證據標準上都確立了罪行。",
+        "word": "qualm",
+        "pos": "n.",
+        "definition": "twinge of conscience, sudden feeling of doubt.",
+        "memoryChant": "cwealm (pain) → 'A pang of guilt—qualm!'",
+        "chinese": "疑慮；良心不安",
+        "synonyms": "misgiving, doubt, scruple",
+        "image": "small",
+        "sentence": "The young accountant felt a sharp __________ when his manager asked him to change several numbers in the annual report so that the company's losses would appear smaller. He knew that altering the figures would mislead shareholders and possibly break the law. After a sleepless night, he refused the request and reported the matter to the company's ethics committee. His uneasy conscience ultimately protected both his career and investors. He was later promoted.",
+        "translation": "當經理要求這位年輕會計師修改年度報告中的幾個數字，好讓公司的虧損看起來小一點時，他感到一陣強烈的良心不安。他知道竄改數字會誤導股東，甚至可能觸法。經過一夜難眠，他拒絕了這個要求，並將此事通報公司的倫理委員會。他不安的良心最終同時保護了他的職業生涯與投資人。他後來獲得了升遷。",
         "lookup": {
-          "english": "seemingly true but actually wrong.",
-          "chinese": "似是而非的；外表好看但實際錯誤的"
+          "english": "twinge of conscience, sudden feeling of doubt.",
+          "chinese": "疑慮；良心不安"
         }
       },
       {
-        "word": "spurious",
-        "pos": "adj.",
-        "definition": "not genuine; false.",
-        "chinese": "假的；偽造的",
-        "synonyms": "false, fake, counterfeit",
-        "image": "crack",
-        "sentence": "The laboratory's analysis confirmed that the antique manuscript was __________, identifying anachronistic ink compounds and paper composition inconsistent with the claimed period of production. The forgery had nonetheless deceived several respected authorities over nearly two decades before modern forensic techniques exposed its fraudulent origins.",
-        "translation": "實驗室的分析確認這份古代手稿是偽造的，發現了與聲稱的生產時期不符的時代錯誤的墨水化合物和紙張成分。然而，這件偽造品在近二十年的時間裡欺騙了幾位受人尊敬的權威人士，直到現代法醫技術揭露了其欺詐性起源。",
+        "word": "expurgate",
+        "pos": "v.",
+        "definition": "to remove objectionable parts or passages.",
+        "memoryChant": "ex- (out) + purgare (to cleanse) → 'Cleanse it out—expurgate!'",
+        "chinese": "刪去（不當內容）",
+        "synonyms": "censor, cut, bowdlerize",
+        "image": "burst",
+        "sentence": "Before publishing the famous poet's letters, her family decided to __________ several passages containing harsh comments about living relatives and private medical details. They removed sentences they considered embarrassing or hurtful while preserving the letters' literary value. Some scholars criticized the edited collection, arguing that readers deserved to see the complete, uncensored texts. The unaltered originals will be released to researchers fifty years after the poet's death. Scholars eagerly await that date.",
+        "translation": "在出版這位知名詩人的書信之前，她的家人決定刪去幾段內容，其中包含對在世親戚的尖刻評論以及私人醫療細節。他們刪除了他們認為令人難堪或傷人的句子，同時保留書信的文學價值。有些學者批評這本經過刪修的書信集，認為讀者有權看到完整、未經審查的原文。未經改動的原稿將在詩人過世五十年後開放給研究人員。學者們熱切期待著那一天。",
         "lookup": {
-          "english": "not genuine; false.",
-          "chinese": "假的；偽造的"
+          "english": "to remove objectionable parts or passages.",
+          "chinese": "刪去（不當內容）"
         }
       },
       {
-        "word": "squalid",
+        "word": "begrudge",
+        "pos": "v.",
+        "definition": "to resent, give reluctantly.",
+        "memoryChant": "be- (thoroughly) + grucchen (to grumble) → 'Grumble about giving it—begrudge!'",
+        "chinese": "吝惜；嫉妒",
+        "synonyms": "resent, envy, grudge",
+        "image": "energy",
+        "sentence": "Although she had worked just as hard as her teammate, the runner did not __________ his victory at the national championship, congratulating him warmly after the race. She admitted feeling disappointed about finishing second, but she refused to resent a friend who had trained with such dedication. Reporters admired her generous sportsmanship. The following year, their positions were reversed, and he celebrated her first national title with equal enthusiasm and genuine joy.",
+        "translation": "雖然她和隊友一樣努力，這位跑者並不嫉妒他在全國錦標賽的勝利，賽後還熱情地向他道賀。她承認對得到第二名感到失望，但她拒絕怨恨一位如此投入訓練的朋友。記者們欣賞她大度的運動家精神。隔年，兩人的名次對調，他也以同樣的熱情與真誠的喜悅，慶祝她奪得第一座全國冠軍。",
+        "lookup": {
+          "english": "to resent, give reluctantly.",
+          "chinese": "吝惜；嫉妒"
+        }
+      },
+      {
+        "word": "artless",
         "pos": "adj.",
-        "definition": "extremely dirty and unpleasant; morally degraded.",
-        "chinese": "骯髒的；污穢的",
-        "synonyms": "filthy, sordid, wretched",
+        "definition": "naive, innocent, without deception.",
+        "memoryChant": "art + -less (without artifice) → 'Without any tricks—artless!'",
+        "chinese": "天真的；純樸的",
+        "synonyms": "innocent, naive, guileless",
+        "image": "warning",
+        "sentence": "The child's __________ question, asking the famous politician why he never answered anyone's questions directly, caused the entire audience to burst into laughter. She had no intention of embarrassing him; she was simply curious and completely sincere. The politician laughed good-naturedly and admitted that she had made an excellent point. Newspapers published the innocent exchange the next day, and many readers praised the girl's honest simplicity. She later received a letter of thanks.",
+        "translation": "這個孩子天真地問這位知名政治人物，為什麼他從來不直接回答任何人的問題，讓全場觀眾哄堂大笑。她無意讓他難堪，只是單純好奇、完全真誠。這位政治人物和善地笑了，並承認她說得很有道理。隔天，報紙刊出了這段天真的對話，許多讀者讚揚這個女孩誠實純真的一面。她後來收到了一封感謝信。",
+        "lookup": {
+          "english": "naive, innocent, without deception.",
+          "chinese": "天真的；純樸的"
+        }
+      },
+      {
+        "word": "gratuity",
+        "pos": "n.",
+        "definition": "tip, gift for service.",
+        "memoryChant": "gratus (pleasing) → 'A pleasing extra—gratuity!'",
+        "chinese": "小費；酬金",
+        "synonyms": "tip, bonus, reward",
+        "image": "mountain",
+        "sentence": "Travelers visiting Taiwan are sometimes surprised to learn that leaving a __________ is generally unnecessary in restaurants, since a service charge is often included in the bill. In contrast, visitors to the United States are expected to add fifteen to twenty percent for waiters. Travel guides recommend researching local customs before any trip, because tipping practices vary widely between countries and misunderstandings can cause embarrassment for both guests and staff.",
+        "translation": "來台灣的旅客有時會驚訝地發現，在餐廳用餐通常不需要給小費，因為帳單中往往已包含服務費。相較之下，前往美國的遊客則被期望額外支付百分之十五到二十的小費給服務生。旅遊指南建議在任何旅行之前先研究當地習俗，因為各國給小費的習慣差異很大，誤會可能會讓客人與服務人員都感到尷尬。",
+        "lookup": {
+          "english": "tip, gift for service.",
+          "chinese": "小費；酬金"
+        }
+      },
+      {
+        "word": "manifest",
+        "pos": "adj.",
+        "definition": "evident, obvious.",
+        "memoryChant": "manus (hand) + festus (struck) → 'Plain as a hand before you—manifest!'",
+        "chinese": "明顯的；明白的",
+        "synonyms": "obvious, evident, apparent",
+        "image": "fire",
+        "sentence": "The coach's disappointment was __________ as he watched his team lose by thirty points; he shook his head repeatedly, threw his clipboard to the ground, and refused to speak with reporters afterward. Everyone in the stadium could see how upset he was. The next morning, however, he apologized for his behavior and scheduled additional practice sessions. His players later said that his obvious frustration had motivated them to work harder.",
+        "translation": "當教練看著球隊以三十分之差落敗時，他的失望顯而易見；他一再搖頭，把戰術板摔在地上，賽後也拒絕接受記者訪問。體育場裡的每個人都看得出他有多沮喪。然而隔天早上，他為自己的行為道歉，並安排了額外的練習。他的球員們後來表示，他明顯的挫折感激勵了他們更加努力。",
+        "lookup": {
+          "english": "evident, obvious.",
+          "chinese": "明顯的；明白的"
+        }
+      },
+      {
+        "word": "delve",
+        "pos": "v.",
+        "definition": "to dig, investigate deeply.",
+        "memoryChant": "delfan (to dig) → 'Dig deep into it—delve!'",
+        "chinese": "鑽研；深入探究",
+        "synonyms": "dig, probe, explore",
         "image": "table",
-        "sentence": "The housing inspector documented __________ conditions in the rental property that fell dramatically short of the minimum habitability standards required by municipal code, generating a formal notice requiring the landlord to implement comprehensive remedial measures within thirty days or face substantial financial penalties.",
-        "translation": "住房督察記錄了租賃物業骯髒的狀況，這些狀況遠遠達不到市政法規要求的最低居住標準，產生了一份正式通知，要求業主在三十天內實施全面的補救措施，否則將面臨重大財務處罰。",
+        "sentence": "For her doctoral thesis, the historian chose to __________ into the forgotten diaries of Taiwanese tea merchants who traded with Europe during the nineteenth century. She spent three years examining fragile documents in archives across Taipei, London, and Amsterdam. Her deep research uncovered fascinating details about international commerce, family businesses, and daily life. The resulting book received several academic awards and inspired a popular television documentary series. She is now writing a sequel.",
+        "translation": "為了撰寫博士論文，這位歷史學家選擇深入研究十九世紀與歐洲進行貿易的台灣茶商那些被遺忘的日記。她花了三年時間，在台北、倫敦與阿姆斯特丹各地的檔案館中檢視脆弱的文件。她深入的研究揭露了關於國際貿易、家族企業與日常生活的精彩細節。這本研究成果寫成的書獲得了數項學術獎項，並啟發了一部受歡迎的電視紀錄片系列。她目前正在撰寫續集。",
         "lookup": {
-          "english": "extremely dirty and unpleasant; morally degraded.",
-          "chinese": "骯髒的；污穢的"
+          "english": "to dig, investigate deeply.",
+          "chinese": "鑽研；深入探究"
         }
       },
       {
-        "word": "stoic",
+        "word": "capricious",
         "pos": "adj.",
-        "definition": "enduring pain or hardship without showing feelings.",
-        "chinese": "堅忍的；超然的",
-        "synonyms": "impassive, stoical, unemotional",
-        "image": "crack",
-        "sentence": "The __________ explorer documented the escalating physical hardships of the polar expedition with characteristic emotional restraint, reserving his most direct expression of difficulty for the private journal entries that were published only decades after his death, revealing a depth of suffering his public account had entirely concealed.",
-        "translation": "這位堅忍的探險家以其一貫的情感克制記錄了極地探險中不斷升級的身體艱辛，將最直接的困難表達留給了私人日記，這些日記在他去世幾十年後才出版，揭示了他公開記述中完全隱藏的深層痛苦。",
+        "definition": "unpredictable, changing on a whim.",
+        "memoryChant": "capra (goat) → 'Leaping about like a goat—capricious!'",
+        "chinese": "反覆無常的；任性的",
+        "synonyms": "unpredictable, fickle, erratic",
+        "image": "chest",
+        "sentence": "Mountain weather in Taiwan is notoriously __________; a bright, sunny morning can turn into a violent thunderstorm within an hour. Hikers who fail to prepare for sudden changes often find themselves soaked, cold, and lost in thick fog. Experienced guides always carry waterproof clothing, extra food, and emergency equipment, regardless of the forecast. They warn visitors that the unpredictable conditions have caused numerous accidents on popular trails. Preparation saves lives.",
+        "translation": "台灣山區的天氣出了名地反覆無常；晴朗的早晨可能在一個小時內就變成猛烈的雷雨。沒有為突如其來的變化做好準備的登山客，常會發現自己全身濕透、又冷又在濃霧中迷路。經驗豐富的嚮導無論天氣預報如何，總是隨身攜帶防水衣物、額外的食物與緊急裝備。他們警告遊客，這種難以預測的天氣已在熱門步道上造成了無數事故。做好準備能拯救生命。",
         "lookup": {
-          "english": "enduring pain or hardship without showing feelings.",
-          "chinese": "堅忍的；超然的"
+          "english": "unpredictable, changing on a whim.",
+          "chinese": "反覆無常的；任性的"
+        }
+      },
+      {
+        "word": "requisite",
+        "pos": "n.",
+        "definition": "requirement, necessary thing.",
+        "memoryChant": "re- (again) + quaerere (to seek) → 'What you must seek again and again—requisite!'",
+        "chinese": "必需品；必要條件",
+        "synonyms": "requirement, necessity, prerequisite",
+        "image": "chest",
+        "sentence": "Fluency in English is an essential __________ for pilots flying international routes, since communication with air traffic controllers worldwide takes place in that language. Candidates must pass rigorous speaking and listening examinations before receiving their licenses. Aviation authorities emphasize that misunderstandings in the cockpit can have catastrophic consequences. For this reason, airlines provide ongoing language training to ensure that every pilot continues to meet this fundamental requirement. Safety depends on clear communication.",
+        "translation": "流利的英語是飛行國際航線的機師必備的條件，因為與世界各地飛航管制員的溝通都是以英語進行。應試者在取得執照之前，必須通過嚴格的口說與聽力測驗。航空主管機關強調，駕駛艙內的誤解可能會造成災難性的後果。因此，航空公司提供持續的語言訓練，以確保每位機師都持續符合這項基本要求。安全仰賴清楚的溝通。",
+        "lookup": {
+          "english": "requirement, necessary thing.",
+          "chinese": "必需品；必要條件"
+        }
+      },
+      {
+        "word": "replenish",
+        "pos": "v.",
+        "definition": "to fill again, restock.",
+        "memoryChant": "re- (again) + plenus (full) → 'Make full again—replenish!'",
+        "chinese": "補充；重新裝滿",
+        "synonyms": "refill, restock, restore",
+        "image": "shield",
+        "sentence": "After the typhoon, volunteers worked around the clock to __________ supplies at emergency shelters, delivering fresh water, rice, blankets, and medicine to thousands of displaced families. Donations arrived from across the island, but demand remained enormous for several weeks. Organizers created an online system to track which items were running low. This efficient approach allowed them to restock shelters quickly and ensure that no family went without essential necessities. Recovery took several months.",
+        "translation": "颱風過後，志工們日以繼夜地補充緊急避難所的物資，將乾淨的飲水、白米、毛毯與藥品送給數千個流離失所的家庭。來自全島各地的捐贈陸續送達，但好幾週內需求仍然龐大。主辦單位建立了一套線上系統，追蹤哪些物資即將短缺。這種有效率的做法讓他們能迅速補足避難所的物資，確保沒有任何家庭缺乏基本的必需品。災後復原花了好幾個月。",
+        "lookup": {
+          "english": "to fill again, restock.",
+          "chinese": "補充；重新裝滿"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The defense team's __________ argument, though structurally coherent and superficially persuasive, relied on a reading of the statutory language that had been explicitly addressed and rejected in two appellate decisions issued within the preceding eighteen months, making its presentation to the court a strategically questionable decision.",
+        "question": "The committee faced a serious __________ when two equally qualified candidates applied for the single scholarship, each with outstanding grades, impressive volunteer experience, and moving personal stories. Members debated for hours without reaching agreement, since choosing one meant disappointing the other. Eventually, they contacted a generous donor, who agreed to fund a second scholarship. The creative solution resolved their difficult dilemma and allowed both students to attend university. Both recipients later graduated with honors.",
         "options": [
           {
             "letter": "A",
-            "text": "squalid"
+            "text": "artifice"
           },
           {
             "letter": "B",
-            "text": "stoic"
+            "text": "quandary"
           },
           {
             "letter": "C",
-            "text": "specious"
+            "text": "gratuity"
           },
           {
             "letter": "D",
-            "text": "sardonic"
+            "text": "ennui"
           }
         ],
-        "answer": "C",
-        "answerWord": "specious"
+        "answer": "B",
+        "answerWord": "quandary"
       },
       {
         "number": 2,
-        "question": "The __________ investigation uncovered several pieces of documentary evidence proving the memorandum had been fabricated after the date it purported to have been authored, determining the date of composition through forensic analysis of the ink chemistry, paper composition, and embedded metadata in the digital original.",
+        "question": "Viewers were shocked by the reality show judge's __________ comments to contestants, mocking their appearance, laughing at their tears, and dismissing their personal struggles as boring. His complete lack of sympathy upset audiences who expected constructive criticism rather than cruelty. Thousands signed petitions demanding his removal. The producers eventually replaced him with a judge known for honest yet compassionate feedback, and ratings improved significantly afterward. The network also apologized publicly to the contestants involved.",
         "options": [
           {
             "letter": "A",
-            "text": "skeptical"
+            "text": "artless"
           },
           {
             "letter": "B",
-            "text": "secular"
+            "text": "comely"
           },
           {
             "letter": "C",
-            "text": "scrupulous"
+            "text": "callous"
           },
           {
             "letter": "D",
-            "text": "sedulous"
+            "text": "manifest"
           }
         ],
         "answer": "C",
-        "answerWord": "scrupulous"
+        "answerWord": "callous"
       },
       {
         "number": 3,
-        "question": "Generations of students found the professor uniquely __________ in fostering genuine inquiry — his willingness to be changed by a student's argument, and his refusal to treat any question as too elementary to merit serious engagement, distinguishing him from colleagues who treated teaching primarily as a vehicle for transmitting established conclusions.",
+        "question": "Rather than fixing the leaking roof properly, the landlord chose the __________ option of placing buckets under the drips, since it required no money or effort. Tenants complained that this convenient solution ignored the real problem and allowed mold to spread through the walls. When inspectors discovered the damage, they ordered immediate repairs. The landlord ultimately spent far more money than a proper repair would have cost originally. Several tenants eventually moved out in frustration.",
         "options": [
           {
             "letter": "A",
-            "text": "scrupulous"
+            "text": "expedient"
           },
           {
             "letter": "B",
-            "text": "sardonic"
+            "text": "blasé"
           },
           {
             "letter": "C",
-            "text": "sanctimonious"
+            "text": "frenetic"
           },
           {
             "letter": "D",
-            "text": "soporific"
+            "text": "capricious"
           }
         ],
         "answer": "A",
-        "answerWord": "scrupulous"
+        "answerWord": "expedient"
       },
       {
         "number": 4,
-        "question": "The municipal housing inspector documented __________ conditions at the property that had generated multiple tenant complaints over three years, producing a formal improvement notice requiring the owner to address seventeen specific deficiencies within a statutory timeframe or face license revocation.",
+        "question": "Researchers concluded that the new medicine's side effects were __________, affecting fewer than one in ten thousand patients and causing only mild headaches that disappeared within hours. Compared with its significant benefits for people suffering from chronic pain, these minor risks were considered unimportant. Regulatory agencies approved the drug for widespread use. Doctors nevertheless continue to monitor patients carefully for any unexpected reactions during the first year. So far, no serious problems have been reported.",
         "options": [
           {
             "letter": "A",
-            "text": "stoic"
+            "text": "callous"
           },
           {
             "letter": "B",
-            "text": "soporific"
+            "text": "manifest"
           },
           {
             "letter": "C",
-            "text": "specious"
+            "text": "artless"
           },
           {
             "letter": "D",
-            "text": "squalid"
+            "text": "negligible"
           }
         ],
         "answer": "D",
-        "answerWord": "squalid"
+        "answerWord": "negligible"
       },
       {
         "number": 5,
-        "question": "The policy panel proved deeply __________ about the projected employment benefits of the proposed industrial development, noting that the consultant's modeling assumed absorption rates for displaced workers that had no historical precedent in comparable regional labor markets experiencing similar structural transitions.",
+        "question": "Teenagers who grow up surrounded by advanced technology often seem __________ about innovations that astonish their grandparents. Video calls across continents, voice-controlled homes, and artificial intelligence assistants hardly impress them at all. They treat such remarkable developments as ordinary parts of daily life. Psychologists note that this indifferent attitude is natural, since people rarely feel excited about things they have always known and never lived without. Their grandparents, by contrast, remain endlessly amazed by them.",
         "options": [
           {
             "letter": "A",
-            "text": "skeptical"
+            "text": "frenetic"
           },
           {
             "letter": "B",
-            "text": "sedulous"
+            "text": "blasé"
           },
           {
             "letter": "C",
-            "text": "secular"
+            "text": "expedient"
           },
           {
             "letter": "D",
-            "text": "sanguine"
+            "text": "comely"
           }
         ],
-        "answer": "A",
-        "answerWord": "skeptical"
+        "answer": "B",
+        "answerWord": "blasé"
       },
       {
         "number": 6,
-        "question": "The __________ governance framework separates legislative authority from theological interpretation, ensuring that public policy is evaluated according to principles that all citizens can engage with regardless of their personal religious commitments or the doctrinal traditions within which their ethical reasoning has been formed.",
+        "question": "During the long winter vacation without school, friends, or activities, the teenager suffered from growing __________, spending entire days lying on the sofa scrolling aimlessly through videos. Nothing seemed interesting, and every hour felt endless. His grandmother finally suggested that he help her restore an old garden. The unexpected project gave him purpose, and he discovered a genuine passion for plants that ended his restless boredom. He now volunteers at a botanical garden every weekend.",
         "options": [
           {
             "letter": "A",
-            "text": "sardonic"
+            "text": "quandary"
           },
           {
             "letter": "B",
-            "text": "sanguine"
+            "text": "qualm"
           },
           {
             "letter": "C",
-            "text": "secular"
+            "text": "ennui"
           },
           {
             "letter": "D",
-            "text": "sanctimonious"
+            "text": "diversity"
           }
         ],
         "answer": "C",
-        "answerWord": "secular"
+        "answerWord": "ennui"
       },
       {
         "number": 7,
-        "question": "The __________ editorial commentator's self-congratulatory tone on the subject of journalistic ethics, lecturing readers about standards the publication had itself conspicuously violated in recent coverage, prompted a pointed response from media critics who found the moral self-presentation fundamentally disconnected from documented institutional practice.",
+        "question": "The portrait shows a __________ young woman with bright eyes, a gentle smile, and elegant features, dressed in a silk gown typical of the Qing dynasty. Art historians believe the painting depicts the daughter of a wealthy merchant family. Visitors to the museum frequently stop to admire her attractive, graceful appearance. Curators say it is one of the most photographed works in the entire collection. Several reproductions are sold in the museum shop.",
         "options": [
           {
             "letter": "A",
-            "text": "sanctimonious"
+            "text": "comely"
           },
           {
             "letter": "B",
-            "text": "sagacious"
+            "text": "capricious"
           },
           {
             "letter": "C",
-            "text": "sanguine"
+            "text": "negligible"
           },
           {
             "letter": "D",
-            "text": "sardonic"
+            "text": "callous"
           }
         ],
         "answer": "A",
-        "answerWord": "sanctimonious"
+        "answerWord": "comely"
       },
       {
         "number": 8,
-        "question": "The chief economist maintained a publicly __________ outlook on the recovery trajectory despite private reservations about the sustainability of the headline growth figures, a communication strategy that some advisors supported as confidence-maintaining and others criticized as misleading to investors making decisions based on official pronouncements.",
+        "question": "The stock exchange floor was __________ on the day the market crashed, with traders shouting orders, phones ringing constantly, and screens flashing red warnings. Panicked investors rushed to sell their shares before prices fell further. Reporters described scenes of frantic activity and visible fear. By the afternoon, the government announced emergency measures to calm the markets, and the chaotic trading gradually slowed as confidence began returning. Analysts later called it the worst trading day in a decade.",
         "options": [
           {
             "letter": "A",
-            "text": "secular"
+            "text": "artless"
           },
           {
             "letter": "B",
-            "text": "sedulous"
+            "text": "expedient"
           },
           {
             "letter": "C",
-            "text": "skeptical"
+            "text": "blasé"
           },
           {
             "letter": "D",
-            "text": "sanguine"
+            "text": "frenetic"
           }
         ],
         "answer": "D",
-        "answerWord": "sanguine"
+        "answerWord": "frenetic"
       },
       {
         "number": 9,
-        "question": "The __________ apprentice kept meticulous records of every technique, proportion, and sequence demonstrated by the master glazier over four years of intensive training, creating a personal archive that would prove invaluable when she established her own studio and needed to recreate processes she had observed only once during the apprenticeship.",
+        "question": "The magician's famous disappearing act depends entirely on __________, using hidden mirrors, secret trapdoors, and carefully timed distractions to deceive the audience. Spectators are convinced that his assistant vanishes into thin air, but engineers who studied the performance discovered an ingenious mechanical system beneath the stage. The illusionist refuses to confirm how the trick works, insisting that clever deception is precisely what makes magic enjoyable. Audiences return year after year hoping to discover his secret.",
         "options": [
           {
             "letter": "A",
-            "text": "skeptical"
+            "text": "qualm"
           },
           {
             "letter": "B",
-            "text": "secular"
+            "text": "requisite"
           },
           {
             "letter": "C",
-            "text": "sardonic"
+            "text": "ennui"
           },
           {
             "letter": "D",
-            "text": "sedulous"
+            "text": "artifice"
           }
         ],
         "answer": "D",
-        "answerWord": "sedulous"
+        "answerWord": "artifice"
       },
       {
         "number": 10,
-        "question": "The organization's culture had become __________ after a decade of unchallenged market dominance, its processes optimized for efficient routine rather than adaptive responsiveness — a rigidity that left it profoundly ill-equipped when competitive disruption suddenly demanded exactly the dynamic improvisation that years of stability had systematically eliminated.",
+        "question": "The university's international program attracts students from more than eighty countries, and administrators celebrate this __________ as one of the institution's greatest strengths. Classrooms include people with different languages, religions, and cultural traditions, encouraging lively discussions and new perspectives. Graduates report that learning alongside such a varied community prepared them well for careers in global companies. Many say these friendships were the most valuable part of their education. Employers increasingly value this international experience highly.",
         "options": [
           {
             "letter": "A",
-            "text": "sacrilegious"
+            "text": "artifice"
           },
           {
             "letter": "B",
-            "text": "soporific"
+            "text": "diversity"
           },
           {
             "letter": "C",
-            "text": "secular"
+            "text": "quandary"
           },
           {
             "letter": "D",
-            "text": "sardonic"
+            "text": "qualm"
           }
         ],
         "answer": "B",
-        "answerWord": "soporific"
+        "answerWord": "diversity"
       },
       {
         "number": 11,
-        "question": "The __________ explorer's published journal revealed none of the fear, physical suffering, or psychological strain that his private correspondence documented in visceral detail, presenting instead a narrative of calm purposefulness that shaped public perception of polar exploration for an entire generation of readers.",
+        "question": "The shop owner felt no __________ about charging tourists triple the normal price for bottled water during the heat wave, insisting that customers were free to shop elsewhere. His neighbors, however, considered the practice shameful and dishonest. After local newspapers reported the story, customers boycotted his store. Eventually, he apologized publicly and admitted that his conscience should have troubled him long before the criticism began. His business never fully recovered its former reputation.",
         "options": [
           {
             "letter": "A",
-            "text": "stoic"
+            "text": "qualm"
           },
           {
             "letter": "B",
-            "text": "soporific"
+            "text": "ennui"
           },
           {
             "letter": "C",
-            "text": "specious"
+            "text": "gratuity"
           },
           {
             "letter": "D",
-            "text": "sardonic"
+            "text": "diversity"
           }
         ],
         "answer": "A",
-        "answerWord": "stoic"
+        "answerWord": "qualm"
       },
       {
         "number": 12,
-        "question": "The __________ decoration of the ceremonial hall, featuring eighteen varieties of imported marble, gilded ceiling reliefs, and custom-woven tapestries commissioned from four separate European workshops, reflected a conception of institutional prestige that subsequent generations of administrators found both financially unsustainable and aesthetically questionable.",
+        "question": "Before showing the classic film to young students, the school decided to __________ several violent scenes and offensive language that parents considered inappropriate for children. Teachers carefully removed these passages while preserving the story's main themes and historical lessons. Some film lovers criticized the edited version as censorship. However, most parents appreciated the effort to make an important historical story suitable for younger audiences. The complete version remains available for older students to study.",
         "options": [
           {
             "letter": "A",
-            "text": "secular"
+            "text": "replenish"
           },
           {
             "letter": "B",
-            "text": "sardonic"
+            "text": "expurgate"
           },
           {
             "letter": "C",
-            "text": "rococo"
+            "text": "delve"
           },
           {
             "letter": "D",
-            "text": "sanguine"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "rococo"
-      },
-      {
-        "number": 13,
-        "question": "The investigative committee was particularly troubled by the executive's __________ accounting of how resources had been allocated, the narrative shifting with each round of questioning and the supporting documentation proving inconsistent with his own contemporaneous correspondence in ways he could not plausibly explain.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "spurious"
-          },
-          {
-            "letter": "B",
-            "text": "sanguine"
-          },
-          {
-            "letter": "C",
-            "text": "stoic"
-          },
-          {
-            "letter": "D",
-            "text": "sardonic"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "spurious"
-      },
-      {
-        "number": 14,
-        "question": "Congregation members viewed the performance artist's incorporation of liturgical objects into a secular installation as fundamentally __________, while secular critics argued that the work represented a legitimate artistic engagement with inherited visual traditions rather than any intentional disrespect toward the community whose symbolic language it employed.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "squalid"
-          },
-          {
-            "letter": "B",
-            "text": "soporific"
-          },
-          {
-            "letter": "C",
-            "text": "spurious"
-          },
-          {
-            "letter": "D",
-            "text": "sacrilegious"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "sacrilegious"
-      },
-      {
-        "number": 15,
-        "question": "The panel found the two-hour presentation on emerging pedagogical frameworks deeply __________, with the speaker's monotonous delivery and dense statistical content combining to create an environment in which even participants with genuine professional interest in the subject found sustained attention increasingly difficult to maintain.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "specious"
-          },
-          {
-            "letter": "B",
-            "text": "stoic"
-          },
-          {
-            "letter": "C",
-            "text": "soporific"
-          },
-          {
-            "letter": "D",
-            "text": "squalid"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "soporific"
-      },
-      {
-        "number": 16,
-        "question": "The __________ investor repositioned her portfolio months before the correction materialized, recognizing structural signals in the credit market that most contemporaries either overlooked or actively dismissed as irrelevant to what they characterized as a fundamentally different economic environment from the historical precedents she found compelling.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "sanguine"
-          },
-          {
-            "letter": "B",
-            "text": "sagacious"
-          },
-          {
-            "letter": "C",
-            "text": "sanctimonious"
-          },
-          {
-            "letter": "D",
-            "text": "secular"
+            "text": "begrudge"
           }
         ],
         "answer": "B",
-        "answerWord": "sagacious"
+        "answerWord": "expurgate"
       },
       {
-        "number": 17,
-        "question": "The playwright's comedies about court life drew their energy from the tension between the elaborate ceremonial language of official discourse and the crude pragmatism of private exchanges, their __________ quality generating the kind of laughter that made audiences simultaneously uncomfortable and delighted.",
+        "number": 13,
+        "question": "Although the new manager received a much higher salary than the staff who had worked there for decades, few employees seemed to __________ her the generous pay. She worked long hours, listened carefully to everyone's concerns, and quickly solved problems that had existed for years. Her hard work earned their respect. Rather than resenting her success, the team soon considered her the best leader they had experienced. Several employees said she was the best manager they had ever had.",
         "options": [
           {
             "letter": "A",
-            "text": "secular"
+            "text": "begrudge"
           },
           {
             "letter": "B",
-            "text": "stoic"
+            "text": "delve"
           },
           {
             "letter": "C",
-            "text": "ribald"
+            "text": "replenish"
           },
           {
             "letter": "D",
-            "text": "sardonic"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "ribald"
-      },
-      {
-        "number": 18,
-        "question": "The laboratory confirmed that the alleged antique manuscript was __________, identifying ink compounds not commercially available until the nineteenth century and a paper watermark inconsistent with the workshop of the attributed master, a finding that immediately prompted withdrawal of the item from auction.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "spurious"
-          },
-          {
-            "letter": "B",
-            "text": "specious"
-          },
-          {
-            "letter": "C",
-            "text": "sacrilegious"
-          },
-          {
-            "letter": "D",
-            "text": "sardonic"
+            "text": "expurgate"
           }
         ],
         "answer": "A",
-        "answerWord": "spurious"
+        "answerWord": "begrudge"
       },
       {
-        "number": 19,
-        "question": "The __________ columnist's commentary on political hypocrisy attracted a devoted readership who appreciated the combination of intellectual rigor and dark wit that made his analysis simultaneously more entertaining and more disturbing than conventional political journalism typically managed to achieve.",
+        "number": 14,
+        "question": "The young singer's __________ charm won over audiences who had grown tired of heavily produced pop stars. She performed barefoot with only a guitar, spoke honestly between songs about her fears and hopes, and laughed openly at her own mistakes. Fans appreciated her natural, innocent sincerity. Music critics noted that her lack of pretense felt refreshing in an industry filled with carefully managed public images. Her debut album quickly topped the national charts.",
         "options": [
           {
             "letter": "A",
-            "text": "sardonic"
+            "text": "callous"
           },
           {
             "letter": "B",
-            "text": "sanguine"
+            "text": "negligible"
           },
           {
             "letter": "C",
-            "text": "sanctimonious"
+            "text": "frenetic"
           },
           {
             "letter": "D",
-            "text": "secular"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "sardonic"
-      },
-      {
-        "number": 20,
-        "question": "The defendant's explanation for his presence at the location struck investigators as inherently __________, resting as it did on an unlikely sequence of coincidences that would have required extraordinary timing and cooperation from multiple independent witnesses, none of whom had come forward despite substantial public appeals for information.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "sacrilegious"
-          },
-          {
-            "letter": "B",
-            "text": "soporific"
-          },
-          {
-            "letter": "C",
-            "text": "stoic"
-          },
-          {
-            "letter": "D",
-            "text": "specious"
+            "text": "artless"
           }
         ],
         "answer": "D",
-        "answerWord": "specious"
+        "answerWord": "artless"
+      },
+      {
+        "number": 15,
+        "question": "At the luxury hotel, guests often leave a generous __________ for the housekeeping staff who clean their rooms, placing money in an envelope on the pillow each morning. Employees say these small gifts significantly supplement their modest salaries and express appreciation for their hard work. Hotel managers encourage guests to recognize excellent service, though they emphasize that tipping remains entirely voluntary and should never feel obligatory. Most guests are happy to show their gratitude this way.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "quandary"
+          },
+          {
+            "letter": "B",
+            "text": "artifice"
+          },
+          {
+            "letter": "C",
+            "text": "gratuity"
+          },
+          {
+            "letter": "D",
+            "text": "requisite"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "gratuity"
+      },
+      {
+        "number": 16,
+        "question": "The student's nervousness was __________ to everyone in the room: her hands trembled, her voice shook, and she dropped her notes twice before beginning her presentation. Her classmates smiled encouragingly, and her teacher quietly reminded her to breathe slowly. Once she started speaking about her research, however, her obvious anxiety faded. She eventually delivered one of the most impressive presentations in the class. Her teacher praised her courage in front of the class.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "capricious"
+          },
+          {
+            "letter": "B",
+            "text": "manifest"
+          },
+          {
+            "letter": "C",
+            "text": "expedient"
+          },
+          {
+            "letter": "D",
+            "text": "comely"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "manifest"
+      },
+      {
+        "number": 17,
+        "question": "Investigative journalists decided to __________ into the charity's financial records after receiving anonymous tips about suspicious spending. They examined thousands of receipts, bank statements, and internal emails over several months. Their thorough investigation revealed that executives had spent donations on luxury cars and private vacations. The resulting articles led to criminal charges, and the organization's board replaced the entire management team. Several of the reporters involved later received prestigious national journalism awards.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "expurgate"
+          },
+          {
+            "letter": "B",
+            "text": "begrudge"
+          },
+          {
+            "letter": "C",
+            "text": "delve"
+          },
+          {
+            "letter": "D",
+            "text": "replenish"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "delve"
+      },
+      {
+        "number": 18,
+        "question": "Employees complained about the manager's __________ behavior, since he changed project deadlines without warning, praised ideas one day and rejected them the next, and switched priorities according to his mood. Nobody could predict what he would want from week to week. The unpredictable leadership created stress and confusion throughout the department. After several talented workers resigned, the company finally replaced him with a more consistent director. Morale improved almost immediately after his departure.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "capricious"
+          },
+          {
+            "letter": "B",
+            "text": "artless"
+          },
+          {
+            "letter": "C",
+            "text": "negligible"
+          },
+          {
+            "letter": "D",
+            "text": "blasé"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "capricious"
+      },
+      {
+        "number": 19,
+        "question": "A valid passport with at least six months remaining before expiration is a basic __________ for entering most foreign countries. Travelers who overlook this requirement may be refused boarding at the airport, even if they have purchased expensive tickets. Many countries also require visas, proof of accommodation, and return tickets. Travel agencies recommend checking all necessary documents carefully several weeks before any international trip. Checking early prevents costly disappointment at the airport.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "requisite"
+          },
+          {
+            "letter": "B",
+            "text": "ennui"
+          },
+          {
+            "letter": "C",
+            "text": "diversity"
+          },
+          {
+            "letter": "D",
+            "text": "gratuity"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "requisite"
+      },
+      {
+        "number": 20,
+        "question": "Farmers use natural fertilizers such as compost and manure to __________ nutrients in the soil after each harvest, since crops gradually remove minerals that plants need to grow. Without restoring these nutrients, fields become less productive over time. Some farmers also rotate crops, planting beans that naturally add nitrogen to the earth. These traditional methods help refill the soil and maintain healthy harvests for generations. Scientists continue studying how to improve these methods further.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "delve"
+          },
+          {
+            "letter": "B",
+            "text": "expurgate"
+          },
+          {
+            "letter": "C",
+            "text": "begrudge"
+          },
+          {
+            "letter": "D",
+            "text": "replenish"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "replenish"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "revere": [
-    "to feel deep respect or admiration for.",
-    "崇敬；尊重"
+  "quandary": [
+    "doubt, dilemma.",
+    "困惑；窘境"
   ],
-  "ribald": [
-    "referring to sexual matters in a rude but humorous way.",
-    "猥褻的；下流的"
+  "callous": [
+    "hardened, unfeeling.",
+    "無情的；麻木的"
   ],
-  "rococo": [
-    "elaborately ornate; highly decorated.",
-    "洛可可風格的；過分華麗的"
+  "expedient": [
+    "convenient, useful for a purpose though not always fair or principled.",
+    "權宜的；方便的"
   ],
-  "ruse": [
-    "an action intended to deceive.",
-    "策略；詭計"
+  "negligible": [
+    "trifling, too small to matter.",
+    "微不足道的；可忽略的"
   ],
-  "sacrilegious": [
-    "involving or showing disrespect for sacred things.",
-    "褻瀆神聖的；不敬的"
+  "blasé": [
+    "indifferent, unexcited because of overfamiliarity.",
+    "厭倦的；無動於衷的"
   ],
-  "sagacious": [
-    "having or showing keen mental discernment.",
-    "睿智的；有洞察力的"
+  "ennui": [
+    "boredom, listless weariness.",
+    "倦怠；無聊"
   ],
-  "sanctimonious": [
-    "making a show of being morally superior.",
-    "假裝虔誠的；道貌岸然的"
+  "comely": [
+    "attractive, pleasant to look at.",
+    "清秀的；標緻的"
   ],
-  "sanguine": [
-    "optimistic, especially in a difficult situation.",
-    "樂觀的；充滿希望的"
+  "frenetic": [
+    "frantic, frenzied.",
+    "狂熱的；發狂似的"
   ],
-  "sardonic": [
-    "grimly mocking or cynical.",
-    "嘲諷的；冷嘲熱諷的"
+  "artifice": [
+    "clever trick, strategy, trickery.",
+    "詭計；巧妙手段"
   ],
-  "scrupulous": [
-    "diligent and careful; very concerned about doing right.",
-    "嚴謹的；一絲不苟的"
+  "diversity": [
+    "variety.",
+    "多樣性"
   ],
-  "secular": [
-    "not connected with religious matters.",
-    "世俗的；非宗教的"
+  "qualm": [
+    "twinge of conscience, sudden feeling of doubt.",
+    "疑慮；良心不安"
   ],
-  "sedulous": [
-    "showing dedication and great care.",
-    "勤勉的；孜孜不倦的"
+  "expurgate": [
+    "to remove objectionable parts or passages.",
+    "刪去（不當內容）"
   ],
-  "skeptical": [
-    "not easily convinced; doubting.",
-    "懷疑的；持懷疑態度的"
+  "begrudge": [
+    "to resent, give reluctantly.",
+    "吝惜；嫉妒"
   ],
-  "sloth": [
-    "reluctance to work or make any effort; laziness.",
-    "怠惰；懶惰"
+  "artless": [
+    "naive, innocent, without deception.",
+    "天真的；純樸的"
   ],
-  "soporific": [
-    "tending to induce sleep.",
-    "催眠的；令人昏昏欲睡的"
+  "gratuity": [
+    "tip, gift for service.",
+    "小費；酬金"
   ],
-  "specious": [
-    "seemingly true but actually wrong.",
-    "似是而非的；外表好看但實際錯誤的"
+  "manifest": [
+    "evident, obvious.",
+    "明顯的；明白的"
   ],
-  "spurious": [
-    "not genuine; false.",
-    "假的；偽造的"
+  "delve": [
+    "to dig, investigate deeply.",
+    "鑽研；深入探究"
   ],
-  "squalid": [
-    "extremely dirty and unpleasant; morally degraded.",
-    "骯髒的；污穢的"
+  "capricious": [
+    "unpredictable, changing on a whim.",
+    "反覆無常的；任性的"
   ],
-  "stoic": [
-    "enduring pain or hardship without showing feelings.",
-    "堅忍的；超然的"
+  "requisite": [
+    "requirement, necessary thing.",
+    "必需品；必要條件"
+  ],
+  "replenish": [
+    "to fill again, restock.",
+    "補充；重新裝滿"
   ]
 });

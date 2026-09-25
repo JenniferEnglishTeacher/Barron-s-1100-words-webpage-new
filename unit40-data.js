@@ -3,832 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 40",
     "cards": [
       {
-        "word": "penury",
+        "word": "rhetoric",
         "pos": "n.",
-        "definition": "extreme poverty; destitution.",
-        "chinese": "貧困；一貧如洗",
-        "synonyms": "poverty, destitution, indigence",
-        "image": "crack",
-        "sentence": "The social historian documented how cyclical __________ among agricultural laborers was not merely the product of individual misfortune but the predictable consequence of structural policies that systematically transferred economic risk from landowners to the most economically vulnerable members of the rural workforce.",
-        "translation": "這位社會歷史學家記錄了農業勞動者中循環性貧困不僅僅是個人不幸的產物，更是系統性地將經濟風險從地主轉移到農村勞動力中最具經濟脆弱性成員的結構性政策的可預見後果。",
+        "definition": "use (sometimes exaggerated) of language.",
+        "memoryChant": "rhetor (orator) → 'The art of the orator—rhetoric!'",
+        "chinese": "修辭；浮誇的言語",
+        "synonyms": "oratory, eloquence, grandiloquence",
+        "image": "small",
+        "sentence": "The candidate's speech was full of powerful __________, promising a golden age of prosperity, perfect schools, and an end to poverty within four years. His dramatic language and emotional appeals excited the enormous crowd, who cheered after nearly every sentence. However, economists who examined his proposals found few concrete details about funding or implementation. They warned voters that inspiring words, however persuasive, cannot replace realistic policies supported by careful planning and evidence.",
+        "translation": "這位候選人的演說充滿了強而有力的修辭，承諾在四年內迎來繁榮的黃金時代、打造完美的學校，並終結貧窮。他戲劇性的言詞與情感訴求讓廣大群眾熱血沸騰，幾乎每說一句話就響起歡呼。然而，研究他政見的經濟學家卻發現，其中關於經費來源與執行方式的具體細節寥寥無幾。他們提醒選民，激勵人心的言語無論多麼有說服力，都無法取代有周詳規劃與證據支持的務實政策。",
         "lookup": {
-          "english": "extreme poverty; destitution.",
-          "chinese": "貧困；一貧如洗"
+          "english": "use (sometimes exaggerated) of language.",
+          "chinese": "修辭；浮誇的言語"
         }
       },
       {
-        "word": "perfidious",
-        "pos": "adj.",
-        "definition": "deceitful and untrustworthy; treacherous.",
-        "chinese": "背信棄義的；奸詐的",
-        "synonyms": "treacherous, disloyal, deceitful",
-        "image": "fire",
-        "sentence": "The ambassador characterized the surprise withdrawal from the treaty framework as a __________ act that had fundamentally undermined the trust essential to future multilateral cooperation on the range of shared security challenges that no single nation could effectively address in isolation.",
-        "translation": "大使將突然退出條約框架的行為定性為背信棄義之舉，從根本上破壞了未來多邊合作所必需的信任，這種信任對應對任何單一國家都無法有效獨立處理的一系列共同安全挑戰至關重要。",
-        "lookup": {
-          "english": "deceitful and untrustworthy; treacherous.",
-          "chinese": "背信棄義的；奸詐的"
-        }
-      },
-      {
-        "word": "pernicious",
-        "pos": "adj.",
-        "definition": "having a harmful effect; insidious.",
-        "chinese": "有害的；致命的",
-        "synonyms": "harmful, destructive, deadly",
-        "image": "crack",
-        "sentence": "The documentary examined the __________ influence of misinformation ecosystems on democratic deliberation, arguing that the cumulative erosion of shared factual foundations made it increasingly difficult to sustain the kind of evidence-based policy discourse essential to functional representative government.",
-        "translation": "這部紀錄片審視了錯誤信息生態系統對民主審議的有害影響，認為共同事實基礎的累積侵蝕，使維持功能性代議制政府所必需的以證據為基礎的政策話語變得越來越困難。",
-        "lookup": {
-          "english": "having a harmful effect; insidious.",
-          "chinese": "有害的；致命的"
-        }
-      },
-      {
-        "word": "perturb",
-        "pos": "v.",
-        "definition": "to disturb or worry greatly.",
-        "chinese": "使不安；使心煩意亂",
-        "synonyms": "disturb, unsettle, agitate",
-        "image": "mountain",
-        "sentence": "The unexpected findings in the preliminary data began to __________ the research team, suggesting that their foundational theoretical model might require substantial revision before the study's conclusions could be presented with the confidence originally anticipated during the project's design phase.",
-        "translation": "初步數據中意想不到的發現開始令研究團隊不安，這表明他們的基礎理論模型在研究結論能夠以項目設計階段最初預期的信心呈現之前，可能需要進行實質性的修訂。",
-        "lookup": {
-          "english": "to disturb or worry greatly.",
-          "chinese": "使不安；使心煩意亂"
-        }
-      },
-      {
-        "word": "petulant",
-        "pos": "adj.",
-        "definition": "sulkily childish; ill-tempered.",
-        "chinese": "任性的；脾氣暴躁的",
-        "synonyms": "sulky, irritable, peevish",
-        "image": "lamp",
-        "sentence": "The athlete's __________ response to the referee's decision — throwing equipment and refusing to leave the court — resulted in additional penalties that transformed what might have been a recoverable score deficit into an insurmountable disadvantage that ultimately cost the team the championship.",
-        "translation": "這位運動員對裁判決定的任性回應——扔設備並拒絕離場——導致了額外的懲罰，將本可挽回的比分差距轉變為不可逾越的劣勢，最終使球隊痛失冠軍。",
-        "lookup": {
-          "english": "sulkily childish; ill-tempered.",
-          "chinese": "任性的；脾氣暴躁的"
-        }
-      },
-      {
-        "word": "phlegmatic",
-        "pos": "adj.",
-        "definition": "having a calm, stoical temperament.",
-        "chinese": "冷靜的；遲鈍的",
-        "synonyms": "calm, stoical, impassive",
-        "image": "eraser",
-        "sentence": "The emergency coordinator's __________ demeanor during the escalating crisis provided the psychological anchor the response team desperately needed, her measured voice and deliberate decision-making preventing the panic that might otherwise have compromised the coordinated effectiveness of a response that ultimately saved dozens of lives.",
-        "translation": "緊急協調員在不斷升級的危機中冷靜的態度，為應急小組提供了迫切需要的心理支柱，她沉穩的聲音和深思熟慮的決策防止了可能破壞協調有效性的恐慌，最終拯救了數十條生命。",
-        "lookup": {
-          "english": "having a calm, stoical temperament.",
-          "chinese": "冷靜的；遲鈍的"
-        }
-      },
-      {
-        "word": "placid",
-        "pos": "adj.",
-        "definition": "calm and peaceful; not easily upset.",
-        "chinese": "平靜的；溫和的",
-        "synonyms": "tranquil, serene, calm",
-        "image": "mountain",
-        "sentence": "The __________ surface of the reservoir concealed dangerous undercurrents that had proved fatal to several swimmers who mistook the apparent stillness for genuine safety, prompting authorities to install comprehensive warning signage and prohibit unsupervised recreational swimming throughout the designated catchment area.",
-        "translation": "水庫平靜的表面隱藏著危險的暗流，幾名將表面平靜誤認為真正安全的游泳者為此付出了生命，促使當局在整個指定流域安裝全面警告標識並禁止無人監督的休閒游泳。",
-        "lookup": {
-          "english": "calm and peaceful; not easily upset.",
-          "chinese": "平靜的；溫和的"
-        }
-      },
-      {
-        "word": "platitude",
+        "word": "clique",
         "pos": "n.",
-        "definition": "a remark used so often that it is meaningless.",
-        "chinese": "陳腔濫調；老生常談",
-        "synonyms": "cliché, banality, truism",
-        "image": "cane",
-        "sentence": "The graduation speaker's address, composed almost entirely of motivational __________, received polite applause but left graduates with no memorable insight or practical guidance relevant to the genuinely complex professional challenges they would encounter in the years immediately following their completion of academic study.",
-        "translation": "這位畢業典禮演講者幾乎全由激勵性陳腔濫調組成的演講，獲得了禮貌性的掌聲，但沒有給畢業生留下任何值得記憶的見解或與他們在完成學業後即將面臨的真正複雜職業挑戰相關的實際指導。",
-        "lookup": {
-          "english": "a remark used so often that it is meaningless.",
-          "chinese": "陳腔濫調；老生常談"
-        }
-      },
-      {
-        "word": "plebeian",
-        "pos": "adj.",
-        "definition": "of or belonging to the common people; coarse.",
-        "chinese": "平民的；粗俗的",
-        "synonyms": "common, vulgar, lowly",
+        "definition": "small, exclusive group of people.",
+        "memoryChant": "cliquer (to click) → 'A group that clicks together and shuts others out—clique!'",
+        "chinese": "小圈子；派系",
+        "synonyms": "circle, faction, in-group",
         "image": "rings",
-        "sentence": "The art critic's dismissal of the popular exhibition as __________ revealed more about his own narrow conception of cultural value than about any genuine deficiency in the works themselves, which engaged genuinely difficult questions about identity and belonging through visual languages accessible to audiences beyond the specialist art world.",
-        "translation": "這位藝術評論家將這個受歡迎的展覽斥為粗俗，這更多地揭示了他自身對文化價值的狹隘概念，而非作品本身的任何真正缺陷，這些作品通過超越藝術界專業受眾所能理解的視覺語言，探討了身份認同和歸屬感等真正困難的問題。",
+        "sentence": "During her first month at the new school, the transfer student felt lonely because the popular __________ in her class refused to let newcomers sit at their lunch table. The small group of friends shared private jokes, wore similar clothes, and ignored anyone outside their circle. Eventually, she joined the school orchestra, where she found welcoming classmates who shared her interests. By the end of the year, she had formed genuine, lasting friendships.",
+        "translation": "在新學校的第一個月，這名轉學生感到很孤單，因為班上那個受歡迎的小圈子拒絕讓新同學坐在他們的午餐桌。這一小群朋友分享只有自己懂的笑話、穿著相似的衣服，並忽視任何圈外的人。最後，她加入了學校管弦樂團，在那裡找到了友善且興趣相投的同學。到了學年結束時，她已結交了真誠而長久的友誼。",
         "lookup": {
-          "english": "of or belonging to the common people; coarse.",
-          "chinese": "平民的；粗俗的"
+          "english": "small, exclusive group of people.",
+          "chinese": "小圈子；派系"
         }
       },
       {
-        "word": "poignant",
-        "pos": "adj.",
-        "definition": "evoking a keen sense of sadness or regret.",
-        "chinese": "令人心酸的；深刻感人的",
-        "synonyms": "moving, touching, affecting",
-        "image": "regret",
-        "sentence": "The __________ reunion between the siblings who had been separated by the conflict for over two decades was broadcast without commentary, the images themselves conveying an emotional complexity that any journalistic framing would have inevitably diminished rather than illuminated.",
-        "translation": "這對因衝突而分離超過二十年的兄弟姐妹令人心酸的重聚被無注釋地播出，這些影像本身傳達了一種情感複雜性，任何新聞式的框架都必然會削弱而非增強。",
-        "lookup": {
-          "english": "evoking a keen sense of sadness or regret.",
-          "chinese": "令人心酸的；深刻感人的"
-        }
-      },
-      {
-        "word": "pompous",
-        "pos": "adj.",
-        "definition": "affectedly grand or self-important.",
-        "chinese": "自大的；浮誇的",
-        "synonyms": "arrogant, pretentious, grandiose",
-        "image": "scatter",
-        "sentence": "The __________ keynote speaker's tendency to preface each observation with an extended account of his own credentials and past achievements consumed substantial time that might otherwise have been devoted to the substantive content that the audience had assembled to hear.",
-        "translation": "這位自大的主題演講者習慣在每個觀點之前詳述自己的資歷和過去成就，佔用了大量本可用於演講者所聚集的觀眾期待聆聽的實質性內容的時間。",
-        "lookup": {
-          "english": "affectedly grand or self-important.",
-          "chinese": "自大的；浮誇的"
-        }
-      },
-      {
-        "word": "pragmatic",
-        "pos": "adj.",
-        "definition": "dealing with problems in a practical way.",
-        "chinese": "務實的；實際的",
-        "synonyms": "practical, realistic, sensible",
-        "image": "flag",
-        "sentence": "The board appreciated the incoming director's __________ approach to organizational reform, which prioritized achievable incremental improvements over ambitious transformative visions that previous consultants had proposed without adequate consideration of the institutional constraints that had consistently frustrated implementation.",
-        "translation": "董事會欣賞新任主任務實的組織改革方法，該方法優先考慮可實現的漸進式改進，而非此前顧問所提出的沒有充分考慮持續阻礙實施的制度限制的雄心勃勃的變革願景。",
-        "lookup": {
-          "english": "dealing with problems in a practical way.",
-          "chinese": "務實的；實際的"
-        }
-      },
-      {
-        "word": "precarious",
-        "pos": "adj.",
-        "definition": "not securely held; dependent on chance.",
-        "chinese": "不穩定的；危險的",
-        "synonyms": "unstable, risky, uncertain",
-        "image": "warning",
-        "sentence": "The startup's financial position remained deeply __________ throughout its second year of operation, with runway extending no further than ninety days at several critical junctures and the founding team surviving on deferred compensation while negotiating with potential investors.",
-        "translation": "這家初創公司在第二年運營中財務狀況始終深度不穩定，在幾個關鍵時刻可運作資金不超過九十天，創始團隊在與潛在投資者談判期間靠遞延薪酬維持生活。",
-        "lookup": {
-          "english": "not securely held; dependent on chance.",
-          "chinese": "不穩定的；危險的"
-        }
-      },
-      {
-        "word": "precocious",
-        "pos": "adj.",
-        "definition": "having developed certain abilities at an earlier age.",
-        "chinese": "早熟的；過早發展的",
-        "synonyms": "advanced, gifted, ahead",
-        "image": "cane",
-        "sentence": "The __________ mathematician published her first peer-reviewed paper at sixteen, demonstrating a sophisticated command of topological concepts that most graduate students do not develop until several years into their doctoral programs, prompting her undergraduate institution to create a bespoke accelerated pathway for her final two years.",
-        "translation": "這位早熟的數學家在十六歲時發表了她的第一篇同行評審論文，展示了對大多數研究生在博士課程的幾年後才能發展出的拓撲學概念的精深掌握，促使她的本科院校為她的最後兩年量身定制了加速學習路徑。",
-        "lookup": {
-          "english": "having developed certain abilities at an earlier age.",
-          "chinese": "早熟的；過早發展的"
-        }
-      },
-      {
-        "word": "presumptuous",
-        "pos": "adj.",
-        "definition": "overstepping due bounds; arrogantly taking liberties.",
-        "chinese": "放肆的；冒昧的",
-        "synonyms": "arrogant, forward, impertinent",
-        "image": "regret",
-        "sentence": "It seemed genuinely __________ for the junior consultant to revise the partner's strategic recommendation without discussion and present the modified version directly to the client as though it represented a consensual product of collaborative team deliberation rather than a unilateral personal intervention.",
-        "translation": "這位初級顧問在未經討論的情況下修改合夥人的戰略建議，並將修改版本直接呈現給客戶，仿佛它是協作團隊審議的共識產品而非單方面個人干預，這確實顯得十分冒昧。",
-        "lookup": {
-          "english": "overstepping due bounds; arrogantly taking liberties.",
-          "chinese": "放肆的；冒昧的"
-        }
-      },
-      {
-        "word": "prevaricate",
+        "word": "extol",
         "pos": "v.",
-        "definition": "to speak or act evasively.",
-        "chinese": "支吾；搪塞",
-        "synonyms": "equivocate, hedge, evade",
-        "image": "eraser",
-        "sentence": "When pressed for a direct commitment during the parliamentary inquiry, the minister began to __________, offering a succession of procedural objections, jurisdictional caveats, and requests for clarification that effectively prevented any substantive accountability for the decisions at the center of the investigation.",
-        "translation": "在議會調查中被追問直接承諾時，這位部長開始支吾搪塞，提出一連串程序性反對意見、管轄權保留意見和澄清請求，有效地阻止了對調查核心決策的任何實質性問責。",
+        "definition": "to praise highly.",
+        "memoryChant": "ex- (out) + tollere (to raise) → 'Raise someone up high with praise—extol!'",
+        "chinese": "讚美；頌揚",
+        "synonyms": "praise, glorify, celebrate",
+        "image": "rings",
+        "sentence": "Food critics from around the world continue to __________ the small family restaurant in Tainan, describing its beef soup as the finest breakfast they have ever tasted. Magazines have published enthusiastic articles praising the fresh ingredients, the rich broth, and the owner's decades of dedication. Despite such glowing reviews, the elderly owner refuses to raise prices or open additional branches. She insists that serving her neighbors well matters more than international fame or profit.",
+        "translation": "世界各地的美食評論家不斷盛讚台南這間小小的家庭餐館，形容它的牛肉湯是他們吃過最棒的早餐。雜誌紛紛刊出熱情洋溢的文章，稱讚新鮮的食材、濃郁的湯頭，以及老闆數十年如一日的用心。儘管獲得如此高的評價，年邁的老闆娘仍拒絕漲價或開設分店。她堅持，好好服務鄰居比國際名氣或利潤更重要。",
         "lookup": {
-          "english": "to speak or act evasively.",
-          "chinese": "支吾；搪塞"
+          "english": "to praise highly.",
+          "chinese": "讚美；頌揚"
         }
       },
       {
-        "word": "pristine",
-        "pos": "adj.",
-        "definition": "in its original condition; unspoiled.",
-        "chinese": "原始的；純潔的",
-        "synonyms": "immaculate, perfect, unspoiled",
-        "image": "clock",
-        "sentence": "The conservation team discovered a __________ stretch of coastal wetland that had somehow escaped the agricultural and industrial development that had transformed the surrounding landscape over the preceding century, representing an invaluable ecological baseline for understanding the region's original biodiversity.",
-        "translation": "保護團隊發現了一片原始的沿海濕地，它不知為何躲過了過去一個世紀中改變周邊景觀的農業和工業開發，這代表了理解該地區原始生物多樣性的無價生態基線。",
-        "lookup": {
-          "english": "in its original condition; unspoiled.",
-          "chinese": "原始的；純潔的"
-        }
-      },
-      {
-        "word": "probity",
+        "word": "mentor",
         "pos": "n.",
-        "definition": "the quality of having strong moral principles.",
-        "chinese": "廉潔；正直",
-        "synonyms": "integrity, honesty, rectitude",
-        "image": "energy",
-        "sentence": "The tribunal appointed a respected jurist whose reputation for absolute __________ placed her beyond any reasonable suspicion of partiality or susceptibility to the institutional pressures that had compromised the credibility of earlier proceedings in the extraordinarily politically sensitive case.",
-        "translation": "法庭任命了一位受人尊敬的法學家，她以絕對廉潔著稱，這使她超越了任何合理的偏頗懷疑，以及在這個極度政治敏感案件中損害了早期程序可信度的機構壓力的影響。",
+        "definition": "counselor, coach, tutor.",
+        "memoryChant": "Mentor (Odysseus's trusted friend who guided his son) → 'A wise guide—mentor!'",
+        "chinese": "導師；良師益友",
+        "synonyms": "adviser, guide, counselor",
+        "image": "rubble",
+        "sentence": "When the young engineer joined the technology company, a senior colleague volunteered to serve as her __________, meeting with her weekly to discuss challenges, review her projects, and offer career advice. He introduced her to important contacts and encouraged her to present her ideas confidently at meetings. Years later, after becoming a department director herself, she followed his example by guiding several new employees through their first difficult years in the industry.",
+        "translation": "當這位年輕工程師加入這家科技公司時，一位資深同事自願擔任她的導師，每週與她見面討論遇到的挑戰、檢視她的專案，並提供職涯建議。他介紹她認識重要的人脈，並鼓勵她在會議中自信地發表想法。多年後，在自己也當上部門主管之後，她效法他的榜樣，指導好幾位新進員工度過他們在業界最艱難的頭幾年。",
         "lookup": {
-          "english": "the quality of having strong moral principles.",
-          "chinese": "廉潔；正直"
+          "english": "counselor, coach, tutor.",
+          "chinese": "導師；良師益友"
         }
       },
       {
-        "word": "prodigal",
+        "word": "facile",
         "pos": "adj.",
-        "definition": "spending money recklessly; wastefully extravagant.",
-        "chinese": "揮霍的；浪費的",
-        "synonyms": "wasteful, extravagant, spendthrift",
-        "image": "chest",
-        "sentence": "The __________ heir dissipated the considerable fortune accumulated over three generations within a single decade through a combination of speculative investments, lavish personal expenditure, and a fundamental disregard for the basic financial discipline that had enabled his predecessors to build the estate.",
-        "translation": "這位揮霍的繼承人通過投機性投資、奢侈個人支出，以及對使其先輩得以建立遺產的基本財務紀律的根本漠視，在短短十年內耗盡了三代積累的可觀財富。",
+        "definition": "easily accomplished; superficial.",
+        "memoryChant": "facere (to do) → 'Done too easily—facile!'",
+        "chinese": "容易的；膚淺的",
+        "synonyms": "superficial, simplistic, glib",
+        "image": "energy",
+        "sentence": "The professor criticized the student's essay for offering __________ solutions to the complex problem of urban poverty. The paper suggested that simply building more shopping malls would create enough jobs to end unemployment, ignoring issues such as education, housing, and discrimination. She explained that serious academic writing must acknowledge complexity rather than presenting simplistic answers. The student revised the essay carefully, eventually producing a thoughtful analysis that earned high marks.",
+        "translation": "教授批評這名學生的報告，對都市貧窮這個複雜問題提出了膚淺的解決方案。報告主張只要多蓋購物中心，就能創造足夠的工作機會來終結失業，卻忽略了教育、住房與歧視等問題。她解釋，嚴謹的學術寫作必須承認問題的複雜性，而不是提出過於簡化的答案。這名學生仔細修改了報告，最終完成了一篇深思熟慮、獲得高分的分析。",
         "lookup": {
-          "english": "spending money recklessly; wastefully extravagant.",
-          "chinese": "揮霍的；浪費的"
+          "english": "easily accomplished; superficial.",
+          "chinese": "容易的；膚淺的"
+        }
+      },
+      {
+        "word": "cant",
+        "pos": "n.",
+        "definition": "insincere or almost meaningless talk.",
+        "memoryChant": "cantare (to sing) → 'Singing the same empty tune—cant!'",
+        "chinese": "偽善之言；空話",
+        "synonyms": "hypocrisy, empty talk, platitudes",
+        "image": "scatter",
+        "sentence": "Employees grew tired of the manager's corporate __________ about teamwork, family values, and caring for staff, especially after he announced massive layoffs just weeks later. His speeches were filled with fashionable phrases that sounded inspiring but meant nothing in practice. Workers noticed that his actions consistently contradicted his words. Eventually, the staff stopped attending his motivational meetings altogether, preferring honest communication to empty slogans repeated without genuine commitment. Many eventually found jobs elsewhere.",
+        "translation": "員工們對經理那套關於團隊合作、家庭價值與關懷員工的企業空話感到厭倦，尤其是在他幾週後就宣布大規模裁員之後。他的演講充斥著聽起來激勵人心、實際上卻毫無意義的流行詞彙。員工們注意到，他的行為總是與他的言語相互矛盾。最後，員工們完全不再參加他的激勵會議，他們寧願要誠實的溝通，也不要沒有真誠承諾、一再重複的空洞口號。許多人最終在別處找到了工作。",
+        "lookup": {
+          "english": "insincere or almost meaningless talk.",
+          "chinese": "偽善之言；空話"
+        }
+      },
+      {
+        "word": "umbrage",
+        "pos": "n.",
+        "definition": "resentment, offense.",
+        "memoryChant": "umbra (shadow) → 'A shadow of offense falls over you—umbrage!'",
+        "chinese": "不快；怨恨",
+        "synonyms": "offense, resentment, indignation",
+        "image": "small",
+        "sentence": "The senior chef took __________ when the restaurant owner hired a young celebrity cook to redesign the entire menu without consulting him first. After twenty years of loyal service, he felt insulted and ignored. He expressed his resentment by refusing to attend planning meetings and eventually submitted his resignation. The owner later admitted that she should have involved him in the decision, recognizing how deeply her actions had offended him.",
+        "translation": "當餐廳老闆沒有事先詢問就聘請一位年輕的名人廚師重新設計整份菜單時，這位資深主廚感到十分不快。在忠心服務二十年之後，他覺得自己受到侮辱與忽視。他以拒絕參加規劃會議來表達不滿，最終遞出了辭呈。老闆後來承認，她應該讓他參與這項決定，也體認到自己的行為深深冒犯了他。",
+        "lookup": {
+          "english": "resentment, offense.",
+          "chinese": "不快；怨恨"
+        }
+      },
+      {
+        "word": "magnanimous",
+        "pos": "adj.",
+        "definition": "noble, generous, forgiving.",
+        "memoryChant": "magnus (great) + animus (soul) → 'A great soul—magnanimous!'",
+        "chinese": "寬宏大量的",
+        "synonyms": "generous, gracious, forgiving",
+        "image": "clock",
+        "sentence": "After winning the bitter election, the new president gave a __________ victory speech, praising her opponent's dedication and inviting his supporters to help build a better future together. Instead of celebrating her rival's defeat, she appointed several members of the opposing party to important government positions. Political commentators admired her generous, forgiving approach, noting that it helped heal divisions that had deeply troubled the nation throughout the long campaign. Her approval ratings rose steadily.",
+        "translation": "在贏得這場激烈的選舉後，新任總統發表了一場寬宏大量的勝選演說，讚揚對手的奉獻，並邀請他的支持者一起幫忙打造更好的未來。她沒有為對手的落敗慶祝，反而任命了數名反對黨成員擔任重要的政府職位。政治評論員欣賞她慷慨寬容的做法，指出這有助於彌合在漫長選戰中深深困擾國家的分裂。她的支持率穩定上升。",
+        "lookup": {
+          "english": "noble, generous, forgiving.",
+          "chinese": "寬宏大量的"
+        }
+      },
+      {
+        "word": "vilify",
+        "pos": "v.",
+        "definition": "to slander, speak ill of.",
+        "memoryChant": "vilis (cheap, base) → 'Make someone seem vile—vilify!'",
+        "chinese": "誹謗；詆毀",
+        "synonyms": "slander, defame, denigrate",
+        "image": "cane",
+        "sentence": "Some tabloid newspapers began to __________ the young actress after she criticized their invasive photographers, publishing false stories claiming she was arrogant, unkind to fans, and difficult to work with. Anonymous sources made shocking accusations that were never supported by evidence. Her friends and colleagues publicly defended her character, insisting that the slanderous reports were entirely fabricated. She eventually sued two publications and won substantial damages for defamation. Tabloids have treated her more carefully since.",
+        "translation": "在這位年輕女演員批評某些八卦報紙具侵擾性的攝影師之後，這些報紙開始詆毀她，刊登不實報導，聲稱她傲慢、對粉絲不友善，而且很難共事。匿名消息來源提出了從未有證據支持的驚人指控。她的朋友與同事公開為她的人格辯護，堅稱這些誹謗性的報導完全是捏造的。她最終控告了兩家媒體，並因誹謗獲得了可觀的賠償。此後八卦報紙對她的報導謹慎多了。",
+        "lookup": {
+          "english": "to slander, speak ill of.",
+          "chinese": "誹謗；詆毀"
+        }
+      },
+      {
+        "word": "elucidate",
+        "pos": "v.",
+        "definition": "to make clear, explain.",
+        "memoryChant": "e- (out) + lucidus (clear, bright) → 'Bring it out into the light—elucidate!'",
+        "chinese": "闡明；說明",
+        "synonyms": "clarify, explain, illuminate",
+        "image": "warning",
+        "sentence": "Students struggling with calculus appreciated the tutor's ability to __________ difficult concepts using simple examples from everyday life. She explained rates of change by describing how a car accelerates, and she illustrated integration by calculating the amount of water filling a swimming pool. Her clear explanations helped students understand ideas that had previously seemed impossibly abstract. Many of them later said her lessons transformed mathematics from a frightening subject into an enjoyable challenge.",
+        "translation": "正為微積分所苦的學生們，很感謝這位家教能用日常生活中簡單的例子來闡明困難的概念。她用汽車加速的方式來解釋變化率，並以計算注滿游泳池的水量來說明積分。她清楚的講解，幫助學生理解了過去似乎抽象到難以理解的觀念。許多學生後來表示，她的課讓數學從一門令人害怕的科目，變成了一項有趣的挑戰。",
+        "lookup": {
+          "english": "to make clear, explain.",
+          "chinese": "闡明；說明"
+        }
+      },
+      {
+        "word": "vapid",
+        "pos": "adj.",
+        "definition": "uninteresting, dull, lacking liveliness.",
+        "memoryChant": "vapidus (flat, flavorless) → 'Flat as stale soda—vapid!'",
+        "chinese": "乏味的；無趣的",
+        "synonyms": "dull, insipid, bland",
+        "image": "cane",
+        "sentence": "Critics dismissed the new television talk show as __________, complaining that the host asked shallow questions and allowed celebrity guests to promote their products without any meaningful conversation. Episodes consisted mainly of forced laughter, predictable jokes, and repetitive discussions about fashion and diets. Viewers quickly lost interest, and ratings declined every week. After only two months, the network canceled the dull program and replaced it with a popular documentary series about wildlife.",
+        "translation": "評論家認為這個新的電視談話節目枯燥乏味，抱怨主持人只問膚淺的問題，還讓名人來賓在毫無實質對話的情況下宣傳自己的產品。每集節目主要都是勉強的笑聲、老套的笑話，以及關於時尚與節食的重複討論。觀眾很快便失去興趣，收視率每週下滑。僅僅兩個月後，電視台便停播了這個無趣的節目，改播一個受歡迎的野生動物紀錄片系列。",
+        "lookup": {
+          "english": "uninteresting, dull, lacking liveliness.",
+          "chinese": "乏味的；無趣的"
+        }
+      },
+      {
+        "word": "unwieldy",
+        "pos": "adj.",
+        "definition": "bulky, difficult to handle.",
+        "memoryChant": "un- (not) + wieldy (manageable) → 'Not manageable—unwieldy!'",
+        "chinese": "笨重的；難處理的",
+        "synonyms": "cumbersome, awkward, bulky",
+        "image": "small",
+        "sentence": "The delivery workers struggled for nearly an hour to carry the __________ antique wardrobe up four flights of narrow stairs. The massive wooden furniture was too wide to turn corners easily, and its heavy doors kept swinging open. Eventually, they removed the doors and legs to make it lighter and easier to maneuver. Exhausted but successful, they finally placed the bulky piece in the owner's bedroom without scratching the walls.",
+        "translation": "送貨員們花了將近一個小時，才把這座笨重的古董衣櫃搬上四層狹窄的樓梯。這件巨大的木製家具太寬，很難順利轉過轉角，沉重的櫃門也一直打開。最後，他們拆下櫃門和櫃腳，讓它變得較輕、較容易搬動。雖然筋疲力盡，他們終於成功地把這件龐大的家具放進屋主的臥室，而且沒有刮傷牆壁。",
+        "lookup": {
+          "english": "bulky, difficult to handle.",
+          "chinese": "笨重的；難處理的"
+        }
+      },
+      {
+        "word": "proximity",
+        "pos": "n.",
+        "definition": "nearness.",
+        "memoryChant": "prope (near) → 'Being near—proximity!'",
+        "chinese": "接近；鄰近",
+        "synonyms": "nearness, closeness, vicinity",
+        "image": "rubble",
+        "sentence": "Many families choose apartments based on their __________ to good schools, parks, and public transportation. Living near a subway station can save commuters hours every week, while having a hospital nearby provides peace of mind for elderly residents. Real estate agents report that homes close to popular elementary schools often sell for significantly higher prices. Urban planners therefore consider convenient access to essential services a key factor in designing livable neighborhoods.",
+        "translation": "許多家庭在選擇公寓時，會考量它們與好學校、公園和大眾運輸的距離遠近。住在捷運站附近每週能為通勤族省下好幾個小時，而附近有醫院則讓年長居民感到安心。房仲業者表示，靠近熱門小學的房子，售價往往明顯較高。因此，都市規劃者將便利取得基本服務視為設計宜居社區的關鍵因素。",
+        "lookup": {
+          "english": "nearness.",
+          "chinese": "接近；鄰近"
+        }
+      },
+      {
+        "word": "lassitude",
+        "pos": "n.",
+        "definition": "weariness, weakness, lack of energy.",
+        "memoryChant": "lassus (tired) + -tude (state) → 'A state of tiredness—lassitude!'",
+        "chinese": "疲倦；無精打采",
+        "synonyms": "fatigue, lethargy, weariness",
+        "image": "regret",
+        "sentence": "During the long, humid summer afternoons, a heavy __________ often settles over students in classrooms without air conditioning. Heads droop, eyelids grow heavy, and even enthusiastic learners struggle to concentrate on their teachers' explanations. Educational researchers have found that high temperatures significantly reduce students' energy and academic performance. As a result, many schools in Taiwan have installed air conditioners and adjusted timetables to place demanding subjects during cooler morning hours.",
+        "translation": "在漫長潮濕的夏日午後，沒有冷氣的教室裡，學生們常常被一股沉重的倦怠感籠罩。大家頭低垂、眼皮沉重，即使是熱衷學習的學生，也難以專心聽老師講解。教育研究人員發現，高溫會顯著降低學生的精力與學業表現。因此，台灣許多學校已裝設冷氣，並調整課表，將較吃重的科目安排在較涼爽的早晨時段。",
+        "lookup": {
+          "english": "weariness, weakness, lack of energy.",
+          "chinese": "疲倦；無精打采"
+        }
+      },
+      {
+        "word": "vitiate",
+        "pos": "v.",
+        "definition": "to destroy the use or value of, weaken.",
+        "memoryChant": "vitium (fault) → 'Introduce a fault that ruins it—vitiate!'",
+        "chinese": "損害；使無效",
+        "synonyms": "undermine, invalidate, spoil",
+        "image": "rubble",
+        "sentence": "A single mistake in collecting samples can __________ the results of an entire scientific study, making months of careful work worthless. If researchers accidentally contaminate a test tube or record data incorrectly, their conclusions may no longer be reliable. For this reason, laboratories follow strict procedures, double-check measurements, and repeat experiments whenever possible. Scientists emphasize that protecting the accuracy of data is essential to preventing errors from undermining important discoveries.",
+        "translation": "採集樣本時的一個小錯誤，就可能使整項科學研究的結果失去效力，讓數個月的心血白費。如果研究人員不小心污染了試管或記錄錯誤的數據，他們的結論可能就不再可靠。因此，實驗室遵循嚴格的程序、反覆核對測量結果，並盡可能重複實驗。科學家強調，保護數據的準確性，對於防止錯誤損害重要的發現至關重要。",
+        "lookup": {
+          "english": "to destroy the use or value of, weaken.",
+          "chinese": "損害；使無效"
+        }
+      },
+      {
+        "word": "augment",
+        "pos": "v.",
+        "definition": "to enlarge, increase.",
+        "memoryChant": "augere (to increase) → 'Make it grow bigger—augment!'",
+        "chinese": "增加；擴大",
+        "synonyms": "increase, expand, supplement",
+        "image": "rings",
+        "sentence": "Many university students take part-time jobs to __________ their limited incomes, working in cafés, tutoring younger students, or delivering food in the evenings. The additional money helps pay for textbooks, transportation, and rising living costs. However, advisors caution that working too many hours can damage academic performance. They recommend finding flexible positions that increase earnings without sacrificing the time students need for studying, sleep, and meaningful social activities. Balance, they insist, is essential.",
+        "translation": "許多大學生打工來增加有限的收入，他們在咖啡館工作、為年紀較小的學生當家教，或在晚上外送餐點。這些額外的收入有助於支付教科書、交通費與不斷上漲的生活開銷。然而，輔導老師提醒，工作時數過長可能會影響學業表現。他們建議找彈性的工作，在增加收入的同時，不犧牲學生讀書、睡眠與參與有意義社交活動所需的時間。他們堅持，平衡是不可或缺的。",
+        "lookup": {
+          "english": "to enlarge, increase.",
+          "chinese": "增加；擴大"
+        }
+      },
+      {
+        "word": "fatuous",
+        "pos": "adj.",
+        "definition": "foolish, silly, inane.",
+        "memoryChant": "fatuus (foolish) → 'Foolishly empty—fatuous!'",
+        "chinese": "愚蠢的；昏庸的",
+        "synonyms": "foolish, inane, senseless",
+        "image": "eraser",
+        "sentence": "The celebrity's __________ comments about science during the interview, including his claim that the moon produces its own light, embarrassed his fans and amused experts. He spoke with complete confidence despite having obviously never studied the subject. Teachers shared the video with students as an example of why people should verify information rather than trusting famous personalities. Within days, the foolish remarks had become a popular joke on social media platforms.",
+        "translation": "這位名人在訪談中對科學發表的愚蠢言論，包括他聲稱月亮會自己發光，讓他的粉絲尷尬不已，也讓專家們覺得好笑。儘管他顯然從未研究過這門學科，說起話來卻充滿自信。老師們把這段影片分享給學生，作為人們應該查證資訊、而非盲目相信名人的例子。短短幾天內，這些愚蠢的言論就成了社群媒體上流行的笑話。",
+        "lookup": {
+          "english": "foolish, silly, inane.",
+          "chinese": "愚蠢的；昏庸的"
+        }
+      },
+      {
+        "word": "contort",
+        "pos": "v.",
+        "definition": "to twist violently.",
+        "memoryChant": "con- (together) + torquere (to twist) → 'Twist it all together—contort!'",
+        "chinese": "扭曲；歪曲",
+        "synonyms": "twist, distort, bend",
+        "image": "crack",
+        "sentence": "Acrobats in the famous circus can __________ their bodies into positions that seem physically impossible, bending backward until their heads touch their heels or folding themselves into tiny glass boxes. Audiences gasp in amazement as the performers twist their limbs with graceful control. Such extraordinary flexibility requires years of daily training, beginning in early childhood. Physical therapists warn untrained people never to attempt these movements, since serious injuries can easily result.",
+        "translation": "這個著名馬戲團的特技演員能將身體扭曲成看似不可能的姿勢，向後彎到頭碰到腳跟，或將自己摺進小小的玻璃箱裡。觀眾們看著表演者以優雅的控制力扭轉四肢，無不驚嘆連連。這種非凡的柔軟度需要從幼年開始、多年的每日訓練。物理治療師警告，未經訓練的人千萬不要嘗試這些動作，因為很容易造成嚴重的傷害。",
+        "lookup": {
+          "english": "to twist violently.",
+          "chinese": "扭曲；歪曲"
+        }
+      },
+      {
+        "word": "repertoire",
+        "pos": "n.",
+        "definition": "the works an artist is prepared to perform.",
+        "memoryChant": "re- (back) + parere (to produce) → 'Works you can produce again and again—repertoire!'",
+        "chinese": "全部節目；曲目",
+        "synonyms": "collection, range, stock",
+        "image": "small",
+        "sentence": "The young violinist's __________ already includes more than forty concertos, sonatas, and chamber pieces, ranging from classical Baroque works to contemporary compositions. She can perform any of them with only a few days' notice, a remarkable achievement for a musician of just nineteen. Orchestra directors value her extensive range, since it allows them to invite her for diverse programs. She plans to add several Taiwanese folk arrangements to her collection next year.",
+        "translation": "這位年輕小提琴家的演奏曲目已包含四十多首協奏曲、奏鳴曲與室內樂作品，涵蓋古典巴洛克作品到當代創作。只要幾天的準備，她就能演奏其中任何一首，對一位年僅十九歲的音樂家而言，這是非凡的成就。樂團指揮們都很看重她廣泛的曲目範圍，因為這讓他們能邀請她參與多元的演出節目。她計畫明年在她的曲目中加入幾首台灣民謠的改編曲。",
+        "lookup": {
+          "english": "the works an artist is prepared to perform.",
+          "chinese": "全部節目；曲目"
+        }
+      },
+      {
+        "word": "imperceptible",
+        "pos": "adj.",
+        "definition": "extremely slight or gradual, not noticeable.",
+        "memoryChant": "im- (not) + percipere (to perceive) → 'Cannot be perceived—imperceptible!'",
+        "chinese": "難以察覺的；極細微的",
+        "synonyms": "unnoticeable, subtle, undetectable",
+        "image": "cup",
+        "sentence": "The movement of the continents is almost __________, occurring at roughly the same speed that human fingernails grow. Nobody can feel the land shifting beneath their feet, yet over millions of years these tiny changes have completely rearranged the planet's geography. Scientists use satellites and precise instruments to measure the slight motion. Their data confirm that the Atlantic Ocean widens by a few centimeters every year, gradually separating Europe from North America.",
+        "translation": "大陸的移動幾乎難以察覺，其速度大約和人類指甲生長的速度相同。沒有人能感覺到腳下的土地在移動，然而經過數百萬年，這些微小的變化已徹底重塑了地球的地理面貌。科學家利用衛星與精密儀器來測量這種細微的移動。他們的數據證實，大西洋每年會變寬幾公分，逐漸將歐洲與北美洲分開。",
+        "lookup": {
+          "english": "extremely slight or gradual, not noticeable.",
+          "chinese": "難以察覺的；極細微的"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The alliance viewed the sudden termination of the agreement as a __________ act that undermined the trust essential to future collective security arrangements, arguing that a partner willing to abandon formal commitments for short-term tactical advantage could not be relied upon in contexts where genuine solidarity was required.",
+        "question": "Historians studying wartime speeches note that great leaders often used __________ to inspire citizens during desperate times. Carefully chosen words, memorable phrases, and emotional appeals helped strengthen public morale when defeat seemed likely. However, scholars also warn that persuasive language can be used to manipulate people and justify harmful policies. Students analyzing political speeches are therefore encouraged to distinguish between genuine arguments and exaggerated, emotionally charged language designed mainly to excite audiences.",
         "options": [
           {
             "letter": "A",
-            "text": "pernicious"
+            "text": "cant"
           },
           {
             "letter": "B",
-            "text": "perfidious"
+            "text": "rhetoric"
           },
           {
             "letter": "C",
-            "text": "petulant"
+            "text": "clique"
           },
           {
             "letter": "D",
-            "text": "phlegmatic"
+            "text": "umbrage"
           }
         ],
         "answer": "B",
-        "answerWord": "perfidious"
+        "answerWord": "rhetoric"
       },
       {
         "number": 2,
-        "question": "Public health researchers documented the __________ long-term effects of early childhood trauma on neurological development, demonstrating that adverse experiences during critical developmental windows produced measurable structural changes with consequences that persisted decades beyond the original exposure.",
+        "question": "The company's most important decisions were made by a small __________ of senior executives who met privately and rarely consulted other employees. Talented younger managers felt excluded from the exclusive circle and frustrated that their ideas were ignored. When a new chief executive arrived, she dissolved this closed group and introduced open meetings where anyone could present proposals. Employee satisfaction improved dramatically, and innovation increased throughout the organization within a year.",
         "options": [
           {
             "letter": "A",
-            "text": "placid"
+            "text": "repertoire"
           },
           {
             "letter": "B",
-            "text": "plebeian"
+            "text": "proximity"
           },
           {
             "letter": "C",
-            "text": "pernicious"
+            "text": "clique"
           },
           {
             "letter": "D",
-            "text": "poignant"
+            "text": "mentor"
           }
         ],
         "answer": "C",
-        "answerWord": "pernicious"
+        "answerWord": "clique"
       },
       {
         "number": 3,
-        "question": "The experienced veteran displayed a thoroughly __________ composure throughout the lengthy interrogation that analysts later attributed not to indifference but to years of disciplined training in managing emotional responses under conditions of extreme operational stress.",
+        "question": "Travel magazines frequently __________ the beauty of Taroko Gorge, describing its marble cliffs, turquoise rivers, and winding trails as some of the most spectacular scenery in Asia. Writers praise the dramatic landscape in enthusiastic articles illustrated with stunning photographs. Tourism officials welcome the glowing publicity, which attracts visitors from around the world. However, conservationists urge authorities to limit crowds so that the region's fragile ecosystem remains protected for future generations.",
         "options": [
           {
             "letter": "A",
-            "text": "phlegmatic"
+            "text": "extol"
           },
           {
             "letter": "B",
-            "text": "petulant"
+            "text": "vilify"
           },
           {
             "letter": "C",
-            "text": "pompous"
+            "text": "contort"
           },
           {
             "letter": "D",
-            "text": "precarious"
+            "text": "vitiate"
           }
         ],
         "answer": "A",
-        "answerWord": "phlegmatic"
+        "answerWord": "extol"
       },
       {
         "number": 4,
-        "question": "The emergency dispatcher's __________ temperament proved critical during the multi-incident crisis, his calm voice and systematic prioritization of incoming calls preventing the operational chaos that a more reactive response style would almost certainly have generated under conditions of equally intense simultaneous demand.",
+        "question": "The retired judge served as a trusted __________ to dozens of young lawyers, guiding them through difficult cases, teaching them courtroom strategies, and offering advice about balancing work with family life. Many of his former students became successful judges and professors themselves. At his eightieth birthday celebration, they took turns describing how his patient counsel had shaped their careers. Several credited him with helping them overcome moments when they considered quitting.",
         "options": [
           {
             "letter": "A",
-            "text": "pompous"
+            "text": "clique"
           },
           {
             "letter": "B",
-            "text": "pragmatic"
+            "text": "cant"
           },
           {
             "letter": "C",
-            "text": "precarious"
+            "text": "rhetoric"
           },
           {
             "letter": "D",
-            "text": "phlegmatic"
+            "text": "mentor"
           }
         ],
         "answer": "D",
-        "answerWord": "phlegmatic"
+        "answerWord": "mentor"
       },
       {
         "number": 5,
-        "question": "The young tennis player's __________ reaction to the line call, breaking her racket and directing abusive language at the official, resulted in a formal penalty point and generated extensive media coverage that her sponsors subsequently cited in terminating their commercial relationship.",
+        "question": "The journalist warned readers against accepting __________ explanations for the country's rising crime rate, such as blaming violent video games or a single political party. Crime, she argued, results from many interconnected factors, including unemployment, education, housing, and community support. Superficial answers might feel satisfying, but they rarely lead to effective solutions. She encouraged policymakers to study detailed research before proposing simplistic laws that ignore the problem's complexity. Her editorial sparked widespread debate.",
         "options": [
           {
             "letter": "A",
-            "text": "petulant"
+            "text": "magnanimous"
           },
           {
             "letter": "B",
-            "text": "placid"
+            "text": "facile"
           },
           {
             "letter": "C",
-            "text": "poignant"
+            "text": "unwieldy"
           },
           {
             "letter": "D",
-            "text": "plebeian"
+            "text": "imperceptible"
           }
         ],
-        "answer": "A",
-        "answerWord": "petulant"
+        "answer": "B",
+        "answerWord": "facile"
       },
       {
         "number": 6,
-        "question": "The board replaced the visionary but impractical founder with a __________ successor whose immediate priority was translating the company's genuine technological advantages into sustainable commercial operations rather than pursuing the ambitious market disruption narratives that had inspired early investors but produced no consistent revenue.",
+        "question": "Voters had grown weary of the politician's pious __________ about honesty and family values, particularly after reporters discovered that he had lied repeatedly about his own finances. His speeches sounded righteous, but his behavior revealed deep hypocrisy. Critics mocked the empty moral language he used to disguise his personal failings. Public trust collapsed, and he lost his seat in the next election by the largest margin in the district's history.",
         "options": [
           {
             "letter": "A",
-            "text": "perfidious"
+            "text": "mentor"
           },
           {
             "letter": "B",
-            "text": "pernicious"
+            "text": "repertoire"
           },
           {
             "letter": "C",
-            "text": "pragmatic"
+            "text": "cant"
           },
           {
             "letter": "D",
-            "text": "precarious"
+            "text": "proximity"
           }
         ],
         "answer": "C",
-        "answerWord": "pragmatic"
+        "answerWord": "cant"
       },
       {
         "number": 7,
-        "question": "The conservation team discovered a __________ stretch of coastal wetland that had somehow escaped the agricultural and industrial development transforming the surrounding landscape over the preceding century, representing an invaluable ecological baseline for understanding the region's original biodiversity.",
+        "question": "The ambassador took __________ at the host country's decision to seat him at the back of the banquet hall, interpreting the arrangement as a deliberate insult to his nation. He left the dinner early and later filed a formal complaint. Diplomatic experts noted that seemingly small details of protocol can cause serious offense in international relations. The host government eventually apologized, explaining that the seating plan had been an unintentional administrative error.",
         "options": [
           {
             "letter": "A",
-            "text": "pristine"
+            "text": "umbrage"
           },
           {
             "letter": "B",
-            "text": "pompous"
+            "text": "rhetoric"
           },
           {
             "letter": "C",
-            "text": "precarious"
+            "text": "clique"
           },
           {
             "letter": "D",
-            "text": "prodigal"
+            "text": "lassitude"
           }
         ],
         "answer": "A",
-        "answerWord": "pristine"
+        "answerWord": "umbrage"
       },
       {
         "number": 8,
-        "question": "The surface of the alpine lake contrasted dramatically with the turbulent weather systems that periodically swept across the surrounding mountain peaks, its __________ appearance creating a visual paradox that had attracted landscape painters to the region for over two centuries of continuous artistic engagement.",
+        "question": "Although the rival company had tried for years to damage her business, the successful entrepreneur was __________ when it faced bankruptcy, offering to purchase its struggling factories and keep every employee on the payroll. Many observers expected her to celebrate her competitor's collapse. Instead, she showed remarkable generosity and forgiveness, explaining that workers should not suffer for their managers' mistakes. Her noble decision earned widespread admiration throughout the business community.",
         "options": [
           {
             "letter": "A",
-            "text": "poignant"
+            "text": "vapid"
           },
           {
             "letter": "B",
-            "text": "plebeian"
+            "text": "fatuous"
           },
           {
             "letter": "C",
-            "text": "pompous"
+            "text": "facile"
           },
           {
             "letter": "D",
-            "text": "placid"
+            "text": "magnanimous"
           }
         ],
         "answer": "D",
-        "answerWord": "placid"
+        "answerWord": "magnanimous"
       },
       {
         "number": 9,
-        "question": "The closing ceremony's most __________ moment came when the youngest survivor of the disaster offered a quiet tribute to those who had not made it, her voice steady despite the obvious effort required to maintain composure during a public expression of grief shared by the entire assembled community.",
+        "question": "Some political groups use social media to __________ journalists who publish critical reports, spreading false rumors about their personal lives and accusing them of dishonesty without evidence. These coordinated attacks aim to damage reporters' reputations and discourage investigative journalism. Press freedom organizations have documented thousands of such slanderous campaigns worldwide. They urge technology companies to remove defamatory content quickly and to protect journalists from online harassment and intimidation. Several platforms have responded.",
         "options": [
           {
             "letter": "A",
-            "text": "pompous"
+            "text": "augment"
           },
           {
             "letter": "B",
-            "text": "pragmatic"
+            "text": "elucidate"
           },
           {
             "letter": "C",
-            "text": "precarious"
+            "text": "extol"
           },
           {
             "letter": "D",
-            "text": "poignant"
+            "text": "vilify"
           }
         ],
         "answer": "D",
-        "answerWord": "poignant"
+        "answerWord": "vilify"
       },
       {
         "number": 10,
-        "question": "The art critic's dismissal of the popular exhibition as __________ revealed more about his own narrow conception of cultural value than about any genuine deficiency in the works themselves, which engaged difficult questions about identity and belonging through visual languages accessible to audiences beyond the specialist art world.",
+        "question": "The museum hired historians to write new exhibition labels that would __________ the complicated history of the region's indigenous peoples. Earlier descriptions had been confusing, incomplete, and sometimes inaccurate. The new texts clearly explained traditional customs, languages, and the impact of colonization, using maps and personal stories. Visitors reported that the clearer explanations helped them understand events they had previously found difficult to follow, making the exhibition far more meaningful.",
         "options": [
           {
             "letter": "A",
-            "text": "prodigal"
+            "text": "contort"
           },
           {
             "letter": "B",
-            "text": "plebeian"
+            "text": "elucidate"
           },
           {
             "letter": "C",
-            "text": "presumptuous"
+            "text": "vitiate"
           },
           {
             "letter": "D",
-            "text": "placid"
+            "text": "augment"
           }
         ],
         "answer": "B",
-        "answerWord": "plebeian"
+        "answerWord": "elucidate"
       },
       {
         "number": 11,
-        "question": "The __________ exhibition catalogue's breathless prose and unsupported superlatives irritated reviewers who had expected scholarly analysis, finding instead a promotional document that consistently substituted rhetorical grandeur for the genuine critical engagement that major retrospective presentations traditionally demanded.",
+        "question": "The keynote speaker's __________ presentation disappointed conference attendees who had traveled long distances to hear innovative ideas. She repeated obvious statements, displayed slides filled with generic phrases, and offered no original insights about the future of education. Many audience members began checking their phones within minutes. Organizers later received numerous complaints about the dull speech and promised to select more engaging, thought-provoking presenters for the following year's event. Few attendees stayed until the end.",
         "options": [
           {
             "letter": "A",
-            "text": "pompous"
+            "text": "vapid"
           },
           {
             "letter": "B",
-            "text": "placid"
+            "text": "magnanimous"
           },
           {
             "letter": "C",
-            "text": "plebeian"
+            "text": "imperceptible"
           },
           {
             "letter": "D",
-            "text": "perfidious"
+            "text": "unwieldy"
           }
         ],
         "answer": "A",
-        "answerWord": "pompous"
+        "answerWord": "vapid"
       },
       {
         "number": 12,
-        "question": "The startup's financial position became genuinely __________ when its primary institutional investor unexpectedly withdrew following a change in portfolio strategy, leaving the founding team with less than sixty days of operational runway and insufficient time to complete an alternative fundraising process.",
+        "question": "Critics argued that the national tax code had become so __________ that ordinary citizens could no longer understand their obligations without hiring expensive accountants. The system contained thousands of complicated rules, exceptions, and forms added over several decades. Reform advocates proposed simplifying the structure dramatically, reducing the number of categories and eliminating outdated provisions. They believed a more manageable system would save taxpayers time, money, and considerable frustration every spring.",
         "options": [
           {
             "letter": "A",
-            "text": "prodigal"
+            "text": "facile"
           },
           {
             "letter": "B",
-            "text": "precarious"
+            "text": "unwieldy"
           },
           {
             "letter": "C",
-            "text": "precocious"
+            "text": "fatuous"
           },
           {
             "letter": "D",
-            "text": "presumptuous"
+            "text": "vapid"
           }
         ],
         "answer": "B",
-        "answerWord": "precarious"
+        "answerWord": "unwieldy"
       },
       {
         "number": 13,
-        "question": "The __________ young scholar had already published in three peer-reviewed journals before completing her undergraduate degree, prompting her university to fast-track her application to the doctoral program and assign her to the most senior supervisor available within her specialist field.",
+        "question": "Researchers found that the __________ of fast-food restaurants to schools strongly influences children's eating habits. Students attending schools located near several burger shops consumed significantly more sugary drinks and fried foods than those at schools farther away. Health officials in several cities have therefore banned new fast-food outlets within five hundred meters of school entrances. They hope that reducing such nearness will encourage healthier choices among young people. Parents have largely welcomed the policy.",
         "options": [
           {
             "letter": "A",
-            "text": "precocious"
+            "text": "proximity"
           },
           {
             "letter": "B",
-            "text": "presumptuous"
+            "text": "mentor"
           },
           {
             "letter": "C",
-            "text": "pragmatic"
+            "text": "repertoire"
           },
           {
             "letter": "D",
-            "text": "perfidious"
+            "text": "cant"
           }
         ],
         "answer": "A",
-        "answerWord": "precocious"
+        "answerWord": "proximity"
       },
       {
         "number": 14,
-        "question": "The consultant's intervention appeared __________ to the senior partners who had not been consulted, representing an assumption of authority that his actual standing within the project hierarchy did not remotely justify and that required direct correction before it generated broader confusion about decision-making responsibilities.",
+        "question": "After weeks of caring for her newborn twins with very little sleep, the young mother experienced deep __________, struggling to find energy for even simple household tasks. She felt constantly tired and occasionally forgot important appointments. Her doctor reassured her that such exhaustion was common among new parents. He encouraged her to accept help from relatives, rest whenever the babies slept, and gradually rebuild her strength with nutritious meals. Within months, she felt like herself again.",
         "options": [
           {
             "letter": "A",
-            "text": "pernicious"
+            "text": "umbrage"
           },
           {
             "letter": "B",
-            "text": "prodigal"
+            "text": "clique"
           },
           {
             "letter": "C",
-            "text": "precarious"
+            "text": "rhetoric"
           },
           {
             "letter": "D",
-            "text": "presumptuous"
+            "text": "lassitude"
           }
         ],
         "answer": "D",
-        "answerWord": "presumptuous"
+        "answerWord": "lassitude"
       },
       {
         "number": 15,
-        "question": "The board replaced the celebrated but impractical founder with a __________ successor whose immediate concern was translating the company's genuine technological advantages into sustainable revenue, rather than pursuing the ambitious disruption narratives that had inspired early investors but left the organization perpetually six months from insolvency.",
+        "question": "Investigators discovered that a single corrupt official had managed to __________ the entire competitive bidding process by secretly revealing rivals' offers to his favorite company. His actions made the fair procedure meaningless and destroyed public confidence in the results. The government canceled the contract and ordered a completely new competition. Legal experts explained that even one act of dishonesty can undermine systems designed to guarantee fairness and transparency. Several officials were later prosecuted.",
         "options": [
           {
             "letter": "A",
-            "text": "pompous"
+            "text": "extol"
           },
           {
             "letter": "B",
-            "text": "precarious"
+            "text": "elucidate"
           },
           {
             "letter": "C",
-            "text": "pragmatic"
+            "text": "vitiate"
           },
           {
             "letter": "D",
-            "text": "prodigal"
+            "text": "augment"
           }
         ],
         "answer": "C",
-        "answerWord": "pragmatic"
+        "answerWord": "vitiate"
       },
       {
         "number": 16,
-        "question": "Faced with a difficult but necessary staff reduction, the CEO chose the most __________ approach available, communicating the decision directly, providing maximum notice, offering generous severance, and ensuring that every affected employee had access to the career transition support the circumstances warranted.",
+        "question": "To __________ its limited budget, the small animal shelter organized weekend fundraising events, sold handmade calendars featuring rescued pets, and applied for grants from charitable foundations. These efforts significantly increased its income, allowing the staff to hire an additional veterinarian and expand the kennels. Volunteers were delighted by the growth, since the shelter could now rescue twice as many abandoned animals each year and provide better medical care. Adoptions have also risen steadily since.",
         "options": [
           {
             "letter": "A",
-            "text": "prodigal"
+            "text": "vilify"
           },
           {
             "letter": "B",
-            "text": "pragmatic"
+            "text": "augment"
           },
           {
             "letter": "C",
-            "text": "presumptuous"
+            "text": "contort"
           },
           {
             "letter": "D",
-            "text": "pompous"
+            "text": "extol"
           }
         ],
         "answer": "B",
-        "answerWord": "pragmatic"
+        "answerWord": "augment"
       },
       {
         "number": 17,
-        "question": "The minister's response to the committee's direct questions proved deeply __________, each answer introducing new procedural considerations, budgetary uncertainties, and jurisdictional caveats that effectively prevented any substantive accountability for decisions that had been squarely within her department's remit.",
+        "question": "The teenager's __________ decision to climb onto the roof of the school building during a thunderstorm to take a dramatic selfie shocked his teachers and parents. He could easily have been struck by lightning or fallen from the slippery surface. Fortunately, a security guard spotted him and helped him down safely. The principal later described the stunt as incredibly foolish and organized a special assembly about online safety and reckless behavior.",
         "options": [
           {
             "letter": "A",
-            "text": "perfidious"
+            "text": "magnanimous"
           },
           {
             "letter": "B",
-            "text": "pernicious"
+            "text": "imperceptible"
           },
           {
             "letter": "C",
-            "text": "precocious"
+            "text": "fatuous"
           },
           {
             "letter": "D",
-            "text": "precarious"
+            "text": "facile"
           }
         ],
-        "answer": "D",
-        "answerWord": "precarious"
+        "answer": "C",
+        "answerWord": "fatuous"
       },
       {
         "number": 18,
-        "question": "Archaeologists discovered a __________ cave system sealed for millennia, preserving organic materials in a state of remarkable integrity that provided an invaluable record of environmental conditions during a period for which surface evidence had been almost entirely destroyed by subsequent geological activity.",
+        "question": "Critics accused the documentary makers of trying to __________ the politician's words by editing interviews so that his statements appeared to express opinions he had never held. Short phrases were removed from their original context and rearranged to change their meaning. The politician released the complete, unedited recordings, proving that his remarks had been deliberately twisted. The film's distributor withdrew it from theaters and issued a public apology. The controversy damaged the filmmakers' credibility.",
         "options": [
           {
             "letter": "A",
-            "text": "pristine"
+            "text": "contort"
           },
           {
             "letter": "B",
-            "text": "poignant"
+            "text": "vilify"
           },
           {
             "letter": "C",
-            "text": "placid"
+            "text": "augment"
           },
           {
             "letter": "D",
-            "text": "precocious"
+            "text": "elucidate"
           }
         ],
         "answer": "A",
-        "answerWord": "pristine"
+        "answerWord": "contort"
       },
       {
         "number": 19,
-        "question": "The scientist's laboratory notebook reflected the same __________ attention to detail she applied to every phase of her work: instrument readings recorded to the fourth decimal, every reagent batch documented with lot numbers, and every deviation from protocol noted with a full explanation of the circumstances and decision rationale.",
+        "question": "The comedian's __________ includes dozens of routines about family life, school memories, and misunderstandings between generations, allowing her to adapt each performance to different audiences. For corporate events, she emphasizes workplace humor, while at family shows she focuses on stories about parents and children. Her wide range of prepared material has made her one of the most sought-after entertainers in the country, with bookings scheduled months in advance. Audiences rarely see the same show twice.",
         "options": [
           {
             "letter": "A",
-            "text": "pompous"
+            "text": "repertoire"
           },
           {
             "letter": "B",
-            "text": "precarious"
+            "text": "proximity"
           },
           {
             "letter": "C",
-            "text": "pragmatic"
+            "text": "mentor"
           },
           {
             "letter": "D",
-            "text": "pristine"
+            "text": "lassitude"
           }
         ],
-        "answer": "D",
-        "answerWord": "pristine"
+        "answer": "A",
+        "answerWord": "repertoire"
       },
       {
         "number": 20,
-        "question": "The __________ beneficiary had dissipated the entire family estate within eight years through a combination of speculative ventures, compulsive luxury purchases, and a fundamental inability to distinguish between capital and income that had been a persistent characteristic throughout his adult life.",
+        "question": "Doctors explained that the patient's recovery would be gradual, with improvements so __________ from day to day that she might become discouraged. Her muscle strength would increase only slightly each week, making progress difficult to notice without careful measurement. The physical therapist therefore recorded detailed notes and took monthly videos. When the patient compared recordings from January and June, she was amazed to see how much her mobility had improved.",
         "options": [
           {
             "letter": "A",
-            "text": "pragmatic"
+            "text": "facile"
           },
           {
             "letter": "B",
-            "text": "precarious"
+            "text": "vapid"
           },
           {
             "letter": "C",
-            "text": "presumptuous"
+            "text": "unwieldy"
           },
           {
             "letter": "D",
-            "text": "prodigal"
+            "text": "imperceptible"
           }
         ],
         "answer": "D",
-        "answerWord": "prodigal"
+        "answerWord": "imperceptible"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "penury": [
-    "extreme poverty; destitution.",
-    "貧困；一貧如洗"
+  "rhetoric": [
+    "use (sometimes exaggerated) of language.",
+    "修辭；浮誇的言語"
   ],
-  "perfidious": [
-    "deceitful and untrustworthy; treacherous.",
-    "背信棄義的；奸詐的"
+  "clique": [
+    "small, exclusive group of people.",
+    "小圈子；派系"
   ],
-  "pernicious": [
-    "having a harmful effect; insidious.",
-    "有害的；致命的"
+  "extol": [
+    "to praise highly.",
+    "讚美；頌揚"
   ],
-  "perturb": [
-    "to disturb or worry greatly.",
-    "使不安；使心煩意亂"
+  "mentor": [
+    "counselor, coach, tutor.",
+    "導師；良師益友"
   ],
-  "petulant": [
-    "sulkily childish; ill-tempered.",
-    "任性的；脾氣暴躁的"
+  "facile": [
+    "easily accomplished; superficial.",
+    "容易的；膚淺的"
   ],
-  "phlegmatic": [
-    "having a calm, stoical temperament.",
-    "冷靜的；遲鈍的"
+  "cant": [
+    "insincere or almost meaningless talk.",
+    "偽善之言；空話"
   ],
-  "placid": [
-    "calm and peaceful; not easily upset.",
-    "平靜的；溫和的"
+  "umbrage": [
+    "resentment, offense.",
+    "不快；怨恨"
   ],
-  "platitude": [
-    "a remark used so often that it is meaningless.",
-    "陳腔濫調；老生常談"
+  "magnanimous": [
+    "noble, generous, forgiving.",
+    "寬宏大量的"
   ],
-  "plebeian": [
-    "of or belonging to the common people; coarse.",
-    "平民的；粗俗的"
+  "vilify": [
+    "to slander, speak ill of.",
+    "誹謗；詆毀"
   ],
-  "poignant": [
-    "evoking a keen sense of sadness or regret.",
-    "令人心酸的；深刻感人的"
+  "elucidate": [
+    "to make clear, explain.",
+    "闡明；說明"
   ],
-  "pompous": [
-    "affectedly grand or self-important.",
-    "自大的；浮誇的"
+  "vapid": [
+    "uninteresting, dull, lacking liveliness.",
+    "乏味的；無趣的"
   ],
-  "pragmatic": [
-    "dealing with problems in a practical way.",
-    "務實的；實際的"
+  "unwieldy": [
+    "bulky, difficult to handle.",
+    "笨重的；難處理的"
   ],
-  "precarious": [
-    "not securely held; dependent on chance.",
-    "不穩定的；危險的"
+  "proximity": [
+    "nearness.",
+    "接近；鄰近"
   ],
-  "precocious": [
-    "having developed certain abilities at an earlier age.",
-    "早熟的；過早發展的"
+  "lassitude": [
+    "weariness, weakness, lack of energy.",
+    "疲倦；無精打采"
   ],
-  "presumptuous": [
-    "overstepping due bounds; arrogantly taking liberties.",
-    "放肆的；冒昧的"
+  "vitiate": [
+    "to destroy the use or value of, weaken.",
+    "損害；使無效"
   ],
-  "prevaricate": [
-    "to speak or act evasively.",
-    "支吾；搪塞"
+  "augment": [
+    "to enlarge, increase.",
+    "增加；擴大"
   ],
-  "pristine": [
-    "in its original condition; unspoiled.",
-    "原始的；純潔的"
+  "fatuous": [
+    "foolish, silly, inane.",
+    "愚蠢的；昏庸的"
   ],
-  "probity": [
-    "the quality of having strong moral principles.",
-    "廉潔；正直"
+  "contort": [
+    "to twist violently.",
+    "扭曲；歪曲"
   ],
-  "prodigal": [
-    "spending money recklessly; wastefully extravagant.",
-    "揮霍的；浪費的"
+  "repertoire": [
+    "the works an artist is prepared to perform.",
+    "全部節目；曲目"
+  ],
+  "imperceptible": [
+    "extremely slight or gradual, not noticeable.",
+    "難以察覺的；極細微的"
   ]
 });

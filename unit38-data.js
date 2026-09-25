@@ -3,702 +3,434 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 38",
     "cards": [
       {
-        "word": "insular",
+        "word": "glib",
         "pos": "adj.",
-        "definition": "narrow-minded; isolated from outside influences.",
-        "chinese": "偏狹的；與外界隔絕的",
-        "synonyms": "parochial, provincial, narrow-minded",
-        "image": "scatter",
-        "sentence": "The committee's __________ perspective became a serious liability during international negotiations, as members consistently failed to appreciate how proposals that seemed self-evidently reasonable within their domestic context were perceived as deeply problematic by representatives from different legal traditions and cultural frameworks.",
-        "translation": "委員會偏狹的視角在國際談判中成為嚴重的劣勢，因為成員們始終無法理解那些在國內環境中看似合情合理的提案，在來自不同法律傳統和文化框架的代表眼中是多麼棘手。",
+        "definition": "smooth of speech, fluent but insincere.",
+        "memoryChant": "ghel- (to shine) → 'Shiny, slippery talk—glib!'",
+        "chinese": "口齒伶俐的；油嘴滑舌的",
+        "synonyms": "slick, smooth-talking, superficial",
+        "image": "crack",
+        "sentence": "The salesman gave __________ answers to every question about the used car, assuring customers that it had never been in an accident and needed no repairs. His smooth, confident manner convinced many buyers to sign contracts without inspecting the vehicle carefully. Only later did they discover hidden damage and expensive mechanical problems. Consumer advocates warn that slick, effortless explanations are often designed to discourage people from asking deeper questions before making important purchases.",
+        "translation": "這名推銷員對於這輛二手車的每個問題都給出油嘴滑舌的回答，向顧客保證它從未發生過事故，也不需要任何維修。他圓滑自信的態度說服了許多買家，在沒有仔細檢查車輛的情況下就簽下合約。直到後來，他們才發現隱藏的損傷與昂貴的機械問題。消費者權益倡議者警告，圓滑、輕鬆的解釋往往是為了讓人們在做出重要購買決定前，不再深入追問。",
         "lookup": {
-          "english": "narrow-minded; isolated from outside influences.",
-          "chinese": "偏狹的；與外界隔絕的"
+          "english": "smooth of speech, fluent but insincere.",
+          "chinese": "口齒伶俐的；油嘴滑舌的"
         }
       },
       {
-        "word": "intractable",
+        "word": "homogeneous",
         "pos": "adj.",
-        "definition": "hard to control or deal with; stubborn.",
-        "chinese": "難以對付的；頑固的",
-        "synonyms": "obstinate, unmanageable, stubborn",
-        "image": "mountain",
-        "sentence": "The medical team acknowledged that the patient's condition had proven __________ despite three years of aggressive treatment across multiple therapeutic modalities. A specialist panel convened to explore emerging experimental approaches that fell outside the parameters of conventional clinical protocols currently available at the institution.",
-        "translation": "醫療團隊承認，儘管進行了三年多模式的積極治療，患者的病情仍然難以控制。一個專家小組召開會議，探討超出機構目前常規臨床協議範圍的新興實驗性方法。",
+        "definition": "same, uniform.",
+        "memoryChant": "homos (same) + genos (kind) → 'All of the same kind—homogeneous!'",
+        "chinese": "同質的；均勻的",
+        "synonyms": "uniform, identical, consistent",
+        "image": "chest",
+        "sentence": "For centuries, the remote island had a remarkably __________ population, with nearly all residents sharing the same language, religion, and cultural traditions. Few outsiders ever visited, and families rarely moved away. In recent decades, however, tourism and international trade have brought newcomers from many different countries. Sociologists studying the island note that its once uniform society is gradually becoming more diverse, creating both exciting opportunities and new challenges for local communities.",
+        "translation": "數百年來，這座偏遠島嶼的人口組成極為同質，幾乎所有居民都說同一種語言、信仰相同的宗教，並擁有相同的文化傳統。外人很少造訪，家家戶戶也很少遷出。然而近幾十年來，觀光業與國際貿易帶來了許多來自不同國家的新住民。研究這座島嶼的社會學家指出，這個曾經單一的社會正逐漸變得更加多元，為當地社區帶來了令人期待的機會與新的挑戰。",
         "lookup": {
-          "english": "hard to control or deal with; stubborn.",
-          "chinese": "難以對付的；頑固的"
-        }
-      },
-      {
-        "word": "intrepid",
-        "pos": "adj.",
-        "definition": "fearless and adventurous.",
-        "chinese": "無畏的；英勇的",
-        "synonyms": "fearless, dauntless, valiant",
-        "image": "table",
-        "sentence": "The __________ journalist embedded herself with the relief convoy traversing the conflict zone, filing daily dispatches that provided the international community with its most detailed and reliable account of humanitarian conditions on the ground. Her courage under extraordinarily dangerous circumstances earned widespread professional recognition.",
-        "translation": "這位無畏的記者隨救援車隊深入衝突地區，每日發送報道，為國際社會提供了關於當地人道主義狀況最詳盡可靠的描述。她在極度危險環境下所展現的勇氣贏得了廣泛的職業認可。",
-        "lookup": {
-          "english": "fearless and adventurous.",
-          "chinese": "無畏的；英勇的"
-        }
-      },
-      {
-        "word": "inveterate",
-        "pos": "adj.",
-        "definition": "having a habit too firmly established to change.",
-        "chinese": "根深蒂固的；積習難改的",
-        "synonyms": "habitual, confirmed, ingrained",
-        "image": "energy",
-        "sentence": "The __________ skeptic attended the conference with the explicit intention of challenging what he anticipated would be poorly substantiated claims, but found himself confronted by a rigorous body of empirical evidence that systematically addressed each of his prepared objections with unexpected precision and analytical depth.",
-        "translation": "這位根深蒂固的懷疑論者參加會議時明確打算挑戰他預期會缺乏實證依據的說法，但卻面對一系列嚴謹的實證依據，這些依據以出乎意料的精準性和分析深度系統地回應了他預備的每一項反對意見。",
-        "lookup": {
-          "english": "having a habit too firmly established to change.",
-          "chinese": "根深蒂固的；積習難改的"
-        }
-      },
-      {
-        "word": "irascible",
-        "pos": "adj.",
-        "definition": "having a tendency to be easily angered.",
-        "chinese": "易怒的；暴躁的",
-        "synonyms": "irritable, choleric, hot-tempered",
-        "image": "fire",
-        "sentence": "The __________ director's explosive reactions to minor production setbacks created a climate of pervasive anxiety that stifled the creative risk-taking essential to innovative filmmaking. Crew members developed elaborate systems for managing information flow to avoid triggering outbursts that invariably disrupted entire shooting days.",
-        "translation": "這位易怒導演對輕微製作挫折的爆炸性反應，製造了一種無所不在的焦慮氛圍，抑制了創新電影製作所不可或缺的創意冒險精神。工作人員制定了複雜的信息傳遞系統，以避免觸發必然會打亂整個拍攝日程的爆發。",
-        "lookup": {
-          "english": "having a tendency to be easily angered.",
-          "chinese": "易怒的；暴躁的"
-        }
-      },
-      {
-        "word": "laconic",
-        "pos": "adj.",
-        "definition": "using very few words; brief and concise.",
-        "chinese": "簡潔的；言簡意賅的",
-        "synonyms": "terse, succinct, brief",
-        "image": "burst",
-        "sentence": "The general's __________ battle orders — rarely exceeding a single sentence — were legendary among his officers for conveying complex tactical intentions with extraordinary economy. Junior commanders credited this disciplined brevity with reducing the cognitive load during high-pressure engagements where clarity of communication directly determined operational outcomes.",
-        "translation": "這位將軍簡潔的作戰命令——鮮少超過一個句子——在其軍官中以用非凡的精煉傳達複雜戰術意圖而聞名。初級指揮官認為，這種有紀律的簡潔性降低了高壓交戰中的認知負擔，而溝通的清晰度直接決定了作戰結果。",
-        "lookup": {
-          "english": "using very few words; brief and concise.",
-          "chinese": "簡潔的；言簡意賅的"
-        }
-      },
-      {
-        "word": "lassitude",
-        "pos": "n.",
-        "definition": "physical or mental weariness; lack of energy.",
-        "chinese": "疲倦；倦怠",
-        "synonyms": "fatigue, lethargy, listlessness",
-        "image": "energy",
-        "sentence": "The persistent __________ that followed the extended illness left the researcher struggling to sustain the focused concentration her demanding analytical work required. Her physician recommended a graduated return to professional activity combined with structured restorative practices designed to rebuild both cognitive stamina and physical resilience.",
-        "translation": "長期疾病後持續的倦怠使這位研究員難以維持其苛求分析工作所需的專注力。她的醫生建議循序漸進地恢復職業活動，並結合旨在重建認知耐力和身體韌性的系統性恢復性練習。",
-        "lookup": {
-          "english": "physical or mental weariness; lack of energy.",
-          "chinese": "疲倦；倦怠"
-        }
-      },
-      {
-        "word": "laud",
-        "pos": "v.",
-        "definition": "to praise highly.",
-        "chinese": "讚美；頌揚",
-        "synonyms": "praise, commend, extol",
-        "image": "fire",
-        "sentence": "Critics and audiences alike moved to __________ the debut production for its extraordinary technical ambition, emotional authenticity, and the rare coherence between its visual design and thematic content. The director received standing ovations at each of the festival screenings, generating substantial industry interest in her subsequent projects.",
-        "translation": "評論家和觀眾一致讚揚這部首映作品，稱其技術抱負非凡、情感真實，以及其視覺設計與主題內容之間罕見的協調一致。導演在每次電影節放映中都獲得了起立鼓掌，這為她的後續項目引發了大量業界興趣。",
-        "lookup": {
-          "english": "to praise highly.",
-          "chinese": "讚美；頌揚"
-        }
-      },
-      {
-        "word": "lethargic",
-        "pos": "adj.",
-        "definition": "sluggish and apathetic; lacking energy.",
-        "chinese": "昏昏欲睡的；無精打采的",
-        "synonyms": "sluggish, listless, torpid",
-        "image": "energy",
-        "sentence": "The entire workforce became noticeably __________ during the final weeks before the extended holiday period, with productivity metrics declining measurably as employees struggled to maintain their usual levels of focused engagement with tasks that demanded sustained concentration and careful analytical judgment.",
-        "translation": "在延長假期前的最後幾週，整個工作隊伍明顯變得無精打采，由於員工難以維持對需要持續專注和仔細分析判斷的任務的慣常專注程度，生產力指標有所下降。",
-        "lookup": {
-          "english": "sluggish and apathetic; lacking energy.",
-          "chinese": "昏昏欲睡的；無精打采的"
-        }
-      },
-      {
-        "word": "levity",
-        "pos": "n.",
-        "definition": "treatment of serious matters with humor.",
-        "chinese": "輕浮；不莊重",
-        "synonyms": "frivolity, flippancy, humor",
-        "image": "burst",
-        "sentence": "The judge's occasional __________ during otherwise solemn proceedings helped defuse the tension that inevitably accumulated during extended complex trials, though she was careful to ensure that moments of lightness never diminished the fundamental dignity of the court or the seriousness of the matters under consideration.",
-        "translation": "法官在莊嚴程序中偶爾的輕鬆幽默，有助於化解在漫長複雜審判中不可避免積累的緊張情緒，儘管她謹慎地確保這些輕鬆時刻從不減損法庭的根本莊嚴或所考慮事項的嚴肅性。",
-        "lookup": {
-          "english": "treatment of serious matters with humor.",
-          "chinese": "輕浮；不莊重"
-        }
-      },
-      {
-        "word": "limpid",
-        "pos": "adj.",
-        "definition": "clear and transparent; easily understood.",
-        "chinese": "清澈的；清晰易懂的",
-        "synonyms": "clear, transparent, lucid",
-        "image": "lamp",
-        "sentence": "The economist's __________ explanation of the complex derivative instrument transformed what had previously seemed an impenetrable technical subject into something that non-specialist board members could evaluate with genuine understanding. Several directors later credited her presentation as the most effective financial education they had received in years of governance experience.",
-        "translation": "這位經濟學家對複雜衍生工具清晰易懂的解釋，將之前看似難以理解的技術主題轉化為非專業董事會成員能夠真正理解並評估的內容。幾位董事後來稱她的演示是他們多年治理經驗中獲得的最有效財務教育。",
-        "lookup": {
-          "english": "clear and transparent; easily understood.",
-          "chinese": "清澈的；清晰易懂的"
-        }
-      },
-      {
-        "word": "listless",
-        "pos": "adj.",
-        "definition": "lacking energy or enthusiasm; languid.",
-        "chinese": "無精打采的；漠然的",
-        "synonyms": "lethargic, languid, indifferent",
-        "image": "energy",
-        "sentence": "The previously energetic student appeared uncharacteristically __________ during the winter term, prompting her advisor to schedule a welfare conversation that revealed she had been managing a difficult personal situation without disclosing it to any member of the academic support network available to her.",
-        "translation": "這位之前充滿活力的學生在冬季學期表現出不尋常的無精打采，這促使她的指導老師安排了一次關懷談話，結果發現她一直在應對困難的個人情況，卻沒有向學術支持網絡中的任何成員透露。",
-        "lookup": {
-          "english": "lacking energy or enthusiasm; languid.",
-          "chinese": "無精打采的；漠然的"
-        }
-      },
-      {
-        "word": "loquacious",
-        "pos": "adj.",
-        "definition": "tending to talk a great deal.",
-        "chinese": "話多的；饒舌的",
-        "synonyms": "talkative, garrulous, verbose",
-        "image": "mountain",
-        "sentence": "The __________ tour guide's encyclopedic knowledge of the city's architectural history was genuinely impressive, but his inability to modulate the volume and pace of his commentary consistently frustrated visitors seeking quiet moments of personal reflection at particularly significant historical sites along the route.",
-        "translation": "這位話多的導遊對城市建築歷史的百科全書式知識確實令人印象深刻，但他無法調節評論的音量和節奏，始終令那些在路線上的特定重要歷史遺址尋求個人靜思時刻的遊客感到沮喪。",
-        "lookup": {
-          "english": "tending to talk a great deal.",
-          "chinese": "話多的；饒舌的"
-        }
-      },
-      {
-        "word": "lucid",
-        "pos": "adj.",
-        "definition": "expressed clearly; easily understood.",
-        "chinese": "清晰的；明白易懂的",
-        "synonyms": "clear, intelligible, coherent",
-        "image": "lamp",
-        "sentence": "The professor's __________ account of the epistemological debate made arguments that had confounded generations of philosophy students suddenly accessible and intellectually engaging. Her ability to illuminate complex theoretical positions through carefully chosen concrete examples represented a rare pedagogical gift that defined her outstanding reputation as an educator.",
-        "translation": "這位教授對認識論爭論清晰的闡述，使困擾了幾代哲學學生的論點突然變得易於理解且引人入勝。她通過精心挑選的具體例子來闡明複雜理論立場的能力，代表了一種罕見的教學天賦，這也奠定了她作為教育者的傑出聲譽。",
-        "lookup": {
-          "english": "expressed clearly; easily understood.",
-          "chinese": "清晰的；明白易懂的"
-        }
-      },
-      {
-        "word": "lugubrious",
-        "pos": "adj.",
-        "definition": "looking or sounding sad and dismal.",
-        "chinese": "憂鬱的；令人沮喪的",
-        "synonyms": "mournful, gloomy, doleful",
-        "image": "warning",
-        "sentence": "The actor's naturally __________ facial expression proved unexpectedly perfect casting for the grieving widower, requiring virtually no additional direction to convey the profound emotional desolation central to the screenplay's most demanding dramatic sequences. Critics praised his performance as extraordinarily authentic.",
-        "translation": "這位演員天生憂鬱的面部表情被證明是飾演悲傷鰥夫出乎意料的完美選角，幾乎不需要額外的指導就能傳達出劇本最高難度戲劇場景中核心的深刻情感荒涼。評論家稱讚他的表演真實感人。",
-        "lookup": {
-          "english": "looking or sounding sad and dismal.",
-          "chinese": "憂鬱的；令人沮喪的"
-        }
-      },
-      {
-        "word": "magnanimous",
-        "pos": "adj.",
-        "definition": "generous and forgiving, especially to a rival.",
-        "chinese": "寬宏大量的；慷慨的",
-        "synonyms": "generous, noble, benevolent",
-        "image": "table",
-        "sentence": "The veteran champion's __________ acknowledgment of her younger rival's superior performance on the day surprised commentators accustomed to the bitterness that often characterized competitive sport at the highest levels. Her gracious public tribute demonstrated a depth of character that generated admiration far exceeding that produced by her own victories.",
-        "translation": "這位資深冠軍對當日年輕對手出色表現的寬宏大量的認可，令習慣了最高水平競技體育中常見苦澀情緒的評論員感到驚訝。她優雅的公開致敬展示了一種深度的品格，所激發的欽佩遠超她自己的勝利所帶來的。",
-        "lookup": {
-          "english": "generous and forgiving, especially to a rival.",
-          "chinese": "寬宏大量的；慷慨的"
-        }
-      },
-      {
-        "word": "malevolent",
-        "pos": "adj.",
-        "definition": "having or showing a wish to do evil.",
-        "chinese": "惡意的；懷有惡意的",
-        "synonyms": "malicious, hostile, spiteful",
-        "image": "energy",
-        "sentence": "The investigator characterized the campaign of deliberate misinformation as deeply __________, designed not merely to mislead the public but to systematically destroy the professional credibility of individuals who had exposed genuine institutional wrongdoing. The coordinated nature of the attacks suggested significant organizational resources behind the operation.",
-        "translation": "調查員將這場蓄意散布虛假信息的行動定性為深具惡意，不僅旨在誤導公眾，更是為了系統性地摧毀那些揭露真實機構不當行為的人士的職業信譽。這些攻擊的協調性質表明其背後有相當的組織資源。",
-        "lookup": {
-          "english": "having or showing a wish to do evil.",
-          "chinese": "惡意的；懷有惡意的"
+          "english": "same, uniform.",
+          "chinese": "同質的；均勻的"
         }
       },
       {
         "word": "malleable",
         "pos": "adj.",
-        "definition": "easily influenced; able to be shaped.",
-        "chinese": "易受影響的；可塑的",
-        "synonyms": "pliable, flexible, adaptable",
+        "definition": "capable of being shaped or formed.",
+        "memoryChant": "malleus (hammer) → 'Can be hammered into shape—malleable!'",
+        "chinese": "可塑的；易受影響的",
+        "synonyms": "flexible, pliable, adaptable",
+        "image": "warning",
+        "sentence": "Gold is one of the most __________ metals on Earth; a single gram can be hammered into a sheet so thin that light passes through it. Ancient craftsmen took advantage of this property to create delicate jewelry, decorative masks, and thin gold leaf for temples. Because the metal can be shaped without breaking, artisans could produce intricate designs using simple tools. Modern electronics manufacturers also value its flexible, adaptable qualities.",
+        "translation": "黃金是地球上延展性最好的金屬之一，僅僅一公克就能被捶打成薄到可以透光的金箔。古代工匠利用這項特性，製作出精緻的珠寶、裝飾面具，以及寺廟用的薄金箔。由於這種金屬能被塑形而不會斷裂，工匠們只需簡單的工具就能打造出繁複的設計。現代電子製造商也看重它柔韌、可塑的特性。",
+        "lookup": {
+          "english": "capable of being shaped or formed.",
+          "chinese": "可塑的；易受影響的"
+        }
+      },
+      {
+        "word": "legerdemain",
+        "pos": "n.",
+        "definition": "sleight of hand, deceptive cleverness.",
+        "memoryChant": "leger (light) + de (of) + main (hand) → 'Light of hand—legerdemain!'",
+        "chinese": "戲法；騙術",
+        "synonyms": "trickery, sleight of hand, deception",
+        "image": "warning",
+        "sentence": "The magician amazed the audience with his __________, making coins disappear from his palm and reappear inside sealed envelopes held by volunteers. Even people sitting in the front row could not detect how he performed the tricks. His hands moved so quickly and smoothly that every illusion seemed genuinely impossible. After the show, he explained that mastering such sleight of hand had required twenty years of practice for several hours every single day.",
+        "translation": "這位魔術師以他的戲法讓觀眾驚嘆不已，讓硬幣從他的掌心消失，再出現在志願者手中密封的信封裡。即使坐在第一排的人也看不出他是如何變出這些把戲的。他的雙手動作又快又流暢，讓每個幻術看起來都真的不可能辦到。表演結束後，他解釋說，要練就如此純熟的手法，需要二十年每天數小時的練習。",
+        "lookup": {
+          "english": "sleight of hand, deceptive cleverness.",
+          "chinese": "戲法；騙術"
+        }
+      },
+      {
+        "word": "trend",
+        "pos": "n.",
+        "definition": "general direction, fashion.",
+        "memoryChant": "trendan (to revolve, turn) → 'The way things are turning—trend!'",
+        "chinese": "趨勢；傾向",
+        "synonyms": "tendency, direction, fashion",
         "image": "scatter",
-        "sentence": "Young children's ethical reasoning is particularly __________, making the quality of early moral education critically important for establishing the values that will orient their decision-making throughout adulthood. Developmental psychologists emphasize that this formative plasticity represents both an opportunity and a responsibility for parents and educators.",
-        "translation": "幼兒的道德推理特別容易受影響，這使早期道德教育的質量對於建立將在整個成年期指導其決策的價值觀至關重要。發展心理學家強調，這種形成性可塑性對父母和教育者而言既是機遇也是責任。",
+        "sentence": "Economists have observed a clear __________ toward remote work since the global pandemic, with millions of employees now performing their jobs from home at least part of the week. Companies have discovered that flexible arrangements can reduce office costs and improve employee satisfaction. At the same time, city centers have experienced declining foot traffic in restaurants and shops. Analysts predict that this general direction will continue reshaping urban economies for many years to come.",
+        "translation": "經濟學家觀察到，自全球疫情以來，遠距工作已成為明顯的趨勢，數百萬名員工如今每週至少有部分時間在家工作。企業發現，彈性的工作安排能降低辦公室成本，並提高員工滿意度。與此同時，市中心的餐廳與商店人潮則逐漸減少。分析師預測，這個整體走向將在未來多年持續重塑都市經濟。",
         "lookup": {
-          "english": "easily influenced; able to be shaped.",
-          "chinese": "易受影響的；可塑的"
+          "english": "general direction, fashion.",
+          "chinese": "趨勢；傾向"
         }
       },
       {
-        "word": "mendacious",
+        "word": "stagnant",
         "pos": "adj.",
-        "definition": "not telling the truth; lying.",
-        "chinese": "說謊的；虛假的",
-        "synonyms": "dishonest, deceitful, untruthful",
+        "definition": "motionless, dull, inactive.",
+        "memoryChant": "stagnum (pool) → 'Still as a pool—stagnant!'",
+        "chinese": "停滯的；不流動的",
+        "synonyms": "still, inactive, sluggish",
+        "image": "shield",
+        "sentence": "Mosquitoes breed rapidly in __________ water, laying their eggs in abandoned tires, blocked gutters, and flower pots that collect rain. Because the water does not flow, larvae can develop undisturbed within a week. Health officials in Taiwan regularly remind residents to empty containers around their homes, especially during the rainy season, to prevent outbreaks of dengue fever. Removing still water is one of the simplest and most effective methods of disease prevention.",
+        "translation": "蚊子會在不流動的死水中迅速繁殖，把卵產在廢棄輪胎、堵塞的排水溝和積了雨水的花盆裡。由於水不流動，幼蟲可以在一週內不受干擾地發育。台灣的衛生官員經常提醒民眾清空住家周圍的容器，尤其是在雨季，以防止登革熱爆發。清除積水是最簡單也最有效的疾病預防方法之一。",
+        "lookup": {
+          "english": "motionless, dull, inactive.",
+          "chinese": "停滯的；不流動的"
+        }
+      },
+      {
+        "word": "fatal",
+        "pos": "adj.",
+        "definition": "deadly, disastrous.",
+        "memoryChant": "fatum (fate, doom) → 'Sealing your fate—fatal!'",
+        "chinese": "致命的；毀滅性的",
+        "synonyms": "deadly, lethal, disastrous",
+        "image": "flag",
+        "sentence": "The mountain climber made a __________ error when he ignored the weather forecast and continued toward the summit despite warnings of an approaching storm. Heavy snow soon covered the trail, and temperatures fell far below freezing. Rescue teams searched for three days but could not reach him in time. His tragic death led to new regulations requiring climbers to register their routes and follow the instructions of experienced local guides.",
+        "translation": "這名登山者犯下了致命的錯誤，他無視天氣預報，不顧暴風雪即將來臨的警告，繼續朝山頂前進。大雪很快覆蓋了步道，氣溫也降到遠低於冰點。搜救隊搜尋了三天，卻未能及時找到他。他的悲劇性死亡促成了新規定的實施，要求登山者登記路線，並遵從經驗豐富的當地嚮導指示。",
+        "lookup": {
+          "english": "deadly, disastrous.",
+          "chinese": "致命的；毀滅性的"
+        }
+      },
+      {
+        "word": "passé",
+        "pos": "adj.",
+        "definition": "outmoded, old-fashioned.",
+        "memoryChant": "passer (to pass) → 'Its time has passed—passé!'",
+        "chinese": "過時的",
+        "synonyms": "outdated, old-fashioned, unfashionable",
+        "image": "regret",
+        "sentence": "Teenagers today often consider email completely __________, preferring instant messaging apps and social media platforms to communicate with friends. Many young people check their inboxes only when schools or companies require it. Communication researchers note that technologies which once seemed revolutionary can become outdated remarkably quickly. Just twenty years ago, email was considered the most modern way to stay in touch, while handwritten letters were viewed as old-fashioned relics of the past.",
+        "translation": "如今的青少年常認為電子郵件完全過時了，他們更喜歡用即時通訊軟體和社群媒體與朋友聯絡。許多年輕人只有在學校或公司要求時才會查看收件匣。傳播研究人員指出，曾經看似革命性的科技，可能會以驚人的速度變得過時。就在二十年前，電子郵件還被視為最現代的聯絡方式，而手寫信則被看作老派的過往遺物。",
+        "lookup": {
+          "english": "outmoded, old-fashioned.",
+          "chinese": "過時的"
+        }
+      },
+      {
+        "word": "procrastinate",
+        "pos": "v.",
+        "definition": "to delay, put off.",
+        "memoryChant": "pro- (forward) + crastinus (of tomorrow) → 'Push it forward to tomorrow—procrastinate!'",
+        "chinese": "拖延；耽擱",
+        "synonyms": "delay, postpone, stall",
+        "image": "cup",
+        "sentence": "Many university students __________ until the night before a major deadline, spending weeks watching videos and chatting online instead of working on their assignments. They then stay awake until dawn, rushing to finish essays that deserve far more careful attention. Psychologists explain that people often delay unpleasant tasks because they fear failure or feel overwhelmed. Breaking large projects into smaller steps, they suggest, can help students stop postponing and start working steadily.",
+        "translation": "許多大學生總是拖到重大截止日期的前一晚，花好幾週看影片、上網聊天，而不是完成作業。接著他們熬夜到天亮，匆忙趕完那些本該更用心對待的報告。心理學家解釋，人們往往會拖延不愉快的任務，因為他們害怕失敗或感到不堪負荷。他們建議，將大型專案拆解成較小的步驟，能幫助學生停止拖延，開始穩定地工作。",
+        "lookup": {
+          "english": "to delay, put off.",
+          "chinese": "拖延；耽擱"
+        }
+      },
+      {
+        "word": "facet",
+        "pos": "n.",
+        "definition": "one side or view of a person or situation.",
+        "memoryChant": "facies (face) → 'One face of many—facet!'",
+        "chinese": "方面；（寶石的）刻面",
+        "synonyms": "aspect, side, feature",
         "image": "lamp",
-        "sentence": "The audit committee's report characterized the executive's representations to shareholders as fundamentally __________, documenting seventeen specific instances where his public statements were directly contradicted by internal communications he had authored and distributed within the same reporting period.",
-        "translation": "審計委員會的報告將這位高管向股東的陳述定性為根本上的不誠實，記錄了他的公開聲明直接與他在同一報告期內撰寫和分發的內部通訊相矛盾的十七個具體事例。",
+        "sentence": "Climate change affects nearly every __________ of modern life, from agriculture and public health to international migration and economic stability. Rising temperatures reduce crop yields, while extreme weather damages homes and infrastructure. Scientists emphasize that addressing such a complex problem requires cooperation among engineers, economists, doctors, and policymakers. Focusing on only one aspect, they warn, would fail to capture the interconnected challenges that communities around the world are already experiencing.",
+        "translation": "氣候變遷幾乎影響現代生活的每一個層面，從農業、公共衛生到國際移民與經濟穩定皆然。氣溫上升使農作物減產，極端天氣則破壞房屋與基礎建設。科學家強調，要解決這樣一個複雜的問題，需要工程師、經濟學家、醫生與政策制定者通力合作。他們警告，只關注單一面向，將無法掌握世界各地社區早已面臨的環環相扣的挑戰。",
         "lookup": {
-          "english": "not telling the truth; lying.",
-          "chinese": "說謊的；虛假的"
+          "english": "one side or view of a person or situation.",
+          "chinese": "方面；（寶石的）刻面"
         }
       },
       {
-        "word": "mercurial",
-        "pos": "adj.",
-        "definition": "subject to sudden changes of mood.",
-        "chinese": "善變的；反覆無常的",
-        "synonyms": "volatile, capricious, erratic",
-        "image": "burst",
-        "sentence": "Working with the __________ creative director required considerable emotional resilience, as his enthusiasm for a concept could transform into dismissive contempt within a single meeting without any perceptible shift in the underlying merits of the idea itself. Experienced team members learned to present work incrementally rather than revealing complete proposals.",
-        "translation": "與這位善變的創意總監共事需要相當大的情緒韌性，因為他對某個概念的熱情可以在一次會議中就轉變為輕蔑的鄙視，而這個想法本身的內在價值卻毫無明顯變化。有經驗的團隊成員學會了循序漸進地呈現作品，而非一次性展示完整的提案。",
+        "word": "foist",
+        "pos": "v.",
+        "definition": "to force upon, pass off slyly.",
+        "memoryChant": "fust (fist) → 'Push something into someone's fist—foist!'",
+        "chinese": "強加；以欺騙手段推銷",
+        "synonyms": "impose, palm off, force upon",
+        "image": "energy",
+        "sentence": "The dishonest shopkeeper tried to __________ damaged electronics on unsuspecting tourists, hiding scratches under stickers and claiming the products were brand new. Visitors who could not read the local language were especially easy targets. After several travelers posted angry reviews online, police investigated and discovered hundreds of defective items in the storeroom. The shop was closed, and consumer groups urged tourists to inspect purchases carefully before paying. Business at nearby shops improved afterward.",
+        "translation": "這名不誠實的店主企圖把受損的電子產品硬塞給毫無戒心的觀光客，他用貼紙遮住刮痕，並聲稱這些產品是全新的。看不懂當地語言的遊客尤其容易成為目標。在幾名旅客於網路上發表憤怒的評論後，警方展開調查，在倉庫中發現了數百件瑕疵品。這家店被勒令歇業，消費者團體也呼籲遊客在付款前仔細檢查所購商品。之後附近商店的生意也隨之好轉。",
         "lookup": {
-          "english": "subject to sudden changes of mood.",
-          "chinese": "善變的；反覆無常的"
+          "english": "to force upon, pass off slyly.",
+          "chinese": "強加；以欺騙手段推銷"
+        }
+      },
+      {
+        "word": "stigmatize",
+        "pos": "v.",
+        "definition": "to mark with disgrace.",
+        "memoryChant": "stigma (mark, brand) → 'Brand someone with a mark—stigmatize!'",
+        "chinese": "污名化；使蒙羞",
+        "synonyms": "brand, shame, discredit",
+        "image": "mountain",
+        "sentence": "Public health experts warn that societies should not __________ people who seek help for mental health problems. When individuals fear being labeled as weak or unstable, they often hide their struggles and avoid treatment. Campaigns featuring celebrities who speak openly about anxiety and depression have helped reduce this sense of shame. Researchers report that when communities stop attaching disgrace to such conditions, far more people are willing to ask for support.",
+        "translation": "公共衛生專家警告，社會不應該污名化那些因心理健康問題而尋求協助的人。當人們害怕被貼上軟弱或不穩定的標籤時，他們往往會隱藏自己的困境並逃避治療。由名人公開談論焦慮與憂鬱的宣導活動，已幫助減少了這種羞恥感。研究人員指出，當社區不再將這些狀況與恥辱連結時，願意尋求支持的人便會大幅增加。",
+        "lookup": {
+          "english": "to mark with disgrace.",
+          "chinese": "污名化；使蒙羞"
+        }
+      },
+      {
+        "word": "capitulate",
+        "pos": "v.",
+        "definition": "to surrender, make terms.",
+        "memoryChant": "caput (head) → 'Bow your head in surrender—capitulate!'",
+        "chinese": "投降；屈服",
+        "synonyms": "surrender, yield, give in",
+        "image": "lamp",
+        "sentence": "After weeks of strikes that shut down the city's public transportation, the government finally decided to __________ and accept the union's demands for higher wages and safer working conditions. Officials had initially refused to negotiate, insisting that the requests were unreasonable. However, growing public frustration and severe economic losses forced them to give in. Union leaders celebrated the agreement as a significant victory for workers throughout the country. Commuters were relieved when service resumed.",
+        "translation": "在罷工讓全市大眾運輸停擺數週後，政府終於決定讓步，接受工會提高薪資與改善工作安全的要求。官員們起初拒絕談判，堅稱這些要求並不合理。然而，民眾日益高漲的不滿與嚴重的經濟損失，迫使他們不得不屈服。工會領袖慶祝這項協議是全國勞工的一大勝利。通勤族在服務恢復後都鬆了一口氣。",
+        "lookup": {
+          "english": "to surrender, make terms.",
+          "chinese": "投降；屈服"
+        }
+      },
+      {
+        "word": "audacity",
+        "pos": "n.",
+        "definition": "boldness, daring.",
+        "memoryChant": "audax (bold) → 'Bold enough to dare—audacity!'",
+        "chinese": "大膽；厚顏無恥",
+        "synonyms": "boldness, nerve, daring",
+        "image": "rubble",
+        "sentence": "The young entrepreneur had the __________ to present her business plan directly to the world's richest investor after sneaking into a private conference. Security guards tried to escort her out, but the investor, amused by her boldness, agreed to listen for five minutes. Her daring approach paid off spectacularly: he invested ten million dollars in her company that same afternoon. Business magazines later featured her story as an example of fearless ambition.",
+        "translation": "這位年輕創業家竟有膽量溜進一場私人會議，直接向世界首富推銷她的商業計畫。保全人員試圖將她請出去，但這位投資人被她的大膽逗樂了，同意聽她說五分鐘。她大膽的做法獲得了驚人的回報：他當天下午就投資了一千萬美元到她的公司。商業雜誌後來將她的故事作為無畏雄心的範例加以報導。",
+        "lookup": {
+          "english": "boldness, daring.",
+          "chinese": "大膽；厚顏無恥"
+        }
+      },
+      {
+        "word": "tantalize",
+        "pos": "v.",
+        "definition": "to tease or torment by offering something good but withholding it.",
+        "memoryChant": "Tantalus (Greek myth: water and fruit always just out of reach) → 'Always just out of reach—tantalize!'",
+        "chinese": "逗弄；使可望而不可即",
+        "synonyms": "tease, tempt, torment",
+        "image": "lamp",
+        "sentence": "The bakery's window displays seemed designed to __________ hungry students walking home from school, featuring warm croissants, chocolate cakes, and colorful pastries arranged beautifully behind the glass. The delicious smells drifted into the street, tempting everyone who passed. Unfortunately, the prices were far beyond most students' pocket money. Many would pause outside for several minutes, staring longingly at treats they knew they could not afford to buy. A few saved for weeks to buy one.",
+        "translation": "這家麵包店的櫥窗陳列彷彿是專門用來逗弄放學回家的飢餓學生，玻璃後面擺放著溫熱的可頌、巧克力蛋糕和五顏六色的糕點，排列得十分精美。香甜的氣味飄散到街上，誘惑著每個經過的人。可惜的是，價格遠遠超出大多數學生的零用錢。許多人會在店外駐足好幾分鐘，渴望地盯著那些他們明知買不起的點心。有幾個人存了好幾週的錢才買到一個。",
+        "lookup": {
+          "english": "to tease or torment by offering something good but withholding it.",
+          "chinese": "逗弄；使可望而不可即"
+        }
+      },
+      {
+        "word": "retort",
+        "pos": "v.",
+        "definition": "to answer, reply sharply.",
+        "memoryChant": "re- (back) + torquere (to twist) → 'Twist the words back—retort!'",
+        "chinese": "反駁；回嘴",
+        "synonyms": "reply, respond, counter",
+        "image": "eraser",
+        "sentence": "When a reporter suggested that the elderly candidate was too old to govern effectively, she paused and then __________ that experience and wisdom were exactly what the country needed during difficult times. The audience burst into applause at her quick, sharp reply. Political commentators agreed that her confident response had turned a potential weakness into a strength. Her poll numbers rose significantly in the days following the widely shared exchange.",
+        "translation": "當一名記者暗示這位年長的候選人年紀太大、無法有效治理時，她停頓了一下，隨即反駁說，經驗與智慧正是國家在艱難時期所需要的。觀眾對她機敏犀利的回應報以熱烈掌聲。政治評論員一致認為，她自信的回答將潛在的弱點轉化為優勢。在這段廣為流傳的交鋒之後幾天，她的民調支持率大幅上升。",
+        "lookup": {
+          "english": "to answer, reply sharply.",
+          "chinese": "反駁；回嘴"
+        }
+      },
+      {
+        "word": "reticent",
+        "pos": "adj.",
+        "definition": "silent, reserved.",
+        "memoryChant": "re- (back) + tacere (to be silent) → 'Holding back in silence—reticent!'",
+        "chinese": "沉默寡言的；有保留的",
+        "synonyms": "reserved, quiet, restrained",
+        "image": "table",
+        "sentence": "The famous novelist was notoriously __________ about her private life, refusing to discuss her family, relationships, or personal history in interviews. She believed that readers should focus on her books rather than on her biography. Journalists who asked personal questions received only polite smiles and brief, unrevealing answers. Even her closest friends respected her reserved nature, and her biography remained largely a mystery until letters were discovered after her death.",
+        "translation": "這位知名小說家出了名地對私生活絕口不提，在訪談中拒絕談論她的家庭、感情或個人經歷。她認為讀者應該關注她的作品，而非她的生平。問起私人問題的記者，只會得到禮貌的微笑和簡短、不透露任何資訊的回答。就連她最親近的朋友也尊重她內斂的個性，直到她過世後書信被發現，她的生平在很大程度上仍是個謎。",
+        "lookup": {
+          "english": "silent, reserved.",
+          "chinese": "沉默寡言的；有保留的"
+        }
+      },
+      {
+        "word": "tacit",
+        "pos": "adj.",
+        "definition": "understood, implied, not stated.",
+        "memoryChant": "tacere (to be silent) → 'Agreed in silence—tacit!'",
+        "chinese": "心照不宣的；默許的",
+        "synonyms": "implicit, unspoken, understood",
+        "image": "scatter",
+        "sentence": "The two roommates never discussed household chores, but they had a __________ agreement that whoever cooked dinner would not have to wash the dishes. Over three years, this unspoken arrangement worked perfectly, and neither ever complained. Psychologists note that many successful relationships depend on such implicit understandings, which develop naturally through shared experience. However, they caution that assumptions left unstated can also lead to misunderstandings when circumstances change unexpectedly. Clear communication remains important.",
+        "translation": "這兩位室友從未討論過家務分配，卻有一個心照不宣的默契：負責煮晚餐的人就不必洗碗。三年來，這個不言而喻的安排運作得十分完美，雙方都沒有抱怨過。心理學家指出，許多成功的關係都仰賴這類隱含的默契，它們是透過共同的經歷自然形成的。然而他們也提醒，未說出口的假設在情況意外改變時，也可能導致誤會。清楚的溝通仍然很重要。",
+        "lookup": {
+          "english": "understood, implied, not stated.",
+          "chinese": "心照不宣的；默許的"
+        }
+      },
+      {
+        "word": "chicanery",
+        "pos": "n.",
+        "definition": "trickery, underhandedness.",
+        "memoryChant": "chicaner (to quibble) → 'Quibbling tricks—chicanery!'",
+        "chinese": "詭計；欺騙",
+        "synonyms": "trickery, deception, fraud",
+        "image": "cup",
+        "sentence": "The election was marred by widespread __________, including forged ballots, bribed officials, and voters who were illegally turned away from polling stations. International observers documented hundreds of irregularities and concluded that the official results could not be trusted. Opposition parties organized massive protests demanding a new election. Eventually, the country's highest court ordered a recount, confirming that deliberate trickery had changed the outcome in several important districts. Several officials were later imprisoned.",
+        "translation": "這場選舉因廣泛的詭計而蒙上陰影，包括偽造選票、賄賂官員，以及選民在投票所被非法拒於門外。國際觀察員記錄了數百起違規情事，並斷定官方結果不可信。反對黨組織大規模抗議，要求重新選舉。最終，該國最高法院下令重新計票，證實了刻意的欺騙手段改變了數個重要選區的結果。數名官員後來被判入獄。",
+        "lookup": {
+          "english": "trickery, underhandedness.",
+          "chinese": "詭計；欺騙"
+        }
+      },
+      {
+        "word": "obliging",
+        "pos": "adj.",
+        "definition": "accommodating, helpful.",
+        "memoryChant": "ob- (to) + ligare (to bind) → 'Bound to help—obliging!'",
+        "chinese": "樂於助人的；親切的",
+        "synonyms": "helpful, accommodating, cooperative",
+        "image": "chest",
+        "sentence": "The hotel receptionist was remarkably __________, arranging a late checkout, recommending local restaurants, and even lending an umbrella to guests caught in the sudden rain. When a family's luggage was lost by the airline, she personally called the airport several times until the suitcases were located. Online reviews consistently praised her helpful attitude, and the hotel's management eventually promoted her to guest relations manager in recognition of her exceptional service.",
+        "translation": "這位飯店櫃檯人員非常樂於助人，她為客人安排延後退房、推薦當地餐廳，甚至把雨傘借給遇上突如其來大雨的房客。當一家人的行李被航空公司遺失時，她親自打了好幾通電話到機場，直到找到行李箱為止。網路評論一致讚揚她熱心助人的態度，飯店管理階層最終將她升為賓客關係經理，以表彰她卓越的服務。",
+        "lookup": {
+          "english": "accommodating, helpful.",
+          "chinese": "樂於助人的；親切的"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The senior researcher's __________ tendencies became a liability during international negotiations, as her consistent dismissal of insights from other fields prevented the cross-disciplinary synthesis that a more open-minded approach might have generated.",
+        "question": "The politician's __________ responses during the debate impressed some viewers but frustrated others who wanted genuine answers. Whenever he was asked about rising unemployment, he smoothly changed the subject with rehearsed phrases and confident smiles. Critics described his performance as polished but superficial, arguing that fluent speech cannot replace detailed policy proposals. Fact-checkers later found that several of his effortless claims contained significant errors and misleading statistics. His campaign never fully regained public trust.",
         "options": [
           {
             "letter": "A",
-            "text": "intractable"
+            "text": "passé"
           },
           {
             "letter": "B",
-            "text": "insular"
+            "text": "glib"
           },
           {
             "letter": "C",
-            "text": "irascible"
+            "text": "fatal"
           },
           {
             "letter": "D",
-            "text": "inveterate"
+            "text": "tacit"
           }
         ],
         "answer": "B",
-        "answerWord": "insular"
+        "answerWord": "glib"
       },
       {
         "number": 2,
-        "question": "The medical team acknowledged that the patient's condition had proven __________ despite three years of aggressive treatment across multiple therapeutic modalities, with a specialist panel convening to explore experimental approaches outside the parameters of conventional clinical protocols.",
+        "question": "To produce reliable results, the laboratory required a completely __________ mixture in which every sample contained exactly the same proportion of each chemical. Technicians stirred the solution for hours to ensure that no particles settled at the bottom. Even small variations could invalidate months of research. Quality control specialists tested multiple samples from different parts of the container to confirm that the substance was perfectly uniform throughout before experiments began.",
         "options": [
           {
             "letter": "A",
-            "text": "limpid"
+            "text": "obliging"
           },
           {
             "letter": "B",
-            "text": "lucid"
+            "text": "reticent"
           },
           {
             "letter": "C",
-            "text": "intractable"
+            "text": "homogeneous"
           },
           {
             "letter": "D",
-            "text": "laconic"
+            "text": "stagnant"
           }
         ],
         "answer": "C",
-        "answerWord": "intractable"
+        "answerWord": "homogeneous"
       },
       {
         "number": 3,
-        "question": "The __________ journalist embedded herself with the relief convoy traversing the conflict zone, filing daily dispatches that provided the international community with its most detailed account of humanitarian conditions on the ground, her courage under dangerous circumstances earning widespread professional recognition.",
+        "question": "Young children's minds are remarkably __________, easily shaped by the values, habits, and attitudes of the adults around them. Research shows that children who grow up in homes filled with books are more likely to develop a lifelong love of reading. Educators therefore emphasize the importance of positive role models during early childhood, since the flexible thinking of young learners gradually becomes more fixed as they grow older. Parents play an especially powerful role.",
         "options": [
           {
             "letter": "A",
-            "text": "intrepid"
-          },
-          {
-            "letter": "B",
-            "text": "inveterate"
-          },
-          {
-            "letter": "C",
-            "text": "irascible"
-          },
-          {
-            "letter": "D",
-            "text": "insular"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "intrepid"
-      },
-      {
-        "number": 4,
-        "question": "The director's explosive reactions to minor production setbacks created pervasive anxiety that stifled creative risk-taking, crew members developing elaborate systems to avoid triggering the outbursts that his __________ temperament made a constant occupational hazard on set.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "lethargic"
-          },
-          {
-            "letter": "B",
-            "text": "limpid"
-          },
-          {
-            "letter": "C",
-            "text": "lugubrious"
-          },
-          {
-            "letter": "D",
-            "text": "irascible"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "irascible"
-      },
-      {
-        "number": 5,
-        "question": "The patient's __________ gambling habit had persisted for over fifteen years despite two residential treatment programs, countless family interventions, and a series of financial crises that progressively depleted resources accumulated over an entire professional lifetime.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "laconic"
-          },
-          {
-            "letter": "B",
-            "text": "inveterate"
-          },
-          {
-            "letter": "C",
-            "text": "listless"
-          },
-          {
-            "letter": "D",
-            "text": "loquacious"
-          }
-        ],
-        "answer": "B",
-        "answerWord": "inveterate"
-      },
-      {
-        "number": 6,
-        "question": "The general's communication style was famously __________, his battlefield directives rarely extending beyond a sentence or two yet conveying operational intent with a precision that more verbose commanders rarely achieved across substantially longer instructions.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "lethargic"
-          },
-          {
-            "letter": "B",
-            "text": "loquacious"
-          },
-          {
-            "letter": "C",
-            "text": "laconic"
-          },
-          {
-            "letter": "D",
-            "text": "listless"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "laconic"
-      },
-      {
-        "number": 7,
-        "question": "Rather than dismissing the __________ research assistant's unconventional proposal outright, the senior scientist recognized in it a genuine creative instinct unconstrained by the methodological conventions that years of training sometimes caused established practitioners to mistake for immutable necessities.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "lethargic"
-          },
-          {
-            "letter": "B",
-            "text": "lucid"
-          },
-          {
-            "letter": "C",
-            "text": "loquacious"
-          },
-          {
-            "letter": "D",
-            "text": "listless"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "lethargic"
-      },
-      {
-        "number": 8,
-        "question": "The researcher's careful documentation proved __________ in exposing the systematic nature of the violations, her methodical cross-referencing of financial records making the pattern of misconduct impossible to attribute to coincidence or inadvertent error.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "listless"
-          },
-          {
-            "letter": "B",
-            "text": "limpid"
-          },
-          {
-            "letter": "C",
-            "text": "lethargic"
-          },
-          {
-            "letter": "D",
-            "text": "lucid"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "lucid"
-      },
-      {
-        "number": 9,
-        "question": "The witness became increasingly __________ as the afternoon session extended into its fourth hour, her earlier precision giving way to vague generalities and contradictions that the defense team recognized as symptomatic of genuine exhaustion rather than any deliberate evasiveness.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "magnanimous"
-          },
-          {
-            "letter": "B",
             "text": "malleable"
           },
           {
-            "letter": "C",
-            "text": "mendacious"
-          },
-          {
-            "letter": "D",
-            "text": "lethargic"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "lethargic"
-      },
-      {
-        "number": 10,
-        "question": "The veteran character actor's naturally __________ expression proved unexpectedly perfect casting for the grieving widower, requiring virtually no additional direction to convey the profound emotional desolation central to the screenplay's most demanding dramatic sequences.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "insular"
-          },
-          {
             "letter": "B",
-            "text": "lugubrious"
+            "text": "passé"
           },
           {
             "letter": "C",
-            "text": "irascible"
+            "text": "tacit"
           },
           {
             "letter": "D",
-            "text": "lethargic"
-          }
-        ],
-        "answer": "B",
-        "answerWord": "lugubrious"
-      },
-      {
-        "number": 11,
-        "question": "Her __________ prose style attracted readers alienated by deliberately obscure writing fashionable in certain literary circles, offering instead an elegant transparency that made even genuinely difficult ideas feel accessible without compromising their intellectual substance.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "limpid"
-          },
-          {
-            "letter": "B",
-            "text": "listless"
-          },
-          {
-            "letter": "C",
-            "text": "loquacious"
-          },
-          {
-            "letter": "D",
-            "text": "lugubrious"
+            "text": "glib"
           }
         ],
         "answer": "A",
-        "answerWord": "limpid"
-      },
-      {
-        "number": 12,
-        "question": "The previously ambitious executive appeared uncharacteristically __________ at the quarterly review, responding to direct questions with vagueness and showing none of the strategic engagement that had defined her reputation as one of the division's most dynamic performers.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "lucid"
-          },
-          {
-            "letter": "B",
-            "text": "lugubrious"
-          },
-          {
-            "letter": "C",
-            "text": "listless"
-          },
-          {
-            "letter": "D",
-            "text": "laconic"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "listless"
-      },
-      {
-        "number": 13,
-        "question": "The __________ academic had cultivated a warm following among students who appreciated both his encyclopedic knowledge and his fundamental inability to deliver a lecture in under two hours regardless of the scheduled duration, his digressions always substantive but never brief.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "loquacious"
-          },
-          {
-            "letter": "B",
-            "text": "laconic"
-          },
-          {
-            "letter": "C",
-            "text": "lethargic"
-          },
-          {
-            "letter": "D",
-            "text": "listless"
-          }
-        ],
-        "answer": "A",
-        "answerWord": "loquacious"
-      },
-      {
-        "number": 14,
-        "question": "The veteran champion's post-match tribute to her opponent, acknowledging the superior performance that had ended her unbeaten run, generated more genuine admiration than any of her victories, demonstrating a __________ dignity under defeat that elevated her standing across the sport.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "malevolent"
-          },
-          {
-            "letter": "B",
-            "text": "malleable"
-          },
-          {
-            "letter": "C",
-            "text": "mendacious"
-          },
-          {
-            "letter": "D",
-            "text": "magnanimous"
-          }
-        ],
-        "answer": "D",
-        "answerWord": "magnanimous"
-      },
-      {
-        "number": 15,
-        "question": "The opposition characterized the proposed legislation as reflecting __________ intent, arguing that its practical effects would systematically disadvantage the most economically vulnerable communities while the stated justifications provided ideological cover for deliberate institutional discrimination.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "mercurial"
-          },
-          {
-            "letter": "B",
-            "text": "malleable"
-          },
-          {
-            "letter": "C",
-            "text": "malevolent"
-          },
-          {
-            "letter": "D",
-            "text": "magnanimous"
-          }
-        ],
-        "answer": "C",
-        "answerWord": "malevolent"
-      },
-      {
-        "number": 16,
-        "question": "The younger members of the team proved far more __________ than initially anticipated, adapting their analytical frameworks in response to critical feedback with a speed and thoroughness that suggested both genuine intellectual humility and an authentic commitment to methodological improvement.",
-        "options": [
-          {
-            "letter": "A",
-            "text": "mendacious"
-          },
-          {
-            "letter": "B",
-            "text": "malleable"
-          },
-          {
-            "letter": "C",
-            "text": "mercurial"
-          },
-          {
-            "letter": "D",
-            "text": "magnanimous"
-          }
-        ],
-        "answer": "B",
         "answerWord": "malleable"
       },
       {
-        "number": 17,
-        "question": "The senate committee's report documented seventeen specific instances in which the executive's public statements had been demonstrably __________, contradicted not by mere allegation but by the executive's own contemporaneous written communications preserved in institutional records.",
+        "number": 4,
+        "question": "Auditors discovered that the company's impressive profits were the result of financial __________ rather than genuine business success. Executives had hidden debts in secret accounts, counted future sales as current income, and moved money between subsidiaries to create an illusion of growth. The clever deception fooled investors for years. When the truth emerged, experts compared the accountants' tricks to a magician's skillful manipulation of cards. Several executives were later sentenced to prison.",
         "options": [
           {
             "letter": "A",
-            "text": "mercurial"
+            "text": "audacity"
           },
           {
             "letter": "B",
-            "text": "malevolent"
+            "text": "facet"
           },
           {
             "letter": "C",
-            "text": "mendacious"
+            "text": "trend"
           },
           {
             "letter": "D",
-            "text": "magnanimous"
+            "text": "legerdemain"
           }
         ],
-        "answer": "C",
-        "answerWord": "mendacious"
+        "answer": "D",
+        "answerWord": "legerdemain"
       },
       {
-        "number": 18,
-        "question": "The __________ investor's portfolio dramatically outperformed the market in bullish conditions through aggressive concentration in high-growth sectors, then surrendered those gains with equal speed when sentiment shifted, leaving net returns well below those achieved by more consistently disciplined competitors.",
+        "number": 5,
+        "question": "Fashion analysts have noticed a growing __________ among young consumers toward buying secondhand clothing instead of new garments. Online platforms for used fashion have expanded rapidly, and vintage shops are appearing in shopping districts across Asia. This shift reflects increasing concern about environmental waste and rising prices. Retailers who ignore the changing direction of consumer behavior, experts warn, may lose market share to more sustainable competitors. Even luxury brands are now launching resale programs.",
         "options": [
           {
             "letter": "A",
-            "text": "mercurial"
+            "text": "chicanery"
+          },
+          {
+            "letter": "B",
+            "text": "trend"
+          },
+          {
+            "letter": "C",
+            "text": "audacity"
+          },
+          {
+            "letter": "D",
+            "text": "legerdemain"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "trend"
+      },
+      {
+        "number": 6,
+        "question": "After years without new investment, the town's economy had become __________, with shops closing, young people leaving for larger cities, and unemployment remaining high. No new businesses had opened in nearly a decade. Local leaders finally developed a plan to attract tourists by restoring historic buildings and promoting regional food. Within three years, the once inactive economy began growing again, and several families returned to open restaurants. Property values have also started rising again.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "glib"
           },
           {
             "letter": "B",
@@ -706,147 +438,435 @@ window.FLASHCARD_UNITS = {
           },
           {
             "letter": "C",
-            "text": "mendacious"
+            "text": "stagnant"
           },
           {
             "letter": "D",
-            "text": "malevolent"
+            "text": "obliging"
           }
         ],
-        "answer": "A",
-        "answerWord": "mercurial"
+        "answer": "C",
+        "answerWord": "stagnant"
       },
       {
-        "number": 19,
-        "question": "The author's __________ explanation of quantum entanglement successfully brought a counterintuitive physical phenomenon within the grasp of readers with no scientific background, using everyday analogies that preserved conceptual accuracy without the mathematical formalism that typically excluded general audiences.",
+        "number": 7,
+        "question": "Doctors warn that combining certain common medications with alcohol can have __________ consequences, including breathing failure and cardiac arrest. Many people do not realize that even ordinary sleeping pills and painkillers become extremely dangerous when mixed with drinks. Pharmacists are now required to provide written warnings with prescriptions. Public health campaigns emphasize that reading medication labels carefully can prevent deadly accidents that devastate families every year. Awareness saves lives every single day.",
         "options": [
           {
             "letter": "A",
-            "text": "lucid"
+            "text": "fatal"
           },
           {
             "letter": "B",
-            "text": "lugubrious"
+            "text": "homogeneous"
           },
           {
             "letter": "C",
-            "text": "loquacious"
+            "text": "reticent"
           },
           {
             "letter": "D",
-            "text": "listless"
+            "text": "passé"
           }
         ],
         "answer": "A",
-        "answerWord": "lucid"
+        "answerWord": "fatal"
       },
       {
-        "number": 20,
-        "question": "The veteran character actor's naturally __________ facial features had sustained a career playing grief-stricken relatives, world-weary detectives, and chronically disappointed authority figures, roles for which his innate physiognomy required virtually no makeup intervention to achieve complete dramatic credibility.",
+        "number": 8,
+        "question": "Although bell-bottom jeans were extremely popular in the 1970s, by the following decade they were considered completely __________, and few people wanted to be seen wearing them. Fashion changes quickly, and styles that once seemed exciting soon look old-fashioned. Interestingly, many outdated trends eventually return. Designers regularly revive clothing from previous generations, and bell-bottoms themselves enjoyed an unexpected comeback among young shoppers several decades later. Nothing in fashion stays gone forever.",
         "options": [
           {
             "letter": "A",
-            "text": "lethargic"
+            "text": "tacit"
           },
           {
             "letter": "B",
-            "text": "listless"
+            "text": "obliging"
           },
           {
             "letter": "C",
-            "text": "limpid"
+            "text": "malleable"
           },
           {
             "letter": "D",
-            "text": "lugubrious"
+            "text": "passé"
           }
         ],
         "answer": "D",
-        "answerWord": "lugubrious"
+        "answerWord": "passé"
+      },
+      {
+        "number": 9,
+        "question": "Financial advisors warn that people who __________ about saving for retirement often face serious difficulties later in life. Many young workers postpone contributions, assuming they will have plenty of time in the future. However, delaying even a few years significantly reduces the benefits of compound interest. Experts recommend starting small but early, since those who put off planning frequently discover that it is too late to catch up. Beginning today is always the wisest choice.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "tantalize"
+          },
+          {
+            "letter": "B",
+            "text": "capitulate"
+          },
+          {
+            "letter": "C",
+            "text": "stigmatize"
+          },
+          {
+            "letter": "D",
+            "text": "procrastinate"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "procrastinate"
+      },
+      {
+        "number": 10,
+        "question": "The biography explores every __________ of the scientist's complicated personality, from her brilliant research and generous mentoring to her stubbornness and difficult relationships with colleagues. Rather than presenting her as a flawless hero, the author examines both her admirable and troubling qualities. Readers gain a complete picture of a complex individual whose different sides shaped her remarkable achievements and occasional failures throughout her long career. Critics praised its honesty and remarkable balance.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "legerdemain"
+          },
+          {
+            "letter": "B",
+            "text": "facet"
+          },
+          {
+            "letter": "C",
+            "text": "chicanery"
+          },
+          {
+            "letter": "D",
+            "text": "audacity"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "facet"
+      },
+      {
+        "number": 11,
+        "question": "The real estate agent tried to __________ an overpriced apartment on the young couple, insisting that several other buyers were ready to sign immediately and pressuring them to decide within an hour. He concealed the building's plumbing problems and exaggerated the neighborhood's safety. Fortunately, the couple's parents urged them to investigate further. They discovered the hidden defects and wisely refused to be forced into the unfair purchase. They later found a far better apartment elsewhere.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "foist"
+          },
+          {
+            "letter": "B",
+            "text": "procrastinate"
+          },
+          {
+            "letter": "C",
+            "text": "retort"
+          },
+          {
+            "letter": "D",
+            "text": "tantalize"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "foist"
+      },
+      {
+        "number": 12,
+        "question": "In many countries, having a criminal record can __________ individuals for life, making it extremely difficult for them to find jobs, rent apartments, or rebuild relationships. Even after serving their sentences, former prisoners often face suspicion and rejection. Reform advocates argue that permanently marking people with disgrace increases the likelihood that they will return to crime. Some governments now allow certain records to be sealed after several years. Such reforms have produced encouraging results so far.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "capitulate"
+          },
+          {
+            "letter": "B",
+            "text": "stigmatize"
+          },
+          {
+            "letter": "C",
+            "text": "foist"
+          },
+          {
+            "letter": "D",
+            "text": "retort"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "stigmatize"
+      },
+      {
+        "number": 13,
+        "question": "Surrounded by enemy forces and running out of food and ammunition, the general was finally forced to __________, signing a document that ended the three-month siege. His exhausted soldiers laid down their weapons and were taken as prisoners. Historians note that he had resisted far longer than expected. Nevertheless, surrendering was the only way to prevent the complete destruction of the city and save thousands of civilian lives. He was later honored for his difficult decision.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "capitulate"
+          },
+          {
+            "letter": "B",
+            "text": "procrastinate"
+          },
+          {
+            "letter": "C",
+            "text": "tantalize"
+          },
+          {
+            "letter": "D",
+            "text": "foist"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "capitulate"
+      },
+      {
+        "number": 14,
+        "question": "Few people could believe the __________ of the teenage hacker who broke into a government database and then emailed officials to suggest ways they could improve their security. Rather than hiding, he openly identified himself and offered his services as a consultant. Some admired his bold confidence, while others considered his behavior dangerously reckless. Remarkably, the agency eventually hired him to help protect its computer systems. His story later inspired a popular documentary film.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "trend"
+          },
+          {
+            "letter": "B",
+            "text": "legerdemain"
+          },
+          {
+            "letter": "C",
+            "text": "facet"
+          },
+          {
+            "letter": "D",
+            "text": "audacity"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "audacity"
+      },
+      {
+        "number": 15,
+        "question": "The advertisement seemed designed to __________ viewers, showing luxurious beach resorts and gourmet meals before revealing that the vacation package was available only to members paying expensive annual fees. Many people felt frustrated after being tempted by attractive images of something they could not realistically obtain. Marketing ethicists criticized the campaign for teasing consumers with offers that remained deliberately out of reach for ordinary families. Complaints eventually forced the company to change it.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "stigmatize"
+          },
+          {
+            "letter": "B",
+            "text": "retort"
+          },
+          {
+            "letter": "C",
+            "text": "tantalize"
+          },
+          {
+            "letter": "D",
+            "text": "capitulate"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "tantalize"
+      },
+      {
+        "number": 16,
+        "question": "When his teacher accused him of copying his classmate's homework, the student was quick to __________ angrily that she had no evidence and was being unfair. His sharp reply shocked the entire class, since he was usually polite and respectful. After calming down, he apologized for his tone but maintained his innocence. The teacher later discovered that the classmate had actually copied from him, and she apologized for the misunderstanding. Both eventually laughed about the incident.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "foist"
+          },
+          {
+            "letter": "B",
+            "text": "retort"
+          },
+          {
+            "letter": "C",
+            "text": "procrastinate"
+          },
+          {
+            "letter": "D",
+            "text": "capitulate"
+          }
+        ],
+        "answer": "B",
+        "answerWord": "retort"
+      },
+      {
+        "number": 17,
+        "question": "The witness remained __________ throughout the police interview, answering most questions with a single word or simply shrugging his shoulders. Detectives suspected that he knew important details but was afraid to share them. His reserved behavior frustrated investigators who needed information quickly. Eventually, after officers promised him protection, he began speaking more openly and revealed the name of the person responsible for the crime. His testimony eventually secured a conviction.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "homogeneous"
+          },
+          {
+            "letter": "B",
+            "text": "glib"
+          },
+          {
+            "letter": "C",
+            "text": "reticent"
+          },
+          {
+            "letter": "D",
+            "text": "fatal"
+          }
+        ],
+        "answer": "C",
+        "answerWord": "reticent"
+      },
+      {
+        "number": 18,
+        "question": "Although no formal treaty was ever signed, the two rival nations maintained a __________ understanding that neither would send warships into the disputed waters. This unspoken arrangement preserved peace for nearly fifty years. Diplomats on both sides recognized its importance, even though officials never publicly acknowledged its existence. Historians describe the implicit agreement as one of the most successful examples of silent cooperation in modern international relations. Both governments continue to respect it today.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "tacit"
+          },
+          {
+            "letter": "B",
+            "text": "stagnant"
+          },
+          {
+            "letter": "C",
+            "text": "passé"
+          },
+          {
+            "letter": "D",
+            "text": "malleable"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "tacit"
+      },
+      {
+        "number": 19,
+        "question": "The investigation revealed years of legal __________ by the lawyer, who had forged documents, deceived judges, and manipulated clients into signing unfair agreements. He used complex technical language to confuse people and hide his dishonest intentions. When his trickery was finally exposed, dozens of former clients filed complaints. The bar association permanently revoked his license, and prosecutors charged him with multiple counts of fraud. Many victims eventually recovered part of their money.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "chicanery"
+          },
+          {
+            "letter": "B",
+            "text": "trend"
+          },
+          {
+            "letter": "C",
+            "text": "facet"
+          },
+          {
+            "letter": "D",
+            "text": "audacity"
+          }
+        ],
+        "answer": "A",
+        "answerWord": "chicanery"
+      },
+      {
+        "number": 20,
+        "question": "Our new neighbors have been extraordinarily __________ since moving in, watering our plants while we traveled, sharing homemade dumplings, and helping us carry heavy furniture up the stairs. When our car broke down last winter, they drove us to work for an entire week without hesitation. Their generous, accommodating nature has made the whole building feel more like a community, and everyone genuinely appreciates their kindness. We hope they stay for many years.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "glib"
+          },
+          {
+            "letter": "B",
+            "text": "fatal"
+          },
+          {
+            "letter": "C",
+            "text": "reticent"
+          },
+          {
+            "letter": "D",
+            "text": "obliging"
+          }
+        ],
+        "answer": "D",
+        "answerWord": "obliging"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "insular": [
-    "narrow-minded; isolated from outside influences.",
-    "偏狹的；與外界隔絕的"
+  "glib": [
+    "smooth of speech, fluent but insincere.",
+    "口齒伶俐的；油嘴滑舌的"
   ],
-  "intractable": [
-    "hard to control or deal with; stubborn.",
-    "難以對付的；頑固的"
-  ],
-  "intrepid": [
-    "fearless and adventurous.",
-    "無畏的；英勇的"
-  ],
-  "inveterate": [
-    "having a habit too firmly established to change.",
-    "根深蒂固的；積習難改的"
-  ],
-  "irascible": [
-    "having a tendency to be easily angered.",
-    "易怒的；暴躁的"
-  ],
-  "laconic": [
-    "using very few words; brief and concise.",
-    "簡潔的；言簡意賅的"
-  ],
-  "lassitude": [
-    "physical or mental weariness; lack of energy.",
-    "疲倦；倦怠"
-  ],
-  "laud": [
-    "to praise highly.",
-    "讚美；頌揚"
-  ],
-  "lethargic": [
-    "sluggish and apathetic; lacking energy.",
-    "昏昏欲睡的；無精打采的"
-  ],
-  "levity": [
-    "treatment of serious matters with humor.",
-    "輕浮；不莊重"
-  ],
-  "limpid": [
-    "clear and transparent; easily understood.",
-    "清澈的；清晰易懂的"
-  ],
-  "listless": [
-    "lacking energy or enthusiasm; languid.",
-    "無精打采的；漠然的"
-  ],
-  "loquacious": [
-    "tending to talk a great deal.",
-    "話多的；饒舌的"
-  ],
-  "lucid": [
-    "expressed clearly; easily understood.",
-    "清晰的；明白易懂的"
-  ],
-  "lugubrious": [
-    "looking or sounding sad and dismal.",
-    "憂鬱的；令人沮喪的"
-  ],
-  "magnanimous": [
-    "generous and forgiving, especially to a rival.",
-    "寬宏大量的；慷慨的"
-  ],
-  "malevolent": [
-    "having or showing a wish to do evil.",
-    "惡意的；懷有惡意的"
+  "homogeneous": [
+    "same, uniform.",
+    "同質的；均勻的"
   ],
   "malleable": [
-    "easily influenced; able to be shaped.",
-    "易受影響的；可塑的"
+    "capable of being shaped or formed.",
+    "可塑的；易受影響的"
   ],
-  "mendacious": [
-    "not telling the truth; lying.",
-    "說謊的；虛假的"
+  "legerdemain": [
+    "sleight of hand, deceptive cleverness.",
+    "戲法；騙術"
   ],
-  "mercurial": [
-    "subject to sudden changes of mood.",
-    "善變的；反覆無常的"
+  "trend": [
+    "general direction, fashion.",
+    "趨勢；傾向"
+  ],
+  "stagnant": [
+    "motionless, dull, inactive.",
+    "停滯的；不流動的"
+  ],
+  "fatal": [
+    "deadly, disastrous.",
+    "致命的；毀滅性的"
+  ],
+  "passé": [
+    "outmoded, old-fashioned.",
+    "過時的"
+  ],
+  "procrastinate": [
+    "to delay, put off.",
+    "拖延；耽擱"
+  ],
+  "facet": [
+    "one side or view of a person or situation.",
+    "方面；（寶石的）刻面"
+  ],
+  "foist": [
+    "to force upon, pass off slyly.",
+    "強加；以欺騙手段推銷"
+  ],
+  "stigmatize": [
+    "to mark with disgrace.",
+    "污名化；使蒙羞"
+  ],
+  "capitulate": [
+    "to surrender, make terms.",
+    "投降；屈服"
+  ],
+  "audacity": [
+    "boldness, daring.",
+    "大膽；厚顏無恥"
+  ],
+  "tantalize": [
+    "to tease or torment by offering something good but withholding it.",
+    "逗弄；使可望而不可即"
+  ],
+  "retort": [
+    "to answer, reply sharply.",
+    "反駁；回嘴"
+  ],
+  "reticent": [
+    "silent, reserved.",
+    "沉默寡言的；有保留的"
+  ],
+  "tacit": [
+    "understood, implied, not stated.",
+    "心照不宣的；默許的"
+  ],
+  "chicanery": [
+    "trickery, underhandedness.",
+    "詭計；欺騙"
+  ],
+  "obliging": [
+    "accommodating, helpful.",
+    "樂於助人的；親切的"
   ]
 });

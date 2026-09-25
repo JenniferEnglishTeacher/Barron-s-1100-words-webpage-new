@@ -3,850 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 35",
     "cards": [
       {
-        "word": "elusive",
-        "pos": "adj.",
-        "definition": "difficult to find, catch, or achieve.",
-        "chinese": "難以捉摸的；難以找到的",
-        "synonyms": "evasive, fugitive, intangible",
-        "image": "warning",
-        "sentence": "Despite years of dedicated investigation, a definitive cure for the condition remained frustratingly __________, with each promising research avenue eventually revealing unforeseen biological complications that prevented successful clinical translation. Scientists remained cautiously optimistic that recent advances in molecular targeting technology would eventually yield a viable therapeutic approach.",
-        "translation": "儘管經過多年的專注調查，這種疾病的確切療法仍令人沮喪地難以捉摸，每條有前途的研究途徑最終都揭示了阻止成功臨床轉化的意想不到的生物複雜性。然而，科學家們對分子靶向技術的最新進展持謹慎樂觀的態度，認為最終將產生可行的治療方法。",
-        "lookup": {
-          "english": "difficult to find, catch, or achieve.",
-          "chinese": "難以捉摸的；難以找到的"
-        }
-      },
-      {
-        "word": "emulate",
-        "pos": "v.",
-        "definition": "to match or surpass through imitation.",
-        "chinese": "仿效；努力趕超",
-        "synonyms": "imitate, mimic, rival",
-        "image": "burst",
-        "sentence": "Young entrepreneurs eager to __________ the legendary founder's approach to innovation often missed the crucial distinction between copying observable surface behaviors and genuinely understanding the fundamental philosophical principles that had guided his unconventional decision-making. True creative mastery requires deep comprehension rather than mere superficial behavioral imitation.",
-        "translation": "渴望仿效這位傳奇創始人創新方法的年輕創業者，往往錯過了複製可觀察的表面行為與真正理解最初指導他非常規決策的基本哲學原則之間的關鍵區別。真正的創意掌握需要深刻的理解，而非僅僅是膚淺的行為模仿。",
-        "lookup": {
-          "english": "to match or surpass through imitation.",
-          "chinese": "仿效；努力趕超"
-        }
-      },
-      {
-        "word": "enigmatic",
-        "pos": "adj.",
-        "definition": "difficult to interpret; mysterious.",
-        "chinese": "神秘的；費解的",
-        "synonyms": "mysterious, cryptic, inscrutable",
-        "image": "warning",
-        "sentence": "The artist's deliberately __________ public persona generated continuous media fascination and sustained intense scholarly debate about the authentic sources and deeper intentions underlying her work. She consistently resisted interpretive frameworks that sought to reduce her complex creative practice to simple biographical narrative.",
-        "translation": "這位藝術家刻意神秘的公眾形象引發了持續的媒體迷戀，並維持了關於她作品真實來源和更深層意圖的強烈學術辯論。她始終抵制試圖將她複雜的創作實踐化約為簡單傳記敘事的詮釋框架。",
-        "lookup": {
-          "english": "difficult to interpret; mysterious.",
-          "chinese": "神秘的；費解的"
-        }
-      },
-      {
-        "word": "enervate",
-        "pos": "v.",
-        "definition": "to weaken; to drain of energy.",
-        "chinese": "使衰弱；使精力耗盡",
-        "synonyms": "weaken, debilitate, exhaust",
-        "image": "crack",
-        "sentence": "The relentless bureaucratic obstacles seemed specifically designed to __________ reform advocates by consuming their finite time and energy in procedural compliance rather than substantive policy advancement. Experienced campaigners recognized this institutional inertia as a systemic feature requiring strategic persistence to overcome.",
-        "translation": "不斷的官僚障礙似乎是專門設計來通過讓改革倡導者將有限的時間和精力消耗在程序合規上而非實質性政策推進上，從而耗盡他們精力的。有經驗的活動人士將這種制度惰性認識為系統性特徵，需要戰略性的堅持來克服。",
-        "lookup": {
-          "english": "to weaken; to drain of energy.",
-          "chinese": "使衰弱；使精力耗盡"
-        }
-      },
-      {
-        "word": "ephemeral",
-        "pos": "adj.",
-        "definition": "lasting for only a short time.",
-        "chinese": "短暫的；瞬間即逝的",
-        "synonyms": "transient, fleeting, transitory",
-        "image": "rings",
-        "sentence": "The philosopher argued that the pursuit of __________ pleasures at the expense of deeper contemplative practices represented a fundamental misunderstanding of human flourishing, a perspective rooted in ancient ethical traditions that consistently distinguished enduring wellbeing from momentary gratification. Many contemporary psychologists have since provided empirical support for analogous distinctions.",
-        "translation": "這位哲學家認為，以犧牲更深刻的冥想實踐為代價追求短暫的樂趣，代表了對人類蓬勃發展的根本誤解，這一觀點植根於古代倫理傳統，始終區分持久的福祉與一時的滿足。許多當代心理學家此後為類似的區分提供了實證支持。",
-        "lookup": {
-          "english": "lasting for only a short time.",
-          "chinese": "短暫的；瞬間即逝的"
-        }
-      },
-      {
-        "word": "equivocal",
-        "pos": "adj.",
-        "definition": "uncertain or questionable; deliberately vague.",
-        "chinese": "模稜兩可的；含糊的",
-        "synonyms": "ambiguous, vague, evasive",
-        "image": "burst",
-        "sentence": "The minister's __________ response to direct questions about the proposed legislation left parliamentary observers uncertain whether the government was genuinely committed to the reform timeline or strategically preserving flexibility to modify the initiative under future political pressures. Opposition members immediately demanded explicit clarification of the administration's stated policy intentions.",
-        "translation": "部長對關於擬議立法的直接問題給出了模稜兩可的回答，使議會觀察員對政府是否真正致力於改革時間表，或是否在戰略上保留靈活性以在未來政治壓力下修改計劃感到不確定。反對黨成員立即要求對政府所聲明的政策意圖作出明確澄清。",
-        "lookup": {
-          "english": "uncertain or questionable; deliberately vague.",
-          "chinese": "模稜兩可的；含糊的"
-        }
-      },
-      {
-        "word": "erudite",
-        "pos": "adj.",
-        "definition": "having great knowledge learned from reading.",
-        "chinese": "博學的；學識淵博的",
-        "synonyms": "scholarly, learned, knowledgeable",
-        "image": "cup",
-        "sentence": "The __________ historian's latest monograph demonstrated an extraordinary synthesis of classical sources, contemporary theoretical frameworks, and previously neglected archival materials, producing an interpretation that fundamentally reframed scholarly understanding of the period. The work earned immediate recognition from academic peers worldwide for its exceptional intellectual breadth.",
-        "translation": "這位博學的歷史學家的最新專著展示了古典資料、當代理論框架和以前被忽視的檔案材料的非凡綜合，產生了從根本上重新框架學術界對這一時期理解的詮釋。這項工作因其非凡的智識廣度而立即獲得了全球學術同行的認可。",
-        "lookup": {
-          "english": "having great knowledge learned from reading.",
-          "chinese": "博學的；學識淵博的"
-        }
-      },
-      {
-        "word": "evasive",
-        "pos": "adj.",
-        "definition": "tending to avoid commitment or direct answers.",
-        "chinese": "回避的；含糊其辭的",
-        "synonyms": "elusive, equivocal, shifty",
-        "image": "small",
-        "sentence": "The corporate spokesperson's __________ responses during the televised press conference intensified rather than reduced public suspicion about the organization's role in the environmental incident. Journalists noted that this approach consistently backfired by generating more controversy than transparent disclosure would have produced.",
-        "translation": "公司發言人在電視新聞發布會上的回避回應加劇而非減少了公眾對該組織在環境事件中所扮演角色的懷疑。記者指出，這種方法通過比透明披露產生更多爭議而持續適得其反。",
-        "lookup": {
-          "english": "tending to avoid commitment or direct answers.",
-          "chinese": "回避的；含糊其辭的"
-        }
-      },
-      {
-        "word": "exacerbate",
-        "pos": "v.",
-        "definition": "to make a problem worse.",
-        "chinese": "使惡化；加劇",
-        "synonyms": "aggravate, worsen, intensify",
-        "image": "rubble",
-        "sentence": "Economic analysts warned that imposing punitive trade tariffs would likely __________ existing inflationary pressures rather than achieving the intended protective effect for domestic manufacturers. Historical precedents consistently demonstrated that escalating trade restrictions generated broad consumer cost increases that disproportionately affected lower-income households most dependent on affordable imported goods.",
-        "translation": "經濟分析師警告，徵收懲罰性貿易關稅可能會加劇現有的通脹壓力，而非實現預期的保護國內製造商的效果。歷史先例一貫表明，升級的貿易限制產生了廣泛的消費者成本增加，這不成比例地影響了最依賴負擔得起的進口商品的低收入家庭。",
-        "lookup": {
-          "english": "to make a problem worse.",
-          "chinese": "使惡化；加劇"
-        }
-      },
-      {
-        "word": "exemplary",
-        "pos": "adj.",
-        "definition": "representing the best of its kind; serving as a model.",
-        "chinese": "典範的；模範的",
-        "synonyms": "model, commendable, outstanding",
-        "image": "table",
-        "sentence": "The organization presented its annual award to an employee whose __________ commitment to inclusive workplace practices had measurably transformed the institutional culture over five years, significantly improving retention rates among underrepresented professional groups and generating widespread adoption of more equitable promotion criteria throughout multiple departments.",
-        "translation": "該組織將年度獎項頒給了一位員工，其對包容性職場實踐的典範承諾在五年內明顯改變了機構文化，顯著提高了代表性不足的專業群體的留任率，並在多個部門推動廣泛採用了更公平的晉升標準。",
-        "lookup": {
-          "english": "representing the best of its kind; serving as a model.",
-          "chinese": "典範的；模範的"
-        }
-      },
-      {
-        "word": "exhaustive",
-        "pos": "adj.",
-        "definition": "thorough and comprehensive; covering all possibilities.",
-        "chinese": "詳盡的；全面徹底的",
-        "synonyms": "comprehensive, thorough, meticulous",
-        "image": "eraser",
-        "sentence": "The forensic team conducted an __________ examination of all available physical evidence before presenting preliminary findings to investigators, ensuring that no potentially significant detail had been overlooked or inadequately documented before the critical analytical phase of the investigation formally commenced.",
-        "translation": "法醫團隊在向調查人員提交初步調查結果之前，對所有可用的物理證據進行了詳盡的檢查，確保在調查的關鍵分析階段正式開始之前，沒有任何潛在重要的細節被忽視或記錄不足。",
-        "lookup": {
-          "english": "thorough and comprehensive; covering all possibilities.",
-          "chinese": "詳盡的；全面徹底的"
-        }
-      },
-      {
-        "word": "exonerate",
-        "pos": "v.",
-        "definition": "to officially absolve from blame.",
-        "chinese": "使免罪；宣告無罪",
-        "synonyms": "absolve, acquit, vindicate",
-        "image": "cup",
-        "sentence": "Newly discovered forensic evidence enabled attorneys to __________ their client after she had served more than twelve years for a crime investigators now believed she had not committed. The case intensified demands for systematic reforms to criminal justice procedures, particularly regarding standards applied to eyewitness testimony and initial evidence collection protocols.",
-        "translation": "新發現的法醫證據使律師在其客戶服刑超過十二年後能夠為她洗清罪名，調查人員現在相信她並未犯下這項罪行。這個案件加強了對刑事司法程序系統性改革的要求，特別是關於目擊者證詞和初始證據收集程序所應用的標準。",
-        "lookup": {
-          "english": "to officially absolve from blame.",
-          "chinese": "使免罪；宣告無罪"
-        }
-      },
-      {
-        "word": "expedient",
-        "pos": "adj.",
-        "definition": "convenient and practical, though possibly improper.",
-        "chinese": "權宜的；方便實際的（有時不擇手段）",
-        "synonyms": "pragmatic, convenient, advantageous",
-        "image": "crack",
-        "sentence": "The administration's decision to bypass formal legislative procedures was criticized as politically __________ rather than constitutionally sound, prioritizing immediate programmatic convenience over the long-term institutional integrity that genuine democratic governance fundamentally requires. Constitutional scholars questioned whether the short-term administrative benefits justified the significant procedural precedent being established.",
-        "translation": "政府繞過正式立法程序的決定被批評為政治上的權宜之計，而非憲法上的健全，將即時的計劃便利性置於真正民主治理根本要求的長期制度完整性之上。憲法學者質疑短期行政利益是否能為所建立的重大程序先例提供正當理由。",
-        "lookup": {
-          "english": "convenient and practical, though possibly improper.",
-          "chinese": "權宜的；方便實際的（有時不擇手段）"
-        }
-      },
-      {
-        "word": "explicit",
-        "pos": "adj.",
-        "definition": "stated clearly and in detail; leaving nothing implied.",
-        "chinese": "明確的；清晰說明的",
-        "synonyms": "unambiguous, clear, definitive",
-        "image": "lamp",
-        "sentence": "The contract contained __________ provisions specifying exactly which circumstances would constitute a material breach, thereby eliminating the ambiguity that had generated costly litigation in several comparable preceding agreements. Legal advisors emphasized that this drafting approach, while requiring considerable initial investment of time, consistently produced superior outcomes in subsequent commercial relationships.",
-        "translation": "合同包含明確的條款，精確規定了哪些情況構成實質性違約，從而消除了在幾個類似的先前協議中產生昂貴訴訟的模糊性。法律顧問強調，這種起草方式雖然需要大量的初始時間投入，但在隨後的商業關係中始終產生更優越的結果。",
-        "lookup": {
-          "english": "stated clearly and in detail; leaving nothing implied.",
-          "chinese": "明確的；清晰說明的"
-        }
-      },
-      {
-        "word": "extraneous",
-        "pos": "adj.",
-        "definition": "irrelevant to the subject being dealt with.",
-        "chinese": "無關的；多餘的",
-        "synonyms": "irrelevant, peripheral, superfluous",
-        "image": "fire",
-        "sentence": "The editor systematically removed __________ material from the documentary script, tightening the narrative to focus exclusively on developments directly relevant to the central argument. This disciplined editorial approach transformed an unwieldy initial draft into a focused, compelling piece that maintained audience engagement throughout its significantly reduced running time.",
-        "translation": "編輯系統性地從紀錄片腳本中刪除無關材料，收緊敘事，使其專注於與中心論點直接相關的發展。這種有紀律的編輯方法將一個難以駕馭的初稿轉變為一個集中、引人入勝的作品，在其大幅縮短的播出時間內保持了觀眾的參與度。",
-        "lookup": {
-          "english": "irrelevant to the subject being dealt with.",
-          "chinese": "無關的；多餘的"
-        }
-      },
-      {
-        "word": "fabricate",
-        "pos": "v.",
-        "definition": "to invent false information; to make up.",
-        "chinese": "捏造；偽造",
-        "synonyms": "invent, concoct, falsify",
-        "image": "burst",
-        "sentence": "The researcher was formally dismissed after an independent review panel determined that she had deliberately __________ experimental results in multiple published studies, constituting a serious breach of scientific integrity that warranted permanent removal from institutional research responsibilities. Retractions were issued for all affected publications.",
-        "translation": "在一個獨立審查小組確定她在多篇發表的研究中蓄意捏造實驗結果後，這位研究人員被正式解僱，這構成了嚴重的科學誠信違反，需要永久撤銷其機構研究職責。所有受影響的出版物都發出了撤稿通知。",
-        "lookup": {
-          "english": "to invent false information; to make up.",
-          "chinese": "捏造；偽造"
-        }
-      },
-      {
-        "word": "fallacious",
-        "pos": "adj.",
-        "definition": "based on a false belief; containing errors.",
-        "chinese": "謬誤的；錯誤的",
-        "synonyms": "erroneous, misleading, deceptive",
-        "image": "crack",
-        "sentence": "The senator's central argument relied on a __________ premise that had been comprehensively refuted by multiple independent economic analyses conducted over the preceding decade. Despite repeated expert corrections, the demonstrably incorrect assertion continued to circulate widely in partisan political discourse, illustrating the extraordinary persistence of attractive but empirically unsupported narratives.",
-        "translation": "這位參議員的核心論點依賴於一個謬誤的前提，這個前提已被過去十年進行的多項獨立經濟分析全面駁斥。儘管專家反覆糾正，這個明顯錯誤的斷言繼續在黨派政治話語中廣泛流傳，說明了吸引人但缺乏實證支持的敘事的非凡持久性。",
-        "lookup": {
-          "english": "based on a false belief; containing errors.",
-          "chinese": "謬誤的；錯誤的"
-        }
-      },
-      {
-        "word": "fastidious",
-        "pos": "adj.",
-        "definition": "very attentive to detail; difficult to please.",
-        "chinese": "挑剔的；一絲不苟的",
-        "synonyms": "meticulous, scrupulous, exacting",
-        "image": "table",
-        "sentence": "The __________ editor reviewed every submitted manuscript with extraordinary thoroughness, consistently identifying minor inconsistencies in citation formatting, subtle argumentative gaps, and occasional lapses in logical consistency that less attentive readers routinely overlooked. Authors alternately dreaded and deeply valued her rigorous evaluative standard.",
-        "translation": "這位挑剔的編輯以非凡的徹底性審查每份提交的手稿，持續發現引用格式中的細微不一致、微妙的論證缺口，以及不那麼細心的讀者通常忽視的邏輯一致性偶爾失誤。作者們對她嚴格的評估標準既感到害怕又深感珍視。",
-        "lookup": {
-          "english": "very attentive to detail; difficult to please.",
-          "chinese": "挑剔的；一絲不苟的"
-        }
-      },
-      {
-        "word": "fatuous",
-        "pos": "adj.",
-        "definition": "foolish and pointless; vacuously silly.",
-        "chinese": "愚昧的；蠢笨的",
-        "synonyms": "foolish, inane, vacuous",
-        "image": "small",
-        "sentence": "The policy analyst publicly dismissed the proposal as entirely __________, noting that its central recommendations were demonstrably incompatible with existing legal frameworks and rested on empirical assumptions that had been thoroughly discredited by decades of robust academic research. She urged committee members to replace the superficially appealing document with serious evidence-based analysis.",
-        "translation": "政策分析師公開將這項提案斥為完全愚昧的，指出其核心建議明顯與現有法律框架不相容，並且建立在幾十年嚴格學術研究已徹底否定的實證假設之上。她敦促委員會成員用嚴肅的以證據為基礎的分析取代這份表面上吸引人但從根本上不健全的文件。",
-        "lookup": {
-          "english": "foolish and pointless; vacuously silly.",
-          "chinese": "愚昧的；蠢笨的"
-        }
-      },
-      {
-        "word": "feign",
-        "pos": "v.",
-        "definition": "to pretend to feel or be affected by something.",
-        "chinese": "假裝；裝作",
-        "synonyms": "pretend, simulate, affect",
+        "word": "parable",
+        "pos": "n.",
+        "definition": "moralistic story.",
+        "memoryChant": "para- (beside) + ballein (throw) → 'A story thrown beside a lesson—parable!'",
+        "chinese": "寓言；比喻",
+        "synonyms": "fable, allegory, moral tale",
         "image": "mountain",
-        "sentence": "The experienced negotiator learned to __________ indifference during critical contractual discussions, recognizing that visibly enthusiastic interest in particular terms typically enabled the opposing party to extract disproportionately favorable concessions. This strategic emotional management proved far more effective than genuine emotional expression in achieving consistently advantageous negotiated outcomes.",
-        "translation": "這位有經驗的談判者學會了在關鍵合同討論中假裝漠不關心，認識到對特定條款表現出明顯熱情的興趣通常使對方能夠獲得不成比例的有利讓步。這種戰略性的情緒管理在實現持續有利的談判結果方面被證明遠比真實的情感表達有效。",
+        "sentence": "The grandmother loved to teach her grandchildren important values through a simple __________ rather than direct lectures. One evening, she told the story of a farmer who shared his last bag of rice with a starving stranger, only to discover that the traveler was a wealthy merchant who later repaid him generously. The children understood immediately that kindness is often rewarded, and they remembered the moral tale for decades afterward.",
+        "translation": "這位祖母喜歡透過簡單的寓言，而非直接說教，來教導孫子女重要的價值觀。某天晚上，她講了一個農夫的故事：他把最後一袋米分給一位飢餓的陌生人，後來才發現這位旅人是一名富商，之後慷慨地回報了他。孩子們立刻明白，善良往往會得到回報，並在之後的數十年裡一直記得這個富含寓意的故事。",
         "lookup": {
-          "english": "to pretend to feel or be affected by something.",
-          "chinese": "假裝；裝作"
+          "english": "moralistic story.",
+          "chinese": "寓言；比喻"
+        }
+      },
+      {
+        "word": "whimsical",
+        "pos": "adj.",
+        "definition": "humorous, fanciful.",
+        "memoryChant": "whim (sudden fancy) → 'Full of sudden fancies—whimsical!'",
+        "chinese": "古怪的；異想天開的",
+        "synonyms": "playful, fanciful, quirky",
+        "image": "rubble",
+        "sentence": "The children's author is famous for her __________ illustrations, which feature cats wearing top hats, elephants riding bicycles, and teapots that sing lullabies. Her playful imagination delights young readers, while parents appreciate the gentle humor hidden in every page. Critics have praised her fanciful style for encouraging creativity rather than strict realism. Her latest picture book, about a moon that decides to take a vacation, has already become an international bestseller.",
+        "translation": "這位童書作家以她異想天開的插畫聞名，畫中有戴著高帽的貓、騎腳踏車的大象，以及會唱搖籃曲的茶壺。她充滿玩心的想像力讓小讀者們著迷，家長們也欣賞每一頁中隱藏的溫和幽默。評論家讚揚她奇幻的風格鼓勵創造力，而非嚴格的寫實。她的最新繪本講述一個決定去度假的月亮，已經成為國際暢銷書。",
+        "lookup": {
+          "english": "humorous, fanciful.",
+          "chinese": "古怪的；異想天開的"
+        }
+      },
+      {
+        "word": "lampoon",
+        "pos": "v.",
+        "definition": "to ridicule.",
+        "memoryChant": "lampon (let us drink) → 'Drinking songs that mock—lampoon!'",
+        "chinese": "諷刺；嘲弄",
+        "synonyms": "mock, satirize, ridicule",
+        "image": "cane",
+        "sentence": "Late-night comedy programs frequently __________ powerful politicians, exaggerating their mannerisms and mocking their controversial statements. Comedians argue that such satire serves an important democratic function, since humor can expose hypocrisy more effectively than serious criticism. Some politicians respond with good humor, even appearing on the shows themselves, while others complain that the ridicule is unfair. Historians note that the tradition of mocking rulers dates back to ancient Greek theater. The genre remains enormously popular.",
+        "translation": "深夜喜劇節目經常諷刺有權勢的政治人物，誇大他們的言行舉止，並嘲弄他們具爭議性的發言。喜劇演員主張，這種諷刺具有重要的民主功能，因為幽默比嚴肅的批評更能有效揭露偽善。有些政治人物以幽默回應，甚至親自上節目，其他人則抱怨這種嘲弄並不公平。歷史學家指出，嘲諷統治者的傳統可追溯至古希臘戲劇。這類節目至今仍大受歡迎。",
+        "lookup": {
+          "english": "to ridicule.",
+          "chinese": "諷刺；嘲弄"
+        }
+      },
+      {
+        "word": "countenance",
+        "pos": "v.",
+        "definition": "to tolerate, approve.",
+        "memoryChant": "con- (with) + tenere (hold) → 'Hold with it and allow it—countenance!'",
+        "chinese": "容許；贊同（名詞：面容）",
+        "synonyms": "tolerate, approve, permit",
+        "image": "small",
+        "sentence": "The strict headmaster refused to __________ any form of bullying at his school, no matter how minor it might seem to others. When he discovered that several older students had been teasing a new classmate, he immediately contacted their parents and required the offenders to attend counseling sessions. Teachers supported his firm position, explaining that tolerating small acts of cruelty often allows more serious harassment to develop over time. Incidents declined dramatically afterward.",
+        "translation": "這位嚴格的校長拒絕容許學校裡出現任何形式的霸凌，無論在他人看來多麼輕微。當他發現幾名高年級學生一直在戲弄一位新同學時，他立刻聯絡他們的家長，並要求這些學生參加輔導課程。老師們支持他堅定的立場，並解釋說，容忍小小的惡意行為，往往會讓更嚴重的騷擾隨著時間滋長。此後霸凌事件大幅減少。",
+        "lookup": {
+          "english": "to tolerate, approve.",
+          "chinese": "容許；贊同（名詞：面容）"
+        }
+      },
+      {
+        "word": "sanctimonious",
+        "pos": "adj.",
+        "definition": "hypocritical, claiming moral superiority.",
+        "memoryChant": "sanctus (holy) → 'Holier-than-thou—sanctimonious!'",
+        "chinese": "假裝神聖的；偽善的",
+        "synonyms": "self-righteous, preachy, hypocritical",
+        "image": "regret",
+        "sentence": "The celebrity's __________ speech about protecting the environment angered many listeners, who knew that he regularly flew around the world in a private jet. He lectured ordinary citizens about reducing their carbon footprints while living in three enormous mansions. Critics called his preachy attitude deeply hypocritical, arguing that moral lectures lose all credibility when the speaker refuses to follow his own advice. His popularity declined sharply after the controversy. Few fans ever forgave him.",
+        "translation": "這位名人關於保護環境的偽善演說激怒了許多聽眾，因為大家都知道他經常搭乘私人飛機環遊世界。他一邊教訓普通民眾要減少碳足跡，一邊卻住在三棟豪宅裡。批評者稱他說教的態度極為虛偽，認為當演講者自己拒絕遵循自己的建議時，道德說教就完全失去了可信度。爭議發生後，他的人氣急遽下滑。很少有粉絲原諒過他。",
+        "lookup": {
+          "english": "hypocritical, claiming moral superiority.",
+          "chinese": "假裝神聖的；偽善的"
+        }
+      },
+      {
+        "word": "equanimity",
+        "pos": "n.",
+        "definition": "calmness, self-control.",
+        "memoryChant": "aequus (even) + animus (mind) → 'An even mind—equanimity!'",
+        "chinese": "平靜；鎮定",
+        "synonyms": "composure, calmness, serenity",
+        "image": "table",
+        "sentence": "The experienced airline captain handled the engine failure with remarkable __________, calmly informing passengers of the situation and guiding the damaged plane to a safe emergency landing. Throughout the crisis, her voice remained steady and reassuring, and she never showed any sign of panic. Aviation experts later praised her composure, noting that emotional self-control under extreme pressure is one of the most important qualities any pilot can possess. Every passenger survived without injury.",
+        "translation": "這位經驗豐富的機長以驚人的鎮定處理引擎故障，冷靜地向乘客說明狀況，並引導受損的飛機安全緊急降落。在整個危機過程中，她的聲音始終平穩而令人安心，從未顯露任何驚慌的跡象。航空專家事後讚揚她的沉著，指出在極端壓力下的情緒自制力，是任何飛行員所能具備的最重要特質之一。所有乘客都毫髮無傷地生還。",
+        "lookup": {
+          "english": "calmness, self-control.",
+          "chinese": "平靜；鎮定"
+        }
+      },
+      {
+        "word": "effrontery",
+        "pos": "n.",
+        "definition": "shameless boldness.",
+        "memoryChant": "ex- (out) + frons (forehead) → 'Pushing your forehead out shamelessly—effrontery!'",
+        "chinese": "厚顏無恥",
+        "synonyms": "audacity, nerve, impudence",
+        "image": "clock",
+        "sentence": "After arriving two hours late to the important meeting, the consultant had the __________ to complain that the coffee was cold and the room was too small. His colleagues stared at him in disbelief, astonished by his shameless behavior. He never apologized for delaying the entire team or for missing the client's presentation. Not surprisingly, the company decided not to renew his contract, citing his arrogance and lack of professional respect.",
+        "translation": "這位顧問在重要會議遲到兩小時後，竟然還厚著臉皮抱怨咖啡冷了、會議室太小。同事們難以置信地盯著他，對他無恥的行為感到震驚。他從未為耽誤整個團隊或錯過客戶的簡報道歉。不出所料，公司決定不再與他續約，理由是他傲慢自大、缺乏專業上的尊重。",
+        "lookup": {
+          "english": "shameless boldness.",
+          "chinese": "厚顏無恥"
+        }
+      },
+      {
+        "word": "nonentity",
+        "pos": "n.",
+        "definition": "one of no importance.",
+        "memoryChant": "non- (not) + ens (being) → 'Not a being at all—nonentity!'",
+        "chinese": "無足輕重的人",
+        "synonyms": "nobody, lightweight, cipher",
+        "image": "rubble",
+        "sentence": "Before winning the national singing competition, the young performer was a complete __________ in the music industry, unknown to producers and ignored by record companies. She had spent years performing in small cafés for tiny audiences who barely noticed her. Overnight, however, her powerful performance on television transformed her into a celebrity. Today, the woman once dismissed as a nobody sells out concert halls across Asia. Her story now inspires countless young singers.",
+        "translation": "在贏得全國歌唱比賽之前，這位年輕歌手在音樂界是個完全無足輕重的人，製作人不認識她，唱片公司也忽視她。她多年來一直在小咖啡館裡為寥寥無幾、幾乎沒注意到她的觀眾表演。然而一夕之間，她在電視上震撼的演出讓她成為名人。如今，這位曾被視為無名小卒的女子，在亞洲各地的音樂廳演出場場爆滿。她的故事如今激勵著無數年輕歌手。",
+        "lookup": {
+          "english": "one of no importance.",
+          "chinese": "無足輕重的人"
+        }
+      },
+      {
+        "word": "flabbergasted",
+        "pos": "adj.",
+        "definition": "astounded.",
+        "memoryChant": "flabby + aghast → 'So shocked your jaw goes flabby—flabbergasted!'",
+        "chinese": "大吃一驚的",
+        "synonyms": "astonished, stunned, dumbfounded",
+        "image": "chest",
+        "sentence": "The retired teacher was absolutely __________ when she learned that a former student had left her two million dollars in his will. She had not heard from him in over thirty years and could barely remember his face. According to his lawyer, the man had credited her encouragement with inspiring his successful career. Still stunned by the news, she announced that she would donate most of the money to scholarships.",
+        "translation": "當這位退休教師得知一名以前的學生在遺囑中留給她兩百萬美元時，她完全驚呆了。她已經三十多年沒有他的消息，幾乎記不得他的長相。根據他的律師所說，這名男子認為是她的鼓勵啟發了他成功的事業。仍對這則消息感到震驚的她宣布，將把大部分的錢捐作獎學金。",
+        "lookup": {
+          "english": "astounded.",
+          "chinese": "大吃一驚的"
+        }
+      },
+      {
+        "word": "debacle",
+        "pos": "n.",
+        "definition": "fiasco, catastrophe.",
+        "memoryChant": "de- (un-) + bacler (bar) → 'Unbarred and collapsing—debacle!'",
+        "chinese": "慘敗；崩潰",
+        "synonyms": "fiasco, disaster, collapse",
+        "image": "eraser",
+        "sentence": "The product launch turned into a complete __________ when the company's new smartphone began overheating during the live demonstration. Smoke rose from the device as horrified executives watched, and the embarrassing video spread across social media within minutes. Investors panicked, and the company's stock price fell by thirty percent the following day. Analysts described the disastrous event as one of the worst public relations failures in the history of consumer technology.",
+        "translation": "當該公司的新款智慧型手機在現場展示中開始過熱時，這場產品發表會變成了一場徹底的慘敗。在驚恐的高層注視下，裝置冒出煙霧，這段令人難堪的影片在幾分鐘內便傳遍社群媒體。投資人陷入恐慌，隔天公司股價下跌了百分之三十。分析師形容這起災難性的事件是消費科技史上最糟糕的公關失敗之一。",
+        "lookup": {
+          "english": "fiasco, catastrophe.",
+          "chinese": "慘敗；崩潰"
+        }
+      },
+      {
+        "word": "vivacious",
+        "pos": "adj.",
+        "definition": "lively.",
+        "memoryChant": "vivere (live) → 'Full of life—vivacious!'",
+        "chinese": "活潑的；快活的",
+        "synonyms": "lively, spirited, animated",
+        "image": "table",
+        "sentence": "The new tour guide's __________ personality made the long bus journey through the mountains unexpectedly enjoyable. She told amusing stories, led the passengers in cheerful songs, and answered every question with enthusiasm and energy. Even the tired elderly travelers who had planned to sleep found themselves laughing and participating. At the end of the trip, several passengers wrote letters to the company praising her lively spirit and warm sense of humor.",
+        "translation": "新導遊活潑的個性，讓這趟穿越山區的漫長巴士旅程出乎意料地愉快。她講述有趣的故事、帶領乘客唱歡樂的歌，並以熱情與活力回答每一個問題。就連原本打算睡覺的疲倦年長旅客，也跟著一起歡笑參與。旅程結束時，好幾位乘客寫信給旅行社，稱讚她充滿活力的精神與溫暖的幽默感。",
+        "lookup": {
+          "english": "lively.",
+          "chinese": "活潑的；快活的"
+        }
+      },
+      {
+        "word": "gaunt",
+        "pos": "adj.",
+        "definition": "thin, haggard.",
+        "memoryChant": "gant (slender) → 'Thin and haunted—gaunt!'",
+        "chinese": "憔悴的；瘦削的",
+        "synonyms": "haggard, emaciated, bony",
+        "image": "cane",
+        "sentence": "After three months lost in the Amazon rainforest, the explorer returned home looking __________ and exhausted. He had lost nearly twenty kilograms, his cheeks were hollow, and his eyes appeared sunken and tired. Surviving mainly on wild fruit and occasional fish, he had struggled daily to find enough food. Doctors admitted him to hospital immediately, and it took several months of careful nutrition before he regained his normal strength. He later wrote a bestselling survival guide.",
+        "translation": "在亞馬遜雨林迷失三個月後，這位探險家回到家時顯得憔悴又疲憊。他瘦了將近二十公斤，雙頰凹陷，眼窩深陷且滿是倦容。他主要靠野生水果和偶爾捕到的魚維生，每天都在為找到足夠的食物而掙扎。醫生立刻讓他住院，經過數個月細心的營養調理，他才恢復正常的體力。他後來寫了一本暢銷的求生指南。",
+        "lookup": {
+          "english": "thin, haggard.",
+          "chinese": "憔悴的；瘦削的"
+        }
+      },
+      {
+        "word": "mien",
+        "pos": "n.",
+        "definition": "appearance, bearing.",
+        "memoryChant": "demean (conduct oneself) → 'How you carry yourself—mien!'",
+        "chinese": "儀態；風度",
+        "synonyms": "bearing, demeanor, manner",
+        "image": "fire",
+        "sentence": "The ambassador's dignified __________ impressed everyone at the international conference. She walked with calm confidence, spoke in measured tones, and listened attentively to every delegate, regardless of their country's size or influence. Even during tense negotiations, her composed bearing never changed. Colleagues remarked that her graceful manner commanded respect before she had spoken a single word, making her one of the most effective diplomats of her generation. Many young diplomats now study her example.",
+        "translation": "這位大使端莊的儀態讓國際會議上的每個人都印象深刻。她步伐沉穩自信，說話語調從容，並專注聆聽每一位代表的發言，無論其國家大小或影響力如何。即使在緊張的談判中，她沉著的舉止也從未改變。同事們表示，她優雅的風度在她開口之前就已贏得尊重，使她成為同世代中最具影響力的外交官之一。許多年輕外交官如今以她為學習榜樣。",
+        "lookup": {
+          "english": "appearance, bearing.",
+          "chinese": "儀態；風度"
+        }
+      },
+      {
+        "word": "hirsute",
+        "pos": "adj.",
+        "definition": "hairy.",
+        "memoryChant": "hirtus (hairy) → 'Hair everywhere—hirsute!'",
+        "chinese": "多毛的",
+        "synonyms": "hairy, shaggy, bearded",
+        "image": "rubble",
+        "sentence": "The __________ mountain man had not shaved or cut his hair in nearly ten years, and his thick beard reached almost to his waist. Visitors to his remote cabin often mistook him for a bear when they first glimpsed him through the trees. Despite his wild, shaggy appearance, he was a gentle and well-educated person who had once worked as a university professor before choosing a simpler life. His story fascinated local journalists.",
+        "translation": "這位毛髮濃密的山中隱士將近十年沒有刮鬍子或剪頭髮，他濃密的鬍鬚幾乎長到腰際。前往他偏遠小屋的訪客，第一次從樹林間瞥見他時，常誤以為他是一頭熊。儘管外表狂野蓬亂，他其實是一位溫和且受過良好教育的人，在選擇更簡樸的生活之前，曾擔任大學教授。他的故事讓當地記者深感著迷。",
+        "lookup": {
+          "english": "hairy.",
+          "chinese": "多毛的"
+        }
+      },
+      {
+        "word": "refute",
+        "pos": "v.",
+        "definition": "to prove wrong or false.",
+        "memoryChant": "re- (back) + futare (beat) → 'Beat the argument back—refute!'",
+        "chinese": "駁斥；反駁",
+        "synonyms": "disprove, rebut, contradict",
+        "image": "regret",
+        "sentence": "The young scientist carefully designed a series of experiments to __________ the widely accepted theory that the ancient forest had been destroyed by fire. Her soil samples contained no evidence of burning, but they revealed chemical traces of a prolonged drought. When she published her findings, many established researchers initially resisted her conclusions. However, additional studies soon confirmed her data, and the old explanation was finally proven wrong. Textbooks were revised the following year.",
+        "translation": "這位年輕科學家精心設計了一系列實驗，以駁斥廣為接受的理論，即這片古老森林是被大火摧毀的。她的土壤樣本中沒有任何燃燒的證據，卻顯示出長期乾旱的化學痕跡。當她發表研究結果時，許多資深研究人員起初抗拒她的結論。然而，更多研究很快證實了她的數據，舊的解釋終於被證明是錯誤的。教科書在隔年隨之修訂。",
+        "lookup": {
+          "english": "to prove wrong or false.",
+          "chinese": "駁斥；反駁"
+        }
+      },
+      {
+        "word": "pensive",
+        "pos": "adj.",
+        "definition": "thoughtful, reflective.",
+        "memoryChant": "pendere (weigh) → 'Weighing thoughts quietly—pensive!'",
+        "chinese": "沉思的；憂思的",
+        "synonyms": "thoughtful, reflective, contemplative",
+        "image": "rubble",
+        "sentence": "Sitting alone by the window on the last evening of summer vacation, the teenager grew __________, reflecting on the friendships she had formed and the challenges awaiting her in high school. She watched the sunset quietly, thinking about how quickly the months had passed. Her mother noticed her thoughtful mood and joined her without speaking. Together they shared a peaceful silence, understanding that some moments are best experienced without words.",
+        "translation": "在暑假的最後一個傍晚，這名青少女獨自坐在窗邊，變得若有所思，回想著這段時間結交的友誼，以及在高中等待著她的挑戰。她靜靜地看著夕陽，想著這幾個月過得多麼快。她的母親注意到她沉思的心情，便默默地陪在她身旁。兩人一起分享著寧靜的沉默，明白有些時刻最好不用言語來體會。",
+        "lookup": {
+          "english": "thoughtful, reflective.",
+          "chinese": "沉思的；憂思的"
+        }
+      },
+      {
+        "word": "whet",
+        "pos": "v.",
+        "definition": "to stimulate, stir up.",
+        "memoryChant": "hwaet (sharp) → 'Sharpen the appetite—whet!'",
+        "chinese": "刺激；激起（食慾、興趣）",
+        "synonyms": "stimulate, arouse, sharpen",
+        "image": "eraser",
+        "sentence": "The museum's short introductory film was designed to __________ visitors' curiosity about ancient Egypt before they entered the main exhibition halls. It showed brief glimpses of golden masks, mysterious hieroglyphics, and hidden tombs without revealing too many details. By stimulating their interest early, curators hoped visitors would explore the galleries more attentively. The strategy worked remarkably well, as surveys showed that guests spent twice as long examining the artifacts afterward.",
+        "translation": "博物館的簡短介紹影片，旨在參觀者進入主要展廳之前，激起他們對古埃及的好奇心。影片簡短呈現了黃金面具、神秘的象形文字與隱密的陵墓，卻不透露過多細節。策展人希望透過及早激發參觀者的興趣，讓他們更專注地探索展廳。這個策略的效果出奇地好，調查顯示，參觀者之後觀賞文物的時間增加了一倍。",
+        "lookup": {
+          "english": "to stimulate, stir up.",
+          "chinese": "刺激；激起（食慾、興趣）"
+        }
+      },
+      {
+        "word": "stupor",
+        "pos": "n.",
+        "definition": "daze, insensible condition.",
+        "memoryChant": "stupere (be stunned) → 'Stunned senseless—stupor!'",
+        "chinese": "昏迷；恍惚",
+        "synonyms": "daze, trance, torpor",
+        "image": "warning",
+        "sentence": "After working thirty-six hours without sleep during the emergency, the young doctor stumbled home in a __________, barely able to remember how she had driven there. She dropped onto the sofa without removing her coat and immediately fell into a deep, dreamless sleep. When she finally awoke fourteen hours later, she felt confused and disoriented. Hospital administrators later introduced strict limits on shift lengths to prevent such dangerous exhaustion. Her colleagues strongly welcomed the change.",
+        "translation": "在緊急事件中連續工作三十六小時沒有睡覺後，這位年輕醫生恍恍惚惚地跌跌撞撞回到家，幾乎記不得自己是怎麼開車回來的。她連外套都沒脫就倒在沙發上，立刻陷入沒有夢境的沉睡。當她終於在十四小時後醒來時，感到困惑且迷迷糊糊。醫院管理階層事後對輪班時數實施嚴格限制，以防止這種危險的過度疲勞。她的同事們非常歡迎這項改變。",
+        "lookup": {
+          "english": "daze, insensible condition.",
+          "chinese": "昏迷；恍惚"
+        }
+      },
+      {
+        "word": "wince",
+        "pos": "v.",
+        "definition": "to draw back, flinch.",
+        "memoryChant": "guenchier (flinch) → 'Flinch in pain—wince!'",
+        "chinese": "畏縮；（因痛苦）皺眉",
+        "synonyms": "flinch, cringe, recoil",
+        "image": "shield",
+        "sentence": "The football player tried to hide his injury, but he could not help but __________ each time he put weight on his swollen ankle. The coach noticed the painful expression and immediately removed him from the game. Medical staff examined the injury on the sidelines and discovered a small fracture. Although disappointed, the athlete later admitted that continuing to play despite obvious pain would have been extremely foolish and risky.",
+        "translation": "這名足球員試圖隱瞞傷勢，但每當他腫脹的腳踝承受重量時，他都忍不住痛得皺眉畏縮。教練注意到他痛苦的表情，立刻將他換下場。醫護人員在場邊檢查傷勢，發現了一處輕微骨折。雖然感到失望，這名運動員事後承認，在明顯疼痛的情況下繼續比賽會是極為愚蠢且危險的。",
+        "lookup": {
+          "english": "to draw back, flinch.",
+          "chinese": "畏縮；（因痛苦）皺眉"
+        }
+      },
+      {
+        "word": "cliché",
+        "pos": "n.",
+        "definition": "commonplace, overused phrase.",
+        "memoryChant": "clicher (stereotype) → 'Clicked out a thousand times—cliché!'",
+        "chinese": "陳詞濫調",
+        "synonyms": "platitude, stereotype, commonplace",
+        "image": "rubble",
+        "sentence": "Writing instructors encourage students to avoid every tired __________, such as 'as brave as a lion' or 'at the end of the day,' because overused expressions make essays sound predictable and unoriginal. Instead, they recommend creating fresh comparisons that reflect the writer's unique perspective. Although inventing original phrases requires more effort, examiners consistently reward creative language. Students who replace familiar phrases with vivid, personal images often achieve significantly higher scores.",
+        "translation": "寫作老師鼓勵學生避免使用任何陳腐的陳詞濫調，例如「勇猛如獅」或「說到底」，因為過度使用的表達會讓文章顯得老套且缺乏原創性。相反地，他們建議學生創造能反映自身獨特觀點的新鮮比喻。雖然發明原創的詞句需要更多努力，閱卷者總是會給予富創意的語言較高的評價。以生動、個人化的意象取代熟悉說法的學生，往往能得到明顯較高的分數。",
+        "lookup": {
+          "english": "commonplace, overused phrase.",
+          "chinese": "陳詞濫調"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "Economic analysts warned that imposing punitive trade tariffs would likely __________ existing inflationary pressures rather than achieving the intended protective effect for domestic manufacturers, historical precedents consistently demonstrating that escalating trade restrictions generated broad consumer cost increases disproportionately affecting lower-income households.",
+        "question": "Religious teachers throughout history have used the __________ as a powerful teaching tool, since a short story with a clear moral lesson is easier to remember than abstract principles. The famous tale of the Good Samaritan, for example, teaches compassion toward strangers through a simple narrative about a traveler helping an injured man. Educators today still recognize that stories illustrating ethical values often influence behavior more effectively than rules. Good stories endure for centuries.",
         "options": [
           {
             "letter": "A",
-            "text": "emulate"
+            "text": "debacle"
           },
           {
             "letter": "B",
-            "text": "exacerbate"
+            "text": "parable"
           },
           {
             "letter": "C",
-            "text": "enervate"
+            "text": "stupor"
           },
           {
             "letter": "D",
-            "text": "exonerate"
+            "text": "mien"
           }
         ],
         "answer": "B",
-        "answerWord": "exacerbate"
+        "answerWord": "parable"
       },
       {
         "number": 2,
-        "question": "Young entrepreneurs eager to __________ the legendary founder's approach to innovation often missed the crucial distinction between copying observable surface behaviors and genuinely understanding the fundamental philosophical principles that had guided his unconventional decision-making — true creative mastery requires deep comprehension rather than superficial imitation.",
+        "question": "The café's __________ decorations delighted every visitor: teacups hung upside down from the ceiling, chairs were painted to resemble giant strawberries, and a mechanical rabbit served dessert on a tiny train. The owner explained that she wanted customers to feel as though they had stepped into a fairy tale. Her playful, fanciful approach attracted enormous attention online, and the café soon became one of the city's most photographed destinations. Reservations are now required on weekends.",
         "options": [
           {
             "letter": "A",
-            "text": "enervate"
+            "text": "gaunt"
           },
           {
             "letter": "B",
-            "text": "exonerate"
+            "text": "pensive"
           },
           {
             "letter": "C",
-            "text": "emulate"
+            "text": "whimsical"
           },
           {
             "letter": "D",
-            "text": "fabricate"
+            "text": "hirsute"
           }
         ],
         "answer": "C",
-        "answerWord": "emulate"
+        "answerWord": "whimsical"
       },
       {
         "number": 3,
-        "question": "Despite years of dedicated investigation, a definitive cure for the condition remained frustratingly __________, with each promising research avenue eventually revealing unforeseen biological complications that prevented successful clinical translation — though scientists remained cautiously optimistic that recent advances in molecular targeting would eventually yield a viable therapeutic approach.",
+        "question": "The student newspaper decided to __________ the university's new dress code by publishing a satirical cartoon showing professors wearing ridiculous uniforms and clown shoes. The drawing mocked administrators for focusing on trivial appearance rules while ignoring rising tuition and crowded classrooms. Although some officials were offended, many readers found the humorous criticism effective. The controversy eventually prompted a public discussion about which issues truly deserved the administration's attention. The dress code was quietly withdrawn.",
         "options": [
           {
             "letter": "A",
-            "text": "elusive"
+            "text": "lampoon"
           },
           {
             "letter": "B",
-            "text": "explicit"
+            "text": "refute"
           },
           {
             "letter": "C",
-            "text": "extraneous"
+            "text": "wince"
           },
           {
             "letter": "D",
-            "text": "exhaustive"
+            "text": "countenance"
           }
         ],
         "answer": "A",
-        "answerWord": "elusive"
+        "answerWord": "lampoon"
       },
       {
         "number": 4,
-        "question": "The laboratory was formally censured after an independent review panel determined that the lead researcher had deliberately __________ experimental results in multiple published studies, constituting a serious breach of scientific integrity that warranted permanent removal from institutional research responsibilities and retractions of all affected publications.",
+        "question": "The company's founder made it clear that she would never __________ dishonesty toward customers, even if it increased short-term profits. When she discovered that a sales manager had been exaggerating product benefits, she dismissed him immediately and personally contacted every affected client to apologize. Employees understood that she simply would not tolerate deception. Her uncompromising commitment to honesty eventually became the foundation of the company's excellent reputation. Customers rewarded her with lasting loyalty.",
         "options": [
           {
             "letter": "A",
-            "text": "emulate"
+            "text": "whet"
           },
           {
             "letter": "B",
-            "text": "enervate"
+            "text": "lampoon"
           },
           {
             "letter": "C",
-            "text": "exonerate"
+            "text": "refute"
           },
           {
             "letter": "D",
-            "text": "fabricate"
+            "text": "countenance"
           }
         ],
         "answer": "D",
-        "answerWord": "fabricate"
+        "answerWord": "countenance"
       },
       {
         "number": 5,
-        "question": "The experienced negotiator coached his client to __________ disinterest in the specific contract term that was actually her highest priority, recognizing that visibly signaling its importance would enable the opposing party to deploy it as strategic leverage — a deliberate misrepresentation of priorities that proved far more effective than transparent engagement.",
+        "question": "Readers grew tired of the columnist's __________ tone, as he constantly lectured them about their moral failings while presenting himself as a model of virtue. His articles criticized others for minor mistakes but never acknowledged his own shortcomings. When journalists revealed that he had secretly plagiarized several essays, public reaction was unforgiving. Many commented that his self-righteous attitude made the discovery of his hypocrisy particularly satisfying. His newspaper cancelled his column shortly afterward.",
         "options": [
           {
             "letter": "A",
-            "text": "fabricate"
+            "text": "vivacious"
           },
           {
             "letter": "B",
-            "text": "feign"
+            "text": "sanctimonious"
           },
           {
             "letter": "C",
-            "text": "exacerbate"
+            "text": "flabbergasted"
           },
           {
             "letter": "D",
-            "text": "exonerate"
+            "text": "gaunt"
           }
         ],
         "answer": "B",
-        "answerWord": "feign"
+        "answerWord": "sanctimonious"
       },
       {
         "number": 6,
-        "question": "The award recognized an educator whose __________ commitment to creating genuinely inclusive learning environments had measurably transformed the institutional culture over five years, significantly improving retention rates among underrepresented professional groups and generating widespread adoption of more equitable promotion criteria throughout the organization.",
+        "question": "The chess champion faced the unexpected defeat with admirable __________, shaking her opponent's hand warmly and analyzing her mistakes without any visible frustration. Reporters who expected tears or anger were surprised by her calm, balanced response. She explained that losing gracefully was an essential part of competition and that emotional stability helped her learn more effectively. Her composure earned her even greater respect than her many victories had. Younger players now study her example.",
         "options": [
           {
             "letter": "A",
-            "text": "extraneous"
+            "text": "effrontery"
           },
           {
             "letter": "B",
-            "text": "evasive"
+            "text": "cliché"
           },
           {
             "letter": "C",
-            "text": "exemplary"
+            "text": "equanimity"
           },
           {
             "letter": "D",
-            "text": "ephemeral"
+            "text": "nonentity"
           }
         ],
         "answer": "C",
-        "answerWord": "exemplary"
+        "answerWord": "equanimity"
       },
       {
         "number": 7,
-        "question": "The composer's deliberately __________ programmatic notes provided no reliable interpretive guidance, instead generating a proliferation of compelling but irreconcilable analytical readings that sustained academic interest in her work across multiple generations of musicological scholarship.",
+        "question": "The thief who had stolen the painting displayed astonishing __________ by contacting the museum and demanding a reward for returning it. He claimed that he deserved compensation for keeping the artwork safe, apparently unconcerned that he had committed a serious crime. Police officers who arranged the meeting arrested him immediately. Newspapers described his shameless boldness as one of the most unbelievable episodes in the history of art theft. The painting was returned undamaged.",
         "options": [
           {
             "letter": "A",
-            "text": "enigmatic"
+            "text": "effrontery"
           },
           {
             "letter": "B",
-            "text": "ephemeral"
+            "text": "parable"
           },
           {
             "letter": "C",
-            "text": "equivocal"
+            "text": "stupor"
           },
           {
             "letter": "D",
-            "text": "erudite"
+            "text": "debacle"
           }
         ],
         "answer": "A",
-        "answerWord": "enigmatic"
+        "answerWord": "effrontery"
       },
       {
         "number": 8,
-        "question": "The contract contained __________ provisions specifying exactly which circumstances would constitute a material breach, thereby eliminating the ambiguity that had generated costly litigation in several comparable preceding agreements — both legal teams agreeing that investing significant drafting effort upfront consistently produced superior commercial outcomes.",
+        "question": "When the relatively unknown candidate announced his campaign for president, political experts dismissed him as a __________ with no chance of winning. He had never held public office, lacked financial support, and was ignored by major newspapers. Yet his honest speeches gradually attracted millions of supporters online. Within a year, the man once considered insignificant had defeated several famous politicians and become the front-runner in the national race. Political experts were forced to admit their error.",
         "options": [
           {
             "letter": "A",
-            "text": "extraneous"
+            "text": "equanimity"
           },
           {
             "letter": "B",
-            "text": "evasive"
+            "text": "mien"
           },
           {
             "letter": "C",
-            "text": "exhaustive"
+            "text": "cliché"
           },
           {
             "letter": "D",
-            "text": "explicit"
+            "text": "nonentity"
           }
         ],
         "answer": "D",
-        "answerWord": "explicit"
+        "answerWord": "nonentity"
       },
       {
         "number": 9,
-        "question": "The policy review panel dismissed the submission as entirely __________, noting that its core recommendations contradicted well-established empirical evidence, relied on logically incoherent causal assumptions, and demonstrated no awareness of the substantial academic literature directly relevant to the proposed intervention.",
+        "question": "Scientists were __________ when the deep-sea camera captured images of a completely unknown creature living nearly eight kilometers below the ocean's surface. The transparent animal glowed with bright blue light and possessed features unlike any known species. Researchers admitted that they were utterly astonished, since they had believed that such extreme pressure made complex life impossible. The discovery has forced biologists to reconsider long-held assumptions about survival in hostile environments.",
         "options": [
           {
             "letter": "A",
-            "text": "fallacious"
+            "text": "whimsical"
           },
           {
             "letter": "B",
-            "text": "fastidious"
+            "text": "sanctimonious"
           },
           {
             "letter": "C",
-            "text": "ephemeral"
+            "text": "pensive"
           },
           {
             "letter": "D",
-            "text": "fatuous"
+            "text": "flabbergasted"
           }
         ],
         "answer": "D",
-        "answerWord": "fatuous"
+        "answerWord": "flabbergasted"
       },
       {
         "number": 10,
-        "question": "The spokesperson's conspicuously __________ responses during the broadcast interview reinforced rather than alleviated public suspicion about the institution's actual practices, media analysts noting that transparent engagement, despite its short-term discomfort, consistently produced superior reputational outcomes compared with strategic avoidance.",
+        "question": "The music festival became a complete __________ after heavy rain turned the fields into mud, the stages lost electricity, and several headlining performers canceled at the last minute. Thousands of frustrated fans demanded refunds, while others were stranded without transportation home. Organizers had ignored weather warnings and failed to prepare emergency plans. Industry experts described the disastrous event as a textbook example of poor planning and careless management. The festival never recovered its reputation.",
         "options": [
           {
             "letter": "A",
-            "text": "erudite"
+            "text": "mien"
           },
           {
             "letter": "B",
-            "text": "evasive"
+            "text": "debacle"
           },
           {
             "letter": "C",
-            "text": "ephemeral"
+            "text": "parable"
           },
           {
             "letter": "D",
-            "text": "elusive"
+            "text": "equanimity"
           }
         ],
         "answer": "B",
-        "answerWord": "evasive"
+        "answerWord": "debacle"
       },
       {
         "number": 11,
-        "question": "The senior editor systematically eliminated every __________ clause and qualifier from the manuscript, requiring the author to demonstrate explicit relevance for every paragraph before it would be retained — a demanding editorial discipline that initially frustrated the author but ultimately produced a tighter, more coherent argument.",
+        "question": "Everyone at the party gravitated toward the __________ young hostess, whose infectious laughter and boundless energy seemed to fill every room. She moved gracefully between groups, introducing strangers, telling funny stories, and making sure that no guest felt left out. Even shy visitors quickly relaxed in her lively presence. Friends often said that her spirited personality could transform the dullest gathering into a memorable celebration within minutes. Invitations to her parties became highly prized.",
         "options": [
           {
             "letter": "A",
-            "text": "extraneous"
+            "text": "vivacious"
           },
           {
             "letter": "B",
-            "text": "evasive"
+            "text": "hirsute"
           },
           {
             "letter": "C",
-            "text": "exhaustive"
+            "text": "gaunt"
           },
           {
             "letter": "D",
-            "text": "explicit"
+            "text": "sanctimonious"
           }
         ],
         "answer": "A",
-        "answerWord": "extraneous"
+        "answerWord": "vivacious"
       },
       {
         "number": 12,
-        "question": "Critics characterized the administration's decision to suspend normal competitive procurement procedures as politically __________ rather than constitutionally sound, prioritizing immediate programmatic convenience over the long-term institutional integrity that genuine democratic governance fundamentally requires.",
+        "question": "Photographs of the prisoners released after the war shocked the world. The men appeared terribly __________, with hollow cheeks, protruding bones, and exhausted eyes that revealed years of starvation and hardship. Many weighed less than half of their original body weight. Relief organizations immediately provided food and medical care, but doctors warned that recovery would be slow. These haunting images later inspired international agreements protecting prisoners of war. Many survivors later wrote powerful memoirs.",
         "options": [
           {
             "letter": "A",
-            "text": "evasive"
+            "text": "whimsical"
           },
           {
             "letter": "B",
-            "text": "expedient"
+            "text": "gaunt"
           },
           {
             "letter": "C",
-            "text": "explicit"
+            "text": "flabbergasted"
           },
           {
             "letter": "D",
-            "text": "elusive"
+            "text": "vivacious"
           }
         ],
         "answer": "B",
-        "answerWord": "expedient"
+        "answerWord": "gaunt"
       },
       {
         "number": 13,
-        "question": "The philosopher observed that the __________ nature of cultural celebrity stood in stark contrast to the enduring significance of genuine artistic achievement, noting that media-generated renown frequently evaporated within months while work of genuine intellectual substance continued accumulating recognition across successive generations.",
+        "question": "Although he was only twenty-five years old, the new judge possessed the serious __________ of someone much older and more experienced. His calm posture, steady gaze, and deliberate way of speaking immediately commanded respect in the courtroom. Lawyers who had expected an inexperienced beginner quickly adjusted their behavior. Senior judges noted that his dignified bearing, combined with his excellent legal knowledge, suggested a very promising career ahead. Few doubted he would rise quickly.",
         "options": [
           {
             "letter": "A",
-            "text": "ephemeral"
+            "text": "mien"
           },
           {
             "letter": "B",
-            "text": "elusive"
+            "text": "nonentity"
           },
           {
             "letter": "C",
-            "text": "equivocal"
+            "text": "stupor"
           },
           {
             "letter": "D",
-            "text": "explicit"
+            "text": "effrontery"
           }
         ],
         "answer": "A",
-        "answerWord": "ephemeral"
+        "answerWord": "mien"
       },
       {
         "number": 14,
-        "question": "Advanced forensic DNA analysis enabled investigators to completely __________ the originally convicted individual and identify the actual perpetrator after the wrongfully imprisoned man had served seventeen years, the case prompting legislative proposals for mandatory review procedures applicable to all convictions where physical forensic evidence had not been subjected to modern analytical techniques.",
+        "question": "Unlike most dogs, which shed their fur regularly, the Komondor breed is famously __________, covered in thick white cords of hair that can reach the ground. These heavy, rope-like coats protected the animals from harsh weather and wolf attacks while they guarded sheep on Hungarian plains. Owners must dedicate considerable time to grooming, since the shaggy coat requires careful washing and drying to prevent unpleasant odors and skin problems. The breed remains rare outside Hungary.",
         "options": [
           {
             "letter": "A",
-            "text": "emulate"
+            "text": "pensive"
           },
           {
             "letter": "B",
-            "text": "enervate"
+            "text": "vivacious"
           },
           {
             "letter": "C",
-            "text": "exacerbate"
+            "text": "whimsical"
           },
           {
             "letter": "D",
-            "text": "exonerate"
+            "text": "hirsute"
           }
         ],
         "answer": "D",
-        "answerWord": "exonerate"
+        "answerWord": "hirsute"
       },
       {
         "number": 15,
-        "question": "The __________ commentator's analysis drew insightfully on historical parallels spanning three centuries, weaving primary source documentation, contemporary theoretical frameworks, and comparative regional analysis into a remarkably coherent interpretive synthesis that both specialist and general audiences found equally illuminating.",
+        "question": "The defense attorney presented security camera footage to __________ the prosecution's claim that her client had been at the crime scene. The video clearly showed the accused man eating dinner at a restaurant across the city at the exact time of the robbery. Jurors examined the evidence carefully, and the prosecution's argument collapsed completely. The defendant was acquitted, and investigators reopened the case to identify the actual criminal. The real thief was arrested months later.",
         "options": [
           {
             "letter": "A",
-            "text": "elusive"
+            "text": "countenance"
           },
           {
             "letter": "B",
-            "text": "enigmatic"
+            "text": "whet"
           },
           {
             "letter": "C",
-            "text": "erudite"
+            "text": "refute"
           },
           {
             "letter": "D",
-            "text": "ephemeral"
+            "text": "lampoon"
           }
         ],
         "answer": "C",
-        "answerWord": "erudite"
+        "answerWord": "refute"
       },
       {
         "number": 16,
-        "question": "The minister's __________ response to direct questions about the proposed legislation left parliamentary observers uncertain whether the government was genuinely committed to the reform timeline or strategically preserving flexibility to modify or abandon the initiative under future political pressures.",
+        "question": "The old sailor sat on the dock in a __________ mood, gazing silently at the horizon where he had spent most of his life. He seemed lost in memories of distant ports, violent storms, and companions who had long since passed away. Children who approached him asking for stories found him unusually quiet and reflective. Only after several minutes did he smile and begin describing his adventures in a soft voice.",
         "options": [
           {
             "letter": "A",
-            "text": "evasive"
+            "text": "hirsute"
           },
           {
             "letter": "B",
-            "text": "equivocal"
+            "text": "pensive"
           },
           {
             "letter": "C",
-            "text": "elusive"
+            "text": "gaunt"
           },
           {
             "letter": "D",
-            "text": "exemplary"
+            "text": "vivacious"
           }
         ],
         "answer": "B",
-        "answerWord": "equivocal"
+        "answerWord": "pensive"
       },
       {
         "number": 17,
-        "question": "The regulatory submission required an __________ documentation package covering every aspect of the product's safety profile, manufacturing processes, quality control procedures, and proposed distribution protocols — incomplete submissions being systematically returned without review.",
+        "question": "The chef served a small plate of spicy pickled vegetables to __________ the guests' appetites before the main courses arrived. The sharp, tangy flavors stimulated their taste buds and made them eager for the elaborate dishes that followed. Food scientists explain that sour and bitter tastes trigger the production of saliva and digestive enzymes. For this reason, many cuisines around the world begin meals with similar small appetizers. Guests clearly enjoyed the thoughtful gesture.",
         "options": [
           {
             "letter": "A",
-            "text": "equivocal"
+            "text": "refute"
           },
           {
             "letter": "B",
-            "text": "extraneous"
+            "text": "wince"
           },
           {
             "letter": "C",
-            "text": "exhaustive"
+            "text": "whet"
           },
           {
             "letter": "D",
-            "text": "explicit"
+            "text": "countenance"
           }
         ],
         "answer": "C",
-        "answerWord": "exhaustive"
+        "answerWord": "whet"
       },
       {
         "number": 18,
-        "question": "The relentless bureaucratic obstacles seemed specifically designed to __________ reform advocates by consuming their finite time and energy in procedural compliance rather than substantive policy advancement — a pattern experienced campaigners recognized as systemic institutional inertia requiring strategic persistence to overcome.",
+        "question": "After the long-distance runner collapsed at the finish line, she lay in a __________ for several minutes, unable to recognize her coach or respond to simple questions. Medical volunteers quickly determined that she was suffering from severe dehydration and heat exhaustion. They cooled her body with ice packs and provided fluids intravenously. Gradually, she emerged from her dazed condition and asked, confused, whether she had actually finished the race. Race organizers later improved water stations.",
         "options": [
           {
             "letter": "A",
-            "text": "enervate"
+            "text": "stupor"
           },
           {
             "letter": "B",
-            "text": "emulate"
+            "text": "debacle"
           },
           {
             "letter": "C",
-            "text": "exacerbate"
+            "text": "nonentity"
           },
           {
             "letter": "D",
-            "text": "exonerate"
+            "text": "cliché"
           }
         ],
         "answer": "A",
-        "answerWord": "enervate"
+        "answerWord": "stupor"
       },
       {
         "number": 19,
-        "question": "The __________ wording of the environmental assessment created significant interpretive uncertainty about whether the proposed development met applicable regulatory thresholds, ultimately requiring a formal legal ruling to determine which of two substantially different compliance interpretations represented the correct application of the relevant statutory requirements.",
+        "question": "Many people __________ when they hear the sound of fingernails scraping across a chalkboard, instinctively pulling back and squeezing their eyes shut. Scientists studying this reaction discovered that certain high frequencies are especially unpleasant to human ears. Some researchers believe the response evolved because the sound resembles warning calls made by primates. Whatever its origin, the involuntary flinch appears to be nearly universal across cultures and age groups. Few people are truly immune.",
         "options": [
           {
             "letter": "A",
-            "text": "equivocal"
+            "text": "wince"
           },
           {
             "letter": "B",
-            "text": "evasive"
+            "text": "whet"
           },
           {
             "letter": "C",
-            "text": "ephemeral"
+            "text": "lampoon"
           },
           {
             "letter": "D",
-            "text": "exhaustive"
+            "text": "refute"
           }
         ],
         "answer": "A",
-        "answerWord": "equivocal"
+        "answerWord": "wince"
       },
       {
         "number": 20,
-        "question": "The __________ curator's meticulous attention to exhibition design extended to the precise angular positioning of each framed work, the careful calibration of ambient lighting levels, and the exact physical separation maintained between adjacent pieces — colleagues admiring her exacting standards while occasionally noting that perfectionism sometimes impeded practical timelines.",
+        "question": "The film critic complained that the romantic comedy relied on every predictable __________ of the genre: two strangers who hate each other at first, a dramatic misunderstanding, and a breathless race to the airport for a final confession. Although the actors performed well, the story offered nothing original. The critic urged screenwriters to abandon such stale, overused formulas and take creative risks that might genuinely surprise audiences. Audiences, she argued, deserve much better stories.",
         "options": [
           {
             "letter": "A",
-            "text": "fallacious"
+            "text": "effrontery"
           },
           {
             "letter": "B",
-            "text": "equivocal"
+            "text": "stupor"
           },
           {
             "letter": "C",
-            "text": "fatuous"
+            "text": "debacle"
           },
           {
             "letter": "D",
-            "text": "fastidious"
+            "text": "cliché"
           }
         ],
         "answer": "D",
-        "answerWord": "fastidious"
+        "answerWord": "cliché"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "elusive": [
-    "difficult to find, catch, or achieve.",
-    "難以捉摸的；難以找到的"
+  "parable": [
+    "moralistic story.",
+    "寓言；比喻"
   ],
-  "emulate": [
-    "to match or surpass through imitation.",
-    "仿效；努力趕超"
+  "whimsical": [
+    "humorous, fanciful.",
+    "古怪的；異想天開的"
   ],
-  "enigmatic": [
-    "difficult to interpret; mysterious.",
-    "神秘的；費解的"
+  "lampoon": [
+    "to ridicule.",
+    "諷刺；嘲弄"
   ],
-  "enervate": [
-    "to weaken; to drain of energy.",
-    "使衰弱；使精力耗盡"
+  "countenance": [
+    "to tolerate, approve.",
+    "容許；贊同（名詞：面容）"
   ],
-  "ephemeral": [
-    "lasting for only a short time.",
-    "短暫的；瞬間即逝的"
+  "sanctimonious": [
+    "hypocritical, claiming moral superiority.",
+    "假裝神聖的；偽善的"
   ],
-  "equivocal": [
-    "uncertain or questionable; deliberately vague.",
-    "模稜兩可的；含糊的"
+  "equanimity": [
+    "calmness, self-control.",
+    "平靜；鎮定"
   ],
-  "erudite": [
-    "having great knowledge learned from reading.",
-    "博學的；學識淵博的"
+  "effrontery": [
+    "shameless boldness.",
+    "厚顏無恥"
   ],
-  "evasive": [
-    "tending to avoid commitment or direct answers.",
-    "回避的；含糊其辭的"
+  "nonentity": [
+    "one of no importance.",
+    "無足輕重的人"
   ],
-  "exacerbate": [
-    "to make a problem worse.",
-    "使惡化；加劇"
+  "flabbergasted": [
+    "astounded.",
+    "大吃一驚的"
   ],
-  "exemplary": [
-    "representing the best of its kind; serving as a model.",
-    "典範的；模範的"
+  "debacle": [
+    "fiasco, catastrophe.",
+    "慘敗；崩潰"
   ],
-  "exhaustive": [
-    "thorough and comprehensive; covering all possibilities.",
-    "詳盡的；全面徹底的"
+  "vivacious": [
+    "lively.",
+    "活潑的；快活的"
   ],
-  "exonerate": [
-    "to officially absolve from blame.",
-    "使免罪；宣告無罪"
+  "gaunt": [
+    "thin, haggard.",
+    "憔悴的；瘦削的"
   ],
-  "expedient": [
-    "convenient and practical, though possibly improper.",
-    "權宜的；方便實際的（有時不擇手段）"
+  "mien": [
+    "appearance, bearing.",
+    "儀態；風度"
   ],
-  "explicit": [
-    "stated clearly and in detail; leaving nothing implied.",
-    "明確的；清晰說明的"
+  "hirsute": [
+    "hairy.",
+    "多毛的"
   ],
-  "extraneous": [
-    "irrelevant to the subject being dealt with.",
-    "無關的；多餘的"
+  "refute": [
+    "to prove wrong or false.",
+    "駁斥；反駁"
   ],
-  "fabricate": [
-    "to invent false information; to make up.",
-    "捏造；偽造"
+  "pensive": [
+    "thoughtful, reflective.",
+    "沉思的；憂思的"
   ],
-  "fallacious": [
-    "based on a false belief; containing errors.",
-    "謬誤的；錯誤的"
+  "whet": [
+    "to stimulate, stir up.",
+    "刺激；激起（食慾、興趣）"
   ],
-  "fastidious": [
-    "very attentive to detail; difficult to please.",
-    "挑剔的；一絲不苟的"
+  "stupor": [
+    "daze, insensible condition.",
+    "昏迷；恍惚"
   ],
-  "fatuous": [
-    "foolish and pointless; vacuously silly.",
-    "愚昧的；蠢笨的"
+  "wince": [
+    "to draw back, flinch.",
+    "畏縮；（因痛苦）皺眉"
   ],
-  "feign": [
-    "to pretend to feel or be affected by something.",
-    "假裝；裝作"
+  "cliché": [
+    "commonplace, overused phrase.",
+    "陳詞濫調"
   ]
 });

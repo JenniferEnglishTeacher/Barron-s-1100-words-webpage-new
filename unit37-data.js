@@ -3,850 +3,870 @@ window.FLASHCARD_UNITS = {
     "title": "Barron's 1100 Words Unit 37",
     "cards": [
       {
-        "word": "impenitent",
-        "pos": "adj.",
-        "definition": "not feeling shame or regret for wrongdoing.",
-        "chinese": "不悔過的；執迷不悟的",
-        "synonyms": "unrepentant, remorseless, unapologetic",
-        "image": "warning",
-        "sentence": "The convicted official remained thoroughly __________ throughout the sentencing proceedings, offering no expression of remorse and characterizing the prosecution as politically motivated rather than acknowledging any responsibility for the documented misconduct. Victim advocates argued that this defiant posture provided strong justification for the maximum available custodial sentence.",
-        "translation": "這位被定罪的官員在整個量刑程序中始終毫無悔意，沒有表達任何悔恨，並將起訴定性為政治動機，而非承認對有記錄的不當行為負有任何責任。受害者倡導者認為，這種對抗性的姿態為最高可用的監禁刑期提供了充分的理由。",
-        "lookup": {
-          "english": "not feeling shame or regret for wrongdoing.",
-          "chinese": "不悔過的；執迷不悟的"
-        }
-      },
-      {
-        "word": "impertinent",
-        "pos": "adj.",
-        "definition": "not showing proper respect; irrelevant.",
-        "chinese": "無禮的；不相關的",
-        "synonyms": "rude, insolent, irrelevant",
-        "image": "warning",
-        "sentence": "The junior staff member's __________ interruption during the board presentation silenced the room and visibly discomforted even colleagues who privately agreed with the substantive point being made. The episode prompted a candid conversation about appropriate professional conduct in formal institutional settings.",
-        "translation": "這位初級員工在董事會演示期間的無禮打斷使全場鴉雀無聲，即使私下同意所提實質觀點的同事也明顯感到不安。這一插曲促發了一次關於正式機構環境中適當職業行為的坦誠對話。",
-        "lookup": {
-          "english": "not showing proper respect; irrelevant.",
-          "chinese": "無禮的；不相關的"
-        }
-      },
-      {
-        "word": "impetuous",
-        "pos": "adj.",
-        "definition": "acting quickly without thought; impulsive.",
-        "chinese": "衝動的；魯莽的",
-        "synonyms": "rash, impulsive, hasty",
-        "image": "table",
-        "sentence": "The __________ acquisition decision, made without adequate due diligence or financial modeling, proved catastrophic when undisclosed liabilities totaling hundreds of millions emerged during the integration process. Board members who approved the rushed transaction later acknowledged that pressure to demonstrate growth had overridden the careful analytical discipline the commitment genuinely required.",
-        "translation": "這項在沒有充分盡職調查或財務建模的情況下做出的衝動收購決定，在整合過程中出現數億計的未披露負債後，被證明是災難性的。批准這一倉促交易的董事會成員後來承認，展示增長的壓力凌駕於如此複雜的戰略承諾所真正需要的審慎分析紀律之上。",
-        "lookup": {
-          "english": "acting quickly without thought; impulsive.",
-          "chinese": "衝動的；魯莽的"
-        }
-      },
-      {
-        "word": "impiety",
-        "pos": "n.",
-        "definition": "lack of reverence for sacred things.",
-        "chinese": "不虔誠；褻瀆",
-        "synonyms": "irreverence, sacrilege, profanity",
-        "image": "burst",
-        "sentence": "Medieval authorities treated philosophical questioning of theological doctrine as a form of __________ that threatened not only individual salvation but the entire moral and social framework undergirding institutional authority. The severe penalties prescribed for such intellectual transgressions reflected the depth of institutional anxiety about challenges to accepted metaphysical certainties.",
-        "translation": "中世紀當局將對神學教義的哲學質疑視為一種褻瀆形式，威脅的不僅是個人的救贖，還有支撐制度權威的整個道德和社會框架。對此類智識越軌行為所規定的嚴厲懲罰，反映了對挑戰被接受的形而上學確定性的深層制度焦慮。",
-        "lookup": {
-          "english": "lack of reverence for sacred things.",
-          "chinese": "不虔誠；褻瀆"
-        }
-      },
-      {
-        "word": "implausible",
-        "pos": "adj.",
-        "definition": "not seeming reasonable or probable.",
-        "chinese": "難以置信的；不合理的",
-        "synonyms": "incredible, unconvincing, dubious",
-        "image": "small",
-        "sentence": "The defendant's alibi struck most observers as inherently __________, resting as it did on an unlikely sequence of coincidental encounters that would have required extraordinary timing and the cooperation of multiple independent witnesses, none of whom had subsequently come forward despite substantial public appeals for relevant information.",
-        "translation": "被告的不在場證明在大多數觀察者看來本質上難以置信，它依賴於一連串不大可能的巧合相遇，這需要非凡的時機配合和多名獨立目擊者的合作，而他們中沒有一人在調查當局公開呼籲之後站出來。",
-        "lookup": {
-          "english": "not seeming reasonable or probable.",
-          "chinese": "難以置信的；不合理的"
-        }
-      },
-      {
-        "word": "importune",
+        "word": "confront",
         "pos": "v.",
-        "definition": "to harass with persistent requests.",
-        "chinese": "強求；死纏爛打",
-        "synonyms": "pester, badger, entreat",
-        "image": "small",
-        "sentence": "Lobbyists who persistently attempted to __________ the newly elected representatives during their first legislative session were met with a formal office policy prohibiting unscheduled visits and requiring all substantive communications to be submitted in writing with adequate advance notice.",
-        "translation": "那些在新當選代表的首次立法會期中不斷試圖強求的遊說者，遭到了禁止無預約訪問並要求所有實質性溝通以書面形式提前充分通知提交的正式辦公室政策的抵制。",
-        "lookup": {
-          "english": "to harass with persistent requests.",
-          "chinese": "強求；死纏爛打"
-        }
-      },
-      {
-        "word": "impudent",
-        "pos": "adj.",
-        "definition": "not showing due respect; presumptuous.",
-        "chinese": "無禮的；放肆的",
-        "synonyms": "insolent, brazen, presumptuous",
-        "image": "warning",
-        "sentence": "The __________ student challenged the professor's published interpretation in a class discussion without having read the primary sources on which the argument was based, leading to an embarrassing public demonstration of the gaps between his confident assertions and his actual preparation. The professor responded with characteristic patience, suggesting additional reading.",
-        "translation": "這位放肆的學生在課堂討論中挑戰了教授的已發表詮釋，卻沒有閱讀論據所依據的原始資料，導致他自信的斷言與實際準備之間的差距被公開尷尬地展示出來。教授以一貫的耐心回應，建議補充閱讀，而非公開羞辱。",
-        "lookup": {
-          "english": "not showing due respect; presumptuous.",
-          "chinese": "無禮的；放肆的"
-        }
-      },
-      {
-        "word": "impugn",
-        "pos": "v.",
-        "definition": "to challenge as false; to call into question.",
-        "chinese": "質疑；駁斥",
-        "synonyms": "challenge, dispute, contradict",
-        "image": "regret",
-        "sentence": "Defense attorneys moved to __________ the credibility of the prosecution's primary witness by introducing documented evidence of previous inconsistent statements, financial incentives to testify favorably, and a history of prior convictions for offenses directly relevant to the truthfulness of his current testimony.",
-        "translation": "辯護律師通過引入先前不一致陳述的有據可查的證據、對有利作證的財務激勵，以及與其當前證詞真實性直接相關的先前定罪歷史，試圖質疑起訴方主要證人的可信度。",
-        "lookup": {
-          "english": "to challenge as false; to call into question.",
-          "chinese": "質疑；駁斥"
-        }
-      },
-      {
-        "word": "inadvertent",
-        "pos": "adj.",
-        "definition": "not resulting from deliberate intent; accidental.",
-        "chinese": "無意的；疏忽造成的",
-        "synonyms": "unintentional, accidental, unwitting",
-        "image": "cane",
-        "sentence": "The researcher's __________ omission of a critical control condition from the experimental design was identified during peer review, prompting a complete replication of the study before publication could proceed. While the error significantly delayed the timeline, the corrected methodology ultimately produced results of substantially greater scientific validity.",
-        "translation": "研究人員無意中從實驗設計中遺漏了一個關鍵的對照條件，這在同行評審過程中被發現，促使在出版能夠繼續之前對研究進行了完整的重複。雖然這一錯誤顯著延誤了時間表，但更正後的方法論最終產生了科學有效性和實際適用性均大幅提升的結果。",
-        "lookup": {
-          "english": "not resulting from deliberate intent; accidental.",
-          "chinese": "無意的；疏忽造成的"
-        }
-      },
-      {
-        "word": "incisive",
-        "pos": "adj.",
-        "definition": "intelligently analytical and clear-thinking.",
-        "chinese": "深刻的；一針見血的",
-        "synonyms": "penetrating, sharp, acute",
-        "image": "lamp",
-        "sentence": "Her __________ analysis of the merger proposal identified three structural vulnerabilities that the investment bank's modeling had entirely overlooked, potentially saving the acquiring company from committing substantial capital to a transaction whose risk profile was dramatically less favorable than the initial assessment had suggested.",
-        "translation": "她對合併提案的深刻分析發現了投資銀行的模型完全忽視的三個結構性弱點，有可能使收購公司免於將大量資本投入一項風險狀況比初步評估所建議的要不利得多的交易。",
-        "lookup": {
-          "english": "intelligently analytical and clear-thinking.",
-          "chinese": "深刻的；一針見血的"
-        }
-      },
-      {
-        "word": "incorrigible",
-        "pos": "adj.",
-        "definition": "not able to be corrected or reformed.",
-        "chinese": "屢教不改的；不可救藥的",
-        "synonyms": "irreformable, hopeless, intractable",
+        "definition": "to come face-to-face with.",
+        "memoryChant": "con- (with) + frons (forehead) → 'Forehead to forehead—confront!'",
+        "chinese": "面對；遭遇",
+        "synonyms": "face, challenge, tackle",
         "image": "rings",
-        "sentence": "The juvenile court judge acknowledged that the young offender's pattern of escalating behavior, combined with active resistance to every rehabilitative intervention attempted over three years, suggested a degree of entrenched antisocial disposition that would require intensive specialized therapeutic engagement beyond what standard community supervision programs could realistically provide.",
-        "translation": "少年法院法官承認，這名年輕違法者不斷升級的行為模式，加上在三年中對每一項康復干預的積極抗拒，表明了一種根深蒂固的反社會傾向，需要標準社區監督計劃無法實際提供的密集專業治療介入。",
+        "sentence": "After years of avoiding the problem, the city council finally decided to __________ the growing housing crisis directly. Rents had doubled in a decade, and thousands of young workers could no longer afford to live near their jobs. Council members held public hearings, studied solutions from other countries, and approved an ambitious plan to build affordable apartments. Residents welcomed the decision to face the issue openly rather than ignoring it any longer.",
+        "translation": "在逃避這個問題多年之後，市議會終於決定直接面對日益嚴重的住房危機。十年間房租翻了一倍，數千名年輕上班族再也負擔不起住在工作地點附近的費用。議員們舉辦公聽會、研究其他國家的解決方案，並通過了一項興建平價公寓的宏大計畫。居民們歡迎市議會決定公開面對這個問題，而不再繼續忽視它。",
         "lookup": {
-          "english": "not able to be corrected or reformed.",
-          "chinese": "屢教不改的；不可救藥的"
+          "english": "to come face-to-face with.",
+          "chinese": "面對；遭遇"
         }
       },
       {
-        "word": "indolent",
-        "pos": "adj.",
-        "definition": "wanting to avoid activity; lazy.",
-        "chinese": "懶惰的；懶散的",
-        "synonyms": "lazy, slothful, lethargic",
-        "image": "mountain",
-        "sentence": "The __________ student's consistent failure to submit assignments on time, complete required readings, or attend scheduled tutorial sessions eventually exhausted her advisor's considerable patience and led to a formal academic warning outlining the specific performance improvements required to avoid dismissal from the graduate program.",
-        "translation": "這位懶散的學生始終未能按時提交作業、完成必要閱讀或出席預定的輔導課，最終耗盡了她導師相當大的耐心，並導致了一份正式學術警告，概述了避免被研究生課程開除所需的具體表現改進。",
+        "word": "antipathy",
+        "pos": "n.",
+        "definition": "dislike, distaste, hate.",
+        "memoryChant": "anti- (against) + pathos (feeling) → 'Feelings against—antipathy!'",
+        "chinese": "反感；厭惡",
+        "synonyms": "hostility, aversion, dislike",
+        "image": "shield",
+        "sentence": "The two neighboring farmers had felt a deep __________ toward each other for decades, ever since a bitter argument over the boundary between their fields. They refused to speak, avoided the same shops, and even attended different temples. When a flood suddenly threatened both farms, however, they were forced to work together to build sandbag walls. The shared crisis gradually transformed their long hostility into an unexpected and lasting friendship.",
+        "translation": "這兩位相鄰的農夫幾十年來一直對彼此懷有深深的反感，起因於一場關於兩家田地界線的激烈爭執。他們拒絕交談、避開同樣的商店，甚至去不同的廟宇參拜。然而，當一場洪水突然威脅到兩家農田時，他們被迫一起合作堆砌沙包牆。這場共同的危機逐漸將他們長久的敵意，轉變為一段出乎意料且長久的友誼。",
         "lookup": {
-          "english": "wanting to avoid activity; lazy.",
-          "chinese": "懶惰的；懶散的"
+          "english": "dislike, distaste, hate.",
+          "chinese": "反感；厭惡"
         }
       },
       {
-        "word": "inept",
+        "word": "servile",
         "pos": "adj.",
-        "definition": "having or showing no skill; incompetent.",
-        "chinese": "不稱職的；笨拙的",
-        "synonyms": "incompetent, bungling, clumsy",
-        "image": "rubble",
-        "sentence": "The __________ project manager repeatedly scheduled incompatible resources simultaneously and issued contradictory directives that left team members uncertain about authoritative priorities. His eventual replacement by a more systematic leader produced immediate improvements in both team cohesion and measurable project delivery performance.",
-        "translation": "這位不稱職的項目經理反覆同時安排不相容的資源，並發出相互矛盾的指令，使團隊成員對權威優先事項感到困惑。他最終被一位更有系統性的領導者取代，立即改善了團隊凝聚力和可衡量的項目交付績效。",
+        "definition": "slavish, submissive.",
+        "memoryChant": "servus (slave) → 'Acting like a slave—servile!'",
+        "chinese": "奴性的；卑屈的",
+        "synonyms": "submissive, obsequious, fawning",
+        "image": "cup",
+        "sentence": "The dictator surrounded himself with __________ advisors who praised every decision he made and never dared to express disagreement. They laughed at his jokes, repeated his opinions, and bowed deeply whenever he entered the room. Historians argue that this submissive atmosphere prevented him from receiving honest information about the country's worsening economy. Without anyone willing to challenge his mistakes, his disastrous policies eventually led to widespread poverty and rebellion. His regime collapsed within a decade.",
+        "translation": "這名獨裁者身邊圍繞著卑躬屈膝的顧問，他們讚揚他做的每一個決定，從不敢表達異議。他們對他的笑話大笑、重複他的意見，每當他走進房間時便深深鞠躬。歷史學家認為，這種順從的氛圍使他無法得到關於國家經濟惡化的真實資訊。由於沒有人願意指出他的錯誤，他災難性的政策最終導致了普遍的貧窮與叛亂。他的政權在十年內便垮台了。",
         "lookup": {
-          "english": "having or showing no skill; incompetent.",
-          "chinese": "不稱職的；笨拙的"
+          "english": "slavish, submissive.",
+          "chinese": "奴性的；卑屈的"
         }
       },
       {
-        "word": "inert",
-        "pos": "adj.",
-        "definition": "lacking the ability to move or act; chemically inactive.",
-        "chinese": "惰性的；不活躍的",
-        "synonyms": "inactive, dormant, motionless",
-        "image": "crack",
-        "sentence": "The substance was described as chemically __________ under standard atmospheric conditions, making it suitable for use as a stabilizing carrier medium in pharmaceutical formulations where reactivity with the active compound would compromise therapeutic efficacy or safety profiles. This property also simplified regulatory approval processes by eliminating concerns about degradation products.",
-        "translation": "這種物質被描述為在標準大氣條件下具有化學惰性，使其適合用作藥物配方中的穩定載體介質，在這些配方中，與活性化合物的反應性會損害治療效果或安全性。這一特性還通過消除對降解產物的擔憂，簡化了監管審批流程。",
+        "word": "volition",
+        "pos": "n.",
+        "definition": "willpower, choice.",
+        "memoryChant": "velle (to wish) → 'By your own wish—volition!'",
+        "chinese": "意志；自願",
+        "synonyms": "will, choice, free will",
+        "image": "cup",
+        "sentence": "No one forced the young engineer to leave her comfortable job in Taipei; she moved to the remote mountain village entirely of her own __________. She wanted to design clean water systems for communities that lacked safe drinking water. Friends questioned her decision, but she insisted that the choice reflected her deepest values. Five years later, her projects have provided reliable water to more than three thousand residents across the region.",
+        "translation": "沒有人強迫這位年輕工程師離開她在台北安穩的工作；她完全是出於自願搬到偏遠的山村。她希望為缺乏安全飲用水的社區設計淨水系統。朋友們質疑她的決定，但她堅持這個選擇反映了她最深層的價值觀。五年後，她的計畫已為該地區三千多位居民提供了穩定的供水。",
         "lookup": {
-          "english": "lacking the ability to move or act; chemically inactive.",
-          "chinese": "惰性的；不活躍的"
+          "english": "willpower, choice.",
+          "chinese": "意志；自願"
         }
       },
       {
-        "word": "inexorable",
-        "pos": "adj.",
-        "definition": "impossible to stop or prevent; relentless.",
-        "chinese": "不可阻擋的；無情的",
-        "synonyms": "relentless, unstoppable, implacable",
-        "image": "warning",
-        "sentence": "Geologists described the __________ advance of the glacier as transforming the landscape at a pace imperceptible to individual human observers yet profoundly consequential across geological timescales. Modern remote sensing technologies have enabled researchers to document these gradual changes with a precision that powerfully illustrates how persistent incremental processes cumulatively produce dramatic transformations.",
-        "translation": "地質學家描述冰川不可阻擋的推進以個體人類觀察者難以察覺的速度改變著地貌，但在地質時間尺度上卻意義深遠。現代遙感技術使研究人員能夠以一種有力說明持續漸進過程如何累積產生戲劇性轉變的精確度記錄這些漸進變化。",
+        "word": "sojourn",
+        "pos": "n.",
+        "definition": "temporary stay.",
+        "memoryChant": "sub- (under) + diurnus (of a day) → 'Staying for a few days—sojourn!'",
+        "chinese": "逗留；旅居",
+        "synonyms": "stay, visit, stopover",
+        "image": "clock",
+        "sentence": "During his brief __________ in Kyoto, the American writer spent every morning wandering through ancient temples and quiet bamboo forests. Although he stayed only three weeks, the visit profoundly influenced his later work. He filled several notebooks with observations about Japanese gardens, tea ceremonies, and seasonal festivals. Critics believe that this short stay inspired the calm, reflective tone that characterizes the novels he wrote during the following decade. He returned to Kyoto every spring afterward.",
+        "translation": "在京都短暫逗留期間，這位美國作家每天早上都漫步於古老的寺廟與寧靜的竹林之間。雖然他只停留了三週，這趟旅程卻深深影響了他後來的作品。他寫滿了好幾本筆記本，記錄對日本庭園、茶道與季節祭典的觀察。評論家認為，這段短暫的旅居啟發了他在接下來十年所寫小說中那種平靜而內省的基調。此後他每年春天都會重返京都。",
         "lookup": {
-          "english": "impossible to stop or prevent; relentless.",
-          "chinese": "不可阻擋的；無情的"
+          "english": "temporary stay.",
+          "chinese": "逗留；旅居"
         }
       },
       {
-        "word": "infallible",
+        "word": "austere",
         "pos": "adj.",
-        "definition": "incapable of making mistakes or being wrong.",
-        "chinese": "絕對可靠的；無誤的",
-        "synonyms": "unerring, perfect, flawless",
-        "image": "crack",
-        "sentence": "The technician warned against treating any diagnostic algorithm as entirely __________, emphasizing that even the most sophisticated automated systems occasionally generated false positives or negatives that required experienced clinical judgment to properly contextualize within the broader patient presentation. Algorithmic support was a tool, not a substitute for professional medical reasoning.",
-        "translation": "技術人員警告不要將任何診斷算法視為完全可靠的，強調即使是最複雜的自動化系統也偶爾會產生需要有經驗的臨床判斷在更廣泛的患者表現中進行適當背景化和解釋的假陽性或假陰性。算法支持是一種工具，而非替代專業醫學推理。",
+        "definition": "simple, unadorned, harsh.",
+        "memoryChant": "austerus (harsh, dry) → 'Harsh and bare—austere!'",
+        "chinese": "嚴峻的；簡樸的",
+        "synonyms": "plain, strict, spartan",
+        "image": "regret",
+        "sentence": "The monks live in an __________ monastery high in the mountains, where each small room contains only a narrow bed, a wooden desk, and a single candle. They wake before dawn, eat simple meals of rice and vegetables, and spend most of the day in silent prayer or physical labor. Visitors are often surprised by the plain surroundings, yet many describe feeling unexpectedly peaceful in such a disciplined environment. Some even return every year.",
+        "translation": "僧侶們住在高山上一座簡樸的修道院裡，每個小房間只有一張窄床、一張木桌和一根蠟燭。他們在黎明前起床，吃米飯和蔬菜等簡單的餐點，一天中大部分時間都在靜默祈禱或勞動中度過。訪客們常對這樣樸素的環境感到驚訝，但許多人表示，在如此自律的環境中，竟意外地感到平靜。有些人甚至每年都會回來。",
         "lookup": {
-          "english": "incapable of making mistakes or being wrong.",
-          "chinese": "絕對可靠的；無誤的"
+          "english": "simple, unadorned, harsh.",
+          "chinese": "嚴峻的；簡樸的"
         }
       },
       {
-        "word": "ingenuous",
+        "word": "felicitous",
         "pos": "adj.",
-        "definition": "innocent and unsuspecting; candid.",
-        "chinese": "天真的；坦率的",
-        "synonyms": "naive, innocent, candid",
-        "image": "burst",
-        "sentence": "The __________ intern's unfiltered observations during her first team meeting, pointing out with cheerful directness several procedural inefficiencies that experienced staff had long stopped noticing, generated a combination of amused embarrassment and genuine reflection among colleagues who recognized the accuracy of her fresh perspective.",
-        "translation": "這位天真的實習生在她第一次團隊會議上未經過濾的觀察，以愉快的直接方式指出幾個有經驗的員工早已不再注意的程序低效，在同事中引發了既有些好笑的尷尬，又有真誠的反思，因為他們認識到她新鮮視角的準確性。",
+        "definition": "well-suited, pleasing, happy.",
+        "memoryChant": "felicitas (happiness) → 'A happy, perfect fit—felicitous!'",
+        "chinese": "恰當的；令人愉悅的",
+        "synonyms": "apt, fitting, well-chosen",
+        "image": "regret",
+        "sentence": "The translator was praised for her __________ choice of words, which captured both the meaning and the musical rhythm of the original Japanese poems. Instead of translating each line literally, she searched for English expressions that conveyed the same emotions and imagery. Readers who compared the two versions admired how naturally the translations flowed. Critics described her work as a perfect example of how well-chosen language can bridge different cultures.",
+        "translation": "這位譯者因用字恰到好處而備受讚譽，她的譯文同時捕捉了日文原詩的意涵與音樂般的節奏。她並非逐行直譯，而是尋找能傳達相同情感與意象的英文表達。比較兩個版本的讀者，都讚嘆譯文讀來如此自然流暢。評論家形容她的作品是精挑細選的語言如何跨越文化隔閡的完美範例。",
         "lookup": {
-          "english": "innocent and unsuspecting; candid.",
-          "chinese": "天真的；坦率的"
+          "english": "well-suited, pleasing, happy.",
+          "chinese": "恰當的；令人愉悅的"
         }
       },
       {
-        "word": "inimical",
+        "word": "halcyon",
         "pos": "adj.",
-        "definition": "tending to obstruct; hostile; adverse.",
-        "chinese": "有敵意的；有害的",
-        "synonyms": "hostile, adverse, antagonistic",
-        "image": "warning",
-        "sentence": "Legal scholars argued that the proposed surveillance legislation was fundamentally __________ to the constitutional protections that democratic governance depended upon, enabling executive overreach that would systematically erode the privacy rights and civil liberties essential to maintaining authentic conditions of political freedom and meaningful citizen participation.",
-        "translation": "法律學者認為，擬議的監控立法從根本上敵視民主治理所依賴的憲法保護，使行政機構能夠以一種系統性侵蝕對維持真正的政治自由和有意義的公民參與條件至關重要的隱私權和公民自由的方式逾越權限。",
-        "lookup": {
-          "english": "tending to obstruct; hostile; adverse.",
-          "chinese": "有敵意的；有害的"
-        }
-      },
-      {
-        "word": "innocuous",
-        "pos": "adj.",
-        "definition": "not harmful or offensive.",
-        "chinese": "無害的；無惡意的",
-        "synonyms": "harmless, inoffensive, benign",
-        "image": "crack",
-        "sentence": "What appeared to be a wholly __________ administrative request was subsequently revealed as part of a sophisticated information-gathering operation designed to map the organization's internal communication structures in preparation for a targeted social engineering attack against its most sensitive operational systems.",
-        "translation": "看起來完全無害的行政請求後來被揭示為一項複雜信息收集行動的一部分，旨在繪製組織內部通信結構的地圖，為針對其最敏感操作系統的有針對性社會工程攻擊做準備。",
-        "lookup": {
-          "english": "not harmful or offensive.",
-          "chinese": "無害的；無惡意的"
-        }
-      },
-      {
-        "word": "insipid",
-        "pos": "adj.",
-        "definition": "lacking vigor, interest, or strong flavor.",
-        "chinese": "乏味的；平淡無奇的",
-        "synonyms": "bland, vapid, tedious",
+        "definition": "idyllically peaceful, calm.",
+        "memoryChant": "halkuon (kingfisher, said to calm the sea) → 'Calm seas for the kingfisher—halcyon!'",
+        "chinese": "寧靜的；太平的",
+        "synonyms": "peaceful, serene, idyllic",
         "image": "energy",
-        "sentence": "The literary critic dismissed the bestselling novel as thoroughly __________, arguing that its flattened characterization, predictable narrative resolution, and carefully managed inoffensiveness represented a calculated commercial strategy to maximize market reach rather than any genuine artistic ambition. She contrasted it with less commercially successful but intellectually substantive works published in the same season.",
-        "translation": "文學評論家將這部暢銷小說斥為徹底乏味，認為其扁平化的人物刻畫、可預測的敘事解決方案和精心管理的無冒犯性，代表了最大化市場覆蓋的商業策略，而非任何真正的藝術抱負。她將其與同季出版的商業上不那麼成功但智識上更有實質的作品相比，後者更勝一籌。",
+        "sentence": "The elderly man often spoke fondly of the __________ days of his childhood, when he spent long summers swimming in the river, climbing fruit trees, and listening to his grandfather's stories under the stars. There were no televisions or smartphones, and time seemed to pass slowly and peacefully. Although he acknowledged that life had also contained hardships, he treasured those serene memories as the happiest period of his entire life.",
+        "translation": "這位老先生常深情地談起他童年那段寧靜美好的日子，那時他整個漫長的夏天都在河裡游泳、爬果樹，並在星空下聽祖父講故事。當時沒有電視或智慧型手機，時間似乎過得緩慢而平和。雖然他承認那時的生活也有艱辛，他仍將那些平靜的回憶視為一生中最快樂的時光而珍藏著。",
         "lookup": {
-          "english": "lacking vigor, interest, or strong flavor.",
-          "chinese": "乏味的；平淡無奇的"
+          "english": "idyllically peaceful, calm.",
+          "chinese": "寧靜的；太平的"
+        }
+      },
+      {
+        "word": "tenable",
+        "pos": "adj.",
+        "definition": "supportable, defendable.",
+        "memoryChant": "tenere (to hold) → 'An argument that holds—tenable!'",
+        "chinese": "站得住腳的；可防守的",
+        "synonyms": "defensible, reasonable, justifiable",
+        "image": "mountain",
+        "sentence": "The theory that dinosaurs were slow, cold-blooded reptiles is no longer __________ in light of recent fossil discoveries. Scientists have found evidence of feathers, rapid growth rates, and complex nesting behaviors that suggest many species were active and warm-blooded. As new data accumulated, the old explanation became impossible to defend. Most paleontologists now accept that birds are the living descendants of certain dinosaurs, a view once considered extremely controversial. Museums have since updated their displays.",
+        "translation": "根據近年的化石發現，恐龍是行動緩慢的冷血爬蟲類這一理論已站不住腳。科學家發現了羽毛、快速成長速度以及複雜築巢行為的證據，顯示許多物種是活躍的溫血動物。隨著新資料不斷累積，舊的解釋已無法再自圓其說。大多數古生物學家如今都接受鳥類是某些恐龍現存的後代，而這個觀點過去曾被認為極具爭議。各博物館此後也更新了展示內容。",
+        "lookup": {
+          "english": "supportable, defendable.",
+          "chinese": "站得住腳的；可防守的"
+        }
+      },
+      {
+        "word": "superfluous",
+        "pos": "adj.",
+        "definition": "excessive, surplus, unnecessary.",
+        "memoryChant": "super- (over) + fluere (to flow) → 'Overflowing—superfluous!'",
+        "chinese": "多餘的；過剩的",
+        "synonyms": "unnecessary, excessive, redundant",
+        "image": "lamp",
+        "sentence": "The editor removed nearly a third of the manuscript, explaining that many paragraphs contained __________ details that slowed the story without adding meaning. Lengthy descriptions of furniture, repetitive dialogue, and unnecessary background information distracted readers from the central conflict. Although the author initially resisted the cuts, she later admitted that the shorter version was far more powerful. The novel went on to win a major literary prize the following year.",
+        "translation": "編輯刪除了將近三分之一的書稿，解釋說許多段落包含多餘的細節，拖慢了故事節奏卻沒有增添意義。冗長的家具描寫、重複的對話與不必要的背景資訊，分散了讀者對核心衝突的注意力。雖然作者起初抗拒這些刪減，她後來承認較短的版本更具力量。這部小說隔年便贏得了一項重要的文學獎。",
+        "lookup": {
+          "english": "excessive, surplus, unnecessary.",
+          "chinese": "多餘的；過剩的"
+        }
+      },
+      {
+        "word": "motivate",
+        "pos": "v.",
+        "definition": "to inspire, stimulate, provoke.",
+        "memoryChant": "movere (to move) → 'Move someone to act—motivate!'",
+        "chinese": "激發；促動",
+        "synonyms": "inspire, encourage, drive",
+        "image": "cup",
+        "sentence": "The basketball coach knew exactly how to __________ his struggling team before the championship game. Instead of criticizing their recent losses, he showed them videos of their best performances and reminded them how far they had come together. He also invited former players to share stories of overcoming difficult challenges. Inspired and confident, the team played with renewed energy that evening and won the title by eleven points. Fans celebrated late into the night.",
+        "translation": "這位籃球教練非常清楚如何在冠軍賽前激勵陷入低潮的球隊。他沒有批評他們最近的敗績，而是播放他們表現最好的比賽影片，並提醒他們一起走了多遠的路。他還邀請昔日球員分享克服艱難挑戰的故事。受到鼓舞、充滿自信的球隊當晚以全新的活力出賽，並以十一分之差奪得冠軍。球迷們慶祝到深夜。",
+        "lookup": {
+          "english": "to inspire, stimulate, provoke.",
+          "chinese": "激發；促動"
+        }
+      },
+      {
+        "word": "rationalize",
+        "pos": "v.",
+        "definition": "to give a reason other than the real one.",
+        "memoryChant": "ratio (reason) → 'Invent a reasonable excuse—rationalize!'",
+        "chinese": "合理化；為…找藉口",
+        "synonyms": "justify, excuse, explain away",
+        "image": "chest",
+        "sentence": "People often __________ unhealthy habits by inventing convenient excuses. A smoker might claim that one cigarette helps him relax, while a student who skips studying might argue that she works better under pressure. Psychologists explain that these explanations protect our self-image by hiding the real reasons behind our choices. Recognizing when we make excuses, they suggest, is the first step toward changing behavior and making more honest decisions. Honesty with ourselves is essential.",
+        "translation": "人們常常編造方便的藉口，將不健康的習慣合理化。抽菸的人可能聲稱一根菸能幫助他放鬆，而不念書的學生可能辯稱她在壓力下表現更好。心理學家解釋，這些說法透過掩蓋我們選擇背後的真正原因，來保護我們的自我形象。他們建議，察覺自己何時在找藉口，是改變行為、做出更誠實決定的第一步。對自己誠實是不可或缺的。",
+        "lookup": {
+          "english": "to give a reason other than the real one.",
+          "chinese": "合理化；為…找藉口"
+        }
+      },
+      {
+        "word": "therapy",
+        "pos": "n.",
+        "definition": "healing or curing process.",
+        "memoryChant": "therapeuein (to heal) → 'The process of healing—therapy!'",
+        "chinese": "治療；療法",
+        "synonyms": "treatment, remedy, rehabilitation",
+        "image": "scatter",
+        "sentence": "After the serious car accident, the young athlete needed months of physical __________ to regain the ability to walk normally. Three times a week, specialists guided her through exercises designed to strengthen damaged muscles and restore balance. Progress was slow and often painful, but she never missed a session. Eventually, the treatment succeeded beyond expectations, and within two years she was competing again in national track and field events. She now volunteers helping other injured athletes.",
+        "translation": "在一場嚴重車禍後，這位年輕運動員需要數個月的物理治療，才能恢復正常行走的能力。每週三次，專業人員指導她進行旨在強化受損肌肉與恢復平衡的運動。進展緩慢且常伴隨疼痛，但她從未缺席任何一次療程。最終，治療的成效超乎預期，兩年內她便重返全國田徑賽場。她如今擔任志工，幫助其他受傷的運動員。",
+        "lookup": {
+          "english": "healing or curing process.",
+          "chinese": "治療；療法"
+        }
+      },
+      {
+        "word": "nascent",
+        "pos": "adj.",
+        "definition": "beginning to exist or develop.",
+        "memoryChant": "nasci (to be born) → 'Just being born—nascent!'",
+        "chinese": "初生的；新興的",
+        "synonyms": "emerging, budding, developing",
+        "image": "fire",
+        "sentence": "In the early 1990s, the internet was still a __________ technology used mainly by universities and government researchers. Few ordinary people owned computers, and websites consisted mostly of simple text. Visionary entrepreneurs, however, recognized the enormous potential of this emerging network. Within two decades, the developing technology had transformed communication, commerce, and education worldwide, creating industries that nobody could have imagined when it first appeared. Its growth continues to accelerate today.",
+        "translation": "在1990年代初期，網際網路仍是一項新興技術，主要由大學與政府研究人員使用。當時很少一般民眾擁有電腦，網站大多只有簡單的文字。然而，具遠見的創業家看出了這個新興網路的巨大潛力。二十年內，這項發展中的技術徹底改變了全球的通訊、商業與教育，創造出在它剛出現時沒有人能想像的產業。它的成長至今仍在加速。",
+        "lookup": {
+          "english": "beginning to exist or develop.",
+          "chinese": "初生的；新興的"
+        }
+      },
+      {
+        "word": "iconoclast",
+        "pos": "n.",
+        "definition": "image-breaker, attacker of traditional beliefs.",
+        "memoryChant": "eikon (image) + klan (to break) → 'Breaking the images—iconoclast!'",
+        "chinese": "反傳統者；打破舊習者",
+        "synonyms": "rebel, nonconformist, radical",
+        "image": "flag",
+        "sentence": "The architect was considered an __________ because she rejected the traditional rules that had governed building design for centuries. Instead of symmetrical structures with decorative columns, she created twisted towers of glass and steel that seemed to defy gravity. Established critics initially attacked her work as ugly and impractical. Over time, however, her rebellious approach inspired a new generation of designers, and her buildings are now celebrated worldwide. Architecture students study her designs closely.",
+        "translation": "這位建築師被視為一名反傳統者，因為她拒絕遵循主導建築設計數百年的傳統規則。她沒有設計帶有裝飾柱的對稱建築，而是創造出彷彿違抗重力、由玻璃與鋼材構成的扭曲高塔。資深評論家起初抨擊她的作品醜陋又不實用。然而隨著時間推移，她叛逆的手法啟發了新一代的設計師，她的建築如今享譽全球。建築系學生仔細研究她的設計。",
+        "lookup": {
+          "english": "image-breaker, attacker of traditional beliefs.",
+          "chinese": "反傳統者；打破舊習者"
+        }
+      },
+      {
+        "word": "erudite",
+        "pos": "adj.",
+        "definition": "very scholarly, learned.",
+        "memoryChant": "e- (out) + rudis (untrained) → 'Out of ignorance—erudite!'",
+        "chinese": "博學的",
+        "synonyms": "learned, scholarly, knowledgeable",
+        "image": "cane",
+        "sentence": "The __________ professor could discuss ancient Greek philosophy, Renaissance painting, and modern physics with equal expertise. He spoke seven languages fluently and had published more than twenty books on subjects ranging from medieval history to linguistics. Students crowded into his lectures, amazed by his vast knowledge and ability to connect ideas across different fields. Colleagues often joked that consulting him was faster than searching an entire library. His retirement left an enormous gap in the department.",
+        "translation": "這位博學的教授能以同等的專業談論古希臘哲學、文藝復興繪畫與現代物理學。他能流利地說七種語言，並出版了二十多本著作，主題涵蓋中世紀歷史到語言學。學生們擠滿他的課堂，驚嘆於他淵博的知識，以及貫通不同領域思想的能力。同事們常開玩笑說，請教他比搜尋整座圖書館還快。他的退休在系上留下了巨大的空缺。",
+        "lookup": {
+          "english": "very scholarly, learned.",
+          "chinese": "博學的"
+        }
+      },
+      {
+        "word": "phobia",
+        "pos": "n.",
+        "definition": "persistent fear, strong dislike.",
+        "memoryChant": "phobos (fear) → 'Fear that won't go away—phobia!'",
+        "chinese": "恐懼症",
+        "synonyms": "fear, dread, terror",
+        "image": "flag",
+        "sentence": "Although she loved traveling, the businesswoman had a severe __________ of flying that made every international trip an ordeal. Her heart raced whenever she boarded an airplane, and she often trembled throughout the entire flight. Determined to overcome this intense fear, she enrolled in a special course run by pilots and psychologists. After several sessions explaining how aircraft work, she finally completed a long-haul flight without panic. She now travels regularly without hesitation.",
+        "translation": "雖然她熱愛旅行，這位女企業家卻有嚴重的飛行恐懼症，讓每一趟國際旅程都成了一場折磨。每當她登上飛機，心跳便加速，整趟飛行中常常顫抖不已。她下定決心克服這種強烈的恐懼，報名參加了由機師與心理學家開設的特別課程。在幾堂說明飛機如何運作的課程之後，她終於在毫無恐慌的情況下完成了一趟長途飛行。她如今經常旅行，毫不猶豫。",
+        "lookup": {
+          "english": "persistent fear, strong dislike.",
+          "chinese": "恐懼症"
+        }
+      },
+      {
+        "word": "germane",
+        "pos": "adj.",
+        "definition": "appropriate, relevant.",
+        "memoryChant": "germen (sprout) → 'Growing from the same root—germane!'",
+        "chinese": "密切相關的；切題的",
+        "synonyms": "relevant, pertinent, applicable",
+        "image": "small",
+        "sentence": "During the debate, the moderator repeatedly reminded participants to keep their comments __________ to the topic of public transportation. Several speakers had begun discussing unrelated issues such as taxes and foreign policy, wasting valuable time. The moderator insisted that only relevant arguments supported by evidence would be allowed. As a result, the second half of the debate became far more focused and productive, and audiences praised its clarity. Organizers adopted the rule permanently.",
+        "translation": "辯論期間，主持人一再提醒參與者，發言內容必須與大眾運輸的主題密切相關。有幾位講者已開始談論稅務與外交政策等無關的議題，浪費了寶貴的時間。主持人堅持，只允許有證據支持且切題的論點。結果，辯論的後半段變得更加聚焦且有成效，觀眾們也稱讚其條理清晰。主辦單位將此規則永久採用。",
+        "lookup": {
+          "english": "appropriate, relevant.",
+          "chinese": "密切相關的；切題的"
+        }
+      },
+      {
+        "word": "vertigo",
+        "pos": "n.",
+        "definition": "dizziness.",
+        "memoryChant": "vertere (to turn) → 'The world turning around—vertigo!'",
+        "chinese": "眩暈",
+        "synonyms": "dizziness, giddiness, light-headedness",
+        "image": "crack",
+        "sentence": "As she stood on the glass floor of the observation deck, more than four hundred meters above the city, the tourist was suddenly overcome by __________. The buildings below seemed to spin, her legs weakened, and she grabbed the railing to avoid falling. A staff member quickly guided her to a bench away from the edge. After a few minutes of rest and deep breathing, her dizziness gradually disappeared. She later visited the deck again calmly.",
+        "translation": "當這名遊客站在離城市四百多公尺高的觀景台玻璃地板上時，突然感到一陣眩暈。下方的建築物似乎在旋轉，她雙腿發軟，趕緊抓住欄杆以免跌倒。一名工作人員迅速引導她到遠離邊緣的長椅上。休息幾分鐘並深呼吸後，她的暈眩感逐漸消失了。她後來再度從容地造訪了觀景台。",
+        "lookup": {
+          "english": "dizziness.",
+          "chinese": "眩暈"
+        }
+      },
+      {
+        "word": "conducive",
+        "pos": "adj.",
+        "definition": "leading, helpful.",
+        "memoryChant": "con- (with) + ducere (to lead) → 'Leading toward a result—conducive!'",
+        "chinese": "有助於…的",
+        "synonyms": "helpful, favorable, beneficial",
+        "image": "clock",
+        "sentence": "Research shows that a quiet, well-lit room with comfortable furniture is highly __________ to effective studying. Students who work in noisy or cluttered spaces often struggle to concentrate and retain information. Educational psychologists therefore recommend creating a dedicated study area free from distractions such as televisions and smartphones. Even small improvements, such as adding plants or natural light, can create a more favorable environment for learning. Such changes are inexpensive and highly effective.",
+        "translation": "研究顯示，一個安靜、光線充足且有舒適家具的房間，非常有助於有效學習。在吵雜或雜亂空間中讀書的學生，往往難以專心並記住資訊。因此，教育心理學家建議規劃一個專屬的讀書區，遠離電視與智慧型手機等干擾。即使是小小的改善，例如擺放植物或引進自然光，也能營造更有利於學習的環境。這類改變花費不多，卻極為有效。",
+        "lookup": {
+          "english": "leading, helpful.",
+          "chinese": "有助於…的"
         }
       }
     ],
     "quiz": [
       {
         "number": 1,
-        "question": "The young trader's __________ decision to double his position without consulting risk management protocols resulted in catastrophic losses when the market moved sharply against his projection — senior traders noting that emotional overconfidence following a recent success had overridden the systematic decision-making discipline that effective risk management fundamentally required.",
+        "question": "Rather than hiding from his critics, the mayor chose to __________ them publicly at a town hall meeting, answering every difficult question about the controversial budget cuts. He faced angry residents directly, acknowledged his mistakes, and explained the financial pressures behind his decisions. Many attendees respected his courage in meeting opponents face to face. Political analysts noted that such direct engagement often builds more trust than carefully prepared statements. The budget was eventually revised with community input.",
         "options": [
           {
             "letter": "A",
-            "text": "impenitent"
+            "text": "motivate"
           },
           {
             "letter": "B",
-            "text": "impetuous"
+            "text": "confront"
           },
           {
             "letter": "C",
-            "text": "impertinent"
+            "text": "rationalize"
           },
           {
             "letter": "D",
-            "text": "impudent"
+            "text": "sojourn"
           }
         ],
         "answer": "B",
-        "answerWord": "impetuous"
+        "answerWord": "confront"
       },
       {
         "number": 2,
-        "question": "Her __________ analysis of the merger proposal identified three structural vulnerabilities that the investment bank's modeling had entirely overlooked, potentially saving the acquiring company from committing substantial capital to a transaction whose risk profile was dramatically less favorable than the initial assessment had suggested.",
+        "question": "The famous novelist never hid her __________ toward social media, describing online platforms as shallow distractions that damaged people's ability to think deeply. She refused to open any accounts and declined interviews with digital publications. Her strong dislike surprised her publisher, who wanted her to promote her books online. Nevertheless, her novels continued selling extremely well, proving that authors can succeed without constant internet exposure. Her readers seemed to admire her principled stance even more.",
         "options": [
           {
             "letter": "A",
-            "text": "inadvertent"
+            "text": "vertigo"
           },
           {
             "letter": "B",
-            "text": "inimical"
+            "text": "therapy"
           },
           {
             "letter": "C",
-            "text": "incisive"
+            "text": "antipathy"
           },
           {
             "letter": "D",
-            "text": "indolent"
+            "text": "volition"
           }
         ],
         "answer": "C",
-        "answerWord": "incisive"
+        "answerWord": "antipathy"
       },
       {
         "number": 3,
-        "question": "The disciplinary committee was particularly troubled by the employee's __________ attitude during the formal review, noting that his complete absence of remorse and tendency to reframe each documented violation as a reasonable response to unreasonable institutional constraints suggested insufficient commitment to the behavioral change that continued employment would require.",
+        "question": "Critics complained that the newspaper had become __________ in its coverage of the ruling party, publishing only flattering stories and ignoring every scandal. Its editors seemed eager to please powerful officials rather than inform readers. Journalists who wrote critical articles were quietly reassigned or dismissed. Media experts warned that such submissive reporting undermines democracy, since citizens depend on independent journalism to hold leaders accountable. Circulation fell sharply as readers turned to more independent sources.",
         "options": [
           {
             "letter": "A",
-            "text": "impenitent"
+            "text": "servile"
           },
           {
             "letter": "B",
-            "text": "impertinent"
+            "text": "tenable"
           },
           {
             "letter": "C",
-            "text": "impetuous"
+            "text": "nascent"
           },
           {
             "letter": "D",
-            "text": "impudent"
+            "text": "erudite"
           }
         ],
         "answer": "A",
-        "answerWord": "impenitent"
+        "answerWord": "servile"
       },
       {
         "number": 4,
-        "question": "The conference keynote address disappointed an audience that had anticipated substantive engagement with current research challenges, instead delivering a thoroughly __________ overview of developments that specialists had absorbed years earlier, presented without original analysis, provocative framing, or any acknowledgment of the significant ongoing debates that made the field genuinely dynamic.",
+        "question": "The court ruled that the confession was invalid because the suspect had not spoken of his own __________. Evidence showed that police officers had threatened him and denied him food and sleep for two days before he signed the statement. Legal experts explained that confessions obtained under pressure are unreliable. Every person, they insisted, must make such important decisions freely, without intimidation or coercion. The suspect was released after the confession was thrown out.",
         "options": [
           {
             "letter": "A",
-            "text": "inert"
+            "text": "phobia"
           },
           {
             "letter": "B",
-            "text": "infallible"
+            "text": "iconoclast"
           },
           {
             "letter": "C",
-            "text": "ingenuous"
+            "text": "antipathy"
           },
           {
             "letter": "D",
-            "text": "insipid"
+            "text": "volition"
           }
         ],
         "answer": "D",
-        "answerWord": "insipid"
+        "answerWord": "volition"
       },
       {
         "number": 5,
-        "question": "The programmer's __________ introduction of a security vulnerability during routine maintenance, overlooking a single boundary-checking condition in a heavily interdependent codebase, created an exposure that sophisticated attackers exploited within hours of the update's deployment — the incident reinforcing arguments for mandatory independent security review of all production changes.",
+        "question": "After graduating from university, she enjoyed a six-month __________ in Spain, living with a local family, studying the language, and exploring historic cities. Although she had always planned to return home, the temporary stay changed her perspective on life. She developed a deep appreciation for Spanish culture and made lifelong friends. Years later, she described those months abroad as the most transformative experience of her young adulthood. She eventually returned to Madrid permanently to teach English.",
         "options": [
           {
             "letter": "A",
-            "text": "incorrigible"
+            "text": "antipathy"
           },
           {
             "letter": "B",
-            "text": "inadvertent"
+            "text": "sojourn"
           },
           {
             "letter": "C",
-            "text": "inimical"
+            "text": "vertigo"
           },
           {
             "letter": "D",
-            "text": "inept"
+            "text": "phobia"
           }
         ],
         "answer": "B",
-        "answerWord": "inadvertent"
+        "answerWord": "sojourn"
       },
       {
         "number": 6,
-        "question": "The defendant's explanation for his presence at the location struck investigators as inherently __________, resting as it did on an unlikely sequence of coincidental encounters requiring extraordinary timing and the cooperation of multiple independent witnesses, none of whom had subsequently come forward despite substantial public appeals for relevant information.",
+        "question": "The new school principal replaced the colorful classroom decorations with __________ white walls and simple wooden furniture, believing that plain surroundings would reduce distractions. Students complained that the rooms felt cold and unwelcoming. Parents argued that bright, stimulating environments encourage creativity in young learners. After a semester of debate, the principal agreed to a compromise that combined simplicity with carefully chosen artwork and plants. The artwork was hung by the end of spring.",
         "options": [
           {
             "letter": "A",
-            "text": "impetuous"
+            "text": "felicitous"
           },
           {
             "letter": "B",
-            "text": "inadvertent"
+            "text": "halcyon"
           },
           {
             "letter": "C",
-            "text": "implausible"
+            "text": "austere"
           },
           {
             "letter": "D",
-            "text": "impudent"
+            "text": "conducive"
           }
         ],
         "answer": "C",
-        "answerWord": "implausible"
+        "answerWord": "austere"
       },
       {
         "number": 7,
-        "question": "Legal advocates argued that mandatory minimum sentencing guidelines were profoundly __________ to the exercise of the judicial discretion essential to achieving just outcomes in cases where individual circumstances varied dramatically from the standardized scenarios that informed legislative drafting.",
+        "question": "The best man's speech at the wedding contained a __________ blend of humor and sentiment that delighted every guest. He shared amusing stories about the groom's childhood before speaking movingly about the couple's deep love and respect for each other. His words seemed perfectly suited to the joyful occasion. Afterward, several guests asked for copies of the speech, praising its apt balance and warm, genuine tone. The couple later framed a copy and hung it in their living room.",
         "options": [
           {
             "letter": "A",
-            "text": "inimical"
+            "text": "felicitous"
           },
           {
             "letter": "B",
-            "text": "inert"
+            "text": "superfluous"
           },
           {
             "letter": "C",
-            "text": "indolent"
+            "text": "servile"
           },
           {
             "letter": "D",
-            "text": "ingenuous"
+            "text": "tenable"
           }
         ],
         "answer": "A",
-        "answerWord": "inimical"
+        "answerWord": "felicitous"
       },
       {
         "number": 8,
-        "question": "Security analysts documented how apparently __________ conversational queries directed at customer service representatives could be systematically aggregated to reconstruct sensitive organizational information that no individual response would have compromised — underscoring the importance of training frontline staff to recognize queries that were individually benign but collectively revealing.",
+        "question": "Many retirees move to the small coastal town to enjoy its __________ atmosphere, far from the noise and stress of big cities. Mornings begin with gentle waves and birdsong, and afternoons pass slowly in tea houses overlooking the harbor. Crime is almost nonexistent, and neighbors greet each other warmly. Visitors often describe the peaceful, serene lifestyle as a welcome escape from the pressures of modern life. Property prices there have risen steadily for years.",
         "options": [
           {
             "letter": "A",
-            "text": "infallible"
+            "text": "nascent"
           },
           {
             "letter": "B",
-            "text": "ingenuous"
+            "text": "erudite"
           },
           {
             "letter": "C",
-            "text": "inexorable"
+            "text": "germane"
           },
           {
             "letter": "D",
-            "text": "innocuous"
+            "text": "halcyon"
           }
         ],
         "answer": "D",
-        "answerWord": "innocuous"
+        "answerWord": "halcyon"
       },
       {
         "number": 9,
-        "question": "The __________ crisis communication response, characterized by contradictory statements from multiple spokespersons, delayed acknowledgment of documented facts, and visible confusion about factual chronology, amplified rather than contained the reputational damage — communications specialists subsequently using the episode as a case study in organizational unpreparedness.",
+        "question": "After reviewing the new evidence, the lawyer realized that his client's original alibi was no longer __________. Security footage clearly showed the man near the crime scene at the time he claimed to be at home. The defense strategy that had once seemed reasonable could not be supported any longer. The lawyer advised his client to change his plea, explaining that defending an impossible story would damage his credibility. His client accepted the advice after some hesitation.",
         "options": [
           {
             "letter": "A",
-            "text": "indolent"
+            "text": "austere"
           },
           {
             "letter": "B",
-            "text": "incorrigible"
+            "text": "felicitous"
           },
           {
             "letter": "C",
-            "text": "inadvertent"
+            "text": "servile"
           },
           {
             "letter": "D",
-            "text": "inept"
+            "text": "tenable"
           }
         ],
         "answer": "D",
-        "answerWord": "inept"
+        "answerWord": "tenable"
       },
       {
         "number": 10,
-        "question": "The cross-examination team focused primarily on demonstrating that the witness was __________ — systematically exposing inconsistencies between her current testimony and statements recorded in earlier police interviews that created doubt about whether the discrepancies reflected honest memory limitations or deliberate misrepresentation of events she had directly observed.",
+        "question": "Minimalist designers believe that __________ decoration distracts from a room's essential beauty. They remove unnecessary objects, excessive patterns, and decorative items that serve no practical purpose. Every piece of furniture must be both functional and attractive. Supporters argue that eliminating excess creates calmer, more spacious homes, while critics claim that such rooms feel empty and impersonal. The debate continues as minimalism grows increasingly popular among young urban professionals. Its influence can be seen in countless magazines today.",
         "options": [
           {
             "letter": "A",
-            "text": "inadvertent"
+            "text": "halcyon"
           },
           {
             "letter": "B",
-            "text": "impertinent"
+            "text": "superfluous"
           },
           {
             "letter": "C",
-            "text": "inept"
+            "text": "nascent"
           },
           {
             "letter": "D",
-            "text": "impenitent"
+            "text": "germane"
           }
         ],
         "answer": "B",
-        "answerWord": "impertinent"
+        "answerWord": "superfluous"
       },
       {
         "number": 11,
-        "question": "Climate scientists described the __________ progression of permafrost degradation as creating feedback dynamics that would accelerate atmospheric warming regardless of near-term anthropogenic emission reductions, underscoring the critical importance of implementing comprehensive adaptation strategies alongside mitigation efforts.",
+        "question": "Teachers have discovered that allowing students to choose their own research topics can __________ them far more effectively than assigning subjects. When young people investigate questions that genuinely interest them, they work harder, read more widely, and take pride in their results. Educational researchers note that inspiring curiosity produces deeper learning than external rewards such as grades or prizes. Many schools are now adopting this student-centered approach. Test scores have also risen in participating schools.",
         "options": [
           {
             "letter": "A",
-            "text": "inexorable"
+            "text": "motivate"
           },
           {
             "letter": "B",
-            "text": "infallible"
+            "text": "rationalize"
           },
           {
             "letter": "C",
-            "text": "ingenuous"
+            "text": "sojourn"
           },
           {
             "letter": "D",
-            "text": "innocuous"
+            "text": "confront"
           }
         ],
         "answer": "A",
-        "answerWord": "inexorable"
+        "answerWord": "motivate"
       },
       {
         "number": 12,
-        "question": "The __________ employee's pattern of minimal output, strategic unavailability during peak demand periods, and habitual reliance on colleagues to absorb responsibilities he had tacitly abdicated had persisted without formal management intervention for nearly two years, creating measurable resentment among team members who consistently compensated for his chronic underperformance.",
+        "question": "After failing to finish his project on time, the student tried to __________ his delay by blaming slow internet, noisy neighbors, and unclear instructions. His teacher listened patiently but pointed out that he had spent the previous weekend playing video games. She explained that inventing excuses would not help him improve. The student eventually admitted the real reason and promised to manage his time more responsibly. His next project was submitted two days early.",
         "options": [
           {
             "letter": "A",
-            "text": "incorrigible"
+            "text": "confront"
           },
           {
             "letter": "B",
-            "text": "indolent"
+            "text": "rationalize"
           },
           {
             "letter": "C",
-            "text": "inert"
+            "text": "motivate"
           },
           {
             "letter": "D",
-            "text": "inept"
+            "text": "sojourn"
           }
         ],
         "answer": "B",
-        "answerWord": "indolent"
+        "answerWord": "rationalize"
       },
       {
         "number": 13,
-        "question": "The attorney's __________ questioning of the tribunal's procedural authority, delivered with a dismissive tone that implied the panel's legal reasoning was fundamentally incompetent, resulted in an immediate contempt finding and a brief recess — colleagues observing that effective advocacy required maintaining professional courtesy even in contexts of profound substantive disagreement.",
+        "question": "Scientists have found that music __________ can significantly help patients recovering from strokes regain their speech. By singing familiar songs, patients activate different areas of the brain that remain undamaged. Over weeks of regular sessions, many gradually relearn how to form words and sentences. Doctors now include this creative treatment in rehabilitation programs, alongside traditional medical care, because of its remarkable healing effects. Families often join the sessions and sing along with enthusiasm.",
         "options": [
           {
             "letter": "A",
-            "text": "impertinent"
+            "text": "therapy"
           },
           {
             "letter": "B",
-            "text": "impenitent"
+            "text": "iconoclast"
           },
           {
             "letter": "C",
-            "text": "impetuous"
+            "text": "volition"
           },
           {
             "letter": "D",
-            "text": "implausible"
+            "text": "antipathy"
           }
         ],
         "answer": "A",
-        "answerWord": "impertinent"
+        "answerWord": "therapy"
       },
       {
         "number": 14,
-        "question": "Senior physicians cautioned that treating any single diagnostic test as __________ risked anchoring clinical judgment on potentially misleading data, particularly in presentations where symptom profiles were consistent with multiple competing etiologies — sound medical practice requiring integration of test results with comprehensive clinical assessment rather than uncritical deference to any individual technological output.",
+        "question": "Taiwan's __________ space industry is attracting growing attention from international investors. Although the country launched its first locally built satellites only recently, engineers are developing increasingly sophisticated technology. Government funding and university research programs are helping the emerging sector expand quickly. Experts predict that within a decade, this developing industry could become an important contributor to the island's economy and global scientific cooperation. Several startups have already launched successful satellite missions.",
         "options": [
           {
             "letter": "A",
-            "text": "inimical"
+            "text": "tenable"
           },
           {
             "letter": "B",
-            "text": "ingenuous"
+            "text": "superfluous"
           },
           {
             "letter": "C",
-            "text": "indolent"
+            "text": "austere"
           },
           {
             "letter": "D",
-            "text": "infallible"
+            "text": "nascent"
           }
         ],
         "answer": "D",
-        "answerWord": "infallible"
+        "answerWord": "nascent"
       },
       {
         "number": 15,
-        "question": "The __________ volunteer's frank expression of surprise at the organization's reliance on outdated technology, while generating mild embarrassment among staff who had normalized the inefficiency, ultimately catalyzed a productive conversation about infrastructure investment that established insiders had been reluctant to initiate for fear of seeming critical.",
+        "question": "The young filmmaker quickly gained a reputation as a genuine __________ by challenging every convention of traditional cinema. She filmed entire movies without dialogue, rejected happy endings, and cast ordinary people instead of professional actors. Established directors dismissed her work as pretentious, but younger audiences embraced her rebellious style. Film scholars now credit her with transforming the industry and inspiring countless independent creators around the world. Her films are now studied in universities worldwide.",
         "options": [
           {
             "letter": "A",
-            "text": "inert"
+            "text": "phobia"
           },
           {
             "letter": "B",
-            "text": "inimical"
+            "text": "therapy"
           },
           {
             "letter": "C",
-            "text": "ingenuous"
+            "text": "iconoclast"
           },
           {
             "letter": "D",
-            "text": "insipid"
+            "text": "vertigo"
           }
         ],
         "answer": "C",
-        "answerWord": "ingenuous"
+        "answerWord": "iconoclast"
       },
       {
         "number": 16,
-        "question": "The rehabilitation counselor concluded with reluctance that the client's pattern of immediately reverting to previous behaviors following every structured intervention suggested a degree of resistance to modification that available therapeutic modalities were not adequately equipped to address without significantly more intensive and sustained engagement than the current program could provide.",
+        "question": "The museum hired a highly __________ historian to write detailed descriptions for its new exhibition on ancient China. She had spent forty years studying classical texts, archaeological discoveries, and imperial records. Her scholarly explanations helped visitors understand the cultural significance of each artifact. Although some worried her writing would be too academic, she skillfully made her vast knowledge accessible to ordinary readers of all ages. The exhibition attracted record crowds in its first month.",
         "options": [
           {
             "letter": "A",
-            "text": "impudent"
+            "text": "halcyon"
           },
           {
             "letter": "B",
-            "text": "incorrigible"
+            "text": "erudite"
           },
           {
             "letter": "C",
-            "text": "inadvertent"
+            "text": "servile"
           },
           {
             "letter": "D",
-            "text": "inept"
+            "text": "nascent"
           }
         ],
         "answer": "B",
-        "answerWord": "incorrigible"
+        "answerWord": "erudite"
       },
       {
         "number": 17,
-        "question": "Anthropologists studying the community documented how behavior that was __________ toward its foundational ceremonial objects — apparently harmless to outsiders but treated as fundamental attacks on social cohesion — created ruptures in the collective identity that the ritual practices were understood to embody and sustain across generations.",
+        "question": "Many people have a __________ of spiders, even though most species are completely harmless to humans. Simply seeing a photograph can cause their hearts to race and their hands to sweat. Psychologists believe this intense fear may have evolutionary origins, since some spiders were dangerous to our ancestors. Fortunately, gradual exposure treatments help many sufferers reduce their anxiety and eventually live more comfortably. Some patients eventually even keep spiders as pets.",
         "options": [
           {
             "letter": "A",
-            "text": "innocuous"
+            "text": "sojourn"
           },
           {
             "letter": "B",
-            "text": "inadvertent"
+            "text": "volition"
           },
           {
             "letter": "C",
-            "text": "inimical"
+            "text": "phobia"
           },
           {
             "letter": "D",
-            "text": "ingenuous"
+            "text": "vertigo"
           }
         ],
         "answer": "C",
-        "answerWord": "inimical"
+        "answerWord": "phobia"
       },
       {
         "number": 18,
-        "question": "Legislators eventually adopted explicit protocols prohibiting advocacy groups from being __________ toward committee members in hallways and informal settings outside formal testimony periods, recognizing that unrestricted persistent contact enabled well-resourced interests to exert influence that less organized constituencies were structurally unable to match.",
+        "question": "The judge refused to allow testimony about the defendant's childhood, ruling that it was not __________ to the question of whether he had committed the robbery. She reminded both lawyers that only relevant evidence directly connected to the crime could be presented to the jury. Irrelevant information, she explained, might unfairly influence their decision. The trial proceeded efficiently once both sides focused on pertinent facts. The jury reached its verdict within two days.",
         "options": [
           {
             "letter": "A",
-            "text": "impertinent"
+            "text": "germane"
           },
           {
             "letter": "B",
-            "text": "impetuous"
+            "text": "conducive"
           },
           {
             "letter": "C",
-            "text": "inert"
+            "text": "halcyon"
           },
           {
             "letter": "D",
-            "text": "inadvertent"
+            "text": "superfluous"
           }
         ],
         "answer": "A",
-        "answerWord": "impertinent"
+        "answerWord": "germane"
       },
       {
         "number": 19,
-        "question": "The __________ reply that the intern submitted in response to a client's reasonable service complaint, dismissing the concern as reflecting a misunderstanding of standard industry practice without any acknowledgment of the client's legitimate frustration, required immediate managerial intervention and a personal apology to prevent permanent damage to a commercially significant professional relationship.",
+        "question": "Climbers ascending the narrow mountain ridge are often warned about __________, since looking down at the steep drop can make even experienced mountaineers feel dizzy. The sensation of spinning can cause people to lose their balance at dangerous moments. Guides recommend focusing on the path directly ahead and moving slowly. Anyone who suddenly feels light-headed should stop immediately, sit down, and wait until the feeling passes. Resting briefly usually restores normal balance within minutes.",
         "options": [
           {
             "letter": "A",
-            "text": "impudent"
+            "text": "vertigo"
           },
           {
             "letter": "B",
-            "text": "impenitent"
+            "text": "antipathy"
           },
           {
             "letter": "C",
-            "text": "inert"
+            "text": "volition"
           },
           {
             "letter": "D",
-            "text": "inimical"
+            "text": "iconoclast"
           }
         ],
         "answer": "A",
-        "answerWord": "impudent"
+        "answerWord": "vertigo"
       },
       {
         "number": 20,
-        "question": "The organizational culture had become so thoroughly __________ in its response to competitive pressures that capable employees motivated to drive change eventually transferred to more dynamic environments, leaving behind a workforce that had collectively adapted to minimal initiative and passive acceptance of institutional decline.",
+        "question": "Economists argue that political stability and transparent laws are __________ to foreign investment, since companies prefer to operate in countries where rules are predictable. Corruption, frequent policy changes, and weak courts discourage international businesses from committing long-term capital. Governments seeking economic growth therefore work to create helpful conditions that attract investors, such as fair regulations, efficient infrastructure, and reliable legal protections for property. Countries that ignore these principles often struggle to compete.",
         "options": [
           {
             "letter": "A",
-            "text": "implausible"
+            "text": "servile"
           },
           {
             "letter": "B",
-            "text": "incorrigible"
+            "text": "halcyon"
           },
           {
             "letter": "C",
-            "text": "ingenuous"
+            "text": "tenable"
           },
           {
             "letter": "D",
-            "text": "inert"
+            "text": "conducive"
           }
         ],
         "answer": "D",
-        "answerWord": "inert"
+        "answerWord": "conducive"
       }
     ]
   }
 };
 
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
-  "impenitent": [
-    "not feeling shame or regret for wrongdoing.",
-    "不悔過的；執迷不悟的"
+  "confront": [
+    "to come face-to-face with.",
+    "面對；遭遇"
   ],
-  "impertinent": [
-    "not showing proper respect; irrelevant.",
-    "無禮的；不相關的"
+  "antipathy": [
+    "dislike, distaste, hate.",
+    "反感；厭惡"
   ],
-  "impetuous": [
-    "acting quickly without thought; impulsive.",
-    "衝動的；魯莽的"
+  "servile": [
+    "slavish, submissive.",
+    "奴性的；卑屈的"
   ],
-  "impiety": [
-    "lack of reverence for sacred things.",
-    "不虔誠；褻瀆"
+  "volition": [
+    "willpower, choice.",
+    "意志；自願"
   ],
-  "implausible": [
-    "not seeming reasonable or probable.",
-    "難以置信的；不合理的"
+  "sojourn": [
+    "temporary stay.",
+    "逗留；旅居"
   ],
-  "importune": [
-    "to harass with persistent requests.",
-    "強求；死纏爛打"
+  "austere": [
+    "simple, unadorned, harsh.",
+    "嚴峻的；簡樸的"
   ],
-  "impudent": [
-    "not showing due respect; presumptuous.",
-    "無禮的；放肆的"
+  "felicitous": [
+    "well-suited, pleasing, happy.",
+    "恰當的；令人愉悅的"
   ],
-  "impugn": [
-    "to challenge as false; to call into question.",
-    "質疑；駁斥"
+  "halcyon": [
+    "idyllically peaceful, calm.",
+    "寧靜的；太平的"
   ],
-  "inadvertent": [
-    "not resulting from deliberate intent; accidental.",
-    "無意的；疏忽造成的"
+  "tenable": [
+    "supportable, defendable.",
+    "站得住腳的；可防守的"
   ],
-  "incisive": [
-    "intelligently analytical and clear-thinking.",
-    "深刻的；一針見血的"
+  "superfluous": [
+    "excessive, surplus, unnecessary.",
+    "多餘的；過剩的"
   ],
-  "incorrigible": [
-    "not able to be corrected or reformed.",
-    "屢教不改的；不可救藥的"
+  "motivate": [
+    "to inspire, stimulate, provoke.",
+    "激發；促動"
   ],
-  "indolent": [
-    "wanting to avoid activity; lazy.",
-    "懶惰的；懶散的"
+  "rationalize": [
+    "to give a reason other than the real one.",
+    "合理化；為…找藉口"
   ],
-  "inept": [
-    "having or showing no skill; incompetent.",
-    "不稱職的；笨拙的"
+  "therapy": [
+    "healing or curing process.",
+    "治療；療法"
   ],
-  "inert": [
-    "lacking the ability to move or act; chemically inactive.",
-    "惰性的；不活躍的"
+  "nascent": [
+    "beginning to exist or develop.",
+    "初生的；新興的"
   ],
-  "inexorable": [
-    "impossible to stop or prevent; relentless.",
-    "不可阻擋的；無情的"
+  "iconoclast": [
+    "image-breaker, attacker of traditional beliefs.",
+    "反傳統者；打破舊習者"
   ],
-  "infallible": [
-    "incapable of making mistakes or being wrong.",
-    "絕對可靠的；無誤的"
+  "erudite": [
+    "very scholarly, learned.",
+    "博學的"
   ],
-  "ingenuous": [
-    "innocent and unsuspecting; candid.",
-    "天真的；坦率的"
+  "phobia": [
+    "persistent fear, strong dislike.",
+    "恐懼症"
   ],
-  "inimical": [
-    "tending to obstruct; hostile; adverse.",
-    "有敵意的；有害的"
+  "germane": [
+    "appropriate, relevant.",
+    "密切相關的；切題的"
   ],
-  "innocuous": [
-    "not harmful or offensive.",
-    "無害的；無惡意的"
+  "vertigo": [
+    "dizziness.",
+    "眩暈"
   ],
-  "insipid": [
-    "lacking vigor, interest, or strong flavor.",
-    "乏味的；平淡無奇的"
+  "conducive": [
+    "leading, helpful.",
+    "有助於…的"
   ]
 });
