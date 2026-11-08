@@ -210,6 +210,7 @@ function render() {
   els.cardImage.src = makeIllustration(card);
   els.cardImage.alt = `${card.word} illustration`;
   els.sentence.replaceChildren(...makeSentenceNodes(card));
+  renderAdvanced(card);
   els.cardCounter.textContent = `${state.index + 1} / ${state.order.length}`;
   els.meterFill.style.width = `${((state.index + 1) / state.order.length) * 100}%`;
   renderWordList();
@@ -413,9 +414,9 @@ function findBarrons(token) {
   return barronsForms.get(key) || null;
 }
 
-function makeSentenceNodes(card) {
+function makeSentenceNodes(card, text) {
   if (!barronsForms) buildBarronsForms();
-  const sentence = fillSentence(card);
+  const sentence = text == null ? fillSentence(card) : text;
   const phrasePart = barronsPhrases.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
   const wordPart = "[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'-]*";
   const splitter = new RegExp(`(${phrasePart ? phrasePart + "|" : ""}${wordPart})`, "gi");
@@ -449,8 +450,12 @@ function makeSentenceNodes(card) {
       button.append(badge);
     }
     button.addEventListener("pointerenter", event => {
-      if (event.pointerType === "mouse") setLookup(head, definition, chinese);
+      if (event.pointerType !== "mouse") return;
+      setLookup(head, definition, chinese);
+      clearTimeout(hoverTimer);
+      hoverTimer = setTimeout(() => speak(part.replace(/'s$/i, "")), 180);
     });
+    button.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
     button.addEventListener("click", event => {
       event.stopPropagation();
       if (isTarget) { speak(head); return; }
@@ -458,6 +463,27 @@ function makeSentenceNodes(card) {
     });
     return button;
   });
+}
+
+// ---------- Advanced sentence (Units 31–46): shown under the original sentence ----------
+function renderAdvanced(card) {
+  let block = document.querySelector("#advancedBlock");
+  if (!block) {
+    block = document.createElement("div");
+    block.className = "sentence-block advanced-block";
+    block.id = "advancedBlock";
+    block.innerHTML = `<div class="sentence-heading"><span>Advanced Sentence <small>★ review words from other units</small></span><button class="speak-button" id="speakAdvanced" type="button">Sentence</button></div><p class="sentence" id="advSentence"></p><p class="translation" id="advTranslation"></p>`;
+    els.translation.closest(".sentence-block").insertAdjacentElement("afterend", block);
+    block.querySelector("#speakAdvanced").addEventListener("click", event => {
+      event.stopPropagation();
+      const current = currentCard();
+      if (current.advSentence) speak(current.advSentence, 0.86);
+    });
+  }
+  block.hidden = !card.advSentence;
+  if (!card.advSentence) return;
+  block.querySelector("#advSentence").replaceChildren(...makeSentenceNodes(card, card.advSentence));
+  block.querySelector("#advTranslation").textContent = card.advTranslation || "";
 }
 
 function openBarronsCard(head, unit, cardIndex) {
