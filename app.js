@@ -380,7 +380,8 @@ function buildBarronsForms() {
   const add = (form, head) => { if (form.length > 2 && !forms.has(form)) forms.set(form, head); };
   const heads = Object.keys(index);
   heads.forEach(head => add(head, head)); // exact headwords win over generated forms
-  heads.forEach(head => {
+  // Words ending in -e claim shared forms first (waning -> wane, not wan; loathing -> loathe, not loath).
+  [...heads].sort((a, b) => Number(b.endsWith("e")) - Number(a.endsWith("e"))).forEach(head => {
     if (/\s/.test(head)) { barronsPhrases.push(head); return; }
     const w = head;
     ["s", "es", "d", "ed", "ing", "ly", "ness", "ment"].forEach(suf => add(w + suf, head));
