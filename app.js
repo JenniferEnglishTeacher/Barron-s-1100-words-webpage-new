@@ -62,7 +62,57 @@ function init() {
   bindEvents();
   createMemoryChant();
   createQuizSection();
+  createQuizLinks();
+  applyHashTarget();
   render();
+  window.addEventListener("hashchange", () => {
+    applyHashTarget();
+    render();
+  });
+}
+
+// ---------- Online HTML quiz links (top bar) ----------
+const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
+const REVIEW_QUIZZES = {
+  "10": { label: "Units 1–10 Review Quiz", file: "Units1-10_Difficulty_Vocab_Quiz.html" },
+  "20": { label: "Units 11–20 Review Quiz", file: "Units11-20_Difficulty_Vocab_Quiz.html" }
+};
+
+function createQuizLinks() {
+  if (document.querySelector("#quizLinks")) return;
+  const wrap = document.createElement("div");
+  wrap.className = "quiz-links";
+  wrap.id = "quizLinks";
+  els.unitTitle.insertAdjacentElement("afterend", wrap);
+  els.quizLinks = wrap;
+}
+
+function renderQuizLinks() {
+  if (!els.quizLinks) return;
+  const unit = state.unit;
+  const links = [{ label: `Unit ${unit} Online Quiz`, file: `Week${String(unit).padStart(2, "0")}_Quiz_Barrons1100.html` }];
+  if (REVIEW_QUIZZES[unit]) links.push(REVIEW_QUIZZES[unit]);
+  els.quizLinks.replaceChildren(...links.map((link, i) => {
+    const a = document.createElement("a");
+    a.className = i === 0 ? "quiz-link" : "quiz-link review";
+    a.href = QUIZ_BASE + link.file;
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.textContent = `📝 ${link.label}`;
+    return a;
+  }));
+}
+
+// ---------- Jump to a card from a link like unit7.html#w=deplore ----------
+function applyHashTarget() {
+  const match = location.hash.match(/^#w=(.+)$/);
+  if (!match) return;
+  const target = decodeURIComponent(match[1]).toLowerCase();
+  const realIndex = cards().findIndex(card => card.word.toLowerCase() === target);
+  if (realIndex < 0) return;
+  state.index = state.order.indexOf(realIndex);
+  state.flipped = true;
+  setTimeout(() => els.flashcard.scrollIntoView({ behavior: "smooth", block: "center" }), 150);
 }
 
 function createMemoryChant() {
@@ -91,7 +141,7 @@ function bindEvents() {
   els.nextCard.addEventListener("click", () => moveCard(1));
   els.flipCard.addEventListener("click", flipCard);
   els.flashcard.addEventListener("click", event => {
-    if (!event.target.closest("button")) flipCard();
+    if (!event.target.closest("button, a")) flipCard();
   });
   els.flashcard.addEventListener("keydown", event => {
     if (event.key === "Enter" || event.key === " ") {
@@ -154,7 +204,8 @@ function render() {
     els.memoryChant.textContent = card.memoryChant ? `Memory chant: ${card.memoryChant}` : "";
     els.memoryChant.hidden = !card.memoryChant;
   }
-  els.synonyms.textContent = `Synonyms: ${card.synonyms}`;
+  renderSynonyms(card);
+  renderQuizLinks();
   els.translation.textContent = card.translation;
   els.cardImage.src = makeIllustration(card);
   els.cardImage.alt = `${card.word} illustration`;
@@ -166,21 +217,80 @@ function render() {
   renderQuiz();
 }
 
+// Sidebar: click = jump + speak; mouse hover = speak (short delay so sweeping the list stays quiet).
+// Buttons are reused between renders so the list never jumps or re-triggers hover.
+let hoverTimer = null;
+
 function renderWordList() {
-  els.wordList.replaceChildren();
-  cards().forEach((card, realIndex) => {
-    const button = document.createElement("button");
+  const list = cards();
+  if (els.wordList.children.length !== list.length) {
+    els.wordList.replaceChildren(...list.map((card, realIndex) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.dataset.real = realIndex;
+      button.addEventListener("click", () => {
+        clearTimeout(hoverTimer);
+        state.index = state.order.indexOf(realIndex);
+        state.flipped = false;
+        render();
+        speak(card.word);
+      });
+      button.addEventListener("pointerenter", event => {
+        if (event.pointerType !== "mouse") return;
+        clearTimeout(hoverTimer);
+        hoverTimer = setTimeout(() => speak(card.word), 180);
+      });
+      button.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
+      return button;
+    }));
+  }
+  [...els.wordList.children].forEach(button => {
+    const realIndex = Number(button.dataset.real);
     const orderedIndex = state.order.indexOf(realIndex);
     button.className = orderedIndex === state.index ? "word-tab active" : "word-tab";
-    button.type = "button";
-    button.textContent = `${orderedIndex + 1}. ${card.word}`;
-    button.addEventListener("click", () => {
-      state.index = orderedIndex;
-      state.flipped = false;
-      render();
-    });
-    els.wordList.append(button);
+    button.textContent = `${orderedIndex + 1}. ${list[realIndex].word}`;
   });
+  const active = els.wordList.querySelector(".word-tab.active");
+  if (active) active.scrollIntoView({ block: "nearest" });
+}
+
+// Synonyms: each word -> hover/🔊 to hear it, click to open Cambridge English–Chinese (Traditional).
+const CAMBRIDGE = "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/";
+
+function renderSynonyms(card) {
+  const words = String(card.synonyms || "").split(/\s*[,;]\s*/).map(w => w.trim()).filter(Boolean);
+  const label = document.createElement("span");
+  label.className = "syn-label";
+  label.textContent = "Synonyms: ";
+  const chips = words.map(word => {
+    const chip = document.createElement("span");
+    chip.className = "syn-chip";
+    const link = document.createElement("a");
+    link.href = CAMBRIDGE + encodeURIComponent(word.toLowerCase().replace(/\s+/g, "-"));
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = word;
+    link.title = `Open "${word}" in Cambridge Dictionary (英文-繁體中文)`;
+    link.addEventListener("pointerenter", event => {
+      if (event.pointerType !== "mouse") return;
+      clearTimeout(hoverTimer);
+      hoverTimer = setTimeout(() => speak(word), 180);
+    });
+    link.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
+    link.addEventListener("click", event => event.stopPropagation());
+    const sound = document.createElement("button");
+    sound.type = "button";
+    sound.className = "syn-speak";
+    sound.setAttribute("aria-label", `Listen: ${word}`);
+    sound.textContent = "🔊";
+    sound.addEventListener("click", event => {
+      event.stopPropagation();
+      speak(word);
+    });
+    chip.append(link, sound);
+    return chip;
+  });
+  els.synonyms.replaceChildren(label, ...chips);
 }
 
 function createQuizSection() {
@@ -258,19 +368,108 @@ function renderQuiz() {
   els.quizScore.textContent = `${correctCount} / ${quiz.length}`;
 }
 
+// ---------- Barron's words inside sample sentences ----------
+// Maps every inflected form (abounds, abounded, abounding, ...) to its Barron's headword.
+let barronsForms = null;
+let barronsPhrases = [];
+
+function buildBarronsForms() {
+  const index = window.BARRONS_INDEX || {};
+  const forms = new Map();
+  const add = (form, head) => { if (form.length > 2 && !forms.has(form)) forms.set(form, head); };
+  const heads = Object.keys(index);
+  heads.forEach(head => add(head, head)); // exact headwords win over generated forms
+  heads.forEach(head => {
+    if (/\s/.test(head)) { barronsPhrases.push(head); return; }
+    const w = head;
+    ["s", "es", "d", "ed", "ing", "ly", "ness", "ment"].forEach(suf => add(w + suf, head));
+    if (w.endsWith("e")) {
+      const stem = w.slice(0, -1);
+      ["ing", "ion", "ions", "ation", "ations"].forEach(suf => add(stem + suf, head));
+    }
+    if (/[^aeiou]y$/.test(w)) {
+      const stem = w.slice(0, -1);
+      ["ies", "ied", "ily", "iness"].forEach(suf => add(stem + suf, head));
+    }
+    if (w.endsWith("le")) add(w.slice(0, -1) + "y", head);           // amenable -> amenably
+    if (w.endsWith("ic")) add(w + "ally", head);                    // laconic -> laconically
+    if (w.endsWith("ate")) add(w.slice(0, -1) + "ion", head);       // allocate -> allocation (already via e)
+    if (/[^aeiou][aeiou][bdgklmnprt]$/.test(w)) {                   // abet -> abetted, abetting
+      const last = w.slice(-1);
+      ["ed", "ing"].forEach(suf => add(w + last + suf, head));
+    }
+  });
+  barronsPhrases.sort((a, b) => b.length - a.length);
+  barronsForms = forms;
+}
+
+// Generated forms that look like a Barron's word but mean something else.
+const NOT_BARRONS = new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]);
+
+function findBarrons(token) {
+  if (!barronsForms) buildBarronsForms();
+  const key = token.toLowerCase();
+  if (NOT_BARRONS.has(key)) return null;
+  return barronsForms.get(key) || null;
+}
+
 function makeSentenceNodes(card) {
+  if (!barronsForms) buildBarronsForms();
   const sentence = fillSentence(card);
-  return sentence.split(/(\b[A-Za-z][A-Za-z'-]*\b)/g).map(part => {
-    if (!/^[A-Za-z]/.test(part)) return document.createTextNode(part);
+  const phrasePart = barronsPhrases.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
+  const wordPart = "[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'-]*";
+  const splitter = new RegExp(`(${phrasePart ? phrasePart + "|" : ""}${wordPart})`, "gi");
+  const ownWord = card.word.toLowerCase();
+
+  return sentence.split(splitter).map(part => {
+    if (!part || !/^[A-Za-zÀ-ÿ]/.test(part)) return document.createTextNode(part || "");
+    const head = findBarrons(part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, ""));
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = part;
+
+    if (!head) {
+      button.addEventListener("click", event => {
+        event.stopPropagation();
+        lookupWord(part, card);
+      });
+      return button;
+    }
+
+    const [unit, cardIndex, definition, chinese] = window.BARRONS_INDEX[head];
+    const isTarget = head === ownWord;
+    button.className = isTarget ? "barrons-word target" : "barrons-word";
+    button.title = isTarget
+      ? `This card's word: ${head}`
+      : `Barron's 1100 — Unit ${unit}: ${head}. Click to open its flashcard.`;
+    if (!isTarget) {
+      const badge = document.createElement("sup");
+      badge.className = "unit-badge";
+      badge.textContent = `U${unit}`;
+      button.append(badge);
+    }
+    button.addEventListener("pointerenter", event => {
+      if (event.pointerType === "mouse") setLookup(head, definition, chinese);
+    });
     button.addEventListener("click", event => {
       event.stopPropagation();
-      lookupWord(part, card);
+      if (isTarget) { speak(head); return; }
+      openBarronsCard(head, unit, cardIndex);
     });
     return button;
   });
+}
+
+function openBarronsCard(head, unit, cardIndex) {
+  if (String(unit) === String(state.unit)) {
+    state.index = state.order.indexOf(cardIndex);
+    state.flipped = true;
+    render();
+    speak(head);
+    els.flashcard.scrollIntoView({ behavior: "smooth", block: "center" });
+    return;
+  }
+  location.href = `unit${unit}.html#w=${encodeURIComponent(head)}`;
 }
 
 function fillSentence(card) {
@@ -298,19 +497,21 @@ async function fetchDictionary(word, displayWord) {
   let chinese = "目前沒有離線中文釋義；可之後加入本地字典。";
 
   try {
-    const response = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+    const response = await fetch(`https://api.datamuse.com/words?sp=${encodeURIComponent(word)}&md=dp&max=1`, { signal: AbortSignal.timeout(5000) });
     if (response.ok) {
       const data = await response.json();
-      const meaning = data[0]?.meanings?.[0];
-      const definition = meaning?.definitions?.[0]?.definition;
-      if (definition) english = definition;
+      const raw = data[0]?.defs?.[0];
+      if (raw) {
+        const [pos, ...rest] = raw.split("\t");
+        english = `${pos} — ${rest.join(" ")}`;
+      }
     }
   } catch (error) {
     english = "English lookup is offline right now. The local SAT words still work.";
   }
 
   try {
-    const response = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|zh-TW`);
+    const response = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|zh-TW`, { signal: AbortSignal.timeout(5000) });
     if (response.ok) {
       const data = await response.json();
       if (data.responseData?.translatedText) chinese = data.responseData.translatedText;
