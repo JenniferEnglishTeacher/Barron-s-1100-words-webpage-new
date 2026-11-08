@@ -102,7 +102,7 @@ function showTip(btn, key) {
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
     ? "Click to remove from review list 再點一次移除"
-    : "Click to add to review list + open flashcard 點選加入複習清單";
+    : "Click to add to review list 點選加入複習清單";
   tip.classList.toggle("is-marked", isMarked);
   tip.hidden = false;
 
@@ -131,7 +131,6 @@ function toggleWord(key) {
   } else {
     marked.push(key);
     speak(card.w);
-    window.open(`unit${card.unit}.html#w=${encodeURIComponent(card.w)}`, "_blank", "noopener");
   }
   saveMarked();
   refresh();
