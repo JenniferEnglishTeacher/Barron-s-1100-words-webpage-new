@@ -814,3 +814,26 @@ select {
   .unit-board { grid-template-columns: 1fr; }
   .search-box input { width: 130px; }
 }
+
+/* Unit Board hover card */
+.word-tip {
+  position: fixed;
+  z-index: 50;
+  width: min(340px, calc(100vw - 16px));
+  border: 1px solid rgba(8, 127, 140, 0.35);
+  border-radius: 10px;
+  padding: 12px 14px 10px;
+  background: #ffffff;
+  box-shadow: 0 14px 34px rgba(24, 43, 61, 0.22);
+  pointer-events: none;
+}
+.word-tip[hidden] { display: none; }
+.tip-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+.tip-head strong { color: var(--teal-dark); font-size: 22px; }
+.tip-pos { color: var(--coral); font-weight: 800; font-size: 14px; }
+.tip-unit { margin-left: auto; color: var(--muted); font-size: 12px; font-weight: 700; }
+.tip-en { margin: 6px 0 2px; color: var(--ink); font-size: 16px; font-weight: 600; line-height: 1.35; }
+.tip-zh { margin: 0 0 8px; color: var(--ink); font-size: 17px; }
+.tip-hint { margin: 0; border-top: 1px solid var(--line); padding-top: 6px; color: var(--muted); font-size: 12px; }
+.word-tip.is-marked { border-color: #c62828; }
+.word-tip.is-marked .tip-hint { color: #c62828; }

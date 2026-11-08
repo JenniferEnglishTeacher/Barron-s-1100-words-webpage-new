@@ -59,13 +59,18 @@ function buildBoard() {
       btn.className = "board-word";
       btn.dataset.key = key;
       btn.textContent = card.w;
-      btn.title = `${card.p} ${card.d}  ${card.c}`;
       btn.addEventListener("pointerenter", event => {
         if (event.pointerType !== "mouse") return;
+        showTip(btn, key);
         clearTimeout(hoverTimer);
         hoverTimer = setTimeout(() => speak(card.w), 150);
       });
-      btn.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
+      btn.addEventListener("pointerleave", () => {
+        clearTimeout(hoverTimer);
+        hideTip();
+      });
+      btn.addEventListener("focus", () => showTip(btn, key));
+      btn.addEventListener("blur", hideTip);
       btn.addEventListener("click", () => toggleWord(key));
       words.append(btn);
     });
@@ -74,6 +79,49 @@ function buildBoard() {
   });
   board.replaceChildren(frag);
 }
+
+// ---------- Hover card: definition preview before deciding to mark ----------
+const tip = document.createElement("div");
+tip.className = "word-tip";
+tip.setAttribute("role", "tooltip");
+tip.hidden = true;
+document.body.append(tip);
+
+function showTip(btn, key) {
+  const card = lookup.get(key);
+  const isMarked = marked.includes(key);
+  tip.innerHTML = `
+    <div class="tip-head"><strong></strong><span class="tip-pos"></span><span class="tip-unit"></span></div>
+    <p class="tip-en"></p>
+    <p class="tip-zh"></p>
+    <p class="tip-hint"></p>`;
+  tip.querySelector("strong").textContent = card.w;
+  tip.querySelector(".tip-pos").textContent = card.p;
+  tip.querySelector(".tip-unit").textContent = `Unit ${card.unit}`;
+  tip.querySelector(".tip-en").textContent = card.d;
+  tip.querySelector(".tip-zh").textContent = card.c;
+  tip.querySelector(".tip-hint").textContent = isMarked
+    ? "Click to remove from review list 再點一次移除"
+    : "Click to add to review list + open flashcard 點選加入複習清單";
+  tip.classList.toggle("is-marked", isMarked);
+  tip.hidden = false;
+
+  const r = btn.getBoundingClientRect();
+  const tw = tip.offsetWidth;
+  const th = tip.offsetHeight;
+  let left = r.left + r.width / 2 - tw / 2;
+  left = Math.max(8, Math.min(left, window.innerWidth - tw - 8));
+  let top = r.bottom + 8;
+  if (top + th > window.innerHeight - 8) top = r.top - th - 8;
+  tip.style.left = `${left}px`;
+  tip.style.top = `${top}px`;
+}
+
+function hideTip() {
+  tip.hidden = true;
+}
+
+window.addEventListener("scroll", hideTip, { passive: true });
 
 function toggleWord(key) {
   clearTimeout(hoverTimer);
@@ -87,6 +135,8 @@ function toggleWord(key) {
   }
   saveMarked();
   refresh();
+  const btn = board.querySelector(`.board-word[data-key="${key}"]`);
+  if (!tip.hidden && btn) showTip(btn, key);
 }
 
 function refresh() {
