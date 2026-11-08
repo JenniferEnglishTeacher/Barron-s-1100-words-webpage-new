@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "vigorous campaigning, advocacy for a cause.",
           "chinese": "行動主義；社會運動"
-        }
+        },
+        "advSentence": "Decades of grassroots activism by indigent farmers in the river valley, who were adamant that pernicious pesticides be banned, eventually galvanized lawmakers to promulgate stricter environmental regulations across the region despite fierce opposition from chemical manufacturers.",
+        "advTranslation": "數十年來，河谷地區的貧困農民持續投入基層社會運動，堅持要求禁用有害農藥，最終不顧化學製造商的強烈反對，促使立法者在全區頒布更嚴格的環境法規。"
       },
       {
         "word": "aloof",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "reserved, distant, uninvolved.",
           "chinese": "冷淡的；疏遠的"
-        }
+        },
+        "advSentence": "Although critics construed the physicist's aloof demeanor at conferences as disdain, her confidants attested that she was merely reticent, preferring to ponder recondite equations rather than engage in mundane small talk.",
+        "advTranslation": "雖然批評者把這位物理學家在研討會上的冷漠態度解讀為輕蔑，但她的知己證實她只是沉默寡言，寧可思索深奧的方程式，也不願參與平淡無奇的閒聊。"
       },
       {
         "word": "ameliorate",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to relieve, improve, make better.",
           "chinese": "改善；減輕"
-        }
+        },
+        "advSentence": "To ameliorate the malnutrition that was prevalent among rural children, the agency deployed mobile clinics and stipulated that every school lunch include fortified grains, measures that soon yielded tangible improvements in growth rates.",
+        "advTranslation": "為了改善鄉村兒童普遍營養不良的問題，該機構派駐行動診所，並規定每份學校午餐都必須包含營養強化穀物；這些措施很快就讓孩子的生長率有了具體的提升。"
       },
       {
         "word": "atrophy",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to waste away from lack of use.",
           "chinese": "萎縮；衰退"
-        }
+        },
+        "advSentence": "Much like the limbs of a sedentary patient confined to bed, astronauts' leg muscles begin to atrophy in microgravity, so flight surgeons prescribe a meticulous exercise regimen to obviate weakness that could leave crews incapacitated upon landing.",
+        "advTranslation": "就像長期臥床、缺乏活動的病人四肢一樣，太空人的腿部肌肉在微重力環境中會開始萎縮，因此航太醫師會開立一套嚴謹細緻的運動計畫，以預防肌力衰退導致太空人返回地面時失去行動能力。"
       },
       {
         "word": "benevolent",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "charitable, kindly, generous.",
           "chinese": "仁慈的；慈善的"
-        }
+        },
+        "advSentence": "Unlike the parsimonious factory owners of his era, the benevolent industrialist funded libraries and hospitals for his workers' progeny, an altruistic legacy that historians still deem laudable at a time when most employers regarded laborers as expendable.",
+        "advTranslation": "與同時代吝嗇的工廠老闆不同，這位仁慈的實業家出資為員工的子女興建圖書館和醫院；這份無私的遺澤至今仍被歷史學家認為值得讚揚——畢竟在那個年代，多數雇主都把勞工視為可以隨意犧牲的人力。"
       },
       {
         "word": "criterion",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "standard or rule used for judging.",
           "chinese": "標準；準則"
-        }
+        },
+        "advSentence": "Because the committee's sole criterion for the prestigious award was scholarly impact, several prolific researchers whose output was merely voluminous rather than influential were relegated to the lower tiers of the shortlist.",
+        "advTranslation": "由於委員會評選這項崇高獎項的唯一標準是學術影響力，幾位著作雖多、但只是數量龐大而缺乏影響力的多產研究者，便被降到決選名單的後段。"
       },
       {
         "word": "cynic",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "skeptic, one who doubts others' good intentions.",
           "chinese": "憤世嫉俗者；犬儒"
-        }
+        },
+        "advSentence": "A confirmed cynic, the journalist scoffed at the senator's ostentatious charity gala, surmising that its true purpose was not generosity but a pretext for soliciting donations from affluent lobbyists seeking favorable legislation.",
+        "advTranslation": "這位記者是個徹頭徹尾的憤世嫉俗者，他嘲笑參議員那場鋪張炫耀的慈善晚宴，推測其真正目的並非行善，而是藉機向尋求有利立法的富有遊說人士募款。"
       },
       {
         "word": "guise",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "outward appearance, often false.",
           "chinese": "偽裝；外觀"
-        }
+        },
+        "advSentence": "Under the guise of a routine archaeological survey, the expedition leader surreptitiously removed priceless artifacts from the temple sanctuary, a flagrant act of plunder that remained undetected until an astute curator scrutinized the museum's inventory.",
+        "advTranslation": "這名探險隊隊長假借例行考古調查之名，暗中從神殿聖所搬走無價的文物；這種明目張膽的掠奪行為一直未被察覺，直到一位精明的策展人仔細檢查博物館的館藏清單才曝光。"
       },
       {
         "word": "iniquity",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "wickedness, gross injustice.",
           "chinese": "邪惡；不公正"
-        }
+        },
+        "advSentence": "In the decades before the Civil War, the abolitionist's vitriolic pamphlets denounced the iniquity of a system that subjugated millions, and her trenchant prose forced even indifferent readers to acknowledge the moral catastrophe unfolding in their own nation.",
+        "advTranslation": "南北戰爭前的數十年間，這位廢奴主義者以尖酸刻薄的小冊子痛斥一個奴役數百萬人的制度之邪惡不公，她犀利的文筆迫使連漠不關心的讀者也不得不承認身邊在自己國家正在發生的道德浩劫。"
       },
       {
         "word": "largess",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "generosity, generous gifts.",
           "chinese": "慷慨的贈與；慷慨"
-        }
+        },
+        "advSentence": "The emperor's largess, which included lavish banquets, gold coins tossed to the throng, and sumptuous gifts to loyal generals, was less a sign of generosity than a calculated strategy to quell incipient dissent.",
+        "advTranslation": "皇帝的慷慨賞賜——包括盛大的宴席、撒向群眾的金幣，以及送給忠心將領的奢華禮物——與其說是出於大方，不如說是為了平息剛萌芽的異議而精心算計的策略。"
       },
       {
         "word": "maim",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to disable, injure seriously.",
           "chinese": "使殘廢；使受重傷"
-        }
+        },
+        "advSentence": "Landmines scattered across former battlefields in Southeast Asia continue to maim farmers and children decades after the cessation of hostilities, an insidious legacy that humanitarian groups implore governments to eradicate through systematic clearance programs.",
+        "advTranslation": "戰火停止數十年後，散布在東南亞昔日戰場上的地雷仍不斷炸傷農民與孩童，造成終身殘疾；人道組織懇求各國政府透過系統性的排雷計畫，徹底根除這項陰險的戰爭遺毒。"
       },
       {
         "word": "mercenary",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "greedy, motivated only by money.",
           "chinese": "唯利是圖的"
-        }
+        },
+        "advSentence": "Critics castigated the pharmaceutical firm's mercenary decision to quintuple the price of a lifesaving drug, arguing that exploiting vulnerable patients for lucrative profits violated the most basic ethics of medicine.",
+        "advTranslation": "批評者嚴厲譴責這家藥廠唯利是圖，將一種救命藥物的價格調漲五倍，認為剝削脆弱的病患來牟取暴利，違背了最基本的醫學倫理。"
       },
       {
         "word": "mollify",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to appease, pacify, calm.",
           "chinese": "撫慰；平息"
-        }
+        },
+        "advSentence": "To mollify the irate investors who had inundated the company with complaints, the chief executive announced a generous dividend and pledged to curtail the inordinate bonuses that executives had awarded themselves.",
+        "advTranslation": "為了安撫那些以大量投訴淹沒公司的憤怒投資人，執行長宣布發放豐厚股利，並承諾削減高層主管自肥的過高獎金。"
       },
       {
         "word": "pragmatic",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "practical, based on experience rather than theory.",
           "chinese": "務實的；實用主義的"
-        }
+        },
+        "advSentence": "Rather than pursue a chimerical scheme that was clearly not feasible, the mayor adopted a pragmatic approach, modifying existing bus routes incrementally and evaluating each change before committing scarce funds.",
+        "advTranslation": "市長沒有追求顯然不可行的空想計畫，而是採取務實的做法：逐步調整現有公車路線，並在投入有限經費之前先評估每一項改變的成效。"
       },
       {
         "word": "repent",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to feel regret, desire to make amends.",
           "chinese": "後悔；懺悔"
-        }
+        },
+        "advSentence": "Late in life, the octogenarian general came to repent the havoc his troops had wreaked on civilian villages, and in a poignant memoir he expressed hope that his candor might offer some solace to survivors.",
+        "advTranslation": "這位八十多歲的將軍到了晚年，開始悔恨自己的部隊當年對平民村莊造成的浩劫；他在一本令人心酸的回憶錄中表示，希望自己的坦白能為倖存者帶來些許慰藉。"
       },
       {
         "word": "roster",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "list of names.",
           "chinese": "名單；花名冊"
-        }
+        },
+        "advSentence": "Perusing the expedition's original roster, the historian discerned a salient anomaly: three crew members listed as sailors were actually felons who had joined under false names to escape the jurisdiction of English courts.",
+        "advTranslation": "歷史學家仔細研讀探險隊的原始名冊時，發現了一個明顯的異常：名冊上登記為水手的三名船員，其實是用假名入隊、企圖逃避英國法院管轄的重罪犯。"
       },
       {
         "word": "stunted",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "held back in natural growth.",
           "chinese": "發育不良的；受阻礙的"
-        }
+        },
+        "advSentence": "Children who endure prolonged privation during infancy often exhibit stunted growth, a condition researchers regard as symptomatic of broader inequities and whose cumulative effects compensatory nutrition programs can only partially reverse.",
+        "advTranslation": "嬰兒時期長期處於匱乏狀態的孩子，往往會出現發育遲緩；研究人員認為這是更廣泛社會不平等的徵兆，而其累積的影響，補償性的營養計畫也只能部分扭轉。"
       },
       {
         "word": "subservient",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "excessively obedient, servile.",
           "chinese": "屈從的；卑躬屈膝的"
-        }
+        },
+        "advSentence": "In the feudal order, peasants were fettered to the land and expected to remain subservient to their lords, and those who flouted this rigid decorum faced harsh reprisals from an implacable aristocracy.",
+        "advTranslation": "在封建體制下，農民被束縛在土地上，必須對領主唯命是從；凡是公然違反這套嚴格禮法的人，都會遭到冷酷無情的貴族階層嚴厲報復。"
       },
       {
         "word": "unctuous",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "insincerely flattering, excessively smooth.",
           "chinese": "諂媚的；油腔滑調的"
-        }
+        },
+        "advSentence": "The unctuous courtier showered the king with fulsome praise, yet his obsequious manner did not delude the perspicacious queen, who perceived the duplicity behind every flattering word and quietly warned her husband not to trust him.",
+        "advTranslation": "這名油腔滑調的朝臣對國王極盡阿諛奉承，但他卑躬屈膝的模樣騙不了眼光敏銳的王后，她看穿了每句奉承話背後的虛偽與心機，並悄悄提醒丈夫不要信任此人。"
       },
       {
         "word": "vestige",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "trace, remaining evidence.",
           "chinese": "遺跡；痕跡"
-        }
+        },
+        "advSentence": "Rising above the olive groves, the crumbling aqueduct is the sole extant vestige of a once-opulent Roman city, and archaeologists hope its weathered stones will corroborate conjectures about why the settlement was abruptly abandoned in the fifth century.",
+        "advTranslation": "矗立在橄欖林之上、逐漸崩塌的引水道，是一座昔日富庶的羅馬城市僅存的遺跡；考古學家希望這些飽經風霜的石塊，能證實關於該聚落為何在五世紀突然遭到遺棄的種種推測。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "activism": [
     "vigorous campaigning, advocacy for a cause.",

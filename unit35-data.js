@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "moralistic story.",
           "chinese": "寓言；比喻"
-        }
+        },
+        "advSentence": "Rather than delivering a perfunctory lecture on ethics, the sage philosopher told a brief parable about a merchant whose insatiable avarice eventually left him bereft of both his friends and his fortune.",
+        "advTranslation": "這位睿智的哲學家沒有敷衍地講授倫理學，而是說了一則簡短的寓言：一位商人貪得無厭，最後落得朋友與財富兩頭空。"
       },
       {
         "word": "whimsical",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "humorous, fanciful.",
           "chinese": "古怪的；異想天開的"
-        }
+        },
+        "advSentence": "Critics who expected mundane holiday illustrations were delighted by the artist's whimsical drawings, in which jaunty foxes ride bicycles through a labyrinth of floating teacups, a flamboyant departure from her earlier, more sedate work.",
+        "advTranslation": "原本以為會看到平淡節慶插畫的評論家，對這位畫家奇思妙想的作品大感驚喜：畫中神氣活現的狐狸騎著腳踏車，穿梭在漂浮茶杯構成的迷宮裡，與她早期較沉穩的作品相比，風格大膽張揚得多。"
       },
       {
         "word": "lampoon",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to ridicule.",
           "chinese": "諷刺；嘲弄"
-        }
+        },
+        "advSentence": "Eighteenth-century satirists such as Jonathan Swift would lampoon the pompous politicians of their day, using caustic wit and absurd exaggeration to expose the duplicity that more timorous writers were loath to criticize openly.",
+        "advTranslation": "像綏夫特這樣的十八世紀諷刺作家，常以尖酸的機智和荒謬的誇張手法嘲諷當時自命不凡的政客，揭露那些較膽小的作家不願公開批評的兩面手法。"
       },
       {
         "word": "countenance",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to tolerate, approve.",
           "chinese": "容許；贊同（名詞：面容）"
-        }
+        },
+        "advSentence": "Although the school board was willing to tolerate minor dress-code violations, it refused to countenance the flagrant cheating scandal, insisting that such egregious breaches of academic ethics be punished forthwith.",
+        "advTranslation": "儘管校務委員會願意容忍輕微的服裝違規，卻絕不姑息這起明目張膽的作弊醜聞，並堅持如此惡劣違反學術倫理的行為必須立即懲處。"
       },
       {
         "word": "sanctimonious",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "hypocritical, claiming moral superiority.",
           "chinese": "假裝神聖的；偽善的"
-        }
+        },
+        "advSentence": "The senator's sanctimonious speeches about frugal government spending rang hollow once journalists revealed that he had used public funds to finance a sumptuous vacation, a blatant example of the hypocrisy voters had long surmised.",
+        "advTranslation": "記者揭露這位參議員曾挪用公款支付奢華假期後，他那些大談政府應節儉開支、自以為清高的演說便顯得空洞無比——這正是選民早已猜到的虛偽，如今昭然若揭。"
       },
       {
         "word": "equanimity",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "calmness, self-control.",
           "chinese": "平靜；鎮定"
-        }
+        },
+        "advSentence": "Even as turbulent markets plunged and disgruntled investors flooded her office with irate calls, the veteran fund manager maintained remarkable equanimity, calmly reminding clients that such transient downturns were inevitable.",
+        "advTranslation": "即使市場動盪暴跌、不滿的投資人怒氣沖沖地打爆她辦公室的電話，這位資深基金經理人仍保持驚人的沉著，冷靜地提醒客戶，這類短暫的下跌在所難免。"
       },
       {
         "word": "effrontery",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "shameless boldness.",
           "chinese": "厚顏無恥"
-        }
+        },
+        "advSentence": "With astonishing effrontery, the alleged culprit appeared at his trial wearing the very jewels he was accused of stealing, a brash gesture that elicited gasps from the courtroom and nettled the presiding judge.",
+        "advTranslation": "這名涉嫌犯案者厚顏無恥到令人咋舌，竟戴著他被控竊取的珠寶出庭；如此囂張的舉動讓法庭內一片譁然，也激怒了主審法官。"
       },
       {
         "word": "nonentity",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "one of no importance.",
           "chinese": "無足輕重的人"
-        }
+        },
+        "advSentence": "Dismissed during his lifetime as a literary nonentity whose obscure poems were relegated to the back pages of minor journals, the writer is now revered as a prodigy whose voice was decades ahead of its time.",
+        "advTranslation": "這位作家生前被視為文壇無名小卒，他鮮為人知的詩作只能被擠到小型期刊的末頁；如今他卻被奉為天才，其文學聲音領先時代數十年。"
       },
       {
         "word": "flabbergasted",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "astounded.",
           "chinese": "大吃一驚的"
-        }
+        },
+        "advSentence": "Astronomers were flabbergasted when the supposedly inert asteroid suddenly began to emit jets of gas, a phenomenon so atypical that it forced them to repudiate several long-held premises about such objects.",
+        "advTranslation": "原以為毫無活動的小行星突然開始噴出氣流，令天文學家目瞪口呆；這種現象極不尋常，迫使他們推翻了好幾個對這類天體長期抱持的前提。"
       },
       {
         "word": "debacle",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "fiasco, catastrophe.",
           "chinese": "慘敗；崩潰"
-        }
+        },
+        "advSentence": "The product launch turned into a debacle when the company's servers, inundated by millions of eager customers, crashed within minutes, and the ensuing bedlam on social media jeopardized the firm's once impeccable reputation.",
+        "advTranslation": "公司伺服器被數百萬名心急的顧客湧入淹沒，幾分鐘內就當機，產品發表會因此一敗塗地；隨後社群媒體上的一片混亂，更危及這家公司原本無可挑剔的聲譽。"
       },
       {
         "word": "vivacious",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "lively.",
           "chinese": "活潑的；快活的"
-        }
+        },
+        "advSentence": "Unlike her introspective older sister, the vivacious young dancer was gregarious and quick to quip, bringing gusto to every grueling rehearsal and a welcome levity that kept her exhausted colleagues from despair.",
+        "advTranslation": "與內省的姊姊不同，這位活潑的年輕舞者生性外向、妙語如珠，在每次艱苦的排練中都充滿幹勁，她帶來的輕鬆幽默也讓疲憊的同伴們不致灰心喪志。"
       },
       {
         "word": "gaunt",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "thin, haggard.",
           "chinese": "憔悴的；瘦削的"
-        }
+        },
+        "advSentence": "After months of privation in the besieged city, the survivors who finally emerged were gaunt and wan, their hollow cheeks bearing silent witness to the malnutrition that had afflicted nearly every household.",
+        "advTranslation": "在被圍困的城市裡熬過數月的匱乏後，最後走出來的倖存者個個憔悴消瘦、面色蒼白，凹陷的雙頰無聲地見證了幾乎侵襲每個家庭的營養不良。"
       },
       {
         "word": "mien",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "appearance, bearing.",
           "chinese": "儀態；風度"
-        }
+        },
+        "advSentence": "Despite his humble origins, the diplomat carried himself with such an urbane and dignified mien that even astute foreign observers often assumed he was the scion of an affluent aristocratic family.",
+        "advTranslation": "儘管出身寒微，這位外交官舉止溫文儒雅、氣度莊重，連精明的外國觀察家都常以為他是富裕貴族世家的子弟。"
       },
       {
         "word": "hirsute",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "hairy.",
           "chinese": "多毛的"
-        }
+        },
+        "advSentence": "Paleontologists believe that the now-extinct woolly rhinoceros was hirsute not by chance but as an innate adaptation to the inclement Ice Age climate, its dense hair serving as a bulwark against the bitter cold of its frozen habitat.",
+        "advTranslation": "古生物學家認為，現已滅絕的長毛犀牛渾身長毛並非偶然，而是對冰河時期嚴酷氣候的先天適應；濃密的毛髮就像一道屏障，抵擋冰封棲地的刺骨寒冷。"
       },
       {
         "word": "refute",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to prove wrong or false.",
           "chinese": "駁斥；反駁"
-        }
+        },
+        "advSentence": "Using incontrovertible data from thousands of fossil samples, the young researcher was able to refute the eminent professor's dubious conjecture that the species had vanished because of a single catastrophic flood.",
+        "advTranslation": "這位年輕研究者利用來自數千件化石樣本、無可辯駁的數據，駁倒了那位知名教授的可疑推測——即該物種是因一場災難性洪水而滅絕。"
       },
       {
         "word": "pensive",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "thoughtful, reflective.",
           "chinese": "沉思的；憂思的"
-        }
+        },
+        "advSentence": "Sitting alone by the tranquil lake after her mentor's funeral, the novelist grew pensive, pondering the poignant letters he had written her and the myriad ways his quiet humility had shaped her own career.",
+        "advTranslation": "在恩師的葬禮後，這位小說家獨坐於寧靜的湖畔，陷入沉思，回想他寫給她那些令人動容的信，以及他默默的謙遜以無數方式影響了她的寫作生涯。"
       },
       {
         "word": "whet",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to stimulate, stir up.",
           "chinese": "刺激；激起（食慾、興趣）"
-        }
+        },
+        "advSentence": "The museum's free introductory lecture on ancient Egyptian artifacts was designed to whet visitors' curiosity, and many who arrived as mere dilettantes left as ardent buffs eager to peruse the scholarly catalog.",
+        "advTranslation": "博物館關於古埃及文物的免費入門講座，旨在激發參觀者的好奇心；許多人來時只是一知半解的外行，離開時卻成了熱情的愛好者，迫不及待想細讀那本學術圖錄。"
       },
       {
         "word": "stupor",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "daze, insensible condition.",
           "chinese": "昏迷；恍惚"
-        }
+        },
+        "advSentence": "Inebriated after hours of feasting, the lethargic guests slumped in a collective stupor, so unresponsive that not even the stentorian voice of the host, announcing the imminent fireworks display, could rouse them.",
+        "advTranslation": "經過數小時的大吃大喝，賓客們酩酊大醉、昏昏沉沉地癱坐在椅子上，毫無反應；就連主人用洪亮的嗓音宣布煙火即將開始，也無法把他們喚醒。"
       },
       {
         "word": "wince",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to draw back, flinch.",
           "chinese": "畏縮；（因痛苦）皺眉"
-        }
+        },
+        "advSentence": "Even surgeons who are far from squeamish wince when they recall the excruciating procedures of the era before anesthesia, when patients endured acute pain while fully conscious and the mortality rate from infection was appallingly high.",
+        "advTranslation": "即使是一點也不怕見血的外科醫師，回想起麻醉發明前那些令人痛不欲生的手術時也會不禁皺眉退縮——當時病人得在完全清醒下忍受劇痛，而感染造成的死亡率更是高得驚人。"
       },
       {
         "word": "cliché",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "commonplace, overused phrase.",
           "chinese": "陳詞濫調"
-        }
+        },
+        "advSentence": "The editor admonished the aspiring novelist to eschew every tired cliché, arguing that banal phrases such as 'a dark and stormy night' would only convince prestigious publishers that her manuscript lacked originality.",
+        "advTranslation": "編輯告誡這位有志成為小說家的作者，要避開所有老掉牙的陳腔濫調，並指出像「一個漆黑的暴風雨夜」這類平庸的句子，只會讓知名出版社認為她的稿子缺乏原創性。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "parable": [
     "moralistic story.",

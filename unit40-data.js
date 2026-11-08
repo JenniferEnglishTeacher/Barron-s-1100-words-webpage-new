@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "use (sometimes exaggerated) of language.",
           "chinese": "修辭；浮誇的言語"
-        }
+        },
+        "advSentence": "Though the populist's soaring rhetoric promised a utopia of shared prosperity, astute economists perceived that his proposals were fallacious, relying on emotional appeals to frustrated voters rather than on cogent evidence or careful analysis.",
+        "advTranslation": "儘管這位民粹政客慷慨激昂的言詞許諾了一個人人共享繁榮的烏托邦，精明的經濟學家卻看出他的提案謬誤百出，靠的是訴諸失意選民的情緒，而非有說服力的證據或審慎的分析。"
       },
       {
         "word": "clique",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "small, exclusive group of people.",
           "chinese": "小圈子；派系"
-        }
+        },
+        "advSentence": "At the elite boarding school, a clique of wealthy heirs wielded inordinate influence over student life, perpetuating a culture of disdain toward scholarship recipients and relegating them to the margins of every social event.",
+        "advTranslation": "在這所菁英寄宿學校裡，一小群富家子弟組成的小圈子對校園生活擁有過大的影響力，延續著輕視獎學金學生的風氣，並把這些學生排擠到每個社交活動的邊緣。"
       },
       {
         "word": "extol",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to praise highly.",
           "chinese": "讚美；頌揚"
-        }
+        },
+        "advSentence": "Biographers have long extolled Marie Curie's assiduous research, noting that she persevered through poverty and gender bias to make discoveries about radioactivity that remain a pinnacle of early twentieth-century physics.",
+        "advTranslation": "傳記作家長久以來盛讚居禮夫人孜孜不倦的研究，指出她在貧困與性別偏見中堅持不懈，在放射性方面的發現至今仍是二十世紀初物理學的巔峰之一。"
       },
       {
         "word": "mentor",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "counselor, coach, tutor.",
           "chinese": "導師；良師益友"
-        }
+        },
+        "advSentence": "Under the guidance of a sage mentor who had performed in Vienna for decades, the precocious violinist refined her rudimentary technique into polished artistry, eventually earning acclaim as a prodigy at international competitions.",
+        "advTranslation": "在一位曾於維也納演出數十年的睿智導師指導下，這位早慧的小提琴手將原本粗淺的技巧磨練成純熟的藝術，最終在國際比賽中以神童之姿贏得讚譽。"
       },
       {
         "word": "facile",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "easily accomplished; superficial.",
           "chinese": "容易的；膚淺的"
-        }
+        },
+        "advSentence": "The essay offered a facile explanation for the Roman Empire's collapse, attributing it solely to decadence while ignoring the myriad economic and military factors that more perspicacious historians deem paramount.",
+        "advTranslation": "這篇文章對羅馬帝國的崩潰提出了膚淺的解釋，將其完全歸咎於道德墮落，卻忽略了無數經濟與軍事因素，而這些正是更具洞察力的歷史學家認為最關鍵的。"
       },
       {
         "word": "cant",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "insincere or almost meaningless talk.",
           "chinese": "偽善之言；空話"
-        }
+        },
+        "advSentence": "By the end of the long campaign, voters had grown weary of the politicians' cant about 'family values,' recognizing these platitudes as a veneer that concealed the officials' own duplicity and sordid backroom deals.",
+        "advTranslation": "漫長的選戰接近尾聲時，選民早已厭倦了政客們關於「家庭價值」的虛偽空話，他們看穿這些陳腔濫調只是一層掩飾，底下藏著官員們自己的表裡不一與骯髒的私下交易。"
       },
       {
         "word": "umbrage",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "resentment, offense.",
           "chinese": "不快；怨恨"
-        }
+        },
+        "advSentence": "The veteran actress took umbrage at the director's request that she audition for the role, construing it as a derogatory hint that her career was on the wane and an attempt to belittle her illustrious past.",
+        "advTranslation": "這位資深女演員對導演要求她試鏡一事感到不悅，她認為這是在貶損地暗示她的演藝生涯正在走下坡，也是企圖貶低她輝煌的過去。"
       },
       {
         "word": "magnanimous",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "noble, generous, forgiving.",
           "chinese": "寬宏大量的"
-        }
+        },
+        "advSentence": "In a magnanimous gesture after the bitter civil war, the victorious president granted amnesty even to his most implacable adversaries, hoping that clemency rather than vengeance would end the strife that had divided the nation.",
+        "advTranslation": "在慘烈的內戰結束後，獲勝的總統展現寬宏大量的氣度，甚至特赦了最不肯妥協的敵人，希望以寬恕而非報復，終結撕裂國家的紛爭。"
       },
       {
         "word": "vilify",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to slander, speak ill of.",
           "chinese": "誹謗；詆毀"
-        }
+        },
+        "advSentence": "During the plague, frightened townspeople began to vilify the city's expatriates as the culprits who had spread the contagion, a baseless conjecture rooted in superstition rather than in any tangible evidence.",
+        "advTranslation": "瘟疫期間，驚恐的鎮民開始詆毀城裡的外籍居民，把他們說成散播疫病的罪魁禍首；這種毫無根據的臆測源自迷信，而非任何具體證據。"
       },
       {
         "word": "elucidate",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to make clear, explain.",
           "chinese": "闡明；說明"
-        }
+        },
+        "advSentence": "In her lucid lecture, the physicist sought to elucidate the paradox of light, a phenomenon that behaves as both particle and wave, using analogous examples from everyday life to make a recondite concept accessible to novices.",
+        "advTranslation": "這位物理學家在條理清晰的演講中，試圖闡明光的矛盾特性──一種既像粒子又像波的現象；她以日常生活中類似的例子，讓初學者也能理解這個深奧的概念。"
       },
       {
         "word": "vapid",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "uninteresting, dull, lacking liveliness.",
           "chinese": "乏味的；無趣的"
-        }
+        },
+        "advSentence": "Critics who scrutinized the much-hyped debut novel dismissed it as vapid, complaining that its mundane plot and inane dialogue could not be redeemed even by the author's flamboyant, image-laden prose.",
+        "advTranslation": "仔細審視這本被大肆炒作的處女作後，評論家認為它空洞乏味，抱怨其情節平凡、對白愚蠢，即使作者以華麗、充滿意象的文筆寫作也無法挽救。"
       },
       {
         "word": "unwieldy",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "bulky, difficult to handle.",
           "chinese": "笨重的；難處理的"
-        }
+        },
+        "advSentence": "The mammoth plate armor of medieval knights, though a formidable bulwark against arrows, proved unwieldy on the muddy battlefield at Agincourt, leaving its wearers lethargic and vulnerable to lithe, lightly armed foot soldiers.",
+        "advTranslation": "中世紀騎士那套龐大的板甲雖然是抵擋箭矢的堅固屏障，在阿金庫爾泥濘的戰場上卻顯得笨重難行，使穿戴者行動遲緩，容易被身手矯健、輕裝上陣的步兵擊倒。"
       },
       {
         "word": "proximity",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "nearness.",
           "chinese": "接近；鄰近"
-        }
+        },
+        "advSentence": "Because of the village's proximity to an active volcano, residents lived with the ominous possibility of an eruption, yet many were loath to abandon the fertile soil that had nurtured their crops for generations.",
+        "advTranslation": "由於村莊鄰近一座活火山，居民始終生活在火山可能爆發的不祥陰影下；然而許多人仍不願離開這片世世代代滋養他們作物的肥沃土地。"
       },
       {
         "word": "lassitude",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "weariness, weakness, lack of energy.",
           "chinese": "疲倦；無精打采"
-        }
+        },
+        "advSentence": "Prolonged malnutrition left the refugees in a state of profound lassitude; afflicted by fever and privation, many found even the brief walk to the village well an excruciating ordeal that drained what little strength remained.",
+        "advTranslation": "長期營養不良使難民們陷入極度的疲憊無力；在發燒與匱乏的折磨下，許多人連走到村中水井的短短路程，都成了耗盡僅存體力的痛苦考驗。"
       },
       {
         "word": "vitiate",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to destroy the use or value of, weaken.",
           "chinese": "損害；使無效"
-        }
+        },
+        "advSentence": "The study's conclusions were vitiated by a fundamental flaw in its premise: after only a cursory pilot test, the researchers surveyed wealthy suburban families and then extrapolated their findings to a vastly heterogeneous population, rendering the results dubious.",
+        "advTranslation": "這項研究的結論因其前提有根本缺陷而失去價值：研究人員只做了草率的前導測試，便調查富裕的郊區家庭，再將結果推論到組成極為多元的整體人口，使得研究結果令人存疑。"
       },
       {
         "word": "augment",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to enlarge, increase.",
           "chinese": "增加；擴大"
-        }
+        },
+        "advSentence": "To augment its meager income from tourism, the small island nation began to exploit its offshore fisheries, a lucrative venture that environmentalists warned could ultimately obliterate the coral reef's fragile ecosystem.",
+        "advTranslation": "為了增加微薄的觀光收入，這個小島國開始開發近海漁業；這項事業雖然獲利豐厚，環保人士卻警告，最終可能徹底摧毀珊瑚礁脆弱的生態系。"
       },
       {
         "word": "fatuous",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "foolish, silly, inane.",
           "chinese": "愚蠢的；昏庸的"
-        }
+        },
+        "advSentence": "The courtier's fatuous flattery, delivered with obsequious bows and fulsome praise for every royal decree, fooled no one except the vain monarch, whose megalomania made him gullible to any compliment.",
+        "advTranslation": "這名朝臣愚蠢的奉承，伴隨著卑躬屈膝的鞠躬，以及對每一道王令浮誇虛偽的讚美，除了虛榮的君主之外誰也騙不了；而君主的自大狂妄，使他對任何恭維都照單全收。"
       },
       {
         "word": "contort",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to twist violently.",
           "chinese": "扭曲；歪曲"
-        }
+        },
+        "advSentence": "In the earthquake's aftermath, engineers surveyed the havoc: steel girders contorted by catastrophic tremors, debris strewn across avenues, and bridges rendered impassable—a scene that underscored why rigorous building codes are imperative.",
+        "advTranslation": "地震過後，工程師勘查滿目瘡痍的災情：鋼樑在劇烈震動中嚴重扭曲，瓦礫散落街道，橋梁也無法通行──這幅景象凸顯出嚴格的建築規範為何不可或缺。"
       },
       {
         "word": "repertoire",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "the works an artist is prepared to perform.",
           "chinese": "全部節目；曲目"
-        }
+        },
+        "advSentence": "The prolific pianist's repertoire was remarkably eclectic, spanning a gamut from Baroque fugues to avant-garde jazz, and critics praised the virtuosity with which she moved between such disparate styles within a single concert.",
+        "advTranslation": "這位多產鋼琴家的演奏曲目極為多元，從巴洛克賦格到前衛爵士應有盡有；評論家讚賞她能在同一場音樂會中，以精湛技藝在如此迥異的風格之間自如切換。"
       },
       {
         "word": "imperceptible",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "extremely slight or gradual, not noticeable.",
           "chinese": "難以察覺的；極細微的"
-        }
+        },
+        "advSentence": "The erosion of the coastline was nearly imperceptible from year to year, yet its cumulative effect over a century proved inexorable, eventually forcing the once tranquil fishing village to relocate its domiciles farther inland.",
+        "advTranslation": "海岸線的侵蝕年年幾乎難以察覺，但百年來累積的影響卻勢不可擋，最終迫使這座昔日寧靜的漁村將住所遷往更內陸的地方。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "rhetoric": [
     "use (sometimes exaggerated) of language.",

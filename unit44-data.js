@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "made-up sensational story, false rumor.",
           "chinese": "謠言；假新聞"
-        }
+        },
+        "advSentence": "The canard that the vaccine caused infertility became rampant online, and despite incontrovertible evidence to the contrary, health officials struggled to neutralize a falsehood that had already permeated entire communities.",
+        "advTranslation": "「疫苗會導致不孕」這則謠言在網路上猖獗流傳；儘管有無可辯駁的反證，衛生官員仍難以消除這個早已滲透整個社區的謊言。"
       },
       {
         "word": "carnage",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "slaughter, great destruction of life.",
           "chinese": "大屠殺；大量殺戮"
-        }
+        },
+        "advSentence": "Survivors' accounts of the carnage at the Somme, where a single morning of fighting left nearly twenty thousand British soldiers dead, attest to the catastrophic toll of industrialized warfare and the obstinacy of generals who persevered with doomed frontal assaults.",
+        "advTranslation": "倖存者對索姆河戰役大屠殺的描述——光是一個早上的戰鬥就造成近兩萬名英軍陣亡——證明了工業化戰爭帶來的災難性傷亡，也揭示了將領們固執地堅持注定失敗的正面突擊。"
       },
       {
         "word": "defamatory",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "damaging someone's reputation with false statements.",
           "chinese": "誹謗的；破壞名譽的"
-        }
+        },
+        "advSentence": "The senator sued the tabloid for publishing scurrilous, defamatory claims that he had accepted bribes, and the court, finding the allegations wholly fabricated, ordered the paper to recant them on its front page.",
+        "advTranslation": "這位參議員控告小報刊登粗鄙且毀謗的內容，指稱他收受賄賂；法院認定這些指控完全是捏造的，命令該報在頭版公開撤回。"
       },
       {
         "word": "deluge",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to flood, overwhelm.",
           "chinese": "淹沒；使應接不暇"
-        }
+        },
+        "advSentence": "After the network aired its controversial documentary, viewers deluged the station with complaints, many so caustic and garbled that the staff could not identify which scenes had elicited such outrage.",
+        "advTranslation": "電視網播出那部具爭議性的紀錄片後，觀眾的投訴如洪水般湧入電視台，其中許多內容尖酸又語無倫次，工作人員根本無法辨認究竟是哪些片段引發了如此強烈的憤怒。"
       },
       {
         "word": "deprecate",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to express disapproval of, belittle.",
           "chinese": "不贊成；輕視"
-        }
+        },
+        "advSentence": "Although early critics deprecated jazz as a vulgar, transient fad, musicologists now revere its pioneers, figures such as Louis Armstrong and Duke Ellington, whose improvisational virtuosity transformed the entire realm of twentieth-century music.",
+        "advTranslation": "雖然早期評論家貶低爵士樂，認為它不過是粗俗又短暫的流行，但如今音樂學家十分崇敬路易斯．阿姆斯壯、艾靈頓公爵等爵士樂先驅，因為他們精湛的即興技藝徹底改變了二十世紀的整個音樂領域。"
       },
       {
         "word": "devout",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "deeply religious, sincere.",
           "chinese": "虔誠的"
-        }
+        },
+        "advSentence": "A devout Buddhist, the monk eschewed materialism entirely, subsisting on a frugal diet of rice and vegetables and spending his days in silent meditation in pursuit of nirvana, the liberation from suffering that he believed no possession could provide.",
+        "advTranslation": "這位虔誠的佛教僧侶完全摒棄物質享受，僅靠簡樸的米飯與蔬菜維生，終日靜坐冥想，追求涅槃的境界——他相信那種脫離苦痛的解脫，是任何財物都無法給予的。"
       },
       {
         "word": "diminutive",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "small, tiny.",
           "chinese": "微小的；嬌小的"
-        }
+        },
+        "advSentence": "Despite her diminutive stature, the intrepid Victorian botanist trekked through treacherous Andean passes, cataloging a plethora of indigenous orchids that previous expeditions, deterred by inclement weather, had failed to document in any detail.",
+        "advTranslation": "儘管身材嬌小，這位維多利亞時代無畏的植物學家仍徒步穿越險峻的安地斯山隘口，記錄下大量當地原生的蘭花；先前的探險隊都因惡劣天候而卻步，未能完成這些紀錄。"
       },
       {
         "word": "dulcet",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sweet or melodious to the ear.",
           "chinese": "悅耳的；甜美的"
-        }
+        },
+        "advSentence": "The dulcet tones of the cello created a tranquil atmosphere that contrasted sharply with the cacophony of traffic outside the concert hall, offering the engrossed audience a brief respite from urban life.",
+        "advTranslation": "大提琴甜美悅耳的音色營造出寧靜的氛圍，與音樂廳外刺耳的車流喧囂形成強烈對比，讓全神貫注的聽眾暫時從都市生活中獲得喘息。"
       },
       {
         "word": "excoriate",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to criticize severely.",
           "chinese": "嚴厲批評；痛斥"
-        }
+        },
+        "advSentence": "In a scathing review, the critic excoriated the novelist's latest work as verbose and banal, deriding its interminable descriptions of scenery and its predictable, formulaic plot, which she likened to a tedious lecture that refused to end.",
+        "advTranslation": "這位評論家在一篇尖銳的書評中嚴厲抨擊該小說家的新作冗長又陳腐，並嘲諷書中沒完沒了的景物描寫和老套、可預料的情節，還把整本書比作一場拖沓冗長、永遠講不完的演講。"
       },
       {
         "word": "frail",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "weak, delicate.",
           "chinese": "脆弱的；虛弱的"
-        }
+        },
+        "advSentence": "Though her frail body had been ravaged by a malignant tumor, the poet continued to write with remarkable gusto, completing a final collection that critics hailed as the zenith of her career.",
+        "advTranslation": "雖然虛弱的身軀已被惡性腫瘤摧殘，這位詩人仍以驚人的熱情持續寫作，完成了最後一部詩集，評論家盛讚那是她創作生涯的巔峰。"
       },
       {
         "word": "futility",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "uselessness, pointlessness.",
           "chinese": "徒勞；無用"
-        }
+        },
+        "advSentence": "Recognizing the futility of resisting an enemy army that had besieged the city for nearly six months, the emaciated garrison finally succumbed, its commander negotiating an amnesty that spared the remaining civilians.",
+        "advTranslation": "面對已圍城將近六個月的敵軍，骨瘦如柴的守軍終於認清再抵抗也是徒勞，只好投降；指揮官談妥了一項特赦協議，讓城內剩下的平民得以倖免。"
       },
       {
         "word": "impromptu",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "offhand, spur of the moment, unplanned.",
           "chinese": "即興的；無準備的"
-        }
+        },
+        "advSentence": "The senator's impromptu speech, delivered without notes after his teleprompter malfunctioned, proved far more cogent than his usual scripted remarks, and the candor of his spontaneous asides won over even his most contemptuous critics.",
+        "advTranslation": "參議員的提詞機故障後，他不看稿即興發表演說，結果比平常照稿念的講話更具說服力；他臨場脫口而出的坦率話語，甚至贏得了最輕蔑他的批評者的認同。"
       },
       {
         "word": "libel",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "false written statement that damages someone's reputation.",
           "chinese": "（書面）誹謗；中傷"
-        }
+        },
+        "advSentence": "Deeming the editor culpable, the jury ruled that his article constituted libel because it besmirched a respected judge with mendacious accusations of bribery that he had never bothered to verify.",
+        "advTranslation": "陪審團認定該名編輯有罪，裁定他的文章構成書面誹謗，因為文中以不實的收賄指控玷污一位受人敬重的法官，而他從未費心查證這些指控。"
       },
       {
         "word": "malevolent",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "wishing harm to others, ill-intentioned.",
           "chinese": "惡意的；狠毒的"
-        }
+        },
+        "advSentence": "In Shakespeare's Othello, the malevolent Iago, consumed by resentment after being passed over for promotion, perpetrates an elaborate subterfuge, manipulating the gullible general into believing that his innocent wife has been unfaithful.",
+        "advTranslation": "在莎士比亞的《奧賽羅》中，心懷惡意的伊阿古因未獲升遷而滿腔怨恨，策劃了一場精心的詭計，操弄輕信他人的將軍，讓他相信自己無辜的妻子不忠。"
       },
       {
         "word": "nullify",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to cancel, make legally invalid.",
           "chinese": "使無效；取消"
-        }
+        },
+        "advSentence": "The high court voted to nullify the restrictive voting statute, ruling that its arbitrary literacy tests had been designed to disenfranchise minority citizens and thus constituted an egregious breach of constitutional guarantees.",
+        "advTranslation": "最高法院表決廢止這項限制性的投票法規，裁定其中武斷的識字測驗是為了剝奪少數族裔公民的投票權而設計，因此嚴重違反了憲法保障。"
       },
       {
         "word": "pathetic",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sad, pitiful, arousing sympathy.",
           "chinese": "可悲的；可憐的"
-        }
+        },
+        "advSentence": "The pathetic plight of the forlorn refugees, huddled in makeshift tents with neither food nor medicine, prompted even the most phlegmatic observers to exhort wealthy nations to provide immediate aid.",
+        "advTranslation": "孤苦無依的難民擠在臨時帳篷裡，既沒有食物也沒有藥品，這悲慘可憐的困境讓即使是最冷靜淡漠的觀察者，也呼籲富裕國家立即提供援助。"
       },
       {
         "word": "plaintiff",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "the person who brings a lawsuit.",
           "chinese": "原告"
-        }
+        },
+        "advSentence": "The plaintiff, a disgruntled former engineer, claimed that the firm had coerced her into concealing safety defects, and her lawyers submitted internal memos that lent credence to her account of working under constant duress.",
+        "advTranslation": "原告是一名心懷不滿的前工程師，她指控公司逼迫她隱瞞安全缺陷；她的律師提交了內部備忘錄，使她所說長期在脅迫下工作的說法更具可信度。"
       },
       {
         "word": "potent",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "powerful, strong, effective.",
           "chinese": "強而有力的；效力強的"
-        }
+        },
+        "advSentence": "Penicillin proved a remarkably potent weapon against virulent infections that had once been lethal, yet decades of indiscriminate prescribing by doctors and overuse in livestock have allowed resistant bacteria to proliferate in hospitals worldwide.",
+        "advTranslation": "盤尼西林被證明是對抗那些曾經致命的猛烈感染的強效武器；然而數十年來醫師浮濫開立處方、畜牧業過度使用，已讓抗藥性細菌在全球各地的醫院大量繁殖。"
       },
       {
         "word": "profuse",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "abundant, overflowing, given freely.",
           "chinese": "豐富的；大量的"
-        }
+        },
+        "advSentence": "The ambassador offered profuse apologies for his inadvertent insult to the visiting delegation, hoping to forestall any escalation of tensions and preserve the amicable relations the two nations had nurtured for decades.",
+        "advTranslation": "大使為自己無意間冒犯來訪代表團一事再三致歉，希望能避免緊張情勢升級，並維護兩國數十年來悉心培養的友好關係。"
       },
       {
         "word": "reputed",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "generally believed, supposed.",
           "chinese": "被普遍認為的；據說的"
-        }
+        },
+        "advSentence": "The reputed founder of the city, a legendary nomadic chieftain, is celebrated in folk songs, though historians remain dubious that he ever existed, citing a paucity of archaeological evidence from the period in which he supposedly lived.",
+        "advTranslation": "據傳這座城市的創建者是一位傳奇的遊牧部落首領，民間歌謠至今仍傳頌著他；然而歷史學家以他據稱生活的那個時期考古證據稀少為由，懷疑此人是否真的存在過。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "canard": [
     "made-up sensational story, false rumor.",

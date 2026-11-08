@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "a belief that goes against accepted doctrine.",
           "chinese": "異端；邪說"
-        }
+        },
+        "advSentence": "In the seventeenth century, Galileo's claim that the Earth orbits the sun was deemed heresy by church authorities, who were loath to tolerate any premise that seemed to undermine the inviolable doctrines they had promulgated for centuries.",
+        "advTranslation": "十七世紀時，伽利略主張地球繞著太陽運行，卻被教會當局視為異端；他們不願容忍任何可能動搖其數百年來所頒布、不容侵犯之教義的前提。"
       },
       {
         "word": "prudent",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "wise, cautious.",
           "chinese": "謹慎的；明智的"
-        }
+        },
+        "advSentence": "Faced with a plethora of volatile investment schemes, the frugal retiree made the prudent decision to eschew speculative stocks and keep most of her savings in assets that would not jeopardize her financial security.",
+        "advTranslation": "面對五花八門、變幻莫測的投資方案，這位節儉的退休人士做出明智的決定：避開投機性股票，把大部分積蓄放在不會危及自身財務安全的資產上。"
       },
       {
         "word": "ostensible",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "outward, seeming.",
           "chinese": "表面的；假裝的"
-        }
+        },
+        "advSentence": "Although the ostensible purpose of the expedition was scientific research, historians who peruse the captain's clandestine letters have discerned that its real goal was to exploit the region's lucrative mineral deposits.",
+        "advTranslation": "雖然這次探險表面上的目的是科學研究，但仔細研讀船長祕密信件的歷史學家已察覺，其真正目標是開採該地區利潤豐厚的礦藏。"
       },
       {
         "word": "fervid",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "intense, enthusiastic, passionate.",
           "chinese": "熱情的；熱烈的"
-        }
+        },
+        "advSentence": "The young poet's fervid speeches against colonial rule galvanized a throng of students, yet his ardent supporters were soon dispersed when the government, fearing further strife, imposed a strict curfew.",
+        "advTranslation": "這位年輕詩人反對殖民統治的激昂演說，激勵了一大群學生；然而政府擔心衝突擴大而實施嚴格宵禁後，他那些熱情的支持者很快就被驅散了。"
       },
       {
         "word": "spurious",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "false, counterfeit.",
           "chinese": "虛假的；偽造的"
-        }
+        },
+        "advSentence": "Curators concluded that the so-called ancient artifact was spurious after a meticulous chemical analysis revealed modern pigments, exposing an elaborate hoax that had deceived gullible collectors and even several eminent scholars.",
+        "advTranslation": "一項縝密的化學分析驗出現代顏料後，策展人斷定這件所謂的古代文物是偽造的，揭穿了一場不僅騙倒輕信的收藏家、甚至騙過數位知名學者的精心騙局。"
       },
       {
         "word": "propagate",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to multiply, spread.",
           "chinese": "傳播；繁殖"
-        }
+        },
+        "advSentence": "Botanists warn that invasive vines propagate so rapidly in sultry climates that they can saturate an entire forest canopy within a few years, choking indigenous trees and destroying the habitat of countless birds.",
+        "advTranslation": "植物學家警告，入侵性藤蔓在濕熱的氣候中繁殖極快，幾年內就能布滿整片森林樹冠，使原生樹木窒息，並摧毀無數鳥類的棲息地。"
       },
       {
         "word": "anomaly",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "irregularity, abnormality.",
           "chinese": "異常；反常"
-        }
+        },
+        "advSentence": "When a sensor on the research vessel recorded an anomaly in ocean temperatures, the astute oceanographer refused to dismiss it as a mere glitch and instead began to scrutinize the data for signs of a latent subterranean volcano.",
+        "advTranslation": "研究船上的感測器記錄到海水溫度異常時，這位精明的海洋學家沒有把它當成小故障而置之不理，反而開始仔細審視數據，尋找一座潛伏地底火山的跡象。"
       },
       {
         "word": "innocuous",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "harmless, mild, innocent.",
           "chinese": "無害的"
-        }
+        },
+        "advSentence": "What appeared to be an innocuous remark about the mayor's wardrobe was construed by his irascible aides as a deliberate insult, precipitating an acrimonious exchange that dominated the evening news.",
+        "advTranslation": "一句看似無傷大雅、關於市長穿著的評論，卻被他那些脾氣暴躁的助理解讀為蓄意侮辱，引發一場言詞尖刻的口角，成了當晚新聞的焦點。"
       },
       {
         "word": "surfeit",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "excess, superabundance.",
           "chinese": "過量；飲食過度"
-        }
+        },
+        "advSentence": "Nutritionists note that while malnutrition once afflicted much of the population, many affluent societies now suffer from a surfeit of sugar and fat, a dietary excess that greatly exacerbates heart disease.",
+        "advTranslation": "營養學家指出，營養不良雖曾困擾大多數人口，如今許多富裕社會卻苦於糖分與脂肪攝取過量，而這種飲食過度大大加劇了心臟疾病。"
       },
       {
         "word": "milieu",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "environment, setting.",
           "chinese": "環境；社會背景"
-        }
+        },
+        "advSentence": "Raised in the cosmopolitan milieu of nineteenth-century Vienna, the composer absorbed a heterogeneous gamut of musical traditions, an upbringing that helps explain the singular virtuosity of his early symphonies.",
+        "advTranslation": "這位作曲家在十九世紀維也納兼容並蓄的環境中長大，吸收了各式各樣的音樂傳統；這樣的成長背景，正說明了他早期交響曲何以展現出非凡的精湛技藝。"
       },
       {
         "word": "strident",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "shrill, harsh, rough.",
           "chinese": "刺耳的；尖銳的"
-        }
+        },
+        "advSentence": "The activists' strident chants reverberating through the plaza were meant to elicit attention from lawmakers, but the cacophony only nettled residents who craved a respite from months of protest.",
+        "advTranslation": "激進人士刺耳的口號在廣場上迴盪，本意是要引起立法者的注意，但這片嘈雜聲只惹惱了渴望從數月抗議中喘口氣的居民。"
       },
       {
         "word": "concomitant",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "accompanying, attending.",
           "chinese": "伴隨的"
-        }
+        },
+        "advSentence": "The rapid industrialization of nineteenth-century Britain brought unprecedented wealth to affluent factory owners, but its concomitant pollution and overcrowding left indigent workers susceptible to cholera and other virulent diseases.",
+        "advTranslation": "十九世紀英國的快速工業化為富裕的工廠主帶來空前的財富，但隨之而來的污染與過度擁擠，卻使貧困的工人容易感染霍亂及其他致命疾病。"
       },
       {
         "word": "lassitude",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "weariness, fatigue.",
           "chinese": "疲倦；無精打采"
-        }
+        },
+        "advSentence": "After weeks of interminable drudgery on the night shift, the nurses complained of a lassitude so persistent that even routine tasks felt excruciating, a fatigue that hospital administrators could no longer ignore.",
+        "advTranslation": "在夜班熬了好幾週沒完沒了的苦差事後，護理師們抱怨倦怠感揮之不去，連例行工作都變得苦不堪言，醫院管理階層再也無法忽視這種疲憊。"
       },
       {
         "word": "deleterious",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "bad, harmful.",
           "chinese": "有害的；造成傷害的"
-        }
+        },
+        "advSentence": "Researchers have corroborated earlier studies showing that a sedentary lifestyle has deleterious effects on cardiovascular health, and they exhort office workers to stand or walk at least once every hour.",
+        "advTranslation": "研究人員證實了先前的研究結果：久坐不動的生活方式對心血管健康有害，因此他們敦促上班族至少每小時起身站立或走動一次。"
       },
       {
         "word": "efficacy",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "power to produce an effect.",
           "chinese": "功效；效力"
-        }
+        },
+        "advSentence": "Before the vaccine could be deployed nationwide, regulators insisted on a comprehensive trial to evaluate its efficacy, since anecdotal reports were too dubious to prove that it actually neutralized the virus.",
+        "advTranslation": "在這款疫苗於全國施打之前，主管機關堅持進行全面試驗以評估其效力，因為零星的個案報告太不可靠，無法證明它真能中和病毒。"
       },
       {
         "word": "dissent",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to differ, disagree, protest.",
           "chinese": "持異議；不同意"
-        }
+        },
+        "advSentence": "Although the majority of the court upheld the restrictive law, two justices chose to dissent, arguing in a trenchant opinion that the statute flouted constitutional protections and set a dangerous precedent.",
+        "advTranslation": "雖然法院多數維持這項限制性法律，但有兩位大法官選擇提出異議，在一份措辭犀利的意見書中主張，該法公然漠視憲法保障，並開創了危險的先例。"
       },
       {
         "word": "ferment",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "uproar, agitation, turmoil.",
           "chinese": "騷動；動亂（亦指發酵）"
-        }
+        },
+        "advSentence": "The political ferment that swept Paris in 1848 was symptomatic of deeper economic grievances, as disgruntled laborers and idealistic students alike rose against a monarchy they regarded as callous and ineffectual.",
+        "advTranslation": "1848年席捲巴黎的政治動盪，反映出更深層的經濟不滿：心懷怨氣的勞工與滿懷理想的學生紛紛起身，反抗他們眼中冷漠又無能的君主政體。"
       },
       {
         "word": "attenuated",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "weakened, thinned, decreased.",
           "chinese": "減弱的；變薄的"
-        }
+        },
+        "advSentence": "By the time the radio signal reached Earth, it had grown so attenuated during its voyage across interstellar space that astronomers needed a mammoth array of antennas to capture the elusive whisper amid the cosmic static.",
+        "advTranslation": "這道無線電訊號抵達地球時，已在穿越星際空間的旅途中衰減得極為微弱，天文學家必須動用龐大的天線陣列，才能在宇宙雜訊中捕捉到這縷難以捉摸的微音。"
       },
       {
         "word": "arbiter",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "judge.",
           "chinese": "仲裁者；權威"
-        }
+        },
+        "advSentence": "Throughout the 1950s, the influential critic served as the ultimate arbiter of literary taste in New York, and any young aspirant who incurred his disdain could expect to see a debut novel relegated to the bargain bins.",
+        "advTranslation": "整個1950年代，這位極具影響力的評論家是紐約文學品味的最終裁判；任何招致他鄙夷的年輕新秀，都可能眼睜睜看著自己的處女作被打入特價書堆。"
       },
       {
         "word": "incumbent",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "morally required.",
           "chinese": "負有責任的；現任的"
-        }
+        },
+        "advSentence": "Because the factory had knowingly perpetrated years of pollution, the judge ruled that it was incumbent upon its owners to underwrite the cleanup and offer compensatory payments to families whose wells had been tainted.",
+        "advTranslation": "由於這家工廠明知故犯，造成多年污染，法官裁定業主有責任出資進行清理，並向水井遭到污染的家庭支付賠償金。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "heresy": [
     "a belief that goes against accepted doctrine.",

@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "smooth of speech, fluent but insincere.",
           "chinese": "口齒伶俐的；油嘴滑舌的"
-        }
+        },
+        "advSentence": "The salesman's glib assurances that the used car was in impeccable condition failed to deceive the astute buyer, who looked past its glossy veneer and scrutinized the engine, discovering extensive and carefully concealed damage.",
+        "advTranslation": "推銷員油嘴滑舌地保證這輛二手車車況完美無瑕，卻騙不了精明的買家；他看穿光鮮的外表，仔細檢查引擎，發現了大面積且被刻意掩飾的損傷。"
       },
       {
         "word": "homogeneous",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "same, uniform.",
           "chinese": "同質的；均勻的"
-        }
+        },
+        "advSentence": "Contrary to the stereotype of the region as culturally homogeneous, anthropologists have documented a heterogeneous array of languages, cuisines, and religious traditions among its indigenous communities, some of which differ sharply from villages only a few miles away.",
+        "advTranslation": "與外界認為該地區文化單一的刻板印象相反，人類學家在當地原住民社群中記錄到各式各樣、豐富多元的語言、飲食與宗教傳統，有些甚至與僅數英里外的村落截然不同。"
       },
       {
         "word": "malleable",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "capable of being shaped or formed.",
           "chinese": "可塑的；易受影響的"
-        }
+        },
+        "advSentence": "Because gold is extraordinarily malleable, ancient artisans could hammer it into sheets thinner than paper, and many such artifacts are still extant today, their luster unabated after thousands of years.",
+        "advTranslation": "由於黃金的延展性極佳，古代工匠能把它捶打成比紙還薄的金箔；許多這類工藝品至今仍保存完好，歷經數千年光澤依舊不減。"
       },
       {
         "word": "legerdemain",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sleight of hand, deceptive cleverness.",
           "chinese": "戲法；騙術"
-        }
+        },
+        "advSentence": "Through a feat of financial legerdemain, the firm's executives hid billions in debt from auditors, a subterfuge so elaborate that regulators needed years to unravel the labyrinth of fictitious accounts and expose their complicity.",
+        "advTranslation": "公司高層靠著一套財務障眼法，向稽核人員隱瞞了數十億的債務；這場騙局精密複雜，監管單位花了好幾年才理清那迷宮般的假帳，揭發他們的共謀。"
       },
       {
         "word": "trend",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "general direction, fashion.",
           "chinese": "趨勢；傾向"
-        }
+        },
+        "advSentence": "Economists have observed a troubling trend in which affluent neighborhoods grow ever more prosperous while nearby indigent communities sink into destitution, a widening gap that threatens to perpetuate inequality for generations.",
+        "advTranslation": "經濟學家觀察到一個令人憂心的趨勢：富裕社區越來越興旺，鄰近的貧困社區卻陷入赤貧；這道日益擴大的鴻溝，恐將使不平等延續好幾代。"
       },
       {
         "word": "stagnant",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "motionless, dull, inactive.",
           "chinese": "停滯的；不流動的"
-        }
+        },
+        "advSentence": "After a decade of stagnant wages and dwindling job prospects, the once-bustling mill town seemed moribund, its disgruntled residents increasingly susceptible to the promises of politicians who blamed outsiders for their plight.",
+        "advTranslation": "經過十年薪資停滯、工作機會日益減少，這座曾經熱鬧的工廠小鎮顯得奄奄一息；心懷不滿的居民越來越容易聽信那些把他們的困境歸咎於外人的政客所做的承諾。"
       },
       {
         "word": "fatal",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "deadly, disastrous.",
           "chinese": "致命的；毀滅性的"
-        }
+        },
+        "advSentence": "Historians argue that the emperor's fatal miscalculation was to underestimate the inclement Russian winter, which decimated his ill-equipped army and precipitated the collapse of an empire that had once seemed omnipotent.",
+        "advTranslation": "歷史學家認為，這位皇帝致命的失算在於低估了俄國嚴酷的冬天；寒冬重創他裝備不足的軍隊，並加速了一個曾看似無所不能的帝國的崩潰。"
       },
       {
         "word": "passé",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "outmoded, old-fashioned.",
           "chinese": "過時的"
-        }
+        },
+        "advSentence": "Styles that seemed daringly avant-garde only a few years ago are now considered passé, and the flamboyant designer who once set the vogue has watched with chagrin as her influence steadily declined, a sobering reminder of how transient fame can be.",
+        "advTranslation": "幾年前還顯得大膽前衛的風格，如今已被視為過時；那位曾引領潮流、作風浮誇的設計師，懊惱地看著自己的影響力逐漸下滑——這清楚提醒世人，名聲是多麼短暫。"
       },
       {
         "word": "procrastinate",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to delay, put off.",
           "chinese": "拖延；耽擱"
-        }
+        },
+        "advSentence": "Students who habitually procrastinate tend to underestimate the cumulative stress of looming deadlines, and the frantic, perfunctory work they produce at the last minute seldom reflects their latent ability or the knowledge they have actually acquired.",
+        "advTranslation": "習慣拖延的學生往往低估了截止日期逼近時不斷累積的壓力，而他們在最後一刻匆忙趕出的草率作品，很少能展現他們潛藏的能力，或他們真正學到的知識。"
       },
       {
         "word": "facet",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "one side or view of a person or situation.",
           "chinese": "方面；（寶石的）刻面"
-        }
+        },
+        "advSentence": "The documentary illuminates a little-known facet of the eminent scientist's life: during the war, she carried out clandestine work forging passports to help persecuted families find sanctuary abroad, risking execution had she been caught.",
+        "advTranslation": "這部紀錄片揭示了這位傑出科學家鮮為人知的一面：戰爭期間，她冒著被捕即遭處決的風險，秘密偽造護照，幫助遭受迫害的家庭到海外尋求庇護。"
       },
       {
         "word": "foist",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to force upon, pass off slyly.",
           "chinese": "強加；以欺騙手段推銷"
-        }
+        },
+        "advSentence": "The antiques dealer tried to foist a fabricated 'Ming dynasty' vase on the gullible tourist, but a perspicacious appraiser quickly discerned the subtle flaws in its glaze and brushwork that betrayed the counterfeit.",
+        "advTranslation": "古董商企圖把一只偽造的「明代」花瓶硬塞給那名容易上當的觀光客，但一位眼光敏銳的鑑定師很快就從釉色與筆法的細微瑕疵中看出這是贗品。"
       },
       {
         "word": "stigmatize",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to mark with disgrace.",
           "chinese": "污名化；使蒙羞"
-        }
+        },
+        "advSentence": "For centuries, societies tended to stigmatize mental illness as a moral failing rather than a treatable malady, a pernicious bias that discouraged sufferers from seeking help and compounded their isolation from family and friends.",
+        "advTranslation": "數百年來，社會往往把精神疾病污名化為道德缺陷，而非可治療的疾病；這種有害的偏見使患者不敢求助，也讓他們與家人朋友更加疏離。"
       },
       {
         "word": "capitulate",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to surrender, make terms.",
           "chinese": "投降；屈服"
-        }
+        },
+        "advSentence": "After a forty-day siege left the garrison bereft of food and ammunition, the commander was finally forced to capitulate, though he stipulated that his soldiers be granted amnesty and safe passage home.",
+        "advTranslation": "在長達四十天的圍城使守軍糧盡彈絕後，指揮官最終被迫投降，但他提出條件：他的士兵必須獲得赦免，並能安全返鄉。"
       },
       {
         "word": "audacity",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "boldness, daring.",
           "chinese": "大膽；厚顏無恥"
-        }
+        },
+        "advSentence": "The young climber's audacity in attempting the treacherous summit alone and without supplemental oxygen astonished veteran mountaineers, some of whom castigated her as rash while others praised the intrepid spirit that had driven her to the top.",
+        "advTranslation": "這位年輕登山者竟敢在不帶氧氣瓶的情況下獨自挑戰險峻的山峰，其大膽令資深登山家震驚；有些人嚴厲批評她魯莽，也有人讚揚那股帶她登頂的無畏精神。"
       },
       {
         "word": "tantalize",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to tease or torment by offering something good but withholding it.",
           "chinese": "逗弄；使可望而不可即"
-        }
+        },
+        "advSentence": "Through ubiquitous advertisements, marketers tantalize consumers with glimpses of luxurious lifestyles that remain forever out of reach, and critics contend that this strategy fosters an insatiable materialism that leaves people chronically discontented.",
+        "advTranslation": "行銷人員透過無所不在的廣告，讓消費者看見永遠遙不可及的奢華生活，吊足他們的胃口；批評者認為，這種手法助長了永不滿足的物質主義，使人們長期感到不滿。"
       },
       {
         "word": "retort",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to answer, reply sharply.",
           "chinese": "反駁；回嘴"
-        }
+        },
+        "advSentence": "When a heckler derided her proposal as absurd, the candidate retorted with a terse, caustic remark about his own record that drew applause from the throng and left her adversary momentarily speechless.",
+        "advTranslation": "當一名起鬨者嘲笑她的提案荒謬可笑時，這位候選人以一句簡短而辛辣、直指對方過往紀錄的話犀利回擊，贏得群眾的掌聲，也讓她的對手一時語塞。"
       },
       {
         "word": "reticent",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "silent, reserved.",
           "chinese": "沉默寡言的；有保留的"
-        }
+        },
+        "advSentence": "Though normally reticent about her private life, the Nobel laureate spoke with unusual candor in her final interview, describing the doleful circumstances of her childhood and the solace she had found in mathematics.",
+        "advTranslation": "這位諾貝爾獎得主平常對私生活總是三緘其口，但在最後一次訪談中卻罕見地坦誠，談起她童年的悲慘處境，以及她在數學中找到的慰藉。"
       },
       {
         "word": "tacit",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "understood, implied, not stated.",
           "chinese": "心照不宣的；默許的"
-        }
+        },
+        "advSentence": "Although no formal treaty was ever signed, the two hostile nations maintained a tacit agreement not to provoke each other for decades, until a minor border skirmish set off an inexorable escalation into full-scale war.",
+        "advTranslation": "雖然從未簽訂正式條約，這兩個敵對國家數十年來一直維持著互不挑釁的默契，直到一場小規模的邊境衝突引發無法遏止的情勢升級，演變成全面戰爭。"
       },
       {
         "word": "chicanery",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "trickery, underhandedness.",
           "chinese": "詭計；欺騙"
-        }
+        },
+        "advSentence": "Investigators uncovered rampant chicanery in the disputed election, from surreptitious ballot tampering to the intimidation of voters at polling stations, and a court eventually moved to invalidate the results in three districts.",
+        "advTranslation": "調查人員發現這場備受爭議的選舉中詭計橫行，從暗中竄改選票到在投票所恐嚇選民無所不有，法院最終宣告三個選區的選舉結果無效。"
       },
       {
         "word": "obliging",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "accommodating, helpful.",
           "chinese": "樂於助人的；親切的"
-        }
+        },
+        "advSentence": "The obliging innkeeper went out of his way to accommodate the weary travelers, offering them a congenial room by the fire, a sumptuous late-night meal, and a welcome respite from the storm raging outside.",
+        "advTranslation": "這位熱心周到的旅店老闆特地盡力照顧疲憊的旅客，為他們安排爐火旁舒適宜人的房間、一頓豐盛的宵夜，讓他們得以暫時躲避屋外肆虐的暴風雨。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "glib": [
     "smooth of speech, fluent but insincere.",

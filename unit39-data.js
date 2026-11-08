@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "long heroic story.",
           "chinese": "傳奇；長篇故事"
-        }
+        },
+        "advSentence": "Drawing on annals kept by itinerant monks, the historian reconstructed the saga of a nomadic clan whose valor in repulsing invaders was later embellished by generations of storytellers into near-mythic legend.",
+        "advTranslation": "歷史學家根據四處遊歷的僧侶所留下的編年史，重建了一個游牧部族的英雄史詩；該部族擊退入侵者的英勇事蹟，後來被一代又一代的說書人加油添醋，幾乎成了神話傳說。"
       },
       {
         "word": "belated",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "late, delayed.",
           "chinese": "遲來的"
-        }
+        },
+        "advSentence": "The ministry's belated admission that the water supply was contaminated did little to quell public consternation, since residents had already endured months of malady and sporadic shortages before any official acknowledged the problem.",
+        "advTranslation": "部會遲遲才承認供水遭到汙染，這幾乎無法平息民眾的驚恐，因為在任何官員承認問題之前，居民早已忍受了好幾個月的疾病與斷斷續續的缺水。"
       },
       {
         "word": "decrepit",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "broken down, worn out.",
           "chinese": "衰老的；破舊的"
-        }
+        },
+        "advSentence": "Once a prestigious opera house, the decrepit edifice had been relegated to use as a warehouse, its gilded balconies crumbling and its murky corridors permeated by the pungent odor of mildew.",
+        "advTranslation": "這座破敗的建築曾是聲譽卓著的歌劇院，如今卻淪為倉庫：鍍金的包廂逐漸崩落，昏暗的走廊瀰漫著刺鼻的霉味。"
       },
       {
         "word": "imperturbable",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "calm, steady, serene.",
           "chinese": "鎮定的；泰然自若的"
-        }
+        },
+        "advSentence": "Even as the televised debate devolved into bedlam, the veteran moderator remained imperturbable, responding to each caustic remark with such equanimity that the most belligerent panelists eventually desisted and returned to the questions at hand.",
+        "advTranslation": "即使電視辯論已陷入一片混亂，資深主持人依然泰然自若，以極其沉著的態度回應每一句尖酸刻薄的發言，最終連最好鬥的與談人也停止攻擊，回到眼前的議題上。"
       },
       {
         "word": "vacillate",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to hesitate, fluctuate.",
           "chinese": "猶豫不決；搖擺"
-        }
+        },
+        "advSentence": "Legislators continued to vacillate between curtailing fossil-fuel subsidies and appeasing powerful industrial donors, a pattern of indecision that critics deemed symptomatic of a government too timorous to confront an imminent environmental crisis.",
+        "advTranslation": "立法者在削減化石燃料補貼與安撫有權勢的產業捐款者之間猶豫不決；批評者認為，這種優柔寡斷正顯示出政府過於膽怯，不敢正視迫在眉睫的環境危機。"
       },
       {
         "word": "staunch",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "strong, trusty, firm.",
           "chinese": "堅定的；忠誠的"
-        }
+        },
+        "advSentence": "A staunch defender of public education, the senator adamantly refused to tolerate any budget that slashed funding for indigent districts, insisting that schooling was an inviolable right of every child rather than a privilege.",
+        "advTranslation": "這位參議員是公共教育的堅定捍衛者，她堅決拒絕容忍任何削減貧困學區經費的預算，並堅持受教育是每個孩子不可侵犯的權利，而非特權。"
       },
       {
         "word": "opprobrium",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "scorn, insult, public disgrace.",
           "chinese": "恥辱；公開的譴責"
-        }
+        },
+        "advSentence": "The chemical firm incurred international opprobrium when journalists revealed that it had surreptitiously dumped lethal waste into a river, a flagrant breach of ethics that its executives initially tried to palliate with euphemisms.",
+        "advTranslation": "記者揭露這家化學公司偷偷將致命廢棄物傾倒入河中後，該公司遭到國際輿論的強烈譴責；這是明目張膽違反道德的行為，而高層起初還試圖用委婉說法來替自己開脫。"
       },
       {
         "word": "Machiavellian",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "cunning, governed by opportunity rather than principle.",
           "chinese": "不擇手段的；權謀的"
-        }
+        },
+        "advSentence": "The chancellor's Machiavellian strategy—feigning friendship with rival factions while clandestinely fomenting discord between them—allowed him to oust his adversaries one by one without ever appearing culpable in the eyes of the public.",
+        "advTranslation": "這位首相採取權謀詭詐的策略：表面上與敵對派系假意交好，暗中卻挑撥他們彼此不和，因此得以把對手一一趕下台，而在大眾眼中自己卻從未顯得有任何過失。"
       },
       {
         "word": "unconscionable",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unreasonable, unjust, shocking to the conscience.",
           "chinese": "沒良心的；不合理的"
-        }
+        },
+        "advSentence": "Investigators deemed it unconscionable that the landlord had raised rents on emaciated tenants during a famine, an act of avarice so egregious that even his former confidants publicly repudiated him.",
+        "advTranslation": "調查人員認為，房東在饑荒期間對骨瘦如柴的房客調漲租金，實在天理難容；這種貪婪行徑惡劣至極，連他昔日的心腹都公開與他劃清界線。"
       },
       {
         "word": "pandemonium",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "disorder, uproar.",
           "chinese": "大混亂；喧囂"
-        }
+        },
+        "advSentence": "When the stadium's lights failed during the championship, pandemonium erupted: a throng of fans jostled toward the exits, and the stentorian warnings of security officers were drowned out by a cacophony of panicked voices.",
+        "advTranslation": "冠軍賽進行中球場燈光突然熄滅，現場頓時陷入一片混亂：大批球迷推擠著湧向出口，保全人員宏亮的警告聲也被驚慌失措的嘈雜人聲所淹沒。"
       },
       {
         "word": "flay",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to strip off the skin; to scold harshly.",
           "chinese": "剝皮；嚴厲批評"
-        }
+        },
+        "advSentence": "In a vitriolic review published on opening night, the critic flayed the director's latest film, deriding its banal dialogue and lackluster performances as proof that the once-prolific filmmaker had squandered his virtuosity.",
+        "advTranslation": "這位影評人在首映當晚發表一篇尖酸刻薄的評論，嚴厲痛批導演的新片，嘲笑其對白陳腐、演出平淡乏味，認為這證明了這位曾經多產的導演已經揮霍掉自己的精湛才華。"
       },
       {
         "word": "demeanor",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "conduct, bearing, outward manner.",
           "chinese": "舉止；風度"
-        }
+        },
+        "advSentence": "Despite her urbane demeanor at diplomatic receptions, the ambassador was known among her coterie of aides as an astute and occasionally irascible negotiator who rarely let a salient detail escape her notice.",
+        "advTranslation": "雖然這位大使在外交酒會上舉止溫文儒雅，但在她身邊的幕僚圈中，她是出了名精明、偶爾脾氣火爆的談判者，任何重要細節幾乎都逃不過她的眼睛。"
       },
       {
         "word": "delineation",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sketch, description in words or lines.",
           "chinese": "描繪；描述；輪廓"
-        }
+        },
+        "advSentence": "The cartographer's meticulous delineation of the subterranean cave system, which marked every tortuous passage and hidden cache of artifacts, proved integral to the archaeologists' later excavations, sparing them months of dangerous exploration.",
+        "advTranslation": "製圖師對這座地下洞穴系統做了一絲不苟的描繪，標出了每一條蜿蜒曲折的通道與每一處藏有古文物的隱密地點，這對考古學家日後的挖掘工作至關重要，替他們省下了好幾個月的危險探勘。"
       },
       {
         "word": "vindicate",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to clear of blame, justify.",
           "chinese": "證明清白；證明…正確"
-        }
+        },
+        "advSentence": "New DNA evidence finally vindicated the octogenarian, who had spent forty years branded a felon for a crime he did not commit; the state formally exonerated him and offered remuneration, though no sum could restore his lost youth.",
+        "advTranslation": "新的DNA證據終於還給這位八旬老翁清白；他為了一樁自己沒犯下的罪，被冠上重罪犯之名長達四十年。州政府正式宣告他無罪並給予補償，但再多的金錢也換不回他失去的青春。"
       },
       {
         "word": "heinous",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "hatefully evil, shockingly wicked.",
           "chinese": "十惡不赦的；極其可憎的"
-        }
+        },
+        "advSentence": "The tribunal described the massacre of unarmed villagers as a heinous atrocity, rejecting the general's pretext that his troops had acted under duress and insisting that those who perpetrated it must not enjoy impunity.",
+        "advTranslation": "法庭將屠殺手無寸鐵村民的行為定調為令人髮指的暴行，駁回將軍所謂部隊是在脅迫下行事的藉口，並堅持犯下此罪的人絕不能逍遙法外。"
       },
       {
         "word": "turpitude",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "vileness, wickedness.",
           "chinese": "卑鄙；墮落"
-        }
+        },
+        "advSentence": "The scandal exposed the moral turpitude of the city's elite: officials had colluded in an extortion scheme that preyed on the plight of vulnerable immigrants, and their accomplices had fabricated records to conceal it.",
+        "advTranslation": "這起醜聞揭露了該市權貴的道德敗壞：官員們串通進行勒索，利用弱勢移民的困境牟利，而他們的共犯還偽造紀錄來掩蓋真相。"
       },
       {
         "word": "infraction",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "violation of a rule or law.",
           "chinese": "違規；違法"
-        }
+        },
+        "advSentence": "Under the new mandate, even a minor infraction—such as filing a safety report one day late—could result in heavy fines, a restrictive policy that critics argued would stymie innovation and jeopardize small businesses.",
+        "advTranslation": "根據新的命令，即使是輕微的違規，例如晚一天提交安全報告，也可能招致高額罰款；批評者認為，這項嚴苛的政策將阻礙創新，並危及小型企業的生存。"
       },
       {
         "word": "callous",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unfeeling, insensitive.",
           "chinese": "冷酷無情的"
-        }
+        },
+        "advSentence": "The CEO's callous remark that laid-off workers should simply 'cope with change' provoked public outrage, and shareholders soon castigated the board for its contemptuous indifference to the hardship of employees who had served the company loyally.",
+        "advTranslation": "執行長冷血地表示被裁員的員工只要「適應變化」就好，這番話引發眾怒，股東們隨即嚴厲譴責董事會，對那些忠心為公司效力的員工所面臨的困境，表現出輕蔑與漠不關心。"
       },
       {
         "word": "redress",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to right a wrong, remedy.",
           "chinese": "糾正；補償"
-        }
+        },
+        "advSentence": "To redress the historical injustices inflicted on indigenous communities, the government pledged to return ancestral lands, though skeptics doubted that returning a nominal fraction of the territory could expunge the memory of centuries of privation.",
+        "advTranslation": "為了彌補原住民族群所遭受的歷史不公，政府承諾歸還祖傳土地；但懷疑者認為，只歸還象徵性的一小部分土地，無法抹去數百年來貧困匱乏的記憶。"
       },
       {
         "word": "vituperation",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "harsh blame, verbal abuse.",
           "chinese": "謾罵；辱罵"
-        }
+        },
+        "advSentence": "As the race tightened, the candidate's campaign speeches descended into vituperation: each rally became a diatribe of scurrilous epithets hurled at opponents, alienating moderate voters and eclipsing any pertinent discussion of policy.",
+        "advTranslation": "隨著選情趨於緊繃，這位候選人的競選演說淪為一連串的謾罵：每場造勢活動都變成對對手的激烈抨擊，充斥著粗鄙下流的綽號，不僅讓中間選民反感，也使任何切題的政策討論黯然失色。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "saga": [
     "long heroic story.",

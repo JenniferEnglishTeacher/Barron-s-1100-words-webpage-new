@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to come face-to-face with.",
           "chinese": "面對；遭遇"
-        }
+        },
+        "advSentence": "Public health officials must eventually confront the paradox that the very antibiotics designed to eradicate bacteria have, through decades of indiscriminate overuse, fostered virulent strains that no longer respond to treatment.",
+        "advTranslation": "公共衛生官員終究必須正視一個矛盾：原本用來消滅細菌的抗生素，卻因數十年來不加節制的濫用，反而培養出對治療不再有反應的強毒菌株。"
       },
       {
         "word": "antipathy",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "dislike, distaste, hate.",
           "chinese": "反感；厭惡"
-        }
+        },
+        "advSentence": "The long-standing antipathy between the two rival clans, fueled by generations of acrimonious land disputes and petty acts of revenge, made any amicable settlement seem chimerical, despite the mediator's assiduous efforts to bring the elders together.",
+        "advTranslation": "兩個敵對宗族因世代激烈的土地糾紛與瑣碎的報復行為而積怨已久，儘管調解人孜孜不倦地努力促成雙方長老會面，任何和平解決的方案仍顯得遙不可及。"
       },
       {
         "word": "servile",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "slavish, submissive.",
           "chinese": "奴性的；卑屈的"
-        }
+        },
+        "advSentence": "Critics of the regime noted that the state-run newspapers had become servile mouthpieces, dutifully praising every fiat issued by the president while repressing any article that might evince even a tinge of dissent.",
+        "advTranslation": "政權的批評者指出，官方報紙已淪為卑躬屈膝的傳聲筒，對總統頒布的每道命令都盡責地歌功頌德，同時壓下任何可能流露一絲異議的文章。"
       },
       {
         "word": "volition",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "willpower, choice.",
           "chinese": "意志；自願"
-        }
+        },
+        "advSentence": "Although the defendant initially claimed he had acted under duress, the prosecution presented cogent evidence that he had joined the nefarious scheme of his own volition, eager to share in its lucrative profits.",
+        "advTranslation": "儘管被告起初聲稱自己是受到脅迫才犯案，檢方卻提出有力的證據，證明他是出於自己的意願加入這項邪惡的陰謀，只為分一杯豐厚的利潤。"
       },
       {
         "word": "sojourn",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "temporary stay.",
           "chinese": "逗留；旅居"
-        }
+        },
+        "advSentence": "During a brief sojourn in Provence, the expatriate painter was so captivated by the region's lush lavender fields and luminous light that his previously lackluster palette underwent a remarkable metamorphosis.",
+        "advTranslation": "在普羅旺斯短暫旅居期間，這位旅居海外的畫家深深著迷於當地繁茂的薰衣草田與明亮的光線，使他原本黯淡無光的用色產生了驚人的蛻變。"
       },
       {
         "word": "austere",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "simple, unadorned, harsh.",
           "chinese": "嚴峻的；簡樸的"
-        }
+        },
+        "advSentence": "The monks lived in austere cells furnished with only a narrow cot and a wooden stool, for, like every ascetic in their order, they eschewed worldly comforts and kept an abstemious diet in pursuit of spiritual salvation.",
+        "advTranslation": "修士們住在簡樸的小室裡，只有一張窄床和一張木凳；就像修會中每位苦行者一樣，他們摒棄世俗享受、節制飲食，以追求靈魂的救贖。"
       },
       {
         "word": "felicitous",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "well-suited, pleasing, happy.",
           "chinese": "恰當的；令人愉悅的"
-        }
+        },
+        "advSentence": "The translator's felicitous choice of words preserved both the humor and the subtle nuances of the original poem, an achievement that even the most contemptuous critics were compelled to deem laudable.",
+        "advTranslation": "譯者用字貼切得宜，保留了原詩的幽默與細膩的言外之意；這項成就連最不屑一顧的評論家都不得不承認值得稱讚。"
       },
       {
         "word": "halcyon",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "idyllically peaceful, calm.",
           "chinese": "寧靜的；太平的"
-        }
+        },
+        "advSentence": "Writing her memoir as an octogenarian, the novelist recalled the halcyon summers of her childhood in a rustic fishing village with a nostalgia so poignant that it permeated nearly every chapter.",
+        "advTranslation": "這位小說家年逾八旬時撰寫回憶錄，憶起童年在純樸漁村度過的那些寧靜美好的夏天，字裡行間滿是令人動容的懷舊之情，幾乎滲透每個章節。"
       },
       {
         "word": "tenable",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "supportable, defendable.",
           "chinese": "站得住腳的；可防守的"
-        }
+        },
+        "advSentence": "Once new satellite measurements corroborated the rapid melting of polar ice, the skeptics' claim that global warming was a hoax was no longer tenable, and even some of their most zealous adherents began to recant.",
+        "advTranslation": "新的衛星測量數據證實了極地冰層正快速融化後，懷疑論者聲稱全球暖化是騙局的說法再也站不住腳，就連他們一些最狂熱的支持者也開始改口。"
       },
       {
         "word": "superfluous",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "excessive, surplus, unnecessary.",
           "chinese": "多餘的；過剩的"
-        }
+        },
+        "advSentence": "The editor ruthlessly truncated the verbose manuscript, cutting superfluous adjectives and tortuous digressions until only the salient arguments remained, a process the author initially resisted but later conceded had made the book far more trenchant.",
+        "advTranslation": "編輯毫不留情地刪減這份冗長的書稿，砍掉多餘的形容詞和迂迴曲折的離題段落，只留下最重要的論點；作者起初抗拒，後來卻承認這讓全書犀利得多。"
       },
       {
         "word": "motivate",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to inspire, stimulate, provoke.",
           "chinese": "激發；促動"
-        }
+        },
+        "advSentence": "To motivate the students in her remedial class, who seemed mired in apathy, the resourceful teacher replaced mundane drills with spontaneous debates on controversial issues, and attendance surged within a single semester.",
+        "advTranslation": "為了激勵補救班上那些看似意興闌珊的學生，這位足智多謀的老師以即興辯論爭議性議題取代枯燥的練習，結果出席率在一學期內大幅攀升。"
       },
       {
         "word": "rationalize",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to give a reason other than the real one.",
           "chinese": "合理化；為…找藉口"
-        }
+        },
+        "advSentence": "Smokers often rationalize their habit by claiming that it relieves stress, a convenient pretext that conceals the real reason, an addiction so powerful that many are loath to acknowledge it even to themselves.",
+        "advTranslation": "吸菸者常以紓解壓力為由替自己的習慣找藉口，這個方便的說詞掩蓋了真正的原因——一種強烈到許多人連對自己都不願承認的成癮。"
       },
       {
         "word": "therapy",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "healing or curing process.",
           "chinese": "治療；療法"
-        }
+        },
+        "advSentence": "For veterans afflicted with post-traumatic stress, a combination of group therapy and medication can palliate the most acute symptoms, though clinicians caution that no single treatment is a panacea for such complex wounds.",
+        "advTranslation": "對於飽受創傷後壓力所苦的退伍軍人而言，團體治療加上藥物可以緩解最嚴重的症狀，但臨床醫師提醒，面對如此複雜的創傷，沒有任何單一療法是萬靈丹。"
       },
       {
         "word": "nascent",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "beginning to exist or develop.",
           "chinese": "初生的；新興的"
-        }
+        },
+        "advSentence": "In the early 1980s, the nascent personal computer industry was dominated by tiny start-ups run from garages, few of which seemed viable at the time, and few analysts would have dared to prognosticate that several would grow into mammoth global corporations.",
+        "advTranslation": "在1980年代初期，剛起步的個人電腦產業由一群在車庫裡經營的小型新創公司主導；當時看來能存活的寥寥無幾，也很少有分析師敢預言其中幾家會成長為龐大的跨國企業。"
       },
       {
         "word": "iconoclast",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "image-breaker, attacker of traditional beliefs.",
           "chinese": "反傳統者；打破舊習者"
-        }
+        },
+        "advSentence": "A lifelong iconoclast, the architect flouted the conventions of classical design and scoffed at revered traditions, insisting that the ornate columns his peers adored were nothing but relics of a decadent past.",
+        "advTranslation": "這位建築師一生都是挑戰傳統的反叛者，他公然違抗古典設計的規範，嘲笑備受推崇的傳統，堅稱同儕所鍾愛的華麗柱子不過是頹廢過去的遺物。"
       },
       {
         "word": "erudite",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "very scholarly, learned.",
           "chinese": "博學的"
-        }
+        },
+        "advSentence": "The erudite professor could discourse with equal ease on medieval annals, recondite theories of linguistics, and obscure Renaissance poets, yet her lectures were never pedantic or condescending, which made her a favorite among even first-year students.",
+        "advTranslation": "這位學識淵博的教授無論談中世紀編年史、深奧的語言學理論，或是冷門的文藝復興詩人，都能侃侃而談，而她的講課從不賣弄學問，也不居高臨下，因此連大一新生都很喜歡她。"
       },
       {
         "word": "phobia",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "persistent fear, strong dislike.",
           "chinese": "恐懼症"
-        }
+        },
+        "advSentence": "Psychologists believe that a phobia often originates in a single traumatic experience; a child bitten by a mastiff, for example, may develop an irrational fear of all dogs that persists for decades.",
+        "advTranslation": "心理學家認為，恐懼症往往源自單一的創傷經驗；例如，被獒犬咬過的孩子，可能會對所有狗產生不理性的恐懼，而且持續數十年之久。"
       },
       {
         "word": "germane",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "appropriate, relevant.",
           "chinese": "密切相關的；切題的"
-        }
+        },
+        "advSentence": "During the hearing, the judge repeatedly admonished the garrulous witness to confine his testimony to facts germane to the case, as his desultory anecdotes about his neighbors were wholly irrelevant.",
+        "advTranslation": "聽證會上，法官一再告誡那位喋喋不休的證人，證詞只能限於與本案相關的事實，因為他那些東拉西扯的鄰居軼事與案情毫不相干。"
       },
       {
         "word": "vertigo",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "dizziness.",
           "chinese": "眩暈"
-        }
+        },
+        "advSentence": "Climbers ascending the sheer granite face often experience sudden vertigo when they glance down at the ominous drop below, and even intrepid veterans admit that the dizzying sensation can leave their limbs tremulous.",
+        "advTranslation": "攀登陡峭花崗岩壁的登山者，往下瞥見腳下那令人不安的深淵時，常會突然一陣暈眩；即使是無畏的老手也承認，那種天旋地轉的感覺會讓他們四肢發抖。"
       },
       {
         "word": "conducive",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "leading, helpful.",
           "chinese": "有助於…的"
-        }
+        },
+        "advSentence": "Researchers have found that a tranquil setting, free from the cacophony of traffic, is far more conducive to deep concentration than the bedlam of a typical open-plan office, where few workers can remain engrossed in a task for long.",
+        "advTranslation": "研究人員發現，遠離車流嘈雜聲的寧靜環境，遠比典型開放式辦公室的喧鬧混亂更有助於深度專注；在後者中，很少有員工能長時間全神貫注於一項工作。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "confront": [
     "to come face-to-face with.",

@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "deep, intense.",
           "chinese": "深奧的；深刻的"
-        }
+        },
+        "advSentence": "The publication of Darwin's theory had a profound impact on Victorian society, compelling devout readers to ponder whether humanity's origins were as sacred as tradition had taught and opening a lasting schism between scientists and clergy.",
+        "advTranslation": "達爾文理論的出版對維多利亞時代社會產生了深遠的影響，迫使虔誠的讀者思考人類的起源是否真如傳統所教導的那般神聖，也在科學家與神職人員之間造成長久的分裂。"
       },
       {
         "word": "alleviate",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to make easier, lighten.",
           "chinese": "減輕；緩解"
-        }
+        },
+        "advSentence": "To alleviate the acute food shortages caused by the drought, relief agencies distributed grain to families facing destitution, though officials conceded that such aid could only palliate the crisis rather than eradicate its root causes.",
+        "advTranslation": "為了緩解乾旱造成的嚴重糧荒，救援機構向瀕臨赤貧的家庭發放穀物，但官員也坦承，這類援助只能暫時減輕危機，無法根除問題的根源。"
       },
       {
         "word": "prodigious",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "extraordinary, enormous.",
           "chinese": "巨大的；驚人的"
-        }
+        },
+        "advSentence": "Mozart displayed a prodigious talent from early childhood, composing intricate sonatas at an age when most children are still mastering rudimentary skills, which is why biographers often cite him as the paragon of a musical prodigy.",
+        "advTranslation": "莫札特從幼年起就展現驚人的天賦，在大多數孩子還在學習基本技能的年紀，他已能譜寫精巧的奏鳴曲，這也是傳記作家常把他奉為音樂神童典範的原因。"
       },
       {
         "word": "celerity",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "speed, rapidity.",
           "chinese": "迅速；敏捷"
-        }
+        },
+        "advSentence": "The firefighters responded with remarkable celerity, arriving within minutes of the alarm and containing the conflagration before it could raze the historic edifice that had anchored the town square for two centuries.",
+        "advTranslation": "消防員以驚人的速度出動，在警報響起後數分鐘內抵達，趕在大火將這座矗立於鎮廣場兩百年的歷史建築夷為平地之前控制住火勢。"
       },
       {
         "word": "expedite",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to carry out promptly.",
           "chinese": "加速；促進"
-        }
+        },
+        "advSentence": "Hoping to expedite the reconstruction of the earthquake-ravaged city, the governor issued a fiat that waived restrictive permit requirements, a move critics feared would allow unscrupulous contractors to cut corners with impunity.",
+        "advTranslation": "為了加速這座遭地震重創城市的重建，州長發布一道命令，免除了繁瑣的許可規定；批評者擔心，此舉會讓不肖承包商偷工減料卻不必受罰。"
       },
       {
         "word": "bizarre",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "fantastic, odd.",
           "chinese": "奇異的；古怪的"
-        }
+        },
+        "advSentence": "Early naturalists considered the platypus so bizarre, a furry mammal with a duck's bill that lays eggs, that many suspected the specimen had been fabricated by a mischievous taxidermist, a conjecture later shown to be absurd.",
+        "advTranslation": "早期的博物學家覺得鴨嘴獸實在太奇特——一種長著鴨嘴、會下蛋的毛茸茸哺乳動物——許多人懷疑這件標本是某個愛惡作劇的標本師拼湊捏造的，這種猜測後來被證明十分荒謬。"
       },
       {
         "word": "usurp",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to seize, annex, grab.",
           "chinese": "篡奪；奪取"
-        }
+        },
+        "advSentence": "After the ambitious general staged a coup to usurp the throne, he moved swiftly to oust loyal ministers and subjugate rebellious provinces, determined to consolidate power he had seized by force.",
+        "advTranslation": "這位野心勃勃的將軍發動政變篡奪王位後，迅速罷黜忠心的大臣、鎮壓叛亂的省分，決心鞏固他以武力奪來的政權。"
       },
       {
         "word": "paltry",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "petty, worthless.",
           "chinese": "微不足道的；少得可憐的"
-        }
+        },
+        "advSentence": "Even as executive salaries continued to surge, the company offered its warehouse workers a paltry raise of a few cents an hour, a gesture that irate employees derided as an insult rather than a genuine reward for their labor.",
+        "advTranslation": "在高階主管薪資持續飆漲之際，公司卻只給倉庫員工每小時區區幾分錢的加薪，憤怒的員工嘲諷這根本是一種侮辱，而非對他們辛勞的真心回報。"
       },
       {
         "word": "trivial",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "of little importance, insignificant.",
           "chinese": "瑣碎的；微不足道的"
-        }
+        },
+        "advSentence": "The editor urged the young journalist to omit trivial details about the senator's wardrobe and focus instead on the salient facts of the bribery scandal she had been assiduously investigating, which were far more pertinent to readers.",
+        "advTranslation": "編輯要求這位年輕記者刪去參議員穿著打扮的瑣碎細節，轉而聚焦於她一直孜孜不倦調查的賄賂醜聞中的關鍵事實，因為這些對讀者而言切題得多。"
       },
       {
         "word": "condone",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to excuse, pardon.",
           "chinese": "寬恕；縱容"
-        }
+        },
+        "advSentence": "Although the principal sympathized with the students' plight, she refused to condone their vandalism, insisting that even a laudable cause could not exonerate those who had damaged school property.",
+        "advTranslation": "雖然校長同情學生們的處境，但她拒絕縱容他們的破壞行為，堅稱即使出發點值得讚揚，也不能為損壞學校財產的人開脫罪責。"
       },
       {
         "word": "venerable",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "respected, worshiped.",
           "chinese": "值得尊敬的；莊嚴的"
-        }
+        },
+        "advSentence": "Villagers revere the venerable oak in the town square, which has endured three centuries of inclement weather and the countless vicissitudes of local history, from wars and famines to floods.",
+        "advTranslation": "村民們崇敬鎮廣場上那棵古老的橡樹，它挺過了三個世紀的惡劣天氣，也見證了戰爭、饑荒與洪水等地方歷史上無數的興衰變遷。"
       },
       {
         "word": "menial",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "humble, degrading.",
           "chinese": "卑微的；（工作）低下的"
-        }
+        },
+        "advSentence": "Many highly educated expatriates discover that their foreign credentials are not acknowledged, forcing them to accept menial jobs that offer meager remuneration and little opportunity to use their professional expertise.",
+        "advTranslation": "許多受過高等教育的旅外人士發現自己的外國學歷不被承認，只得接受報酬微薄、又幾乎無法發揮專業的低下工作。"
       },
       {
         "word": "succinct",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "brief, concise.",
           "chinese": "簡明的；簡潔的"
-        }
+        },
+        "advSentence": "Unlike his verbose predecessor, the new president favored succinct addresses, conveying the gist of complex policies in a few cogent sentences that even skeptical voters could easily follow.",
+        "advTranslation": "不同於他那位冗長囉嗦的前任，新總統偏好簡潔的演說，只用寥寥幾句條理分明的話就傳達出複雜政策的要旨，連抱持懷疑的選民也能輕鬆理解。"
       },
       {
         "word": "ambiguous",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "vague, undefined, not specific.",
           "chinese": "模稜兩可的"
-        }
+        },
+        "advSentence": "Because the treaty's wording was ambiguous, each nation interpreted the boundary clauses in its own favor, and minor border skirmishes soon gave way to a hostile standoff that no international mandate could resolve.",
+        "advTranslation": "由於條約的措辭模稜兩可，兩國各自對邊界條款作出有利於己的解讀，小規模的邊境衝突很快演變成敵對僵局，任何國際授權都無法化解。"
       },
       {
         "word": "extraneous",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "foreign, not belonging.",
           "chinese": "無關的；外來的"
-        }
+        },
+        "advSentence": "To keep the documentary focused, the director decided to expunge every extraneous scene, including a lush sequence of the rainforest that, however beautiful, was irrelevant to the film's central argument.",
+        "advTranslation": "為了讓紀錄片保持焦點，導演決定刪除所有無關的場景，包括一段蒼翠繁茂的雨林畫面——無論多美，它都與影片的核心論點無關。"
       },
       {
         "word": "archaic",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "out-of-date.",
           "chinese": "古老的；過時的"
-        }
+        },
+        "advSentence": "Linguists visiting the isolated mountain village were astonished to hear elders still using archaic expressions that had long since become extinct elsewhere, making the village a sanctuary for words otherwise found only in obscure medieval manuscripts.",
+        "advTranslation": "前往這座偏僻山村的語言學家驚訝地發現，當地長者仍在使用早已在別處絕跡的古老說法，使這座村莊成了一處庇護所，保存著那些原本只見於冷僻中世紀手稿的詞彙。"
       },
       {
         "word": "rabid",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "fanatical, furious, mad.",
           "chinese": "狂熱的；瘋狂的"
-        }
+        },
+        "advSentence": "Fueled by rabid nationalism, the newspaper published vitriolic editorials that maligned foreign merchants and stirred up a frenzy of violence that the police were powerless to quell.",
+        "advTranslation": "在狂熱民族主義的推波助瀾下，這家報紙刊出一篇篇惡毒的社論，詆毀外國商人，掀起一波警方無力平息的暴力狂潮。"
       },
       {
         "word": "emulate",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to strive to equal or surpass.",
           "chinese": "效仿；努力趕上"
-        }
+        },
+        "advSentence": "Aspiring chefs from around the world flock to Kyoto hoping to emulate the impeccable knife work of its master cooks, yet few have the humility to persevere through years of grueling apprenticeship.",
+        "advTranslation": "世界各地有志成為廚師的人紛紛湧向京都，希望效法當地名廚無可挑剔的刀工，但很少有人具備足夠的謙遜，能熬過多年艱苦的學徒生涯。"
       },
       {
         "word": "facetious",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sarcastic, comical, humorous.",
           "chinese": "愛開玩笑的；不正經的"
-        }
+        },
+        "advSentence": "When the senator made a facetious remark about solving the budget crisis by selling the national parks, some listeners missed the levity and reacted with consternation, while others were incredulous that he would joke about so grave a matter.",
+        "advTranslation": "參議員開玩笑說要賣掉國家公園來解決預算危機時，有些聽眾沒聽出其中的戲謔而大感驚慌，另一些人則不敢相信他竟會拿如此嚴肅的事情說笑。"
       },
       {
         "word": "salubrious",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "healthful, wholesome.",
           "chinese": "有益健康的"
-        }
+        },
+        "advSentence": "Victorian physicians often sent patients with tuberculosis to breathe the salubrious mountain air of Switzerland, believing that tranquil surroundings would nurture recovery from a malady that sooty industrial cities only aggravated.",
+        "advTranslation": "維多利亞時代的醫生常讓結核病患到瑞士山區呼吸有益健康的空氣，相信寧靜的環境有助於病體復原，而煤煙瀰漫的工業城市只會使這種疾病惡化。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "profound": [
     "deep, intense.",

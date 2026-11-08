@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "doubt, dilemma.",
           "chinese": "困惑；窘境"
-        }
+        },
+        "advSentence": "The physician faced an ethical quandary: disclosing the terminal diagnosis might plunge the fretful patient into despair, yet withholding it would flout the principle of candor that her profession deems inviolable.",
+        "advTranslation": "這位醫師陷入道德上的兩難：說出末期診斷，可能讓本就焦躁不安的病人陷入絕望；但隱瞞不說，又違背了醫界視為不可侵犯的坦誠原則。"
       },
       {
         "word": "callous",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "hardened, unfeeling.",
           "chinese": "無情的；麻木的"
-        }
+        },
+        "advSentence": "Years of covering wars had made the photojournalist seem callous to colleagues, but in retrospect she admitted that her apparent indifference was merely a veneer protecting her from the poignant suffering she documented.",
+        "advTranslation": "多年的戰地採訪讓這位攝影記者在同事眼中顯得冷漠無情；但回顧過往，她坦承那種看似漠不關心的態度，只是一層保護殼，讓她免於被自己所記錄的痛苦深深刺痛。"
       },
       {
         "word": "expedient",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "convenient, useful for a purpose though not always fair or principled.",
           "chinese": "權宜的；方便的"
-        }
+        },
+        "advSentence": "Rather than pursue a comprehensive reform of the tax code, the administration chose the more expedient solution of imposing an arbitrary temporary levy, a stopgap that critics derided as ineffectual.",
+        "advTranslation": "政府沒有推動全面的稅制改革，反而選擇了較為權宜的作法：隨意開徵一項臨時稅；批評者嘲諷這種權宜之計根本無效。"
       },
       {
         "word": "negligible",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "trifling, too small to matter.",
           "chinese": "微不足道的；可忽略的"
-        }
+        },
+        "advSentence": "Although the factory emitted only negligible quantities of each pollutant, scientists warned that their cumulative effect on the watershed could prove lethal to fish species already vulnerable to rising temperatures.",
+        "advTranslation": "雖然工廠排放的每種汙染物數量都微不足道，科學家卻警告，這些汙染物對流域的累積影響，可能對原本就容易受水溫上升衝擊的魚類造成致命後果。"
       },
       {
         "word": "blasé",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "indifferent, unexcited because of overfamiliarity.",
           "chinese": "厭倦的；無動於衷的"
-        }
+        },
+        "advSentence": "Having toured the world's grandest cathedrals, the jaded travel writer adopted a blasé attitude toward the seemingly nondescript village chapel, giving it a perfunctory glance that blinded him to the singular frescoes his more avid companions found breathtaking.",
+        "advTranslation": "這位遊遍世界宏偉大教堂、早已麻木的旅遊作家，對那座看似平凡無奇的村莊小教堂顯得興致缺缺，只是敷衍地瞥了一眼，因而錯過了讓他那些更熱情的同伴驚嘆不已的獨特壁畫。"
       },
       {
         "word": "ennui",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "boredom, listless weariness.",
           "chinese": "倦怠；無聊"
-        }
+        },
+        "advSentence": "Confined to his estate by inclement weather, the affluent aristocrat succumbed to a profound ennui, listlessly perusing novels he had read before and finding no solace even in his once-beloved hobbies.",
+        "advTranslation": "惡劣的天氣把這位富有的貴族困在莊園裡，他陷入了深深的倦怠，無精打采地翻閱早已讀過的小說，就連昔日熱愛的嗜好也無法帶給他任何慰藉。"
       },
       {
         "word": "comely",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "attractive, pleasant to look at.",
           "chinese": "清秀的；標緻的"
-        }
+        },
+        "advSentence": "The comely facade of the Victorian mansion, with its ornate gables and lush gardens, concealed the sordid history of its first owner, a ruthless magnate whose fortune had been built on extortion and bribery.",
+        "advTranslation": "這棟維多利亞式宅邸外觀秀麗，有著華麗的山牆與蒼翠繁茂的花園，卻掩蓋了第一任屋主不堪的過往──那位冷酷的富豪靠著勒索與賄賂累積財富。"
       },
       {
         "word": "frenetic",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "frantic, frenzied.",
           "chinese": "狂熱的；發狂似的"
-        }
+        },
+        "advSentence": "The trading floor erupted into frenetic activity after a false rumor precipitated mass selling, with brokers gesticulating wildly as the index plunged toward its nadir until regulators intervened to terminate trading for the day.",
+        "advTranslation": "一則不實傳言突然引發大量拋售，交易大廳隨即陷入瘋狂忙亂，交易員激動地比手畫腳，指數一路跌向谷底，直到主管機關出面介入，宣布當日停止交易。"
       },
       {
         "word": "artifice",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "clever trick, strategy, trickery.",
           "chinese": "詭計；巧妙手段"
-        }
+        },
+        "advSentence": "Over nearly a decade, the charlatan's elaborate artifice—forged diplomas, an invented aristocratic lineage, and impeccable manners—turned dozens of wealthy investors into dupes before an astute auditor finally exposed the hoax.",
+        "advTranslation": "近十年來，這名騙子精心設計的詭計──偽造的文憑、捏造的貴族血統，以及無可挑剔的禮儀──讓數十位富有的投資人上當受騙，直到一位精明的稽核人員終於揭穿了這場騙局。"
       },
       {
         "word": "diversity",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "variety.",
           "chinese": "多樣性"
-        }
+        },
+        "advSentence": "The Amazon rainforest's astonishing biological diversity, encompassing myriad insect species not yet catalogued, is jeopardized by rampant logging that threatens to eradicate entire habitats before scientists can even document them.",
+        "advTranslation": "亞馬遜雨林擁有驚人的生物多樣性，包含無數尚未編目的昆蟲物種；然而猖獗的伐木正危及這一切，可能在科學家來得及記錄之前，就將整片棲地徹底消滅。"
       },
       {
         "word": "qualm",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "twinge of conscience, sudden feeling of doubt.",
           "chinese": "疑慮；良心不安"
-        }
+        },
+        "advSentence": "The young soldier felt no qualm about deserting a regime he loathed, yet he was distraught at the thought that his family, left behind in the capital, might be harassed by its implacable secret police.",
+        "advTranslation": "這名年輕士兵對於背棄自己痛恨的政權毫無良心不安；但一想到留在首都的家人可能遭到該政權冷酷無情的秘密警察騷擾，他就心煩意亂。"
       },
       {
         "word": "expurgate",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to remove objectionable parts or passages.",
           "chinese": "刪去（不當內容）"
-        }
+        },
+        "advSentence": "Soviet censors, ubiquitous in the publishing industry, routinely expurgated foreign novels, excising any passage that seemed covertly critical of the regime, so readers often encountered truncated editions without realizing how drastically the authors' intent had been modified.",
+        "advTranslation": "蘇聯的審查人員遍布出版業，經常刪改外國小說，將任何看似暗中批評政權的段落一律刪除；因此讀者讀到的往往是刪節版，卻渾然不知作者的原意已被大幅更動。"
       },
       {
         "word": "begrudge",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to resent, give reluctantly.",
           "chinese": "吝惜；嫉妒"
-        }
+        },
+        "advSentence": "Although she had once begrudged her rival's prestigious award, the novelist eventually acknowledged his virtuosity, conceding in a public interview that his recondite but trenchant essays deserved the acclaim they received.",
+        "advTranslation": "雖然這位小說家曾對對手獲得的著名獎項心懷不滿，但她最終承認對方才華出眾，並在一次公開訪談中坦言，他那些艱深卻犀利的文章確實實至名歸。"
       },
       {
         "word": "artless",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "naive, innocent, without deception.",
           "chinese": "天真的；純樸的"
-        }
+        },
+        "advSentence": "The child's artless confession that she had broken the vase elicited laughter rather than a reprimand, for her candor was so guileless that even her irascible grandfather could not stay angry.",
+        "advTranslation": "孩子天真地坦承是她打破了花瓶，結果引來的是笑聲而非責備；她的坦率毫無心機，連脾氣暴躁的爺爺也氣不起來。"
       },
       {
         "word": "gratuity",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "tip, gift for service.",
           "chinese": "小費；酬金"
-        }
+        },
+        "advSentence": "In Japan, offering a gratuity is often considered a breach of decorum, since impeccable service is deemed an intrinsic part of the job rather than a favor requiring extra remuneration.",
+        "advTranslation": "在日本，給小費常被視為有失禮節，因為無可挑剔的服務被認為是工作本身固有的一部分，而不是需要額外報酬的恩惠。"
       },
       {
         "word": "manifest",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "evident, obvious.",
           "chinese": "明顯的；明白的"
-        }
+        },
+        "advSentence": "The general's incompetence became manifest when his rash decision to besiege the fortress in winter led to a fiasco, as his supply lines collapsed and frostbitten troops were forced to retreat.",
+        "advTranslation": "這位將軍的無能在他輕率決定於冬季圍攻要塞時表露無遺：這次行動以慘敗收場，補給線崩潰，凍傷的部隊被迫撤退。"
       },
       {
         "word": "delve",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to dig, investigate deeply.",
           "chinese": "鑽研；深入探究"
-        }
+        },
+        "advSentence": "To understand the origins of the feud, the historian delved into voluminous archives, poring over yellowed letters which revealed that the acrimonious rivalry between two eminent families had begun with a trivial dispute over land.",
+        "advTranslation": "為了探究這場世仇的起源，歷史學家深入研究卷帙浩繁的檔案，仔細翻閱泛黃的信件，發現兩個顯赫家族之間的激烈對立，竟始於一場微不足道的土地糾紛。"
       },
       {
         "word": "capricious",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unpredictable, changing on a whim.",
           "chinese": "反覆無常的；任性的"
-        }
+        },
+        "advSentence": "The capricious monsoon, which might deliver torrential rain one week and leave fields parched the next, makes farming in the region precarious, compelling villagers accustomed to such vicissitudes to hoard grain against inevitable lean years.",
+        "advTranslation": "變化無常的季風可能這週帶來傾盆大雨，下週又讓田地乾涸，使當地農業充滿風險；早已習慣這種變遷的村民，不得不囤積糧食，以備無可避免的荒年。"
       },
       {
         "word": "requisite",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "requirement, necessary thing.",
           "chinese": "必需品；必要條件"
-        }
+        },
+        "advSentence": "Fluency in Latin was once a requisite for admission to elite universities, but as the language faced obsolescence in everyday scholarship, administrators judged the stipulation archaic and abrogated it early in the twentieth century.",
+        "advTranslation": "精通拉丁文曾是進入菁英大學的必要條件；但隨著這門語言在日常學術中逐漸被淘汰，校方認為這項規定已經過時，便在二十世紀初將其廢除。"
       },
       {
         "word": "replenish",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to fill again, restock.",
           "chinese": "補充；重新裝滿"
-        }
+        },
+        "advSentence": "After the drought depleted the reservoirs, officials implored residents to curtail their water usage until autumn rains could replenish the supply, warning that lax conservation would exacerbate an already acute shortage.",
+        "advTranslation": "乾旱使水庫水量見底後，官員懇求居民減少用水，直到秋雨能重新補足水源；他們並警告，若節水措施鬆懈，將使原本已十分嚴重的缺水問題雪上加霜。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "quandary": [
     "doubt, dilemma.",

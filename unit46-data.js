@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to find out about, discover.",
           "chinese": "查明；確定"
-        }
+        },
+        "advSentence": "To ascertain whether the manuscript was bona fide or an ingenious hoax, curators subjected its parchment to radiocarbon dating and scrutinized its handwriting alongside extant letters known to be the author's.",
+        "advTranslation": "為了查明這份手稿是真跡還是一場巧妙的騙局，館方人員對其羊皮紙進行放射性碳定年，並仔細比對其筆跡與現存、確知出自作者之手的信件。"
       },
       {
         "word": "burgeoned",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "grew, flourished.",
           "chinese": "激增；迅速發展"
-        }
+        },
+        "advSentence": "In the years after the railway arrived, the sleepy fishing village burgeoned into a bustling port, attracting a heterogeneous population of merchants and laborers and lining its formerly tranquil waterfront with myriad warehouses.",
+        "advTranslation": "鐵路通車後的幾年間，這個沉寂的小漁村迅速發展成繁忙的港口，吸引了形形色色的商人與勞工，昔日寧靜的濱水區也蓋滿了數不清的倉庫。"
       },
       {
         "word": "charisma",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "quality of leadership inspiring enthusiasm.",
           "chinese": "個人魅力；領袖氣質"
-        }
+        },
+        "advSentence": "Historians still debate whether the movement's rapid growth owed more to its founder's magnetic charisma, which attracted thousands of ardent adherents, or to an economic crisis that made his promises of salvation so appealing.",
+        "advTranslation": "歷史學家至今仍在爭論，這場運動之所以迅速壯大，究竟主要歸功於創始人那種吸引數千名熱情追隨者的個人魅力，還是因為經濟危機使他承諾的救贖顯得格外誘人。"
       },
       {
         "word": "dearth",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "lack, scarcity.",
           "chinese": "缺乏；稀少"
-        }
+        },
+        "advSentence": "A chronic dearth of qualified teachers in rural districts has compounded existing educational inequities, prompting legislators to offer higher remuneration and housing subsidies to entice young aspirants into the profession.",
+        "advTranslation": "鄉村地區長期缺乏合格教師，使原本就存在的教育不平等更加惡化，促使立法者提供更高的薪酬和住房補助，以吸引有志的年輕人投身教職。"
       },
       {
         "word": "derived",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "received from a source, descended from.",
           "chinese": "衍生出的；源自的"
-        }
+        },
+        "advSentence": "Although much of the English lexicon is derived from Latin, many ubiquitous everyday words, such as 'sky' and 'egg', originate in Old Norse, an obscure legacy of the Viking settlers who once occupied northern England.",
+        "advTranslation": "雖然英語詞彙大多源自拉丁文，但許多隨處可見的日常字詞，例如 sky 和 egg，其實來自古諾斯語；這是曾經占據英格蘭北部的維京移民所留下、鮮為人知的遺產。"
       },
       {
         "word": "disseminate",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to scatter, spread.",
           "chinese": "散佈；傳播"
-        }
+        },
+        "advSentence": "Gutenberg's printing press enabled reformers to disseminate pamphlets far more rapidly than church authorities could repress them, and the resulting flood of dissenting views precipitated a schism that permanently divided Western Christianity.",
+        "advTranslation": "古騰堡的印刷機讓改革者散播小冊子的速度遠快於教會當局壓制的速度，隨之湧現的大量異議觀點，促成了一場永久分裂西方基督教的大分裂。"
       },
       {
         "word": "dormant",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "asleep, resting, inactive.",
           "chinese": "休眠的；靜止的"
-        }
+        },
+        "advSentence": "Mount Vesuvius had lain dormant for generations before its eruption in AD 79 obliterated Pompeii, burying the city's hapless inhabitants beneath meters of ash and volcanic debris that preserved their final moments with eerie precision.",
+        "advTranslation": "維蘇威火山沉寂了好幾代人之久，直到西元七十九年爆發，徹底摧毀了龐貝城，將城中不幸的居民埋在數公尺厚的火山灰與碎屑之下，也以令人毛骨悚然的精確度保存了他們生命的最後一刻。"
       },
       {
         "word": "encomium",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "high praise, formal tribute.",
           "chinese": "讚美；頌詞"
-        }
+        },
+        "advSentence": "At the scientist's memorial, her former student delivered a moving encomium that extolled her impeccable integrity, her assiduous research, and the latent talent she had recognized and cultivated in so many young researchers.",
+        "advTranslation": "在這位科學家的追思會上，她昔日的學生發表了一篇感人的頌詞，讚揚她無可挑剔的正直品格、勤奮不懈的研究，以及她在許多年輕研究者身上發掘並培育的潛在才華。"
       },
       {
         "word": "factitious",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "artificial, sham, not genuine.",
           "chinese": "人為的；虛假的"
-        }
+        },
+        "advSentence": "Economists argued that the advertising blitz had generated a factitious demand for the gadget, preying on consumers' insatiable but transient appetite for novelty, and predicted that sales would collapse once the vogue faded.",
+        "advTranslation": "經濟學家認為，這波廣告攻勢為該產品製造了虛假的需求，利用的是消費者對新奇事物永不滿足卻又短暫的胃口，並預測一旦熱潮退去，銷量就會崩跌。"
       },
       {
         "word": "genocide",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "planned destruction of an entire people.",
           "chinese": "種族滅絕"
-        }
+        },
+        "advSentence": "The international tribunal indicted the former general for genocide, presenting comprehensive evidence that he had orchestrated the extermination of an ethnic minority and dismissing his claim of mere wartime chaos as fallacious and abhorrent.",
+        "advTranslation": "國際法庭以種族滅絕罪起訴這名前將軍，提出全面的證據證明他策劃了對一個少數民族的屠殺，並駁斥他所謂「只是戰時混亂」的說詞既謬誤又令人憎惡。"
       },
       {
         "word": "hyperbole",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "exaggerated figure of speech.",
           "chinese": "誇張法；誇飾"
-        }
+        },
+        "advSentence": "When the senator declared that a modest fuel tax would 'annihilate the middle class', analysts dismissed the claim as hyperbole, noting that its pecuniary impact on typical households would be trivial and that such histrionics impede rational debate.",
+        "advTranslation": "當參議員宣稱一項溫和的燃料稅會「消滅中產階級」時，分析師認為這只是誇大其詞，並指出此稅對一般家庭造成的經濟影響微乎其微，而這種誇張的作秀只會妨礙理性的討論。"
       },
       {
         "word": "internecine",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "mutually destructive, relating to conflict within a group.",
           "chinese": "內訌的；兩敗俱傷的"
-        }
+        },
+        "advSentence": "Internecine strife between rival factions so debilitated the revolutionary movement that the regime it had sought to oust was able to quell the uprising with little resistance and execute its leaders within a matter of weeks.",
+        "advTranslation": "敵對派系之間的自相殘殺嚴重削弱了這場革命運動，以致於它原本試圖推翻的政權，幾乎不費吹灰之力就平定了這場起義，並在短短幾週內處決了起義領袖。"
       },
       {
         "word": "munificent",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "generous, lavish.",
           "chinese": "慷慨的；豐厚的"
-        }
+        },
+        "advSentence": "Thanks to a munificent bequest from an anonymous alumnus, the university was able to underwrite full scholarships for indigent students and restore its library, an imposing edifice dating to 1890.",
+        "advTranslation": "多虧一位匿名校友慷慨的遺贈，這所大學得以為清寒學生提供全額獎學金，並修復建於一八九〇年、宏偉壯觀的圖書館。"
       },
       {
         "word": "nepotism",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "favoritism toward relatives.",
           "chinese": "裙帶關係；任人唯親"
-        }
+        },
+        "advSentence": "Shareholders protested the chairman's nepotism when he named his inexperienced son to head the firm's flagship division, relegating a seasoned executive whose expertise had long been an integral asset to the company.",
+        "advTranslation": "董事長任命毫無經驗的兒子掌管公司的旗艦部門，並將一位資深主管降職，股東們紛紛抗議他任人唯親；而這位主管的專業長久以來一直是公司不可或缺的資產。"
       },
       {
         "word": "obloquy",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "dishonor, disgrace, public criticism.",
           "chinese": "辱罵；恥辱"
-        }
+        },
+        "advSentence": "After his duplicity was exposed, the senator, once revered by voters, endured relentless obloquy from the press, and former allies, loath to be associated with the scandal, quietly abandoned him.",
+        "advTranslation": "在他的欺騙行為曝光後，這位曾深受選民尊崇的參議員遭到媒體無情的抨擊與唾罵，昔日的盟友也不願與醜聞扯上關係，悄悄地離他而去。"
       },
       {
         "word": "potentate",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "ruler, monarch, powerful person.",
           "chinese": "統治者；君主；有權勢者"
-        }
+        },
+        "advSentence": "Surrounded by a fawning entourage, the potentate governed his vast realm by fiat, issuing arbitrary decrees on taxation, marriage, and trade that no court or council in the kingdom dared to challenge.",
+        "advTranslation": "在一群阿諛奉承的隨從簇擁下，這位君主以命令統治他廣大的國土，隨意頒布關於稅收、婚姻與貿易的專斷法令，國內沒有任何法院或議會敢於挑戰。"
       },
       {
         "word": "prerogative",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "exclusive power or right.",
           "chinese": "特權；專有權"
-        }
+        },
+        "advSentence": "Under the constitution, granting pardons is the president's exclusive prerogative, yet critics contend that using it to exonerate cronies convicted of extortion sets a dangerous precedent that future leaders could invoke to shield their own associates from justice.",
+        "advTranslation": "根據憲法，赦免權是總統獨享的特權；然而批評者認為，用這項權力替犯下勒索罪的親信脫罪，將開創危險的先例，未來的領導人可能援引此例，讓自己的親信逃避法律制裁。"
       },
       {
         "word": "prevarication",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "lie, deviation from the truth.",
           "chinese": "支吾其詞；撒謊"
-        }
+        },
+        "advSentence": "Under incisive cross-examination by the defense attorney, the witness's prevarication soon became apparent to the jury, as his evasive answers grew increasingly incoherent and his alibi could not be corroborated by any of his alleged companions.",
+        "advTranslation": "在辯護律師犀利的交互詰問下，證人的說謊行為很快就在陪審團面前露出馬腳：他閃爍其詞的回答越來越前言不對後語，而他的不在場證明也無法獲得任何一位他所稱的同伴證實。"
       },
       {
         "word": "sophistry",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "false reasoning, deceptively clever argument.",
           "chinese": "詭辯"
-        }
+        },
+        "advSentence": "Through relentless questioning, Socrates exposed the sophistry of his interlocutors, demonstrating that arguments which seemed cogent at first rested on dubious premises and could readily be construed to support contradictory conclusions.",
+        "advTranslation": "蘇格拉底透過不斷追問，揭穿了對話者的詭辯，證明那些乍看之下頗具說服力的論點，其實建立在可疑的前提上，而且很容易被解讀成支持相互矛盾的結論。"
       },
       {
         "word": "tyro",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "novice, beginner.",
           "chinese": "新手；初學者"
-        }
+        },
+        "advSentence": "Although still a tyro in the laboratory, the young researcher displayed such adroit technique and perspicacious judgment that her mentor soon entrusted her with the lab's most delicate experiments, a singular honor for a first-year student.",
+        "advTranslation": "雖然在實驗室裡還是個新手，這位年輕研究者卻展現出靈巧熟練的技術和敏銳的判斷力，指導教授很快就把實驗室裡最精細的實驗交給她負責，這對一年級學生來說是非比尋常的殊榮。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ascertain": [
     "to find out about, discover.",

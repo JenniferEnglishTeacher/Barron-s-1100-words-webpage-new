@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to seek favor by flattery (usually 'curry favor').",
           "chinese": "拍馬屁；討好"
-        }
+        },
+        "advSentence": "In eighteenth-century France, ambitious aspirants to the royal court would curry favor with the king's entourage, lavishing its members with sumptuous gifts in the hope of securing a lucrative sinecure.",
+        "advTranslation": "在十八世紀的法國，懷抱野心、想進入宮廷的人會極力討好國王的隨從，送上奢華的厚禮，希望能換得一個薪水優渥又清閒的閒差。"
       },
       {
         "word": "pall",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to cease to please, become dull.",
           "chinese": "失去吸引力；令人生厭"
-        }
+        },
+        "advSentence": "Although the endless banquets initially delighted the young heir, their opulence soon began to pall, and he withdrew into introspective solitude, craving the rustic simplicity of the farmhouse where he had spent his childhood.",
+        "advTranslation": "雖然無止盡的盛宴起初令這位年輕繼承人十分開心，但那份奢華很快就讓他索然無味；他轉而退入自我省思的孤獨之中，渴望童年所住的農舍那份樸實的鄉村生活。"
       },
       {
         "word": "succulent",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "juicy, full of flavor.",
           "chinese": "多汁的"
-        }
+        },
+        "advSentence": "Botanists marvel at how desert plants store water in succulent leaves, an innate adaptation that allows them to thrive in an arid, inclement habitat where less hardy species are susceptible to dehydration.",
+        "advTranslation": "植物學家讚嘆沙漠植物能將水分儲存在肥厚多汁的葉子裡；這種與生俱來的適應能力，使它們能在乾燥嚴酷的棲地中茁壯成長，而那裡較不耐旱的物種則很容易脫水。"
       },
       {
         "word": "satiety",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "the state of being overly full; excess.",
           "chinese": "飽足；厭膩"
-        }
+        },
+        "advSentence": "Nutritionists note that fiber-rich foods induce satiety more quickly than processed snacks, an effect that helps curb the voracious, seemingly insatiable appetites that exacerbate the obesity so prevalent in industrialized nations.",
+        "advTranslation": "營養學家指出，富含纖維的食物比加工零食更快帶來飽足感，這有助於抑制那種貪婪、彷彿永遠無法滿足的食慾，而正是這種食慾加劇了工業化國家普遍的肥胖問題。"
       },
       {
         "word": "intrinsic",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "within itself, inherent.",
           "chinese": "內在的；固有的"
-        }
+        },
+        "advSentence": "Philosophers have long debated whether art possesses intrinsic value or whether its worth is merely extrinsic, conferred by the shifting vogue among collectors and the speculative avarice of the auction market.",
+        "advTranslation": "哲學家長期爭論：藝術究竟具有本身固有的價值，還是其價值僅是外在賦予的──來自收藏家之間不斷變換的流行風潮，以及拍賣市場投機的貪婪？"
       },
       {
         "word": "potpourri",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "medley, mixture.",
           "chinese": "雜燴；大雜燴"
-        }
+        },
+        "advSentence": "The museum's new exhibit is a potpourri of artifacts—rare extant coins, ceremonial masks, faded placards from wartime protests—juxtaposed to illustrate how societies throughout history have commemorated their struggles.",
+        "advTranslation": "博物館的新展覽是一場文物大雜燴：有現存罕見的古錢幣、祭典面具、戰時抗議活動中褪色的標語牌；這些展品並列陳設，展現歷代社會如何紀念自身的奮鬥。"
       },
       {
         "word": "sanction",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to endorse, certify, officially approve.",
           "chinese": "批准；認可"
-        }
+        },
+        "advSentence": "The international committee refused to sanction the experimental drug until independent laboratories could corroborate its allegedly miraculous results, citing the pernicious side effects that had afflicted patients in earlier trials.",
+        "advTranslation": "國際委員會拒絕核准這款實驗性藥物，除非獨立實驗室能證實其據稱神奇的療效；委員會並指出，先前的試驗中曾有病患深受嚴重有害的副作用所苦。"
       },
       {
         "word": "denote",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to indicate, show, mean.",
           "chinese": "表示；意味著"
-        }
+        },
+        "advSentence": "In traditional Maori culture, intricate facial tattoos denote a person's lineage and social rank, so an anthropologist who construes them merely as decoration overlooks their integral role in tradition and community identity.",
+        "advTranslation": "在傳統毛利文化中，繁複的臉部刺青代表一個人的血統與社會地位；因此，若人類學家只將它們解讀為裝飾，就忽略了刺青在傳統與族群認同中不可或缺的角色。"
       },
       {
         "word": "allude",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to hint, suggest indirectly.",
           "chinese": "暗示；間接提及"
-        }
+        },
+        "advSentence": "In her memoir, the former diplomat only alludes to the clandestine negotiations that ended the war, offering cryptic hints rather than overt details, perhaps because many participants remain reticent about their roles.",
+        "advTranslation": "這位前外交官在回憶錄中，只是間接提及結束戰爭的秘密談判，給的是隱晦的暗示而非明確的細節；或許是因為許多參與者至今仍對自己扮演的角色守口如瓶。"
       },
       {
         "word": "insidious",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sly, gradually and secretly harmful.",
           "chinese": "陰險的；潛伏的"
-        }
+        },
+        "advSentence": "Lead poisoning is especially insidious because its effects can remain latent for years; by the time parents discern cognitive impairments, the toxin has often permeated their children's bones and caused lasting detriment.",
+        "advTranslation": "鉛中毒特別陰險，因為它的影響可能潛伏多年；等到父母察覺孩子的認知障礙時，毒素往往早已滲入孩子的骨骼，造成長久的傷害。"
       },
       {
         "word": "propriety",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "suitability, correctness of behavior.",
           "chinese": "得體；適當"
-        }
+        },
+        "advSentence": "Victorian etiquette manuals stressed propriety above all else, admonishing young women to eschew gaudy clothing and boisterous laughter lest they violate the rigid decorum expected of them in polite society.",
+        "advTranslation": "維多利亞時代的禮儀手冊將合宜得體置於一切之上，告誡年輕女性避免穿著俗豔的服裝、避免放聲大笑，以免違反上流社會對她們所要求的嚴格禮節。"
       },
       {
         "word": "advent",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "arrival of an important event or thing.",
           "chinese": "到來；出現"
-        }
+        },
+        "advSentence": "The advent of the printing press caused literacy rates to surge across Europe, enabling reformers to promulgate dissenting ideas and precipitating the decline of the monolithic authority the Church had once wielded over learning.",
+        "advTranslation": "印刷術的問世使歐洲各地的識字率急遽上升，讓改革者得以廣泛傳播異議思想，也加速了教會昔日對學術所掌握的、鐵板一塊般的權威走向衰落。"
       },
       {
         "word": "impious",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "lacking respect, irreverent (especially toward religion).",
           "chinese": "不敬的；對神不虔誠的"
-        }
+        },
+        "advSentence": "Exiled for his impious verses, which mocked sacred rituals with irreverent levity, the reviled poet spent his final years as an expatriate, his manuscripts circulating clandestinely among a small coterie of admirers.",
+        "advTranslation": "這位詩人因其不敬神明的詩句而遭到放逐──那些詩以輕佻的態度嘲弄神聖的儀式；這位飽受唾罵的詩人晚年流亡異鄉，他的手稿只在一小群仰慕者之間秘密流傳。"
       },
       {
         "word": "proffer",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to offer for acceptance.",
           "chinese": "提供；提出"
-        }
+        },
+        "advSentence": "When the mediator proffered a compromise, the two acrimonious factions initially balked, each deeming the terms too favorable to the other, but they eventually concurred after weeks of interminable debate.",
+        "advTranslation": "調解人提出折衷方案時，兩個互相敵視的派系起初都不肯接受，各自認為條件對另一方太有利；但經過數週沒完沒了的辯論後，雙方最終達成共識。"
       },
       {
         "word": "spate",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "rush, flood, sudden outpouring.",
           "chinese": "激增；一連串"
-        }
+        },
+        "advSentence": "A recent spate of burglaries has galvanized residents to form neighborhood patrols, and the police chief has exhorted citizens to remain vigilant while investigators scrutinize surveillance footage for clues about the culprits.",
+        "advTranslation": "近來接連發生的竊案激起居民組成社區巡守隊，警察局長也呼籲市民保持警覺，同時調查人員正仔細檢視監視器畫面，尋找嫌犯的線索。"
       },
       {
         "word": "shibboleth",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "pet phrase, slogan; a custom that distinguishes a group.",
           "chinese": "陳腔濫調；口號；（團體的）特徵用語"
-        }
+        },
+        "advSentence": "For a generation, the slogan that markets regulate themselves was a shibboleth of free-market economists, yet the 2008 financial crisis exposed its fallacious premise, leading many to recant and advocate stricter oversight.",
+        "advTranslation": "整整一個世代，「市場會自我調節」這句口號是自由市場派經濟學家的信條；然而2008年的金融危機暴露出其錯誤的前提，使許多人改變立場，轉而主張更嚴格的監管。"
       },
       {
         "word": "bogus",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "counterfeit, fake.",
           "chinese": "偽造的；假的"
-        }
+        },
+        "advSentence": "At the airport, customs officers seized a cache of bogus designer handbags, the merchandise of a covert smuggling ring that had concocted fake certificates of authenticity to deceive gullible tourists.",
+        "advTranslation": "海關人員在機場查獲一批藏匿的仿冒名牌包，這些貨品來自一個秘密走私集團，他們捏造假的真品證書，用來欺騙容易上當的觀光客。"
       },
       {
         "word": "substantiate",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to confirm, prove with evidence.",
           "chinese": "證實；證明"
-        }
+        },
+        "advSentence": "Although the journalist's lurid allegations of corruption made headlines, she could not substantiate them with incontrovertible evidence, so her editor warned that publishing would be imprudent before eliciting a response from the accused officials.",
+        "advTranslation": "雖然這位記者對貪腐的聳動指控登上了頭條，但她無法提出確鑿無疑的證據來證實；因此她的編輯警告，在取得被指控官員的回應之前就刊出報導，實屬不智。"
       },
       {
         "word": "nutritive",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "having nourishing properties.",
           "chinese": "營養的；有營養價值的"
-        }
+        },
+        "advSentence": "Researchers have found that a mundane-looking coastal seaweed possesses remarkable nutritive properties, making it a viable remedy for the paucity of protein in diets across regions where arable land is scarce and malnutrition is rampant.",
+        "advTranslation": "研究人員發現，一種外表平凡無奇的海岸海藻具有驚人的營養價值，可望成為可行的解方，改善耕地稀少、營養不良問題猖獗地區飲食中蛋白質不足的情況。"
       },
       {
         "word": "raucous",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "harsh-sounding, noisy.",
           "chinese": "沙啞的；喧鬧的"
-        }
+        },
+        "advSentence": "The raucous cries of gulls reverberating off the cliffs drowned out the guide's lecture, so the throng of tourists heard only a garbled, nearly incoherent account of the island's turbulent history.",
+        "advTranslation": "海鷗刺耳的叫聲在懸崖間迴盪，蓋過了導覽員的解說，使得成群的遊客只聽到一段斷斷續續、幾乎語無倫次的島嶼動盪歷史。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "curry": [
     "to seek favor by flattery (usually 'curry favor').",

@@ -422,7 +422,13 @@ function makeSentenceNodes(card, text) {
   const splitter = new RegExp(`(${phrasePart ? phrasePart + "|" : ""}${wordPart})`, "gi");
   const ownWord = card.word.toLowerCase();
 
-  return sentence.split(splitter).map(part => {
+  // Hyphenated tokens (once-revered) are split so each half can be matched, unless the whole thing is a headword.
+  const pieces = sentence.split(splitter).flatMap(part => {
+    if (!part || !part.includes("-") || findBarrons(part)) return [part];
+    return part.split(/(-)/);
+  });
+
+  return pieces.map(part => {
     if (!part || !/^[A-Za-zÀ-ÿ]/.test(part)) return document.createTextNode(part || "");
     const head = findBarrons(part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, ""));
     const button = document.createElement("button");

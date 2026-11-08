@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "location.",
           "chinese": "地點；遺址"
-        }
+        },
+        "advSentence": "Archaeologists excavating the site of a Bronze Age settlement unearthed a hidden cache of tools and other artifacts, suggesting that its once nomadic inhabitants had gradually adopted a settled agricultural life.",
+        "advTranslation": "考古學家在一處青銅時代聚落遺址進行挖掘時，發現了一批藏匿的工具與其他文物，顯示原本逐水草而居的居民逐漸轉向定居的農耕生活。"
       },
       {
         "word": "vigil",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "wakeful watching.",
           "chinese": "守夜；監視"
-        }
+        },
+        "advSentence": "Hundreds of relatives kept a tearful vigil at the mouth of the collapsed mine throughout the night, a poignant scene of families who refused to succumb to despair even as the rescue effort began to falter.",
+        "advTranslation": "數百名家屬徹夜守在坍塌礦坑的入口，含淚守候；即使救援行動開始受挫，這些家庭仍不肯向絕望低頭，場面令人心酸。"
       },
       {
         "word": "cumbersome",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unwieldy, burdensome.",
           "chinese": "笨重的；累贅的"
-        }
+        },
+        "advSentence": "The first electronic computers were so cumbersome that a single mammoth machine filled an entire room, yet steady refinements to each component eventually allowed engineers to modify the design into devices that fit on a desk.",
+        "advTranslation": "最早的電子計算機極其笨重，一台龐然大物就塞滿整個房間，但工程師持續改良每一個元件，最終得以修改設計，把它變成能放在桌上的裝置。"
       },
       {
         "word": "interrogate",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to question.",
           "chinese": "審問；質問"
-        }
+        },
+        "advSentence": "Detectives continued to interrogate the alleged accomplice for hours, hoping he would reveal where the stolen paintings were hidden, but the reticent suspect offered only terse, evasive answers.",
+        "advTranslation": "警探們連續數小時審問這名涉嫌的共犯，希望他供出失竊畫作的藏匿地點，但這名沉默寡言的嫌犯只給出簡短而閃爍其詞的回答。"
       },
       {
         "word": "divulge",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to disclose, reveal.",
           "chinese": "洩露；透露"
-        }
+        },
+        "advSentence": "The whistle-blower agreed to divulge details of the company's surreptitious payments to regulators only after prosecutors promised her amnesty, since her own minor role in the scheme might otherwise have made her culpable as well.",
+        "advTranslation": "這名吹哨者直到檢察官承諾給予她特赦，才同意透露公司暗中付款給監管人員的細節，因為若非如此，她在這起計畫中扮演的小角色也可能讓她難辭其咎。"
       },
       {
         "word": "fluctuate",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to shift, alternate.",
           "chinese": "波動；起伏"
-        }
+        },
+        "advSentence": "Because global coffee prices fluctuate sharply whenever adverse weather strikes Brazil, small growers in Central America who depend on a single crop remain perpetually susceptible to financial ruin, a plight that local cooperatives are trying to ease.",
+        "advTranslation": "由於每當巴西遭遇惡劣天氣，全球咖啡價格就會劇烈波動，中美洲仰賴單一作物維生的小農始終容易陷入財務困境，而當地合作社正努力改善這種處境。"
       },
       {
         "word": "unmitigated",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unrelieved, as bad as can be.",
           "chinese": "十足的；未減輕的"
-        }
+        },
+        "advSentence": "Critics called the city's new stadium an unmitigated fiasco, noting that the profligate project had cost triple the original estimate and left behind a gaudy monument that now stands empty most of the year.",
+        "advTranslation": "批評者稱這座城市的新體育場是一場徹頭徹尾的慘敗，指出這項揮霍無度的工程花費高達原先預估的三倍，最後只留下一座一年中大半時間都空無一人的俗麗建築。"
       },
       {
         "word": "commodious",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "large, spacious.",
           "chinese": "寬敞的"
-        }
+        },
+        "advSentence": "The tycoon's commodious mansion, with its forty bedrooms and sumptuous ballroom, was a monument to the opulence of the Gilded Age, an era when ostentatious displays of wealth were in vogue among the elite.",
+        "advTranslation": "這位大亨的宅邸寬敞氣派，擁有四十間臥室和富麗堂皇的舞廳，堪稱鍍金時代奢華風氣的象徵；在那個年代，炫耀財富正是上流社會的流行風尚。"
       },
       {
         "word": "antiquated",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "out-of-date, obsolete.",
           "chinese": "過時的；陳舊的"
-        }
+        },
+        "advSentence": "Inspectors warned that the hospital's antiquated electrical system, installed nearly a century ago, posed an imminent fire hazard, yet the parsimonious board, citing a paucity of funds, kept postponing the renovation.",
+        "advTranslation": "檢查人員警告，這家醫院將近百年前裝設的老舊電力系統隨時可能引發火災，然而吝嗇的董事會卻以資金短缺為由，一再延後翻修工程。"
       },
       {
         "word": "disheveled",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "disorderly in appearance.",
           "chinese": "蓬亂的；衣冠不整的"
-        }
+        },
+        "advSentence": "The scientist emerged from the laboratory disheveled and unshaven after three sleepless nights, but he was jubilant, because his persistent experiments had finally culminated in a landmark discovery.",
+        "advTranslation": "熬了三個不眠之夜後，這位科學家頭髮蓬亂、鬍子未刮地走出實驗室，但他欣喜若狂，因為他鍥而不捨的實驗終於促成了一項劃時代的發現。"
       },
       {
         "word": "tenacious",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "tough, stubborn.",
           "chinese": "頑強的；堅持不懈的"
-        }
+        },
+        "advSentence": "The tenacious journalist spent seven years investigating the pharmaceutical company, refusing to be intimidated by its lawyers' threats until she had gathered incontrovertible evidence that it had concealed the drug's pernicious side effects.",
+        "advTranslation": "這位頑強的記者花了七年調查這家製藥公司，始終不受其律師的威脅所恫嚇，直到蒐集到無可辯駁的證據，證明該公司隱瞞了藥物的有害副作用。"
       },
       {
         "word": "façade",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "front, superficial appearance.",
           "chinese": "正面；假象"
-        }
+        },
+        "advSentence": "Behind the façade of amicable cooperation that the two executives presented to reporters lay a rivalry steeped in mutual suspicion, a feud that insiders feared would eventually dismantle the entire partnership.",
+        "advTranslation": "兩位主管在記者面前展現出友好合作的表象，背後卻是一段充滿相互猜忌的較勁關係，知情人士擔心這場明爭暗鬥終將瓦解整個合作夥伴關係。"
       },
       {
         "word": "asinine",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "stupid, silly.",
           "chinese": "愚蠢的"
-        }
+        },
+        "advSentence": "Engineers scoffed at the asinine proposal to end the city's traffic jams by banning all left turns, arguing that such an arbitrary rule would merely shift the gridlock onto side streets and compound the problem.",
+        "advTranslation": "工程師們嘲笑那項以全面禁止左轉來解決市區塞車的荒唐提案，認為如此武斷的規定只會把車潮轉移到小街巷，讓問題雪上加霜。"
       },
       {
         "word": "grimace",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "facial expression of disgust or pain.",
           "chinese": "鬼臉；痛苦的表情"
-        }
+        },
+        "advSentence": "The runner's grimace as she limped across the finish line revealed the acute pain in her injured knee, but her valor in completing the race despite a deep laceration on her leg won the admiration of every spectator.",
+        "advTranslation": "這名跑者一跛一跛地越過終點線時，臉上痛苦扭曲的表情透露出膝傷的劇痛，但她不顧腿上一道深深的撕裂傷仍堅持跑完全程，這份勇氣贏得了每位觀眾的敬佩。"
       },
       {
         "word": "calumny",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "false accusation, slander.",
           "chinese": "誹謗；中傷"
-        }
+        },
+        "advSentence": "The candidate's campaign collapsed after rivals spread calumny accusing him of embezzlement, and although investigators later proved the charges mendacious, the scurrilous rumors had already besmirched his reputation beyond repair.",
+        "advTranslation": "對手散布誹謗、指控他盜用公款後，這位候選人的競選活動便土崩瓦解；雖然調查人員後來證實那些指控純屬捏造，但這些惡毒的流言早已讓他的名譽蒙受無法挽回的汙損。"
       },
       {
         "word": "pittance",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "small amount.",
           "chinese": "少量；微薄的薪水"
-        }
+        },
+        "advSentence": "In nineteenth-century textile mills, children toiled through twelve-hour shifts for a mere pittance, a deplorable practice that persisted until reformers advocated for laws that sharply curtailed child labor.",
+        "advTranslation": "在十九世紀的紡織廠裡，童工每天工作十二小時卻只換得微薄工資，這種令人痛心的做法一直持續到改革者大力倡議立法、大幅限制童工為止。"
       },
       {
         "word": "fastidious",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "particular, choosy.",
           "chinese": "挑剔的；一絲不苟的"
-        }
+        },
+        "advSentence": "A fastidious collector of rare books, the professor rejected any volume bearing even a faint taint of mildew, and his insatiable appetite for flawless first editions gradually drained his pecuniary resources.",
+        "advTranslation": "這位教授是個挑剔的珍本書收藏家，只要書上帶有一絲霉斑就拒絕收藏，而他對完美初版書永不滿足的渴求，也漸漸耗盡了他的財力。"
       },
       {
         "word": "au courant",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "up-to-date.",
           "chinese": "趕上時代的；熟知最新情況的"
-        }
+        },
+        "advSentence": "To stay au courant in a field where breakthroughs swiftly lead to the obsolescence of textbooks, the geneticist peruses dozens of journals each week, a habit her less ardent colleagues find daunting.",
+        "advTranslation": "在新突破很快就讓教科書過時的領域裡，這位遺傳學家為了掌握最新動態，每週仔細研讀數十份期刊，這個習慣讓較不熱衷的同事們望而生畏。"
       },
       {
         "word": "noisome",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "foul, unwholesome.",
           "chinese": "惡臭的；令人厭惡的"
-        }
+        },
+        "advSentence": "The noisome waste that the tannery would spew into the river each night became so pungent during the summer that nearby residents, long reluctant to complain, finally petitioned the city to terminate its license.",
+        "advTranslation": "製革廠每晚排入河中的惡臭廢水，到了夏天變得極其刺鼻，連長久以來不願抱怨的附近居民也終於聯名請願，要求市政府吊銷其營業執照。"
       },
       {
         "word": "unkempt",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "untidy, neglected.",
           "chinese": "蓬亂的；未經整理的"
-        }
+        },
+        "advSentence": "Once a showpiece of the city, the botanical garden became unkempt after years of lax management, its paths overgrown with weeds and its fountains clogged with debris, until a coterie of volunteers began restoring it.",
+        "advTranslation": "這座植物園曾是城市的門面，卻在多年管理鬆散之後變得雜亂荒蕪，步道雜草叢生、噴泉被碎屑堵塞，直到一小群志同道合的志工著手整修。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "site": [
     "location.",

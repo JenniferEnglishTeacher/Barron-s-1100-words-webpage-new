@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "a certain form or style in art or literature.",
           "chinese": "類型；流派"
-        }
+        },
+        "advSentence": "Once disparaged by critics as a lowbrow genre fit only for adolescents, science fiction has gradually ascended to literary respectability, and its most eminent authors are now deemed serious chroniclers of social and scientific change.",
+        "advTranslation": "科幻小說曾被評論家貶為只適合青少年的低俗文類，如今卻逐漸登上文學殿堂，其最傑出的作家更被視為記錄社會與科學變遷的嚴肅史家。"
       },
       {
         "word": "candid",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "frank, open, honest.",
           "chinese": "坦白的；直率的"
-        }
+        },
+        "advSentence": "In a refreshingly candid interview, the retired general acknowledged that the military campaign had been a fiasco, conceding that his own rash decisions had exacerbated the plight of the civilians caught in the fray.",
+        "advTranslation": "在一次坦率得令人耳目一新的訪談中，這位退役將軍承認那場軍事行動徹底失敗，也坦言自己的輕率決策加重了捲入戰火的平民的苦難。"
       },
       {
         "word": "unsavory",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "disagreeable, offensive, morally bad.",
           "chinese": "令人討厭的；道德敗壞的"
-        }
+        },
+        "advSentence": "The investigative report exposed the unsavory alliance between the mayor and several infamous loan sharks, revealing a sordid network of extortion and bribery that had flourished with seeming impunity for years.",
+        "advTranslation": "這份調查報導揭露了市長與數名惡名昭彰的高利貸業者之間見不得光的勾結，攤開一張多年來看似逍遙法外、充斥勒索與賄賂的骯髒網絡。"
       },
       {
         "word": "degrade",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to make contemptible, lower.",
           "chinese": "貶低；使降級"
-        }
+        },
+        "advSentence": "Critics who advocate prison reform argue that prolonged solitary confinement does not merely punish inmates but degrades them, inflicting psychological damage that is often more pernicious and enduring than any physical laceration.",
+        "advTranslation": "主張監獄改革的批評者認為，長期單獨監禁不只是懲罰受刑人，更是在貶低他們的人格，所造成的心理創傷往往比任何皮肉之傷更具破壞性、也更持久。"
       },
       {
         "word": "venial",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "pardonable, forgivable.",
           "chinese": "可寬恕的；輕微的"
-        }
+        },
+        "advSentence": "Though hardly lax about discipline, the abbot regarded the novice's occasional tardiness as a venial fault deserving only a gentle admonishment, but he considered deliberate duplicity a grave sin that demanded rigorous penance.",
+        "advTranslation": "這位修道院院長雖然對紀律毫不鬆懈，卻把見習修士偶爾遲到視為情有可原的小過，只需溫和告誡；但他認為蓄意欺瞞是嚴重的罪過，必須嚴格懺悔補贖。"
       },
       {
         "word": "epitome",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "a person or thing that represents the best.",
           "chinese": "縮影；典範"
-        }
+        },
+        "advSentence": "With her meticulous research, incisive prose, and impeccable command of primary sources, the historian was widely regarded as the epitome of scholarly rigor, a paragon whom younger researchers aspired to emulate.",
+        "advTranslation": "憑藉一絲不苟的研究、精闢犀利的文筆，以及對第一手史料無懈可擊的掌握，這位歷史學家被公認為學術嚴謹的典範，是年輕研究者努力仿效的楷模。"
       },
       {
         "word": "dexterity",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "mental or physical skill.",
           "chinese": "靈巧；敏捷"
-        }
+        },
+        "advSentence": "The watchmaker's astonishing dexterity allowed her to assemble hundreds of minuscule components with tweezers, a feat of virtuosity that even the most adroit robotic automatons in the factory could not replicate.",
+        "advTranslation": "這位製錶師的手指靈巧得驚人，能用鑷子組裝數百個微小零件；如此高超的技藝，連工廠裡最靈活的機器人也無法複製。"
       },
       {
         "word": "grotesque",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "strange, bizarre, misshapen.",
           "chinese": "奇形怪狀的；荒誕的"
-        }
+        },
+        "advSentence": "The gargoyles that adorn medieval cathedrals were carved with an array of grotesque features, such as bulging eyes, gaping mouths, and twisted limbs, which, according to one conjecture, were intended to repulse evil spirits from the sacred edifice.",
+        "advTranslation": "裝飾中世紀大教堂的滴水嘴獸被雕刻出各式各樣怪誕的模樣，如凸出的眼睛、大張的嘴巴和扭曲的四肢；有一種推測認為，這些造型是為了把邪靈擋在神聖的建築之外。"
       },
       {
         "word": "compassion",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sympathetic feeling, kindness.",
           "chinese": "同情；憐憫"
-        }
+        },
+        "advSentence": "Moved by compassion for the indigent families who had lost their homes in the conflagration, the affluent philanthropist agreed to underwrite a comprehensive relief program providing temporary shelter, food, and medical care.",
+        "advTranslation": "出於對大火中失去家園的貧困家庭的憐憫，這位富有的慈善家同意出資支持一項全面的救助計畫，提供臨時住所、食物與醫療照護。"
       },
       {
         "word": "repugnant",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "distasteful, repulsive.",
           "chinese": "令人反感的"
-        }
+        },
+        "advSentence": "Many nineteenth-century reformers found child labor morally repugnant, and they inveighed against factory owners whose avarice subjected children as young as six to interminable shifts of exhausting drudgery in dark, poorly ventilated mills.",
+        "advTranslation": "許多十九世紀的改革者認為童工在道德上令人厭惡，他們強烈抨擊那些因貪婪而讓年僅六歲的孩童在昏暗、通風不良的工廠裡，輪班做著永無止境、累人苦差的工廠老闆。"
       },
       {
         "word": "acme",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "peak, pinnacle, zenith.",
           "chinese": "頂點；極點"
-        }
+        },
+        "advSentence": "Many art historians consider the Sistine Chapel ceiling the acme of Renaissance painting, a work whose myriad figures and awesome scale represent the culmination of Michelangelo's singular genius and continue to draw throngs of visitors every year.",
+        "advTranslation": "許多藝術史學家認為西斯汀禮拜堂的天頂畫是文藝復興繪畫的巔峰之作，其中無數的人物與令人讚嘆的規模，正是米開朗基羅非凡天才的極致展現，至今每年仍吸引大批遊客前往。"
       },
       {
         "word": "copious",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "ample, abundant, plentiful.",
           "chinese": "豐富的；大量的"
-        }
+        },
+        "advSentence": "During her two-year stay in the Amazon, the anthropologist took copious notes on the indigenous tribe's rituals, recording every nuance of their ceremonies before such traditions could succumb to the pressures of modernization.",
+        "advTranslation": "這位人類學家在亞馬遜停留的兩年間，對當地原住民部落的儀式做了大量筆記，記錄下典禮的每個細微差異，以免這些傳統在現代化的壓力下消失。"
       },
       {
         "word": "vehemently",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "violently, eagerly, passionately.",
           "chinese": "激烈地；強烈地"
-        }
+        },
+        "advSentence": "Environmental groups vehemently opposed the proposal to raze the ancient forest, arguing that its destruction would obliterate the habitat of several vulnerable species and precipitate irreversible soil erosion in the valleys below.",
+        "advTranslation": "環保團體強烈反對剷平這片古老森林的提案，主張此舉將徹底摧毀數種易危物種的棲地，並在下方的山谷引發無法逆轉的土壤侵蝕。"
       },
       {
         "word": "depict",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to describe clearly, picture, portray.",
           "chinese": "描繪；描述"
-        }
+        },
+        "advSentence": "The novel vividly depicts the vicissitudes of an itinerant family wandering the drought-stricken plains of the 1930s, juxtaposing their grinding poverty with the opulence of the bankers who had seized their farm.",
+        "advTranslation": "這部小說生動描繪了一個流浪家庭在1930年代乾旱平原上顛沛流離的人生起伏，並將他們的赤貧與奪走他們農場的銀行家的富裕奢華並列對照。"
       },
       {
         "word": "naive",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "unworldly, unsophisticated.",
           "chinese": "天真的；幼稚的"
-        }
+        },
+        "advSentence": "Investigators later concluded that the naive retirees had been the dupes of a charismatic charlatan, whose fallacious promises of guaranteed returns had cajoled them into surrendering their life savings within a matter of weeks.",
+        "advTranslation": "調查人員後來斷定，這些涉世未深的退休人士是被一名極具魅力的騙子所愚弄；他以保證獲利的虛假承諾，在短短幾週內就哄騙他們交出了畢生積蓄。"
       },
       {
         "word": "perfidious",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "treacherous, false.",
           "chinese": "背信棄義的"
-        }
+        },
+        "advSentence": "The perfidious general, having forged a clandestine pact with the enemy, opened the city gates under the pretext of negotiating a truce, allowing the invaders to subjugate the very population he had sworn to protect.",
+        "advTranslation": "這名背信棄義的將軍與敵人暗中結盟，藉口要談判停戰而打開城門，讓入侵者征服了他曾誓言保護的百姓。"
       },
       {
         "word": "covet",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to want, envy, wish for.",
           "chinese": "垂涎；貪求"
-        }
+        },
+        "advSentence": "In Victorian England, wealthy collectors would covet rare orchids so intensely that they hired intrepid plant hunters to scour remote jungles for elusive specimens, a frenzy historians later dubbed 'orchidelirium.'",
+        "advTranslation": "在維多利亞時代的英國，富有的收藏家極度渴望得到稀有蘭花，甚至僱用無畏的植物獵人深入偏遠叢林搜尋難得一見的品種；歷史學家後來把這股狂熱稱為「蘭花狂熱症」。"
       },
       {
         "word": "ingratiate",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to win confidence, charm.",
           "chinese": "討好；迎合"
-        }
+        },
+        "advSentence": "Hoping to ingratiate himself with the irascible CEO, the ambitious junior executive offered fulsome praise at every meeting, but his obsequious flattery merely elicited the older man's disdain and the quiet amusement of his colleagues.",
+        "advTranslation": "為了討好那位脾氣暴躁的執行長，這位野心勃勃的年輕主管在每次會議上都大肆吹捧，但他那奉承巴結的態度只換來對方的輕蔑，以及同事們暗自的訕笑。"
       },
       {
         "word": "penury",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "poverty.",
           "chinese": "貧困；拮据"
-        }
+        },
+        "advSentence": "Although the composer spent his final years in penury, unable even to afford fuel for his drafty attic, he persevered with ardent devotion, composing works whose intrinsic beauty went unrecognized until decades after his death.",
+        "advTranslation": "這位作曲家晚年窮困潦倒，連為透風的閣樓買燃料都負擔不起，卻仍滿懷熱忱、堅持不懈地創作；他作品本身的美，直到他去世數十年後才獲得肯定。"
       },
       {
         "word": "ignominious",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "humiliating, disgraceful.",
           "chinese": "可恥的；不光彩的"
-        }
+        },
+        "advSentence": "The once-puissant dictator's reign came to an ignominious end when a bloodless coup ousted him from power, and he fled the capital disguised as a peasant, bereft of his former entourage.",
+        "advTranslation": "這位曾經權傾一時的獨裁者，在一場不流血政變將他趕下台後，統治以屈辱的方式告終；他喬裝成農民逃離首都，身邊昔日的隨從早已一個不剩。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "genre": [
     "a certain form or style in art or literature.",

@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "shocked, dismayed.",
           "chinese": "震驚的；驚駭的"
-        }
+        },
+        "advSentence": "Touring the textile mill, the inspector was appalled by its sordid conditions, in which children toiled amid pungent fumes for nominal wages, and she promptly denounced the situation as deplorable in her report.",
+        "advTranslation": "視察這座紡織廠時，督察員對廠內骯髒惡劣的環境大感震驚：孩童在刺鼻的煙霧中辛苦工作，只領取微薄的工資；她隨即在報告中痛斥這種情況令人憤慨。"
       },
       {
         "word": "bagatelle",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "thing of little importance, trifle.",
           "chinese": "瑣事；微不足道的事物"
-        }
+        },
+        "advSentence": "To the profligate heir, the regulators' fine was a mere bagatelle, a trivial sum that hardly impeded his lavish spending and certainly did not induce him to repudiate his reckless business practices.",
+        "advTranslation": "對這位揮霍無度的繼承人來說，主管機關開出的罰款不過是微不足道的小錢，既幾乎沒有妨礙他奢侈揮霍，更不可能讓他放棄魯莽的經營手法。"
       },
       {
         "word": "brigand",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "bandit, robber.",
           "chinese": "土匪；強盜"
-        }
+        },
+        "advSentence": "In eighteenth-century Calabria, armed brigands routinely lurked along the tortuous mountain passes, accosting itinerant merchants and robbing them with near impunity, since royal troops rarely ventured into such rugged and isolated terrain.",
+        "advTranslation": "十八世紀的卡拉布里亞，武裝土匪經常埋伏在蜿蜒曲折的山間隘道，攔截四處遊走的商人並加以搶劫，而且幾乎從未受到懲罰，因為王室軍隊很少深入如此崎嶇偏僻的地形。"
       },
       {
         "word": "callow",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "inexperienced, immature.",
           "chinese": "缺乏經驗的；稚嫩的"
-        }
+        },
+        "advSentence": "The callow lieutenant, brash and eager to prove his valor, ignored the veteran sergeant's warnings and led his platoon into an ambush that a more seasoned commander would have discerned at once.",
+        "advTranslation": "這名稚嫩的中尉魯莽又急於證明自己的英勇，不顧老練士官的警告，帶著整個排走進了一場埋伏；換作經驗較豐富的指揮官，必定一眼就能識破。"
       },
       {
         "word": "corpulent",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "fat, heavy-bodied.",
           "chinese": "肥胖的"
-        }
+        },
+        "advSentence": "The corpulent figures in Rubens's paintings, once considered paragons of beauty and prosperity, may seem incongruous to modern viewers steeped in a fashion culture that idolizes extreme thinness, a contrast revealing how much ideals of the body shift across centuries.",
+        "advTranslation": "魯本斯畫作中那些豐腴肥胖的人物，曾被視為美麗與富足的典範；但對深受推崇極度纖瘦的時尚文化薰陶的現代觀眾而言，這些形象可能顯得格格不入；這樣的對比顯示，人們對身體的審美標準在不同世紀間有多大的變化。"
       },
       {
         "word": "decapitate",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to cut off the head of.",
           "chinese": "斬首；砍掉…的頭部"
-        }
+        },
+        "advSentence": "During the Reign of Terror, the guillotine was used to decapitate thousands of alleged enemies of the revolution, many of whom were condemned after cursory trials in which the verdict seemed inevitable from the outset.",
+        "advTranslation": "恐怖統治時期，斷頭台斬首了數以千計被指控為革命敵人的人；其中許多人只經過草率的審判就被定罪，判決結果似乎從一開始就已注定。"
       },
       {
         "word": "divergent",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "differing, going in different directions.",
           "chinese": "分歧的；不同的"
-        }
+        },
+        "advSentence": "Although the finches descended from a common ancestor, the divergent beak shapes they evolved on separate islands enabled each species to exploit a different food source, a phenomenon that illustrates adaptation to disparate habitats.",
+        "advTranslation": "雖然這些雀鳥源自共同的祖先，但牠們在不同島嶼上演化出形狀各異的鳥喙，使每個物種都能充分利用不同的食物來源；這個現象說明了生物如何適應截然不同的棲息環境。"
       },
       {
         "word": "emissary",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "representative, envoy sent on a mission.",
           "chinese": "使者；密使"
-        }
+        },
+        "advSentence": "Hoping to avert an imminent war, the king dispatched a trusted emissary to the rival court, instructing him to cajole its belligerent ruler into accepting a truce before skirmishes along the border escalated further.",
+        "advTranslation": "國王希望避免一觸即發的戰爭，於是派遣一名親信特使前往敵對的宮廷，命他設法哄勸那位好戰的君主接受停戰，以免邊境上的小規模衝突進一步升級。"
       },
       {
         "word": "livid",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "furious; pale or bluish from anger.",
           "chinese": "狂怒的；（臉色）鐵青的"
-        }
+        },
+        "advSentence": "Livid that a rival had appropriated his findings without credit, the chemist launched into a furious diatribe at the symposium, his voice stentorian and his face pale with rage, until the moderator admonished him to desist.",
+        "advTranslation": "這位化學家得知對手竊用他的研究成果卻未註明出處，氣得暴跳如雷，在研討會上發表了一篇激烈的抨擊演說，聲如洪鐘、臉色因憤怒而發白，直到主持人告誡他停止。"
       },
       {
         "word": "martinet",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "strict disciplinarian.",
           "chinese": "嚴格執行紀律的人"
-        }
+        },
+        "advSentence": "A notorious martinet, the headmaster would reprimand pupils for the most trivial infractions, such as an untucked shirt, and even the most precocious students grew timorous in his presence, rarely daring to raise their hands even when they knew the answer.",
+        "advTranslation": "這位校長是出了名的嚴厲紀律執行者，連襯衫沒紮好這種芝麻小事都會斥責學生；即使是最早慧聰穎的學生，在他面前也變得畏畏縮縮，即使知道答案也很少敢舉手。"
       },
       {
         "word": "penchant",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "strong liking or tendency.",
           "chinese": "傾向；嗜好"
-        }
+        },
+        "advSentence": "The novelist's penchant for embellishing every scene with lurid detail earned her a voracious readership, though critics who favored laconic, understated prose dismissed her work as melodramatic and unworthy of serious literary attention.",
+        "advTranslation": "這位小說家偏好在每個場景中加入聳動的細節來渲染，因此吸引了一大群如飢似渴的讀者；不過偏愛簡潔、含蓄文風的評論家，則對她的作品不屑一顧，認為內容過於灑狗血，不值得文學界認真看待。"
       },
       {
         "word": "raconteur",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "skilled storyteller.",
           "chinese": "善於講故事的人"
-        }
+        },
+        "advSentence": "A gifted raconteur, the retired diplomat could enthrall even the most lethargic dinner guests with jocose anecdotes about his peregrinations across three continents, from tense border negotiations to a disastrous banquet with a foreign prince.",
+        "advTranslation": "這位退休外交官是個很會說故事的人，他講述自己遊歷三大洲的詼諧軼事——從緊張的邊界談判到與外國王子共進的一場災難性晚宴，就連最無精打采的晚宴賓客也聽得入迷。"
       },
       {
         "word": "rail",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to complain bitterly, scold with abusive language.",
           "chinese": "責罵；抱怨"
-        }
+        },
+        "advSentence": "For years, the reformer railed against the sinecures that party bosses granted to loyal cronies, denouncing the practice as a blatant waste of public funds that perpetuated a culture of corruption.",
+        "advTranslation": "多年來，這位改革者不斷痛罵黨內大老把閒差肥缺分給忠心親信，抨擊這種做法明目張膽地浪費公帑，並使貪腐文化得以延續。"
       },
       {
         "word": "raiment",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "clothing, garments.",
           "chinese": "衣服；服飾"
-        }
+        },
+        "advSentence": "Archaeologists unearthed the queen's burial raiment, a voluminous robe embroidered with gold thread, whose opulence reveals a royal court far more lavish than the austere one portrayed in official annals.",
+        "advTranslation": "考古學家出土了王后的陪葬衣裳——一件以金線刺繡的寬大長袍；其華麗程度顯示，當時的王室遠比官方史冊中所描繪的簡樸宮廷奢華得多。"
       },
       {
         "word": "rift",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "split, break in friendly relations; crack.",
           "chinese": "裂縫；不和"
-        }
+        },
+        "advSentence": "What began as a minor dispute over royalties became a permanent rift between the two songwriters, as acrimonious interviews exacerbated their grievances and exposed a deeper artistic incompatibility that no mediator could resolve.",
+        "advTranslation": "原本只是版稅上的小糾紛，最後卻演變成兩位詞曲創作者之間永久的決裂；雙方在訪談中言詞尖刻，加深了彼此的怨懟，也暴露出任何調解人都無法化解的深層藝術理念不合。"
       },
       {
         "word": "ruminate",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to think deeply, ponder repeatedly.",
           "chinese": "沉思；反覆思考"
-        }
+        },
+        "advSentence": "Confined to a prison cell for years, the dissident had ample time to ruminate on the vicissitudes of his political career, and his introspective journals later became a landmark text of twentieth-century literature.",
+        "advTranslation": "這位異議人士被關在牢房多年，有充裕的時間反覆思索自己政治生涯的起伏變遷；他那些內省的日記後來成為二十世紀文學中具里程碑意義的作品。"
       },
       {
         "word": "sullen",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "gloomy, silently resentful, ill-humored.",
           "chinese": "慍怒的；悶悶不樂的"
-        }
+        },
+        "advSentence": "The formerly gregarious boy grew sullen after his family relocated, and his teachers, noticing his apathy toward schoolwork and his refusal to speak in class, worried that he was maladjusted to his new surroundings.",
+        "advTranslation": "這個原本活潑合群的男孩在舉家搬遷後變得悶悶不樂；老師們注意到他對課業漠不關心、上課也不肯開口，擔心他無法適應新環境。"
       },
       {
         "word": "taut",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "tightly stretched; tense.",
           "chinese": "緊繃的；緊張的"
-        }
+        },
+        "advSentence": "As the climber ascended the sheer cliff, the rope grew taut beneath her weight, and the anxious spectators below watched in consternation as her tremulous fingers searched for a hold on the crumbling rock.",
+        "advTranslation": "攀岩者沿著陡峭的懸崖向上攀爬時，繩索因她的體重而繃得緊緊的；底下焦急的觀眾驚慌地看著她顫抖的手指在鬆動的岩壁上摸索著力點。"
       },
       {
         "word": "wistful",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "sadly longing, thoughtfully yearning.",
           "chinese": "渴望的；惆悵的"
-        }
+        },
+        "advSentence": "Leafing through faded photographs of his childhood village, the elderly expatriate grew wistful, recalling the idyllic summers and rustic simplicity of a way of life that had long since vanished.",
+        "advTranslation": "翻閱著兒時村莊褪色的照片，這位年邁的旅外人士不禁流露出惆悵的神情，回想起那些田園詩般的夏日，以及早已消逝的純樸鄉村生活。"
       },
       {
         "word": "yen",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "strong desire, longing.",
           "chinese": "渴望；熱望"
-        }
+        },
+        "advSentence": "Despite a lucrative career in finance, she had always harbored a yen for the stage, and at forty she jettisoned her corporate job to pursue acting, a decision her colleagues deemed imprudent.",
+        "advTranslation": "儘管在金融界有著收入豐厚的事業，她始終懷抱著對舞台的渴望；四十歲那年，她拋下公司的工作去追求演戲，同事們都認為這個決定太過輕率。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "appalled": [
     "shocked, dismayed.",

@@ -15,7 +15,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "self-satisfied.",
           "chinese": "自滿的；得意自滿的"
-        }
+        },
+        "advSentence": "Having dominated the smartphone market for years, the company grew complacent, belittling its fledgling rivals until their innovative designs triggered a catastrophic slump in its sales.",
+        "advTranslation": "這家公司稱霸智慧型手機市場多年後變得自滿，一再輕視羽翼未豐的競爭對手，直到對方的創新設計讓它的銷量出現災難性的暴跌。"
       },
       {
         "word": "somber",
@@ -30,7 +32,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "gloomy, sad.",
           "chinese": "憂鬱的；昏暗的"
-        }
+        },
+        "advSentence": "The mood at the memorial ceremony was somber, as mourners offered condolences to the bereft families and a lone trumpeter played a doleful melody beneath the overcast sky.",
+        "advTranslation": "追悼儀式的氣氛肅穆哀傷，弔唁者向痛失至親的家屬致上慰問，一名號手獨自在陰沉的天空下吹奏一曲悲淒的旋律。"
       },
       {
         "word": "debilitate",
@@ -45,7 +49,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to weaken.",
           "chinese": "使衰弱"
-        }
+        },
+        "advSentence": "Months of privation during the siege began to debilitate the garrison, leaving many soldiers so emaciated and lethargic that they could barely lift their rifles when the enemy launched its final assault.",
+        "advTranslation": "圍城期間長達數月的物資匱乏逐漸拖垮了守軍，許多士兵骨瘦如柴、萎靡不振，當敵軍發動最後攻擊時，他們幾乎連步槍都舉不起來。"
       },
       {
         "word": "impetuous",
@@ -60,7 +66,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "impulsive.",
           "chinese": "衝動的；魯莽的"
-        }
+        },
+        "advSentence": "Ignoring his mentor's efforts to admonish him, the impetuous young investor poured his entire inheritance into a dubious start-up, a decision he would rue when the company collapsed within months.",
+        "advTranslation": "這位衝動的年輕投資人無視導師的再三告誡，把全部遺產投入一家前景可疑的新創公司；幾個月後公司倒閉，他才為這個決定懊悔不已。"
       },
       {
         "word": "occult",
@@ -75,7 +83,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "mysterious, supernatural.",
           "chinese": "神秘的；超自然的"
-        }
+        },
+        "advSentence": "In medieval Europe, comets were widely regarded as harbingers of disaster, and astrologers claimed occult powers to interpret them, feeding a popular superstition that even sage scholars rarely dared to challenge.",
+        "advTranslation": "在中世紀歐洲，彗星普遍被視為災禍的前兆，占星師自稱擁有解讀彗星的神祕力量，助長了一種連睿智學者都鮮少敢挑戰的民間迷信。"
       },
       {
         "word": "discreet",
@@ -90,7 +100,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "careful, cautious, prudent.",
           "chinese": "謹慎的；言行慎重的"
-        }
+        },
+        "advSentence": "Because the negotiations were fraught with tension, the ambassador remained discreet, refusing to comment on rumors so as not to jeopardize a fragile truce that both adversaries had only reluctantly accepted.",
+        "advTranslation": "由於談判氣氛緊繃，大使始終言行謹慎，拒絕對任何傳聞發表評論，以免危及這份雙方敵手都只是勉強接受的脆弱停戰協議。"
       },
       {
         "word": "foment",
@@ -105,7 +117,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to stir up, instigate.",
           "chinese": "煽動；挑起"
-        }
+        },
+        "advSentence": "Historians argue that covert pamphlets circulated in London coffeehouses helped foment rebellion, spreading invective against the king among a populace already rife with resentment over heavy taxes.",
+        "advTranslation": "歷史學家認為，在倫敦咖啡館中暗中流傳的小冊子助長了叛亂，在早已因重稅而怨聲載道的民眾之間散播對國王的辱罵與抨擊。"
       },
       {
         "word": "glean",
@@ -120,7 +134,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to gather, collect.",
           "chinese": "收集；點滴蒐集"
-        }
+        },
+        "advSentence": "By analyzing pollen grains still extant in ancient lake sediments, paleoclimatologists can glean surprising insights into prehistoric climates, inferring when forests flourished, when they began to wane, and which species became extinct.",
+        "advTranslation": "透過分析至今仍保存在古老湖泊沉積物中的花粉粒，古氣候學家能從中蒐集到關於史前氣候的驚人線索，推斷森林何時繁盛、何時開始衰退，以及哪些物種已經滅絕。"
       },
       {
         "word": "quarry",
@@ -135,7 +151,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "something hunted or pursued.",
           "chinese": "獵物；追捕目標"
-        }
+        },
+        "advSentence": "The lithe cheetah stalks its quarry through the tall grass with furtive patience, then surges forward at speeds that leave even the swiftest gazelle vulnerable.",
+        "advTranslation": "身形矯健的獵豹在高草叢中悄悄地、耐心地跟蹤獵物，接著猛然衝刺，速度之快，連最敏捷的瞪羚也難以招架。"
       },
       {
         "word": "slovenly",
@@ -150,7 +168,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "disorderly, careless.",
           "chinese": "邋遢的；馬虎的"
-        }
+        },
+        "advSentence": "The inspector's report castigated the restaurant for its slovenly kitchen, citing grease-stained counters and rotting produce as flagrant violations of health codes that the owner had blatantly ignored.",
+        "advTranslation": "檢查員的報告嚴厲譴責這家餐廳廚房髒亂邋遢，指出沾滿油垢的流理台和腐爛的蔬果明顯違反衛生法規，而業主卻公然置之不理。"
       },
       {
         "word": "abjure",
@@ -165,7 +185,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to renounce, abstain from.",
           "chinese": "發誓放棄；棄絕"
-        }
+        },
+        "advSentence": "After witnessing the havoc that alcohol had wreaked on his family, the novelist vowed to abjure drinking entirely, adopting an abstemious lifestyle that his more profligate friends found baffling.",
+        "advTranslation": "目睹酒精對家人造成的浩劫後，這位小說家發誓徹底戒酒，從此過著節制的生活，令他那些揮霍無度的朋友們大惑不解。"
       },
       {
         "word": "reproach",
@@ -180,7 +202,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to rebuke, reprimand.",
           "chinese": "責備；斥責"
-        }
+        },
+        "advSentence": "Rather than reproach the timorous young pianist for the mistakes in her recital, her teacher praised her courage, knowing that harsh criticism would only reinforce the inhibitions that impeded her progress.",
+        "advTranslation": "老師沒有責備這位膽怯的年輕鋼琴手在獨奏會上的失誤，反而稱讚她的勇氣，因為老師明白，嚴厲的批評只會加深阻礙她進步的心理拘束。"
       },
       {
         "word": "penitent",
@@ -195,7 +219,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "regretful, confessing guilt.",
           "chinese": "懺悔的；悔過的"
-        }
+        },
+        "advSentence": "Appearing penitent before the judge, the former mayor acknowledged his complicity in the bribery scheme and implored the court for leniency, though many observers doubted that his remorse was sincere.",
+        "advTranslation": "前市長在法官面前一副悔悟的模樣，承認自己參與了這起賄賂案，並懇求法庭從輕發落，但許多旁觀者懷疑他的悔意是否真誠。"
       },
       {
         "word": "evanescent",
@@ -210,7 +236,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "fleeting, passing, momentary.",
           "chinese": "瞬息即逝的"
-        }
+        },
+        "advSentence": "Intrepid photographers who chase the aurora must stay vigilant through frigid nights, since its evanescent ribbons of color may last only minutes, and a single cloudy sky can render the entire peregrination fruitless.",
+        "advTranslation": "追逐極光的無畏攝影師必須在嚴寒的夜裡時刻保持警覺，因為那轉瞬即逝的彩色光帶可能只持續幾分鐘，而只要碰上一個陰天，整趟長途跋涉就可能徒勞無功。"
       },
       {
         "word": "tantamount",
@@ -225,7 +253,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "equivalent, identical.",
           "chinese": "同等的；等於"
-        }
+        },
+        "advSentence": "Environmental groups argued that lifting the prohibition on logging would be tantamount to signing a death warrant for the region's orangutans, whose habitat was already being obliterated at an inexorable pace.",
+        "advTranslation": "環保團體主張，解除伐木禁令無異於對該地區的紅毛猩猩宣判死刑，因為牠們的棲息地早已以無法遏止的速度遭到摧毀。"
       },
       {
         "word": "propensity",
@@ -240,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "disposition, inclination, bent.",
           "chinese": "傾向；習性"
-        }
+        },
+        "advSentence": "Psychologists have found that adolescents show a greater propensity for risk-taking than adults do, a phenomenon that some researchers attribute to innate neurological factors rather than to the extrinsic influence of peers.",
+        "advTranslation": "心理學家發現，青少年比成年人更傾向於冒險，有些研究者將這種現象歸因於與生俱來的神經因素，而非來自同儕的外在影響。"
       },
       {
         "word": "wary",
@@ -255,7 +287,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "watchful, shrewd.",
           "chinese": "機警的；謹慎的"
-        }
+        },
+        "advSentence": "Having once been the dupe of a charlatan who sold him a counterfeit painting, the collector became wary of dealers offering bargains that seemed too good to be true, and he now insists that experts attest to the provenance of every canvas he buys.",
+        "advTranslation": "這位收藏家曾經上過一名江湖騙子的當，買到一幅贗品，從此對那些好得令人難以置信的便宜貨保持警惕，如今堅持每幅購入的畫作都要由專家證明其來源。"
       },
       {
         "word": "allay",
@@ -270,7 +304,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to calm, soothe.",
           "chinese": "減輕；平息"
-        }
+        },
+        "advSentence": "To allay the fears of fretful residents after the chemical spill, officials released the results of independent water tests, which showed that no lethal contaminants had permeated the town's underground aquifer.",
+        "advTranslation": "化學物質外洩事件後，為了平息焦慮居民的恐懼，官員公布了獨立水質檢測的結果，顯示並沒有致命的污染物滲入鎮上的地下含水層。"
       },
       {
         "word": "deter",
@@ -285,7 +321,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "to hinder, discourage.",
           "chinese": "威懾；阻止"
-        }
+        },
+        "advSentence": "City planners hoped that installing brighter streetlights would deter vandals, but the measure proved ineffectual because graffiti remained rampant in the murky alleys that the new lights could not reach.",
+        "advTranslation": "都市規畫者原本希望加裝更明亮的路燈能嚇阻破壞者，但這項措施成效不彰，因為在新路燈照不到的陰暗小巷裡，塗鴉依然猖獗。"
       },
       {
         "word": "connoisseur",
@@ -300,7 +338,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "expert.",
           "chinese": "鑑賞家；行家"
-        }
+        },
+        "advSentence": "A true connoisseur of tea can discern subtle nuances of aroma and flavor that a casual drinker would never perceive, readily distinguishing a rare high-mountain oolong from a nondescript supermarket blend.",
+        "advTranslation": "真正的品茶行家能辨別香氣與風味中一般飲茶者永遠察覺不到的細微差異，輕易分辨出珍稀的高山烏龍茶與超市裡平淡無奇的混合茶。"
       }
     ],
     "quiz": [
@@ -787,7 +827,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "complacent": [
     "self-satisfied.",
