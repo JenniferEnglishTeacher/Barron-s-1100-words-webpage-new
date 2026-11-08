@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Moving, painful to the feelings.",
           "chinese": "辛酸的；感人的"
-        }
+        },
+        "advSentence": "The documentary's most poignant scene, in which an indigent widow peruses the faded letters her husband wrote from the front, moved even viewers who usually disdain sentimental films to tears.",
+        "advTranslation": "這部紀錄片最感人的一幕，是一位貧困的寡婦細細閱讀丈夫從前線寄回、早已褪色的信件，連平常不屑煽情電影的觀眾都為之落淚。"
       },
       {
         "word": "inundate",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To flood, overwhelm with a great quantity.",
           "chinese": "淹沒；泛濫"
-        }
+        },
+        "advSentence": "After the newspaper exposed the mayor's duplicity, its editors were inundated with irate letters, a surge of correspondence so large that a small team had to scrutinize each one for pertinent tips.",
+        "advTranslation": "報社揭發市長的兩面手法後，編輯們被大量憤怒的來信淹沒；信件激增到必須由一個小組逐封仔細審閱，從中找出相關的線索。"
       },
       {
         "word": "fruitless",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Producing no result, useless.",
           "chinese": "徒勞的；無結果的"
-        }
+        },
+        "advSentence": "Despite years of fruitless negotiations, the two rival factions refused to desist from their acrimonious skirmishes, and mediators eventually conceded that no compromise was likely while each side remained implacable.",
+        "advTranslation": "儘管多年來的談判毫無成果，兩個敵對派系仍不肯停止尖刻激烈的小規模衝突；調停者最終承認，只要雙方都毫不讓步，就不太可能達成任何妥協。"
       },
       {
         "word": "garbled",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Confused, mixed up, distorted.",
           "chinese": "混淆的；含糊不清的"
-        }
+        },
+        "advSentence": "Because the radio transmission from the hapless expedition arrived so garbled, rescuers could discern only a few words amid the static, forcing them to construe the explorers' location from a paucity of clues.",
+        "advTranslation": "由於那支不幸的探險隊傳來的無線電訊號嚴重失真，救難人員只能在雜訊中辨認出幾個字，被迫憑著極少的線索來推斷探險者的位置。"
       },
       {
         "word": "sanguine",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Optimistic, confidently hopeful.",
           "chinese": "樂觀的；充滿希望的"
-        }
+        },
+        "advSentence": "Although some economists remained sanguine about the nation's recovery, pointing to tangible gains in exports, others warned that rampant inflation and a shortage of skilled workers could stymie growth for years.",
+        "advTranslation": "雖然部分經濟學家指出出口已有實際成長，對國家的復甦仍感樂觀，但也有人警告，猖獗的通貨膨脹與技術人力短缺可能會讓經濟成長停滯多年。"
       },
       {
         "word": "phlegmatic",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Calm, hard to rouse to action.",
           "chinese": "冷靜的；遲鈍的"
-        }
+        },
+        "advSentence": "The phlegmatic captain remained composed even as turbulent waves battered the ship during the storm, issuing orders in a calm, measured voice that helped quell the frenzy spreading among the distraught passengers below deck.",
+        "advTranslation": "暴風雨中，即使洶湧的海浪不斷拍打船身，那位沉著冷靜的船長依然泰然自若，以平穩從容的語氣下達命令，平息了在甲板下心煩意亂的乘客之間蔓延的恐慌。"
       },
       {
         "word": "corroborate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To confirm or support with evidence.",
           "chinese": "證實；確證"
-        }
+        },
+        "advSentence": "Archaeologists were thrilled when newly unearthed tablets corroborated the annals of an ancient dynasty, since historians had long been dubious about whether the chronicles' accounts of an affluent capital were anything more than royal propaganda.",
+        "advTranslation": "新出土的泥板證實了一個古代王朝的史冊記載，令考古學家振奮不已；因為長久以來，歷史學家一直懷疑編年史中關於富裕都城的描述，是否只是王室的宣傳而已。"
       },
       {
         "word": "comprehensive",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Thorough, covering all aspects.",
           "chinese": "廣泛的；綜合的"
-        }
+        },
+        "advSentence": "The commission's comprehensive report did more than name a single culprit for the bridge's collapse; it examined every salient factor, from perfunctory inspections to outdated design codes, that had exacerbated the structure's decline.",
+        "advTranslation": "調查委員會的全面報告不只是為橋梁倒塌找出單一禍首，更檢視了每一個關鍵因素，從敷衍了事的檢查到過時的設計規範，這些都加劇了結構的劣化。"
       },
       {
         "word": "zealous",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Fervently enthusiastic, intensely devoted.",
           "chinese": "熱心的；狂熱的"
-        }
+        },
+        "advSentence": "Zealous advocates of renewable energy implored lawmakers to terminate subsidies for coal-fired power plants, arguing that the pernicious effects of air pollution on public health could no longer be tolerated by any responsible government.",
+        "advTranslation": "熱情投入的再生能源倡議者懇求立法者終止對燃煤電廠的補貼，他們主張，任何負責任的政府都不能再容忍空氣污染對公共健康造成的有害影響。"
       },
       {
         "word": "coerce",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To force or compel by pressure.",
           "chinese": "強制；脅迫"
-        }
+        },
+        "advSentence": "Investigators found that the syndicate had used extortion and veiled threats to coerce local merchants into paying for protection, a nefarious scheme that flourished because its leaders operated with seeming impunity.",
+        "advTranslation": "調查人員發現，該犯罪集團以勒索和隱晦的威脅脅迫當地商家繳交保護費；這個邪惡的勾當之所以猖獗，是因為其首腦似乎可以為所欲為而不受懲罰。"
       },
       {
         "word": "elapse",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To slip by, pass (of time).",
           "chinese": "(時間)流逝"
-        }
+        },
+        "advSentence": "By the time several centuries had elapsed, the once monolithic empire had fractured into rival kingdoms, and the grand temples that had served as sanctuaries for pilgrims lay in ruins, their origins elusive even to scholars.",
+        "advTranslation": "數百年過去之後，這個曾經堅若磐石的帝國已分裂成互相敵對的王國，昔日作為朝聖者庇護所的宏偉神殿也淪為廢墟，連學者都難以考證其起源。"
       },
       {
         "word": "meticulous",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Taking extreme care over details.",
           "chinese": "一絲不苟的；細心的"
-        }
+        },
+        "advSentence": "The meticulous conservator spent months cleaning the fresco with a scalpel and cotton swabs, careful to avoid any inadvertent damage to the fragile plaster, a painstaking approach that colleagues considered laudable after earlier hasty restorations had become fiascoes.",
+        "advTranslation": "這位一絲不苟的修復師花了好幾個月，用手術刀和棉花棒清理壁畫，小心避免對脆弱的灰泥造成任何無意的損傷；由於先前草率的修復曾以慘敗收場，同事們都認為她這種費心費力的做法值得讚揚。"
       },
       {
         "word": "domicile",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A place of permanent residence.",
           "chinese": "住所；住宅"
-        }
+        },
+        "advSentence": "Although the reticent author's official domicile was a modest abode in the countryside, she spent most of each year traveling, which made it hard for the tax authorities with jurisdiction over her income to determine where she actually lived.",
+        "advTranslation": "這位沉默寡言的作家，正式住所是鄉間一棟樸素的房子，但她每年大部分時間都在旅行，使得對她的收入有管轄權的稅務機關難以判定她實際居住在哪裡。"
       },
       {
         "word": "lax",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Careless, not strict or firm.",
           "chinese": "鬆懈的；馬虎的"
-        }
+        },
+        "advSentence": "Critics charged that lax enforcement of safety regulations had allowed the factory to flout environmental laws for years, a negligence that became flagrant when toxic waste was found spewing into the river.",
+        "advTranslation": "批評者指控，安全法規執行鬆散，讓這家工廠多年來得以公然藐視環保法令；當有毒廢水被發現直接噴湧排入河中時，這種疏失便昭然若揭。"
       },
       {
         "word": "sporadic",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Occurring occasionally, scattered.",
           "chinese": "偶爾的；零星的"
-        }
+        },
+        "advSentence": "Although the treaty brought an uneasy respite from war, sporadic outbreaks of violence continued in the border villages, an ominous sign to diplomats who feared the fragile peace might soon revert to open conflict.",
+        "advTranslation": "儘管條約帶來了短暫而不安的停戰喘息，邊境村落仍零星爆發暴力事件；這對外交官而言是不祥的徵兆，他們擔心脆弱的和平可能很快又回到公開衝突的局面。"
       },
       {
         "word": "rash",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Too hasty, reckless, impetuous.",
           "chinese": "魯莽的；輕率的"
-        }
+        },
+        "advSentence": "The young general's rash decision to besiege the mountain fortress without waiting for reinforcements proved disastrous, as his exhausted troops soon succumbed to disease and privation in the harsh winter that followed.",
+        "advTranslation": "年輕將軍魯莽地決定不等援軍就圍攻山上的要塞，結果釀成災難：他疲憊不堪的部隊在隨之而來的嚴冬中，很快就不敵疾病與物資匱乏而倒下。"
       },
       {
         "word": "conjecture",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A guess or inference without proof.",
           "chinese": "推測；猜測"
-        }
+        },
+        "advSentence": "Because the ancient manuscript was found without a title page or signature, the identity of its author remains a matter of conjecture, though astute scholars have noted that its verbose style and caustic wit resemble those of a famous satirist.",
+        "advTranslation": "由於這份古代手稿被發現時既無扉頁也無署名，作者身分至今仍只能推測；不過敏銳的學者指出，其冗長的文風與尖刻的機智，與一位著名的諷刺作家十分相似。"
       },
       {
         "word": "obviate",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To do away with or eliminate a difficulty.",
           "chinese": "消除；排除"
-        }
+        },
+        "advSentence": "The engineers argued that installing automated sensors along the pipeline would obviate the need for manual inspections, sparing vigilant workers the drudgery of walking miles of rugged terrain in inclement weather.",
+        "advTranslation": "工程師主張，沿著管線裝設自動感測器便可免除人工巡檢的必要，讓警覺的工人不必再在惡劣天候中徒步走過數英里崎嶇地形，從事這種枯燥乏味的苦差事。"
       },
       {
         "word": "lurid",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sensational, shocking, ghastly.",
           "chinese": "駭人聽聞的；耀眼的"
-        }
+        },
+        "advSentence": "The tabloid's lurid account of the murder, replete with gruesome details and sensational headlines, provoked consternation among readers who felt that such sordid coverage profited from the victims' grief for profit.",
+        "advTranslation": "這份小報對謀殺案駭人聽聞的報導，充斥著血腥細節與聳動標題，引起讀者驚愕；他們認為這種卑劣的報導是在利用受害者家屬的悲痛來牟利。"
       },
       {
         "word": "quip",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To say something clever or amusing.",
           "chinese": "嘲弄；說俏皮話"
-        }
+        },
+        "advSentence": "When an avid young interviewer asked whether she would ever retire, the octogenarian novelist would quip that writing was the only vice her doctors had not yet forbidden, a witty answer proving that her mind was anything but inert.",
+        "advTranslation": "每當熱切的年輕訪問者問她是否打算退休，這位八十多歲的小說家總會俏皮地回答，寫作是醫生唯一還沒禁止她的嗜好；這句妙語證明她的頭腦一點也不遲鈍。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "poignant": [
     "Moving, painful to the feelings.",

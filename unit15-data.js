@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To officially abolish or annul.",
           "chinese": "廢除；取消"
-        }
+        },
+        "advSentence": "The belligerent new government moved to abrogate the treaty its predecessors had signed, claiming that the agreement had been negotiated under duress and that its terms had relegated the nation to a subordinate role in regional affairs.",
+        "advTranslation": "好戰的新政府著手廢除前朝簽訂的條約，聲稱該協議是在脅迫下談成的，而且其條款使國家在區域事務中淪為從屬地位。"
       },
       {
         "word": "access",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The means or right to approach.",
           "chinese": "接近；通道"
-        }
+        },
+        "advSentence": "Advocates argued that reliable access to clean water should be regarded as an integral human right, especially in arid regions where malnutrition and waterborne diseases remain ubiquitous among the poorest families.",
+        "advTranslation": "倡議者主張，可靠地取得乾淨用水應被視為不可或缺的基本人權，尤其是在乾旱地區，那裡最貧困的家庭仍普遍飽受營養不良與水媒疾病之苦。"
       },
       {
         "word": "accomplice",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who helps another commit a crime.",
           "chinese": "共犯；幫兇"
-        }
+        },
+        "advSentence": "The detectives surmised that the elusive thief must have had an accomplice inside the museum, since the alarm system had been disabled with a meticulous precision that no outsider could possibly have achieved.",
+        "advTranslation": "偵探們推測，這名神出鬼沒的竊賊在博物館內一定有共犯，因為警報系統被解除的手法極為精準細膩，外人絕不可能辦到。"
       },
       {
         "word": "alleged",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Said to have done something but not proven.",
           "chinese": "涉嫌的；據稱的"
-        }
+        },
+        "advSentence": "The alleged mastermind of the extortion scheme denied every charge, insisting that the documents cited by prosecutors had been fabricated by former associates seeking revenge, a claim that most jurors found dubious at best.",
+        "advTranslation": "這起勒索案的涉嫌主謀否認所有指控，堅稱檢方引用的文件是一心報復的前合夥人捏造的；但大多數陪審員認為，這種說法充其量只是令人存疑。"
       },
       {
         "word": "asperity",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Harshness of manner or tone.",
           "chinese": "粗暴；嚴厲"
-        }
+        },
+        "advSentence": "The editor responded to the young writer's questions with such asperity that the timorous newcomer nearly abandoned journalism, though years later she conceded that his caustic critiques had helped her develop an incisive style.",
+        "advTranslation": "主編回答這位年輕作者的問題時態度極為嚴厲，讓這名膽怯的新人幾乎放棄新聞工作；不過多年後她承認，正是他尖刻的批評幫助她培養出犀利的文風。"
       },
       {
         "word": "complicity",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Partnership in wrongdoing.",
           "chinese": "同謀；共犯關係"
-        }
+        },
+        "advSentence": "Investigators uncovered evidence of the bank's complicity in the money-laundering scheme, revealing that senior executives had been cognizant of suspicious transfers for years but had ignored them rather than jeopardize relationships with their most affluent clients.",
+        "advTranslation": "調查人員發現該銀行參與洗錢計畫的證據，揭露高層主管多年來一直知道有可疑的轉帳，卻選擇視而不見，以免危及與最富有客戶之間的關係。"
       },
       {
         "word": "controversial",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Causing public disagreement.",
           "chinese": "有爭議的"
-        }
+        },
+        "advSentence": "The museum's decision to display the controversial painting, which portrayed a sacred figure in a lurid and irreverent manner, provoked a diatribe from conservative critics and an equally zealous defense from advocates of artistic freedom.",
+        "advTranslation": "博物館決定展出這幅備受爭議的畫作，畫中以聳動且不敬的方式描繪一位神聖人物，此舉引來保守派評論家的猛烈抨擊，也激起藝術自由倡議者同樣熱烈的辯護。"
       },
       {
         "word": "culpable",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Deserving blame for a fault.",
           "chinese": "有罪的；該受譴責的"
-        }
+        },
+        "advSentence": "Although the driver who caused the crash was clearly culpable, investigators argued that the city shared the blame, since officials had ignored a plethora of complaints about the defective signal and conducted only perfunctory inspections, negligence that exacerbated the danger.",
+        "advTranslation": "雖然肇事駕駛顯然難辭其咎，但調查人員認為市政府也應分擔責任，因為官員無視大量關於號誌故障的投訴，只做了敷衍了事的檢查，這種疏失加劇了路口的危險。"
       },
       {
         "word": "declaim",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To speak or recite pompously.",
           "chinese": "慷慨陳詞；演說"
-        }
+        },
+        "advSentence": "Standing on the courthouse steps, the candidate began to declaim about justice and liberty in such a pompous, verbose manner that the throng of onlookers soon grew restless, and several hecklers would interject sarcastic remarks.",
+        "advTranslation": "這位候選人站在法院臺階上，開始慷慨激昂地大談正義與自由，但他的語氣浮誇、長篇大論，圍觀群眾很快就不耐煩起來，還有幾個起鬨的人不時插嘴冷嘲熱諷。"
       },
       {
         "word": "epithet",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A descriptive word or phrase, often derogatory.",
           "chinese": "綽號；貶稱"
-        }
+        },
+        "advSentence": "Enemies of the reformer coined a series of insulting epithets to belittle her, yet the scurrilous nicknames only increased her popularity among voters who admired her intrepid campaign against corruption.",
+        "advTranslation": "改革者的敵人編造了一連串侮辱性的綽號來貶低她，然而這些惡毒的外號反而讓她在選民之間更受歡迎，因為選民欽佩她無畏地對抗貪腐。"
       },
       {
         "word": "extrinsic",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Coming from outside, not essential.",
           "chinese": "外在的；非固有的"
-        }
+        },
+        "advSentence": "Psychologists have found that extrinsic rewards such as money or prizes can sometimes diminish children's natural curiosity, an apparent paradox that has prompted astute educators to eschew excessive incentives and instead cultivate students' love of learning.",
+        "advTranslation": "心理學家發現，金錢或獎品等外在獎勵有時反而會削弱孩子天生的好奇心；這個看似矛盾的現象，促使有見識的教育者避免過度使用獎勵，轉而培養學生對學習的熱愛。"
       },
       {
         "word": "fetter",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To restrict or restrain.",
           "chinese": "束縛；羈絆"
-        }
+        },
+        "advSentence": "Some economists contend that burdensome regulations fetter small enterprises and stifle innovation, but skeptics counter that lax oversight could precipitate the sort of reckless speculation that triggered past crises, so they advocate a more balanced approach.",
+        "advTranslation": "有些經濟學家主張，繁瑣的法規束縛了小型企業並扼殺創新；但持懷疑態度的人反駁說，監管鬆散可能促成過去引發危機的那種魯莽投機，因此他們提倡採取更平衡的做法。"
       },
       {
         "word": "invalidate",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make legally void or cancel.",
           "chinese": "使無效；使作廢"
-        }
+        },
+        "advSentence": "The judge decided to invalidate the contract after learning that the elderly widower had been coerced into signing it while still distraught over his wife's death, and she castigated the developers for such flagrant exploitation.",
+        "advTranslation": "法官得知這位年邁的鰥夫是在喪妻之痛中仍心神大亂時被脅迫簽約後，決定判定該合約無效，並嚴厲譴責建商如此明目張膽地占人便宜。"
       },
       {
         "word": "landmark",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Historically significant, a turning point.",
           "chinese": "里程碑；劃時代的"
-        }
+        },
+        "advSentence": "The landmark ruling that declared school segregation unconstitutional was a harbinger of sweeping social change, yet many districts flouted it for years, and federal intervention was eventually required to quell the turmoil that ensued.",
+        "advTranslation": "宣告學校種族隔離違憲的這項劃時代判決，預示著全面的社會變革即將到來；然而許多學區多年來公然無視這項判決，最終還得靠聯邦介入，才平息了隨之而來的動盪。"
       },
       {
         "word": "liquidation",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The disposal or destruction of something.",
           "chinese": "清算；肅清"
-        }
+        },
+        "advSentence": "After years of mounting debt, the company was forced into liquidation, its assets sold at auction to repay creditors, a fate that dubious accounting had long concealed and that left hundreds of loyal employees doleful and anxious.",
+        "advTranslation": "在債務多年不斷累積之後，這家公司被迫進行清算，資產拍賣以償還債權人；這個下場長期被可疑的帳目所掩蓋，也讓數百名忠心的員工憂愁又焦慮。"
       },
       {
         "word": "nomadic",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Roaming from place to place.",
           "chinese": "遊牧的；流浪的"
-        }
+        },
+        "advSentence": "The nomadic herders of the Mongolian steppe move with the seasons, a way of life that demands resilience against inclement winters and that outsiders have often disparaged as rudimentary, though scholars perceive it as an astute adaptation to a harsh environment.",
+        "advTranslation": "蒙古草原上的遊牧民族隨季節遷徙，這種生活方式需要能抵禦嚴酷寒冬的韌性；外人常貶低它為原始落後，但學者則認為，這是對嚴苛環境的一種精明適應。"
       },
       {
         "word": "paragon",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person regarded as perfect.",
           "chinese": "模範；典範"
-        }
+        },
+        "advSentence": "The nurse came to be regarded as a paragon of mercy, tending to soldiers afflicted by disease with tireless dedication and offering solace to the dying despite the sordid conditions of the overcrowded military hospital.",
+        "advTranslation": "這位護理師被視為仁慈的典範，儘管人滿為患的軍醫院環境骯髒不堪，她仍不辭辛勞地照顧身染疾病的士兵，並為臨終者帶來慰藉。"
       },
       {
         "word": "persevere",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To continue despite difficulty.",
           "chinese": "堅持不懈；不屈不撓"
-        }
+        },
+        "advSentence": "Although her early experiments proved fruitless and skeptical colleagues scoffed at her hypothesis, the biochemist chose to persevere, and her research eventually yielded a viable method for producing the vaccine on a large scale.",
+        "advTranslation": "雖然她早期的實驗徒勞無功，抱持懷疑的同事也對她的假說嗤之以鼻，這位生化學家仍選擇堅持不懈，她的研究最終找到了一種可大規模生產疫苗的可行方法。"
       },
       {
         "word": "preclude",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To prevent or make impossible.",
           "chinese": "排除；防止"
-        }
+        },
+        "advSentence": "The charred, fragile condition of the ancient scrolls seemed to preclude any attempt to read them, but scientists devised an ingenious imaging technique that let them peruse the text without unrolling the papyrus, a feat that eminent classicists had long considered anything but feasible.",
+        "advTranslation": "這些古代卷軸已經碳化且極為脆弱，看似不可能有人讀得了；但科學家設計出一種巧妙的影像技術，無須展開莎草紙就能細讀內容，知名古典學者長久以來都認為這是不可能辦到的壯舉。"
       },
       {
         "word": "recant",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To withdraw a previous statement.",
           "chinese": "撤回(聲明)；放棄(信仰)"
-        }
+        },
+        "advSentence": "Faced with incontrovertible evidence that his data had been fabricated by a dishonest assistant, the eminent physicist chose to recant his celebrated findings, a frank admission that ultimately preserved his reputation for integrity.",
+        "advTranslation": "面對無可辯駁的證據，顯示他的數據遭一名不誠實的助理捏造，這位著名的物理學家選擇公開撤回自己備受讚譽的研究成果；這番坦率的認錯，最終保住了他正直的名聲。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abrogate": [
     "To officially abolish or annul.",

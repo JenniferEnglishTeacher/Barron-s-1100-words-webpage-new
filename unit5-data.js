@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Bitter, sharp, harsh in manner.",
           "chinese": "嚴厲的；辛辣的"
-        }
+        },
+        "advSentence": "Isaac Newton and Gottfried Leibniz became embroiled in an acrimonious dispute over who had first invented calculus, a feud fraught with national pride in which Newton's zealous allies cast Leibniz as an interloper who had stolen ideas, a charge most historians now reject.",
+        "advTranslation": "艾薩克・牛頓與哥特佛萊德・萊布尼茲為了究竟誰先發明微積分而陷入激烈的爭執；在這場夾雜民族自尊的論戰中，牛頓狂熱的支持者把萊布尼茲描繪成竊取他人構想的闖入者，但如今大多數歷史學家都不接受這項指控。"
       },
       {
         "word": "admonish",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To warn or reprove gently but seriously.",
           "chinese": "警告；勸誡"
-        }
+        },
+        "advSentence": "Rather than issue a public reprimand to the student who had flouted the honor code, the professor chose to admonish him privately, warning that such a rash shortcut could permanently tarnish his academic reputation.",
+        "advTranslation": "這位教授並未公開斥責那名違反榮譽守則的學生，而是選擇私下告誡他，提醒他這種輕率的捷徑可能永久玷污他的學術聲譽。"
       },
       {
         "word": "clandestine",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Secret, undercover, kept hidden.",
           "chinese": "秘密的；暗中的"
-        }
+        },
+        "advSentence": "During the Nazi occupation, members of the French Resistance operated clandestine printing presses in cellars, concealed caches of weapons beneath farmhouses, and risked execution to galvanize a populace that the occupiers hoped would remain supine.",
+        "advTranslation": "納粹佔領期間，法國抵抗運動成員在地窖裡經營祕密印刷所，在農舍下方藏匿武器，冒著被處決的風險喚醒民眾——而佔領者原本期望這些民眾始終消極順從。"
       },
       {
         "word": "concur",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To agree, to act in harmony.",
           "chinese": "同意；一致"
-        }
+        },
+        "advSentence": "Climate scientists overwhelmingly concur that human activity is the paramount cause of recent global warming, yet they caution that its regional consequences remain nebulous, making it imperative that coastal cities prepare for a broad gamut of possible outcomes.",
+        "advTranslation": "氣候科學家普遍同意，人類活動是近來全球暖化的首要成因；但他們也提醒，暖化在各地區造成的影響仍不明確，因此沿海城市必須為各種可能的後果預作準備。"
       },
       {
         "word": "construe",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make a deduction, to interpret.",
           "chinese": "解釋；推斷"
-        }
+        },
+        "advSentence": "Analysts warned that the neighboring state might construe the joint naval exercises as a hostile provocation, and they urged both governments to communicate their intentions with candor lest a misunderstanding trigger an escalation that neither side desired.",
+        "advTranslation": "分析人士警告，鄰國可能將這次聯合海上軍演解讀為帶有敵意的挑釁，因此敦促兩國政府坦誠溝通彼此的意圖，以免誤會引發雙方都不樂見的衝突升級。"
       },
       {
         "word": "culprit",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The person guilty of an offence.",
           "chinese": "罪犯；肇事者"
-        }
+        },
+        "advSentence": "When cholera swept through London's Soho district in 1854, physician John Snow mapped the deaths with meticulous care and identified the culprit, a contaminated public water pump, challenging the prevalent theory, endorsed by many eminent doctors, that disease spread through foul air.",
+        "advTranslation": "1854年霍亂席捲倫敦蘇活區時，醫師約翰・斯諾一絲不苟地標出死亡病例的分布，找出了罪魁禍首——一座遭到污染的公共水泵，從而挑戰了當時許多知名醫師所支持、認為疾病經由污濁空氣傳播的主流理論。"
       },
       {
         "word": "distraught",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Confused and upset, deeply distressed.",
           "chinese": "心煩意亂的；極度苦惱的"
-        }
+        },
+        "advSentence": "Distraught relatives gathered at the edge of the debris, imploring rescue teams to keep searching, and even the most sedate volunteers found it difficult to remain composed amid such palpable anguish.",
+        "advTranslation": "心急如焚的家屬聚集在瓦礫堆旁，懇求救難隊繼續搜索；面對如此真切的悲痛，即使是最沉穩的志工也難以保持鎮定。"
       },
       {
         "word": "duplicity",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Cunning deception, double-dealing.",
           "chinese": "表裡不一；欺騙"
-        }
+        },
+        "advSentence": "The double agent's duplicity went undetected for years, as he fed his superiors mendacious reports while passing secrets to the enemy in covert meetings, a betrayal that, once exposed, besmirched the reputation of the entire intelligence service.",
+        "advTranslation": "這名雙面間諜的欺瞞多年來都未被察覺，他一面向上級呈交不實的報告，一面在祕密會面中把機密交給敵方；這場背叛一經揭發，整個情報機構的名聲都因此蒙羞。"
       },
       {
         "word": "duress",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Compulsion by threat, forcible restraint.",
           "chinese": "脅迫；強制"
-        }
+        },
+        "advSentence": "Courts have repeatedly held that a confession extracted under duress cannot be trusted, since vulnerable suspects facing threats may acknowledge crimes they never committed, and judges deem such coercive tactics abhorrent to the principle of due process.",
+        "advTranslation": "法院一再裁定，在脅迫下取得的自白不可採信，因為面臨威脅的弱勢嫌犯可能會承認自己從未犯下的罪行；法官也認為，這類強迫手段嚴重違背正當法律程序的原則。"
       },
       {
         "word": "egregious",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Remarkably bad, outstandingly offensive.",
           "chinese": "極壞的；令人震驚的"
-        }
+        },
+        "advSentence": "The auditors uncovered egregious accounting fraud at the energy firm, where executives driven by insatiable avarice had hidden enormous debts in shell companies, triggering a collapse that left thousands of employees bereft of their pensions.",
+        "advTranslation": "審計人員在這家能源公司發現了極其惡劣的會計舞弊：高層受貪得無厭的欲望驅使，把巨額債務藏在空殼公司中，最終導致公司倒閉，讓數千名員工的退休金化為烏有。"
       },
       {
         "word": "elicit",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To draw forth or bring out.",
           "chinese": "引出；引起"
-        }
+        },
+        "advSentence": "Seasoned anthropologists know that blunt questions seldom elicit honest answers about taboo subjects, so they cultivate congenial relationships with community members over many months before cautiously broaching sensitive topics such as illness or death.",
+        "advTranslation": "經驗豐富的人類學家深知，直截了當的提問很少能引出關於禁忌話題的真實答案，因此他們會花上好幾個月與社區成員建立融洽的關係，然後才小心翼翼地觸及疾病或死亡等敏感議題。"
       },
       {
         "word": "ethics",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The moral principles governing conduct.",
           "chinese": "道德規範；倫理"
-        }
+        },
+        "advSentence": "As algorithms increasingly decide who receives loans or parole, scholars of ethics warn that systems trained on historical data may perpetuate inveterate prejudices while cloaking them in an aura of infallible objectivity.",
+        "advTranslation": "隨著演算法日益左右誰能獲得貸款或假釋，倫理學者警告：以歷史資料訓練出來的系統，可能延續根深柢固的偏見，同時為這些偏見披上一層看似絕對客觀、不容置疑的外衣。"
       },
       {
         "word": "flagrant",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Outrageous, conspicuously bad.",
           "chinese": "公然的；惡名昭彰的"
-        }
+        },
+        "advSentence": "The regime's flagrant violation of the ceasefire, which it breached within hours by shelling civilian neighborhoods, drew a sharp rebuke even from its staunchest adherents, who had previously been loath to criticize it in public.",
+        "advTranslation": "該政權公然違反停火協議，簽約數小時內便砲轟平民社區，此舉甚至招致其最忠實擁護者的嚴厲斥責——而這些擁護者先前一向不願公開批評它。"
       },
       {
         "word": "impunity",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Freedom from punishment or consequences.",
           "chinese": "免受懲罰；不受制裁"
-        }
+        },
+        "advSentence": "For years the warlord's militia plundered villages with impunity, since the fledgling government's jurisdiction over the mountainous provinces was largely theoretical and corrupt officials had little incentive to impede his raids.",
+        "advTranslation": "多年來，這名軍閥的民兵肆無忌憚地劫掠村莊，因為剛成立的政府對山區各省的管轄權大多只是紙上談兵，而貪腐的官員也沒有什麼動機去阻止他的襲擊。"
       },
       {
         "word": "inane",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Silly, empty of intelligence or meaning.",
           "chinese": "愚蠢的；無意義的"
-        }
+        },
+        "advSentence": "Exasperated by the inane questions about her wardrobe that garrulous reporters kept posing at the press conference, the physicist gave a terse but cogent reply, reminding them that her discovery, not her clothing, was the news.",
+        "advTranslation": "記者會上，多話的記者不斷追問這位物理學家的穿著打扮，這些愚蠢的問題讓她十分惱火；她簡短而有力地回應，提醒他們真正的新聞是她的發現，而不是她的衣著。"
       },
       {
         "word": "inexorable",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Inflexible, impossible to stop.",
           "chinese": "無情的；不可阻擋的"
-        }
+        },
+        "advSentence": "Low-lying island nations face the inexorable advance of rising seas, which threatens to obliterate coastal villages and render ancestral lands uninhabitable, a plight that their leaders have urged wealthier countries to palliate through emissions cuts and adaptation funding.",
+        "advTranslation": "地勢低窪的島國正面臨海平面無情地步步上升，沿海村落可能因此消失，祖先留下的土地也將無法居住；這些國家的領袖已敦促較富裕的國家透過減排與調適資金來減輕他們的困境。"
       },
       {
         "word": "paucity",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Scarcity, a lack or shortage.",
           "chinese": "缺乏；不足"
-        }
+        },
+        "advSentence": "Historians of early medieval Europe must contend with a paucity of reliable documents, relying instead on archaeological artifacts and a handful of extant chronicles whose monastic authors freely mingled fact with superstition.",
+        "advTranslation": "研究中世紀早期歐洲的歷史學家必須面對可靠文獻匱乏的難題，只能轉而依靠考古文物和寥寥幾部現存的編年史，而這些編年史的修士作者往往把史實與迷信混為一談。"
       },
       {
         "word": "pernicious",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Harmful, causing subtle damage.",
           "chinese": "有害的；致命的"
-        }
+        },
+        "advSentence": "Public health officials regard the pernicious spread of medical misinformation online as a serious detriment to efforts to eradicate measles, since anxious parents are often more susceptible to vivid anecdotes than to statistical evidence.",
+        "advTranslation": "公共衛生官員認為，網路上醫療錯誤資訊的悄然擴散，對根除麻疹的努力造成嚴重危害，因為焦慮的家長往往比較容易被生動的個人經歷所左右，而非統計證據。"
       },
       {
         "word": "rampant",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Going unchecked, widespread, unrestrained.",
           "chinese": "猖獗的；盛行的"
-        }
+        },
+        "advSentence": "During the hyperinflation that afflicted Weimar Germany, price increases became so rampant that workers rushed to spend their wages within hours, and the savings of thrifty households became worthless, a catastrophic loss that fueled political strife.",
+        "advTranslation": "威瑪德國陷入惡性通貨膨脹期間，物價失控狂飆，工人一領到薪水便在數小時內趕緊花掉，而節儉家庭的積蓄則變得一文不值；這場災難性的損失加劇了政治動盪。"
       },
       {
         "word": "tolerate",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To put up with, allow, bear.",
           "chinese": "容忍；忍受"
-        }
+        },
+        "advSentence": "Despite its puny size, the tardigrade can tolerate extreme temperatures, intense radiation, and even the vacuum of space, a phenomenon scientists attribute to its ability to enter a dormant state in which it remains virtually inert until conditions improve.",
+        "advTranslation": "水熊蟲雖然體型微小，卻能耐受極端溫度、強烈輻射，甚至太空的真空環境；科學家將這種現象歸因於牠能進入休眠狀態，在此狀態下幾乎完全靜止不動，直到環境好轉為止。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "acrimonious": [
     "Bitter, sharp, harsh in manner.",

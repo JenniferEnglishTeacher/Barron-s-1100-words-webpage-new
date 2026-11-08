@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Present or experienced to a severe degree.",
           "chinese": "敏銳的；急性的"
-        }
+        },
+        "advSentence": "During the drought, the acute shortage of clean water exacerbated the spread of waterborne maladies, and relief workers struggled to accommodate the throng of hapless villagers who had walked for days to reach the makeshift camp.",
+        "advTranslation": "乾旱期間，乾淨用水嚴重短缺，使經由水傳播的疾病更加猖獗；救援人員疲於安置那一大群走了好幾天才抵達臨時營地的不幸村民。"
       },
       {
         "word": "aversion",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A strong dislike or disinclination.",
           "chinese": "厭惡；反感"
-        }
+        },
+        "advSentence": "Her lifelong aversion to public speaking seemed incongruous with her reputation as an incisive critic, yet colleagues who scrutinized her essays understood that she preferred to wield her trenchant arguments on the printed page.",
+        "advTranslation": "她終生厭惡公開演說，這似乎與她身為犀利評論家的名聲格格不入；然而仔細研讀過她文章的同事都明白，她寧可在紙上施展那些一針見血的論點。"
       },
       {
         "word": "cogent",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Clear, logical, and convincing.",
           "chinese": "令人信服的"
-        }
+        },
+        "advSentence": "The lawyer presented such a cogent argument, supported by meticulously organized documents that corroborated every key claim, that even the most incredulous jurors were compelled to concede that the alleged fraud could not have occurred as the prosecution described.",
+        "advTranslation": "這位律師提出了極具說服力的論證，並以條理分明、足以證實每項關鍵主張的文件作為佐證，就連最心存懷疑的陪審員也不得不承認，所指控的詐欺不可能如檢方所描述的那樣發生。"
       },
       {
         "word": "evince",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To show or reveal a quality.",
           "chinese": "表明；顯示"
-        }
+        },
+        "advSentence": "Although the young diplomat tried to appear phlegmatic during the tense negotiations, his tremulous voice and furtive glances at the clock evinced an anxiety that his astute counterparts were quick to discern.",
+        "advTranslation": "儘管這位年輕外交官在緊張的談判中努力表現得沉著冷靜，他顫抖的聲音和不時偷瞄時鐘的眼神，卻透露出內心的焦慮，而精明的談判對手很快就察覺到了。"
       },
       {
         "word": "gist",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The substance or main point.",
           "chinese": "主旨；要點"
-        }
+        },
+        "advSentence": "Rather than peruse every page of the interminable government report, the busy journalist asked an analyst to summarize its gist, which was that years of lax regulation had allowed pernicious pollutants to permeate the city's groundwater.",
+        "advTranslation": "這位忙碌的記者沒有逐頁細讀那份冗長不堪的政府報告，而是請一位分析師概述其要點：多年來寬鬆的監管，使有害污染物滲入了該市的地下水。"
       },
       {
         "word": "hostile",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Opposed and aggressive.",
           "chinese": "敵對的"
-        }
+        },
+        "advSentence": "When the expatriate scientist returned home, she encountered a hostile press that derided her controversial research on genetic engineering and disparaged her as a mere puppet of the foreign corporations that had funded her laboratory.",
+        "advTranslation": "這位旅居海外的科學家返國時，遭遇了充滿敵意的媒體，他們嘲笑她關於基因工程的爭議性研究，並貶低她不過是資助其實驗室的外國企業的傀儡。"
       },
       {
         "word": "inevitable",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Certain to happen, unavoidable.",
           "chinese": "不可避免的"
-        }
+        },
+        "advSentence": "Once the empire's profligate rulers had squandered its wealth on sumptuous palaces while the indigent masses starved, many historians argue, rebellion was inevitable, though few at the time could foresee the havoc it would wreak.",
+        "advTranslation": "許多歷史學家認為，當帝國揮霍無度的統治者把財富浪費在奢華宮殿上、而貧困的百姓卻在挨餓時，叛亂就已無可避免，儘管當時鮮少有人能預見它將造成多大的浩劫。"
       },
       {
         "word": "intrinsic",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Belonging naturally, essential.",
           "chinese": "固有的；內在的"
-        }
+        },
+        "advSentence": "Critics who dismiss comic books as mundane entertainment overlook their intrinsic artistic value, for the most accomplished illustrators combine visual virtuosity with narratives as complex and nuanced as those found in prestigious literary novels.",
+        "advTranslation": "把漫畫斥為平凡娛樂的評論者，忽略了它們內在的藝術價值；因為最有成就的插畫家，能將精湛的視覺技藝與不輸給知名文學小說那般複雜而細膩的敘事結合在一起。"
       },
       {
         "word": "jettison",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To throw or drop from an aircraft or ship.",
           "chinese": "拋棄；丟棄"
-        }
+        },
+        "advSentence": "As the storm intensified and the crippled cargo ship began to list dangerously, the captain ordered his crew to jettison the heavy containers, a drastic but feasible measure to avert an imminent and catastrophic sinking in the turbulent waters.",
+        "advTranslation": "隨著暴風雨加劇、受損的貨輪開始危險地傾斜，船長下令船員將沉重的貨櫃拋入海中；這是個激烈但可行的措施，以避免船隻在洶湧的海浪中即將發生的災難性沉沒。"
       },
       {
         "word": "lethargic",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Affected by lethargy, sluggish.",
           "chinese": "昏睡的；遲鈍的"
-        }
+        },
+        "advSentence": "Patients recovering from the virulent infection often remain lethargic for weeks, and physicians caution that such persistent sluggishness may be symptomatic of a latent complication or even a harbinger of relapse.",
+        "advTranslation": "從這種猛烈感染中康復的病人，往往會連續數週昏沉無力；醫師提醒，這種持續的倦怠可能是潛在併發症的症狀，甚至是復發的前兆。"
       },
       {
         "word": "lucrative",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Producing a great deal of profit.",
           "chinese": "有利可圖的"
-        }
+        },
+        "advSentence": "The spice trade proved so lucrative for European merchants that belligerent rival nations fought numerous skirmishes to wrest control of key ports, and the immense profits fueled the opulence of courts from Lisbon to Amsterdam.",
+        "advTranslation": "香料貿易為歐洲商人帶來極為豐厚的利潤，以致好戰的敵對國家為了奪取重要港口的控制權而爆發多次小規模衝突，而巨額利潤也支撐起從里斯本到阿姆斯特丹各地宮廷的奢華。"
       },
       {
         "word": "paramount",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "More important than anything else.",
           "chinese": "首要的；至高無上的"
-        }
+        },
+        "advSentence": "For engineers designing bridges in earthquake-prone regions, safety is paramount, so they deem it imprudent to curtail spending on reinforcements that help an edifice withstand tremors capable of razing less sturdy structures.",
+        "advTranslation": "對於在地震頻繁地區設計橋梁的工程師而言，安全至上，因此他們認為削減補強工程的經費是不智之舉，因為這些補強能讓建築承受足以摧毀較不堅固結構的震動。"
       },
       {
         "word": "prevalent",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Widespread, common in a particular area.",
           "chinese": "普遍的；盛行的"
-        }
+        },
+        "advSentence": "Superstitions about unlucky numbers remain prevalent across East Asia, and anthropologists observe that even urbane, highly educated residents of Taipei may avoid the number four, a taboo steeped in the fact that it sounds like the word for death.",
+        "advTranslation": "對不吉利數字的迷信在東亞依然普遍，人類學家觀察到，即使是溫文儒雅、受過高等教育的台北居民，也可能避開數字四；這個禁忌源於「四」的發音與「死」相近。"
       },
       {
         "word": "rebuke",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To express sharp disapproval.",
           "chinese": "斥責；指責"
-        }
+        },
+        "advSentence": "The senator publicly rebuked her colleague for his flagrant breach of ethics, declaring that handing sinecures to relatives was a form of favoritism that undermined public trust and should no longer be tolerated.",
+        "advTranslation": "這位參議員公開斥責她的同僚公然違反倫理規範，並宣稱把閒差肥缺分派給親戚是一種裙帶關係，會損害公眾信任，不應再被容忍。"
       },
       {
         "word": "remiss",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking care or attention to duty.",
           "chinese": "怠忽職守的"
-        }
+        },
+        "advSentence": "Investigators concluded that the factory's inspectors had been remiss in their duties, conducting only perfunctory checks of the aging boilers and dismissing the ominous noises reverberating through the pipes, and were therefore partly culpable for the deadly explosion.",
+        "advTranslation": "調查人員斷定，該工廠的檢查員怠忽職守，只對老舊鍋爐進行敷衍了事的檢查，並對在管線中迴盪的不祥聲響置之不理，因此必須為這場致命爆炸負起部分責任。"
       },
       {
         "word": "superficial",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Appearing to be true only until examined.",
           "chinese": "表面的；膚淺的"
-        }
+        },
+        "advSentence": "Although the two economic theories bear a superficial resemblance, when scrutinized closely they rest on disparate premises and arrive at conclusions that are, in many crucial respects, the very antithesis of each other.",
+        "advTranslation": "雖然這兩套經濟理論表面上相似，但仔細檢視就會發現，它們建立在截然不同的前提上，得出的結論在許多關鍵方面也恰恰完全相反。"
       },
       {
         "word": "terse",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sparing in the use of words, brief.",
           "chinese": "簡潔的；扼要的"
-        }
+        },
+        "advSentence": "Known for her terse replies, the reticent novelist answered the interviewer's verbose questions with a single word or a shrug, a habit that some critics construed as arrogance but admirers regarded as a laudable refusal to indulge in empty chatter.",
+        "advTranslation": "這位沉默寡言的小說家以回答簡短扼要聞名，面對訪問者冗長的提問，她只用一個字或聳聳肩回應；有些評論家將此解讀為傲慢，但欣賞她的人卻認為，這是拒絕沉溺於空洞閒聊、值得稱許的態度。"
       },
       {
         "word": "transient",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lasting only for a short time.",
           "chinese": "短暫的；瞬息的"
-        }
+        },
+        "advSentence": "The desert bloom is a transient phenomenon: after a rare downpour, seemingly inert seeds burst into flower and saturate the barren landscape with color, but within weeks the blossoms wither and the arid plains revert to their usual drab hues.",
+        "advTranslation": "沙漠花海是短暫的現象：一場難得的大雨過後，看似毫無生機的種子迸發成花，為荒蕪的大地染滿色彩；然而短短數週之內，花朵便會凋謝，乾旱的平原又恢復往常單調的色調。"
       },
       {
         "word": "tussle",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A vigorous struggle or scuffle.",
           "chinese": "扭打；爭執"
-        }
+        },
+        "advSentence": "What began as a minor tussle between two irate fans over a souvenir ball quickly escalated into a melee, prompting vigilant security guards to quell the disturbance before the frenzy spread through the stadium.",
+        "advTranslation": "起初只是兩名憤怒的球迷為了一顆紀念球而發生的小扭打，很快便演變成一場混戰，促使警覺的保全人員在騷動蔓延至整座球場之前迅速平息這場混亂。"
       },
       {
         "word": "vogue",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The prevailing fashion at a particular time.",
           "chinese": "流行；時尚"
-        }
+        },
+        "advSentence": "Minimalist interior design has been in vogue for years, as affluent urban residents eschew ornate furniture in favor of clean lines, though some critics contend that the fashion is merely a veneer of simplicity masking costly materialism.",
+        "advTranslation": "極簡主義室內設計已流行多年，富裕的都市居民捨棄華麗的家具，偏好簡潔的線條；不過有些評論家認為，這股潮流不過是披著簡約的外衣，掩飾其背後昂貴的物質主義。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "acute": [
     "Present or experienced to a severe degree.",

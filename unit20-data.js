@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Restrained in eating and drinking.",
           "chinese": "飲食有節制的"
-        }
+        },
+        "advSentence": "Renowned for his abstemious habits, the philosopher ate a single frugal meal each day and eschewed wine entirely, a regimen that his profligate contemporaries derided as needless self-denial even as they envied his robust health.",
+        "advTranslation": "這位哲學家以飲食節制聞名，每天只吃一頓簡樸的餐點，並且滴酒不沾；他那些揮霍無度的同代人嘲笑這種作息是不必要的自我克制，卻又羨慕他強健的體魄。"
       },
       {
         "word": "derogatory",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing a critical or disrespectful attitude.",
           "chinese": "貶低的；誹謗的"
-        }
+        },
+        "advSentence": "After the commentator made derogatory remarks about immigrant workers on live television, the network faced a frenzy of criticism, and he was compelled to recant his statements, though many viewers deemed his perfunctory apology insincere.",
+        "advTranslation": "這名評論員在直播節目中發表貶低移工的言論後，電視台遭到排山倒海的抨擊，他也被迫收回自己的說法；不過許多觀眾認為他那敷衍了事的道歉毫無誠意。"
       },
       {
         "word": "disparate",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Essentially different in kind.",
           "chinese": "迥然不同的；無法比較的"
-        }
+        },
+        "advSentence": "The research team brought together experts from disparate fields such as linguistics, genetics, and archaeology, and by combining these seemingly incongruous methods, they developed a viable theory of human migration that later fossil discoveries corroborated.",
+        "advTranslation": "這個研究團隊集結了語言學、遺傳學與考古學等迥然不同領域的專家；藉由結合這些看似格格不入的研究方法，他們提出了一套可行的人類遷徙理論，並在後來的化石發現中得到證實。"
       },
       {
         "word": "edifice",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A large imposing building.",
           "chinese": "宏偉的建築；大廈"
-        }
+        },
+        "advSentence": "Generations of masons labored to complete the towering Gothic edifice, whose spires remain the city's most famous landmark, but acid rain has gradually permeated its limestone carvings, and conservators warn that unchecked decay could jeopardize the entire structure.",
+        "advTranslation": "一代又一代的石匠辛勤勞動，才完成這座高聳的哥德式宏偉建築，其尖塔至今仍是全市最著名的地標；然而酸雨已逐漸滲入其石灰岩雕刻，修復人員警告，若任由侵蝕持續，整座建築都可能岌岌可危。"
       },
       {
         "word": "extant",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Still in existence.",
           "chinese": "現存的；尚存的"
-        }
+        },
+        "advSentence": "Although the prolific Greek dramatist Sophocles is said to have written more than one hundred plays, only seven are extant today, so scholars must rely on garbled fragments and secondhand summaries to surmise what the lost works contained.",
+        "advTranslation": "據說多產的希臘劇作家索福克勒斯寫過一百多部劇本，但今天只有七部留存下來；因此學者們只能依靠殘缺不全的片段和二手摘要，來推測那些失傳作品的內容。"
       },
       {
         "word": "indict",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To formally accuse of a crime.",
           "chinese": "控告；起訴"
-        }
+        },
+        "advSentence": "A grand jury voted to indict the former mayor on charges of fraud, alleging that he had fabricated invoices to conceal his complicity in a kickback scheme that had operated with apparent impunity throughout his time in office.",
+        "advTranslation": "大陪審團投票決定起訴前市長詐欺罪，指控他偽造發票，以掩飾自己參與一項回扣計畫；而這項計畫在他整個任期內似乎一直逍遙法外地運作著。"
       },
       {
         "word": "levity",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Treating something seriously with humour.",
           "chinese": "輕浮；輕率"
-        }
+        },
+        "advSentence": "Although some mourners welcomed the brief respite that the speaker's levity offered, others, still distraught over the sudden death, admonished him afterward for telling jokes during such a solemn ceremony.",
+        "advTranslation": "雖然有些弔唁者樂於藉著致詞者的幽默得到片刻喘息，但另一些仍因這場猝逝而心煩意亂的人，事後卻責備他竟在如此莊嚴的儀式上說笑話。"
       },
       {
         "word": "lugubrious",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Looking or sounding sad and dismal.",
           "chinese": "悲哀的；令人傷心的"
-        }
+        },
+        "advSentence": "The film's lugubrious soundtrack, dominated by slow cellos and doleful choral chants, suits its tragic subject, yet several critics found the relentless gloom so interminable that they struggled to remain engrossed in the story.",
+        "advTranslation": "這部電影的配樂陰鬱哀戚，以緩慢的大提琴和悲傷的合唱詠唱為主，與其悲劇題材相當契合；然而好幾位影評人認為，這種無止盡的陰沉冗長乏味，讓他們很難持續投入劇情。"
       },
       {
         "word": "maudlin",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sentimental in a foolish or weak way.",
           "chinese": "傷感流淚的；感情脆弱的"
-        }
+        },
+        "advSentence": "Although the novel's early chapters portray grief with understated nuance, its final scene lapses into maudlin sentimentality, piling up tearful reunions and deathbed confessions that seem designed to elicit tears rather than offer any poignant insight.",
+        "advTranslation": "雖然這部小說的前幾章以含蓄細膩的筆法描寫悲傷，結尾卻流於濫情，堆砌淚眼相擁的重逢與臨終告白；這些情節似乎只為了賺人熱淚，而非提供任何真正動人的洞見。"
       },
       {
         "word": "nebulous",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not clear, hazy, vague.",
           "chinese": "朦朧的；模糊的"
-        }
+        },
+        "advSentence": "Voters grew frustrated with the candidate's nebulous promises of change, which offered no tangible details about how she would reduce unemployment or pay for the comprehensive reforms she claimed the country so urgently needed.",
+        "advTranslation": "選民對這位候選人含糊不清的改革承諾越來越感到失望，因為她始終沒有提出任何具體細節，說明她將如何降低失業率，或如何支付她聲稱國家迫切需要的全面改革。"
       },
       {
         "word": "omnivorous",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Eating both plants and animals.",
           "chinese": "雜食的；無所不吃的"
-        }
+        },
+        "advSentence": "Because raccoons are omnivorous, eating everything from fruit and insects to discarded leftovers, they have adapted with remarkable alacrity to urban life, and these voracious scavengers now thrive wherever garbage bins abound and natural predators are scarce.",
+        "advTranslation": "由於浣熊是雜食性動物，從水果、昆蟲到丟棄的剩菜無所不吃，牠們以驚人的速度適應了都市生活；如今，這些貪吃的拾荒者在垃圾桶林立、天敵稀少的地方都能繁衍興盛。"
       },
       {
         "word": "pesky",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Causing irritation.",
           "chinese": "討厭的；煩人的"
-        }
+        },
+        "advSentence": "Rather than relying on pernicious chemical sprays, many organic farmers now release ladybugs to control pesky aphids, a feasible strategy that obviates the need for pesticides while sparing the bees that pollinate their crops.",
+        "advTranslation": "許多有機農民不再依賴有害的化學噴劑，而是釋放瓢蟲來對付惱人的蚜蟲；這種可行的策略不但免除了使用殺蟲劑的必要，也保護了為作物授粉的蜜蜂。"
       },
       {
         "word": "puissant",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having great power or influence.",
           "chinese": "強大的；有權力的"
-        }
+        },
+        "advSentence": "Once a puissant empire whose fleets dominated distant oceans, the kingdom gradually lost its colonies through a series of abortive wars and profligate spending at court, until its decline seemed inexorable even to its most loyal subjects.",
+        "advTranslation": "這個王國曾是艦隊稱霸遠洋的強大帝國，卻因一連串失敗的戰爭與宮廷的揮霍無度而逐漸失去殖民地，最後連最忠誠的子民都認為它的衰落已無法挽回。"
       },
       {
         "word": "redolent",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Strongly suggestive of, fragrant.",
           "chinese": "芬芳的；使人想起...的"
-        }
+        },
+        "advSentence": "The narrow alleys of the old spice market, redolent of cinnamon and cloves, still awaken intense nostalgia in expatriates who return after years abroad, for whom the fragrance offers solace and a link to a childhood that has otherwise vanished.",
+        "advTranslation": "老香料市場狹窄的巷弄裡飄散著肉桂與丁香的芬芳，仍會在旅居海外多年後歸來的遊子心中喚起強烈的懷舊之情；對他們而言，這股香氣帶來慰藉，也是通往那段早已消逝之童年的唯一連結。"
       },
       {
         "word": "repose",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A state of rest or tranquillity.",
           "chinese": "休息；睡眠"
-        }
+        },
+        "advSentence": "After a grueling campaign marked by acrimonious debates, the exhausted senator retreated to a secluded mountain haven, seeking a few weeks of repose far from the reporters who had harassed her relentlessly for months.",
+        "advTranslation": "經歷了一場充滿激烈辯論、令人筋疲力盡的選戰後，疲憊的參議員退隱到一處僻靜的山間避風港，希望能遠離數月來不斷糾纏她的記者，好好休養幾個星期。"
       },
       {
         "word": "reviled",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Hated and criticised.",
           "chinese": "辱罵；斥責"
-        }
+        },
+        "advSentence": "Reviled by many fellow physicians for insisting that doctors wash their hands before delivering babies, Ignaz Semmelweis died in obscurity, yet his once controversial claim is now deemed an incontrovertible pillar of modern medicine.",
+        "advTranslation": "塞麥爾維斯因堅持醫師在接生前必須洗手，而遭到許多同行醫師的唾棄，最終默默無聞地離世；然而他當年備受爭議的主張，如今已被視為現代醫學中無可辯駁的基石。"
       },
       {
         "word": "sultry",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Oppressively hot and humid.",
           "chinese": "悶熱的；風騷的"
-        }
+        },
+        "advSentence": "During the sultry monsoon season, laborers in the rice paddies endure the drudgery of transplanting seedlings under oppressive humidity, and some succumb to heat exhaustion despite taking frequent respites in the shade of nearby trees.",
+        "advTranslation": "在悶熱的季風季節裡，稻田裡的工人得在令人窒息的濕氣中從事插秧的苦差事；儘管他們經常到附近樹蔭下歇息，仍有些人因熱衰竭而倒下。"
       },
       {
         "word": "trenchant",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Vigorous or incisive in expression.",
           "chinese": "銳利的；一針見血的"
-        }
+        },
+        "advSentence": "George Orwell's trenchant essays exposed how politicians use euphemism to disguise brutal policies, and his incisive analysis of political language remains strikingly salient in an age of slogans and spin.",
+        "advTranslation": "喬治．歐威爾一針見血的文章揭露了政客如何用委婉說法掩飾殘酷的政策；在這個充斥口號與操弄話術的時代，他對政治語言的犀利分析依然格外切中要害。"
       },
       {
         "word": "unabated",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Without any reduction in intensity.",
           "chinese": "不減退的；未減弱的"
-        }
+        },
+        "advSentence": "Despite years of international pledges to curtail emissions, the rise in atmospheric carbon dioxide has continued largely unabated, and many climate scientists regard each new record as an ominous harbinger of more extreme weather to come.",
+        "advTranslation": "儘管國際間多年來一再承諾減少排放，大氣中二氧化碳濃度的上升卻大致有增無減；許多氣候科學家將每一次創下的新紀錄，都視為更多極端天氣即將來臨的不祥預兆。"
       },
       {
         "word": "vicissitudes",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Changes in circumstances, especially difficulties.",
           "chinese": "變遷；興衰"
-        }
+        },
+        "advSentence": "Through all the vicissitudes of war, exile, and poverty, the poet persevered in her craft, composing verses under the duress of censorship that nonetheless retained a remarkably sanguine faith in human decency.",
+        "advTranslation": "歷經戰爭、流亡與貧困種種的人生起伏，這位詩人始終堅持創作；即使在審查制度的壓迫下寫詩，她的作品仍對人性的善良保有驚人的樂觀信念。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abstemious": [
     "Restrained in eating and drinking.",

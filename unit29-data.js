@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who supports a cause.",
           "chinese": "擁護者；信徒"
-        }
+        },
+        "advSentence": "As an ardent adherent of Stoic philosophy, the Roman emperor Marcus Aurelius cultivated equanimity amid war and plague, recording his reflections in a private journal that is still revered by readers seeking guidance on how to live.",
+        "advTranslation": "羅馬皇帝馬可．奧理略是斯多噶哲學的熱忱信徒，他在戰爭與瘟疫中始終保持泰然自若，並把自己的省思寫在一本私人日記裡；這本書至今仍受到尋求人生指引的讀者推崇。"
       },
       {
         "word": "adversary",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person's opponent in a contest.",
           "chinese": "對手；敵手"
-        }
+        },
+        "advSentence": "Cognizant that her adversary excelled at deception, the veteran chess champion spent weeks analyzing his previous games, enabling her to anticipate the subtle feint that had thwarted so many of his earlier opponents.",
+        "advTranslation": "這位資深西洋棋冠軍深知她的對手擅長虛張聲勢，於是花了數週時間分析他過去的棋局，因而能預料到那記曾讓許多早先對手吃盡苦頭的巧妙佯攻。"
       },
       {
         "word": "apathy",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lack of interest or enthusiasm.",
           "chinese": "冷漠；無興趣"
-        }
+        },
+        "advSentence": "Political scientists attribute the low voter turnout to prevalent apathy among young citizens, many of whom have grown so disillusioned with mendacious politicians and hollow campaign promises that they regard voting as a fruitless exercise.",
+        "advTranslation": "政治學者將投票率低落歸因於年輕公民之間普遍存在的冷漠，他們當中許多人對滿口謊言的政客和空洞的競選承諾感到幻滅，以至於認為投票是徒勞無功的事。"
       },
       {
         "word": "atypical",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not representative of a type.",
           "chinese": "非典型的"
-        }
+        },
+        "advSentence": "Because the patient's symptoms were atypical of the disease, several cursory examinations failed to identify it, and only a perspicacious specialist recognized that her lethargic manner and aching joints signaled a rare autoimmune disorder.",
+        "advTranslation": "由於這名病患的症狀與該疾病的典型表現不同，幾次草率的檢查都沒能診斷出來，直到一位眼光敏銳的專科醫師才看出，她無精打采的模樣和關節疼痛，其實是一種罕見自體免疫疾病的徵兆。"
       },
       {
         "word": "banal",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking originality, obvious and dull.",
           "chinese": "平庸的；陳腐的"
-        }
+        },
+        "advSentence": "Critics complained that the blockbuster's dazzling special effects could not disguise its banal dialogue and superficial characters, which seemed to have been concocted by a marketing committee rather than by an artist with a singular vision.",
+        "advTranslation": "評論家抱怨，這部賣座大片炫目的特效掩飾不了平庸的對白和膚淺的角色，這些看起來像是行銷委員會拼湊出來的，而非出自一位眼光獨到的藝術家之手。"
       },
       {
         "word": "bliss",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Perfect happiness, great joy.",
           "chinese": "極樂；狂喜"
-        }
+        },
+        "advSentence": "After hours of ascending a rugged trail under the scorching sun, the weary hikers found pure bliss in plunging into the cool alpine lake, their exultation at reaching the summit giving way to a deep serenity.",
+        "advTranslation": "在烈日下沿著崎嶇的山路攀登了好幾個小時後，疲憊的登山客跳進清涼的高山湖泊，感受到純粹的極樂；登頂時的狂喜，也隨之化為深沉的寧靜。"
       },
       {
         "word": "burly",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Large and strong, heavily built.",
           "chinese": "魁梧的"
-        }
+        },
+        "advSentence": "Despite his burly frame and intimidating scowl, the nightclub's bouncer was known among regulars for his gentle temperament, preferring to calm pugnacious patrons with a well-timed quip rather than with his fists.",
+        "advTranslation": "儘管這位夜店保鑣身材魁梧、表情兇狠嚇人，常客們卻都知道他性情溫和；比起動用拳頭，他更喜歡用一句恰到好處的俏皮話，讓好鬥的客人冷靜下來。"
       },
       {
         "word": "dilettante",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person with a superficial interest.",
           "chinese": "業餘愛好者；半吊子"
-        }
+        },
+        "advSentence": "Although rival scholars scoffed at him as a dilettante who dabbled in a gamut of disciplines, the self-taught naturalist filled voluminous notebooks with observations of insect behavior that later proved invaluable to entomologists.",
+        "advTranslation": "雖然對立的學者們嘲笑他是個涉獵各種學科卻樣樣淺嘗即止的半吊子，這位自學出身的博物學家卻在大量筆記本中寫滿了昆蟲行為的觀察紀錄，後來對昆蟲學家而言極具價值。"
       },
       {
         "word": "exhort",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To strongly encourage or urge.",
           "chinese": "敦促；告誡"
-        }
+        },
+        "advSentence": "During the darkest months of the war, Winston Churchill exhorted the British people to persevere despite relentless bombing, and his defiant oratory helped transform a vulnerable island into a resolute bulwark against Nazi aggression.",
+        "advTranslation": "在戰爭最黑暗的那幾個月裡，邱吉爾敦促英國人民在無情的轟炸下堅持下去，他那不屈不撓的演說，幫助這座脆弱的島國成為抵禦納粹侵略的堅定堡壘。"
       },
       {
         "word": "forlorn",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Pitifully sad and abandoned.",
           "chinese": "孤苦伶仃的；絕望的"
-        }
+        },
+        "advSentence": "Standing alone on the deserted platform long after the last train had departed, the forlorn traveler wore a doleful expression as he reread a crumpled letter whose terse message had dashed his hopes of an amicable reconciliation.",
+        "advTranslation": "末班車早已駛離，那位孤苦無依的旅人獨自站在空蕩蕩的月台上，神情哀戚地重讀一封皺巴巴的信；信中簡短的幾句話，粉碎了他期盼和平和解的希望。"
       },
       {
         "word": "fracas",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A noisy disturbance or quarrel.",
           "chinese": "喧鬧的打鬥"
-        }
+        },
+        "advSentence": "A fracas broke out in the legislature when opposition lawmakers, brandishing placards and inveighing against the bill as an egregious abuse of power, stormed the podium and grappled with security guards in front of astonished television crews.",
+        "advTranslation": "反對黨議員高舉標語牌，痛斥這項法案是極其惡劣的濫權行為，並衝上主席台與警衛扭打成一團，議會因此爆發一場混戰，現場的電視台工作人員看得目瞪口呆。"
       },
       {
         "word": "garrulous",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Excessively talkative about trivial matters.",
           "chinese": "喋喋不休的"
-        }
+        },
+        "advSentence": "Seated beside a garrulous passenger on a long overnight flight, the novelist, eager for repose, endured a monologue that lurched desultorily from his pets to his golf scores, and even her most laconic replies did nothing to stem the torrent of words.",
+        "advTranslation": "在一趟漫長的夜間航班上，渴望休息的小說家坐在一名喋喋不休的乘客旁，只能忍受他東拉西扯、從寵物聊到高爾夫成績的長篇大論；就連她最簡短的回應，也絲毫擋不住對方滔滔不絕的話語。"
       },
       {
         "word": "gusto",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Enthusiasm and energy in doing something.",
           "chinese": "熱情；津津有味"
-        }
+        },
+        "advSentence": "Although he was an octogenarian, the retired professor still tackled new subjects with remarkable gusto, rejecting a sedentary retirement in favor of language courses and lively debates and proving that longevity need not dull one's intellect.",
+        "advTranslation": "這位退休教授雖已八十多歲，卻仍以驚人的熱情投入新學科，他拒絕過著久坐不動的退休生活，轉而參加語言課程與熱烈的辯論，證明了長壽並不一定會使人的智力變得遲鈍。"
       },
       {
         "word": "indolent",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Wanting to avoid activity or effort.",
           "chinese": "懶惰的"
-        }
+        },
+        "advSentence": "The indolent scion of a shipping dynasty spent his days lounging on yachts rather than learning the trade, and, much to his family's chagrin, the company he neglected eventually slid into liquidation.",
+        "advTranslation": "這位航運世家的懶散繼承人整天在遊艇上閒晃，不肯學習經營之道；令家族懊惱不已的是，被他荒廢的公司最終走上了清算一途。"
       },
       {
         "word": "inebriated",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Drunk, intoxicated.",
           "chinese": "醉酒的"
-        }
+        },
+        "advSentence": "The inebriated driver who caused the collision tried to cajole the officers into releasing him with a feeble pretext about a medical condition, but the breathalyzer results rendered his excuse absurd.",
+        "advTranslation": "那名造成車禍的醉酒駕駛，試圖以身體不適這種站不住腳的藉口哄騙警察放他走，但酒測結果讓他的說詞顯得荒謬可笑。"
       },
       {
         "word": "lithe",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Thin, supple, and graceful.",
           "chinese": "柔軟的；輕盈的"
-        }
+        },
+        "advSentence": "Lithe and remarkably elusive, the snow leopard moves silently across the rugged cliffs of its Central Asian habitat, an ability that has long frustrated scientists who aspire to document its behavior in the wild.",
+        "advTranslation": "雪豹身形輕盈柔軟，而且極為難以捉摸，牠能在中亞棲息地崎嶇的懸崖間悄無聲息地移動；長久以來，這種本領讓渴望記錄牠野外行為的科學家們屢屢受挫。"
       },
       {
         "word": "nondescript",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking distinctive or interesting features.",
           "chinese": "難以形容的；普通的"
-        }
+        },
+        "advSentence": "Behind the nondescript facade of a suburban warehouse, investigators discovered a covert factory that had been churning out counterfeit medicines and selling them to gullible customers, jeopardizing the health of thousands.",
+        "advTranslation": "在郊區一座毫不起眼的倉庫外觀背後，調查人員發現了一間祕密工廠，它不斷大量製造假藥並賣給輕信的顧客，危害了數千人的健康。"
       },
       {
         "word": "pique",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A feeling of irritation at being slighted.",
           "chinese": "生氣；怨恨"
-        }
+        },
+        "advSentence": "In a fit of pique after the board repudiated his proposal, the senior engineer abruptly resigned, a rash decision he came to rue when his successor quietly implemented nearly identical ideas a year later.",
+        "advTranslation": "董事會否決了他的提案後，這位資深工程師一氣之下憤而辭職；然而一年後，他的繼任者悄悄推行了幾乎一模一樣的構想，讓他對當初那個衝動的決定懊悔不已。"
       },
       {
         "word": "platitude",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A remark that is overused and unoriginal.",
           "chinese": "陳腔濫調"
-        }
+        },
+        "advSentence": "Instead of proposing tangible solutions to the housing crisis, the candidate offered only platitudes about hope and unity, a speech that critics dismissed as nebulous language designed to delude voters into believing that change was at hand.",
+        "advTranslation": "這位候選人沒有針對住房危機提出具體的解決方案，只說了一些關於希望與團結的陳腔濫調；評論者認為，這場演講不過是含糊空泛的言辭，目的在於讓選民誤以為改變即將到來。"
       },
       {
         "word": "wane",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A gradual decrease.",
           "chinese": "衰退；減弱"
-        }
+        },
+        "advSentence": "By the late nineteenth century, the power of the Ottoman Empire was clearly on the wane, as Balkan nationalist movements exploited its fiscal weakness and a court rife with intrigue proved unable to neutralize growing demands for independence.",
+        "advTranslation": "到了十九世紀末，鄂圖曼帝國的國力明顯日漸衰退，巴爾幹半島的民族主義運動趁其財政疲弱之際乘勢而起，而陰謀叢生的朝廷則無力化解日益高漲的獨立訴求。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "adherent": [
     "A person who supports a cause.",

@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To strive for something great.",
           "chinese": "渴望；立志"
-        }
+        },
+        "advSentence": "Many young athletes aspire to compete at the Olympics, yet few are willing to endure the drudgery of daily training, and fewer still can withstand the inexorable pressure that accompanies a prestigious international career.",
+        "advTranslation": "許多年輕運動員立志參加奧運，但願意忍受日復一日枯燥訓練的人寥寥無幾，而能承受伴隨顯赫國際生涯而來、無法擺脫之壓力的人更是少之又少。"
       },
       {
         "word": "inveigh",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To protest strongly, attack verbally.",
           "chinese": "猛烈抨擊；痛罵"
-        }
+        },
+        "advSentence": "In his weekly sermons, the outspoken preacher would inveigh against the greed of affluent merchants, whose nefarious lending practices, he claimed, had plunged countless families in the parish into privation.",
+        "advTranslation": "這位直言不諱的牧師在每週講道中，總會猛烈抨擊富商的貪婪；他聲稱，這些富商卑劣的放貸手段，讓教區內無數家庭陷入貧困。"
       },
       {
         "word": "nettle",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To irritate or annoy.",
           "chinese": "惹怒；激怒"
-        }
+        },
+        "advSentence": "Nothing seemed to nettle the veteran diplomat more than reporters who misquoted her, yet she always hid her chagrin behind a phlegmatic smile, refusing to give them the satisfaction of an irate outburst.",
+        "advTranslation": "最讓這位資深外交官惱火的，莫過於錯誤引述她話語的記者；但她總是以冷靜的微笑掩飾心中的懊惱，絕不讓對方因她怒氣爆發而稱心如意。"
       },
       {
         "word": "overt",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Done openly, not concealed.",
           "chinese": "公開的；明顯的"
-        }
+        },
+        "advSentence": "Whereas earlier generations faced overt discrimination, from segregated schools to placards barring certain groups from restaurants, today's prejudice is often less blatant, surfacing in subtle nuances of language that are difficult to discern.",
+        "advTranslation": "上一代人面對的是公開的歧視，從種族隔離的學校到禁止特定族群進入餐廳的告示牌皆是；如今的偏見往往不那麼明目張膽，而是隱藏在難以察覺的細微語言差異之中。"
       },
       {
         "word": "relegate",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To assign to an inferior position.",
           "chinese": "降級；貶謫"
-        }
+        },
+        "advSentence": "After his duplicity was exposed, the once powerful minister was relegated to a minor post in a far-flung province, a humiliating demotion that his rivals derided as a nominal role with no real influence.",
+        "advTranslation": "這位曾經權傾一時的部長在兩面手法被揭穿後，被降調到偏遠省份擔任一個小職位；他的對手嘲笑這不過是個毫無實權的掛名職務，令他顏面盡失。"
       },
       {
         "word": "supine",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lying face upward, passive and inactive.",
           "chinese": "仰臥的；軟弱的"
-        }
+        },
+        "advSentence": "Critics accused the supine legislature of meekly endorsing every decree the president issued, arguing that its refusal to scrutinize executive power had allowed corruption to become rampant and officials to act with impunity.",
+        "advTranslation": "批評者指責這個軟弱消極的立法機關對總統頒布的每一項命令都唯唯諾諾地背書，認為正是它拒絕監督行政權力，才讓貪腐猖獗，官員得以為所欲為而不受懲罰。"
       },
       {
         "word": "mammoth",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Huge, of very great size.",
           "chinese": "巨大的；龐大的"
-        }
+        },
+        "advSentence": "Building the transcontinental railroad was a mammoth undertaking in which thousands of immigrant laborers endured excruciating toil, inclement weather, and dangerous blasting through solid granite, yet their contributions were long omitted from the official annals.",
+        "advTranslation": "興建橫貫大陸鐵路是一項極其龐大的工程，數以千計的移民勞工忍受著極度艱苦的勞動、惡劣的天候，以及在堅硬花崗岩中爆破的危險；然而，他們的貢獻長久以來都未被寫入官方史冊。"
       },
       {
         "word": "repulse",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To drive back, reject firmly.",
           "chinese": "擊退；拒絕"
-        }
+        },
+        "advSentence": "The outnumbered garrison managed to repulse three successive assaults on the fortress, an intrepid defense that astonished the army besieging it, though the defenders, emaciated from months of privation, could not hold out indefinitely.",
+        "advTranslation": "寡不敵眾的守軍成功擊退了敵人對要塞的三次連續猛攻，這番英勇的防守令圍城大軍大感震驚；然而，因數月物資匱乏而骨瘦如柴的守軍，終究無法無限期地堅守下去。"
       },
       {
         "word": "havoc",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Great damage and disorder.",
           "chinese": "大破壞；浩劫"
-        }
+        },
+        "advSentence": "The hurricane wreaked havoc on the coastal towns, flooding homes and toppling power lines, and in its aftermath residents grew distraught as relief efforts were stymied by impassable roads and a paucity of supplies.",
+        "advTranslation": "颶風對沿海城鎮造成嚴重破壞，淹沒房屋、吹倒電線桿；災後，由於道路無法通行、物資短缺，救援工作受阻，居民們也越來越憂心如焚。"
       },
       {
         "word": "raze",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To completely destroy a building.",
           "chinese": "夷為平地；破壞"
-        }
+        },
+        "advSentence": "The conquerors ordered their troops to raze the ancient city, an egregious act that destroyed priceless libraries and temples and left modern scholars to surmise the customs of that eminent civilization from scattered fragments.",
+        "advTranslation": "征服者下令軍隊將這座古城夷為平地；這項惡劣的暴行摧毀了無價的圖書館與神殿，使得現代學者只能從零散的殘片中推測那個輝煌文明的風俗習慣。"
       },
       {
         "word": "lethal",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sufficient to cause death.",
           "chinese": "致命的；致死的"
-        }
+        },
+        "advSentence": "Although the venom of many spiders is lethal to insects and other small prey, it rarely poses a serious threat to humans, so experts urge squeamish homeowners not to panic or resort to the indiscriminate use of pesticides.",
+        "advTranslation": "雖然許多蜘蛛的毒液對昆蟲等小型獵物足以致命，但對人類卻很少構成嚴重威脅；因此專家呼籲容易受驚的屋主不要驚慌，也不要毫無節制地濫用殺蟲劑。"
       },
       {
         "word": "scurry",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To move quickly with short steps.",
           "chinese": "急跑；碎步快跑"
-        }
+        },
+        "advSentence": "When the lights in the abandoned warehouse suddenly flickered on, dozens of rats began to scurry across the floor, an ominous sight that made even the seasoned inspectors recoil and conclude that the building's lax sanitation posed a serious health risk.",
+        "advTranslation": "廢棄倉庫的燈突然閃爍亮起時，數十隻老鼠開始在地板上四處竄逃；這不祥的景象讓經驗老到的檢查員也不禁退縮，並斷定這棟建築鬆散的衛生管理已構成嚴重的健康風險。"
       },
       {
         "word": "incisive",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Intelligently analytical and clear.",
           "chinese": "敏銳的；深刻的"
-        }
+        },
+        "advSentence": "The journalist's incisive analysis cut through the government's euphemisms, exposing how officials had described mass layoffs as workforce adjustments and revealing the salient facts that more perfunctory coverage had overlooked.",
+        "advTranslation": "這位記者鞭辟入裡的分析，戳破了政府的委婉說詞，揭露官員如何把大規模裁員說成「人力調整」，並指出那些敷衍了事的報導所忽略的重要事實。"
       },
       {
         "word": "precipitate",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To cause suddenly or prematurely.",
           "chinese": "促成；使沉澱"
-        }
+        },
+        "advSentence": "The assassination of an Austrian archduke helped precipitate the First World War, as rigid alliances and belligerent speeches inexorably transformed a regional dispute into a devastating conflict that few leaders had anticipated and none could quell.",
+        "advTranslation": "奧地利大公遇刺一事加速引爆了第一次世界大戰；僵化的同盟關係和好戰的演說，無可阻擋地將一場區域爭端演變成一場少有領袖預料得到、也無人能平息的災難性衝突。"
       },
       {
         "word": "stereotype",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An oversimplified fixed idea about a group.",
           "chinese": "刻板印象；成見"
-        }
+        },
+        "advSentence": "The documentary challenged a stereotype, often used by urban pundits to disparage rural farmers, that people in the countryside resist change, showing instead how astute growers have adopted innovative techniques to enhance their yields.",
+        "advTranslation": "這部紀錄片挑戰了一個常被都市名嘴用來貶低農民的刻板印象，也就是鄉下人抗拒改變；片中反而呈現精明的農民如何採用創新技術來提高收成。"
       },
       {
         "word": "stentorian",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Very loud and powerful.",
           "chinese": "聲音洪亮的"
-        }
+        },
+        "advSentence": "The drill sergeant's stentorian voice was reverberating across the parade ground, so that even the most fretful recruits snapped to attention, while those who dared to flout his orders faced a swift reprimand.",
+        "advTranslation": "教育班長洪亮如雷的聲音在閱兵場上迴盪，連最緊張不安的新兵也立刻立正站好；而膽敢違抗命令的人，則會馬上遭到嚴厲斥責。"
       },
       {
         "word": "singular",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Remarkably unusual or extraordinary.",
           "chinese": "異常的；單一的"
-        }
+        },
+        "advSentence": "The precocious violinist displayed a singular gift for interpretation, imbuing even familiar concertos with subtle shadings that eminent critics had never perceived, and her debut recital was hailed as a revelation.",
+        "advTranslation": "這位早慧的小提琴家展現出非凡的詮釋天賦，即使是耳熟能詳的協奏曲，也能被她注入連知名評論家都未曾察覺的細膩層次；她的首場獨奏會因此被譽為一大驚豔之作。"
       },
       {
         "word": "valor",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Courage in the face of danger.",
           "chinese": "英勇；勇氣"
-        }
+        },
+        "advSentence": "The medics who remained in the besieged city to treat the wounded displayed remarkable valor, working without respite amid reverberating explosions and choking dust, and their selfless deeds were later honored by the entire nation.",
+        "advTranslation": "留在被圍困城市中救治傷患的醫護人員展現了非凡的英勇，他們在迴盪的爆炸聲與令人窒息的塵土中不眠不休地工作；他們無私的事蹟後來獲得全國上下的表揚。"
       },
       {
         "word": "bias",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A prejudice in favour of or against something.",
           "chinese": "偏見；斜紋"
-        }
+        },
+        "advSentence": "Researchers found that the company's hiring algorithm displayed a marked bias against female applicants, an inadvertent flaw inherited from historical data, so executives terminated the program and solicited advice from independent auditors.",
+        "advTranslation": "研究人員發現，該公司的招聘演算法對女性求職者存在明顯偏見，這是從歷史資料中繼承而來的無心缺陷；因此高層終止了這套程式，並向獨立稽核人員尋求建議。"
       },
       {
         "word": "sinecure",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A position requiring little work but giving payment.",
           "chinese": "掛名差事；閒職"
-        }
+        },
+        "advSentence": "The corrupt governor rewarded members of his entourage with sinecures that demanded nothing more than a nominal appearance at the office each month, a flagrant abuse of public funds that infuriated taxpayers across the state.",
+        "advTranslation": "這位貪腐的州長以閒差肥缺酬庸身邊的親信，這些職位只要求每月到辦公室露個面應付一下；這種明目張膽濫用公帑的行徑，激怒了全州的納稅人。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "aspire": [
     "To strive for something great.",

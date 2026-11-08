@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Brisk and cheerful readiness.",
           "chinese": "敏捷；活潑；欣然"
-        }
+        },
+        "advSentence": "The volunteers responded to the rising floodwaters with remarkable alacrity, building a bulwark of sandbags along the riverbank within hours and offering sanctuary to families whose homes the torrent had begun to saturate.",
+        "advTranslation": "志工們以驚人的速度欣然投入，因應不斷上漲的洪水，數小時內便沿著河岸堆起一道沙包防線，並為房屋開始被大水浸透的家庭提供避難之所。"
       },
       {
         "word": "aspirant",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who eagerly seeks advancement.",
           "chinese": "渴望者；有志者"
-        }
+        },
+        "advSentence": "For every aspirant to the national orchestra, the audition is a grueling ordeal: candidates must display not only technical virtuosity but also the poise to remain phlegmatic while a panel of exacting judges evaluates every phrase.",
+        "advTranslation": "對每一位想進入國家樂團的有志者而言，試演都是一場嚴苛的考驗：應試者不僅須展現精湛的技巧，還必須在一群嚴格的評審逐句評估其演奏時保持冷靜沉著。"
       },
       {
         "word": "belligerent",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Hostile, aggressive, eager to fight.",
           "chinese": "好戰的；好鬥的"
-        }
+        },
+        "advSentence": "The increasingly belligerent rhetoric of both governments alarmed neutral observers, who feared that a single untoward incident at the border could eventuate in full-scale war unless mediators persuaded the leaders to desist from their provocative military exercises.",
+        "advTranslation": "兩國政府日益好戰的言論令中立的觀察者憂心忡忡，他們擔心邊境只要發生一起意外事件，就可能演變成全面戰爭，除非調停者能說服雙方領袖停止挑釁性的軍事演習。"
       },
       {
         "word": "belittle",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make seem less important, to dismiss.",
           "chinese": "貶低；輕視"
-        }
+        },
+        "advSentence": "Nineteenth-century academic critics tended to belittle the Impressionists, dismissing their loose brushwork as rudimentary and unfinished, yet the movement, conceived as the antithesis of rigid academic conventions, would eventually be revered as a paragon of artistic innovation.",
+        "advTranslation": "十九世紀的學院派評論家往往貶低印象派畫家，認為他們鬆散的筆觸粗淺而未完成；然而這場原本被視為與僵化學院傳統背道而馳的運動，最終卻被尊為藝術創新的典範。"
       },
       {
         "word": "brash",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Impudent, bold, overconfident.",
           "chinese": "傲慢的；魯莽的"
-        }
+        },
+        "advSentence": "The brash young entrepreneur boasted to investors that his start-up would revolutionize the industry within a year, but his temerity soon gave way to chagrin when auditors revealed that the company's finances were murky at best.",
+        "advTranslation": "這位自以為是的年輕創業家向投資人誇口，說他的新創公司一年內就會徹底改變整個產業；但當審計人員揭露公司財務狀況充其量只能說是混沌不明時，他的魯莽隨即轉為懊惱。"
       },
       {
         "word": "castigate",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To punish or criticise harshly.",
           "chinese": "嚴懲；苛評"
-        }
+        },
+        "advSentence": "In a scathing editorial, the newspaper continued to castigate the city council for its negligent oversight of the chemical plant, arguing that officials' complicity with the company had allowed toxic waste to permeate the region's groundwater with impunity.",
+        "advTranslation": "在一篇措辭嚴厲的社論中，該報持續痛批市議會對化工廠監督失職，指出官員與企業同流合污，才讓有毒廢料肆無忌憚地滲入該地區的地下水。"
       },
       {
         "word": "disdain",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Contempt, scorn for something beneath one.",
           "chinese": "蔑視；輕蔑"
-        }
+        },
+        "advSentence": "Many urbane Victorian aristocrats regarded commerce with disdain, viewing trade as unworthy of a gentleman, yet their debt-ridden estates were often rescued only through marriages to the progeny of affluent industrialists.",
+        "advTranslation": "許多溫文儒雅的維多利亞時代貴族對經商嗤之以鼻，認為從事貿易有失紳士身分；然而他們負債累累的莊園，往往只能靠與富裕實業家的子女聯姻才得以保全。"
       },
       {
         "word": "dregs",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The most worthless part, the residue.",
           "chinese": "渣滓；糟粕"
-        }
+        },
+        "advSentence": "Dickens often populated his novels with characters drawn from the dregs of Victorian London, such as pickpockets, destitute orphans, and itinerant peddlers, using their plight to declaim against callous policies that allowed poverty to remain rampant.",
+        "advTranslation": "狄更斯經常以維多利亞時代倫敦社會底層的人物入書，例如扒手、窮苦孤兒和四處流浪的小販，藉由他們的困境大聲疾呼，抨擊那些放任貧窮蔓延的冷酷政策。"
       },
       {
         "word": "feint",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A false attack intended to deceive.",
           "chinese": "佯攻；假動作"
-        }
+        },
+        "advSentence": "The army's conspicuous advance toward the northern port was merely a feint, intended to lure defenders away from the capital while the main force made a surreptitious march through the mountains to harass the enemy's exposed rear, leaving its startled generals to recoil in confusion.",
+        "advTranslation": "軍隊大張旗鼓地向北方港口挺進，其實只是一記佯攻，目的是把守軍引離首都；與此同時，主力部隊悄悄翻山越嶺，襲擾敵軍暴露在外的後方，讓措手不及的敵方將領在混亂中節節退縮。"
       },
       {
         "word": "frenzy",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Wild excitement or uncontrolled activity.",
           "chinese": "狂熱；狂暴"
-        }
+        },
+        "advSentence": "News of the gold discovery in California set off a frenzy of migration, as thousands of men who aspired to instant wealth abandoned their domiciles and endured tortuous journeys westward, though few of them ever struck it rich.",
+        "advTranslation": "加州發現黃金的消息掀起一股移民狂潮，成千上萬渴望一夜致富的人拋下家園，踏上曲折艱辛的西行之路，然而真正發財的人寥寥無幾。"
       },
       {
         "word": "intimidate",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To overawe, frighten into submission.",
           "chinese": "恐嚇；威嚇"
-        }
+        },
+        "advSentence": "Regimes determined to repress dissent often try to intimidate journalists by branding them accomplices of foreign powers, yet such tactics can frustrate their own aims, since the persecution of reporters tends to provoke international condemnation.",
+        "advTranslation": "執意壓制異議的政權，常把記者扣上外國勢力共犯的帽子來加以恐嚇；然而這類手段可能適得其反，因為迫害記者往往會招致國際譴責。"
       },
       {
         "word": "laceration",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A jagged wound or tear.",
           "chinese": "撕裂傷；裂傷"
-        }
+        },
+        "advSentence": "Although the deep laceration on the wan hiker's leg looked alarming to his squeamish companions, the paramedic calmly cleaned and bandaged the wound, explaining that perhaps a week would elapse before he could walk without pain.",
+        "advTranslation": "這名登山客臉色蒼白，腿上深深的撕裂傷讓他那些見血就怕的同伴驚慌不已；但醫護人員冷靜地為傷口清潔包紮，並解釋大概要過一個星期，他才能走路不感到疼痛。"
       },
       {
         "word": "octogenarian",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person in their eighties.",
           "chinese": "八十多歲的人"
-        }
+        },
+        "advSentence": "Although friends and family repeatedly importuned her to retire, the octogenarian sculptor continued to produce monumental bronzes whose jaunty, playful forms seemed incongruous with her frail physique and steadily failing eyesight.",
+        "advTranslation": "儘管親友們一再懇求她退休，這位八旬雕塑家仍持續創作巨型青銅雕像；作品輕快活潑的造型，與她孱弱的身軀和日漸衰退的視力形成強烈反差。"
       },
       {
         "word": "promulgate",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make known officially, to announce.",
           "chinese": "公布；頒布"
-        }
+        },
+        "advSentence": "Shortly after seizing power, the junta hastened to promulgate decrees banning public assemblies and the display of placards, a measure that political scientists construe as symptomatic of the regime's insecurity rather than its strength.",
+        "advTranslation": "軍政府奪權後不久，便急忙頒布禁止公眾集會和展示標語牌的法令；政治學者將這項措施解讀為該政權缺乏安全感的徵兆，而非其實力的展現。"
       },
       {
         "word": "pugnacious",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Eager to fight, quarrelsome.",
           "chinese": "好鬥的；爭強好勝的"
-        }
+        },
+        "advSentence": "Known for his pugnacious debating style, the senator relished every chance to interject caustic remarks while opponents spoke, but his asperity eventually alienated even the allies whose votes he needed to pass his own legislation.",
+        "advTranslation": "這位參議員以好鬥的辯論風格聞名，總愛趁對手發言時插入尖酸刻薄的評論；然而他的嚴苛態度最終連他推動法案所需倚重的盟友也疏遠了。"
       },
       {
         "word": "scoff",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To speak with contempt or mock.",
           "chinese": "嘲笑；嘲弄"
-        }
+        },
+        "advSentence": "Many incredulous nineteenth-century physicians would scoff at Ignaz Semmelweis's claim that doctors' unwashed hands were spreading a virulent fever among new mothers, since the notion that healers could be culpable for their patients' deaths wounded their professional pride.",
+        "advTranslation": "十九世紀許多半信半疑的醫師，對塞麥爾維斯「醫師未洗淨的雙手正在產婦間散播致命熱病」的說法嗤之以鼻，因為「醫者可能要為病人之死負責」這種觀念，嚴重傷害了他們的專業自尊。"
       },
       {
         "word": "scurrilous",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Coarse, vulgar, abusive.",
           "chinese": "粗俗的；下流的"
-        }
+        },
+        "advSentence": "During the bitterly contested American presidential election of 1800, partisan newspapers would spew scurrilous attacks with remarkable venom, denouncing Thomas Jefferson and others of his ilk as godless radicals while mocking John Adams as a would-be monarch.",
+        "advTranslation": "在1800年競爭激烈的美國總統大選中，黨派報紙以驚人的惡毒口吻大肆發表粗鄙的人身攻擊，痛斥湯瑪斯・傑佛遜及其同類是不信神的激進分子，同時嘲諷約翰・亞當斯一心想當君主。"
       },
       {
         "word": "solace",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Comfort or consolation in distress.",
           "chinese": "安慰；慰藉"
-        }
+        },
+        "advSentence": "Confined for years to a dank subterranean cell, the dissident found solace in composing poems on scraps of paper, and those doleful verses, smuggled out by sympathetic guards, eventually inspired the campaign that secured his ultimate release.",
+        "advTranslation": "這位異議人士被囚禁在陰濕的地下牢房多年，靠著在紙片上寫詩尋求慰藉；這些由同情他的獄卒偷偷帶出的哀傷詩句，最終激發了一場社會運動，讓他終獲自由。"
       },
       {
         "word": "sordid",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Dirty, base, morally degraded.",
           "chinese": "骯髒的；卑鄙的"
-        }
+        },
+        "advSentence": "The journalist's exposé revealed the sordid underside of the city's construction boom, a web of extortion in which officials demanded kickbacks from contractors, rewarded those who paid with lucrative deals, and gave their own relatives nominal posts that were, in effect, sinecures.",
+        "advTranslation": "這名記者的揭發報導，揭露了該市建築熱潮背後骯髒的內幕——那是一張勒索之網：官員向承包商索取回扣，以利潤豐厚的合約回報付錢者，還讓自己的親戚擔任有名無實的職位，實際上就是坐領乾薪的閒差。"
       },
       {
         "word": "tangible",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having actual form, concrete, real.",
           "chinese": "有形的；實體的；可感知的"
-        }
+        },
+        "advSentence": "Although investments in basic science rarely yield tangible returns in the short term, economists warn legislators not to terminate such funding, since inquiries that once seemed abortive or irrelevant have repeatedly given rise to transformative inventions.",
+        "advTranslation": "雖然投資基礎科學在短期內鮮少帶來具體的回報，經濟學家仍警告立法者不要終止這類經費，因為那些一度看似失敗或無關緊要的研究，一再催生出改變世界的發明。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "alacrity": [
     "Brisk and cheerful readiness.",

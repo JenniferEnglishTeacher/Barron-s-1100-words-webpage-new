@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To place side by side for contrast.",
           "chinese": "並列"
-        }
+        },
+        "advSentence": "The museum curator chose to juxtapose ancient indigenous pottery with contemporary ceramic sculptures, a provocative arrangement that compelled even cursory visitors to ponder how ancestral techniques have been both preserved and reinvented over the centuries.",
+        "advTranslation": "策展人刻意將古老的原住民陶器與當代陶瓷雕塑並列展出，這種發人深省的安排，讓即使只是匆匆瀏覽的參觀者也不禁思考：祖傳技藝如何在數百年間既被保存，又被重新詮釋。"
       },
       {
         "word": "plight",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A dangerous or difficult situation.",
           "chinese": "困境；苦境"
-        }
+        },
+        "advSentence": "The documentary drew global attention to the plight of refugees stranded at the border, whose emaciated children and makeshift shelters posed a poignant challenge to the governments that had relegated the crisis to a mere footnote.",
+        "advTranslation": "這部紀錄片讓全世界關注滯留在邊境的難民的困境：他們骨瘦如柴的孩子與臨時搭建的棲身之所，對那些把這場危機當成無關緊要小事的政府，構成了令人心酸的質問。"
       },
       {
         "word": "covert",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not openly acknowledged, hidden.",
           "chinese": "隱蔽的；秘密的"
-        }
+        },
+        "advSentence": "During the Cold War, intelligence agencies conducted covert operations to oust unfriendly governments, and many of these clandestine schemes, once exposed, became a source of lasting chagrin for the nations that had orchestrated them.",
+        "advTranslation": "冷戰期間，各國情報機構進行隱密行動以推翻不友好的政府；這些祕密計畫一旦曝光，往往成為主導國家長久的難堪。"
       },
       {
         "word": "cope",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To deal effectively with something difficult.",
           "chinese": "應付；處理"
-        }
+        },
+        "advSentence": "Psychologists have found that resilient individuals cope with hardship not by ignoring their distress but by seeking solace from confidants and reframing even an excruciating setback as a reason to persevere.",
+        "advTranslation": "心理學家發現，韌性強的人面對困境時並非忽視自己的痛苦，而是向知己尋求慰藉，甚至把極其痛苦的挫折重新看作堅持下去的理由。"
       },
       {
         "word": "incompatibility",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A state of being unable to work together harmoniously.",
           "chinese": "不相容；不協調"
-        }
+        },
+        "advSentence": "The merger collapsed within two years because of a fundamental incompatibility between the startup's spontaneous, informal culture and the parent company's rigid hierarchy, a schism that acrimonious board meetings only exacerbated.",
+        "advTranslation": "這樁合併案在兩年內便告破局，原因在於新創公司自由隨性的文化與母公司僵化的層級制度根本不相容，而充滿火藥味的董事會議只讓這道裂痕更加擴大。"
       },
       {
         "word": "incapacitated",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Deprived of the ability to function.",
           "chinese": "失去能力的"
-        }
+        },
+        "advSentence": "When a sudden stroke left the aging monarch incapacitated, belligerent factions within the court began to jostle for power, each claiming that its rivals had concocted the royal decrees issued in his name.",
+        "advTranslation": "年邁的君主因突發中風而失去行事能力後，宮廷中好鬥的各派勢力開始爭權奪利，每一派都聲稱對手捏造了以國王名義頒布的詔令。"
       },
       {
         "word": "fabricate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To invent or construct something false.",
           "chinese": "捏造；偽造"
-        }
+        },
+        "advSentence": "The disgraced scientist was found to have fabricated data in dozens of published studies, a flagrant breach of research ethics that invalidated years of work and led colleagues to repudiate any findings bearing his name.",
+        "advTranslation": "這位身敗名裂的科學家被發現在數十篇已發表的研究中捏造數據；這種公然違反研究倫理的行為使多年的成果失效，也讓同事們否認任何掛有他名字的研究結果。"
       },
       {
         "word": "connubial",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Of or relating to marriage.",
           "chinese": "婚姻的"
-        }
+        },
+        "advSentence": "Victorian novelists frequently portrayed connubial harmony as a mere veneer, beneath which husbands and wives endured years of domestic strife, financial duress, and the stifling expectations imposed by a rigid social code.",
+        "advTranslation": "維多利亞時代的小說家常把婚姻和諧描寫成一層表象，其下是夫妻多年忍受的家庭紛爭、經濟壓力，以及僵化社會規範所強加的令人窒息的期望。"
       },
       {
         "word": "demur",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To raise objections, hesitate.",
           "chinese": "反對；抗議"
-        }
+        },
+        "advSentence": "When the board proposed slashing the research budget, the chief scientist did not merely demur; she presented incontrovertible evidence that such cuts would stymie ongoing projects and jeopardize the firm's most viable products.",
+        "advTranslation": "董事會提議大幅削減研究預算時，首席科學家不只是提出異議；她拿出無可辯駁的證據，證明這樣的削減會阻礙進行中的計畫，並危及公司最具發展前景的產品。"
       },
       {
         "word": "appellation",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A name or title.",
           "chinese": "名稱；稱呼"
-        }
+        },
+        "advSentence": "The appellation Iron Lady, originally coined as a mocking epithet by a Soviet newspaper, was soon embraced by Margaret Thatcher herself, who construed it as a tribute to her valor rather than as an insult.",
+        "advTranslation": "「鐵娘子」這個稱號原本是蘇聯一家報紙創造的嘲諷綽號，卻很快被柴契爾夫人本人欣然接受，她將其解讀為對自己勇氣的讚揚，而非侮辱。"
       },
       {
         "word": "escalation",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A rapid increase in intensity.",
           "chinese": "逐步升級"
-        }
+        },
+        "advSentence": "Diplomats feared that the border skirmish could trigger a rapid escalation into full-scale war, so they worked tirelessly to broker a ceasefire before either belligerent government could deploy additional troops to the region.",
+        "advTranslation": "外交官擔心這場邊境小衝突可能迅速升級為全面戰爭，因此不眠不休地斡旋停火，以免任何一個好戰的政府向該地區增派部隊。"
       },
       {
         "word": "indifference",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A lack of interest or concern.",
           "chinese": "漠不關心"
-        }
+        },
+        "advSentence": "The novelist's portrayal of the town's indifference to the hapless orphan's suffering serves as a caustic critique of a society that, engrossed in its own mundane concerns, ignored the destitution at its very doorstep.",
+        "advTranslation": "小說家描寫小鎮對那名不幸孤兒的苦難漠不關心，尖銳地批判了一個沉迷於自身瑣事、對家門口的赤貧視而不見的社會。"
       },
       {
         "word": "potential",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Possible, having latent capability.",
           "chinese": "潛在的"
-        }
+        },
+        "advSentence": "Engineers must scrutinize every potential flaw in a bridge's design, since even a seemingly minor defect, if left unchecked, could precipitate a collapse with lethal consequences for the thousands of commuters who cross it daily.",
+        "advTranslation": "工程師必須仔細檢查橋梁設計中每一個潛在的缺陷，因為即使是看似微不足道的瑕疵，若置之不理，也可能導致坍塌，對每天通行的數千名通勤者造成致命的後果。"
       },
       {
         "word": "cumulative",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Increasing by successive additions.",
           "chinese": "累積的"
-        }
+        },
+        "advSentence": "Although each individual exposure to the pesticide was nominal, researchers discovered that its cumulative effect on farmworkers was pernicious, gradually damaging their nervous systems in ways that remained latent for years.",
+        "advTranslation": "雖然每一次接觸農藥的劑量都微乎其微，研究人員卻發現，其對農場工人的累積影響極為有害，會逐漸損害他們的神經系統，而這些傷害可能潛伏多年才顯現。"
       },
       {
         "word": "recondite",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not known by many, obscure, hidden.",
           "chinese": "深奧的；隱蔽的"
-        }
+        },
+        "advSentence": "The professor's lectures on medieval theology were so recondite that even avid graduate students found them cryptic, though a few diligent listeners eventually perceived the elegant logic underlying his seemingly incoherent arguments.",
+        "advTranslation": "這位教授講授中世紀神學的課程極為深奧，連熱衷求知的研究生都覺得晦澀難懂；不過仍有幾位勤奮的聽眾最終領會到，他那看似語無倫次的論證背後其實有著嚴謹優雅的邏輯。"
       },
       {
         "word": "palliate",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To alleviate without curing, to excuse.",
           "chinese": "減輕；掩飾"
-        }
+        },
+        "advSentence": "The physicians could only palliate the patient's virulent malady, easing her paroxysms of coughing with medication, since no treatment then available could halt the inexorable progress of a disease that would claim countless lives before antibiotics were discovered.",
+        "advTranslation": "醫師們只能減輕這名病患猛烈病症的痛苦，以藥物緩解她陣發性的劇咳，因為當時沒有任何療法能阻止這種疾病無可避免的惡化，而在抗生素問世之前，它奪走了無數人的性命。"
       },
       {
         "word": "delude",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To cause to believe something false.",
           "chinese": "欺騙；蠱惑"
-        }
+        },
+        "advSentence": "Charismatic swindlers often delude unwary investors with promises of extraordinary returns, cajoling them into surrendering their savings to a nefarious hoax that collapses as soon as new deposits stop flowing in.",
+        "advTranslation": "富有魅力的詐騙者常以驚人報酬的承諾蒙騙不設防的投資人，哄騙他們交出積蓄，投入一場一旦新資金停止流入就會崩潰的邪惡騙局。"
       },
       {
         "word": "prelude",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An introduction or preliminary action.",
           "chinese": "序幕；前奏"
-        }
+        },
+        "advSentence": "Historians regard the assassination of Archduke Franz Ferdinand as the prelude to the First World War, yet they caution that the war's true causes were manifold, including rampant nationalism, an inherently unstable web of alliances, and an arms race that grew more turbulent each year.",
+        "advTranslation": "歷史學家認為斐迪南大公遇刺是第一次世界大戰的序幕，但他們提醒，戰爭的真正原因是多方面的，包括猖獗的民族主義、本身就不穩定的同盟體系，以及逐年愈演愈烈的軍備競賽。"
       },
       {
         "word": "chimerical",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Imaginary, fantastically improbable.",
           "chinese": "荒唐的；空想的"
-        }
+        },
+        "advSentence": "Early alchemists pursued the chimerical dream of transforming lead into gold, and although their quest proved fruitless, their assiduous experiments laid a rudimentary foundation for the modern science of chemistry.",
+        "advTranslation": "早期煉金術士追逐把鉛變成金子的空想美夢，雖然他們的追尋徒勞無功，但他們孜孜不倦的實驗為現代化學奠定了初步的基礎。"
       },
       {
         "word": "acknowledge",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To admit or accept the truth of.",
           "chinese": "承認；答謝"
-        }
+        },
+        "advSentence": "The company finally acknowledged that its factory had emitted toxic waste into the river, but only after independent laboratories attested to the villagers' complaints and the once-clear water had turned murky and lifeless.",
+        "advTranslation": "這家公司終於承認其工廠曾將有毒廢棄物排入河中，但那是在獨立實驗室證實了村民的投訴、原本清澈的河水已變得混濁而毫無生機之後。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "juxtapose": [
     "To place side by side for contrast.",

@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Comparable in certain respects.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Some economists argue that the recent housing bubble was analogous to the tulip mania of the seventeenth century, since in both cases a frenzy of speculation eclipsed rational judgment and investors deluded themselves that prices would surge indefinitely.",
+        "advTranslation": "一些經濟學家認為，近年的房市泡沫與十七世紀的鬱金香狂熱相似，因為兩者都是投機狂潮壓過理性判斷，投資人自欺欺人地相信價格會無限飆漲。"
       },
       {
         "word": "catastrophic",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Involving or causing sudden disaster.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The catastrophic failure of New Orleans' levees during Hurricane Katrina exposed years of lax oversight and sporadic inspections, and the resulting floods left thousands of residents in a desperate plight, stranded on rooftops awaiting rescue.",
+        "advTranslation": "卡崔娜颶風期間紐奧良堤防的災難性潰決，暴露出多年來監督鬆散、檢查斷斷續續的問題，隨之而來的洪水使數以千計的居民陷入絕境，只能困在屋頂上等待救援。"
       },
       {
         "word": "compensatory",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Intended to make amends for a loss.",
           "chinese": ""
-        }
+        },
+        "advSentence": "After the factory explosion, the court ordered the corporation to pay compensatory damages to the victims' families, ruling that its managers were culpable for flouting safety regulations and ignoring ominous warnings from their own engineers.",
+        "advTranslation": "工廠爆炸後，法院判決該公司須向罹難者家屬支付補償性賠償，認定其管理階層無視安全法規、忽略自家工程師發出的不祥警訊，應負罪責。"
       },
       {
         "word": "decade",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A period of ten years.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Over the past decade, the ubiquitous presence of smartphones has transformed how adolescents socialize, and some psychologists contend that constant online comparison has exacerbated teenage anxiety, though others caution that such conjecture rests on dubious data.",
+        "advTranslation": "過去十年間，智慧型手機無所不在，改變了青少年的社交方式；一些心理學家主張，網路上無止境的比較加劇了青少年的焦慮，但也有人提醒，這種推測所依據的數據令人存疑。"
       },
       {
         "word": "enunciate",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To express or state precisely; to articulate clearly.",
           "chinese": ""
-        }
+        },
+        "advSentence": "In her inaugural address, the new president took care to enunciate her policy priorities in clear and incisive language, avoiding the verbose euphemisms that her predecessors had used to disguise unpopular decisions.",
+        "advTranslation": "新任總統在就職演說中，用清晰而犀利的語言明確闡述她的政策重點，避開前任們用來掩飾不受歡迎決策的冗長委婉說法。"
       },
       {
         "word": "gamut",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The complete range of something.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The pianist's recital ran the gamut from delicate Baroque preludes to turbulent modern compositions, showcasing a virtuosity that won over even the skeptical critics who had questioned whether she was ready for such a prestigious stage.",
+        "advTranslation": "這位鋼琴家的獨奏會涵蓋了從細膩的巴洛克前奏曲到激烈的現代作品等各種曲風，所展現的精湛技藝，連原本懷疑她是否準備好登上如此重要舞台的評論家都為之折服。"
       },
       {
         "word": "heterogeneous",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Diverse in character or content.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Ecologists have found that heterogeneous forests, composed of many disparate tree species, are more resilient than monocultures, since a blight that afflicts one species is unlikely to raze the entire woodland.",
+        "advTranslation": "生態學家發現，由許多不同樹種組成的異質性森林比單一樹種林更具韌性，因為侵襲某一樹種的病害不太可能摧毀整片林地。"
       },
       {
         "word": "inordinate",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Exceeding reasonable limits, excessive.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The chief executive's inordinate salary, which dwarfed the remuneration of ordinary employees by several hundred times, provoked acrimonious debate among shareholders, who argued that such generosity was unjustified given the firm's lackluster performance.",
+        "advTranslation": "這位執行長過高的薪資比一般員工的報酬高出數百倍，引發股東之間激烈的爭論，他們認為公司表現平平，如此慷慨的待遇毫無道理。"
       },
       {
         "word": "introspective",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Examining one's own thoughts and feelings.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The poet's later work became increasingly introspective as she withdrew from public life to scrutinize her own memories, and critics noted that these reticent, contemplative verses possessed a depth absent from her earlier, more flamboyant poems.",
+        "advTranslation": "這位詩人退出公眾生活、細細審視自己的回憶，她的後期作品也因此越來越內省；評論家指出，這些含蓄沉靜的詩句有著她早期較華麗張揚的詩作所缺少的深度。"
       },
       {
         "word": "irascible",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a tendency to become angry easily.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The irascible conductor was infamous for his outbursts during rehearsals, castigating musicians for the slightest error, yet many endured his diatribes because his exacting standards produced performances of unrivaled brilliance.",
+        "advTranslation": "這位脾氣暴躁的指揮家以排練時大發雷霆而惡名昭彰，常因最微小的錯誤就嚴厲斥責樂手；然而許多人仍忍受他的痛罵，因為他嚴苛的標準造就了無與倫比的精彩演出。"
       },
       {
         "word": "maladjusted",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Failing to cope with the demands of a normal social environment.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Child psychologists caution that labeling a shy or unconventional pupil as maladjusted can become a self-fulfilling prophecy, since the stereotype may elicit mockery from classmates and relegate the child to the margins of school life.",
+        "advTranslation": "兒童心理學家提醒，將害羞或特立獨行的學生貼上適應不良的標籤，可能變成自我應驗的預言，因為這種刻板印象可能招來同學的嘲笑，並把孩子排擠到校園生活的邊緣。"
       },
       {
         "word": "mandate",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An authoritative command or instruction.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Following a landslide victory, the new government claimed a clear mandate to curtail carbon emissions, yet it soon faced belligerent opposition from industries that deemed such restrictive policies a threat to their survival.",
+        "advTranslation": "新政府在壓倒性勝選後宣稱獲得明確授權去削減碳排放，卻很快遭到產業界的強烈反對，這些產業認為這類限制性政策威脅到它們的生存。"
       },
       {
         "word": "mortality",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The state of being subject to death; death rate.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Historians cite the sharp decline in infant mortality during the twentieth century as a salient example of how vaccines and clean drinking water could curb maladies that had once been rampant in crowded cities.",
+        "advTranslation": "歷史學家以二十世紀嬰兒死亡率大幅下降為顯著例證，說明疫苗與乾淨的飲用水如何遏止曾在擁擠城市中猖獗的疾病。"
       },
       {
         "word": "neurotic",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Affected by neurosis, abnormally anxious.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The protagonist of the novel is a neurotic clerk who obsesses over petty details, repeatedly checking whether his door is locked, and his fretful monologues reveal an inhibition so deep that he can scarcely converse with his colleagues.",
+        "advTranslation": "這部小說的主角是一名神經質的職員，他執著於瑣碎細節，一再檢查門是否上鎖；他焦躁不安的獨白，揭露了一種深刻到使他幾乎無法與同事交談的壓抑。"
       },
       {
         "word": "neutralize",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make ineffective by countering with equal force.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Antacids neutralize excess stomach acid and provide a temporary respite from heartburn, but doctors caution that chronic discomfort may be symptomatic of a more serious disorder whose underlying cause such remedies cannot obviate.",
+        "advTranslation": "制酸劑能中和過多的胃酸，暫時緩解胃灼熱，但醫師提醒，長期不適可能是更嚴重疾病的徵兆，而這類藥物無法消除其根本原因。"
       },
       {
         "word": "pedagogue",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A teacher, especially a strict one.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The old-fashioned pedagogue insisted that his students memorize interminable lists of Latin verbs, and he would admonish anyone whose recitation stumbled, a regimen that many pupils regarded as sheer drudgery.",
+        "advTranslation": "這位老派的嚴師堅持學生背誦冗長無盡的拉丁文動詞表，只要有人背誦結巴就會被他訓誡，許多學生都覺得這種訓練純粹是苦差事。"
       },
       {
         "word": "perpetuate",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make something continue indefinitely.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Critics argue that textbooks which omit the integral contributions of women and minorities perpetuate a narrow view of history, subtly fostering bias in young readers who are not yet cognizant of what has been left out.",
+        "advTranslation": "批評者主張，忽略女性和少數族群重要貢獻的教科書，會延續一種狹隘的歷史觀，在尚未察覺哪些內容被刪去的年輕讀者心中悄悄培養偏見。"
       },
       {
         "word": "perspicacious",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a ready insight, shrewd.",
           "chinese": ""
-        }
+        },
+        "advSentence": "A perspicacious investor, she discerned the promise of renewable energy long before her peers, quietly acquiring stakes in small, unproven solar companies while skeptics scoffed at the entire venture as chimerical.",
+        "advTranslation": "她是位眼光敏銳的投資人，早在同儕之前就看出再生能源的前景，悄悄買進尚未經過考驗的小型太陽能公司的股份，而當時懷疑者還嘲笑這項投資是異想天開。"
       },
       {
         "word": "phenomenon",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A fact or event observed to occur.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The aurora borealis, a dazzling phenomenon caused by charged solar particles colliding with gases in the upper atmosphere, inspired a plethora of myths among indigenous peoples of the Arctic, many of whom construed the shimmering lights as harbingers of war or as the spirits of ancestors.",
+        "advTranslation": "北極光是太陽帶電粒子與高層大氣氣體碰撞所產生的絢麗現象，在北極地區的原住民之間催生了大量神話，其中許多人曾將這些閃爍的光芒解讀為戰爭的預兆或祖先的靈魂。"
       },
       {
         "word": "susceptible",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Likely to be influenced or affected.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Elderly patients with weakened immune systems are especially susceptible to influenza, so public health officials advocate annual vaccination and urge caregivers to remain vigilant for early symptoms that could signal a lethal complication.",
+        "advTranslation": "免疫力較弱的年長病患特別容易感染流感，因此公共衛生官員提倡每年接種疫苗，並呼籲照顧者對可能預示致命併發症的早期症狀保持警覺。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "analogous": [
     "Comparable in certain respects.",

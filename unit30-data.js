@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The quality of being open and honest.",
           "chinese": "坦率；真誠"
-        }
+        },
+        "advSentence": "The retired general's memoir surprised readers with its candor, for instead of glorifying his victories, he acknowledged, in retrospect, the tactical blunders that had cost many lives, displaying a humility seldom found in military autobiographies.",
+        "advTranslation": "這位退役將軍的回憶錄以坦率令讀者驚訝，他沒有美化自己的勝利，反而在回顧時坦承那些造成許多人喪命的戰術失誤，展現出軍事自傳中罕見的謙遜。"
       },
       {
         "word": "charlatan",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who falsely claims to have skill.",
           "chinese": "江湖郎中；騙子"
-        }
+        },
+        "advSentence": "In the nineteenth century, itinerant charlatans hawked bottles of flavored alcohol as a panacea for every ailment, duping desperate customers who could not afford genuine medical care and had little reason to doubt such confident claims.",
+        "advTranslation": "十九世紀時，四處遊走的江湖郎中把一瓶瓶調味過的酒當成包治百病的萬靈丹兜售，矇騙那些負擔不起正規醫療、也沒有理由懷疑這些自信說詞的絕望顧客。"
       },
       {
         "word": "condescend",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To act as if one is superior.",
           "chinese": "屈尊；俯就"
-        }
+        },
+        "advSentence": "The consultant from the capital condescended to the village farmers, lecturing them on irrigation with thinly veiled disdain, an attitude that nettled the elders, whose ancestral techniques had nurtured the terraced fields for centuries.",
+        "advTranslation": "這位從首都來的顧問以居高臨下的姿態對待村裡的農民，帶著幾乎不加掩飾的輕蔑向他們講授灌溉知識；這種態度激怒了村中長老，因為正是他們祖傳的技術，數百年來一直滋養著這片梯田。"
       },
       {
         "word": "decorum",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Behaviour in keeping with good taste.",
           "chinese": "端莊；得體"
-        }
+        },
+        "advSentence": "Although parliamentary rules demand strict decorum, the budget debate degenerated into a fracas as lawmakers hurled invective across the chamber, and the exasperated speaker was forced to admonish several members before order was restored.",
+        "advTranslation": "雖然議會規則要求議員嚴守禮節，這場預算辯論卻淪為一場混戰，議員們在議場內互相叫罵，忍無可忍的議長不得不告誡數名議員，秩序才得以恢復。"
       },
       {
         "word": "encumbrance",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A burden or impediment.",
           "chinese": "累贅；妨礙"
-        }
+        },
+        "advSentence": "For many young graduates, student debt has become a heavy encumbrance that fetters their career choices, compelling them to abandon aspirations of public service in favor of lucrative corporate jobs.",
+        "advTranslation": "對許多年輕畢業生而言，學貸已成為沉重的負擔，束縛了他們的職涯選擇，迫使他們放棄從事公共服務的抱負，轉而投身待遇優渥的企業工作。"
       },
       {
         "word": "extinct",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "No longer in existence.",
           "chinese": "滅絕的"
-        }
+        },
+        "advSentence": "Although the dodo has been extinct for centuries, it endures as a poignant symbol of human folly, since the flightless bird, having evolved without predators, was utterly vulnerable to the human interlopers and invasive animals that arrived on Mauritius.",
+        "advTranslation": "雖然渡渡鳥早在數百年前就已滅絕，牠至今仍是人類愚行的一個令人心酸的象徵：這種不會飛的鳥類在沒有天敵的環境下演化，因此面對抵達模里西斯的人類入侵者及外來動物時，完全不堪一擊。"
       },
       {
         "word": "fledgling",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person or organisation that is new and inexperienced.",
           "chinese": "無經驗的人；幼鳥"
-        }
+        },
+        "advSentence": "As a fledgling in the cutthroat world of investment banking, she was initially daunted by her brash colleagues, but she soon proved adroit at navigating the labyrinth of financial regulations that bewildered even veteran traders.",
+        "advTranslation": "身為競爭激烈的投資銀行界新手，她起初被那些自以為是的同事嚇住了，但她很快就證明自己能熟練地穿梭於錯綜複雜的金融法規之中，而那些法規連資深交易員都會感到困惑。"
       },
       {
         "word": "galvanize",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To shock or excite into taking action.",
           "chinese": "激勵；刺激"
-        }
+        },
+        "advSentence": "Rachel Carson's Silent Spring galvanized a generation of activists by revealing how the indiscriminate use of pesticides was killing birds, and despite vitriolic attacks from chemical companies, the book helped initiate stricter federal regulation.",
+        "advTranslation": "瑞秋．卡森的《寂靜的春天》揭露了濫用殺蟲劑如何導致鳥類大量死亡，激勵了一整代的社會運動人士；儘管遭到化學公司惡毒的抨擊，這本書仍促成了更嚴格的聯邦法規。"
       },
       {
         "word": "gaudy",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Extravagantly bright or showy.",
           "chinese": "俗麗的"
-        }
+        },
+        "advSentence": "The tycoon's mansion, crammed with gaudy gold-plated fixtures and neon chandeliers, was meant to evince refined taste, but contemptuous visitors regarded it as a garish monument to his insatiable vanity.",
+        "advTranslation": "這位大亨的豪宅裡塞滿了俗麗的鍍金裝潢和霓虹吊燈，本意是要彰顯高雅的品味，但心存輕蔑的訪客卻把它視為他永不滿足的虛榮心所打造出的一座怪誕紀念碑。"
       },
       {
         "word": "idyllic",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Like an idyll, peaceful and happy.",
           "chinese": "田園詩般的"
-        }
+        },
+        "advSentence": "Lured by brochures showing an idyllic island paradise, many tourists are dismayed to find beaches inundated with plastic and a ceaseless cacophony of jet skis, while older islanders recall with nostalgia the quiet shores of their childhood.",
+        "advTranslation": "許多遊客被宣傳手冊上田園詩般的海島天堂所吸引，抵達後卻失望地發現海灘上滿是塑膠垃圾、水上摩托車的噪音不絕於耳；而年長的島民則懷念起童年時那片寧靜的海岸。"
       },
       {
         "word": "jocose",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Fond of or characterised by joking.",
           "chinese": "詼諧的；開玩笑的"
-        }
+        },
+        "advSentence": "Despite the gravity of the subject, the historian's jocose lecturing style, full of playful puns and witty asides, kept even the most indolent students engrossed, though his levity never trivialized the suffering he described.",
+        "advTranslation": "儘管主題相當沉重，這位歷史學家詼諧風趣的講課風格，充滿俏皮的雙關語和機智的題外話，讓即使是最懶散的學生也聽得津津有味，而他的輕鬆幽默從未淡化他所描述的苦難。"
       },
       {
         "word": "jubilant",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Feeling or expressing great happiness.",
           "chinese": "歡呼的；喜悅的"
-        }
+        },
+        "advSentence": "Jubilant crowds poured into the streets of Berlin when the wall was finally breached, and strangers embraced in scenes of bliss that seemed incongruous beside the grim barrier, long an anathema to the divided city's residents.",
+        "advTranslation": "柏林圍牆終於被打開時，歡欣鼓舞的人群湧上街頭，素不相識的人們彼此相擁；那份狂喜的景象與那道陰森的高牆顯得格格不入，而這道牆長久以來一直為這座分裂城市的居民所深惡痛絕。"
       },
       {
         "word": "malign",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To speak about in an unfairly critical way.",
           "chinese": "誹謗；中傷"
-        }
+        },
+        "advSentence": "Although many contemporaries maligned the physician Ignaz Semmelweis for insisting that doctors wash their hands, his seemingly bizarre advice was ultimately proven correct, as hospitals that heeded it saw maternal mortality plummet, a salient lesson in the perils of dogma.",
+        "advTranslation": "雖然許多同時代的人詆毀醫師塞麥爾維斯，只因他堅持醫生必須洗手，但他這看似怪異的建議最終獲得平反：採納此建議的醫院，產婦死亡率大幅下降，這是一個關於教條危害的鮮明教訓。"
       },
       {
         "word": "mortify",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To cause great embarrassment.",
           "chinese": "使屈辱；使窘迫"
-        }
+        },
+        "advSentence": "The young pianist was mortified when her memory faltered midway through the concerto, but the audience's warm applause offered her solace, and she returned to the practice room with renewed alacrity the very next morning.",
+        "advTranslation": "這位年輕鋼琴家在協奏曲演奏到一半時突然忘譜，羞愧得無地自容；但觀眾溫暖的掌聲給了她安慰，隔天一早，她便重新振作、迫不及待地回到練琴室。"
       },
       {
         "word": "omnipotent",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having unlimited power.",
           "chinese": "全能的"
-        }
+        },
+        "advSentence": "Dictators gripped by megalomania often cultivate the illusion that they are omnipotent, yet history shows that even entrenched autocrats can be swiftly ousted by a popular uprising or a military coup.",
+        "advTranslation": "深陷自大妄想的獨裁者往往營造自己無所不能的假象，然而歷史證明，即使是根基穩固的獨裁者，也可能因一場民眾起義或軍事政變而迅速垮台。"
       },
       {
         "word": "peremptory",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Insisting on immediate obedience.",
           "chinese": "專橫的；不容反抗的"
-        }
+        },
+        "advSentence": "The new principal's peremptory memos, which demanded immediate compliance and brooked no objection, alienated a faculty accustomed to congenial collaboration, and several veteran teachers balked at what they regarded as one unilateral fiat after another.",
+        "advTranslation": "新任校長那些專橫的備忘錄要求老師立即服從、容不得任何異議，疏遠了習慣於融洽合作的教師群；好幾位資深教師對這一道又一道單方面下達的命令強烈抗拒。"
       },
       {
         "word": "precedent",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An earlier event used as a guide.",
           "chinese": "先例；前例"
-        }
+        },
+        "advSentence": "When the court ruled that the tribe's ancestral claim to the forest, attested by centuries of oral history, outweighed the logging company's permit, it set a precedent that could invalidate similar permits and that disgruntled industry lobbyists vowed to contest.",
+        "advTranslation": "法院裁定，這個部落有數百年口述歷史為證的祖傳森林權利，優先於伐木公司的許可證；此一判決樹立了先例，可能使類似的許可證失效，而心懷不滿的業界遊說團體則誓言提出抗告。"
       },
       {
         "word": "rustic",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a simple and unsophisticated character.",
           "chinese": "鄉村的；質樸的"
-        }
+        },
+        "advSentence": "Many city dwellers romanticize the rustic simplicity of mountain villages, yet residents point out that such charm often masks a dire paucity of medical services and the inexorable wane of crafts that had flourished for generations.",
+        "advTranslation": "許多城市居民把山村質樸簡單的生活浪漫化，但當地居民指出，這種魅力往往掩蓋了醫療資源嚴重匱乏的事實，以及曾經興盛數代的傳統手工藝無可挽回的衰落。"
       },
       {
         "word": "wheedle",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To use flattery or coaxing to persuade.",
           "chinese": "哄騙；誘騙"
-        }
+        },
+        "advSentence": "The con artist wheedled large sums out of lonely retirees by exploiting their isolation and showering them with fulsome compliments, and prosecutors struggled to indict him because his victims had surrendered the money willingly.",
+        "advTranslation": "這名騙子利用孤獨退休人士的寂寞，對他們大灌迷湯，從他們身上哄騙走大筆金錢；由於受害者都是心甘情願交出錢財，檢察官很難將他起訴。"
       },
       {
         "word": "zenith",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The time at which something is most powerful.",
           "chinese": "頂點；鼎盛時期"
-        }
+        },
+        "advSentence": "At the zenith of its power, the Mongol Empire, which had grown from a confederation of nomadic tribes, stretched from East Asia to Eastern Europe, yet its vast realm soon fragmented into rival khanates whose rulers seldom concurred.",
+        "advTranslation": "蒙古帝國由游牧部落聯盟發展而來，在國力鼎盛時期，疆域從東亞一路延伸到東歐；然而這片遼闊的領土不久便分裂成數個彼此對立的汗國，各汗國的統治者鮮少意見一致。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "candor": [
     "The quality of being open and honest.",

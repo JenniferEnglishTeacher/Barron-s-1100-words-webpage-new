@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Extreme greed for wealth.",
           "chinese": "貪婪"
-        }
+        },
+        "advSentence": "In Dickens's A Christmas Carol, Ebenezer Scrooge embodies avarice, hoarding his wealth with parsimonious zeal until a series of increasingly sinister ghostly visions compels him to mend his ways and embrace altruistic generosity.",
+        "advTranslation": "在狄更斯的《小氣財神》中，史古基是貪婪的化身，他以吝嗇的狂熱囤積財富，直到一連串越來越陰森的鬼魂幻象迫使他悔改，轉而擁抱無私的慷慨。"
       },
       {
         "word": "bedlam",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A scene of uproar and confusion.",
           "chinese": "混亂；喧鬧"
-        }
+        },
+        "advSentence": "When the stock market crashed, the trading floor descended into bedlam, as frantic brokers jostled one another and shouted orders amid a paroxysm of panic selling that the exchange's officials were powerless to stymie.",
+        "advTranslation": "股市崩盤時，交易大廳陷入一片混亂，驚慌失措的交易員互相推擠、高聲喊單，陷入一陣恐慌性拋售的狂潮，連交易所官員也無力遏止。"
       },
       {
         "word": "cacophony",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A harsh mixture of sounds.",
           "chinese": "刺耳的聲音"
-        }
+        },
+        "advSentence": "Residents of the once-tranquil neighborhood complained that a cacophony of jackhammers, car horns, and blaring music harassed them day and night, and they implored the city council to stipulate stricter limits on construction hours.",
+        "advTranslation": "這個曾經寧靜的社區居民抱怨，手提鑽、汽車喇叭和震耳欲聾的音樂所交織成的刺耳噪音日夜騷擾著他們，因此他們懇求市議會明文規定更嚴格的施工時間限制。"
       },
       {
         "word": "compatible",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Able to exist or work together.",
           "chinese": "相容的；和諧的"
-        }
+        },
+        "advSentence": "Before an organ transplant, doctors must confirm that the donor's tissue is compatible with the recipient's, because the body's immune system will otherwise repulse the foreign organ, a reaction that, if not palliated with powerful drugs, renders the surgery abortive.",
+        "advTranslation": "進行器官移植前，醫師必須確認捐贈者的組織與受贈者相容，否則人體的免疫系統會排斥這個外來器官；而這種反應若未能以強效藥物加以緩解，手術便會以失敗告終。"
       },
       {
         "word": "disgruntled",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Angry or dissatisfied.",
           "chinese": "不滿的"
-        }
+        },
+        "advSentence": "Disgruntled by years of frozen wages and arbitrary dismissals, the factory workers staged a strike, and their cause soon won the support of a coterie of journalists who exposed the sordid conditions in the company dormitories.",
+        "advTranslation": "多年來工資停滯不前、又遭到任意解僱，心懷不滿的工廠工人發動罷工；他們的訴求很快就獲得一群記者的支持，這些記者揭露了公司宿舍骯髒惡劣的環境。"
       },
       {
         "word": "equanimity",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Mental calmness in difficult situations.",
           "chinese": "平靜；鎮定"
-        }
+        },
+        "advSentence": "Even when hostile reporters bombarded her with accusatory questions, the spokeswoman maintained her equanimity, answering each query with a calm, cogent explanation that left her critics unable to elicit the flustered reaction they had hoped for.",
+        "advTranslation": "即使充滿敵意的記者連番丟出指控性的問題，這位發言人依然保持鎮定，以冷靜而有說服力的說明回答每一個提問，讓批評者無法引出他們所期待的慌亂反應。"
       },
       {
         "word": "eradicate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To destroy completely, put an end to.",
           "chinese": "根除；消滅"
-        }
+        },
+        "advSentence": "Smallpox, once a ubiquitous scourge that killed millions, was eradicated through a global vaccination campaign whose success remains a landmark in public health and a powerful rebuttal to the fatalism that regards such diseases as inexorable.",
+        "advTranslation": "天花曾是無所不在、奪走數百萬人性命的禍害，最終透過全球疫苗接種運動而被根除；這項成就至今仍是公共衛生史上的里程碑，也有力地駁斥了那種認為這類疾病無法阻擋的宿命論。"
       },
       {
         "word": "exploit",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make use of, utilise fully.",
           "chinese": "開發；剝削"
-        }
+        },
+        "advSentence": "To exploit the immense geothermal energy beneath their island, Icelandic engineers built power plants that harness volcanic heat, a resourceful strategy proving that renewable energy can be economically viable even in a land prone to eruptions.",
+        "advTranslation": "為了充分利用島嶼底下蘊藏的豐沛地熱能源，冰島工程師興建了利用火山熱能的發電廠；這項足智多謀的策略證明，即使在火山頻繁爆發的土地上，再生能源也能具備經濟上的可行性。"
       },
       {
         "word": "impede",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To delay or prevent by obstructing.",
           "chinese": "阻礙；妨礙"
-        }
+        },
+        "advSentence": "Convoluted bureaucratic procedures continue to impede the delivery of humanitarian aid, and relief agencies warn that each delay deepens the plight of refugees who are already emaciated from malnutrition and disease.",
+        "advTranslation": "繁瑣的官僚程序持續阻礙人道援助的運送，救援機構警告，每一次延誤都會使難民的困境更加惡化，而這些難民早已因營養不良和疾病而骨瘦如柴。"
       },
       {
         "word": "infallible",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Incapable of making mistakes or being wrong.",
           "chinese": "絕對正確的"
-        }
+        },
+        "advSentence": "Though many jurors regard eyewitness testimony as infallible, psychologists have shown that memory is highly susceptible to suggestion, so even confident witnesses may inadvertently offer fallacious accounts of events they genuinely believe they saw.",
+        "advTranslation": "雖然許多陪審員認為目擊者證詞絕對可靠，但心理學家已證明記憶極易受到暗示影響，因此即使是自信滿滿的證人，也可能在不經意間，對自己真心相信親眼目睹的事件作出錯誤的陳述。"
       },
       {
         "word": "insatiable",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Impossible to satisfy.",
           "chinese": "貪得無厭的"
-        }
+        },
+        "advSentence": "Consumers' insatiable appetite for cheap clothing has spawned a lucrative global industry, yet critics contend that its factories spew toxic dyes into rivers and perpetuate a system that relies on the drudgery of underpaid workers.",
+        "advTranslation": "消費者對廉價服飾永無止境的需求，催生出一個利潤豐厚的全球產業；然而批評者認為，這些工廠把有毒染料排入河川，並延續了一套仰賴低薪工人從事苦差事的體制。"
       },
       {
         "word": "irrational",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not logical or reasonable.",
           "chinese": "不理智的"
-        }
+        },
+        "advSentence": "Although he readily conceded that his aversion to flying was irrational, since statistics show air travel to be safer than driving, the otherwise intrepid explorer could not repress the dread that engulfed him whenever the aircraft shuddered.",
+        "advTranslation": "雖然他坦然承認自己對搭飛機的排斥毫無道理，畢竟統計數據顯示搭飛機比開車更安全，但這位平日無所畏懼的探險家，每當飛機晃動時，仍無法壓抑那股將他吞沒的恐懼。"
       },
       {
         "word": "moribund",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "At the point of death; lacking vitality.",
           "chinese": "垂死的"
-        }
+        },
+        "advSentence": "As coal mining slid into obsolescence, many Appalachian towns became moribund, their populations shrinking and their storefronts vacant, yet some have staged a modest revival by turning abandoned mines into museums that chronicle the vicissitudes and valor of generations of miners.",
+        "advTranslation": "隨著煤礦業逐漸被淘汰，許多阿帕拉契山區的小鎮變得奄奄一息，人口日益減少、店面空無一人；不過有些小鎮把廢棄礦坑改建成博物館，記錄一代又一代礦工的興衰起伏與英勇事蹟，因而稍稍重獲生機。"
       },
       {
         "word": "nadir",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The lowest or most unsuccessful point.",
           "chinese": "最低點"
-        }
+        },
+        "advSentence": "The nadir of the campaign came during the brutal winter, when the besieged garrison, bereft of food and fuel and pounded by constant shelling, saw its morale collapse so completely that mutiny seemed inevitable.",
+        "advTranslation": "這場戰役的最低谷出現在嚴酷的冬季：遭到圍困的守軍既缺糧又缺燃料，還承受著持續不斷的砲轟，士氣徹底崩潰，叛變似乎已無可避免。"
       },
       {
         "word": "panacea",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A solution to all problems.",
           "chinese": "萬靈藥"
-        }
+        },
+        "advSentence": "Although some reformers tout standardized testing as a panacea for educational inequality, skeptics argue that such a simplistic remedy ignores the myriad factors that hamper learning and treats a single score as a reliable barometer of a child's intrinsic abilities.",
+        "advTranslation": "雖然有些改革者把標準化測驗吹捧成解決教育不平等的萬靈丹，但懷疑者認為，這種過於簡化的對策忽略了阻礙學習的種種因素，還把單一分數當作衡量孩子內在能力的可靠指標。"
       },
       {
         "word": "propinquity",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Nearness in place, time, or relationship.",
           "chinese": "接近；鄰近"
-        }
+        },
+        "advSentence": "Social psychologists have found that propinquity is a surprisingly powerful predictor of friendship, since students assigned to neighboring dormitory rooms often become close confidants, whether they are gregarious or timorous, even in a highly heterogeneous student body.",
+        "advTranslation": "社會心理學家發現，空間上的鄰近是預測友誼的一個出乎意料的有力指標：即使在背景極為多元的學生群體中，被分配到相鄰宿舍房間的學生，無論個性外向或膽怯，往往都會成為親密的知己。"
       },
       {
         "word": "revere",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To feel deep respect or admiration for.",
           "chinese": "尊崇；敬畏"
-        }
+        },
+        "advSentence": "Across East Asia, Confucius is still revered as a sage whose teachings on filial piety and moral conduct shape everything from family customs to educational traditions, an influence his original disciples could scarcely have imagined.",
+        "advTranslation": "在整個東亞地區，孔子至今仍被尊崇為聖賢，他關於孝道與道德操守的教誨，影響著從家庭習俗到教育傳統的方方面面，其影響之深遠，恐怕是他最初的弟子們難以想像的。"
       },
       {
         "word": "sedate",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Calm, dignified, unhurried.",
           "chinese": "安詳的；莊重的"
-        }
+        },
+        "advSentence": "Unlike his flamboyant predecessor, who gesticulated wildly and relished histrionics, the new conductor projected a sedate dignity on the podium, guiding the orchestra with restrained gestures that some critics initially found lackluster.",
+        "advTranslation": "不同於前任那位作風浮誇、總是誇張比手畫腳又熱衷於做戲的指揮，新任指揮在指揮台上展現出沉穩莊重的氣度，以內斂的手勢引導樂團，有些評論家起初還覺得這種風格平淡無奇。"
       },
       {
         "word": "serenity",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The state of being calm and peaceful.",
           "chinese": "寧靜；平靜"
-        }
+        },
+        "advSentence": "Weary of the relentless pace of city life, many professionals seek serenity in secluded mountain sanctuaries, where an ascetic routine of silent meditation and simple meals offers a welcome respite from the incessant buzz of their phones.",
+        "advTranslation": "厭倦了城市生活的緊湊步調，許多上班族前往幽靜的山中靜修處尋求心靈的平靜；在那裡，靜默冥想與粗茶淡飯的簡樸作息，讓他們得以暫時擺脫手機不停響起的通知聲。"
       },
       {
         "word": "vulnerable",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Susceptible to attack or harm.",
           "chinese": "易受傷的；脆弱的"
-        }
+        },
+        "advSentence": "Coral reefs are especially vulnerable to rising ocean temperatures, and marine biologists warn that repeated bleaching could obliterate these fragile ecosystems, which shelter a plethora of species, to the lasting detriment of coastal fishing communities.",
+        "advTranslation": "珊瑚礁對海水溫度上升格外脆弱，海洋生物學家警告，反覆發生的白化現象可能徹底摧毀這些庇護著大量物種的脆弱生態系，對沿海漁業社群造成長遠的損害。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "avarice": [
     "Extreme greed for wealth.",

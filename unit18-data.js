@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Failing to produce the intended result.",
           "chinese": "失敗的；夭折的"
-        }
+        },
+        "advSentence": "The rebels' abortive attempt to seize the capital ended in a fiasco after an accomplice betrayed their plans to the palace, and the government then used the failed uprising as a pretext to repress all political opposition for years.",
+        "advTranslation": "叛軍企圖奪取首都的行動以失敗告終，成了一場鬧劇，原因是一名共犯向王宮洩漏了他們的計畫；政府隨後便以這次失敗的起事為藉口，多年來壓制一切政治異議。"
       },
       {
         "word": "accommodate",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make fit, to provide for.",
           "chinese": "容納；適應"
-        }
+        },
+        "advSentence": "To accommodate the refugees fleeing the besieged city, the small town converted its schools and churches into temporary shelters, an altruistic gesture that won national acclaim even as the strain on local resources began to nettle some residents.",
+        "advTranslation": "為了收容從被圍困城市逃出的難民，這座小鎮把學校與教堂改建為臨時收容所；這項無私之舉贏得全國讚譽，儘管當地資源吃緊也開始讓部分居民感到不滿。"
       },
       {
         "word": "barometer",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An instrument or indicator of change.",
           "chinese": "晴雨表；氣壓計"
-        }
+        },
+        "advSentence": "Economists often treat consumer spending as a barometer of public confidence, since households of nearly every income level tend to curtail their purchases as soon as they perceive ominous signs of an economic downturn.",
+        "advTranslation": "經濟學家常把消費支出視為民眾信心的晴雨表，因為幾乎各種收入階層的家庭，一察覺到經濟衰退的不祥徵兆，往往就會減少消費。"
       },
       {
         "word": "buff",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An enthusiastic fan or expert.",
           "chinese": "愛好者；迷"
-        }
+        },
+        "advSentence": "A devoted history buff, the retired engineer spent his weekends combing through dusty county archives, and his assiduous research eventually produced a comprehensive account of the local railway that even eminent historians praised as definitive.",
+        "advTranslation": "這位退休工程師是個熱衷歷史的愛好者，他利用週末翻遍縣府積滿灰塵的檔案；他孜孜不倦的研究最終寫成一部關於當地鐵路的完整紀錄，連知名的歷史學家都讚譽為權威之作。"
       },
       {
         "word": "conjugal",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Relating to marriage or the relationship between married people.",
           "chinese": "婚姻的；夫妻的"
-        }
+        },
+        "advSentence": "In many traditional societies, conjugal duties were stipulated by custom rather than by law, and a wife who dared to flout these expectations risked being castigated by her in-laws and shunned by the entire village.",
+        "advTranslation": "在許多傳統社會中，夫妻之間的義務是由習俗而非法律所規定；膽敢違背這些期待的妻子，可能會遭到公婆嚴厲責罵，並被全村的人排斥。"
       },
       {
         "word": "crave",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To desire urgently, to long for.",
           "chinese": "渴望；懇求"
-        }
+        },
+        "advSentence": "After months of isolation at the polar research station, the scientists began to crave fresh vegetables and unfamiliar faces, and even the most mundane letters from home could elicit a paroxysm of joy among the weary crew.",
+        "advTranslation": "在極地研究站與世隔絕數月後，科學家們開始渴望新鮮蔬菜和陌生的面孔；即使是家鄉寄來最平凡無奇的信件，也能讓疲憊的隊員們欣喜若狂。"
       },
       {
         "word": "deem",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To regard or consider in a particular way.",
           "chinese": "認為；視為"
-        }
+        },
+        "advSentence": "Although critics initially deemed her experimental novel incoherent, later generations of readers discerned in its fragmented structure a laudable attempt to convey the chaos and confusion of wartime memory for a generation of survivors.",
+        "advTranslation": "雖然評論家起初認為她的實驗性小說語無倫次，後世讀者卻從其支離破碎的結構中看出，這是試圖為一整代倖存者呈現戰時記憶之混亂與迷惘的可貴嘗試。"
       },
       {
         "word": "inherent",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Existing naturally as a permanent quality.",
           "chinese": "固有的；與生俱來的"
-        }
+        },
+        "advSentence": "Every financial investment carries inherent risks, and even the most astute advisers cannot prognosticate with certainty how markets will behave, which is why sensible investors spread their assets across many different sectors.",
+        "advTranslation": "任何金融投資都有其固有的風險，即使是最精明的顧問也無法準確預測市場走向；正因如此，明智的投資人會把資產分散到許多不同的產業。"
       },
       {
         "word": "innate",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Inborn, possessed from birth.",
           "chinese": "天生的；先天的"
-        }
+        },
+        "advSentence": "Linguists have long debated whether humans possess an innate capacity for language, since young children master complex grammar with remarkable alacrity despite hearing only garbled fragments of speech, a paradox that imitation alone seems unable to explain.",
+        "advTranslation": "語言學家長期爭論人類是否天生具備語言能力，因為幼童儘管只聽到殘缺混亂的話語片段，卻能以驚人的速度掌握複雜的文法；這個矛盾現象似乎無法單靠模仿來解釋。"
       },
       {
         "word": "irrelevant",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not connected with the matter in hand.",
           "chinese": "不相關的；不切題的"
-        }
+        },
+        "advSentence": "The defense attorney objected that the prosecutor's questions about the defendant's flamboyant lifestyle were irrelevant to the charges, arguing that such lurid details served only to bias the jury rather than to prove that he was culpable.",
+        "advTranslation": "辯護律師提出異議，指出檢察官針對被告奢華浮誇生活方式的提問與指控毫不相關，並主張這些聳人聽聞的細節只會讓陪審團產生偏見，而無法證明他有罪。"
       },
       {
         "word": "itinerant",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Travelling from place to place.",
           "chinese": "巡迴的；流動的"
-        }
+        },
+        "advSentence": "In medieval Europe, itinerant minstrels traveled from one village to the next, performing ballads that embellished local legends, and in an age when news arrived only sporadically, their visit was often the most salient event of the season.",
+        "advTranslation": "在中世紀的歐洲，巡迴的吟遊詩人從一個村莊走到下一個村莊，演唱為地方傳說增添色彩的歌謠；在消息往來零零星星的年代，他們的到訪往往是當季最引人注目的大事。"
       },
       {
         "word": "latent",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Existing but not yet developed.",
           "chinese": "潛在的；隱伏的"
-        }
+        },
+        "advSentence": "Because the virus can remain latent in nerve cells for years, a patient who appears fully recovered may suddenly suffer a painful outbreak, a pernicious pattern that frustrates doctors and makes the malady exceptionally difficult to cure.",
+        "advTranslation": "由於這種病毒能在神經細胞中潛伏多年，看似完全康復的病人可能突然再次發作、疼痛不堪；這種有害的模式令醫師束手無策，也使這種疾病極難治癒。"
       },
       {
         "word": "modify",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To change partially.",
           "chinese": "修改；修飾"
-        }
+        },
+        "advSentence": "Engineers had to modify the bridge's original design after wind-tunnel tests corroborated an ominous suspicion that its slender deck would sway dangerously in turbulent winds, a flaw that could have precipitated a disastrous collapse.",
+        "advTranslation": "風洞測試證實了一個令人不安的疑慮：橋梁細長的橋面在強烈亂流中會危險地擺動；這個缺陷可能導致災難性的坍塌，因此工程師不得不修改原本的設計。"
       },
       {
         "word": "myriad",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Countless in number.",
           "chinese": "無數的；極大量的"
-        }
+        },
+        "advSentence": "Entomologists exploring the rainforest canopy encounter myriad insects, many of them never formally described, and they often become so engrossed in pursuing elusive specimens that they barely notice the ubiquitous mosquitoes feasting on their arms.",
+        "advTranslation": "探索雨林樹冠層的昆蟲學家會遇到無數種昆蟲，其中許多從未被正式描述過；他們常常專注於追捕難以捉摸的標本，以至於幾乎沒注意到無所不在的蚊子正在叮咬自己的手臂。"
       },
       {
         "word": "peregrination",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A journey, especially a long one.",
           "chinese": "旅程；遊歷"
-        }
+        },
+        "advSentence": "During his long peregrination through the northern provinces of Japan, the poet Basho composed haiku of laconic beauty, verses steeped in Buddhist reflection that transformed a journey fraught with hardship into a masterpiece of travel literature.",
+        "advTranslation": "詩人松尾芭蕉在日本北方諸國的漫長旅途中，寫下簡潔優美的俳句；這些浸透佛教省思的詩句，將一段充滿艱辛的旅程化為遊記文學的傑作。"
       },
       {
         "word": "romp",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To move in a lively, boisterous way.",
           "chinese": "嬉鬧；喧鬧地玩耍"
-        }
+        },
+        "advSentence": "Released at last from their cramped kennel, the young dogs began to romp across the meadow, their jaunty leaps and mock skirmishes a striking contrast to the inert, listless behavior they had displayed while confined indoors.",
+        "advTranslation": "終於從狹窄的狗舍被放出來，小狗們在草地上嬉戲奔跑；牠們輕快的跳躍與假裝打鬥的模樣，與被關在室內時那種了無生氣、無精打采的樣子形成鮮明對比。"
       },
       {
         "word": "spontaneous",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Done without being planned.",
           "chinese": "自發的；自然的"
-        }
+        },
+        "advSentence": "The march was not organized by any political party but arose as a spontaneous outpouring of grief and anger after the egregious verdict, and the authorities, cognizant of the public mood, wisely chose not to quell it.",
+        "advTranslation": "這場遊行並非由任何政黨發起，而是在那項離譜的判決之後，民眾自發地宣洩悲傷與憤怒；當局察覺到民心向背，明智地選擇不加以鎮壓。"
       },
       {
         "word": "tortuous",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Full of twists and turns.",
           "chinese": "彎曲的；曲折的"
-        }
+        },
+        "advSentence": "The tortuous path to the mountain monastery winds along sheer cliffs, and pilgrims who ascend it must endure dizzying heights and inclement weather, yet many describe the arduous climb as a source of deep spiritual solace.",
+        "advTranslation": "通往山中修道院的小徑蜿蜒曲折，沿著陡峭的懸崖盤旋而上；攀登的朝聖者必須忍受令人暈眩的高度與惡劣的天氣，但許多人形容這段艱辛的攀爬是深刻的心靈慰藉。"
       },
       {
         "word": "urbane",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Suave, confident and sophisticated.",
           "chinese": "溫文爾雅的；都市化的"
-        }
+        },
+        "advSentence": "An urbane host who moved effortlessly between languages, the diplomat could disarm even the most fractious guests with a well-timed quip, and his dinner parties became a haven where rival politicians could converse amicably.",
+        "advTranslation": "這位外交官是溫文儒雅的主人，能在多種語言之間自在切換，即使面對最難纏好鬥的賓客，也能以一句恰到好處的妙語化解；他的晚宴因此成了敵對政治人物能夠和睦交談的避風港。"
       },
       {
         "word": "veneer",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A thin covering to hide what is underneath.",
           "chinese": "飾面；虛飾"
-        }
+        },
+        "advSentence": "Beneath the veneer of civility that the royal court displayed to foreign visitors lurked a world of intrigue and duplicity, where ambitious courtiers would disparage their rivals in whispers and scheme to oust anyone who threatened their influence.",
+        "advTranslation": "在王室宮廷向外國訪客展現的彬彬有禮的表象之下，潛藏著充滿陰謀與欺詐的世界：野心勃勃的朝臣會私下低聲詆毀對手，並設計排擠任何威脅到自身權勢的人。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abortive": [
     "Failing to produce the intended result.",

@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unfavourable, harmful, contrary.",
           "chinese": "不利的；有害的"
-        }
+        },
+        "advSentence": "Because the pesticide had become ubiquitous on farmland, ecologists warned of its adverse effects on pollinators, citing evidence that exposure left bees more likely to succumb to parasites, findings the manufacturer disparaged as alarmist.",
+        "advTranslation": "由於這種殺蟲劑在農地上已無所不在，生態學家警告它對授粉昆蟲的不利影響，並引用證據指出，接觸過的蜜蜂更容易死於寄生蟲；然而製造商卻詆毀這些研究結果是危言聳聽。"
       },
       {
         "word": "advocate",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To support, speak in favour of.",
           "chinese": "提倡；支持"
-        }
+        },
+        "advSentence": "Many urban planners advocate replacing congested boulevards with tranquil pedestrian zones, arguing that such changes enhance community life, though some shop owners bristle at the prospect of losing customers who arrive by car.",
+        "advTranslation": "許多都市規劃者提倡把擁擠的林蔭大道改造成寧靜的行人徒步區，認為這樣的改變能提升社區生活品質；不過有些店家一想到可能失去開車前來的顧客就十分惱火。"
       },
       {
         "word": "amicable",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Friendly, done in a peaceable spirit.",
           "chinese": "友好的；和睦的"
-        }
+        },
+        "advSentence": "After years of acrimonious litigation, the two technology firms reached an amicable settlement, agreeing to share their patents and terminate all pending lawsuits, much to the relief of investors who had grown fretful about mounting legal costs.",
+        "advTranslation": "經過多年尖銳激烈的訴訟後，這兩家科技公司達成了友好的和解，同意共享專利並終止所有未決的訴訟，讓原本對節節攀升的法律費用感到焦躁不安的投資人鬆了一口氣。"
       },
       {
         "word": "asset",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A valuable or useful thing.",
           "chinese": "資產；有價值之物"
-        }
+        },
+        "advSentence": "In an age of rapid obsolescence, employers increasingly perceive adaptability as a greater asset than mastery of any single program, and aspirants who cling to one narrow specialty may find their expertise worthless almost overnight.",
+        "advTranslation": "在事物迅速被淘汰的時代，雇主越來越把適應力視為比精通任何單一軟體更有價值的資產；而那些固守單一狹隘專長、力求晉升的人，可能會發現自己的專業幾乎在一夕之間變得毫無價值。"
       },
       {
         "word": "astute",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Keen, shrewd, clever in practical matters.",
           "chinese": "機敏的；精明的"
-        }
+        },
+        "advSentence": "An astute observer of human nature, Jane Austen exposed the duplicity and petty vanities of the English gentry with such subtle irony that many affluent readers failed to discern that they themselves were the targets of her satire.",
+        "advTranslation": "珍．奧斯汀是洞察人性的敏銳觀察者，她以極其含蓄的反諷揭露英國仕紳階級的虛偽與小小的虛榮，以致許多富裕的讀者根本沒有察覺，自己正是她諷刺的對象。"
       },
       {
         "word": "bigot",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A narrow-minded, prejudiced person.",
           "chinese": "偏執者；頑固者"
-        }
+        },
+        "advSentence": "The documentary portrays the former mayor as an unrepentant bigot who castigated immigrant families in caustic speeches and stymied every proposal for a multicultural community center, until exasperated residents finally ousted him at the polls.",
+        "advTranslation": "這部紀錄片將前任市長描繪成一個毫無悔意的偏執者：他在尖刻的演說中嚴厲抨擊移民家庭，並阻撓每一項興建多元文化社區中心的提案，直到忍無可忍的居民終於用選票將他趕下台。"
       },
       {
         "word": "blatant",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Obvious, conspicuously bad.",
           "chinese": "明目張膽的；公然的"
-        }
+        },
+        "advSentence": "The cyclist's blatant violation of anti-doping rules caused consternation among his fans, and his inane claim that the banned substance had been inadvertently added to his breakfast only deepened public skepticism.",
+        "advTranslation": "這名自行車選手公然違反禁藥規定，令他的支持者驚愕不已；而他荒謬地聲稱禁藥是被人不小心加進早餐裡，只讓大眾更加懷疑。"
       },
       {
         "word": "entourage",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A group of attendants or associates.",
           "chinese": "隨從；隨行人員"
-        }
+        },
+        "advSentence": "The visiting monarch traveled with an enormous entourage of courtiers, servants, and guards, an extravagant spectacle that the indigent throngs lining the streets, many of whom could barely afford bread, regarded with silent disdain.",
+        "advTranslation": "來訪的君主帶著由朝臣、僕役和侍衛組成的龐大隨行人員，這種鋪張的排場，讓沿街圍觀、許多人連麵包都快買不起的貧苦群眾默默投以鄙視的眼光。"
       },
       {
         "word": "extortion",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Getting money or favours through threats.",
           "chinese": "勒索；敲詐"
-        }
+        },
+        "advSentence": "The crime syndicate grew rich through extortion, threatening shopkeepers who refused to pay for protection, and its infamous leader enjoyed impunity for years by intimidating any witness willing to testify against him.",
+        "advTranslation": "這個犯罪集團靠勒索致富，威脅那些不肯繳交保護費的店家；而它惡名昭彰的首腦藉由恐嚇任何願意出庭指證他的證人，多年來都逍遙法外。"
       },
       {
         "word": "impresario",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An organiser of entertainment.",
           "chinese": "演出經紀人；主辦人"
-        }
+        },
+        "advSentence": "The flamboyant impresario behind the touring circus was an adroit showman who could cajole even skeptical investors, though his verbose advertisements often promised spectacles that no troupe could possibly deliver.",
+        "advTranslation": "這個巡迴馬戲團背後那位浮誇的演出經紀人是個手腕高明的表演家，連心存懷疑的投資人都能被他哄得心動；不過他冗長的廣告經常承諾一些任何劇團都不可能做到的奇觀。"
       },
       {
         "word": "ineffectual",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unable to accomplish anything, weak.",
           "chinese": "無效的；軟弱無能的"
-        }
+        },
+        "advSentence": "Historians generally regard the League of Nations as ineffectual in the years before the Second World War, since it lacked an army of its own and could not thwart belligerent powers that openly flouted its resolutions.",
+        "advTranslation": "歷史學家普遍認為，國際聯盟在第二次世界大戰前的那些年裡軟弱無能，因為它沒有自己的軍隊，無法阻止那些公然無視其決議的好戰強權。"
       },
       {
         "word": "loath",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unwilling, reluctant.",
           "chinese": "不情願的；勉強的"
-        }
+        },
+        "advSentence": "Although the new evidence was compelling, the committee was loath to repudiate the eminent professor's theory, partly out of deference to his reputation and partly because doing so might exacerbate tensions within an already divided department.",
+        "advTranslation": "雖然新證據很有說服力，委員會卻不願否定這位傑出教授的理論，一方面是出於對他聲望的尊重，另一方面則是因為這樣做可能會讓原本就分裂的系所內部關係更加緊張。"
       },
       {
         "word": "malady",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A disease or disorder.",
           "chinese": "疾病；弊病"
-        }
+        },
+        "advSentence": "Some sociologists contend that loneliness has become a pervasive malady of modern urban life, one that can afflict even prosperous professionals and is compounded by ubiquitous digital devices that offer connection without genuine intimacy.",
+        "advTranslation": "有些社會學家主張，孤獨已成為現代都市生活中普遍存在的弊病，就連事業有成的專業人士也可能深受其苦；而無所不在的數位裝置只提供連結、卻沒有真正的親密感，更讓這個問題雪上加霜。"
       },
       {
         "word": "nefarious",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Wicked, villainous, criminal.",
           "chinese": "邪惡的；罪惡的"
-        }
+        },
+        "advSentence": "Detectives uncovered a nefarious plot in which corrupt officials had furtively diverted relief funds intended for drought victims, leaving entire villages in the parched highlands to endure months of privation and widespread malnutrition.",
+        "advTranslation": "警探揭發了一樁罪惡的陰謀：貪腐官員暗中挪用原本要給旱災災民的救濟金，使得乾旱高地上整座村莊的居民承受數月的匱乏與普遍的營養不良。"
       },
       {
         "word": "scrutinize",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To examine closely and critically.",
           "chinese": "仔細檢查；審查"
-        }
+        },
+        "advSentence": "Before accepting the startling claim, the journal asked independent statisticians to scrutinize the raw data, and their analysis revealed that the authors had fabricated several key results, a fiasco that rendered every earlier study from the laboratory dubious.",
+        "advTranslation": "在接受這項驚人的主張之前，期刊請獨立的統計學家仔細審查原始數據，結果發現作者捏造了幾項關鍵結果；這場大失敗讓該實驗室先前的每一項研究都變得可疑。"
       },
       {
         "word": "solicit",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To beg, seek, or ask for.",
           "chinese": "懇求；徵求"
-        }
+        },
+        "advSentence": "To fund the restoration of the crumbling cathedral, volunteers began to solicit donations door to door with remarkable alacrity, though a few residents complained of being badgered so persistently that they contributed simply to restore their tranquil evenings.",
+        "advTranslation": "為了籌措修復這座搖搖欲墜的大教堂所需的經費，志工們以驚人的熱忱挨家挨戶募款；不過也有幾位居民抱怨被糾纏得太頻繁，最後捐錢只是為了換回寧靜的夜晚。"
       },
       {
         "word": "spew",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To pour out, eject forcefully.",
           "chinese": "噴出；大量湧出"
-        }
+        },
+        "advSentence": "For weeks the volcano continued to spew ash and toxic gases, and the reverberating rumbles beneath the mountain, which seismologists construed as a harbinger of a larger eruption, forced thousands of residents to evacuate.",
+        "advTranslation": "這座火山連續數週不斷噴出火山灰和有毒氣體，而山底下持續迴盪的隆隆聲被地震學家解讀為更大規模噴發的前兆，迫使數千名居民撤離。"
       },
       {
         "word": "venom",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Poison, malice, spite.",
           "chinese": "毒液；惡意"
-        }
+        },
+        "advSentence": "The two rival poets attacked each other with such venom in published pamphlets, each belittling the other's verse as clumsy doggerel, that their scurrilous feud eclipsed their poetry and attracted a voracious readership of its own.",
+        "advTranslation": "這兩位互相較勁的詩人在出版的小冊子裡以極其惡毒的言辭彼此攻擊，都貶低對方的詩作是拙劣的打油詩；他們這場粗鄙的筆戰甚至蓋過了詩作本身，吸引了一大群如飢似渴的讀者。"
       },
       {
         "word": "vexatious",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Causing annoyance, troublesome.",
           "chinese": "令人煩惱的；惱人的"
-        }
+        },
+        "advSentence": "Judges may dismiss vexatious lawsuits filed merely to harass a rival, and several jurisdictions now penalize plaintiffs who repeatedly file baseless claims in an attempt to intimidate journalists and critics into silence.",
+        "advTranslation": "法官可以駁回那些純粹為了騷擾對手而提起的惱人訴訟；而且如今已有好幾個司法管轄區會處罰一再提出毫無根據的訴訟、企圖恐嚇記者和批評者噤聲的原告。"
       },
       {
         "word": "virulent",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Full of hatred, extremely harmful.",
           "chinese": "劇毒的；惡毒的"
-        }
+        },
+        "advSentence": "The virulent strain spread with alarming speed through the crowded refugee camps, where malnutrition and a paucity of clean water had left residents especially vulnerable, and overstretched doctors struggled for weeks to quell the outbreak.",
+        "advTranslation": "這種劇毒的病株以驚人的速度在擁擠的難民營中蔓延，那裡的居民因營養不良和乾淨用水匱乏而格外容易受到感染，人手不足的醫生們奮鬥了好幾週才勉強控制住疫情。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "adverse": [
     "Unfavourable, harmful, contrary.",

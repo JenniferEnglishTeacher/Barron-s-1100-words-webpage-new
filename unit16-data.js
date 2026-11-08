@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing unselfish concern for others.",
           "chinese": "利他的；無私的"
-        }
+        },
+        "advSentence": "Although skeptics often deride such gestures as mere pretexts for publicity, the altruistic surgeon spent her weekends treating indigent patients in a rural clinic, asking for no remuneration beyond the solace of knowing she had eased their suffering.",
+        "advTranslation": "雖然憤世嫉俗的人常譏諷這類舉動只是博取名聲的藉口，這位無私的外科醫師仍利用週末在鄉間診所為貧困病患看診，不求任何報酬，只求知道自己減輕了他們的痛苦所帶來的慰藉。"
       },
       {
         "word": "amorous",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing sexual desire, relating to love.",
           "chinese": "多情的；戀愛的"
-        }
+        },
+        "advSentence": "The novel's early chapters chronicle the hero's amorous pursuit of a reticent young widow, but his flamboyant declarations of love only elicit her disdain, and the courtship becomes a poignant study of two mismatched temperaments.",
+        "advTranslation": "小說的前幾章描述男主角對一位沉默寡言的年輕寡婦展開熱烈追求，但他浮誇的示愛只換來她的鄙視，這段追求於是成為兩種格格不入性情的動人寫照。"
       },
       {
         "word": "antithesis",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The exact opposite of something.",
           "chinese": "對立面；對照"
-        }
+        },
+        "advSentence": "To the meticulous scholars of the old academy, the brash, improvisational style of the young painters seemed the very antithesis of art, a flagrant rejection of the rudimentary rules of perspective that every aspirant had once been required to master.",
+        "advTranslation": "在老派學院一絲不苟的學者眼中，年輕畫家們莽撞即興的風格簡直是藝術的對立面，公然拋棄了每位有志習畫者過去都必須掌握的透視基本法則。"
       },
       {
         "word": "bulwark",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A defensive wall or protection.",
           "chinese": "堡壘；保障"
-        }
+        },
+        "advSentence": "For centuries the coastal wetlands served as a natural bulwark against inclement weather, absorbing storm surges that would otherwise inundate inland villages, but unchecked development has steadily curtailed their capacity to protect the communities behind them.",
+        "advTranslation": "數百年來，沿海濕地一直是抵禦惡劣天候的天然屏障，吸收原本會淹沒內陸村莊的暴潮；然而毫無節制的開發已逐漸削弱它們保護後方社區的能力。"
       },
       {
         "word": "cache",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A secret hiding place for storing things.",
           "chinese": "隱藏處；儲藏物"
-        }
+        },
+        "advSentence": "While excavating a collapsed farmhouse, archaeologists discovered a cache of silver coins buried beneath the floor, a find that corroborates the conjecture that the family had surreptitiously hidden its wealth during a turbulent period of civil war.",
+        "advTranslation": "考古學家在挖掘一座倒塌的農舍時，於地板下發現一批埋藏的銀幣；這項發現證實了先前的推測：這戶人家曾在動盪的內戰時期偷偷藏匿財產。"
       },
       {
         "word": "coterie",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A small group sharing a common interest.",
           "chinese": "小圈子；同夥"
-        }
+        },
+        "advSentence": "The poet shared her drafts only with a small coterie of trusted confidants, whose incisive yet amicable critiques helped her refine the verses that would later win her the most prestigious literary prize in the country.",
+        "advTranslation": "這位詩人只把草稿分享給一小群信任的知己；他們犀利卻友善的評論幫助她修飾詩句，而這些作品後來為她贏得了國內最具聲望的文學獎。"
       },
       {
         "word": "cupidity",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Greed for money or possessions.",
           "chinese": "貪婪；貪財"
-        }
+        },
+        "advSentence": "Investigators concluded that the bank's collapse stemmed not from misfortune but from the cupidity of its executives, whose voracious appetite for bonuses led them to approve egregious loans and conceal the resulting losses through elaborate duplicity.",
+        "advTranslation": "調查人員認定，這家銀行的倒閉並非出於不幸，而是源於高層主管的貪婪：他們對獎金貪得無厭，因而核准了離譜的貸款，再用精心設計的欺瞞手段掩蓋隨之而來的虧損。"
       },
       {
         "word": "cursory",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Hasty and superficial.",
           "chinese": "粗略的；草率的"
-        }
+        },
+        "advSentence": "A cursory glance at the data might suggest that the new drug is effective, but a comprehensive analysis reveals that its alleged benefits are dubious and that the most salient side effects were quietly omitted from the published summary.",
+        "advTranslation": "粗略瀏覽數據，或許會以為這種新藥有效；但全面分析後會發現，它所宣稱的療效十分可疑，而且最顯著的副作用竟被悄悄地從公開的摘要中刪去。"
       },
       {
         "word": "embellish",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make more attractive by decoration.",
           "chinese": "裝飾；潤飾"
-        }
+        },
+        "advSentence": "Medieval chroniclers often embellished the annals of their kings with invented miracles and heroic battles, so modern historians must scrutinize such accounts with care in order to discern which details are factual and which are mere flattery.",
+        "advTranslation": "中世紀的編年史家常以虛構的神蹟與英勇戰役來潤飾國王的史冊，因此現代史學家必須仔細審視這些記載，才能分辨哪些細節屬實、哪些只是阿諛奉承。"
       },
       {
         "word": "frugal",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sparing with money or food, thrifty.",
           "chinese": "節儉的；樸素的"
-        }
+        },
+        "advSentence": "Having grown up in an era of severe privation, the frugal grandmother saved every scrap of fabric and string, a habit her affluent grandchildren found puzzling but one that had allowed her to amass a modest fortune by the time she became an octogenarian.",
+        "advTranslation": "在物資極度匱乏的年代長大，這位節儉的祖母連一小塊布、一段繩子都捨不得丟；她富裕的孫輩對這個習慣感到不解，但正是這份節儉讓她在八十多歲時已累積了一筆可觀的積蓄。"
       },
       {
         "word": "gregarious",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Fond of company, sociable.",
           "chinese": "群居的；社交的"
-        }
+        },
+        "advSentence": "Unlike their solitary relatives, gregarious birds such as starlings gather in vast throngs whose synchronized movements, scientists surmise, help the flock remain vigilant against predators that would otherwise single out a weak or isolated individual.",
+        "advTranslation": "與習性孤僻的近親不同，椋鳥等群居鳥類會聚集成龐大的鳥群；科學家推測，牠們同步的飛行動作有助於整個鳥群對掠食者保持警覺，否則掠食者便會鎖定落單或虛弱的個體下手。"
       },
       {
         "word": "habitat",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The natural environment of an organism.",
           "chinese": "棲息地；產地"
-        }
+        },
+        "advSentence": "As logging and mining continue to raze vast stretches of rainforest, the habitat of countless species is shrinking at an alarming rate, and conservationists warn that the havoc wrought by such development may soon jeopardize creatures found nowhere else on Earth.",
+        "advTranslation": "隨著伐木與採礦持續夷平大片雨林，無數物種的棲息地正以驚人的速度縮減；保育人士警告，這類開發所造成的浩劫，可能很快就會危及地球上其他地方都找不到的生物。"
       },
       {
         "word": "indigenous",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Originating naturally in a region.",
           "chinese": "本土的；土生土長的"
-        }
+        },
+        "advSentence": "Colonial administrators sought to subjugate the indigenous peoples of the region by outlawing their languages, yet these communities persevered, preserving their songs and rituals in clandestine gatherings that the authorities never managed to suppress.",
+        "advTranslation": "殖民官員企圖透過禁止當地原住民族使用母語來征服他們，然而這些族群堅持不懈，在當局始終無法壓制的祕密聚會中保存了自己的歌謠與儀式。"
       },
       {
         "word": "interloper",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who intrudes without permission.",
           "chinese": "闖入者；干涉者"
-        }
+        },
+        "advSentence": "The established merchants regarded the foreign trader as an interloper in their profitable market and sought to oust him, spreading scurrilous rumors about the quality of his goods and badgering local officials to revoke his license.",
+        "advTranslation": "老字號商人將這名外國商人視為闖入他們有利可圖之市場的不速之客，處心積慮想把他趕走：他們散布有關其貨品品質的惡毒謠言，並不斷糾纏地方官員撤銷他的執照。"
       },
       {
         "word": "progeny",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person's descendants or offspring.",
           "chinese": "後代；子孫"
-        }
+        },
+        "advSentence": "The aging emperor, obsessed with securing his dynasty, showered his progeny with titles and estates, but the fractious rivalry among his many sons precipitated a schism that tore the empire apart soon after his death.",
+        "advTranslation": "年邁的皇帝一心想鞏固王朝，便將頭銜與領地大量賞賜給子孫；然而眾多皇子之間爭執不休的明爭暗鬥，卻在他死後不久引發分裂，使帝國四分五裂。"
       },
       {
         "word": "prolific",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Producing many works or offspring.",
           "chinese": "多產的；高產的"
-        }
+        },
+        "advSentence": "Despite being remarkably prolific, the composer was never indiscriminate about what he released, discarding any piece he found lackluster and laboring over each symphony with a devotion that astonished even his most eminent contemporaries.",
+        "advTranslation": "這位作曲家雖然創作量驚人，對發表的作品卻從不隨便：凡是他覺得平淡無奇的曲子一律捨棄，並對每一首交響曲投注心血，那份執著連同時代最傑出的音樂家都為之驚嘆。"
       },
       {
         "word": "saturate",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To fill completely, soak thoroughly.",
           "chinese": "浸透；使飽和"
-        }
+        },
+        "advSentence": "Weeks of heavy rain had so thoroughly saturated the hillside that the soil could absorb no more water, and after an ominous rumbling was heard one night, geologists warned that a landslide was imminent and urged residents below to evacuate forthwith.",
+        "advTranslation": "連續數週的豪雨使山坡完全浸透，土壤再也吸不了任何水分；某天夜裡傳出不祥的隆隆聲後，地質學家警告山崩迫在眉睫，並敦促山下居民立即撤離。"
       },
       {
         "word": "sedentary",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Tending to sit or remain inactive.",
           "chinese": "久坐的；定棲的"
-        }
+        },
+        "advSentence": "Because a sedentary lifestyle can exacerbate heart disease and a host of other maladies, physicians now admonish office workers to interrupt long hours at their desks with brief walks, a simple habit that may obviate the need for medication later in life.",
+        "advTranslation": "由於久坐不動的生活型態會加重心臟病及其他多種疾病，醫師如今告誡上班族要在長時間伏案工作之間穿插短暫散步；這個簡單的習慣，或許能讓人日後免於服藥。"
       },
       {
         "word": "temerity",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Excessive confidence, reckless boldness.",
           "chinese": "魯莽；冒失"
-        }
+        },
+        "advSentence": "The junior officer had the temerity to castigate the general in front of his entire entourage, an act of insubordination so blatant that the onlookers fell silent and the young man nearly lost his commission.",
+        "advTranslation": "這名資淺軍官竟膽敢當著將軍所有隨從的面嚴厲斥責他，如此明目張膽的抗命行為令在場眾人鴉雀無聲，這位年輕人也險些因此丟了官職。"
       },
       {
         "word": "virtuosity",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Technical skill of the highest level.",
           "chinese": "精湛技藝"
-        }
+        },
+        "advSentence": "The pianist's virtuosity transformed études that most students regard as tedious drudgery into richly nuanced performances, her fingers scurrying across the keys with such adroit precision that even the most incredulous critics were won over.",
+        "advTranslation": "這位鋼琴家精湛的技藝，將多數學生視為枯燥苦差事的練習曲化為細膩豐富的演出；她的手指以靈巧精準的動作在琴鍵上飛奔，連最抱持懷疑的樂評家都被折服。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "altruistic": [
     "Showing unselfish concern for others.",

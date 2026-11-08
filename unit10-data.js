@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To cease, stop an activity.",
           "chinese": "停止；終止"
-        }
+        },
+        "advSentence": "The court ordered the developer to desist from clearing the ancient forest, but he openly flouted the injunction, prompting conservationists, cognizant of how swiftly irreversible damage could occur, to solicit emergency intervention from federal authorities.",
+        "advTranslation": "法院命令開發商停止砍伐這片古老森林，但他公然無視禁制令；保育人士深知不可逆的破壞可能轉眼發生，於是向聯邦當局請求緊急介入。"
       },
       {
         "word": "doleful",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sad, melancholy, expressing grief.",
           "chinese": "悲哀的；憂鬱的"
-        }
+        },
+        "advSentence": "Written shortly after the death of his young daughter, the composer's doleful elegy eschews ornamentation in favor of a sparse, halting melody that conveys a grief so profound that no solace seems possible.",
+        "advTranslation": "這首哀戚的輓歌是作曲家在年幼女兒過世後不久寫成的，它捨棄繁複的裝飾，改用稀疏而斷續的旋律，傳達出一種深沉到似乎無從慰藉的悲痛。"
       },
       {
         "word": "elusive",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Hard to grasp, pin down, or find.",
           "chinese": "難以捉摸的；難以獲得的"
-        }
+        },
+        "advSentence": "Despite decades of research, a satisfying explanation of consciousness remains elusive, and even eminent neuroscientists concede that current theories are rudimentary, often crumbling as soon as skeptical colleagues scrutinize their assumptions.",
+        "advTranslation": "儘管經過數十年的研究，意識仍然難以得到令人滿意的解釋；就連傑出的神經科學家也承認，現有的理論仍屬粗淺，一旦抱持懷疑的同行仔細檢視其前提，往往就站不住腳。"
       },
       {
         "word": "engrossed",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Fully absorbed, completely occupied.",
           "chinese": "全神貫注的；專心致志的"
-        }
+        },
+        "advSentence": "So engrossed was the historian in the medieval annals that she remained in the archive long after closing time, and a vigilant guard, mistaking her for an intruder, accosted her in the darkened reading room.",
+        "advTranslation": "這位歷史學家全神貫注地研讀中世紀編年史，在閉館後許久仍留在檔案室裡；一名警覺的警衛誤以為她是闖入者，在昏暗的閱覽室裡上前厲聲盤問她。"
       },
       {
         "word": "frustrate",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To foil, prevent from achieving.",
           "chinese": "挫敗；使沮喪"
-        }
+        },
+        "advSentence": "The opposition used interminable speeches and a barrage of amendments to frustrate the government's reform agenda, and the prime minister, conceding defeat with evident chagrin, eventually reverted to a far more modest plan.",
+        "advTranslation": "反對黨以冗長不休的演說和接連不斷的修正案來阻撓政府的改革議程；首相最後帶著明顯的懊惱認輸，退回到一個規模小得多的方案。"
       },
       {
         "word": "histrionics",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Exaggerated theatrical behaviour.",
           "chinese": "裝腔作勢；誇張表演"
-        }
+        },
+        "advSentence": "Jurors seemed unmoved by the defense attorney's histrionics, which included weeping and gesticulating wildly throughout her verbose closing argument, and they ultimately concurred that the evidence against the defendant was overwhelming.",
+        "advTranslation": "陪審員似乎完全不為辯護律師的誇張表演所動──她在冗長的結辯中一邊哭泣、一邊誇張地揮舞手臂──他們最終一致認為，對被告不利的證據確鑿無疑。"
       },
       {
         "word": "imminent",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "About to happen, threatening.",
           "chinese": "迫近的；即將發生的"
-        }
+        },
+        "advSentence": "When satellite images showed that the typhoon's landfall was imminent, officials ordered coastal residents to evacuate forthwith, but a few intrepid fishermen stayed behind, loath to abandon the boats that were their only valuable asset.",
+        "advTranslation": "衛星影像顯示颱風即將登陸時，官員下令沿海居民立即撤離；但仍有幾位無畏的漁民留了下來，因為他們不願拋下那些是自己唯一值錢資產的漁船。"
       },
       {
         "word": "inclement",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unfavourable, stormy, harsh.",
           "chinese": "惡劣的；嚴酷的"
-        }
+        },
+        "advSentence": "Weeks of inclement weather thwarted the expedition's attempt to ascend the summit, and the climbers, emaciated after subsisting on meager rations, reluctantly abandoned their goal and began the long descent.",
+        "advTranslation": "連續數週的惡劣天氣阻撓了探險隊攻頂的計畫；靠著微薄口糧維生而變得憔悴消瘦的登山者們，只好無奈地放棄目標，開始漫長的下山路程。"
       },
       {
         "word": "inert",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Without power to move, sluggish.",
           "chinese": "遲鈍的；惰性的"
-        }
+        },
+        "advSentence": "Lying inert on a sun-warmed rock in the tranquil desert morning, the lizard appeared oblivious to its surroundings, yet the instant an insect strayed nearby, it would sally from its perch, revealing its stillness as a feint to lure unwary prey.",
+        "advTranslation": "在寧靜的沙漠清晨，這隻蜥蜴一動也不動地趴在被太陽曬暖的岩石上，看似對周遭渾然不覺；但只要有昆蟲靠近，牠就會立刻從棲處猛衝而出，顯示牠的靜止不過是引誘粗心獵物的假動作。"
       },
       {
         "word": "interject",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To interrupt with a comment.",
           "chinese": "插嘴；打斷"
-        }
+        },
+        "advSentence": "When the candidate began to disparage his opponent's record with dubious statistics, the moderator was compelled to interject, admonishing both speakers to support their claims with evidence rather than personal attacks.",
+        "advTranslation": "當候選人開始用可疑的統計數字貶低對手的政績時，主持人不得不插話，告誡兩位發言者要以證據支持自己的論點，而不是進行人身攻擊。"
       },
       {
         "word": "mastiff",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A large, powerful breed of dog.",
           "chinese": "獒犬；大型猛犬"
-        }
+        },
+        "advSentence": "The affluent recluse's mansion was guarded by an enormous mastiff whose reverberating bark could deter even the most intrepid trespasser, though the dog was, by all accounts, remarkably gentle with children.",
+        "advTranslation": "這位富有的隱士宅邸由一隻巨大的獒犬看守，牠迴盪不絕的吠叫聲足以嚇退最大膽的闖入者；不過據大家所說，這隻狗對孩子卻出奇地溫和。"
       },
       {
         "word": "obsess",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To haunt, preoccupy the mind of.",
           "chinese": "迷住；使困擾"
-        }
+        },
+        "advSentence": "In Melville's novel, the hunt for the white whale comes to obsess Captain Ahab, whose implacable thirst for vengeance and perverse disregard for his crew's safety propel the hapless sailors toward catastrophe.",
+        "advTranslation": "在梅爾維爾的小說中，追捕白鯨這件事逐漸讓亞哈船長著了魔；他無法平息的復仇渴望，加上對船員安危固執而乖戾的漠視，將那些不幸的水手推向了災難。"
       },
       {
         "word": "pertinent",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Relevant, appropriate to the situation.",
           "chinese": "相關的；貼切的"
-        }
+        },
+        "advSentence": "The judge sustained the objection, ruling that questions about the witness's private life were not pertinent to the case and could be construed as an attempt to harass and intimidate her into recanting her testimony.",
+        "advTranslation": "法官裁定異議成立，認為有關證人私生活的問題與本案無關，而且可能被解讀為企圖騷擾、恐嚇她撤回證詞。"
       },
       {
         "word": "peruse",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To read carefully and thoroughly.",
           "chinese": "仔細閱讀；審閱"
-        }
+        },
+        "advSentence": "Before casting their votes, conscientious legislators should peruse the full text of a bill rather than rely on perfunctory summaries prepared by lobbyists, which often omit untoward provisions buried deep within the verbose legislation.",
+        "advTranslation": "在投票之前，認真負責的立法委員應該仔細閱讀法案全文，而不是依賴遊說人士準備的草率摘要，因為這些摘要常常略去深埋在冗長條文中的不當條款。"
       },
       {
         "word": "premonition",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A forewarning or feeling of what is to come.",
           "chinese": "預感；預兆"
-        }
+        },
+        "advSentence": "Haunted by a premonition of disaster, the fretful explorer filled his journal with ominous entries, yet he pressed onward across the ice, a decision that historians now regard as an egregious miscalculation.",
+        "advTranslation": "這位焦躁不安的探險家被災難將至的預感所困擾，在日記中寫滿不祥的記載，但他仍執意橫越冰原前進；歷史學家如今認為，這個決定是極其嚴重的誤判。"
       },
       {
         "word": "recoil",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To draw back, shrink from in disgust.",
           "chinese": "退縮；畏縮"
-        }
+        },
+        "advSentence": "Although some readers recoil from the novel's graphic depictions of trench warfare, the author maintains that softening those scenes would amount to a kind of euphemism, a betrayal of soldiers who endured privation and excruciating wounds.",
+        "advTranslation": "雖然有些讀者對小說中壕溝戰的血腥描寫感到畏縮，作者卻堅持，淡化那些場景無異於一種委婉粉飾，是對那些忍受匱乏與劇痛傷口的士兵的背叛。"
       },
       {
         "word": "salient",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Most important, prominent, noticeable.",
           "chinese": "顯著的；突出的"
-        }
+        },
+        "advSentence": "The most salient finding of the long-term study was that childhood malnutrition, rather than genetics, accounted for the stunted growth observed in the region, a conclusion that compelled officials to repudiate earlier claims and advocate free school meals.",
+        "advTranslation": "這項長期研究最顯著的發現是：該地區孩童發育遲緩的原因是兒時營養不良，而非遺傳；這個結論迫使官員推翻先前的說法，轉而提倡學校免費供餐。"
       },
       {
         "word": "squeamish",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Easily nauseated or shocked.",
           "chinese": "易受驚的；神經質的"
-        }
+        },
+        "advSentence": "Squeamish viewers may wish to avert their eyes during the documentary's surgical scenes, which show doctors suturing a deep laceration, though the filmmakers insist such candor is essential to convey the relentless drudgery and stress that afflict emergency-room staff.",
+        "advTranslation": "容易感到噁心的觀眾在這部紀錄片的手術片段時或許會想移開視線，因為畫面呈現醫生縫合一道深長的撕裂傷；不過製作團隊堅持，如此坦率的呈現對於傳達急診室人員所承受的無盡辛勞與壓力是必要的。"
       },
       {
         "word": "symptomatic",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Indicative of something deeper.",
           "chinese": "有症狀的；象徵性的"
-        }
+        },
+        "advSentence": "Economists contend that the way household debt continues to surge is symptomatic of deeper structural problems, such as stagnant wages and an inexorable rise in housing costs fueled by rampant speculation, rather than mere consumer extravagance.",
+        "advTranslation": "經濟學家主張，家庭債務持續急遽攀升，反映的是更深層的結構性問題，例如薪資停滯，以及猖獗的投機炒作所推動、無法遏止的房價上漲，而不只是消費者揮霍無度。"
       },
       {
         "word": "wan",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sickly pale, lacking colour or vitality.",
           "chinese": "蒼白的；無精打采的"
-        }
+        },
+        "advSentence": "After a month battling a virulent infection, the patient looked wan and frail, yet she greeted her visitors with a tremulous smile, assuring them that the worst of her malady had passed.",
+        "advTranslation": "與一場猛烈的感染搏鬥了一個月之後，病人看起來蒼白而虛弱，但她仍帶著微微顫抖的笑容迎接訪客，向他們保證病情最糟的階段已經過去了。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "desist": [
     "To cease, stop an activity.",

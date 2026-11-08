@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To stiffen with anger or become irritated.",
           "chinese": "發怒；豎起"
-        }
+        },
+        "advSentence": "Many longtime residents began to bristle at the developer's ostentatious plans for a luxury resort, which they feared would raze the town's historic waterfront, long a haven for the fishing families who had lived there for generations.",
+        "advTranslation": "許多老居民對開發商浮誇的豪華度假村計畫愈來愈惱火，擔心這項計畫會夷平鎮上歷史悠久的濱水區——那裡長久以來一直是世代定居於此的漁民家庭的避風港。"
       },
       {
         "word": "caustic",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Sarcastic, biting, corrosive.",
           "chinese": "刻薄的；腐蝕性的"
-        }
+        },
+        "advSentence": "The critic's caustic review, which disparaged the novel as a labyrinth of pretentious digressions, nettled the author so deeply that he published a lengthy diatribe in response, prolonging a feud that delighted the literary press.",
+        "advTranslation": "這位評論家尖酸刻薄的書評，貶斥那部小說是一座充滿矯揉造作離題敘述的迷宮，深深激怒了作者，使他發表了一篇長篇抨擊文章作為回應，讓這場令文學媒體樂不可支的筆戰延燒下去。"
       },
       {
         "word": "cessation",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A stopping, end, or pause.",
           "chinese": "停止；中止"
-        }
+        },
+        "advSentence": "Researchers warn that a cessation of the Atlantic currents that carry warm water northward, though still a matter of conjecture, could wreak havoc on European agriculture and render vast tracts of farmland no longer viable.",
+        "advTranslation": "研究人員警告，向北輸送暖水的大西洋洋流若停止運行——儘管目前仍屬推測——可能對歐洲農業造成嚴重破壞，使大片農地不再適合耕作。"
       },
       {
         "word": "condolence",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An expression of sympathy for grief.",
           "chinese": "哀悼；慰問"
-        }
+        },
+        "advSentence": "Setting aside years of bitter political skirmishes, the senator sent a heartfelt letter of condolence to his rival's widow, an altruistic gesture that surprised his own entourage and earned him the grudging respect of his adversaries.",
+        "advTranslation": "這位參議員拋開多年來激烈的政治交鋒，寫了一封誠摯的弔唁信給對手的遺孀；這番無私的舉動令他自己的隨行人員都大感意外，也為他贏得了對手們不甘情願的敬意。"
       },
       {
         "word": "dupe",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person easily tricked or deceived.",
           "chinese": "易受騙的人；被欺騙者"
-        }
+        },
+        "advSentence": "The swindler found an easy dupe in the gullible heir, who, flattered by promises of extraordinary profits, poured his inheritance into a mining venture the swindler had concocted, unaware of the sordid scheme until his fortune had vanished.",
+        "advTranslation": "這名騙子在那位容易受騙的繼承人身上找到了好下手的冤大頭；繼承人被豐厚獲利的承諾沖昏了頭，把遺產全數投入騙子捏造的礦業投資，直到財產化為烏有才發現這場卑劣的騙局。"
       },
       {
         "word": "euphemism",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A mild or indirect expression used instead of a harsh one.",
           "chinese": "委婉語；婉轉說法"
-        }
+        },
+        "advSentence": "Critics argue that describing mass layoffs as a restructuring is a euphemism that conceals the tangible hardships endured by workers, a rhetorical veneer that executives adopt to avoid controversial headlines.",
+        "advTranslation": "批評者認為，把大規模裁員說成「重組」是一種委婉說法，掩蓋了員工實際承受的苦楚；這層修辭的外衣，不過是企業高層用來避免引發爭議性新聞標題的手段。"
       },
       {
         "word": "inadvertent",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unintentional, accidental.",
           "chinese": "無意的；非故意的"
-        }
+        },
+        "advSentence": "The discovery of penicillin was famously inadvertent: Alexander Fleming noticed that a mold contaminating one of his culture plates had thwarted the growth of bacteria, a fortuitous observation that eventually transformed the treatment of lethal infections.",
+        "advTranslation": "盤尼西林的發現是出了名的無心插柳：亞歷山大・弗萊明注意到，污染了培養皿的黴菌阻止了細菌的生長；這個偶然的觀察最終徹底改變了致命感染的治療方式。"
       },
       {
         "word": "incipient",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Just beginning to exist or appear.",
           "chinese": "初期的；開始的"
-        }
+        },
+        "advSentence": "Because incipient tumors rarely produce overt symptoms, physicians recommend regular screenings that can detect malignant cells early, when treatment is most effective and the outlook for recovery is most propitious.",
+        "advTranslation": "由於初期腫瘤很少出現明顯症狀，醫師建議定期篩檢，以便及早發現惡性細胞——此時治療的成效最好，康復的前景也最為樂觀。"
       },
       {
         "word": "incongruous",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Out of place, not fitting the surroundings.",
           "chinese": "不協調的；不相稱的"
-        }
+        },
+        "advSentence": "When I. M. Pei unveiled his glass pyramid for the courtyard of the Louvre, many critics inveighed against it as incongruous with the palace's classical facade, yet the structure, once anathema to Parisian traditionalists, has become a landmark in its own right.",
+        "advTranslation": "貝聿銘為羅浮宮中庭設計的玻璃金字塔揭曉時，許多評論家猛烈抨擊它與宮殿古典立面格格不入；然而這座一度令巴黎傳統派深惡痛絕的建築，如今已成為一座名副其實的地標。"
       },
       {
         "word": "infamous",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a terrible reputation.",
           "chinese": "臭名昭著的；聲名狼藉的"
-        }
+        },
+        "advSentence": "Ponzi schemes take their name from Charles Ponzi, the infamous swindler whose name became an epithet for such fraud; he would perpetrate a scam in which early investors were paid with later investors' money, so its inexorable collapse was assured from the start.",
+        "advTranslation": "龐氏騙局得名於惡名昭彰的騙子查爾斯・龐茲——他的名字後來成了這類詐騙的代稱；他所犯下的詐欺是用後來投資人的錢支付早期投資人，因此其崩潰從一開始便無可避免。"
       },
       {
         "word": "jostle",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To push, bump, or elbow roughly.",
           "chinese": "推擠；碰撞"
-        }
+        },
+        "advSentence": "During the frenzy of the clearance sale's opening minutes, shoppers began to jostle one another at the entrance, and the timorous store manager, overwhelmed by the clamor, could only scurry to the back office and summon security.",
+        "advTranslation": "清倉大拍賣一開始的那幾分鐘陷入一片瘋狂，顧客在入口處你推我擠；膽怯的店經理被喧鬧聲嚇得不知所措，只能匆匆躲進後方辦公室，叫保全前來處理。"
       },
       {
         "word": "lackluster",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking brilliance or vitality, dull.",
           "chinese": "缺乏光澤的；平淡的"
-        }
+        },
+        "advSentence": "Following a lackluster quarter that many analysts viewed as a barometer of faltering consumer confidence, the retailer's executives abandoned their sporadic experiments with luxury goods and decided to revert to the affordable merchandise that had first made the brand popular.",
+        "advTranslation": "許多分析師將這一季平淡無奇的業績視為消費者信心動搖的指標；在此之後，這家零售商的高層放棄了斷斷續續推出奢侈品的嘗試，決定回歸當初讓品牌走紅的平價商品。"
       },
       {
         "word": "loathe",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To hate, detest intensely.",
           "chinese": "厭惡；憎恨"
-        }
+        },
+        "advSentence": "Although he professed to loathe the gregarious world of literary salons, the reclusive author secretly craved the praise of critics, a paradox that his closest confidant described in letters published after his death.",
+        "advTranslation": "這位隱居的作家雖聲稱厭惡熱鬧喧騰的文學沙龍圈，私底下卻渴望得到評論家的讚揚；他最親近的知己在他死後出版的書信中描述了這種矛盾。"
       },
       {
         "word": "mundane",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Ordinary, of the world, lacking excitement.",
           "chinese": "平凡的；世俗的"
-        }
+        },
+        "advSentence": "Archaeologists contend that seemingly mundane artifacts, such as cooking pots and discarded tools, deserve more than the cursory attention they once received, because they illuminate how ordinary people lived, whether as sedentary farmers or as nomadic herders.",
+        "advTranslation": "考古學家主張，看似平凡無奇的文物，例如炊具和廢棄工具，應受到比過去匆匆一瞥更多的重視，因為它們揭示了一般人的生活樣貌——無論是定居的農民，還是逐水草而居的牧民。"
       },
       {
         "word": "ominous",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Threatening, suggesting something bad.",
           "chinese": "不祥的；凶兆的"
-        }
+        },
+        "advSentence": "In the days before Vesuvius erupted, ominous tremors shook the region, but the residents of Pompeii, long accustomed to such rumblings, had grown lax and dismissed any premonition of disaster until the mountain began to emit towering clouds of ash and gas.",
+        "advTranslation": "維蘇威火山爆發前的幾天，不祥的震動撼動了整個地區，但早已習慣這類隆隆聲的龐貝居民卻掉以輕心，對任何災難的預感都不予理會，直到火山開始噴出高聳的火山灰與氣體雲。"
       },
       {
         "word": "reprimand",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To sharply disapprove or criticise officially.",
           "chinese": "譴責；申斥"
-        }
+        },
+        "advSentence": "The league commissioner chose to reprimand the coach publicly after his histrionics on the sideline incited a fray among spectators, warning that any further blatant misconduct would result in his suspension forthwith.",
+        "advTranslation": "聯盟主席決定公開斥責這位教練，因為他在場邊誇張做作的表演引發觀眾間的鬥毆；主席並警告，若再有任何明目張膽的不當行為，將立即予以停賽。"
       },
       {
         "word": "repudiate",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To reject, refuse, or disown.",
           "chinese": "拒絕；否認；與…斷絕關係"
-        }
+        },
+        "advSentence": "In his old age the philosopher came to repudiate the theories of his youth, conceding that the utopia he had once envisioned naively ignored the innate selfishness and cupidity that, he now believed, would doom any such experiment.",
+        "advTranslation": "這位哲學家晚年否定了自己年輕時的理論，坦承他曾構想的那個烏托邦天真地忽視了人類與生俱來的自私與貪婪，而他如今相信，這些天性注定會讓任何類似的實驗失敗。"
       },
       {
         "word": "stipulate",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To specify as a required condition.",
           "chinese": "規定；約定"
-        }
+        },
+        "advSentence": "The philanthropist's bequest came with strict conditions: the agreement would stipulate that the university use the funds solely for scholarships for indigent students, and any attempt to divert the money would invalidate the gift, a safeguard intended to preclude misuse by future administrators.",
+        "advTranslation": "這位慈善家的遺贈附帶嚴格的條件：協議將明訂大學只能將這筆資金用於清寒學生的獎學金，任何挪用的企圖都會使整筆捐贈失效——這道防護措施旨在杜絕未來的行政主管濫用資金。"
       },
       {
         "word": "tremulous",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Quivering, shaking, timid.",
           "chinese": "顫抖的；膽怯的"
-        }
+        },
+        "advSentence": "In a tremulous voice, the octogenarian survivor recounted how soldiers had besieged her village, and her testimony proved pertinent to the tribunal's inquiry into the alleged atrocities committed during the war.",
+        "advTranslation": "這位八十多歲的倖存者以顫抖的聲音，述說士兵如何包圍她的村莊；她的證詞與法庭針對戰爭期間那些涉嫌暴行所進行的調查息息相關。"
       },
       {
         "word": "wrest",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To take away by force, to twist.",
           "chinese": "奪取；費力取得"
-        }
+        },
+        "advSentence": "Through a series of daring campaigns, the rebel commander managed to wrest the capital from the regime's monolithic grip, but his victory soured when a coterie of ambitious advisers began to vie for power, plunging the inchoate government into turmoil.",
+        "advTranslation": "這位叛軍指揮官透過一連串大膽的戰役，從政權鐵板一塊的掌控中奪下首都；然而當一群野心勃勃的幕僚開始爭權奪利，使剛成形的新政府陷入動盪時，他的勝利很快便變了調。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "bristle": [
     "To stiffen with anger or become irritated.",

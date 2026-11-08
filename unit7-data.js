@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Based on random choice or personal whim.",
           "chinese": "任意的；武斷的"
-        }
+        },
+        "advSentence": "Historians disparage the colonial officials who drew arbitrary borders across Africa, ignoring the realms of established kingdoms and ethnic groups, a blunder whose pernicious consequences continue to afflict the region today.",
+        "advTranslation": "歷史學家貶斥那些在非洲任意劃定邊界的殖民官員，他們無視既有王國與族群的疆域，這項錯誤所造成的有害後果至今仍困擾著該地區。"
       },
       {
         "word": "cognizant",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Aware of, having knowledge of.",
           "chinese": "認識到的；知曉的"
-        }
+        },
+        "advSentence": "Fully cognizant of the dubious legality of their methods, the journalists nonetheless posed as buyers to infiltrate the smuggling ring, reasoning that exposing its sordid trade in endangered wildlife justified a measure of duplicity.",
+        "advTranslation": "記者們完全清楚自己的手法在法律上有疑慮，卻仍假扮成買家滲透這個走私集團，理由是揭發其買賣瀕危野生動物的骯髒勾當，足以合理化些許欺瞞的手段。"
       },
       {
         "word": "effigy",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A likeness, usually of a disliked person.",
           "chinese": "雕像；假人像"
-        }
+        },
+        "advSentence": "Furious at the new tax, the irate crowd paraded an effigy of the governor through the streets before setting it ablaze in the town square, a brash act of defiance that the authorities struggled to quell.",
+        "advTranslation": "憤怒的群眾不滿新稅，抬著總督的假人像在街上遊行，最後在城鎮廣場上將它點火焚燒；這種魯莽的反抗行為讓當局難以平息。"
       },
       {
         "word": "exacerbate",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make worse, to irritate.",
           "chinese": "惡化；激怒"
-        }
+        },
+        "advSentence": "The decision to subsidize water-hungry crops only served to exacerbate the depletion of groundwater, an outcome that agronomists had prognosticated years earlier, only to see their warnings derided as alarmist by officials who eschewed scientific advice.",
+        "advTranslation": "補貼高耗水作物的決策只讓地下水枯竭的情況更加惡化；農藝學家早在多年前就預言了這個結果，但他們的警告卻被刻意迴避科學建議的官員嘲笑為危言聳聽。"
       },
       {
         "word": "flout",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To disregard openly, to mock.",
           "chinese": "嘲弄；無視規則"
-        }
+        },
+        "advSentence": "Some affluent shipping magnates continue to flout international environmental treaties with seeming impunity, dumping toxic waste in remote waters where enforcement is lax, inspections are rare, and the culprits are seldom identified, let alone prosecuted.",
+        "advTranslation": "一些富有的航運大亨持續公然無視國際環保條約，似乎從未受到懲罰；他們在執法鬆散、鮮少檢查的偏遠海域傾倒有毒廢棄物，肇事者很少被查出來，更別說遭到起訴了。"
       },
       {
         "word": "forthwith",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Immediately, without delay.",
           "chinese": "立即；馬上"
-        }
+        },
+        "advSentence": "Upon learning that a contaminated batch of medicine had already been shipped, the distraught health minister ordered the manufacturer to recall every bottle forthwith and stipulated that no new products be sold until inspectors had scrutinized its facilities.",
+        "advTranslation": "得知一批受污染的藥品已經出貨後，心急如焚的衛生部長下令藥廠立即回收每一瓶，並明定在檢查人員徹底審查其廠房之前，不得販售任何新產品。"
       },
       {
         "word": "fray",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A fight, conflict, or noisy quarrel.",
           "chinese": "爭吵；打鬥"
-        }
+        },
+        "advSentence": "Although the senator had vowed to remain neutral, she eventually entered the fray over the controversial bill, delivering a caustic speech that belittled her colleagues' compromise as a feeble pretext for continued inaction.",
+        "advTranslation": "雖然這位參議員曾誓言保持中立，最後她還是加入了這項爭議法案的論戰，發表一場尖酸的演說，貶低同僚的妥協方案不過是繼續無所作為的薄弱藉口。"
       },
       {
         "word": "harass",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To trouble, torment, or intimidate repeatedly.",
           "chinese": "騷擾；煩擾"
-        }
+        },
+        "advSentence": "Investigators found that the landlord had hired thugs to harass and intimidate elderly tenants into abandoning their rent-controlled apartments, a scheme so blatant that even his longtime confidant agreed to testify against him.",
+        "advTranslation": "調查人員發現，這名房東僱用打手一再騷擾、恐嚇年長房客，逼他們搬離租金管制的公寓；這個計謀明目張膽到連他多年的心腹都同意出庭指證他。"
       },
       {
         "word": "implacable",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Cannot be calmed, relentless.",
           "chinese": "難以平息的；不屈不撓的"
-        }
+        },
+        "advSentence": "Steeped in ancient myth, Greek tragedies portrayed the Furies as implacable avengers who would hound any culprit guilty of shedding a relative's blood, ignoring even the most tremulous pleas for mercy.",
+        "advTranslation": "希臘悲劇深受古代神話薰陶，將復仇女神描繪成無法平息的復仇者，她們會窮追任何殺害親人的罪人，即使是最顫抖哀切的求饒也置之不理。"
       },
       {
         "word": "indigent",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Poor, needy, lacking basic necessities.",
           "chinese": "貧困的；窮困的"
-        }
+        },
+        "advSentence": "The legal clinic offers free counsel to indigent defendants who might otherwise succumb to the inexorable pressure to plead guilty, a laudable initiative that has helped many clients repudiate false confessions extracted under duress.",
+        "advTranslation": "這間法律扶助中心為貧困的被告提供免費諮詢，否則他們可能會屈服於認罪那股難以抗拒的壓力；這項值得讚揚的計畫已幫助許多當事人推翻在脅迫下被逼出的不實自白。"
       },
       {
         "word": "jurisdiction",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The power or range of legal authority.",
           "chinese": "司法權；管轄範圍"
-        }
+        },
+        "advSentence": "Because the alleged fraud spanned several countries, rival prosecutors spent months debating which court had jurisdiction, and the delay allowed the infamous felon, an adroit manipulator of legal loopholes, to move his assets beyond the reach of investigators.",
+        "advTranslation": "由於這起涉嫌詐欺案橫跨數國，各方檢察官花了好幾個月爭論哪個法院擁有管轄權；這段延誤讓那名惡名昭彰、擅長鑽法律漏洞的重罪犯得以將資產轉移到調查人員無法觸及之處。"
       },
       {
         "word": "monolithic",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Massively solid, uniform, inflexible.",
           "chinese": "巨大而單一的；整體的"
-        }
+        },
+        "advSentence": "Political scientists caution against portraying any electorate as a monolithic bloc, since voters within the same demographic often hold incongruous views on issues from taxation to immigration, a diversity that perfunctory analyses fail to discern.",
+        "advTranslation": "政治學家提醒，不應把任何選民群體描繪成鐵板一塊，因為同一人口族群中的選民，對從稅制到移民等議題往往抱持互相矛盾的看法；而這種多元性正是草率的分析所無法辨識的。"
       },
       {
         "word": "oust",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To drive out, eject, or force from power.",
           "chinese": "驅逐；罷免"
-        }
+        },
+        "advSentence": "After months of mass demonstrations, reform-minded legislators moved to oust the autocratic president, who had promulgated decrees muzzling the press and whose belligerent rhetoric had alienated even the loyalists in his own entourage.",
+        "advTranslation": "經過數月的大規模示威後，主張改革的立法者採取行動罷黜這位專制總統；他曾頒布箝制新聞自由的法令，而他好戰的言論甚至疏遠了身邊隨從中的忠誠支持者。"
       },
       {
         "word": "paroxysm",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A sudden fit or outburst.",
           "chinese": "陣發；突發"
-        }
+        },
+        "advSentence": "The announcement of the ceasefire sent the throng gathered outside the palace into a paroxysm of joy, yet seasoned diplomats remained reticent, aware that earlier truces had swiftly collapsed amid a frenzy of mutual recrimination.",
+        "advTranslation": "停火的宣布讓聚集在宮殿外的群眾爆發一陣狂喜，但經驗老到的外交官仍保持緘默，因為他們知道先前的停戰協議都在雙方瘋狂互相指責中迅速瓦解。"
       },
       {
         "word": "revert",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To return to a previous condition.",
           "chinese": "恢復；重返"
-        }
+        },
+        "advSentence": "Once the novelty wore off, many residents of the eco-village began to revert to their old habits, abandoning with alacrity the drudgery of composting and hand-washing laundry and admitting with some chagrin that convenience had triumphed over ideals.",
+        "advTranslation": "新鮮感一過，這個生態村的許多居民便開始恢復舊習慣，迫不及待地拋下堆肥和手洗衣物的苦差事，並略帶懊惱地承認便利終究戰勝了理想。"
       },
       {
         "word": "skirmish",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A small fight or brief encounter.",
           "chinese": "小衝突；小規模戰鬥"
-        }
+        },
+        "advSentence": "What began as a minor skirmish between border patrols at a disputed river crossing soon escalated, to the consternation of neighboring states, as pugnacious commanders on both sides ignored diplomats who badgered them to accept mediation.",
+        "advTranslation": "一開始只是邊境巡邏隊在一處有爭議的渡河點發生的小規模衝突，卻很快升級，令鄰國驚愕不已，因為雙方好鬥的指揮官都無視外交官一再催促他們接受調停。"
       },
       {
         "word": "stymie",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To hinder or prevent from proceeding.",
           "chinese": "阻礙；妨礙"
-        }
+        },
+        "advSentence": "Arcane permitting rules continue to stymie efforts to modernize the region's antiquated power grid, and blackouts have become such a mundane nuisance that affluent households simply eschew the public system by installing private solar panels.",
+        "advTranslation": "晦澀難懂的許可規定持續阻礙該地區老舊電網的現代化，停電已成為司空見慣的麻煩，富裕家庭乾脆裝設私人太陽能板，避開公共電網。"
       },
       {
         "word": "terminate",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To bring to an end.",
           "chinese": "終止；結束"
-        }
+        },
+        "advSentence": "The board voted to terminate the chief executive's contract after an internal audit uncovered furtive accounting maneuvers that had concealed heavy losses, a breach of ethics that no euphemism in his public apology could disguise.",
+        "advTranslation": "內部稽核發現執行長以鬼祟的會計手法掩蓋了巨額虧損後，董事會投票終止了他的合約；這種違反職業道德的行為，無論他在公開道歉中用什麼委婉說法都掩飾不了。"
       },
       {
         "word": "turbulent",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unruly, agitated, causing unrest.",
           "chinese": "動盪的；混亂的"
-        }
+        },
+        "advSentence": "During the turbulent years after the revolution, rival factions repeatedly wrested control of the capital from one another, and the annals of the period describe a weary populace longing for any cessation of violence, regardless of who ruled.",
+        "advTranslation": "在革命後的動盪歲月裡，敵對派系多次從彼此手中奪取首都的控制權；當時的編年史記載，疲憊的民眾只渴望暴力能夠停止，無論由誰掌權都無所謂。"
       },
       {
         "word": "untoward",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unfortunate, improper, unfavourable.",
           "chinese": "不適當的；不幸的"
-        }
+        },
+        "advSentence": "Regulators suspended the clinical trial after several volunteers suffered untoward reactions, which critics blamed on the indiscriminate recruitment of participants, and the company's clumsy denials only compounded the damage to a laboratory once considered eminent in its field.",
+        "advTranslation": "數名志願者出現不良反應後，主管機關暫停了這項臨床試驗；批評者將問題歸咎於受試者招募過於隨意，而公司笨拙的否認只讓這間曾在業界享有盛名的實驗室所受的傷害雪上加霜。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "arbitrary": [
     "Based on random choice or personal whim.",

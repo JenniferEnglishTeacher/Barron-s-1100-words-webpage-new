@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing great care and effort.",
           "chinese": "勤勉的；刻苦的"
-        }
+        },
+        "advSentence": "Through assiduous study of faded manuscripts, the young scholar managed to decipher the cryptic notes of a medieval astronomer, whose incontrovertible observations of planetary motion had been overlooked for centuries by historians who gave the documents only a cursory reading.",
+        "advTranslation": "這位年輕學者孜孜不倦地研讀褪色的手稿，終於解讀出一位中世紀天文學家晦澀難懂的筆記；這些關於行星運行、無可辯駁的觀測紀錄，數百年來一直被只草草翻閱文件的史學家所忽略。"
       },
       {
         "word": "attest",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To declare or certify as true.",
           "chinese": "證明；證實"
-        }
+        },
+        "advSentence": "Dozens of letters written by ordinary soldiers attest to the excruciating hardships of the winter campaign, describing emaciated men who froze in their tents while a fretful commander waited in vain for supplies that never arrived.",
+        "advTranslation": "數十封由普通士兵寫下的家書，證實了那場冬季戰役中令人痛苦不堪的艱辛：信中描述骨瘦如柴的士兵在帳篷裡受凍，而焦躁不安的指揮官則徒然等待著始終沒有送達的補給。"
       },
       {
         "word": "component",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A part or element of a larger whole.",
           "chinese": "零件；成分"
-        }
+        },
+        "advSentence": "Every component of a coral reef ecosystem is integral to its survival, so when rising ocean temperatures cause even sporadic die-offs of a single species of algae, the effects can permeate the entire food web with startling speed.",
+        "advTranslation": "珊瑚礁生態系的每一個組成部分對其存續都不可或缺；因此，當海水升溫導致即使只是某一種藻類零星死亡時，其影響也可能以驚人的速度擴散到整個食物網。"
       },
       {
         "word": "concoct",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To devise or invent a story.",
           "chinese": "捏造；調製"
-        }
+        },
+        "advSentence": "Hoping to evade punishment, the culprit concocted an elaborate alibi involving a fictitious business trip, but astute detectives soon noticed inconsistencies in his story and located witnesses whose testimony he could not repudiate.",
+        "advTranslation": "為了逃避懲罰，犯人捏造了一套精心設計的不在場證明，聲稱自己正在進行一趟子虛烏有的出差；但精明的警探很快就察覺他說詞前後矛盾，並找到了他無法否認其證詞的目擊者。"
       },
       {
         "word": "consummate",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing great skill, complete.",
           "chinese": "圓滿的；技藝高超的"
-        }
+        },
+        "advSentence": "A consummate diplomat, the ambassador managed to quell the acrimonious dispute between the two neighboring nations, patiently cajoling leaders who had long loathed one another into signing a treaty that brought lasting peace to the region.",
+        "advTranslation": "這位大使是技巧純熟的外交家，他成功平息了兩個鄰國之間激烈尖刻的爭端，耐心地哄勸彼此長期厭惡的領袖簽下條約，為該地區帶來數十年的和平。"
       },
       {
         "word": "deploy",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To position strategically for use.",
           "chinese": "部署；展開"
-        }
+        },
+        "advSentence": "When the volcano began to spew ash and toxic gases, the government deployed troops to evacuate nearby towns, though many residents were loath to abandon their homes until soldiers convinced them that the volcano posed a lethal threat.",
+        "advTranslation": "當火山開始噴出火山灰與有毒氣體時，政府部署軍隊疏散附近城鎮；然而許多居民不願離開家園，直到士兵說服他們這次噴發會帶來致命威脅，他們才肯撤離。"
       },
       {
         "word": "enigma",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A puzzling or mysterious person or thing.",
           "chinese": "謎；難以理解的事物"
-        }
+        },
+        "advSentence": "For generations the purpose of the massive stone circle remained an enigma, and scholars proposed wildly incongruous theories, some calling it an astronomical calendar and others a sanctuary where priests sought to link the earthly realm with the heavens.",
+        "advTranslation": "好幾個世代以來，這座巨大石圈的用途始終是個謎；學者們提出了南轅北轍的理論，有人認為它是天文曆法，也有人認為它是祭司試圖連結人間與天界的聖所。"
       },
       {
         "word": "evaluate",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To assess the value or importance of.",
           "chinese": "評估；評價"
-        }
+        },
+        "advSentence": "Before approving a new vaccine, regulators must carefully evaluate whether its benefits outweigh its risks, a process that requires them to peruse thousands of pages of trial data and weigh every pertinent finding against the possibility of adverse reactions.",
+        "advTranslation": "在核准新疫苗之前，主管機關必須審慎評估其效益是否大於風險；這個過程需要他們詳讀數千頁的試驗數據，並將每一項相關發現與可能產生的不良反應仔細權衡。"
       },
       {
         "word": "exult",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To be joyfully triumphant.",
           "chinese": "歡欣鼓舞；狂喜"
-        }
+        },
+        "advSentence": "Reporters exulted when parliament finally abrogated the law that had fettered the press for generations, though veteran editors cautioned that the government could still find subtler ways to harass journalists who criticized its policies.",
+        "advTranslation": "國會終於廢除了箝制新聞界數十年的法律，記者們為此歡欣鼓舞；不過資深編輯提醒，政府仍可能找到更隱晦的方式，騷擾批評其政策的記者。"
       },
       {
         "word": "fallacious",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Based on a false belief, misleading.",
           "chinese": "謬誤的；欺騙性的"
-        }
+        },
+        "advSentence": "The candidate's argument was fallacious, resting on the unfounded premise that recent immigrants were culpable for rising crime, a stereotype that the city's own statistics consistently failed to support in any meaningful way.",
+        "advTranslation": "這位候選人的論點是錯誤的，因為它建立在一個毫無根據的前提上：認為新移民應為犯罪率上升負責；然而這種刻板印象，始終無法從該市自身的統計數據中得到任何實質支持。"
       },
       {
         "word": "fraught",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Filled with, causing anxiety.",
           "chinese": "充滿的；令人憂慮的"
-        }
+        },
+        "advSentence": "The journey across the frozen plateau was fraught with peril, and the intrepid explorers, besieged by blizzards and afflicted with frostbite, found no respite until a rescue party finally reached their battered tents.",
+        "advTranslation": "橫越冰封高原的旅程危機四伏；這群無畏的探險家被暴風雪重重圍困，又飽受凍傷之苦，直到救援隊終於抵達他們殘破的帳篷，才得以喘息。"
       },
       {
         "word": "gullible",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Easily persuaded to believe something.",
           "chinese": "易受騙的；輕信的"
-        }
+        },
+        "advSentence": "Online swindlers deliberately seek out gullible users, sending urgent messages that importune them to share their passwords under some plausible pretext, and the hapless victims who comply often lose their savings before realizing they have been duped.",
+        "advTranslation": "網路詐騙集團專門鎖定容易受騙的使用者，發送緊急訊息、以看似合理的藉口一再要求他們提供密碼；那些照做的不幸受害者，往往在發現自己被騙之前就已失去積蓄。"
       },
       {
         "word": "hoax",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A deceptive trick or false story.",
           "chinese": "騙局；惡作劇"
-        }
+        },
+        "advSentence": "The famous photograph of the lake monster was finally exposed as a hoax when an elderly man recanted his long-standing denials and confessed his complicity in the scheme, admitting that the elusive creature was merely a toy submarine fitted with a carved wooden head.",
+        "advTranslation": "那張著名的湖怪照片最終被揭穿是一場騙局：一位老人推翻了自己長年的否認，坦承參與了這項計謀，並承認那隻難以捉摸的怪物其實只是一艘裝上木雕頭部的玩具潛水艇。"
       },
       {
         "word": "impeccable",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "In accordance with the highest standards.",
           "chinese": "無懈可擊的；無缺點的"
-        }
+        },
+        "advSentence": "Although the forger's technique was impeccable, chemical analysis revealed that the pigments in the alleged Renaissance masterpiece were modern, a discovery that invalidated the painting's attribution, much to the chagrin of the collector who had bought it.",
+        "advTranslation": "儘管偽造者的技法無懈可擊，化學分析卻顯示這幅號稱文藝復興傑作的畫中所用顏料是現代產物；這項發現推翻了該畫的作者歸屬，令買下它的收藏家懊惱不已。"
       },
       {
         "word": "labyrinth",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A complicated network of paths.",
           "chinese": "迷宮；錯綜複雜的事物"
-        }
+        },
+        "advSentence": "Beneath the old city lies a subterranean labyrinth of tunnels so convoluted that early explorers who rashly entered without maps often lost their way, and local legends abound with tales of hapless travelers who never emerged.",
+        "advTranslation": "古城地底下有一座地下隧道迷宮，錯綜複雜到早期貿然不帶地圖便進入的探險者經常迷路；當地流傳著許多倒楣旅人一去不返的傳說。"
       },
       {
         "word": "manifold",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Many and various, multiple.",
           "chinese": "多種多樣的；繁多的"
-        }
+        },
+        "advSentence": "The advantages of bilingual education are manifold: research suggests that students who master two languages not only enhance their cognitive flexibility but also become more cognizant of cultural nuances that their monolingual peers may overlook.",
+        "advTranslation": "雙語教育的好處多不勝數：研究顯示，精通兩種語言的學生不僅能提升思維的靈活度，也會更能察覺單語同儕可能忽略的文化細微差異。"
       },
       {
         "word": "murky",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Dark and gloomy, not clear.",
           "chinese": "昏暗的；陰晦的"
-        }
+        },
+        "advSentence": "Divers searching for the sunken galleon could barely see through the murky water of the estuary, where pernicious industrial runoff had settled into the silt, and they were forced to curtail each dive before sinister currents could sweep them out to sea.",
+        "advTranslation": "搜尋沉沒大帆船的潛水員在河口混濁的水中幾乎什麼也看不見，那裡有害的工業廢水早已沉積在淤泥中；他們每次下潛都不得不縮短時間，以免被險惡的暗流捲入大海。"
       },
       {
         "word": "perpetrate",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To commit a harmful act.",
           "chinese": "犯(罪)；做(壞事)"
-        }
+        },
+        "advSentence": "Undeterred by repeated attempts to intimidate their sources, zealous reporters spent years gathering evidence against the officials who had perpetrated the fraud, finally ending the impunity those officials had enjoyed for so long.",
+        "advTranslation": "儘管消息來源一再遭到恐嚇，熱忱的記者仍不為所動，花了數年蒐集證據揭發犯下這起詐欺案的官員，終於終結了這些官員長久以來逍遙法外的局面。"
       },
       {
         "word": "resourceful",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having the ability to find solutions.",
           "chinese": "足智多謀的；機智的"
-        }
+        },
+        "advSentence": "Stranded on a barren island after their ship ran aground, the resourceful crew salvaged canvas and timber from the wreck, built a shelter sturdy enough to repulse the fierce winds, and rationed their food so carefully that no one succumbed to malnutrition.",
+        "advTranslation": "船隻擱淺後受困於荒島，足智多謀的船員們從殘骸中搶救出帆布與木材，搭建出足以抵擋強風的庇護所，並謹慎地分配糧食，使得沒有任何人因營養不良而倒下。"
       },
       {
         "word": "subterfuge",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Deception to achieve a goal.",
           "chinese": "詭計；遁詞"
-        }
+        },
+        "advSentence": "Stymied by the embassy's tight security, the spy resorted to subterfuge, posing as a cleaner so that she could furtively photograph classified files while guards, lulled by the mundane rhythm of her nightly routine, paid her no attention.",
+        "advTranslation": "受阻於大使館的嚴密保全，這名間諜只好使出詭計，假扮成清潔工，以便偷偷拍攝機密文件；而警衛們早已被她每晚平凡單調的例行工作麻痺，完全沒有注意她。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "assiduous": [
     "Showing great care and effort.",

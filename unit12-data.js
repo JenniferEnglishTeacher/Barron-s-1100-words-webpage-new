@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A bitter verbal attack or criticism.",
           "chinese": "抨擊；誹謗"
-        }
+        },
+        "advSentence": "The senator's televised diatribe against journalists, laced with scurrilous accusations and personal insults, failed to win over his opponents and instead seemed to corroborate their claim that he was too belligerent to tolerate legitimate criticism.",
+        "advTranslation": "這位參議員在電視上對記者發表的猛烈抨擊，夾雜著惡毒的指控與人身攻擊，非但沒有爭取到對手的支持，反而似乎證實了他們的說法：他好鬥成性，容不下正當的批評。"
       },
       {
         "word": "inhibition",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A restraint on behaviour or impulse.",
           "chinese": "抑制；禁忌"
-        }
+        },
+        "advSentence": "Drama coaches often use improvisation games to help shy students overcome their inhibition, encouraging them to gesticulate freely, interject improvised lines, and embrace the bold histrionics that the stage so often demands.",
+        "advTranslation": "戲劇教練常用即興遊戲幫助害羞的學生克服心理上的拘束，鼓勵他們盡情比手畫腳、隨興插入臺詞，並勇於展現舞臺上經常需要的誇張表演。"
       },
       {
         "word": "fortuitous",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lucky, happening by fortunate chance.",
           "chinese": "偶然的；幸運的"
-        }
+        },
+        "advSentence": "The discovery of penicillin was famously fortuitous: Alexander Fleming noticed that mold had contaminated a culture dish he had left out, and the astute scientist perceived that this inadvertent mishap had produced a substance that killed the surrounding bacteria.",
+        "advTranslation": "青黴素的發現是出了名的幸運巧合：弗萊明注意到一個被他擱置的培養皿遭黴菌污染，這位敏銳的科學家察覺到，這個無心的意外竟產生了一種能殺死周圍細菌的物質。"
       },
       {
         "word": "incoherent",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unable to speak clearly, disjointed.",
           "chinese": "語無倫次的；不連貫的"
-        }
+        },
+        "advSentence": "Suffering from a high fever and severe dehydration, the emaciated hiker was nearly incoherent when rescuers found him, mumbling garbled phrases that offered few pertinent clues about where his missing companions might be.",
+        "advTranslation": "這名骨瘦如柴的登山客發著高燒且嚴重脫水，被救難人員找到時幾乎語無倫次，只能喃喃說出含糊不清的字句，幾乎提供不了任何關於失蹤同伴下落的相關線索。"
       },
       {
         "word": "ilk",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A type, kind, or sort.",
           "chinese": "種類；同類"
-        }
+        },
+        "advSentence": "The eminent critic had little patience for celebrity memoirs and other books of that ilk, which she disparaged as mundane exercises in self-promotion rather than literature worthy of serious attention from thoughtful readers.",
+        "advTranslation": "這位知名評論家對名人回憶錄以及同類書籍毫無耐心，她貶斥這些書只是平庸的自我宣傳，而非值得有思想的讀者認真看待的文學作品。"
       },
       {
         "word": "prestigious",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a high reputation, respected.",
           "chinese": "享有聲望的"
-        }
+        },
+        "advSentence": "Each year thousands of aspirants apply to the prestigious conservatory, but only a handful are admitted, so even the most avid young musicians must endure months of grueling auditions, and many succumb to the pressure before the final round.",
+        "advTranslation": "每年都有數千名有志者報考這所享有盛名的音樂學院，但只有寥寥數人獲得錄取；因此，即使是最熱衷的年輕音樂家，也得熬過數個月艱苦的試奏，許多人在決選前就承受不住壓力而放棄。"
       },
       {
         "word": "placard",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A notice or sign for public display.",
           "chinese": "海報；標語牌"
-        }
+        },
+        "advSentence": "A throng of demonstrators marched toward the capitol carrying placards that denounced the government's egregious corruption, while police officers stood vigilant along the route in case the peaceful rally turned turbulent.",
+        "advTranslation": "一大群示威者手持譴責政府嚴重貪腐的標語牌，朝議會大廈遊行前進；警察則沿途保持警戒，以防這場和平集會演變成騷亂。"
       },
       {
         "word": "integral",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Essential, forming a necessary part.",
           "chinese": "不可或缺的；整體的"
-        }
+        },
+        "advSentence": "Cooperation among rival nations is integral to any feasible plan for combating climate change, since no single country, however powerful, can thwart the adverse effects of rising global temperatures on its own.",
+        "advTranslation": "敵對國家之間的合作，是任何可行的氣候變遷因應計畫中不可或缺的一環，因為沒有任何一個國家，無論多麼強大，能夠單憑一己之力阻擋全球升溫帶來的不利影響。"
       },
       {
         "word": "remuneration",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Payment or compensation for work.",
           "chinese": "報酬；酬勞"
-        }
+        },
+        "advSentence": "Union leaders argued that the low remuneration offered to farm workers, who toiled for long hours in excruciating heat, was a flagrant injustice that left many families mired in privation despite their tireless labor.",
+        "advTranslation": "工會領袖主張，農場工人在酷熱難耐的天氣下長時間辛苦勞動，所得報酬卻如此微薄，這是明目張膽的不公不義，讓許多家庭儘管不辭辛勞，仍深陷貧困之中。"
       },
       {
         "word": "nominal",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "In name only, very small.",
           "chinese": "名義上的；微不足道的"
-        }
+        },
+        "advSentence": "Although the elderly monarch remained the nominal head of state, real power had long since been wrested from him by a circle of affluent merchants, whose duplicity he was too feeble to discern.",
+        "advTranslation": "雖然年邁的君主仍是名義上的國家元首，但實權早已被一群富商奪走，而他年老體衰，根本無法察覺這些人的口是心非。"
       },
       {
         "word": "expunge",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To erase or remove completely.",
           "chinese": "抹去；刪除"
-        }
+        },
+        "advSentence": "After DNA evidence corroborated his alibi, the wrongly convicted man petitioned to have his criminal record expunged so that the stigma of being labeled a felon would no longer stymie his efforts to find steady work.",
+        "advTranslation": "在DNA證據證實他的不在場證明後，這名遭冤判的男子申請將犯罪紀錄完全刪除，好讓「重罪犯」的污名不再阻礙他尋找穩定工作。"
       },
       {
         "word": "flamboyant",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showy, extravagant, colourful.",
           "chinese": "艷麗的；炫耀的"
-        }
+        },
+        "advSentence": "The flamboyant pianist, famous for his sequined costumes and candelabra-topped piano, was often derided by critics as a mere showman, yet his performances were anything but lackluster, and his loyal fans scoffed at such snobbery.",
+        "advTranslation": "這位浮誇華麗的鋼琴家以綴滿亮片的服裝和擺著燭臺的鋼琴聞名，常被評論家嘲笑只是個表演者；然而他的演出絕不乏味，忠實樂迷對這種勢利的批評也嗤之以鼻。"
       },
       {
         "word": "anathema",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Something greatly detested or loathed.",
           "chinese": "令人厭惡的事物；詛咒"
-        }
+        },
+        "advSentence": "For the pious monks, any display of worldly luxury was anathema, so they eschewed fine clothing, ate only rudimentary meals, and regarded the pursuit of wealth as a pernicious distraction from prayer and contemplation.",
+        "advTranslation": "對虔誠的僧侶而言，任何世俗奢華的展現都令人深惡痛絕；因此他們避穿華服，只吃最簡單的餐食，並將追求財富視為妨礙祈禱與冥想的有害干擾。"
       },
       {
         "word": "schism",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A division or split within a group.",
           "chinese": "分裂；派系"
-        }
+        },
+        "advSentence": "The acrimonious dispute over doctrine eventually produced a schism within the denomination, as reformers repudiated the authority of the elders and founded rival congregations that openly castigated their former leaders as corrupt.",
+        "advTranslation": "這場關於教義的激烈爭論最終導致教派分裂：改革派否認長老的權威，另立互相抗衡的會眾團體，並公開嚴厲譴責他們先前的領袖腐敗。"
       },
       {
         "word": "utopia",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An imagined place of perfection.",
           "chinese": "烏托邦；理想國"
-        }
+        },
+        "advSentence": "Many nineteenth-century reformers founded rural communes in hopes of building a utopia free of greed and poverty, but their sanguine visions soon faded as members found the drudgery of farm work and constant quarrels over money hard to tolerate.",
+        "advTranslation": "許多十九世紀的改革者創立鄉村公社，希望打造一個沒有貪婪與貧窮的烏托邦；但當成員們發現農務的苦差事和永無止境的金錢爭執令人難以忍受時，他們樂觀的願景很快便破滅了。"
       },
       {
         "word": "timorous",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Fearful, easily frightened.",
           "chinese": "膽怯的；怯懦的"
-        }
+        },
+        "advSentence": "The timorous deer recoiled at the faintest rustle in the underbrush and bolted into the forest whenever a hiker ventured near, so vigilant wildlife photographers had to stay motionless for hours to capture even an elusive glimpse of it.",
+        "advTranslation": "這頭膽小的鹿只要聽見矮樹叢中最輕微的窸窣聲就會退縮，一有登山客靠近便竄入林中；因此警覺的野生動物攝影師得一動不動地守候好幾個小時，才能捕捉到牠難得一見的身影。"
       },
       {
         "word": "truncated",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Shortened, cut off abruptly.",
           "chinese": "截短的；縮短的"
-        }
+        },
+        "advSentence": "Because the network aired only a truncated version of the interview, the scientist's careful explanation of the study's nuances was lost, and viewers were left with a misleading sound bite that pundits soon began to construe as support for dubious health claims.",
+        "advTranslation": "由於電視臺只播出經過刪減的訪談版本，科學家對研究細微之處的仔細說明全數遺漏，觀眾只看到一段誤導性的片段，評論員隨即將其解讀為支持可疑健康說法的證據。"
       },
       {
         "word": "jaunty",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lively, cheerful, self-confident.",
           "chinese": "輕鬆活潑的"
-        }
+        },
+        "advSentence": "Whistling a jaunty tune as he pushed his cart, the elderly street vendor greeted every customer with a joke, and his cheerful manner offered solace and a brief respite to neighbors still distraught after the flood.",
+        "advTranslation": "年邁的街頭小販推著攤車，一邊吹著輕快的口哨，一邊用笑話招呼每位客人；他開朗的態度為洪災過後仍心神不寧的鄰居帶來慰藉，也讓他們得以暫時喘口氣。"
       },
       {
         "word": "fractious",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Quarrelsome, easily irritated.",
           "chinese": "易怒的；好爭吵的"
-        }
+        },
+        "advSentence": "The fractious coalition, whose members bickered over nearly every bill, proved so ineffectual that even its own supporters grew weary of the vexatious infighting that frustrated every attempt at meaningful reform.",
+        "advTranslation": "這個爭吵不休的執政聯盟，成員幾乎對每項法案都意見相左，施政毫無成效，連自己的支持者都對那些令人厭煩、使每一次實質改革嘗試都受挫的內鬥感到厭倦。"
       },
       {
         "word": "ostentatious",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showy, designed to impress.",
           "chinese": "炫耀的；賣弄的"
-        }
+        },
+        "advSentence": "In a neighborhood where most affluent families favored understated homes, the tycoon's ostentatious mansion, with its gold-plated faucets and marble statues of himself, became a target of scorn, and neighbors loathed its blatant vanity.",
+        "advTranslation": "在一個多數富裕家庭偏好低調住宅的社區裡，這位大亨炫耀浮誇的豪宅擺滿鍍金水龍頭和他本人的大理石雕像，成了眾人嘲諷的對象，鄰居們對這種明目張膽的虛榮深惡痛絕。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "diatribe": [
     "A bitter verbal attack or criticism.",

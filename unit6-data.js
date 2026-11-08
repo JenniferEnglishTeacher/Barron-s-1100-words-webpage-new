@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Rich, having abundant wealth.",
           "chinese": "富裕的"
-        }
+        },
+        "advSentence": "Although the affluent suburb boasted a plethora of private galleries, critics construed its lavish spending on art as a pretext for social climbing rather than a genuine commitment to nurturing local talent.",
+        "advTranslation": "雖然這個富裕的郊區擁有大量私人畫廊，評論家卻將其在藝術上的揮霍解讀為攀附社會地位的藉口，而非真心致力於培育在地人才。"
       },
       {
         "word": "chagrin",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A feeling of disappointment or humiliation.",
           "chinese": "懊惱；羞愧"
-        }
+        },
+        "advSentence": "To the chagrin of the eminent physicist, her rival's simplistic experiment elicited far more public acclaim than her own decades of meticulous research, a paradox she attributed to the media's appetite for easy stories.",
+        "advTranslation": "令這位傑出物理學家懊惱的是，對手那個過於簡化的實驗所引起的公眾讚譽，遠遠超過她自己數十年嚴謹的研究；她將這種矛盾歸因於媒體對簡單故事的偏好。"
       },
       {
         "word": "confidant",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person trusted with private matters.",
           "chinese": "知己；心腹"
-        }
+        },
+        "advSentence": "The diplomat's closest confidant, a reticent aide who had served him for decades, would not disclose the clandestine negotiations even under duress, convinced that loyalty to his mentor outweighed any threat to his own career.",
+        "advTranslation": "這位外交官最信任的心腹是一位追隨他數十年、沉默寡言的助理；即使在脅迫之下，他也不肯透露那些祕密談判的內容，深信對恩師的忠誠遠比自身前途受到的威脅更重要。"
       },
       {
         "word": "consternation",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Dismay, astonishment causing anxiety.",
           "chinese": "驚愕；震驚"
-        }
+        },
+        "advSentence": "The inadvertent release of the confidential report caused widespread consternation among investors, who feared that the company's egregious accounting errors would soon trigger an inexorable decline in its stock price.",
+        "advTranslation": "這份機密報告意外外流，在投資人之間引起普遍的驚愕，他們擔心公司嚴重的會計錯誤很快就會導致股價無可阻擋地下跌。"
       },
       {
         "word": "deride",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To ridicule, scoff at, mock.",
           "chinese": "嘲笑；嘲弄"
-        }
+        },
+        "advSentence": "Academic critics continued to deride the Impressionists as careless amateurs, scoffing at their loose brushstrokes, yet the painters' attention to every nuance of light eventually won over the very institutions that had once disdained them.",
+        "advTranslation": "學院派評論家一再嘲笑印象派畫家是草率的業餘者，譏諷他們鬆散的筆觸；然而這些畫家對光線每一絲細微變化的關注，最終贏得了當初輕視他們的那些機構的認可。"
       },
       {
         "word": "discern",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To perceive, distinguish, or recognise.",
           "chinese": "辨別；識別"
-        }
+        },
+        "advSentence": "After years of vigilant observation, the avid ornithologist learned to discern subtle variations in the songs of neighboring flocks, perceiving regional dialects in what casual listeners would dismiss as mundane chirping.",
+        "advTranslation": "經過多年警覺細心的觀察，這位熱衷的鳥類學家學會辨別鄰近鳥群歌聲中的細微差異，在一般聽眾視為平凡無奇的鳴叫聲中察覺出地域性的「方言」。"
       },
       {
         "word": "disparage",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To discredit or belittle someone.",
           "chinese": "貶低；詆毀"
-        }
+        },
+        "advSentence": "Rather than disparage her opponent with scurrilous personal attacks, the candidate chose to castigate only his policies, a strategy that many voters found refreshing amid the acrimonious tone of the campaign.",
+        "advTranslation": "這位候選人沒有用粗鄙的人身攻擊來貶低對手，而是只嚴厲批評他的政策；在選戰充滿火藥味的氛圍中，許多選民覺得這種策略令人耳目一新。"
       },
       {
         "word": "dubious",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Doubtful, uncertain, suspect.",
           "chinese": "可疑的；不確定的"
-        }
+        },
+        "advSentence": "The curators grew dubious about the origins of the medieval manuscript when chemical analysis revealed a tinge of modern pigment, suggesting that a skilled forger may have fabricated the entire document to dupe wealthy collectors.",
+        "advTranslation": "化學分析顯示這份中世紀手稿帶有一絲現代顏料的痕跡，策展人因此開始懷疑它的來歷，這意味著可能有技巧高超的偽造者捏造了整份文件，以欺騙富有的收藏家。"
       },
       {
         "word": "eschew",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To avoid, abstain from deliberately.",
           "chinese": "避開；戒除"
-        }
+        },
+        "advSentence": "Determined to eschew the ornate prose of earlier Victorian novels, the author cultivated a laconic style, trusting that sparse dialogue could elicit deeper emotion than her predecessors' paragraphs, which were replete with elaborate description.",
+        "advTranslation": "這位作家決心避開早期維多利亞小說華麗的文風，培養出簡潔精練的風格；她相信，比起前輩們充滿繁複描寫的段落，簡短的對話更能引發讀者深刻的情感。"
       },
       {
         "word": "feasible",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Possible, capable of being done.",
           "chinese": "可行的；可能的"
-        }
+        },
+        "advSentence": "Engineers once judged a tunnel beneath the strait to be technically feasible but financially ruinous, since the paucity of public funds and the rampant inflation of the era threatened to make construction seem interminable.",
+        "advTranslation": "工程師曾認為在海峽底下開鑿隧道在技術上可行，但在財務上將是災難，因為當時公共資金匱乏、通貨膨脹猖獗，恐怕會讓工程看似永無止境。"
       },
       {
         "word": "fiasco",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A complete and humiliating failure.",
           "chinese": "慘敗；大失敗"
-        }
+        },
+        "advSentence": "The product launch became a notorious fiasco after a lackluster demonstration in which the much-hyped device repeatedly malfunctioned, and the company's inane attempt to blame a hapless technician only deepened the embarrassment.",
+        "advTranslation": "這場產品發表會在一次乏善可陳的展示後成了眾所周知的大失敗：備受吹捧的裝置一再故障，而公司愚蠢地試圖把責任推給一名倒楣的技術人員，只讓難堪雪上加霜。"
       },
       {
         "word": "laudable",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Deserving praise, commendable.",
           "chinese": "值得讚賞的；可嘉的"
-        }
+        },
+        "advSentence": "The charity's goal of ending childhood hunger was laudable, but auditors who scrutinized its finances found a flagrant misuse of donations, prompting regulators to admonish its directors for violating basic ethics.",
+        "advTranslation": "這個慈善機構終結兒童飢餓的目標值得讚賞，但仔細審查其財務的稽核人員發現捐款遭到公然濫用，促使主管機關告誡其董事違反了基本的道德規範。"
       },
       {
         "word": "masticate",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To chew food thoroughly.",
           "chinese": "咀嚼"
-        }
+        },
+        "advSentence": "Because many herbivores must masticate tough plant fibers for hours each day, their molars have evolved broad, ridged surfaces, an adaptation that biologists perceive as crucial in enabling these voracious grazers to abound even in arid grasslands.",
+        "advTranslation": "由於許多草食動物每天必須花好幾個小時咀嚼堅韌的植物纖維，牠們的臼齒演化出寬闊且有稜脊的表面；生物學家認為，正是這項適應讓這些食量驚人的吃草動物即使在乾燥的草原上也能大量繁衍。"
       },
       {
         "word": "obsolescence",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The process of becoming outdated.",
           "chinese": "荒廢；淘汰"
-        }
+        },
+        "advSentence": "Critics argue that planned obsolescence, in which manufacturers deliberately design gadgets to fail, is a pernicious practice that enriches corporations with impunity while consumers tolerate an endless cycle of costly replacements.",
+        "advTranslation": "批評者認為，「計畫性淘汰」──也就是製造商刻意讓電子產品容易故障──是一種有害的做法，讓企業得以不受懲罰地獲利，而消費者卻只能忍受無止境、代價高昂的汰換循環。"
       },
       {
         "word": "perfunctory",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Done without care, superficially.",
           "chinese": "敷衍的；馬虎的"
-        }
+        },
+        "advSentence": "The inspector's perfunctory review of the aging bridge, little more than a hurried glance, failed to detect incipient cracks in its supports, an ominous lapse for which he was sharply reprimanded once engineers discovered the damage.",
+        "advTranslation": "檢查員對這座老舊橋樑的檢查十分敷衍，不過是匆匆一瞥，因而沒有發現支柱上初期的裂縫；工程師發現損壞後，這個不祥的疏失讓他受到嚴厲斥責。"
       },
       {
         "word": "perverse",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Contrary, persistent in error, wrongheaded.",
           "chinese": "固執錯誤的；乖戾的"
-        }
+        },
+        "advSentence": "In a perverse twist, regulations intended to curb pollution encouraged factories to relocate to regions with even laxer standards, a paradox that economists construe as evidence that well-meaning laws can inadvertently exacerbate the very problems they target.",
+        "advTranslation": "諷刺又違背常理的是，原本為了遏止污染的法規反而促使工廠遷往標準更寬鬆的地區；經濟學家將這種矛盾解讀為證據，說明立意良善的法律可能在無意間讓它們想解決的問題更加惡化。"
       },
       {
         "word": "precocious",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Reaching maturity or development early.",
           "chinese": "早熟的"
-        }
+        },
+        "advSentence": "A precocious child who could reportedly read music before she could walk, the composer astonished avid concertgoers across Europe, yet she shunned the throngs of admirers who gathered after each recital and found solace only in solitary practice.",
+        "advTranslation": "這位作曲家是個早熟的孩子，據說還不會走路就能看懂樂譜；她讓歐洲各地熱情的樂迷驚嘆不已，卻刻意避開每場獨奏會後聚集的大批仰慕者，只在獨自練琴中尋得慰藉。"
       },
       {
         "word": "quell",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To put an end to, suppress.",
           "chinese": "平息；鎮壓"
-        }
+        },
+        "advSentence": "To quell the frenzy that erupted after the disputed election, authorities imposed a curfew and implored community leaders to urge calm, though belligerent protesters continued to jostle police lines for several nights.",
+        "advTranslation": "為了平息這場具爭議的選舉後爆發的狂亂，當局實施宵禁，並懇求社區領袖呼籲民眾保持冷靜，但好鬥的抗議者仍連續數夜推擠警方的封鎖線。"
       },
       {
         "word": "sally",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To suddenly rush out.",
           "chinese": "突圍；出發"
-        }
+        },
+        "advSentence": "Noticing that the besieging army had grown careless at dawn, the intrepid commander ordered his troops to sally from the fortress, and their sudden feint toward the eastern camp allowed a convoy of supplies to slip through the enemy lines.",
+        "advTranslation": "這位無畏的指揮官注意到圍城的敵軍在黎明時分變得鬆懈，便下令部隊從要塞突圍而出；他們突然佯攻東側營地，讓一支補給車隊得以趁機穿越敵軍防線。"
       },
       {
         "word": "verbose",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Using too many words, wordy.",
           "chinese": "囉嗦的；冗長的"
-        }
+        },
+        "advSentence": "The committee's verbose report, replete with jargon and needless digressions, buried its few tangible recommendations, prompting the director to cajole her staff into condensing its essence into a brief summary for busy legislators.",
+        "advTranslation": "委員會的報告冗長囉嗦，充斥著術語和不必要的離題內容，把少數幾項具體建議都淹沒了；主任因此好說歹說地勸員工將重點濃縮成一份簡短摘要，供忙碌的立法委員閱讀。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "affluent": [
     "Rich, having abundant wealth.",

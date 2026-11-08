@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Refusing to be persuaded or to change.",
           "chinese": "固執的；堅定不移的"
-        }
+        },
+        "advSentence": "Despite mounting evidence that the policy was ineffectual, the minister remained adamant that it would eventually succeed, refusing to recant his position even when his own advisers presented incontrovertible data showing that unemployment had surged.",
+        "advTranslation": "儘管越來越多證據顯示該政策成效不彰，部長仍堅持它終將成功；即使他自己的顧問提出無可辯駁的數據，顯示失業率已急遽攀升，他仍拒絕收回自己的立場。"
       },
       {
         "word": "ardent",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Very enthusiastic or passionate.",
           "chinese": "熱烈的；激情的"
-        }
+        },
+        "advSentence": "An ardent advocate of wildlife conservation, the biologist spent years in the rainforests of Borneo documenting indigenous species, and her zealous campaigns eventually persuaded the government to protect their dwindling habitat.",
+        "advTranslation": "這位生物學家熱切擁護野生動物保育，在婆羅洲的雨林中度過多年，記錄當地原生物種；她滿腔熱忱的倡議行動，最終說服政府保護這些物種日益縮減的棲息地。"
       },
       {
         "word": "array",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An impressive display or collection.",
           "chinese": "陣列；打扮"
-        }
+        },
+        "advSentence": "Curated by an eminent archaeologist, the museum's new exhibition features a dazzling array of ancient artifacts, from ornate jade carvings to rudimentary bronze tools, allowing visitors to perceive how craftsmanship evolved over many dynasties.",
+        "advTranslation": "博物館這次的新展覽由一位知名考古學家策畫，展出琳瑯滿目的古代文物，從精雕細琢的玉器到簡樸的青銅工具應有盡有，讓參觀者得以看出工藝技術如何歷經多個朝代而演進。"
       },
       {
         "word": "bereft",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking something or feeling a great loss.",
           "chinese": "喪失的；被剝奪的"
-        }
+        },
+        "advSentence": "Bereft of the government subsidies that had once sustained them, many small farmers endured severe privation, and some succumbed to destitution as young villagers migrated to cities in search of better remuneration.",
+        "advTranslation": "失去了曾經賴以維生的政府補助，許多小農飽受困頓之苦，有些人更陷入赤貧，因為村裡的年輕人紛紛遷往城市，尋求更好的報酬。"
       },
       {
         "word": "besmirch",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To damage or tarnish a reputation.",
           "chinese": "玷污；毀謗"
-        }
+        },
+        "advSentence": "The anonymous pamphlets, filled with scurrilous rumors and fabricated quotations, were designed to besmirch the reformist candidate, but voters quickly recognized them as a crude subterfuge orchestrated by her nefarious rivals.",
+        "advTranslation": "這些匿名小冊子充斥著惡毒的謠言和捏造的引言，目的是要抹黑那位改革派候選人；然而選民很快便看穿，這不過是她那些居心不良的對手所策劃的拙劣詭計。"
       },
       {
         "word": "constrict",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make or become narrow or tight.",
           "chinese": "壓縮；束緊"
-        }
+        },
+        "advSentence": "During an asthma attack, which afflicts millions of children worldwide, inflamed airways constrict so tightly that each breath becomes excruciating, and without prompt treatment the episode can precipitate a potentially lethal shortage of oxygen.",
+        "advTranslation": "氣喘侵擾著全世界數以百萬計的兒童；發作時，發炎的呼吸道會緊縮到每次呼吸都痛苦萬分，若不及時治療，可能會引發足以致命的缺氧。"
       },
       {
         "word": "culminate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To reach a climax or point of highest development.",
           "chinese": "達到頂點"
-        }
+        },
+        "advSentence": "Years of clandestine meetings and acrimonious negotiations between the implacable rival factions culminated in a historic peace accord, though skeptics warned that a schism so deeply rooted could not be healed by a single document.",
+        "advTranslation": "互不相讓的敵對派系之間多年的祕密會談與激烈談判，最終促成了一項歷史性的和平協定；不過懷疑論者警告，如此根深蒂固的分裂，不可能靠一紙文件就彌合。"
       },
       {
         "word": "egotist",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person excessively absorbed in themselves.",
           "chinese": "利己主義者；自大狂"
-        }
+        },
+        "advSentence": "An unabashed egotist, the celebrity chef constantly embellished stories of his own accomplishments and belittled his staff, so few were surprised when his obsequious entourage abandoned him after his restaurant failed.",
+        "advTranslation": "這位名廚是個毫不掩飾的自大狂，總愛誇大自己的成就並貶低員工；因此當他的餐廳倒閉後，那群阿諛奉承的隨從棄他而去，幾乎沒有人感到意外。"
       },
       {
         "word": "exultation",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A feeling of triumphant joy.",
           "chinese": "狂喜；歡躍"
-        }
+        },
+        "advSentence": "The exultation of the rescue workers was palpable when the last trapped miner emerged from the subterranean tunnel, having survived the collapse because a fortuitous pocket of air had shielded him from the falling debris.",
+        "advTranslation": "當最後一名受困礦工從地底坑道中走出時，救援人員的狂喜溢於言表；他之所以能在坍塌中倖存，是因為一個幸運形成的空氣空間替他擋住了掉落的碎石。"
       },
       {
         "word": "falter",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To lose strength or momentum.",
           "chinese": "蹣跚；動搖"
-        }
+        },
+        "advSentence": "The economy began to falter after the central bank raised interest rates too abruptly, and as sporadic layoffs gave way to rampant unemployment, the pundits who had prognosticated a swift recovery were forced to revise their forecasts.",
+        "advTranslation": "中央銀行升息過於倉促之後，經濟開始走弱；隨著零星的裁員演變成猖獗的失業潮，那些曾預言經濟將迅速復甦的專家也不得不修正他們的預測。"
       },
       {
         "word": "humility",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A modest view of one's own importance.",
           "chinese": "謙卑；謙遜"
-        }
+        },
+        "advSentence": "Despite receiving the Nobel Prize, the physicist spoke with genuine humility, attributing her breakthrough to the assiduous work of her students and declining the ostentatious celebrations that her avid admirers had planned.",
+        "advTranslation": "儘管榮獲諾貝爾獎，這位物理學家仍然真誠謙遜，將自己的突破歸功於學生們勤奮不懈的努力，並婉拒了熱情的仰慕者為她籌劃的鋪張慶祝活動。"
       },
       {
         "word": "invective",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Insulting, abusive, or highly critical language.",
           "chinese": "辱罵；猛烈抨擊"
-        }
+        },
+        "advSentence": "The televised debate quickly degenerated into a torrent of invective, with both candidates hurling derogatory epithets at each other instead of addressing the pertinent issues that voters actually cared about.",
+        "advTranslation": "這場電視辯論很快便淪為一連串的謾罵，兩位候選人互相拋出貶損的稱號，卻不去處理選民真正關心的相關議題。"
       },
       {
         "word": "inveterate",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a particular habit or activity for a long time.",
           "chinese": "根深蒂固的；積習的"
-        }
+        },
+        "advSentence": "An inveterate procrastinator, the novelist would ponder a single paragraph for weeks, yet his editor accepted these delays because his prose, once completed, was invariably impeccable and replete with vivid imagery.",
+        "advTranslation": "這位小說家積習難改、老愛拖延，常常為了一個段落苦思數週；然而編輯仍包容這些延誤，因為他的文字一旦完成，總是無懈可擊，而且充滿生動的意象。"
       },
       {
         "word": "obscure",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not well known or hard to understand.",
           "chinese": "模糊的；默默無聞的"
-        }
+        },
+        "advSentence": "Once an obscure painter who sold almost nothing despite his prolific output, Vincent van Gogh is now hailed as a paragon of artistic innovation, and his canvases command prices that would have seemed chimerical to the impoverished artist.",
+        "advTranslation": "梵谷生前雖然創作量驚人，卻幾乎賣不出任何作品，是個沒沒無聞的畫家；如今他被譽為藝術創新的典範，其畫作的售價，對當年窮困潦倒的他而言簡直是天方夜譚。"
       },
       {
         "word": "pinnacle",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The most successful point, the peak.",
           "chinese": "頂點；巔峰"
-        }
+        },
+        "advSentence": "At the pinnacle of its power, the Roman Empire seemed monolithic and invincible, yet historians detect in that era the incipient decadence and civil strife that would gradually erode its foundations.",
+        "advTranslation": "羅馬帝國在權力巔峰時期看似堅如磐石、無可匹敵，但歷史學家從那個時代中察覺到初露端倪的腐化與內部紛爭，而正是這些因素逐漸侵蝕了帝國的根基。"
       },
       {
         "word": "prodigy",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person with exceptional talents.",
           "chinese": "神童；奇蹟"
-        }
+        },
+        "advSentence": "A musical prodigy who composed his first symphony as a child, Mozart displayed a precocious mastery that astonished the royal courts of Europe, though his later years were marred by pecuniary troubles and the indifference of fickle patrons.",
+        "advTranslation": "莫札特是位音樂神童，年幼時便創作了第一首交響曲，他早熟的才華令歐洲各國宮廷驚嘆不已；然而他晚年卻深受財務困境所苦，也飽嘗反覆無常的贊助者的冷漠。"
       },
       {
         "word": "pungent",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a sharply strong taste or smell.",
           "chinese": "辛辣的；刺鼻的"
-        }
+        },
+        "advSentence": "The pungent odor of durian is so infamous that many hotels and subways in Southeast Asia have imposed a prohibition on the fruit, yet its devoted fans insist that anyone who overcomes an initial squeamish reaction will find its creamy flesh redolent of almonds and caramel.",
+        "advTranslation": "榴槤刺鼻的氣味惡名昭彰，東南亞許多飯店和地鐵都明令禁止攜帶這種水果；然而它的忠實愛好者堅稱，只要克服起初的反胃感，就會發現它綿密的果肉散發著杏仁與焦糖的香氣。"
       },
       {
         "word": "retrospect",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A survey of past time or events.",
           "chinese": "回顧；追溯"
-        }
+        },
+        "advSentence": "In retrospect, the decision to dismantle the city's tram network in the mid-twentieth century seems remarkably shortsighted, since planners now struggle to cope with the very traffic congestion that a comprehensive transit network might have obviated.",
+        "advTranslation": "回顧過去，二十世紀中葉拆除市內電車路網的決定，如今看來實在短視近利，因為都市規劃者現在正疲於應付交通壅塞，而一套完善的大眾運輸網路原本或許可以避免這個問題。"
       },
       {
         "word": "vitriolic",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Filled with bitter criticism.",
           "chinese": "刻薄的；惡意的"
-        }
+        },
+        "advSentence": "The playwright's vitriolic review of his rival's new drama, which castigated the actors as wooden and the dialogue as inane, provoked such consternation in the theater community that the newspaper eventually issued an apology.",
+        "advTranslation": "這位劇作家對競爭對手的新劇發表了尖酸刻薄的評論，痛斥演員表演呆板、台詞空洞無聊，在戲劇界引起極大的驚愕，最後報社不得不出面道歉。"
       },
       {
         "word": "voluminous",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Occupying or containing much space.",
           "chinese": "卷帙浩繁的；龐大的"
-        }
+        },
+        "advSentence": "The scholar spent years sifting through the voluminous annals of the imperial court, hoping to unearth cryptic references that might confirm her conjecture that an emperor's death had been concealed for weeks.",
+        "advTranslation": "這位學者花了數年時間爬梳卷帙浩繁的宮廷史料，希望找到隱晦的記載，以證實她的推測：某位皇帝駕崩的消息曾被隱瞞了好幾個星期。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "adamant": [
     "Refusing to be persuaded or to change.",

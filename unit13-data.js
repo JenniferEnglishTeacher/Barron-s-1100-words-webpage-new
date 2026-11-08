@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To ask urgently and persistently.",
           "chinese": "強求；胡纏"
-        }
+        },
+        "advSentence": "Reporters continued to importune the reticent scientist for an interview, but she refused to comment on her surprising findings until independent colleagues could corroborate the data, a cautious stance that many in her field considered laudable.",
+        "advTranslation": "記者們不斷纏著這位沉默寡言的科學家要求專訪，但在獨立研究的同儕證實數據之前，她拒絕對自己出人意料的發現發表任何評論；她這種謹慎的立場，獲得許多同行的讚許。"
       },
       {
         "word": "incontrovertible",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not able to be denied or disputed.",
           "chinese": "無可辯駁的；不容置疑的"
-        }
+        },
+        "advSentence": "Although the defense raised a plethora of objections and tried to construe the evidence as merely circumstantial, the security footage provided incontrovertible proof that the culprit had been at the scene on the night of the robbery.",
+        "advTranslation": "雖然辯方提出大量異議，並試圖把證據解釋為僅是間接證據，但監視器畫面提供了無可辯駁的證明：搶案當晚，嫌犯確實就在現場。"
       },
       {
         "word": "surreptitious",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Done secretly, stealthy.",
           "chinese": "鬼鬼祟祟的；暗中的"
-        }
+        },
+        "advSentence": "The spy made surreptitious recordings of the diplomats' private conversations, a clandestine operation that, once exposed by a newspaper, caused a diplomatic fiasco and prompted both governments to oust several embassy officials.",
+        "advTranslation": "這名間諜暗中錄下外交官的私人談話；這項秘密行動被報社揭發後，演變成一場外交上的大失敗，也迫使兩國政府驅逐了數名使館官員。"
       },
       {
         "word": "haven",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A place of safety and shelter.",
           "chinese": "避難所；港口"
-        }
+        },
+        "advSentence": "During the war, the mountain monastery became a haven for refugees fleeing persecution, offering them sanctuary, simple food, and solace at a time when privation and fear were ubiquitous throughout the region.",
+        "advTranslation": "戰爭期間，這座山中修道院成了逃避迫害的難民的避風港；在整個地區到處充斥著匱乏與恐懼的時候，它為難民提供庇護、簡單的食物與心靈慰藉。"
       },
       {
         "word": "subjugate",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To conquer and bring under control.",
           "chinese": "征服；降伏"
-        }
+        },
+        "advSentence": "The empire sought to subjugate neighboring tribes not only through military conquest but also by attempting to coerce local leaders into abandoning their languages and customs, a pernicious policy whose legacy historians still scrutinize today.",
+        "advTranslation": "這個帝國不僅以武力征服來壓制鄰近部落，還企圖脅迫當地領袖放棄自己的語言與傳統；這項有害政策所留下的影響，至今仍是歷史學家仔細探究的對象。"
       },
       {
         "word": "ultimate",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Final, most extreme, fundamental.",
           "chinese": "最終的；極限的"
-        }
+        },
+        "advSentence": "The ultimate goal of the vaccination campaign was to wipe out the virulent disease entirely, but health officials knew that sporadic outbreaks in isolated villages could thwart their efforts for many years to come.",
+        "advTranslation": "這項疫苗接種計畫的最終目標，是徹底根除這種致命的疾病；但衛生官員也明白，偏僻村落中零星爆發的疫情，可能會讓他們的努力在未來多年內受挫。"
       },
       {
         "word": "eventuate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To result in, to end in.",
           "chinese": "最終導致；結果是"
-        }
+        },
+        "advSentence": "Economists warned that lax oversight of the banking sector might eventuate in a financial crisis, but officials, sanguine about continued growth, dismissed such ominous predictions until rampant speculation finally triggered a devastating crash.",
+        "advTranslation": "經濟學家警告，對銀行業監管鬆散最終可能導致金融危機；但官員們對經濟持續成長過於樂觀，對這些不祥的預測置之不理，直到猖獗的投機炒作終於引發一場毀滅性的崩盤。"
       },
       {
         "word": "emit",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To send out, give off.",
           "chinese": "發出；散發"
-        }
+        },
+        "advSentence": "Fireflies emit brief flashes of light to attract mates, each species using a distinctive pattern that meticulous biologists have learned to discern, although some predatory fireflies mimic these signals to dupe unsuspecting males.",
+        "advTranslation": "螢火蟲會發出短暫的閃光來吸引配偶，每個物種都有獨特的閃光模式，細心的生物學家已學會加以辨識；不過，有些掠食性螢火蟲會模仿這些訊號，誘騙毫無戒心的雄蟲上當。"
       },
       {
         "word": "subterranean",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Existing or occurring underground.",
           "chinese": "地下的；隱蔽的"
-        }
+        },
+        "advSentence": "Biologists exploring the subterranean caverns found blind, colorless fish thriving despite a paucity of food, a paradox that made sense only once they understood how the creatures had adapted to a realm without sunlight.",
+        "advTranslation": "在地下洞穴探勘的生物學家發現，失明、無色的魚類儘管食物匱乏仍能繁衍興盛；這個看似矛盾的現象，直到他們理解這些生物如何適應一個沒有陽光的世界，才終於說得通。"
       },
       {
         "word": "viable",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Practicable, capable of working.",
           "chinese": "切實可行的；能存活的"
-        }
+        },
+        "advSentence": "Engineers concluded that the proposed tunnel was not economically viable, since the porous rock beneath the river would require costly reinforcement, and even the project's most avid supporters had to concur that its benefits were dubious.",
+        "advTranslation": "工程師的結論是，這條擬議中的隧道在經濟上並不可行，因為河床下多孔的岩層需要昂貴的補強工程；就連這項計畫最熱衷的支持者，也不得不同意其效益令人存疑。"
       },
       {
         "word": "premise",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A proposition from which a conclusion is drawn.",
           "chinese": "前提；假設"
-        }
+        },
+        "advSentence": "The novel rests on an intriguing premise: an automaton built to perform household drudgery gradually becomes cognizant of its own emotions, compelling readers to consider what it truly means to be human.",
+        "advTranslation": "這部小說建立在一個引人入勝的前提上：一個被製造來做繁瑣家務的機器人，逐漸意識到自己擁有情感，促使讀者深思「身而為人」的真正意義。"
       },
       {
         "word": "jeopardize",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To put in danger, threaten.",
           "chinese": "危害；使受危險"
-        }
+        },
+        "advSentence": "Scientists warned that the proposed dam could jeopardize several endangered fish species whose rivers were already afflicted by pollution, and they implored officials to scrutinize the project's ecological consequences before construction began.",
+        "advTranslation": "科學家警告，擬建的水壩可能危及數種棲地早已飽受污染之苦的瀕危魚類，並懇求官員在動工之前，仔細審查這項工程對生態的影響。"
       },
       {
         "word": "incredulous",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unwilling or unable to believe.",
           "chinese": "懷疑的；不輕信的"
-        }
+        },
+        "advSentence": "When the precocious astronomer announced that she had spotted a new comet, her eminent colleagues were initially incredulous, but their doubts vanished once other observatories confirmed the sighting, and she soon received a prestigious award.",
+        "advTranslation": "這位早慧的天文學家宣布自己發現了一顆新彗星時，德高望重的同僚們起初都難以置信；但在其他天文臺證實這項觀測後，他們的疑慮隨即消散，她不久便獲頒一項享有盛譽的獎項。"
       },
       {
         "word": "permeate",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To spread throughout, penetrate.",
           "chinese": "彌漫；滲透"
-        }
+        },
+        "advSentence": "A sense of dread permeated the village as the drought dragged on, and the doleful farmers, watching their wan crops wither under the relentless sun, began to fear that famine was imminent.",
+        "advTranslation": "隨著乾旱遲遲未解，一股恐懼瀰漫整個村莊；憂愁的農民眼看著無精打采的作物在毒辣的陽光下逐漸枯萎，開始擔心饑荒即將來臨。"
       },
       {
         "word": "propitious",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Giving or indicating a good chance of success.",
           "chinese": "吉利的；有利的"
-        }
+        },
+        "advSentence": "With calm seas and steady winds, the explorers judged the moment propitious for setting sail, though veteran sailors cautioned that such tranquil conditions could quickly turn turbulent and that a rash departure might prove deadly.",
+        "advTranslation": "海面平靜、風勢穩定，探險隊認為這是啟航的大好時機；但經驗豐富的水手提醒，如此平靜的海況可能轉眼就變得波濤洶湧，貿然出發恐怕會招致殺身之禍。"
       },
       {
         "word": "surmise",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To guess or infer without firm evidence.",
           "chinese": "猜測；臆測"
-        }
+        },
+        "advSentence": "Finding the mountain abode abandoned, with a half-eaten meal still on the table, the detectives could only surmise that its occupant had fled in a frenzy, perhaps seized by a sudden premonition of danger.",
+        "advTranslation": "偵探們發現這棟山中住所已人去樓空，桌上還留著吃了一半的飯菜，只能推測屋主是在驚慌失措中倉皇逃走，或許是突然預感到危險將至。"
       },
       {
         "word": "curtail",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To reduce or impose a restriction on.",
           "chinese": "縮減；剝奪"
-        }
+        },
+        "advSentence": "Faced with a severe budget shortfall, the city council voted to curtail library hours and arts funding, a decision that elicited a barrage of irate complaints from residents who considered such services integral to the community.",
+        "advTranslation": "面臨嚴重的預算短缺，市議會投票決定縮減圖書館開放時間和藝文補助；此舉引來居民排山倒海的憤怒投訴，因為他們認為這些服務是社區不可或缺的一部分。"
       },
       {
         "word": "repress",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To hold back, suppress forcibly.",
           "chinese": "壓抑；鎮壓"
-        }
+        },
+        "advSentence": "The authoritarian regime used censorship and mass arrests to repress opposition, yet the brutal crackdown only intensified public outrage, and dissidents continued to flout censorship laws, distributing pamphlets that castigated the government for its egregious abuses.",
+        "advTranslation": "這個獨裁政權以審查制度和大規模逮捕來鎮壓異議，然而殘暴的鎮壓只讓民怨更加沸騰；異議人士依舊公然違抗審查法令，散發嚴厲譴責政府惡劣暴行的傳單。"
       },
       {
         "word": "cryptic",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Having a hidden meaning, puzzling.",
           "chinese": "神秘的；隱晦的"
-        }
+        },
+        "advSentence": "The poet's final letter contained a cryptic reference to a hidden manuscript, and generations of scholars have scrutinized her diaries in vain, each offering a new conjecture about what the elusive phrase might mean.",
+        "advTranslation": "這位詩人的最後一封信中，隱晦地提到一份藏起來的手稿；好幾代學者仔細研讀她的日記卻一無所獲，每個人都對這句令人捉摸不透的話提出新的推測。"
       },
       {
         "word": "inchoate",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Just beginning, not fully formed.",
           "chinese": "早期的；未成形的"
-        }
+        },
+        "advSentence": "In its inchoate stage, the reform movement consisted of little more than a few zealous students holding placards outside city hall, but within ten years it had grown into a monolithic force that no politician could ignore.",
+        "advTranslation": "在剛起步、尚未成形的階段，這場改革運動不過是幾名熱血學生在市政府外舉著標語牌；但不到十年，它已發展成一股任何政治人物都無法忽視的龐大力量。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "importune": [
     "To ask urgently and persistently.",

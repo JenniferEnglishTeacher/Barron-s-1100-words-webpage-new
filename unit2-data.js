@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Expressing much in few words.",
           "chinese": "簡潔的；言簡意賅的"
-        }
+        },
+        "advSentence": "Famous for her laconic replies, the reclusive poet answered each of the interviewer's verbose questions with a single sentence, yet every terse response was so incisive that it rendered his elaborate premises almost irrelevant.",
+        "advTranslation": "這位隱居的詩人以回答簡潔著稱，面對訪問者冗長的提問，每題只回一句話；然而她每一句精簡的回應都一針見血，讓訪問者精心鋪陳的前提幾乎顯得無關緊要。"
       },
       {
         "word": "throng",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A crowd; great number of people.",
           "chinese": "人群；群眾"
-        }
+        },
+        "advSentence": "When the Berlin Wall was opened in 1989, a throng of jubilant citizens began to jostle one another at the checkpoints, and the guards, lacking orders and unable to repulse the crowd, relented in what many deem a singular moment of the Cold War.",
+        "advTranslation": "1989年柏林圍牆開放時，成群歡欣的民眾在檢查哨前互相推擠；守衛們沒有接獲命令，也無力驅退人潮，最後只得讓步——許多人認為那是冷戰中無與倫比的一刻。"
       },
       {
         "word": "intrepid",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Brave, fearless in the face of danger.",
           "chinese": "無畏的；勇敢的"
-        }
+        },
+        "advSentence": "Undeterred by excruciating cold and the ominous creaking of the ice beneath them, the intrepid polar explorers persevered across the frozen expanse, though malnutrition had left several of them emaciated by the end of the journey.",
+        "advTranslation": "刺骨的嚴寒與腳下冰層不祥的嘎吱聲都未能嚇阻這群無畏的極地探險家，他們堅持橫越這片冰原，不過到旅程結束時，營養不良已讓其中幾人骨瘦如柴。"
       },
       {
         "word": "accost",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To approach and speak to boldly or aggressively.",
           "chinese": "搭訕；攔住說話"
-        }
+        },
+        "advSentence": "Tourists complained that touts would accost them outside the train station with fallacious claims about discounted tours, prompting city officials to reprimand the vendors and ultimately oust the most belligerent offenders from the plaza.",
+        "advTranslation": "遊客抱怨，常有掮客在火車站外上前強行攔住他們，用不實的說法兜售折扣行程；市府官員因此出面訓斥這些攤販，最終將其中最蠻橫的違規者逐出廣場。"
       },
       {
         "word": "reticent",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Inclined to be reserved or silent.",
           "chinese": "沉默寡言的；保守的"
-        }
+        },
+        "advSentence": "Although she was reticent about her own role in the resistance movement and declined to embellish her wartime deeds for eager journalists, archival documents later attested to the remarkable valor she displayed in smuggling refugees to safety.",
+        "advTranslation": "雖然她對自己在抵抗運動中的角色守口如瓶，也拒絕向熱切的記者渲染自己的事蹟，但後來的檔案文件證實了她冒險將難民偷渡到安全之地時所展現的非凡勇氣。"
       },
       {
         "word": "furtive",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Secret, stealthy, done surreptitiously.",
           "chinese": "偷偷摸摸的；鬼鬼祟祟的"
-        }
+        },
+        "advSentence": "Throughout the dinner party the protagonist casts furtive glances at the sealed letter, a cryptic detail that serves as a harbinger of the clandestine affair that, the novel later reveals, brought about the family's ruin.",
+        "advTranslation": "在整場晚宴中，主角不斷偷偷瞄向那封密封的信件；這個隱晦的細節預示了那段祕密戀情，而小說稍後便揭露，正是這段私情導致了整個家族的毀滅。"
       },
       {
         "word": "felon",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person guilty of a serious crime.",
           "chinese": "重罪犯"
-        }
+        },
+        "advSentence": "Reformers argue that permanently barring every convicted felon from voting is an arbitrary policy that stymies rehabilitation, yet its advocates contend that such restrictions are a legitimate component of a just penal system.",
+        "advTranslation": "改革人士主張，永久剝奪所有重罪犯的投票權是一項武斷的政策，會阻礙更生；然而支持者則認為，此類限制是公正刑罰制度中合理的一環。"
       },
       {
         "word": "plethora",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An excess or overabundance.",
           "chinese": "過多；大量"
-        }
+        },
+        "advSentence": "Psychologists contend that a plethora of options does not necessarily increase consumer satisfaction; confronted with myriad nearly identical products, shoppers often become so engrossed in comparing features that are hardly salient that they abandon the purchase altogether.",
+        "advTranslation": "心理學家主張，選擇過多未必能提高消費者的滿意度；面對無數幾乎一模一樣的產品，購物者往往埋首比較那些根本不重要的特點，最後乾脆放棄購買。"
       },
       {
         "word": "hapless",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unfortunate, unlucky, deserving of pity.",
           "chinese": "倒霉的；不幸的"
-        }
+        },
+        "advSentence": "After an enraged sperm whale sank their ship, the hapless crew of the Essex drifted for months across the turbulent Pacific, and many succumbed to starvation, an ordeal that survivors recounted in such lurid detail that it later helped inspire Moby-Dick.",
+        "advTranslation": "捕鯨船「艾塞克斯號」遭一頭暴怒的抹香鯨撞沉後，不幸的船員們在波濤洶湧的太平洋上漂流數月，許多人死於飢餓；倖存者以駭人聽聞的細節講述這段磨難，後來更成為《白鯨記》的靈感來源之一。"
       },
       {
         "word": "irate",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Angry, incensed, extremely upset.",
           "chinese": "暴怒的；憤慨的"
-        }
+        },
+        "advSentence": "Irate commuters began to bristle at the transit authority's perfunctory apology for a week of delays, deriding the statement as an ineffectual attempt to placate passengers without addressing the underlying problems.",
+        "advTranslation": "憤怒的通勤族對交通局針對整週延誤所發表的敷衍道歉愈來愈不滿，嘲諷那份聲明不過是想安撫乘客、卻未觸及根本問題的無效之舉。"
       },
       {
         "word": "pretext",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A false reason given to justify an action.",
           "chinese": "藉口；托辭"
-        }
+        },
+        "advSentence": "Historians note that expansionist empires frequently cited the protection of their merchants as a pretext for invasion, deploying gunboats to subjugate coastal kingdoms and wrest control of lucrative trade routes from local rulers.",
+        "advTranslation": "歷史學家指出，擴張主義的帝國經常以保護本國商人為藉口發動侵略，派遣砲艇征服沿海王國，並從當地統治者手中強行奪取利潤豐厚的貿易路線。"
       },
       {
         "word": "fabricate",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To make up, invent, or construct falsely.",
           "chinese": "捏造；製造"
-        }
+        },
+        "advSentence": "The scandal erupted when investigators discovered that the once prestigious researcher had chosen to fabricate data in dozens of studies, an egregious breach of ethics that forced journals to expunge his articles from the scientific record.",
+        "advTranslation": "調查人員發現這位一度聲望卓著的研究者竟在數十篇研究中捏造數據，醜聞隨即爆發；這種嚴重違反學術倫理的行為，迫使各期刊將他的論文從科學紀錄中刪除。"
       },
       {
         "word": "adroit",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Skillful, clever, dexterous.",
           "chinese": "熟練的；機敏的"
-        }
+        },
+        "advSentence": "An adroit negotiator, the envoy could defuse the most fractious disputes with a well-timed quip, persuading implacable rivals to concur on terms that each had previously denounced in public during years of stalled talks.",
+        "advTranslation": "這位特使是手腕靈巧的談判高手，能以一句恰到好處的妙語化解最棘手的紛爭，說服原本勢不兩立的對手同意彼此先前都曾在多年停滯不前的談判中公開譴責過的條款。"
       },
       {
         "word": "gesticulate",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To move the arms energetically while speaking.",
           "chinese": "打手勢；揮動手臂"
-        }
+        },
+        "advSentence": "When the impresario began to gesticulate wildly from the wings, the tenor realized that the orchestra had skipped an entire verse, and his voice grew tremulous, though the audience, dazzled by the flamboyant staging, scarcely noticed the blunder.",
+        "advTranslation": "當劇院經理在側台開始激動地比手畫腳時，那位男高音才驚覺樂團竟跳過了整段歌詞，聲音頓時顫抖起來；所幸被華麗舞台效果吸引的觀眾幾乎沒有察覺這個失誤。"
       },
       {
         "word": "vigilant",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Watchful, alert, on the lookout.",
           "chinese": "警惕的；警覺的"
-        }
+        },
+        "advSentence": "Public health officials must remain vigilant even during apparent lulls, because detecting an incipient outbreak early is the only reliable way to contain a virulent pathogen that may lie latent in a population for weeks.",
+        "advTranslation": "即使在疫情看似平息之際，公共衛生官員仍須保持警覺，因為及早發現初期爆發的疫情，是遏止一種可能在人群中潛伏數週的強毒性病原體唯一可靠的方法。"
       },
       {
         "word": "avid",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Eager, enthusiastic, deeply interested.",
           "chinese": "渴望的；熱切的"
-        }
+        },
+        "advSentence": "An avid amateur astronomer, the retired schoolteacher was so assiduous in cataloguing variable stars that her meticulous records, compiled over many years, became an invaluable asset to professional researchers tracking stellar changes.",
+        "advTranslation": "這位退休教師是熱衷的業餘天文學家，她孜孜不倦地為變星編目，多年累積的嚴謹紀錄成為追蹤恆星變化的專業研究人員極其寶貴的資產。"
       },
       {
         "word": "cajole",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To coax, persuade using flattery.",
           "chinese": "哄騙；用甜言蜜語說服"
-        }
+        },
+        "advSentence": "Rather than coerce the reluctant villagers into relocating, the colonial administrator tried to cajole them with lavish gifts and flattering promises, but the village elders soon came to perceive the duplicity behind his generosity.",
+        "advTranslation": "這位殖民地行政官員並未強迫不情願的村民遷居，而是以豐厚的禮物和諂媚的承諾哄騙他們；然而村中長老很快便看穿了他慷慨背後的欺詐。"
       },
       {
         "word": "rudimentary",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Elementary, basic, undeveloped.",
           "chinese": "基本的；初步的"
-        }
+        },
+        "advSentence": "Although early steam engines were rudimentary machines that wasted much of their fuel, resourceful inventors continued to modify their designs until the engines could power the mammoth textile mills that would come to dominate industrial Britain.",
+        "advTranslation": "雖然早期的蒸汽機只是浪費大量燃料的簡陋機器，但足智多謀的發明家不斷改良其設計，直到它們能驅動後來主宰英國工業的巨型紡織廠。"
       },
       {
         "word": "enhance",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To intensify, improve, heighten.",
           "chinese": "提高；增強；改善"
-        }
+        },
+        "advSentence": "Conservators used multispectral imaging to enhance the faded text of the charred scrolls, a technique that allowed scholars to decipher garbled passages without having to jeopardize the fragile papyrus and yielded incontrovertible evidence of works long presumed lost.",
+        "advTranslation": "文物保存人員運用多光譜影像技術，使燒焦卷軸上褪色的文字更加清晰，讓學者得以在不危及脆弱莎草紙的情況下解讀原本殘缺難辨的段落，並找到確鑿的證據，證明那些長久以來被認定已失傳的作品確實存在。"
       },
       {
         "word": "nuance",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A slight variation in meaning, tone, or colour.",
           "chinese": "細微差別；微妙之處"
-        }
+        },
+        "advSentence": "Translators of classical Chinese poetry face a daunting task, since a single character may carry manifold associations, and any attempt to convey every nuance in English risks producing cumbersome, incoherent lines that betray the original's impeccable economy.",
+        "advTranslation": "翻譯中國古典詩詞是一項艱鉅的任務，因為單一個字可能蘊含多重聯想；若試圖用英文傳達每一個細微的意涵，往往會寫出累贅又支離破碎的詩句，辜負了原作無懈可擊的精煉。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "laconic": [
     "Expressing much in few words.",

@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Inspiring disgust and loathing.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Most modern societies regard slavery as abhorrent, yet for centuries the practice was tolerated, and even defended, by eminent thinkers who justified it with fallacious arguments about a supposedly natural hierarchy among human beings.",
+        "advTranslation": "大多數現代社會認為奴隸制度令人憎惡，然而數百年來，它卻被容忍、甚至被一些傑出思想家辯護，他們以人類之間存在所謂天生階級的謬誤論點為其找理由。"
       },
       {
         "word": "absurd",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Wildly unreasonable, illogical.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Although the claim that the Earth is flat seems absurd to most people today, a surprising number of online communities perpetuate the notion, dismissing incontrovertible photographic evidence as an elaborate hoax concocted by governments.",
+        "advTranslation": "雖然地球是平的這種說法在今天大多數人看來荒謬可笑，卻有數量驚人的網路社群延續這個觀念，把無可辯駁的照片證據斥為政府捏造的精心騙局。"
       },
       {
         "word": "anthropologist",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An expert in the study of human societies.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The anthropologist spent several years living among a nomadic people of the Sahara, meticulously documenting kinship rituals that she argued were integral to the group's survival in such a harsh and unforgiving environment.",
+        "advTranslation": "這位人類學家花了數年時間與撒哈拉的一支游牧民族共同生活，一絲不苟地記錄他們的親屬儀式，並主張這些儀式對該族群在如此嚴酷無情的環境中生存不可或缺。"
       },
       {
         "word": "artifact",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An object made by human craft.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Archaeologists unearthed a cache of bronze artifacts in a subterranean chamber, and the remarkable condition of these objects led scholars to surmise that the tomb had escaped the attention of looters for thousands of years.",
+        "advTranslation": "考古學家在一處地下墓室中挖出一批青銅器物，這些器物保存得極為完好，使學者推測該墓穴數千年來都未曾遭到盜墓者覬覦。"
       },
       {
         "word": "bizarre",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Very strange or unusual.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The deep-sea anglerfish, with its bizarre glowing lure dangling above a mouth full of needle-like teeth, has adapted to the murky depths of its habitat by using this appendage to dupe unwary prey.",
+        "advTranslation": "深海鮟鱇魚頭上懸著一個怪異的發光誘餌，下方是一張布滿針狀利齒的大嘴；牠適應了棲息地幽暗的深海環境，利用這個構造誘騙毫無戒心的獵物。"
       },
       {
         "word": "contemptuous",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Showing contempt, scornful.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The aristocrat was openly contemptuous of newly wealthy industrialists, deriding their ostentatious mansions and lavish parties as vulgar displays of new money, even as his own family's fortune steadily dwindled through years of profligate spending.",
+        "advTranslation": "這位貴族公開輕蔑那些新近致富的實業家，嘲笑他們炫耀的豪宅與奢華派對是暴發戶的俗氣排場，然而他自家的財富卻正因多年揮霍無度而逐漸縮水。"
       },
       {
         "word": "entreaty",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An earnest or humble request.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Ignoring the tearful entreaty of her parents, the young physician resolved to volunteer in a region besieged by famine, where malnutrition and cholera were rife and the few local clinics lacked even rudimentary supplies.",
+        "advTranslation": "這位年輕醫師不顧父母含淚的懇求，決心前往一個飽受饑荒圍困的地區當志工，那裡營養不良與霍亂肆虐，少數幾間當地診所連最基本的物資都缺乏。"
       },
       {
         "word": "fetish",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An object believed to have magical powers; an obsessive fixation.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Some economists warn that policymakers have made a fetish of economic growth, pursuing ever-higher output with zealous intensity while ignoring the havoc that unchecked expansion can wreak on fragile ecosystems and the cumulative toll it takes on workers.",
+        "advTranslation": "一些經濟學家警告，政策制定者已把經濟成長當成盲目崇拜的對象，以狂熱的態度追求不斷提高的產出，卻忽視了無節制的擴張對脆弱生態系造成的破壞，以及對勞工造成的累積代價。"
       },
       {
         "word": "imperative",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Of vital importance, essential.",
           "chinese": ""
-        }
+        },
+        "advSentence": "With sea levels rising steadily, scientists insist it is imperative that coastal cities strengthen their bulwarks against storm surges, warning that further delay could precipitate catastrophic flooding in low-lying neighborhoods.",
+        "advTranslation": "隨著海平面持續上升，科學家堅稱沿海城市必須強化抵禦暴潮的屏障，並警告再拖延下去可能在低窪社區引發災難性洪水。"
       },
       {
         "word": "imprudent",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not showing care, unwise.",
           "chinese": ""
-        }
+        },
+        "advSentence": "It would be imprudent for a novice investor to stake her entire savings on an unstable cryptocurrency, especially when its alleged returns are attested only by anonymous testimonials of dubious credibility.",
+        "advTranslation": "對新手投資人來說，把全部積蓄押在一種極不穩定的加密貨幣上是不明智的，尤其當其所謂的報酬只有來路可疑的匿名見證可以佐證時。"
       },
       {
         "word": "inanimate",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not alive, lacking consciousness.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Young children often attribute feelings to inanimate objects, scolding a table they have bumped into, a phenomenon that developmental psychologists construe as an innate stage of cognitive growth rather than a sign of confusion.",
+        "advTranslation": "年幼的孩子常把情感投射到無生命的物體上，例如責罵自己撞到的桌子；發展心理學家將這種現象解讀為認知發展中與生俱來的一個階段，而非思緒混亂的徵兆。"
       },
       {
         "word": "inviolable",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Never to be broken or dishonoured.",
           "chinese": ""
-        }
+        },
+        "advSentence": "In many democracies, freedom of the press is regarded as an inviolable principle, and any government attempt to curtail it, however nominal, tends to elicit fierce protests from journalists and civic organizations alike.",
+        "advTranslation": "在許多民主國家，新聞自由被視為不可侵犯的原則，政府任何削弱它的企圖，不論多麼微小，往往都會招致記者與公民團體的強烈抗議。"
       },
       {
         "word": "originate",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To have a beginning, arise from.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Many linguists believe that the Austronesian languages originated in Taiwan, from which intrepid seafarers ventured across the Pacific over thousands of years, carrying their crops, customs, and words to islands as remote as Hawaii and New Zealand, a feat of navigation that scholars deem remarkable.",
+        "advTranslation": "許多語言學家認為南島語系起源於台灣，數千年來，無畏的航海者從這裡出發橫渡太平洋，將他們的作物、習俗和詞彙帶到遠至夏威夷和紐西蘭的島嶼，學者認為這是了不起的航海壯舉。"
       },
       {
         "word": "prohibition",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The act of forbidding something.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The prohibition of alcohol in the United States during the 1920s proved largely ineffectual, as clandestine bars flourished in nearly every city and bootleggers amassed enormous fortunes with apparent impunity.",
+        "advTranslation": "美國在一九二〇年代實施的禁酒令大致上成效不彰，因為祕密酒吧幾乎在每座城市大行其道，私酒販子更是看似肆無忌憚地累積龐大財富。"
       },
       {
         "word": "superstition",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A belief not based on reason or knowledge.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Despite advances in science, the superstition that the number four brings misfortune still permeates East Asian culture, so many buildings omit a fourth floor, a practice that practical-minded architects find vexatious yet are loath to abandon.",
+        "advTranslation": "儘管科學進步，數字四會帶來厄運的迷信仍深植於東亞文化，許多建築因此省略四樓；務實的建築師雖覺得這種做法令人困擾，卻也不願放棄。"
       },
       {
         "word": "taboo",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A social or religious custom prohibiting action.",
           "chinese": ""
-        }
+        },
+        "advSentence": "In many cultures, discussing mental illness remains a taboo, so sufferers often repress their symptoms rather than risk the disdain of neighbors, a silence that can turn a treatable malady into a lifelong burden.",
+        "advTranslation": "在許多文化中，談論精神疾病仍是一種禁忌，因此患者往往壓抑自己的症狀，而不願冒著遭鄰居鄙視的風險；這種沉默可能使原本可治療的疾病變成終身的負擔。"
       },
       {
         "word": "taint",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A trace of a bad quality or substance.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Although the senator was eventually exonerated, the taint of the bribery scandal lingered, and his opponents continued to disparage him as a culprit who had escaped justice through legal subterfuge.",
+        "advTranslation": "儘管這位參議員最終獲判無罪，賄賂醜聞留下的污點卻揮之不去，對手仍持續貶低他，說他是靠法律伎倆逃過制裁的罪魁禍首。"
       },
       {
         "word": "tradition",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A long-established custom or belief.",
           "chinese": ""
-        }
+        },
+        "advSentence": "The annual Mazu pilgrimage, a tradition that draws throngs of devotees through central Taiwan each spring, has endured for generations, adapting to the vicissitudes of modern life while still offering participants solace and a sense of community.",
+        "advTranslation": "每年春天的媽祖遶境是吸引大批信眾走過台灣中部的傳統，已延續好幾代人；它隨著現代生活的變遷而調整，卻依然為參與者帶來慰藉與歸屬感。"
       },
       {
         "word": "universal",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Applicable to all cases, general.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Although cross-cultural studies corroborate that facial expressions of joy and fear are nearly universal, researchers caution that the norms dictating when such emotions may be displayed are far from monolithic, varying markedly among heterogeneous societies.",
+        "advTranslation": "雖然跨文化研究證實，喜悅與恐懼的臉部表情幾乎是普世共通的，研究人員仍提醒，規範何時可以表露這些情緒的準則絕非一成不變，而是在各種不同的社會之間差異顯著。"
       },
       {
         "word": "vulnerable",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Susceptible to physical or emotional attack.",
           "chinese": ""
-        }
+        },
+        "advSentence": "Coral reefs are particularly vulnerable to rising ocean temperatures, which cause corals to expel the algae on which they depend, and scientists fear that if such bleaching recurs too often, entire reefs could succumb, leaving the myriad species that inhabit them without sanctuary.",
+        "advTranslation": "珊瑚礁特別容易受到海水溫度上升的影響，高溫會使珊瑚排出賴以維生的藻類；科學家擔心，若這種白化現象太常發生，整片珊瑚礁可能死亡，使棲息其中的無數物種失去庇護所。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abhorrent": [
     "Inspiring disgust and loathing.",

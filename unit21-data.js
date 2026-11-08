@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A young member of a noble family; a descendant.",
           "chinese": "子孫；後代"
-        }
+        },
+        "advSentence": "As the scion of an affluent banking dynasty, the young heir surprised his family by eschewing the prestigious positions they offered him and instead devoting his inheritance to clinics for indigent farmers in remote villages.",
+        "advTranslation": "身為富裕銀行世家的後代，這位年輕繼承人出乎家人意料，拒絕了他們提供的顯赫職位，反而將遺產投入為偏遠村落貧困農民設立的診所。"
       },
       {
         "word": "indoctrinate",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To teach a person to accept a set of beliefs.",
           "chinese": "灌輸；教導"
-        }
+        },
+        "advSentence": "Totalitarian regimes of the twentieth century often sought to indoctrinate children through school textbooks that disparaged opposition and praised the leader as a paragon of virtue, a strategy designed to repress critical thinking before it could become overt.",
+        "advTranslation": "二十世紀的極權政權常透過學校教科書灌輸兒童思想；這些教科書貶低異議，並把領袖讚頌為美德的典範，目的是在批判性思考公開萌芽之前就加以壓制。"
       },
       {
         "word": "opulence",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Great wealth and luxuriousness.",
           "chinese": "財富；富裕"
-        }
+        },
+        "advSentence": "Visitors to the palace of Versailles are often astonished by the opulence of its gilded halls, yet historians note that such ostentatious display was financed by heavy taxes that exacerbated the privation of ordinary French peasants.",
+        "advTranslation": "參觀凡爾賽宮的遊客常驚嘆於其金碧輝煌大廳的奢華富麗，但歷史學家指出，這種炫耀式的排場是靠沉重賦稅支撐的，加劇了法國一般農民的貧困。"
       },
       {
         "word": "obsequious",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Excessively eager to please or obey.",
           "chinese": "諂媚的；奉承的"
-        }
+        },
+        "advSentence": "The courtier's obsequious manner, which included bowing low and praising every inane remark the king made, earned him a comfortable sinecure but also the disdain of rivals who construed his flattery as a form of duplicity.",
+        "advTranslation": "這名朝臣卑躬屈膝的態度——包括深深鞠躬、稱讚國王每一句空洞的話——為他換來一份輕鬆的閒差，卻也招來對手的鄙視，他們把他的奉承視為一種表裡不一的手段。"
       },
       {
         "word": "fulsome",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Excessively complimentary, insincere.",
           "chinese": "過度誇張的；令人作嘔的"
-        }
+        },
+        "advSentence": "The critic dismissed the publisher's fulsome praise of the debut novel as a mere pretext for boosting sales, noting that the book's verbose prose and lackluster characters hardly merited such exaggerated acclaim.",
+        "advTranslation": "評論家認為出版社對這部處女作的過度吹捧只是促銷的藉口，並指出這本書文字冗長、角色乏味，根本配不上如此誇張的讚譽。"
       },
       {
         "word": "lush",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Luxuriously rich, elaborate, or profuse.",
           "chinese": "茂盛的；奢華的"
-        }
+        },
+        "advSentence": "The lush rainforests of the Amazon serve as a habitat for a myriad of species, but ecologists warn that rampant logging could turn these regions into barren scrubland within just a few generations.",
+        "advTranslation": "亞馬遜茂密的雨林是無數物種的棲息地，但生態學家警告，猖獗的伐木可能在短短幾個世代內，就把這些地區變成貧瘠的灌木荒地。"
       },
       {
         "word": "destitution",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "The state of extreme poverty.",
           "chinese": "貧困；赤貧"
-        }
+        },
+        "advSentence": "During the Great Depression, the sudden liquidation of thousands of banks plunged many once-prosperous families into destitution, forcing them to seek solace in soup kitchens and makeshift shelters that offered only a brief respite from hunger.",
+        "advTranslation": "經濟大蕭條期間，數千家銀行突然倒閉清算，使許多原本富裕的家庭陷入赤貧，只能在施粥所和臨時收容所中尋求慰藉，而那裡只能讓他們短暫擺脫飢餓。"
       },
       {
         "word": "ponder",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To think carefully and seriously.",
           "chinese": "仔細考慮"
-        }
+        },
+        "advSentence": "Before signing the treaty, the president paused to ponder whether its restrictive clauses might jeopardize the nation's sovereignty or whether rejecting it would precipitate an even more turbulent conflict with neighboring states.",
+        "advTranslation": "簽署條約之前，總統停下來仔細思考：其中的限制性條款是否會危及國家主權，或者拒絕簽署是否會引發與鄰國更動盪的衝突。"
       },
       {
         "word": "supplication",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An earnest request or prayer.",
           "chinese": "懇求；祈求"
-        }
+        },
+        "advSentence": "Kneeling before the statue, the pilgrims offered an earnest supplication for rain, for the drought had become so severe that crops withered, malnutrition was ubiquitous, and the villagers' doleful faces betrayed an ominous sense of despair.",
+        "advTranslation": "朝聖者跪在神像前，誠心祈求降雨；因為旱災嚴重到農作物枯萎、營養不良隨處可見，村民憂傷的面容流露出一種不祥的絕望。"
       },
       {
         "word": "decadence",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Moral or cultural decline and self-indulgence.",
           "chinese": "墮落；衰退"
-        }
+        },
+        "advSentence": "Some Roman writers blamed the empire's decline on the decadence of its elite, who indulged in sumptuous banquets and profligate spending while the frontier garrisons, poorly paid and increasingly fractious, struggled to repulse invaders.",
+        "advTranslation": "一些羅馬作家將帝國的衰落歸咎於菁英階層的墮落：他們沉溺於奢華的宴席、揮霍無度，而邊境軍團卻薪餉微薄、日益難以駕馭，苦苦抵擋入侵者。"
       },
       {
         "word": "penance",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Voluntary self-punishment to atone for a fault.",
           "chinese": "懺悔；贖罪"
-        }
+        },
+        "advSentence": "In medieval Europe, a nobleman who had committed an egregious sin might perform penance by walking barefoot to a distant shrine, a grueling peregrination meant to demonstrate his remorse and elicit forgiveness from the church.",
+        "advTranslation": "在中世紀歐洲，犯下嚴重罪過的貴族可能會以赤腳步行前往遙遠聖地的方式來贖罪；這段艱苦的朝聖旅程意在表明他的悔悟，並求得教會的寬恕。"
       },
       {
         "word": "ascetic",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person who practises severe self-discipline.",
           "chinese": "苦行的；禁慾者"
-        }
+        },
+        "advSentence": "The ascetic renounced all worldly comforts, living in a mountain cave on a frugal diet of bread and water, yet pilgrims who came to importune him for advice found him surprisingly gregarious and quick to quip.",
+        "advTranslation": "這位苦行者捨棄一切世俗享受，住在山洞裡，只靠麵包和水的簡樸飲食度日；然而前來懇求他指點的朝聖者卻發現，他出奇地健談，而且妙語連珠。"
       },
       {
         "word": "desultory",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lacking purpose, disconnected, random.",
           "chinese": "散漫的；斷斷續續的"
-        }
+        },
+        "advSentence": "After months of desultory negotiations in which delegates traded perfunctory remarks and seldom addressed the salient issues, both sides finally concurred that a more structured agenda was necessary if any agreement was to be reached.",
+        "advTranslation": "經過數月散漫的談判，代表們只交換敷衍的言辭、很少觸及關鍵問題，雙方終於一致認為，若想達成任何協議，就必須訂出更有條理的議程。"
       },
       {
         "word": "disciple",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A follower of a teacher or leader.",
           "chinese": "門徒；信徒"
-        }
+        },
+        "advSentence": "Plato, the most celebrated disciple of Socrates, recorded his teacher's dialogues with meticulous care, and scholars still scrutinize these texts to discern which ideas belonged to the master and which were Plato's own embellishments.",
+        "advTranslation": "蘇格拉底最著名的門徒柏拉圖一絲不苟地記錄了老師的對話，學者至今仍仔細研究這些文本，試圖分辨哪些思想屬於老師，哪些是柏拉圖自己的潤飾。"
       },
       {
         "word": "metamorphosis",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A dramatic change in form or nature.",
           "chinese": "變態；蛻變"
-        }
+        },
+        "advSentence": "The caterpillar's metamorphosis into a butterfly, a process encoded in genes inherent to the species, radically modifies the insect's body as larval tissues dissolve inside the chrysalis and reorganize into wings, antennae, and other delicate components.",
+        "advTranslation": "毛毛蟲蛻變成蝴蝶的過程，是由該物種本身固有的基因所編碼；在這個過程中，幼蟲組織在蛹內溶解，再重組成翅膀、觸角和其他精細的構造，徹底改變了昆蟲的身體。"
       },
       {
         "word": "bona fide",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Genuine, real, done in good faith.",
           "chinese": "真實的；真誠的"
-        }
+        },
+        "advSentence": "Art experts spent years trying to corroborate that the newly discovered sketch was a bona fide work by Leonardo, since the market had recently been inundated with skillful forgeries designed to dupe gullible collectors.",
+        "advTranslation": "藝術專家花了數年時間，試圖證實這幅新發現的素描確實是達文西的真跡，因為市場上最近充斥著專門用來欺騙輕信收藏家的高明贗品。"
       },
       {
         "word": "salvation",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Deliverance from danger or ruin.",
           "chinese": "拯救；救贖"
-        }
+        },
+        "advSentence": "For the declining fishing town, the new marine research institute proved to be its economic salvation, providing stable remuneration to residents who had endured years of financial vicissitudes and reviving a community many had deemed doomed to obsolescence.",
+        "advTranslation": "對這座日漸沒落的漁村而言，新成立的海洋研究所成了經濟上的救星，不僅為歷經多年經濟起伏的居民提供穩定的收入，也讓這個許多人認定註定要被淘汰的社區重獲生機。"
       },
       {
         "word": "materialism",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A tendency to consider material things more important than spiritual values.",
           "chinese": "物質主義"
-        }
+        },
+        "advSentence": "Critics of modern consumer culture contend that materialism fosters a relentless cupidity, leading people to crave a plethora of possessions even as studies suggest that such acquisitions provide only a fleeting and shallow sense of contentment.",
+        "advTranslation": "現代消費文化的批評者主張，物質主義助長了永不滿足的貪婪，使人們渴望擁有過多的物品，即使研究顯示這些購買只能帶來短暫而膚淺的滿足感。"
       },
       {
         "word": "nurture",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To care for and encourage growth.",
           "chinese": "養育；培育"
-        }
+        },
+        "advSentence": "Montessori educators believe that teachers should nurture a child's innate curiosity rather than stifle it with rigid drills, arguing that even a precocious student will become timorous and withdrawn if every spontaneous question is met with a reprimand.",
+        "advTranslation": "蒙特梭利教育者認為，教師應該培育孩子與生俱來的好奇心，而不是用死板的練習扼殺它；他們主張，如果每個自發的提問都換來斥責，即使是早慧的學生也會變得膽怯退縮。"
       },
       {
         "word": "nirvana",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A state of perfect peace and happiness.",
           "chinese": "涅槃；解脫"
-        }
+        },
+        "advSentence": "In Buddhist teaching, nirvana is the ultimate goal of spiritual practice, a tranquil state that, according to the Buddha, can be attained only after the cessation of the desires and illusions that afflict ordinary human existence.",
+        "advTranslation": "在佛教教義中，涅槃是修行的終極目標，依佛陀所言，這是一種唯有在欲望與幻象止息之後才能達到的寧靜境界，而這些欲望與幻象正困擾著凡人的日常存在。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "scion": [
     "A young member of a noble family; a descendant.",

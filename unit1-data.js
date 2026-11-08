@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Desiring or consuming great quantities.",
           "chinese": "貪婪的；貪得無厭的"
-        }
+        },
+        "advSentence": "The voracious caterpillars of certain moth species can strip a mature oak of its foliage within days, a phenomenon that entomologists scrutinize closely because such defoliation may exacerbate the adverse effects of drought on entire forests.",
+        "advTranslation": "某些蛾類的幼蟲食量驚人，能在數天內啃光一棵成熟橡樹的葉子；昆蟲學家密切研究此現象，因為這種落葉可能使乾旱對整片森林造成的不良影響更加惡化。"
       },
       {
         "word": "indiscriminate",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Choosing at random without careful selection.",
           "chinese": "不加選擇的；任意的"
-        }
+        },
+        "advSentence": "Critics of early pesticide programs argued that the indiscriminate spraying of chemicals was pernicious to songbirds and pollinators alike, since poisons meant to quell a single infestation would inevitably afflict every creature in the treated area.",
+        "advTranslation": "早期殺蟲劑計畫的批評者主張，不加選擇地噴灑化學藥劑對鳴禽和授粉昆蟲同樣有害，因為原本只為撲滅單一蟲害的毒物，必然會危害噴灑區域內的每一種生物。"
       },
       {
         "word": "eminent",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Of high reputation; outstanding.",
           "chinese": "傑出的；卓越的"
-        }
+        },
+        "advSentence": "The eminent physicist was so cognizant of her own fallibility that she routinely solicited criticism from junior colleagues, a laudable habit that belied the stereotype of the aloof scholar who scoffs at anyone lacking comparable credentials.",
+        "advTranslation": "這位傑出的物理學家深知自己也會犯錯，因此經常向資淺同事徵求批評；這種值得讚許的習慣，打破了學者高高在上、對資歷不如自己者嗤之以鼻的刻板印象。"
       },
       {
         "word": "steeped",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Soaked, drenched; deeply immersed in.",
           "chinese": "浸泡的；深浸於…中的"
-        }
+        },
+        "advSentence": "Steeped in the folklore of her indigenous community since childhood, the novelist wove ancestral myths into her prolific body of work, creating narratives so poignant that even critics who had once derided her style came to admire them.",
+        "advTranslation": "這位小說家自幼浸淫於原住民族群的民間傳說，將祖先的神話融入她豐碩的作品中，寫出動人心弦的故事，連曾經嘲諷她文風的評論家也轉而讚賞。"
       },
       {
         "word": "replete",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Completely filled or well-supplied with.",
           "chinese": "充滿的；飽足的"
-        }
+        },
+        "advSentence": "The medieval manuscript is replete with marginal sketches of fantastical beasts, and meticulous scholars who peruse its pages have surmised that the monks who copied it found solace from the tedium of their labor in such whimsical doodles.",
+        "advTranslation": "這份中世紀手抄本的頁緣畫滿了奇幻怪獸的素描；仔細研讀其內容的嚴謹學者推測，抄寫此書的修士藉著這些異想天開的塗鴉，在枯燥的勞動中尋得慰藉。"
       },
       {
         "word": "abound",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To exist in great numbers or amounts.",
           "chinese": "大量存在；充滿"
-        }
+        },
+        "advSentence": "Although myths about the ubiquitous goldfish abound, including the dubious claim that it can remember things for only a few seconds, controlled experiments have corroborated that the fish can retain learned tasks for months.",
+        "advTranslation": "雖然關於隨處可見的金魚的迷思比比皆是，包括「金魚只有幾秒記憶」這種可疑的說法，但對照實驗已證實，金魚能將學會的任務記住長達數個月。"
       },
       {
         "word": "technology",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Branch of knowledge dealing with engineering and applied science.",
           "chinese": "技術；科技"
-        }
+        },
+        "advSentence": "Historians caution that no technology possesses an inherent moral value, since the printing press that spread scientific knowledge across Europe also enabled zealous propagandists to inundate cities with scurrilous pamphlets attacking their religious rivals.",
+        "advTranslation": "歷史學家提醒，任何科技本身都不具備固有的道德價值；將科學知識傳遍歐洲的印刷機，同樣讓狂熱的宣傳者得以用攻擊宗教對手的下流小冊子淹沒各大城市。"
       },
       {
         "word": "prognosticate",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To predict or foretell a future event.",
           "chinese": "預言；預測"
-        }
+        },
+        "advSentence": "Economists who confidently prognosticate the trajectory of markets are often humbled by unforeseen shocks, such as an abrupt political schism or a sudden surge in oil prices, that render even the most comprehensive forecasting models futile.",
+        "advTranslation": "那些自信滿滿地預測市場走向的經濟學家，常被意料之外的衝擊挫了銳氣，例如突如其來的政治分裂或油價暴漲，使即便是最全面的預測模型也徒勞無功。"
       },
       {
         "word": "abode",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A place where one lives; a home or dwelling.",
           "chinese": "住所；居所"
-        }
+        },
+        "advSentence": "For centuries the remote mountain monastery served as the humble abode of monks who had chosen to eschew worldly comforts, and its tranquil courtyards still offer visitors a respite from the clamor of modern cities.",
+        "advTranslation": "數百年來，這座偏遠的山中修道院一直是捨棄世俗享受之修士的簡樸居所，而其寧靜的庭院至今仍讓遊客得以暫時遠離現代都市的喧囂。"
       },
       {
         "word": "automaton",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A machine that operates like a person; a robot.",
           "chinese": "自動機器人；機械般行動的人"
-        }
+        },
+        "advSentence": "The eighteenth-century automaton known as the Mechanical Turk astonished European audiences by seemingly playing chess, but the device was an elaborate hoax: a concealed human player moved the pieces, a subterfuge that remained elusive to most spectators for decades.",
+        "advTranslation": "十八世紀名為「土耳其行棋傀儡」的自動機器，看似會下西洋棋而令歐洲觀眾驚嘆，但這台裝置其實是精心設計的騙局：一名藏身其中的棋手操控棋子，而這個詭計數十年來都讓大多數觀眾難以識破。"
       },
       {
         "word": "paradox",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A statement that seems absurd but may prove true.",
           "chinese": "悖論；矛盾說法"
-        }
+        },
+        "advSentence": "The so-called paradox of thrift holds that although frugal saving is prudent for any single household, if an entire population simultaneously hoards its cash, the resulting decline in demand may precipitate a recession that leaves everyone poorer.",
+        "advTranslation": "所謂「節儉的悖論」主張，雖然節儉儲蓄對任何單一家庭而言都是明智之舉，但若全體人民同時囤積現金，隨之而來的需求下滑反而可能引發經濟衰退，讓所有人變得更貧窮。"
       },
       {
         "word": "realm",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A special field or domain; a kingdom.",
           "chinese": "領域；王國"
-        }
+        },
+        "advSentence": "Once confined to the realm of science fiction, the notion of editing human genes has become feasible, prompting ethicists to admonish researchers that tools capable of eradicating hereditary maladies could also be misused for nefarious purposes.",
+        "advTranslation": "編輯人類基因的構想曾經只存在於科幻小說的領域，如今卻已切實可行，促使倫理學家告誡研究人員：能夠根除遺傳疾病的工具，也可能被濫用於邪惡的目的。"
       },
       {
         "word": "annals",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Historical records arranged year by year.",
           "chinese": "編年史；歷史記錄"
-        }
+        },
+        "advSentence": "The annals kept by imperial court historians in ancient China, which recorded events year by year, are an integral resource for modern scholars, though their accounts of rival factions must be carefully evaluated for bias toward the ruling emperors.",
+        "advTranslation": "中國古代宮廷史官逐年記載大事的編年史，是現代學者不可或缺的資料來源，但其中關於敵對派系的記述，必須審慎評估是否帶有偏袒當朝皇帝的偏見。"
       },
       {
         "word": "compound",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To increase, add to, or make worse.",
           "chinese": "使增加；加重；混合"
-        }
+        },
+        "advSentence": "Inclement weather served to compound the hapless farmers' troubles, destroying their remaining crops just as the government, citing a paucity of funds, curtailed the relief program on which they had come to depend.",
+        "advTranslation": "惡劣的天候讓這些不幸的農民雪上加霜，摧毀了他們僅存的作物；偏偏此時政府又以經費不足為由，縮減了他們賴以維生的救濟計畫。"
       },
       {
         "word": "tinge",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A trace, slight degree, or faint colouring.",
           "chinese": "一絲；淡淡的色彩；輕微感覺"
-        }
+        },
+        "advSentence": "Although the composer's late symphonies are often described as jubilant, attentive listeners discern a tinge of melancholy beneath their exuberant surface, a subtle nuance that critics attribute to the privation she endured during the war.",
+        "advTranslation": "雖然這位作曲家晚期的交響曲常被形容為歡欣鼓舞，細心的聽眾卻能在其熱情洋溢的表面下察覺一絲憂鬱；評論家將這種細微的差異歸因於她在戰時所經歷的困苦。"
       },
       {
         "word": "badger",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To pester, nag, or annoy persistently.",
           "chinese": "糾纏；煩擾；不斷騷擾"
-        }
+        },
+        "advSentence": "Rather than continually badger reticent donors with phone calls, the museum's adroit fundraiser cultivated amicable relationships with them, a strategy that eventually elicited generous contributions without any hint of pressure.",
+        "advTranslation": "這家博物館手腕高明的募款人並不一再以電話糾纏態度保留的捐款人，而是與他們建立友好的關係；這項策略最終在毫無施壓的情況下，換來了慷慨的捐款。"
       },
       {
         "word": "implore",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To plead urgently for aid or mercy.",
           "chinese": "懇求；哀求；乞求"
-        }
+        },
+        "advSentence": "In a series of impassioned speeches, the abolitionist would implore legislators to repudiate the institution of slavery, castigating those who tolerated such flagrant cruelty merely because it enriched their affluent constituents.",
+        "advTranslation": "在一連串慷慨激昂的演說中，這位廢奴主義者懇求立法者摒棄奴隸制度，並嚴厲譴責那些只因此制度能讓富裕選民致富，便容忍如此惡劣暴行的人。"
       },
       {
         "word": "drudgery",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unpleasant, dull, or exhausting hard work.",
           "chinese": "苦工；枯燥乏味的工作"
-        }
+        },
+        "advSentence": "Proponents of automation argue that machines will relieve workers of the mundane drudgery of assembly lines, yet skeptics contend that this sanguine vision ignores how such innovations could relegate millions of laborers to precarious, poorly paid jobs.",
+        "advTranslation": "自動化的支持者主張，機器將讓工人擺脫生產線上單調乏味的苦差事；然而懷疑者認為，這種樂觀的願景忽略了此類創新可能使數百萬勞工淪落到朝不保夕、薪資微薄的工作。"
       },
       {
         "word": "interminable",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Unending; seeming to last forever.",
           "chinese": "無休止的；冗長的；沒完沒了的"
-        }
+        },
+        "advSentence": "The negotiations seemed interminable, as each acrimonious session ended in deadlock, until an astute mediator proposed a compromise that allowed both delegations to save face and finally brought about a cessation of hostilities.",
+        "advTranslation": "這場談判似乎永無止境，每一回合都在激烈的爭吵中陷入僵局；直到一位精明的調停者提出折衷方案，讓雙方代表團都能保全顏面，終於促成停戰。"
       },
       {
         "word": "perceive",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To understand, become aware of, or recognise.",
           "chinese": "察覺；感知；理解"
-        }
+        },
+        "advSentence": "Psychologists have found that people often perceive ambiguous remarks as hostile when they are already fretful, a cognitive tendency that can turn a laconic email from a supervisor into a source of consternation.",
+        "advTranslation": "心理學家發現，人在焦躁不安時，常會將模稜兩可的話語視為帶有敵意；這種認知傾向可能讓上司一封簡短的電子郵件，成為令人驚慌失措的來源。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "voracious": [
     "Desiring or consuming great quantities.",

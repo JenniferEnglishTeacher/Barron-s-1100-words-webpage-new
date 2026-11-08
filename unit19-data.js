@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A general pardon for offences.",
           "chinese": "大赦；特赦"
-        }
+        },
+        "advSentence": "Hoping to end years of fighting, the new government offered amnesty to the belligerent factions that agreed to lay down their arms, a conciliatory policy that skeptics deemed overly lenient but that eventually helped quell the insurgency.",
+        "advTranslation": "為了結束多年的戰火，新政府向同意放下武器的交戰派系提供特赦；這項和解政策雖被懷疑者認為過於寬容，最終卻幫助平息了叛亂。"
       },
       {
         "word": "balk",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To be unwilling to proceed.",
           "chinese": "畏縮；猶豫"
-        }
+        },
+        "advSentence": "Although the plan's goals were laudable, investors began to balk at funding a project so fraught with technical uncertainty, especially after an earlier abortive attempt to build a similar tidal power plant had cost them dearly.",
+        "advTranslation": "雖然這項計畫的目標值得稱許，投資人卻開始對資助一個充滿技術不確定性的計畫裹足不前，尤其先前興建類似潮汐發電廠的嘗試失敗，已讓他們付出慘痛代價。"
       },
       {
         "word": "blunt",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Plainspoken, lacking in subtlety.",
           "chinese": "直率的；遲鈍的"
-        }
+        },
+        "advSentence": "Known for her blunt assessments, the editor told the aspiring novelist that his manuscript was verbose and lackluster, a frank critique that stung at first but ultimately spurred him to rewrite the book with far greater economy.",
+        "advTranslation": "這位編輯以直言不諱的評論聞名，她直接告訴這位有志成為小說家的年輕人，他的手稿冗長又平淡乏味；這番坦率的批評起初令他刺痛，最終卻促使他以更精簡的筆法重寫全書。"
       },
       {
         "word": "coup",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A sudden successful seizure of power.",
           "chinese": "政變；出乎意料的成功"
-        }
+        },
+        "advSentence": "The military coup was swift and nearly bloodless: within hours the generals had ousted the elected president, seized the state broadcaster, and promulgated a nationwide curfew, leaving incredulous citizens to wonder whether democracy would ever be restored.",
+        "advTranslation": "這場軍事政變迅速且幾乎未見流血：短短數小時內，將領們便推翻了民選總統、接管國營電視台，並頒布全國宵禁，讓難以置信的民眾不禁懷疑民主是否還有恢復的一天。"
       },
       {
         "word": "dismantle",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To take apart piece by piece.",
           "chinese": "拆除；解散"
-        }
+        },
+        "advSentence": "Under the terms of the treaty, international inspectors oversaw efforts to dismantle the enrichment plant, scrutinizing every warehouse to ensure that no essential component was surreptitiously hidden away for use in a future weapons program.",
+        "advTranslation": "根據條約規定，國際檢查人員監督拆除濃縮廠的工作，並仔細檢查每一座倉庫，確保沒有任何關鍵零件被暗中藏匿、留待日後的武器計畫使用。"
       },
       {
         "word": "exonerate",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To officially absolve from blame.",
           "chinese": "免除責任；宣佈無罪"
-        }
+        },
+        "advSentence": "After newly analyzed DNA evidence exonerated a man who had spent half his life in prison, advocates for reform argued that the case exposed an inherent flaw in a justice system that relied far too heavily on dubious eyewitness testimony.",
+        "advTranslation": "一名在獄中度過半生的男子，因重新分析的DNA證據而獲判無罪；倡議改革的人士指出，此案暴露了司法制度的固有缺陷：過度依賴可疑的目擊證詞。"
       },
       {
         "word": "expatriate",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A person living outside their native country.",
           "chinese": "移居國外者；流放者"
-        }
+        },
+        "advSentence": "Drawn by low rents and a vibrant artistic scene, many American writers lived as expatriates in Paris after the First World War, forming a gregarious coterie whose letters, while celebrating European freedom, often disparage the puritanical culture they had left behind.",
+        "advTranslation": "受到低廉房租與蓬勃藝術氛圍的吸引，許多美國作家在第一次世界大戰後旅居巴黎，形成一個喜好交際的小圈子；他們的書信在讚頌歐洲自由風氣的同時，也常貶抑他們所拋下的清教徒式文化。"
       },
       {
         "word": "fiat",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An official order or decree.",
           "chinese": "命令；法令"
-        }
+        },
+        "advSentence": "Rather than consulting the public, the governor imposed the new zoning rules by fiat, an arbitrary decision that provoked an acrimonious backlash and prompted several towns to challenge the extent of her jurisdiction in court.",
+        "advTranslation": "州長未徵詢民意，便以命令強行實施新的分區規定；這項專斷的決定引發激烈的反彈，並促使數個城鎮向法院挑戰她的管轄權範圍。"
       },
       {
         "word": "legion",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Vast in number.",
           "chinese": "眾多的；軍團"
-        }
+        },
+        "advSentence": "The obstacles facing the newly independent nation were legion: its treasury was empty, its roads and bridges had been ravaged by war, and fractious regional leaders repeatedly thwarted every attempt to form a viable central government.",
+        "advTranslation": "這個新獨立國家所面臨的障礙多不勝數：國庫空虛，道路與橋梁遭戰火摧殘，而且彼此爭執不休的地方領袖一再阻撓每一次建立可行中央政府的嘗試。"
       },
       {
         "word": "megalomania",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "An obsessive desire for power or wealth.",
           "chinese": "狂妄自大；自大狂"
-        }
+        },
+        "advSentence": "The dictator's megalomania was evident in the mammoth statues of himself that he erected in every city, monuments so ostentatious that even his most loyal confidants privately scoffed at them.",
+        "advTranslation": "這位獨裁者的自大狂從他在每座城市豎立的巨型自身雕像便可見一斑；這些紀念碑浮誇至極，連他最忠心的心腹都私下嗤之以鼻。"
       },
       {
         "word": "mendacious",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Not telling the truth, lying.",
           "chinese": "虛假的；撒謊的"
-        }
+        },
+        "advSentence": "Journalists eventually exposed the mendacious tobacco executives who had concocted misleading studies and insisted, seemingly with impunity, that their products posed no lethal danger to the millions of people who used them every day.",
+        "advTranslation": "記者最終揭發了那些滿口謊言的菸草公司高層：他們捏造誤導人的研究，並在似乎不必承擔後果的情況下堅稱，自家產品對每天使用的數百萬人不構成任何致命危險。"
       },
       {
         "word": "nostalgia",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A longing for the past.",
           "chinese": "懷舊；思鄉病"
-        }
+        },
+        "advSentence": "Older residents often speak with nostalgia of the tranquil fishing village that once occupied the bay, but younger people, who crave the jobs that tourism brings, tend to deride such longing as a rosy memory that ignores the privations of the past.",
+        "advTranslation": "年長的居民常懷念昔日坐落在海灣旁那座寧靜的漁村，但渴望觀光業帶來工作機會的年輕人，往往嘲笑這種嚮往只是美化過的回憶，忽略了過去物資匱乏的困苦。"
       },
       {
         "word": "parsimonious",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Very unwilling to spend money.",
           "chinese": "吝嗇的；極度節儉的"
-        }
+        },
+        "advSentence": "The parsimonious landlord refused to spend anything on repairs, and tenants who implored him to fix the broken heating were met with caustic dismissals, leaving families to endure the bitter winter in sordid, freezing apartments.",
+        "advTranslation": "這名吝嗇的房東不肯花一毛錢修繕，房客懇求他修理故障的暖氣時，只換來他尖酸刻薄的回絕，讓一戶戶家庭只能在骯髒又冰冷的公寓裡熬過嚴冬。"
       },
       {
         "word": "pecuniary",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Relating to or involving money.",
           "chinese": "金錢的；金錢上的"
-        }
+        },
+        "advSentence": "Investigators discovered that the senator held a pecuniary interest in the very firm that had won the highway contract, a flagrant breach of ethics that, critics argued, should preclude him from voting on any related legislation.",
+        "advTranslation": "調查人員發現，這位參議員在得標公路合約的那家公司中擁有金錢上的利益；批評者認為，這是公然違反倫理的行為，應該禁止他對任何相關法案進行表決。"
       },
       {
         "word": "profligate",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Recklessly extravagant or wasteful.",
           "chinese": "揮霍的；放蕩的"
-        }
+        },
+        "advSentence": "The profligate young heir squandered his father's fortune on rash wagers and extravagant parties, and within a few years the once affluent family had to sell its estate, a downfall that the boy's frugal grandfather could never have imagined.",
+        "advTranslation": "這位揮霍無度的年輕繼承人把父親的財產浪擲在魯莽的賭注與奢侈的派對上；短短幾年內，這個曾經富裕的家族便不得不變賣莊園，這樣的沒落是他那節儉的祖父做夢也想不到的。"
       },
       {
         "word": "restrictive",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Imposing limitations.",
           "chinese": "限制性的；約束的"
-        }
+        },
+        "advSentence": "Critics argue that the city's restrictive zoning laws, which prohibit apartment buildings in most neighborhoods, have exacerbated the housing shortage and inadvertently pushed indigent families into overcrowded districts far from their jobs.",
+        "advTranslation": "批評者認為，該市嚴格的分區法規禁止在多數社區興建公寓大樓，不僅加劇了住宅短缺，也在無意間把貧困家庭推往遠離工作地點、過度擁擠的地區。"
       },
       {
         "word": "rife",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Widespread, full of.",
           "chinese": "普遍的；盛傳的"
-        }
+        },
+        "advSentence": "In the final years of the dynasty, the imperial bureaucracy was rife with corruption, as officials routinely solicited bribes, engaged in extortion, and treated the law with such disdain that a peasant uprising became all but inexorable.",
+        "advTranslation": "在王朝的最後幾年，帝國官僚體系貪腐橫行：官員經常索賄、敲詐勒索，並對法律如此輕蔑，以致農民起義幾乎成了無法阻擋的結果。"
       },
       {
         "word": "strife",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Angry or violent disagreement.",
           "chinese": "衝突；爭吵"
-        }
+        },
+        "advSentence": "Years of sectarian strife had left the city deeply scarred, and although an amicable truce now holds, community leaders fear that the latent hostility between the two groups could be rekindled by a single inflammatory epithet.",
+        "advTranslation": "多年的宗派衝突在這座城市留下深刻的傷痕；雖然目前維持著和睦的停戰，社區領袖仍擔心，兩個群體之間潛藏的敵意可能因一句煽動性的侮辱稱呼而再度點燃。"
       },
       {
         "word": "sumptuous",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Splendid and expensive-looking.",
           "chinese": "奢華的；豪華的"
-        }
+        },
+        "advSentence": "Guests at the palace were served a sumptuous banquet of roasted game and imported wines, an incongruous display of luxury at a time when emaciated peasants just beyond the walls were dying of malnutrition.",
+        "advTranslation": "宮中賓客享用著野味與進口美酒的奢華盛宴；而就在宮牆之外，骨瘦如柴的農民正因營養不良而死去，這場奢靡的排場顯得極不相稱。"
       },
       {
         "word": "underwrite",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To provide financial support for.",
           "chinese": "承保；提供資金"
-        }
+        },
+        "advSentence": "Several private foundations agreed to underwrite the excavation after government agencies, citing the paucity of preliminary evidence, declined to fund it, and their gamble paid off when the team unearthed a subterranean tomb replete with ancient treasures.",
+        "advTranslation": "由於政府機關以初步證據不足為由拒絕撥款，數個私人基金會同意資助這項挖掘工作；而當團隊挖出一座滿是古代珍寶的地下墓穴時，他們的冒險終於得到了回報。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "amnesty": [
     "A general pardon for offences.",

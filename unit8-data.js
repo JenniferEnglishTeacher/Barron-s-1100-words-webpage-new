@@ -14,7 +14,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To trouble greatly, cause distress.",
           "chinese": "折磨；使痛苦"
-        }
+        },
+        "advSentence": "For centuries, scurvy would afflict sailors on long voyages, and although a few astute captains discerned a link between citrus fruit and recovery, naval bureaucrats took decades to stipulate that daily rations include lemon juice.",
+        "advTranslation": "好幾個世紀以來，壞血病一直折磨著長途航行的水手；雖然少數精明的船長察覺到柑橘類水果與康復之間的關聯，海軍官僚卻花了數十年才明文規定每日配給必須包含檸檬汁。"
       },
       {
         "word": "ascend",
@@ -28,7 +30,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To rise, climb upward.",
           "chinese": "上升；攀登"
-        }
+        },
+        "advSentence": "As the expedition began to ascend the final ridge, an ominous bank of clouds appeared, and the vigilant guide gesticulated urgently, warning the brash newcomers that they must turn back forthwith.",
+        "advTranslation": "當探險隊開始攀登最後一道山脊時，一片不祥的雲層出現了；警覺的嚮導急切地比手畫腳，警告那些莽撞的新手必須立刻折返。"
       },
       {
         "word": "besiege",
@@ -42,7 +46,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To surround and hem in.",
           "chinese": "圍攻；包圍"
-        }
+        },
+        "advSentence": "When rebel forces began to besiege the capital, the king held a clandestine council with his confidants, but their plan to sally forth at night was betrayed by a spy, and the fiasco hastened the city's surrender.",
+        "advTranslation": "叛軍開始圍攻首都時，國王與心腹們祕密召開會議，但他們夜間突圍的計畫遭間諜出賣，這場慘敗加速了城市的投降。"
       },
       {
         "word": "emaciated",
@@ -56,7 +62,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Abnormally thin, wasted away.",
           "chinese": "憔悴的；極度消瘦的"
-        }
+        },
+        "advSentence": "Photographs of emaciated prisoners released from wartime camps provoked global consternation, and even governments that had long been reticent about the atrocities were compelled to concur that an international tribunal was necessary.",
+        "advTranslation": "從戰時集中營獲釋、骨瘦如柴的囚犯照片引發全球震驚，就連長期對這些暴行保持沉默的政府，也不得不同意有必要成立國際法庭。"
       },
       {
         "word": "excruciating",
@@ -70,7 +78,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Agonizing, extremely painful.",
           "chinese": "極痛苦的；難以忍受的"
-        }
+        },
+        "advSentence": "Before anesthesia was introduced, surgeons treating even a deep laceration prized speed above all, since every incision caused excruciating pain, and the annals of early hospitals describe patients who implored doctors to stop midway through operations.",
+        "advTranslation": "在麻醉發明之前，即使只是處理一道深深的撕裂傷，外科醫生也最重視速度，因為每一刀都會帶來極度的疼痛；早期醫院的紀錄中記載著病人在手術進行到一半時哀求醫生停手。"
       },
       {
         "word": "fretful",
@@ -84,7 +94,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Worrisome, irritable, anxious.",
           "chinese": "煩躁的；焦躁不安的"
-        }
+        },
+        "advSentence": "Fretful after a week of turbulent markets, many small investors sold their shares in a frenzy, a perverse reaction that economists say merely compounds losses by locking them in at the worst possible moment.",
+        "advTranslation": "經歷一週動盪的市場後，許多焦躁不安的小額投資人在一陣狂亂中拋售股票；經濟學家表示，這種違反常理的反應只會在最糟的時機鎖定虧損，讓損失雪上加霜。"
       },
       {
         "word": "harbinger",
@@ -98,7 +110,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A forerunner or advance sign.",
           "chinese": "先兆；前兆"
-        }
+        },
+        "advSentence": "In many ancient cultures, a comet was construed as a harbinger of calamity, and court astrologers who prognosticated the downfall of kings wielded enormous influence, though their predictions were as dubious as they were ominous.",
+        "advTranslation": "在許多古代文化中，彗星被解讀為災難的前兆；預言君王覆滅的宮廷占星師握有極大的影響力，儘管他們的預測既不祥又十分可疑。"
       },
       {
         "word": "malignant",
@@ -112,7 +126,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Destructive, deadly, deeply harmful.",
           "chinese": "惡性的；致命的"
-        }
+        },
+        "advSentence": "When the biopsy revealed that the tumor was malignant, the oncologist urged surgery forthwith, but the patient, a frail octogenarian, judged such an arduous operation hardly feasible and opted instead for palliative care.",
+        "advTranslation": "切片檢查顯示腫瘤是惡性的，腫瘤科醫師力勸立即動手術；但這位身體虛弱的八旬病人認為如此艱鉅的手術並不可行，轉而選擇了安寧緩和照護。"
       },
       {
         "word": "malnutrition",
@@ -126,7 +142,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Faulty or inadequate diet causing ill-health.",
           "chinese": "營養不良"
-        }
+        },
+        "advSentence": "Chronic malnutrition remains rampant in drought-stricken regions, where indigent families subsist on a paucity of staple grains, and aid workers warn that such deprivation can permanently stunt children's cognitive development.",
+        "advTranslation": "在飽受乾旱之苦的地區，長期營養不良的情況依然普遍；貧困家庭只能靠少量主食穀物維生，援助人員警告，這種匱乏可能會永久阻礙孩童的認知發展。"
       },
       {
         "word": "privation",
@@ -140,7 +158,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Lack of basic necessities.",
           "chinese": "匱乏；艱苦"
-        }
+        },
+        "advSentence": "Despite the privation of years spent in exile, the poet refused to repudiate his political convictions, and the deceptively laconic verses he composed in his bare abode are now regarded as masterpieces of resistance literature.",
+        "advTranslation": "儘管流亡多年、生活困頓，這位詩人始終不肯放棄自己的政治信念；他在簡陋居所中寫下那些看似簡短的詩句，如今被視為抵抗文學的傑作。"
       },
       {
         "word": "remote",
@@ -154,7 +174,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Distant, hidden away, unlikely.",
           "chinese": "遙遠的；偏僻的"
-        }
+        },
+        "advSentence": "Linguists documenting endangered languages often travel to remote villages where the obsolescence of the local tongue seems inexorable, so they work with alacrity to record every nuance of its grammar before the last fluent speakers pass away.",
+        "advTranslation": "記錄瀕危語言的語言學家經常前往偏遠的村落，那裡的在地語言似乎無可避免地走向消亡，因此他們爭分奪秒地記錄其文法的每一個細微之處，趕在最後一批流利使用者離世之前。"
       },
       {
         "word": "respite",
@@ -168,7 +190,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A short period of relief from difficulty.",
           "chinese": "喘息；暫緩"
-        }
+        },
+        "advSentence": "The brief ceasefire offered civilians a much-needed respite from the shelling, but within days skirmishes resumed along the front, exacerbating a humanitarian crisis that aid agencies had implored both sides to address.",
+        "advTranslation": "短暫的停火讓平民在砲擊中獲得急需的喘息，但不出幾天，前線又爆發小規模衝突，使援助機構懇求雙方正視的人道危機更加惡化。"
       },
       {
         "word": "reverberating",
@@ -182,7 +206,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Echoing, resounding persistently.",
           "chinese": "迴盪的；持續回響的"
-        }
+        },
+        "advSentence": "Long after the final chord, the reverberating tones of the cathedral organ lingered beneath the vaulted ceiling, enhancing the music's solemnity so profoundly that the throng of tourists fell silent and even restless children ceased to jostle one another.",
+        "advTranslation": "最後一個和弦結束許久之後，大教堂管風琴的迴盪樂音仍在拱頂下縈繞，大大增添了音樂的莊嚴感，讓成群的遊客都安靜下來，就連躁動的孩子也不再互相推擠。"
       },
       {
         "word": "sanctuary",
@@ -196,7 +222,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "A place of shelter and protection.",
           "chinese": "避難所；庇護所"
-        }
+        },
+        "advSentence": "During the purges, the mountain monastery served as a sanctuary for dissidents, and the intrepid monks flouted the decrees promulgated by the regime, refusing to surrender anyone who had sought refuge within its walls.",
+        "advTranslation": "在整肅期間，這座山中修道院成為異議人士的避難所；無畏的修士們公然違抗政權頒布的法令，拒絕交出任何在院牆內尋求庇護的人。"
       },
       {
         "word": "sinister",
@@ -210,7 +238,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Evil, ominous, threatening harm.",
           "chinese": "邪惡的；不祥的"
-        }
+        },
+        "advSentence": "Beneath the philanthropist's genial public persona lay a sinister ambition, and the novel's protagonist, initially duped by his generosity, gradually discerns the nefarious scheme that has enriched him at the expense of an entire town.",
+        "advTranslation": "在這位慈善家和藹可親的公眾形象之下，隱藏著邪惡的野心；小說主角起初被他的慷慨所矇騙，後來才逐漸識破這個犧牲整座城鎮來讓他致富的罪惡陰謀。"
       },
       {
         "word": "succumb",
@@ -224,7 +254,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To give way, yield to a force.",
           "chinese": "屈服；死於"
-        }
+        },
+        "advSentence": "Although the empire had withstood centuries of foreign invasions, it eventually began to succumb to internal decay, as rampant corruption, interminable civil wars, and an arbitrary system of taxation eroded the loyalty of its subjects.",
+        "advTranslation": "雖然這個帝國抵擋了數百年的外族入侵，最終卻逐漸屈服於內部的腐敗，因為猖獗的貪污、沒完沒了的內戰和任意武斷的稅制，侵蝕了子民的忠誠。"
       },
       {
         "word": "surge",
@@ -238,7 +270,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To rush suddenly, to increase sharply.",
           "chinese": "湧動；急增"
-        }
+        },
+        "advSentence": "When the central bank unexpectedly cut interest rates, demand for urban apartments began to surge, as affluent buyers and avid speculators competed for scarce listings, prompting economists to warn of a fiasco reminiscent of earlier housing bubbles.",
+        "advTranslation": "中央銀行出乎意料地降息後，都市公寓的需求開始急遽攀升，富裕的買家和熱衷的投機客爭搶稀少的物件，促使經濟學家警告，可能會重演過去房市泡沫那樣的慘敗。"
       },
       {
         "word": "thwart",
@@ -252,7 +286,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "To hinder, prevent, frustrate.",
           "chinese": "阻撓；妨礙"
-        }
+        },
+        "advSentence": "Alert customs officers managed to thwart an attempt to smuggle rare orchids out of the country after noticing an incongruous tinge of damp soil on a tourist's luggage, and the smuggler's effort to fabricate an alibi quickly unraveled.",
+        "advTranslation": "機警的海關人員注意到一名遊客的行李上有一絲不尋常的潮濕泥土痕跡，因而成功阻止了一起走私稀有蘭花出境的企圖，而走私者捏造不在場證明的說詞也很快就被拆穿。"
       },
       {
         "word": "tranquil",
@@ -266,7 +302,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Quiet, peaceful, calm.",
           "chinese": "寧靜的；平靜的"
-        }
+        },
+        "advSentence": "Steeped in centuries of Zen tradition, the tranquil temple gardens of Kyoto, with their raked gravel and mossy stones, offer visitors a solace that contrasts sharply with the mundane bustle of the modern city outside their walls.",
+        "advTranslation": "京都的寺院庭園浸潤在數百年的禪宗傳統中，耙紋整齊的砂礫與長滿青苔的石頭營造出寧靜的氛圍，帶給遊客一份慰藉，與牆外現代都市平凡忙亂的喧囂形成強烈對比。"
       },
       {
         "word": "ubiquitous",
@@ -280,7 +318,9 @@ window.FLASHCARD_UNITS = {
         "lookup": {
           "english": "Present or found everywhere.",
           "chinese": "無所不在的；普遍的"
-        }
+        },
+        "advSentence": "Plastic microfibers have become so ubiquitous that scientists have detected them in Arctic ice and deep-sea sediments, and researchers attribute this pernicious pollution partly to the indiscriminate disposal of synthetic textiles, though its precise effects on health remain elusive.",
+        "advTranslation": "塑膠微纖維已變得無所不在，科學家甚至在北極冰層和深海沉積物中都偵測到它們；研究人員認為，這種有害的污染部分源於合成纖維織品的隨意丟棄，不過它對健康的確切影響仍難以釐清。"
       }
     ],
     "quiz": [
@@ -767,7 +807,6 @@ window.FLASHCARD_UNITS = {
     ]
   }
 };
-
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "afflict": [
     "To trouble greatly, cause distress.",
