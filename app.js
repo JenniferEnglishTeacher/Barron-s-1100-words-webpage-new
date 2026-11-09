@@ -1,11 +1,13 @@
 const units = window.FLASHCARD_UNITS;
 const localLookup = window.LOCAL_LOOKUP;
 
-// Which word set this page belongs to: Barron's 1100 (unitN.html) or Hot Words for the SAT (hot-unitN.html).
-const SET = document.body.dataset.set === "hot" ? "hot" : "barrons";
+// Which word set this page belongs to: Barron's 1100 (unitN.html), Hot Words for the SAT (hot-unitN.html)
+// or Verbal Advantage Lv.1–5 / 字彙的力量1 (va-unitN.html).
+const SET = ["hot", "va"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
 const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
-  hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} }
+  hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
+  va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 25, board: "index.html#va", index: () => window.VA_INDEX || {} }
 };
 const SETCFG = SETS[SET];
 
@@ -102,12 +104,12 @@ function createQuizLinks() {
 function renderQuizLinks() {
   if (!els.quizLinks) return;
   const unit = state.unit;
-  if (SET === "hot") {
-    // Hot Words lessons have no separate online quiz page: jump to this lesson's MCQ practice below the cards.
+  if (SET === "hot" || SET === "va") {
+    // Hot Words / Verbal Advantage units have no separate online quiz page: jump to the MCQ practice below the cards.
     const a = document.createElement("a");
     a.className = "quiz-link";
     a.href = "#quizSection";
-    a.textContent = `📝 Lesson ${unit} MCQ Practice`;
+    a.textContent = `📝 ${SETCFG.unitName} ${unit} MCQ Practice`;
     a.addEventListener("click", event => {
       event.preventDefault();
       els.quizSection?.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -405,7 +407,7 @@ function renderQuiz() {
 // ---------- Barron's / Hot Words inside sample sentences ----------
 // Maps every inflected form (abounds, abounded, abounding, ...) to its headword, per word set.
 // The page's own set is checked first, so a word in both books links within the current book.
-let wordForms = null;   // { barrons: Map, hot: Map }
+let wordForms = null;   // { barrons: Map, hot: Map, va: Map }
 let barronsPhrases = [];
 
 function buildForms(index) {
@@ -438,16 +440,17 @@ function buildForms(index) {
 }
 
 function buildBarronsForms() {
-  wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()) };
+  wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()), va: buildForms(SETS.va.index()) };
   barronsPhrases.sort((a, b) => b.length - a.length);
 }
 
 // Generated forms that look like a headword but mean something else.
 const NOT_WORD = {
   barrons: new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]),
-  hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"])
+  hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"]),
+  va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"])
 };
-const SET_ORDER = SET === "hot" ? ["hot", "barrons"] : ["barrons", "hot"];
+const SET_ORDER = SET === "hot" ? ["hot", "barrons", "va"] : SET === "va" ? ["va", "barrons", "hot"] : ["barrons", "hot", "va"];
 
 function findBarrons(token) {
   if (!wordForms) buildBarronsForms();
@@ -492,13 +495,13 @@ function makeSentenceNodes(card, text) {
     const { set, head } = found;
     const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
     const isTarget = set === SET && head === ownWord;
-    button.className = `barrons-word${set === "hot" ? " hot-word" : ""}${isTarget ? " target" : ""}`;
+    button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : ""}${isTarget ? " target" : ""}`;
     button.title = isTarget
       ? `This card's word: ${head}`
       : `${SETS[set].label(unit)}: ${head}. Click to open its flashcard.`;
     if (!isTarget) {
       const badge = document.createElement("sup");
-      badge.className = set === "hot" ? "unit-badge hot-badge" : "unit-badge";
+      badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : "unit-badge";
       badge.textContent = SETS[set].badge(unit);
       button.append(badge);
     }

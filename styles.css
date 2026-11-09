@@ -982,3 +982,30 @@ body[data-set="hot"] .eyebrow, body[data-set="hot"] #unitTitle { color: var(--ho
 .mini-cards:hover, .mini-quiz:hover { filter: brightness(1.08); text-decoration: underline; }
 .hot-block .mini-cards { background: var(--hot-dark); }
 .board-word { user-select: none; }
+
+/* 2026-11-09: Zone 4 — Verbal Advantage Lv.1–5 (字彙的力量1), purple accent */
+:root { --va: #6b4fa0; --va-dark: #4f3680; --va-soft: #f3eefb; }
+.zone-tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.zone-va .zone-num { color: var(--va-dark); }
+.zone-va.active { border-color: var(--va); background: var(--va-soft); }
+.zone-va.active .zone-num { background: var(--va); color: #fff; }
+.va-block { border-color: rgba(107, 79, 160, 0.30); background: linear-gradient(145deg, #ffffff 0%, var(--va-soft) 100%); }
+.va-block .unit-number { color: var(--va-dark); }
+.va-block .mini-quiz { background: var(--va); }
+.va-block .mini-cards { background: var(--va-dark); }
+.va-block .board-word:hover { border-color: var(--va); background: #e6dcf6; color: var(--va-dark); }
+.va-block .board-word.marked, .va-block .board-word.marked:hover { border-color: #c62828; background: #c62828; color: #fff; }
+.word-tip.is-va { border-color: rgba(107, 79, 160, 0.45); }
+.word-tip.is-va .tip-head strong { color: var(--va-dark); }
+.preview-chip.va small { color: var(--va-dark); }
+.level-divider { grid-column: 1 / -1; margin: 10px 0 0; padding-bottom: 4px; border-bottom: 2px solid rgba(107, 79, 160, 0.35); color: var(--va-dark); font-size: 20px; }
+.level-divider:first-child { margin-top: 0; }
+.level-divider span { margin-left: 6px; color: var(--muted); font-size: 14px; font-weight: 600; }
+.sentence button.barrons-word.va-word { background: var(--va-soft); color: var(--va-dark); box-shadow: inset 0 -2px 0 var(--va); }
+.sentence button.barrons-word.va-word:hover { background: #e6dcf6; }
+.sentence button.barrons-word.va-word.target { background: #fff1bb; color: var(--ink); box-shadow: inset 0 -2px 0 var(--gold); }
+.unit-badge.va-badge { color: var(--va); }
+body[data-set="va"] .meter span { background: linear-gradient(90deg, var(--va), var(--gold)); }
+body[data-set="va"] .eyebrow, body[data-set="va"] #unitTitle { color: var(--va-dark); }
+@media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }
