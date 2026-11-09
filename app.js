@@ -7,7 +7,7 @@ const SET = ["hot", "va"].includes(document.body.dataset.set) ? document.body.da
 const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
   hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
-  va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 25, board: "index.html#va", index: () => window.VA_INDEX || {} }
+  va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} }
 };
 const SETCFG = SETS[SET];
 
@@ -65,13 +65,14 @@ function init() {
   for (let n = 1; n <= SETCFG.count; n += 1) {
     const option = document.createElement("option");
     option.value = String(n);
-    option.textContent = `${SETCFG.unitName} ${n}`;
+    option.textContent = SET === "va" ? `${SETCFG.unitName} ${n} (Lv.${Math.ceil(n / 5)})` : `${SETCFG.unitName} ${n}`;
     els.unitSelect.append(option);
   }
   const selectLabel = document.querySelector('label[for="unitSelect"]');
   if (selectLabel) selectLabel.textContent = SETCFG.unitName;
   const backLink = document.querySelector(".back-link");
-  if (backLink) backLink.href = SETCFG.board;
+  // Verbal Advantage units 26–50 (Lv.6–10) live in their own board zone.
+  if (backLink) backLink.href = SET === "va" && Number(state.unit) > 25 ? "index.html#va2" : SETCFG.board;
   resetOrder();
   bindEvents();
   createMemoryChant();

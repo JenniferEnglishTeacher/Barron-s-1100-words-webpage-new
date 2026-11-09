@@ -1,10 +1,11 @@
 // SAT Vocabulary Board — four zones:
 //   1. Barron's 1100 Words (46 units)   2. Hot Words for the SAT (35 lessons)   3. 字根/字首/未歸類 (linked site)
-//   4. Verbal Advantage Lv.1–5 / 字彙的力量1 (25 units, 5 per level)
-// Word zones (1, 2, 4): hover = speak + definition card, click = mark red for review, download marked words as Excel.
+//   4. Verbal Advantage Lv.1–5 / 字彙的力量1 (units 1–25)   5. Verbal Advantage Lv.6–10 / 字彙的力量2 (units 26–50)
+// Word zones (1, 2, 4, 5): hover = speak + definition card, click = mark red for review, download marked words as Excel.
 const BARRONS = window.DASHBOARD_UNITS || [];
 const HOT = window.HOT_DASHBOARD_UNITS || [];
 const VA = window.VA_DASHBOARD_UNITS || [];
+const VA2 = window.VA2_DASHBOARD_UNITS || [];
 const STORE_KEY = "barrons1100-review-list"; // kept from the Barron's-only board so existing lists survive
 const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
 const ROOTS_SITE = "https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/";
@@ -14,7 +15,8 @@ const ROOTS_SITE = "https://jenniferenglishteacher.github.io/SAT-learning-and-qu
 const BOOKS = {
   barrons: { name: "Barron's 1100", unitName: "Unit", short: "U", units: BARRONS, key: (u, i) => `${u}:${i}`, page: u => `unit${u}.html` },
   hot: { name: "Hot Words for the SAT", unitName: "Lesson", short: "H", units: HOT, key: (u, i) => `h${u}:${i}`, page: u => `hot-unit${u}.html` },
-  va: { name: "Verbal Advantage Lv.1–5", unitName: "Unit", short: "V", units: VA, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` }
+  va: { name: "Verbal Advantage Lv.1–5", unitName: "Unit", short: "V", units: VA, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` },
+  va2: { name: "Verbal Advantage Lv.6–10", unitName: "Unit", short: "V", units: VA2, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` }
 };
 
 const countEl = document.querySelector("#reviewCount");
@@ -57,7 +59,7 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-const ZONES = ["barrons", "hot", "va", "roots"];
+const ZONES = ["barrons", "hot", "va", "va2", "roots"];
 let zone = "barrons";
 
 function setZone(next, push = true) {
@@ -174,7 +176,7 @@ function showTip(btn, key) {
     <p class="tip-hint"></p>`;
   tip.querySelector("strong").textContent = card.w;
   tip.querySelector(".tip-pos").textContent = card.p;
-  tip.querySelector(".tip-unit").textContent = `${card.book === "hot" ? "Hot Words · " : card.book === "va" ? "Verbal Advantage · " : ""}${cfg.unitName} ${card.unit}`;
+  tip.querySelector(".tip-unit").textContent = `${card.book === "hot" ? "Hot Words · " : card.book.startsWith("va") ? "Verbal Advantage · " : ""}${cfg.unitName} ${card.unit}`;
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
@@ -182,7 +184,7 @@ function showTip(btn, key) {
     : "Click: add to review list 點一下加入複習 · Double-click: open flashcard 點兩下開字卡";
   tip.classList.toggle("is-marked", isMarked);
   tip.classList.toggle("is-hot", card.book === "hot");
-  tip.classList.toggle("is-va", card.book === "va");
+  tip.classList.toggle("is-va", card.book.startsWith("va"));
   tip.hidden = false;
 
   const r = btn.getBoundingClientRect();
@@ -240,7 +242,7 @@ function renderPreview() {
     const card = lookup.get(key);
     const cfg = BOOKS[card.book];
     const chip = document.createElement("span");
-    chip.className = `preview-chip${card.book === "barrons" ? "" : ` ${card.book}`}`;
+    chip.className = `preview-chip${card.book === "barrons" ? "" : ` ${card.book === "va2" ? "va" : card.book}`}`;
     chip.innerHTML = `<a href="${cardUrl(cfg, card.unit, card.w)}" target="_blank" rel="noopener"></a><small>${cfg.short}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
     chip.querySelector("a").textContent = card.w;
     chip.querySelector("button").addEventListener("click", () => toggleWord(key));
@@ -391,10 +393,12 @@ function filterBatches(q) {
 // ---------- Start ----------
 document.querySelector("#barronsCount").textContent = `${BARRONS.length} units · ${BARRONS.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#hotCount").textContent = `${HOT.length} lessons · ${HOT.reduce((n, u) => n + u.cards.length, 0)} words`;
+document.querySelector("#va2Count").textContent = `${VA2.length} units · ${VA2.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#vaCount").textContent = `${VA.length} units · ${VA.reduce((n, u) => n + u.cards.length, 0)} words`;
 buildBoard("barrons");
 buildBoard("hot");
 buildBoard("va");
+buildBoard("va2");
 refresh();
 setZone(location.hash.slice(1) || "barrons", false);
 loadBatches();

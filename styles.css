@@ -985,7 +985,7 @@ body[data-set="hot"] .eyebrow, body[data-set="hot"] #unitTitle { color: var(--ho
 
 /* 2026-11-09: Zone 4 — Verbal Advantage Lv.1–5 (字彙的力量1), purple accent */
 :root { --va: #6b4fa0; --va-dark: #4f3680; --va-soft: #f3eefb; }
-.zone-tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.zone-tabs { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 .zone-va .zone-num { color: var(--va-dark); }
 .zone-va.active { border-color: var(--va); background: var(--va-soft); }
 .zone-va.active .zone-num { background: var(--va); color: #fff; }
@@ -1007,5 +1007,18 @@ body[data-set="hot"] .eyebrow, body[data-set="hot"] #unitTitle { color: var(--ho
 .unit-badge.va-badge { color: var(--va); }
 body[data-set="va"] .meter span { background: linear-gradient(90deg, var(--va), var(--gold)); }
 body[data-set="va"] .eyebrow, body[data-set="va"] #unitTitle { color: var(--va-dark); }
+@media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }
+
+/* Zone 5 — Verbal Advantage Lv.6–10 (字彙的力量2): same purple family, deeper shade */
+.zone-va2.active { border-color: var(--va-dark); }
+.zone-va2.active .zone-num { background: var(--va-dark); }
+.va2-block { border-color: rgba(79, 54, 128, 0.35); background: linear-gradient(145deg, #ffffff 0%, #ece4f8 100%); }
+.va2-block .unit-number { color: var(--va-dark); }
+.va2-block .mini-quiz { background: var(--va); }
+.va2-block .mini-cards { background: var(--va-dark); }
+.va2-block .board-word:hover { border-color: var(--va); background: #e6dcf6; color: var(--va-dark); }
+.va2-block .board-word.marked, .va2-block .board-word.marked:hover { border-color: #c62828; background: #c62828; color: #fff; }
+@media (max-width: 1300px) { .zone-tabs { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }

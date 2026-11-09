@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261109va">
+  <link rel="stylesheet" href="styles.css?v=20261109vb">
 </head>
 <body>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首 · Verbal Advantage</p>
+      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首 · Verbal Advantage Lv.1–10</p>
       <h1>SAT Vocabulary Board</h1>
       <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a unit's flashcards (sample sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>按「🗂 Flashcards」進入該單元字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
     </header>
@@ -30,6 +30,10 @@
       <button class="zone-tab zone-va" type="button" role="tab" data-zone="va" aria-controls="zone-va">
         <span class="zone-num">4</span>
         <span class="zone-text"><strong>Verbal Advantage Lv.1–5</strong><small id="vaCount">字彙的力量1 · 25 units</small></span>
+      </button>
+      <button class="zone-tab zone-va zone-va2" type="button" role="tab" data-zone="va2" aria-controls="zone-va2">
+        <span class="zone-num">5</span>
+        <span class="zone-text"><strong>Verbal Advantage Lv.6–10</strong><small id="va2Count">字彙的力量2 · 25 units</small></span>
       </button>
     </nav>
 
@@ -68,6 +72,14 @@
       <div class="unit-board" id="board-va"></div>
     </section>
 
+    <section class="zone-panel" id="zone-va2" role="tabpanel" aria-label="Verbal Advantage Levels 6 to 10" hidden>
+      <div class="zone-head">
+        <h2>Verbal Advantage Lv.6–10 <span>字彙的力量2 · 5 levels × 5 units × 20 words</span></h2>
+        <p><b>🗂 Flashcards</b> (or the unit name) opens the unit's flashcards; double-click a word to open its card; 📝 MCQ jumps to the unit's practice test. 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡，📝 MCQ 進入練習題。</p>
+      </div>
+      <div class="unit-board" id="board-va2"></div>
+    </section>
+
     <section class="zone-panel" id="zone-roots" role="tabpanel" aria-label="Roots, prefixes and unclassified words" hidden>
       <div class="roots-hero">
         <div>
@@ -84,8 +96,9 @@
   </main>
   <script src="dashboard-data.js?v=20261109d"></script>
   <script src="hot-dashboard-data.js?v=20261109h"></script>
-  <script src="va-dashboard-data.js?v=20261109va"></script>
+  <script src="va-dashboard-data.js?v=20261109vb"></script>
+  <script src="va2-dashboard-data.js?v=20261109vb"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261109va"></script>
+  <script src="dashboard.js?v=20261109vb"></script>
 </body>
 </html>
