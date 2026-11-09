@@ -1031,9 +1031,9 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .syn-chip.root-group { color: #2f6b3a; background: #e9f4ea; border-color: #b8d8bd; font-weight: 700; padding: 3px 10px; }
 .roots-chip { text-decoration: none; }
 
-/* 2026-11-10: roots set pages — wide word list (word · POS · 中文) with ☆ save-to-review */
-body[data-set="roots"] .study-area { grid-template-columns: 380px minmax(0, 1fr) 250px; }
-body[data-set="roots"] .word-list { gap: 2px; padding: 8px; align-content: start; }
+/* 2026-11-10: every card page — wide word list (word · POS · 中文) with ☆ save-to-review */
+.study-area { grid-template-columns: 380px minmax(0, 1fr) 250px; }
+.word-list { gap: 2px; padding: 8px; align-content: start; }
 .roots-list-head { display: grid; gap: 2px; padding: 4px 6px 8px; border-bottom: 1px solid var(--line); margin-bottom: 4px; font-size: 13px; color: var(--muted); }
 .roots-list-head a { color: #2f6b3a; font-weight: 700; text-decoration: none; }
 .roots-list-head a:hover { text-decoration: underline; }
@@ -1043,7 +1043,7 @@ body[data-set="roots"] .word-list { gap: 2px; padding: 8px; align-content: start
 .word-row .wt-num { color: var(--muted); font-size: 13px; text-align: right; }
 .word-row .wt-word { font-weight: 700; overflow-wrap: anywhere; }
 .word-row .wt-pos { color: var(--coral, #c6533e); font-size: 12px; font-style: italic; white-space: nowrap; }
-.word-row .wt-zh { color: #4a5663; font-size: 14px; font-weight: 400; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.word-row .wt-zh { color: #4a5663; font-size: 14px; font-weight: 400; line-height: 1.35; overflow-wrap: anywhere; }
 .word-row.active { background: #dcecef; }
 .word-row.active .word-tab { background: transparent; }
 .word-row.saved { background: #fdecec; }
@@ -1054,5 +1054,5 @@ body[data-set="roots"] .word-list { gap: 2px; padding: 8px; align-content: start
 .word-row.saved .save-toggle { color: #c62828; }
 .roots-chip .chip-saved { font-style: normal; font-size: 12px; font-weight: 800; color: #c62828; }
 .roots-chip.has-saved { border-color: rgba(198, 40, 40, 0.45); }
-@media (max-width: 1300px) { body[data-set="roots"] .study-area { grid-template-columns: 330px minmax(0, 1fr); } body[data-set="roots"] .lookup-panel { grid-column: 1 / -1; } }
-@media (max-width: 1100px) { body[data-set="roots"] .study-area { grid-template-columns: 1fr; } body[data-set="roots"] .word-list { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-height: 420px; } body[data-set="roots"] .roots-list-head { grid-column: 1 / -1; } }
+@media (max-width: 1300px) { .study-area { grid-template-columns: 330px minmax(0, 1fr); } .lookup-panel { grid-column: 1 / -1; } }
+@media (max-width: 1100px) { .study-area { grid-template-columns: 1fr; } .word-list { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-height: 420px; } .roots-list-head { grid-column: 1 / -1; } }

@@ -262,9 +262,10 @@ function render() {
 // Buttons are reused between renders so the list never jumps or re-triggers hover.
 let hoverTimer = null;
 
-// ---------- Roots sets: word list = word + POS + 中文 + ☆ save to the board's review list ----------
-// The board (index.html) has no word chips for Zone 3, so saving happens here. Keys are "r<set>:<index>" in the
-// board's own review list; each saved card's details are kept beside it so the board can show and export it.
+// ---------- Word list (every book): number + word + POS + 中文 + ☆ save to the board's review list ----------
+// Saving here uses the board's own review list and keys, so a word saved on a card page is the same entry as
+// clicking it red on the board: Barron's "unit:index", Hot "h<lesson>:index", Verbal Advantage "v<unit>:index",
+// roots "r<set>:index". Zone 3 has no word chips on the board, so its saved cards' details are kept beside the list.
 const REVIEW_KEY = "barrons1100-review-list";
 const ROOTS_REVIEW_CARDS = "roots-review-cards";
 
@@ -272,8 +273,18 @@ function readStore(key, fallback) {
   try { return JSON.parse(localStorage.getItem(key) || "") || fallback; } catch (error) { return fallback; }
 }
 
+const KEY_PREFIX = { barrons: "", hot: "h", va: "v", roots: "r" }[SET];
+
 function rootsKey(realIndex) {
-  return `r${state.unit}:${realIndex}`;
+  return `${KEY_PREFIX}${state.unit}:${realIndex}`;
+}
+
+function isThisBookKey(key) {
+  return SET === "barrons" ? /^\d+:/.test(key) : key.startsWith(KEY_PREFIX) && /^\D\d+:/.test(key);
+}
+
+function boardLink() {
+  return SET === "va" && Number(state.unit) > 25 ? "index.html#va2" : SETCFG.board;
 }
 
 function toggleRootsReview(realIndex) {
@@ -286,11 +297,12 @@ function toggleRootsReview(realIndex) {
     delete details[key];
   } else {
     list.push(key);
-    details[key] = { w: card.word, p: card.pos, d: card.definition, c: card.chinese, s: card.sentence, t: card.translation, as: card.advSentence || "", at: card.advTranslation || "", unit: Number(state.unit) };
+    speak(card.word);
+    if (SET === "roots") details[key] = { w: card.word, p: card.pos, d: card.definition, c: card.chinese, s: card.sentence, t: card.translation, as: card.advSentence || "", at: card.advTranslation || "", unit: Number(state.unit) };
   }
   try {
     localStorage.setItem(REVIEW_KEY, JSON.stringify(list));
-    localStorage.setItem(ROOTS_REVIEW_CARDS, JSON.stringify(details));
+    if (SET === "roots") localStorage.setItem(ROOTS_REVIEW_CARDS, JSON.stringify(details));
   } catch (error) { /* private mode: nothing to save */ }
   renderWordList();
 }
@@ -300,7 +312,7 @@ function renderRootsWordList() {
   if (!els.wordList.querySelector(".roots-list-head")) {
     const head = document.createElement("div");
     head.className = "roots-list-head";
-    head.innerHTML = `<span>Click ☆ to save a word to your review list 點 ☆ 存入複習清單</span><a href="index.html#roots"><b id="rootsSavedCount">0</b> saved · Download Excel on the board ↗</a>`;
+    head.innerHTML = `<span>Click ☆ to save a word to your review list 點 ☆ 存入複習清單</span><a href="${boardLink()}"><b id="rootsSavedCount">0</b> saved · Download Excel on the board ↗</a>`;
     const rows = list.map((card, realIndex) => {
       const row = document.createElement("div");
       row.className = "word-row";
@@ -354,20 +366,21 @@ function renderRootsWordList() {
     save.setAttribute("aria-label", `${isSaved ? "Remove" : "Save"} ${list[realIndex].word} ${isSaved ? "from" : "to"} review list`);
   });
   const countEl = document.querySelector("#rootsSavedCount");
-  if (countEl) countEl.textContent = String(readStore(REVIEW_KEY, []).filter(k => k.startsWith("r")).length);
+  if (countEl) countEl.textContent = String(readStore(REVIEW_KEY, []).filter(isThisBookKey).length);
   const active = els.wordList.querySelector(".word-row.active");
   if (active) active.scrollIntoView({ block: "nearest" });
 }
 
-if (SET === "roots") {
-  // The board or another set page changed the review list: refresh the stars.
-  window.addEventListener("storage", event => {
-    if (event.key === REVIEW_KEY) renderRootsWordList();
-  });
-}
+// The board or another card page changed the review list: refresh the stars.
+window.addEventListener("storage", event => {
+  if (event.key === REVIEW_KEY) renderRootsWordList();
+});
 
 function renderWordList() {
-  if (SET === "roots") { renderRootsWordList(); return; }
+  renderRootsWordList();
+}
+
+function renderPlainWordList() { // previous list (word only); kept for reference, no longer used
   const list = cards();
   if (els.wordList.children.length !== list.length) {
     els.wordList.replaceChildren(...list.map((card, realIndex) => {
