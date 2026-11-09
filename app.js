@@ -229,9 +229,10 @@ function moveCard(direction) {
   render();
 }
 
+// Cards always open on the picture + details side (no flip step); the word-only front is no longer shown.
 function flipCard() {
-  state.flipped = !state.flipped;
-  els.flashcard.classList.toggle("flipped", state.flipped);
+  state.flipped = true;
+  els.flashcard.classList.add("flipped");
 }
 
 function render() {
@@ -239,7 +240,8 @@ function render() {
   const card = currentCard();
   els.unitTitle.textContent = data.title;
   els.unitSelect.value = state.unit;
-  els.flashcard.classList.toggle("flipped", state.flipped);
+  state.flipped = true;
+  els.flashcard.classList.add("flipped");
   els.frontWord.textContent = card.word;
   els.backWord.textContent = card.word;
   els.posTag.textContent = card.pos;

@@ -1126,3 +1126,20 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
   .flashcard.has-photo .visual-wrap { padding: 10px 10px 0; }
   .flashcard.has-photo .card-details { padding: 16px 18px 20px; }
 }
+/* 2026-11-10: no flip step — the card shows its picture and details straight away */
+.flashcard .card-front { display: none; }
+.flashcard .card-back { transform: none; transition: none; }
+#flipCard { display: none; }
+.flashcard { min-height: 0; }
+.flashcard .card-back { position: relative; inset: auto; min-height: 640px; }
+@media (max-width: 760px) { .flashcard .card-back { min-height: 0; } }
+.flashcard .visual-wrap { align-self: start; position: sticky; top: 12px; min-height: 0; }
+@media (max-width: 760px) { .flashcard .visual-wrap { position: static; } }
+.flashcard .detail-heading { flex-wrap: wrap; gap: 8px; }
+.flashcard .detail-heading h2 { overflow-wrap: anywhere; }
+@media (max-width: 760px) { .flashcard .card-back { grid-template-rows: auto 1fr; } }
+.flashcard.has-photo { min-height: 0; }
+.flashcard.has-photo .visual-wrap { position: static; }
+.word-row .word-tab { grid-template-columns: 24px minmax(0, 1.3fr) 32px minmax(0, 1fr); }
+.word-row .wt-word { overflow-wrap: normal; word-break: normal; hyphens: auto; }
+@media (min-width: 1101px) { body.photo-unit .study-area { grid-template-columns: 370px minmax(0, 1fr); } }
