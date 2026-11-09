@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "fortune",
     "pos": "n.",
     "definition": "Chance or luck; a large amount of money.",
-    "chinese": "命運;財富",
+    "chinese": "命運；財富",
     "synonyms": "",
     "root": "fortuna (chance, luck), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Chance or luck; a large amount of money.",
-     "chinese": "命運;財富"
+     "chinese": "命運；財富"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "fraction",
     "pos": "n.",
     "definition": "A small part or amount of something; a numerical ratio.",
-    "chinese": "一部分;分數",
+    "chinese": "一部分；分數",
     "synonyms": "",
     "root": "frangere (to break), from Latin",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small part or amount of something; a numerical ratio.",
-     "chinese": "一部分;分數"
+     "chinese": "一部分；分數"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "fragrant",
     "pos": "adj.",
     "definition": "Having a pleasant, sweet smell.",
-    "chinese": "芬芳的;香的",
+    "chinese": "芬芳的；香的",
     "synonyms": "",
     "root": "fragrare (to smell sweet), from Latin",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a pleasant, sweet smell.",
-     "chinese": "芬芳的;香的"
+     "chinese": "芬芳的；香的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "frailty",
     "pos": "n.",
     "definition": "The condition of being weak or fragile.",
-    "chinese": "脆弱;虛弱",
+    "chinese": "脆弱；虛弱",
     "synonyms": "",
     "root": "fragilis (fragile), from Latin",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The condition of being weak or fragile.",
-     "chinese": "脆弱;虛弱"
+     "chinese": "脆弱；虛弱"
     }
    },
    {
     "word": "francophobia",
     "pos": "n.",
     "definition": "A strong dislike or fear of France or French culture.",
-    "chinese": "恐法症;仇法情結",
+    "chinese": "恐法症；仇法情結",
     "synonyms": "",
     "root": "Francus (Frank) + phobos (fear), from Latin/Greek",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A strong dislike or fear of France or French culture.",
-     "chinese": "恐法症;仇法情結"
+     "chinese": "恐法症；仇法情結"
     }
    },
    {
     "word": "frangible",
     "pos": "adj.",
     "definition": "Easily broken; fragile.",
-    "chinese": "易碎的;脆弱的",
+    "chinese": "易碎的；脆弱的",
     "synonyms": "",
     "root": "frangere (to break), from Latin",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily broken; fragile.",
-     "chinese": "易碎的;脆弱的"
+     "chinese": "易碎的；脆弱的"
     }
    },
    {
     "word": "frank",
     "pos": "adj.",
     "definition": "Open and honest in expression; candid.",
-    "chinese": "坦率的;直言的",
+    "chinese": "坦率的；直言的",
     "synonyms": "",
     "root": "Frank, the Germanic tribe, from Latin Francus",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Open and honest in expression; candid.",
-     "chinese": "坦率的;直言的"
+     "chinese": "坦率的；直言的"
     }
    },
    {
     "word": "frantic",
     "pos": "adj.",
     "definition": "Wild or distraught with fear, anxiety, or other emotion.",
-    "chinese": "狂亂的;焦急的",
+    "chinese": "狂亂的；焦急的",
     "synonyms": "",
     "root": "phrenitis (delirium), from Greek phren (mind)",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wild or distraught with fear, anxiety, or other emotion.",
-     "chinese": "狂亂的;焦急的"
+     "chinese": "狂亂的；焦急的"
     }
    },
    {
     "word": "fraternize",
     "pos": "v.",
     "definition": "To associate in a friendly way, especially with a former enemy.",
-    "chinese": "友好交往;稱兄道弟",
+    "chinese": "友好交往；稱兄道弟",
     "synonyms": "",
     "root": "frater (brother), from Latin",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To associate in a friendly way, especially with a former enemy.",
-     "chinese": "友好交往;稱兄道弟"
+     "chinese": "友好交往；稱兄道弟"
     }
    },
    {
     "word": "fraud",
     "pos": "n.",
     "definition": "Wrongful or criminal deception for financial gain.",
-    "chinese": "詐欺;欺詐",
+    "chinese": "詐欺；欺詐",
     "synonyms": "",
     "root": "fraus (deceit), from Latin",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wrongful or criminal deception for financial gain.",
-     "chinese": "詐欺;欺詐"
+     "chinese": "詐欺；欺詐"
     }
    },
    {
     "word": "fraudulent",
     "pos": "adj.",
     "definition": "Obtained or done by deception.",
-    "chinese": "詐欺的;欺詐性的",
+    "chinese": "詐欺的；欺詐性的",
     "synonyms": "",
     "root": "fraus (deceit), from Latin",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Obtained or done by deception.",
-     "chinese": "詐欺的;欺詐性的"
+     "chinese": "詐欺的；欺詐性的"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "frenzied",
     "pos": "adj.",
     "definition": "Wildly excited or uncontrolled.",
-    "chinese": "狂熱的;瘋狂的",
+    "chinese": "狂熱的；瘋狂的",
     "synonyms": "",
     "root": "phrenitis (delirium), from Greek phren (mind)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wildly excited or uncontrolled.",
-     "chinese": "狂熱的;瘋狂的"
+     "chinese": "狂熱的；瘋狂的"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "friable",
     "pos": "adj.",
     "definition": "Easily crumbled.",
-    "chinese": "易碎的;鬆脆的",
+    "chinese": "易碎的；鬆脆的",
     "synonyms": "",
     "root": "friare (to crumble), from Latin",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily crumbled.",
-     "chinese": "易碎的;鬆脆的"
+     "chinese": "易碎的；鬆脆的"
     }
    },
    {
     "word": "friendliness",
     "pos": "n.",
     "definition": "The quality of being kind and warm toward others.",
-    "chinese": "友善;親切",
+    "chinese": "友善；親切",
     "synonyms": "",
     "root": "freond (friend), from Old English",
     "group": "",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being kind and warm toward others.",
-     "chinese": "友善;親切"
+     "chinese": "友善；親切"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "friseur",
     "pos": "n.",
     "definition": "A hairdresser.",
-    "chinese": "理髮師;髮型設計師",
+    "chinese": "理髮師；髮型設計師",
     "synonyms": "",
     "root": "friser (to curl), from French",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A hairdresser.",
-     "chinese": "理髮師;髮型設計師"
+     "chinese": "理髮師；髮型設計師"
     }
    },
    {
     "word": "frisky",
     "pos": "adj.",
     "definition": "Lively and playful.",
-    "chinese": "活潑好動的;嬉戲的",
+    "chinese": "活潑好動的；嬉戲的",
     "synonyms": "",
     "root": "frisque (lively), from Old French",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lively and playful.",
-     "chinese": "活潑好動的;嬉戲的"
+     "chinese": "活潑好動的；嬉戲的"
     }
    },
    {
     "word": "frisson",
     "pos": "n.",
     "definition": "A sudden strong feeling of excitement or fear; a shiver.",
-    "chinese": "興奮的顫慄;恐懼的寒顫",
+    "chinese": "興奮的顫慄；恐懼的寒顫",
     "synonyms": "",
     "root": "frigere (to be cold), from Latin, via French",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden strong feeling of excitement or fear; a shiver.",
-     "chinese": "興奮的顫慄;恐懼的寒顫"
+     "chinese": "興奮的顫慄；恐懼的寒顫"
     }
    },
    {
     "word": "frivolity",
     "pos": "n.",
     "definition": "The quality of not being serious or sensible.",
-    "chinese": "輕浮;瑣碎",
+    "chinese": "輕浮；瑣碎",
     "synonyms": "",
     "root": "frivolus (trifling), from Latin",
     "group": "",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of not being serious or sensible.",
-     "chinese": "輕浮;瑣碎"
+     "chinese": "輕浮；瑣碎"
     }
    },
    {
@@ -618,7 +618,7 @@ window.FLASHCARD_UNITS = {
     "word": "froideur",
     "pos": "n.",
     "definition": "A stiffness or coldness of manner.",
-    "chinese": "冷淡;疏遠",
+    "chinese": "冷淡；疏遠",
     "synonyms": "",
     "root": "froid (cold), from French",
     "group": "",
@@ -630,14 +630,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stiffness or coldness of manner.",
-     "chinese": "冷淡;疏遠"
+     "chinese": "冷淡；疏遠"
     }
    },
    {
     "word": "frolicsome",
     "pos": "adj.",
     "definition": "Playful and full of high spirits.",
-    "chinese": "嬉戲的;活潑的",
+    "chinese": "嬉戲的；活潑的",
     "synonyms": "",
     "root": "vrolijk (merry), from Middle Dutch",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Playful and full of high spirits.",
-     "chinese": "嬉戲的;活潑的"
+     "chinese": "嬉戲的；活潑的"
     }
    },
    {
@@ -713,7 +713,7 @@ window.FLASHCARD_UNITS = {
     "word": "fugacious",
     "pos": "adj.",
     "definition": "Tending to disappear quickly; fleeting.",
-    "chinese": "短暫的;易逝的",
+    "chinese": "短暫的；易逝的",
     "synonyms": "",
     "root": "fugere (to flee), from Latin",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to disappear quickly; fleeting.",
-     "chinese": "短暫的;易逝的"
+     "chinese": "短暫的；易逝的"
     }
    },
    {
     "word": "fugitive",
     "pos": "n./adj.",
     "definition": "A person fleeing from custody; fleeting.",
-    "chinese": "逃犯;短暫的",
+    "chinese": "逃犯；短暫的",
     "synonyms": "",
     "root": "fugere (to flee), from Latin",
     "group": "",
@@ -744,14 +744,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person fleeing from custody; fleeting.",
-     "chinese": "逃犯;短暫的"
+     "chinese": "逃犯；短暫的"
     }
    },
    {
     "word": "fuliginous",
     "pos": "adj.",
     "definition": "Sooty; dark or dusky in color.",
-    "chinese": "煙灰色的;煤煙般的",
+    "chinese": "煙灰色的；煤煙般的",
     "synonyms": "",
     "root": "fuligo (soot), from Latin",
     "group": "",
@@ -763,14 +763,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sooty; dark or dusky in color.",
-     "chinese": "煙灰色的;煤煙般的"
+     "chinese": "煙灰色的；煤煙般的"
     }
    },
    {
     "word": "fulminate",
     "pos": "v.",
     "definition": "To express vehement protest or criticism.",
-    "chinese": "猛烈抨擊;怒斥",
+    "chinese": "猛烈抨擊；怒斥",
     "synonyms": "",
     "root": "fulmen (lightning), from Latin",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express vehement protest or criticism.",
-     "chinese": "猛烈抨擊;怒斥"
+     "chinese": "猛烈抨擊；怒斥"
     }
    },
    {
     "word": "fulmination",
     "pos": "n.",
     "definition": "A strong protest or criticism.",
-    "chinese": "猛烈抨擊;怒斥",
+    "chinese": "猛烈抨擊；怒斥",
     "synonyms": "",
     "root": "fulmen (lightning), from Latin",
     "group": "",
@@ -803,7 +803,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A strong protest or criticism.",
-     "chinese": "猛烈抨擊;怒斥"
+     "chinese": "猛烈抨擊；怒斥"
     }
    },
    {
@@ -829,7 +829,7 @@ window.FLASHCARD_UNITS = {
     "word": "fungus",
     "pos": "n.",
     "definition": "Any of a group of spore-producing organisms, including mushrooms and molds.",
-    "chinese": "真菌;黴菌",
+    "chinese": "真菌；黴菌",
     "synonyms": "",
     "root": "fungus (mushroom), from Latin",
     "group": "",
@@ -841,14 +841,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Any of a group of spore-producing organisms, including mushrooms and molds.",
-     "chinese": "真菌;黴菌"
+     "chinese": "真菌；黴菌"
     }
    },
    {
     "word": "further",
     "pos": "adv./adj.",
     "definition": "To a greater extent or degree; additional.",
-    "chinese": "進一步;更多的",
+    "chinese": "進一步；更多的",
     "synonyms": "",
     "root": "furthor, comparative of forth, from Old English",
     "group": "",
@@ -860,7 +860,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To a greater extent or degree; additional.",
-     "chinese": "進一步;更多的"
+     "chinese": "進一步；更多的"
     }
    },
    {
@@ -886,7 +886,7 @@ window.FLASHCARD_UNITS = {
     "word": "fury",
     "pos": "n.",
     "definition": "Wild or violent anger.",
-    "chinese": "狂怒;暴怒",
+    "chinese": "狂怒；暴怒",
     "synonyms": "",
     "root": "furia (rage), from Latin",
     "group": "",
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wild or violent anger.",
-     "chinese": "狂怒;暴怒"
+     "chinese": "狂怒；暴怒"
     }
    },
    {
@@ -924,7 +924,7 @@ window.FLASHCARD_UNITS = {
     "word": "gadfly",
     "pos": "n.",
     "definition": "A persistently annoying person, especially one who provokes others.",
-    "chinese": "刺激者;愛挑釁的人",
+    "chinese": "刺激者；愛挑釁的人",
     "synonyms": "",
     "root": "gad (a spike) + fly, from Old Norse + Old English",
     "group": "",
@@ -936,14 +936,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A persistently annoying person, especially one who provokes others.",
-     "chinese": "刺激者;愛挑釁的人"
+     "chinese": "刺激者；愛挑釁的人"
     }
    },
    {
     "word": "gaffe",
     "pos": "n.",
     "definition": "An unintentional social blunder.",
-    "chinese": "失言;失禮之舉",
+    "chinese": "失言；失禮之舉",
     "synonyms": "",
     "root": "gaffe (blunder), from French",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unintentional social blunder.",
-     "chinese": "失言;失禮之舉"
+     "chinese": "失言；失禮之舉"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fortune": ["Chance or luck; a large amount of money.", "命運;財富"], "forum": ["A medium for lecture or discussion.", "論壇；討論會"], "foster": ["To encourage or promote development.", "培養；促進"], "fracas": ["Noisy fight, brawl.", "喧鬧的打鬥"], "fraction": ["A small part or amount of something; a numerical ratio.", "一部分;分數"], "fractious": ["Quarrelsome.", "易怒的；好爭吵的"], "fragile": ["Easily broken or delicate.", "脆弱的；易碎的"], "fragrant": ["Having a pleasant, sweet smell.", "芬芳的;香的"], "frail": ["Weak, delicate.", "脆弱的；虛弱的"], "frailty": ["The condition of being weak or fragile.", "脆弱;虛弱"], "francophobia": ["A strong dislike or fear of France or French culture.", "恐法症;仇法情結"], "frangible": ["Easily broken; fragile.", "易碎的;脆弱的"], "frank": ["Open and honest in expression; candid.", "坦率的;直言的"], "frantic": ["Wild or distraught with fear, anxiety, or other emotion.", "狂亂的;焦急的"], "fraternize": ["To associate in a friendly way, especially with a former enemy.", "友好交往;稱兄道弟"], "fraud": ["Wrongful or criminal deception for financial gain.", "詐欺;欺詐"], "fraudulent": ["Obtained or done by deception.", "詐欺的;欺詐性的"], "fraught": ["Filled.", "充滿的；令人憂慮的"], "fray": ["Fight: be worn out.", "（布料或繩子）磨損: 使人煩怒"], "frenetic": ["Frantic, frenzied.", "狂熱的；發狂的"], "frenzied": ["Wildly excited or uncontrolled.", "狂熱的;瘋狂的"], "frenzy": ["Wild fit.", "狂熱；狂暴"], "fresh": ["Newly produced or obtained; not stale.", "新鮮的"], "fretful": ["Worrisome, irritable.", "煩躁的"], "friable": ["Easily crumbled.", "易碎的;鬆脆的"], "friendliness": ["The quality of being kind and warm toward others.", "友善;親切"], "frijol": ["A bean, especially as used in Mexican cuisine.", "菜豆(墨西哥料理常用)"], "friseur": ["A hairdresser.", "理髮師;髮型設計師"], "frisky": ["Lively and playful.", "活潑好動的;嬉戲的"], "frisson": ["A sudden strong feeling of excitement or fear; a shiver.", "興奮的顫慄;恐懼的寒顫"], "frivolity": ["The quality of not being serious or sensible.", "輕浮;瑣碎"], "frivolous": ["Not having substance or sense of importance or seriousness.", "輕浮的"], "froideur": ["A stiffness or coldness of manner.", "冷淡;疏遠"], "frolicsome": ["Playful and full of high spirits.", "嬉戲的;活潑的"], "frugal": ["Thrifty.", "節儉的；樸素的"], "fruitless": ["Useless.", "徒勞的；無結果的"], "frustrate": ["To foil, thwart.", "挫敗"], "fugacious": ["Tending to disappear quickly; fleeting.", "短暫的;易逝的"], "fugitive": ["A person fleeing from custody; fleeting.", "逃犯;短暫的"], "fuliginous": ["Sooty; dark or dusky in color.", "煙灰色的;煤煙般的"], "fulminate": ["To express vehement protest or criticism.", "猛烈抨擊;怒斥"], "fulmination": ["A strong protest or criticism.", "猛烈抨擊;怒斥"], "fulsome": ["Excessive, insincere.", "過度誇張的；令人作嘔的"], "fungus": ["Any of a group of spore-producing organisms, including mushrooms and molds.", "真菌;黴菌"], "further": ["To a greater extent or degree; additional.", "進一步;更多的"], "furtive": ["Secret, stealthy.", "偷偷摸摸的"], "fury": ["Wild or violent anger.", "狂怒;暴怒"], "futility": ["Uselessness.", "徒勞；無用"], "gadfly": ["A persistently annoying person, especially one who provokes others.", "刺激者;愛挑釁的人"], "gaffe": ["An unintentional social blunder.", "失言;失禮之舉"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fortune": ["Chance or luck; a large amount of money.", "命運；財富"], "forum": ["A medium for lecture or discussion.", "論壇；討論會"], "foster": ["To encourage or promote development.", "培養；促進"], "fracas": ["Noisy fight, brawl.", "喧鬧的打鬥"], "fraction": ["A small part or amount of something; a numerical ratio.", "一部分；分數"], "fractious": ["Quarrelsome.", "易怒的；好爭吵的"], "fragile": ["Easily broken or delicate.", "脆弱的；易碎的"], "fragrant": ["Having a pleasant, sweet smell.", "芬芳的；香的"], "frail": ["Weak, delicate.", "脆弱的；虛弱的"], "frailty": ["The condition of being weak or fragile.", "脆弱；虛弱"], "francophobia": ["A strong dislike or fear of France or French culture.", "恐法症；仇法情結"], "frangible": ["Easily broken; fragile.", "易碎的；脆弱的"], "frank": ["Open and honest in expression; candid.", "坦率的；直言的"], "frantic": ["Wild or distraught with fear, anxiety, or other emotion.", "狂亂的；焦急的"], "fraternize": ["To associate in a friendly way, especially with a former enemy.", "友好交往；稱兄道弟"], "fraud": ["Wrongful or criminal deception for financial gain.", "詐欺；欺詐"], "fraudulent": ["Obtained or done by deception.", "詐欺的；欺詐性的"], "fraught": ["Filled.", "充滿的；令人憂慮的"], "fray": ["Fight: be worn out.", "（布料或繩子）磨損: 使人煩怒"], "frenetic": ["Frantic, frenzied.", "狂熱的；發狂的"], "frenzied": ["Wildly excited or uncontrolled.", "狂熱的；瘋狂的"], "frenzy": ["Wild fit.", "狂熱；狂暴"], "fresh": ["Newly produced or obtained; not stale.", "新鮮的"], "fretful": ["Worrisome, irritable.", "煩躁的"], "friable": ["Easily crumbled.", "易碎的；鬆脆的"], "friendliness": ["The quality of being kind and warm toward others.", "友善；親切"], "frijol": ["A bean, especially as used in Mexican cuisine.", "菜豆(墨西哥料理常用)"], "friseur": ["A hairdresser.", "理髮師；髮型設計師"], "frisky": ["Lively and playful.", "活潑好動的；嬉戲的"], "frisson": ["A sudden strong feeling of excitement or fear; a shiver.", "興奮的顫慄；恐懼的寒顫"], "frivolity": ["The quality of not being serious or sensible.", "輕浮；瑣碎"], "frivolous": ["Not having substance or sense of importance or seriousness.", "輕浮的"], "froideur": ["A stiffness or coldness of manner.", "冷淡；疏遠"], "frolicsome": ["Playful and full of high spirits.", "嬉戲的；活潑的"], "frugal": ["Thrifty.", "節儉的；樸素的"], "fruitless": ["Useless.", "徒勞的；無結果的"], "frustrate": ["To foil, thwart.", "挫敗"], "fugacious": ["Tending to disappear quickly; fleeting.", "短暫的；易逝的"], "fugitive": ["A person fleeing from custody; fleeting.", "逃犯；短暫的"], "fuliginous": ["Sooty; dark or dusky in color.", "煙灰色的；煤煙般的"], "fulminate": ["To express vehement protest or criticism.", "猛烈抨擊；怒斥"], "fulmination": ["A strong protest or criticism.", "猛烈抨擊；怒斥"], "fulsome": ["Excessive, insincere.", "過度誇張的；令人作嘔的"], "fungus": ["Any of a group of spore-producing organisms, including mushrooms and molds.", "真菌；黴菌"], "further": ["To a greater extent or degree; additional.", "進一步；更多的"], "furtive": ["Secret, stealthy.", "偷偷摸摸的"], "fury": ["Wild or violent anger.", "狂怒；暴怒"], "futility": ["Uselessness.", "徒勞；無用"], "gadfly": ["A persistently annoying person, especially one who provokes others.", "刺激者；愛挑釁的人"], "gaffe": ["An unintentional social blunder.", "失言；失禮之舉"]});

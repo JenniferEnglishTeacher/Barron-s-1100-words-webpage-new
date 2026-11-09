@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "close-fisted",
     "pos": "adj.",
     "definition": "Unwilling to spend or give money; stingy.",
-    "chinese": "小氣的;吝嗇的",
+    "chinese": "小氣的；吝嗇的",
     "synonyms": "",
     "root": "close + fist",
     "group": "close；clude；clus = 關閉；隔離；阻擋；限制",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwilling to spend or give money; stingy.",
-     "chinese": "小氣的;吝嗇的"
+     "chinese": "小氣的；吝嗇的"
     }
    },
    {
     "word": "close-fistedness",
     "pos": "n.",
     "definition": "Unwillingness to spend or give money; stinginess.",
-    "chinese": "小氣;吝嗇",
+    "chinese": "小氣；吝嗇",
     "synonyms": "",
     "root": "close + fist + -ness",
     "group": "close；clude；clus = 關閉；隔離；阻擋；限制",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwillingness to spend or give money; stinginess.",
-     "chinese": "小氣;吝嗇"
+     "chinese": "小氣；吝嗇"
     }
    },
    {
     "word": "close-minded",
     "pos": "adj.",
     "definition": "Unwilling to consider new ideas; narrow-minded.",
-    "chinese": "思想保守的;心胸狹隘的",
+    "chinese": "思想保守的；心胸狹隘的",
     "synonyms": "",
     "root": "close + mind",
     "group": "close；clude；clus = 關閉；隔離；阻擋；限制",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwilling to consider new ideas; narrow-minded.",
-     "chinese": "思想保守的;心胸狹隘的"
+     "chinese": "思想保守的；心胸狹隘的"
     }
    },
    {
@@ -782,4 +782,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"close-fisted": ["Unwilling to spend or give money; stingy.", "小氣的;吝嗇的"], "close-fistedness": ["Unwillingness to spend or give money; stinginess.", "小氣;吝嗇"], "close-minded": ["Unwilling to consider new ideas; narrow-minded.", "思想保守的;心胸狹隘的"], "seclude": ["To keep oneself or someone else apart from other people in a private place.", "使隱居；使隔離；使與世隔絕"], "preclude": ["To prevent something from happening or make it impossible.", "阻止；排除；使不可能"], "reclusive": ["Avoiding other people and preferring to live in isolation.", "隱遁的；離群索居的；孤僻的"], "occlude": ["To block, close, or obstruct a passage, opening, or view.", "阻塞；封閉；遮蔽"], "exclusionary": ["Designed or tending to prevent particular people or things from being included.", "排他的；排斥性的；具有排除作用的"], "cloister": ["A covered monastery walkway or a secluded place; to shut someone away from ordinary life.", "修道院迴廊；清幽居所；使閉居"], "inconclusive": ["Not providing a definite answer, result, or decision.", "無定論的；不確定的；非決定性的"], "conclusive": ["Proving something beyond doubt or bringing a matter to a definite end.", "決定性的；確鑿的；有定論的"], "embargo": ["An official ban on trade or publication; to impose such a restriction.", "禁運；禁令；禁止發布"], "segregate": ["To separate people or things from a larger group, often unfairly or for safety.", "隔離；分開；實施隔離"], "hermetic": ["Completely airtight or isolated from outside influence.", "密封的；氣密的；與世隔絕的"], "impede": ["To delay, obstruct, or prevent the progress of something.", "阻礙；妨礙；延緩"], "insular": ["Isolated and uninterested in people, ideas, or cultures outside one's own group.", "孤立的；狹隘的；墨守成規的；島嶼的"], "quarantine": ["A period or place of isolation used to prevent disease from spreading; to place in such isolation.", "隔離；檢疫；使隔離"], "constrict": ["To make something narrower, tighter, or more restricted.", "收縮；使變窄；勒緊；限制"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"close-fisted": ["Unwilling to spend or give money; stingy.", "小氣的；吝嗇的"], "close-fistedness": ["Unwillingness to spend or give money; stinginess.", "小氣；吝嗇"], "close-minded": ["Unwilling to consider new ideas; narrow-minded.", "思想保守的；心胸狹隘的"], "seclude": ["To keep oneself or someone else apart from other people in a private place.", "使隱居；使隔離；使與世隔絕"], "preclude": ["To prevent something from happening or make it impossible.", "阻止；排除；使不可能"], "reclusive": ["Avoiding other people and preferring to live in isolation.", "隱遁的；離群索居的；孤僻的"], "occlude": ["To block, close, or obstruct a passage, opening, or view.", "阻塞；封閉；遮蔽"], "exclusionary": ["Designed or tending to prevent particular people or things from being included.", "排他的；排斥性的；具有排除作用的"], "cloister": ["A covered monastery walkway or a secluded place; to shut someone away from ordinary life.", "修道院迴廊；清幽居所；使閉居"], "inconclusive": ["Not providing a definite answer, result, or decision.", "無定論的；不確定的；非決定性的"], "conclusive": ["Proving something beyond doubt or bringing a matter to a definite end.", "決定性的；確鑿的；有定論的"], "embargo": ["An official ban on trade or publication; to impose such a restriction.", "禁運；禁令；禁止發布"], "segregate": ["To separate people or things from a larger group, often unfairly or for safety.", "隔離；分開；實施隔離"], "hermetic": ["Completely airtight or isolated from outside influence.", "密封的；氣密的；與世隔絕的"], "impede": ["To delay, obstruct, or prevent the progress of something.", "阻礙；妨礙；延緩"], "insular": ["Isolated and uninterested in people, ideas, or cultures outside one's own group.", "孤立的；狹隘的；墨守成規的；島嶼的"], "quarantine": ["A period or place of isolation used to prevent disease from spreading; to place in such isolation.", "隔離；檢疫；使隔離"], "constrict": ["To make something narrower, tighter, or more restricted.", "收縮；使變窄；勒緊；限制"]});

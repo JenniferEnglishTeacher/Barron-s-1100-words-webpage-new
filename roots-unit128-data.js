@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "consecration",
     "pos": "n.",
     "definition": "The act of formally dedicating something to a sacred purpose.",
-    "chinese": "奉獻;祝聖",
+    "chinese": "奉獻；祝聖",
     "synonyms": "",
     "root": "con- (thoroughly) + sacrare (to make sacred), from Latin",
     "group": "sacr；secr；sanct = 神聖；奉獻；敬畏；褻瀆",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of formally dedicating something to a sacred purpose.",
-     "chinese": "奉獻;祝聖"
+     "chinese": "奉獻；祝聖"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "execration",
     "pos": "n.",
     "definition": "A feeling or expression of great loathing.",
-    "chinese": "憎惡;詛咒",
+    "chinese": "憎惡；詛咒",
     "synonyms": "",
     "root": "ex- (out) + sacrare (to make sacred, curse), from Latin",
     "group": "sacr；secr；sanct = 神聖；奉獻；敬畏；褻瀆",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling or expression of great loathing.",
-     "chinese": "憎惡;詛咒"
+     "chinese": "憎惡；詛咒"
     }
    },
    {
@@ -911,4 +911,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"consecration": ["The act of formally dedicating something to a sacred purpose.", "奉獻;祝聖"], "execrate": ["To express intense hatred for someone or condemn someone as evil or accursed.", "痛恨；詛咒；強烈譴責"], "execration": ["A feeling or expression of great loathing.", "憎惡;詛咒"], "sacred": ["Regarded with great reverence, especially religiously.", "神聖的"], "sacrifice": ["The act of giving up something valuable for another purpose or person; to give it up.", "犧牲；奉獻；祭品；犧牲掉"], "sacrosanct": ["Regarded as too important, sacred, or valuable to be changed, criticized, or violated.", "神聖不可侵犯的；不可更動的"], "sacrilege": ["An act that violates, damages, or shows disrespect toward something sacred or deeply valued.", "褻瀆；冒犯聖物；糟蹋珍貴事物"], "consecrate": ["To make something sacred formally or to dedicate it completely to a special purpose.", "使神聖化；奉獻；致力於"], "desecrate": ["To damage or treat a sacred place or object with violent disrespect.", "褻瀆；玷污；破壞神聖之物"], "execrable": ["Extremely unpleasant, morally repulsive, or of very poor quality.", "極其惡劣的；可憎的；糟糕透頂的"], "sacrament": ["A sacred religious ceremony or a visible sign of spiritual grace.", "聖禮；神聖儀式；聖約"], "sacerdotal": ["Relating to priests, priestly duties, or government controlled by a priesthood.", "祭司的；僧侶的；祭司統治的"], "sacristy": ["A church room where sacred vessels, vestments, and other ceremonial objects are kept.", "聖器室；祭衣間；教堂聖物室"], "sacrate": ["Consecrated or made sacred; to consecrate something, especially in archaic usage.", "神聖的；經祝聖的；使神聖化（古語）"], "sacrificial": ["Relating to a sacrifice or deliberately given up so that something else can be saved or achieved.", "祭祀的；犧牲的；作為犧牲品的"], "venerate": ["To regard a person or thing with very deep respect and admiration.", "崇敬；敬仰；尊奉"], "profane": ["Not sacred or religious, or showing disrespect toward sacred things; to treat them disrespectfully.", "世俗的；非宗教的；褻瀆的；褻瀆"], "inviolable": ["Never to be broken, violated, dishonored, or taken away.", "不可侵犯的；不可違背的；神聖不可動搖的"], "blasphemy": ["Speech or behavior that shows great disrespect toward God, religion, or something considered sacred.", "褻瀆神明；瀆神言論；大不敬"], "sanctimonious": ["Making a hypocritical show of being morally superior or more religious than others.", "道貌岸然的；假裝虔誠的；自命清高的"], "revere": ["To feel profound respect, admiration, and sometimes awe for someone or something.", "敬畏；崇敬；推崇"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"consecration": ["The act of formally dedicating something to a sacred purpose.", "奉獻；祝聖"], "execrate": ["To express intense hatred for someone or condemn someone as evil or accursed.", "痛恨；詛咒；強烈譴責"], "execration": ["A feeling or expression of great loathing.", "憎惡；詛咒"], "sacred": ["Regarded with great reverence, especially religiously.", "神聖的"], "sacrifice": ["The act of giving up something valuable for another purpose or person; to give it up.", "犧牲；奉獻；祭品；犧牲掉"], "sacrosanct": ["Regarded as too important, sacred, or valuable to be changed, criticized, or violated.", "神聖不可侵犯的；不可更動的"], "sacrilege": ["An act that violates, damages, or shows disrespect toward something sacred or deeply valued.", "褻瀆；冒犯聖物；糟蹋珍貴事物"], "consecrate": ["To make something sacred formally or to dedicate it completely to a special purpose.", "使神聖化；奉獻；致力於"], "desecrate": ["To damage or treat a sacred place or object with violent disrespect.", "褻瀆；玷污；破壞神聖之物"], "execrable": ["Extremely unpleasant, morally repulsive, or of very poor quality.", "極其惡劣的；可憎的；糟糕透頂的"], "sacrament": ["A sacred religious ceremony or a visible sign of spiritual grace.", "聖禮；神聖儀式；聖約"], "sacerdotal": ["Relating to priests, priestly duties, or government controlled by a priesthood.", "祭司的；僧侶的；祭司統治的"], "sacristy": ["A church room where sacred vessels, vestments, and other ceremonial objects are kept.", "聖器室；祭衣間；教堂聖物室"], "sacrate": ["Consecrated or made sacred; to consecrate something, especially in archaic usage.", "神聖的；經祝聖的；使神聖化（古語）"], "sacrificial": ["Relating to a sacrifice or deliberately given up so that something else can be saved or achieved.", "祭祀的；犧牲的；作為犧牲品的"], "venerate": ["To regard a person or thing with very deep respect and admiration.", "崇敬；敬仰；尊奉"], "profane": ["Not sacred or religious, or showing disrespect toward sacred things; to treat them disrespectfully.", "世俗的；非宗教的；褻瀆的；褻瀆"], "inviolable": ["Never to be broken, violated, dishonored, or taken away.", "不可侵犯的；不可違背的；神聖不可動搖的"], "blasphemy": ["Speech or behavior that shows great disrespect toward God, religion, or something considered sacred.", "褻瀆神明；瀆神言論；大不敬"], "sanctimonious": ["Making a hypocritical show of being morally superior or more religious than others.", "道貌岸然的；假裝虔誠的；自命清高的"], "revere": ["To feel profound respect, admiration, and sometimes awe for someone or something.", "敬畏；崇敬；推崇"]});

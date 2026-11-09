@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "crude",
     "pos": "adj.",
     "definition": "In a natural or raw state; lacking refinement.",
-    "chinese": "粗糙的;未加工的",
+    "chinese": "粗糙的；未加工的",
     "synonyms": "",
     "root": "crudus (raw), from Latin",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a natural or raw state; lacking refinement.",
-     "chinese": "粗糙的;未加工的"
+     "chinese": "粗糙的；未加工的"
     }
    },
    {
     "word": "crusty",
     "pos": "adj.",
     "definition": "Having a hard outer crust; irritable in manner.",
-    "chinese": "外皮酥脆的;脾氣壞的",
+    "chinese": "外皮酥脆的；脾氣壞的",
     "synonyms": "",
     "root": "crusta (crust, shell), from Latin",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a hard outer crust; irritable in manner.",
-     "chinese": "外皮酥脆的;脾氣壞的"
+     "chinese": "外皮酥脆的；脾氣壞的"
     }
    },
    {
     "word": "crypt",
     "pos": "n.",
     "definition": "An underground room or vault, especially beneath a church.",
-    "chinese": "地下墓穴;地窖",
+    "chinese": "地下墓穴；地窖",
     "synonyms": "",
     "root": "kryptos (hidden), from Greek",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An underground room or vault, especially beneath a church.",
-     "chinese": "地下墓穴;地窖"
+     "chinese": "地下墓穴；地窖"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "cull",
     "pos": "v.",
     "definition": "To select from a large quantity; to reduce a population by selective removal.",
-    "chinese": "挑選;淘汰",
+    "chinese": "挑選；淘汰",
     "synonyms": "",
     "root": "colligere (to gather), from Latin",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To select from a large quantity; to reduce a population by selective removal.",
-     "chinese": "挑選;淘汰"
+     "chinese": "挑選；淘汰"
     }
    },
    {
@@ -221,7 +221,7 @@ window.FLASHCARD_UNITS = {
     "word": "cultivated",
     "pos": "adj.",
     "definition": "Refined through education and training; grown intentionally.",
-    "chinese": "有教養的;栽培的",
+    "chinese": "有教養的；栽培的",
     "synonyms": "",
     "root": "colere (to till, cultivate), from Latin",
     "group": "",
@@ -233,7 +233,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Refined through education and training; grown intentionally.",
-     "chinese": "有教養的;栽培的"
+     "chinese": "有教養的；栽培的"
     }
    },
    {
@@ -356,7 +356,7 @@ window.FLASHCARD_UNITS = {
     "word": "curse",
     "pos": "n./v.",
     "definition": "A solemn wish for harm; to swear.",
-    "chinese": "詛咒;咒罵",
+    "chinese": "詛咒；咒罵",
     "synonyms": "",
     "root": "from Old English curs, of uncertain origin",
     "group": "",
@@ -368,7 +368,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A solemn wish for harm; to swear.",
-     "chinese": "詛咒;咒罵"
+     "chinese": "詛咒；咒罵"
     }
    },
    {
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
     "word": "customary",
     "pos": "adj.",
     "definition": "In accordance with common practice.",
-    "chinese": "習慣的;慣例的",
+    "chinese": "習慣的；慣例的",
     "synonyms": "",
     "root": "custom, from Latin consuetudo",
     "group": "",
@@ -425,14 +425,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In accordance with common practice.",
-     "chinese": "習慣的;慣例的"
+     "chinese": "習慣的；慣例的"
     }
    },
    {
     "word": "cutthroat",
     "pos": "adj./n.",
     "definition": "Ruthlessly competitive; a murderer.",
-    "chinese": "殘酷無情的;兇手",
+    "chinese": "殘酷無情的；兇手",
     "synonyms": "",
     "root": "cut + throat, from Middle English",
     "group": "",
@@ -444,14 +444,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Ruthlessly competitive; a murderer.",
-     "chinese": "殘酷無情的;兇手"
+     "chinese": "殘酷無情的；兇手"
     }
    },
    {
     "word": "cutting",
     "pos": "adj./n.",
     "definition": "Hurtfully sarcastic; a piece cut from a plant.",
-    "chinese": "尖酸刻薄的;插枝",
+    "chinese": "尖酸刻薄的；插枝",
     "synonyms": "",
     "root": "cut, from Middle English kitten",
     "group": "",
@@ -463,7 +463,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Hurtfully sarcastic; a piece cut from a plant.",
-     "chinese": "尖酸刻薄的;插枝"
+     "chinese": "尖酸刻薄的；插枝"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "cynicism",
     "pos": "n.",
     "definition": "Distrust of others' motives; a belief that people act only from self-interest.",
-    "chinese": "犬儒主義;憤世嫉俗",
+    "chinese": "犬儒主義；憤世嫉俗",
     "synonyms": "",
     "root": "kynikos (dog-like), from Greek",
     "group": "",
@@ -539,7 +539,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Distrust of others' motives; a belief that people act only from self-interest.",
-     "chinese": "犬儒主義;憤世嫉俗"
+     "chinese": "犬儒主義；憤世嫉俗"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "dais",
     "pos": "n.",
     "definition": "A low platform for a lectern, seats of honor, or throne.",
-    "chinese": "講台;高台",
+    "chinese": "講台；高台",
     "synonyms": "",
     "root": "discus (dish, platter), from Latin",
     "group": "",
@@ -636,14 +636,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A low platform for a lectern, seats of honor, or throne.",
-     "chinese": "講台;高台"
+     "chinese": "講台；高台"
     }
    },
    {
     "word": "dalliance",
     "pos": "n.",
     "definition": "A brief casual romantic or sexual relationship.",
-    "chinese": "調情;逢場作戲",
+    "chinese": "調情；逢場作戲",
     "synonyms": "",
     "root": "dally, from Old French dalier (to chat)",
     "group": "",
@@ -655,14 +655,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A brief casual romantic or sexual relationship.",
-     "chinese": "調情;逢場作戲"
+     "chinese": "調情；逢場作戲"
     }
    },
    {
     "word": "dally",
     "pos": "v.",
     "definition": "To act playfully; to waste time.",
-    "chinese": "調情;閒混",
+    "chinese": "調情；閒混",
     "synonyms": "",
     "root": "from Old French dalier (to chat)",
     "group": "",
@@ -676,14 +676,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To act playfully; to waste time.",
-     "chinese": "調情;閒混"
+     "chinese": "調情；閒混"
     }
    },
    {
     "word": "damn",
     "pos": "v./interj.",
     "definition": "To condemn or curse; an expression of anger.",
-    "chinese": "詛咒;該死",
+    "chinese": "詛咒；該死",
     "synonyms": "",
     "root": "damnare (to condemn), from Latin",
     "group": "",
@@ -697,14 +697,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To condemn or curse; an expression of anger.",
-     "chinese": "詛咒;該死"
+     "chinese": "詛咒；該死"
     }
    },
    {
     "word": "dandy",
     "pos": "n./adj.",
     "definition": "A man overly concerned with fashion and appearance; excellent.",
-    "chinese": "花花公子;極好的",
+    "chinese": "花花公子；極好的",
     "synonyms": "",
     "root": "of uncertain Scottish origin",
     "group": "",
@@ -716,7 +716,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A man overly concerned with fashion and appearance; excellent.",
-     "chinese": "花花公子;極好的"
+     "chinese": "花花公子；極好的"
     }
    },
    {
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "word": "dash",
     "pos": "v./n.",
     "definition": "To move quickly; a small amount; a punctuation mark.",
-    "chinese": "衝;少量;破折號",
+    "chinese": "衝；少量；破折號",
     "synonyms": "",
     "root": "of uncertain origin, Middle English dasshen",
     "group": "",
@@ -754,14 +754,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To move quickly; a small amount; a punctuation mark.",
-     "chinese": "衝;少量;破折號"
+     "chinese": "衝；少量；破折號"
     }
    },
    {
     "word": "data",
     "pos": "n.",
     "definition": "Facts and statistics collected for analysis.",
-    "chinese": "數據;資料",
+    "chinese": "數據；資料",
     "synonyms": "",
     "root": "dare (to give), from Latin",
     "group": "",
@@ -773,14 +773,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Facts and statistics collected for analysis.",
-     "chinese": "數據;資料"
+     "chinese": "數據；資料"
     }
    },
    {
     "word": "datum",
     "pos": "n.",
     "definition": "A single piece of information; the singular of data.",
-    "chinese": "數據點;單一資料",
+    "chinese": "數據點；單一資料",
     "synonyms": "",
     "root": "dare (to give), from Latin",
     "group": "",
@@ -792,7 +792,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A single piece of information; the singular of data.",
-     "chinese": "數據點;單一資料"
+     "chinese": "數據點；單一資料"
     }
    },
    {
@@ -837,7 +837,7 @@ window.FLASHCARD_UNITS = {
     "word": "dawning",
     "pos": "n./adj.",
     "definition": "The beginning of daylight; the start of something.",
-    "chinese": "破曉;開端",
+    "chinese": "破曉；開端",
     "synonyms": "",
     "root": "dawn, from Old English dagian",
     "group": "",
@@ -849,14 +849,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The beginning of daylight; the start of something.",
-     "chinese": "破曉;開端"
+     "chinese": "破曉；開端"
     }
    },
    {
     "word": "daze",
     "pos": "n./v.",
     "definition": "A state of stunned confusion; to stun.",
-    "chinese": "恍惚;使茫然",
+    "chinese": "恍惚；使茫然",
     "synonyms": "",
     "root": "from Old Norse dasa (to become weary)",
     "group": "",
@@ -870,14 +870,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A state of stunned confusion; to stun.",
-     "chinese": "恍惚;使茫然"
+     "chinese": "恍惚；使茫然"
     }
    },
    {
     "word": "dazzling",
     "pos": "adj.",
     "definition": "Extremely impressive or bright.",
-    "chinese": "耀眼的;令人目眩的",
+    "chinese": "耀眼的；令人目眩的",
     "synonyms": "",
     "root": "daze, from Old Norse dasa",
     "group": "",
@@ -889,14 +889,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely impressive or bright.",
-     "chinese": "耀眼的;令人目眩的"
+     "chinese": "耀眼的；令人目眩的"
     }
    },
    {
     "word": "de rigueur",
     "pos": "adj.",
     "definition": "Required by fashion, etiquette, or custom.",
-    "chinese": "合乎禮儀規範的;必要的",
+    "chinese": "合乎禮儀規範的；必要的",
     "synonyms": "",
     "root": "French de (of) + rigueur (rigor)",
     "group": "",
@@ -908,14 +908,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Required by fashion, etiquette, or custom.",
-     "chinese": "合乎禮儀規範的;必要的"
+     "chinese": "合乎禮儀規範的；必要的"
     }
    },
    {
     "word": "de trop",
     "pos": "adj.",
     "definition": "Not wanted; superfluous.",
-    "chinese": "多餘的;不受歡迎的",
+    "chinese": "多餘的；不受歡迎的",
     "synonyms": "",
     "root": "French de (of) + trop (too much)",
     "group": "",
@@ -927,7 +927,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not wanted; superfluous.",
-     "chinese": "多餘的;不受歡迎的"
+     "chinese": "多餘的；不受歡迎的"
     }
    },
    {
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "word": "dean",
     "pos": "n.",
     "definition": "The head of a faculty or department in a university.",
-    "chinese": "院長;系主任",
+    "chinese": "院長；系主任",
     "synonyms": "",
     "root": "decanus (chief of ten), from Latin",
     "group": "",
@@ -965,7 +965,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The head of a faculty or department in a university.",
-     "chinese": "院長;系主任"
+     "chinese": "院長；系主任"
     }
    }
   ],
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"crude": ["In a natural or raw state; lacking refinement.", "粗糙的;未加工的"], "crusty": ["Having a hard outer crust; irritable in manner.", "外皮酥脆的;脾氣壞的"], "crypt": ["An underground room or vault, especially beneath a church.", "地下墓穴;地窖"], "cryptic": ["Puzzling.", "神秘的；隱晦的"], "culinary": ["Having to do with cooking, preparing meals.", "烹飪的"], "cull": ["To select from a large quantity; to reduce a population by selective removal.", "挑選;淘汰"], "culminate": ["To reach the highest point.", "達到頂點"], "culmination": ["The climax toward which something progresses.", "頂點；最高潮"], "culpable": ["Deserving blame.", "有罪的；該受譴責的"], "culprit": ["Guilty person.", "罪犯"], "cultivate": ["To grow or nurture something, especially crops or skills.", "培養；耕種"], "cultivated": ["Refined through education and training; grown intentionally.", "有教養的;栽培的"], "cultured": ["Having refined taste and manners.", "有文化教養的"], "cumbersome": ["Unwieldy, burdensome.", "笨重的；累贅的"], "cumulative": ["Accumulated.", "累積的"], "cunning": ["Sly, clever at being deceitful.", "狡猾的；精明的"], "cupidity": ["Greed.", "貪婪；貪財"], "curry": ["To seek favor by flattery.", "拍馬屁；討好"], "curse": ["A solemn wish for harm; to swear.", "詛咒;咒罵"], "curt": ["Abruptly and rudely short.", "簡短無禮的；唐突的"], "curtail": ["To cut short:truncated.", "縮減；剝奪"], "customary": ["In accordance with common practice.", "習慣的;慣例的"], "cutthroat": ["Ruthlessly competitive; a murderer.", "殘酷無情的;兇手"], "cutting": ["Hurtfully sarcastic; a piece cut from a plant.", "尖酸刻薄的;插枝"], "cynanthropy": ["A delusion in which a person believes themselves to be a dog.", "犬化妄想症"], "cynic": ["Skeptic, pessimist.", "憤世嫉俗者"], "cynical": ["Believing that all others are motivated by self-interest.", "憤世嫉俗的"], "cynicism": ["Distrust of others' motives; a belief that people act only from self-interest.", "犬儒主義;憤世嫉俗"], "cynosure": ["A person or thing that attracts great attention and admiration.", "眾人矚目的焦點"], "cyst": ["An abnormal sac containing fluid or other material.", "囊腫"], "dactyl": ["A metrical foot consisting of one long and two short syllables.", "揚抑抑格(詩律)"], "daily": ["Occurring every day.", "每天的"], "dais": ["A low platform for a lectern, seats of honor, or throne.", "講台;高台"], "dalliance": ["A brief casual romantic or sexual relationship.", "調情;逢場作戲"], "dally": ["To act playfully; to waste time.", "調情;閒混"], "damn": ["To condemn or curse; an expression of anger.", "詛咒;該死"], "dandy": ["A man overly concerned with fashion and appearance; excellent.", "花花公子;極好的"], "danseur": ["A male ballet dancer.", "男芭蕾舞者"], "dash": ["To move quickly; a small amount; a punctuation mark.", "衝;少量;破折號"], "data": ["Facts and statistics collected for analysis.", "數據;資料"], "datum": ["A single piece of information; the singular of data.", "數據點;單一資料"], "daunt": ["To make someone feel intimidated or apprehensive.", "使膽怯；使畏縮"], "daunting": ["Intimidating, causing one to lose courage.", "令人畏懼的；嚇人的"], "dawning": ["The beginning of daylight; the start of something.", "破曉;開端"], "daze": ["A state of stunned confusion; to stun.", "恍惚;使茫然"], "dazzling": ["Extremely impressive or bright.", "耀眼的;令人目眩的"], "de rigueur": ["Required by fashion, etiquette, or custom.", "合乎禮儀規範的;必要的"], "de trop": ["Not wanted; superfluous.", "多餘的;不受歡迎的"], "deafening": ["Extremely loud.", "震耳欲聾的"], "dean": ["The head of a faculty or department in a university.", "院長;系主任"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"crude": ["In a natural or raw state; lacking refinement.", "粗糙的；未加工的"], "crusty": ["Having a hard outer crust; irritable in manner.", "外皮酥脆的；脾氣壞的"], "crypt": ["An underground room or vault, especially beneath a church.", "地下墓穴；地窖"], "cryptic": ["Puzzling.", "神秘的；隱晦的"], "culinary": ["Having to do with cooking, preparing meals.", "烹飪的"], "cull": ["To select from a large quantity; to reduce a population by selective removal.", "挑選；淘汰"], "culminate": ["To reach the highest point.", "達到頂點"], "culmination": ["The climax toward which something progresses.", "頂點；最高潮"], "culpable": ["Deserving blame.", "有罪的；該受譴責的"], "culprit": ["Guilty person.", "罪犯"], "cultivate": ["To grow or nurture something, especially crops or skills.", "培養；耕種"], "cultivated": ["Refined through education and training; grown intentionally.", "有教養的；栽培的"], "cultured": ["Having refined taste and manners.", "有文化教養的"], "cumbersome": ["Unwieldy, burdensome.", "笨重的；累贅的"], "cumulative": ["Accumulated.", "累積的"], "cunning": ["Sly, clever at being deceitful.", "狡猾的；精明的"], "cupidity": ["Greed.", "貪婪；貪財"], "curry": ["To seek favor by flattery.", "拍馬屁；討好"], "curse": ["A solemn wish for harm; to swear.", "詛咒；咒罵"], "curt": ["Abruptly and rudely short.", "簡短無禮的；唐突的"], "curtail": ["To cut short:truncated.", "縮減；剝奪"], "customary": ["In accordance with common practice.", "習慣的；慣例的"], "cutthroat": ["Ruthlessly competitive; a murderer.", "殘酷無情的；兇手"], "cutting": ["Hurtfully sarcastic; a piece cut from a plant.", "尖酸刻薄的；插枝"], "cynanthropy": ["A delusion in which a person believes themselves to be a dog.", "犬化妄想症"], "cynic": ["Skeptic, pessimist.", "憤世嫉俗者"], "cynical": ["Believing that all others are motivated by self-interest.", "憤世嫉俗的"], "cynicism": ["Distrust of others' motives; a belief that people act only from self-interest.", "犬儒主義；憤世嫉俗"], "cynosure": ["A person or thing that attracts great attention and admiration.", "眾人矚目的焦點"], "cyst": ["An abnormal sac containing fluid or other material.", "囊腫"], "dactyl": ["A metrical foot consisting of one long and two short syllables.", "揚抑抑格(詩律)"], "daily": ["Occurring every day.", "每天的"], "dais": ["A low platform for a lectern, seats of honor, or throne.", "講台；高台"], "dalliance": ["A brief casual romantic or sexual relationship.", "調情；逢場作戲"], "dally": ["To act playfully; to waste time.", "調情；閒混"], "damn": ["To condemn or curse; an expression of anger.", "詛咒；該死"], "dandy": ["A man overly concerned with fashion and appearance; excellent.", "花花公子；極好的"], "danseur": ["A male ballet dancer.", "男芭蕾舞者"], "dash": ["To move quickly; a small amount; a punctuation mark.", "衝；少量；破折號"], "data": ["Facts and statistics collected for analysis.", "數據；資料"], "datum": ["A single piece of information; the singular of data.", "數據點；單一資料"], "daunt": ["To make someone feel intimidated or apprehensive.", "使膽怯；使畏縮"], "daunting": ["Intimidating, causing one to lose courage.", "令人畏懼的；嚇人的"], "dawning": ["The beginning of daylight; the start of something.", "破曉；開端"], "daze": ["A state of stunned confusion; to stun.", "恍惚；使茫然"], "dazzling": ["Extremely impressive or bright.", "耀眼的；令人目眩的"], "de rigueur": ["Required by fashion, etiquette, or custom.", "合乎禮儀規範的；必要的"], "de trop": ["Not wanted; superfluous.", "多餘的；不受歡迎的"], "deafening": ["Extremely loud.", "震耳欲聾的"], "dean": ["The head of a faculty or department in a university.", "院長；系主任"]});

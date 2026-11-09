@@ -27,7 +27,7 @@ window.FLASHCARD_UNITS = {
     "word": "circumscribe",
     "pos": "v.",
     "definition": "To restrict within limits; to draw a line around.",
-    "chinese": "限制;劃定界限",
+    "chinese": "限制；劃定界限",
     "synonyms": "",
     "root": "circum- (around) + scribere (to write), from Latin",
     "group": "scrib；scrip = 書寫",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To restrict within limits; to draw a line around.",
-     "chinese": "限制;劃定界限"
+     "chinese": "限制；劃定界限"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "postscript",
     "pos": "n.",
     "definition": "An additional note added at the end of a letter or document (P.S.).",
-    "chinese": "附言;後記",
+    "chinese": "附言；後記",
     "synonyms": "",
     "root": "post (after) + scribo (write), from Latin",
     "group": "scrib；scrip = 書寫",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An additional note added at the end of a letter or document (P.S.).",
-     "chinese": "附言;後記"
+     "chinese": "附言；後記"
     }
    },
    {
@@ -105,7 +105,7 @@ window.FLASHCARD_UNITS = {
     "word": "prescription",
     "pos": "n.",
     "definition": "An instruction written by a doctor for medicine; an authoritative recommendation.",
-    "chinese": "處方;規定",
+    "chinese": "處方；規定",
     "synonyms": "",
     "root": "prae- (before) + scribere (to write), from Latin",
     "group": "scrib；scrip = 書寫",
@@ -117,7 +117,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An instruction written by a doctor for medicine; an authoritative recommendation.",
-     "chinese": "處方;規定"
+     "chinese": "處方；規定"
     }
    },
    {
@@ -143,7 +143,7 @@ window.FLASHCARD_UNITS = {
     "word": "scribble",
     "pos": "v./n.",
     "definition": "To write hurriedly or carelessly.",
-    "chinese": "潦草書寫;塗鴉",
+    "chinese": "潦草書寫；塗鴉",
     "synonyms": "",
     "root": "scribo (write), from Latin",
     "group": "scrib；scrip = 書寫",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To write hurriedly or carelessly.",
-     "chinese": "潦草書寫;塗鴉"
+     "chinese": "潦草書寫；塗鴉"
     }
    },
    {
     "word": "scripture",
     "pos": "n.",
     "definition": "Sacred writings, especially those of a religion.",
-    "chinese": "經文;聖典",
+    "chinese": "經文；聖典",
     "synonyms": "",
     "root": "scribo/scriptus (write), from Latin",
     "group": "scrib；scrip = 書寫",
@@ -174,7 +174,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sacred writings, especially those of a religion.",
-     "chinese": "經文;聖典"
+     "chinese": "經文；聖典"
     }
    }
   ],
@@ -399,4 +399,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ascribe": ["To assign, credit, attribute to.", "歸因於；歸功於"], "circumscribe": ["To restrict within limits; to draw a line around.", "限制;劃定界限"], "circumscribed": ["Marked off, bounded.", "受限制的；劃定範圍的"], "postscript": ["An additional note added at the end of a letter or document (P.S.).", "附言;後記"], "prescribe": ["To recommend or authorize the use of something, especially a treatment or remedy.", "開處方；規定"], "prescription": ["An instruction written by a doctor for medicine; an authoritative recommendation.", "處方;規定"], "proscribe": ["To forbid, especially by law; to condemn or outlaw.", "禁止；取締"], "scribble": ["To write hurriedly or carelessly.", "潦草書寫;塗鴉"], "scripture": ["Sacred writings, especially those of a religion.", "經文;聖典"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ascribe": ["To assign, credit, attribute to.", "歸因於；歸功於"], "circumscribe": ["To restrict within limits; to draw a line around.", "限制；劃定界限"], "circumscribed": ["Marked off, bounded.", "受限制的；劃定範圍的"], "postscript": ["An additional note added at the end of a letter or document (P.S.).", "附言；後記"], "prescribe": ["To recommend or authorize the use of something, especially a treatment or remedy.", "開處方；規定"], "prescription": ["An instruction written by a doctor for medicine; an authoritative recommendation.", "處方；規定"], "proscribe": ["To forbid, especially by law; to condemn or outlaw.", "禁止；取締"], "scribble": ["To write hurriedly or carelessly.", "潦草書寫；塗鴉"], "scripture": ["Sacred writings, especially those of a religion.", "經文；聖典"]});

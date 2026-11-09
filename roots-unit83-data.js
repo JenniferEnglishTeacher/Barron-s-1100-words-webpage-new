@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "pansophy",
     "pos": "n.",
     "definition": "Claimed universal knowledge or wisdom.",
-    "chinese": "全知;泛智論",
+    "chinese": "全知；泛智論",
     "synonyms": "",
     "root": "pan- (all) + sophia (wisdom), from Greek",
     "group": "pan = 全部",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Claimed universal knowledge or wisdom.",
-     "chinese": "全知;泛智論"
+     "chinese": "全知；泛智論"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "pantheon",
     "pos": "n.",
     "definition": "All the gods of a religion collectively; a group of illustrious people.",
-    "chinese": "萬神殿;群英譜",
+    "chinese": "萬神殿；群英譜",
     "synonyms": "",
     "root": "pan- (all) + theos (god), from Greek",
     "group": "pan = 全部",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "All the gods of a religion collectively; a group of illustrious people.",
-     "chinese": "萬神殿;群英譜"
+     "chinese": "萬神殿；群英譜"
     }
    },
    {
     "word": "pantologist",
     "pos": "n.",
     "definition": "A person who claims or attempts universal knowledge.",
-    "chinese": "博識者;全知論者",
+    "chinese": "博識者；全知論者",
     "synonyms": "",
     "root": "pan- (all) + logos (study), from Greek",
     "group": "pan = 全部",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who claims or attempts universal knowledge.",
-     "chinese": "博識者;全知論者"
+     "chinese": "博識者；全知論者"
     }
    },
    {
     "word": "pantophobia",
     "pos": "n.",
     "definition": "An irrational fear of everything.",
-    "chinese": "全恐懼症;泛恐懼症",
+    "chinese": "全恐懼症；泛恐懼症",
     "synonyms": "",
     "root": "pan- (all) + phobos (fear), from Greek",
     "group": "pan = 全部",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An irrational fear of everything.",
-     "chinese": "全恐懼症;泛恐懼症"
+     "chinese": "全恐懼症；泛恐懼症"
     }
    }
   ],
@@ -438,4 +438,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"panacea": ["Cure-all.", "萬靈藥"], "pandemonium": ["Disorder, uproar.", "大混亂；喧鬧"], "panegyrize": ["To praise a person or event in a formal speech or in writing.", "公開讚頌"], "panorama": ["A wide, unbroken view of an area.", "全景"], "pansophic": ["Claiming to have universal knowledge or wisdom.", "博識全知的"], "pansophy": ["Claimed universal knowledge or wisdom.", "全知;泛智論"], "pantheism": ["The belief that God is identical with the universe.", "泛神論"], "pantheon": ["All the gods of a religion collectively; a group of illustrious people.", "萬神殿;群英譜"], "pantologist": ["A person who claims or attempts universal knowledge.", "博識者;全知論者"], "pantophobia": ["An irrational fear of everything.", "全恐懼症;泛恐懼症"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"panacea": ["Cure-all.", "萬靈藥"], "pandemonium": ["Disorder, uproar.", "大混亂；喧鬧"], "panegyrize": ["To praise a person or event in a formal speech or in writing.", "公開讚頌"], "panorama": ["A wide, unbroken view of an area.", "全景"], "pansophic": ["Claiming to have universal knowledge or wisdom.", "博識全知的"], "pansophy": ["Claimed universal knowledge or wisdom.", "全知；泛智論"], "pantheism": ["The belief that God is identical with the universe.", "泛神論"], "pantheon": ["All the gods of a religion collectively; a group of illustrious people.", "萬神殿；群英譜"], "pantologist": ["A person who claims or attempts universal knowledge.", "博識者；全知論者"], "pantophobia": ["An irrational fear of everything.", "全恐懼症；泛恐懼症"]});

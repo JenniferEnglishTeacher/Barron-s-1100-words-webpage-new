@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "archangel",
     "pos": "n.",
     "definition": "An angel of high rank.",
-    "chinese": "天使長;大天使",
+    "chinese": "天使長；大天使",
     "synonyms": "",
     "root": "arkhi- (chief) + angelos (messenger), from Greek",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An angel of high rank.",
-     "chinese": "天使長;大天使"
+     "chinese": "天使長；大天使"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "archenemy",
     "pos": "n.",
     "definition": "A chief or principal enemy.",
-    "chinese": "宿敵;頭號敵人",
+    "chinese": "宿敵；頭號敵人",
     "synonyms": "",
     "root": "arkhi- (chief) + enemy",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A chief or principal enemy.",
-     "chinese": "宿敵;頭號敵人"
+     "chinese": "宿敵；頭號敵人"
     }
    },
    {
     "word": "archetype",
     "pos": "n.",
     "definition": "A typical or original example of a category or concept.",
-    "chinese": "原型;典型",
+    "chinese": "原型；典型",
     "synonyms": "",
     "root": "arkhe- (original) + typos (type), from Greek",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A typical or original example of a category or concept.",
-     "chinese": "原型;典型"
+     "chinese": "原型；典型"
     }
    },
    {
     "word": "archfiend",
     "pos": "n.",
     "definition": "A chief evil spirit; a supreme villain.",
-    "chinese": "首惡;魔頭",
+    "chinese": "首惡；魔頭",
     "synonyms": "",
     "root": "arkhi- (chief) + fiend",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A chief evil spirit; a supreme villain.",
-     "chinese": "首惡;魔頭"
+     "chinese": "首惡；魔頭"
     }
    },
    {
     "word": "architect",
     "pos": "n.",
     "definition": "A person who designs buildings; the creator of a plan or idea.",
-    "chinese": "建築師;策劃者",
+    "chinese": "建築師；策劃者",
     "synonyms": "",
     "root": "arkhi- (chief) + tekton (builder), from Greek",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who designs buildings; the creator of a plan or idea.",
-     "chinese": "建築師;策劃者"
+     "chinese": "建築師；策劃者"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "argot",
     "pos": "n.",
     "definition": "The specialized vocabulary used by a particular group, especially one considered secretive.",
-    "chinese": "行話;黑話",
+    "chinese": "行話；黑話",
     "synonyms": "",
     "root": "argot (slang, from French)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The specialized vocabulary used by a particular group, especially one considered secretive.",
-     "chinese": "行話;黑話"
+     "chinese": "行話；黑話"
     }
    },
    {
     "word": "argumentative",
     "pos": "adj.",
     "definition": "Tending to argue; presenting a reasoned case.",
-    "chinese": "好爭辯的;論證性的",
+    "chinese": "好爭辯的；論證性的",
     "synonyms": "",
     "root": "arguere (to argue, prove, from Latin)",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to argue; presenting a reasoned case.",
-     "chinese": "好爭辯的;論證性的"
+     "chinese": "好爭辯的；論證性的"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "aristocratic",
     "pos": "adj.",
     "definition": "Relating to the nobility; having refined, elegant manners.",
-    "chinese": "貴族的;高雅的",
+    "chinese": "貴族的；高雅的",
     "synonyms": "",
     "root": "aristos (best) + kratos (power), from Greek",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the nobility; having refined, elegant manners.",
-     "chinese": "貴族的;高雅的"
+     "chinese": "貴族的；高雅的"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "arrant",
     "pos": "adj.",
     "definition": "Complete and utter, used to emphasize something bad.",
-    "chinese": "十足的;徹頭徹尾的",
+    "chinese": "十足的；徹頭徹尾的",
     "synonyms": "",
     "root": "errant (wandering, from Old French)",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complete and utter, used to emphasize something bad.",
-     "chinese": "十足的;徹頭徹尾的"
+     "chinese": "十足的；徹頭徹尾的"
     }
    },
    {
     "word": "arriviste",
     "pos": "n.",
     "definition": "A person who has recently attained wealth or status but is not yet accepted socially.",
-    "chinese": "暴發戶;新貴",
+    "chinese": "暴發戶；新貴",
     "synonyms": "",
     "root": "arriver (to arrive, from French)",
     "group": "",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who has recently attained wealth or status but is not yet accepted socially.",
-     "chinese": "暴發戶;新貴"
+     "chinese": "暴發戶；新貴"
     }
    },
    {
     "word": "arroyo",
     "pos": "n.",
     "definition": "A dry creek bed that fills with water only after heavy rain.",
-    "chinese": "旱谷;乾河床",
+    "chinese": "旱谷；乾河床",
     "synonyms": "",
     "root": "arroyo (stream, from Spanish)",
     "group": "",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dry creek bed that fills with water only after heavy rain.",
-     "chinese": "旱谷;乾河床"
+     "chinese": "旱谷；乾河床"
     }
    },
    {
@@ -409,7 +409,7 @@ window.FLASHCARD_UNITS = {
     "word": "artful",
     "pos": "adj.",
     "definition": "Clever or skillful, especially in a cunning way.",
-    "chinese": "巧妙的;狡猾的",
+    "chinese": "巧妙的；狡猾的",
     "synonyms": "",
     "root": "art + -ful",
     "group": "",
@@ -421,7 +421,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clever or skillful, especially in a cunning way.",
-     "chinese": "巧妙的;狡猾的"
+     "chinese": "巧妙的；狡猾的"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "ashen",
     "pos": "adj.",
     "definition": "Pale gray, as if drained of color from shock or illness.",
-    "chinese": "灰白的;蒼白的",
+    "chinese": "灰白的；蒼白的",
     "synonyms": "",
     "root": "asce (ash, from Old English)",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pale gray, as if drained of color from shock or illness.",
-     "chinese": "灰白的;蒼白的"
+     "chinese": "灰白的；蒼白的"
     }
    },
    {
     "word": "ashore",
     "pos": "adv.",
     "definition": "Toward or on the shore.",
-    "chinese": "上岸;向岸邊",
+    "chinese": "上岸；向岸邊",
     "synonyms": "",
     "root": "a- (on) + shore",
     "group": "",
@@ -558,7 +558,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Toward or on the shore.",
-     "chinese": "上岸;向岸邊"
+     "chinese": "上岸；向岸邊"
     }
    },
    {
@@ -584,7 +584,7 @@ window.FLASHCARD_UNITS = {
     "word": "askance",
     "pos": "adv.",
     "definition": "With suspicion or disapproval.",
-    "chinese": "以懷疑的眼光;側目地",
+    "chinese": "以懷疑的眼光；側目地",
     "synonyms": "",
     "root": "a scancio (obliquely, possibly from Italian)",
     "group": "",
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "With suspicion or disapproval.",
-     "chinese": "以懷疑的眼光;側目地"
+     "chinese": "以懷疑的眼光；側目地"
     }
    },
    {
@@ -622,7 +622,7 @@ window.FLASHCARD_UNITS = {
     "word": "asleep",
     "pos": "adj./adv.",
     "definition": "In a state of sleep; numb.",
-    "chinese": "睡著的;麻木的",
+    "chinese": "睡著的；麻木的",
     "synonyms": "",
     "root": "a- (in a state of) + sleep",
     "group": "",
@@ -634,7 +634,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a state of sleep; numb.",
-     "chinese": "睡著的;麻木的"
+     "chinese": "睡著的；麻木的"
     }
    },
    {
@@ -679,7 +679,7 @@ window.FLASHCARD_UNITS = {
     "word": "assiduousness",
     "pos": "n.",
     "definition": "Great care and perseverance in doing something.",
-    "chinese": "勤勉;刻苦",
+    "chinese": "勤勉；刻苦",
     "synonyms": "",
     "root": "assidere (to sit down to, from Latin)",
     "group": "",
@@ -691,7 +691,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great care and perseverance in doing something.",
-     "chinese": "勤勉;刻苦"
+     "chinese": "勤勉；刻苦"
     }
    },
    {
@@ -812,7 +812,7 @@ window.FLASHCARD_UNITS = {
     "word": "astuteness",
     "pos": "n.",
     "definition": "The quality of having sharp judgment; shrewdness.",
-    "chinese": "精明;敏銳",
+    "chinese": "精明；敏銳",
     "synonyms": "",
     "root": "astus (craft, cunning, from Latin)",
     "group": "",
@@ -824,7 +824,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of having sharp judgment; shrewdness.",
-     "chinese": "精明;敏銳"
+     "chinese": "精明；敏銳"
     }
    },
    {
@@ -926,7 +926,7 @@ window.FLASHCARD_UNITS = {
     "word": "atmospheric",
     "pos": "adj.",
     "definition": "Relating to the atmosphere; creating a distinctive mood or feeling.",
-    "chinese": "大氣的;氣氛濃厚的",
+    "chinese": "大氣的；氣氛濃厚的",
     "synonyms": "",
     "root": "atmos (vapor) + sphaira (sphere), from Greek",
     "group": "",
@@ -938,7 +938,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the atmosphere; creating a distinctive mood or feeling.",
-     "chinese": "大氣的;氣氛濃厚的"
+     "chinese": "大氣的；氣氛濃厚的"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"archaic": ["Out-of-date.", "古老的；過時的"], "archangel": ["An angel of high rank.", "天使長;大天使"], "archbishop": ["A bishop of the highest rank, in charge of a large diocese.", "大主教"], "archduke": ["A title of nobility used especially by princes of the former Austrian imperial family.", "大公"], "archenemy": ["A chief or principal enemy.", "宿敵;頭號敵人"], "archetype": ["A typical or original example of a category or concept.", "原型;典型"], "archfiend": ["A chief evil spirit; a supreme villain.", "首惡;魔頭"], "architect": ["A person who designs buildings; the creator of a plan or idea.", "建築師;策劃者"], "ardent": ["Passionate, eager.", "熱烈的；激情的"], "ardor": ["Extreme vigor, energy, enthusiasm.", "熱情；熱忱"], "arduous": ["Difficult and requiring effort.", "艱辛的；費力的"], "argot": ["The specialized vocabulary used by a particular group, especially one considered secretive.", "行話;黑話"], "argumentative": ["Tending to argue; presenting a reasoned case.", "好爭辯的;論證性的"], "arid": ["Dry, lacking water.", "乾旱的"], "aristocratic": ["Relating to the nobility; having refined, elegant manners.", "貴族的;高雅的"], "aromatic": ["Having a pleasant and distinctive smell.", "芳香的"], "arouse": ["To awaken or stimulate a feeling or response; to provoke.", "喚起；激起"], "arrant": ["Complete and utter, used to emphasize something bad.", "十足的;徹頭徹尾的"], "arriviste": ["A person who has recently attained wealth or status but is not yet accepted socially.", "暴發戶;新貴"], "arroyo": ["A dry creek bed that fills with water only after heavy rain.", "旱谷;乾河床"], "arsonist": ["A person who unlawfully sets fire to property.", "縱火犯"], "artful": ["Clever or skillful, especially in a cunning way.", "巧妙的;狡猾的"], "arthritis": ["A medical condition causing painful inflammation and stiffness of the joints.", "關節炎"], "articulate": ["To express an idea or feeling clearly.", "清楚表達"], "artisan": ["A person who is skillful with his or her hands.", "工匠"], "artless": ["Naive, innocent.", "天真的；單純的"], "ascetic": ["One who practices self-denial.", "苦行的；禁慾者"], "ashen": ["Pale gray, as if drained of color from shock or illness.", "灰白的;蒼白的"], "ashore": ["Toward or on the shore.", "上岸;向岸邊"], "asinine": ["Stupid, silly.", "愚蠢的"], "askance": ["With suspicion or disapproval.", "以懷疑的眼光;側目地"], "askew": ["Not in a straight or level position; crooked.", "歪斜的"], "asleep": ["In a state of sleep; numb.", "睡著的;麻木的"], "asperity": ["Harshness of temper.", "粗暴；嚴厲"], "assassination": ["The murder of a prominent person, usually for political reasons.", "暗殺"], "assiduousness": ["Great care and perseverance in doing something.", "勤勉;刻苦"], "asterisk": ["A star-shaped symbol (*) used to mark a footnote or omission.", "星號"], "astronaut": ["A person trained to travel and work in space.", "太空人"], "astronomer": ["A scientist who studies celestial objects and outer space.", "天文學家"], "astronomy": ["The branch of physics that studies celestial bodies.", "天文學"], "astrophysics": ["The branch of astronomy dealing with the physics of celestial objects.", "天文物理學"], "astute": ["Keen, shrewd.", "機敏的"], "astuteness": ["The quality of having sharp judgment; shrewdness.", "精明;敏銳"], "asylum": ["A place of refuge, protection, a sanctuary.", "庇護所；避難所"], "asyndeton": ["The omission of conjunctions between clauses, as in \"I came, I saw, I conquered\".", "連接詞省略法(修辭格)"], "ataxiophobia": ["An abnormal fear of disorder or untidiness.", "雜亂恐懼症"], "atheist": ["Someone who denies the existence of god.", "無神論者"], "atheistic": ["Without a belief in any god.", "無神論的"], "atmospheric": ["Relating to the atmosphere; creating a distinctive mood or feeling.", "大氣的;氣氛濃厚的"], "atone": ["To repent, make amends.", "贖罪；彌補"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"archaic": ["Out-of-date.", "古老的；過時的"], "archangel": ["An angel of high rank.", "天使長；大天使"], "archbishop": ["A bishop of the highest rank, in charge of a large diocese.", "大主教"], "archduke": ["A title of nobility used especially by princes of the former Austrian imperial family.", "大公"], "archenemy": ["A chief or principal enemy.", "宿敵；頭號敵人"], "archetype": ["A typical or original example of a category or concept.", "原型；典型"], "archfiend": ["A chief evil spirit; a supreme villain.", "首惡；魔頭"], "architect": ["A person who designs buildings; the creator of a plan or idea.", "建築師；策劃者"], "ardent": ["Passionate, eager.", "熱烈的；激情的"], "ardor": ["Extreme vigor, energy, enthusiasm.", "熱情；熱忱"], "arduous": ["Difficult and requiring effort.", "艱辛的；費力的"], "argot": ["The specialized vocabulary used by a particular group, especially one considered secretive.", "行話；黑話"], "argumentative": ["Tending to argue; presenting a reasoned case.", "好爭辯的；論證性的"], "arid": ["Dry, lacking water.", "乾旱的"], "aristocratic": ["Relating to the nobility; having refined, elegant manners.", "貴族的；高雅的"], "aromatic": ["Having a pleasant and distinctive smell.", "芳香的"], "arouse": ["To awaken or stimulate a feeling or response; to provoke.", "喚起；激起"], "arrant": ["Complete and utter, used to emphasize something bad.", "十足的；徹頭徹尾的"], "arriviste": ["A person who has recently attained wealth or status but is not yet accepted socially.", "暴發戶；新貴"], "arroyo": ["A dry creek bed that fills with water only after heavy rain.", "旱谷；乾河床"], "arsonist": ["A person who unlawfully sets fire to property.", "縱火犯"], "artful": ["Clever or skillful, especially in a cunning way.", "巧妙的；狡猾的"], "arthritis": ["A medical condition causing painful inflammation and stiffness of the joints.", "關節炎"], "articulate": ["To express an idea or feeling clearly.", "清楚表達"], "artisan": ["A person who is skillful with his or her hands.", "工匠"], "artless": ["Naive, innocent.", "天真的；單純的"], "ascetic": ["One who practices self-denial.", "苦行的；禁慾者"], "ashen": ["Pale gray, as if drained of color from shock or illness.", "灰白的；蒼白的"], "ashore": ["Toward or on the shore.", "上岸；向岸邊"], "asinine": ["Stupid, silly.", "愚蠢的"], "askance": ["With suspicion or disapproval.", "以懷疑的眼光；側目地"], "askew": ["Not in a straight or level position; crooked.", "歪斜的"], "asleep": ["In a state of sleep; numb.", "睡著的；麻木的"], "asperity": ["Harshness of temper.", "粗暴；嚴厲"], "assassination": ["The murder of a prominent person, usually for political reasons.", "暗殺"], "assiduousness": ["Great care and perseverance in doing something.", "勤勉；刻苦"], "asterisk": ["A star-shaped symbol (*) used to mark a footnote or omission.", "星號"], "astronaut": ["A person trained to travel and work in space.", "太空人"], "astronomer": ["A scientist who studies celestial objects and outer space.", "天文學家"], "astronomy": ["The branch of physics that studies celestial bodies.", "天文學"], "astrophysics": ["The branch of astronomy dealing with the physics of celestial objects.", "天文物理學"], "astute": ["Keen, shrewd.", "機敏的"], "astuteness": ["The quality of having sharp judgment; shrewdness.", "精明；敏銳"], "asylum": ["A place of refuge, protection, a sanctuary.", "庇護所；避難所"], "asyndeton": ["The omission of conjunctions between clauses, as in \"I came, I saw, I conquered\".", "連接詞省略法(修辭格)"], "ataxiophobia": ["An abnormal fear of disorder or untidiness.", "雜亂恐懼症"], "atheist": ["Someone who denies the existence of god.", "無神論者"], "atheistic": ["Without a belief in any god.", "無神論的"], "atmospheric": ["Relating to the atmosphere; creating a distinctive mood or feeling.", "大氣的；氣氛濃厚的"], "atone": ["To repent, make amends.", "贖罪；彌補"]});

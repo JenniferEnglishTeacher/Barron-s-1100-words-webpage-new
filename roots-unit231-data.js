@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "tutor",
     "pos": "n./v.",
     "definition": "A private teacher; to instruct individually.",
-    "chinese": "家教;個別指導",
+    "chinese": "家教；個別指導",
     "synonyms": "",
     "root": "tutor (guardian, protector), from Latin tueri (to watch, guard)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A private teacher; to instruct individually.",
-     "chinese": "家教;個別指導"
+     "chinese": "家教；個別指導"
     }
    },
    {
     "word": "twinkling",
     "pos": "n./adj.",
     "definition": "An instant; sparkling or shimmering.",
-    "chinese": "瞬間;閃爍的",
+    "chinese": "瞬間；閃爍的",
     "synonyms": "",
     "root": "twinkle, from Old English twinclian, of imitative origin",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An instant; sparkling or shimmering.",
-     "chinese": "瞬間;閃爍的"
+     "chinese": "瞬間；閃爍的"
     }
    },
    {
     "word": "typical",
     "pos": "adj.",
     "definition": "Having the usual qualities of a particular type; representative.",
-    "chinese": "典型的;有代表性的",
+    "chinese": "典型的；有代表性的",
     "synonyms": "",
     "root": "typicus, from Latin typus (image, figure), from Greek typos",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the usual qualities of a particular type; representative.",
-     "chinese": "典型的;有代表性的"
+     "chinese": "典型的；有代表性的"
     }
    },
    {
     "word": "tyrannical",
     "pos": "adj.",
     "definition": "Exercising power in a cruel or oppressive way.",
-    "chinese": "暴虐的;專制的",
+    "chinese": "暴虐的；專制的",
     "synonyms": "",
     "root": "tyrannikos, from Greek tyrannos (absolute ruler)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exercising power in a cruel or oppressive way.",
-     "chinese": "暴虐的;專制的"
+     "chinese": "暴虐的；專制的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "ubiquity",
     "pos": "n.",
     "definition": "The state of being present everywhere at once.",
-    "chinese": "無所不在;普遍存在",
+    "chinese": "無所不在；普遍存在",
     "synonyms": "",
     "root": "ubique (everywhere), from Latin ubi (where)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being present everywhere at once.",
-     "chinese": "無所不在;普遍存在"
+     "chinese": "無所不在；普遍存在"
     }
    },
    {
     "word": "ukase",
     "pos": "n.",
     "definition": "An official proclamation or edict, especially in Imperial Russia; an arbitrary command.",
-    "chinese": "諭令;專斷命令",
+    "chinese": "諭令；專斷命令",
     "synonyms": "",
     "root": "ukaz (decree), from Russian ukazat (to show, decree)",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official proclamation or edict, especially in Imperial Russia; an arbitrary command.",
-     "chinese": "諭令;專斷命令"
+     "chinese": "諭令；專斷命令"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "ultracrepidarian",
     "pos": "n./adj.",
     "definition": "A person who gives opinions beyond their expertise.",
-    "chinese": "不懂裝懂的人;班門弄斧的",
+    "chinese": "不懂裝懂的人；班門弄斧的",
     "synonyms": "",
     "root": "ultra (beyond) + crepidam (the sole of a shoe), from Latin, from a saying about a shoemaker judging beyond his craft",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who gives opinions beyond their expertise.",
-     "chinese": "不懂裝懂的人;班門弄斧的"
+     "chinese": "不懂裝懂的人；班門弄斧的"
     }
    },
    {
     "word": "ultracrepidarianism",
     "pos": "n.",
     "definition": "The habit of giving opinions on matters beyond one's expertise.",
-    "chinese": "不懂裝懂;班門弄斧的習性",
+    "chinese": "不懂裝懂；班門弄斧的習性",
     "synonyms": "",
     "root": "ultra (beyond) + crepidam (the sole of a shoe), from Latin",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The habit of giving opinions on matters beyond one's expertise.",
-     "chinese": "不懂裝懂;班門弄斧的習性"
+     "chinese": "不懂裝懂；班門弄斧的習性"
     }
    },
    {
     "word": "ululant",
     "pos": "adj.",
     "definition": "Howling or wailing.",
-    "chinese": "哀嚎的;哭號的",
+    "chinese": "哀嚎的；哭號的",
     "synonyms": "",
     "root": "ululare (to howl), from Latin, of imitative origin",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Howling or wailing.",
-     "chinese": "哀嚎的;哭號的"
+     "chinese": "哀嚎的；哭號的"
     }
    },
    {
     "word": "ululate",
     "pos": "v.",
     "definition": "To howl or wail loudly, especially in mourning or celebration.",
-    "chinese": "哀嚎;高聲哭號",
+    "chinese": "哀嚎；高聲哭號",
     "synonyms": "",
     "root": "ululare (to howl), from Latin, of imitative origin",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To howl or wail loudly, especially in mourning or celebration.",
-     "chinese": "哀嚎;高聲哭號"
+     "chinese": "哀嚎；高聲哭號"
     }
    },
    {
     "word": "ululation",
     "pos": "n.",
     "definition": "A loud howling or wailing sound.",
-    "chinese": "哀嚎聲;呼號聲",
+    "chinese": "哀嚎聲；呼號聲",
     "synonyms": "",
     "root": "ululatio, from Latin ululare (to howl)",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A loud howling or wailing sound.",
-     "chinese": "哀嚎聲;呼號聲"
+     "chinese": "哀嚎聲；呼號聲"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "umbrageous",
     "pos": "adj.",
     "definition": "Providing or full of shade; easily offended (archaic sense).",
-    "chinese": "多蔭的;易怒的(古義)",
+    "chinese": "多蔭的；易怒的(古義)",
     "synonyms": "",
     "root": "umbra (shadow), from Latin",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Providing or full of shade; easily offended (archaic sense).",
-     "chinese": "多蔭的;易怒的(古義)"
+     "chinese": "多蔭的；易怒的(古義)"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "uncouth",
     "pos": "adj.",
     "definition": "Lacking good manners, refinement, or grace.",
-    "chinese": "粗野的;粗魯的",
+    "chinese": "粗野的；粗魯的",
     "synonyms": "",
     "root": "uncuþ (unknown, strange), from Old English un- + cuþ (known)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking good manners, refinement, or grace.",
-     "chinese": "粗野的;粗魯的"
+     "chinese": "粗野的；粗魯的"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "underhand",
     "pos": "adj./adv.",
     "definition": "Acting or done in a secret or dishonest way.",
-    "chinese": "陰險的;偷偷摸摸的",
+    "chinese": "陰險的；偷偷摸摸的",
     "synonyms": "",
     "root": "under, from Old English + hand, from Old English hond",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Acting or done in a secret or dishonest way.",
-     "chinese": "陰險的;偷偷摸摸的"
+     "chinese": "陰險的；偷偷摸摸的"
     }
    },
    {
     "word": "underling",
     "pos": "n.",
     "definition": "A person who is subordinate to another, especially of low status.",
-    "chinese": "下屬;部下",
+    "chinese": "下屬；部下",
     "synonyms": "",
     "root": "under, from Old English + -ling (diminutive suffix)",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is subordinate to another, especially of low status.",
-     "chinese": "下屬;部下"
+     "chinese": "下屬；部下"
     }
    },
    {
@@ -585,7 +585,7 @@ window.FLASHCARD_UNITS = {
     "word": "unguent",
     "pos": "n.",
     "definition": "A soft, greasy substance used as ointment or lubricant.",
-    "chinese": "軟膏;油膏",
+    "chinese": "軟膏；油膏",
     "synonyms": "",
     "root": "unguentum, from Latin unguere (to anoint)",
     "group": "",
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A soft, greasy substance used as ointment or lubricant.",
-     "chinese": "軟膏;油膏"
+     "chinese": "軟膏；油膏"
     }
    },
    {
@@ -644,7 +644,7 @@ window.FLASHCARD_UNITS = {
     "word": "unique",
     "pos": "adj.",
     "definition": "Being the only one of its kind; unusual.",
-    "chinese": "獨特的;唯一的",
+    "chinese": "獨特的；唯一的",
     "synonyms": "",
     "root": "unicus (single, sole), from Latin unus (one)",
     "group": "",
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Being the only one of its kind; unusual.",
-     "chinese": "獨特的;唯一的"
+     "chinese": "獨特的；唯一的"
     }
    },
    {
@@ -741,7 +741,7 @@ window.FLASHCARD_UNITS = {
     "word": "upbraiding",
     "pos": "n./adj.",
     "definition": "A severe scolding or criticism.",
-    "chinese": "斥責;責罵",
+    "chinese": "斥責；責罵",
     "synonyms": "",
     "root": "upbraid, from Old English upbregdan (to bring forward as a reproach)",
     "group": "",
@@ -753,14 +753,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A severe scolding or criticism.",
-     "chinese": "斥責;責罵"
+     "chinese": "斥責；責罵"
     }
    },
    {
     "word": "upright",
     "pos": "adj./adv.",
     "definition": "Vertical or erect; strictly honest and moral.",
-    "chinese": "直立的;正直的",
+    "chinese": "直立的；正直的",
     "synonyms": "",
     "root": "up, from Old English upp + riht (right)",
     "group": "",
@@ -772,14 +772,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Vertical or erect; strictly honest and moral.",
-     "chinese": "直立的;正直的"
+     "chinese": "直立的；正直的"
     }
    },
    {
     "word": "uprightness",
     "pos": "n.",
     "definition": "The quality of being strictly honest and moral.",
-    "chinese": "正直;誠實",
+    "chinese": "正直；誠實",
     "synonyms": "",
     "root": "upright, from Old English upp + riht (right) + -ness",
     "group": "",
@@ -791,7 +791,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being strictly honest and moral.",
-     "chinese": "正直;誠實"
+     "chinese": "正直；誠實"
     }
    },
    {
@@ -836,7 +836,7 @@ window.FLASHCARD_UNITS = {
     "word": "urban",
     "pos": "adj.",
     "definition": "Relating to a city or densely populated area.",
-    "chinese": "城市的;都市的",
+    "chinese": "城市的；都市的",
     "synonyms": "",
     "root": "urbanus, from Latin urbs (city)",
     "group": "",
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a city or densely populated area.",
-     "chinese": "城市的;都市的"
+     "chinese": "城市的；都市的"
     }
    },
    {
@@ -874,7 +874,7 @@ window.FLASHCARD_UNITS = {
     "word": "urbanity",
     "pos": "n.",
     "definition": "Refined manners or sophistication, especially as associated with city life.",
-    "chinese": "文雅;都市氣息",
+    "chinese": "文雅；都市氣息",
     "synonyms": "",
     "root": "urbs (city), from Latin",
     "group": "",
@@ -886,7 +886,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Refined manners or sophistication, especially as associated with city life.",
-     "chinese": "文雅;都市氣息"
+     "chinese": "文雅；都市氣息"
     }
    },
    {
@@ -912,7 +912,7 @@ window.FLASHCARD_UNITS = {
     "word": "usher",
     "pos": "n./v.",
     "definition": "A person who shows people to seats; to guide or lead.",
-    "chinese": "引座員;引導",
+    "chinese": "引座員；引導",
     "synonyms": "",
     "root": "ussher, from Old French uissier (doorkeeper), from Latin ostium (door)",
     "group": "",
@@ -924,7 +924,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who shows people to seats; to guide or lead.",
-     "chinese": "引座員;引導"
+     "chinese": "引座員；引導"
     }
    },
    {
@@ -950,7 +950,7 @@ window.FLASHCARD_UNITS = {
     "word": "utile",
     "pos": "adj.",
     "definition": "Useful or beneficial.",
-    "chinese": "有用的;實用的",
+    "chinese": "有用的；實用的",
     "synonyms": "",
     "root": "utilis (useful), from Latin uti (to use)",
     "group": "",
@@ -962,7 +962,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Useful or beneficial.",
-     "chinese": "有用的;實用的"
+     "chinese": "有用的；實用的"
     }
    }
   ],
@@ -2171,4 +2171,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tutor": ["A private teacher; to instruct individually.", "家教;個別指導"], "twinkling": ["An instant; sparkling or shimmering.", "瞬間;閃爍的"], "typical": ["Having the usual qualities of a particular type; representative.", "典型的;有代表性的"], "tyrannical": ["Exercising power in a cruel or oppressive way.", "暴虐的;專制的"], "tyrant": ["A cruel and oppressive ruler.", "暴君"], "tyro": ["Novice, beginner.", "新手；初學者"], "ubiquitous": ["Being everywhere at the same time.", "無所不在的"], "ubiquity": ["The state of being present everywhere at once.", "無所不在;普遍存在"], "ukase": ["An official proclamation or edict, especially in Imperial Russia; an arbitrary command.", "諭令;專斷命令"], "ultimate": ["Final.", "最終的；極限的"], "ultracrepidarian": ["A person who gives opinions beyond their expertise.", "不懂裝懂的人;班門弄斧的"], "ultracrepidarianism": ["The habit of giving opinions on matters beyond one's expertise.", "不懂裝懂;班門弄斧的習性"], "ululant": ["Howling or wailing.", "哀嚎的;哭號的"], "ululate": ["To howl or wail loudly, especially in mourning or celebration.", "哀嚎;高聲哭號"], "ululation": ["A loud howling or wailing sound.", "哀嚎聲;呼號聲"], "umbrage": ["Resentment, offense.", "不快；怨恨"], "umbrageous": ["Providing or full of shade; easily offended (archaic sense).", "多蔭的;易怒的(古義)"], "umlaut": ["A mark placed over a vowel in German and other languages to indicate a change in sound.", "變音符號"], "uncanny": ["Strange or mysterious, often in a way that causes unease.", "離奇的；詭異的"], "uncontroversial": ["Not likely to cause disagreement.", "無爭議的"], "uncouth": ["Lacking good manners, refinement, or grace.", "粗野的;粗魯的"], "unctuous": ["Insincere, fawning.", "諂媚的；油腔滑調的"], "undeniable": ["Cannot be disputed.", "不可否認的"], "underhand": ["Acting or done in a secret or dishonest way.", "陰險的;偷偷摸摸的"], "underling": ["A person who is subordinate to another, especially of low status.", "下屬;部下"], "undermine": ["To weaken or damage something gradually or covertly.", "逐漸削弱；暗中破壞"], "underscore": ["To emphasize or highlight something, usually to draw attention to its importance.", "強調"], "underwrite": ["To agree to finance.", "承保；提供資金"], "undulate": ["To move in waves.", "波動；起伏"], "unequivocal": ["Leaving no doubt; clear and unambiguous.", "明確的；毫不含糊的"], "unguent": ["A soft, greasy substance used as ointment or lubricant.", "軟膏;油膏"], "uniformity": ["Sameness.", "一致性"], "unimportant": ["Not significant.", "不重要的"], "unique": ["Being the only one of its kind; unusual.", "獨特的;唯一的"], "unmistakable": ["Clearly recognizable.", "明確無誤的；顯而易見的"], "unoriginal": ["Lacking originality.", "缺乏創意的；老套的"], "unpredictable": ["Difficult to foresee.", "難以預測的"], "upbraid": ["To chide; to scold bitterly.", "嚴厲責罵"], "upbraiding": ["A severe scolding or criticism.", "斥責;責罵"], "upright": ["Vertical or erect; strictly honest and moral.", "直立的;正直的"], "uprightness": ["The quality of being strictly honest and moral.", "正直;誠實"], "uproarious": ["Characterized by loud noise or laughter; very funny.", "喧鬧的；爆笑的"], "uranus": ["The seventh planet from the sun in the solar system.", "天王星"], "urban": ["Relating to a city or densely populated area.", "城市的;都市的"], "urbane": ["Polished, witty: (anti: diatribe).", "溫文爾雅的；都市化的"], "urbanity": ["Refined manners or sophistication, especially as associated with city life.", "文雅;都市氣息"], "ursine": ["Of or relating to or similar to bears.", "熊的；似熊的"], "usher": ["A person who shows people to seats; to guide or lead.", "引座員;引導"], "usurp": ["To seize, annex, grab.", "篡奪；奪取"], "utile": ["Useful or beneficial.", "有用的;實用的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tutor": ["A private teacher; to instruct individually.", "家教；個別指導"], "twinkling": ["An instant; sparkling or shimmering.", "瞬間；閃爍的"], "typical": ["Having the usual qualities of a particular type; representative.", "典型的；有代表性的"], "tyrannical": ["Exercising power in a cruel or oppressive way.", "暴虐的；專制的"], "tyrant": ["A cruel and oppressive ruler.", "暴君"], "tyro": ["Novice, beginner.", "新手；初學者"], "ubiquitous": ["Being everywhere at the same time.", "無所不在的"], "ubiquity": ["The state of being present everywhere at once.", "無所不在；普遍存在"], "ukase": ["An official proclamation or edict, especially in Imperial Russia; an arbitrary command.", "諭令；專斷命令"], "ultimate": ["Final.", "最終的；極限的"], "ultracrepidarian": ["A person who gives opinions beyond their expertise.", "不懂裝懂的人；班門弄斧的"], "ultracrepidarianism": ["The habit of giving opinions on matters beyond one's expertise.", "不懂裝懂；班門弄斧的習性"], "ululant": ["Howling or wailing.", "哀嚎的；哭號的"], "ululate": ["To howl or wail loudly, especially in mourning or celebration.", "哀嚎；高聲哭號"], "ululation": ["A loud howling or wailing sound.", "哀嚎聲；呼號聲"], "umbrage": ["Resentment, offense.", "不快；怨恨"], "umbrageous": ["Providing or full of shade; easily offended (archaic sense).", "多蔭的；易怒的(古義)"], "umlaut": ["A mark placed over a vowel in German and other languages to indicate a change in sound.", "變音符號"], "uncanny": ["Strange or mysterious, often in a way that causes unease.", "離奇的；詭異的"], "uncontroversial": ["Not likely to cause disagreement.", "無爭議的"], "uncouth": ["Lacking good manners, refinement, or grace.", "粗野的；粗魯的"], "unctuous": ["Insincere, fawning.", "諂媚的；油腔滑調的"], "undeniable": ["Cannot be disputed.", "不可否認的"], "underhand": ["Acting or done in a secret or dishonest way.", "陰險的；偷偷摸摸的"], "underling": ["A person who is subordinate to another, especially of low status.", "下屬；部下"], "undermine": ["To weaken or damage something gradually or covertly.", "逐漸削弱；暗中破壞"], "underscore": ["To emphasize or highlight something, usually to draw attention to its importance.", "強調"], "underwrite": ["To agree to finance.", "承保；提供資金"], "undulate": ["To move in waves.", "波動；起伏"], "unequivocal": ["Leaving no doubt; clear and unambiguous.", "明確的；毫不含糊的"], "unguent": ["A soft, greasy substance used as ointment or lubricant.", "軟膏；油膏"], "uniformity": ["Sameness.", "一致性"], "unimportant": ["Not significant.", "不重要的"], "unique": ["Being the only one of its kind; unusual.", "獨特的；唯一的"], "unmistakable": ["Clearly recognizable.", "明確無誤的；顯而易見的"], "unoriginal": ["Lacking originality.", "缺乏創意的；老套的"], "unpredictable": ["Difficult to foresee.", "難以預測的"], "upbraid": ["To chide; to scold bitterly.", "嚴厲責罵"], "upbraiding": ["A severe scolding or criticism.", "斥責；責罵"], "upright": ["Vertical or erect; strictly honest and moral.", "直立的；正直的"], "uprightness": ["The quality of being strictly honest and moral.", "正直；誠實"], "uproarious": ["Characterized by loud noise or laughter; very funny.", "喧鬧的；爆笑的"], "uranus": ["The seventh planet from the sun in the solar system.", "天王星"], "urban": ["Relating to a city or densely populated area.", "城市的；都市的"], "urbane": ["Polished, witty: (anti: diatribe).", "溫文爾雅的；都市化的"], "urbanity": ["Refined manners or sophistication, especially as associated with city life.", "文雅；都市氣息"], "ursine": ["Of or relating to or similar to bears.", "熊的；似熊的"], "usher": ["A person who shows people to seats; to guide or lead.", "引座員；引導"], "usurp": ["To seize, annex, grab.", "篡奪；奪取"], "utile": ["Useful or beneficial.", "有用的；實用的"]});

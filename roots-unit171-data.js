@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "cataclysmic",
     "pos": "adj.",
     "definition": "Relating to a large-scale, violent event.",
-    "chinese": "劇變性的;大災變的",
+    "chinese": "劇變性的；大災變的",
     "synonyms": "",
     "root": "kata- (down) + klyzein (to wash), from Greek",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a large-scale, violent event.",
-     "chinese": "劇變性的;大災變的"
+     "chinese": "劇變性的；大災變的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "categorical",
     "pos": "adj.",
     "definition": "Absolute and unconditional; without exception.",
-    "chinese": "絕對的;斷然的",
+    "chinese": "絕對的；斷然的",
     "synonyms": "",
     "root": "kategoria (accusation, category), from Greek",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Absolute and unconditional; without exception.",
-     "chinese": "絕對的;斷然的"
+     "chinese": "絕對的；斷然的"
     }
    },
    {
     "word": "catharsis",
     "pos": "n.",
     "definition": "The process of releasing strong or repressed emotions.",
-    "chinese": "宣洩;情感淨化",
+    "chinese": "宣洩；情感淨化",
     "synonyms": "",
     "root": "katharsis (purification, from Greek)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of releasing strong or repressed emotions.",
-     "chinese": "宣洩;情感淨化"
+     "chinese": "宣洩；情感淨化"
     }
    },
    {
     "word": "cathartic",
     "pos": "adj.",
     "definition": "Providing psychological relief through the release of strong emotions.",
-    "chinese": "宣洩性的;淨化情感的",
+    "chinese": "宣洩性的；淨化情感的",
     "synonyms": "",
     "root": "katharsis (purification, from Greek)",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Providing psychological relief through the release of strong emotions.",
-     "chinese": "宣洩性的;淨化情感的"
+     "chinese": "宣洩性的；淨化情感的"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "catholic",
     "pos": "adj.",
     "definition": "Including a wide variety of things; universal in scope.",
-    "chinese": "廣泛的;包羅萬象的",
+    "chinese": "廣泛的；包羅萬象的",
     "synonyms": "",
     "root": "katholikos (universal, from Greek)",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Including a wide variety of things; universal in scope.",
-     "chinese": "廣泛的;包羅萬象的"
+     "chinese": "廣泛的；包羅萬象的"
     }
    },
    {
     "word": "catholicity",
     "pos": "n.",
     "definition": "The quality of being broad-minded or universal in scope.",
-    "chinese": "包容性;普遍性",
+    "chinese": "包容性；普遍性",
     "synonyms": "",
     "root": "katholikos (universal, from Greek)",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being broad-minded or universal in scope.",
-     "chinese": "包容性;普遍性"
+     "chinese": "包容性；普遍性"
     }
    },
    {
@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     "word": "caution",
     "pos": "n./v.",
     "definition": "Care taken to avoid danger or mistakes; to warn.",
-    "chinese": "謹慎;警告",
+    "chinese": "謹慎；警告",
     "synonyms": "",
     "root": "cavere (to beware, from Latin)",
     "group": "",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Care taken to avoid danger or mistakes; to warn.",
-     "chinese": "謹慎;警告"
+     "chinese": "謹慎；警告"
     }
    },
    {
     "word": "cautious",
     "pos": "adj.",
     "definition": "Careful to avoid danger or mistakes.",
-    "chinese": "謹慎的;小心的",
+    "chinese": "謹慎的；小心的",
     "synonyms": "",
     "root": "cavere (to beware, from Latin)",
     "group": "",
@@ -402,7 +402,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Careful to avoid danger or mistakes.",
-     "chinese": "謹慎的;小心的"
+     "chinese": "謹慎的；小心的"
     }
    },
    {
@@ -466,7 +466,7 @@ window.FLASHCARD_UNITS = {
     "word": "cavil",
     "pos": "v./n.",
     "definition": "To raise trivial objections; a trivial objection.",
-    "chinese": "吹毛求疵;無謂的挑剔",
+    "chinese": "吹毛求疵；無謂的挑剔",
     "synonyms": "",
     "root": "cavillari (to jeer, from Latin)",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To raise trivial objections; a trivial objection.",
-     "chinese": "吹毛求疵;無謂的挑剔"
+     "chinese": "吹毛求疵；無謂的挑剔"
     }
    },
    {
@@ -563,7 +563,7 @@ window.FLASHCARD_UNITS = {
     "word": "celestial",
     "pos": "adj.",
     "definition": "Relating to the sky or heavens.",
-    "chinese": "天空的;天體的",
+    "chinese": "天空的；天體的",
     "synonyms": "",
     "root": "caelum (sky, heaven, from Latin)",
     "group": "",
@@ -575,14 +575,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the sky or heavens.",
-     "chinese": "天空的;天體的"
+     "chinese": "天空的；天體的"
     }
    },
    {
     "word": "celsius",
     "pos": "adj./n.",
     "definition": "Relating to a temperature scale where water freezes at 0 degrees and boils at 100.",
-    "chinese": "攝氏的;攝氏度",
+    "chinese": "攝氏的；攝氏度",
     "synonyms": "",
     "root": "named after Anders Celsius, Swedish astronomer",
     "group": "",
@@ -594,14 +594,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a temperature scale where water freezes at 0 degrees and boils at 100.",
-     "chinese": "攝氏的;攝氏度"
+     "chinese": "攝氏的；攝氏度"
     }
    },
    {
     "word": "censor",
     "pos": "n./v.",
     "definition": "An official who examines material and suppresses unacceptable parts; to suppress in this way.",
-    "chinese": "審查員;審查",
+    "chinese": "審查員；審查",
     "synonyms": "",
     "root": "censere (to assess, from Latin)",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official who examines material and suppresses unacceptable parts; to suppress in this way.",
-     "chinese": "審查員;審查"
+     "chinese": "審查員；審查"
     }
    },
    {
     "word": "censorious",
     "pos": "adj.",
     "definition": "Severely critical of others.",
-    "chinese": "苛責的;吹毛求疵的",
+    "chinese": "苛責的；吹毛求疵的",
     "synonyms": "",
     "root": "censere (to assess, from Latin)",
     "group": "",
@@ -632,7 +632,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Severely critical of others.",
-     "chinese": "苛責的;吹毛求疵的"
+     "chinese": "苛責的；吹毛求疵的"
     }
    },
    {
@@ -717,7 +717,7 @@ window.FLASHCARD_UNITS = {
     "word": "chafe",
     "pos": "v.",
     "definition": "To become sore from rubbing; to feel impatient or irritated.",
-    "chinese": "磨破;煩躁",
+    "chinese": "磨破；煩躁",
     "synonyms": "",
     "root": "chaufer (to warm, from Old French)",
     "group": "",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become sore from rubbing; to feel impatient or irritated.",
-     "chinese": "磨破;煩躁"
+     "chinese": "磨破；煩躁"
     }
    },
    {
@@ -755,7 +755,7 @@ window.FLASHCARD_UNITS = {
     "word": "champion",
     "pos": "n./v.",
     "definition": "A person who has won a competition; to support a cause vigorously.",
-    "chinese": "冠軍;擁護",
+    "chinese": "冠軍；擁護",
     "synonyms": "",
     "root": "campio (fighter, from Latin)",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who has won a competition; to support a cause vigorously.",
-     "chinese": "冠軍;擁護"
+     "chinese": "冠軍；擁護"
     }
    },
    {
     "word": "changeable",
     "pos": "adj.",
     "definition": "Likely to change frequently or unpredictably.",
-    "chinese": "易變的;反覆無常的",
+    "chinese": "易變的；反覆無常的",
     "synonyms": "",
     "root": "change + -able",
     "group": "",
@@ -788,7 +788,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Likely to change frequently or unpredictably.",
-     "chinese": "易變的;反覆無常的"
+     "chinese": "易變的；反覆無常的"
     }
    },
    {
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
     "word": "charitable",
     "pos": "adj.",
     "definition": "Generous in giving to those in need; kind and forgiving in judgment.",
-    "chinese": "慈善的;寬容的",
+    "chinese": "慈善的；寬容的",
     "synonyms": "",
     "root": "caritas (charity, from Latin)",
     "group": "",
@@ -902,7 +902,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Generous in giving to those in need; kind and forgiving in judgment.",
-     "chinese": "慈善的;寬容的"
+     "chinese": "慈善的；寬容的"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "charm",
     "pos": "n./v.",
     "definition": "The power to attract or delight; to attract through pleasing qualities.",
-    "chinese": "魅力;吸引",
+    "chinese": "魅力；吸引",
     "synonyms": "",
     "root": "carmen (song, incantation, from Latin)",
     "group": "",
@@ -940,7 +940,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The power to attract or delight; to attract through pleasing qualities.",
-     "chinese": "魅力;吸引"
+     "chinese": "魅力；吸引"
     }
    },
    {
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cataclysmic": ["Relating to a large-scale, violent event.", "劇變性的;大災變的"], "catalyze": ["To charge, inspire.", "促進；激發"], "catastrophe": ["A sudden and widespread disaster.", "大災難"], "catastrophic": ["Disastrous.", "災難性的"], "catechize": ["To instruct through a series of questions and answers, especially in religion.", "以問答方式教導(教義)"], "catechumen": ["A person receiving basic religious instruction before baptism.", "受洗前的初信者"], "categorical": ["Absolute and unconditional; without exception.", "絕對的;斷然的"], "catharsis": ["The process of releasing strong or repressed emotions.", "宣洩;情感淨化"], "cathartic": ["Providing psychological relief through the release of strong emotions.", "宣洩性的;淨化情感的"], "cathect": ["To invest emotional energy in an idea, object, or person.", "投注情感(於某對象)"], "cathected": ["Invested with emotional energy or significance.", "被投注情感的"], "cathexis": ["The concentration of emotional energy on an object, idea, or person.", "情感投注"], "catholic": ["Including a wide variety of things; universal in scope.", "廣泛的;包羅萬象的"], "catholicity": ["The quality of being broad-minded or universal in scope.", "包容性;普遍性"], "catholicon": ["A universal remedy; a cure-all.", "萬靈藥"], "caucus": ["A meeting usually held by people working toward the same goal.", "黨團會議"], "cause": ["A reason for an action or event.", "原因"], "cause célèbre": ["A controversial issue that attracts widespread public attention.", "轟動一時的爭議事件"], "caustic": ["Sarcastic, biting.", "刻薄的"], "caution": ["Care taken to avoid danger or mistakes; to warn.", "謹慎;警告"], "cautious": ["Careful to avoid danger or mistakes.", "謹慎的;小心的"], "cavalcade": ["A procession of people traveling by foot, horse, or vehicles.", "遊行隊伍；車隊"], "cavalier": ["Showing a lack of concern or seriousness.", "漫不經心的；傲慢的"], "caveat emptor": ["The principle that a buyer alone is responsible for checking the quality of goods before purchase.", "買者自慎原則"], "cavil": ["To raise trivial objections; a trivial objection.", "吹毛求疵;無謂的挑剔"], "caviling": ["Raising trivial or unnecessary objections.", "吹毛求疵的"], "cavort": ["To leap about, behave boisterously.", "雀躍嬉鬧；歡騰"], "cedilla": ["A mark (¸) placed under a letter, especially c, to indicate a soft pronunciation.", "軟音符號(如ç)"], "celerity": ["Speed, rapidity.", "迅速；敏捷"], "celestial": ["Relating to the sky or heavens.", "天空的;天體的"], "celsius": ["Relating to a temperature scale where water freezes at 0 degrees and boils at 100.", "攝氏的;攝氏度"], "censor": ["An official who examines material and suppresses unacceptable parts; to suppress in this way.", "審查員;審查"], "censorious": ["Severely critical of others.", "苛責的;吹毛求疵的"], "censurable": ["Deserving of strong criticism or disapproval.", "應受譴責的"], "censure": ["To criticize strongly.", "譴責"], "centenarian": ["A person who is one hundred years old or older.", "百歲人瑞"], "cerebral": ["Related to the intellect.", "大腦的；理性的"], "chafe": ["To become sore from rubbing; to feel impatient or irritated.", "磨破;煩躁"], "chagrin": ["Feeling of disappointment, humiliation.", "懊惱"], "champion": ["A person who has won a competition; to support a cause vigorously.", "冠軍;擁護"], "changeable": ["Likely to change frequently or unpredictably.", "易變的;反覆無常的"], "chaos": ["Absolute disorder.", "混亂；混沌"], "chaparral": ["Dense, thorny shrubland found in dry regions.", "灌木叢林(乾旱地區)"], "chaps": ["Leather leg coverings worn over trousers, especially by cowboys.", "皮製護腿(牛仔用)"], "characterization": ["The way a character is described.", "人物刻畫；描述"], "charisma": ["Quality of leadership inspiring enthusiasm.", "個人魅力"], "charitable": ["Generous in giving to those in need; kind and forgiving in judgment.", "慈善的;寬容的"], "charlatan": ["Pretender, fraud.", "江湖郎中；騙子"], "charm": ["The power to attract or delight; to attract through pleasing qualities.", "魅力;吸引"], "charrette": ["An intensive collaborative planning session, especially in design.", "密集協作設計會議"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cataclysmic": ["Relating to a large-scale, violent event.", "劇變性的；大災變的"], "catalyze": ["To charge, inspire.", "促進；激發"], "catastrophe": ["A sudden and widespread disaster.", "大災難"], "catastrophic": ["Disastrous.", "災難性的"], "catechize": ["To instruct through a series of questions and answers, especially in religion.", "以問答方式教導(教義)"], "catechumen": ["A person receiving basic religious instruction before baptism.", "受洗前的初信者"], "categorical": ["Absolute and unconditional; without exception.", "絕對的；斷然的"], "catharsis": ["The process of releasing strong or repressed emotions.", "宣洩；情感淨化"], "cathartic": ["Providing psychological relief through the release of strong emotions.", "宣洩性的；淨化情感的"], "cathect": ["To invest emotional energy in an idea, object, or person.", "投注情感(於某對象)"], "cathected": ["Invested with emotional energy or significance.", "被投注情感的"], "cathexis": ["The concentration of emotional energy on an object, idea, or person.", "情感投注"], "catholic": ["Including a wide variety of things; universal in scope.", "廣泛的；包羅萬象的"], "catholicity": ["The quality of being broad-minded or universal in scope.", "包容性；普遍性"], "catholicon": ["A universal remedy; a cure-all.", "萬靈藥"], "caucus": ["A meeting usually held by people working toward the same goal.", "黨團會議"], "cause": ["A reason for an action or event.", "原因"], "cause célèbre": ["A controversial issue that attracts widespread public attention.", "轟動一時的爭議事件"], "caustic": ["Sarcastic, biting.", "刻薄的"], "caution": ["Care taken to avoid danger or mistakes; to warn.", "謹慎；警告"], "cautious": ["Careful to avoid danger or mistakes.", "謹慎的；小心的"], "cavalcade": ["A procession of people traveling by foot, horse, or vehicles.", "遊行隊伍；車隊"], "cavalier": ["Showing a lack of concern or seriousness.", "漫不經心的；傲慢的"], "caveat emptor": ["The principle that a buyer alone is responsible for checking the quality of goods before purchase.", "買者自慎原則"], "cavil": ["To raise trivial objections; a trivial objection.", "吹毛求疵；無謂的挑剔"], "caviling": ["Raising trivial or unnecessary objections.", "吹毛求疵的"], "cavort": ["To leap about, behave boisterously.", "雀躍嬉鬧；歡騰"], "cedilla": ["A mark (¸) placed under a letter, especially c, to indicate a soft pronunciation.", "軟音符號(如ç)"], "celerity": ["Speed, rapidity.", "迅速；敏捷"], "celestial": ["Relating to the sky or heavens.", "天空的；天體的"], "celsius": ["Relating to a temperature scale where water freezes at 0 degrees and boils at 100.", "攝氏的；攝氏度"], "censor": ["An official who examines material and suppresses unacceptable parts; to suppress in this way.", "審查員；審查"], "censorious": ["Severely critical of others.", "苛責的；吹毛求疵的"], "censurable": ["Deserving of strong criticism or disapproval.", "應受譴責的"], "censure": ["To criticize strongly.", "譴責"], "centenarian": ["A person who is one hundred years old or older.", "百歲人瑞"], "cerebral": ["Related to the intellect.", "大腦的；理性的"], "chafe": ["To become sore from rubbing; to feel impatient or irritated.", "磨破；煩躁"], "chagrin": ["Feeling of disappointment, humiliation.", "懊惱"], "champion": ["A person who has won a competition; to support a cause vigorously.", "冠軍；擁護"], "changeable": ["Likely to change frequently or unpredictably.", "易變的；反覆無常的"], "chaos": ["Absolute disorder.", "混亂；混沌"], "chaparral": ["Dense, thorny shrubland found in dry regions.", "灌木叢林(乾旱地區)"], "chaps": ["Leather leg coverings worn over trousers, especially by cowboys.", "皮製護腿(牛仔用)"], "characterization": ["The way a character is described.", "人物刻畫；描述"], "charisma": ["Quality of leadership inspiring enthusiasm.", "個人魅力"], "charitable": ["Generous in giving to those in need; kind and forgiving in judgment.", "慈善的；寬容的"], "charlatan": ["Pretender, fraud.", "江湖郎中；騙子"], "charm": ["The power to attract or delight; to attract through pleasing qualities.", "魅力；吸引"], "charrette": ["An intensive collaborative planning session, especially in design.", "密集協作設計會議"]});

@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "archival",
     "pos": "adj.",
     "definition": "Relating to historical documents or records.",
-    "chinese": "檔案的;歷史記錄的",
+    "chinese": "檔案的；歷史記錄的",
     "synonyms": "",
     "root": "archivum (records office, from Latin)",
     "group": "arch = 統治（者）",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to historical documents or records.",
-     "chinese": "檔案的;歷史記錄的"
+     "chinese": "檔案的；歷史記錄的"
     }
    },
    {
     "word": "archive",
     "pos": "n./v.",
     "definition": "A collection of historical documents or records; to store such records.",
-    "chinese": "檔案;存檔",
+    "chinese": "檔案；存檔",
     "synonyms": "",
     "root": "archivum (records office, from Latin)",
     "group": "arch = 統治（者）",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A collection of historical documents or records; to store such records.",
-     "chinese": "檔案;存檔"
+     "chinese": "檔案；存檔"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "matriarch",
     "pos": "n.",
     "definition": "A woman who is the head of a family or tribe.",
-    "chinese": "女家長;女族長",
+    "chinese": "女家長；女族長",
     "synonyms": "",
     "root": "mater (mother) + archein (rule), from Latin and Greek",
     "group": "arch = 統治（者）",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A woman who is the head of a family or tribe.",
-     "chinese": "女家長;女族長"
+     "chinese": "女家長；女族長"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "oligarchy",
     "pos": "n.",
     "definition": "A form of government in which power rests with a small group.",
-    "chinese": "寡頭政治;寡頭統治集團",
+    "chinese": "寡頭政治；寡頭統治集團",
     "synonyms": "",
     "root": "oligos (few) + archein (to rule), from Greek",
     "group": "arch = 統治（者）",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A form of government in which power rests with a small group.",
-     "chinese": "寡頭政治;寡頭統治集團"
+     "chinese": "寡頭政治；寡頭統治集團"
     }
    },
    {
     "word": "patriarch",
     "pos": "n.",
     "definition": "The male head of a family or tribe; a respected senior figure.",
-    "chinese": "族長;宗主教",
+    "chinese": "族長；宗主教",
     "synonyms": "",
     "root": "pater (father) + archein (to rule), from Greek",
     "group": "arch = 統治（者）",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The male head of a family or tribe; a respected senior figure.",
-     "chinese": "族長;宗主教"
+     "chinese": "族長；宗主教"
     }
    }
   ],
@@ -485,4 +485,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"anarchist": ["One who wants to eliminate all government.", "無政府主義者"], "arcane": ["Mysterious or known by few.", "神秘的；隱奧的"], "archetypal": ["The most representative or typical example of something.", "典型的；原型的"], "archival": ["Relating to historical documents or records.", "檔案的;歷史記錄的"], "archive": ["A collection of historical documents or records; to store such records.", "檔案;存檔"], "hierarchy": ["A system with ranked groups.", "階層；等級制度"], "matriarch": ["A woman who is the head of a family or tribe.", "女家長;女族長"], "oligarchic": ["Relating to government by a small group of powerful people.", "寡頭政治的"], "oligarchical": ["Relating to or characteristic of rule by a small elite group.", "寡頭政治的"], "oligarchy": ["A form of government in which power rests with a small group.", "寡頭政治;寡頭統治集團"], "patriarch": ["The male head of a family or tribe; a respected senior figure.", "族長;宗主教"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"anarchist": ["One who wants to eliminate all government.", "無政府主義者"], "arcane": ["Mysterious or known by few.", "神秘的；隱奧的"], "archetypal": ["The most representative or typical example of something.", "典型的；原型的"], "archival": ["Relating to historical documents or records.", "檔案的；歷史記錄的"], "archive": ["A collection of historical documents or records; to store such records.", "檔案；存檔"], "hierarchy": ["A system with ranked groups.", "階層；等級制度"], "matriarch": ["A woman who is the head of a family or tribe.", "女家長；女族長"], "oligarchic": ["Relating to government by a small group of powerful people.", "寡頭政治的"], "oligarchical": ["Relating to or characteristic of rule by a small elite group.", "寡頭政治的"], "oligarchy": ["A form of government in which power rests with a small group.", "寡頭政治；寡頭統治集團"], "patriarch": ["The male head of a family or tribe; a respected senior figure.", "族長；宗主教"]});

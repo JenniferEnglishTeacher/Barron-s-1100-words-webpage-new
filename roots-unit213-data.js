@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "prolonged",
     "pos": "adj.",
     "definition": "Continuing for a long time.",
-    "chinese": "延長的;持久的",
+    "chinese": "延長的；持久的",
     "synonyms": "",
     "root": "prolongare (to lengthen), from Latin pro- (forward) + longus (long)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Continuing for a long time.",
-     "chinese": "延長的;持久的"
+     "chinese": "延長的；持久的"
     }
    },
    {
     "word": "promiscuous",
     "pos": "adj.",
     "definition": "Having many casual sexual relationships; indiscriminate.",
-    "chinese": "濫交的;不加選擇的",
+    "chinese": "濫交的；不加選擇的",
     "synonyms": "",
     "root": "promiscuus (mixed, indiscriminate), from Latin pro- (forth) + miscere (to mix)",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having many casual sexual relationships; indiscriminate.",
-     "chinese": "濫交的;不加選擇的"
+     "chinese": "濫交的；不加選擇的"
     }
    },
    {
     "word": "promulgation",
     "pos": "n.",
     "definition": "The act of formally announcing or putting a law into effect.",
-    "chinese": "頒布;公布",
+    "chinese": "頒布；公布",
     "synonyms": "",
     "root": "promulgare (to make publicly known), from Latin pro- (forth) + mulgere (to bring out)",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of formally announcing or putting a law into effect.",
-     "chinese": "頒布;公布"
+     "chinese": "頒布；公布"
     }
    },
    {
     "word": "promulgator",
     "pos": "n.",
     "definition": "A person who formally proclaims or puts a law into effect.",
-    "chinese": "頒布者;推行者",
+    "chinese": "頒布者；推行者",
     "synonyms": "",
     "root": "promulgare (to make publicly known), from Latin pro- (forth) + mulgere (to bring out)",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who formally proclaims or puts a law into effect.",
-     "chinese": "頒布者;推行者"
+     "chinese": "頒布者；推行者"
     }
    },
    {
     "word": "prone",
     "pos": "adj.",
     "definition": "Likely to suffer from or do something; lying flat, face down.",
-    "chinese": "易於……的;俯臥的",
+    "chinese": "易於……的；俯臥的",
     "synonyms": "",
     "root": "pronus (bent forward), from Latin",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Likely to suffer from or do something; lying flat, face down.",
-     "chinese": "易於……的;俯臥的"
+     "chinese": "易於……的；俯臥的"
     }
    },
    {
     "word": "pronto",
     "pos": "adv.",
     "definition": "Promptly or quickly (informal).",
-    "chinese": "立刻;馬上(非正式)",
+    "chinese": "立刻；馬上(非正式)",
     "synonyms": "",
     "root": "pronto (ready, quick), from Spanish, from Latin promptus",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Promptly or quickly (informal).",
-     "chinese": "立刻;馬上(非正式)"
+     "chinese": "立刻；馬上(非正式)"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "propitiate",
     "pos": "v.",
     "definition": "To win favor or appease someone by doing something pleasing.",
-    "chinese": "安撫;討好",
+    "chinese": "安撫；討好",
     "synonyms": "",
     "root": "propitiare (to appease), from Latin propitius (favorable)",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To win favor or appease someone by doing something pleasing.",
-     "chinese": "安撫;討好"
+     "chinese": "安撫；討好"
     }
    },
    {
     "word": "propitiation",
     "pos": "n.",
     "definition": "The act of appeasing or winning the favor of someone.",
-    "chinese": "安撫;討好行為",
+    "chinese": "安撫；討好行為",
     "synonyms": "",
     "root": "propitiare (to appease), from Latin propitius (favorable)",
     "group": "",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of appeasing or winning the favor of someone.",
-     "chinese": "安撫;討好行為"
+     "chinese": "安撫；討好行為"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "prorogue",
     "pos": "v.",
     "definition": "To discontinue a session of a legislative body without dissolving it.",
-    "chinese": "休會;休止",
+    "chinese": "休會；休止",
     "synonyms": "",
     "root": "prorogare (to prolong), from Latin pro- (forward) + rogare (to ask)",
     "group": "",
@@ -265,7 +265,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To discontinue a session of a legislative body without dissolving it.",
-     "chinese": "休會;休止"
+     "chinese": "休會；休止"
     }
    },
    {
@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     "word": "proselyte",
     "pos": "n.",
     "definition": "A person who has converted to a different religion or belief.",
-    "chinese": "改信者;皈依者",
+    "chinese": "改信者；皈依者",
     "synonyms": "",
     "root": "proselytos (newcomer, convert), from Greek pros- (toward) + elthein (to come)",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who has converted to a different religion or belief.",
-     "chinese": "改信者;皈依者"
+     "chinese": "改信者；皈依者"
     }
    },
    {
     "word": "proselytize",
     "pos": "v.",
     "definition": "To attempt to convert someone to a religion or belief.",
-    "chinese": "勸人改信;傳教",
+    "chinese": "勸人改信；傳教",
     "synonyms": "",
     "root": "proselytos (newcomer, convert), from Greek pros- (toward) + elthein (to come)",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To attempt to convert someone to a religion or belief.",
-     "chinese": "勸人改信;傳教"
+     "chinese": "勸人改信；傳教"
     }
    },
    {
     "word": "prosperity",
     "pos": "n.",
     "definition": "The state of being successful, especially financially.",
-    "chinese": "繁榮;興旺",
+    "chinese": "繁榮；興旺",
     "synonyms": "",
     "root": "prosperare (to cause to succeed), from Latin prosperus (favorable)",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being successful, especially financially.",
-     "chinese": "繁榮;興旺"
+     "chinese": "繁榮；興旺"
     }
    },
    {
     "word": "prosperous",
     "pos": "adj.",
     "definition": "Successful, especially financially.",
-    "chinese": "繁榮的;興旺的",
+    "chinese": "繁榮的；興旺的",
     "synonyms": "",
     "root": "prosperus (favorable), from Latin",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Successful, especially financially.",
-     "chinese": "繁榮的;興旺的"
+     "chinese": "繁榮的；興旺的"
     }
    },
    {
     "word": "prostate",
     "pos": "n.",
     "definition": "A gland in male mammals surrounding the neck of the bladder.",
-    "chinese": "攝護腺;前列腺",
+    "chinese": "攝護腺；前列腺",
     "synonyms": "",
     "root": "prostates (one who stands before), from Greek pro- (before) + histanai (to stand)",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A gland in male mammals surrounding the neck of the bladder.",
-     "chinese": "攝護腺;前列腺"
+     "chinese": "攝護腺；前列腺"
     }
    },
    {
     "word": "prostrate",
     "pos": "adj./v.",
     "definition": "Lying face down; overcome with exhaustion or grief; to throw oneself down.",
-    "chinese": "俯臥的;使屈服",
+    "chinese": "俯臥的；使屈服",
     "synonyms": "",
     "root": "prosternere (to throw down before), from Latin pro- (before) + sternere (to spread)",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lying face down; overcome with exhaustion or grief; to throw oneself down.",
-     "chinese": "俯臥的;使屈服"
+     "chinese": "俯臥的；使屈服"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "protocol",
     "pos": "n.",
     "definition": "A system of rules governing official or diplomatic conduct.",
-    "chinese": "禮儀規範;議定書",
+    "chinese": "禮儀規範；議定書",
     "synonyms": "",
     "root": "protokollon (first page glued to a manuscript), from Greek protos (first) + kolla (glue)",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A system of rules governing official or diplomatic conduct.",
-     "chinese": "禮儀規範;議定書"
+     "chinese": "禮儀規範；議定書"
     }
    },
    {
     "word": "prototype",
     "pos": "n.",
     "definition": "An original model on which later versions are based.",
-    "chinese": "原型;雛型",
+    "chinese": "原型；雛型",
     "synonyms": "",
     "root": "protos (first) + typos (impression), from Greek",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An original model on which later versions are based.",
-     "chinese": "原型;雛型"
+     "chinese": "原型；雛型"
     }
    },
    {
     "word": "protuberance",
     "pos": "n.",
     "definition": "A part that bulges out from a surrounding surface.",
-    "chinese": "隆起;凸起物",
+    "chinese": "隆起；凸起物",
     "synonyms": "",
     "root": "protuberare (to swell), from Latin pro- (forward) + tuber (bump, swelling)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A part that bulges out from a surrounding surface.",
-     "chinese": "隆起;凸起物"
+     "chinese": "隆起；凸起物"
     }
    },
    {
     "word": "protuberant",
     "pos": "adj.",
     "definition": "Bulging out from a surrounding surface.",
-    "chinese": "凸出的;隆起的",
+    "chinese": "凸出的；隆起的",
     "synonyms": "",
     "root": "protuberare (to swell), from Latin pro- (forward) + tuber (bump, swelling)",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bulging out from a surrounding surface.",
-     "chinese": "凸出的;隆起的"
+     "chinese": "凸出的；隆起的"
     }
    },
    {
     "word": "provenance",
     "pos": "n.",
     "definition": "The place of origin or history of ownership of an object.",
-    "chinese": "來源;出處",
+    "chinese": "來源；出處",
     "synonyms": "",
     "root": "provenire (to come forth), from Latin pro- (forth) + venire (to come)",
     "group": "",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The place of origin or history of ownership of an object.",
-     "chinese": "來源;出處"
+     "chinese": "來源；出處"
     }
    },
    {
     "word": "proverb",
     "pos": "n.",
     "definition": "A short, well-known saying expressing a general truth or piece of advice.",
-    "chinese": "諺語;格言",
+    "chinese": "諺語；格言",
     "synonyms": "",
     "root": "proverbium (a common saying), from Latin pro- (forth) + verbum (word)",
     "group": "",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A short, well-known saying expressing a general truth or piece of advice.",
-     "chinese": "諺語;格言"
+     "chinese": "諺語；格言"
     }
    },
    {
     "word": "provincial",
     "pos": "adj.",
     "definition": "Relating to a province; having a narrow or unsophisticated outlook.",
-    "chinese": "省的;鄉土氣的",
+    "chinese": "省的；鄉土氣的",
     "synonyms": "",
     "root": "provincia (province), from Latin",
     "group": "",
@@ -590,7 +590,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a province; having a narrow or unsophisticated outlook.",
-     "chinese": "省的;鄉土氣的"
+     "chinese": "省的；鄉土氣的"
     }
    },
    {
@@ -692,7 +692,7 @@ window.FLASHCARD_UNITS = {
     "word": "prudish",
     "pos": "adj.",
     "definition": "Excessively concerned with propriety, especially in sexual matters.",
-    "chinese": "拘謹保守的;過分正經的",
+    "chinese": "拘謹保守的；過分正經的",
     "synonyms": "",
     "root": "prude, from French prude (excessively proper), possibly from prudefemme",
     "group": "",
@@ -704,7 +704,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively concerned with propriety, especially in sexual matters.",
-     "chinese": "拘謹保守的;過分正經的"
+     "chinese": "拘謹保守的；過分正經的"
     }
    },
    {
@@ -730,7 +730,7 @@ window.FLASHCARD_UNITS = {
     "word": "précis",
     "pos": "n.",
     "definition": "A concise summary of the essential points of a text.",
-    "chinese": "摘要;概要",
+    "chinese": "摘要；概要",
     "synonyms": "",
     "root": "précis (precise, exact), from French, from Latin praecisus (cut short)",
     "group": "",
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A concise summary of the essential points of a text.",
-     "chinese": "摘要;概要"
+     "chinese": "摘要；概要"
     }
    },
    {
@@ -806,7 +806,7 @@ window.FLASHCARD_UNITS = {
     "word": "pseudonym",
     "pos": "n.",
     "definition": "A fictitious name, especially used by an author.",
-    "chinese": "筆名;化名",
+    "chinese": "筆名；化名",
     "synonyms": "",
     "root": "pseudo- (false) + onyma (name), from Greek",
     "group": "",
@@ -818,7 +818,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fictitious name, especially used by an author.",
-     "chinese": "筆名;化名"
+     "chinese": "筆名；化名"
     }
    },
    {
@@ -920,7 +920,7 @@ window.FLASHCARD_UNITS = {
     "word": "psychosomatic",
     "pos": "adj.",
     "definition": "Relating to a physical illness caused or aggravated by mental stress.",
-    "chinese": "身心性的;心因性的",
+    "chinese": "身心性的；心因性的",
     "synonyms": "",
     "root": "psyche (mind) + soma (body), from Greek",
     "group": "",
@@ -932,14 +932,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a physical illness caused or aggravated by mental stress.",
-     "chinese": "身心性的;心因性的"
+     "chinese": "身心性的；心因性的"
     }
    },
    {
     "word": "publicize",
     "pos": "v.",
     "definition": "To bring to public attention.",
-    "chinese": "宣傳;公開",
+    "chinese": "宣傳；公開",
     "synonyms": "",
     "root": "public, from Latin publicus + -ize",
     "group": "",
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To bring to public attention.",
-     "chinese": "宣傳;公開"
+     "chinese": "宣傳；公開"
     }
    }
   ],
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prolix": ["Tediously lengthy in speech or writing.", "冗長囉唆的"], "prolonged": ["Continuing for a long time.", "延長的;持久的"], "promiscuous": ["Having many casual sexual relationships; indiscriminate.", "濫交的;不加選擇的"], "promulgation": ["The act of formally announcing or putting a law into effect.", "頒布;公布"], "promulgator": ["A person who formally proclaims or puts a law into effect.", "頒布者;推行者"], "prone": ["Likely to suffer from or do something; lying flat, face down.", "易於……的;俯臥的"], "pronto": ["Promptly or quickly (informal).", "立刻;馬上(非正式)"], "pronunciation": ["The way in which a word is spoken.", "發音"], "prophesy": ["To predict future events, especially through divine inspiration.", "預言"], "propinquity": ["Nearness in time or place.", "接近；鄰近"], "propitiate": ["To win favor or appease someone by doing something pleasing.", "安撫;討好"], "propitiation": ["The act of appeasing or winning the favor of someone.", "安撫;討好行為"], "propriety": ["Suitability, correctness.", "得體；適當"], "prorogue": ["To discontinue a session of a legislative body without dissolving it.", "休會;休止"], "prosaic": ["Dull; commonplace.", "平凡乏味的"], "prose": ["Written or spoken language in its ordinary form, without meter.", "散文"], "proselyte": ["A person who has converted to a different religion or belief.", "改信者;皈依者"], "proselytize": ["To attempt to convert someone to a religion or belief.", "勸人改信;傳教"], "prosperity": ["The state of being successful, especially financially.", "繁榮;興旺"], "prosperous": ["Successful, especially financially.", "繁榮的;興旺的"], "prostate": ["A gland in male mammals surrounding the neck of the bladder.", "攝護腺;前列腺"], "prostrate": ["Lying face down; overcome with exhaustion or grief; to throw oneself down.", "俯臥的;使屈服"], "protean": ["Able to change shape; displaying great variety.", "善變的；多變的"], "protest": ["A strong expression of disagreement; to object publicly.", "抗議"], "protocol": ["A system of rules governing official or diplomatic conduct.", "禮儀規範;議定書"], "prototype": ["An original model on which later versions are based.", "原型;雛型"], "protuberance": ["A part that bulges out from a surrounding surface.", "隆起;凸起物"], "protuberant": ["Bulging out from a surrounding surface.", "凸出的;隆起的"], "provenance": ["The place of origin or history of ownership of an object.", "來源;出處"], "proverb": ["A short, well-known saying expressing a general truth or piece of advice.", "諺語;格言"], "provincial": ["Relating to a province; having a narrow or unsophisticated outlook.", "省的;鄉土氣的"], "prowess": ["Extraordinary ability.", "非凡的能力；英勇"], "proximity": ["Nearness.", "接近；鄰近"], "prudence": ["Cautious, circumspect judgment.", "審慎；謹慎"], "prudent": ["Wise, cautious.", "謹慎的；明智的"], "prudently": ["In a wise or careful manner.", "謹慎地；明智地"], "prudish": ["Excessively concerned with propriety, especially in sexual matters.", "拘謹保守的;過分正經的"], "prurient": ["Eliciting an extraordinary interest in sex.", "好色的；淫穢的"], "précis": ["A concise summary of the essential points of a text.", "摘要;概要"], "pseudandrist": ["A person with a hatred or distrust of the falsely masculine or of pretentious men.", "厭偽男性者(罕見詞)"], "pseudandry": ["A hatred or distrust of falsely masculine behavior or pretentious men.", "厭偽男性(罕見詞)"], "pseudogyny": ["A hatred or distrust of falsely feminine behavior or affectation.", "厭偽女性(罕見詞)"], "pseudonym": ["A fictitious name, especially used by an author.", "筆名;化名"], "psttiacine": ["Relating to or resembling parrots.", "似鸚鵡的"], "psychiatrist": ["A medical doctor specializing in mental and emotional illness.", "精神科醫師"], "psychiatry": ["The diagnosis and treatment of mental disorders.", "精神病學"], "psychoanalyst": ["A licensed practitioner of psychoanalysis.", "精神分析師"], "psychosis": ["A severe mental illness involving a loss of contact with reality.", "精神病"], "psychosomatic": ["Relating to a physical illness caused or aggravated by mental stress.", "身心性的;心因性的"], "publicize": ["To bring to public attention.", "宣傳;公開"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prolix": ["Tediously lengthy in speech or writing.", "冗長囉唆的"], "prolonged": ["Continuing for a long time.", "延長的；持久的"], "promiscuous": ["Having many casual sexual relationships; indiscriminate.", "濫交的；不加選擇的"], "promulgation": ["The act of formally announcing or putting a law into effect.", "頒布；公布"], "promulgator": ["A person who formally proclaims or puts a law into effect.", "頒布者；推行者"], "prone": ["Likely to suffer from or do something; lying flat, face down.", "易於……的；俯臥的"], "pronto": ["Promptly or quickly (informal).", "立刻；馬上(非正式)"], "pronunciation": ["The way in which a word is spoken.", "發音"], "prophesy": ["To predict future events, especially through divine inspiration.", "預言"], "propinquity": ["Nearness in time or place.", "接近；鄰近"], "propitiate": ["To win favor or appease someone by doing something pleasing.", "安撫；討好"], "propitiation": ["The act of appeasing or winning the favor of someone.", "安撫；討好行為"], "propriety": ["Suitability, correctness.", "得體；適當"], "prorogue": ["To discontinue a session of a legislative body without dissolving it.", "休會；休止"], "prosaic": ["Dull; commonplace.", "平凡乏味的"], "prose": ["Written or spoken language in its ordinary form, without meter.", "散文"], "proselyte": ["A person who has converted to a different religion or belief.", "改信者；皈依者"], "proselytize": ["To attempt to convert someone to a religion or belief.", "勸人改信；傳教"], "prosperity": ["The state of being successful, especially financially.", "繁榮；興旺"], "prosperous": ["Successful, especially financially.", "繁榮的；興旺的"], "prostate": ["A gland in male mammals surrounding the neck of the bladder.", "攝護腺；前列腺"], "prostrate": ["Lying face down; overcome with exhaustion or grief; to throw oneself down.", "俯臥的；使屈服"], "protean": ["Able to change shape; displaying great variety.", "善變的；多變的"], "protest": ["A strong expression of disagreement; to object publicly.", "抗議"], "protocol": ["A system of rules governing official or diplomatic conduct.", "禮儀規範；議定書"], "prototype": ["An original model on which later versions are based.", "原型；雛型"], "protuberance": ["A part that bulges out from a surrounding surface.", "隆起；凸起物"], "protuberant": ["Bulging out from a surrounding surface.", "凸出的；隆起的"], "provenance": ["The place of origin or history of ownership of an object.", "來源；出處"], "proverb": ["A short, well-known saying expressing a general truth or piece of advice.", "諺語；格言"], "provincial": ["Relating to a province; having a narrow or unsophisticated outlook.", "省的；鄉土氣的"], "prowess": ["Extraordinary ability.", "非凡的能力；英勇"], "proximity": ["Nearness.", "接近；鄰近"], "prudence": ["Cautious, circumspect judgment.", "審慎；謹慎"], "prudent": ["Wise, cautious.", "謹慎的；明智的"], "prudently": ["In a wise or careful manner.", "謹慎地；明智地"], "prudish": ["Excessively concerned with propriety, especially in sexual matters.", "拘謹保守的；過分正經的"], "prurient": ["Eliciting an extraordinary interest in sex.", "好色的；淫穢的"], "précis": ["A concise summary of the essential points of a text.", "摘要；概要"], "pseudandrist": ["A person with a hatred or distrust of the falsely masculine or of pretentious men.", "厭偽男性者(罕見詞)"], "pseudandry": ["A hatred or distrust of falsely masculine behavior or pretentious men.", "厭偽男性(罕見詞)"], "pseudogyny": ["A hatred or distrust of falsely feminine behavior or affectation.", "厭偽女性(罕見詞)"], "pseudonym": ["A fictitious name, especially used by an author.", "筆名；化名"], "psttiacine": ["Relating to or resembling parrots.", "似鸚鵡的"], "psychiatrist": ["A medical doctor specializing in mental and emotional illness.", "精神科醫師"], "psychiatry": ["The diagnosis and treatment of mental disorders.", "精神病學"], "psychoanalyst": ["A licensed practitioner of psychoanalysis.", "精神分析師"], "psychosis": ["A severe mental illness involving a loss of contact with reality.", "精神病"], "psychosomatic": ["Relating to a physical illness caused or aggravated by mental stress.", "身心性的；心因性的"], "publicize": ["To bring to public attention.", "宣傳；公開"]});

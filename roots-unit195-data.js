@@ -27,7 +27,7 @@ window.FLASHCARD_UNITS = {
     "word": "knave",
     "pos": "n.",
     "definition": "A dishonest or unscrupulous man.",
-    "chinese": "無賴;惡棍",
+    "chinese": "無賴；惡棍",
     "synonyms": "",
     "root": "cnafa (boy, servant), from Old English",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dishonest or unscrupulous man.",
-     "chinese": "無賴;惡棍"
+     "chinese": "無賴；惡棍"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "knickknack",
     "pos": "n.",
     "definition": "A small decorative object of little value.",
-    "chinese": "小擺飾;小玩意兒",
+    "chinese": "小擺飾；小玩意兒",
     "synonyms": "",
     "root": "reduplication of knack, of uncertain origin",
     "group": "",
@@ -79,7 +79,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small decorative object of little value.",
-     "chinese": "小擺飾;小玩意兒"
+     "chinese": "小擺飾；小玩意兒"
     }
    },
    {
@@ -145,7 +145,7 @@ window.FLASHCARD_UNITS = {
     "word": "laborious",
     "pos": "adj.",
     "definition": "Requiring considerable time and effort.",
-    "chinese": "費力的;辛苦的",
+    "chinese": "費力的；辛苦的",
     "synonyms": "",
     "root": "labor (work, toil), from Latin",
     "group": "",
@@ -157,7 +157,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Requiring considerable time and effort.",
-     "chinese": "費力的;辛苦的"
+     "chinese": "費力的；辛苦的"
     }
    },
    {
@@ -202,7 +202,7 @@ window.FLASHCARD_UNITS = {
     "word": "lacerate",
     "pos": "v.",
     "definition": "To deeply cut or tear flesh; to harshly criticize.",
-    "chinese": "撕裂;猛烈抨擊",
+    "chinese": "撕裂；猛烈抨擊",
     "synonyms": "",
     "root": "lacerare (to tear), from Latin",
     "group": "",
@@ -214,7 +214,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deeply cut or tear flesh; to harshly criticize.",
-     "chinese": "撕裂;猛烈抨擊"
+     "chinese": "撕裂；猛烈抨擊"
     }
    },
    {
@@ -240,7 +240,7 @@ window.FLASHCARD_UNITS = {
     "word": "lachrymose",
     "pos": "adj.",
     "definition": "Tearful or given to crying.",
-    "chinese": "愛哭的;悲傷的",
+    "chinese": "愛哭的；悲傷的",
     "synonyms": "",
     "root": "lacrima (tear), from Latin",
     "group": "",
@@ -252,14 +252,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tearful or given to crying.",
-     "chinese": "愛哭的;悲傷的"
+     "chinese": "愛哭的；悲傷的"
     }
    },
    {
     "word": "lackadaisical",
     "pos": "adj.",
     "definition": "Lacking enthusiasm or determination.",
-    "chinese": "懶散的;無精打采的",
+    "chinese": "懶散的；無精打采的",
     "synonyms": "",
     "root": "lackaday (an exclamation of regret), from Middle English",
     "group": "",
@@ -271,14 +271,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking enthusiasm or determination.",
-     "chinese": "懶散的;無精打采的"
+     "chinese": "懶散的；無精打采的"
     }
    },
    {
     "word": "lackey",
     "pos": "n.",
     "definition": "A servile follower or servant.",
-    "chinese": "跟班;走狗",
+    "chinese": "跟班；走狗",
     "synonyms": "",
     "root": "alcayde (governor), from Arabic, via French laquais",
     "group": "",
@@ -292,7 +292,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A servile follower or servant.",
-     "chinese": "跟班;走狗"
+     "chinese": "跟班；走狗"
     }
    },
    {
@@ -356,7 +356,7 @@ window.FLASHCARD_UNITS = {
     "word": "lacuna",
     "pos": "n.",
     "definition": "A gap or missing part, especially in a text.",
-    "chinese": "空白;缺漏",
+    "chinese": "空白；缺漏",
     "synonyms": "",
     "root": "lacuna (pool, gap), from Latin",
     "group": "",
@@ -368,14 +368,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A gap or missing part, especially in a text.",
-     "chinese": "空白;缺漏"
+     "chinese": "空白；缺漏"
     }
    },
    {
     "word": "laden",
     "pos": "adj.",
     "definition": "Heavily loaded or weighed down.",
-    "chinese": "滿載的;負荷沉重的",
+    "chinese": "滿載的；負荷沉重的",
     "synonyms": "",
     "root": "hladan (to load), from Old English",
     "group": "",
@@ -387,14 +387,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Heavily loaded or weighed down.",
-     "chinese": "滿載的;負荷沉重的"
+     "chinese": "滿載的；負荷沉重的"
     }
    },
    {
     "word": "lagniappe",
     "pos": "n.",
     "definition": "A small unexpected gift or bonus given with a purchase.",
-    "chinese": "額外贈品;意外小禮",
+    "chinese": "額外贈品；意外小禮",
     "synonyms": "",
     "root": "la ñapa, from Spanish, via Louisiana French",
     "group": "",
@@ -406,7 +406,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small unexpected gift or bonus given with a purchase.",
-     "chinese": "額外贈品;意外小禮"
+     "chinese": "額外贈品；意外小禮"
     }
    },
    {
@@ -432,7 +432,7 @@ window.FLASHCARD_UNITS = {
     "word": "laity",
     "pos": "n.",
     "definition": "Ordinary people not belonging to the clergy or a particular profession.",
-    "chinese": "俗眾;非專業人士",
+    "chinese": "俗眾；非專業人士",
     "synonyms": "",
     "root": "laikos (of the people), from Greek",
     "group": "",
@@ -444,14 +444,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Ordinary people not belonging to the clergy or a particular profession.",
-     "chinese": "俗眾;非專業人士"
+     "chinese": "俗眾；非專業人士"
     }
    },
    {
     "word": "lambent",
     "pos": "adj.",
     "definition": "Glowing or flickering softly; light and brilliant.",
-    "chinese": "微光閃爍的;柔和發光的",
+    "chinese": "微光閃爍的；柔和發光的",
     "synonyms": "",
     "root": "lambere (to lick), from Latin",
     "group": "",
@@ -463,7 +463,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Glowing or flickering softly; light and brilliant.",
-     "chinese": "微光閃爍的;柔和發光的"
+     "chinese": "微光閃爍的；柔和發光的"
     }
    },
    {
@@ -491,7 +491,7 @@ window.FLASHCARD_UNITS = {
     "word": "lamentable",
     "pos": "adj.",
     "definition": "Causing or deserving sorrow or disappointment.",
-    "chinese": "令人惋惜的;悲慘的",
+    "chinese": "令人惋惜的；悲慘的",
     "synonyms": "",
     "root": "lamentari (to weep, wail), from Latin",
     "group": "",
@@ -503,7 +503,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing or deserving sorrow or disappointment.",
-     "chinese": "令人惋惜的;悲慘的"
+     "chinese": "令人惋惜的；悲慘的"
     }
    },
    {
@@ -569,7 +569,7 @@ window.FLASHCARD_UNITS = {
     "word": "languish",
     "pos": "v.",
     "definition": "To lose strength or vitality; to remain in a difficult situation.",
-    "chinese": "衰弱;虛度時光",
+    "chinese": "衰弱；虛度時光",
     "synonyms": "",
     "root": "languere (to be faint, weak), from Latin",
     "group": "",
@@ -583,7 +583,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To lose strength or vitality; to remain in a difficult situation.",
-     "chinese": "衰弱;虛度時光"
+     "chinese": "衰弱；虛度時光"
     }
    },
    {
@@ -609,7 +609,7 @@ window.FLASHCARD_UNITS = {
     "word": "languorous",
     "pos": "adj.",
     "definition": "Having a pleasant feeling of weariness or laziness.",
-    "chinese": "慵懶的;倦怠的",
+    "chinese": "慵懶的；倦怠的",
     "synonyms": "",
     "root": "languere (to be faint, weak), from Latin",
     "group": "",
@@ -621,14 +621,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a pleasant feeling of weariness or laziness.",
-     "chinese": "慵懶的;倦怠的"
+     "chinese": "慵懶的；倦怠的"
     }
    },
    {
     "word": "laodicean",
     "pos": "adj.",
     "definition": "Lukewarm or indifferent, especially in religion or politics.",
-    "chinese": "不冷不熱的;漠不關心的",
+    "chinese": "不冷不熱的；漠不關心的",
     "synonyms": "",
     "root": "named after Laodicea, a biblical city criticized for lukewarm faith",
     "group": "",
@@ -640,14 +640,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lukewarm or indifferent, especially in religion or politics.",
-     "chinese": "不冷不熱的;漠不關心的"
+     "chinese": "不冷不熱的；漠不關心的"
     }
    },
    {
     "word": "lapidary",
     "pos": "n./adj.",
     "definition": "A person who cuts and polishes gemstones; relating to precise, polished writing.",
-    "chinese": "寶石工匠;精雕細琢的",
+    "chinese": "寶石工匠；精雕細琢的",
     "synonyms": "",
     "root": "lapis (stone), from Latin",
     "group": "",
@@ -659,14 +659,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who cuts and polishes gemstones; relating to precise, polished writing.",
-     "chinese": "寶石工匠;精雕細琢的"
+     "chinese": "寶石工匠；精雕細琢的"
     }
    },
    {
     "word": "lapse",
     "pos": "n./v.",
     "definition": "A temporary failure or slip; to gradually decline.",
-    "chinese": "失誤;疏忽",
+    "chinese": "失誤；疏忽",
     "synonyms": "",
     "root": "labi (to slip), from Latin",
     "group": "",
@@ -678,14 +678,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A temporary failure or slip; to gradually decline.",
-     "chinese": "失誤;疏忽"
+     "chinese": "失誤；疏忽"
     }
    },
    {
     "word": "lapsus",
     "pos": "n.",
     "definition": "A slip or minor error, especially of the tongue or pen.",
-    "chinese": "筆誤;口誤",
+    "chinese": "筆誤；口誤",
     "synonyms": "",
     "root": "labi (to slip), from Latin",
     "group": "",
@@ -697,7 +697,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A slip or minor error, especially of the tongue or pen.",
-     "chinese": "筆誤;口誤"
+     "chinese": "筆誤；口誤"
     }
    },
    {
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "word": "lascivious",
     "pos": "adj.",
     "definition": "Feeling or expressing excessive sexual desire.",
-    "chinese": "淫蕩的;好色的",
+    "chinese": "淫蕩的；好色的",
     "synonyms": "",
     "root": "lascivus (playful, lustful), from Latin",
     "group": "",
@@ -754,7 +754,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling or expressing excessive sexual desire.",
-     "chinese": "淫蕩的;好色的"
+     "chinese": "淫蕩的；好色的"
     }
    },
    {
@@ -799,7 +799,7 @@ window.FLASHCARD_UNITS = {
     "word": "lasso",
     "pos": "n./v.",
     "definition": "A rope with a noose used to catch animals; to catch with such a rope.",
-    "chinese": "套索;用套索捕捉",
+    "chinese": "套索；用套索捕捉",
     "synonyms": "",
     "root": "lazo (tie, bond), from Spanish",
     "group": "",
@@ -811,7 +811,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rope with a noose used to catch animals; to catch with such a rope.",
-     "chinese": "套索;用套索捕捉"
+     "chinese": "套索；用套索捕捉"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"kleptomania": ["An obsessive urge to steal, especially without economic motive.", "偷竊癖"], "knave": ["A dishonest or unscrupulous man.", "無賴;惡棍"], "knell": ["The solemn sound of a bell, often indicating a death.", "喪鐘"], "knickknack": ["A small decorative object of little value.", "小擺飾;小玩意兒"], "knight": ["A person of noble birth trained to arms and chivalry.", "騎士"], "ku klux klan": ["A white supremacist hate group in the United States.", "三K黨(美國白人至上主義組織)"], "kudos": ["Praise for an achievement.", "讚譽；榮耀"], "laborious": ["Requiring considerable time and effort.", "費力的;辛苦的"], "labyrinth": ["Maze, arrangement of winding passages.", "迷宮；錯綜複雜的事物"], "labyrinthine": ["Complicated and highly intricate.", "錯綜複雜如迷宮的"], "lacerate": ["To deeply cut or tear flesh; to harshly criticize.", "撕裂;猛烈抨擊"], "laceration": ["Jagged wound.", "撕裂傷"], "lachrymose": ["Tearful or given to crying.", "愛哭的;悲傷的"], "lackadaisical": ["Lacking enthusiasm or determination.", "懶散的;無精打采的"], "lackey": ["A servile follower or servant.", "跟班;走狗"], "lacking": ["Not having enough of something.", "缺乏的"], "lackluster": ["Dull.", "缺乏光澤的"], "laconic": ["Expressing much in few words.", "簡潔的"], "lacuna": ["A gap or missing part, especially in a text.", "空白;缺漏"], "laden": ["Heavily loaded or weighed down.", "滿載的;負荷沉重的"], "lagniappe": ["A small unexpected gift or bonus given with a purchase.", "額外贈品;意外小禮"], "laissez-faire": ["A policy of noninterference, especially in economic matters.", "自由放任(政策)"], "laity": ["Ordinary people not belonging to the clergy or a particular profession.", "俗眾;非專業人士"], "lambent": ["Glowing or flickering softly; light and brilliant.", "微光閃爍的;柔和發光的"], "lament": ["To express grief or sorrow.", "哀悼；悲嘆"], "lamentable": ["Causing or deserving sorrow or disappointment.", "令人惋惜的;悲慘的"], "lampoon": ["To ridicule.", "諷刺；嘲弄"], "landmark": ["Historic, turning point of a period.", "里程碑；劃時代的"], "languid": ["Sluggish from fatigue or weakness.", "倦怠的；慵懶的"], "languish": ["To lose strength or vitality; to remain in a difficult situation.", "衰弱;虛度時光"], "languor": ["Weak or lifeless feeling.", "倦怠"], "languorous": ["Having a pleasant feeling of weariness or laziness.", "慵懶的;倦怠的"], "laodicean": ["Lukewarm or indifferent, especially in religion or politics.", "不冷不熱的;漠不關心的"], "lapidary": ["A person who cuts and polishes gemstones; relating to precise, polished writing.", "寶石工匠;精雕細琢的"], "lapse": ["A temporary failure or slip; to gradually decline.", "失誤;疏忽"], "lapsus": ["A slip or minor error, especially of the tongue or pen.", "筆誤;口誤"], "largess": ["Liberality, gift, gratuity.", "慷慨的贈與"], "lariat": ["A long rope with a noose, used to catch livestock.", "套索"], "lascivious": ["Feeling or expressing excessive sexual desire.", "淫蕩的;好色的"], "lassitude": ["Weariness, weakness.", "疲倦；無精打采"], "lasso": ["A rope with a noose used to catch animals; to catch with such a rope.", "套索;用套索捕捉"], "latent": ["Lying hidden.", "潛在的；隱伏的"], "laud": ["To praise; extol.", "稱讚"], "laudable": ["Praiseworthy.", "值得讚賞的"], "laudanum": ["A tincture of opium formerly used as a medicine.", "鴉片酊(舊時藥物)"], "laudatory": ["Expressing admiration or praise.", "讚揚的；稱頌的"], "lavish": ["Generous in giving to others or in spending money.", "慷慨的；奢華的"], "lax": ["Careless, negligent.", "鬆懈的；馬虎的"], "lazy": ["Unwilling to work or use energy.", "懶惰的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"kleptomania": ["An obsessive urge to steal, especially without economic motive.", "偷竊癖"], "knave": ["A dishonest or unscrupulous man.", "無賴；惡棍"], "knell": ["The solemn sound of a bell, often indicating a death.", "喪鐘"], "knickknack": ["A small decorative object of little value.", "小擺飾；小玩意兒"], "knight": ["A person of noble birth trained to arms and chivalry.", "騎士"], "ku klux klan": ["A white supremacist hate group in the United States.", "三K黨(美國白人至上主義組織)"], "kudos": ["Praise for an achievement.", "讚譽；榮耀"], "laborious": ["Requiring considerable time and effort.", "費力的；辛苦的"], "labyrinth": ["Maze, arrangement of winding passages.", "迷宮；錯綜複雜的事物"], "labyrinthine": ["Complicated and highly intricate.", "錯綜複雜如迷宮的"], "lacerate": ["To deeply cut or tear flesh; to harshly criticize.", "撕裂；猛烈抨擊"], "laceration": ["Jagged wound.", "撕裂傷"], "lachrymose": ["Tearful or given to crying.", "愛哭的；悲傷的"], "lackadaisical": ["Lacking enthusiasm or determination.", "懶散的；無精打采的"], "lackey": ["A servile follower or servant.", "跟班；走狗"], "lacking": ["Not having enough of something.", "缺乏的"], "lackluster": ["Dull.", "缺乏光澤的"], "laconic": ["Expressing much in few words.", "簡潔的"], "lacuna": ["A gap or missing part, especially in a text.", "空白；缺漏"], "laden": ["Heavily loaded or weighed down.", "滿載的；負荷沉重的"], "lagniappe": ["A small unexpected gift or bonus given with a purchase.", "額外贈品；意外小禮"], "laissez-faire": ["A policy of noninterference, especially in economic matters.", "自由放任(政策)"], "laity": ["Ordinary people not belonging to the clergy or a particular profession.", "俗眾；非專業人士"], "lambent": ["Glowing or flickering softly; light and brilliant.", "微光閃爍的；柔和發光的"], "lament": ["To express grief or sorrow.", "哀悼；悲嘆"], "lamentable": ["Causing or deserving sorrow or disappointment.", "令人惋惜的；悲慘的"], "lampoon": ["To ridicule.", "諷刺；嘲弄"], "landmark": ["Historic, turning point of a period.", "里程碑；劃時代的"], "languid": ["Sluggish from fatigue or weakness.", "倦怠的；慵懶的"], "languish": ["To lose strength or vitality; to remain in a difficult situation.", "衰弱；虛度時光"], "languor": ["Weak or lifeless feeling.", "倦怠"], "languorous": ["Having a pleasant feeling of weariness or laziness.", "慵懶的；倦怠的"], "laodicean": ["Lukewarm or indifferent, especially in religion or politics.", "不冷不熱的；漠不關心的"], "lapidary": ["A person who cuts and polishes gemstones; relating to precise, polished writing.", "寶石工匠；精雕細琢的"], "lapse": ["A temporary failure or slip; to gradually decline.", "失誤；疏忽"], "lapsus": ["A slip or minor error, especially of the tongue or pen.", "筆誤；口誤"], "largess": ["Liberality, gift, gratuity.", "慷慨的贈與"], "lariat": ["A long rope with a noose, used to catch livestock.", "套索"], "lascivious": ["Feeling or expressing excessive sexual desire.", "淫蕩的；好色的"], "lassitude": ["Weariness, weakness.", "疲倦；無精打采"], "lasso": ["A rope with a noose used to catch animals; to catch with such a rope.", "套索；用套索捕捉"], "latent": ["Lying hidden.", "潛在的；隱伏的"], "laud": ["To praise; extol.", "稱讚"], "laudable": ["Praiseworthy.", "值得讚賞的"], "laudanum": ["A tincture of opium formerly used as a medicine.", "鴉片酊(舊時藥物)"], "laudatory": ["Expressing admiration or praise.", "讚揚的；稱頌的"], "lavish": ["Generous in giving to others or in spending money.", "慷慨的；奢華的"], "lax": ["Careless, negligent.", "鬆懈的；馬虎的"], "lazy": ["Unwilling to work or use energy.", "懶惰的"]});

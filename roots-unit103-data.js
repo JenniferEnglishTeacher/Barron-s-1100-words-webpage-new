@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "affect",
     "pos": "v./n.",
     "definition": "To influence or produce a change in; a person's outward emotional expression.",
-    "chinese": "影響;情感表現",
+    "chinese": "影響；情感表現",
     "synonyms": "",
     "root": "ad- (to) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To influence or produce a change in; a person's outward emotional expression.",
-     "chinese": "影響;情感表現"
+     "chinese": "影響；情感表現"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "benefactor",
     "pos": "n.",
     "definition": "A person who gives money or other help to a cause.",
-    "chinese": "捐助者;恩人",
+    "chinese": "捐助者；恩人",
     "synonyms": "",
     "root": "bene- (well) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who gives money or other help to a cause.",
-     "chinese": "捐助者;恩人"
+     "chinese": "捐助者；恩人"
     }
    },
    {
     "word": "beneficence",
     "pos": "n.",
     "definition": "The quality of doing good; generous acts of kindness.",
-    "chinese": "善行;仁慈",
+    "chinese": "善行；仁慈",
     "synonyms": "",
     "root": "bene- (well) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of doing good; generous acts of kindness.",
-     "chinese": "善行;仁慈"
+     "chinese": "善行；仁慈"
     }
    },
    {
     "word": "beneficent",
     "pos": "adj.",
     "definition": "Generous and kind; doing good.",
-    "chinese": "行善的;仁慈的",
+    "chinese": "行善的；仁慈的",
     "synonyms": "",
     "root": "bene- (well) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Generous and kind; doing good.",
-     "chinese": "行善的;仁慈的"
+     "chinese": "行善的；仁慈的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "certify",
     "pos": "v.",
     "definition": "To formally confirm or attest to something.",
-    "chinese": "證明;認證",
+    "chinese": "證明；認證",
     "synonyms": "",
     "root": "certus (fixed, sure) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To formally confirm or attest to something.",
-     "chinese": "證明;認證"
+     "chinese": "證明；認證"
     }
    },
    {
@@ -219,7 +219,7 @@ window.FLASHCARD_UNITS = {
     "word": "defeat",
     "pos": "n./v.",
     "definition": "A loss in a battle or contest; to overcome.",
-    "chinese": "失敗;擊敗",
+    "chinese": "失敗；擊敗",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A loss in a battle or contest; to overcome.",
-     "chinese": "失敗;擊敗"
+     "chinese": "失敗；擊敗"
     }
    },
    {
     "word": "defection",
     "pos": "n.",
     "definition": "The abandonment of one's allegiance, especially to another cause.",
-    "chinese": "叛逃;變節",
+    "chinese": "叛逃；變節",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -252,14 +252,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The abandonment of one's allegiance, especially to another cause.",
-     "chinese": "叛逃;變節"
+     "chinese": "叛逃；變節"
     }
    },
    {
     "word": "deficiency",
     "pos": "n.",
     "definition": "A lack or shortage of something needed.",
-    "chinese": "缺乏;不足",
+    "chinese": "缺乏；不足",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -273,7 +273,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A lack or shortage of something needed.",
-     "chinese": "缺乏;不足"
+     "chinese": "缺乏；不足"
     }
    },
    {
@@ -318,7 +318,7 @@ window.FLASHCARD_UNITS = {
     "word": "deify",
     "pos": "v.",
     "definition": "To worship or regard as a god.",
-    "chinese": "神化;奉為神明",
+    "chinese": "神化；奉為神明",
     "synonyms": "",
     "root": "deus (god) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -332,7 +332,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To worship or regard as a god.",
-     "chinese": "神化;奉為神明"
+     "chinese": "神化；奉為神明"
     }
    },
    {
@@ -436,7 +436,7 @@ window.FLASHCARD_UNITS = {
     "word": "facade",
     "pos": "n.",
     "definition": "The front of a building; a false outward appearance.",
-    "chinese": "門面;假象",
+    "chinese": "門面；假象",
     "synonyms": "",
     "root": "facies (face), from Latin, via Italian facciata",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -448,7 +448,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The front of a building; a false outward appearance.",
-     "chinese": "門面;假象"
+     "chinese": "門面；假象"
     }
    },
    {
@@ -512,7 +512,7 @@ window.FLASHCARD_UNITS = {
     "word": "facilitate",
     "pos": "v.",
     "definition": "To make an action or process easier.",
-    "chinese": "促進;使便利",
+    "chinese": "促進；使便利",
     "synonyms": "",
     "root": "facilis (easy), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -524,14 +524,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make an action or process easier.",
-     "chinese": "促進;使便利"
+     "chinese": "促進；使便利"
     }
    },
    {
     "word": "facility",
     "pos": "n.",
     "definition": "A building or place designed for a specific purpose; natural ability.",
-    "chinese": "設施;能力",
+    "chinese": "設施；能力",
     "synonyms": "",
     "root": "facilis (easy), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -543,7 +543,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A building or place designed for a specific purpose; natural ability.",
-     "chinese": "設施;能力"
+     "chinese": "設施；能力"
     }
    },
    {
@@ -569,7 +569,7 @@ window.FLASHCARD_UNITS = {
     "word": "factotum",
     "pos": "n.",
     "definition": "An employee who does all kinds of work.",
-    "chinese": "雜務助理;打雜者",
+    "chinese": "雜務助理；打雜者",
     "synonyms": "",
     "root": "facere (to do) + totum (all), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -581,7 +581,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An employee who does all kinds of work.",
-     "chinese": "雜務助理;打雜者"
+     "chinese": "雜務助理；打雜者"
     }
    },
    {
@@ -645,7 +645,7 @@ window.FLASHCARD_UNITS = {
     "word": "febrifacient",
     "pos": "adj.",
     "definition": "Causing fever.",
-    "chinese": "致熱的;引起發燒的",
+    "chinese": "致熱的；引起發燒的",
     "synonyms": "",
     "root": "febris (fever) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -657,14 +657,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing fever.",
-     "chinese": "致熱的;引起發燒的"
+     "chinese": "致熱的；引起發燒的"
     }
    },
    {
     "word": "feckless",
     "pos": "adj.",
     "definition": "Lacking initiative or responsibility; ineffective.",
-    "chinese": "無能的;不負責任的",
+    "chinese": "無能的；不負責任的",
     "synonyms": "",
     "root": "feck (effect, Scots) + -less, from Middle English effect",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -676,7 +676,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking initiative or responsibility; ineffective.",
-     "chinese": "無能的;不負責任的"
+     "chinese": "無能的；不負責任的"
     }
    },
    {
@@ -702,7 +702,7 @@ window.FLASHCARD_UNITS = {
     "word": "fecundate",
     "pos": "v.",
     "definition": "To make fertile; to fertilize.",
-    "chinese": "使受精;使肥沃",
+    "chinese": "使受精；使肥沃",
     "synonyms": "",
     "root": "fecundus (fruitful), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -714,14 +714,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make fertile; to fertilize.",
-     "chinese": "使受精;使肥沃"
+     "chinese": "使受精；使肥沃"
     }
    },
    {
     "word": "fecundity",
     "pos": "n.",
     "definition": "The ability to produce abundant offspring or growth.",
-    "chinese": "多產;豐饒",
+    "chinese": "多產；豐饒",
     "synonyms": "",
     "root": "fecundus (fruitful), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -733,14 +733,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ability to produce abundant offspring or growth.",
-     "chinese": "多產;豐饒"
+     "chinese": "多產；豐饒"
     }
    },
    {
     "word": "fetch",
     "pos": "v.",
     "definition": "To go for and bring back.",
-    "chinese": "取來;拿來",
+    "chinese": "取來；拿來",
     "synonyms": "",
     "root": "feccan, from Old English",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To go for and bring back.",
-     "chinese": "取來;拿來"
+     "chinese": "取來；拿來"
     }
    },
    {
@@ -778,7 +778,7 @@ window.FLASHCARD_UNITS = {
     "word": "fortify",
     "pos": "v.",
     "definition": "To strengthen a place against attack; to strengthen mentally or physically.",
-    "chinese": "強化;加固",
+    "chinese": "強化；加固",
     "synonyms": "",
     "root": "fortis (strong) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -790,14 +790,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To strengthen a place against attack; to strengthen mentally or physically.",
-     "chinese": "強化;加固"
+     "chinese": "強化；加固"
     }
    },
    {
     "word": "glorification",
     "pos": "n.",
     "definition": "The act of praising someone or something excessively.",
-    "chinese": "頌揚;美化",
+    "chinese": "頌揚；美化",
     "synonyms": "",
     "root": "gloria (glory) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -809,7 +809,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of praising someone or something excessively.",
-     "chinese": "頌揚;美化"
+     "chinese": "頌揚；美化"
     }
    },
    {
@@ -856,7 +856,7 @@ window.FLASHCARD_UNITS = {
     "word": "interface",
     "pos": "n./v.",
     "definition": "A point where two systems meet and interact.",
-    "chinese": "介面;交流",
+    "chinese": "介面；交流",
     "synonyms": "",
     "root": "inter- (between) + facies (face), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -868,14 +868,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A point where two systems meet and interact.",
-     "chinese": "介面;交流"
+     "chinese": "介面；交流"
     }
    },
    {
     "word": "ipso facto",
     "pos": "adv.",
     "definition": "By that very fact or act.",
-    "chinese": "事實上;因此",
+    "chinese": "事實上；因此",
     "synonyms": "",
     "root": "Latin ipso (itself) + facto (by the fact)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -887,7 +887,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "By that very fact or act.",
-     "chinese": "事實上;因此"
+     "chinese": "事實上；因此"
     }
    },
    {
@@ -913,7 +913,7 @@ window.FLASHCARD_UNITS = {
     "word": "magnify",
     "pos": "v.",
     "definition": "To make something appear larger than it is; to exaggerate.",
-    "chinese": "放大;誇大",
+    "chinese": "放大；誇大",
     "synonyms": "",
     "root": "magnus (great) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -925,14 +925,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something appear larger than it is; to exaggerate.",
-     "chinese": "放大;誇大"
+     "chinese": "放大；誇大"
     }
    },
    {
     "word": "malefactor",
     "pos": "n.",
     "definition": "A person who commits a crime or does evil.",
-    "chinese": "作惡者;罪犯",
+    "chinese": "作惡者；罪犯",
     "synonyms": "",
     "root": "male (badly) + facere (to do), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -944,14 +944,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who commits a crime or does evil.",
-     "chinese": "作惡者;罪犯"
+     "chinese": "作惡者；罪犯"
     }
    },
    {
     "word": "maleficent",
     "pos": "adj.",
     "definition": "Causing harm or evil.",
-    "chinese": "有害的;邪惡的",
+    "chinese": "有害的；邪惡的",
     "synonyms": "",
     "root": "male (badly) + facere (to do), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing harm or evil.",
-     "chinese": "有害的;邪惡的"
+     "chinese": "有害的；邪惡的"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"affect": ["To influence or produce a change in; a person's outward emotional expression.", "影響;情感表現"], "artifact": ["Object made by hand.", "人工製品"], "artifice": ["Strategy, trickery.", "詭計；欺騙"], "benefactor": ["A person who gives money or other help to a cause.", "捐助者;恩人"], "beneficence": ["The quality of doing good; generous acts of kindness.", "善行;仁慈"], "beneficent": ["Generous and kind; doing good.", "行善的;仁慈的"], "beneficial": ["Producing good results.", "有益的"], "beneficiary": ["A person who receives benefits, especially from a will or policy.", "受益人"], "certify": ["To formally confirm or attest to something.", "證明;認證"], "confection": ["A sweet, fancy food.", "糖果；甜點"], "deface": ["To ruin or injure something's appearance.", "毀損外觀；塗污"], "defeat": ["A loss in a battle or contest; to overcome.", "失敗;擊敗"], "defection": ["The abandonment of one's allegiance, especially to another cause.", "叛逃;變節"], "deficiency": ["A lack or shortage of something needed.", "缺乏;不足"], "deficient": ["Not enough in degree or amount.", "不足的；缺乏的"], "deification": ["The act of elevating someone to the status of a god.", "神化"], "deify": ["To worship or regard as a god.", "神化;奉為神明"], "difficult": ["Needing much effort or skill to accomplish.", "困難的"], "edifice": ["A building.", "宏偉的建築；大廈"], "efface": ["To wipe out, obliterate, rub away.", "抹去；消除"], "efficacious": ["Effective.", "有效的"], "efficacy": ["Power to produce an effect.", "功效；效力"], "facade": ["The front of a building; a false outward appearance.", "門面;假象"], "facet": ["One side or view of person or situation.", "方面；刻面"], "facetious": ["Sarcastic, comical, humorous.", "愛開玩笑的；滑稽的"], "facile": ["Easily accomplished or attained.", "容易的；膚淺的"], "facilitate": ["To make an action or process easier.", "促進;使便利"], "facility": ["A building or place designed for a specific purpose; natural ability.", "設施;能力"], "factitious": ["Artificial, sham.", "人為的；虛假的"], "factotum": ["An employee who does all kinds of work.", "雜務助理;打雜者"], "façade": ["Front, superficial appearance.", "正面；假象"], "feasible": ["Possible.", "可行的"], "feat": ["A notable achievement.", "壯舉；功績"], "febrifacient": ["Causing fever.", "致熱的;引起發燒的"], "feckless": ["Lacking initiative or responsibility; ineffective.", "無能的;不負責任的"], "fecund": ["Fruitful, fertile.", "多產的；肥沃的"], "fecundate": ["To make fertile; to fertilize.", "使受精;使肥沃"], "fecundity": ["The ability to produce abundant offspring or growth.", "多產;豐饒"], "fetch": ["To go for and bring back.", "取來;拿來"], "fetish": ["Object that is thought to have magic powers.", "迷信物；戀物"], "fortify": ["To strengthen a place against attack; to strengthen mentally or physically.", "強化;加固"], "glorification": ["The act of praising someone or something excessively.", "頌揚;美化"], "gratify": ["To please or indulge.", "使滿足"], "insignificant": ["Too small or unimportant to matter.", "微不足道的"], "interface": ["A point where two systems meet and interact.", "介面;交流"], "ipso facto": ["By that very fact or act.", "事實上;因此"], "liquefy": ["To make or become liquid.", "使液化"], "magnify": ["To make something appear larger than it is; to exaggerate.", "放大;誇大"], "malefactor": ["A person who commits a crime or does evil.", "作惡者;罪犯"], "maleficent": ["Causing harm or evil.", "有害的;邪惡的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"affect": ["To influence or produce a change in; a person's outward emotional expression.", "影響；情感表現"], "artifact": ["Object made by hand.", "人工製品"], "artifice": ["Strategy, trickery.", "詭計；欺騙"], "benefactor": ["A person who gives money or other help to a cause.", "捐助者；恩人"], "beneficence": ["The quality of doing good; generous acts of kindness.", "善行；仁慈"], "beneficent": ["Generous and kind; doing good.", "行善的；仁慈的"], "beneficial": ["Producing good results.", "有益的"], "beneficiary": ["A person who receives benefits, especially from a will or policy.", "受益人"], "certify": ["To formally confirm or attest to something.", "證明；認證"], "confection": ["A sweet, fancy food.", "糖果；甜點"], "deface": ["To ruin or injure something's appearance.", "毀損外觀；塗污"], "defeat": ["A loss in a battle or contest; to overcome.", "失敗；擊敗"], "defection": ["The abandonment of one's allegiance, especially to another cause.", "叛逃；變節"], "deficiency": ["A lack or shortage of something needed.", "缺乏；不足"], "deficient": ["Not enough in degree or amount.", "不足的；缺乏的"], "deification": ["The act of elevating someone to the status of a god.", "神化"], "deify": ["To worship or regard as a god.", "神化；奉為神明"], "difficult": ["Needing much effort or skill to accomplish.", "困難的"], "edifice": ["A building.", "宏偉的建築；大廈"], "efface": ["To wipe out, obliterate, rub away.", "抹去；消除"], "efficacious": ["Effective.", "有效的"], "efficacy": ["Power to produce an effect.", "功效；效力"], "facade": ["The front of a building; a false outward appearance.", "門面；假象"], "facet": ["One side or view of person or situation.", "方面；刻面"], "facetious": ["Sarcastic, comical, humorous.", "愛開玩笑的；滑稽的"], "facile": ["Easily accomplished or attained.", "容易的；膚淺的"], "facilitate": ["To make an action or process easier.", "促進；使便利"], "facility": ["A building or place designed for a specific purpose; natural ability.", "設施；能力"], "factitious": ["Artificial, sham.", "人為的；虛假的"], "factotum": ["An employee who does all kinds of work.", "雜務助理；打雜者"], "façade": ["Front, superficial appearance.", "正面；假象"], "feasible": ["Possible.", "可行的"], "feat": ["A notable achievement.", "壯舉；功績"], "febrifacient": ["Causing fever.", "致熱的；引起發燒的"], "feckless": ["Lacking initiative or responsibility; ineffective.", "無能的；不負責任的"], "fecund": ["Fruitful, fertile.", "多產的；肥沃的"], "fecundate": ["To make fertile; to fertilize.", "使受精；使肥沃"], "fecundity": ["The ability to produce abundant offspring or growth.", "多產；豐饒"], "fetch": ["To go for and bring back.", "取來；拿來"], "fetish": ["Object that is thought to have magic powers.", "迷信物；戀物"], "fortify": ["To strengthen a place against attack; to strengthen mentally or physically.", "強化；加固"], "glorification": ["The act of praising someone or something excessively.", "頌揚；美化"], "gratify": ["To please or indulge.", "使滿足"], "insignificant": ["Too small or unimportant to matter.", "微不足道的"], "interface": ["A point where two systems meet and interact.", "介面；交流"], "ipso facto": ["By that very fact or act.", "事實上；因此"], "liquefy": ["To make or become liquid.", "使液化"], "magnify": ["To make something appear larger than it is; to exaggerate.", "放大；誇大"], "malefactor": ["A person who commits a crime or does evil.", "作惡者；罪犯"], "maleficent": ["Causing harm or evil.", "有害的；邪惡的"]});

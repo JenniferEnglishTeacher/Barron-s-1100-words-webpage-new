@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "conciseness",
     "pos": "n.",
     "definition": "The quality of expressing much in few words.",
-    "chinese": "簡潔;簡明",
+    "chinese": "簡潔；簡明",
     "synonyms": "",
     "root": "con- (thoroughly) + caedere (to cut), from Latin",
     "group": "cide = 殺害",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of expressing much in few words.",
-     "chinese": "簡潔;簡明"
+     "chinese": "簡潔；簡明"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "fratricide",
     "pos": "n.",
     "definition": "The killing of one's brother or sibling.",
-    "chinese": "殺害兄弟;弒兄弟罪",
+    "chinese": "殺害兄弟；弒兄弟罪",
     "synonyms": "",
     "root": "frater (brother) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one's brother or sibling.",
-     "chinese": "殺害兄弟;弒兄弟罪"
+     "chinese": "殺害兄弟；弒兄弟罪"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "homicide",
     "pos": "n.",
     "definition": "The killing of one person by another.",
-    "chinese": "殺人罪;兇殺案",
+    "chinese": "殺人罪；兇殺案",
     "synonyms": "",
     "root": "homo (man) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one person by another.",
-     "chinese": "殺人罪;兇殺案"
+     "chinese": "殺人罪；兇殺案"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "matricide",
     "pos": "n.",
     "definition": "The killing of one's mother; a person who kills their mother.",
-    "chinese": "弒母;弒母者",
+    "chinese": "弒母；弒母者",
     "synonyms": "",
     "root": "mater (mother) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one's mother; a person who kills their mother.",
-     "chinese": "弒母;弒母者"
+     "chinese": "弒母；弒母者"
     }
    },
    {
     "word": "menticide",
     "pos": "n.",
     "definition": "The systematic undermining or destruction of a person's mind or beliefs, especially through coercive persuasion.",
-    "chinese": "精神摧毀;思想控制",
+    "chinese": "精神摧毀；思想控制",
     "synonyms": "",
     "root": "mens, mentis (mind) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The systematic undermining or destruction of a person's mind or beliefs, especially through coercive persuasion.",
-     "chinese": "精神摧毀;思想控制"
+     "chinese": "精神摧毀；思想控制"
     }
    },
    {
     "word": "parricide",
     "pos": "n.",
     "definition": "The killing of a parent or close relative; a person who commits such an act.",
-    "chinese": "弒親;弒親者",
+    "chinese": "弒親；弒親者",
     "synonyms": "",
     "root": "parens (parent) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of a parent or close relative; a person who commits such an act.",
-     "chinese": "弒親;弒親者"
+     "chinese": "弒親；弒親者"
     }
    },
    {
     "word": "patricide",
     "pos": "n.",
     "definition": "The killing of one's father; a person who kills their father.",
-    "chinese": "弒父;弒父者",
+    "chinese": "弒父；弒父者",
     "synonyms": "",
     "root": "pater (father) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -360,14 +360,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one's father; a person who kills their father.",
-     "chinese": "弒父;弒父者"
+     "chinese": "弒父；弒父者"
     }
    },
    {
     "word": "pesticide",
     "pos": "n.",
     "definition": "A chemical substance used to kill pests, especially insects.",
-    "chinese": "殺蟲劑;農藥",
+    "chinese": "殺蟲劑；農藥",
     "synonyms": "",
     "root": "pestis (plague) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -379,14 +379,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A chemical substance used to kill pests, especially insects.",
-     "chinese": "殺蟲劑;農藥"
+     "chinese": "殺蟲劑；農藥"
     }
    },
    {
     "word": "regicide",
     "pos": "n.",
     "definition": "The killing of a king; a person who kills a king.",
-    "chinese": "弒君;弒君者",
+    "chinese": "弒君；弒君者",
     "synonyms": "",
     "root": "rex, regis (king) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -398,14 +398,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of a king; a person who kills a king.",
-     "chinese": "弒君;弒君者"
+     "chinese": "弒君；弒君者"
     }
    },
    {
     "word": "sororicide",
     "pos": "n.",
     "definition": "The killing of one's sister, or a person who does this.",
-    "chinese": "殺姊(妹)罪;殺姊(妹)者",
+    "chinese": "殺姊(妹)罪；殺姊(妹)者",
     "synonyms": "",
     "root": "soror (sister) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -417,14 +417,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one's sister, or a person who does this.",
-     "chinese": "殺姊(妹)罪;殺姊(妹)者"
+     "chinese": "殺姊(妹)罪；殺姊(妹)者"
     }
    },
    {
     "word": "tyrannicide",
     "pos": "n.",
     "definition": "The killing of a tyrant, or a person who does this.",
-    "chinese": "弒暴君;弒暴君者",
+    "chinese": "弒暴君；弒暴君者",
     "synonyms": "",
     "root": "tyrannus (tyrant) + caedere (to kill), from Latin, from Greek tyrannos",
     "group": "cide = 殺害",
@@ -436,14 +436,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of a tyrant, or a person who does this.",
-     "chinese": "弒暴君;弒暴君者"
+     "chinese": "弒暴君；弒暴君者"
     }
    },
    {
     "word": "uxoricide",
     "pos": "n.",
     "definition": "The killing of one's wife, or a person who does this.",
-    "chinese": "殺妻罪;殺妻者",
+    "chinese": "殺妻罪；殺妻者",
     "synonyms": "",
     "root": "uxor (wife) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -455,14 +455,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The killing of one's wife, or a person who does this.",
-     "chinese": "殺妻罪;殺妻者"
+     "chinese": "殺妻罪；殺妻者"
     }
    },
    {
     "word": "vermicide",
     "pos": "n.",
     "definition": "A substance used to kill worms, especially intestinal parasites.",
-    "chinese": "殺蟲劑;驅蟲藥",
+    "chinese": "殺蟲劑；驅蟲藥",
     "synonyms": "",
     "root": "vermis (worm) + caedere (to kill), from Latin",
     "group": "cide = 殺害",
@@ -474,7 +474,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A substance used to kill worms, especially intestinal parasites.",
-     "chinese": "殺蟲劑;驅蟲藥"
+     "chinese": "殺蟲劑；驅蟲藥"
     }
    }
   ],
@@ -1083,4 +1083,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incisive": ["Clear, direct.", "敏銳的；深刻的"], "genocide": ["Planned destruction of an entire people.", "種族滅絕"], "concise": ["Using few words in speaking and writing.", "簡潔的"], "bactericide": ["A substance that destroys bacteria.", "殺菌劑"], "caesura": ["A pause or break in the middle of a line of verse.", "詩行中的停頓"], "circumcision": ["The surgical removal of the foreskin; a religious ritual marking this.", "割禮"], "conciseness": ["The quality of expressing much in few words.", "簡潔;簡明"], "deciding": ["Determining or influencing an outcome.", "決定性的"], "decisive": ["Conclusive or firm.", "果斷的；決定性的"], "fratricide": ["The killing of one's brother or sibling.", "殺害兄弟;弒兄弟罪"], "fungicide": ["A chemical that destroys fungus.", "殺真菌劑"], "herbicide": ["A substance used to destroy unwanted plants.", "除草劑"], "homicide": ["The killing of one person by another.", "殺人罪;兇殺案"], "infanticide": ["The killing of an infant.", "殺嬰罪"], "insecticide": ["A substance used to kill insects.", "殺蟲劑"], "matricide": ["The killing of one's mother; a person who kills their mother.", "弒母;弒母者"], "menticide": ["The systematic undermining or destruction of a person's mind or beliefs, especially through coercive persuasion.", "精神摧毀;思想控制"], "parricide": ["The killing of a parent or close relative; a person who commits such an act.", "弒親;弒親者"], "patricide": ["The killing of one's father; a person who kills their father.", "弒父;弒父者"], "pesticide": ["A chemical substance used to kill pests, especially insects.", "殺蟲劑;農藥"], "regicide": ["The killing of a king; a person who kills a king.", "弒君;弒君者"], "sororicide": ["The killing of one's sister, or a person who does this.", "殺姊(妹)罪;殺姊(妹)者"], "tyrannicide": ["The killing of a tyrant, or a person who does this.", "弒暴君;弒暴君者"], "uxoricide": ["The killing of one's wife, or a person who does this.", "殺妻罪;殺妻者"], "vermicide": ["A substance used to kill worms, especially intestinal parasites.", "殺蟲劑;驅蟲藥"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incisive": ["Clear, direct.", "敏銳的；深刻的"], "genocide": ["Planned destruction of an entire people.", "種族滅絕"], "concise": ["Using few words in speaking and writing.", "簡潔的"], "bactericide": ["A substance that destroys bacteria.", "殺菌劑"], "caesura": ["A pause or break in the middle of a line of verse.", "詩行中的停頓"], "circumcision": ["The surgical removal of the foreskin; a religious ritual marking this.", "割禮"], "conciseness": ["The quality of expressing much in few words.", "簡潔；簡明"], "deciding": ["Determining or influencing an outcome.", "決定性的"], "decisive": ["Conclusive or firm.", "果斷的；決定性的"], "fratricide": ["The killing of one's brother or sibling.", "殺害兄弟；弒兄弟罪"], "fungicide": ["A chemical that destroys fungus.", "殺真菌劑"], "herbicide": ["A substance used to destroy unwanted plants.", "除草劑"], "homicide": ["The killing of one person by another.", "殺人罪；兇殺案"], "infanticide": ["The killing of an infant.", "殺嬰罪"], "insecticide": ["A substance used to kill insects.", "殺蟲劑"], "matricide": ["The killing of one's mother; a person who kills their mother.", "弒母；弒母者"], "menticide": ["The systematic undermining or destruction of a person's mind or beliefs, especially through coercive persuasion.", "精神摧毀；思想控制"], "parricide": ["The killing of a parent or close relative; a person who commits such an act.", "弒親；弒親者"], "patricide": ["The killing of one's father; a person who kills their father.", "弒父；弒父者"], "pesticide": ["A chemical substance used to kill pests, especially insects.", "殺蟲劑；農藥"], "regicide": ["The killing of a king; a person who kills a king.", "弒君；弒君者"], "sororicide": ["The killing of one's sister, or a person who does this.", "殺姊(妹)罪；殺姊(妹)者"], "tyrannicide": ["The killing of a tyrant, or a person who does this.", "弒暴君；弒暴君者"], "uxoricide": ["The killing of one's wife, or a person who does this.", "殺妻罪；殺妻者"], "vermicide": ["A substance used to kill worms, especially intestinal parasites.", "殺蟲劑；驅蟲藥"]});

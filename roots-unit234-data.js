@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "vitalize",
     "pos": "v.",
     "definition": "To give life, energy, or vigor to.",
-    "chinese": "賦予活力;使有生氣",
+    "chinese": "賦予活力；使有生氣",
     "synonyms": "",
     "root": "vitalis (of life), from Latin vita (life) + -ize",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give life, energy, or vigor to.",
-     "chinese": "賦予活力;使有生氣"
+     "chinese": "賦予活力；使有生氣"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "vitiation",
     "pos": "n.",
     "definition": "The act of impairing the quality or value of something.",
-    "chinese": "損害;敗壞",
+    "chinese": "損害；敗壞",
     "synonyms": "",
     "root": "vitiare (to spoil, corrupt), from Latin vitium (fault)",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of impairing the quality or value of something.",
-     "chinese": "損害;敗壞"
+     "chinese": "損害；敗壞"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "vituperative",
     "pos": "adj.",
     "definition": "Bitter and abusive in language or tone.",
-    "chinese": "謾罵的;惡言相向的",
+    "chinese": "謾罵的；惡言相向的",
     "synonyms": "",
     "root": "vituperare (to blame, censure), from Latin vitium (fault) + parare (to prepare)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bitter and abusive in language or tone.",
-     "chinese": "謾罵的;惡言相向的"
+     "chinese": "謾罵的；惡言相向的"
     }
    },
    {
     "word": "vixen",
     "pos": "n.",
     "definition": "A female fox; a spiteful or quarrelsome woman (informal).",
-    "chinese": "雌狐;潑辣的女人(非正式)",
+    "chinese": "雌狐；潑辣的女人(非正式)",
     "synonyms": "",
     "root": "fyxen (female fox), from Old English, feminine of fox",
     "group": "",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A female fox; a spiteful or quarrelsome woman (informal).",
-     "chinese": "雌狐;潑辣的女人(非正式)"
+     "chinese": "雌狐；潑辣的女人(非正式)"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "void",
     "pos": "n./adj./v.",
     "definition": "Completely empty space; not valid; to make invalid.",
-    "chinese": "空虛;無效的;使無效",
+    "chinese": "空虛；無效的；使無效",
     "synonyms": "",
     "root": "vuide (empty), from Old French, from Latin vacuus",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Completely empty space; not valid; to make invalid.",
-     "chinese": "空虛;無效的;使無效"
+     "chinese": "空虛；無效的；使無效"
     }
    },
    {
     "word": "volant",
     "pos": "adj.",
     "definition": "Capable of flying; nimble or quick.",
-    "chinese": "能飛的;敏捷的",
+    "chinese": "能飛的；敏捷的",
     "synonyms": "",
     "root": "volans, present participle of Latin volare (to fly)",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of flying; nimble or quick.",
-     "chinese": "能飛的;敏捷的"
+     "chinese": "能飛的；敏捷的"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "vow",
     "pos": "n./v.",
     "definition": "A solemn promise; to promise solemnly.",
-    "chinese": "誓言;發誓",
+    "chinese": "誓言；發誓",
     "synonyms": "",
     "root": "vou, from Old French, from Latin votum (a vow, wish)",
     "group": "",
@@ -461,14 +461,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A solemn promise; to promise solemnly.",
-     "chinese": "誓言;發誓"
+     "chinese": "誓言；發誓"
     }
    },
    {
     "word": "vow populi",
     "pos": "n.",
     "definition": "A variant reference to vox populi, meaning the voice or opinion of the people.",
-    "chinese": "民意;民眾的聲音(vox populi之異體)",
+    "chinese": "民意；民眾的聲音(vox populi之異體)",
     "synonyms": "",
     "root": "vox (voice) + populi (of the people), from Latin",
     "group": "",
@@ -480,7 +480,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A variant reference to vox populi, meaning the voice or opinion of the people.",
-     "chinese": "民意;民眾的聲音(vox populi之異體)"
+     "chinese": "民意；民眾的聲音(vox populi之異體)"
     }
    },
    {
@@ -565,7 +565,7 @@ window.FLASHCARD_UNITS = {
     "word": "waggish",
     "pos": "adj.",
     "definition": "Playfully humorous; mischievous.",
-    "chinese": "詼諧的;愛開玩笑的",
+    "chinese": "詼諧的；愛開玩笑的",
     "synonyms": "",
     "root": "wag (a joker), of uncertain origin, possibly related to waggle",
     "group": "",
@@ -577,14 +577,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Playfully humorous; mischievous.",
-     "chinese": "詼諧的;愛開玩笑的"
+     "chinese": "詼諧的；愛開玩笑的"
     }
    },
    {
     "word": "waif",
     "pos": "n.",
     "definition": "A homeless or neglected person, especially a child; a thin, delicate-looking person.",
-    "chinese": "流浪兒;瘦弱的人",
+    "chinese": "流浪兒；瘦弱的人",
     "synonyms": "",
     "root": "waif (an unclaimed piece of property), from Old French guaif, of Germanic origin",
     "group": "",
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A homeless or neglected person, especially a child; a thin, delicate-looking person.",
-     "chinese": "流浪兒;瘦弱的人"
+     "chinese": "流浪兒；瘦弱的人"
     }
    },
    {
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "word": "wander",
     "pos": "v.",
     "definition": "To walk without a clear destination or purpose.",
-    "chinese": "漫遊;閒逛",
+    "chinese": "漫遊；閒逛",
     "synonyms": "",
     "root": "wandrian (to wander), from Old English",
     "group": "",
@@ -693,7 +693,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk without a clear destination or purpose.",
-     "chinese": "漫遊;閒逛"
+     "chinese": "漫遊；閒逛"
     }
    },
    {
@@ -738,7 +738,7 @@ window.FLASHCARD_UNITS = {
     "word": "warmheartedness",
     "pos": "n.",
     "definition": "The quality of being kind, friendly, and affectionate.",
-    "chinese": "熱心腸;親切",
+    "chinese": "熱心腸；親切",
     "synonyms": "",
     "root": "warm, from Old English wearm + heart, from Old English heorte + -ness",
     "group": "",
@@ -750,14 +750,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being kind, friendly, and affectionate.",
-     "chinese": "熱心腸;親切"
+     "chinese": "熱心腸；親切"
     }
    },
    {
     "word": "warrant",
     "pos": "n./v.",
     "definition": "A legal document authorizing an action; to justify or guarantee.",
-    "chinese": "授權令;保證",
+    "chinese": "授權令；保證",
     "synonyms": "",
     "root": "warant, from Old French, from a Germanic root related to guarantee",
     "group": "",
@@ -769,7 +769,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A legal document authorizing an action; to justify or guarantee.",
-     "chinese": "授權令;保證"
+     "chinese": "授權令；保證"
     }
    },
    {
@@ -833,7 +833,7 @@ window.FLASHCARD_UNITS = {
     "word": "wash",
     "pos": "v./n.",
     "definition": "To clean with water; a situation that results in no net gain or loss.",
-    "chinese": "清洗;抵銷",
+    "chinese": "清洗；抵銷",
     "synonyms": "",
     "root": "wæscan (to wash), from Old English",
     "group": "",
@@ -845,14 +845,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To clean with water; a situation that results in no net gain or loss.",
-     "chinese": "清洗;抵銷"
+     "chinese": "清洗；抵銷"
     }
    },
    {
     "word": "waspish",
     "pos": "adj.",
     "definition": "Easily irritated and quick to make sharp remarks.",
-    "chinese": "易怒尖刻的;好挑剔的",
+    "chinese": "易怒尖刻的；好挑剔的",
     "synonyms": "",
     "root": "wasp, from Old English wæps + -ish",
     "group": "",
@@ -864,14 +864,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily irritated and quick to make sharp remarks.",
-     "chinese": "易怒尖刻的;好挑剔的"
+     "chinese": "易怒尖刻的；好挑剔的"
     }
    },
    {
     "word": "wastrel",
     "pos": "n.",
     "definition": "A person who wastes money, time, or resources; a lazy or irresponsible person.",
-    "chinese": "浪費者;無所事事的人",
+    "chinese": "浪費者；無所事事的人",
     "synonyms": "",
     "root": "waste, from Latin vastare (to lay waste) + -rel (diminutive, often derogatory)",
     "group": "",
@@ -883,14 +883,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who wastes money, time, or resources; a lazy or irresponsible person.",
-     "chinese": "浪費者;無所事事的人"
+     "chinese": "浪費者；無所事事的人"
     }
    },
    {
     "word": "wax",
     "pos": "v./n.",
     "definition": "To increase gradually, as the moon does; a substance used for polishing.",
-    "chinese": "漸增;蠟",
+    "chinese": "漸增；蠟",
     "synonyms": "",
     "root": "weaxan (to grow), from Old English",
     "group": "",
@@ -902,14 +902,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To increase gradually, as the moon does; a substance used for polishing.",
-     "chinese": "漸增;蠟"
+     "chinese": "漸增；蠟"
     }
    },
    {
     "word": "wayfaring",
     "pos": "adj./n.",
     "definition": "Traveling, especially on foot.",
-    "chinese": "旅行的;步行遊歷的",
+    "chinese": "旅行的；步行遊歷的",
     "synonyms": "",
     "root": "way, from Old English weg + faring, from Old English faran (to travel)",
     "group": "",
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Traveling, especially on foot.",
-     "chinese": "旅行的;步行遊歷的"
+     "chinese": "旅行的；步行遊歷的"
     }
    },
    {
@@ -947,7 +947,7 @@ window.FLASHCARD_UNITS = {
     "word": "weak",
     "pos": "adj.",
     "definition": "Lacking physical strength or power; easily broken or defeated.",
-    "chinese": "虛弱的;軟弱的",
+    "chinese": "虛弱的；軟弱的",
     "synonyms": "",
     "root": "wac (weak, pliant), from Old English",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking physical strength or power; easily broken or defeated.",
-     "chinese": "虛弱的;軟弱的"
+     "chinese": "虛弱的；軟弱的"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"virtuosity": ["Great technical skill.", "精湛技藝"], "virtuoso": ["A highly skilled performer, usually a musical performer.", "藝術名家"], "virtuous": ["Having high moral standards; righteous.", "有美德的；正直的"], "virulent": ["Full of hate, harmful.", "劇毒的；惡毒的"], "vital": ["Urgently necessary.", "至關重要的"], "vitalize": ["To give life, energy, or vigor to.", "賦予活力;使有生氣"], "vitiate": ["To destroy the use or value.", "損害；使無效"], "vitiation": ["The act of impairing the quality or value of something.", "損害;敗壞"], "vitriolic": ["Biting, burning.", "刻薄的；惡意的"], "vituperate": ["To berate.", "痛罵；斥責"], "vituperation": ["Blame, abuse.", "謾罵；辱罵"], "vituperative": ["Bitter and abusive in language or tone.", "謾罵的;惡言相向的"], "vixen": ["A female fox; a spiteful or quarrelsome woman (informal).", "雌狐;潑辣的女人(非正式)"], "vogue": ["Fashion.", "流行；時尚"], "void": ["Completely empty space; not valid; to make invalid.", "空虛;無效的;使無效"], "volant": ["Capable of flying; nimble or quick.", "能飛的;敏捷的"], "volatile": ["Explosive or changing very quickly.", "易變的；揮發性的"], "volition": ["Willpower, choice.", "意志；決斷力"], "volubility": ["The quality of being facile in speech and writing.", "健談；口若懸河"], "voluble": ["Talking a great deal with ease; glib.", "健談的；口若懸河的"], "voluminous": ["Bulky, large.", "卷帙浩繁的；龐大的"], "voluptuary": ["A person devoted to luxury and sensual pleasure.", "縱情享樂者"], "voracious": ["Desiring or consuming great quantities.", "貪婪的"], "vow": ["A solemn promise; to promise solemnly.", "誓言;發誓"], "vow populi": ["A variant reference to vox populi, meaning the voice or opinion of the people.", "民意;民眾的聲音(vox populi之異體)"], "voyeur": ["A person who gains gratification from secretly watching others.", "窺視者"], "vulnerable": ["Susceptible, open to attack.", "易受傷的；脆弱的"], "vulpine": ["Resembling or characteristic of a fox.", "狐狸般的；狡猾的"], "waggish": ["Playfully humorous; mischievous.", "詼諧的;愛開玩笑的"], "waif": ["A homeless or neglected person, especially a child; a thin, delicate-looking person.", "流浪兒;瘦弱的人"], "waive": ["To voluntarily give up or relinquish a right or claim.", "放棄(權利)"], "walkathon": ["A long organized walk, especially to raise money for charity.", "馬拉松式健走活動"], "wallow": ["To roll oneself indolently; to become or remain helpless.", "沉溺於；打滾"], "wan": ["Sickly pale.", "蒼白的"], "wander": ["To walk without a clear destination or purpose.", "漫遊;閒逛"], "wane": ["Decrease, decline.", "衰退；減弱"], "wanton": ["Undisciplined, lewd, lustful.", "放縱的；肆意的"], "warmheartedness": ["The quality of being kind, friendly, and affectionate.", "熱心腸;親切"], "warrant": ["A legal document authorizing an action; to justify or guarantee.", "授權令;保證"], "warranted": ["Justified or deserved; reasonable.", "有正當理由的；合理的"], "wart": ["A small, hard growth on the skin caused by a virus.", "疣"], "wary": ["Watchful, shrewd.", "機警的；謹慎的"], "wash": ["To clean with water; a situation that results in no net gain or loss.", "清洗;抵銷"], "waspish": ["Easily irritated and quick to make sharp remarks.", "易怒尖刻的;好挑剔的"], "wastrel": ["A person who wastes money, time, or resources; a lazy or irresponsible person.", "浪費者;無所事事的人"], "wax": ["To increase gradually, as the moon does; a substance used for polishing.", "漸增;蠟"], "wayfaring": ["Traveling, especially on foot.", "旅行的;步行遊歷的"], "wayward": ["Difficult to control or predict, especially due to unusual or unpredictable behavior.", "任性的；難以駕馭的"], "weak": ["Lacking physical strength or power; easily broken or defeated.", "虛弱的;軟弱的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"virtuosity": ["Great technical skill.", "精湛技藝"], "virtuoso": ["A highly skilled performer, usually a musical performer.", "藝術名家"], "virtuous": ["Having high moral standards; righteous.", "有美德的；正直的"], "virulent": ["Full of hate, harmful.", "劇毒的；惡毒的"], "vital": ["Urgently necessary.", "至關重要的"], "vitalize": ["To give life, energy, or vigor to.", "賦予活力；使有生氣"], "vitiate": ["To destroy the use or value.", "損害；使無效"], "vitiation": ["The act of impairing the quality or value of something.", "損害；敗壞"], "vitriolic": ["Biting, burning.", "刻薄的；惡意的"], "vituperate": ["To berate.", "痛罵；斥責"], "vituperation": ["Blame, abuse.", "謾罵；辱罵"], "vituperative": ["Bitter and abusive in language or tone.", "謾罵的；惡言相向的"], "vixen": ["A female fox; a spiteful or quarrelsome woman (informal).", "雌狐；潑辣的女人(非正式)"], "vogue": ["Fashion.", "流行；時尚"], "void": ["Completely empty space; not valid; to make invalid.", "空虛；無效的；使無效"], "volant": ["Capable of flying; nimble or quick.", "能飛的；敏捷的"], "volatile": ["Explosive or changing very quickly.", "易變的；揮發性的"], "volition": ["Willpower, choice.", "意志；決斷力"], "volubility": ["The quality of being facile in speech and writing.", "健談；口若懸河"], "voluble": ["Talking a great deal with ease; glib.", "健談的；口若懸河的"], "voluminous": ["Bulky, large.", "卷帙浩繁的；龐大的"], "voluptuary": ["A person devoted to luxury and sensual pleasure.", "縱情享樂者"], "voracious": ["Desiring or consuming great quantities.", "貪婪的"], "vow": ["A solemn promise; to promise solemnly.", "誓言；發誓"], "vow populi": ["A variant reference to vox populi, meaning the voice or opinion of the people.", "民意；民眾的聲音(vox populi之異體)"], "voyeur": ["A person who gains gratification from secretly watching others.", "窺視者"], "vulnerable": ["Susceptible, open to attack.", "易受傷的；脆弱的"], "vulpine": ["Resembling or characteristic of a fox.", "狐狸般的；狡猾的"], "waggish": ["Playfully humorous; mischievous.", "詼諧的；愛開玩笑的"], "waif": ["A homeless or neglected person, especially a child; a thin, delicate-looking person.", "流浪兒；瘦弱的人"], "waive": ["To voluntarily give up or relinquish a right or claim.", "放棄(權利)"], "walkathon": ["A long organized walk, especially to raise money for charity.", "馬拉松式健走活動"], "wallow": ["To roll oneself indolently; to become or remain helpless.", "沉溺於；打滾"], "wan": ["Sickly pale.", "蒼白的"], "wander": ["To walk without a clear destination or purpose.", "漫遊；閒逛"], "wane": ["Decrease, decline.", "衰退；減弱"], "wanton": ["Undisciplined, lewd, lustful.", "放縱的；肆意的"], "warmheartedness": ["The quality of being kind, friendly, and affectionate.", "熱心腸；親切"], "warrant": ["A legal document authorizing an action; to justify or guarantee.", "授權令；保證"], "warranted": ["Justified or deserved; reasonable.", "有正當理由的；合理的"], "wart": ["A small, hard growth on the skin caused by a virus.", "疣"], "wary": ["Watchful, shrewd.", "機警的；謹慎的"], "wash": ["To clean with water; a situation that results in no net gain or loss.", "清洗；抵銷"], "waspish": ["Easily irritated and quick to make sharp remarks.", "易怒尖刻的；好挑剔的"], "wastrel": ["A person who wastes money, time, or resources; a lazy or irresponsible person.", "浪費者；無所事事的人"], "wax": ["To increase gradually, as the moon does; a substance used for polishing.", "漸增；蠟"], "wayfaring": ["Traveling, especially on foot.", "旅行的；步行遊歷的"], "wayward": ["Difficult to control or predict, especially due to unusual or unpredictable behavior.", "任性的；難以駕馭的"], "weak": ["Lacking physical strength or power; easily broken or defeated.", "虛弱的；軟弱的"]});

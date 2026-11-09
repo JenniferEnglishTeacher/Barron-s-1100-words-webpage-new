@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "bibliolater",
     "pos": "n.",
     "definition": "A person who worships books, especially the Bible, with excessive devotion.",
-    "chinese": "崇書者;書籍崇拜者",
+    "chinese": "崇書者；書籍崇拜者",
     "synonyms": "",
     "root": "biblio- (book) + latreia (worship), from Greek",
     "group": "fer；lat = 攜帶；產生",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who worships books, especially the Bible, with excessive devotion.",
-     "chinese": "崇書者;書籍崇拜者"
+     "chinese": "崇書者；書籍崇拜者"
     }
    },
    {
     "word": "burglar",
     "pos": "n.",
     "definition": "A person who breaks into a building to steal.",
-    "chinese": "竊賊;夜盜",
+    "chinese": "竊賊；夜盜",
     "synonyms": "",
     "root": "burgus (fortress) + latro (thief), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who breaks into a building to steal.",
-     "chinese": "竊賊;夜盜"
+     "chinese": "竊賊；夜盜"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "deference",
     "pos": "n.",
     "definition": "Respectful submission to another's wishes or judgment.",
-    "chinese": "順從;敬重",
+    "chinese": "順從；敬重",
     "synonyms": "",
     "root": "de- (down) + ferre (to carry), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Respectful submission to another's wishes or judgment.",
-     "chinese": "順從;敬重"
+     "chinese": "順從；敬重"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "ever-present",
     "pos": "adj.",
     "definition": "Constantly existing or occurring; always there.",
-    "chinese": "無所不在的;始終存在的",
+    "chinese": "無所不在的；始終存在的",
     "synonyms": "",
     "root": "ever + present, from Old English + Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Constantly existing or occurring; always there.",
-     "chinese": "無所不在的;始終存在的"
+     "chinese": "無所不在的；始終存在的"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "fertile",
     "pos": "adj.",
     "definition": "Capable of producing abundant vegetation or offspring.",
-    "chinese": "肥沃的;多產的",
+    "chinese": "肥沃的；多產的",
     "synonyms": "",
     "root": "fertilis (fruitful), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of producing abundant vegetation or offspring.",
-     "chinese": "肥沃的;多產的"
+     "chinese": "肥沃的；多產的"
     }
    },
    {
     "word": "floriferous",
     "pos": "adj.",
     "definition": "Producing many flowers.",
-    "chinese": "多花的;花繁的",
+    "chinese": "多花的；花繁的",
     "synonyms": "",
     "root": "flos (flower) + ferre (to bear), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing many flowers.",
-     "chinese": "多花的;花繁的"
+     "chinese": "多花的；花繁的"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "glitterati",
     "pos": "n.",
     "definition": "Fashionable, wealthy, or famous people, especially in entertainment.",
-    "chinese": "名流;社交名人",
+    "chinese": "名流；社交名人",
     "synonyms": "",
     "root": "glitter + literati (blend), from English + Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fashionable, wealthy, or famous people, especially in entertainment.",
-     "chinese": "名流;社交名人"
+     "chinese": "名流；社交名人"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "ill-composed",
     "pos": "adj.",
     "definition": "Poorly arranged or constructed.",
-    "chinese": "組織不佳的;構思欠妥的",
+    "chinese": "組織不佳的；構思欠妥的",
     "synonyms": "",
     "root": "ill + componere (to compose), from Old Norse + Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poorly arranged or constructed.",
-     "chinese": "組織不佳的;構思欠妥的"
+     "chinese": "組織不佳的；構思欠妥的"
     }
    },
    {
     "word": "ill-humored",
     "pos": "adj.",
     "definition": "Irritable or bad-tempered.",
-    "chinese": "脾氣不好的;易怒的",
+    "chinese": "脾氣不好的；易怒的",
     "synonyms": "",
     "root": "ill + humor (bodily fluid, mood), from Old Norse + Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritable or bad-tempered.",
-     "chinese": "脾氣不好的;易怒的"
+     "chinese": "脾氣不好的；易怒的"
     }
    },
    {
     "word": "infer",
     "pos": "v.",
     "definition": "To deduce or conclude from evidence and reasoning.",
-    "chinese": "推斷;推論",
+    "chinese": "推斷；推論",
     "synonyms": "",
     "root": "in- (into) + ferre (to carry), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deduce or conclude from evidence and reasoning.",
-     "chinese": "推斷;推論"
+     "chinese": "推斷；推論"
     }
    },
    {
     "word": "infertile",
     "pos": "adj.",
     "definition": "Unable to produce offspring or crops; barren.",
-    "chinese": "不孕的;貧瘠的",
+    "chinese": "不孕的；貧瘠的",
     "synonyms": "",
     "root": "in- (not) + fertilis (fruitful), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -516,14 +516,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to produce offspring or crops; barren.",
-     "chinese": "不孕的;貧瘠的"
+     "chinese": "不孕的；貧瘠的"
     }
    },
    {
     "word": "inter vivos",
     "pos": "adj.",
     "definition": "Made or effective between living persons, especially of a legal transfer.",
-    "chinese": "生前的;生者之間的(法律用語)",
+    "chinese": "生前的；生者之間的(法律用語)",
     "synonyms": "",
     "root": "Latin inter (between) + vivos (the living)",
     "group": "fer；lat = 攜帶；產生",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Made or effective between living persons, especially of a legal transfer.",
-     "chinese": "生前的;生者之間的(法律用語)"
+     "chinese": "生前的；生者之間的(法律用語)"
     }
    },
    {
     "word": "ipse dixit",
     "pos": "n.",
     "definition": "An unsupported assertion presented as fact.",
-    "chinese": "武斷之言;未經證實的斷言",
+    "chinese": "武斷之言；未經證實的斷言",
     "synonyms": "",
     "root": "Latin ipse (himself) + dixit (said)",
     "group": "fer；lat = 攜帶；產生",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unsupported assertion presented as fact.",
-     "chinese": "武斷之言;未經證實的斷言"
+     "chinese": "武斷之言；未經證實的斷言"
     }
    },
    {
     "word": "ipso facto",
     "pos": "adv.",
     "definition": "By that very fact or act.",
-    "chinese": "事實上;因此",
+    "chinese": "事實上；因此",
     "synonyms": "",
     "root": "Latin ipso (itself) + facto (by the fact)",
     "group": "fer；lat = 攜帶；產生",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "By that very fact or act.",
-     "chinese": "事實上;因此"
+     "chinese": "事實上；因此"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "latitude",
     "pos": "n.",
     "definition": "Freedom of action or thought; a geographic coordinate.",
-    "chinese": "自由度;緯度",
+    "chinese": "自由度；緯度",
     "synonyms": "",
     "root": "latitudo (breadth), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -611,14 +611,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Freedom of action or thought; a geographic coordinate.",
-     "chinese": "自由度;緯度"
+     "chinese": "自由度；緯度"
     }
    },
    {
     "word": "latitudinarian",
     "pos": "adj./n.",
     "definition": "Showing tolerance of different beliefs, especially in religion.",
-    "chinese": "寬容的;自由派的(尤指宗教)",
+    "chinese": "寬容的；自由派的(尤指宗教)",
     "synonyms": "",
     "root": "latitudo (breadth), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -630,7 +630,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing tolerance of different beliefs, especially in religion.",
-     "chinese": "寬容的;自由派的(尤指宗教)"
+     "chinese": "寬容的；自由派的(尤指宗教)"
     }
    },
    {
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "word": "odoriferous",
     "pos": "adj.",
     "definition": "Having or diffusing a strong smell, especially a pleasant one.",
-    "chinese": "芳香四溢的;有濃郁氣味的",
+    "chinese": "芳香四溢的；有濃郁氣味的",
     "synonyms": "",
     "root": "odor (smell) + ferre (to carry), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or diffusing a strong smell, especially a pleasant one.",
-     "chinese": "芳香四溢的;有濃郁氣味的"
+     "chinese": "芳香四溢的；有濃郁氣味的"
     }
    },
    {
     "word": "perfervid",
     "pos": "adj.",
     "definition": "Showing intense and passionate feeling.",
-    "chinese": "極度熱情的;狂熱的",
+    "chinese": "極度熱情的；狂熱的",
     "synonyms": "",
     "root": "per- (thoroughly) + fervidus (glowing, ardent), from Latin fervere (to boil)",
     "group": "fer；lat = 攜帶；產生",
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing intense and passionate feeling.",
-     "chinese": "極度熱情的;狂熱的"
+     "chinese": "極度熱情的；狂熱的"
     }
    },
    {
@@ -713,7 +713,7 @@ window.FLASHCARD_UNITS = {
     "word": "preference",
     "pos": "n.",
     "definition": "A greater liking for one option over another.",
-    "chinese": "偏好;偏愛",
+    "chinese": "偏好；偏愛",
     "synonyms": "",
     "root": "prae- (before) + ferre (to carry), from Latin",
     "group": "fer；lat = 攜帶；產生",
@@ -727,14 +727,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A greater liking for one option over another.",
-     "chinese": "偏好;偏愛"
+     "chinese": "偏好；偏愛"
     }
    },
    {
     "word": "refer",
     "pos": "v.",
     "definition": "To mention or allude to something; to direct someone to a source of information.",
-    "chinese": "提及;轉介",
+    "chinese": "提及；轉介",
     "synonyms": "",
     "root": "referre (to carry back), from Latin re- (back) + ferre (to carry)",
     "group": "fer；lat = 攜帶；產生",
@@ -746,14 +746,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To mention or allude to something; to direct someone to a source of information.",
-     "chinese": "提及;轉介"
+     "chinese": "提及；轉介"
     }
    },
    {
     "word": "reference",
     "pos": "n.",
     "definition": "A mention of something; a source consulted for information.",
-    "chinese": "參考;提及",
+    "chinese": "參考；提及",
     "synonyms": "",
     "root": "referre (to carry back), from Latin re- (back) + ferre (to carry)",
     "group": "fer；lat = 攜帶；產生",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A mention of something; a source consulted for information.",
-     "chinese": "參考;提及"
+     "chinese": "參考；提及"
     }
    },
    {
@@ -793,7 +793,7 @@ window.FLASHCARD_UNITS = {
     "word": "vociferate",
     "pos": "v.",
     "definition": "To shout or express loudly and forcefully.",
-    "chinese": "大聲喊叫;高聲抗議",
+    "chinese": "大聲喊叫；高聲抗議",
     "synonyms": "",
     "root": "vociferari, from Latin vox (voice) + ferre (to carry)",
     "group": "fer；lat = 攜帶；產生",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To shout or express loudly and forcefully.",
-     "chinese": "大聲喊叫;高聲抗議"
+     "chinese": "大聲喊叫；高聲抗議"
     }
    }
   ],
@@ -1822,4 +1822,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vociferous": ["Loud and noisy regarding one's own voice, especially shouting; demandingly clamorous.", "大聲喧嚷的"], "bibliolater": ["A person who worships books, especially the Bible, with excessive devotion.", "崇書者;書籍崇拜者"], "burglar": ["A person who breaks into a building to steal.", "竊賊;夜盜"], "burglarize": ["To break into and steal from a building.", "入室盜竊"], "collateral": ["Secondary.", "附帶的；擔保品的"], "defer": ["To postpone something; to yield to another's wisdom.", "延遲；順從"], "deference": ["Respectful submission to another's wishes or judgment.", "順從;敬重"], "deferential": ["Showing respect for another's authority.", "恭敬的；順從的"], "dilatory": ["Tending to delay, causing delay.", "拖延的；延誤的"], "elated": ["Overjoyed, thrilled.", "興高采烈的；欣喜的"], "endnote": ["A note printed at the end of a chapter or book providing further information.", "尾註"], "ever-present": ["Constantly existing or occurring; always there.", "無所不在的;始終存在的"], "feral": ["Wild, savage.", "野生的；未馴化的"], "fertile": ["Capable of producing abundant vegetation or offspring.", "肥沃的;多產的"], "floriferous": ["Producing many flowers.", "多花的;花繁的"], "footnote": ["An additional note printed at the bottom of a page.", "腳註"], "glitterati": ["Fashionable, wealthy, or famous people, especially in entertainment.", "名流;社交名人"], "heliolater": ["A worshipper of the sun.", "太陽崇拜者"], "heliolatrous": ["Relating to the worship of the sun.", "崇拜太陽的"], "heliolatry": ["The worship of the sun.", "太陽崇拜"], "heterosexual": ["Sexually attracted to people of the opposite sex.", "異性戀的"], "homosexual": ["Sexually attracted to people of the same sex.", "同性戀的"], "idolatrous": ["Excessively worshipping one object or person.", "偶像崇拜的"], "ill-composed": ["Poorly arranged or constructed.", "組織不佳的;構思欠妥的"], "ill-humored": ["Irritable or bad-tempered.", "脾氣不好的;易怒的"], "infer": ["To deduce or conclude from evidence and reasoning.", "推斷;推論"], "infertile": ["Unable to produce offspring or crops; barren.", "不孕的;貧瘠的"], "inter vivos": ["Made or effective between living persons, especially of a legal transfer.", "生前的;生者之間的(法律用語)"], "ipse dixit": ["An unsupported assertion presented as fact.", "武斷之言;未經證實的斷言"], "ipso facto": ["By that very fact or act.", "事實上;因此"], "larceny": ["Obtaining another's property by theft or trickery.", "盜竊罪"], "latitude": ["Freedom of action or thought; a geographic coordinate.", "自由度;緯度"], "latitudinarian": ["Showing tolerance of different beliefs, especially in religion.", "寬容的;自由派的(尤指宗教)"], "monocle": ["A single eyeglass held in place by facial muscles.", "單片眼鏡"], "odoriferous": ["Having or diffusing a strong smell, especially a pleasant one.", "芳香四溢的;有濃郁氣味的"], "perfervid": ["Showing intense and passionate feeling.", "極度熱情的;狂熱的"], "plutolatry": ["Excessive reverence or worship of wealth.", "拜金主義"], "preference": ["A greater liking for one option over another.", "偏好;偏愛"], "refer": ["To mention or allude to something; to direct someone to a source of information.", "提及;轉介"], "reference": ["A mention of something; a source consulted for information.", "參考;提及"], "somniferous": ["Sleep inducing.", "催眠的；使人昏昏欲睡的"], "vociferate": ["To shout or express loudly and forcefully.", "大聲喊叫;高聲抗議"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vociferous": ["Loud and noisy regarding one's own voice, especially shouting; demandingly clamorous.", "大聲喧嚷的"], "bibliolater": ["A person who worships books, especially the Bible, with excessive devotion.", "崇書者；書籍崇拜者"], "burglar": ["A person who breaks into a building to steal.", "竊賊；夜盜"], "burglarize": ["To break into and steal from a building.", "入室盜竊"], "collateral": ["Secondary.", "附帶的；擔保品的"], "defer": ["To postpone something; to yield to another's wisdom.", "延遲；順從"], "deference": ["Respectful submission to another's wishes or judgment.", "順從；敬重"], "deferential": ["Showing respect for another's authority.", "恭敬的；順從的"], "dilatory": ["Tending to delay, causing delay.", "拖延的；延誤的"], "elated": ["Overjoyed, thrilled.", "興高采烈的；欣喜的"], "endnote": ["A note printed at the end of a chapter or book providing further information.", "尾註"], "ever-present": ["Constantly existing or occurring; always there.", "無所不在的；始終存在的"], "feral": ["Wild, savage.", "野生的；未馴化的"], "fertile": ["Capable of producing abundant vegetation or offspring.", "肥沃的；多產的"], "floriferous": ["Producing many flowers.", "多花的；花繁的"], "footnote": ["An additional note printed at the bottom of a page.", "腳註"], "glitterati": ["Fashionable, wealthy, or famous people, especially in entertainment.", "名流；社交名人"], "heliolater": ["A worshipper of the sun.", "太陽崇拜者"], "heliolatrous": ["Relating to the worship of the sun.", "崇拜太陽的"], "heliolatry": ["The worship of the sun.", "太陽崇拜"], "heterosexual": ["Sexually attracted to people of the opposite sex.", "異性戀的"], "homosexual": ["Sexually attracted to people of the same sex.", "同性戀的"], "idolatrous": ["Excessively worshipping one object or person.", "偶像崇拜的"], "ill-composed": ["Poorly arranged or constructed.", "組織不佳的；構思欠妥的"], "ill-humored": ["Irritable or bad-tempered.", "脾氣不好的；易怒的"], "infer": ["To deduce or conclude from evidence and reasoning.", "推斷；推論"], "infertile": ["Unable to produce offspring or crops; barren.", "不孕的；貧瘠的"], "inter vivos": ["Made or effective between living persons, especially of a legal transfer.", "生前的；生者之間的(法律用語)"], "ipse dixit": ["An unsupported assertion presented as fact.", "武斷之言；未經證實的斷言"], "ipso facto": ["By that very fact or act.", "事實上；因此"], "larceny": ["Obtaining another's property by theft or trickery.", "盜竊罪"], "latitude": ["Freedom of action or thought; a geographic coordinate.", "自由度；緯度"], "latitudinarian": ["Showing tolerance of different beliefs, especially in religion.", "寬容的；自由派的(尤指宗教)"], "monocle": ["A single eyeglass held in place by facial muscles.", "單片眼鏡"], "odoriferous": ["Having or diffusing a strong smell, especially a pleasant one.", "芳香四溢的；有濃郁氣味的"], "perfervid": ["Showing intense and passionate feeling.", "極度熱情的；狂熱的"], "plutolatry": ["Excessive reverence or worship of wealth.", "拜金主義"], "preference": ["A greater liking for one option over another.", "偏好；偏愛"], "refer": ["To mention or allude to something; to direct someone to a source of information.", "提及；轉介"], "reference": ["A mention of something; a source consulted for information.", "參考；提及"], "somniferous": ["Sleep inducing.", "催眠的；使人昏昏欲睡的"], "vociferate": ["To shout or express loudly and forcefully.", "大聲喊叫；高聲抗議"]});

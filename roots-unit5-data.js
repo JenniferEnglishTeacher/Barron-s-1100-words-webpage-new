@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "antagonize",
     "pos": "v.",
     "definition": "To provoke hostility in someone.",
-    "chinese": "激怒;使敵對",
+    "chinese": "激怒；使敵對",
     "synonyms": "",
     "root": "anti- (against) + agonizesthai (to contend), from Greek",
     "group": "anti = 反對；對抗；相反",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To provoke hostility in someone.",
-     "chinese": "激怒;使敵對"
+     "chinese": "激怒；使敵對"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "antipyretic",
     "pos": "adj./n.",
     "definition": "Reducing fever; a medicine that reduces fever.",
-    "chinese": "退燒的;退燒藥",
+    "chinese": "退燒的；退燒藥",
     "synonyms": "",
     "root": "anti- (against) + pyretos (fever), from Greek",
     "group": "anti = 反對；對抗；相反",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reducing fever; a medicine that reduces fever.",
-     "chinese": "退燒的;退燒藥"
+     "chinese": "退燒的；退燒藥"
     }
    },
    {
@@ -524,4 +524,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"antithesis": ["The exact opposite of something.", "對立面；正相反的事物"], "antipathy": ["A strong feeling of dislike or hostility.", "反感；厭惡"], "antagonism": ["Hatred or hostility.", "敵對；對抗"], "antidote": ["A remedy that counteracts poison or relieves a harmful condition.", "解毒劑；緩解辦法"], "antagonistic": ["Showing hostility or opposition.", "敵對的；對抗性的"], "antagonize": ["To provoke hostility in someone.", "激怒;使敵對"], "anticlimax": ["A disappointing ending after an exciting or impressive buildup.", "令人失望的結局；虎頭蛇尾"], "antipyretic": ["Reducing fever; a medicine that reduces fever.", "退燒的;退燒藥"], "antiseptic": ["A substance that prevents infection; sterile, impersonal, or lacking warmth.", "殺菌劑；防腐的；缺乏生氣的"], "antiquated": ["Old-fashioned, outdated, or no longer useful.", "陳舊的；過時的"], "antibody": ["A protective protein produced by the immune system to neutralize harmful substances.", "抗體"], "antisocial": ["Avoiding social interaction or showing disregard for social rules and others' rights.", "反社會的；不愛社交的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"antithesis": ["The exact opposite of something.", "對立面；正相反的事物"], "antipathy": ["A strong feeling of dislike or hostility.", "反感；厭惡"], "antagonism": ["Hatred or hostility.", "敵對；對抗"], "antidote": ["A remedy that counteracts poison or relieves a harmful condition.", "解毒劑；緩解辦法"], "antagonistic": ["Showing hostility or opposition.", "敵對的；對抗性的"], "antagonize": ["To provoke hostility in someone.", "激怒；使敵對"], "anticlimax": ["A disappointing ending after an exciting or impressive buildup.", "令人失望的結局；虎頭蛇尾"], "antipyretic": ["Reducing fever; a medicine that reduces fever.", "退燒的；退燒藥"], "antiseptic": ["A substance that prevents infection; sterile, impersonal, or lacking warmth.", "殺菌劑；防腐的；缺乏生氣的"], "antiquated": ["Old-fashioned, outdated, or no longer useful.", "陳舊的；過時的"], "antibody": ["A protective protein produced by the immune system to neutralize harmful substances.", "抗體"], "antisocial": ["Avoiding social interaction or showing disregard for social rules and others' rights.", "反社會的；不愛社交的"]});

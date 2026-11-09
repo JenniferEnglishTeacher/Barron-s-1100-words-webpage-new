@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "metamorphose",
     "pos": "v.",
     "definition": "To transform completely, as if by magic.",
-    "chinese": "使變形;徹底轉變",
+    "chinese": "使變形；徹底轉變",
     "synonyms": "",
     "root": "meta- (change) + morphe (form), from Greek",
     "group": "meta = 之後；超越；變化",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To transform completely, as if by magic.",
-     "chinese": "使變形;徹底轉變"
+     "chinese": "使變形；徹底轉變"
     }
    },
    {
     "word": "metaphor",
     "pos": "n.",
     "definition": "A figure of speech comparing two unlike things without using 'like' or 'as'.",
-    "chinese": "隱喻;暗喻",
+    "chinese": "隱喻；暗喻",
     "synonyms": "",
     "root": "meta- (over, beyond) + pherein (to carry), from Greek",
     "group": "meta = 之後；超越；變化",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A figure of speech comparing two unlike things without using 'like' or 'as'.",
-     "chinese": "隱喻;暗喻"
+     "chinese": "隱喻；暗喻"
     }
    },
    {
     "word": "metathesis",
     "pos": "n.",
     "definition": "The transposition of sounds or letters in a word.",
-    "chinese": "音位換位;字母倒置",
+    "chinese": "音位換位；字母倒置",
     "synonyms": "",
     "root": "meta- (change) + tithenai (to place), from Greek",
     "group": "meta = 之後；超越；變化",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The transposition of sounds or letters in a word.",
-     "chinese": "音位換位;字母倒置"
+     "chinese": "音位換位；字母倒置"
     }
    },
    {
@@ -395,4 +395,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"metamorphosis": ["A complete and often dramatic change in form, appearance, or character.", "蛻變；變形；劇烈轉變"], "metamorphose": ["To transform completely, as if by magic.", "使變形;徹底轉變"], "metaphor": ["A figure of speech comparing two unlike things without using 'like' or 'as'.", "隱喻;暗喻"], "metathesis": ["The transposition of sounds or letters in a word.", "音位換位;字母倒置"], "metaphorical": ["Using a word or phrase symbolically rather than in its literal sense.", "隱喻性的；比喻的"], "metabolism": ["The chemical processes by which a living body converts food into energy and materials for growth.", "新陳代謝"], "metastasis": ["The spread of disease, especially cancer, from one part of the body to another.", "轉移；擴散（尤指癌細胞）"], "metaphysical": ["Concerned with existence, reality, and ideas beyond the physical world.", "形而上學的；玄學的；超越物質世界的"], "metonymy": ["A figure of speech in which the name of one thing is replaced by the name of something closely associated with it.", "轉喻；借代"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"metamorphosis": ["A complete and often dramatic change in form, appearance, or character.", "蛻變；變形；劇烈轉變"], "metamorphose": ["To transform completely, as if by magic.", "使變形；徹底轉變"], "metaphor": ["A figure of speech comparing two unlike things without using 'like' or 'as'.", "隱喻；暗喻"], "metathesis": ["The transposition of sounds or letters in a word.", "音位換位；字母倒置"], "metaphorical": ["Using a word or phrase symbolically rather than in its literal sense.", "隱喻性的；比喻的"], "metabolism": ["The chemical processes by which a living body converts food into energy and materials for growth.", "新陳代謝"], "metastasis": ["The spread of disease, especially cancer, from one part of the body to another.", "轉移；擴散（尤指癌細胞）"], "metaphysical": ["Concerned with existence, reality, and ideas beyond the physical world.", "形而上學的；玄學的；超越物質世界的"], "metonymy": ["A figure of speech in which the name of one thing is replaced by the name of something closely associated with it.", "轉喻；借代"]});

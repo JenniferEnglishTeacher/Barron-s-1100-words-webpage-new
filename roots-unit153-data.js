@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "courier",
     "pos": "n.",
     "definition": "A messenger who carries goods or documents.",
-    "chinese": "信使;快遞員",
+    "chinese": "信使；快遞員",
     "synonyms": "",
     "root": "currere (to run), from Latin",
     "group": "cur；curs = 跑",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A messenger who carries goods or documents.",
-     "chinese": "信使;快遞員"
+     "chinese": "信使；快遞員"
     }
    },
    {
     "word": "course",
     "pos": "n.",
     "definition": "A direction of movement; a series of lessons.",
-    "chinese": "路線;課程",
+    "chinese": "路線；課程",
     "synonyms": "",
     "root": "currere (to run), from Latin",
     "group": "cur；curs = 跑",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A direction of movement; a series of lessons.",
-     "chinese": "路線;課程"
+     "chinese": "路線；課程"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "curriculum",
     "pos": "n.",
     "definition": "The subjects comprising a course of study.",
-    "chinese": "課程;學程",
+    "chinese": "課程；學程",
     "synonyms": "",
     "root": "currere (to run), from Latin",
     "group": "cur；curs = 跑",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The subjects comprising a course of study.",
-     "chinese": "課程;學程"
+     "chinese": "課程；學程"
     }
    },
    {
     "word": "discourse",
     "pos": "n./v.",
     "definition": "Written or spoken communication; to converse formally.",
-    "chinese": "話語;論述;交談",
+    "chinese": "話語；論述；交談",
     "synonyms": "",
     "root": "dis- (apart) + currere (to run), from Latin",
     "group": "cur；curs = 跑",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Written or spoken communication; to converse formally.",
-     "chinese": "話語;論述;交談"
+     "chinese": "話語；論述；交談"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "precursor",
     "pos": "n.",
     "definition": "A person or thing that precedes and leads to the development of something else.",
-    "chinese": "先驅;前身",
+    "chinese": "先驅；前身",
     "synonyms": "",
     "root": "prae- (before) + currere (to run), from Latin",
     "group": "cur；curs = 跑",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person or thing that precedes and leads to the development of something else.",
-     "chinese": "先驅;前身"
+     "chinese": "先驅；前身"
     }
    },
    {
     "word": "recur",
     "pos": "v.",
     "definition": "To happen again periodically or repeatedly.",
-    "chinese": "復發;再次發生",
+    "chinese": "復發；再次發生",
     "synonyms": "",
     "root": "recurrere (to run back), from Latin re- (back) + currere (to run)",
     "group": "cur；curs = 跑",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To happen again periodically or repeatedly.",
-     "chinese": "復發;再次發生"
+     "chinese": "復發；再次發生"
     }
    },
    {
     "word": "recurrence",
     "pos": "n.",
     "definition": "The repeated occurrence of something.",
-    "chinese": "復發;再現",
+    "chinese": "復發；再現",
     "synonyms": "",
     "root": "recurrere (to run back), from Latin re- (back) + currere (to run)",
     "group": "cur；curs = 跑",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The repeated occurrence of something.",
-     "chinese": "復發;再現"
+     "chinese": "復發；再現"
     }
    },
    {
     "word": "succor",
     "pos": "n./v.",
     "definition": "Assistance and support in times of hardship.",
-    "chinese": "援助;救助",
+    "chinese": "援助；救助",
     "synonyms": "",
     "root": "succurrere, from Latin sub- (under) + currere (to run)",
     "group": "cur；curs = 跑",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Assistance and support in times of hardship.",
-     "chinese": "援助;救助"
+     "chinese": "援助；救助"
     }
    }
   ],
@@ -612,4 +612,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"concur": ["To agree.", "同意"], "cursory": ["Hasty, not thorough.", "粗略的；草率的"], "courier": ["A messenger who carries goods or documents.", "信使;快遞員"], "course": ["A direction of movement; a series of lessons.", "路線;課程"], "curmudgeonly": ["Bad-tempered, especially in an old person.", "脾氣古怪暴躁的"], "curriculum": ["The subjects comprising a course of study.", "課程;學程"], "discourse": ["Written or spoken communication; to converse formally.", "話語;論述;交談"], "discursive": ["Rambling, lacking order.", "散漫的；離題的"], "excursion": ["A trip or outing.", "遠足；短程旅行"], "pococurante": ["Indifferent or nonchalant; a careless, apathetic person.", "漠不關心的(人)"], "precursor": ["A person or thing that precedes and leads to the development of something else.", "先驅;前身"], "recur": ["To happen again periodically or repeatedly.", "復發;再次發生"], "recurrence": ["The repeated occurrence of something.", "復發;再現"], "succor": ["Assistance and support in times of hardship.", "援助;救助"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"concur": ["To agree.", "同意"], "cursory": ["Hasty, not thorough.", "粗略的；草率的"], "courier": ["A messenger who carries goods or documents.", "信使；快遞員"], "course": ["A direction of movement; a series of lessons.", "路線；課程"], "curmudgeonly": ["Bad-tempered, especially in an old person.", "脾氣古怪暴躁的"], "curriculum": ["The subjects comprising a course of study.", "課程；學程"], "discourse": ["Written or spoken communication; to converse formally.", "話語；論述；交談"], "discursive": ["Rambling, lacking order.", "散漫的；離題的"], "excursion": ["A trip or outing.", "遠足；短程旅行"], "pococurante": ["Indifferent or nonchalant; a careless, apathetic person.", "漠不關心的(人)"], "precursor": ["A person or thing that precedes and leads to the development of something else.", "先驅；前身"], "recur": ["To happen again periodically or repeatedly.", "復發；再次發生"], "recurrence": ["The repeated occurrence of something.", "復發；再現"], "succor": ["Assistance and support in times of hardship.", "援助；救助"]});

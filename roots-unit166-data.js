@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "befuddled",
     "pos": "adj.",
     "definition": "Confused or bewildered.",
-    "chinese": "困惑的;迷糊的",
+    "chinese": "困惑的；迷糊的",
     "synonyms": "",
     "root": "be- (thoroughly) + fuddle (to confuse)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Confused or bewildered.",
-     "chinese": "困惑的;迷糊的"
+     "chinese": "困惑的；迷糊的"
     }
    },
    {
     "word": "begrime",
     "pos": "v.",
     "definition": "To make dirty or grimy.",
-    "chinese": "弄髒;沾污",
+    "chinese": "弄髒；沾污",
     "synonyms": "",
     "root": "be- (thoroughly) + grime",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To make dirty or grimy.",
-     "chinese": "弄髒;沾污"
+     "chinese": "弄髒；沾污"
     }
    },
    {
@@ -88,7 +88,7 @@ window.FLASHCARD_UNITS = {
     "word": "beguiled",
     "pos": "adj.",
     "definition": "Charmed or enchanted, often in a deceptive way.",
-    "chinese": "被迷惑的;被欺騙的",
+    "chinese": "被迷惑的；被欺騙的",
     "synonyms": "",
     "root": "be- (thoroughly) + guile (deceit)",
     "group": "",
@@ -100,14 +100,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Charmed or enchanted, often in a deceptive way.",
-     "chinese": "被迷惑的;被欺騙的"
+     "chinese": "被迷惑的；被欺騙的"
     }
    },
    {
     "word": "beguiling",
     "pos": "adj.",
     "definition": "Charming or attractive in a deceptive way.",
-    "chinese": "迷人的;誘人的(帶有欺騙性)",
+    "chinese": "迷人的；誘人的(帶有欺騙性)",
     "synonyms": "",
     "root": "be- (thoroughly) + guile (deceit)",
     "group": "",
@@ -119,7 +119,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Charming or attractive in a deceptive way.",
-     "chinese": "迷人的;誘人的(帶有欺騙性)"
+     "chinese": "迷人的；誘人的(帶有欺騙性)"
     }
    },
    {
@@ -185,7 +185,7 @@ window.FLASHCARD_UNITS = {
     "word": "belie",
     "pos": "v.",
     "definition": "To give a false impression of; to contradict.",
-    "chinese": "掩飾;與...矛盾",
+    "chinese": "掩飾；與...矛盾",
     "synonyms": "",
     "root": "be- (thoroughly) + lie",
     "group": "",
@@ -199,7 +199,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To give a false impression of; to contradict.",
-     "chinese": "掩飾;與...矛盾"
+     "chinese": "掩飾；與...矛盾"
     }
    },
    {
@@ -225,7 +225,7 @@ window.FLASHCARD_UNITS = {
     "word": "belittling",
     "pos": "adj./n.",
     "definition": "Making someone or something seem unimportant.",
-    "chinese": "貶低的;輕視",
+    "chinese": "貶低的；輕視",
     "synonyms": "",
     "root": "be- (thoroughly) + little",
     "group": "",
@@ -237,7 +237,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making someone or something seem unimportant.",
-     "chinese": "貶低的;輕視"
+     "chinese": "貶低的；輕視"
     }
    },
    {
@@ -282,7 +282,7 @@ window.FLASHCARD_UNITS = {
     "word": "bellwether",
     "pos": "n.",
     "definition": "Something that indicates a future trend; a leader.",
-    "chinese": "領頭羊;風向指標",
+    "chinese": "領頭羊；風向指標",
     "synonyms": "",
     "root": "bell + wether (a castrated ram)",
     "group": "",
@@ -294,14 +294,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that indicates a future trend; a leader.",
-     "chinese": "領頭羊;風向指標"
+     "chinese": "領頭羊；風向指標"
     }
    },
    {
     "word": "bemoan",
     "pos": "v.",
     "definition": "To express regret or dissatisfaction about something.",
-    "chinese": "哀嘆;悲嘆",
+    "chinese": "哀嘆；悲嘆",
     "synonyms": "",
     "root": "be- (thoroughly) + moan",
     "group": "",
@@ -315,14 +315,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To express regret or dissatisfaction about something.",
-     "chinese": "哀嘆;悲嘆"
+     "chinese": "哀嘆；悲嘆"
     }
    },
    {
     "word": "bemuse",
     "pos": "v.",
     "definition": "To puzzle or confuse someone, often mildly.",
-    "chinese": "使困惑;使發愣",
+    "chinese": "使困惑；使發愣",
     "synonyms": "",
     "root": "be- (thoroughly) + muse (to ponder)",
     "group": "",
@@ -334,7 +334,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To puzzle or confuse someone, often mildly.",
-     "chinese": "使困惑;使發愣"
+     "chinese": "使困惑；使發愣"
     }
    },
    {
@@ -360,7 +360,7 @@ window.FLASHCARD_UNITS = {
     "word": "benighted",
     "pos": "adj.",
     "definition": "Lacking cultural or moral enlightenment; ignorant.",
-    "chinese": "愚昧的;未開化的",
+    "chinese": "愚昧的；未開化的",
     "synonyms": "",
     "root": "be- (thoroughly) + night",
     "group": "",
@@ -372,7 +372,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking cultural or moral enlightenment; ignorant.",
-     "chinese": "愚昧的;未開化的"
+     "chinese": "愚昧的；未開化的"
     }
    },
    {
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "word": "bereaved",
     "pos": "adj./n.",
     "definition": "Having recently lost a loved one through death.",
-    "chinese": "喪親的;喪親者",
+    "chinese": "喪親的；喪親者",
     "synonyms": "",
     "root": "be- (thoroughly) + reave (to plunder)",
     "group": "",
@@ -469,7 +469,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having recently lost a loved one through death.",
-     "chinese": "喪親的;喪親者"
+     "chinese": "喪親的；喪親者"
     }
    },
    {
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "word": "beset",
     "pos": "v.",
     "definition": "To trouble or harass persistently.",
-    "chinese": "困擾;圍攻",
+    "chinese": "困擾；圍攻",
     "synonyms": "",
     "root": "be- (thoroughly) + set",
     "group": "",
@@ -545,7 +545,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To trouble or harass persistently.",
-     "chinese": "困擾;圍攻"
+     "chinese": "困擾；圍攻"
     }
    },
    {
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "word": "beslime",
     "pos": "v.",
     "definition": "To cover with slime; to defile or defame.",
-    "chinese": "使沾滿黏液;玷污(名譽)",
+    "chinese": "使沾滿黏液；玷污(名譽)",
     "synonyms": "",
     "root": "be- (thoroughly) + slime",
     "group": "",
@@ -585,14 +585,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cover with slime; to defile or defame.",
-     "chinese": "使沾滿黏液;玷污(名譽)"
+     "chinese": "使沾滿黏液；玷污(名譽)"
     }
    },
    {
     "word": "beslobber",
     "pos": "v.",
     "definition": "To smear with saliva or drool; to fawn over excessively.",
-    "chinese": "流口水弄髒;過度奉承",
+    "chinese": "流口水弄髒；過度奉承",
     "synonyms": "",
     "root": "be- (thoroughly) + slobber",
     "group": "",
@@ -604,14 +604,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To smear with saliva or drool; to fawn over excessively.",
-     "chinese": "流口水弄髒;過度奉承"
+     "chinese": "流口水弄髒；過度奉承"
     }
    },
    {
     "word": "besmear",
     "pos": "v.",
     "definition": "To smear or stain, literally or figuratively.",
-    "chinese": "塗污;玷污",
+    "chinese": "塗污；玷污",
     "synonyms": "",
     "root": "be- (thoroughly) + smear",
     "group": "",
@@ -623,7 +623,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To smear or stain, literally or figuratively.",
-     "chinese": "塗污;玷污"
+     "chinese": "塗污；玷污"
     }
    },
    {
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "word": "besotted",
     "pos": "adj.",
     "definition": "Infatuated or obsessively fond of someone; intoxicated.",
-    "chinese": "迷戀的;沉醉的",
+    "chinese": "迷戀的；沉醉的",
     "synonyms": "",
     "root": "be- (thoroughly) + sot (a fool, drunkard)",
     "group": "",
@@ -661,14 +661,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Infatuated or obsessively fond of someone; intoxicated.",
-     "chinese": "迷戀的;沉醉的"
+     "chinese": "迷戀的；沉醉的"
     }
    },
    {
     "word": "besprinkle",
     "pos": "v.",
     "definition": "To scatter something over a surface.",
-    "chinese": "灑;撒",
+    "chinese": "灑；撒",
     "synonyms": "",
     "root": "be- (thoroughly) + sprinkle",
     "group": "",
@@ -680,14 +680,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To scatter something over a surface.",
-     "chinese": "灑;撒"
+     "chinese": "灑；撒"
     }
    },
    {
     "word": "bestial",
     "pos": "adj.",
     "definition": "Savagely cruel; resembling an animal in behavior.",
-    "chinese": "獸性的;殘暴的",
+    "chinese": "獸性的；殘暴的",
     "synonyms": "",
     "root": "bestia (beast, from Latin)",
     "group": "",
@@ -699,14 +699,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Savagely cruel; resembling an animal in behavior.",
-     "chinese": "獸性的;殘暴的"
+     "chinese": "獸性的；殘暴的"
     }
    },
    {
     "word": "beware",
     "pos": "v.",
     "definition": "To be cautious of possible danger.",
-    "chinese": "當心;提防",
+    "chinese": "當心；提防",
     "synonyms": "",
     "root": "be- (thoroughly) + ware (aware)",
     "group": "",
@@ -718,14 +718,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To be cautious of possible danger.",
-     "chinese": "當心;提防"
+     "chinese": "當心；提防"
     }
    },
    {
     "word": "bewilder",
     "pos": "v.",
     "definition": "To confuse someone greatly.",
-    "chinese": "使困惑;使迷惘",
+    "chinese": "使困惑；使迷惘",
     "synonyms": "",
     "root": "be- (thoroughly) + wilder (to lead astray)",
     "group": "",
@@ -737,14 +737,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To confuse someone greatly.",
-     "chinese": "使困惑;使迷惘"
+     "chinese": "使困惑；使迷惘"
     }
    },
    {
     "word": "bewitch",
     "pos": "v.",
     "definition": "To cast a spell over; to captivate completely.",
-    "chinese": "施魔法;使著迷",
+    "chinese": "施魔法；使著迷",
     "synonyms": "",
     "root": "be- (thoroughly) + witch",
     "group": "",
@@ -756,7 +756,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cast a spell over; to captivate completely.",
-     "chinese": "施魔法;使著迷"
+     "chinese": "施魔法；使著迷"
     }
    },
    {
@@ -782,7 +782,7 @@ window.FLASHCARD_UNITS = {
     "word": "biased",
     "pos": "adj.",
     "definition": "Showing unfair favoritism or prejudice.",
-    "chinese": "有偏見的;偏頗的",
+    "chinese": "有偏見的；偏頗的",
     "synonyms": "",
     "root": "biais (slant, from Old French)",
     "group": "",
@@ -794,14 +794,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing unfair favoritism or prejudice.",
-     "chinese": "有偏見的;偏頗的"
+     "chinese": "有偏見的；偏頗的"
     }
    },
    {
     "word": "bibelot",
     "pos": "n.",
     "definition": "A small, decorative object of little practical value.",
-    "chinese": "小擺飾;小古玩",
+    "chinese": "小擺飾；小古玩",
     "synonyms": "",
     "root": "bibelot (trinket, from French)",
     "group": "",
@@ -815,14 +815,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small, decorative object of little practical value.",
-     "chinese": "小擺飾;小古玩"
+     "chinese": "小擺飾；小古玩"
     }
    },
    {
     "word": "bibliobibuli",
     "pos": "n.",
     "definition": "People who read too much and are intoxicated by books.",
-    "chinese": "書呆子;沉迷書本者",
+    "chinese": "書呆子；沉迷書本者",
     "synonyms": "",
     "root": "biblio- (book) + bibulus (fond of drinking), from Greek/Latin",
     "group": "",
@@ -834,7 +834,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "People who read too much and are intoxicated by books.",
-     "chinese": "書呆子;沉迷書本者"
+     "chinese": "書呆子；沉迷書本者"
     }
    },
    {
@@ -900,7 +900,7 @@ window.FLASHCARD_UNITS = {
     "word": "bibliomania",
     "pos": "n.",
     "definition": "An extreme, often obsessive enthusiasm for collecting books.",
-    "chinese": "藏書癖;愛書狂",
+    "chinese": "藏書癖；愛書狂",
     "synonyms": "",
     "root": "biblio- (book) + mania (madness), from Greek",
     "group": "",
@@ -912,7 +912,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An extreme, often obsessive enthusiasm for collecting books.",
-     "chinese": "藏書癖;愛書狂"
+     "chinese": "藏書癖；愛書狂"
     }
    },
    {
@@ -957,7 +957,7 @@ window.FLASHCARD_UNITS = {
     "word": "bibliophile",
     "pos": "n.",
     "definition": "A person who loves and collects books.",
-    "chinese": "愛書人;藏書家",
+    "chinese": "愛書人；藏書家",
     "synonyms": "",
     "root": "biblio- (book) + philos (loving), from Greek",
     "group": "",
@@ -971,7 +971,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who loves and collects books.",
-     "chinese": "愛書人;藏書家"
+     "chinese": "愛書人；藏書家"
     }
    }
   ],
@@ -2180,4 +2180,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"befuddled": ["Confused or bewildered.", "困惑的;迷糊的"], "begrime": ["To make dirty or grimy.", "弄髒;沾污"], "begrudge": ["To be resentful or reluctant.", "吝惜；嫉妒"], "beguile": ["To trick, deceive.", "欺騙；迷惑"], "beguiled": ["Charmed or enchanted, often in a deceptive way.", "被迷惑的;被欺騙的"], "beguiling": ["Charming or attractive in a deceptive way.", "迷人的;誘人的(帶有欺騙性)"], "behead": ["To cut off the head of someone.", "斬首"], "behemoth": ["Something of tremendous power or size.", "龐然大物"], "belated": ["Late, delayed.", "遲來的"], "belie": ["To give a false impression of; to contradict.", "掩飾;與...矛盾"], "belittle": ["To make seem less important.", "貶低"], "belittling": ["Making someone or something seem unimportant.", "貶低的;輕視"], "bellicose": ["Of a quarrelsome nature; eager to fight; warlike; belligerent.", "好戰的"], "belligerent": ["Warlike.", "好戰的"], "bellwether": ["Something that indicates a future trend; a leader.", "領頭羊;風向指標"], "bemoan": ["To express regret or dissatisfaction about something.", "哀嘆;悲嘆"], "bemuse": ["To puzzle or confuse someone, often mildly.", "使困惑;使發愣"], "benevolent": ["Charitable, kindly.", "仁慈的；慈善的"], "benighted": ["Lacking cultural or moral enlightenment; ignorant.", "愚昧的;未開化的"], "benumb": ["To make numb, physically or emotionally.", "使麻木"], "bequeath": ["To pass on, give.", "遺贈；留給"], "berate": ["To rebuke or scold in a harsh tone.", "嚴厲斥責"], "bereave": ["To deprive someone of a loved one, especially through death.", "使喪失(親人)"], "bereaved": ["Having recently lost a loved one through death.", "喪親的;喪親者"], "bereavement": ["State of sorrow over the death or departure of a loved one.", "喪親之痛"], "bereft": ["Deprived of.", "喪失的；被剝奪的"], "beseech": ["To beg, plead, implore.", "懇求；哀求"], "beset": ["To trouble or harass persistently.", "困擾;圍攻"], "besiege": ["To surround, hem in.", "圍攻"], "beslime": ["To cover with slime; to defile or defame.", "使沾滿黏液;玷污(名譽)"], "beslobber": ["To smear with saliva or drool; to fawn over excessively.", "流口水弄髒;過度奉承"], "besmear": ["To smear or stain, literally or figuratively.", "塗污;玷污"], "besmirch": ["To soil, stain, dim the reputation.", "玷污；毀謗"], "besotted": ["Infatuated or obsessively fond of someone; intoxicated.", "迷戀的;沉醉的"], "besprinkle": ["To scatter something over a surface.", "灑;撒"], "bestial": ["Savagely cruel; resembling an animal in behavior.", "獸性的;殘暴的"], "beware": ["To be cautious of possible danger.", "當心;提防"], "bewilder": ["To confuse someone greatly.", "使困惑;使迷惘"], "bewitch": ["To cast a spell over; to captivate completely.", "施魔法;使著迷"], "bias": ["Prejudice.", "偏見；斜紋"], "biased": ["Showing unfair favoritism or prejudice.", "有偏見的;偏頗的"], "bibelot": ["A small, decorative object of little practical value.", "小擺飾;小古玩"], "bibliobibuli": ["People who read too much and are intoxicated by books.", "書呆子;沉迷書本者"], "biblioclast": ["A person who destroys or mutilates books.", "毀書者"], "bibliography": ["A list of sources used or referred to in a piece of writing.", "參考書目"], "biblioklept": ["A person who steals books.", "偷書賊"], "bibliomania": ["An extreme, often obsessive enthusiasm for collecting books.", "藏書癖;愛書狂"], "bibliophage": ["A voracious reader; a devourer of books.", "嗜書如命者"], "bibliophagic": ["Relating to a voracious devouring of books.", "嗜書的"], "bibliophile": ["A person who loves and collects books.", "愛書人;藏書家"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"befuddled": ["Confused or bewildered.", "困惑的；迷糊的"], "begrime": ["To make dirty or grimy.", "弄髒；沾污"], "begrudge": ["To be resentful or reluctant.", "吝惜；嫉妒"], "beguile": ["To trick, deceive.", "欺騙；迷惑"], "beguiled": ["Charmed or enchanted, often in a deceptive way.", "被迷惑的；被欺騙的"], "beguiling": ["Charming or attractive in a deceptive way.", "迷人的；誘人的(帶有欺騙性)"], "behead": ["To cut off the head of someone.", "斬首"], "behemoth": ["Something of tremendous power or size.", "龐然大物"], "belated": ["Late, delayed.", "遲來的"], "belie": ["To give a false impression of; to contradict.", "掩飾；與...矛盾"], "belittle": ["To make seem less important.", "貶低"], "belittling": ["Making someone or something seem unimportant.", "貶低的；輕視"], "bellicose": ["Of a quarrelsome nature; eager to fight; warlike; belligerent.", "好戰的"], "belligerent": ["Warlike.", "好戰的"], "bellwether": ["Something that indicates a future trend; a leader.", "領頭羊；風向指標"], "bemoan": ["To express regret or dissatisfaction about something.", "哀嘆；悲嘆"], "bemuse": ["To puzzle or confuse someone, often mildly.", "使困惑；使發愣"], "benevolent": ["Charitable, kindly.", "仁慈的；慈善的"], "benighted": ["Lacking cultural or moral enlightenment; ignorant.", "愚昧的；未開化的"], "benumb": ["To make numb, physically or emotionally.", "使麻木"], "bequeath": ["To pass on, give.", "遺贈；留給"], "berate": ["To rebuke or scold in a harsh tone.", "嚴厲斥責"], "bereave": ["To deprive someone of a loved one, especially through death.", "使喪失(親人)"], "bereaved": ["Having recently lost a loved one through death.", "喪親的；喪親者"], "bereavement": ["State of sorrow over the death or departure of a loved one.", "喪親之痛"], "bereft": ["Deprived of.", "喪失的；被剝奪的"], "beseech": ["To beg, plead, implore.", "懇求；哀求"], "beset": ["To trouble or harass persistently.", "困擾；圍攻"], "besiege": ["To surround, hem in.", "圍攻"], "beslime": ["To cover with slime; to defile or defame.", "使沾滿黏液；玷污(名譽)"], "beslobber": ["To smear with saliva or drool; to fawn over excessively.", "流口水弄髒；過度奉承"], "besmear": ["To smear or stain, literally or figuratively.", "塗污；玷污"], "besmirch": ["To soil, stain, dim the reputation.", "玷污；毀謗"], "besotted": ["Infatuated or obsessively fond of someone; intoxicated.", "迷戀的；沉醉的"], "besprinkle": ["To scatter something over a surface.", "灑；撒"], "bestial": ["Savagely cruel; resembling an animal in behavior.", "獸性的；殘暴的"], "beware": ["To be cautious of possible danger.", "當心；提防"], "bewilder": ["To confuse someone greatly.", "使困惑；使迷惘"], "bewitch": ["To cast a spell over; to captivate completely.", "施魔法；使著迷"], "bias": ["Prejudice.", "偏見；斜紋"], "biased": ["Showing unfair favoritism or prejudice.", "有偏見的；偏頗的"], "bibelot": ["A small, decorative object of little practical value.", "小擺飾；小古玩"], "bibliobibuli": ["People who read too much and are intoxicated by books.", "書呆子；沉迷書本者"], "biblioclast": ["A person who destroys or mutilates books.", "毀書者"], "bibliography": ["A list of sources used or referred to in a piece of writing.", "參考書目"], "biblioklept": ["A person who steals books.", "偷書賊"], "bibliomania": ["An extreme, often obsessive enthusiasm for collecting books.", "藏書癖；愛書狂"], "bibliophage": ["A voracious reader; a devourer of books.", "嗜書如命者"], "bibliophagic": ["Relating to a voracious devouring of books.", "嗜書的"], "bibliophile": ["A person who loves and collects books.", "愛書人；藏書家"]});

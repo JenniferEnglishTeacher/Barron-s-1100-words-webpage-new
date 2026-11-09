@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "alternate",
     "pos": "v./adj.",
     "definition": "To occur or perform by turns; substitute.",
-    "chinese": "輪流;交替的",
+    "chinese": "輪流；交替的",
     "synonyms": "",
     "root": "alter (other), from Latin",
     "group": "alter = 其他的；改變",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To occur or perform by turns; substitute.",
-     "chinese": "輪流;交替的"
+     "chinese": "輪流；交替的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "alternation",
     "pos": "n.",
     "definition": "The process of doing or occurring by turns, repeatedly.",
-    "chinese": "交替;輪替",
+    "chinese": "交替；輪替",
     "synonyms": "",
     "root": "alternare (to do by turns, from Latin)",
     "group": "alter = 其他的；改變",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of doing or occurring by turns, repeatedly.",
-     "chinese": "交替;輪替"
+     "chinese": "交替；輪替"
     }
    },
    {
     "word": "alternative",
     "pos": "n./adj.",
     "definition": "A choice between two or more possibilities.",
-    "chinese": "替代方案;可選擇的",
+    "chinese": "替代方案；可選擇的",
     "synonyms": "",
     "root": "alter (other), from Latin",
     "group": "alter = 其他的；改變",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A choice between two or more possibilities.",
-     "chinese": "替代方案;可選擇的"
+     "chinese": "替代方案；可選擇的"
     }
    },
    {
     "word": "altruism",
     "pos": "n.",
     "definition": "Unselfish concern for the well-being of others.",
-    "chinese": "利他主義;無私",
+    "chinese": "利他主義；無私",
     "synonyms": "",
     "root": "alter (other, from Latin)",
     "group": "alter = 其他的；改變",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unselfish concern for the well-being of others.",
-     "chinese": "利他主義;無私"
+     "chinese": "利他主義；無私"
     }
    },
    {
@@ -440,4 +440,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"altruistic": ["Unselfish.", "利他的；無私的"], "alter ego": ["A very close friend who seems almost a part of yourself.", "另一個自我；知己"], "alteration": ["The act of revising.", "修改；變更"], "altercation": ["A dispute, fight.", "爭吵；口角"], "alternate": ["To occur or perform by turns; substitute.", "輪流;交替的"], "alternating": ["Occurring in turns or rotation; switching back and forth.", "交替的；輪流的"], "alternation": ["The process of doing or occurring by turns, repeatedly.", "交替;輪替"], "alternative": ["A choice between two or more possibilities.", "替代方案;可選擇的"], "altruism": ["Unselfish concern for the well-being of others.", "利他主義;無私"], "altruist": ["Someone who makes charitable donations intended to increase human well-being.", "利他主義者"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"altruistic": ["Unselfish.", "利他的；無私的"], "alter ego": ["A very close friend who seems almost a part of yourself.", "另一個自我；知己"], "alteration": ["The act of revising.", "修改；變更"], "altercation": ["A dispute, fight.", "爭吵；口角"], "alternate": ["To occur or perform by turns; substitute.", "輪流；交替的"], "alternating": ["Occurring in turns or rotation; switching back and forth.", "交替的；輪流的"], "alternation": ["The process of doing or occurring by turns, repeatedly.", "交替；輪替"], "alternative": ["A choice between two or more possibilities.", "替代方案；可選擇的"], "altruism": ["Unselfish concern for the well-being of others.", "利他主義；無私"], "altruist": ["Someone who makes charitable donations intended to increase human well-being.", "利他主義者"]});

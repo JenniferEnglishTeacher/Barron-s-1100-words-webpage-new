@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "perimeter",
     "pos": "n.",
     "definition": "The outer boundary of an area or shape.",
-    "chinese": "周長;周界",
+    "chinese": "周長；周界",
     "synonyms": "",
     "root": "peri- (around) + metron (measure), from Greek",
     "group": "peri = 周圍",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The outer boundary of an area or shape.",
-     "chinese": "周長;周界"
+     "chinese": "周長；周界"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "periphery",
     "pos": "n.",
     "definition": "The outer limits or edge of an area or subject.",
-    "chinese": "邊緣;外圍",
+    "chinese": "邊緣；外圍",
     "synonyms": "",
     "root": "peri- (around) + pherein (to carry), from Greek",
     "group": "peri = 周圍",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The outer limits or edge of an area or subject.",
-     "chinese": "邊緣;外圍"
+     "chinese": "邊緣；外圍"
     }
    },
    {
     "word": "periphrasis",
     "pos": "n.",
     "definition": "The use of indirect or roundabout language rather than direct expression.",
-    "chinese": "迂迴表達法;繞圈子說法",
+    "chinese": "迂迴表達法；繞圈子說法",
     "synonyms": "",
     "root": "peri- (around) + phrasis (speech), from Greek",
     "group": "peri = 周圍",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of indirect or roundabout language rather than direct expression.",
-     "chinese": "迂迴表達法;繞圈子說法"
+     "chinese": "迂迴表達法；繞圈子說法"
     }
    }
   ],
@@ -352,4 +352,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"peripatetic": ["Moving or walking about; itinerant.", "巡迴的；漫步的"], "peripheral": ["Only marginally connected to what is truly important; relating to the field of vision.", "邊緣的；次要的"], "perigee": ["The nearest point in an orbit around the Earth.", "近地點"], "perimeter": ["The outer boundary of an area or shape.", "周長;周界"], "periodontics": ["The branch of dentistry dealing with diseases of the gums.", "牙周病學"], "periodontist": ["A dentist who specializes in treating gum diseases.", "牙周病醫師"], "periphery": ["The outer limits or edge of an area or subject.", "邊緣;外圍"], "periphrasis": ["The use of indirect or roundabout language rather than direct expression.", "迂迴表達法;繞圈子說法"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"peripatetic": ["Moving or walking about; itinerant.", "巡迴的；漫步的"], "peripheral": ["Only marginally connected to what is truly important; relating to the field of vision.", "邊緣的；次要的"], "perigee": ["The nearest point in an orbit around the Earth.", "近地點"], "perimeter": ["The outer boundary of an area or shape.", "周長；周界"], "periodontics": ["The branch of dentistry dealing with diseases of the gums.", "牙周病學"], "periodontist": ["A dentist who specializes in treating gum diseases.", "牙周病醫師"], "periphery": ["The outer limits or edge of an area or subject.", "邊緣；外圍"], "periphrasis": ["The use of indirect or roundabout language rather than direct expression.", "迂迴表達法；繞圈子說法"]});

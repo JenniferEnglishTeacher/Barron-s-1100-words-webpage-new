@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "oppression",
     "pos": "n.",
     "definition": "Prolonged, cruel, or unjust treatment or control.",
-    "chinese": "壓迫;壓制",
+    "chinese": "壓迫；壓制",
     "synonyms": "",
     "root": "opprimere (to press against), from Latin ob- + premere (to press)",
     "group": "press = 按壓",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Prolonged, cruel, or unjust treatment or control.",
-     "chinese": "壓迫;壓制"
+     "chinese": "壓迫；壓制"
     }
    },
    {
     "word": "suppress",
     "pos": "v.",
     "definition": "To forcibly put an end to or prevent from being expressed.",
-    "chinese": "壓制;抑制",
+    "chinese": "壓制；抑制",
     "synonyms": "",
     "root": "supprimere, from Latin sub- (under) + premere (to press)",
     "group": "press = 按壓",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To forcibly put an end to or prevent from being expressed.",
-     "chinese": "壓制;抑制"
+     "chinese": "壓制；抑制"
     }
    }
   ],
@@ -354,4 +354,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reprimand": ["To show sharp disapproval.", "譴責"], "repress": ["To hold back, tamp down.", "壓抑；鎮壓"], "compress": ["To apply pressure, squeeze together.", "壓縮"], "expressionless": ["Showing no emotion in one's face.", "面無表情的"], "interpret": ["To explain the meaning of something.", "解釋；詮釋"], "oppressed": ["Subjected to harsh and unjust treatment.", "受壓迫的"], "oppression": ["Prolonged, cruel, or unjust treatment or control.", "壓迫;壓制"], "suppress": ["To forcibly put an end to or prevent from being expressed.", "壓制;抑制"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reprimand": ["To show sharp disapproval.", "譴責"], "repress": ["To hold back, tamp down.", "壓抑；鎮壓"], "compress": ["To apply pressure, squeeze together.", "壓縮"], "expressionless": ["Showing no emotion in one's face.", "面無表情的"], "interpret": ["To explain the meaning of something.", "解釋；詮釋"], "oppressed": ["Subjected to harsh and unjust treatment.", "受壓迫的"], "oppression": ["Prolonged, cruel, or unjust treatment or control.", "壓迫；壓制"], "suppress": ["To forcibly put an end to or prevent from being expressed.", "壓制；抑制"]});

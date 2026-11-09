@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "plutomania",
     "pos": "n.",
     "definition": "An obsessive desire for wealth.",
-    "chinese": "斂財狂;拜金狂熱",
+    "chinese": "斂財狂；拜金狂熱",
     "synonyms": "",
     "root": "ploutos (wealth) + mania (madness), from Greek",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An obsessive desire for wealth.",
-     "chinese": "斂財狂;拜金狂熱"
+     "chinese": "斂財狂；拜金狂熱"
     }
    },
    {
     "word": "poach",
     "pos": "v.",
     "definition": "To hunt or fish illegally; to cook gently in liquid; to steal ideas or employees.",
-    "chinese": "偷獵;水煮;挖角",
+    "chinese": "偷獵；水煮；挖角",
     "synonyms": "",
     "root": "pocher (to poke, pocket), from Old French",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To hunt or fish illegally; to cook gently in liquid; to steal ideas or employees.",
-     "chinese": "偷獵;水煮;挖角"
+     "chinese": "偷獵；水煮；挖角"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "podium",
     "pos": "n.",
     "definition": "A raised platform for a speaker, performer, or conductor.",
-    "chinese": "講台;領獎台",
+    "chinese": "講台；領獎台",
     "synonyms": "",
     "root": "pous/podos (foot), from Greek",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A raised platform for a speaker, performer, or conductor.",
-     "chinese": "講台;領獎台"
+     "chinese": "講台；領獎台"
     }
    },
    {
     "word": "podrida",
     "pos": "n.",
     "definition": "A rich stew of meat and vegetables; a miscellaneous mixture.",
-    "chinese": "什錦燉菜;大雜燴",
+    "chinese": "什錦燉菜；大雜燴",
     "synonyms": "",
     "root": "olla podrida (rotten pot), from Spanish",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rich stew of meat and vegetables; a miscellaneous mixture.",
-     "chinese": "什錦燉菜;大雜燴"
+     "chinese": "什錦燉菜；大雜燴"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "pointless",
     "pos": "adj.",
     "definition": "Having no purpose or meaning.",
-    "chinese": "毫無意義的;徒勞的",
+    "chinese": "毫無意義的；徒勞的",
     "synonyms": "",
     "root": "point, from Latin punctum + -less",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no purpose or meaning.",
-     "chinese": "毫無意義的;徒勞的"
+     "chinese": "毫無意義的；徒勞的"
     }
    },
    {
     "word": "poise",
     "pos": "n./v.",
     "definition": "Graceful and composed behavior; to balance or hold steady.",
-    "chinese": "沉著;優雅平衡",
+    "chinese": "沉著；優雅平衡",
     "synonyms": "",
     "root": "peser (to weigh), from Old French, from Latin pensare",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Graceful and composed behavior; to balance or hold steady.",
-     "chinese": "沉著;優雅平衡"
+     "chinese": "沉著；優雅平衡"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "polemicist",
     "pos": "n.",
     "definition": "A person who engages in controversial argument or debate.",
-    "chinese": "論戰家;好辯人士",
+    "chinese": "論戰家；好辯人士",
     "synonyms": "",
     "root": "polemos (war), from Greek",
     "group": "",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who engages in controversial argument or debate.",
-     "chinese": "論戰家;好辯人士"
+     "chinese": "論戰家；好辯人士"
     }
    },
    {
     "word": "polemics",
     "pos": "n.",
     "definition": "The practice of engaging in controversial debate or argument.",
-    "chinese": "論戰;辯論術",
+    "chinese": "論戰；辯論術",
     "synonyms": "",
     "root": "polemos (war), from Greek",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of engaging in controversial debate or argument.",
-     "chinese": "論戰;辯論術"
+     "chinese": "論戰；辯論術"
     }
    },
    {
     "word": "polished",
     "pos": "adj.",
     "definition": "Refined and skillful; made smooth and shiny.",
-    "chinese": "精緻優雅的;拋光的",
+    "chinese": "精緻優雅的；拋光的",
     "synonyms": "",
     "root": "polire (to smooth), from Latin",
     "group": "",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Refined and skillful; made smooth and shiny.",
-     "chinese": "精緻優雅的;拋光的"
+     "chinese": "精緻優雅的；拋光的"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "poltergeist",
     "pos": "n.",
     "definition": "A ghost believed to be responsible for physical disturbances.",
-    "chinese": "騷靈;吵鬧鬼",
+    "chinese": "騷靈；吵鬧鬼",
     "synonyms": "",
     "root": "poltern (to make noise) + Geist (spirit), from German",
     "group": "",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A ghost believed to be responsible for physical disturbances.",
-     "chinese": "騷靈;吵鬧鬼"
+     "chinese": "騷靈；吵鬧鬼"
     }
    },
    {
     "word": "poltroon",
     "pos": "n.",
     "definition": "An utter coward.",
-    "chinese": "懦夫;膽小鬼",
+    "chinese": "懦夫；膽小鬼",
     "synonyms": "",
     "root": "poltrone (lazy fellow), from Italian, possibly related to Latin pullus (young animal)",
     "group": "",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An utter coward.",
-     "chinese": "懦夫;膽小鬼"
+     "chinese": "懦夫；膽小鬼"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "polyglot",
     "pos": "n./adj.",
     "definition": "A person who knows or uses several languages; multilingual.",
-    "chinese": "通曉多國語言者;多語的",
+    "chinese": "通曉多國語言者；多語的",
     "synonyms": "",
     "root": "polys (many) + glotta (tongue), from Greek",
     "group": "",
@@ -402,7 +402,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who knows or uses several languages; multilingual.",
-     "chinese": "通曉多國語言者;多語的"
+     "chinese": "通曉多國語言者；多語的"
     }
    },
    {
@@ -506,7 +506,7 @@ window.FLASHCARD_UNITS = {
     "word": "polyp",
     "pos": "n.",
     "definition": "A small abnormal growth of tissue; a simple marine invertebrate.",
-    "chinese": "息肉;水螅體",
+    "chinese": "息肉；水螅體",
     "synonyms": "",
     "root": "polypous (many-footed), from Greek polys (many) + pous (foot)",
     "group": "",
@@ -520,7 +520,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small abnormal growth of tissue; a simple marine invertebrate.",
-     "chinese": "息肉;水螅體"
+     "chinese": "息肉；水螅體"
     }
    },
    {
@@ -565,7 +565,7 @@ window.FLASHCARD_UNITS = {
     "word": "pomposity",
     "pos": "n.",
     "definition": "The quality of being pompous or self-important.",
-    "chinese": "自負;浮誇",
+    "chinese": "自負；浮誇",
     "synonyms": "",
     "root": "pompa (procession, display), from Latin, from Greek pompe",
     "group": "",
@@ -577,14 +577,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being pompous or self-important.",
-     "chinese": "自負;浮誇"
+     "chinese": "自負；浮誇"
     }
    },
    {
     "word": "pompous",
     "pos": "adj.",
     "definition": "Self-important and grandiose in manner.",
-    "chinese": "自負的;浮誇的",
+    "chinese": "自負的；浮誇的",
     "synonyms": "",
     "root": "pompa (procession, display), from Latin, from Greek pompe",
     "group": "",
@@ -596,14 +596,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Self-important and grandiose in manner.",
-     "chinese": "自負的;浮誇的"
+     "chinese": "自負的；浮誇的"
     }
    },
    {
     "word": "poncho",
     "pos": "n.",
     "definition": "A garment made of a single piece of fabric with a hole for the head.",
-    "chinese": "斗篷;披風",
+    "chinese": "斗篷；披風",
     "synonyms": "",
     "root": "poncho (woolen fabric), from Spanish, from Araucanian pontho",
     "group": "",
@@ -615,7 +615,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A garment made of a single piece of fabric with a hole for the head.",
-     "chinese": "斗篷;披風"
+     "chinese": "斗篷；披風"
     }
    },
    {
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "word": "popinjay",
     "pos": "n.",
     "definition": "A vain or conceited person, especially one who talks excessively.",
-    "chinese": "愛炫耀的自負之人;誇誇其談者",
+    "chinese": "愛炫耀的自負之人；誇誇其談者",
     "synonyms": "",
     "root": "papingay (parrot), from Old French, from Arabic babagha",
     "group": "",
@@ -693,7 +693,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A vain or conceited person, especially one who talks excessively.",
-     "chinese": "愛炫耀的自負之人;誇誇其談者"
+     "chinese": "愛炫耀的自負之人；誇誇其談者"
     }
    },
    {
@@ -740,7 +740,7 @@ window.FLASHCARD_UNITS = {
     "word": "posh",
     "pos": "adj.",
     "definition": "Elegant and fashionable, especially associated with the upper class.",
-    "chinese": "豪華的;上流的",
+    "chinese": "豪華的；上流的",
     "synonyms": "",
     "root": "of uncertain origin, popularly linked to slang for money",
     "group": "",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Elegant and fashionable, especially associated with the upper class.",
-     "chinese": "豪華的;上流的"
+     "chinese": "豪華的；上流的"
     }
    },
    {
@@ -875,7 +875,7 @@ window.FLASHCARD_UNITS = {
     "word": "pound",
     "pos": "n./v.",
     "definition": "A unit of weight or currency; to strike heavily and repeatedly.",
-    "chinese": "磅;英鎊;猛擊",
+    "chinese": "磅；英鎊；猛擊",
     "synonyms": "",
     "root": "pund (weight), from Old English, from Latin pondus",
     "group": "",
@@ -889,7 +889,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A unit of weight or currency; to strike heavily and repeatedly.",
-     "chinese": "磅;英鎊;猛擊"
+     "chinese": "磅；英鎊；猛擊"
     }
    },
    {
@@ -915,7 +915,7 @@ window.FLASHCARD_UNITS = {
     "word": "practicable",
     "pos": "adj.",
     "definition": "Capable of being done or put into practice.",
-    "chinese": "可行的;實用的",
+    "chinese": "可行的；實用的",
     "synonyms": "",
     "root": "practicare (to practice), from Greek prassein (to do)",
     "group": "",
@@ -927,14 +927,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of being done or put into practice.",
-     "chinese": "可行的;實用的"
+     "chinese": "可行的；實用的"
     }
    },
    {
     "word": "practical",
     "pos": "adj.",
     "definition": "Concerned with actual use rather than theory.",
-    "chinese": "實際的;實用的",
+    "chinese": "實際的；實用的",
     "synonyms": "",
     "root": "practicus (of action), from Greek prassein (to do)",
     "group": "",
@@ -946,7 +946,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Concerned with actual use rather than theory.",
-     "chinese": "實際的;實用的"
+     "chinese": "實際的；實用的"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"plutomania": ["An obsessive desire for wealth.", "斂財狂;拜金狂熱"], "poach": ["To hunt or fish illegally; to cook gently in liquid; to steal ideas or employees.", "偷獵;水煮;挖角"], "podiatrist": ["A specialist in the diagnosis and treatment of foot ailments.", "足科醫師"], "podium": ["A raised platform for a speaker, performer, or conductor.", "講台;領獎台"], "podrida": ["A rich stew of meat and vegetables; a miscellaneous mixture.", "什錦燉菜;大雜燴"], "poignant": ["Moving, painful to the feelings.", "辛酸的；深刻的"], "poinsettia": ["A plant with red and green leaves commonly associated with Christmas.", "聖誕紅"], "pointless": ["Having no purpose or meaning.", "毫無意義的;徒勞的"], "poise": ["Graceful and composed behavior; to balance or hold steady.", "沉著;優雅平衡"], "polarized": ["Divided sharply into opposing groups or views.", "兩極化的"], "polemic": ["An aggressive argument against a specific opinion.", "論戰；爭辯文章"], "polemical": ["Inclined to argue or debate; controversial.", "好爭論的；論戰的"], "polemicist": ["A person who engages in controversial argument or debate.", "論戰家;好辯人士"], "polemics": ["The practice of engaging in controversial debate or argument.", "論戰;辯論術"], "polished": ["Refined and skillful; made smooth and shiny.", "精緻優雅的;拋光的"], "polite": ["Having good manners; showing consideration for others.", "有禮貌的"], "poltergeist": ["A ghost believed to be responsible for physical disturbances.", "騷靈;吵鬧鬼"], "poltroon": ["An utter coward.", "懦夫;膽小鬼"], "polyandry": ["Having more than one husband at a time.", "一妻多夫制"], "polygamy": ["Having more than one spouse at a time.", "一夫多妻(或一妻多夫)制"], "polyglot": ["A person who knows or uses several languages; multilingual.", "通曉多國語言者;多語的"], "polygraph": ["A machine used to detect deception by measuring physiological responses.", "測謊器"], "polyhistor": ["A person of great and varied learning; a polymath.", "博學多識者"], "polymath": ["A person with extensive knowledge across many fields.", "博學多才者"], "polymathic": ["Having or characterized by extensive knowledge across many fields.", "博學多才的"], "polymathy": ["Extensive knowledge across many different fields.", "博學多才"], "polyp": ["A small abnormal growth of tissue; a simple marine invertebrate.", "息肉;水螅體"], "polypragmon": ["A person who meddles in many affairs, especially those not their own.", "多管閒事者"], "polysyndeton": ["A rhetorical device using multiple conjunctions in close succession.", "多連詞法(修辭手法)"], "pomposity": ["The quality of being pompous or self-important.", "自負;浮誇"], "pompous": ["Self-important and grandiose in manner.", "自負的;浮誇的"], "poncho": ["A garment made of a single piece of fabric with a hole for the head.", "斗篷;披風"], "ponder": ["To consider carefully.", "仔細考慮"], "ponderable": ["Important enough to require a lot of thought.", "值得考慮的"], "ponderous": ["Very heavy or bulky; dull or lifeless.", "笨重的"], "popinjay": ["A vain or conceited person, especially one who talks excessively.", "愛炫耀的自負之人;誇誇其談者"], "popularize": ["To make widely known.", "使普及；推廣"], "porcine": ["Relating to pigs or swine.", "豬的；似豬的"], "posh": ["Elegant and fashionable, especially associated with the upper class.", "豪華的;上流的"], "postulate": ["To assume or propose a theory.", "假定；假設"], "potable": ["Suitable for drinking.", "可飲用的"], "potent": ["Intense, strong, powerful.", "強而有力的"], "potentate": ["Ruler, monarch.", "統治者；君主"], "potential": ["Possible, prospective.", "潛在的"], "potpourri": ["Medley, mixture.", "雜燴；大雜燴"], "pound": ["A unit of weight or currency; to strike heavily and repeatedly.", "磅;英鎊;猛擊"], "poverty-stricken": ["Poor enough to need help from others.", "貧困潦倒的"], "practicable": ["Capable of being done or put into practice.", "可行的;實用的"], "practical": ["Concerned with actual use rather than theory.", "實際的;實用的"], "pragmatic": ["Based on experience, practical.", "務實的；實用主義的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"plutomania": ["An obsessive desire for wealth.", "斂財狂；拜金狂熱"], "poach": ["To hunt or fish illegally; to cook gently in liquid; to steal ideas or employees.", "偷獵；水煮；挖角"], "podiatrist": ["A specialist in the diagnosis and treatment of foot ailments.", "足科醫師"], "podium": ["A raised platform for a speaker, performer, or conductor.", "講台；領獎台"], "podrida": ["A rich stew of meat and vegetables; a miscellaneous mixture.", "什錦燉菜；大雜燴"], "poignant": ["Moving, painful to the feelings.", "辛酸的；深刻的"], "poinsettia": ["A plant with red and green leaves commonly associated with Christmas.", "聖誕紅"], "pointless": ["Having no purpose or meaning.", "毫無意義的；徒勞的"], "poise": ["Graceful and composed behavior; to balance or hold steady.", "沉著；優雅平衡"], "polarized": ["Divided sharply into opposing groups or views.", "兩極化的"], "polemic": ["An aggressive argument against a specific opinion.", "論戰；爭辯文章"], "polemical": ["Inclined to argue or debate; controversial.", "好爭論的；論戰的"], "polemicist": ["A person who engages in controversial argument or debate.", "論戰家；好辯人士"], "polemics": ["The practice of engaging in controversial debate or argument.", "論戰；辯論術"], "polished": ["Refined and skillful; made smooth and shiny.", "精緻優雅的；拋光的"], "polite": ["Having good manners; showing consideration for others.", "有禮貌的"], "poltergeist": ["A ghost believed to be responsible for physical disturbances.", "騷靈；吵鬧鬼"], "poltroon": ["An utter coward.", "懦夫；膽小鬼"], "polyandry": ["Having more than one husband at a time.", "一妻多夫制"], "polygamy": ["Having more than one spouse at a time.", "一夫多妻(或一妻多夫)制"], "polyglot": ["A person who knows or uses several languages; multilingual.", "通曉多國語言者；多語的"], "polygraph": ["A machine used to detect deception by measuring physiological responses.", "測謊器"], "polyhistor": ["A person of great and varied learning; a polymath.", "博學多識者"], "polymath": ["A person with extensive knowledge across many fields.", "博學多才者"], "polymathic": ["Having or characterized by extensive knowledge across many fields.", "博學多才的"], "polymathy": ["Extensive knowledge across many different fields.", "博學多才"], "polyp": ["A small abnormal growth of tissue; a simple marine invertebrate.", "息肉；水螅體"], "polypragmon": ["A person who meddles in many affairs, especially those not their own.", "多管閒事者"], "polysyndeton": ["A rhetorical device using multiple conjunctions in close succession.", "多連詞法(修辭手法)"], "pomposity": ["The quality of being pompous or self-important.", "自負；浮誇"], "pompous": ["Self-important and grandiose in manner.", "自負的；浮誇的"], "poncho": ["A garment made of a single piece of fabric with a hole for the head.", "斗篷；披風"], "ponder": ["To consider carefully.", "仔細考慮"], "ponderable": ["Important enough to require a lot of thought.", "值得考慮的"], "ponderous": ["Very heavy or bulky; dull or lifeless.", "笨重的"], "popinjay": ["A vain or conceited person, especially one who talks excessively.", "愛炫耀的自負之人；誇誇其談者"], "popularize": ["To make widely known.", "使普及；推廣"], "porcine": ["Relating to pigs or swine.", "豬的；似豬的"], "posh": ["Elegant and fashionable, especially associated with the upper class.", "豪華的；上流的"], "postulate": ["To assume or propose a theory.", "假定；假設"], "potable": ["Suitable for drinking.", "可飲用的"], "potent": ["Intense, strong, powerful.", "強而有力的"], "potentate": ["Ruler, monarch.", "統治者；君主"], "potential": ["Possible, prospective.", "潛在的"], "potpourri": ["Medley, mixture.", "雜燴；大雜燴"], "pound": ["A unit of weight or currency; to strike heavily and repeatedly.", "磅；英鎊；猛擊"], "poverty-stricken": ["Poor enough to need help from others.", "貧困潦倒的"], "practicable": ["Capable of being done or put into practice.", "可行的；實用的"], "practical": ["Concerned with actual use rather than theory.", "實際的；實用的"], "pragmatic": ["Based on experience, practical.", "務實的；實用主義的"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "hieratic",
     "pos": "adj.",
     "definition": "Relating to priests or sacred rites.",
-    "chinese": "祭司的;神聖的",
+    "chinese": "祭司的；神聖的",
     "synonyms": "",
     "root": "hieros (sacred), from Greek",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to priests or sacred rites.",
-     "chinese": "祭司的;神聖的"
+     "chinese": "祭司的；神聖的"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "high-flown",
     "pos": "adj.",
     "definition": "Extravagantly lofty in language or ideas.",
-    "chinese": "誇張的;言辭浮誇的",
+    "chinese": "誇張的；言辭浮誇的",
     "synonyms": "",
     "root": "high + flown, from Old English",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extravagantly lofty in language or ideas.",
-     "chinese": "誇張的;言辭浮誇的"
+     "chinese": "誇張的；言辭浮誇的"
     }
    },
    {
     "word": "high-handed",
     "pos": "adj.",
     "definition": "Using authority without regard for others' feelings.",
-    "chinese": "專斷的;高壓的",
+    "chinese": "專斷的；高壓的",
     "synonyms": "",
     "root": "high + hand, from Old English",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using authority without regard for others' feelings.",
-     "chinese": "專斷的;高壓的"
+     "chinese": "專斷的；高壓的"
     }
    },
    {
     "word": "high-minded",
     "pos": "adj.",
     "definition": "Having strong moral principles.",
-    "chinese": "高尚的;有崇高理想的",
+    "chinese": "高尚的；有崇高理想的",
     "synonyms": "",
     "root": "high + mind, from Old English",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having strong moral principles.",
-     "chinese": "高尚的;有崇高理想的"
+     "chinese": "高尚的；有崇高理想的"
     }
    },
    {
     "word": "high-strung",
     "pos": "adj.",
     "definition": "Very nervous or excitable.",
-    "chinese": "神經緊繃的;易緊張的",
+    "chinese": "神經緊繃的；易緊張的",
     "synonyms": "",
     "root": "high + string, from Old English",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Very nervous or excitable.",
-     "chinese": "神經緊繃的;易緊張的"
+     "chinese": "神經緊繃的；易緊張的"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "highbrow",
     "pos": "adj.",
     "definition": "Intellectually sophisticated or demanding.",
-    "chinese": "高雅的;知識分子的",
+    "chinese": "高雅的；知識分子的",
     "synonyms": "",
     "root": "high + brow, from Old English",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intellectually sophisticated or demanding.",
-     "chinese": "高雅的;知識分子的"
+     "chinese": "高雅的；知識分子的"
     }
    },
    {
     "word": "highfalutin",
     "pos": "adj.",
     "definition": "Pompous or pretentious, especially in language.",
-    "chinese": "浮誇做作的;裝腔作勢的",
+    "chinese": "浮誇做作的；裝腔作勢的",
     "synonyms": "",
     "root": "of uncertain American English origin",
     "group": "",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pompous or pretentious, especially in language.",
-     "chinese": "浮誇做作的;裝腔作勢的"
+     "chinese": "浮誇做作的；裝腔作勢的"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "hint",
     "pos": "n./v.",
     "definition": "A slight or indirect indication; to suggest indirectly.",
-    "chinese": "暗示;線索",
+    "chinese": "暗示；線索",
     "synonyms": "",
     "root": "hentan (to seize), from Old English",
     "group": "",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A slight or indirect indication; to suggest indirectly.",
-     "chinese": "暗示;線索"
+     "chinese": "暗示；線索"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "hircine",
     "pos": "adj.",
     "definition": "Relating to or resembling a goat, especially in smell.",
-    "chinese": "似山羊的;有羊臊味的",
+    "chinese": "似山羊的；有羊臊味的",
     "synonyms": "",
     "root": "hircus (he-goat), from Latin",
     "group": "",
@@ -328,14 +328,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or resembling a goat, especially in smell.",
-     "chinese": "似山羊的;有羊臊味的"
+     "chinese": "似山羊的；有羊臊味的"
     }
    },
    {
     "word": "hireling",
     "pos": "n.",
     "definition": "A person employed for wages, especially one who works only for pay without loyalty.",
-    "chinese": "雇傭;唯利是圖的雇員",
+    "chinese": "雇傭；唯利是圖的雇員",
     "synonyms": "",
     "root": "hire, from Old English hyrian",
     "group": "",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person employed for wages, especially one who works only for pay without loyalty.",
-     "chinese": "雇傭;唯利是圖的雇員"
+     "chinese": "雇傭；唯利是圖的雇員"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "hispid",
     "pos": "adj.",
     "definition": "Covered with stiff hairs or bristles.",
-    "chinese": "多刺毛的;剛毛狀的",
+    "chinese": "多刺毛的；剛毛狀的",
     "synonyms": "",
     "root": "hispidus (bristly), from Latin",
     "group": "",
@@ -385,7 +385,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Covered with stiff hairs or bristles.",
-     "chinese": "多刺毛的;剛毛狀的"
+     "chinese": "多刺毛的；剛毛狀的"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "histrionic",
     "pos": "adj.",
     "definition": "Excessively theatrical or dramatic.",
-    "chinese": "戲劇化的;誇張做作的",
+    "chinese": "戲劇化的；誇張做作的",
     "synonyms": "",
     "root": "histrio (actor), from Latin",
     "group": "",
@@ -423,7 +423,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively theatrical or dramatic.",
-     "chinese": "戲劇化的;誇張做作的"
+     "chinese": "戲劇化的；誇張做作的"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "hobble",
     "pos": "v./n.",
     "definition": "To walk unevenly due to pain or injury; a rope tying an animal's legs.",
-    "chinese": "跛行;絆索",
+    "chinese": "跛行；絆索",
     "synonyms": "",
     "root": "hobelen, from Middle English",
     "group": "",
@@ -499,14 +499,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk unevenly due to pain or injury; a rope tying an animal's legs.",
-     "chinese": "跛行;絆索"
+     "chinese": "跛行；絆索"
     }
    },
    {
     "word": "hocus-pocus",
     "pos": "n.",
     "definition": "Meaningless talk or actions used to deceive; trickery.",
-    "chinese": "魔咒;花言巧語的騙術",
+    "chinese": "魔咒；花言巧語的騙術",
     "synonyms": "",
     "root": "possibly a mock-Latin phrase used by magicians",
     "group": "",
@@ -518,14 +518,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Meaningless talk or actions used to deceive; trickery.",
-     "chinese": "魔咒;花言巧語的騙術"
+     "chinese": "魔咒；花言巧語的騙術"
     }
    },
    {
     "word": "hodgepodge",
     "pos": "n.",
     "definition": "A confused mixture of different things.",
-    "chinese": "大雜燴;混合物",
+    "chinese": "大雜燴；混合物",
     "synonyms": "",
     "root": "hotchpotch, from Old French hochepot",
     "group": "",
@@ -537,14 +537,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confused mixture of different things.",
-     "chinese": "大雜燴;混合物"
+     "chinese": "大雜燴；混合物"
     }
    },
    {
     "word": "hoi polloi",
     "pos": "n.",
     "definition": "The ordinary people, especially as a mass (sometimes used disparagingly).",
-    "chinese": "平民大眾;群氓",
+    "chinese": "平民大眾；群氓",
     "synonyms": "",
     "root": "hoi polloi (the many), from Greek",
     "group": "",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ordinary people, especially as a mass (sometimes used disparagingly).",
-     "chinese": "平民大眾;群氓"
+     "chinese": "平民大眾；群氓"
     }
    },
    {
     "word": "hoity-toity",
     "pos": "adj.",
     "definition": "Haughty and pretentious.",
-    "chinese": "自命不凡的;高傲的",
+    "chinese": "自命不凡的；高傲的",
     "synonyms": "",
     "root": "hoit (to romp), from English dialect",
     "group": "",
@@ -575,14 +575,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Haughty and pretentious.",
-     "chinese": "自命不凡的;高傲的"
+     "chinese": "自命不凡的；高傲的"
     }
    },
    {
     "word": "hollow",
     "pos": "adj./n.",
     "definition": "Having an empty space inside; a small valley.",
-    "chinese": "空心的;山谷",
+    "chinese": "空心的；山谷",
     "synonyms": "",
     "root": "holh (hole, cave), from Old English",
     "group": "",
@@ -594,14 +594,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having an empty space inside; a small valley.",
-     "chinese": "空心的;山谷"
+     "chinese": "空心的；山谷"
     }
    },
    {
     "word": "holocaust",
     "pos": "n.",
     "definition": "Destruction or slaughter on a mass scale; the genocide of Jews during WWII.",
-    "chinese": "大屠殺;浩劫",
+    "chinese": "大屠殺；浩劫",
     "synonyms": "",
     "root": "holos (whole) + kaustos (burnt), from Greek",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Destruction or slaughter on a mass scale; the genocide of Jews during WWII.",
-     "chinese": "大屠殺;浩劫"
+     "chinese": "大屠殺；浩劫"
     }
    },
    {
     "word": "homage",
     "pos": "n.",
     "definition": "Special honor or respect shown publicly.",
-    "chinese": "致敬;敬意",
+    "chinese": "致敬；敬意",
     "synonyms": "",
     "root": "homo (man), from Latin",
     "group": "",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Special honor or respect shown publicly.",
-     "chinese": "致敬;敬意"
+     "chinese": "致敬；敬意"
     }
    },
    {
     "word": "hombre",
     "pos": "n.",
     "definition": "A man (informal, especially from Spanish influence).",
-    "chinese": "男人;傢伙(西語借詞)",
+    "chinese": "男人；傢伙(西語借詞)",
     "synonyms": "",
     "root": "hombre (man), from Spanish",
     "group": "",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A man (informal, especially from Spanish influence).",
-     "chinese": "男人;傢伙(西語借詞)"
+     "chinese": "男人；傢伙(西語借詞)"
     }
    },
    {
     "word": "homely",
     "pos": "adj.",
     "definition": "Plain in appearance; simple and comfortable.",
-    "chinese": "樸實的;不起眼的",
+    "chinese": "樸實的；不起眼的",
     "synonyms": "",
     "root": "ham (home), from Old English",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Plain in appearance; simple and comfortable.",
-     "chinese": "樸實的;不起眼的"
+     "chinese": "樸實的；不起眼的"
     }
    },
    {
     "word": "homily",
     "pos": "n.",
     "definition": "A religious discourse intended for spiritual edification.",
-    "chinese": "講道;訓誡",
+    "chinese": "講道；訓誡",
     "synonyms": "",
     "root": "homilia (conversation, sermon), from Greek",
     "group": "",
@@ -691,7 +691,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A religious discourse intended for spiritual edification.",
-     "chinese": "講道;訓誡"
+     "chinese": "講道；訓誡"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "homunculus",
     "pos": "n.",
     "definition": "A miniature representation of a human being.",
-    "chinese": "小矮人;人造小人",
+    "chinese": "小矮人；人造小人",
     "synonyms": "",
     "root": "homo (man) + -unculus (diminutive), from Latin",
     "group": "",
@@ -731,7 +731,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A miniature representation of a human being.",
-     "chinese": "小矮人;人造小人"
+     "chinese": "小矮人；人造小人"
     }
    },
    {
@@ -757,7 +757,7 @@ window.FLASHCARD_UNITS = {
     "word": "honorable",
     "pos": "adj.",
     "definition": "Deserving respect for honesty and integrity.",
-    "chinese": "值得尊敬的;正直的",
+    "chinese": "值得尊敬的；正直的",
     "synonyms": "",
     "root": "honor (honor), from Latin",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving respect for honesty and integrity.",
-     "chinese": "值得尊敬的;正直的"
+     "chinese": "值得尊敬的；正直的"
     }
    },
    {
     "word": "hoodlum",
     "pos": "n.",
     "definition": "A young troublemaker or violent criminal.",
-    "chinese": "流氓;小混混",
+    "chinese": "流氓；小混混",
     "synonyms": "",
     "root": "of uncertain American English origin",
     "group": "",
@@ -790,14 +790,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A young troublemaker or violent criminal.",
-     "chinese": "流氓;小混混"
+     "chinese": "流氓；小混混"
     }
    },
    {
     "word": "hoodwink",
     "pos": "v.",
     "definition": "To deceive or trick someone.",
-    "chinese": "矇騙;欺瞞",
+    "chinese": "矇騙；欺瞞",
     "synonyms": "",
     "root": "hood + wink, from Old English + Old Norse",
     "group": "",
@@ -811,14 +811,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To deceive or trick someone.",
-     "chinese": "矇騙;欺瞞"
+     "chinese": "矇騙；欺瞞"
     }
    },
    {
     "word": "hooligan",
     "pos": "n.",
     "definition": "A violent young troublemaker, especially in a group.",
-    "chinese": "流氓;暴徒",
+    "chinese": "流氓；暴徒",
     "synonyms": "",
     "root": "possibly from the surname Houlihan, of Irish origin",
     "group": "",
@@ -832,7 +832,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A violent young troublemaker, especially in a group.",
-     "chinese": "流氓;暴徒"
+     "chinese": "流氓；暴徒"
     }
    },
    {
@@ -879,7 +879,7 @@ window.FLASHCARD_UNITS = {
     "word": "horripilate",
     "pos": "v.",
     "definition": "To cause the hair to stand on end, as from fear or cold.",
-    "chinese": "使汗毛豎立;使起雞皮疙瘩",
+    "chinese": "使汗毛豎立；使起雞皮疙瘩",
     "synonyms": "",
     "root": "horrere (to bristle) + pilus (hair), from Latin",
     "group": "",
@@ -891,14 +891,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause the hair to stand on end, as from fear or cold.",
-     "chinese": "使汗毛豎立;使起雞皮疙瘩"
+     "chinese": "使汗毛豎立；使起雞皮疙瘩"
     }
    },
    {
     "word": "hortatory",
     "pos": "adj.",
     "definition": "Tending to encourage or exhort.",
-    "chinese": "勸誡的;鼓勵性的",
+    "chinese": "勸誡的；鼓勵性的",
     "synonyms": "",
     "root": "hortari (to encourage), from Latin",
     "group": "",
@@ -910,14 +910,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to encourage or exhort.",
-     "chinese": "勸誡的;鼓勵性的"
+     "chinese": "勸誡的；鼓勵性的"
     }
    },
    {
     "word": "hospitable",
     "pos": "adj.",
     "definition": "Friendly and welcoming to guests or strangers.",
-    "chinese": "好客的;殷勤的",
+    "chinese": "好客的；殷勤的",
     "synonyms": "",
     "root": "hospes (host, guest), from Latin",
     "group": "",
@@ -929,7 +929,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendly and welcoming to guests or strangers.",
-     "chinese": "好客的;殷勤的"
+     "chinese": "好客的；殷勤的"
     }
    },
    {
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "word": "hostility",
     "pos": "n.",
     "definition": "Unfriendly or antagonistic feelings or behavior.",
-    "chinese": "敵意;敵對",
+    "chinese": "敵意；敵對",
     "synonyms": "",
     "root": "hostis (enemy), from Latin",
     "group": "",
@@ -967,7 +967,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unfriendly or antagonistic feelings or behavior.",
-     "chinese": "敵意;敵對"
+     "chinese": "敵意；敵對"
     }
    }
   ],
@@ -2176,4 +2176,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hieratic": ["Relating to priests or sacred rites.", "祭司的;神聖的"], "hierocracy": ["Government by priests or religious leaders.", "神權政治"], "high-flown": ["Extravagantly lofty in language or ideas.", "誇張的;言辭浮誇的"], "high-handed": ["Using authority without regard for others' feelings.", "專斷的;高壓的"], "high-minded": ["Having strong moral principles.", "高尚的;有崇高理想的"], "high-strung": ["Very nervous or excitable.", "神經緊繃的;易緊張的"], "highborn": ["Of noble birth.", "出身高貴的"], "highbrow": ["Intellectually sophisticated or demanding.", "高雅的;知識分子的"], "highfalutin": ["Pompous or pretentious, especially in language.", "浮誇做作的;裝腔作勢的"], "highlight": ["To emphasize or make noticeable.", "強調；凸顯"], "highly strung": ["In a very tense state.", "神經緊繃的；易緊張的"], "highwayman": ["A robber who attacks travelers on public roads, especially historically.", "攔路搶匪(歷史用語)"], "hilarious": ["Extremely funny.", "令人捧腹大笑的"], "hinder": ["To obstruct or slow progress.", "阻礙"], "hint": ["A slight or indirect indication; to suggest indirectly.", "暗示;線索"], "hippopotomonstrosesquipedalian": ["Relating to extremely long words (a self-referential joke word).", "指極長單字的(自我指涉的玩笑字)"], "hircine": ["Relating to or resembling a goat, especially in smell.", "似山羊的;有羊臊味的"], "hireling": ["A person employed for wages, especially one who works only for pay without loyalty.", "雇傭;唯利是圖的雇員"], "hirsute": ["Hairy.", "多毛的"], "hispid": ["Covered with stiff hairs or bristles.", "多刺毛的;剛毛狀的"], "historic": ["Famous or important in history.", "具歷史意義的"], "histrionic": ["Excessively theatrical or dramatic.", "戲劇化的;誇張做作的"], "histrionics": ["Display of emotions.", "裝腔作勢；演戲"], "hoard": ["To hide, store, accumulate.", "囤積；貯藏"], "hoax": ["Deception, fraud.", "騙局；惡作劇"], "hobble": ["To walk unevenly due to pain or injury; a rope tying an animal's legs.", "跛行;絆索"], "hocus-pocus": ["Meaningless talk or actions used to deceive; trickery.", "魔咒;花言巧語的騙術"], "hodgepodge": ["A confused mixture of different things.", "大雜燴;混合物"], "hoi polloi": ["The ordinary people, especially as a mass (sometimes used disparagingly).", "平民大眾;群氓"], "hoity-toity": ["Haughty and pretentious.", "自命不凡的;高傲的"], "hollow": ["Having an empty space inside; a small valley.", "空心的;山谷"], "holocaust": ["Destruction or slaughter on a mass scale; the genocide of Jews during WWII.", "大屠殺;浩劫"], "homage": ["Special honor or respect shown publicly.", "致敬;敬意"], "hombre": ["A man (informal, especially from Spanish influence).", "男人;傢伙(西語借詞)"], "homely": ["Plain in appearance; simple and comfortable.", "樸實的;不起眼的"], "homily": ["A religious discourse intended for spiritual edification.", "講道;訓誡"], "homonym": ["A word that sounds the same as another but has a different meaning.", "同音異義詞"], "homunculus": ["A miniature representation of a human being.", "小矮人;人造小人"], "honesty": ["The quality of being truthful and sincere.", "誠實"], "honorable": ["Deserving respect for honesty and integrity.", "值得尊敬的;正直的"], "hoodlum": ["A young troublemaker or violent criminal.", "流氓;小混混"], "hoodwink": ["To deceive or trick someone.", "矇騙;欺瞞"], "hooligan": ["A violent young troublemaker, especially in a group.", "流氓;暴徒"], "hoosegow": ["A jail (American slang).", "監獄(美式俚語)"], "hoplite": ["A heavily armed foot soldier in ancient Greece.", "重裝步兵(古希臘)"], "horripilate": ["To cause the hair to stand on end, as from fear or cold.", "使汗毛豎立;使起雞皮疙瘩"], "hortatory": ["Tending to encourage or exhort.", "勸誡的;鼓勵性的"], "hospitable": ["Friendly and welcoming to guests or strangers.", "好客的;殷勤的"], "hostile": ["Antagonistic, angry.", "敵對的"], "hostility": ["Unfriendly or antagonistic feelings or behavior.", "敵意;敵對"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hieratic": ["Relating to priests or sacred rites.", "祭司的；神聖的"], "hierocracy": ["Government by priests or religious leaders.", "神權政治"], "high-flown": ["Extravagantly lofty in language or ideas.", "誇張的；言辭浮誇的"], "high-handed": ["Using authority without regard for others' feelings.", "專斷的；高壓的"], "high-minded": ["Having strong moral principles.", "高尚的；有崇高理想的"], "high-strung": ["Very nervous or excitable.", "神經緊繃的；易緊張的"], "highborn": ["Of noble birth.", "出身高貴的"], "highbrow": ["Intellectually sophisticated or demanding.", "高雅的；知識分子的"], "highfalutin": ["Pompous or pretentious, especially in language.", "浮誇做作的；裝腔作勢的"], "highlight": ["To emphasize or make noticeable.", "強調；凸顯"], "highly strung": ["In a very tense state.", "神經緊繃的；易緊張的"], "highwayman": ["A robber who attacks travelers on public roads, especially historically.", "攔路搶匪(歷史用語)"], "hilarious": ["Extremely funny.", "令人捧腹大笑的"], "hinder": ["To obstruct or slow progress.", "阻礙"], "hint": ["A slight or indirect indication; to suggest indirectly.", "暗示；線索"], "hippopotomonstrosesquipedalian": ["Relating to extremely long words (a self-referential joke word).", "指極長單字的(自我指涉的玩笑字)"], "hircine": ["Relating to or resembling a goat, especially in smell.", "似山羊的；有羊臊味的"], "hireling": ["A person employed for wages, especially one who works only for pay without loyalty.", "雇傭；唯利是圖的雇員"], "hirsute": ["Hairy.", "多毛的"], "hispid": ["Covered with stiff hairs or bristles.", "多刺毛的；剛毛狀的"], "historic": ["Famous or important in history.", "具歷史意義的"], "histrionic": ["Excessively theatrical or dramatic.", "戲劇化的；誇張做作的"], "histrionics": ["Display of emotions.", "裝腔作勢；演戲"], "hoard": ["To hide, store, accumulate.", "囤積；貯藏"], "hoax": ["Deception, fraud.", "騙局；惡作劇"], "hobble": ["To walk unevenly due to pain or injury; a rope tying an animal's legs.", "跛行；絆索"], "hocus-pocus": ["Meaningless talk or actions used to deceive; trickery.", "魔咒；花言巧語的騙術"], "hodgepodge": ["A confused mixture of different things.", "大雜燴；混合物"], "hoi polloi": ["The ordinary people, especially as a mass (sometimes used disparagingly).", "平民大眾；群氓"], "hoity-toity": ["Haughty and pretentious.", "自命不凡的；高傲的"], "hollow": ["Having an empty space inside; a small valley.", "空心的；山谷"], "holocaust": ["Destruction or slaughter on a mass scale; the genocide of Jews during WWII.", "大屠殺；浩劫"], "homage": ["Special honor or respect shown publicly.", "致敬；敬意"], "hombre": ["A man (informal, especially from Spanish influence).", "男人；傢伙(西語借詞)"], "homely": ["Plain in appearance; simple and comfortable.", "樸實的；不起眼的"], "homily": ["A religious discourse intended for spiritual edification.", "講道；訓誡"], "homonym": ["A word that sounds the same as another but has a different meaning.", "同音異義詞"], "homunculus": ["A miniature representation of a human being.", "小矮人；人造小人"], "honesty": ["The quality of being truthful and sincere.", "誠實"], "honorable": ["Deserving respect for honesty and integrity.", "值得尊敬的；正直的"], "hoodlum": ["A young troublemaker or violent criminal.", "流氓；小混混"], "hoodwink": ["To deceive or trick someone.", "矇騙；欺瞞"], "hooligan": ["A violent young troublemaker, especially in a group.", "流氓；暴徒"], "hoosegow": ["A jail (American slang).", "監獄(美式俚語)"], "hoplite": ["A heavily armed foot soldier in ancient Greece.", "重裝步兵(古希臘)"], "horripilate": ["To cause the hair to stand on end, as from fear or cold.", "使汗毛豎立；使起雞皮疙瘩"], "hortatory": ["Tending to encourage or exhort.", "勸誡的；鼓勵性的"], "hospitable": ["Friendly and welcoming to guests or strangers.", "好客的；殷勤的"], "hostile": ["Antagonistic, angry.", "敵對的"], "hostility": ["Unfriendly or antagonistic feelings or behavior.", "敵意；敵對"]});

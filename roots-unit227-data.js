@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "suppliant",
     "pos": "n./adj.",
     "definition": "A person who humbly begs for something; humbly entreating.",
-    "chinese": "懇求者;懇求的",
+    "chinese": "懇求者；懇求的",
     "synonyms": "",
     "root": "supplicare (to kneel down, beseech), from Latin sub- (under) + plicare (to fold)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who humbly begs for something; humbly entreating.",
-     "chinese": "懇求者;懇求的"
+     "chinese": "懇求者；懇求的"
     }
    },
    {
     "word": "supplicant",
     "pos": "n.",
     "definition": "A person who humbly asks for something.",
-    "chinese": "懇求者;祈求者",
+    "chinese": "懇求者；祈求者",
     "synonyms": "",
     "root": "supplicare (to kneel down, beseech), from Latin sub- (under) + plicare (to fold)",
     "group": "",
@@ -39,14 +39,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who humbly asks for something.",
-     "chinese": "懇求者;祈求者"
+     "chinese": "懇求者；祈求者"
     }
    },
    {
     "word": "supplicate",
     "pos": "v.",
     "definition": "To ask or beg for something humbly.",
-    "chinese": "懇求;祈求",
+    "chinese": "懇求；祈求",
     "synonyms": "",
     "root": "supplicare (to kneel down, beseech), from Latin sub- (under) + plicare (to fold)",
     "group": "",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To ask or beg for something humbly.",
-     "chinese": "懇求;祈求"
+     "chinese": "懇求；祈求"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "surfeited",
     "pos": "adj.",
     "definition": "Having eaten or consumed to excess.",
-    "chinese": "過飽的;過度滿足的",
+    "chinese": "過飽的；過度滿足的",
     "synonyms": "",
     "root": "surfeit, from Old French surfaire (to overdo), from sur- (over) + faire (to do)",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having eaten or consumed to excess.",
-     "chinese": "過飽的;過度滿足的"
+     "chinese": "過飽的；過度滿足的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "surliness",
     "pos": "n.",
     "definition": "The quality of being bad-tempered and unfriendly.",
-    "chinese": "乖戾;粗魯無禮",
+    "chinese": "乖戾；粗魯無禮",
     "synonyms": "",
     "root": "surly, of uncertain origin, possibly a variant of sirly (lordly)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being bad-tempered and unfriendly.",
-     "chinese": "乖戾;粗魯無禮"
+     "chinese": "乖戾；粗魯無禮"
     }
    },
    {
     "word": "surly",
     "pos": "adj.",
     "definition": "Bad-tempered and unfriendly.",
-    "chinese": "乖戾的;粗魯的",
+    "chinese": "乖戾的；粗魯的",
     "synonyms": "",
     "root": "of uncertain origin, possibly a variant of sirly (lordly, arrogant)",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bad-tempered and unfriendly.",
-     "chinese": "乖戾的;粗魯的"
+     "chinese": "乖戾的；粗魯的"
     }
    },
    {
     "word": "susurrant",
     "pos": "adj.",
     "definition": "Whispering; making a soft rustling sound.",
-    "chinese": "低語的;沙沙作響的",
+    "chinese": "低語的；沙沙作響的",
     "synonyms": "",
     "root": "susurrare (to whisper, murmur), from Latin",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Whispering; making a soft rustling sound.",
-     "chinese": "低語的;沙沙作響的"
+     "chinese": "低語的；沙沙作響的"
     }
    },
    {
     "word": "susurrate",
     "pos": "v.",
     "definition": "To whisper or murmur softly.",
-    "chinese": "低語;竊竊私語",
+    "chinese": "低語；竊竊私語",
     "synonyms": "",
     "root": "susurrare (to whisper, murmur), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To whisper or murmur softly.",
-     "chinese": "低語;竊竊私語"
+     "chinese": "低語；竊竊私語"
     }
    },
    {
     "word": "susurration",
     "pos": "n.",
     "definition": "A whispering or rustling sound.",
-    "chinese": "低語聲;沙沙聲",
+    "chinese": "低語聲；沙沙聲",
     "synonyms": "",
     "root": "susurratio, from Latin susurrare (to whisper, murmur)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A whispering or rustling sound.",
-     "chinese": "低語聲;沙沙聲"
+     "chinese": "低語聲；沙沙聲"
     }
    },
    {
     "word": "susurrus",
     "pos": "n.",
     "definition": "A whispering or rustling sound.",
-    "chinese": "低語聲;沙沙聲",
+    "chinese": "低語聲；沙沙聲",
     "synonyms": "",
     "root": "susurrus (a murmur, whisper), from Latin",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A whispering or rustling sound.",
-     "chinese": "低語聲;沙沙聲"
+     "chinese": "低語聲；沙沙聲"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "swamp",
     "pos": "n./v.",
     "definition": "A wetland area; to overwhelm with a large amount of something.",
-    "chinese": "沼澤;使氾濫",
+    "chinese": "沼澤；使氾濫",
     "synonyms": "",
     "root": "of uncertain Germanic origin, related to Old English swamm (fungus)",
     "group": "",
@@ -308,7 +308,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A wetland area; to overwhelm with a large amount of something.",
-     "chinese": "沼澤;使氾濫"
+     "chinese": "沼澤；使氾濫"
     }
    },
    {
@@ -334,7 +334,7 @@ window.FLASHCARD_UNITS = {
     "word": "swashbuckling",
     "pos": "adj.",
     "definition": "Engaging in daring and romantic adventures, often with swordplay.",
-    "chinese": "冒險刺激的;豪俠的",
+    "chinese": "冒險刺激的；豪俠的",
     "synonyms": "",
     "root": "swash (to strike noisily) + buckler (a small shield), from English",
     "group": "",
@@ -346,14 +346,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Engaging in daring and romantic adventures, often with swordplay.",
-     "chinese": "冒險刺激的;豪俠的"
+     "chinese": "冒險刺激的；豪俠的"
     }
    },
    {
     "word": "swatch",
     "pos": "n.",
     "definition": "A sample piece of fabric or material.",
-    "chinese": "樣品;布樣",
+    "chinese": "樣品；布樣",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Old English swaþu (a track, trace)",
     "group": "",
@@ -367,14 +367,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A sample piece of fabric or material.",
-     "chinese": "樣品;布樣"
+     "chinese": "樣品；布樣"
     }
    },
    {
     "word": "swath",
     "pos": "n.",
     "definition": "A broad strip or area of something.",
-    "chinese": "一大片;條帶",
+    "chinese": "一大片；條帶",
     "synonyms": "",
     "root": "swæð (a track, trace of mown grass), from Old English",
     "group": "",
@@ -386,14 +386,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A broad strip or area of something.",
-     "chinese": "一大片;條帶"
+     "chinese": "一大片；條帶"
     }
    },
    {
     "word": "swathe",
     "pos": "v./n.",
     "definition": "To wrap in layers of fabric or bandages.",
-    "chinese": "包裹;纏繞",
+    "chinese": "包裹；纏繞",
     "synonyms": "",
     "root": "swaþian (to bind with bands), from Old English",
     "group": "",
@@ -407,14 +407,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To wrap in layers of fabric or bandages.",
-     "chinese": "包裹;纏繞"
+     "chinese": "包裹；纏繞"
     }
    },
    {
     "word": "sweeping",
     "pos": "adj.",
     "definition": "Wide in range or effect; extending far.",
-    "chinese": "全面的;大範圍的",
+    "chinese": "全面的；大範圍的",
     "synonyms": "",
     "root": "sweep, from Old English swapan (to sweep)",
     "group": "",
@@ -426,14 +426,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wide in range or effect; extending far.",
-     "chinese": "全面的;大範圍的"
+     "chinese": "全面的；大範圍的"
     }
    },
    {
     "word": "sweet",
     "pos": "adj./n.",
     "definition": "Having a pleasant taste like sugar; kind and gentle.",
-    "chinese": "甜的;親切的",
+    "chinese": "甜的；親切的",
     "synonyms": "",
     "root": "swete (sweet), from Old English",
     "group": "",
@@ -445,14 +445,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a pleasant taste like sugar; kind and gentle.",
-     "chinese": "甜的;親切的"
+     "chinese": "甜的；親切的"
     }
    },
    {
     "word": "swell",
     "pos": "v./n.",
     "definition": "To increase in size or intensity; a large wave.",
-    "chinese": "膨脹;湧起;巨浪",
+    "chinese": "膨脹；湧起；巨浪",
     "synonyms": "",
     "root": "swellan (to swell), from Old English",
     "group": "",
@@ -464,14 +464,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To increase in size or intensity; a large wave.",
-     "chinese": "膨脹;湧起;巨浪"
+     "chinese": "膨脹；湧起；巨浪"
     }
    },
    {
     "word": "swindle",
     "pos": "v./n.",
     "definition": "To cheat someone out of money or property.",
-    "chinese": "詐騙;騙局",
+    "chinese": "詐騙；騙局",
     "synonyms": "",
     "root": "schwindeln (to be dizzy, act rashly), from German",
     "group": "",
@@ -483,14 +483,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cheat someone out of money or property.",
-     "chinese": "詐騙;騙局"
+     "chinese": "詐騙；騙局"
     }
    },
    {
     "word": "swipe",
     "pos": "v./n.",
     "definition": "To strike with a sweeping motion; to steal (informal); a critical remark.",
-    "chinese": "猛擊;偷取;抨擊",
+    "chinese": "猛擊；偷取；抨擊",
     "synonyms": "",
     "root": "of uncertain origin, related to sweep, from Old English swapan",
     "group": "",
@@ -502,7 +502,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To strike with a sweeping motion; to steal (informal); a critical remark.",
-     "chinese": "猛擊;偷取;抨擊"
+     "chinese": "猛擊；偷取；抨擊"
     }
    },
    {
@@ -528,7 +528,7 @@ window.FLASHCARD_UNITS = {
     "word": "sybaritic",
     "pos": "adj.",
     "definition": "Fond of luxury and pleasure; self-indulgent.",
-    "chinese": "縱情享樂的;奢華享受的",
+    "chinese": "縱情享樂的；奢華享受的",
     "synonyms": "",
     "root": "named after Sybaris, an ancient Greek city known for luxury",
     "group": "",
@@ -540,7 +540,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fond of luxury and pleasure; self-indulgent.",
-     "chinese": "縱情享樂的;奢華享受的"
+     "chinese": "縱情享樂的；奢華享受的"
     }
    },
    {
@@ -566,7 +566,7 @@ window.FLASHCARD_UNITS = {
     "word": "sycophancy",
     "pos": "n.",
     "definition": "Excessive flattery toward someone important to gain advantage.",
-    "chinese": "阿諛奉承;諂媚",
+    "chinese": "阿諛奉承；諂媚",
     "synonyms": "",
     "root": "sykophantes (accuser, informer), from Greek sykon (fig) + phainein (to show)",
     "group": "",
@@ -578,7 +578,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive flattery toward someone important to gain advantage.",
-     "chinese": "阿諛奉承;諂媚"
+     "chinese": "阿諛奉承；諂媚"
     }
    },
    {
@@ -606,7 +606,7 @@ window.FLASHCARD_UNITS = {
     "word": "sycophantic",
     "pos": "adj.",
     "definition": "Behaving in an excessively flattering way to gain advantage.",
-    "chinese": "阿諛奉承的;諂媚的",
+    "chinese": "阿諛奉承的；諂媚的",
     "synonyms": "",
     "root": "sykophantes (accuser, informer), from Greek sykon (fig) + phainein (to show)",
     "group": "",
@@ -618,14 +618,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behaving in an excessively flattering way to gain advantage.",
-     "chinese": "阿諛奉承的;諂媚的"
+     "chinese": "阿諛奉承的；諂媚的"
     }
    },
    {
     "word": "syllabus",
     "pos": "n.",
     "definition": "An outline of the subjects covered in a course of study.",
-    "chinese": "課程大綱;教學大綱",
+    "chinese": "課程大綱；教學大綱",
     "synonyms": "",
     "root": "syllabus, from Late Latin, possibly a misreading of Greek sittybos (a parchment label)",
     "group": "",
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An outline of the subjects covered in a course of study.",
-     "chinese": "課程大綱;教學大綱"
+     "chinese": "課程大綱；教學大綱"
     }
    },
    {
@@ -663,7 +663,7 @@ window.FLASHCARD_UNITS = {
     "word": "synopsis",
     "pos": "n.",
     "definition": "A brief summary of a larger work.",
-    "chinese": "概要;摘要",
+    "chinese": "概要；摘要",
     "synonyms": "",
     "root": "synopsis, from Greek syn- (together) + opsis (view)",
     "group": "",
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A brief summary of a larger work.",
-     "chinese": "概要;摘要"
+     "chinese": "概要；摘要"
     }
    },
    {
@@ -819,7 +819,7 @@ window.FLASHCARD_UNITS = {
     "word": "talkathon",
     "pos": "n.",
     "definition": "An extended period of talking, especially a lengthy political speech.",
-    "chinese": "馬拉松式演說;長篇談話",
+    "chinese": "馬拉松式演說；長篇談話",
     "synonyms": "",
     "root": "talk + marathon, a blend of English words",
     "group": "",
@@ -831,14 +831,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An extended period of talking, especially a lengthy political speech.",
-     "chinese": "馬拉松式演說;長篇談話"
+     "chinese": "馬拉松式演說；長篇談話"
     }
    },
    {
     "word": "tamale",
     "pos": "n.",
     "definition": "A Mexican dish of seasoned meat wrapped in cornmeal dough and steamed in a husk.",
-    "chinese": "墨西哥粽;塔馬利",
+    "chinese": "墨西哥粽；塔馬利",
     "synonyms": "",
     "root": "tamalli (wrapped food), from Nahuatl, via Spanish",
     "group": "",
@@ -852,7 +852,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A Mexican dish of seasoned meat wrapped in cornmeal dough and steamed in a husk.",
-     "chinese": "墨西哥粽;塔馬利"
+     "chinese": "墨西哥粽；塔馬利"
     }
    },
    {
@@ -899,7 +899,7 @@ window.FLASHCARD_UNITS = {
     "word": "tarnish",
     "pos": "v./n.",
     "definition": "To lose or cause to lose luster; to damage a reputation.",
-    "chinese": "失去光澤;玷污",
+    "chinese": "失去光澤；玷污",
     "synonyms": "",
     "root": "ternir (to dull), from Old French, of Germanic origin",
     "group": "",
@@ -911,7 +911,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To lose or cause to lose luster; to damage a reputation.",
-     "chinese": "失去光澤;玷污"
+     "chinese": "失去光澤；玷污"
     }
    },
    {
@@ -937,7 +937,7 @@ window.FLASHCARD_UNITS = {
     "word": "tart",
     "pos": "adj./n.",
     "definition": "Having a sharp, sour taste; a small pastry.",
-    "chinese": "酸的;水果餡餅",
+    "chinese": "酸的；水果餡餅",
     "synonyms": "",
     "root": "teart (sharp, severe), from Old English",
     "group": "",
@@ -949,14 +949,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a sharp, sour taste; a small pastry.",
-     "chinese": "酸的;水果餡餅"
+     "chinese": "酸的；水果餡餅"
     }
    },
    {
     "word": "tasteful",
     "pos": "adj.",
     "definition": "Showing good judgment about beauty and style.",
-    "chinese": "有品味的;高雅的",
+    "chinese": "有品味的；高雅的",
     "synonyms": "",
     "root": "taste, from Latin taxare (to touch, evaluate) + -ful",
     "group": "",
@@ -968,7 +968,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing good judgment about beauty and style.",
-     "chinese": "有品味的;高雅的"
+     "chinese": "有品味的；高雅的"
     }
    }
   ],
@@ -2177,4 +2177,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"suppliant": ["A person who humbly begs for something; humbly entreating.", "懇求者;懇求的"], "supplicant": ["A person who humbly asks for something.", "懇求者;祈求者"], "supplicate": ["To ask or beg for something humbly.", "懇求;祈求"], "suppurate": ["To form or discharge pus.", "化膿"], "suppuration": ["The formation or discharge of pus.", "化膿作用"], "surfeited": ["Having eaten or consumed to excess.", "過飽的;過度滿足的"], "surge": ["To rush suddenly.", "湧動"], "surliness": ["The quality of being bad-tempered and unfriendly.", "乖戾;粗魯無禮"], "surly": ["Bad-tempered and unfriendly.", "乖戾的;粗魯的"], "susurrant": ["Whispering; making a soft rustling sound.", "低語的;沙沙作響的"], "susurrate": ["To whisper or murmur softly.", "低語;竊竊私語"], "susurration": ["A whispering or rustling sound.", "低語聲;沙沙聲"], "susurrus": ["A whispering or rustling sound.", "低語聲;沙沙聲"], "svelte": ["Slender and elegant in appearance.", "苗條優雅的"], "swagger": ["To walk around in a proud, showy manner.", "大搖大擺地走"], "swamp": ["A wetland area; to overwhelm with a large amount of something.", "沼澤;使氾濫"], "swarthy": ["Of dark color or complexion.", "膚色黝黑的"], "swashbuckling": ["Engaging in daring and romantic adventures, often with swordplay.", "冒險刺激的;豪俠的"], "swatch": ["A sample piece of fabric or material.", "樣品;布樣"], "swath": ["A broad strip or area of something.", "一大片;條帶"], "swathe": ["To wrap in layers of fabric or bandages.", "包裹;纏繞"], "sweeping": ["Wide in range or effect; extending far.", "全面的;大範圍的"], "sweet": ["Having a pleasant taste like sugar; kind and gentle.", "甜的;親切的"], "swell": ["To increase in size or intensity; a large wave.", "膨脹;湧起;巨浪"], "swindle": ["To cheat someone out of money or property.", "詐騙;騙局"], "swipe": ["To strike with a sweeping motion; to steal (informal); a critical remark.", "猛擊;偷取;抨擊"], "sybarite": ["A person devoted to luxury and pleasure.", "縱情享樂者"], "sybaritic": ["Fond of luxury and pleasure; self-indulgent.", "縱情享樂的;奢華享受的"], "sybaritism": ["Devotion to luxury and pleasure; self-indulgence.", "縱慾享樂主義"], "sycophancy": ["Excessive flattery toward someone important to gain advantage.", "阿諛奉承;諂媚"], "sycophant": ["A self-server who tries to gain the favor of others through the use of flattery or by being overattentive.", "諂媚者"], "sycophantic": ["Behaving in an excessively flattering way to gain advantage.", "阿諛奉承的;諂媚的"], "syllabus": ["An outline of the subjects covered in a course of study.", "課程大綱;教學大綱"], "symbolic": ["Serving as a symbol; representing something else.", "象徵性的"], "synopsis": ["A brief summary of a larger work.", "概要;摘要"], "syphilophobia": ["An irrational fear of contracting syphilis.", "梅毒恐懼症"], "taboo": ["Custom forbidding a particular practice.", "禁忌"], "tacit": ["Understood, implied, not stated.", "心照不宣的；默契的"], "taciturn": ["Silent; sparing of words; close-mouthed.", "沉默寡言的"], "taciturnity": ["Habitual silence or reluctance to speak.", "沉默寡言"], "taint": ["Contamination, undesirable substance.", "污點；感染"], "talisman": ["An object believed to have magical protective powers.", "護身符"], "talkathon": ["An extended period of talking, especially a lengthy political speech.", "馬拉松式演說;長篇談話"], "tamale": ["A Mexican dish of seasoned meat wrapped in cornmeal dough and steamed in a husk.", "墨西哥粽;塔馬利"], "tantalize": ["To tease or torment by offering something good.", "逗弄；惹弄"], "tantamount": ["Equivalent, identical.", "同等的"], "tarnish": ["To lose or cause to lose luster; to damage a reputation.", "失去光澤;玷污"], "tarot": ["A deck of cards used for fortune-telling.", "塔羅牌"], "tart": ["Having a sharp, sour taste; a small pastry.", "酸的;水果餡餅"], "tasteful": ["Showing good judgment about beauty and style.", "有品味的;高雅的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"suppliant": ["A person who humbly begs for something; humbly entreating.", "懇求者；懇求的"], "supplicant": ["A person who humbly asks for something.", "懇求者；祈求者"], "supplicate": ["To ask or beg for something humbly.", "懇求；祈求"], "suppurate": ["To form or discharge pus.", "化膿"], "suppuration": ["The formation or discharge of pus.", "化膿作用"], "surfeited": ["Having eaten or consumed to excess.", "過飽的；過度滿足的"], "surge": ["To rush suddenly.", "湧動"], "surliness": ["The quality of being bad-tempered and unfriendly.", "乖戾；粗魯無禮"], "surly": ["Bad-tempered and unfriendly.", "乖戾的；粗魯的"], "susurrant": ["Whispering; making a soft rustling sound.", "低語的；沙沙作響的"], "susurrate": ["To whisper or murmur softly.", "低語；竊竊私語"], "susurration": ["A whispering or rustling sound.", "低語聲；沙沙聲"], "susurrus": ["A whispering or rustling sound.", "低語聲；沙沙聲"], "svelte": ["Slender and elegant in appearance.", "苗條優雅的"], "swagger": ["To walk around in a proud, showy manner.", "大搖大擺地走"], "swamp": ["A wetland area; to overwhelm with a large amount of something.", "沼澤；使氾濫"], "swarthy": ["Of dark color or complexion.", "膚色黝黑的"], "swashbuckling": ["Engaging in daring and romantic adventures, often with swordplay.", "冒險刺激的；豪俠的"], "swatch": ["A sample piece of fabric or material.", "樣品；布樣"], "swath": ["A broad strip or area of something.", "一大片；條帶"], "swathe": ["To wrap in layers of fabric or bandages.", "包裹；纏繞"], "sweeping": ["Wide in range or effect; extending far.", "全面的；大範圍的"], "sweet": ["Having a pleasant taste like sugar; kind and gentle.", "甜的；親切的"], "swell": ["To increase in size or intensity; a large wave.", "膨脹；湧起；巨浪"], "swindle": ["To cheat someone out of money or property.", "詐騙；騙局"], "swipe": ["To strike with a sweeping motion; to steal (informal); a critical remark.", "猛擊；偷取；抨擊"], "sybarite": ["A person devoted to luxury and pleasure.", "縱情享樂者"], "sybaritic": ["Fond of luxury and pleasure; self-indulgent.", "縱情享樂的；奢華享受的"], "sybaritism": ["Devotion to luxury and pleasure; self-indulgence.", "縱慾享樂主義"], "sycophancy": ["Excessive flattery toward someone important to gain advantage.", "阿諛奉承；諂媚"], "sycophant": ["A self-server who tries to gain the favor of others through the use of flattery or by being overattentive.", "諂媚者"], "sycophantic": ["Behaving in an excessively flattering way to gain advantage.", "阿諛奉承的；諂媚的"], "syllabus": ["An outline of the subjects covered in a course of study.", "課程大綱；教學大綱"], "symbolic": ["Serving as a symbol; representing something else.", "象徵性的"], "synopsis": ["A brief summary of a larger work.", "概要；摘要"], "syphilophobia": ["An irrational fear of contracting syphilis.", "梅毒恐懼症"], "taboo": ["Custom forbidding a particular practice.", "禁忌"], "tacit": ["Understood, implied, not stated.", "心照不宣的；默契的"], "taciturn": ["Silent; sparing of words; close-mouthed.", "沉默寡言的"], "taciturnity": ["Habitual silence or reluctance to speak.", "沉默寡言"], "taint": ["Contamination, undesirable substance.", "污點；感染"], "talisman": ["An object believed to have magical protective powers.", "護身符"], "talkathon": ["An extended period of talking, especially a lengthy political speech.", "馬拉松式演說；長篇談話"], "tamale": ["A Mexican dish of seasoned meat wrapped in cornmeal dough and steamed in a husk.", "墨西哥粽；塔馬利"], "tantalize": ["To tease or torment by offering something good.", "逗弄；惹弄"], "tantamount": ["Equivalent, identical.", "同等的"], "tarnish": ["To lose or cause to lose luster; to damage a reputation.", "失去光澤；玷污"], "tarot": ["A deck of cards used for fortune-telling.", "塔羅牌"], "tart": ["Having a sharp, sour taste; a small pastry.", "酸的；水果餡餅"], "tasteful": ["Showing good judgment about beauty and style.", "有品味的；高雅的"]});

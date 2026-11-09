@@ -27,7 +27,7 @@ window.FLASHCARD_UNITS = {
     "word": "italian",
     "pos": "adj./n.",
     "definition": "Relating to Italy; the language or people of Italy.",
-    "chinese": "義大利的;義大利人",
+    "chinese": "義大利的；義大利人",
     "synonyms": "",
     "root": "Italia (Italy), from Latin",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to Italy; the language or people of Italy.",
-     "chinese": "義大利的;義大利人"
+     "chinese": "義大利的；義大利人"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "itinerary",
     "pos": "n.",
     "definition": "A planned route or schedule for a journey.",
-    "chinese": "行程表;旅行計畫",
+    "chinese": "行程表；旅行計畫",
     "synonyms": "",
     "root": "iter (journey), from Latin",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A planned route or schedule for a journey.",
-     "chinese": "行程表;旅行計畫"
+     "chinese": "行程表；旅行計畫"
     }
    },
    {
     "word": "jactitation",
     "pos": "n.",
     "definition": "Restless tossing and turning, especially due to illness; a false boastful claim.",
-    "chinese": "輾轉不安;虛假誇口",
+    "chinese": "輾轉不安；虛假誇口",
     "synonyms": "",
     "root": "jactare (to throw, boast), from Latin",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Restless tossing and turning, especially due to illness; a false boastful claim.",
-     "chinese": "輾轉不安;虛假誇口"
+     "chinese": "輾轉不安；虛假誇口"
     }
    },
    {
     "word": "jaded",
     "pos": "adj.",
     "definition": "Tired, worn out, or lacking enthusiasm from overexposure.",
-    "chinese": "厭倦的;疲憊麻木的",
+    "chinese": "厭倦的；疲憊麻木的",
     "synonyms": "",
     "root": "jade (worn-out horse), of uncertain Middle English origin",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tired, worn out, or lacking enthusiasm from overexposure.",
-     "chinese": "厭倦的;疲憊麻木的"
+     "chinese": "厭倦的；疲憊麻木的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "jargon",
     "pos": "n.",
     "definition": "Specialized language used by a particular group or profession.",
-    "chinese": "行話;術語",
+    "chinese": "行話；術語",
     "synonyms": "",
     "root": "jargoun (chattering), from Old French",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Specialized language used by a particular group or profession.",
-     "chinese": "行話;術語"
+     "chinese": "行話；術語"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "jeer",
     "pos": "v./n.",
     "definition": "To mock or taunt someone rudely.",
-    "chinese": "嘲笑;奚落",
+    "chinese": "嘲笑；奚落",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to cheer",
     "group": "",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To mock or taunt someone rudely.",
-     "chinese": "嘲笑;奚落"
+     "chinese": "嘲笑；奚落"
     }
    },
    {
     "word": "jejune",
     "pos": "adj.",
     "definition": "Naive, simplistic, or superficial; lacking nutritional value.",
-    "chinese": "幼稚的;貧乏的",
+    "chinese": "幼稚的；貧乏的",
     "synonyms": "",
     "root": "jejunus (fasting, empty), from Latin",
     "group": "",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Naive, simplistic, or superficial; lacking nutritional value.",
-     "chinese": "幼稚的;貧乏的"
+     "chinese": "幼稚的；貧乏的"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "jeremiad",
     "pos": "n.",
     "definition": "A long, mournful complaint or lamentation.",
-    "chinese": "悲嘆;長篇抱怨",
+    "chinese": "悲嘆；長篇抱怨",
     "synonyms": "",
     "root": "named after the biblical prophet Jeremiah",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long, mournful complaint or lamentation.",
-     "chinese": "悲嘆;長篇抱怨"
+     "chinese": "悲嘆；長篇抱怨"
     }
    },
    {
     "word": "jewelry",
     "pos": "n.",
     "definition": "Ornamental items worn for personal adornment, such as rings or necklaces.",
-    "chinese": "珠寶;首飾",
+    "chinese": "珠寶；首飾",
     "synonyms": "",
     "root": "jouel (jewel), from Old French",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Ornamental items worn for personal adornment, such as rings or necklaces.",
-     "chinese": "珠寶;首飾"
+     "chinese": "珠寶；首飾"
     }
    },
    {
     "word": "jingo",
     "pos": "n.",
     "definition": "A person who supports aggressive nationalism.",
-    "chinese": "沙文主義者;好戰分子",
+    "chinese": "沙文主義者；好戰分子",
     "synonyms": "",
     "root": "possibly from a conjuror's word, popularized in a British song",
     "group": "",
@@ -309,14 +309,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who supports aggressive nationalism.",
-     "chinese": "沙文主義者;好戰分子"
+     "chinese": "沙文主義者；好戰分子"
     }
    },
    {
     "word": "jingoism",
     "pos": "n.",
     "definition": "Extreme, aggressive nationalism.",
-    "chinese": "沙文主義;侵略性民族主義",
+    "chinese": "沙文主義；侵略性民族主義",
     "synonyms": "",
     "root": "jingo, possibly from a conjuror's word",
     "group": "",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme, aggressive nationalism.",
-     "chinese": "沙文主義;侵略性民族主義"
+     "chinese": "沙文主義；侵略性民族主義"
     }
    },
    {
@@ -392,7 +392,7 @@ window.FLASHCARD_UNITS = {
     "word": "jocosity",
     "pos": "n.",
     "definition": "The quality of being playful or joking.",
-    "chinese": "玩笑;詼諧",
+    "chinese": "玩笑；詼諧",
     "synonyms": "",
     "root": "jocus (joke), from Latin",
     "group": "",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being playful or joking.",
-     "chinese": "玩笑;詼諧"
+     "chinese": "玩笑；詼諧"
     }
    },
    {
@@ -430,7 +430,7 @@ window.FLASHCARD_UNITS = {
     "word": "jocularity",
     "pos": "n.",
     "definition": "The quality of being humorous or playful.",
-    "chinese": "詼諧;風趣",
+    "chinese": "詼諧；風趣",
     "synonyms": "",
     "root": "jocus (joke), from Latin",
     "group": "",
@@ -442,14 +442,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being humorous or playful.",
-     "chinese": "詼諧;風趣"
+     "chinese": "詼諧；風趣"
     }
    },
    {
     "word": "jocund",
     "pos": "adj.",
     "definition": "Cheerful and lighthearted.",
-    "chinese": "快活的;輕鬆愉快的",
+    "chinese": "快活的；輕鬆愉快的",
     "synonyms": "",
     "root": "jocundus (pleasant), from Latin",
     "group": "",
@@ -461,14 +461,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheerful and lighthearted.",
-     "chinese": "快活的;輕鬆愉快的"
+     "chinese": "快活的；輕鬆愉快的"
     }
    },
    {
     "word": "jocundity",
     "pos": "n.",
     "definition": "Cheerfulness; lightheartedness.",
-    "chinese": "快活;愉悅",
+    "chinese": "快活；愉悅",
     "synonyms": "",
     "root": "jocundus (pleasant), from Latin",
     "group": "",
@@ -480,7 +480,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheerfulness; lightheartedness.",
-     "chinese": "快活;愉悅"
+     "chinese": "快活；愉悅"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "jovial",
     "pos": "adj.",
     "definition": "Cheerful and friendly.",
-    "chinese": "快樂的;和藹可親的",
+    "chinese": "快樂的；和藹可親的",
     "synonyms": "",
     "root": "Jovialis (of Jupiter), from Latin",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheerful and friendly.",
-     "chinese": "快樂的;和藹可親的"
+     "chinese": "快樂的；和藹可親的"
     }
    },
    {
     "word": "joviality",
     "pos": "n.",
     "definition": "The quality of being cheerful and friendly.",
-    "chinese": "快活;親切友善",
+    "chinese": "快活；親切友善",
     "synonyms": "",
     "root": "Jovialis (of Jupiter), from Latin",
     "group": "",
@@ -558,7 +558,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being cheerful and friendly.",
-     "chinese": "快活;親切友善"
+     "chinese": "快活；親切友善"
     }
    },
    {
@@ -584,7 +584,7 @@ window.FLASHCARD_UNITS = {
     "word": "judge",
     "pos": "n./v.",
     "definition": "A public official who presides over court proceedings; to form an opinion.",
-    "chinese": "法官;評判",
+    "chinese": "法官；評判",
     "synonyms": "",
     "root": "judex (judge), from Latin",
     "group": "",
@@ -596,14 +596,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A public official who presides over court proceedings; to form an opinion.",
-     "chinese": "法官;評判"
+     "chinese": "法官；評判"
     }
    },
    {
     "word": "judgment",
     "pos": "n.",
     "definition": "The ability to make considered decisions; a formal court decision.",
-    "chinese": "判斷力;判決",
+    "chinese": "判斷力；判決",
     "synonyms": "",
     "root": "judex (judge), from Latin",
     "group": "",
@@ -615,7 +615,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ability to make considered decisions; a formal court decision.",
-     "chinese": "判斷力;判決"
+     "chinese": "判斷力；判決"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "judiciary",
     "pos": "n.",
     "definition": "The system of courts and judges in a country.",
-    "chinese": "司法機關;司法體系",
+    "chinese": "司法機關；司法體系",
     "synonyms": "",
     "root": "judex (judge), from Latin",
     "group": "",
@@ -653,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The system of courts and judges in a country.",
-     "chinese": "司法機關;司法體系"
+     "chinese": "司法機關；司法體系"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "juvenescent",
     "pos": "adj.",
     "definition": "Becoming youthful or young again.",
-    "chinese": "變年輕的;返老還童的",
+    "chinese": "變年輕的；返老還童的",
     "synonyms": "",
     "root": "juvenis (young), from Latin",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Becoming youthful or young again.",
-     "chinese": "變年輕的;返老還童的"
+     "chinese": "變年輕的；返老還童的"
     }
    },
    {
     "word": "juvenile",
     "pos": "adj./n.",
     "definition": "Relating to young people; a young person.",
-    "chinese": "青少年的;未成年人",
+    "chinese": "青少年的；未成年人",
     "synonyms": "",
     "root": "juvenis (young), from Latin",
     "group": "",
@@ -750,14 +750,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to young people; a young person.",
-     "chinese": "青少年的;未成年人"
+     "chinese": "青少年的；未成年人"
     }
    },
    {
     "word": "juvenilia",
     "pos": "n.",
     "definition": "Works produced by an author or artist while young.",
-    "chinese": "少作;早年作品",
+    "chinese": "少作；早年作品",
     "synonyms": "",
     "root": "juvenilis (youthful), from Latin",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Works produced by an author or artist while young.",
-     "chinese": "少作;早年作品"
+     "chinese": "少作；早年作品"
     }
    },
    {
     "word": "karma",
     "pos": "n.",
     "definition": "The belief that one's actions determine one's future fate.",
-    "chinese": "業;因果報應",
+    "chinese": "業；因果報應",
     "synonyms": "",
     "root": "karma (action, deed), from Sanskrit",
     "group": "",
@@ -788,7 +788,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The belief that one's actions determine one's future fate.",
-     "chinese": "業;因果報應"
+     "chinese": "業；因果報應"
     }
    },
    {
@@ -814,7 +814,7 @@ window.FLASHCARD_UNITS = {
     "word": "keeper",
     "pos": "n.",
     "definition": "A person who guards, maintains, or is in charge of something.",
-    "chinese": "看守人;管理員",
+    "chinese": "看守人；管理員",
     "synonyms": "",
     "root": "cepan (to keep watch), from Old English",
     "group": "",
@@ -826,14 +826,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who guards, maintains, or is in charge of something.",
-     "chinese": "看守人;管理員"
+     "chinese": "看守人；管理員"
     }
    },
    {
     "word": "keeperess",
     "pos": "n.",
     "definition": "A female keeper or guardian.",
-    "chinese": "女性看守人;女管理員",
+    "chinese": "女性看守人；女管理員",
     "synonyms": "",
     "root": "cepan (to keep watch), from Old English",
     "group": "",
@@ -845,14 +845,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A female keeper or guardian.",
-     "chinese": "女性看守人;女管理員"
+     "chinese": "女性看守人；女管理員"
     }
    },
    {
     "word": "kickshaw",
     "pos": "n.",
     "definition": "A fancy but insubstantial dish; a trivial trinket.",
-    "chinese": "花俏的小點心;瑣碎小物",
+    "chinese": "花俏的小點心；瑣碎小物",
     "synonyms": "",
     "root": "quelque chose (something), from French",
     "group": "",
@@ -866,7 +866,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A fancy but insubstantial dish; a trivial trinket.",
-     "chinese": "花俏的小點心;瑣碎小物"
+     "chinese": "花俏的小點心；瑣碎小物"
     }
    },
    {
@@ -894,7 +894,7 @@ window.FLASHCARD_UNITS = {
     "word": "kinship",
     "pos": "n.",
     "definition": "Blood relationship; a sense of shared connection.",
-    "chinese": "親屬關係;親近感",
+    "chinese": "親屬關係；親近感",
     "synonyms": "",
     "root": "cynn (kin) + -ship, from Old English",
     "group": "",
@@ -906,14 +906,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Blood relationship; a sense of shared connection.",
-     "chinese": "親屬關係;親近感"
+     "chinese": "親屬關係；親近感"
     }
    },
    {
     "word": "kismet",
     "pos": "n.",
     "definition": "Destiny or fate.",
-    "chinese": "命運;天意",
+    "chinese": "命運；天意",
     "synonyms": "",
     "root": "qisma (portion, lot), from Arabic, via Turkish",
     "group": "",
@@ -925,7 +925,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Destiny or fate.",
-     "chinese": "命運;天意"
+     "chinese": "命運；天意"
     }
    },
    {
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"isolate": ["To separate from others.", "隔離；孤立"], "italian": ["Relating to Italy; the language or people of Italy.", "義大利的;義大利人"], "itinerant": ["Wandering.", "巡迴的；流動的"], "itinerary": ["A planned route or schedule for a journey.", "行程表;旅行計畫"], "jactitation": ["Restless tossing and turning, especially due to illness; a false boastful claim.", "輾轉不安;虛假誇口"], "jaded": ["Tired, worn out, or lacking enthusiasm from overexposure.", "厭倦的;疲憊麻木的"], "japanophobia": ["An intense dislike or fear of Japan or Japanese culture.", "恐日症"], "jargon": ["Specialized language used by a particular group or profession.", "行話;術語"], "jealousy": ["Resentment caused by another's success or advantages.", "嫉妒"], "jeer": ["To mock or taunt someone rudely.", "嘲笑;奚落"], "jejune": ["Naive, simplistic, or superficial; lacking nutritional value.", "幼稚的;貧乏的"], "jejunum": ["The middle section of the small intestine.", "空腸"], "jeopardize": ["To endanger.", "危害；使受危險"], "jeremiad": ["A long, mournful complaint or lamentation.", "悲嘆;長篇抱怨"], "jewelry": ["Ornamental items worn for personal adornment, such as rings or necklaces.", "珠寶;首飾"], "jingo": ["A person who supports aggressive nationalism.", "沙文主義者;好戰分子"], "jingoism": ["Extreme, aggressive nationalism.", "沙文主義;侵略性民族主義"], "jingoist": ["A person who holds extreme, aggressive nationalist views.", "沙文主義者"], "jingoistic": ["Relating to extreme, aggressive nationalism.", "沙文主義的"], "jocose": ["Humorous, merry.", "詼諧的；開玩笑的"], "jocosity": ["The quality of being playful or joking.", "玩笑;詼諧"], "jocular": ["Liking to be with people, joke around and have fun.", "詼諧的"], "jocularity": ["The quality of being humorous or playful.", "詼諧;風趣"], "jocund": ["Cheerful and lighthearted.", "快活的;輕鬆愉快的"], "jocundity": ["Cheerfulness; lightheartedness.", "快活;愉悅"], "jongleur": ["A medieval entertainer who performed music, juggling, or acrobatics.", "中世紀吟遊藝人"], "jostle": ["To bump into.", "推擠"], "jovial": ["Cheerful and friendly.", "快樂的;和藹可親的"], "joviality": ["The quality of being cheerful and friendly.", "快活;親切友善"], "jubilant": ["Joyful, in high spirits.", "歡呼的；喜悅的"], "judge": ["A public official who presides over court proceedings; to form an opinion.", "法官;評判"], "judgment": ["The ability to make considered decisions; a formal court decision.", "判斷力;判決"], "judicial": ["Relating to a court of law or the administration of justice.", "司法的"], "judiciary": ["The system of courts and judges in a country.", "司法機關;司法體系"], "judicious": ["Showing wisdom in judging people and situations.", "明智的"], "jurisdiction": ["Power, range of authority.", "司法權；管轄權"], "juror": ["A member of a jury.", "陪審員"], "juvenescent": ["Becoming youthful or young again.", "變年輕的;返老還童的"], "juvenile": ["Relating to young people; a young person.", "青少年的;未成年人"], "juvenilia": ["Works produced by an author or artist while young.", "少作;早年作品"], "karma": ["The belief that one's actions determine one's future fate.", "業;因果報應"], "keen": ["Having or showing eagerness or enthusiasm.", "熱切的；敏銳的"], "keeper": ["A person who guards, maintains, or is in charge of something.", "看守人;管理員"], "keeperess": ["A female keeper or guardian.", "女性看守人;女管理員"], "kickshaw": ["A fancy but insubstantial dish; a trivial trinket.", "花俏的小點心;瑣碎小物"], "kindle": ["To start a fire or ignite excitement or interest.", "點燃；激起"], "kinship": ["Blood relationship; a sense of shared connection.", "親屬關係;親近感"], "kismet": ["Destiny or fate.", "命運;天意"], "kissing": ["The act of touching with the lips as a sign of affection.", "親吻"], "kitchenette": ["A small kitchen or kitchen area.", "小廚房"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"isolate": ["To separate from others.", "隔離；孤立"], "italian": ["Relating to Italy; the language or people of Italy.", "義大利的；義大利人"], "itinerant": ["Wandering.", "巡迴的；流動的"], "itinerary": ["A planned route or schedule for a journey.", "行程表；旅行計畫"], "jactitation": ["Restless tossing and turning, especially due to illness; a false boastful claim.", "輾轉不安；虛假誇口"], "jaded": ["Tired, worn out, or lacking enthusiasm from overexposure.", "厭倦的；疲憊麻木的"], "japanophobia": ["An intense dislike or fear of Japan or Japanese culture.", "恐日症"], "jargon": ["Specialized language used by a particular group or profession.", "行話；術語"], "jealousy": ["Resentment caused by another's success or advantages.", "嫉妒"], "jeer": ["To mock or taunt someone rudely.", "嘲笑；奚落"], "jejune": ["Naive, simplistic, or superficial; lacking nutritional value.", "幼稚的；貧乏的"], "jejunum": ["The middle section of the small intestine.", "空腸"], "jeopardize": ["To endanger.", "危害；使受危險"], "jeremiad": ["A long, mournful complaint or lamentation.", "悲嘆；長篇抱怨"], "jewelry": ["Ornamental items worn for personal adornment, such as rings or necklaces.", "珠寶；首飾"], "jingo": ["A person who supports aggressive nationalism.", "沙文主義者；好戰分子"], "jingoism": ["Extreme, aggressive nationalism.", "沙文主義；侵略性民族主義"], "jingoist": ["A person who holds extreme, aggressive nationalist views.", "沙文主義者"], "jingoistic": ["Relating to extreme, aggressive nationalism.", "沙文主義的"], "jocose": ["Humorous, merry.", "詼諧的；開玩笑的"], "jocosity": ["The quality of being playful or joking.", "玩笑；詼諧"], "jocular": ["Liking to be with people, joke around and have fun.", "詼諧的"], "jocularity": ["The quality of being humorous or playful.", "詼諧；風趣"], "jocund": ["Cheerful and lighthearted.", "快活的；輕鬆愉快的"], "jocundity": ["Cheerfulness; lightheartedness.", "快活；愉悅"], "jongleur": ["A medieval entertainer who performed music, juggling, or acrobatics.", "中世紀吟遊藝人"], "jostle": ["To bump into.", "推擠"], "jovial": ["Cheerful and friendly.", "快樂的；和藹可親的"], "joviality": ["The quality of being cheerful and friendly.", "快活；親切友善"], "jubilant": ["Joyful, in high spirits.", "歡呼的；喜悅的"], "judge": ["A public official who presides over court proceedings; to form an opinion.", "法官；評判"], "judgment": ["The ability to make considered decisions; a formal court decision.", "判斷力；判決"], "judicial": ["Relating to a court of law or the administration of justice.", "司法的"], "judiciary": ["The system of courts and judges in a country.", "司法機關；司法體系"], "judicious": ["Showing wisdom in judging people and situations.", "明智的"], "jurisdiction": ["Power, range of authority.", "司法權；管轄權"], "juror": ["A member of a jury.", "陪審員"], "juvenescent": ["Becoming youthful or young again.", "變年輕的；返老還童的"], "juvenile": ["Relating to young people; a young person.", "青少年的；未成年人"], "juvenilia": ["Works produced by an author or artist while young.", "少作；早年作品"], "karma": ["The belief that one's actions determine one's future fate.", "業；因果報應"], "keen": ["Having or showing eagerness or enthusiasm.", "熱切的；敏銳的"], "keeper": ["A person who guards, maintains, or is in charge of something.", "看守人；管理員"], "keeperess": ["A female keeper or guardian.", "女性看守人；女管理員"], "kickshaw": ["A fancy but insubstantial dish; a trivial trinket.", "花俏的小點心；瑣碎小物"], "kindle": ["To start a fire or ignite excitement or interest.", "點燃；激起"], "kinship": ["Blood relationship; a sense of shared connection.", "親屬關係；親近感"], "kismet": ["Destiny or fate.", "命運；天意"], "kissing": ["The act of touching with the lips as a sign of affection.", "親吻"], "kitchenette": ["A small kitchen or kitchen area.", "小廚房"]});

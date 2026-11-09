@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "eupeptic",
     "pos": "adj.",
     "definition": "Having good digestion; cheerful.",
-    "chinese": "消化良好的;樂觀的",
+    "chinese": "消化良好的；樂觀的",
     "synonyms": "",
     "root": "eu- (good) + pepsis (digestion), from Greek",
     "group": "eu = 好",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having good digestion; cheerful.",
-     "chinese": "消化良好的;樂觀的"
+     "chinese": "消化良好的；樂觀的"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "evangelize",
     "pos": "v.",
     "definition": "To preach the gospel; to promote a cause enthusiastically.",
-    "chinese": "傳播福音;熱衷宣揚",
+    "chinese": "傳播福音；熱衷宣揚",
     "synonyms": "",
     "root": "eu- (good) + angelos (messenger), from Greek",
     "group": "eu = 好",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To preach the gospel; to promote a cause enthusiastically.",
-     "chinese": "傳播福音;熱衷宣揚"
+     "chinese": "傳播福音；熱衷宣揚"
     }
    }
   ],
@@ -612,4 +612,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"euphemism": ["Less offensive term.", "委婉語"], "euphony": ["Pleasing sound.", "悅耳的聲音"], "eulogize": ["To praise, as in a eulogy; to say good things about.", "頌揚"], "eulogy": ["A formal expression of praise for someone who has died.", "悼詞；頌詞"], "eupepsia": ["Good digestion.", "消化良好"], "eupeptic": ["Having good digestion; cheerful.", "消化良好的;樂觀的"], "euphemistic": ["Using a mild or indirect term instead of a harsh or blunt one.", "委婉的"], "euphemize": ["To replace a harsh term with a milder one.", "委婉表達"], "euphonic": ["Of or relating to or characterized by euphony.", "悅耳的；諧音的"], "euphonious": ["Having a pleasant sound.", "悅耳動聽的"], "euphoria": ["A feeling of great elation.", "欣快感；狂喜"], "euphoric": ["Elated, uplifted.", "興高采烈的；狂喜的"], "euthanasia": ["The act of killing someone painlessly.", "安樂死"], "evangelize": ["To preach the gospel; to promote a cause enthusiastically.", "傳播福音;熱衷宣揚"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"euphemism": ["Less offensive term.", "委婉語"], "euphony": ["Pleasing sound.", "悅耳的聲音"], "eulogize": ["To praise, as in a eulogy; to say good things about.", "頌揚"], "eulogy": ["A formal expression of praise for someone who has died.", "悼詞；頌詞"], "eupepsia": ["Good digestion.", "消化良好"], "eupeptic": ["Having good digestion; cheerful.", "消化良好的；樂觀的"], "euphemistic": ["Using a mild or indirect term instead of a harsh or blunt one.", "委婉的"], "euphemize": ["To replace a harsh term with a milder one.", "委婉表達"], "euphonic": ["Of or relating to or characterized by euphony.", "悅耳的；諧音的"], "euphonious": ["Having a pleasant sound.", "悅耳動聽的"], "euphoria": ["A feeling of great elation.", "欣快感；狂喜"], "euphoric": ["Elated, uplifted.", "興高采烈的；狂喜的"], "euthanasia": ["The act of killing someone painlessly.", "安樂死"], "evangelize": ["To preach the gospel; to promote a cause enthusiastically.", "傳播福音；熱衷宣揚"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "misbegotten",
     "pos": "adj.",
     "definition": "Badly planned or conceived; illegitimate.",
-    "chinese": "考慮不周的;私生的",
+    "chinese": "考慮不周的；私生的",
     "synonyms": "",
     "root": "mis- (badly) + begotten, from Old English",
     "group": "mis = 錯誤；不當；壞；憎惡",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Badly planned or conceived; illegitimate.",
-     "chinese": "考慮不周的;私生的"
+     "chinese": "考慮不周的；私生的"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "misquote",
     "pos": "v.",
     "definition": "To quote inaccurately.",
-    "chinese": "誤引;錯誤引述",
+    "chinese": "誤引；錯誤引述",
     "synonyms": "",
     "root": "mis- (wrongly) + quote, from Latin quotare",
     "group": "mis = 錯誤；不當；壞；憎惡",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To quote inaccurately.",
-     "chinese": "誤引;錯誤引述"
+     "chinese": "誤引；錯誤引述"
     }
    },
    {
@@ -87,7 +87,7 @@ window.FLASHCARD_UNITS = {
     "word": "misuse",
     "pos": "n./v.",
     "definition": "Incorrect or improper use of something.",
-    "chinese": "誤用;濫用",
+    "chinese": "誤用；濫用",
     "synonyms": "",
     "root": "mis- (wrongly) + use, from Latin usus",
     "group": "mis = 錯誤；不當；壞；憎惡",
@@ -99,7 +99,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Incorrect or improper use of something.",
-     "chinese": "誤用;濫用"
+     "chinese": "誤用；濫用"
     }
    },
    {
@@ -701,4 +701,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"misbegotten": ["Badly planned or conceived; illegitimate.", "考慮不周的;私生的"], "misgiving": ["A feeling of doubt, worry, or fear about what may happen.", "疑慮；擔憂"], "misquote": ["To quote inaccurately.", "誤引;錯誤引述"], "misrepresent": ["To give a false impression.", "歪曲；誤傳"], "misuse": ["Incorrect or improper use of something.", "誤用;濫用"], "misanthrope": ["A person who dislikes humankind and avoids human society.", "厭世者；憤世嫉俗者"], "miscreant": ["A person who behaves badly or breaks the law.", "惡棍；歹徒；歹人"], "misnomer": ["A wrong or inaccurate name or term for something.", "稱呼不當；名稱錯誤"], "misconstrue": ["To interpret or understand someone's words or actions incorrectly.", "曲解；誤解"], "misappropriate": ["To dishonestly or illegally take money or property for one's own use.", "侵占；挪用"], "misogyny": ["Hatred, dislike, or deep prejudice against women.", "厭女症；仇恨女性"], "mishap": ["An unlucky accident or an unfortunate event, usually a minor one.", "小災難；不幸事故；晦氣事"], "misapprehension": ["A mistaken belief about a situation; a misunderstanding.", "誤會；誤解"], "misogamist": ["A person who hates marriage or strongly opposes the institution of marriage.", "厭惡結婚者；反對婚姻者"], "misnomed": ["Given an incorrect or inappropriate name.", "名字叫錯的；取錯名字的"], "misallied": ["Joined in an unsuitable, improper, or badly matched alliance or marriage.", "門戶不對的；不適當聯姻的；錯誤結盟的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"misbegotten": ["Badly planned or conceived; illegitimate.", "考慮不周的；私生的"], "misgiving": ["A feeling of doubt, worry, or fear about what may happen.", "疑慮；擔憂"], "misquote": ["To quote inaccurately.", "誤引；錯誤引述"], "misrepresent": ["To give a false impression.", "歪曲；誤傳"], "misuse": ["Incorrect or improper use of something.", "誤用；濫用"], "misanthrope": ["A person who dislikes humankind and avoids human society.", "厭世者；憤世嫉俗者"], "miscreant": ["A person who behaves badly or breaks the law.", "惡棍；歹徒；歹人"], "misnomer": ["A wrong or inaccurate name or term for something.", "稱呼不當；名稱錯誤"], "misconstrue": ["To interpret or understand someone's words or actions incorrectly.", "曲解；誤解"], "misappropriate": ["To dishonestly or illegally take money or property for one's own use.", "侵占；挪用"], "misogyny": ["Hatred, dislike, or deep prejudice against women.", "厭女症；仇恨女性"], "mishap": ["An unlucky accident or an unfortunate event, usually a minor one.", "小災難；不幸事故；晦氣事"], "misapprehension": ["A mistaken belief about a situation; a misunderstanding.", "誤會；誤解"], "misogamist": ["A person who hates marriage or strongly opposes the institution of marriage.", "厭惡結婚者；反對婚姻者"], "misnomed": ["Given an incorrect or inappropriate name.", "名字叫錯的；取錯名字的"], "misallied": ["Joined in an unsuitable, improper, or badly matched alliance or marriage.", "門戶不對的；不適當聯姻的；錯誤結盟的"]});

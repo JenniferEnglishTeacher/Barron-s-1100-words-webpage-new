@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "epoch",
     "pos": "n.",
     "definition": "A period of time marked by particular events or developments.",
-    "chinese": "時代;紀元",
+    "chinese": "時代；紀元",
     "synonyms": "",
     "root": "epokhe (fixed point in time), from Greek",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A period of time marked by particular events or developments.",
-     "chinese": "時代;紀元"
+     "chinese": "時代；紀元"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "equable",
     "pos": "adj.",
     "definition": "Calm and even-tempered; not varying much.",
-    "chinese": "穩定的;平和的",
+    "chinese": "穩定的；平和的",
     "synonyms": "",
     "root": "aequus (equal), from Latin",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calm and even-tempered; not varying much.",
-     "chinese": "穩定的;平和的"
+     "chinese": "穩定的；平和的"
     }
    },
    {
     "word": "equate",
     "pos": "v.",
     "definition": "To consider one thing to be the same as or equivalent to another.",
-    "chinese": "使相等;等同",
+    "chinese": "使相等；等同",
     "synonyms": "",
     "root": "aequus (equal), from Latin",
     "group": "",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To consider one thing to be the same as or equivalent to another.",
-     "chinese": "使相等;等同"
+     "chinese": "使相等；等同"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "equestrienne",
     "pos": "n.",
     "definition": "A female horseback rider, especially a performer.",
-    "chinese": "女騎手;女馬術表演者",
+    "chinese": "女騎手；女馬術表演者",
     "synonyms": "",
     "root": "equus (horse), from Latin",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A female horseback rider, especially a performer.",
-     "chinese": "女騎手;女馬術表演者"
+     "chinese": "女騎手；女馬術表演者"
     }
    },
    {
     "word": "equilibrium",
     "pos": "n.",
     "definition": "A state of physical or emotional balance.",
-    "chinese": "平衡;均衡",
+    "chinese": "平衡；均衡",
     "synonyms": "",
     "root": "aequus (equal) + libra (balance), from Latin",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of physical or emotional balance.",
-     "chinese": "平衡;均衡"
+     "chinese": "平衡；均衡"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "equinox",
     "pos": "n.",
     "definition": "The time when day and night are of equal length.",
-    "chinese": "分點;晝夜平分點",
+    "chinese": "分點；晝夜平分點",
     "synonyms": "",
     "root": "aequus (equal) + nox (night), from Latin",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The time when day and night are of equal length.",
-     "chinese": "分點;晝夜平分點"
+     "chinese": "分點；晝夜平分點"
     }
    },
    {
     "word": "equitable",
     "pos": "adj.",
     "definition": "Fair, just, and impartial.",
-    "chinese": "公平的;公正的",
+    "chinese": "公平的；公正的",
     "synonyms": "",
     "root": "aequus (equal), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fair, just, and impartial.",
-     "chinese": "公平的;公正的"
+     "chinese": "公平的；公正的"
     }
    },
    {
     "word": "equivocate",
     "pos": "v.",
     "definition": "To use ambiguous language to avoid committing to a position.",
-    "chinese": "含糊其辭;搪塞",
+    "chinese": "含糊其辭；搪塞",
     "synonyms": "",
     "root": "aequus (equal) + vox (voice), from Latin",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To use ambiguous language to avoid committing to a position.",
-     "chinese": "含糊其辭;搪塞"
+     "chinese": "含糊其辭；搪塞"
     }
    },
    {
     "word": "equivocation",
     "pos": "n.",
     "definition": "The use of ambiguous language to avoid committing to a definite position.",
-    "chinese": "含糊其辭;模稜兩可",
+    "chinese": "含糊其辭；模稜兩可",
     "synonyms": "",
     "root": "aequus (equal) + vox (voice), from Latin",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of ambiguous language to avoid committing to a definite position.",
-     "chinese": "含糊其辭;模稜兩可"
+     "chinese": "含糊其辭；模稜兩可"
     }
    },
    {
     "word": "eremite",
     "pos": "n.",
     "definition": "A Christian hermit or recluse.",
-    "chinese": "隱士;隱修士",
+    "chinese": "隱士；隱修士",
     "synonyms": "",
     "root": "eremos (desert, solitary), from Greek",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A Christian hermit or recluse.",
-     "chinese": "隱士;隱修士"
+     "chinese": "隱士；隱修士"
     }
    },
    {
     "word": "eristic",
     "pos": "adj.",
     "definition": "Relating to or given to argument for its own sake.",
-    "chinese": "詭辯的;好辯的",
+    "chinese": "詭辯的；好辯的",
     "synonyms": "",
     "root": "eris (strife), from Greek",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or given to argument for its own sake.",
-     "chinese": "詭辯的;好辯的"
+     "chinese": "詭辯的；好辯的"
     }
    },
    {
     "word": "err",
     "pos": "v.",
     "definition": "To make a mistake; to be incorrect.",
-    "chinese": "犯錯;出錯",
+    "chinese": "犯錯；出錯",
     "synonyms": "",
     "root": "errare (to wander, err), from Latin",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make a mistake; to be incorrect.",
-     "chinese": "犯錯;出錯"
+     "chinese": "犯錯；出錯"
     }
    },
    {
     "word": "erratic",
     "pos": "adj.",
     "definition": "Not consistent or regular in pattern or behavior.",
-    "chinese": "反覆無常的;不穩定的",
+    "chinese": "反覆無常的；不穩定的",
     "synonyms": "",
     "root": "errare (to wander, err), from Latin",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not consistent or regular in pattern or behavior.",
-     "chinese": "反覆無常的;不穩定的"
+     "chinese": "反覆無常的；不穩定的"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "erubescent",
     "pos": "adj.",
     "definition": "Reddening, especially from embarrassment; blushing.",
-    "chinese": "臉紅的;泛紅的",
+    "chinese": "臉紅的；泛紅的",
     "synonyms": "",
     "root": "erubescere (to grow red), from Latin",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reddening, especially from embarrassment; blushing.",
-     "chinese": "臉紅的;泛紅的"
+     "chinese": "臉紅的；泛紅的"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "escapade",
     "pos": "n.",
     "definition": "An act of misbehavior or a daring adventure.",
-    "chinese": "冒險行為;越軌行動",
+    "chinese": "冒險行為；越軌行動",
     "synonyms": "",
     "root": "escapar (to escape), from Spanish",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An act of misbehavior or a daring adventure.",
-     "chinese": "冒險行為;越軌行動"
+     "chinese": "冒險行為；越軌行動"
     }
    },
    {
     "word": "escapee",
     "pos": "n.",
     "definition": "A person who has escaped, especially from prison.",
-    "chinese": "逃犯;逃亡者",
+    "chinese": "逃犯；逃亡者",
     "synonyms": "",
     "root": "escapar (to escape), from Spanish",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who has escaped, especially from prison.",
-     "chinese": "逃犯;逃亡者"
+     "chinese": "逃犯；逃亡者"
     }
    },
    {
@@ -505,7 +505,7 @@ window.FLASHCARD_UNITS = {
     "word": "esprit",
     "pos": "n.",
     "definition": "Sprightliness of mind or spirit; wit.",
-    "chinese": "機智;活力",
+    "chinese": "機智；活力",
     "synonyms": "",
     "root": "spiritus (spirit), from Latin, via French esprit",
     "group": "",
@@ -517,14 +517,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sprightliness of mind or spirit; wit.",
-     "chinese": "機智;活力"
+     "chinese": "機智；活力"
     }
    },
    {
     "word": "esprit de corps",
     "pos": "n.",
     "definition": "A feeling of pride and mutual loyalty shared by members of a group.",
-    "chinese": "團隊精神;士氣",
+    "chinese": "團隊精神；士氣",
     "synonyms": "",
     "root": "French esprit (spirit) + de corps (of the body)",
     "group": "",
@@ -536,7 +536,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of pride and mutual loyalty shared by members of a group.",
-     "chinese": "團隊精神;士氣"
+     "chinese": "團隊精神；士氣"
     }
    },
    {
@@ -562,7 +562,7 @@ window.FLASHCARD_UNITS = {
     "word": "estimable",
     "pos": "adj.",
     "definition": "Worthy of great respect; able to be estimated.",
-    "chinese": "值得尊敬的;可估量的",
+    "chinese": "值得尊敬的；可估量的",
     "synonyms": "",
     "root": "aestimare (to appraise), from Latin",
     "group": "",
@@ -574,7 +574,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Worthy of great respect; able to be estimated.",
-     "chinese": "值得尊敬的;可估量的"
+     "chinese": "值得尊敬的；可估量的"
     }
    },
    {
@@ -678,7 +678,7 @@ window.FLASHCARD_UNITS = {
     "word": "ether",
     "pos": "n.",
     "definition": "A clear liquid used as an anesthetic; the upper regions of space.",
-    "chinese": "以太;乙醚",
+    "chinese": "以太；乙醚",
     "synonyms": "",
     "root": "aither (upper air), from Greek",
     "group": "",
@@ -690,7 +690,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A clear liquid used as an anesthetic; the upper regions of space.",
-     "chinese": "以太;乙醚"
+     "chinese": "以太；乙醚"
     }
    },
    {
@@ -716,7 +716,7 @@ window.FLASHCARD_UNITS = {
     "word": "ethical",
     "pos": "adj.",
     "definition": "Relating to moral principles; morally correct.",
-    "chinese": "道德的;倫理的",
+    "chinese": "道德的；倫理的",
     "synonyms": "",
     "root": "ethos (character), from Greek",
     "group": "",
@@ -728,7 +728,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to moral principles; morally correct.",
-     "chinese": "道德的;倫理的"
+     "chinese": "道德的；倫理的"
     }
    },
    {
@@ -754,7 +754,7 @@ window.FLASHCARD_UNITS = {
     "word": "etiquette",
     "pos": "n.",
     "definition": "The customary code of polite behavior in society.",
-    "chinese": "禮儀;禮節",
+    "chinese": "禮儀；禮節",
     "synonyms": "",
     "root": "etiquet (label, ticket), from French",
     "group": "",
@@ -766,7 +766,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The customary code of polite behavior in society.",
-     "chinese": "禮儀;禮節"
+     "chinese": "禮儀；禮節"
     }
    },
    {
@@ -792,7 +792,7 @@ window.FLASHCARD_UNITS = {
     "word": "even",
     "pos": "adj./adv.",
     "definition": "Flat and smooth; used to emphasize a comparison.",
-    "chinese": "平坦的;甚至",
+    "chinese": "平坦的；甚至",
     "synonyms": "",
     "root": "efne, from Old English",
     "group": "",
@@ -804,14 +804,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flat and smooth; used to emphasize a comparison.",
-     "chinese": "平坦的;甚至"
+     "chinese": "平坦的；甚至"
     }
    },
    {
     "word": "everlasting",
     "pos": "adj.",
     "definition": "Lasting forever; eternal.",
-    "chinese": "永恆的;不朽的",
+    "chinese": "永恆的；不朽的",
     "synonyms": "",
     "root": "ever + last, from Old English",
     "group": "",
@@ -823,14 +823,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lasting forever; eternal.",
-     "chinese": "永恆的;不朽的"
+     "chinese": "永恆的；不朽的"
     }
    },
    {
     "word": "exemplary",
     "pos": "adj.",
     "definition": "Serving as a desirable model; outstandingly good.",
-    "chinese": "模範的;典範的",
+    "chinese": "模範的；典範的",
     "synonyms": "",
     "root": "exemplum (example), from Latin",
     "group": "",
@@ -842,7 +842,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving as a desirable model; outstandingly good.",
-     "chinese": "模範的;典範的"
+     "chinese": "模範的；典範的"
     }
    },
    {
@@ -870,7 +870,7 @@ window.FLASHCARD_UNITS = {
     "word": "exemption",
     "pos": "n.",
     "definition": "Freedom from an obligation or liability required of others.",
-    "chinese": "豁免;免除",
+    "chinese": "豁免；免除",
     "synonyms": "",
     "root": "eximere (to take out), from Latin",
     "group": "",
@@ -882,14 +882,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Freedom from an obligation or liability required of others.",
-     "chinese": "豁免;免除"
+     "chinese": "豁免；免除"
     }
    },
    {
     "word": "exigency",
     "pos": "n.",
     "definition": "An urgent need or demand.",
-    "chinese": "緊急情況;迫切需求",
+    "chinese": "緊急情況；迫切需求",
     "synonyms": "",
     "root": "exigere (to demand), from Latin",
     "group": "",
@@ -903,14 +903,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An urgent need or demand.",
-     "chinese": "緊急情況;迫切需求"
+     "chinese": "緊急情況；迫切需求"
     }
    },
    {
     "word": "exiguity",
     "pos": "n.",
     "definition": "Extreme scantiness or smallness.",
-    "chinese": "稀少;匱乏",
+    "chinese": "稀少；匱乏",
     "synonyms": "",
     "root": "exiguus (scanty), from Latin",
     "group": "",
@@ -922,14 +922,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme scantiness or smallness.",
-     "chinese": "稀少;匱乏"
+     "chinese": "稀少；匱乏"
     }
    },
    {
     "word": "exiguous",
     "pos": "adj.",
     "definition": "Extremely scanty or meager.",
-    "chinese": "稀少的;貧乏的",
+    "chinese": "稀少的；貧乏的",
     "synonyms": "",
     "root": "exiguus (scanty), from Latin",
     "group": "",
@@ -941,14 +941,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely scanty or meager.",
-     "chinese": "稀少的;貧乏的"
+     "chinese": "稀少的；貧乏的"
     }
    },
    {
     "word": "exoteric",
     "pos": "adj.",
     "definition": "Intended for or understandable by the general public.",
-    "chinese": "通俗易懂的;公開的",
+    "chinese": "通俗易懂的；公開的",
     "synonyms": "",
     "root": "exo- (outside), from Greek",
     "group": "",
@@ -960,7 +960,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intended for or understandable by the general public.",
-     "chinese": "通俗易懂的;公開的"
+     "chinese": "通俗易懂的；公開的"
     }
    }
   ],
@@ -2169,4 +2169,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"epistolary": ["Relating to or contained in letters.", "書信體的"], "epoch": ["A period of time marked by particular events or developments.", "時代;紀元"], "epochal": ["Forming or characterizing an epoch; highly significant.", "劃時代的"], "equable": ["Calm and even-tempered; not varying much.", "穩定的;平和的"], "equate": ["To consider one thing to be the same as or equivalent to another.", "使相等;等同"], "equestrian": ["Of or relating to or featuring horseback riding.", "騎馬的；馬術的"], "equestrienne": ["A female horseback rider, especially a performer.", "女騎手;女馬術表演者"], "equilibrium": ["A state of physical or emotional balance.", "平衡;均衡"], "equine": ["Relating to or resembling a horse.", "馬的；似馬的"], "equinox": ["The time when day and night are of equal length.", "分點;晝夜平分點"], "equitable": ["Fair, just, and impartial.", "公平的;公正的"], "equivocate": ["To use ambiguous language to avoid committing to a position.", "含糊其辭;搪塞"], "equivocation": ["The use of ambiguous language to avoid committing to a definite position.", "含糊其辭;模稜兩可"], "eremite": ["A Christian hermit or recluse.", "隱士;隱修士"], "eristic": ["Relating to or given to argument for its own sake.", "詭辯的;好辯的"], "err": ["To make a mistake; to be incorrect.", "犯錯;出錯"], "erratic": ["Not consistent or regular in pattern or behavior.", "反覆無常的;不穩定的"], "erroneous": ["Incorrect; based on a mistaken belief.", "錯誤的"], "erubescent": ["Reddening, especially from embarrassment; blushing.", "臉紅的;泛紅的"], "escalation": ["Increase, intensification.", "逐步升級"], "escapade": ["An act of misbehavior or a daring adventure.", "冒險行為;越軌行動"], "escapee": ["A person who has escaped, especially from prison.", "逃犯;逃亡者"], "eschew": ["To avoid.", "避開"], "esoteric": ["Understood by only a select few.", "深奧難懂的；小眾的"], "espouse": ["To take up as a cause, support.", "支持；擁護"], "espresso": ["Strong black coffee made by forcing steam through ground coffee beans.", "義式濃縮咖啡"], "esprit": ["Sprightliness of mind or spirit; wit.", "機智;活力"], "esprit de corps": ["A feeling of pride and mutual loyalty shared by members of a group.", "團隊精神;士氣"], "esprit de l'escalier": ["The perfect retort one thinks of too late.", "事後才想到的機智回答"], "estimable": ["Worthy of great respect; able to be estimated.", "值得尊敬的;可估量的"], "estival": ["Relating to or occurring in summer.", "夏季的"], "estivate": ["To spend the summer in a dormant state, as some animals do.", "夏眠"], "estrange": ["To cause someone to become no longer close or friendly.", "使疏遠"], "etc.": ["And other similar things (abbreviation of et cetera).", "等等(et cetera的縮寫)"], "eternal": ["Lasting or existing forever; without end.", "永恆的"], "ether": ["A clear liquid used as an anesthetic; the upper regions of space.", "以太;乙醚"], "ethereal": ["Heavenly, exceptionally delicate or refined.", "空靈的；超凡脫俗的"], "ethical": ["Relating to moral principles; morally correct.", "道德的;倫理的"], "ethics": ["Code of principles.", "道德規範"], "etiquette": ["The customary code of polite behavior in society.", "禮儀;禮節"], "eucharist": ["The Christian sacrament commemorating the Last Supper.", "聖餐禮"], "even": ["Flat and smooth; used to emphasize a comparison.", "平坦的;甚至"], "everlasting": ["Lasting forever; eternal.", "永恆的;不朽的"], "exemplary": ["Serving as a desirable model; outstandingly good.", "模範的;典範的"], "exemplify": ["To illustrate or clarify by giving an example.", "舉例說明；是...的典範"], "exemption": ["Freedom from an obligation or liability required of others.", "豁免;免除"], "exigency": ["An urgent need or demand.", "緊急情況;迫切需求"], "exiguity": ["Extreme scantiness or smallness.", "稀少;匱乏"], "exiguous": ["Extremely scanty or meager.", "稀少的;貧乏的"], "exoteric": ["Intended for or understandable by the general public.", "通俗易懂的;公開的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"epistolary": ["Relating to or contained in letters.", "書信體的"], "epoch": ["A period of time marked by particular events or developments.", "時代；紀元"], "epochal": ["Forming or characterizing an epoch; highly significant.", "劃時代的"], "equable": ["Calm and even-tempered; not varying much.", "穩定的；平和的"], "equate": ["To consider one thing to be the same as or equivalent to another.", "使相等；等同"], "equestrian": ["Of or relating to or featuring horseback riding.", "騎馬的；馬術的"], "equestrienne": ["A female horseback rider, especially a performer.", "女騎手；女馬術表演者"], "equilibrium": ["A state of physical or emotional balance.", "平衡；均衡"], "equine": ["Relating to or resembling a horse.", "馬的；似馬的"], "equinox": ["The time when day and night are of equal length.", "分點；晝夜平分點"], "equitable": ["Fair, just, and impartial.", "公平的；公正的"], "equivocate": ["To use ambiguous language to avoid committing to a position.", "含糊其辭；搪塞"], "equivocation": ["The use of ambiguous language to avoid committing to a definite position.", "含糊其辭；模稜兩可"], "eremite": ["A Christian hermit or recluse.", "隱士；隱修士"], "eristic": ["Relating to or given to argument for its own sake.", "詭辯的；好辯的"], "err": ["To make a mistake; to be incorrect.", "犯錯；出錯"], "erratic": ["Not consistent or regular in pattern or behavior.", "反覆無常的；不穩定的"], "erroneous": ["Incorrect; based on a mistaken belief.", "錯誤的"], "erubescent": ["Reddening, especially from embarrassment; blushing.", "臉紅的；泛紅的"], "escalation": ["Increase, intensification.", "逐步升級"], "escapade": ["An act of misbehavior or a daring adventure.", "冒險行為；越軌行動"], "escapee": ["A person who has escaped, especially from prison.", "逃犯；逃亡者"], "eschew": ["To avoid.", "避開"], "esoteric": ["Understood by only a select few.", "深奧難懂的；小眾的"], "espouse": ["To take up as a cause, support.", "支持；擁護"], "espresso": ["Strong black coffee made by forcing steam through ground coffee beans.", "義式濃縮咖啡"], "esprit": ["Sprightliness of mind or spirit; wit.", "機智；活力"], "esprit de corps": ["A feeling of pride and mutual loyalty shared by members of a group.", "團隊精神；士氣"], "esprit de l'escalier": ["The perfect retort one thinks of too late.", "事後才想到的機智回答"], "estimable": ["Worthy of great respect; able to be estimated.", "值得尊敬的；可估量的"], "estival": ["Relating to or occurring in summer.", "夏季的"], "estivate": ["To spend the summer in a dormant state, as some animals do.", "夏眠"], "estrange": ["To cause someone to become no longer close or friendly.", "使疏遠"], "etc.": ["And other similar things (abbreviation of et cetera).", "等等(et cetera的縮寫)"], "eternal": ["Lasting or existing forever; without end.", "永恆的"], "ether": ["A clear liquid used as an anesthetic; the upper regions of space.", "以太；乙醚"], "ethereal": ["Heavenly, exceptionally delicate or refined.", "空靈的；超凡脫俗的"], "ethical": ["Relating to moral principles; morally correct.", "道德的；倫理的"], "ethics": ["Code of principles.", "道德規範"], "etiquette": ["The customary code of polite behavior in society.", "禮儀；禮節"], "eucharist": ["The Christian sacrament commemorating the Last Supper.", "聖餐禮"], "even": ["Flat and smooth; used to emphasize a comparison.", "平坦的；甚至"], "everlasting": ["Lasting forever; eternal.", "永恆的；不朽的"], "exemplary": ["Serving as a desirable model; outstandingly good.", "模範的；典範的"], "exemplify": ["To illustrate or clarify by giving an example.", "舉例說明；是...的典範"], "exemption": ["Freedom from an obligation or liability required of others.", "豁免；免除"], "exigency": ["An urgent need or demand.", "緊急情況；迫切需求"], "exiguity": ["Extreme scantiness or smallness.", "稀少；匱乏"], "exiguous": ["Extremely scanty or meager.", "稀少的；貧乏的"], "exoteric": ["Intended for or understandable by the general public.", "通俗易懂的；公開的"]});

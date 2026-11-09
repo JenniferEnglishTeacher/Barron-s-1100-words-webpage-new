@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "limber",
     "pos": "adj./v.",
     "definition": "Flexible and supple; to warm up in preparation for exercise.",
-    "chinese": "柔軟的;做暖身運動",
+    "chinese": "柔軟的；做暖身運動",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to limb",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flexible and supple; to warm up in preparation for exercise.",
-     "chinese": "柔軟的;做暖身運動"
+     "chinese": "柔軟的；做暖身運動"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "line",
     "pos": "n./v.",
     "definition": "A long thin mark; a row of people or things; to form a line along.",
-    "chinese": "線;排列",
+    "chinese": "線；排列",
     "synonyms": "",
     "root": "linea (linen thread, line), from Latin",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long thin mark; a row of people or things; to form a line along.",
-     "chinese": "線;排列"
+     "chinese": "線；排列"
     }
    },
    {
     "word": "lineaments",
     "pos": "n.",
     "definition": "The distinctive features or characteristics, especially of a face.",
-    "chinese": "面貌特徵;輪廓",
+    "chinese": "面貌特徵；輪廓",
     "synonyms": "",
     "root": "lineamentum (outline), from Latin linea (line)",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The distinctive features or characteristics, especially of a face.",
-     "chinese": "面貌特徵;輪廓"
+     "chinese": "面貌特徵；輪廓"
     }
    },
    {
     "word": "linear",
     "pos": "adj.",
     "definition": "Arranged in a straight line; following a logical sequence.",
-    "chinese": "線性的;直線的",
+    "chinese": "線性的；直線的",
     "synonyms": "",
     "root": "linea (line), from Latin",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arranged in a straight line; following a logical sequence.",
-     "chinese": "線性的;直線的"
+     "chinese": "線性的；直線的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "lion",
     "pos": "n.",
     "definition": "A large wild cat; a person of great influence or importance.",
-    "chinese": "獅子;傑出人物",
+    "chinese": "獅子；傑出人物",
     "synonyms": "",
     "root": "leo (lion), from Latin, via Old French",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large wild cat; a person of great influence or importance.",
-     "chinese": "獅子;傑出人物"
+     "chinese": "獅子；傑出人物"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "liqueur",
     "pos": "n.",
     "definition": "A strong, sweet flavored alcoholic drink.",
-    "chinese": "利口酒;甜酒",
+    "chinese": "利口酒；甜酒",
     "synonyms": "",
     "root": "liquor (liquid), from Latin, via French",
     "group": "",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A strong, sweet flavored alcoholic drink.",
-     "chinese": "利口酒;甜酒"
+     "chinese": "利口酒；甜酒"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "listlessness",
     "pos": "n.",
     "definition": "A lack of energy or enthusiasm.",
-    "chinese": "無精打采;倦怠",
+    "chinese": "無精打采；倦怠",
     "synonyms": "",
     "root": "lystleas (without desire), from Old English",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of energy or enthusiasm.",
-     "chinese": "無精打采;倦怠"
+     "chinese": "無精打采；倦怠"
     }
    },
    {
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
     "word": "litterateur",
     "pos": "n.",
     "definition": "A person who is deeply interested in or devoted to literature.",
-    "chinese": "文學家;文人",
+    "chinese": "文學家；文人",
     "synonyms": "",
     "root": "litterateur, from French, from Latin litteratura",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is deeply interested in or devoted to literature.",
-     "chinese": "文學家;文人"
+     "chinese": "文學家；文人"
     }
    },
    {
     "word": "liveliness",
     "pos": "n.",
     "definition": "The quality of being full of energy and enthusiasm.",
-    "chinese": "活潑;生氣蓬勃",
+    "chinese": "活潑；生氣蓬勃",
     "synonyms": "",
     "root": "life, from Old English lif + -ly + -ness",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being full of energy and enthusiasm.",
-     "chinese": "活潑;生氣蓬勃"
+     "chinese": "活潑；生氣蓬勃"
     }
    },
    {
     "word": "lively",
     "pos": "adj.",
     "definition": "Full of life and energy; vivid.",
-    "chinese": "活潑的;生動的",
+    "chinese": "活潑的；生動的",
     "synonyms": "",
     "root": "life, from Old English lif + -ly",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Full of life and energy; vivid.",
-     "chinese": "活潑的;生動的"
+     "chinese": "活潑的；生動的"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "long-winded",
     "pos": "adj.",
     "definition": "Tediously lengthy in speech or writing.",
-    "chinese": "冗長的;囉唆的",
+    "chinese": "冗長的；囉唆的",
     "synonyms": "",
     "root": "long + wind (breath), from Old English",
     "group": "",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tediously lengthy in speech or writing.",
-     "chinese": "冗長的;囉唆的"
+     "chinese": "冗長的；囉唆的"
     }
    },
    {
@@ -601,7 +601,7 @@ window.FLASHCARD_UNITS = {
     "word": "loophole",
     "pos": "n.",
     "definition": "An ambiguity or gap allowing a rule to be circumvented.",
-    "chinese": "漏洞;鑽空子的機會",
+    "chinese": "漏洞；鑽空子的機會",
     "synonyms": "",
     "root": "loop (narrow opening) + hole, from Middle English",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An ambiguity or gap allowing a rule to be circumvented.",
-     "chinese": "漏洞;鑽空子的機會"
+     "chinese": "漏洞；鑽空子的機會"
     }
    },
    {
     "word": "loose",
     "pos": "adj./v.",
     "definition": "Not firmly fixed; to release or set free.",
-    "chinese": "鬆散的;釋放",
+    "chinese": "鬆散的；釋放",
     "synonyms": "",
     "root": "laus (loose), from Old Norse",
     "group": "",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not firmly fixed; to release or set free.",
-     "chinese": "鬆散的;釋放"
+     "chinese": "鬆散的；釋放"
     }
    },
    {
     "word": "loot",
     "pos": "n./v.",
     "definition": "Goods stolen or taken by force; to steal, especially during a riot.",
-    "chinese": "戰利品;掠奪",
+    "chinese": "戰利品；掠奪",
     "synonyms": "",
     "root": "lut (booty), from Hindi",
     "group": "",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Goods stolen or taken by force; to steal, especially during a riot.",
-     "chinese": "戰利品;掠奪"
+     "chinese": "戰利品；掠奪"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "lounger",
     "pos": "n.",
     "definition": "A person who relaxes idly; a reclining chair.",
-    "chinese": "懶散的人;躺椅",
+    "chinese": "懶散的人；躺椅",
     "synonyms": "",
     "root": "lounge (to relax lazily), of uncertain origin",
     "group": "",
@@ -691,7 +691,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who relaxes idly; a reclining chair.",
-     "chinese": "懶散的人;躺椅"
+     "chinese": "懶散的人；躺椅"
     }
    },
    {
@@ -717,7 +717,7 @@ window.FLASHCARD_UNITS = {
     "word": "lovelorn",
     "pos": "adj.",
     "definition": "Unhappy because of unrequited love.",
-    "chinese": "為情所困的;單相思的",
+    "chinese": "為情所困的；單相思的",
     "synonyms": "",
     "root": "love, from Old English lufu + lorn (lost)",
     "group": "",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unhappy because of unrequited love.",
-     "chinese": "為情所困的;單相思的"
+     "chinese": "為情所困的；單相思的"
     }
    },
    {
@@ -755,7 +755,7 @@ window.FLASHCARD_UNITS = {
     "word": "lowbrow",
     "pos": "adj./n.",
     "definition": "Not highly cultured or intellectual; unsophisticated.",
-    "chinese": "低俗的;通俗的",
+    "chinese": "低俗的；通俗的",
     "synonyms": "",
     "root": "low + brow (forehead), coined by analogy with highbrow",
     "group": "",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not highly cultured or intellectual; unsophisticated.",
-     "chinese": "低俗的;通俗的"
+     "chinese": "低俗的；通俗的"
     }
    },
    {
@@ -793,7 +793,7 @@ window.FLASHCARD_UNITS = {
     "word": "lubberly",
     "pos": "adj.",
     "definition": "Clumsy and unskilled.",
-    "chinese": "笨拙的;不熟練的",
+    "chinese": "笨拙的；不熟練的",
     "synonyms": "",
     "root": "lobbe (clumsy fellow), of uncertain Germanic origin",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clumsy and unskilled.",
-     "chinese": "笨拙的;不熟練的"
+     "chinese": "笨拙的；不熟練的"
     }
    },
    {
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "word": "lucubrate",
     "pos": "v.",
     "definition": "To study or write laboriously, especially at night.",
-    "chinese": "刻苦鑽研;熬夜寫作",
+    "chinese": "刻苦鑽研；熬夜寫作",
     "synonyms": "",
     "root": "lucubrare (to work by lamplight), from Latin lux (light)",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To study or write laboriously, especially at night.",
-     "chinese": "刻苦鑽研;熬夜寫作"
+     "chinese": "刻苦鑽研；熬夜寫作"
     }
    },
    {
     "word": "lucubration",
     "pos": "n.",
     "definition": "Laborious or pedantic study or writing, especially at night.",
-    "chinese": "苦讀;夜間鑽研寫作",
+    "chinese": "苦讀；夜間鑽研寫作",
     "synonyms": "",
     "root": "lucubrare (to work by lamplight), from Latin lux (light)",
     "group": "",
@@ -902,14 +902,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Laborious or pedantic study or writing, especially at night.",
-     "chinese": "苦讀;夜間鑽研寫作"
+     "chinese": "苦讀；夜間鑽研寫作"
     }
    },
    {
     "word": "lucubucration",
     "pos": "n.",
     "definition": "A variant or archaic form of lucubration, laborious nighttime study or writing.",
-    "chinese": "苦讀;夜間鑽研寫作(異體字)",
+    "chinese": "苦讀；夜間鑽研寫作(異體字)",
     "synonyms": "",
     "root": "lucubrare (to work by lamplight), from Latin lux (light)",
     "group": "",
@@ -923,7 +923,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A variant or archaic form of lucubration, laborious nighttime study or writing.",
-     "chinese": "苦讀;夜間鑽研寫作(異體字)"
+     "chinese": "苦讀；夜間鑽研寫作(異體字)"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "luddite",
     "pos": "n.",
     "definition": "A person opposed to new technology or ways of working.",
-    "chinese": "反科技者;盧德分子",
+    "chinese": "反科技者；盧德分子",
     "synonyms": "",
     "root": "named after Ned Ludd, a legendary English textile worker",
     "group": "",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person opposed to new technology or ways of working.",
-     "chinese": "反科技者;盧德分子"
+     "chinese": "反科技者；盧德分子"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"limber": ["Flexible and supple; to warm up in preparation for exercise.", "柔軟的;做暖身運動"], "limpid": ["Clear, transparent.", "清澈的；清晰的"], "linchpin": ["Something that holds separate parts together.", "關鍵；樞紐"], "line": ["A long thin mark; a row of people or things; to form a line along.", "線;排列"], "lineaments": ["The distinctive features or characteristics, especially of a face.", "面貌特徵;輪廓"], "linear": ["Arranged in a straight line; following a logical sequence.", "線性的;直線的"], "linger": ["To hang around; to stay.", "逗留"], "lingua franca": ["A common language used between speakers of different native languages.", "通用語言"], "linguine": ["Pasta in long flat narrow strips.", "細扁麵(義大利麵的一種)"], "lion": ["A large wild cat; a person of great influence or importance.", "獅子;傑出人物"], "lionize": ["To treat someone as a celebrity or an object of great interest.", "把……捧為名人"], "liqueur": ["A strong, sweet flavored alcoholic drink.", "利口酒;甜酒"], "liquidation": ["Disposal of, killing.", "清算；肅清"], "lissome": ["Thin, supple, and graceful.", "柔軟優雅的"], "listless": ["Lacking interest in something, usually because of illness, fatigue, or general sadness; spiritless.", "無精打采的"], "listlessness": ["A lack of energy or enthusiasm.", "無精打采;倦怠"], "lithe": ["Graceful.", "柔軟的；輕盈的"], "litigious": ["Prone to engaging in lawsuits.", "好訴訟的"], "litterateur": ["A person who is deeply interested in or devoted to literature.", "文學家;文人"], "liveliness": ["The quality of being full of energy and enthusiasm.", "活潑;生氣蓬勃"], "lively": ["Full of life and energy; vivid.", "活潑的;生動的"], "livid": ["Pale (usually from anger).", "狂怒的；鐵青的"], "loath": ["Unwilling, reluctant.", "不情願的"], "loathe": ["To hate.", "厭惡"], "loathsome": ["Causing hatred or disgust.", "令人厭惡的"], "loco": ["Crazy or insane (informal).", "瘋狂的(非正式用語)"], "lofty": ["Very high; towering; grand or noble.", "崇高的；高聳的"], "lonely": ["Affected by feelings of being without companionship.", "孤獨的"], "long-winded": ["Tediously lengthy in speech or writing.", "冗長的;囉唆的"], "longevity": ["Long duration of life.", "長壽"], "longshoreman": ["A person employed to load and unload ships at a port.", "碼頭工人"], "loophole": ["An ambiguity or gap allowing a rule to be circumvented.", "漏洞;鑽空子的機會"], "loose": ["Not firmly fixed; to release or set free.", "鬆散的;釋放"], "loot": ["Goods stolen or taken by force; to steal, especially during a riot.", "戰利品;掠奪"], "louche": ["Disreputable or morally questionable in a rakish, appealing way.", "聲名狼藉但迷人的"], "lounger": ["A person who relaxes idly; a reclining chair.", "懶散的人;躺椅"], "loutish": ["Rude, aggressive, and lacking manners.", "粗魯無禮的"], "lovelorn": ["Unhappy because of unrequited love.", "為情所困的;單相思的"], "lowborn": ["Of humble or low social origin.", "出身低微的"], "lowbrow": ["Not highly cultured or intellectual; unsophisticated.", "低俗的;通俗的"], "loyal": ["Faithful to one's country, cause, or friends.", "忠誠的"], "lubberly": ["Clumsy and unskilled.", "笨拙的;不熟練的"], "lubricious": ["Characterized by lust.", "淫蕩的；好色的"], "lucid": ["Clear, easily understandable.", "清晰的；明晰的"], "lucrative": ["Profitable.", "有利可圖的"], "lucubrate": ["To study or write laboriously, especially at night.", "刻苦鑽研;熬夜寫作"], "lucubration": ["Laborious or pedantic study or writing, especially at night.", "苦讀;夜間鑽研寫作"], "lucubucration": ["A variant or archaic form of lucubration, laborious nighttime study or writing.", "苦讀;夜間鑽研寫作(異體字)"], "lucuburatory": ["Relating to laborious study or writing, especially at night.", "苦讀鑽研的(異體字)"], "luddite": ["A person opposed to new technology or ways of working.", "反科技者;盧德分子"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"limber": ["Flexible and supple; to warm up in preparation for exercise.", "柔軟的；做暖身運動"], "limpid": ["Clear, transparent.", "清澈的；清晰的"], "linchpin": ["Something that holds separate parts together.", "關鍵；樞紐"], "line": ["A long thin mark; a row of people or things; to form a line along.", "線；排列"], "lineaments": ["The distinctive features or characteristics, especially of a face.", "面貌特徵；輪廓"], "linear": ["Arranged in a straight line; following a logical sequence.", "線性的；直線的"], "linger": ["To hang around; to stay.", "逗留"], "lingua franca": ["A common language used between speakers of different native languages.", "通用語言"], "linguine": ["Pasta in long flat narrow strips.", "細扁麵(義大利麵的一種)"], "lion": ["A large wild cat; a person of great influence or importance.", "獅子；傑出人物"], "lionize": ["To treat someone as a celebrity or an object of great interest.", "把……捧為名人"], "liqueur": ["A strong, sweet flavored alcoholic drink.", "利口酒；甜酒"], "liquidation": ["Disposal of, killing.", "清算；肅清"], "lissome": ["Thin, supple, and graceful.", "柔軟優雅的"], "listless": ["Lacking interest in something, usually because of illness, fatigue, or general sadness; spiritless.", "無精打采的"], "listlessness": ["A lack of energy or enthusiasm.", "無精打采；倦怠"], "lithe": ["Graceful.", "柔軟的；輕盈的"], "litigious": ["Prone to engaging in lawsuits.", "好訴訟的"], "litterateur": ["A person who is deeply interested in or devoted to literature.", "文學家；文人"], "liveliness": ["The quality of being full of energy and enthusiasm.", "活潑；生氣蓬勃"], "lively": ["Full of life and energy; vivid.", "活潑的；生動的"], "livid": ["Pale (usually from anger).", "狂怒的；鐵青的"], "loath": ["Unwilling, reluctant.", "不情願的"], "loathe": ["To hate.", "厭惡"], "loathsome": ["Causing hatred or disgust.", "令人厭惡的"], "loco": ["Crazy or insane (informal).", "瘋狂的(非正式用語)"], "lofty": ["Very high; towering; grand or noble.", "崇高的；高聳的"], "lonely": ["Affected by feelings of being without companionship.", "孤獨的"], "long-winded": ["Tediously lengthy in speech or writing.", "冗長的；囉唆的"], "longevity": ["Long duration of life.", "長壽"], "longshoreman": ["A person employed to load and unload ships at a port.", "碼頭工人"], "loophole": ["An ambiguity or gap allowing a rule to be circumvented.", "漏洞；鑽空子的機會"], "loose": ["Not firmly fixed; to release or set free.", "鬆散的；釋放"], "loot": ["Goods stolen or taken by force; to steal, especially during a riot.", "戰利品；掠奪"], "louche": ["Disreputable or morally questionable in a rakish, appealing way.", "聲名狼藉但迷人的"], "lounger": ["A person who relaxes idly; a reclining chair.", "懶散的人；躺椅"], "loutish": ["Rude, aggressive, and lacking manners.", "粗魯無禮的"], "lovelorn": ["Unhappy because of unrequited love.", "為情所困的；單相思的"], "lowborn": ["Of humble or low social origin.", "出身低微的"], "lowbrow": ["Not highly cultured or intellectual; unsophisticated.", "低俗的；通俗的"], "loyal": ["Faithful to one's country, cause, or friends.", "忠誠的"], "lubberly": ["Clumsy and unskilled.", "笨拙的；不熟練的"], "lubricious": ["Characterized by lust.", "淫蕩的；好色的"], "lucid": ["Clear, easily understandable.", "清晰的；明晰的"], "lucrative": ["Profitable.", "有利可圖的"], "lucubrate": ["To study or write laboriously, especially at night.", "刻苦鑽研；熬夜寫作"], "lucubration": ["Laborious or pedantic study or writing, especially at night.", "苦讀；夜間鑽研寫作"], "lucubucration": ["A variant or archaic form of lucubration, laborious nighttime study or writing.", "苦讀；夜間鑽研寫作(異體字)"], "lucuburatory": ["Relating to laborious study or writing, especially at night.", "苦讀鑽研的(異體字)"], "luddite": ["A person opposed to new technology or ways of working.", "反科技者；盧德分子"]});

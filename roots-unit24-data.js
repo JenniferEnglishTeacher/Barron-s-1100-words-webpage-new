@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "dissonant",
     "pos": "adj.",
     "definition": "Lacking harmony; discordant.",
-    "chinese": "不和諧的;刺耳的",
+    "chinese": "不和諧的；刺耳的",
     "synonyms": "",
     "root": "dis- (apart) + sonare (to sound), from Latin",
     "group": "dis = 相反的",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking harmony; discordant.",
-     "chinese": "不和諧的;刺耳的"
+     "chinese": "不和諧的；刺耳的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "distain",
     "pos": "v.",
     "definition": "An archaic spelling of disdain, meaning to regard with contempt.",
-    "chinese": "輕視;鄙視(disdain的古體)",
+    "chinese": "輕視；鄙視(disdain的古體)",
     "synonyms": "",
     "root": "dis- (not) + dignari (to consider worthy), from Latin",
     "group": "dis = 相反的",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An archaic spelling of disdain, meaning to regard with contempt.",
-     "chinese": "輕視;鄙視(disdain的古體)"
+     "chinese": "輕視；鄙視(disdain的古體)"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "disturb",
     "pos": "v.",
     "definition": "To interrupt or interfere with; to worry.",
-    "chinese": "打擾;使不安",
+    "chinese": "打擾；使不安",
     "synonyms": "",
     "root": "dis- (apart) + turbare (to agitate), from Latin",
     "group": "dis = 相反的",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To interrupt or interfere with; to worry.",
-     "chinese": "打擾;使不安"
+     "chinese": "打擾；使不安"
     }
    },
    {
     "word": "divagate",
     "pos": "v.",
     "definition": "To stray or digress from a topic.",
-    "chinese": "離題;漫遊",
+    "chinese": "離題；漫遊",
     "synonyms": "",
     "root": "dis- (apart) + vagari (to wander), from Latin",
     "group": "dis = 相反的",
@@ -212,14 +212,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To stray or digress from a topic.",
-     "chinese": "離題;漫遊"
+     "chinese": "離題；漫遊"
     }
    },
    {
     "word": "divagation",
     "pos": "n.",
     "definition": "A digression or wandering from the main topic.",
-    "chinese": "離題;岔題之言",
+    "chinese": "離題；岔題之言",
     "synonyms": "",
     "root": "dis- (apart) + vagari (to wander), from Latin",
     "group": "dis = 相反的",
@@ -233,7 +233,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A digression or wandering from the main topic.",
-     "chinese": "離題;岔題之言"
+     "chinese": "離題；岔題之言"
     }
    },
    {
@@ -833,4 +833,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dissonance": ["Lack of harmony or consistency.", "不和諧；矛盾"], "dissonant": ["Lacking harmony; discordant.", "不和諧的;刺耳的"], "dissuade": ["To persuade someone not to do something.", "勸阻"], "distain": ["An archaic spelling of disdain, meaning to regard with contempt.", "輕視;鄙視(disdain的古體)"], "distend": ["To swell out.", "膨脹；腫脹"], "distinct": ["Clearly different or separate.", "截然不同的；獨特的"], "distinguishable": ["Able to be perceived as different.", "可區別的"], "distract": ["To divert attention.", "使分心"], "distressed": ["Suffering from anxiety or pain.", "苦惱的；憂傷的"], "disturb": ["To interrupt or interfere with; to worry.", "打擾;使不安"], "divagate": ["To stray or digress from a topic.", "離題;漫遊"], "divagation": ["A digression or wandering from the main topic.", "離題;岔題之言"], "diverge": ["To separate or move in different directions from a common point.", "分歧；分岔"], "divergent": ["Veering from a common point.", "分歧的；不同的"], "diverse": ["Showing a great deal of variety; very different from one another.", "多樣的；各異的"], "diversity": ["Variety.", "多樣性"], "divulge": ["To disclose, reveal.", "洩露；暴露"], "indisputable": ["Unable to be challenged or denied.", "無可爭議的"], "indistinct": ["Not clear or sharply defined.", "模糊不清的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dissonance": ["Lack of harmony or consistency.", "不和諧；矛盾"], "dissonant": ["Lacking harmony; discordant.", "不和諧的；刺耳的"], "dissuade": ["To persuade someone not to do something.", "勸阻"], "distain": ["An archaic spelling of disdain, meaning to regard with contempt.", "輕視；鄙視(disdain的古體)"], "distend": ["To swell out.", "膨脹；腫脹"], "distinct": ["Clearly different or separate.", "截然不同的；獨特的"], "distinguishable": ["Able to be perceived as different.", "可區別的"], "distract": ["To divert attention.", "使分心"], "distressed": ["Suffering from anxiety or pain.", "苦惱的；憂傷的"], "disturb": ["To interrupt or interfere with; to worry.", "打擾；使不安"], "divagate": ["To stray or digress from a topic.", "離題；漫遊"], "divagation": ["A digression or wandering from the main topic.", "離題；岔題之言"], "diverge": ["To separate or move in different directions from a common point.", "分歧；分岔"], "divergent": ["Veering from a common point.", "分歧的；不同的"], "diverse": ["Showing a great deal of variety; very different from one another.", "多樣的；各異的"], "diversity": ["Variety.", "多樣性"], "divulge": ["To disclose, reveal.", "洩露；暴露"], "indisputable": ["Unable to be challenged or denied.", "無可爭議的"], "indistinct": ["Not clear or sharply defined.", "模糊不清的"]});

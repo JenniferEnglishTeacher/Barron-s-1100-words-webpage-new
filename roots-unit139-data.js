@@ -86,7 +86,7 @@ window.FLASHCARD_UNITS = {
     "word": "retrotort",
     "pos": "v.",
     "definition": "A rare term meaning to twist or turn back, especially in argument.",
-    "chinese": "回擊;反駁扭轉(罕見詞)",
+    "chinese": "回擊；反駁扭轉(罕見詞)",
     "synonyms": "",
     "root": "retro- (backward) + torquere (to twist), from Latin",
     "group": "tort = 扭轉",
@@ -98,14 +98,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rare term meaning to twist or turn back, especially in argument.",
-     "chinese": "回擊;反駁扭轉(罕見詞)"
+     "chinese": "回擊；反駁扭轉(罕見詞)"
     }
    },
    {
     "word": "torturous",
     "pos": "adj.",
     "definition": "Involving or causing great physical or mental suffering.",
-    "chinese": "痛苦的;折磨人的",
+    "chinese": "痛苦的；折磨人的",
     "synonyms": "",
     "root": "torture, from Latin torquere (to twist)",
     "group": "tort = 扭轉",
@@ -117,7 +117,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Involving or causing great physical or mental suffering.",
-     "chinese": "痛苦的;折磨人的"
+     "chinese": "痛苦的；折磨人的"
     }
    }
   ],
@@ -270,4 +270,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extortion": ["Getting money by threats or favors.", "勒索"], "tortuous (rivers/road)": ["Winding.", "彎曲的；曲折的"], "retort": ["To answer, reply.", "反駁；回嘴"], "contort": ["To twist violently.", "扭曲；歪曲"], "retrotort": ["A rare term meaning to twist or turn back, especially in argument.", "回擊;反駁扭轉(罕見詞)"], "torturous": ["Involving or causing great physical or mental suffering.", "痛苦的;折磨人的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extortion": ["Getting money by threats or favors.", "勒索"], "tortuous (rivers/road)": ["Winding.", "彎曲的；曲折的"], "retort": ["To answer, reply.", "反駁；回嘴"], "contort": ["To twist violently.", "扭曲；歪曲"], "retrotort": ["A rare term meaning to twist or turn back, especially in argument.", "回擊；反駁扭轉(罕見詞)"], "torturous": ["Involving or causing great physical or mental suffering.", "痛苦的；折磨人的"]});

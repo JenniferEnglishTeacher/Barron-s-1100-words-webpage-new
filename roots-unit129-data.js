@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "satisfy",
     "pos": "v.",
     "definition": "To meet the expectations or needs of someone.",
-    "chinese": "使滿意;滿足",
+    "chinese": "使滿意；滿足",
     "synonyms": "",
     "root": "satisfacere (to do enough), from Latin satis (enough) + facere (to do)",
     "group": "sati；satis；satur = 足夠的",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To meet the expectations or needs of someone.",
-     "chinese": "使滿意;滿足"
+     "chinese": "使滿意；滿足"
     }
    },
    {
     "word": "saturated",
     "pos": "adj.",
     "definition": "Completely soaked or filled with something.",
-    "chinese": "飽和的;浸透的",
+    "chinese": "飽和的；浸透的",
     "synonyms": "",
     "root": "saturare (to fill), from Latin satur (full)",
     "group": "sati；satis；satur = 足夠的",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Completely soaked or filled with something.",
-     "chinese": "飽和的;浸透的"
+     "chinese": "飽和的；浸透的"
     }
    },
    {
     "word": "saturation",
     "pos": "n.",
     "definition": "The state of being completely filled or soaked.",
-    "chinese": "飽和;渗透",
+    "chinese": "飽和；渗透",
     "synonyms": "",
     "root": "saturare (to fill), from Latin satur (full)",
     "group": "sati；satis；satur = 足夠的",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being completely filled or soaked.",
-     "chinese": "飽和;渗透"
+     "chinese": "飽和；渗透"
     }
    },
    {
     "word": "saturnalia",
     "pos": "n.",
     "definition": "A period of unrestrained revelry or wild celebration.",
-    "chinese": "狂歡節;無節制的縱情享樂",
+    "chinese": "狂歡節；無節制的縱情享樂",
     "synonyms": "",
     "root": "Saturnalia, an ancient Roman festival honoring Saturn",
     "group": "sati；satis；satur = 足夠的",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A period of unrestrained revelry or wild celebration.",
-     "chinese": "狂歡節;無節制的縱情享樂"
+     "chinese": "狂歡節；無節制的縱情享樂"
     }
    },
    {
     "word": "saturnine",
     "pos": "adj.",
     "definition": "Having a gloomy or brooding temperament.",
-    "chinese": "陰鬱的;憂鬱寡歡的",
+    "chinese": "陰鬱的；憂鬱寡歡的",
     "synonyms": "",
     "root": "Saturn, the Roman god associated with a slow, gloomy temperament",
     "group": "sati；satis；satur = 足夠的",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a gloomy or brooding temperament.",
-     "chinese": "陰鬱的;憂鬱寡歡的"
+     "chinese": "陰鬱的；憂鬱寡歡的"
     }
    }
   ],
@@ -524,4 +524,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"asset": ["Valuable thing to have.", "資產"], "saturate": ["To soak, fill up completely.", "浸透；使飽和"], "insatiable": ["Cannot be satisfied.", "貪得無厭的"], "satiety": ["Excess, overly full.", "飽足；厭膩"], "satiable": ["Capable of being satisfied.", "可滿足的"], "satiate": ["To satisfy excessively.", "使飽足；使滿足"], "satire": ["The use of humor or exaggeration to criticize vice or folly.", "諷刺文學"], "satisfy": ["To meet the expectations or needs of someone.", "使滿意;滿足"], "saturated": ["Completely soaked or filled with something.", "飽和的;浸透的"], "saturation": ["The state of being completely filled or soaked.", "飽和;渗透"], "saturnalia": ["A period of unrestrained revelry or wild celebration.", "狂歡節;無節制的縱情享樂"], "saturnine": ["Having a gloomy or brooding temperament.", "陰鬱的;憂鬱寡歡的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"asset": ["Valuable thing to have.", "資產"], "saturate": ["To soak, fill up completely.", "浸透；使飽和"], "insatiable": ["Cannot be satisfied.", "貪得無厭的"], "satiety": ["Excess, overly full.", "飽足；厭膩"], "satiable": ["Capable of being satisfied.", "可滿足的"], "satiate": ["To satisfy excessively.", "使飽足；使滿足"], "satire": ["The use of humor or exaggeration to criticize vice or folly.", "諷刺文學"], "satisfy": ["To meet the expectations or needs of someone.", "使滿意；滿足"], "saturated": ["Completely soaked or filled with something.", "飽和的；浸透的"], "saturation": ["The state of being completely filled or soaked.", "飽和；渗透"], "saturnalia": ["A period of unrestrained revelry or wild celebration.", "狂歡節；無節制的縱情享樂"], "saturnine": ["Having a gloomy or brooding temperament.", "陰鬱的；憂鬱寡歡的"]});

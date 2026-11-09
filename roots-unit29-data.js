@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "extemporaneous",
     "pos": "adj.",
     "definition": "Spoken or done without preparation.",
-    "chinese": "即興的;臨時的",
+    "chinese": "即興的；臨時的",
     "synonyms": "",
     "root": "ex- (out of) + tempus (time), from Latin",
     "group": "ex = 向外",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spoken or done without preparation.",
-     "chinese": "即興的;臨時的"
+     "chinese": "即興的；臨時的"
     }
    },
    {
     "word": "extemporize",
     "pos": "v.",
     "definition": "To perform or speak without preparation.",
-    "chinese": "即興發言;臨場發揮",
+    "chinese": "即興發言；臨場發揮",
     "synonyms": "",
     "root": "ex- (out of) + tempus (time), from Latin",
     "group": "ex = 向外",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To perform or speak without preparation.",
-     "chinese": "即興發言;臨場發揮"
+     "chinese": "即興發言；臨場發揮"
     }
    },
    {
     "word": "extend",
     "pos": "v.",
     "definition": "To make something longer or larger; to offer.",
-    "chinese": "延伸;延長;給予",
+    "chinese": "延伸；延長；給予",
     "synonyms": "",
     "root": "ex- (out) + tendere (to stretch), from Latin",
     "group": "ex = 向外",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something longer or larger; to offer.",
-     "chinese": "延伸;延長;給予"
+     "chinese": "延伸；延長；給予"
     }
    },
    {
     "word": "extension",
     "pos": "n.",
     "definition": "An additional period of time; a part added to something.",
-    "chinese": "延期;延伸部分",
+    "chinese": "延期；延伸部分",
     "synonyms": "",
     "root": "ex- (out) + tendere (to stretch), from Latin",
     "group": "ex = 向外",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An additional period of time; a part added to something.",
-     "chinese": "延期;延伸部分"
+     "chinese": "延期；延伸部分"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "extenuate",
     "pos": "v.",
     "definition": "To make a fault or crime seem less serious by providing partial excuses.",
-    "chinese": "減輕(罪責);使情有可原",
+    "chinese": "減輕(罪責)；使情有可原",
     "synonyms": "",
     "root": "ex- (out) + tenuis (thin), from Latin",
     "group": "ex = 向外",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make a fault or crime seem less serious by providing partial excuses.",
-     "chinese": "減輕(罪責);使情有可原"
+     "chinese": "減輕(罪責)；使情有可原"
     }
    },
    {
     "word": "extenuating",
     "pos": "adj.",
     "definition": "Serving to lessen the seriousness of an offense by providing context.",
-    "chinese": "情有可原的;減輕罪責的",
+    "chinese": "情有可原的；減輕罪責的",
     "synonyms": "",
     "root": "ex- (out) + tenuis (thin), from Latin",
     "group": "ex = 向外",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving to lessen the seriousness of an offense by providing context.",
-     "chinese": "情有可原的;減輕罪責的"
+     "chinese": "情有可原的；減輕罪責的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "extirpate",
     "pos": "v.",
     "definition": "To root out and destroy completely.",
-    "chinese": "根除;滅絕",
+    "chinese": "根除；滅絕",
     "synonyms": "",
     "root": "ex- (out) + stirps (root, stem), from Latin",
     "group": "ex = 向外",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To root out and destroy completely.",
-     "chinese": "根除;滅絕"
+     "chinese": "根除；滅絕"
     }
    },
    {
     "word": "extirpation",
     "pos": "n.",
     "definition": "The complete destruction or removal of something.",
-    "chinese": "根除;滅絕",
+    "chinese": "根除；滅絕",
     "synonyms": "",
     "root": "ex- (out) + stirps (root, stem), from Latin",
     "group": "ex = 向外",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The complete destruction or removal of something.",
-     "chinese": "根除;滅絕"
+     "chinese": "根除；滅絕"
     }
    },
    {
@@ -256,7 +256,7 @@ window.FLASHCARD_UNITS = {
     "word": "exuberance",
     "pos": "n.",
     "definition": "The quality of being full of energy and enthusiasm.",
-    "chinese": "熱情洋溢;活力充沛",
+    "chinese": "熱情洋溢；活力充沛",
     "synonyms": "",
     "root": "ex- (thoroughly) + uber (fertile), from Latin",
     "group": "ex = 向外",
@@ -268,7 +268,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being full of energy and enthusiasm.",
-     "chinese": "熱情洋溢;活力充沛"
+     "chinese": "熱情洋溢；活力充沛"
     }
    },
    {
@@ -957,4 +957,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extemporaneous": ["Spoken or done without preparation.", "即興的;臨時的"], "extemporize": ["To perform or speak without preparation.", "即興發言;臨場發揮"], "extend": ["To make something longer or larger; to offer.", "延伸;延長;給予"], "extension": ["An additional period of time; a part added to something.", "延期;延伸部分"], "extensive": ["Covering a large area or scope.", "廣泛的"], "extenuate": ["To make a fault or crime seem less serious by providing partial excuses.", "減輕(罪責);使情有可原"], "extenuating": ["Serving to lessen the seriousness of an offense by providing context.", "情有可原的;減輕罪責的"], "extinct": ["No longer existing.", "滅絕的"], "extirpate": ["To root out and destroy completely.", "根除;滅絕"], "extirpation": ["The complete destruction or removal of something.", "根除;滅絕"], "extol": ["To praise highly.", "讚美；頌揚"], "extortion": ["Getting money by threats or favors.", "勒索"], "extricate": ["To disentangle.", "解脫；擺脫"], "exuberance": ["The quality of being full of energy and enthusiasm.", "熱情洋溢;活力充沛"], "exuberant": ["Overflowing with vitality and good spirits.", "熱情奔放的"], "exult": ["To rejoice greatly.", "歡欣鼓舞；狂喜"], "exultation": ["Triumphant joy.", "狂喜；歡躍"], "ineffable": ["Unspeakable, incapable of being expressed through words.", "難以言喻的"], "inevitable": ["Sure, certain, unavoidable.", "不可避免的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"], "inexplicable": ["Unable to be explained or understood; baffling.", "無法解釋的"], "inextricable": ["Hopelessly tangled or entangled.", "無法解開的；密不可分的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extemporaneous": ["Spoken or done without preparation.", "即興的；臨時的"], "extemporize": ["To perform or speak without preparation.", "即興發言；臨場發揮"], "extend": ["To make something longer or larger; to offer.", "延伸；延長；給予"], "extension": ["An additional period of time; a part added to something.", "延期；延伸部分"], "extensive": ["Covering a large area or scope.", "廣泛的"], "extenuate": ["To make a fault or crime seem less serious by providing partial excuses.", "減輕(罪責)；使情有可原"], "extenuating": ["Serving to lessen the seriousness of an offense by providing context.", "情有可原的；減輕罪責的"], "extinct": ["No longer existing.", "滅絕的"], "extirpate": ["To root out and destroy completely.", "根除；滅絕"], "extirpation": ["The complete destruction or removal of something.", "根除；滅絕"], "extol": ["To praise highly.", "讚美；頌揚"], "extortion": ["Getting money by threats or favors.", "勒索"], "extricate": ["To disentangle.", "解脫；擺脫"], "exuberance": ["The quality of being full of energy and enthusiasm.", "熱情洋溢；活力充沛"], "exuberant": ["Overflowing with vitality and good spirits.", "熱情奔放的"], "exult": ["To rejoice greatly.", "歡欣鼓舞；狂喜"], "exultation": ["Triumphant joy.", "狂喜；歡躍"], "ineffable": ["Unspeakable, incapable of being expressed through words.", "難以言喻的"], "inevitable": ["Sure, certain, unavoidable.", "不可避免的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"], "inexplicable": ["Unable to be explained or understood; baffling.", "無法解釋的"], "inextricable": ["Hopelessly tangled or entangled.", "無法解開的；密不可分的"]});

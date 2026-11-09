@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "odiousness",
     "pos": "n.",
     "definition": "The quality of being extremely unpleasant or repulsive.",
-    "chinese": "可憎;令人厭惡",
+    "chinese": "可憎；令人厭惡",
     "synonyms": "",
     "root": "odiosus (hateful), from Latin odium (hatred)",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being extremely unpleasant or repulsive.",
-     "chinese": "可憎;令人厭惡"
+     "chinese": "可憎；令人厭惡"
     }
    },
    {
     "word": "odium",
     "pos": "n.",
     "definition": "Widespread hatred or disgust directed toward someone.",
-    "chinese": "憎惡;惡名",
+    "chinese": "憎惡；惡名",
     "synonyms": "",
     "root": "odium (hatred), from Latin odisse (to hate)",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Widespread hatred or disgust directed toward someone.",
-     "chinese": "憎惡;惡名"
+     "chinese": "憎惡；惡名"
     }
    },
    {
     "word": "odorous",
     "pos": "adj.",
     "definition": "Having a distinctive, often unpleasant smell.",
-    "chinese": "有氣味的;發臭的",
+    "chinese": "有氣味的；發臭的",
     "synonyms": "",
     "root": "odor (smell), from Latin",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a distinctive, often unpleasant smell.",
-     "chinese": "有氣味的;發臭的"
+     "chinese": "有氣味的；發臭的"
     }
    },
    {
     "word": "oeuvre",
     "pos": "n.",
     "definition": "The complete body of work of an artist, writer, or composer.",
-    "chinese": "全部作品;藝術總集",
+    "chinese": "全部作品；藝術總集",
     "synonyms": "",
     "root": "oeuvre (work), from French, from Latin opera (works)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The complete body of work of an artist, writer, or composer.",
-     "chinese": "全部作品;藝術總集"
+     "chinese": "全部作品；藝術總集"
     }
    },
    {
     "word": "offal",
     "pos": "n.",
     "definition": "The internal organs of a butchered animal, used as food; waste material.",
-    "chinese": "內臟;廢棄物",
+    "chinese": "內臟；廢棄物",
     "synonyms": "",
     "root": "off + fall, from Middle English",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The internal organs of a butchered animal, used as food; waste material.",
-     "chinese": "內臟;廢棄物"
+     "chinese": "內臟；廢棄物"
     }
    },
    {
     "word": "offend",
     "pos": "v.",
     "definition": "To cause someone to feel upset or angry; to violate.",
-    "chinese": "冒犯;觸犯",
+    "chinese": "冒犯；觸犯",
     "synonyms": "",
     "root": "offendere (to strike against), from Latin ob- + fendere (to strike)",
     "group": "",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause someone to feel upset or angry; to violate.",
-     "chinese": "冒犯;觸犯"
+     "chinese": "冒犯；觸犯"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "offshoot",
     "pos": "n.",
     "definition": "A side branch or derivative of something larger.",
-    "chinese": "分支;衍生物",
+    "chinese": "分支；衍生物",
     "synonyms": "",
     "root": "off + shoot, from Old English sceotan",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A side branch or derivative of something larger.",
-     "chinese": "分支;衍生物"
+     "chinese": "分支；衍生物"
     }
    },
    {
     "word": "oleaginous",
     "pos": "adj.",
     "definition": "Oily or greasy; excessively flattering.",
-    "chinese": "油質的;諂媚的",
+    "chinese": "油質的；諂媚的",
     "synonyms": "",
     "root": "oleaginus (of the olive tree), from Latin oleum (oil)",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Oily or greasy; excessively flattering.",
-     "chinese": "油質的;諂媚的"
+     "chinese": "油質的；諂媚的"
     }
    },
    {
     "word": "olio",
     "pos": "n.",
     "definition": "A miscellaneous mixture of things.",
-    "chinese": "大雜燴;什錦",
+    "chinese": "大雜燴；什錦",
     "synonyms": "",
     "root": "olla (pot, stew), from Spanish, from Latin olla",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A miscellaneous mixture of things.",
-     "chinese": "大雜燴;什錦"
+     "chinese": "大雜燴；什錦"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "omen",
     "pos": "n.",
     "definition": "An event regarded as a sign of future good or bad fortune.",
-    "chinese": "預兆;徵兆",
+    "chinese": "預兆；徵兆",
     "synonyms": "",
     "root": "omen (sign, portent), from Latin",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An event regarded as a sign of future good or bad fortune.",
-     "chinese": "預兆;徵兆"
+     "chinese": "預兆；徵兆"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "omnifarious",
     "pos": "adj.",
     "definition": "Of all varieties, forms, or kinds.",
-    "chinese": "種類繁多的;各式各樣的",
+    "chinese": "種類繁多的；各式各樣的",
     "synonyms": "",
     "root": "omnis (all) + -farius (making), from Latin",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of all varieties, forms, or kinds.",
-     "chinese": "種類繁多的;各式各樣的"
+     "chinese": "種類繁多的；各式各樣的"
     }
    },
    {
@@ -597,7 +597,7 @@ window.FLASHCARD_UNITS = {
     "word": "onus",
     "pos": "n.",
     "definition": "A burden of responsibility or blame.",
-    "chinese": "責任;負擔",
+    "chinese": "責任；負擔",
     "synonyms": "",
     "root": "onus (burden, load), from Latin",
     "group": "",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A burden of responsibility or blame.",
-     "chinese": "責任;負擔"
+     "chinese": "責任；負擔"
     }
    },
    {
     "word": "onycholysis",
     "pos": "n.",
     "definition": "The separation of a nail from its nail bed.",
-    "chinese": "指甲脫離症;甲床分離",
+    "chinese": "指甲脫離症；甲床分離",
     "synonyms": "",
     "root": "onyx, onychos (nail) + lysis (loosening), from Greek",
     "group": "",
@@ -628,7 +628,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The separation of a nail from its nail bed.",
-     "chinese": "指甲脫離症;甲床分離"
+     "chinese": "指甲脫離症；甲床分離"
     }
    },
    {
@@ -673,7 +673,7 @@ window.FLASHCARD_UNITS = {
     "word": "opaque",
     "pos": "adj.",
     "definition": "Not able to be seen through; not transparent; hard to understand.",
-    "chinese": "不透明的;難以理解的",
+    "chinese": "不透明的；難以理解的",
     "synonyms": "",
     "root": "opacus (shaded, dark), from Latin",
     "group": "",
@@ -685,7 +685,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be seen through; not transparent; hard to understand.",
-     "chinese": "不透明的;難以理解的"
+     "chinese": "不透明的；難以理解的"
     }
    },
    {
@@ -711,7 +711,7 @@ window.FLASHCARD_UNITS = {
     "word": "open-minded",
     "pos": "adj.",
     "definition": "Willing to consider new ideas or opinions.",
-    "chinese": "心胸開闊的;思想開放的",
+    "chinese": "心胸開闊的；思想開放的",
     "synonyms": "",
     "root": "open, from Old English + mind, from Old English gemynd",
     "group": "",
@@ -723,7 +723,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to consider new ideas or opinions.",
-     "chinese": "心胸開闊的;思想開放的"
+     "chinese": "心胸開闊的；思想開放的"
     }
    },
    {
@@ -749,7 +749,7 @@ window.FLASHCARD_UNITS = {
     "word": "ophidian",
     "pos": "adj./n.",
     "definition": "Relating to snakes; a snake.",
-    "chinese": "蛇類的;蛇",
+    "chinese": "蛇類的；蛇",
     "synonyms": "",
     "root": "ophis (snake), from Greek",
     "group": "",
@@ -761,7 +761,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to snakes; a snake.",
-     "chinese": "蛇類的;蛇"
+     "chinese": "蛇類的；蛇"
     }
    },
    {
@@ -787,7 +787,7 @@ window.FLASHCARD_UNITS = {
     "word": "opinion",
     "pos": "n.",
     "definition": "A view or judgment about something, not necessarily based on fact.",
-    "chinese": "意見;看法",
+    "chinese": "意見；看法",
     "synonyms": "",
     "root": "opinio (belief, conjecture), from Latin opinari (to think)",
     "group": "",
@@ -799,14 +799,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A view or judgment about something, not necessarily based on fact.",
-     "chinese": "意見;看法"
+     "chinese": "意見；看法"
     }
    },
    {
     "word": "opinionated",
     "pos": "adj.",
     "definition": "Having strong views and expressing them forcefully.",
-    "chinese": "固執己見的;主觀武斷的",
+    "chinese": "固執己見的；主觀武斷的",
     "synonyms": "",
     "root": "opinio (belief, conjecture), from Latin opinari (to think)",
     "group": "",
@@ -818,14 +818,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having strong views and expressing them forcefully.",
-     "chinese": "固執己見的;主觀武斷的"
+     "chinese": "固執己見的；主觀武斷的"
     }
    },
    {
     "word": "opprobrious",
     "pos": "adj.",
     "definition": "Expressing scorn or reproach; disgraceful.",
-    "chinese": "辱罵的;可恥的",
+    "chinese": "辱罵的；可恥的",
     "synonyms": "",
     "root": "opprobrium (disgrace), from Latin ob- + probrum (shameful act)",
     "group": "",
@@ -837,14 +837,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing scorn or reproach; disgraceful.",
-     "chinese": "辱罵的;可恥的"
+     "chinese": "辱罵的；可恥的"
     }
    },
    {
     "word": "oppugn",
     "pos": "v.",
     "definition": "To call into question or dispute the truth or validity of.",
-    "chinese": "質疑;反駁",
+    "chinese": "質疑；反駁",
     "synonyms": "",
     "root": "oppugnare (to attack), from Latin ob- + pugnare (to fight)",
     "group": "",
@@ -856,7 +856,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To call into question or dispute the truth or validity of.",
-     "chinese": "質疑;反駁"
+     "chinese": "質疑；反駁"
     }
    },
    {
@@ -2160,4 +2160,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"occidental": ["Denoting or characteristic of countries of Europe and the western hemisphere.", "西方的；西洋的"], "occupatio": ["A rhetorical device in which the speaker brings up a subject by claiming to pass over it.", "假隱實顯法(修辭手法)"], "octogenarian": ["Person in his or her eighties.", "八十多歲的人"], "octopus": ["A marine mollusk with eight arms.", "章魚"], "oddity": ["Something unusual or strange.", "怪事；奇特的東西"], "odious": ["Loathsome; evil; revolting in a disgusting way.", "可惡的"], "odiousness": ["The quality of being extremely unpleasant or repulsive.", "可憎;令人厭惡"], "odium": ["Widespread hatred or disgust directed toward someone.", "憎惡;惡名"], "odorous": ["Having a distinctive, often unpleasant smell.", "有氣味的;發臭的"], "oeuvre": ["The complete body of work of an artist, writer, or composer.", "全部作品;藝術總集"], "offal": ["The internal organs of a butchered animal, used as food; waste material.", "內臟;廢棄物"], "offend": ["To cause someone to feel upset or angry; to violate.", "冒犯;觸犯"], "offhand": ["Done or said without preparation or thought; casual.", "隨口的；漫不經心的"], "officious": ["Offering one's services when they are neither wanted nor needed.", "多管閒事的；自以為是的"], "offshoot": ["A side branch or derivative of something larger.", "分支;衍生物"], "oleaginous": ["Oily or greasy; excessively flattering.", "油質的;諂媚的"], "olio": ["A miscellaneous mixture of things.", "大雜燴;什錦"], "olla": ["An earthenware pot used for cooking or storage.", "陶罐"], "omen": ["An event regarded as a sign of future good or bad fortune.", "預兆;徵兆"], "ominous": ["Threatening.", "不祥的"], "omnibus": ["A vehicle carrying many passengers.", "公共汽車；合集"], "omnidirectional": ["Operating or sensitive in all directions.", "全方向的"], "omnifarious": ["Of all varieties, forms, or kinds.", "種類繁多的;各式各樣的"], "omnipotent": ["Almighty, unlimited in power or authority.", "全能的"], "omnipresent": ["Existing everywhere at once.", "無所不在的"], "omnivorous": ["Eating foods from both plants and animals.", "雜食的；無所不吃的"], "oneiromancy": ["The interpretation of dreams to predict the future.", "解夢占卜術"], "onerous": ["Burdensome.", "繁重的；沉重的"], "onomatopoeia": ["The formation of a word that imitates the sound it describes.", "擬聲詞"], "onomatopoetic": ["Relating to words that imitate the sounds they describe.", "擬聲的"], "onset": ["The beginning or early stages.", "開始；發作"], "onus": ["A burden of responsibility or blame.", "責任;負擔"], "onycholysis": ["The separation of a nail from its nail bed.", "指甲脫離症;甲床分離"], "onychophagist": ["A person who habitually bites their nails.", "咬指甲的人"], "onychophagy": ["The habit of biting one's nails.", "咬指甲習慣"], "opaque": ["Not able to be seen through; not transparent; hard to understand.", "不透明的;難以理解的"], "open-handed": ["Generous in giving.", "慷慨大方的"], "open-minded": ["Willing to consider new ideas or opinions.", "心胸開闊的;思想開放的"], "operative": ["In operation or use; a person actively involved in an activity or operation.", "運作中的；特工"], "ophidian": ["Relating to snakes; a snake.", "蛇類的;蛇"], "opine": ["To express one's opinion.", "發表意見"], "opinion": ["A view or judgment about something, not necessarily based on fact.", "意見;看法"], "opinionated": ["Having strong views and expressing them forcefully.", "固執己見的;主觀武斷的"], "opprobrious": ["Expressing scorn or reproach; disgraceful.", "辱罵的;可恥的"], "oppugn": ["To call into question or dispute the truth or validity of.", "質疑;反駁"], "optician": ["A worker who makes glasses for remedying defects of vision.", "眼鏡商；驗光配鏡師"], "optimistic": ["Hopeful and confident about the future.", "樂觀的"], "optometrist": ["A specialist who examines eyes and prescribes corrective lenses.", "驗光師"], "opulence": ["Wealth, riches.", "財富；富裕"], "opulent": ["Wealthy, luxurious, or lavish.", "奢華的；富麗堂皇的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"occidental": ["Denoting or characteristic of countries of Europe and the western hemisphere.", "西方的；西洋的"], "occupatio": ["A rhetorical device in which the speaker brings up a subject by claiming to pass over it.", "假隱實顯法(修辭手法)"], "octogenarian": ["Person in his or her eighties.", "八十多歲的人"], "octopus": ["A marine mollusk with eight arms.", "章魚"], "oddity": ["Something unusual or strange.", "怪事；奇特的東西"], "odious": ["Loathsome; evil; revolting in a disgusting way.", "可惡的"], "odiousness": ["The quality of being extremely unpleasant or repulsive.", "可憎；令人厭惡"], "odium": ["Widespread hatred or disgust directed toward someone.", "憎惡；惡名"], "odorous": ["Having a distinctive, often unpleasant smell.", "有氣味的；發臭的"], "oeuvre": ["The complete body of work of an artist, writer, or composer.", "全部作品；藝術總集"], "offal": ["The internal organs of a butchered animal, used as food; waste material.", "內臟；廢棄物"], "offend": ["To cause someone to feel upset or angry; to violate.", "冒犯；觸犯"], "offhand": ["Done or said without preparation or thought; casual.", "隨口的；漫不經心的"], "officious": ["Offering one's services when they are neither wanted nor needed.", "多管閒事的；自以為是的"], "offshoot": ["A side branch or derivative of something larger.", "分支；衍生物"], "oleaginous": ["Oily or greasy; excessively flattering.", "油質的；諂媚的"], "olio": ["A miscellaneous mixture of things.", "大雜燴；什錦"], "olla": ["An earthenware pot used for cooking or storage.", "陶罐"], "omen": ["An event regarded as a sign of future good or bad fortune.", "預兆；徵兆"], "ominous": ["Threatening.", "不祥的"], "omnibus": ["A vehicle carrying many passengers.", "公共汽車；合集"], "omnidirectional": ["Operating or sensitive in all directions.", "全方向的"], "omnifarious": ["Of all varieties, forms, or kinds.", "種類繁多的；各式各樣的"], "omnipotent": ["Almighty, unlimited in power or authority.", "全能的"], "omnipresent": ["Existing everywhere at once.", "無所不在的"], "omnivorous": ["Eating foods from both plants and animals.", "雜食的；無所不吃的"], "oneiromancy": ["The interpretation of dreams to predict the future.", "解夢占卜術"], "onerous": ["Burdensome.", "繁重的；沉重的"], "onomatopoeia": ["The formation of a word that imitates the sound it describes.", "擬聲詞"], "onomatopoetic": ["Relating to words that imitate the sounds they describe.", "擬聲的"], "onset": ["The beginning or early stages.", "開始；發作"], "onus": ["A burden of responsibility or blame.", "責任；負擔"], "onycholysis": ["The separation of a nail from its nail bed.", "指甲脫離症；甲床分離"], "onychophagist": ["A person who habitually bites their nails.", "咬指甲的人"], "onychophagy": ["The habit of biting one's nails.", "咬指甲習慣"], "opaque": ["Not able to be seen through; not transparent; hard to understand.", "不透明的；難以理解的"], "open-handed": ["Generous in giving.", "慷慨大方的"], "open-minded": ["Willing to consider new ideas or opinions.", "心胸開闊的；思想開放的"], "operative": ["In operation or use; a person actively involved in an activity or operation.", "運作中的；特工"], "ophidian": ["Relating to snakes; a snake.", "蛇類的；蛇"], "opine": ["To express one's opinion.", "發表意見"], "opinion": ["A view or judgment about something, not necessarily based on fact.", "意見；看法"], "opinionated": ["Having strong views and expressing them forcefully.", "固執己見的；主觀武斷的"], "opprobrious": ["Expressing scorn or reproach; disgraceful.", "辱罵的；可恥的"], "oppugn": ["To call into question or dispute the truth or validity of.", "質疑；反駁"], "optician": ["A worker who makes glasses for remedying defects of vision.", "眼鏡商；驗光配鏡師"], "optimistic": ["Hopeful and confident about the future.", "樂觀的"], "optometrist": ["A specialist who examines eyes and prescribes corrective lenses.", "驗光師"], "opulence": ["Wealth, riches.", "財富；富裕"], "opulent": ["Wealthy, luxurious, or lavish.", "奢華的；富麗堂皇的"]});

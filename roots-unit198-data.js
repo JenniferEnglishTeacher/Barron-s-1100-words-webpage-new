@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "lugubriously",
     "pos": "adv.",
     "definition": "In a mournful or dismal manner, especially exaggeratedly so.",
-    "chinese": "悲哀地;哀傷地",
+    "chinese": "悲哀地；哀傷地",
     "synonyms": "",
     "root": "lugere (to mourn), from Latin",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a mournful or dismal manner, especially exaggeratedly so.",
-     "chinese": "悲哀地;哀傷地"
+     "chinese": "悲哀地；哀傷地"
     }
    },
    {
     "word": "lugubriousness",
     "pos": "n.",
     "definition": "The quality of being mournful or dismal, often exaggeratedly so.",
-    "chinese": "悲哀;哀傷",
+    "chinese": "悲哀；哀傷",
     "synonyms": "",
     "root": "lugere (to mourn), from Latin",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being mournful or dismal, often exaggeratedly so.",
-     "chinese": "悲哀;哀傷"
+     "chinese": "悲哀；哀傷"
     }
    },
    {
     "word": "lukewarm",
     "pos": "adj.",
     "definition": "Moderately warm; showing little enthusiasm.",
-    "chinese": "溫的;不太熱情的",
+    "chinese": "溫的；不太熱情的",
     "synonyms": "",
     "root": "lew (tepid) + warm, from Middle English",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Moderately warm; showing little enthusiasm.",
-     "chinese": "溫的;不太熱情的"
+     "chinese": "溫的；不太熱情的"
     }
    },
    {
     "word": "lumen",
     "pos": "n.",
     "definition": "A unit of luminous flux; the cavity of a tubular organ.",
-    "chinese": "流明(光通量單位);管腔",
+    "chinese": "流明(光通量單位)；管腔",
     "synonyms": "",
     "root": "lumen (light), from Latin",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A unit of luminous flux; the cavity of a tubular organ.",
-     "chinese": "流明(光通量單位);管腔"
+     "chinese": "流明(光通量單位)；管腔"
     }
    },
    {
     "word": "luminary",
     "pos": "n.",
     "definition": "A person who inspires or influences others, especially in a particular field.",
-    "chinese": "傑出人物;權威人士",
+    "chinese": "傑出人物；權威人士",
     "synonyms": "",
     "root": "lumen (light), from Latin",
     "group": "",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who inspires or influences others, especially in a particular field.",
-     "chinese": "傑出人物;權威人士"
+     "chinese": "傑出人物；權威人士"
     }
    },
    {
     "word": "luminosity",
     "pos": "n.",
     "definition": "The intrinsic brightness of a celestial object; the quality of giving off light.",
-    "chinese": "光度;明亮度",
+    "chinese": "光度；明亮度",
     "synonyms": "",
     "root": "lumen (light), from Latin",
     "group": "",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The intrinsic brightness of a celestial object; the quality of giving off light.",
-     "chinese": "光度;明亮度"
+     "chinese": "光度；明亮度"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "luster",
     "pos": "n.",
     "definition": "A gentle sheen or glow; glory or distinction.",
-    "chinese": "光澤;榮耀",
+    "chinese": "光澤；榮耀",
     "synonyms": "",
     "root": "lustrare (to illuminate), from Latin",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A gentle sheen or glow; glory or distinction.",
-     "chinese": "光澤;榮耀"
+     "chinese": "光澤；榮耀"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "lycanthropy",
     "pos": "n.",
     "definition": "The mythical transformation of a person into a wolf; a delusion of being a wolf.",
-    "chinese": "狼化;狼人症",
+    "chinese": "狼化；狼人症",
     "synonyms": "",
     "root": "lykos (wolf) + anthropos (man), from Greek",
     "group": "",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The mythical transformation of a person into a wolf; a delusion of being a wolf.",
-     "chinese": "狼化;狼人症"
+     "chinese": "狼化；狼人症"
     }
    },
    {
     "word": "macabre",
     "pos": "adj.",
     "definition": "Disturbing because concerned with death and injury.",
-    "chinese": "恐怖的;可怕的",
+    "chinese": "恐怖的；可怕的",
     "synonyms": "",
     "root": "Macabre (Dance of Death), from Old French",
     "group": "",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Disturbing because concerned with death and injury.",
-     "chinese": "恐怖的;可怕的"
+     "chinese": "恐怖的；可怕的"
     }
    },
    {
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
     "word": "machicolation",
     "pos": "n.",
     "definition": "An opening in a castle's floor for dropping objects on attackers below.",
-    "chinese": "城堡的射擊孔;垛口",
+    "chinese": "城堡的射擊孔；垛口",
     "synonyms": "",
     "root": "machicoler (to build with machicolations), from Old French",
     "group": "",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An opening in a castle's floor for dropping objects on attackers below.",
-     "chinese": "城堡的射擊孔;垛口"
+     "chinese": "城堡的射擊孔；垛口"
     }
    },
    {
     "word": "machination",
     "pos": "n.",
     "definition": "A scheming plot or crafty plan.",
-    "chinese": "陰謀;詭計",
+    "chinese": "陰謀；詭計",
     "synonyms": "",
     "root": "machinari (to devise, contrive), from Latin machina (machine)",
     "group": "",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A scheming plot or crafty plan.",
-     "chinese": "陰謀;詭計"
+     "chinese": "陰謀；詭計"
     }
    },
    {
@@ -430,7 +430,7 @@ window.FLASHCARD_UNITS = {
     "word": "macula",
     "pos": "n.",
     "definition": "A small dark spot or area, especially on the skin or in the eye.",
-    "chinese": "黃斑;斑點",
+    "chinese": "黃斑；斑點",
     "synonyms": "",
     "root": "macula (spot, stain), from Latin",
     "group": "",
@@ -442,14 +442,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small dark spot or area, especially on the skin or in the eye.",
-     "chinese": "黃斑;斑點"
+     "chinese": "黃斑；斑點"
     }
    },
    {
     "word": "maculate",
     "pos": "adj./v.",
     "definition": "Stained or spotted; to stain or defile.",
-    "chinese": "有斑點的;玷污",
+    "chinese": "有斑點的；玷污",
     "synonyms": "",
     "root": "maculare (to spot, stain), from Latin macula (spot)",
     "group": "",
@@ -461,7 +461,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stained or spotted; to stain or defile.",
-     "chinese": "有斑點的;玷污"
+     "chinese": "有斑點的；玷污"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "magic",
     "pos": "n./adj.",
     "definition": "The power of apparently influencing events using supernatural forces.",
-    "chinese": "魔法;魔術",
+    "chinese": "魔法；魔術",
     "synonyms": "",
     "root": "magike (magic), from Greek, via Latin and French",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The power of apparently influencing events using supernatural forces.",
-     "chinese": "魔法;魔術"
+     "chinese": "魔法；魔術"
     }
    },
    {
     "word": "magisterial",
     "pos": "adj.",
     "definition": "Having great authority; commanding.",
-    "chinese": "權威的;有威嚴的",
+    "chinese": "權威的；有威嚴的",
     "synonyms": "",
     "root": "magister (master), from Latin",
     "group": "",
@@ -558,14 +558,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having great authority; commanding.",
-     "chinese": "權威的;有威嚴的"
+     "chinese": "權威的；有威嚴的"
     }
    },
    {
     "word": "magistrate",
     "pos": "n.",
     "definition": "A civil officer who administers the law, especially at a local level.",
-    "chinese": "地方法官;治安官",
+    "chinese": "地方法官；治安官",
     "synonyms": "",
     "root": "magistratus (public office), from Latin magister (master)",
     "group": "",
@@ -577,14 +577,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A civil officer who administers the law, especially at a local level.",
-     "chinese": "地方法官;治安官"
+     "chinese": "地方法官；治安官"
     }
    },
    {
     "word": "magpie",
     "pos": "n.",
     "definition": "A bird known for its chattering and attraction to shiny objects; a person who chatters or collects things.",
-    "chinese": "喜鵲;愛嘮叨或愛收集之人",
+    "chinese": "喜鵲；愛嘮叨或愛收集之人",
     "synonyms": "",
     "root": "Mag (nickname for Margaret) + pie (magpie), from Middle English",
     "group": "",
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A bird known for its chattering and attraction to shiny objects; a person who chatters or collects things.",
-     "chinese": "喜鵲;愛嘮叨或愛收集之人"
+     "chinese": "喜鵲；愛嘮叨或愛收集之人"
     }
    },
    {
@@ -622,7 +622,7 @@ window.FLASHCARD_UNITS = {
     "word": "majestic",
     "pos": "adj.",
     "definition": "Having impressive beauty or dignity.",
-    "chinese": "雄偉的;莊嚴的",
+    "chinese": "雄偉的；莊嚴的",
     "synonyms": "",
     "root": "majestas (greatness, dignity), from Latin",
     "group": "",
@@ -634,7 +634,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having impressive beauty or dignity.",
-     "chinese": "雄偉的;莊嚴的"
+     "chinese": "雄偉的；莊嚴的"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "malevolence",
     "pos": "n.",
     "definition": "The wish to do evil to others.",
-    "chinese": "惡意;歹毒",
+    "chinese": "惡意；歹毒",
     "synonyms": "",
     "root": "male (badly) + velle (to wish), from Latin",
     "group": "",
@@ -731,7 +731,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The wish to do evil to others.",
-     "chinese": "惡意;歹毒"
+     "chinese": "惡意；歹毒"
     }
    },
    {
@@ -757,7 +757,7 @@ window.FLASHCARD_UNITS = {
     "word": "malice",
     "pos": "n.",
     "definition": "The intention to do harm.",
-    "chinese": "惡意;蓄意傷害",
+    "chinese": "惡意；蓄意傷害",
     "synonyms": "",
     "root": "malitia (badness), from Latin malus (bad)",
     "group": "",
@@ -769,7 +769,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The intention to do harm.",
-     "chinese": "惡意;蓄意傷害"
+     "chinese": "惡意；蓄意傷害"
     }
    },
    {
@@ -814,7 +814,7 @@ window.FLASHCARD_UNITS = {
     "word": "malignity",
     "pos": "n.",
     "definition": "Intense ill will or hatred.",
-    "chinese": "惡毒;深仇大恨",
+    "chinese": "惡毒；深仇大恨",
     "synonyms": "",
     "root": "malignus (of evil nature), from Latin malus (bad)",
     "group": "",
@@ -826,14 +826,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intense ill will or hatred.",
-     "chinese": "惡毒;深仇大恨"
+     "chinese": "惡毒；深仇大恨"
     }
    },
    {
     "word": "malinger",
     "pos": "v.",
     "definition": "To exaggerate or feign illness to avoid duty or work.",
-    "chinese": "裝病;逃避責任",
+    "chinese": "裝病；逃避責任",
     "synonyms": "",
     "root": "malingre (sickly), from French malingre",
     "group": "",
@@ -847,14 +847,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To exaggerate or feign illness to avoid duty or work.",
-     "chinese": "裝病;逃避責任"
+     "chinese": "裝病；逃避責任"
     }
    },
    {
     "word": "malingerer",
     "pos": "n.",
     "definition": "A person who feigns illness to avoid work or duty.",
-    "chinese": "裝病者;逃避責任的人",
+    "chinese": "裝病者；逃避責任的人",
     "synonyms": "",
     "root": "malingre (sickly), from French malingre",
     "group": "",
@@ -866,7 +866,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who feigns illness to avoid work or duty.",
-     "chinese": "裝病者;逃避責任的人"
+     "chinese": "裝病者；逃避責任的人"
     }
    },
    {
@@ -930,7 +930,7 @@ window.FLASHCARD_UNITS = {
     "word": "manacle",
     "pos": "n./v.",
     "definition": "A metal fastening for the wrists; to restrain with such a device.",
-    "chinese": "手銬;束縛",
+    "chinese": "手銬；束縛",
     "synonyms": "",
     "root": "manicula (little hand), from Latin manus (hand)",
     "group": "",
@@ -944,7 +944,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A metal fastening for the wrists; to restrain with such a device.",
-     "chinese": "手銬;束縛"
+     "chinese": "手銬；束縛"
     }
    },
    {
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ludicrous": ["So foolish or unreasonable as to be laughable.", "荒謬可笑的"], "lugubrious": ["Very sad:melancholy.", "悲哀的；令人傷心的"], "lugubriously": ["In a mournful or dismal manner, especially exaggeratedly so.", "悲哀地;哀傷地"], "lugubriousness": ["The quality of being mournful or dismal, often exaggeratedly so.", "悲哀;哀傷"], "lukewarm": ["Moderately warm; showing little enthusiasm.", "溫的;不太熱情的"], "lumen": ["A unit of luminous flux; the cavity of a tubular organ.", "流明(光通量單位);管腔"], "luminary": ["A person who inspires or influences others, especially in a particular field.", "傑出人物;權威人士"], "luminosity": ["The intrinsic brightness of a celestial object; the quality of giving off light.", "光度;明亮度"], "luminous": ["Brightly shining.", "發光的；明亮的"], "lummox": ["A clumsy, stupid person.", "笨拙的人"], "lupine": ["Of or relating to or characteristic of wolves.", "狼的；似狼的"], "lurid": ["Sensational.", "駭人聽聞的"], "lush": ["Luxurious, elaborate.", "茂盛的；奢華的"], "luster": ["A gentle sheen or glow; glory or distinction.", "光澤;榮耀"], "lustful": ["Feeling or expressing strong sexual desire.", "淫慾的"], "lycanthrope": ["A werewolf; a person suffering from the delusion of being a wolf.", "狼人"], "lycanthropy": ["The mythical transformation of a person into a wolf; a delusion of being a wolf.", "狼化;狼人症"], "macabre": ["Disturbing because concerned with death and injury.", "恐怖的;可怕的"], "machiavellian": ["Governed by opportunity, not principled.", "不擇手段的；狡猾的"], "machicolation": ["An opening in a castle's floor for dropping objects on attackers below.", "城堡的射擊孔;垛口"], "machination": ["A scheming plot or crafty plan.", "陰謀;詭計"], "macron": ["A written or printed mark placed over a vowel to indicate a long sound.", "長音符號"], "macula": ["A small dark spot or area, especially on the skin or in the eye.", "黃斑;斑點"], "maculate": ["Stained or spotted; to stain or defile.", "有斑點的;玷污"], "madicancy": ["A variant or misspelling relating to mendicancy, the practice of begging.", "乞討行為(近似mendicancy)"], "maelstrom": ["A destructive whirlpool which rapidly sucks in objects.", "大漩渦；混亂局面"], "maggot": ["The larva of a fly, found in decaying matter.", "蛆"], "magic": ["The power of apparently influencing events using supernatural forces.", "魔法;魔術"], "magisterial": ["Having great authority; commanding.", "權威的;有威嚴的"], "magistrate": ["A civil officer who administers the law, especially at a local level.", "地方法官;治安官"], "magpie": ["A bird known for its chattering and attraction to shiny objects; a person who chatters or collects things.", "喜鵲;愛嘮叨或愛收集之人"], "maim": ["To disable, impair, wound.", "使殘廢；割斷"], "majestic": ["Having impressive beauty or dignity.", "雄偉的;莊嚴的"], "majuscule": ["A large letter, as in a capital or uncial script.", "大寫字母"], "malapropism": ["The mistaken use of a word in place of a similar-sounding one, often with comic effect.", "誤用詞語(近音詞誤用)"], "malapropos": ["Inappropriate or inopportune.", "不合時宜的"], "malediction": ["A curse.", "詛咒"], "malevolence": ["The wish to do evil to others.", "惡意;歹毒"], "malevolent": ["Ill-disposed, ill-intentioned.", "惡意的；狠毒的"], "malice": ["The intention to do harm.", "惡意;蓄意傷害"], "malicious": ["Intending to hurt or harm another; spiteful.", "惡意的"], "malignant": ["Destructive, diseased, deadly.", "惡性的"], "malignity": ["Intense ill will or hatred.", "惡毒;深仇大恨"], "malinger": ["To exaggerate or feign illness to avoid duty or work.", "裝病;逃避責任"], "malingerer": ["A person who feigns illness to avoid work or duty.", "裝病者;逃避責任的人"], "malleable": ["Capable of being shaped or formed.", "可塑的；易受影響的"], "malodorous": ["Having an unpleasant smell.", "惡臭的"], "mammoth": ["Huge.", "巨大的；龐大的"], "manacle": ["A metal fastening for the wrists; to restrain with such a device.", "手銬;束縛"], "manageable": ["Able to be controlled or handled.", "可管理的；可應付的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ludicrous": ["So foolish or unreasonable as to be laughable.", "荒謬可笑的"], "lugubrious": ["Very sad:melancholy.", "悲哀的；令人傷心的"], "lugubriously": ["In a mournful or dismal manner, especially exaggeratedly so.", "悲哀地；哀傷地"], "lugubriousness": ["The quality of being mournful or dismal, often exaggeratedly so.", "悲哀；哀傷"], "lukewarm": ["Moderately warm; showing little enthusiasm.", "溫的；不太熱情的"], "lumen": ["A unit of luminous flux; the cavity of a tubular organ.", "流明(光通量單位)；管腔"], "luminary": ["A person who inspires or influences others, especially in a particular field.", "傑出人物；權威人士"], "luminosity": ["The intrinsic brightness of a celestial object; the quality of giving off light.", "光度；明亮度"], "luminous": ["Brightly shining.", "發光的；明亮的"], "lummox": ["A clumsy, stupid person.", "笨拙的人"], "lupine": ["Of or relating to or characteristic of wolves.", "狼的；似狼的"], "lurid": ["Sensational.", "駭人聽聞的"], "lush": ["Luxurious, elaborate.", "茂盛的；奢華的"], "luster": ["A gentle sheen or glow; glory or distinction.", "光澤；榮耀"], "lustful": ["Feeling or expressing strong sexual desire.", "淫慾的"], "lycanthrope": ["A werewolf; a person suffering from the delusion of being a wolf.", "狼人"], "lycanthropy": ["The mythical transformation of a person into a wolf; a delusion of being a wolf.", "狼化；狼人症"], "macabre": ["Disturbing because concerned with death and injury.", "恐怖的；可怕的"], "machiavellian": ["Governed by opportunity, not principled.", "不擇手段的；狡猾的"], "machicolation": ["An opening in a castle's floor for dropping objects on attackers below.", "城堡的射擊孔；垛口"], "machination": ["A scheming plot or crafty plan.", "陰謀；詭計"], "macron": ["A written or printed mark placed over a vowel to indicate a long sound.", "長音符號"], "macula": ["A small dark spot or area, especially on the skin or in the eye.", "黃斑；斑點"], "maculate": ["Stained or spotted; to stain or defile.", "有斑點的；玷污"], "madicancy": ["A variant or misspelling relating to mendicancy, the practice of begging.", "乞討行為(近似mendicancy)"], "maelstrom": ["A destructive whirlpool which rapidly sucks in objects.", "大漩渦；混亂局面"], "maggot": ["The larva of a fly, found in decaying matter.", "蛆"], "magic": ["The power of apparently influencing events using supernatural forces.", "魔法；魔術"], "magisterial": ["Having great authority; commanding.", "權威的；有威嚴的"], "magistrate": ["A civil officer who administers the law, especially at a local level.", "地方法官；治安官"], "magpie": ["A bird known for its chattering and attraction to shiny objects; a person who chatters or collects things.", "喜鵲；愛嘮叨或愛收集之人"], "maim": ["To disable, impair, wound.", "使殘廢；割斷"], "majestic": ["Having impressive beauty or dignity.", "雄偉的；莊嚴的"], "majuscule": ["A large letter, as in a capital or uncial script.", "大寫字母"], "malapropism": ["The mistaken use of a word in place of a similar-sounding one, often with comic effect.", "誤用詞語(近音詞誤用)"], "malapropos": ["Inappropriate or inopportune.", "不合時宜的"], "malediction": ["A curse.", "詛咒"], "malevolence": ["The wish to do evil to others.", "惡意；歹毒"], "malevolent": ["Ill-disposed, ill-intentioned.", "惡意的；狠毒的"], "malice": ["The intention to do harm.", "惡意；蓄意傷害"], "malicious": ["Intending to hurt or harm another; spiteful.", "惡意的"], "malignant": ["Destructive, diseased, deadly.", "惡性的"], "malignity": ["Intense ill will or hatred.", "惡毒；深仇大恨"], "malinger": ["To exaggerate or feign illness to avoid duty or work.", "裝病；逃避責任"], "malingerer": ["A person who feigns illness to avoid work or duty.", "裝病者；逃避責任的人"], "malleable": ["Capable of being shaped or formed.", "可塑的；易受影響的"], "malodorous": ["Having an unpleasant smell.", "惡臭的"], "mammoth": ["Huge.", "巨大的；龐大的"], "manacle": ["A metal fastening for the wrists; to restrain with such a device.", "手銬；束縛"], "manageable": ["Able to be controlled or handled.", "可管理的；可應付的"]});

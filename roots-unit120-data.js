@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "phonetic",
     "pos": "adj.",
     "definition": "Relating to speech sounds; representing sounds with symbols.",
-    "chinese": "語音的;表音的",
+    "chinese": "語音的；表音的",
     "synonyms": "",
     "root": "phone (sound, voice), from Greek",
     "group": "phon = 聲音",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to speech sounds; representing sounds with symbols.",
-     "chinese": "語音的;表音的"
+     "chinese": "語音的；表音的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "telephone",
     "pos": "n./v.",
     "definition": "A device for transmitting sound over distance; to call by such a device.",
-    "chinese": "電話;打電話",
+    "chinese": "電話；打電話",
     "synonyms": "",
     "root": "tele- (far) + phone (sound), from Greek",
     "group": "phon = 聲音",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A device for transmitting sound over distance; to call by such a device.",
-     "chinese": "電話;打電話"
+     "chinese": "電話；打電話"
     }
    }
   ],
@@ -395,4 +395,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cacophony": ["Discord, harsh sound, dissonance.", "刺耳的聲音"], "euphony": ["Pleasing sound.", "悅耳的聲音"], "cacophonophilist": ["A person who enjoys harsh, discordant sounds.", "噪音愛好者"], "cacophonous": ["Having an unpleasant sound.", "刺耳的；不和諧的"], "euphonic": ["Of or relating to or characterized by euphony.", "悅耳的；諧音的"], "euphonious": ["Having a pleasant sound.", "悅耳動聽的"], "phonetic": ["Relating to speech sounds; representing sounds with symbols.", "語音的;表音的"], "symphony": ["An elaborate musical composition for a full orchestra.", "交響曲"], "telephone": ["A device for transmitting sound over distance; to call by such a device.", "電話;打電話"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cacophony": ["Discord, harsh sound, dissonance.", "刺耳的聲音"], "euphony": ["Pleasing sound.", "悅耳的聲音"], "cacophonophilist": ["A person who enjoys harsh, discordant sounds.", "噪音愛好者"], "cacophonous": ["Having an unpleasant sound.", "刺耳的；不和諧的"], "euphonic": ["Of or relating to or characterized by euphony.", "悅耳的；諧音的"], "euphonious": ["Having a pleasant sound.", "悅耳動聽的"], "phonetic": ["Relating to speech sounds; representing sounds with symbols.", "語音的；表音的"], "symphony": ["An elaborate musical composition for a full orchestra.", "交響曲"], "telephone": ["A device for transmitting sound over distance; to call by such a device.", "電話；打電話"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "scarcity",
     "pos": "n.",
     "definition": "The state of being in short supply.",
-    "chinese": "稀缺;匱乏",
+    "chinese": "稀缺；匱乏",
     "synonyms": "",
     "root": "scars (scanty), from Old French escars, of uncertain further origin",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being in short supply.",
-     "chinese": "稀缺;匱乏"
+     "chinese": "稀缺；匱乏"
     }
    },
    {
     "word": "scarification",
     "pos": "n.",
     "definition": "The process of making small cuts or scratches in the skin, sometimes ritually.",
-    "chinese": "劃痕;疤痕儀式",
+    "chinese": "劃痕；疤痕儀式",
     "synonyms": "",
     "root": "scarificare (to scratch open), from Latin, from Greek skariphos (a stylus)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of making small cuts or scratches in the skin, sometimes ritually.",
-     "chinese": "劃痕;疤痕儀式"
+     "chinese": "劃痕；疤痕儀式"
     }
    },
    {
     "word": "scarify",
     "pos": "v.",
     "definition": "To make small cuts in something, especially skin or seeds; to criticize harshly.",
-    "chinese": "劃傷;嚴厲批評",
+    "chinese": "劃傷；嚴厲批評",
     "synonyms": "",
     "root": "scarificare (to scratch open), from Latin, from Greek skariphos (a stylus)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make small cuts in something, especially skin or seeds; to criticize harshly.",
-     "chinese": "劃傷;嚴厲批評"
+     "chinese": "劃傷；嚴厲批評"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "schismatic",
     "pos": "adj./n.",
     "definition": "Relating to or causing division, especially within a religious group.",
-    "chinese": "分裂的;分裂主義者",
+    "chinese": "分裂的；分裂主義者",
     "synonyms": "",
     "root": "schisma (a cleft, division), from Greek schizein (to split)",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or causing division, especially within a religious group.",
-     "chinese": "分裂的;分裂主義者"
+     "chinese": "分裂的；分裂主義者"
     }
    },
    {
     "word": "schismatize",
     "pos": "v.",
     "definition": "To divide or split into factions, especially within a religious body.",
-    "chinese": "分裂;產生派系",
+    "chinese": "分裂；產生派系",
     "synonyms": "",
     "root": "schisma (a cleft, division), from Greek schizein (to split)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To divide or split into factions, especially within a religious body.",
-     "chinese": "分裂;產生派系"
+     "chinese": "分裂；產生派系"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "schmaltz",
     "pos": "n.",
     "definition": "Excessive sentimentality, especially in music or art.",
-    "chinese": "過度感傷;煽情",
+    "chinese": "過度感傷；煽情",
     "synonyms": "",
     "root": "schmalz (rendered fat), from Yiddish, used figuratively for excessive sentiment",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive sentimentality, especially in music or art.",
-     "chinese": "過度感傷;煽情"
+     "chinese": "過度感傷；煽情"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "schwa",
     "pos": "n.",
     "definition": "A neutral vowel sound, often represented by the symbol ə.",
-    "chinese": "央元音;弱化元音",
+    "chinese": "央元音；弱化元音",
     "synonyms": "",
     "root": "shva, from Hebrew, referring to a vowel point",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A neutral vowel sound, often represented by the symbol ə.",
-     "chinese": "央元音;弱化元音"
+     "chinese": "央元音；弱化元音"
     }
    },
    {
     "word": "sciamachy",
     "pos": "n.",
     "definition": "A fight against an imaginary enemy or against shadows.",
-    "chinese": "與想像敵人搏鬥;影子之戰",
+    "chinese": "與想像敵人搏鬥；影子之戰",
     "synonyms": "",
     "root": "skia (shadow) + mache (battle), from Greek",
     "group": "",
@@ -265,7 +265,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fight against an imaginary enemy or against shadows.",
-     "chinese": "與想像敵人搏鬥;影子之戰"
+     "chinese": "與想像敵人搏鬥；影子之戰"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "scoff",
     "pos": "v.",
     "definition": "To speak with contempt or derision about something.",
-    "chinese": "嘲笑;譏諷",
+    "chinese": "嘲笑；譏諷",
     "synonyms": "",
     "root": "of uncertain Scandinavian origin, related to Middle English scoffen",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To speak with contempt or derision about something.",
-     "chinese": "嘲笑;譏諷"
+     "chinese": "嘲笑；譏諷"
     }
    },
    {
@@ -331,7 +331,7 @@ window.FLASHCARD_UNITS = {
     "word": "scofflaw",
     "pos": "n.",
     "definition": "A person who habitually flouts the law, especially minor regulations.",
-    "chinese": "藐視法律者;慣性違規者",
+    "chinese": "藐視法律者；慣性違規者",
     "synonyms": "",
     "root": "scoff + law, coined in a 1920s naming contest during Prohibition",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who habitually flouts the law, especially minor regulations.",
-     "chinese": "藐視法律者;慣性違規者"
+     "chinese": "藐視法律者；慣性違規者"
     }
    },
    {
     "word": "sconce",
     "pos": "n.",
     "definition": "A decorative bracket for holding a candle or light on a wall.",
-    "chinese": "壁燈;燭台",
+    "chinese": "壁燈；燭台",
     "synonyms": "",
     "root": "sconce (a shelter, candle shield), from Old French esconse",
     "group": "",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A decorative bracket for holding a candle or light on a wall.",
-     "chinese": "壁燈;燭台"
+     "chinese": "壁燈；燭台"
     }
    },
    {
@@ -394,7 +394,7 @@ window.FLASHCARD_UNITS = {
     "word": "scoundrel",
     "pos": "n.",
     "definition": "A dishonest or unscrupulous person.",
-    "chinese": "惡棍;無賴",
+    "chinese": "惡棍；無賴",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Anglo-Norman escondre (to hide)",
     "group": "",
@@ -406,14 +406,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dishonest or unscrupulous person.",
-     "chinese": "惡棍;無賴"
+     "chinese": "惡棍；無賴"
     }
    },
    {
     "word": "scourge",
     "pos": "n./v.",
     "definition": "A cause of great suffering; to whip or punish severely.",
-    "chinese": "禍害;鞭笞",
+    "chinese": "禍害；鞭笞",
     "synonyms": "",
     "root": "escorge (a whip), from Old French, from Latin excoriare (to flay)",
     "group": "",
@@ -425,14 +425,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A cause of great suffering; to whip or punish severely.",
-     "chinese": "禍害;鞭笞"
+     "chinese": "禍害；鞭笞"
     }
    },
    {
     "word": "scrawny",
     "pos": "adj.",
     "definition": "Unpleasantly thin and bony.",
-    "chinese": "骨瘦如柴的;瘦弱的",
+    "chinese": "骨瘦如柴的；瘦弱的",
     "synonyms": "",
     "root": "variant of scranny, related to scrannel (thin), of uncertain origin",
     "group": "",
@@ -444,14 +444,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unpleasantly thin and bony.",
-     "chinese": "骨瘦如柴的;瘦弱的"
+     "chinese": "骨瘦如柴的；瘦弱的"
     }
    },
    {
     "word": "screeching",
     "pos": "adj./v.",
     "definition": "Making a harsh, high-pitched sound.",
-    "chinese": "尖叫的;刺耳的",
+    "chinese": "尖叫的；刺耳的",
     "synonyms": "",
     "root": "scriche (to screech), of imitative origin",
     "group": "",
@@ -463,14 +463,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making a harsh, high-pitched sound.",
-     "chinese": "尖叫的;刺耳的"
+     "chinese": "尖叫的；刺耳的"
     }
    },
    {
     "word": "screed",
     "pos": "n.",
     "definition": "A long, tedious piece of writing, often expressing complaints.",
-    "chinese": "冗長的抱怨文章;長篇大論",
+    "chinese": "冗長的抱怨文章；長篇大論",
     "synonyms": "",
     "root": "shred, from Old English screade, with meaning shifted to lengthy writing",
     "group": "",
@@ -482,7 +482,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long, tedious piece of writing, often expressing complaints.",
-     "chinese": "冗長的抱怨文章;長篇大論"
+     "chinese": "冗長的抱怨文章；長篇大論"
     }
    },
    {
@@ -508,7 +508,7 @@ window.FLASHCARD_UNITS = {
     "word": "scruple",
     "pos": "n./v.",
     "definition": "A moral concern that prevents an action; to hesitate due to such a concern.",
-    "chinese": "顧忌;道德疑慮",
+    "chinese": "顧忌；道德疑慮",
     "synonyms": "",
     "root": "scrupulus (small sharp stone), from Latin, implying a nagging worry",
     "group": "",
@@ -522,7 +522,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A moral concern that prevents an action; to hesitate due to such a concern.",
-     "chinese": "顧忌;道德疑慮"
+     "chinese": "顧忌；道德疑慮"
     }
    },
    {
@@ -548,7 +548,7 @@ window.FLASHCARD_UNITS = {
     "word": "scrupulousness",
     "pos": "n.",
     "definition": "Extreme care and attention to detail, especially regarding moral matters.",
-    "chinese": "一絲不苟;謹慎講究",
+    "chinese": "一絲不苟；謹慎講究",
     "synonyms": "",
     "root": "scrupulus (small sharp stone), from Latin, implying careful attention",
     "group": "",
@@ -560,7 +560,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme care and attention to detail, especially regarding moral matters.",
-     "chinese": "一絲不苟;謹慎講究"
+     "chinese": "一絲不苟；謹慎講究"
     }
    },
    {
@@ -586,7 +586,7 @@ window.FLASHCARD_UNITS = {
     "word": "scrutiny",
     "pos": "n.",
     "definition": "Critical observation or examination.",
-    "chinese": "仔細審查;監督",
+    "chinese": "仔細審查；監督",
     "synonyms": "",
     "root": "scrutinium (a search), from Latin scrutari (to search)",
     "group": "",
@@ -598,14 +598,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Critical observation or examination.",
-     "chinese": "仔細審查;監督"
+     "chinese": "仔細審查；監督"
     }
    },
    {
     "word": "scrying",
     "pos": "n.",
     "definition": "The practice of foretelling the future using a crystal ball or reflective surface.",
-    "chinese": "水晶球占卜;透視占卜術",
+    "chinese": "水晶球占卜；透視占卜術",
     "synonyms": "",
     "root": "descry (to catch sight of), from Middle English",
     "group": "",
@@ -617,14 +617,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of foretelling the future using a crystal ball or reflective surface.",
-     "chinese": "水晶球占卜;透視占卜術"
+     "chinese": "水晶球占卜；透視占卜術"
     }
    },
    {
     "word": "sculpt",
     "pos": "v.",
     "definition": "To create by carving, casting, or shaping.",
-    "chinese": "雕塑;塑造",
+    "chinese": "雕塑；塑造",
     "synonyms": "",
     "root": "sculpere (to carve), from Latin",
     "group": "",
@@ -636,7 +636,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To create by carving, casting, or shaping.",
-     "chinese": "雕塑;塑造"
+     "chinese": "雕塑；塑造"
     }
    },
    {
@@ -662,7 +662,7 @@ window.FLASHCARD_UNITS = {
     "word": "scurrility",
     "pos": "n.",
     "definition": "The use of obscene or abusive language.",
-    "chinese": "粗鄙謾罵;下流言語",
+    "chinese": "粗鄙謾罵；下流言語",
     "synonyms": "",
     "root": "scurrilitas (buffoonery), from Latin scurra (buffoon, jester)",
     "group": "",
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of obscene or abusive language.",
-     "chinese": "粗鄙謾罵;下流言語"
+     "chinese": "粗鄙謾罵；下流言語"
     }
    },
    {
@@ -700,7 +700,7 @@ window.FLASHCARD_UNITS = {
     "word": "scurrilousness",
     "pos": "n.",
     "definition": "The quality of being obscene or abusive in language.",
-    "chinese": "粗鄙下流;言語惡毒",
+    "chinese": "粗鄙下流；言語惡毒",
     "synonyms": "",
     "root": "scurrilitas (buffoonery), from Latin scurra (buffoon, jester)",
     "group": "",
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being obscene or abusive in language.",
-     "chinese": "粗鄙下流;言語惡毒"
+     "chinese": "粗鄙下流；言語惡毒"
     }
    },
    {
@@ -797,7 +797,7 @@ window.FLASHCARD_UNITS = {
     "word": "secular",
     "pos": "adj.",
     "definition": "Not connected with religious or spiritual matters.",
-    "chinese": "世俗的;非宗教的",
+    "chinese": "世俗的；非宗教的",
     "synonyms": "",
     "root": "saecularis (of an age), from Latin saeculum (generation, age)",
     "group": "",
@@ -809,7 +809,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not connected with religious or spiritual matters.",
-     "chinese": "世俗的;非宗教的"
+     "chinese": "世俗的；非宗教的"
     }
    },
    {
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "word": "sedation",
     "pos": "n.",
     "definition": "The calming effect produced by a sedative drug.",
-    "chinese": "鎮靜;鎮靜作用",
+    "chinese": "鎮靜；鎮靜作用",
     "synonyms": "",
     "root": "sedare (to calm), from Latin sedere (to sit)",
     "group": "",
@@ -847,14 +847,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The calming effect produced by a sedative drug.",
-     "chinese": "鎮靜;鎮靜作用"
+     "chinese": "鎮靜；鎮靜作用"
     }
    },
    {
     "word": "sedative",
     "pos": "n./adj.",
     "definition": "A substance that induces calm or sleep.",
-    "chinese": "鎮靜劑;鎮靜的",
+    "chinese": "鎮靜劑；鎮靜的",
     "synonyms": "",
     "root": "sedare (to calm), from Latin sedere (to sit)",
     "group": "",
@@ -866,14 +866,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A substance that induces calm or sleep.",
-     "chinese": "鎮靜劑;鎮靜的"
+     "chinese": "鎮靜劑；鎮靜的"
     }
    },
    {
     "word": "sediment",
     "pos": "n.",
     "definition": "Matter that settles at the bottom of a liquid.",
-    "chinese": "沉積物;沉澱物",
+    "chinese": "沉積物；沉澱物",
     "synonyms": "",
     "root": "sedimentum (a settling), from Latin sedere (to sit)",
     "group": "",
@@ -885,14 +885,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Matter that settles at the bottom of a liquid.",
-     "chinese": "沉積物;沉澱物"
+     "chinese": "沉積物；沉澱物"
     }
    },
    {
     "word": "sedulous",
     "pos": "adj.",
     "definition": "Showing dedication and persistent effort.",
-    "chinese": "勤勉的;孜孜不倦的",
+    "chinese": "勤勉的；孜孜不倦的",
     "synonyms": "",
     "root": "sedulus (diligent), from Latin sedere (to sit), implying steady application",
     "group": "",
@@ -904,14 +904,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing dedication and persistent effort.",
-     "chinese": "勤勉的;孜孜不倦的"
+     "chinese": "勤勉的；孜孜不倦的"
     }
    },
    {
     "word": "sedulousness",
     "pos": "n.",
     "definition": "The quality of showing dedication and persistent effort.",
-    "chinese": "勤勉;孜孜不倦",
+    "chinese": "勤勉；孜孜不倦",
     "synonyms": "",
     "root": "sedulus (diligent), from Latin sedere (to sit), implying steady application",
     "group": "",
@@ -923,14 +923,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of showing dedication and persistent effort.",
-     "chinese": "勤勉;孜孜不倦"
+     "chinese": "勤勉；孜孜不倦"
     }
    },
    {
     "word": "seedy",
     "pos": "adj.",
     "definition": "Run-down or disreputable in appearance; feeling unwell.",
-    "chinese": "破舊的;下流的",
+    "chinese": "破舊的；下流的",
     "synonyms": "",
     "root": "seed, from Old English sæd, referring to a plant gone to seed and decaying",
     "group": "",
@@ -942,14 +942,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Run-down or disreputable in appearance; feeling unwell.",
-     "chinese": "破舊的;下流的"
+     "chinese": "破舊的；下流的"
     }
    },
    {
     "word": "selachian",
     "pos": "adj./n.",
     "definition": "Relating to sharks and rays; a member of this group of fish.",
-    "chinese": "鯊魚類的;板鰓魚類",
+    "chinese": "鯊魚類的；板鰓魚類",
     "synonyms": "",
     "root": "selachos (cartilaginous fish), from Greek",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to sharks and rays; a member of this group of fish.",
-     "chinese": "鯊魚類的;板鰓魚類"
+     "chinese": "鯊魚類的；板鰓魚類"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"scarcity": ["The state of being in short supply.", "稀缺;匱乏"], "scarification": ["The process of making small cuts or scratches in the skin, sometimes ritually.", "劃痕;疤痕儀式"], "scarify": ["To make small cuts in something, especially skin or seeds; to criticize harshly.", "劃傷;嚴厲批評"], "scathing": ["Sharp, critical, hurtful.", "尖銳刻薄的；嚴厲的"], "schadenfreude": ["Pleasure derived from another person's misfortune.", "幸災樂禍"], "schism": ["Split.", "分裂；派系"], "schismatic": ["Relating to or causing division, especially within a religious group.", "分裂的;分裂主義者"], "schismatize": ["To divide or split into factions, especially within a religious body.", "分裂;產生派系"], "schizophrenia": ["A serious mental disorder involving distorted thinking and perception.", "精神分裂症"], "schmaltz": ["Excessive sentimentality, especially in music or art.", "過度感傷;煽情"], "scholia": ["Explanatory notes or comments on a classical text, especially by ancient scholars.", "古籍註釋(複數)"], "scholium": ["A single explanatory note or comment on a classical text.", "古籍註釋(單數)"], "schwa": ["A neutral vowel sound, often represented by the symbol ə.", "央元音;弱化元音"], "sciamachy": ["A fight against an imaginary enemy or against shadows.", "與想像敵人搏鬥;影子之戰"], "scion": ["Child, descendant:progeny.", "子孫；後代"], "scoff": ["To speak with contempt or derision about something.", "嘲笑;譏諷"], "scoff at": ["To sneer at.", "嘲笑"], "scofflaw": ["A person who habitually flouts the law, especially minor regulations.", "藐視法律者;慣性違規者"], "sconce": ["A decorative bracket for holding a candle or light on a wall.", "壁燈;燭台"], "scorn": ["To look down on with disdain.", "輕蔑；鄙視"], "scoundrel": ["A dishonest or unscrupulous person.", "惡棍;無賴"], "scourge": ["A cause of great suffering; to whip or punish severely.", "禍害;鞭笞"], "scrawny": ["Unpleasantly thin and bony.", "骨瘦如柴的;瘦弱的"], "screeching": ["Making a harsh, high-pitched sound.", "尖叫的;刺耳的"], "screed": ["A long, tedious piece of writing, often expressing complaints.", "冗長的抱怨文章;長篇大論"], "scrimp": ["Be very thrifty or frugal.", "節省；省吃儉用"], "scruple": ["A moral concern that prevents an action; to hesitate due to such a concern.", "顧忌;道德疑慮"], "scrupulous": ["Showing great care and honesty, based on what is right.", "一絲不苟的"], "scrupulousness": ["Extreme care and attention to detail, especially regarding moral matters.", "一絲不苟;謹慎講究"], "scrutinize": ["To examine closely.", "仔細檢查"], "scrutiny": ["Critical observation or examination.", "仔細審查;監督"], "scrying": ["The practice of foretelling the future using a crystal ball or reflective surface.", "水晶球占卜;透視占卜術"], "sculpt": ["To create by carving, casting, or shaping.", "雕塑;塑造"], "sculptor": ["An artist who creates three-dimensional works of art.", "雕塑家"], "scurrility": ["The use of obscene or abusive language.", "粗鄙謾罵;下流言語"], "scurrilous": ["Coarse.", "粗俗的；下流的"], "scurrilousness": ["The quality of being obscene or abusive in language.", "粗鄙下流;言語惡毒"], "scurry": ["To run hastily.", "急跑；碎步快跑"], "scuttlebutthead": ["A person prone to spreading gossip or rumors (informal, nonstandard).", "愛傳八卦的人(非正式)"], "sear": ["To burn or scorch the surface of something with intense heat.", "燒灼；煎烤"], "secretive": ["Keeping things hidden.", "隱密的；守口如瓶的"], "secular": ["Not connected with religious or spiritual matters.", "世俗的;非宗教的"], "sedate": ["Quiet, still, undisturbed, sober.", "安詳的；莊重的"], "sedation": ["The calming effect produced by a sedative drug.", "鎮靜;鎮靜作用"], "sedative": ["A substance that induces calm or sleep.", "鎮靜劑;鎮靜的"], "sediment": ["Matter that settles at the bottom of a liquid.", "沉積物;沉澱物"], "sedulous": ["Showing dedication and persistent effort.", "勤勉的;孜孜不倦的"], "sedulousness": ["The quality of showing dedication and persistent effort.", "勤勉;孜孜不倦"], "seedy": ["Run-down or disreputable in appearance; feeling unwell.", "破舊的;下流的"], "selachian": ["Relating to sharks and rays; a member of this group of fish.", "鯊魚類的;板鰓魚類"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"scarcity": ["The state of being in short supply.", "稀缺；匱乏"], "scarification": ["The process of making small cuts or scratches in the skin, sometimes ritually.", "劃痕；疤痕儀式"], "scarify": ["To make small cuts in something, especially skin or seeds; to criticize harshly.", "劃傷；嚴厲批評"], "scathing": ["Sharp, critical, hurtful.", "尖銳刻薄的；嚴厲的"], "schadenfreude": ["Pleasure derived from another person's misfortune.", "幸災樂禍"], "schism": ["Split.", "分裂；派系"], "schismatic": ["Relating to or causing division, especially within a religious group.", "分裂的；分裂主義者"], "schismatize": ["To divide or split into factions, especially within a religious body.", "分裂；產生派系"], "schizophrenia": ["A serious mental disorder involving distorted thinking and perception.", "精神分裂症"], "schmaltz": ["Excessive sentimentality, especially in music or art.", "過度感傷；煽情"], "scholia": ["Explanatory notes or comments on a classical text, especially by ancient scholars.", "古籍註釋(複數)"], "scholium": ["A single explanatory note or comment on a classical text.", "古籍註釋(單數)"], "schwa": ["A neutral vowel sound, often represented by the symbol ə.", "央元音；弱化元音"], "sciamachy": ["A fight against an imaginary enemy or against shadows.", "與想像敵人搏鬥；影子之戰"], "scion": ["Child, descendant:progeny.", "子孫；後代"], "scoff": ["To speak with contempt or derision about something.", "嘲笑；譏諷"], "scoff at": ["To sneer at.", "嘲笑"], "scofflaw": ["A person who habitually flouts the law, especially minor regulations.", "藐視法律者；慣性違規者"], "sconce": ["A decorative bracket for holding a candle or light on a wall.", "壁燈；燭台"], "scorn": ["To look down on with disdain.", "輕蔑；鄙視"], "scoundrel": ["A dishonest or unscrupulous person.", "惡棍；無賴"], "scourge": ["A cause of great suffering; to whip or punish severely.", "禍害；鞭笞"], "scrawny": ["Unpleasantly thin and bony.", "骨瘦如柴的；瘦弱的"], "screeching": ["Making a harsh, high-pitched sound.", "尖叫的；刺耳的"], "screed": ["A long, tedious piece of writing, often expressing complaints.", "冗長的抱怨文章；長篇大論"], "scrimp": ["Be very thrifty or frugal.", "節省；省吃儉用"], "scruple": ["A moral concern that prevents an action; to hesitate due to such a concern.", "顧忌；道德疑慮"], "scrupulous": ["Showing great care and honesty, based on what is right.", "一絲不苟的"], "scrupulousness": ["Extreme care and attention to detail, especially regarding moral matters.", "一絲不苟；謹慎講究"], "scrutinize": ["To examine closely.", "仔細檢查"], "scrutiny": ["Critical observation or examination.", "仔細審查；監督"], "scrying": ["The practice of foretelling the future using a crystal ball or reflective surface.", "水晶球占卜；透視占卜術"], "sculpt": ["To create by carving, casting, or shaping.", "雕塑；塑造"], "sculptor": ["An artist who creates three-dimensional works of art.", "雕塑家"], "scurrility": ["The use of obscene or abusive language.", "粗鄙謾罵；下流言語"], "scurrilous": ["Coarse.", "粗俗的；下流的"], "scurrilousness": ["The quality of being obscene or abusive in language.", "粗鄙下流；言語惡毒"], "scurry": ["To run hastily.", "急跑；碎步快跑"], "scuttlebutthead": ["A person prone to spreading gossip or rumors (informal, nonstandard).", "愛傳八卦的人(非正式)"], "sear": ["To burn or scorch the surface of something with intense heat.", "燒灼；煎烤"], "secretive": ["Keeping things hidden.", "隱密的；守口如瓶的"], "secular": ["Not connected with religious or spiritual matters.", "世俗的；非宗教的"], "sedate": ["Quiet, still, undisturbed, sober.", "安詳的；莊重的"], "sedation": ["The calming effect produced by a sedative drug.", "鎮靜；鎮靜作用"], "sedative": ["A substance that induces calm or sleep.", "鎮靜劑；鎮靜的"], "sediment": ["Matter that settles at the bottom of a liquid.", "沉積物；沉澱物"], "sedulous": ["Showing dedication and persistent effort.", "勤勉的；孜孜不倦的"], "sedulousness": ["The quality of showing dedication and persistent effort.", "勤勉；孜孜不倦"], "seedy": ["Run-down or disreputable in appearance; feeling unwell.", "破舊的；下流的"], "selachian": ["Relating to sharks and rays; a member of this group of fish.", "鯊魚類的；板鰓魚類"]});

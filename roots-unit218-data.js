@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "riposte",
     "pos": "n./v.",
     "definition": "A quick, sharp reply, especially in retaliation; a fencing counterattack.",
-    "chinese": "機智反駁;反擊",
+    "chinese": "機智反駁；反擊",
     "synonyms": "",
     "root": "risposta (a response), from Italian, from Latin respondere (to respond)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A quick, sharp reply, especially in retaliation; a fencing counterattack.",
-     "chinese": "機智反駁;反擊"
+     "chinese": "機智反駁；反擊"
     }
    },
    {
     "word": "risible",
     "pos": "adj.",
     "definition": "Such as to provoke laughter, especially because absurd.",
-    "chinese": "可笑的;荒謬的",
+    "chinese": "可笑的；荒謬的",
     "synonyms": "",
     "root": "risibilis (able to laugh), from Latin ridere (to laugh)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Such as to provoke laughter, especially because absurd.",
-     "chinese": "可笑的;荒謬的"
+     "chinese": "可笑的；荒謬的"
     }
    },
    {
     "word": "rob",
     "pos": "v.",
     "definition": "To take property unlawfully from a person or place, often by force.",
-    "chinese": "搶劫;偷竊",
+    "chinese": "搶劫；偷竊",
     "synonyms": "",
     "root": "rauben (to plunder), from Old High German, via Old French rober",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To take property unlawfully from a person or place, often by force.",
-     "chinese": "搶劫;偷竊"
+     "chinese": "搶劫；偷竊"
     }
    },
    {
     "word": "robust",
     "pos": "adj.",
     "definition": "Strong and healthy; sturdy in construction.",
-    "chinese": "強健的;穩健的",
+    "chinese": "強健的；穩健的",
     "synonyms": "",
     "root": "robustus (strong, oaken), from Latin robur (oak, strength)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Strong and healthy; sturdy in construction.",
-     "chinese": "強健的;穩健的"
+     "chinese": "強健的；穩健的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "rodomontade",
     "pos": "n.",
     "definition": "Boastful or arrogant talk.",
-    "chinese": "誇口;吹噓之詞",
+    "chinese": "誇口；吹噓之詞",
     "synonyms": "",
     "root": "named after Rodomonte, a boastful character in Italian epic poetry",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Boastful or arrogant talk.",
-     "chinese": "誇口;吹噓之詞"
+     "chinese": "誇口；吹噓之詞"
     }
    },
    {
     "word": "rogue",
     "pos": "n./adj.",
     "definition": "A dishonest or unprincipled person; operating outside normal control.",
-    "chinese": "無賴;失控的",
+    "chinese": "無賴；失控的",
     "synonyms": "",
     "root": "rogue (vagrant), of uncertain origin, possibly from Latin rogare (to beg)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dishonest or unprincipled person; operating outside normal control.",
-     "chinese": "無賴;失控的"
+     "chinese": "無賴；失控的"
     }
    },
    {
     "word": "roguish",
     "pos": "adj.",
     "definition": "Playfully mischievous, often in a charming way.",
-    "chinese": "頑皮的;帶點狡黠魅力的",
+    "chinese": "頑皮的；帶點狡黠魅力的",
     "synonyms": "",
     "root": "rogue (vagrant), of uncertain origin, possibly from Latin rogare (to beg)",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Playfully mischievous, often in a charming way.",
-     "chinese": "頑皮的;帶點狡黠魅力的"
+     "chinese": "頑皮的；帶點狡黠魅力的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "roseate",
     "pos": "adj.",
     "definition": "Rose-colored; overly optimistic.",
-    "chinese": "玫瑰色的;過度樂觀的",
+    "chinese": "玫瑰色的；過度樂觀的",
     "synonyms": "",
     "root": "roseus (rosy), from Latin rosa (rose)",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rose-colored; overly optimistic.",
-     "chinese": "玫瑰色的;過度樂觀的"
+     "chinese": "玫瑰色的；過度樂觀的"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "rotary",
     "pos": "adj./n.",
     "definition": "Operating by turning on an axis; a traffic circle.",
-    "chinese": "旋轉的;圓環",
+    "chinese": "旋轉的；圓環",
     "synonyms": "",
     "root": "rotare (to revolve), from Latin rota (wheel)",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Operating by turning on an axis; a traffic circle.",
-     "chinese": "旋轉的;圓環"
+     "chinese": "旋轉的；圓環"
     }
    },
    {
     "word": "rotate",
     "pos": "v.",
     "definition": "To turn around a central point; to take turns in sequence.",
-    "chinese": "旋轉;輪流",
+    "chinese": "旋轉；輪流",
     "synonyms": "",
     "root": "rotare (to revolve), from Latin rota (wheel)",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To turn around a central point; to take turns in sequence.",
-     "chinese": "旋轉;輪流"
+     "chinese": "旋轉；輪流"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "rotund",
     "pos": "adj.",
     "definition": "Rounded and plump; full and sonorous, as of speech.",
-    "chinese": "圓胖的;渾厚的",
+    "chinese": "圓胖的；渾厚的",
     "synonyms": "",
     "root": "rotundus (round), from Latin rota (wheel)",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rounded and plump; full and sonorous, as of speech.",
-     "chinese": "圓胖的;渾厚的"
+     "chinese": "圓胖的；渾厚的"
     }
    },
    {
     "word": "roue",
     "pos": "n.",
     "definition": "A debauched or dissolute man.",
-    "chinese": "浪蕩公子;放蕩男子",
+    "chinese": "浪蕩公子；放蕩男子",
     "synonyms": "",
     "root": "roué (broken on the wheel, i.e. deserving punishment), from French rouer",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A debauched or dissolute man.",
-     "chinese": "浪蕩公子;放蕩男子"
+     "chinese": "浪蕩公子；放蕩男子"
     }
    },
    {
     "word": "rough",
     "pos": "adj.",
     "definition": "Having an uneven or coarse surface; difficult or harsh.",
-    "chinese": "粗糙的;艱難的",
+    "chinese": "粗糙的；艱難的",
     "synonyms": "",
     "root": "ruh (rough, hairy), from Old English",
     "group": "",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having an uneven or coarse surface; difficult or harsh.",
-     "chinese": "粗糙的;艱難的"
+     "chinese": "粗糙的；艱難的"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "roué",
     "pos": "n.",
     "definition": "A debauched or dissolute man.",
-    "chinese": "浪蕩公子;放蕩男子",
+    "chinese": "浪蕩公子；放蕩男子",
     "synonyms": "",
     "root": "roué (broken on the wheel, i.e. deserving punishment), from French rouer",
     "group": "",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A debauched or dissolute man.",
-     "chinese": "浪蕩公子;放蕩男子"
+     "chinese": "浪蕩公子；放蕩男子"
     }
    },
    {
     "word": "rove",
     "pos": "v.",
     "definition": "To travel constantly without a fixed destination.",
-    "chinese": "漫遊;流浪",
+    "chinese": "漫遊；流浪",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to archery target practice",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To travel constantly without a fixed destination.",
-     "chinese": "漫遊;流浪"
+     "chinese": "漫遊；流浪"
     }
    },
    {
     "word": "rubbernecker",
     "pos": "n.",
     "definition": "A person who stares at something with excessive curiosity, especially while driving.",
-    "chinese": "好奇圍觀者;伸長脖子看熱鬧的人",
+    "chinese": "好奇圍觀者；伸長脖子看熱鬧的人",
     "synonyms": "",
     "root": "rubber, from India rubber + neck, from Old English",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who stares at something with excessive curiosity, especially while driving.",
-     "chinese": "好奇圍觀者;伸長脖子看熱鬧的人"
+     "chinese": "好奇圍觀者；伸長脖子看熱鬧的人"
     }
    },
    {
@@ -508,7 +508,7 @@ window.FLASHCARD_UNITS = {
     "word": "rubious",
     "pos": "adj.",
     "definition": "Ruby-colored; deep red.",
-    "chinese": "紅寶石色的;深紅的",
+    "chinese": "紅寶石色的；深紅的",
     "synonyms": "",
     "root": "rubeus (reddish), from Latin ruber (red)",
     "group": "",
@@ -520,14 +520,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Ruby-colored; deep red.",
-     "chinese": "紅寶石色的;深紅的"
+     "chinese": "紅寶石色的；深紅的"
     }
    },
    {
     "word": "rubric",
     "pos": "n.",
     "definition": "A heading or category; a set of guidelines for scoring or evaluation.",
-    "chinese": "標題;評分準則",
+    "chinese": "標題；評分準則",
     "synonyms": "",
     "root": "rubrica (red ochre, red heading), from Latin ruber (red)",
     "group": "",
@@ -541,14 +541,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A heading or category; a set of guidelines for scoring or evaluation.",
-     "chinese": "標題;評分準則"
+     "chinese": "標題；評分準則"
     }
    },
    {
     "word": "rubricate",
     "pos": "v.",
     "definition": "To mark or arrange under headings; to decorate with red lettering.",
-    "chinese": "分類編排;以紅色標記",
+    "chinese": "分類編排；以紅色標記",
     "synonyms": "",
     "root": "rubrica (red ochre, red heading), from Latin ruber (red)",
     "group": "",
@@ -560,14 +560,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To mark or arrange under headings; to decorate with red lettering.",
-     "chinese": "分類編排;以紅色標記"
+     "chinese": "分類編排；以紅色標記"
     }
    },
    {
     "word": "ruby",
     "pos": "n./adj.",
     "definition": "A red gemstone; deep red in color.",
-    "chinese": "紅寶石;深紅色的",
+    "chinese": "紅寶石；深紅色的",
     "synonyms": "",
     "root": "rubeus (reddish), from Latin ruber (red)",
     "group": "",
@@ -579,7 +579,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A red gemstone; deep red in color.",
-     "chinese": "紅寶石;深紅色的"
+     "chinese": "紅寶石；深紅色的"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "rueful",
     "pos": "adj.",
     "definition": "Expressing sorrow or regret, often with a wry or self-deprecating tone.",
-    "chinese": "懊悔的;自嘲的",
+    "chinese": "懊悔的；自嘲的",
     "synonyms": "",
     "root": "hreow (sorrow, regret), from Old English",
     "group": "",
@@ -636,14 +636,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing sorrow or regret, often with a wry or self-deprecating tone.",
-     "chinese": "懊悔的;自嘲的"
+     "chinese": "懊悔的；自嘲的"
     }
    },
    {
     "word": "ruefulness",
     "pos": "n.",
     "definition": "A state of sorrowful or wry regret.",
-    "chinese": "懊悔;自嘲的悔意",
+    "chinese": "懊悔；自嘲的悔意",
     "synonyms": "",
     "root": "hreow (sorrow, regret), from Old English",
     "group": "",
@@ -655,14 +655,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of sorrowful or wry regret.",
-     "chinese": "懊悔;自嘲的悔意"
+     "chinese": "懊悔；自嘲的悔意"
     }
    },
    {
     "word": "ruffled",
     "pos": "adj.",
     "definition": "Disturbed or agitated; having pleats or gathers.",
-    "chinese": "心煩意亂的;有褶邊的",
+    "chinese": "心煩意亂的；有褶邊的",
     "synonyms": "",
     "root": "ruffelen (to wrinkle, disturb), from Middle English, of Germanic origin",
     "group": "",
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Disturbed or agitated; having pleats or gathers.",
-     "chinese": "心煩意亂的;有褶邊的"
+     "chinese": "心煩意亂的；有褶邊的"
     }
    },
    {
@@ -700,7 +700,7 @@ window.FLASHCARD_UNITS = {
     "word": "ruinous",
     "pos": "adj.",
     "definition": "Causing or likely to cause ruin or disaster.",
-    "chinese": "毀滅性的;災難性的",
+    "chinese": "毀滅性的；災難性的",
     "synonyms": "",
     "root": "ruinosus (falling down), from Latin ruere (to fall, collapse)",
     "group": "",
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing or likely to cause ruin or disaster.",
-     "chinese": "毀滅性的;災難性的"
+     "chinese": "毀滅性的；災難性的"
     }
    },
    {
@@ -738,7 +738,7 @@ window.FLASHCARD_UNITS = {
     "word": "ruminant",
     "pos": "n./adj.",
     "definition": "A mammal that chews the cud, such as cattle or deer.",
-    "chinese": "反芻動物;反芻的",
+    "chinese": "反芻動物；反芻的",
     "synonyms": "",
     "root": "ruminare (to chew the cud), from Latin rumen (throat)",
     "group": "",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A mammal that chews the cud, such as cattle or deer.",
-     "chinese": "反芻動物;反芻的"
+     "chinese": "反芻動物；反芻的"
     }
    },
    {
@@ -780,7 +780,7 @@ window.FLASHCARD_UNITS = {
     "word": "runt",
     "pos": "n.",
     "definition": "The smallest and weakest animal in a litter; a small or weak person.",
-    "chinese": "體型最小的幼崽;矮小瘦弱的人",
+    "chinese": "體型最小的幼崽；矮小瘦弱的人",
     "synonyms": "",
     "root": "of uncertain Germanic origin, related to small livestock",
     "group": "",
@@ -792,14 +792,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The smallest and weakest animal in a litter; a small or weak person.",
-     "chinese": "體型最小的幼崽;矮小瘦弱的人"
+     "chinese": "體型最小的幼崽；矮小瘦弱的人"
     }
    },
    {
     "word": "russophobia",
     "pos": "n.",
     "definition": "An intense fear or dislike of Russia or Russian people.",
-    "chinese": "恐俄症;仇俄情結",
+    "chinese": "恐俄症；仇俄情結",
     "synonyms": "",
     "root": "Russo- (Russian) + phobos (fear), from Greek",
     "group": "",
@@ -811,7 +811,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An intense fear or dislike of Russia or Russian people.",
-     "chinese": "恐俄症;仇俄情結"
+     "chinese": "恐俄症；仇俄情結"
     }
    },
    {
@@ -837,7 +837,7 @@ window.FLASHCARD_UNITS = {
     "word": "rusticate",
     "pos": "v.",
     "definition": "To retire to or live in the countryside; to banish to the country.",
-    "chinese": "移居鄉間;放逐鄉間",
+    "chinese": "移居鄉間；放逐鄉間",
     "synonyms": "",
     "root": "rus/rusticus (countryside), from Latin",
     "group": "",
@@ -849,14 +849,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To retire to or live in the countryside; to banish to the country.",
-     "chinese": "移居鄉間;放逐鄉間"
+     "chinese": "移居鄉間；放逐鄉間"
     }
    },
    {
     "word": "réchauffé",
     "pos": "n./adj.",
     "definition": "Something reheated or reused, especially a reworked piece of writing.",
-    "chinese": "重新加熱的菜餚;老調重彈的作品",
+    "chinese": "重新加熱的菜餚；老調重彈的作品",
     "synonyms": "",
     "root": "réchauffer (to reheat), from French re- (again) + chauffer (to heat)",
     "group": "",
@@ -868,7 +868,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something reheated or reused, especially a reworked piece of writing.",
-     "chinese": "重新加熱的菜餚;老調重彈的作品"
+     "chinese": "重新加熱的菜餚；老調重彈的作品"
     }
    },
    {
@@ -894,7 +894,7 @@ window.FLASHCARD_UNITS = {
     "word": "sacerdotal",
     "pos": "adj.",
     "definition": "Relating to priests or the priesthood.",
-    "chinese": "祭司的;神職的",
+    "chinese": "祭司的；神職的",
     "synonyms": "",
     "root": "sacerdos (priest), from Latin sacer (sacred)",
     "group": "",
@@ -906,7 +906,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to priests or the priesthood.",
-     "chinese": "祭司的;神職的"
+     "chinese": "祭司的；神職的"
     }
    },
    {
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"riposte": ["A quick, sharp reply, especially in retaliation; a fencing counterattack.", "機智反駁;反擊"], "risible": ["Such as to provoke laughter, especially because absurd.", "可笑的;荒謬的"], "rob": ["To take property unlawfully from a person or place, often by force.", "搶劫;偷竊"], "robust": ["Strong and healthy; sturdy in construction.", "強健的;穩健的"], "rodent": ["A mammal with two pairs of ever-growing front teeth for gnawing.", "囓齒動物"], "rodeo": ["A competitive event involving cattle-roping and bronco-riding skills.", "牛仔競技表演"], "rodomontade": ["Boastful or arrogant talk.", "誇口;吹噓之詞"], "rogue": ["A dishonest or unprincipled person; operating outside normal control.", "無賴;失控的"], "roguish": ["Playfully mischievous, often in a charming way.", "頑皮的;帶點狡黠魅力的"], "romp": ["To move in a lively manner.", "嬉鬧；喧鬧地玩耍"], "roomy": ["Having ample space.", "寬敞的"], "roseate": ["Rose-colored; overly optimistic.", "玫瑰色的;過度樂觀的"], "roster": ["List of names.", "名單；花名冊"], "rotary": ["Operating by turning on an axis; a traffic circle.", "旋轉的;圓環"], "rotate": ["To turn around a central point; to take turns in sequence.", "旋轉;輪流"], "rotavirus": ["A virus that causes severe diarrhea, especially in infants.", "輪狀病毒"], "rotund": ["Rounded and plump; full and sonorous, as of speech.", "圓胖的;渾厚的"], "roue": ["A debauched or dissolute man.", "浪蕩公子;放蕩男子"], "rough": ["Having an uneven or coarse surface; difficult or harsh.", "粗糙的;艱難的"], "rousing": ["Exciting or stirring.", "振奮人心的"], "roué": ["A debauched or dissolute man.", "浪蕩公子;放蕩男子"], "rove": ["To travel constantly without a fixed destination.", "漫遊;流浪"], "rubbernecker": ["A person who stares at something with excessive curiosity, especially while driving.", "好奇圍觀者;伸長脖子看熱鬧的人"], "rubby": ["A person addicted to drinking rubbing alcohol or cheap liquor (slang).", "酗酒者(俚語)"], "rubeola": ["Measles, a contagious viral disease causing fever and rash.", "麻疹"], "rubicund": ["Having a healthy reddish complexion.", "紅潤的"], "rubious": ["Ruby-colored; deep red.", "紅寶石色的;深紅的"], "rubric": ["A heading or category; a set of guidelines for scoring or evaluation.", "標題;評分準則"], "rubricate": ["To mark or arrange under headings; to decorate with red lettering.", "分類編排;以紅色標記"], "ruby": ["A red gemstone; deep red in color.", "紅寶石;深紅色的"], "rudimentary": ["Elementary, basic.", "基本的"], "rue": ["To regret.", "後悔；悲傷"], "rueful": ["Expressing sorrow or regret, often with a wry or self-deprecating tone.", "懊悔的;自嘲的"], "ruefulness": ["A state of sorrowful or wry regret.", "懊悔;自嘲的悔意"], "ruffled": ["Disturbed or agitated; having pleats or gathers.", "心煩意亂的;有褶邊的"], "rufous": ["Reddish-brown in color, especially of animal fur or feathers.", "紅褐色的"], "ruinous": ["Causing or likely to cause ruin or disaster.", "毀滅性的;災難性的"], "rumen": ["The first stomach compartment of a ruminant, where fermentation occurs.", "瘤胃"], "ruminant": ["A mammal that chews the cud, such as cattle or deer.", "反芻動物;反芻的"], "ruminate": ["To reflect upon, ponder.", "沉思；反覆思考"], "runt": ["The smallest and weakest animal in a litter; a small or weak person.", "體型最小的幼崽;矮小瘦弱的人"], "russophobia": ["An intense fear or dislike of Russia or Russian people.", "恐俄症;仇俄情結"], "rustic": ["Countrified, unpolished.", "鄉村的；質樸的"], "rusticate": ["To retire to or live in the countryside; to banish to the country.", "移居鄉間;放逐鄉間"], "réchauffé": ["Something reheated or reused, especially a reworked piece of writing.", "重新加熱的菜餚;老調重彈的作品"], "saccharine": ["Sickeningly sweet.", "過分甜膩的；矯情的"], "sacerdotal": ["Relating to priests or the priesthood.", "祭司的;神職的"], "sacrosanct": ["Holy, something that should not be criticized.", "神聖不可侵犯的"], "saga": ["Long heroic story.", "傳奇；長篇故事"], "sagacious": ["Wise.", "睿智的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"riposte": ["A quick, sharp reply, especially in retaliation; a fencing counterattack.", "機智反駁；反擊"], "risible": ["Such as to provoke laughter, especially because absurd.", "可笑的；荒謬的"], "rob": ["To take property unlawfully from a person or place, often by force.", "搶劫；偷竊"], "robust": ["Strong and healthy; sturdy in construction.", "強健的；穩健的"], "rodent": ["A mammal with two pairs of ever-growing front teeth for gnawing.", "囓齒動物"], "rodeo": ["A competitive event involving cattle-roping and bronco-riding skills.", "牛仔競技表演"], "rodomontade": ["Boastful or arrogant talk.", "誇口；吹噓之詞"], "rogue": ["A dishonest or unprincipled person; operating outside normal control.", "無賴；失控的"], "roguish": ["Playfully mischievous, often in a charming way.", "頑皮的；帶點狡黠魅力的"], "romp": ["To move in a lively manner.", "嬉鬧；喧鬧地玩耍"], "roomy": ["Having ample space.", "寬敞的"], "roseate": ["Rose-colored; overly optimistic.", "玫瑰色的；過度樂觀的"], "roster": ["List of names.", "名單；花名冊"], "rotary": ["Operating by turning on an axis; a traffic circle.", "旋轉的；圓環"], "rotate": ["To turn around a central point; to take turns in sequence.", "旋轉；輪流"], "rotavirus": ["A virus that causes severe diarrhea, especially in infants.", "輪狀病毒"], "rotund": ["Rounded and plump; full and sonorous, as of speech.", "圓胖的；渾厚的"], "roue": ["A debauched or dissolute man.", "浪蕩公子；放蕩男子"], "rough": ["Having an uneven or coarse surface; difficult or harsh.", "粗糙的；艱難的"], "rousing": ["Exciting or stirring.", "振奮人心的"], "roué": ["A debauched or dissolute man.", "浪蕩公子；放蕩男子"], "rove": ["To travel constantly without a fixed destination.", "漫遊；流浪"], "rubbernecker": ["A person who stares at something with excessive curiosity, especially while driving.", "好奇圍觀者；伸長脖子看熱鬧的人"], "rubby": ["A person addicted to drinking rubbing alcohol or cheap liquor (slang).", "酗酒者(俚語)"], "rubeola": ["Measles, a contagious viral disease causing fever and rash.", "麻疹"], "rubicund": ["Having a healthy reddish complexion.", "紅潤的"], "rubious": ["Ruby-colored; deep red.", "紅寶石色的；深紅的"], "rubric": ["A heading or category; a set of guidelines for scoring or evaluation.", "標題；評分準則"], "rubricate": ["To mark or arrange under headings; to decorate with red lettering.", "分類編排；以紅色標記"], "ruby": ["A red gemstone; deep red in color.", "紅寶石；深紅色的"], "rudimentary": ["Elementary, basic.", "基本的"], "rue": ["To regret.", "後悔；悲傷"], "rueful": ["Expressing sorrow or regret, often with a wry or self-deprecating tone.", "懊悔的；自嘲的"], "ruefulness": ["A state of sorrowful or wry regret.", "懊悔；自嘲的悔意"], "ruffled": ["Disturbed or agitated; having pleats or gathers.", "心煩意亂的；有褶邊的"], "rufous": ["Reddish-brown in color, especially of animal fur or feathers.", "紅褐色的"], "ruinous": ["Causing or likely to cause ruin or disaster.", "毀滅性的；災難性的"], "rumen": ["The first stomach compartment of a ruminant, where fermentation occurs.", "瘤胃"], "ruminant": ["A mammal that chews the cud, such as cattle or deer.", "反芻動物；反芻的"], "ruminate": ["To reflect upon, ponder.", "沉思；反覆思考"], "runt": ["The smallest and weakest animal in a litter; a small or weak person.", "體型最小的幼崽；矮小瘦弱的人"], "russophobia": ["An intense fear or dislike of Russia or Russian people.", "恐俄症；仇俄情結"], "rustic": ["Countrified, unpolished.", "鄉村的；質樸的"], "rusticate": ["To retire to or live in the countryside; to banish to the country.", "移居鄉間；放逐鄉間"], "réchauffé": ["Something reheated or reused, especially a reworked piece of writing.", "重新加熱的菜餚；老調重彈的作品"], "saccharine": ["Sickeningly sweet.", "過分甜膩的；矯情的"], "sacerdotal": ["Relating to priests or the priesthood.", "祭司的；神職的"], "sacrosanct": ["Holy, something that should not be criticized.", "神聖不可侵犯的"], "saga": ["Long heroic story.", "傳奇；長篇故事"], "sagacious": ["Wise.", "睿智的"]});

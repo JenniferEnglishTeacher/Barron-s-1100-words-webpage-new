@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "appendix",
     "pos": "n.",
     "definition": "A section of supplementary material at the end of a book; a small organ near the intestine.",
-    "chinese": "附錄;闌尾",
+    "chinese": "附錄；闌尾",
     "synonyms": "",
     "root": "ad- (to) + pendere (to hang)",
     "group": "pend = 懸掛",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A section of supplementary material at the end of a book; a small organ near the intestine.",
-     "chinese": "附錄;闌尾"
+     "chinese": "附錄；闌尾"
     }
    },
    {
     "word": "compendious",
     "pos": "adj.",
     "definition": "Giving a lot of information in a concise, well-organized way.",
-    "chinese": "簡明扼要的;概括性的",
+    "chinese": "簡明扼要的；概括性的",
     "synonyms": "",
     "root": "com- (together) + pendere (to weigh), from Latin",
     "group": "pend = 懸掛",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving a lot of information in a concise, well-organized way.",
-     "chinese": "簡明扼要的;概括性的"
+     "chinese": "簡明扼要的；概括性的"
     }
    },
    {
     "word": "compendium",
     "pos": "n.",
     "definition": "A concise collection of information on a particular subject.",
-    "chinese": "概要;彙編",
+    "chinese": "概要；彙編",
     "synonyms": "",
     "root": "com- (together) + pendere (to weigh), from Latin",
     "group": "pend = 懸掛",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A concise collection of information on a particular subject.",
-     "chinese": "概要;彙編"
+     "chinese": "概要；彙編"
     }
    },
    {
     "word": "dispensation",
     "pos": "n.",
     "definition": "Exemption from a rule or usual requirement.",
-    "chinese": "豁免;特許",
+    "chinese": "豁免；特許",
     "synonyms": "",
     "root": "dis- (apart) + pendere (to weigh, pay), from Latin",
     "group": "pend = 懸掛",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exemption from a rule or usual requirement.",
-     "chinese": "豁免;特許"
+     "chinese": "豁免；特許"
     }
    },
    {
@@ -481,4 +481,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"propensity": ["Disposition, inclination, bent.", "傾向；習性"], "pensive": ["Thoughtful, reflective.", "沉思的；憂鬱的"], "penchant": ["Strong leaning in favor.", "傾向；嗜好"], "appendix": ["A section of supplementary material at the end of a book; a small organ near the intestine.", "附錄;闌尾"], "compendious": ["Giving a lot of information in a concise, well-organized way.", "簡明扼要的;概括性的"], "compendium": ["A concise collection of information on a particular subject.", "概要;彙編"], "dispensation": ["Exemption from a rule or usual requirement.", "豁免;特許"], "expend": ["Use up or consume fully.", "耗費；花費"], "expensive": ["Costing a lot of money.", "昂貴的"], "impending": ["Approaching or about to happen.", "即將發生的；迫近的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"propensity": ["Disposition, inclination, bent.", "傾向；習性"], "pensive": ["Thoughtful, reflective.", "沉思的；憂鬱的"], "penchant": ["Strong leaning in favor.", "傾向；嗜好"], "appendix": ["A section of supplementary material at the end of a book; a small organ near the intestine.", "附錄；闌尾"], "compendious": ["Giving a lot of information in a concise, well-organized way.", "簡明扼要的；概括性的"], "compendium": ["A concise collection of information on a particular subject.", "概要；彙編"], "dispensation": ["Exemption from a rule or usual requirement.", "豁免；特許"], "expend": ["Use up or consume fully.", "耗費；花費"], "expensive": ["Costing a lot of money.", "昂貴的"], "impending": ["Approaching or about to happen.", "即將發生的；迫近的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"]});

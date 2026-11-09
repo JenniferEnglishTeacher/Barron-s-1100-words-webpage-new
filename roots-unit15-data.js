@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "conspiracy",
     "pos": "n.",
     "definition": "A secret plan by a group to do something illegal or harmful.",
-    "chinese": "陰謀;共謀",
+    "chinese": "陰謀；共謀",
     "synonyms": "",
     "root": "con- (together) + spirare (to breathe), from Latin",
     "group": "co；com = 共同；一起",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A secret plan by a group to do something illegal or harmful.",
-     "chinese": "陰謀;共謀"
+     "chinese": "陰謀；共謀"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "construct",
     "pos": "v./n.",
     "definition": "To build or form something; an idea or theory built from various elements.",
-    "chinese": "建造;構想",
+    "chinese": "建造；構想",
     "synonyms": "",
     "root": "con- (together) + struere (to build), from Latin",
     "group": "co；com = 共同；一起",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To build or form something; an idea or theory built from various elements.",
-     "chinese": "建造;構想"
+     "chinese": "建造；構想"
     }
    },
    {
     "word": "construction",
     "pos": "n.",
     "definition": "The process of building something; the way something is put together.",
-    "chinese": "建造;構造",
+    "chinese": "建造；構造",
     "synonyms": "",
     "root": "con- (together) + struere (to build), from Latin",
     "group": "co；com = 共同；一起",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of building something; the way something is put together.",
-     "chinese": "建造;構造"
+     "chinese": "建造；構造"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "contemn",
     "pos": "v.",
     "definition": "To treat or regard with contempt.",
-    "chinese": "藐視;蔑視",
+    "chinese": "藐視；蔑視",
     "synonyms": "",
     "root": "con- (thoroughly) + temnere (to despise), from Latin",
     "group": "co；com = 共同；一起",
@@ -292,7 +292,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To treat or regard with contempt.",
-     "chinese": "藐視;蔑視"
+     "chinese": "藐視；蔑視"
     }
    },
    {
@@ -318,7 +318,7 @@ window.FLASHCARD_UNITS = {
     "word": "contemplate",
     "pos": "v.",
     "definition": "To think deeply about something.",
-    "chinese": "沉思;考慮",
+    "chinese": "沉思；考慮",
     "synonyms": "",
     "root": "con- (together) + templum (sacred space), from Latin",
     "group": "co；com = 共同；一起",
@@ -332,14 +332,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To think deeply about something.",
-     "chinese": "沉思;考慮"
+     "chinese": "沉思；考慮"
     }
    },
    {
     "word": "contemplative",
     "pos": "adj.",
     "definition": "Expressing or involving deep, quiet thought.",
-    "chinese": "沉思的;冥想的",
+    "chinese": "沉思的；冥想的",
     "synonyms": "",
     "root": "con- (together) + templum (sacred space), from Latin",
     "group": "co；com = 共同；一起",
@@ -351,7 +351,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing or involving deep, quiet thought.",
-     "chinese": "沉思的;冥想的"
+     "chinese": "沉思的；冥想的"
     }
    },
    {
@@ -415,7 +415,7 @@ window.FLASHCARD_UNITS = {
     "word": "contemptible",
     "pos": "adj.",
     "definition": "Deserving scorn or disdain.",
-    "chinese": "可鄙的;卑劣的",
+    "chinese": "可鄙的；卑劣的",
     "synonyms": "",
     "root": "con- (thoroughly) + temnere (to despise), from Latin",
     "group": "co；com = 共同；一起",
@@ -427,7 +427,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving scorn or disdain.",
-     "chinese": "可鄙的;卑劣的"
+     "chinese": "可鄙的；卑劣的"
     }
    },
    {
@@ -472,7 +472,7 @@ window.FLASHCARD_UNITS = {
     "word": "contemptuousness",
     "pos": "n.",
     "definition": "The quality of showing scorn or disrespect.",
-    "chinese": "輕蔑;鄙視",
+    "chinese": "輕蔑；鄙視",
     "synonyms": "",
     "root": "con- (thoroughly) + temnere (to despise), from Latin",
     "group": "co；com = 共同；一起",
@@ -484,14 +484,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of showing scorn or disrespect.",
-     "chinese": "輕蔑;鄙視"
+     "chinese": "輕蔑；鄙視"
     }
    },
    {
     "word": "contend",
     "pos": "v.",
     "definition": "To assert something as a position in an argument; to struggle.",
-    "chinese": "主張;競爭",
+    "chinese": "主張；競爭",
     "synonyms": "",
     "root": "con- (together) + tendere (to stretch), from Latin",
     "group": "co；com = 共同；一起",
@@ -503,14 +503,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To assert something as a position in an argument; to struggle.",
-     "chinese": "主張;競爭"
+     "chinese": "主張；競爭"
     }
    },
    {
     "word": "contention",
     "pos": "n.",
     "definition": "A point asserted in an argument; heated disagreement.",
-    "chinese": "論點;爭執",
+    "chinese": "論點；爭執",
     "synonyms": "",
     "root": "con- (together) + tendere (to stretch), from Latin",
     "group": "co；com = 共同；一起",
@@ -522,7 +522,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A point asserted in an argument; heated disagreement.",
-     "chinese": "論點;爭執"
+     "chinese": "論點；爭執"
     }
    },
    {
@@ -567,7 +567,7 @@ window.FLASHCARD_UNITS = {
     "word": "continual",
     "pos": "adj.",
     "definition": "Happening frequently, with intervals in between.",
-    "chinese": "頻繁的;反覆的",
+    "chinese": "頻繁的；反覆的",
     "synonyms": "",
     "root": "con- (together) + tenere (to hold), from Latin",
     "group": "co；com = 共同；一起",
@@ -579,7 +579,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Happening frequently, with intervals in between.",
-     "chinese": "頻繁的;反覆的"
+     "chinese": "頻繁的；反覆的"
     }
    },
    {
@@ -664,7 +664,7 @@ window.FLASHCARD_UNITS = {
     "word": "contrition",
     "pos": "n.",
     "definition": "Sincere remorse for wrongdoing.",
-    "chinese": "懺悔;悔恨",
+    "chinese": "懺悔；悔恨",
     "synonyms": "",
     "root": "com- (thoroughly) + terere (to grind), from Latin",
     "group": "co；com = 共同；一起",
@@ -676,14 +676,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sincere remorse for wrongdoing.",
-     "chinese": "懺悔;悔恨"
+     "chinese": "懺悔；悔恨"
     }
    },
    {
     "word": "contrivance",
     "pos": "n.",
     "definition": "A clever scheme or mechanical device.",
-    "chinese": "巧計;裝置",
+    "chinese": "巧計；裝置",
     "synonyms": "",
     "root": "com- (together) + trovare (to find), from Old French",
     "group": "co；com = 共同；一起",
@@ -695,7 +695,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A clever scheme or mechanical device.",
-     "chinese": "巧計;裝置"
+     "chinese": "巧計；裝置"
     }
    },
    {
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "word": "contumacious",
     "pos": "adj.",
     "definition": "Stubbornly disobedient to authority.",
-    "chinese": "頑抗的;不服從的",
+    "chinese": "頑抗的；不服從的",
     "synonyms": "",
     "root": "con- (intensive) + tumere (to swell), from Latin",
     "group": "co；com = 共同；一起",
@@ -754,14 +754,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stubbornly disobedient to authority.",
-     "chinese": "頑抗的;不服從的"
+     "chinese": "頑抗的；不服從的"
     }
    },
    {
     "word": "contumelious",
     "pos": "adj.",
     "definition": "Insultingly arrogant or scornful.",
-    "chinese": "侮辱性的;傲慢無禮的",
+    "chinese": "侮辱性的；傲慢無禮的",
     "synonyms": "",
     "root": "con- (intensive) + tumere (to swell), from Latin",
     "group": "co；com = 共同；一起",
@@ -773,7 +773,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Insultingly arrogant or scornful.",
-     "chinese": "侮辱性的;傲慢無禮的"
+     "chinese": "侮辱性的；傲慢無禮的"
     }
    },
    {
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "word": "conventional",
     "pos": "adj.",
     "definition": "Based on accepted customs or standards.",
-    "chinese": "傳統的;因循的",
+    "chinese": "傳統的；因循的",
     "synonyms": "",
     "root": "con- (together) + venire (to come), from Latin",
     "group": "co；com = 共同；一起",
@@ -870,14 +870,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Based on accepted customs or standards.",
-     "chinese": "傳統的;因循的"
+     "chinese": "傳統的；因循的"
     }
    },
    {
     "word": "conversant",
     "pos": "adj.",
     "definition": "Familiar with or knowledgeable about a subject.",
-    "chinese": "熟悉的;精通的",
+    "chinese": "熟悉的；精通的",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "co；com = 共同；一起",
@@ -889,14 +889,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Familiar with or knowledgeable about a subject.",
-     "chinese": "熟悉的;精通的"
+     "chinese": "熟悉的；精通的"
     }
    },
    {
     "word": "conversation",
     "pos": "n.",
     "definition": "An informal talk between people.",
-    "chinese": "對話;交談",
+    "chinese": "對話；交談",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "co；com = 共同；一起",
@@ -908,14 +908,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An informal talk between people.",
-     "chinese": "對話;交談"
+     "chinese": "對話；交談"
     }
    },
    {
     "word": "converse",
     "pos": "v./adj.",
     "definition": "To talk informally; being the opposite.",
-    "chinese": "交談;相反的",
+    "chinese": "交談；相反的",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "co；com = 共同；一起",
@@ -929,7 +929,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To talk informally; being the opposite.",
-     "chinese": "交談;相反的"
+     "chinese": "交談；相反的"
     }
    },
    {
@@ -2176,4 +2176,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conspicuous": ["Easily noticed or standing out.", "顯眼的；引人注目的"], "conspiracy": ["A secret plan by a group to do something illegal or harmful.", "陰謀;共謀"], "constant": ["Occurring continuously.", "持續不斷的"], "consternation": ["Dismay.", "驚愕"], "constipate": ["To cause difficulty in emptying the bowels.", "使便秘"], "constituent": ["An essential part.", "組成部分；選民"], "constrain": ["To forcibly restrict.", "限制；約束"], "constrict": ["To limit, bind, squeeze.", "壓縮；束緊"], "construct": ["To build or form something; an idea or theory built from various elements.", "建造;構想"], "construction": ["The process of building something; the way something is put together.", "建造;構造"], "construe": ["To make a deduction, to infer.", "解釋；推斷"], "consume": ["To use up or destroy something; to eat or drink something.", "消耗；食用"], "consummate": ["Complete, of the highest degree.", "圓滿的；技藝高超的"], "consumption": ["The act of consuming.", "消耗；消費"], "contemn": ["To treat or regard with contempt.", "藐視;蔑視"], "contemner": ["A person who shows contempt for something.", "蔑視者"], "contemplate": ["To think deeply about something.", "沉思;考慮"], "contemplative": ["Expressing or involving deep, quiet thought.", "沉思的;冥想的"], "contemporaneous": ["Existing during the same time.", "同時代的；同時發生的"], "contemporary": ["Modern, new; relating to the same time period.", "當代的"], "contempt": ["Lack of respect accompanied by a feeling of intense dislike.", "輕蔑；鄙視"], "contemptible": ["Deserving scorn or disdain.", "可鄙的;卑劣的"], "contemptuous": ["Expressing a feeling that something is worthless.", "蔑視的"], "contemptuously": ["Without respect; in a disdainful manner.", "輕蔑地"], "contemptuousness": ["The quality of showing scorn or disrespect.", "輕蔑;鄙視"], "contend": ["To assert something as a position in an argument; to struggle.", "主張;競爭"], "contention": ["A point asserted in an argument; heated disagreement.", "論點;爭執"], "contentious": ["Quarrelsome; belligerent.", "好爭論的"], "contingent": ["Dependent on something else.", "視情況而定的；偶然的"], "continual": ["Happening frequently, with intervals in between.", "頻繁的;反覆的"], "continue": ["To persist in an activity or process without stopping.", "繼續"], "continuous": ["Without interruption; unbroken.", "連續不斷的"], "contort": ["To twist violently.", "扭曲；歪曲"], "contrite": ["Penitent, eager to be forgiven.", "懊悔的；悔過的"], "contrition": ["Sincere remorse for wrongdoing.", "懺悔;悔恨"], "contrivance": ["A clever scheme or mechanical device.", "巧計;裝置"], "contrive": ["To plan or devise something, often in a clever or creative manner.", "策劃；設計"], "contrived": ["Artificial or overly planned.", "做作的；牽強的"], "contumacious": ["Stubbornly disobedient to authority.", "頑抗的;不服從的"], "contumelious": ["Insultingly arrogant or scornful.", "侮辱性的;傲慢無禮的"], "contusion": ["Bruise, injury.", "挫傷；瘀傷"], "convalesce": ["To recover from an illness.", "康復"], "convene": ["To call together.", "召集；集會"], "convention": ["An assembly of people.", "大會；慣例"], "conventional": ["Based on accepted customs or standards.", "傳統的;因循的"], "conversant": ["Familiar with or knowledgeable about a subject.", "熟悉的;精通的"], "conversation": ["An informal talk between people.", "對話;交談"], "converse": ["To talk informally; being the opposite.", "交談;相反的"], "convert": ["To change something into a different form, state, or use.", "轉變；使轉換"], "convex": ["Having an outline or surface curving outward.", "凸的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conspicuous": ["Easily noticed or standing out.", "顯眼的；引人注目的"], "conspiracy": ["A secret plan by a group to do something illegal or harmful.", "陰謀；共謀"], "constant": ["Occurring continuously.", "持續不斷的"], "consternation": ["Dismay.", "驚愕"], "constipate": ["To cause difficulty in emptying the bowels.", "使便秘"], "constituent": ["An essential part.", "組成部分；選民"], "constrain": ["To forcibly restrict.", "限制；約束"], "constrict": ["To limit, bind, squeeze.", "壓縮；束緊"], "construct": ["To build or form something; an idea or theory built from various elements.", "建造；構想"], "construction": ["The process of building something; the way something is put together.", "建造；構造"], "construe": ["To make a deduction, to infer.", "解釋；推斷"], "consume": ["To use up or destroy something; to eat or drink something.", "消耗；食用"], "consummate": ["Complete, of the highest degree.", "圓滿的；技藝高超的"], "consumption": ["The act of consuming.", "消耗；消費"], "contemn": ["To treat or regard with contempt.", "藐視；蔑視"], "contemner": ["A person who shows contempt for something.", "蔑視者"], "contemplate": ["To think deeply about something.", "沉思；考慮"], "contemplative": ["Expressing or involving deep, quiet thought.", "沉思的；冥想的"], "contemporaneous": ["Existing during the same time.", "同時代的；同時發生的"], "contemporary": ["Modern, new; relating to the same time period.", "當代的"], "contempt": ["Lack of respect accompanied by a feeling of intense dislike.", "輕蔑；鄙視"], "contemptible": ["Deserving scorn or disdain.", "可鄙的；卑劣的"], "contemptuous": ["Expressing a feeling that something is worthless.", "蔑視的"], "contemptuously": ["Without respect; in a disdainful manner.", "輕蔑地"], "contemptuousness": ["The quality of showing scorn or disrespect.", "輕蔑；鄙視"], "contend": ["To assert something as a position in an argument; to struggle.", "主張；競爭"], "contention": ["A point asserted in an argument; heated disagreement.", "論點；爭執"], "contentious": ["Quarrelsome; belligerent.", "好爭論的"], "contingent": ["Dependent on something else.", "視情況而定的；偶然的"], "continual": ["Happening frequently, with intervals in between.", "頻繁的；反覆的"], "continue": ["To persist in an activity or process without stopping.", "繼續"], "continuous": ["Without interruption; unbroken.", "連續不斷的"], "contort": ["To twist violently.", "扭曲；歪曲"], "contrite": ["Penitent, eager to be forgiven.", "懊悔的；悔過的"], "contrition": ["Sincere remorse for wrongdoing.", "懺悔；悔恨"], "contrivance": ["A clever scheme or mechanical device.", "巧計；裝置"], "contrive": ["To plan or devise something, often in a clever or creative manner.", "策劃；設計"], "contrived": ["Artificial or overly planned.", "做作的；牽強的"], "contumacious": ["Stubbornly disobedient to authority.", "頑抗的；不服從的"], "contumelious": ["Insultingly arrogant or scornful.", "侮辱性的；傲慢無禮的"], "contusion": ["Bruise, injury.", "挫傷；瘀傷"], "convalesce": ["To recover from an illness.", "康復"], "convene": ["To call together.", "召集；集會"], "convention": ["An assembly of people.", "大會；慣例"], "conventional": ["Based on accepted customs or standards.", "傳統的；因循的"], "conversant": ["Familiar with or knowledgeable about a subject.", "熟悉的；精通的"], "conversation": ["An informal talk between people.", "對話；交談"], "converse": ["To talk informally; being the opposite.", "交談；相反的"], "convert": ["To change something into a different form, state, or use.", "轉變；使轉換"], "convex": ["Having an outline or surface curving outward.", "凸的"]});

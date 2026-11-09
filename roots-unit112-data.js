@@ -164,7 +164,7 @@ window.FLASHCARD_UNITS = {
     "word": "logorrhea",
     "pos": "n.",
     "definition": "Excessive and often incoherent talkativeness.",
-    "chinese": "多言症;滔滔不絕",
+    "chinese": "多言症；滔滔不絕",
     "synonyms": "",
     "root": "logos (word) + rhoia (flow), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -176,7 +176,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive and often incoherent talkativeness.",
-     "chinese": "多言症;滔滔不絕"
+     "chinese": "多言症；滔滔不絕"
     }
    },
    {
@@ -202,7 +202,7 @@ window.FLASHCARD_UNITS = {
     "word": "loquacity",
     "pos": "n.",
     "definition": "Excessive talkativeness.",
-    "chinese": "多話;健談",
+    "chinese": "多話；健談",
     "synonyms": "",
     "root": "loquor (speak), from Latin",
     "group": "locu；log；loqu = 說話",
@@ -214,7 +214,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive talkativeness.",
-     "chinese": "多話;健談"
+     "chinese": "多話；健談"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "multiloquent",
     "pos": "adj.",
     "definition": "Talking excessively; very talkative.",
-    "chinese": "多話的;喋喋不休的",
+    "chinese": "多話的；喋喋不休的",
     "synonyms": "",
     "root": "multus (many) + loqui (to speak), from Latin",
     "group": "locu；log；loqu = 說話",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Talking excessively; very talkative.",
-     "chinese": "多話的;喋喋不休的"
+     "chinese": "多話的；喋喋不休的"
     }
    },
    {
     "word": "neologism",
     "pos": "n.",
     "definition": "A newly coined word or expression.",
-    "chinese": "新詞;新造詞語",
+    "chinese": "新詞；新造詞語",
     "synonyms": "",
     "root": "neos (new) + logos (word), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -311,7 +311,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A newly coined word or expression.",
-     "chinese": "新詞;新造詞語"
+     "chinese": "新詞；新造詞語"
     }
    },
    {
@@ -358,7 +358,7 @@ window.FLASHCARD_UNITS = {
     "word": "neology",
     "pos": "n.",
     "definition": "The coining or use of new words.",
-    "chinese": "新詞創造;新詞學",
+    "chinese": "新詞創造；新詞學",
     "synonyms": "",
     "root": "neos (new) + logos (word), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -370,7 +370,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The coining or use of new words.",
-     "chinese": "新詞創造;新詞學"
+     "chinese": "新詞創造；新詞學"
     }
    },
    {
@@ -491,7 +491,7 @@ window.FLASHCARD_UNITS = {
     "word": "outlaw",
     "pos": "n./v.",
     "definition": "A fugitive from the law; to make illegal.",
-    "chinese": "逃犯;宣布為非法",
+    "chinese": "逃犯；宣布為非法",
     "synonyms": "",
     "root": "utlagi (outlawed person), from Old Norse ut (out) + log (law)",
     "group": "locu；log；loqu = 說話",
@@ -503,14 +503,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fugitive from the law; to make illegal.",
-     "chinese": "逃犯;宣布為非法"
+     "chinese": "逃犯；宣布為非法"
     }
    },
    {
     "word": "pantologist",
     "pos": "n.",
     "definition": "A person who claims or attempts universal knowledge.",
-    "chinese": "博識者;全知論者",
+    "chinese": "博識者；全知論者",
     "synonyms": "",
     "root": "pan- (all) + logos (study), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -522,7 +522,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who claims or attempts universal knowledge.",
-     "chinese": "博識者;全知論者"
+     "chinese": "博識者；全知論者"
     }
    },
    {
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "word": "tautological",
     "pos": "adj.",
     "definition": "Needlessly repeating the same idea in different words.",
-    "chinese": "同義反覆的;贅述的",
+    "chinese": "同義反覆的；贅述的",
     "synonyms": "",
     "root": "tautologia, from Greek tauto (the same) + logos (word)",
     "group": "locu；log；loqu = 說話",
@@ -847,7 +847,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Needlessly repeating the same idea in different words.",
-     "chinese": "同義反覆的;贅述的"
+     "chinese": "同義反覆的；贅述的"
     }
    },
    {
@@ -2084,4 +2084,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"logogogue": ["A person who dictates the use of words; a dogmatic authority on language.", "語言獨裁者"], "logolept": ["A person obsessed with words.", "文字癡迷者"], "logomacher": ["A person who engages in disputes about words or their meanings.", "文字爭論者"], "logomachist": ["A person who argues about words or engages in wordy disputes.", "文字爭論者"], "logomachize": ["To engage in a dispute about words.", "進行文字爭論"], "logomachy": ["A dispute about words or their meanings.", "文字之爭"], "logomaniac": ["A person with an obsessive interest in words.", "文字狂熱者"], "logophile": ["A lover of words.", "愛字之人"], "logorrhea": ["Excessive and often incoherent talkativeness.", "多言症;滔滔不絕"], "loquacious": ["Very talkative; liking to talk; garrulous.", "話多的；饒舌的"], "loquacity": ["Excessive talkativeness.", "多話;健談"], "macrologist": ["A person given to long-winded, redundant speech.", "囉唆多言的人"], "magniloquent": ["Lofty in style.", "誇張的；華麗辭藻的"], "monologue": ["A dramatic speech by a single actor.", "獨白"], "multiloquent": ["Talking excessively; very talkative.", "多話的;喋喋不休的"], "neologism": ["A newly coined word or expression.", "新詞;新造詞語"], "neologist": ["A person who coins new words or introduces new doctrines.", "造新詞者"], "neologize": ["To coin or use new words.", "創造新詞"], "neology": ["The coining or use of new words.", "新詞創造;新詞學"], "neurologist": ["A doctor specializing in disorders of the nervous system.", "神經科醫師"], "neurology": ["The branch of medicine that deals with the nervous system.", "神經學"], "obloquy": ["Dishonor, disgrace, shame.", "破口大罵；恥辱"], "ontology": ["The branch of philosophy concerned with the nature of being and existence.", "本體論"], "ophthalmologist": ["A doctor who diagnoses and treats diseases of the eye.", "眼科醫師"], "ophthalmology": ["The branch of medicine concerned with the eye and its diseases.", "眼科學"], "outlaw": ["A fugitive from the law; to make illegal.", "逃犯;宣布為非法"], "pantologist": ["A person who claims or attempts universal knowledge.", "博識者;全知論者"], "pathological": ["Relating to the study of diseases.", "病理的；病態的"], "pathology": ["A deviation from the normal.", "病理學；病態"], "philologist": ["A scholar who studies the history and structure of languages.", "語文學家"], "philology": ["The humanistic study of language and literature.", "語文學；文獻學"], "phobiologist": ["A specialist who studies phobias and irrational fears.", "恐懼症研究者"], "polyogize": ["A rare or nonstandard term relating to speaking or writing at excessive length.", "冗長論述(罕見詞)"], "prologue": ["An introductory section of a novel or other literary work.", "序言；前言"], "psychologist": ["A specialist in the science of mental life.", "心理學家"], "relocate": ["To move to a new place.", "搬遷"], "sanctiloquent": ["Speaking in a holy or sanctimonious manner.", "以聖潔口吻說話的"], "sociologist": ["A scientist who studies human society and social behavior.", "社會學家"], "sociology": ["The study and classification of human societies.", "社會學"], "soliloquy": ["Speech you make to yourself.", "獨白"], "somniloquent": ["Talking while asleep.", "說夢話的"], "somniloquist": ["A person who talks while asleep.", "說夢話的人"], "suavilquent": ["Speaking in a smooth, suave manner (rare word).", "談吐圓滑的(罕用詞)"], "tautological": ["Needlessly repeating the same idea in different words.", "同義反覆的;贅述的"], "uxorilocal": ["Relating to residence with or near the wife's family after marriage.", "從妻居的"], "ventriloquism": ["The art of speaking so that the voice seems to come from elsewhere.", "腹語術"], "zoologist": ["A scientist who studies animals.", "動物學家"], "zoology": ["The branch of biology that studies animals.", "動物學"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"logogogue": ["A person who dictates the use of words; a dogmatic authority on language.", "語言獨裁者"], "logolept": ["A person obsessed with words.", "文字癡迷者"], "logomacher": ["A person who engages in disputes about words or their meanings.", "文字爭論者"], "logomachist": ["A person who argues about words or engages in wordy disputes.", "文字爭論者"], "logomachize": ["To engage in a dispute about words.", "進行文字爭論"], "logomachy": ["A dispute about words or their meanings.", "文字之爭"], "logomaniac": ["A person with an obsessive interest in words.", "文字狂熱者"], "logophile": ["A lover of words.", "愛字之人"], "logorrhea": ["Excessive and often incoherent talkativeness.", "多言症；滔滔不絕"], "loquacious": ["Very talkative; liking to talk; garrulous.", "話多的；饒舌的"], "loquacity": ["Excessive talkativeness.", "多話；健談"], "macrologist": ["A person given to long-winded, redundant speech.", "囉唆多言的人"], "magniloquent": ["Lofty in style.", "誇張的；華麗辭藻的"], "monologue": ["A dramatic speech by a single actor.", "獨白"], "multiloquent": ["Talking excessively; very talkative.", "多話的；喋喋不休的"], "neologism": ["A newly coined word or expression.", "新詞；新造詞語"], "neologist": ["A person who coins new words or introduces new doctrines.", "造新詞者"], "neologize": ["To coin or use new words.", "創造新詞"], "neology": ["The coining or use of new words.", "新詞創造；新詞學"], "neurologist": ["A doctor specializing in disorders of the nervous system.", "神經科醫師"], "neurology": ["The branch of medicine that deals with the nervous system.", "神經學"], "obloquy": ["Dishonor, disgrace, shame.", "破口大罵；恥辱"], "ontology": ["The branch of philosophy concerned with the nature of being and existence.", "本體論"], "ophthalmologist": ["A doctor who diagnoses and treats diseases of the eye.", "眼科醫師"], "ophthalmology": ["The branch of medicine concerned with the eye and its diseases.", "眼科學"], "outlaw": ["A fugitive from the law; to make illegal.", "逃犯；宣布為非法"], "pantologist": ["A person who claims or attempts universal knowledge.", "博識者；全知論者"], "pathological": ["Relating to the study of diseases.", "病理的；病態的"], "pathology": ["A deviation from the normal.", "病理學；病態"], "philologist": ["A scholar who studies the history and structure of languages.", "語文學家"], "philology": ["The humanistic study of language and literature.", "語文學；文獻學"], "phobiologist": ["A specialist who studies phobias and irrational fears.", "恐懼症研究者"], "polyogize": ["A rare or nonstandard term relating to speaking or writing at excessive length.", "冗長論述(罕見詞)"], "prologue": ["An introductory section of a novel or other literary work.", "序言；前言"], "psychologist": ["A specialist in the science of mental life.", "心理學家"], "relocate": ["To move to a new place.", "搬遷"], "sanctiloquent": ["Speaking in a holy or sanctimonious manner.", "以聖潔口吻說話的"], "sociologist": ["A scientist who studies human society and social behavior.", "社會學家"], "sociology": ["The study and classification of human societies.", "社會學"], "soliloquy": ["Speech you make to yourself.", "獨白"], "somniloquent": ["Talking while asleep.", "說夢話的"], "somniloquist": ["A person who talks while asleep.", "說夢話的人"], "suavilquent": ["Speaking in a smooth, suave manner (rare word).", "談吐圓滑的(罕用詞)"], "tautological": ["Needlessly repeating the same idea in different words.", "同義反覆的；贅述的"], "uxorilocal": ["Relating to residence with or near the wife's family after marriage.", "從妻居的"], "ventriloquism": ["The art of speaking so that the voice seems to come from elsewhere.", "腹語術"], "zoologist": ["A scientist who studies animals.", "動物學家"], "zoology": ["The branch of biology that studies animals.", "動物學"]});

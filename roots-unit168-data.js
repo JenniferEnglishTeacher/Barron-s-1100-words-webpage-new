@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "bombast",
     "pos": "n.",
     "definition": "Pompous, self-important language.",
-    "chinese": "誇大之詞;浮誇言辭",
+    "chinese": "誇大之詞；浮誇言辭",
     "synonyms": "",
     "root": "bombax (cotton padding, from Latin)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pompous, self-important language.",
-     "chinese": "誇大之詞;浮誇言辭"
+     "chinese": "誇大之詞；浮誇言辭"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "bona fide",
     "pos": "adj.",
     "definition": "Genuine; made in good faith.",
-    "chinese": "真正的;真誠的",
+    "chinese": "真正的；真誠的",
     "synonyms": "",
     "root": "bona fide (in good faith, from Latin)",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Genuine; made in good faith.",
-     "chinese": "真正的;真誠的"
+     "chinese": "真正的；真誠的"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "bonanza",
     "pos": "n.",
     "definition": "A situation that brings sudden wealth or good fortune.",
-    "chinese": "意外之財;財源滾滾",
+    "chinese": "意外之財；財源滾滾",
     "synonyms": "",
     "root": "bonanza (prosperity, fair weather, from Spanish)",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A situation that brings sudden wealth or good fortune.",
-     "chinese": "意外之財;財源滾滾"
+     "chinese": "意外之財；財源滾滾"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "boor",
     "pos": "n.",
     "definition": "A rude, ill-mannered person.",
-    "chinese": "粗魯的人;鄉巴佬",
+    "chinese": "粗魯的人；鄉巴佬",
     "synonyms": "",
     "root": "boer (farmer, from Dutch)",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rude, ill-mannered person.",
-     "chinese": "粗魯的人;鄉巴佬"
+     "chinese": "粗魯的人；鄉巴佬"
     }
    },
    {
     "word": "boorish",
     "pos": "adj.",
     "definition": "Rude and ill-mannered.",
-    "chinese": "粗魯的;無禮的",
+    "chinese": "粗魯的；無禮的",
     "synonyms": "",
     "root": "boer (farmer, from Dutch)",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rude and ill-mannered.",
-     "chinese": "粗魯的;無禮的"
+     "chinese": "粗魯的；無禮的"
     }
    },
    {
     "word": "boot",
     "pos": "n./v.",
     "definition": "A sturdy shoe covering the ankle; to kick or forcibly remove.",
-    "chinese": "靴子;踢出",
+    "chinese": "靴子；踢出",
     "synonyms": "",
     "root": "bote (boot, from Old French)",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A sturdy shoe covering the ankle; to kick or forcibly remove.",
-     "chinese": "靴子;踢出"
+     "chinese": "靴子；踢出"
     }
    },
    {
     "word": "bootless",
     "pos": "adj.",
     "definition": "Useless or unavailing.",
-    "chinese": "無用的;徒勞的",
+    "chinese": "無用的；徒勞的",
     "synonyms": "",
     "root": "bot (remedy, from Old English) + -less",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Useless or unavailing.",
-     "chinese": "無用的;徒勞的"
+     "chinese": "無用的；徒勞的"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "boredom",
     "pos": "n.",
     "definition": "The state of being weary and uninterested.",
-    "chinese": "無聊;厭倦",
+    "chinese": "無聊；厭倦",
     "synonyms": "",
     "root": "bore + -dom",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being weary and uninterested.",
-     "chinese": "無聊;厭倦"
+     "chinese": "無聊；厭倦"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "bounteousness",
     "pos": "n.",
     "definition": "Generosity in giving; abundance.",
-    "chinese": "慷慨;豐盛",
+    "chinese": "慷慨；豐盛",
     "synonyms": "",
     "root": "bonitas (goodness, from Latin)",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Generosity in giving; abundance.",
-     "chinese": "慷慨;豐盛"
+     "chinese": "慷慨；豐盛"
     }
    },
    {
     "word": "bountiful",
     "pos": "adj.",
     "definition": "Abundant; giving generously.",
-    "chinese": "豐盛的;慷慨的",
+    "chinese": "豐盛的；慷慨的",
     "synonyms": "",
     "root": "bonitas (goodness, from Latin)",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Abundant; giving generously.",
-     "chinese": "豐盛的;慷慨的"
+     "chinese": "豐盛的；慷慨的"
     }
    },
    {
     "word": "bountifulness",
     "pos": "n.",
     "definition": "The quality of being generous and abundant.",
-    "chinese": "慷慨大方;豐饒",
+    "chinese": "慷慨大方；豐饒",
     "synonyms": "",
     "root": "bonitas (goodness, from Latin)",
     "group": "",
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being generous and abundant.",
-     "chinese": "慷慨大方;豐饒"
+     "chinese": "慷慨大方；豐饒"
     }
    },
    {
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "word": "bracing",
     "pos": "adj.",
     "definition": "Invigorating and refreshing, especially cold air.",
-    "chinese": "令人振奮的;清爽的",
+    "chinese": "令人振奮的；清爽的",
     "synonyms": "",
     "root": "brace (to support, tighten)",
     "group": "",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Invigorating and refreshing, especially cold air.",
-     "chinese": "令人振奮的;清爽的"
+     "chinese": "令人振奮的；清爽的"
     }
    },
    {
     "word": "brag",
     "pos": "v./n.",
     "definition": "To boast proudly about oneself; a boastful statement.",
-    "chinese": "吹噓;自誇",
+    "chinese": "吹噓；自誇",
     "synonyms": "",
     "root": "braggen (to boast, from Middle English)",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To boast proudly about oneself; a boastful statement.",
-     "chinese": "吹噓;自誇"
+     "chinese": "吹噓；自誇"
     }
    },
    {
     "word": "braggadocio",
     "pos": "n.",
     "definition": "Boastful or arrogant behavior.",
-    "chinese": "吹噓;自誇的言行",
+    "chinese": "吹噓；自誇的言行",
     "synonyms": "",
     "root": "from Braggadocchio, a character in Spenser's \"The Faerie Queene\"",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Boastful or arrogant behavior.",
-     "chinese": "吹噓;自誇的言行"
+     "chinese": "吹噓；自誇的言行"
     }
    },
    {
@@ -852,7 +852,7 @@ window.FLASHCARD_UNITS = {
     "word": "brilliant",
     "pos": "adj.",
     "definition": "Exceptionally clever, talented, or bright.",
-    "chinese": "才華洋溢的;燦爛的",
+    "chinese": "才華洋溢的；燦爛的",
     "synonyms": "",
     "root": "brillare (to shine, from Italian)",
     "group": "",
@@ -864,7 +864,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exceptionally clever, talented, or bright.",
-     "chinese": "才華洋溢的;燦爛的"
+     "chinese": "才華洋溢的；燦爛的"
     }
    },
    {
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
     "word": "briskness",
     "pos": "n.",
     "definition": "Quickness and energy in movement or manner.",
-    "chinese": "輕快;敏捷",
+    "chinese": "輕快；敏捷",
     "synonyms": "",
     "root": "brusque (lively, from French)",
     "group": "",
@@ -902,14 +902,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Quickness and energy in movement or manner.",
-     "chinese": "輕快;敏捷"
+     "chinese": "輕快；敏捷"
     }
    },
    {
     "word": "bristle",
     "pos": "v./n.",
     "definition": "To react with anger or indignation; a short, stiff hair.",
-    "chinese": "生氣;豎毛;鬃毛",
+    "chinese": "生氣；豎毛；鬃毛",
     "synonyms": "",
     "root": "byrst (bristle, from Old English)",
     "group": "",
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To react with anger or indignation; a short, stiff hair.",
-     "chinese": "生氣;豎毛;鬃毛"
+     "chinese": "生氣；豎毛；鬃毛"
     }
    },
    {
@@ -947,7 +947,7 @@ window.FLASHCARD_UNITS = {
     "word": "broad",
     "pos": "adj.",
     "definition": "Wide in extent or scope.",
-    "chinese": "寬廣的;廣泛的",
+    "chinese": "寬廣的；廣泛的",
     "synonyms": "",
     "root": "brad (broad, from Old English)",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wide in extent or scope.",
-     "chinese": "寬廣的;廣泛的"
+     "chinese": "寬廣的；廣泛的"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bold": ["Courageous or striking.", "大膽的"], "bolster": ["To support; to strengthen.", "支持；加強"], "bombast": ["Pompous, self-important language.", "誇大之詞;浮誇言辭"], "bombastic": ["High-sounding but with little meaning; inflated.", "誇誇其談的；浮誇的"], "bona fide": ["Genuine; made in good faith.", "真正的;真誠的"], "bonafide": ["Genuine.", "真實的；真誠的"], "bonanza": ["A situation that brings sudden wealth or good fortune.", "意外之財;財源滾滾"], "bonehead": ["A stupid or foolish person.", "笨蛋"], "bookmobile": ["A vehicle equipped as a traveling library.", "行動圖書館車"], "boon": ["A gift or blessing.", "恩惠；福音"], "boor": ["A rude, ill-mannered person.", "粗魯的人;鄉巴佬"], "boorish": ["Rude and ill-mannered.", "粗魯的;無禮的"], "boot": ["A sturdy shoe covering the ankle; to kick or forcibly remove.", "靴子;踢出"], "bootless": ["Useless or unavailing.", "無用的;徒勞的"], "borax": ["A white mineral compound used in cleaning products and glassmaking.", "硼砂"], "borborygmus": ["A rumbling sound made by movement of gas in the intestines.", "腸鳴音"], "boredom": ["The state of being weary and uninterested.", "無聊;厭倦"], "borough-english": ["An English custom of inheritance by the youngest son rather than the eldest.", "幼子繼承制(英國古習俗)"], "borrow": ["To take temporarily.", "借"], "botanist": ["A scientist who studies plants.", "植物學家"], "botany": ["The branch of biology that studies plants.", "植物學"], "bougainvillea": ["A tropical, thorny vine with brightly colored flower-like bracts.", "九重葛"], "bounteousness": ["Generosity in giving; abundance.", "慷慨;豐盛"], "bountiful": ["Abundant; giving generously.", "豐盛的;慷慨的"], "bountifulness": ["The quality of being generous and abundant.", "慷慨大方;豐饒"], "bourgeois": ["A middle-class person, capitalist.", "資產階級；中產階級者"], "boustrophedon": ["A form of writing in which lines run alternately left-to-right and right-to-left.", "牛耕式書寫法"], "boustrophendonically": ["In the manner of boustrophedon writing (alternating direction line by line).", "以牛耕式書寫方式"], "bovine": ["Any of various wild or domestic cattle.", "牛的；牛屬的"], "bowdlerize": ["To remove indecent or offensive material from a text, often excessively.", "刪改(不雅內容)"], "boxer": ["A person who fights with their fists as a sport.", "拳擊手"], "boxing": ["The sport of fighting with fists, typically wearing padded gloves.", "拳擊(運動)"], "brachiate": ["To move by swinging from one hold to another using the arms, as apes do.", "(如猿猴般)臂躍前進"], "brachiation": ["The act of moving by swinging from the arms, as apes do.", "臂躍運動(猿猴移動方式)"], "bracing": ["Invigorating and refreshing, especially cold air.", "令人振奮的;清爽的"], "brag": ["To boast proudly about oneself; a boastful statement.", "吹噓;自誇"], "braggadocio": ["Boastful or arrogant behavior.", "吹噓;自誇的言行"], "braggart": ["One who boasts a great deal.", "吹牛者"], "brainwash": ["To pressure someone into adopting radically different beliefs through psychological manipulation.", "洗腦"], "brash": ["Impudent.", "傲慢的"], "brazen": ["Excessively bold, brash.", "厚顏無恥的；大膽的"], "breve": ["A mark (˘) used to indicate a short vowel or syllable.", "短音符號(˘)"], "brevity": ["Briefness or conciseness in speech or writing.", "簡潔；簡短"], "brigand": ["Bandit, robber.", "土匪；強盜"], "brilliant": ["Exceptionally clever, talented, or bright.", "才華洋溢的;燦爛的"], "brimming": ["Completely full to the point of overflowing.", "滿溢的"], "briskness": ["Quickness and energy in movement or manner.", "輕快;敏捷"], "bristle": ["To react with anger or indignation; a short, stiff hair.", "生氣;豎毛;鬃毛"], "bristle at": ["To stiffen with fear or anger.", "發怒；豎起"], "broad": ["Wide in extent or scope.", "寬廣的;廣泛的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bold": ["Courageous or striking.", "大膽的"], "bolster": ["To support; to strengthen.", "支持；加強"], "bombast": ["Pompous, self-important language.", "誇大之詞；浮誇言辭"], "bombastic": ["High-sounding but with little meaning; inflated.", "誇誇其談的；浮誇的"], "bona fide": ["Genuine; made in good faith.", "真正的；真誠的"], "bonafide": ["Genuine.", "真實的；真誠的"], "bonanza": ["A situation that brings sudden wealth or good fortune.", "意外之財；財源滾滾"], "bonehead": ["A stupid or foolish person.", "笨蛋"], "bookmobile": ["A vehicle equipped as a traveling library.", "行動圖書館車"], "boon": ["A gift or blessing.", "恩惠；福音"], "boor": ["A rude, ill-mannered person.", "粗魯的人；鄉巴佬"], "boorish": ["Rude and ill-mannered.", "粗魯的；無禮的"], "boot": ["A sturdy shoe covering the ankle; to kick or forcibly remove.", "靴子；踢出"], "bootless": ["Useless or unavailing.", "無用的；徒勞的"], "borax": ["A white mineral compound used in cleaning products and glassmaking.", "硼砂"], "borborygmus": ["A rumbling sound made by movement of gas in the intestines.", "腸鳴音"], "boredom": ["The state of being weary and uninterested.", "無聊；厭倦"], "borough-english": ["An English custom of inheritance by the youngest son rather than the eldest.", "幼子繼承制(英國古習俗)"], "borrow": ["To take temporarily.", "借"], "botanist": ["A scientist who studies plants.", "植物學家"], "botany": ["The branch of biology that studies plants.", "植物學"], "bougainvillea": ["A tropical, thorny vine with brightly colored flower-like bracts.", "九重葛"], "bounteousness": ["Generosity in giving; abundance.", "慷慨；豐盛"], "bountiful": ["Abundant; giving generously.", "豐盛的；慷慨的"], "bountifulness": ["The quality of being generous and abundant.", "慷慨大方；豐饒"], "bourgeois": ["A middle-class person, capitalist.", "資產階級；中產階級者"], "boustrophedon": ["A form of writing in which lines run alternately left-to-right and right-to-left.", "牛耕式書寫法"], "boustrophendonically": ["In the manner of boustrophedon writing (alternating direction line by line).", "以牛耕式書寫方式"], "bovine": ["Any of various wild or domestic cattle.", "牛的；牛屬的"], "bowdlerize": ["To remove indecent or offensive material from a text, often excessively.", "刪改(不雅內容)"], "boxer": ["A person who fights with their fists as a sport.", "拳擊手"], "boxing": ["The sport of fighting with fists, typically wearing padded gloves.", "拳擊(運動)"], "brachiate": ["To move by swinging from one hold to another using the arms, as apes do.", "(如猿猴般)臂躍前進"], "brachiation": ["The act of moving by swinging from the arms, as apes do.", "臂躍運動(猿猴移動方式)"], "bracing": ["Invigorating and refreshing, especially cold air.", "令人振奮的；清爽的"], "brag": ["To boast proudly about oneself; a boastful statement.", "吹噓；自誇"], "braggadocio": ["Boastful or arrogant behavior.", "吹噓；自誇的言行"], "braggart": ["One who boasts a great deal.", "吹牛者"], "brainwash": ["To pressure someone into adopting radically different beliefs through psychological manipulation.", "洗腦"], "brash": ["Impudent.", "傲慢的"], "brazen": ["Excessively bold, brash.", "厚顏無恥的；大膽的"], "breve": ["A mark (˘) used to indicate a short vowel or syllable.", "短音符號(˘)"], "brevity": ["Briefness or conciseness in speech or writing.", "簡潔；簡短"], "brigand": ["Bandit, robber.", "土匪；強盜"], "brilliant": ["Exceptionally clever, talented, or bright.", "才華洋溢的；燦爛的"], "brimming": ["Completely full to the point of overflowing.", "滿溢的"], "briskness": ["Quickness and energy in movement or manner.", "輕快；敏捷"], "bristle": ["To react with anger or indignation; a short, stiff hair.", "生氣；豎毛；鬃毛"], "bristle at": ["To stiffen with fear or anger.", "發怒；豎起"], "broad": ["Wide in extent or scope.", "寬廣的；廣泛的"]});

@@ -183,7 +183,7 @@ window.FLASHCARD_UNITS = {
     "word": "excess",
     "pos": "n./adj.",
     "definition": "An amount beyond what is necessary or normal.",
-    "chinese": "過度;過剩",
+    "chinese": "過度；過剩",
     "synonyms": "",
     "root": "ex- (out) + cedere (to go), from Latin",
     "group": "cede；ceed；cess = 行進；走；讓步",
@@ -195,14 +195,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An amount beyond what is necessary or normal.",
-     "chinese": "過度;過剩"
+     "chinese": "過度；過剩"
     }
    },
    {
     "word": "excessive",
     "pos": "adj.",
     "definition": "More than what is necessary or reasonable.",
-    "chinese": "過度的;過分的",
+    "chinese": "過度的；過分的",
     "synonyms": "",
     "root": "ex- (out) + cedere (to go), from Latin",
     "group": "cede；ceed；cess = 行進；走；讓步",
@@ -214,7 +214,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "More than what is necessary or reasonable.",
-     "chinese": "過度的;過分的"
+     "chinese": "過度的；過分的"
     }
    },
    {
@@ -240,7 +240,7 @@ window.FLASHCARD_UNITS = {
     "word": "proceed",
     "pos": "v.",
     "definition": "To continue with an action or process.",
-    "chinese": "繼續進行;前進",
+    "chinese": "繼續進行；前進",
     "synonyms": "",
     "root": "procedere (to go forward), from Latin pro- (forward) + cedere (to go)",
     "group": "cede；ceed；cess = 行進；走；讓步",
@@ -252,7 +252,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To continue with an action or process.",
-     "chinese": "繼續進行;前進"
+     "chinese": "繼續進行；前進"
     }
    }
   ],
@@ -573,4 +573,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cessation": ["A stopping.", "停止"], "access": ["Admittance.", "接近；通道"], "precedent": ["Earlier example of something similar.", "先例；前例"], "unprecedented": ["Novel; unparalleled.", "空前的"], "accessible": ["Available; ready for use.", "易接近的"], "accede": ["To agree.", "同意；應允"], "antecedent": ["A preceding event or condition.", "前因；先例"], "concede": ["To admit or acknowledge something, often reluctantly or after initial resistance.", "承認；讓步"], "exceed": ["To go beyond a limit.", "超過；超越"], "excess": ["An amount beyond what is necessary or normal.", "過度;過剩"], "excessive": ["More than what is necessary or reasonable.", "過度的;過分的"], "incessant": ["Continuing without pause or interruption.", "不停的；持續不斷的"], "proceed": ["To continue with an action or process.", "繼續進行;前進"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cessation": ["A stopping.", "停止"], "access": ["Admittance.", "接近；通道"], "precedent": ["Earlier example of something similar.", "先例；前例"], "unprecedented": ["Novel; unparalleled.", "空前的"], "accessible": ["Available; ready for use.", "易接近的"], "accede": ["To agree.", "同意；應允"], "antecedent": ["A preceding event or condition.", "前因；先例"], "concede": ["To admit or acknowledge something, often reluctantly or after initial resistance.", "承認；讓步"], "exceed": ["To go beyond a limit.", "超過；超越"], "excess": ["An amount beyond what is necessary or normal.", "過度；過剩"], "excessive": ["More than what is necessary or reasonable.", "過度的；過分的"], "incessant": ["Continuing without pause or interruption.", "不停的；持續不斷的"], "proceed": ["To continue with an action or process.", "繼續進行；前進"]});

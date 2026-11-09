@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "badaud",
     "pos": "n.",
     "definition": "A person who gullibly believes everything they read or hear.",
-    "chinese": "輕信者;易受騙的人",
+    "chinese": "輕信者；易受騙的人",
     "synonyms": "",
     "root": "badaud (idle gossip, from French)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who gullibly believes everything they read or hear.",
-     "chinese": "輕信者;易受騙的人"
+     "chinese": "輕信者；易受騙的人"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "baffle",
     "pos": "v.",
     "definition": "To completely confuse or perplex.",
-    "chinese": "使困惑;難倒",
+    "chinese": "使困惑；難倒",
     "synonyms": "",
     "root": "bafouer (to mock, possibly from French)",
     "group": "",
@@ -98,7 +98,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To completely confuse or perplex.",
-     "chinese": "使困惑;難倒"
+     "chinese": "使困惑；難倒"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "baleful",
     "pos": "adj.",
     "definition": "Threatening harm; menacing.",
-    "chinese": "凶惡的;不祥的",
+    "chinese": "凶惡的；不祥的",
     "synonyms": "",
     "root": "bealu (evil, from Old English)",
     "group": "",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Threatening harm; menacing.",
-     "chinese": "凶惡的;不祥的"
+     "chinese": "凶惡的；不祥的"
     }
    },
    {
@@ -200,7 +200,7 @@ window.FLASHCARD_UNITS = {
     "word": "bamboozle",
     "pos": "v.",
     "definition": "To trick or deceive someone.",
-    "chinese": "欺騙;矇騙",
+    "chinese": "欺騙；矇騙",
     "synonyms": "",
     "root": "unknown, possibly from thieves' cant",
     "group": "",
@@ -214,14 +214,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To trick or deceive someone.",
-     "chinese": "欺騙;矇騙"
+     "chinese": "欺騙；矇騙"
     }
    },
    {
     "word": "ban",
     "pos": "n./v.",
     "definition": "An official prohibition; to officially forbid.",
-    "chinese": "禁令;禁止",
+    "chinese": "禁令；禁止",
     "synonyms": "",
     "root": "bannan (to summon, proclaim, from Old English)",
     "group": "",
@@ -233,7 +233,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official prohibition; to officially forbid.",
-     "chinese": "禁令;禁止"
+     "chinese": "禁令；禁止"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "banality",
     "pos": "n.",
     "definition": "The quality of being dull, unoriginal, or overused.",
-    "chinese": "平庸;陳腔濫調",
+    "chinese": "平庸；陳腔濫調",
     "synonyms": "",
     "root": "banal (commonplace, from French)",
     "group": "",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being dull, unoriginal, or overused.",
-     "chinese": "平庸;陳腔濫調"
+     "chinese": "平庸；陳腔濫調"
     }
    },
    {
     "word": "bandit",
     "pos": "n.",
     "definition": "A robber or outlaw, especially one belonging to a gang.",
-    "chinese": "強盜;土匪",
+    "chinese": "強盜；土匪",
     "synonyms": "",
     "root": "bandire (to banish, from Italian)",
     "group": "",
@@ -309,7 +309,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A robber or outlaw, especially one belonging to a gang.",
-     "chinese": "強盜;土匪"
+     "chinese": "強盜；土匪"
     }
    },
    {
@@ -354,7 +354,7 @@ window.FLASHCARD_UNITS = {
     "word": "banter",
     "pos": "n./v.",
     "definition": "Playful, teasing conversation; to tease jokingly.",
-    "chinese": "戲謔;玩笑",
+    "chinese": "戲謔；玩笑",
     "synonyms": "",
     "root": "unknown, 17th-century English slang",
     "group": "",
@@ -366,14 +366,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Playful, teasing conversation; to tease jokingly.",
-     "chinese": "戲謔;玩笑"
+     "chinese": "戲謔；玩笑"
     }
    },
    {
     "word": "bar",
     "pos": "n./v.",
     "definition": "A rod or barrier; to prevent or forbid.",
-    "chinese": "橫木;禁止",
+    "chinese": "橫木；禁止",
     "synonyms": "",
     "root": "barra (bar, from Latin)",
     "group": "",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rod or barrier; to prevent or forbid.",
-     "chinese": "橫木;禁止"
+     "chinese": "橫木；禁止"
     }
    },
    {
     "word": "barbican",
     "pos": "n.",
     "definition": "An outer defensive structure at the entrance to a castle or city.",
-    "chinese": "城堡外堡壘;甕城",
+    "chinese": "城堡外堡壘；甕城",
     "synonyms": "",
     "root": "barbacana (from Old French, of uncertain origin)",
     "group": "",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An outer defensive structure at the entrance to a castle or city.",
-     "chinese": "城堡外堡壘;甕城"
+     "chinese": "城堡外堡壘；甕城"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "barren",
     "pos": "adj.",
     "definition": "Too poor to produce much vegetation; unable to produce offspring.",
-    "chinese": "貧瘠的;不孕的",
+    "chinese": "貧瘠的；不孕的",
     "synonyms": "",
     "root": "barhaine (from Old French, of uncertain origin)",
     "group": "",
@@ -482,14 +482,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Too poor to produce much vegetation; unable to produce offspring.",
-     "chinese": "貧瘠的;不孕的"
+     "chinese": "貧瘠的；不孕的"
     }
    },
    {
     "word": "barricade",
     "pos": "n./v.",
     "definition": "An obstruction, especially one built hastily; to block with such a structure.",
-    "chinese": "路障;設置路障",
+    "chinese": "路障；設置路障",
     "synonyms": "",
     "root": "barrique (barrel, from French)",
     "group": "",
@@ -501,14 +501,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An obstruction, especially one built hastily; to block with such a structure.",
-     "chinese": "路障;設置路障"
+     "chinese": "路障；設置路障"
     }
    },
    {
     "word": "bartizan",
     "pos": "n.",
     "definition": "A small overhanging turret on a castle wall.",
-    "chinese": "城堡角樓;凸角瞭望塔",
+    "chinese": "城堡角樓；凸角瞭望塔",
     "synonyms": "",
     "root": "bratticing (parapet, from Old French)",
     "group": "",
@@ -520,14 +520,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small overhanging turret on a castle wall.",
-     "chinese": "城堡角樓;凸角瞭望塔"
+     "chinese": "城堡角樓；凸角瞭望塔"
     }
    },
    {
     "word": "base",
     "pos": "n./adj.",
     "definition": "The lowest part or foundation; morally low or dishonorable.",
-    "chinese": "基礎;卑劣的",
+    "chinese": "基礎；卑劣的",
     "synonyms": "",
     "root": "basis (foundation, from Greek)",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The lowest part or foundation; morally low or dishonorable.",
-     "chinese": "基礎;卑劣的"
+     "chinese": "基礎；卑劣的"
     }
    },
    {
     "word": "baseness",
     "pos": "n.",
     "definition": "The quality of being morally low or dishonorable.",
-    "chinese": "卑劣;下流",
+    "chinese": "卑劣；下流",
     "synonyms": "",
     "root": "basis (foundation, from Greek)",
     "group": "",
@@ -558,7 +558,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being morally low or dishonorable.",
-     "chinese": "卑劣;下流"
+     "chinese": "卑劣；下流"
     }
    },
    {
@@ -584,7 +584,7 @@ window.FLASHCARD_UNITS = {
     "word": "bashfulness",
     "pos": "n.",
     "definition": "Shyness or timidity, especially in social situations.",
-    "chinese": "害羞;靦腆",
+    "chinese": "害羞；靦腆",
     "synonyms": "",
     "root": "bashen (to be astonished, from Middle English)",
     "group": "",
@@ -596,14 +596,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Shyness or timidity, especially in social situations.",
-     "chinese": "害羞;靦腆"
+     "chinese": "害羞；靦腆"
     }
    },
    {
     "word": "basis",
     "pos": "n.",
     "definition": "The foundation or fundamental principle of something.",
-    "chinese": "基礎;根據",
+    "chinese": "基礎；根據",
     "synonyms": "",
     "root": "basis (foundation, from Greek)",
     "group": "",
@@ -615,14 +615,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The foundation or fundamental principle of something.",
-     "chinese": "基礎;根據"
+     "chinese": "基礎；根據"
     }
    },
    {
     "word": "bathetic",
     "pos": "adj.",
     "definition": "Excessively sentimental in a way that seems unintentionally comic.",
-    "chinese": "矯情濫情的;假悲情的",
+    "chinese": "矯情濫情的；假悲情的",
     "synonyms": "",
     "root": "bathos (depth, from Greek)",
     "group": "",
@@ -634,7 +634,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively sentimental in a way that seems unintentionally comic.",
-     "chinese": "矯情濫情的;假悲情的"
+     "chinese": "矯情濫情的；假悲情的"
     }
    },
    {
@@ -679,7 +679,7 @@ window.FLASHCARD_UNITS = {
     "word": "battlement",
     "pos": "n.",
     "definition": "A parapet with gaps for defense, built on top of a wall.",
-    "chinese": "城垛;雉堞",
+    "chinese": "城垛；雉堞",
     "synonyms": "",
     "root": "bataillier (to fortify, from Old French)",
     "group": "",
@@ -691,14 +691,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A parapet with gaps for defense, built on top of a wall.",
-     "chinese": "城垛;雉堞"
+     "chinese": "城垛；雉堞"
     }
    },
    {
     "word": "battologize",
     "pos": "v.",
     "definition": "To repeat needlessly in speech or writing.",
-    "chinese": "囉唆重複;贅述",
+    "chinese": "囉唆重複；贅述",
     "synonyms": "",
     "root": "battologia (from Battos, a stammering king), from Greek",
     "group": "",
@@ -710,14 +710,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To repeat needlessly in speech or writing.",
-     "chinese": "囉唆重複;贅述"
+     "chinese": "囉唆重複；贅述"
     }
    },
    {
     "word": "bauble",
     "pos": "n.",
     "definition": "A small, showy trinket or decoration of little value.",
-    "chinese": "小玩意;廉價飾品",
+    "chinese": "小玩意；廉價飾品",
     "synonyms": "",
     "root": "baubel (plaything, from Old French)",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small, showy trinket or decoration of little value.",
-     "chinese": "小玩意;廉價飾品"
+     "chinese": "小玩意；廉價飾品"
     }
    },
    {
     "word": "bawdy",
     "pos": "adj.",
     "definition": "Humorously indecent or crude, especially about sex.",
-    "chinese": "猥褻的;粗俗詼諧的",
+    "chinese": "猥褻的；粗俗詼諧的",
     "synonyms": "",
     "root": "bawd (a person who runs a brothel, from Old French)",
     "group": "",
@@ -750,14 +750,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Humorously indecent or crude, especially about sex.",
-     "chinese": "猥褻的;粗俗詼諧的"
+     "chinese": "猥褻的；粗俗詼諧的"
     }
    },
    {
     "word": "beastly",
     "pos": "adj.",
     "definition": "Unpleasant or cruel, like a beast.",
-    "chinese": "殘暴的;令人厭惡的",
+    "chinese": "殘暴的；令人厭惡的",
     "synonyms": "",
     "root": "beast + -ly",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unpleasant or cruel, like a beast.",
-     "chinese": "殘暴的;令人厭惡的"
+     "chinese": "殘暴的；令人厭惡的"
     }
    },
    {
     "word": "beatific",
     "pos": "adj.",
     "definition": "Blissfully happy; showing serene joy.",
-    "chinese": "幸福洋溢的;至福的",
+    "chinese": "幸福洋溢的；至福的",
     "synonyms": "",
     "root": "beatus (blessed, from Latin)",
     "group": "",
@@ -788,14 +788,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Blissfully happy; showing serene joy.",
-     "chinese": "幸福洋溢的;至福的"
+     "chinese": "幸福洋溢的；至福的"
     }
    },
    {
     "word": "beatitude",
     "pos": "n.",
     "definition": "Supreme blessedness or happiness.",
-    "chinese": "至福;無上幸福",
+    "chinese": "至福；無上幸福",
     "synonyms": "",
     "root": "beatus (blessed, from Latin)",
     "group": "",
@@ -807,14 +807,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Supreme blessedness or happiness.",
-     "chinese": "至福;無上幸福"
+     "chinese": "至福；無上幸福"
     }
    },
    {
     "word": "beau brummel",
     "pos": "n.",
     "definition": "A man who is excessively concerned with fashion and appearance; a dandy.",
-    "chinese": "花花公子;時髦男子",
+    "chinese": "花花公子；時髦男子",
     "synonyms": "",
     "root": "from Beau Brummell, a famous English dandy",
     "group": "",
@@ -826,7 +826,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A man who is excessively concerned with fashion and appearance; a dandy.",
-     "chinese": "花花公子;時髦男子"
+     "chinese": "花花公子；時髦男子"
     }
    },
    {
@@ -871,7 +871,7 @@ window.FLASHCARD_UNITS = {
     "word": "becalm",
     "pos": "v.",
     "definition": "To make a sailing ship unable to move due to lack of wind; to calm.",
-    "chinese": "使(船)因無風而停滯;使平靜",
+    "chinese": "使(船)因無風而停滯；使平靜",
     "synonyms": "",
     "root": "be- (thoroughly) + calm",
     "group": "",
@@ -885,14 +885,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To make a sailing ship unable to move due to lack of wind; to calm.",
-     "chinese": "使(船)因無風而停滯;使平靜"
+     "chinese": "使(船)因無風而停滯；使平靜"
     }
    },
    {
     "word": "bedaub",
     "pos": "v.",
     "definition": "To smear or cover with something messy.",
-    "chinese": "塗抹;弄髒",
+    "chinese": "塗抹；弄髒",
     "synonyms": "",
     "root": "be- (thoroughly) + daub (to smear)",
     "group": "",
@@ -904,14 +904,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To smear or cover with something messy.",
-     "chinese": "塗抹;弄髒"
+     "chinese": "塗抹；弄髒"
     }
    },
    {
     "word": "bedim",
     "pos": "v.",
     "definition": "To make dim or obscure.",
-    "chinese": "使昏暗;使模糊",
+    "chinese": "使昏暗；使模糊",
     "synonyms": "",
     "root": "be- (thoroughly) + dim",
     "group": "",
@@ -923,7 +923,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make dim or obscure.",
-     "chinese": "使昏暗;使模糊"
+     "chinese": "使昏暗；使模糊"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "befuddle",
     "pos": "v.",
     "definition": "To confuse or perplex.",
-    "chinese": "使困惑;使迷惑",
+    "chinese": "使困惑；使迷惑",
     "synonyms": "",
     "root": "be- (thoroughly) + fuddle (to confuse)",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To confuse or perplex.",
-     "chinese": "使困惑;使迷惑"
+     "chinese": "使困惑；使迷惑"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bacterium": ["A microscopic single-celled organism, some of which cause disease.", "細菌"], "badaud": ["A person who gullibly believes everything they read or hear.", "輕信者;易受騙的人"], "badger": ["To pester, nag, annoy persistently.", "糾纏"], "badinage": ["Frivolous banter.", "輕鬆的玩笑話"], "baffle": ["To completely confuse or perplex.", "使困惑;難倒"], "bagatelle": ["Thing of little importance.", "瑣事；微不足道的事物"], "baleful": ["Threatening harm; menacing.", "凶惡的;不祥的"], "balk": ["To be unwilling, refuse.", "畏縮；猶豫"], "ballad": ["A love song.", "民謠；情歌"], "ballerina": ["A female ballet dancer.", "芭蕾女伶"], "bamboozle": ["To trick or deceive someone.", "欺騙;矇騙"], "ban": ["An official prohibition; to officially forbid.", "禁令;禁止"], "banal": ["Commonplace or trite saying.", "平庸的；陳腐的"], "banalities": ["Trite, unoriginal remarks or commonplaces.", "陳腔濫調"], "banality": ["The quality of being dull, unoriginal, or overused.", "平庸;陳腔濫調"], "bandit": ["A robber or outlaw, especially one belonging to a gang.", "強盜;土匪"], "bane": ["A burden.", "禍根；剋星"], "baneful": ["Causing ruin; harmful; pernicious.", "有害的"], "banter": ["Playful, teasing conversation; to tease jokingly.", "戲謔;玩笑"], "bar": ["A rod or barrier; to prevent or forbid.", "橫木;禁止"], "barbican": ["An outer defensive structure at the entrance to a castle or city.", "城堡外堡壘;甕城"], "barbiturate": ["Organic compound having powerful soporific effect.", "巴比妥類藥物(鎮靜安眠藥)"], "bard": ["A poet, often a singer as well.", "吟遊詩人"], "barometer": ["Instrument for measuring change.", "晴雨表；氣壓計"], "barren": ["Too poor to produce much vegetation; unable to produce offspring.", "貧瘠的;不孕的"], "barricade": ["An obstruction, especially one built hastily; to block with such a structure.", "路障;設置路障"], "bartizan": ["A small overhanging turret on a castle wall.", "城堡角樓;凸角瞭望塔"], "base": ["The lowest part or foundation; morally low or dishonorable.", "基礎;卑劣的"], "baseness": ["The quality of being morally low or dishonorable.", "卑劣;下流"], "bashful": ["Shy, excessively timid.", "害羞的；靦腆的"], "bashfulness": ["Shyness or timidity, especially in social situations.", "害羞;靦腆"], "basis": ["The foundation or fundamental principle of something.", "基礎;根據"], "bathetic": ["Excessively sentimental in a way that seems unintentionally comic.", "矯情濫情的;假悲情的"], "bathos": ["An abrupt, often unintentional shift from a serious tone to a trivial or comic one.", "虎頭蛇尾的濫情"], "battery": ["A device that supplies power.", "電池；一連串攻擊"], "battlement": ["A parapet with gaps for defense, built on top of a wall.", "城垛;雉堞"], "battologize": ["To repeat needlessly in speech or writing.", "囉唆重複;贅述"], "bauble": ["A small, showy trinket or decoration of little value.", "小玩意;廉價飾品"], "bawdy": ["Humorously indecent or crude, especially about sex.", "猥褻的;粗俗詼諧的"], "beastly": ["Unpleasant or cruel, like a beast.", "殘暴的;令人厭惡的"], "beatific": ["Blissfully happy; showing serene joy.", "幸福洋溢的;至福的"], "beatitude": ["Supreme blessedness or happiness.", "至福;無上幸福"], "beau brummel": ["A man who is excessively concerned with fashion and appearance; a dandy.", "花花公子;時髦男子"], "beau monde": ["Fashionable society; the world of the elegant and wealthy.", "上流社會"], "beautify": ["To make something more attractive.", "美化"], "becalm": ["To make a sailing ship unable to move due to lack of wind; to calm.", "使(船)因無風而停滯;使平靜"], "bedaub": ["To smear or cover with something messy.", "塗抹;弄髒"], "bedim": ["To make dim or obscure.", "使昏暗;使模糊"], "bedlam": ["Uproar, confusion.", "混亂；喧鬧"], "befuddle": ["To confuse or perplex.", "使困惑;使迷惑"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bacterium": ["A microscopic single-celled organism, some of which cause disease.", "細菌"], "badaud": ["A person who gullibly believes everything they read or hear.", "輕信者；易受騙的人"], "badger": ["To pester, nag, annoy persistently.", "糾纏"], "badinage": ["Frivolous banter.", "輕鬆的玩笑話"], "baffle": ["To completely confuse or perplex.", "使困惑；難倒"], "bagatelle": ["Thing of little importance.", "瑣事；微不足道的事物"], "baleful": ["Threatening harm; menacing.", "凶惡的；不祥的"], "balk": ["To be unwilling, refuse.", "畏縮；猶豫"], "ballad": ["A love song.", "民謠；情歌"], "ballerina": ["A female ballet dancer.", "芭蕾女伶"], "bamboozle": ["To trick or deceive someone.", "欺騙；矇騙"], "ban": ["An official prohibition; to officially forbid.", "禁令；禁止"], "banal": ["Commonplace or trite saying.", "平庸的；陳腐的"], "banalities": ["Trite, unoriginal remarks or commonplaces.", "陳腔濫調"], "banality": ["The quality of being dull, unoriginal, or overused.", "平庸；陳腔濫調"], "bandit": ["A robber or outlaw, especially one belonging to a gang.", "強盜；土匪"], "bane": ["A burden.", "禍根；剋星"], "baneful": ["Causing ruin; harmful; pernicious.", "有害的"], "banter": ["Playful, teasing conversation; to tease jokingly.", "戲謔；玩笑"], "bar": ["A rod or barrier; to prevent or forbid.", "橫木；禁止"], "barbican": ["An outer defensive structure at the entrance to a castle or city.", "城堡外堡壘；甕城"], "barbiturate": ["Organic compound having powerful soporific effect.", "巴比妥類藥物(鎮靜安眠藥)"], "bard": ["A poet, often a singer as well.", "吟遊詩人"], "barometer": ["Instrument for measuring change.", "晴雨表；氣壓計"], "barren": ["Too poor to produce much vegetation; unable to produce offspring.", "貧瘠的；不孕的"], "barricade": ["An obstruction, especially one built hastily; to block with such a structure.", "路障；設置路障"], "bartizan": ["A small overhanging turret on a castle wall.", "城堡角樓；凸角瞭望塔"], "base": ["The lowest part or foundation; morally low or dishonorable.", "基礎；卑劣的"], "baseness": ["The quality of being morally low or dishonorable.", "卑劣；下流"], "bashful": ["Shy, excessively timid.", "害羞的；靦腆的"], "bashfulness": ["Shyness or timidity, especially in social situations.", "害羞；靦腆"], "basis": ["The foundation or fundamental principle of something.", "基礎；根據"], "bathetic": ["Excessively sentimental in a way that seems unintentionally comic.", "矯情濫情的；假悲情的"], "bathos": ["An abrupt, often unintentional shift from a serious tone to a trivial or comic one.", "虎頭蛇尾的濫情"], "battery": ["A device that supplies power.", "電池；一連串攻擊"], "battlement": ["A parapet with gaps for defense, built on top of a wall.", "城垛；雉堞"], "battologize": ["To repeat needlessly in speech or writing.", "囉唆重複；贅述"], "bauble": ["A small, showy trinket or decoration of little value.", "小玩意；廉價飾品"], "bawdy": ["Humorously indecent or crude, especially about sex.", "猥褻的；粗俗詼諧的"], "beastly": ["Unpleasant or cruel, like a beast.", "殘暴的；令人厭惡的"], "beatific": ["Blissfully happy; showing serene joy.", "幸福洋溢的；至福的"], "beatitude": ["Supreme blessedness or happiness.", "至福；無上幸福"], "beau brummel": ["A man who is excessively concerned with fashion and appearance; a dandy.", "花花公子；時髦男子"], "beau monde": ["Fashionable society; the world of the elegant and wealthy.", "上流社會"], "beautify": ["To make something more attractive.", "美化"], "becalm": ["To make a sailing ship unable to move due to lack of wind; to calm.", "使(船)因無風而停滯；使平靜"], "bedaub": ["To smear or cover with something messy.", "塗抹；弄髒"], "bedim": ["To make dim or obscure.", "使昏暗；使模糊"], "bedlam": ["Uproar, confusion.", "混亂；喧鬧"], "befuddle": ["To confuse or perplex.", "使困惑；使迷惑"]});

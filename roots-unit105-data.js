@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "degeneracy",
     "pos": "n.",
     "definition": "The state of having declined in moral or physical standards.",
-    "chinese": "墮落;退化",
+    "chinese": "墮落；退化",
     "synonyms": "",
     "root": "de- (down) + genus (birth, kind), from Latin",
     "group": "gen = 生產；根源",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of having declined in moral or physical standards.",
-     "chinese": "墮落;退化"
+     "chinese": "墮落；退化"
     }
    },
    {
     "word": "degenerate",
     "pos": "v./adj.",
     "definition": "To decline in quality or morals; morally corrupt.",
-    "chinese": "退化;墮落的",
+    "chinese": "退化；墮落的",
     "synonyms": "",
     "root": "de- (down) + genus (birth, kind), from Latin",
     "group": "gen = 生產；根源",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To decline in quality or morals; morally corrupt.",
-     "chinese": "退化;墮落的"
+     "chinese": "退化；墮落的"
     }
    },
    {
     "word": "endogenous",
     "pos": "adj.",
     "definition": "Originating from within an organism or system.",
-    "chinese": "內源性的;內生的",
+    "chinese": "內源性的；內生的",
     "synonyms": "",
     "root": "endon (within) + genes (born), from Greek",
     "group": "gen = 生產；根源",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Originating from within an organism or system.",
-     "chinese": "內源性的;內生的"
+     "chinese": "內源性的；內生的"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "exogenous",
     "pos": "adj.",
     "definition": "Originating from outside a system or organism.",
-    "chinese": "外源性的;外生的",
+    "chinese": "外源性的；外生的",
     "synonyms": "",
     "root": "exo- (outside) + genes (born), from Greek",
     "group": "gen = 生產；根源",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Originating from outside a system or organism.",
-     "chinese": "外源性的;外生的"
+     "chinese": "外源性的；外生的"
     }
    },
    {
     "word": "genealogy",
     "pos": "n.",
     "definition": "An account of a family's or person's descent from an ancestor.",
-    "chinese": "家譜;系譜學",
+    "chinese": "家譜；系譜學",
     "synonyms": "",
     "root": "genesis (birth) + logos (study), from Greek",
     "group": "gen = 生產；根源",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An account of a family's or person's descent from an ancestor.",
-     "chinese": "家譜;系譜學"
+     "chinese": "家譜；系譜學"
     }
    },
    {
     "word": "generate",
     "pos": "v.",
     "definition": "To produce or bring into existence.",
-    "chinese": "產生;引起",
+    "chinese": "產生；引起",
     "synonyms": "",
     "root": "generare (to beget), from Latin",
     "group": "gen = 生產；根源",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To produce or bring into existence.",
-     "chinese": "產生;引起"
+     "chinese": "產生；引起"
     }
    },
    {
     "word": "generous",
     "pos": "adj.",
     "definition": "Showing readiness to give freely; ample.",
-    "chinese": "慷慨的;豐厚的",
+    "chinese": "慷慨的；豐厚的",
     "synonyms": "",
     "root": "generosus (of noble birth), from Latin",
     "group": "gen = 生產；根源",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing readiness to give freely; ample.",
-     "chinese": "慷慨的;豐厚的"
+     "chinese": "慷慨的；豐厚的"
     }
    },
    {
     "word": "genesis",
     "pos": "n.",
     "definition": "The origin or beginning of something.",
-    "chinese": "起源;創始",
+    "chinese": "起源；創始",
     "synonyms": "",
     "root": "genesis (birth, origin), from Greek",
     "group": "gen = 生產；根源",
@@ -421,7 +421,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The origin or beginning of something.",
-     "chinese": "起源;創始"
+     "chinese": "起源；創始"
     }
    },
    {
@@ -466,7 +466,7 @@ window.FLASHCARD_UNITS = {
     "word": "genteel",
     "pos": "adj.",
     "definition": "Polite, refined, or affectedly proper.",
-    "chinese": "文雅的;上流的",
+    "chinese": "文雅的；上流的",
     "synonyms": "",
     "root": "gentilis (of the same clan), from Latin",
     "group": "gen = 生產；根源",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Polite, refined, or affectedly proper.",
-     "chinese": "文雅的;上流的"
+     "chinese": "文雅的；上流的"
     }
    },
    {
     "word": "genuflection",
     "pos": "n.",
     "definition": "The act of bending the knee, especially in worship.",
-    "chinese": "屈膝;下跪",
+    "chinese": "屈膝；下跪",
     "synonyms": "",
     "root": "genu (knee) + flectere (to bend), from Latin",
     "group": "gen = 生產；根源",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of bending the knee, especially in worship.",
-     "chinese": "屈膝;下跪"
+     "chinese": "屈膝；下跪"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "homogenize",
     "pos": "v.",
     "definition": "To make uniform or similar throughout.",
-    "chinese": "使均質化;使一致",
+    "chinese": "使均質化；使一致",
     "synonyms": "",
     "root": "homos (same) + genos (kind), from Greek",
     "group": "gen = 生產；根源",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make uniform or similar throughout.",
-     "chinese": "使均質化;使一致"
+     "chinese": "使均質化；使一致"
     }
    },
    {
     "word": "homogenous",
     "pos": "adj.",
     "definition": "Of the same kind; uniform in composition.",
-    "chinese": "同質的;一致的",
+    "chinese": "同質的；一致的",
     "synonyms": "",
     "root": "homos (same) + genos (kind), from Greek",
     "group": "gen = 生產；根源",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of the same kind; uniform in composition.",
-     "chinese": "同質的;一致的"
+     "chinese": "同質的；一致的"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "progenitor",
     "pos": "n.",
     "definition": "An ancestor or originator; a precursor.",
-    "chinese": "祖先;先驅",
+    "chinese": "祖先；先驅",
     "synonyms": "",
     "root": "progenitor (ancestor), from Latin pro- (forth) + gignere (to beget)",
     "group": "gen = 生產；根源",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An ancestor or originator; a precursor.",
-     "chinese": "祖先;先驅"
+     "chinese": "祖先；先驅"
     }
    },
    {
     "word": "sui generis",
     "pos": "adj.",
     "definition": "Unique; in a class of its own.",
-    "chinese": "獨一無二的;自成一格的",
+    "chinese": "獨一無二的；自成一格的",
     "synonyms": "",
     "root": "sui (of its own) + generis (kind), from Latin",
     "group": "gen = 生產；根源",
@@ -670,7 +670,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unique; in a class of its own.",
-     "chinese": "獨一無二的;自成一格的"
+     "chinese": "獨一無二的；自成一格的"
     }
    },
    {
@@ -1562,4 +1562,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"jaunty": ["Sprightly.", "輕鬆活潑的"], "indigenous": ["Native.", "本土的；土生土長的"], "progeny": ["Descendants, offspring.", "後代；子孫"], "heterogeneous": ["Dissimilar.", "異質的"], "congenial": ["Sympathetic, agreeable.", "意氣相投的"], "malign": ["To abuse, slander.", "誹謗；中傷"], "genre": ["Certain form or style in painting or literature.", "類型；流派"], "homogeneous": ["Same, uniform.", "同質的"], "genocide": ["Planned destruction of an entire people.", "種族滅絕"], "gingerly": ["Very carefully.", "小心翼翼地"], "ingenious": ["Very clever or inventive.", "巧妙的；有創意的"], "benign": ["Favorable, not threatening, mild.", "溫和的；良性的"], "congenital": ["Present at birth but not necessarily hereditary.", "先天性的"], "degeneracy": ["The state of having declined in moral or physical standards.", "墮落;退化"], "degenerate": ["To decline in quality or morals; morally corrupt.", "退化;墮落的"], "endogenous": ["Originating from within an organism or system.", "內源性的;內生的"], "engender": ["To bring about, create, generate.", "產生；引起"], "exogenous": ["Originating from outside a system or organism.", "外源性的;外生的"], "genealogy": ["An account of a family's or person's descent from an ancestor.", "家譜;系譜學"], "generate": ["To produce or bring into existence.", "產生;引起"], "generous": ["Showing readiness to give freely; ample.", "慷慨的;豐厚的"], "genesis": ["The origin or beginning of something.", "起源;創始"], "genetics": ["The study of heredity and inherited traits.", "遺傳學"], "genial": ["Friendly, affable.", "和藹的；親切的"], "genteel": ["Polite, refined, or affectedly proper.", "文雅的;上流的"], "genuflection": ["The act of bending the knee, especially in worship.", "屈膝;下跪"], "genuine": ["Authentic or real.", "真誠的；真正的"], "homogenize": ["To make uniform or similar throughout.", "使均質化;使一致"], "homogenous": ["Of the same kind; uniform in composition.", "同質的;一致的"], "iatrogenic": ["Caused by medical treatment or examination.", "醫源性的(由治療引起的)"], "ingenuous": ["Not devious; innocent and candid.", "率真的；天真無邪的"], "postremogeniture": ["The practice of inheritance passing to the last-born child.", "幼子繼承制"], "primogeniture": ["The right of the firstborn child to inherit the family estate.", "長子繼承制"], "progenitor": ["An ancestor or originator; a precursor.", "祖先;先驅"], "sui generis": ["Unique; in a class of its own.", "獨一無二的;自成一格的"], "ultimogeniture": ["A system of inheritance in which the youngest child inherits the estate.", "幼子繼承制"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"jaunty": ["Sprightly.", "輕鬆活潑的"], "indigenous": ["Native.", "本土的；土生土長的"], "progeny": ["Descendants, offspring.", "後代；子孫"], "heterogeneous": ["Dissimilar.", "異質的"], "congenial": ["Sympathetic, agreeable.", "意氣相投的"], "malign": ["To abuse, slander.", "誹謗；中傷"], "genre": ["Certain form or style in painting or literature.", "類型；流派"], "homogeneous": ["Same, uniform.", "同質的"], "genocide": ["Planned destruction of an entire people.", "種族滅絕"], "gingerly": ["Very carefully.", "小心翼翼地"], "ingenious": ["Very clever or inventive.", "巧妙的；有創意的"], "benign": ["Favorable, not threatening, mild.", "溫和的；良性的"], "congenital": ["Present at birth but not necessarily hereditary.", "先天性的"], "degeneracy": ["The state of having declined in moral or physical standards.", "墮落；退化"], "degenerate": ["To decline in quality or morals; morally corrupt.", "退化；墮落的"], "endogenous": ["Originating from within an organism or system.", "內源性的；內生的"], "engender": ["To bring about, create, generate.", "產生；引起"], "exogenous": ["Originating from outside a system or organism.", "外源性的；外生的"], "genealogy": ["An account of a family's or person's descent from an ancestor.", "家譜；系譜學"], "generate": ["To produce or bring into existence.", "產生；引起"], "generous": ["Showing readiness to give freely; ample.", "慷慨的；豐厚的"], "genesis": ["The origin or beginning of something.", "起源；創始"], "genetics": ["The study of heredity and inherited traits.", "遺傳學"], "genial": ["Friendly, affable.", "和藹的；親切的"], "genteel": ["Polite, refined, or affectedly proper.", "文雅的；上流的"], "genuflection": ["The act of bending the knee, especially in worship.", "屈膝；下跪"], "genuine": ["Authentic or real.", "真誠的；真正的"], "homogenize": ["To make uniform or similar throughout.", "使均質化；使一致"], "homogenous": ["Of the same kind; uniform in composition.", "同質的；一致的"], "iatrogenic": ["Caused by medical treatment or examination.", "醫源性的(由治療引起的)"], "ingenuous": ["Not devious; innocent and candid.", "率真的；天真無邪的"], "postremogeniture": ["The practice of inheritance passing to the last-born child.", "幼子繼承制"], "primogeniture": ["The right of the firstborn child to inherit the family estate.", "長子繼承制"], "progenitor": ["An ancestor or originator; a precursor.", "祖先；先驅"], "sui generis": ["Unique; in a class of its own.", "獨一無二的；自成一格的"], "ultimogeniture": ["A system of inheritance in which the youngest child inherits the estate.", "幼子繼承制"]});

@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "debility",
     "pos": "n.",
     "definition": "Physical weakness, especially as a result of illness.",
-    "chinese": "虛弱;衰弱",
+    "chinese": "虛弱；衰弱",
     "synonyms": "",
     "root": "debilis (weak), from Latin",
     "group": "",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Physical weakness, especially as a result of illness.",
-     "chinese": "虛弱;衰弱"
+     "chinese": "虛弱；衰弱"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "deceitful",
     "pos": "adj.",
     "definition": "Deliberately misleading or dishonest.",
-    "chinese": "欺騙的;不誠實的",
+    "chinese": "欺騙的；不誠實的",
     "synonyms": "",
     "root": "decipere (to deceive), from Latin",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deliberately misleading or dishonest.",
-     "chinese": "欺騙的;不誠實的"
+     "chinese": "欺騙的；不誠實的"
     }
    },
    {
     "word": "deceitfulness",
     "pos": "n.",
     "definition": "The quality of being deliberately dishonest.",
-    "chinese": "欺騙性;不誠實",
+    "chinese": "欺騙性；不誠實",
     "synonyms": "",
     "root": "decipere (to deceive), from Latin",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being deliberately dishonest.",
-     "chinese": "欺騙性;不誠實"
+     "chinese": "欺騙性；不誠實"
     }
    },
    {
     "word": "decent",
     "pos": "adj.",
     "definition": "Conforming to standards of respectability; satisfactory.",
-    "chinese": "體面的;像樣的",
+    "chinese": "體面的；像樣的",
     "synonyms": "",
     "root": "decere (to be fitting), from Latin",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conforming to standards of respectability; satisfactory.",
-     "chinese": "體面的;像樣的"
+     "chinese": "體面的；像樣的"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "defeasance",
     "pos": "n.",
     "definition": "The annulment or voiding of a contract or deed.",
-    "chinese": "契約失效;廢止",
+    "chinese": "契約失效；廢止",
     "synonyms": "",
     "root": "defaire (to undo), from Old French",
     "group": "",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The annulment or voiding of a contract or deed.",
-     "chinese": "契約失效;廢止"
+     "chinese": "契約失效；廢止"
     }
    },
    {
     "word": "defeasible",
     "pos": "adj.",
     "definition": "Capable of being annulled or made void.",
-    "chinese": "可撤銷的;可廢止的",
+    "chinese": "可撤銷的；可廢止的",
     "synonyms": "",
     "root": "defaire (to undo), from Old French",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of being annulled or made void.",
-     "chinese": "可撤銷的;可廢止的"
+     "chinese": "可撤銷的；可廢止的"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "defray",
     "pos": "v.",
     "definition": "To provide money to pay a cost or expense.",
-    "chinese": "支付;償付",
+    "chinese": "支付；償付",
     "synonyms": "",
     "root": "des- (away) + fret (cost), from Old French",
     "group": "",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To provide money to pay a cost or expense.",
-     "chinese": "支付;償付"
+     "chinese": "支付；償付"
     }
    },
    {
@@ -354,7 +354,7 @@ window.FLASHCARD_UNITS = {
     "word": "deign",
     "pos": "v.",
     "definition": "To condescend to do something regarded as beneath one's dignity.",
-    "chinese": "屈尊;俯就",
+    "chinese": "屈尊；俯就",
     "synonyms": "",
     "root": "dignari (to consider worthy), from Latin",
     "group": "",
@@ -368,7 +368,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To condescend to do something regarded as beneath one's dignity.",
-     "chinese": "屈尊;俯就"
+     "chinese": "屈尊；俯就"
     }
    },
    {
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
     "word": "deity",
     "pos": "n.",
     "definition": "A god or goddess.",
-    "chinese": "神;神祇",
+    "chinese": "神；神祇",
     "synonyms": "",
     "root": "deus (god), from Latin",
     "group": "",
@@ -427,14 +427,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A god or goddess.",
-     "chinese": "神;神祇"
+     "chinese": "神；神祇"
     }
    },
    {
     "word": "delectation",
     "pos": "n.",
     "definition": "Great pleasure or delight.",
-    "chinese": "愉悅;享受",
+    "chinese": "愉悅；享受",
     "synonyms": "",
     "root": "delectare (to delight), from Latin",
     "group": "",
@@ -446,7 +446,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great pleasure or delight.",
-     "chinese": "愉悅;享受"
+     "chinese": "愉悅；享受"
     }
    },
    {
@@ -491,7 +491,7 @@ window.FLASHCARD_UNITS = {
     "word": "delight",
     "pos": "n./v.",
     "definition": "Great pleasure; to please greatly.",
-    "chinese": "喜悅;使愉快",
+    "chinese": "喜悅；使愉快",
     "synonyms": "",
     "root": "delectare (to delight), from Latin",
     "group": "",
@@ -505,7 +505,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Great pleasure; to please greatly.",
-     "chinese": "喜悅;使愉快"
+     "chinese": "喜悅；使愉快"
     }
    },
    {
@@ -590,7 +590,7 @@ window.FLASHCARD_UNITS = {
     "word": "demilune",
     "pos": "n.",
     "definition": "Something shaped like a half-moon; a crescent-shaped fortification.",
-    "chinese": "半月形物;半月堡",
+    "chinese": "半月形物；半月堡",
     "synonyms": "",
     "root": "demi- (half) + lune (moon), from French",
     "group": "",
@@ -602,7 +602,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something shaped like a half-moon; a crescent-shaped fortification.",
-     "chinese": "半月形物;半月堡"
+     "chinese": "半月形物；半月堡"
     }
    },
    {
@@ -704,7 +704,7 @@ window.FLASHCARD_UNITS = {
     "word": "demotic",
     "pos": "adj.",
     "definition": "Relating to ordinary people; popular or colloquial.",
-    "chinese": "通俗的;平民的",
+    "chinese": "通俗的；平民的",
     "synonyms": "",
     "root": "demos (people), from Greek",
     "group": "",
@@ -716,7 +716,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to ordinary people; popular or colloquial.",
-     "chinese": "通俗的;平民的"
+     "chinese": "通俗的；平民的"
     }
    },
    {
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "word": "denouement",
     "pos": "n.",
     "definition": "The final resolution of the plot of a story.",
-    "chinese": "結局;收場",
+    "chinese": "結局；收場",
     "synonyms": "",
     "root": "denouer (to untie), from French",
     "group": "",
@@ -754,7 +754,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The final resolution of the plot of a story.",
-     "chinese": "結局;收場"
+     "chinese": "結局；收場"
     }
    },
    {
@@ -839,7 +839,7 @@ window.FLASHCARD_UNITS = {
     "word": "despotic",
     "pos": "adj.",
     "definition": "Exercising absolute power in a cruel way.",
-    "chinese": "專制的;暴虐的",
+    "chinese": "專制的；暴虐的",
     "synonyms": "",
     "root": "despotes (master), from Greek",
     "group": "",
@@ -851,7 +851,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exercising absolute power in a cruel way.",
-     "chinese": "專制的;暴虐的"
+     "chinese": "專制的；暴虐的"
     }
    },
    {
@@ -877,7 +877,7 @@ window.FLASHCARD_UNITS = {
     "word": "detritus",
     "pos": "n.",
     "definition": "Waste or debris of any kind; loose fragments.",
-    "chinese": "碎屑;殘骸",
+    "chinese": "碎屑；殘骸",
     "synonyms": "",
     "root": "deterere (to wear away), from Latin",
     "group": "",
@@ -889,7 +889,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Waste or debris of any kind; loose fragments.",
-     "chinese": "碎屑;殘骸"
+     "chinese": "碎屑；殘骸"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dearth": ["Lack, scarcity.", "缺乏；稀少"], "debauch": ["To corrupt by means of sensual pleasures.", "使墮落；放蕩"], "debilitated": ["Weakened in strength or health.", "衰弱的"], "debility": ["Physical weakness, especially as a result of illness.", "虛弱;衰弱"], "decade": ["Ten years.", "十年"], "deceitful": ["Deliberately misleading or dishonest.", "欺騙的;不誠實的"], "deceitfulness": ["The quality of being deliberately dishonest.", "欺騙性;不誠實"], "decent": ["Conforming to standards of respectability; satisfactory.", "體面的;像樣的"], "decorous": ["Socially proper, appropriate.", "得體的；合乎禮儀的"], "decorum": ["Politeness, correct behavior.", "端莊；得體"], "deem": ["To believe, judge.", "認為；視為"], "deep-rooted": ["Firmly established; long-standing.", "根深蒂固的"], "defeasance": ["The annulment or voiding of a contract or deed.", "契約失效;廢止"], "defeasible": ["Capable of being annulled or made void.", "可撤銷的;可廢止的"], "defendant": ["A person accused of a crime or sued in a lawsuit.", "被告"], "defile": ["To make unclean, impure.", "玷污；弄髒"], "defray": ["To provide money to pay a cost or expense.", "支付;償付"], "deft": ["Neatly skillful and quick in one's movements.", "靈巧的；熟練的"], "deign": ["To condescend to do something regarded as beneath one's dignity.", "屈尊;俯就"], "deipnosophist": ["A person skilled in the art of dinner conversation.", "善於餐桌談話的人"], "deipnosophistic": ["Relating to skill in dinner conversation.", "善於餐桌交談的"], "deity": ["A god or goddess.", "神;神祇"], "delectation": ["Great pleasure or delight.", "愉悅;享受"], "deleterious": ["Bad, harmful.", "有害的；造成傷害的"], "delicate": ["Fragile or requiring careful handling.", "脆弱的；精緻的"], "delight": ["Great pleasure; to please greatly.", "喜悅;使愉快"], "delve": ["To dig, do research.", "鑽研；探索"], "demagoguery": ["Political activity that exploits popular prejudices and fears.", "煽動群眾的政治手段"], "demean": ["To lower the status or stature of something.", "貶低；羞辱"], "demigod": ["A partly divine being, offspring of a god and a mortal.", "半神"], "demilune": ["Something shaped like a half-moon; a crescent-shaped fortification.", "半月形物;半月堡"], "demimonde": ["A group considered on the fringe of respectable society.", "名譽不佳的社會邊緣群體"], "democracy": ["A system of government by the whole population, usually through elected representatives.", "民主政治"], "demographer": ["A person who studies population statistics and trends.", "人口統計學家"], "demography": ["The statistical study of populations.", "人口統計學"], "demonophobia": ["An abnormal fear of demons.", "惡魔恐懼症"], "demotic": ["Relating to ordinary people; popular or colloquial.", "通俗的;平民的"], "demure": ["Quiet, modest, reserved.", "文靜的；端莊的"], "denouement": ["The final resolution of the plot of a story.", "結局;收場"], "dermatitis": ["Inflammation of the skin.", "皮膚炎"], "dermatophobia": ["An abnormal fear of skin disease or skin lesions.", "皮膚病恐懼症"], "desperado": ["A reckless and dangerous criminal, especially in the Old West.", "亡命之徒"], "despot": ["One who has total power and rules brutally.", "暴君；獨裁者"], "despotic": ["Exercising absolute power in a cruel way.", "專制的;暴虐的"], "despotism": ["Rule by a single authority with absolute power.", "專制統治"], "detritus": ["Waste or debris of any kind; loose fragments.", "碎屑;殘骸"], "developing": ["In the process of growth or economic advancement.", "發展中的"], "devout": ["Sincere, religious.", "虔誠的"], "dexter": ["On or starting from the wearer's right.", "右側的(紋章學)"], "dexterity": ["Mental or physical skill.", "靈巧；敏捷"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dearth": ["Lack, scarcity.", "缺乏；稀少"], "debauch": ["To corrupt by means of sensual pleasures.", "使墮落；放蕩"], "debilitated": ["Weakened in strength or health.", "衰弱的"], "debility": ["Physical weakness, especially as a result of illness.", "虛弱；衰弱"], "decade": ["Ten years.", "十年"], "deceitful": ["Deliberately misleading or dishonest.", "欺騙的；不誠實的"], "deceitfulness": ["The quality of being deliberately dishonest.", "欺騙性；不誠實"], "decent": ["Conforming to standards of respectability; satisfactory.", "體面的；像樣的"], "decorous": ["Socially proper, appropriate.", "得體的；合乎禮儀的"], "decorum": ["Politeness, correct behavior.", "端莊；得體"], "deem": ["To believe, judge.", "認為；視為"], "deep-rooted": ["Firmly established; long-standing.", "根深蒂固的"], "defeasance": ["The annulment or voiding of a contract or deed.", "契約失效；廢止"], "defeasible": ["Capable of being annulled or made void.", "可撤銷的；可廢止的"], "defendant": ["A person accused of a crime or sued in a lawsuit.", "被告"], "defile": ["To make unclean, impure.", "玷污；弄髒"], "defray": ["To provide money to pay a cost or expense.", "支付；償付"], "deft": ["Neatly skillful and quick in one's movements.", "靈巧的；熟練的"], "deign": ["To condescend to do something regarded as beneath one's dignity.", "屈尊；俯就"], "deipnosophist": ["A person skilled in the art of dinner conversation.", "善於餐桌談話的人"], "deipnosophistic": ["Relating to skill in dinner conversation.", "善於餐桌交談的"], "deity": ["A god or goddess.", "神；神祇"], "delectation": ["Great pleasure or delight.", "愉悅；享受"], "deleterious": ["Bad, harmful.", "有害的；造成傷害的"], "delicate": ["Fragile or requiring careful handling.", "脆弱的；精緻的"], "delight": ["Great pleasure; to please greatly.", "喜悅；使愉快"], "delve": ["To dig, do research.", "鑽研；探索"], "demagoguery": ["Political activity that exploits popular prejudices and fears.", "煽動群眾的政治手段"], "demean": ["To lower the status or stature of something.", "貶低；羞辱"], "demigod": ["A partly divine being, offspring of a god and a mortal.", "半神"], "demilune": ["Something shaped like a half-moon; a crescent-shaped fortification.", "半月形物；半月堡"], "demimonde": ["A group considered on the fringe of respectable society.", "名譽不佳的社會邊緣群體"], "democracy": ["A system of government by the whole population, usually through elected representatives.", "民主政治"], "demographer": ["A person who studies population statistics and trends.", "人口統計學家"], "demography": ["The statistical study of populations.", "人口統計學"], "demonophobia": ["An abnormal fear of demons.", "惡魔恐懼症"], "demotic": ["Relating to ordinary people; popular or colloquial.", "通俗的；平民的"], "demure": ["Quiet, modest, reserved.", "文靜的；端莊的"], "denouement": ["The final resolution of the plot of a story.", "結局；收場"], "dermatitis": ["Inflammation of the skin.", "皮膚炎"], "dermatophobia": ["An abnormal fear of skin disease or skin lesions.", "皮膚病恐懼症"], "desperado": ["A reckless and dangerous criminal, especially in the Old West.", "亡命之徒"], "despot": ["One who has total power and rules brutally.", "暴君；獨裁者"], "despotic": ["Exercising absolute power in a cruel way.", "專制的；暴虐的"], "despotism": ["Rule by a single authority with absolute power.", "專制統治"], "detritus": ["Waste or debris of any kind; loose fragments.", "碎屑；殘骸"], "developing": ["In the process of growth or economic advancement.", "發展中的"], "devout": ["Sincere, religious.", "虔誠的"], "dexter": ["On or starting from the wearer's right.", "右側的(紋章學)"], "dexterity": ["Mental or physical skill.", "靈巧；敏捷"]});

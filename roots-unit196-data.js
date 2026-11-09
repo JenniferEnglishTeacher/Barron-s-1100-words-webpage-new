@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "lean",
     "pos": "adj./v.",
     "definition": "Thin and fit; to bend or incline.",
-    "chinese": "瘦的;傾斜",
+    "chinese": "瘦的；傾斜",
     "synonyms": "",
     "root": "hlæne (thin), from Old English",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thin and fit; to bend or incline.",
-     "chinese": "瘦的;傾斜"
+     "chinese": "瘦的；傾斜"
     }
    },
    {
     "word": "leaning",
     "pos": "n.",
     "definition": "A tendency or inclination toward something.",
-    "chinese": "傾向;偏好",
+    "chinese": "傾向；偏好",
     "synonyms": "",
     "root": "hleonian (to lean), from Old English",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A tendency or inclination toward something.",
-     "chinese": "傾向;偏好"
+     "chinese": "傾向；偏好"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "lecture",
     "pos": "n./v.",
     "definition": "An educational talk given to an audience; to give a critical talking-to.",
-    "chinese": "講座;訓話",
+    "chinese": "講座；訓話",
     "synonyms": "",
     "root": "legere (to read), from Latin",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An educational talk given to an audience; to give a critical talking-to.",
-     "chinese": "講座;訓話"
+     "chinese": "講座；訓話"
     }
    },
    {
     "word": "legacy",
     "pos": "n.",
     "definition": "Something handed down from a predecessor; a lasting impact.",
-    "chinese": "遺產;傳承",
+    "chinese": "遺產；傳承",
     "synonyms": "",
     "root": "legatus (deputy, ambassador), from Latin",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something handed down from a predecessor; a lasting impact.",
-     "chinese": "遺產;傳承"
+     "chinese": "遺產；傳承"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "lengthen",
     "pos": "v.",
     "definition": "To make or become longer.",
-    "chinese": "延長;拉長",
+    "chinese": "延長；拉長",
     "synonyms": "",
     "root": "length, from Old English lengðu",
     "group": "",
@@ -210,7 +210,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become longer.",
-     "chinese": "延長;拉長"
+     "chinese": "延長；拉長"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "lethargy",
     "pos": "n.",
     "definition": "A lack of energy or enthusiasm.",
-    "chinese": "無精打采;倦怠",
+    "chinese": "無精打采；倦怠",
     "synonyms": "",
     "root": "lethargos (forgetful, drowsy), from Greek",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of energy or enthusiasm.",
-     "chinese": "無精打采;倦怠"
+     "chinese": "無精打采；倦怠"
     }
    },
    {
     "word": "lettered",
     "pos": "adj.",
     "definition": "Well-educated, especially in literature.",
-    "chinese": "有學問的;識字的",
+    "chinese": "有學問的；識字的",
     "synonyms": "",
     "root": "littera (letter), from Latin",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Well-educated, especially in literature.",
-     "chinese": "有學問的;識字的"
+     "chinese": "有學問的；識字的"
     }
    },
    {
     "word": "level-headed",
     "pos": "adj.",
     "definition": "Having sound judgment; calm and sensible.",
-    "chinese": "冷靜穩重的;頭腦清醒的",
+    "chinese": "冷靜穩重的；頭腦清醒的",
     "synonyms": "",
     "root": "level, from Latin libella + head, from Old English",
     "group": "",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having sound judgment; calm and sensible.",
-     "chinese": "冷靜穩重的;頭腦清醒的"
+     "chinese": "冷靜穩重的；頭腦清醒的"
     }
    },
    {
@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     "word": "leviathan",
     "pos": "n.",
     "definition": "Something enormous or extremely powerful, especially a sea monster.",
-    "chinese": "龐然大物;海怪",
+    "chinese": "龐然大物；海怪",
     "synonyms": "",
     "root": "livyathan (sea monster), from Hebrew",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something enormous or extremely powerful, especially a sea monster.",
-     "chinese": "龐然大物;海怪"
+     "chinese": "龐然大物；海怪"
     }
    },
    {
     "word": "levigate",
     "pos": "v.",
     "definition": "To grind or rub into a fine smooth powder or paste.",
-    "chinese": "研磨成粉;使光滑",
+    "chinese": "研磨成粉；使光滑",
     "synonyms": "",
     "root": "levigare (to make smooth), from Latin",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To grind or rub into a fine smooth powder or paste.",
-     "chinese": "研磨成粉;使光滑"
+     "chinese": "研磨成粉；使光滑"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "levitation",
     "pos": "n.",
     "definition": "The act of rising or floating in the air, seemingly without physical means.",
-    "chinese": "懸浮;漂浮",
+    "chinese": "懸浮；漂浮",
     "synonyms": "",
     "root": "levis (light), from Latin",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of rising or floating in the air, seemingly without physical means.",
-     "chinese": "懸浮;漂浮"
+     "chinese": "懸浮；漂浮"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "lewd",
     "pos": "adj.",
     "definition": "Crude and offensive in a sexual way.",
-    "chinese": "淫穢的;猥褻的",
+    "chinese": "淫穢的；猥褻的",
     "synonyms": "",
     "root": "læwede (lay, unlearned), from Old English",
     "group": "",
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Crude and offensive in a sexual way.",
-     "chinese": "淫穢的;猥褻的"
+     "chinese": "淫穢的；猥褻的"
     }
    },
    {
@@ -618,7 +618,7 @@ window.FLASHCARD_UNITS = {
     "word": "liaison",
     "pos": "n.",
     "definition": "A person who liaises between groups; a close relationship or connection.",
-    "chinese": "聯絡人;聯繫",
+    "chinese": "聯絡人；聯繫",
     "synonyms": "",
     "root": "liaison (bond, connection), from French",
     "group": "",
@@ -630,14 +630,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who liaises between groups; a close relationship or connection.",
-     "chinese": "聯絡人;聯繫"
+     "chinese": "聯絡人；聯繫"
     }
    },
    {
     "word": "libation",
     "pos": "n.",
     "definition": "A drink poured out as an offering; a drink, often alcoholic.",
-    "chinese": "祭酒;飲品",
+    "chinese": "祭酒；飲品",
     "synonyms": "",
     "root": "libare (to pour as an offering), from Latin",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A drink poured out as an offering; a drink, often alcoholic.",
-     "chinese": "祭酒;飲品"
+     "chinese": "祭酒；飲品"
     }
    },
    {
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "word": "liberal",
     "pos": "adj./n.",
     "definition": "Open to new behavior or opinions; generous.",
-    "chinese": "自由派的;慷慨的",
+    "chinese": "自由派的；慷慨的",
     "synonyms": "",
     "root": "liber (free), from Latin",
     "group": "",
@@ -687,14 +687,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Open to new behavior or opinions; generous.",
-     "chinese": "自由派的;慷慨的"
+     "chinese": "自由派的；慷慨的"
     }
    },
    {
     "word": "liberality",
     "pos": "n.",
     "definition": "Generosity; openness of mind.",
-    "chinese": "慷慨;寬宏大量",
+    "chinese": "慷慨；寬宏大量",
     "synonyms": "",
     "root": "liber (free), from Latin",
     "group": "",
@@ -706,7 +706,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Generosity; openness of mind.",
-     "chinese": "慷慨;寬宏大量"
+     "chinese": "慷慨；寬宏大量"
     }
    },
    {
@@ -751,7 +751,7 @@ window.FLASHCARD_UNITS = {
     "word": "libidinous",
     "pos": "adj.",
     "definition": "Having or showing excessive sexual desire.",
-    "chinese": "淫蕩的;好色的",
+    "chinese": "淫蕩的；好色的",
     "synonyms": "",
     "root": "libido (desire, lust), from Latin",
     "group": "",
@@ -763,14 +763,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing excessive sexual desire.",
-     "chinese": "淫蕩的;好色的"
+     "chinese": "淫蕩的；好色的"
     }
    },
    {
     "word": "libido",
     "pos": "n.",
     "definition": "Sexual desire; psychic energy generally.",
-    "chinese": "性慾;力比多",
+    "chinese": "性慾；力比多",
     "synonyms": "",
     "root": "libido (desire, lust), from Latin",
     "group": "",
@@ -782,7 +782,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sexual desire; psychic energy generally.",
-     "chinese": "性慾;力比多"
+     "chinese": "性慾；力比多"
     }
    },
    {
@@ -827,7 +827,7 @@ window.FLASHCARD_UNITS = {
     "word": "license",
     "pos": "n./v.",
     "definition": "Official permission to do something; freedom to deviate from convention.",
-    "chinese": "執照;許可",
+    "chinese": "執照；許可",
     "synonyms": "",
     "root": "licentia (freedom, license), from Latin",
     "group": "",
@@ -839,7 +839,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Official permission to do something; freedom to deviate from convention.",
-     "chinese": "執照;許可"
+     "chinese": "執照；許可"
     }
    },
    {
@@ -865,7 +865,7 @@ window.FLASHCARD_UNITS = {
     "word": "lickerish",
     "pos": "adj.",
     "definition": "Lustful or eager for pleasure; fond of delicious food.",
-    "chinese": "貪婪的;好色的",
+    "chinese": "貪婪的；好色的",
     "synonyms": "",
     "root": "likerous (pleasant, delicious), from Old French",
     "group": "",
@@ -877,14 +877,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lustful or eager for pleasure; fond of delicious food.",
-     "chinese": "貪婪的;好色的"
+     "chinese": "貪婪的；好色的"
     }
    },
    {
     "word": "lifeless",
     "pos": "adj.",
     "definition": "Dead; lacking energy or vitality.",
-    "chinese": "沒有生命的;無生氣的",
+    "chinese": "沒有生命的；無生氣的",
     "synonyms": "",
     "root": "life, from Old English lif + -less",
     "group": "",
@@ -896,14 +896,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dead; lacking energy or vitality.",
-     "chinese": "沒有生命的;無生氣的"
+     "chinese": "沒有生命的；無生氣的"
     }
    },
    {
     "word": "lightheaded",
     "pos": "adj.",
     "definition": "Dizzy or faint; frivolous.",
-    "chinese": "頭暈的;輕浮的",
+    "chinese": "頭暈的；輕浮的",
     "synonyms": "",
     "root": "light + head, from Old English",
     "group": "",
@@ -915,14 +915,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dizzy or faint; frivolous.",
-     "chinese": "頭暈的;輕浮的"
+     "chinese": "頭暈的；輕浮的"
     }
    },
    {
     "word": "lilliputian",
     "pos": "adj./n.",
     "definition": "Extremely small; trivial.",
-    "chinese": "極小的;微不足道的",
+    "chinese": "極小的；微不足道的",
     "synonyms": "",
     "root": "from Lilliput, the imaginary land of tiny people in Gulliver's Travels",
     "group": "",
@@ -934,14 +934,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely small; trivial.",
-     "chinese": "極小的;微不足道的"
+     "chinese": "極小的；微不足道的"
     }
    },
    {
     "word": "lily-livered",
     "pos": "adj.",
     "definition": "Lacking courage; cowardly.",
-    "chinese": "膽小的;懦弱的",
+    "chinese": "膽小的；懦弱的",
     "synonyms": "",
     "root": "lily (pale flower) + liver, from the belief a pale liver indicated cowardice",
     "group": "",
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking courage; cowardly.",
-     "chinese": "膽小的;懦弱的"
+     "chinese": "膽小的；懦弱的"
     }
    }
   ],
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"lean": ["Thin and fit; to bend or incline.", "瘦的;傾斜"], "leaning": ["A tendency or inclination toward something.", "傾向;偏好"], "learned": ["Having much knowledge acquired through study.", "博學的"], "lecher": ["Man with strong sexual desires.", "好色之徒"], "lecture": ["An educational talk given to an audience; to give a critical talking-to.", "講座;訓話"], "legacy": ["Something handed down from a predecessor; a lasting impact.", "遺產;傳承"], "legalize": ["To make something lawful.", "使合法化"], "legerdemain": ["Sleight of hand, deceptive adroitness.", "戲法；騙術"], "legion": ["Great in number.", "眾多的；軍團"], "legitimate": ["Conforming to the law or rules; valid or justifiable.", "合法的；正當的"], "lengthen": ["To make or become longer.", "延長;拉長"], "lenient": ["Permissive, merciful, or tolerant.", "寬容的；仁慈的"], "leonine": ["Of or characteristic of or resembling a lion.", "獅子般的"], "lethal": ["Deadly.", "致命的；致死的"], "lethargic": ["Lazy, indifferent.", "昏睡的；遲鈍的"], "lethargy": ["A lack of energy or enthusiasm.", "無精打采;倦怠"], "lettered": ["Well-educated, especially in literature.", "有學問的;識字的"], "level-headed": ["Having sound judgment; calm and sensible.", "冷靜穩重的;頭腦清醒的"], "levelheaded": ["Having sound judgment; calm and sensible.", "頭腦冷靜的"], "leviathan": ["Something enormous or extremely powerful, especially a sea monster.", "龐然大物;海怪"], "levigate": ["To grind or rub into a fine smooth powder or paste.", "研磨成粉;使光滑"], "levitate": ["Cause to rise in the air and float.", "使懸浮；漂浮"], "levitation": ["The act of rising or floating in the air, seemingly without physical means.", "懸浮;漂浮"], "levity": ["Lightness of disposition.", "輕浮；輕率"], "lewd": ["Crude and offensive in a sexual way.", "淫穢的;猥褻的"], "lexicographer": ["A person who compiles dictionaries.", "詞典編纂者"], "lexicography": ["The practice of compiling dictionaries.", "詞典編纂學"], "lexicology": ["The study of the form, meaning, and behavior of words.", "詞彙學"], "lexiphanes": ["A person who uses pretentious or bombastic vocabulary.", "賣弄辭藻的人"], "lexiphanic": ["Using pretentious or bombastic language.", "賣弄辭藻的"], "lexiphanicism": ["The practice of using pretentious or bombastic vocabulary.", "賣弄辭藻的作風"], "liability": ["Something for which one is legally responsible, involving disadvantage or risk.", "責任；負債"], "liaison": ["A person who liaises between groups; a close relationship or connection.", "聯絡人;聯繫"], "libation": ["A drink poured out as an offering; a drink, often alcoholic.", "祭酒;飲品"], "libel": ["Degradation by writing or publishing.", "誹謗；中傷"], "liberal": ["Open to new behavior or opinions; generous.", "自由派的;慷慨的"], "liberality": ["Generosity; openness of mind.", "慷慨;寬宏大量"], "libertarian": ["Advocating principles of liberty and free will.", "自由意志主義的"], "libertine": ["A person who behaves without moral restraint, especially sexually.", "放蕩不羈者"], "libidinous": ["Having or showing excessive sexual desire.", "淫蕩的;好色的"], "libido": ["Sexual desire; psychic energy generally.", "性慾;力比多"], "librarian": ["A person who manages or works in a library.", "圖書館員"], "library": ["A building or room containing collections of books for reading or borrowing.", "圖書館"], "license": ["Official permission to do something; freedom to deviate from convention.", "執照;許可"], "licentious": ["Displaying a lack of moral or legal restraints.", "放蕩的；放縱的"], "lickerish": ["Lustful or eager for pleasure; fond of delicious food.", "貪婪的;好色的"], "lifeless": ["Dead; lacking energy or vitality.", "沒有生命的;無生氣的"], "lightheaded": ["Dizzy or faint; frivolous.", "頭暈的;輕浮的"], "lilliputian": ["Extremely small; trivial.", "極小的;微不足道的"], "lily-livered": ["Lacking courage; cowardly.", "膽小的;懦弱的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"lean": ["Thin and fit; to bend or incline.", "瘦的；傾斜"], "leaning": ["A tendency or inclination toward something.", "傾向；偏好"], "learned": ["Having much knowledge acquired through study.", "博學的"], "lecher": ["Man with strong sexual desires.", "好色之徒"], "lecture": ["An educational talk given to an audience; to give a critical talking-to.", "講座；訓話"], "legacy": ["Something handed down from a predecessor; a lasting impact.", "遺產；傳承"], "legalize": ["To make something lawful.", "使合法化"], "legerdemain": ["Sleight of hand, deceptive adroitness.", "戲法；騙術"], "legion": ["Great in number.", "眾多的；軍團"], "legitimate": ["Conforming to the law or rules; valid or justifiable.", "合法的；正當的"], "lengthen": ["To make or become longer.", "延長；拉長"], "lenient": ["Permissive, merciful, or tolerant.", "寬容的；仁慈的"], "leonine": ["Of or characteristic of or resembling a lion.", "獅子般的"], "lethal": ["Deadly.", "致命的；致死的"], "lethargic": ["Lazy, indifferent.", "昏睡的；遲鈍的"], "lethargy": ["A lack of energy or enthusiasm.", "無精打采；倦怠"], "lettered": ["Well-educated, especially in literature.", "有學問的；識字的"], "level-headed": ["Having sound judgment; calm and sensible.", "冷靜穩重的；頭腦清醒的"], "levelheaded": ["Having sound judgment; calm and sensible.", "頭腦冷靜的"], "leviathan": ["Something enormous or extremely powerful, especially a sea monster.", "龐然大物；海怪"], "levigate": ["To grind or rub into a fine smooth powder or paste.", "研磨成粉；使光滑"], "levitate": ["Cause to rise in the air and float.", "使懸浮；漂浮"], "levitation": ["The act of rising or floating in the air, seemingly without physical means.", "懸浮；漂浮"], "levity": ["Lightness of disposition.", "輕浮；輕率"], "lewd": ["Crude and offensive in a sexual way.", "淫穢的；猥褻的"], "lexicographer": ["A person who compiles dictionaries.", "詞典編纂者"], "lexicography": ["The practice of compiling dictionaries.", "詞典編纂學"], "lexicology": ["The study of the form, meaning, and behavior of words.", "詞彙學"], "lexiphanes": ["A person who uses pretentious or bombastic vocabulary.", "賣弄辭藻的人"], "lexiphanic": ["Using pretentious or bombastic language.", "賣弄辭藻的"], "lexiphanicism": ["The practice of using pretentious or bombastic vocabulary.", "賣弄辭藻的作風"], "liability": ["Something for which one is legally responsible, involving disadvantage or risk.", "責任；負債"], "liaison": ["A person who liaises between groups; a close relationship or connection.", "聯絡人；聯繫"], "libation": ["A drink poured out as an offering; a drink, often alcoholic.", "祭酒；飲品"], "libel": ["Degradation by writing or publishing.", "誹謗；中傷"], "liberal": ["Open to new behavior or opinions; generous.", "自由派的；慷慨的"], "liberality": ["Generosity; openness of mind.", "慷慨；寬宏大量"], "libertarian": ["Advocating principles of liberty and free will.", "自由意志主義的"], "libertine": ["A person who behaves without moral restraint, especially sexually.", "放蕩不羈者"], "libidinous": ["Having or showing excessive sexual desire.", "淫蕩的；好色的"], "libido": ["Sexual desire; psychic energy generally.", "性慾；力比多"], "librarian": ["A person who manages or works in a library.", "圖書館員"], "library": ["A building or room containing collections of books for reading or borrowing.", "圖書館"], "license": ["Official permission to do something; freedom to deviate from convention.", "執照；許可"], "licentious": ["Displaying a lack of moral or legal restraints.", "放蕩的；放縱的"], "lickerish": ["Lustful or eager for pleasure; fond of delicious food.", "貪婪的；好色的"], "lifeless": ["Dead; lacking energy or vitality.", "沒有生命的；無生氣的"], "lightheaded": ["Dizzy or faint; frivolous.", "頭暈的；輕浮的"], "lilliputian": ["Extremely small; trivial.", "極小的；微不足道的"], "lily-livered": ["Lacking courage; cowardly.", "膽小的；懦弱的"]});

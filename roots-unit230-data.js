@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "transformation",
     "pos": "n.",
     "definition": "A complete change in form, nature, or appearance.",
-    "chinese": "轉變;變革",
+    "chinese": "轉變；變革",
     "synonyms": "",
     "root": "transformare, from Latin trans- (across) + forma (form)",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A complete change in form, nature, or appearance.",
-     "chinese": "轉變;變革"
+     "chinese": "轉變；變革"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "transmogrify",
     "pos": "v.",
     "definition": "To transform in a surprising or magical way.",
-    "chinese": "奇異地變形;變形",
+    "chinese": "奇異地變形；變形",
     "synonyms": "",
     "root": "of uncertain origin, possibly a fanciful blend of transform and modify",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To transform in a surprising or magical way.",
-     "chinese": "奇異地變形;變形"
+     "chinese": "奇異地變形；變形"
     }
    },
    {
     "word": "transpire",
     "pos": "v.",
     "definition": "To happen or occur; to become known.",
-    "chinese": "發生;洩露",
+    "chinese": "發生；洩露",
     "synonyms": "",
     "root": "transpirare, from Latin trans- (through) + spirare (to breathe)",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To happen or occur; to become known.",
-     "chinese": "發生;洩露"
+     "chinese": "發生；洩露"
     }
    },
    {
     "word": "treatise",
     "pos": "n.",
     "definition": "A formal written work dealing systematically with a subject.",
-    "chinese": "論文;專著",
+    "chinese": "論文；專著",
     "synonyms": "",
     "root": "tretiz, from Old French traitier (to treat, deal with), from Latin tractare",
     "group": "",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal written work dealing systematically with a subject.",
-     "chinese": "論文;專著"
+     "chinese": "論文；專著"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "tribulation",
     "pos": "n.",
     "definition": "A state of great trouble or suffering.",
-    "chinese": "苦難;磨難",
+    "chinese": "苦難；磨難",
     "synonyms": "",
     "root": "tribulatio, from Latin tribulare (to press, oppress)",
     "group": "",
@@ -212,14 +212,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A state of great trouble or suffering.",
-     "chinese": "苦難;磨難"
+     "chinese": "苦難；磨難"
     }
    },
    {
     "word": "tribute",
     "pos": "n.",
     "definition": "An act or statement of respect or gratitude; payment made to acknowledge submission.",
-    "chinese": "致敬;貢品",
+    "chinese": "致敬；貢品",
     "synonyms": "",
     "root": "tributum, from Latin tribuere (to allot, grant)",
     "group": "",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An act or statement of respect or gratitude; payment made to acknowledge submission.",
-     "chinese": "致敬;貢品"
+     "chinese": "致敬；貢品"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "trickery",
     "pos": "n.",
     "definition": "The use of deceptive tactics to deceive someone.",
-    "chinese": "詭計;欺騙手段",
+    "chinese": "詭計；欺騙手段",
     "synonyms": "",
     "root": "trick, from Old French trique (a trick), of uncertain further origin",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of deceptive tactics to deceive someone.",
-     "chinese": "詭計;欺騙手段"
+     "chinese": "詭計；欺騙手段"
     }
    },
    {
     "word": "trifle",
     "pos": "n./v.",
     "definition": "A thing of little importance or value; to treat something casually.",
-    "chinese": "瑣事;輕視",
+    "chinese": "瑣事；輕視",
     "synonyms": "",
     "root": "trufle, from Old French trufe (mockery), of uncertain further origin",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A thing of little importance or value; to treat something casually.",
-     "chinese": "瑣事;輕視"
+     "chinese": "瑣事；輕視"
     }
    },
    {
     "word": "trifler",
     "pos": "n.",
     "definition": "A person who treats important matters casually or without seriousness.",
-    "chinese": "輕浮的人;玩世不恭者",
+    "chinese": "輕浮的人；玩世不恭者",
     "synonyms": "",
     "root": "trifle, from Old French trufe (mockery) + -er",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who treats important matters casually or without seriousness.",
-     "chinese": "輕浮的人;玩世不恭者"
+     "chinese": "輕浮的人；玩世不恭者"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "trinket",
     "pos": "n.",
     "definition": "A small ornament or piece of jewelry of little value.",
-    "chinese": "小飾物;小玩意",
+    "chinese": "小飾物；小玩意",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to trick or trinquet (a small object)",
     "group": "",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small ornament or piece of jewelry of little value.",
-     "chinese": "小飾物;小玩意"
+     "chinese": "小飾物；小玩意"
     }
    },
    {
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
     "word": "triumvirate",
     "pos": "n.",
     "definition": "A group of three people sharing power or authority.",
-    "chinese": "三頭政治;三人團體",
+    "chinese": "三頭政治；三人團體",
     "synonyms": "",
     "root": "triumviratus, from Latin tri- (three) + vir (man)",
     "group": "",
@@ -425,14 +425,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A group of three people sharing power or authority.",
-     "chinese": "三頭政治;三人團體"
+     "chinese": "三頭政治；三人團體"
     }
    },
    {
     "word": "triviality",
     "pos": "n.",
     "definition": "The state of being of little importance or value.",
-    "chinese": "瑣碎;微不足道",
+    "chinese": "瑣碎；微不足道",
     "synonyms": "",
     "root": "trivialis (commonplace), from Latin trivium (a place where three roads meet)",
     "group": "",
@@ -444,7 +444,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being of little importance or value.",
-     "chinese": "瑣碎;微不足道"
+     "chinese": "瑣碎；微不足道"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "troglodyte",
     "pos": "n.",
     "definition": "A cave-dweller; a person considered old-fashioned or uncivilized.",
-    "chinese": "穴居人;粗野之人",
+    "chinese": "穴居人；粗野之人",
     "synonyms": "",
     "root": "trogle (a hole) + dyein (to enter), from Greek",
     "group": "",
@@ -482,14 +482,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A cave-dweller; a person considered old-fashioned or uncivilized.",
-     "chinese": "穴居人;粗野之人"
+     "chinese": "穴居人；粗野之人"
     }
    },
    {
     "word": "troglodytic",
     "pos": "adj.",
     "definition": "Relating to cave-dwellers; old-fashioned or primitive.",
-    "chinese": "穴居的;守舊的",
+    "chinese": "穴居的；守舊的",
     "synonyms": "",
     "root": "trogle (a hole) + dyein (to enter), from Greek",
     "group": "",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to cave-dwellers; old-fashioned or primitive.",
-     "chinese": "穴居的;守舊的"
+     "chinese": "穴居的；守舊的"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "truckle",
     "pos": "v.",
     "definition": "To submit or behave obsequiously toward someone.",
-    "chinese": "卑躬屈膝;奉承屈從",
+    "chinese": "卑躬屈膝；奉承屈從",
     "synonyms": "",
     "root": "truckle bed (a low bed on wheels, once used by servants), from Latin trochlea (a pulley)",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To submit or behave obsequiously toward someone.",
-     "chinese": "卑躬屈膝;奉承屈從"
+     "chinese": "卑躬屈膝；奉承屈從"
     }
    },
    {
     "word": "truckling",
     "pos": "n./adj.",
     "definition": "The act of submitting or behaving obsequiously.",
-    "chinese": "卑躬屈膝;奉承屈從的",
+    "chinese": "卑躬屈膝；奉承屈從的",
     "synonyms": "",
     "root": "truckle bed (a low bed on wheels), from Latin trochlea (a pulley)",
     "group": "",
@@ -558,14 +558,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of submitting or behaving obsequiously.",
-     "chinese": "卑躬屈膝;奉承屈從的"
+     "chinese": "卑躬屈膝；奉承屈從的"
     }
    },
    {
     "word": "truculence",
     "pos": "n.",
     "definition": "Eagerness to fight or argue; fierce aggressiveness.",
-    "chinese": "好鬥;凶悍",
+    "chinese": "好鬥；凶悍",
     "synonyms": "",
     "root": "truculentia, from Latin trux (fierce)",
     "group": "",
@@ -577,7 +577,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Eagerness to fight or argue; fierce aggressiveness.",
-     "chinese": "好鬥;凶悍"
+     "chinese": "好鬥；凶悍"
     }
    },
    {
@@ -622,7 +622,7 @@ window.FLASHCARD_UNITS = {
     "word": "trumpery",
     "pos": "n./adj.",
     "definition": "Showy but worthless items; nonsense.",
-    "chinese": "華而不實之物;胡言亂語",
+    "chinese": "華而不實之物；胡言亂語",
     "synonyms": "",
     "root": "tromperie (deceit), from Old French tromper (to deceive)",
     "group": "",
@@ -634,7 +634,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showy but worthless items; nonsense.",
-     "chinese": "華而不實之物;胡言亂語"
+     "chinese": "華而不實之物；胡言亂語"
     }
    },
    {
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "word": "trustworthiness",
     "pos": "n.",
     "definition": "The quality of deserving trust and confidence.",
-    "chinese": "可信賴度;可靠性",
+    "chinese": "可信賴度；可靠性",
     "synonyms": "",
     "root": "trust, from Old Norse traust + worthy + -ness",
     "group": "",
@@ -693,7 +693,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of deserving trust and confidence.",
-     "chinese": "可信賴度;可靠性"
+     "chinese": "可信賴度；可靠性"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "truthful",
     "pos": "adj.",
     "definition": "Telling or expressing the truth; honest.",
-    "chinese": "誠實的;真實的",
+    "chinese": "誠實的；真實的",
     "synonyms": "",
     "root": "truth, from Old English treowþ + -ful",
     "group": "",
@@ -731,7 +731,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Telling or expressing the truth; honest.",
-     "chinese": "誠實的;真實的"
+     "chinese": "誠實的；真實的"
     }
    },
    {
@@ -757,7 +757,7 @@ window.FLASHCARD_UNITS = {
     "word": "tumid",
     "pos": "adj.",
     "definition": "Swollen or bulging; pompous in language.",
-    "chinese": "腫脹的;誇張的",
+    "chinese": "腫脹的；誇張的",
     "synonyms": "",
     "root": "tumidus, from Latin tumere (to swell)",
     "group": "",
@@ -769,7 +769,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Swollen or bulging; pompous in language.",
-     "chinese": "腫脹的;誇張的"
+     "chinese": "腫脹的；誇張的"
     }
    },
    {
@@ -795,7 +795,7 @@ window.FLASHCARD_UNITS = {
     "word": "turbid",
     "pos": "adj.",
     "definition": "Cloudy or muddy, as with sediment; confused.",
-    "chinese": "混濁的;混亂的",
+    "chinese": "混濁的；混亂的",
     "synonyms": "",
     "root": "turbidus, from Latin turba (disturbance, crowd)",
     "group": "",
@@ -807,7 +807,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cloudy or muddy, as with sediment; confused.",
-     "chinese": "混濁的;混亂的"
+     "chinese": "混濁的；混亂的"
     }
    },
    {
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
     "word": "turncoat",
     "pos": "n.",
     "definition": "A person who deserts one party or cause for another.",
-    "chinese": "叛徒;變節者",
+    "chinese": "叛徒；變節者",
     "synonyms": "",
     "root": "turn, from Latin tornare + coat, referring to switching sides by reversing one's coat",
     "group": "",
@@ -902,7 +902,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who deserts one party or cause for another.",
-     "chinese": "叛徒;變節者"
+     "chinese": "叛徒；變節者"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "turret",
     "pos": "n.",
     "definition": "A small tower on a building, often at a corner.",
-    "chinese": "小塔樓;砲塔",
+    "chinese": "小塔樓；砲塔",
     "synonyms": "",
     "root": "tourete, from Old French tour (tower), diminutive form",
     "group": "",
@@ -940,7 +940,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small tower on a building, often at a corner.",
-     "chinese": "小塔樓;砲塔"
+     "chinese": "小塔樓；砲塔"
     }
    },
    {
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"transformation": ["A complete change in form, nature, or appearance.", "轉變;變革"], "translucent": ["Allowing light to pass through but not transparent.", "半透明的"], "transmogrify": ["To transform in a surprising or magical way.", "奇異地變形;變形"], "transpire": ["To happen or occur; to become known.", "發生;洩露"], "treatise": ["A formal written work dealing systematically with a subject.", "論文;專著"], "tremulous": ["Quivering.", "顫抖的"], "trenchant": ["Keen, incisive.", "銳利的；一針見血的"], "trend": ["General direction, fashion.", "趨勢；傾向"], "trepidation": ["A feeling of fear or anxiety about something that may happen.", "恐懼；憂慮"], "treppenwitz": ["A witty remark thought of too late, after leaving a conversation.", "事後諸葛式妙語"], "tribulation": ["A state of great trouble or suffering.", "苦難;磨難"], "tribute": ["An act or statement of respect or gratitude; payment made to acknowledge submission.", "致敬;貢品"], "trichotillomania": ["A compulsive urge to pull out one's own hair.", "拔毛癖"], "trickery": ["The use of deceptive tactics to deceive someone.", "詭計;欺騙手段"], "trifle": ["A thing of little importance or value; to treat something casually.", "瑣事;輕視"], "trifler": ["A person who treats important matters casually or without seriousness.", "輕浮的人;玩世不恭者"], "trifling": ["Lacking significance; unimportant.", "瑣碎的"], "trinket": ["A small ornament or piece of jewelry of little value.", "小飾物;小玩意"], "triskaidekaphobia": ["An irrational fear of the number thirteen.", "十三恐懼症"], "trite": ["Unoriginal and stale due to overuse.", "陳腐的；老套的"], "triturate": ["To grind or crush into a fine powder.", "研磨成粉"], "triumvirate": ["A group of three people sharing power or authority.", "三頭政治;三人團體"], "triviality": ["The state of being of little importance or value.", "瑣碎;微不足道"], "trochee": ["A metrical foot in poetry consisting of a stressed syllable followed by an unstressed one.", "揚抑格(詩律)"], "troglodyte": ["A cave-dweller; a person considered old-fashioned or uncivilized.", "穴居人;粗野之人"], "troglodytic": ["Relating to cave-dwellers; old-fashioned or primitive.", "穴居的;守舊的"], "trollop": ["A promiscuous or disreputable woman (archaic, derogatory).", "放蕩的女人(古語,貶義)"], "truckle": ["To submit or behave obsequiously toward someone.", "卑躬屈膝;奉承屈從"], "truckling": ["The act of submitting or behaving obsequiously.", "卑躬屈膝;奉承屈從的"], "truculence": ["Eagerness to fight or argue; fierce aggressiveness.", "好鬥;凶悍"], "truculent": ["Ready to fight, cruel.", "好鬥的；兇暴的"], "trull": ["A promiscuous or disreputable woman (archaic, derogatory).", "蕩婦(古語,貶義)"], "trumpery": ["Showy but worthless items; nonsense.", "華而不實之物;胡言亂語"], "truncate": ["To shorten by cutting off.", "截短；縮短"], "truncated": ["Cut short.", "截短的；縮短的"], "trustworthiness": ["The quality of deserving trust and confidence.", "可信賴度;可靠性"], "trustworthy": ["Deserving of trust and confidence.", "值得信賴的"], "truthful": ["Telling or expressing the truth; honest.", "誠實的;真實的"], "tuff": ["A rock formed from compacted volcanic ash.", "凝灰岩"], "tumid": ["Swollen or bulging; pompous in language.", "腫脹的;誇張的"], "tumor": ["An abnormal growth of tissue in the body.", "腫瘤"], "turbid": ["Cloudy or muddy, as with sediment; confused.", "混濁的;混亂的"], "turbulence": ["Great unrest; turmoil or disorder.", "動盪；騷亂"], "turbulent": ["Unruly, agitated.", "動盪的"], "turgid": ["Swollen, excessively embellished in style or language.", "腫脹的；浮誇的"], "turmoil": ["A very puzzling scenario or situation; tumult.", "混亂"], "turncoat": ["A person who deserts one party or cause for another.", "叛徒;變節者"], "turpitude": ["Vileness, evil wickedness.", "卑鄙；墮落"], "turret": ["A small tower on a building, often at a corner.", "小塔樓;砲塔"], "tussle": ["Rough struggle.", "扭打；爭執"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"transformation": ["A complete change in form, nature, or appearance.", "轉變；變革"], "translucent": ["Allowing light to pass through but not transparent.", "半透明的"], "transmogrify": ["To transform in a surprising or magical way.", "奇異地變形；變形"], "transpire": ["To happen or occur; to become known.", "發生；洩露"], "treatise": ["A formal written work dealing systematically with a subject.", "論文；專著"], "tremulous": ["Quivering.", "顫抖的"], "trenchant": ["Keen, incisive.", "銳利的；一針見血的"], "trend": ["General direction, fashion.", "趨勢；傾向"], "trepidation": ["A feeling of fear or anxiety about something that may happen.", "恐懼；憂慮"], "treppenwitz": ["A witty remark thought of too late, after leaving a conversation.", "事後諸葛式妙語"], "tribulation": ["A state of great trouble or suffering.", "苦難；磨難"], "tribute": ["An act or statement of respect or gratitude; payment made to acknowledge submission.", "致敬；貢品"], "trichotillomania": ["A compulsive urge to pull out one's own hair.", "拔毛癖"], "trickery": ["The use of deceptive tactics to deceive someone.", "詭計；欺騙手段"], "trifle": ["A thing of little importance or value; to treat something casually.", "瑣事；輕視"], "trifler": ["A person who treats important matters casually or without seriousness.", "輕浮的人；玩世不恭者"], "trifling": ["Lacking significance; unimportant.", "瑣碎的"], "trinket": ["A small ornament or piece of jewelry of little value.", "小飾物；小玩意"], "triskaidekaphobia": ["An irrational fear of the number thirteen.", "十三恐懼症"], "trite": ["Unoriginal and stale due to overuse.", "陳腐的；老套的"], "triturate": ["To grind or crush into a fine powder.", "研磨成粉"], "triumvirate": ["A group of three people sharing power or authority.", "三頭政治；三人團體"], "triviality": ["The state of being of little importance or value.", "瑣碎；微不足道"], "trochee": ["A metrical foot in poetry consisting of a stressed syllable followed by an unstressed one.", "揚抑格(詩律)"], "troglodyte": ["A cave-dweller; a person considered old-fashioned or uncivilized.", "穴居人；粗野之人"], "troglodytic": ["Relating to cave-dwellers; old-fashioned or primitive.", "穴居的；守舊的"], "trollop": ["A promiscuous or disreputable woman (archaic, derogatory).", "放蕩的女人(古語,貶義)"], "truckle": ["To submit or behave obsequiously toward someone.", "卑躬屈膝；奉承屈從"], "truckling": ["The act of submitting or behaving obsequiously.", "卑躬屈膝；奉承屈從的"], "truculence": ["Eagerness to fight or argue; fierce aggressiveness.", "好鬥；凶悍"], "truculent": ["Ready to fight, cruel.", "好鬥的；兇暴的"], "trull": ["A promiscuous or disreputable woman (archaic, derogatory).", "蕩婦(古語,貶義)"], "trumpery": ["Showy but worthless items; nonsense.", "華而不實之物；胡言亂語"], "truncate": ["To shorten by cutting off.", "截短；縮短"], "truncated": ["Cut short.", "截短的；縮短的"], "trustworthiness": ["The quality of deserving trust and confidence.", "可信賴度；可靠性"], "trustworthy": ["Deserving of trust and confidence.", "值得信賴的"], "truthful": ["Telling or expressing the truth; honest.", "誠實的；真實的"], "tuff": ["A rock formed from compacted volcanic ash.", "凝灰岩"], "tumid": ["Swollen or bulging; pompous in language.", "腫脹的；誇張的"], "tumor": ["An abnormal growth of tissue in the body.", "腫瘤"], "turbid": ["Cloudy or muddy, as with sediment; confused.", "混濁的；混亂的"], "turbulence": ["Great unrest; turmoil or disorder.", "動盪；騷亂"], "turbulent": ["Unruly, agitated.", "動盪的"], "turgid": ["Swollen, excessively embellished in style or language.", "腫脹的；浮誇的"], "turmoil": ["A very puzzling scenario or situation; tumult.", "混亂"], "turncoat": ["A person who deserts one party or cause for another.", "叛徒；變節者"], "turpitude": ["Vileness, evil wickedness.", "卑鄙；墮落"], "turret": ["A small tower on a building, often at a corner.", "小塔樓；砲塔"], "tussle": ["Rough struggle.", "扭打；爭執"]});

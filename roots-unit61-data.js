@@ -372,7 +372,7 @@ window.FLASHCARD_UNITS = {
     "word": "recrimination",
     "pos": "n.",
     "definition": "An accusation made in response to one from another person.",
-    "chinese": "反責;互相指責",
+    "chinese": "反責；互相指責",
     "synonyms": "",
     "root": "re- (back) + criminari (to accuse), from Latin crimen (accusation)",
     "group": "re = 反向；再次",
@@ -386,7 +386,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An accusation made in response to one from another person.",
-     "chinese": "反責;互相指責"
+     "chinese": "反責；互相指責"
     }
    },
    {
@@ -412,7 +412,7 @@ window.FLASHCARD_UNITS = {
     "word": "recriminatory",
     "pos": "adj.",
     "definition": "Involving counter-accusations.",
-    "chinese": "反責性的;互相指責的",
+    "chinese": "反責性的；互相指責的",
     "synonyms": "",
     "root": "re- (back) + criminari (to accuse), from Latin crimen (accusation)",
     "group": "re = 反向；再次",
@@ -424,7 +424,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Involving counter-accusations.",
-     "chinese": "反責性的;互相指責的"
+     "chinese": "反責性的；互相指責的"
     }
    },
    {
@@ -471,7 +471,7 @@ window.FLASHCARD_UNITS = {
     "word": "redouble",
     "pos": "v.",
     "definition": "To increase greatly or double in intensity.",
-    "chinese": "加倍;倍增",
+    "chinese": "加倍；倍增",
     "synonyms": "",
     "root": "re- (again) + doubler (to double), from Old French, from Latin duplus",
     "group": "re = 反向；再次",
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To increase greatly or double in intensity.",
-     "chinese": "加倍;倍增"
+     "chinese": "加倍；倍增"
     }
    },
    {
@@ -644,7 +644,7 @@ window.FLASHCARD_UNITS = {
     "word": "reimbursement",
     "pos": "n.",
     "definition": "Repayment of money spent or lost.",
-    "chinese": "報銷;償還",
+    "chinese": "報銷；償還",
     "synonyms": "",
     "root": "re- (again) + imbursare (to put in a purse), from Latin bursa (purse)",
     "group": "re = 反向；再次",
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Repayment of money spent or lost.",
-     "chinese": "報銷;償還"
+     "chinese": "報銷；償還"
     }
    },
    {
@@ -682,7 +682,7 @@ window.FLASHCARD_UNITS = {
     "word": "reiterate",
     "pos": "v.",
     "definition": "To say something again for emphasis or clarity.",
-    "chinese": "重申;反覆申明",
+    "chinese": "重申；反覆申明",
     "synonyms": "",
     "root": "re- (again) + iterare (to repeat), from Latin iterum (again)",
     "group": "re = 反向；再次",
@@ -694,7 +694,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To say something again for emphasis or clarity.",
-     "chinese": "重申;反覆申明"
+     "chinese": "重申；反覆申明"
     }
    },
    {
@@ -764,7 +764,7 @@ window.FLASHCARD_UNITS = {
     "word": "relentless",
     "pos": "adj.",
     "definition": "Continuing without pause or weakening; persistent.",
-    "chinese": "無情的;不懈的",
+    "chinese": "無情的；不懈的",
     "synonyms": "",
     "root": "re- (again) + lenire (to soften), from Latin lenis (mild)",
     "group": "re = 反向；再次",
@@ -776,7 +776,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Continuing without pause or weakening; persistent.",
-     "chinese": "無情的;不懈的"
+     "chinese": "無情的；不懈的"
     }
    },
    {
@@ -2179,4 +2179,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"irrelevant": ["Not related to the subject.", "不相關的；不切題的"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "misrepresent": ["To give a false impression.", "歪曲；誤傳"], "raconteur": ["Skilled storyteller.", "善於講故事的人"], "rapport": ["Mutual understanding and harmony.", "融洽關係；默契"], "rebellion": ["An act of resistance against authority.", "反叛；叛亂"], "rebuff": ["To snub; to bluntly refuse.", "斷然拒絕"], "rebuke": ["To reprimand, reproach, criticize.", "斥責；指責"], "recalcitrant": ["Stubborn; disobedient; defiant.", "頑抗的"], "recant": ["To withdraw previous statements.", "撤回(聲明)；放棄(信仰)"], "recapitulate": ["To sum up, repeat.", "概述；複述"], "receptive": ["Open to new ideas.", "樂於接受的"], "reclusive": ["Solitary, shunning society.", "隱居的；離群索居的"], "recognizable": ["Easily identified.", "可辨識的；易識別的"], "recoil": ["To draw back.", "退縮"], "reconcile": ["To return to harmony.", "和解；調和"], "recondite": ["Secret, hidden, obscure.", "深奧的；隱蔽的"], "recount": ["To tell a story.", "敘述"], "recriminate": ["To make counter-accusations against someone who has made an accusation.", "反過來指責"], "recrimination": ["An accusation made in response to one from another person.", "反責;互相指責"], "recriminative": ["Involving mutual accusations.", "互相指責的"], "recriminatory": ["Involving counter-accusations.", "反責性的;互相指責的"], "redefine": ["To change the meaning of something.", "重新定義"], "redolent": ["Fragrant.", "芬芳的；使人想起...的"], "redouble": ["To increase greatly or double in intensity.", "加倍;倍增"], "redoubtable": ["Formidable.", "令人敬畏的；強大的"], "redress": ["To right a wrong, remedy.", "糾正；補償"], "reform": ["To improve by making changes.", "改革"], "refract": ["To distort, change.", "折射；使彎曲"], "refurbish": ["To restore, clean up.", "翻新；整修"], "refuse": ["To decline or reject.", "拒絕"], "refute": ["To prove wrong or false.", "駁斥；反駁"], "regurgitate": ["To vomit.", "反芻；吐出"], "reimbursement": ["Repayment of money spent or lost.", "報銷;償還"], "reincarnation": ["A second or new birth.", "輪迴轉世"], "reiterate": ["To say something again for emphasis or clarity.", "重申;反覆申明"], "reject": ["To dismiss or refuse to accept.", "拒絕；駁回"], "rejuvenate": ["To make something or someone look or feel younger, fresher, or more lively.", "使恢復活力；使年輕化"], "relegate": ["To assign to an inferior position.", "降級；貶謫"], "relentless": ["Continuing without pause or weakening; persistent.", "無情的;不懈的"], "relevant": ["Closely connected or appropriate to the matter at hand; important.", "相關的"], "relic": ["A custom or object that has been around for a very, very long time.", "遺跡；遺物"], "relinquish": ["To voluntarily give up or let go of something.", "放棄；交出"], "relocate": ["To move to a new place.", "搬遷"], "remedial": ["Intended to repair gaps in students' basic knowledge.", "補救教學的；矯正性的"], "remiss": ["Careless, negligent.", "怠忽職守的"], "remorse": ["Deep regret or guilt for a wrong committed.", "懊悔；悔恨"], "remote": ["Distant, hidden away.", "遙遠的"], "remuneration": ["Reward, pay.", "報酬；酬勞"], "renounce": ["To formally give up or reject a belief, cause, or claim.", "放棄；宣布放棄"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"irrelevant": ["Not related to the subject.", "不相關的；不切題的"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "misrepresent": ["To give a false impression.", "歪曲；誤傳"], "raconteur": ["Skilled storyteller.", "善於講故事的人"], "rapport": ["Mutual understanding and harmony.", "融洽關係；默契"], "rebellion": ["An act of resistance against authority.", "反叛；叛亂"], "rebuff": ["To snub; to bluntly refuse.", "斷然拒絕"], "rebuke": ["To reprimand, reproach, criticize.", "斥責；指責"], "recalcitrant": ["Stubborn; disobedient; defiant.", "頑抗的"], "recant": ["To withdraw previous statements.", "撤回(聲明)；放棄(信仰)"], "recapitulate": ["To sum up, repeat.", "概述；複述"], "receptive": ["Open to new ideas.", "樂於接受的"], "reclusive": ["Solitary, shunning society.", "隱居的；離群索居的"], "recognizable": ["Easily identified.", "可辨識的；易識別的"], "recoil": ["To draw back.", "退縮"], "reconcile": ["To return to harmony.", "和解；調和"], "recondite": ["Secret, hidden, obscure.", "深奧的；隱蔽的"], "recount": ["To tell a story.", "敘述"], "recriminate": ["To make counter-accusations against someone who has made an accusation.", "反過來指責"], "recrimination": ["An accusation made in response to one from another person.", "反責；互相指責"], "recriminative": ["Involving mutual accusations.", "互相指責的"], "recriminatory": ["Involving counter-accusations.", "反責性的；互相指責的"], "redefine": ["To change the meaning of something.", "重新定義"], "redolent": ["Fragrant.", "芬芳的；使人想起...的"], "redouble": ["To increase greatly or double in intensity.", "加倍；倍增"], "redoubtable": ["Formidable.", "令人敬畏的；強大的"], "redress": ["To right a wrong, remedy.", "糾正；補償"], "reform": ["To improve by making changes.", "改革"], "refract": ["To distort, change.", "折射；使彎曲"], "refurbish": ["To restore, clean up.", "翻新；整修"], "refuse": ["To decline or reject.", "拒絕"], "refute": ["To prove wrong or false.", "駁斥；反駁"], "regurgitate": ["To vomit.", "反芻；吐出"], "reimbursement": ["Repayment of money spent or lost.", "報銷；償還"], "reincarnation": ["A second or new birth.", "輪迴轉世"], "reiterate": ["To say something again for emphasis or clarity.", "重申；反覆申明"], "reject": ["To dismiss or refuse to accept.", "拒絕；駁回"], "rejuvenate": ["To make something or someone look or feel younger, fresher, or more lively.", "使恢復活力；使年輕化"], "relegate": ["To assign to an inferior position.", "降級；貶謫"], "relentless": ["Continuing without pause or weakening; persistent.", "無情的；不懈的"], "relevant": ["Closely connected or appropriate to the matter at hand; important.", "相關的"], "relic": ["A custom or object that has been around for a very, very long time.", "遺跡；遺物"], "relinquish": ["To voluntarily give up or let go of something.", "放棄；交出"], "relocate": ["To move to a new place.", "搬遷"], "remedial": ["Intended to repair gaps in students' basic knowledge.", "補救教學的；矯正性的"], "remiss": ["Careless, negligent.", "怠忽職守的"], "remorse": ["Deep regret or guilt for a wrong committed.", "懊悔；悔恨"], "remote": ["Distant, hidden away.", "遙遠的"], "remuneration": ["Reward, pay.", "報酬；酬勞"], "renounce": ["To formally give up or reject a belief, cause, or claim.", "放棄；宣布放棄"]});

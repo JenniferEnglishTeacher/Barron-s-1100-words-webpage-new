@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "abjection",
     "pos": "n.",
     "definition": "A state of complete misery, hopelessness, or degradation.",
-    "chinese": "卑賤;悲慘狀態",
+    "chinese": "卑賤；悲慘狀態",
     "synonyms": "",
     "root": "ab- (away) + jacere (to throw)",
     "group": "ject = 投；擲",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of complete misery, hopelessness, or degradation.",
-     "chinese": "卑賤;悲慘狀態"
+     "chinese": "卑賤；悲慘狀態"
     }
    },
    {
     "word": "dejected",
     "pos": "adj.",
     "definition": "Sad and depressed; disheartened.",
-    "chinese": "沮喪的;意氣消沉的",
+    "chinese": "沮喪的；意氣消沉的",
     "synonyms": "",
     "root": "de- (down) + jacere (to throw), from Latin",
     "group": "ject = 投；擲",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sad and depressed; disheartened.",
-     "chinese": "沮喪的;意氣消沉的"
+     "chinese": "沮喪的；意氣消沉的"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "rejection",
     "pos": "n.",
     "definition": "The dismissal or refusal of something proposed.",
-    "chinese": "拒絕;駁回",
+    "chinese": "拒絕；駁回",
     "synonyms": "",
     "root": "rejicere (to throw back), from Latin re- (back) + jacere (to throw)",
     "group": "ject = 投；擲",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The dismissal or refusal of something proposed.",
-     "chinese": "拒絕;駁回"
+     "chinese": "拒絕；駁回"
     }
    },
    {
     "word": "subject",
     "pos": "n./adj./v.",
     "definition": "A topic of discussion; a person or thing under authority.",
-    "chinese": "主題;臣民;使受支配",
+    "chinese": "主題；臣民；使受支配",
     "synonyms": "",
     "root": "subjectus (thrown under), from Latin sub- (under) + jacere (to throw)",
     "group": "ject = 投；擲",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A topic of discussion; a person or thing under authority.",
-     "chinese": "主題;臣民;使受支配"
+     "chinese": "主題；臣民；使受支配"
     }
    }
   ],
@@ -442,4 +442,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"interject": ["To interrupt.", "插嘴"], "conjecture": ["Guess.", "推測；猜測"], "gist": ["Essence, main point.", "主旨；要點"], "jettison": ["To throw overboard, discard.", "拋棄；丟棄"], "abject": ["Wretched, pitiful.", "卑賤的；淒慘的"], "abjection": ["A state of complete misery, hopelessness, or degradation.", "卑賤;悲慘狀態"], "dejected": ["Sad and depressed; disheartened.", "沮喪的;意氣消沉的"], "reject": ["To dismiss or refuse to accept.", "拒絕；駁回"], "rejection": ["The dismissal or refusal of something proposed.", "拒絕;駁回"], "subject": ["A topic of discussion; a person or thing under authority.", "主題;臣民;使受支配"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"interject": ["To interrupt.", "插嘴"], "conjecture": ["Guess.", "推測；猜測"], "gist": ["Essence, main point.", "主旨；要點"], "jettison": ["To throw overboard, discard.", "拋棄；丟棄"], "abject": ["Wretched, pitiful.", "卑賤的；淒慘的"], "abjection": ["A state of complete misery, hopelessness, or degradation.", "卑賤；悲慘狀態"], "dejected": ["Sad and depressed; disheartened.", "沮喪的；意氣消沉的"], "reject": ["To dismiss or refuse to accept.", "拒絕；駁回"], "rejection": ["The dismissal or refusal of something proposed.", "拒絕；駁回"], "subject": ["A topic of discussion; a person or thing under authority.", "主題；臣民；使受支配"]});

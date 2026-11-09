@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
     "word": "ignoble",
     "pos": "adj.",
     "definition": "Not honorable in character or purpose.",
-    "chinese": "卑鄙的;不光彩的",
+    "chinese": "卑鄙的；不光彩的",
     "synonyms": "",
     "root": "in- (not) + nobilis (noble), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not honorable in character or purpose.",
-     "chinese": "卑鄙的;不光彩的"
+     "chinese": "卑鄙的；不光彩的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "imbalance",
     "pos": "n.",
     "definition": "A lack of proportion or balance between things.",
-    "chinese": "不平衡;失衡",
+    "chinese": "不平衡；失衡",
     "synonyms": "",
     "root": "in- (not) + balance, from Latin bilanx",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of proportion or balance between things.",
-     "chinese": "不平衡;失衡"
+     "chinese": "不平衡；失衡"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "immitigable",
     "pos": "adj.",
     "definition": "Not able to be lessened or eased.",
-    "chinese": "無法減輕的;無法緩解的",
+    "chinese": "無法減輕的；無法緩解的",
     "synonyms": "",
     "root": "in- (not) + mitigare (to soften), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be lessened or eased.",
-     "chinese": "無法減輕的;無法緩解的"
+     "chinese": "無法減輕的；無法緩解的"
     }
    },
    {
     "word": "immodest",
     "pos": "adj.",
     "definition": "Lacking humility or decency; arrogant.",
-    "chinese": "不謙虛的;傲慢的",
+    "chinese": "不謙虛的；傲慢的",
     "synonyms": "",
     "root": "in- (not) + modestus (moderate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking humility or decency; arrogant.",
-     "chinese": "不謙虛的;傲慢的"
+     "chinese": "不謙虛的；傲慢的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "immorality",
     "pos": "n.",
     "definition": "The state of not conforming to accepted moral standards.",
-    "chinese": "不道德;墮落",
+    "chinese": "不道德；墮落",
     "synonyms": "",
     "root": "in- (not) + moralis (moral), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of not conforming to accepted moral standards.",
-     "chinese": "不道德;墮落"
+     "chinese": "不道德；墮落"
     }
    },
    {
     "word": "immorigerous",
     "pos": "adj.",
     "definition": "Rude or lacking in good manners (archaic).",
-    "chinese": "無禮的;粗魯的(古語)",
+    "chinese": "無禮的；粗魯的(古語)",
     "synonyms": "",
     "root": "in- (not) + morigerus (obedient, compliant), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rude or lacking in good manners (archaic).",
-     "chinese": "無禮的;粗魯的(古語)"
+     "chinese": "無禮的；粗魯的(古語)"
     }
    },
    {
     "word": "immortalize",
     "pos": "v.",
     "definition": "To make someone or something famous forever.",
-    "chinese": "使不朽;使永垂不朽",
+    "chinese": "使不朽；使永垂不朽",
     "synonyms": "",
     "root": "in- (not) + mortalis (mortal), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To make someone or something famous forever.",
-     "chinese": "使不朽;使永垂不朽"
+     "chinese": "使不朽；使永垂不朽"
     }
    },
    {
     "word": "immovable",
     "pos": "adj.",
     "definition": "Not able to be moved; unyielding.",
-    "chinese": "不可移動的;不動搖的",
+    "chinese": "不可移動的；不動搖的",
     "synonyms": "",
     "root": "in- (not) + movere (to move), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be moved; unyielding.",
-     "chinese": "不可移動的;不動搖的"
+     "chinese": "不可移動的；不動搖的"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "immunity",
     "pos": "n.",
     "definition": "Resistance to a particular infection; exemption from a duty.",
-    "chinese": "免疫力;豁免權",
+    "chinese": "免疫力；豁免權",
     "synonyms": "",
     "root": "in- (not) + munus (duty, gift), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resistance to a particular infection; exemption from a duty.",
-     "chinese": "免疫力;豁免權"
+     "chinese": "免疫力；豁免權"
     }
    },
    {
     "word": "immutability",
     "pos": "n.",
     "definition": "The quality of being unchangeable.",
-    "chinese": "不變性;永恆不變",
+    "chinese": "不變性；永恆不變",
     "synonyms": "",
     "root": "in- (not) + mutare (to change), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being unchangeable.",
-     "chinese": "不變性;永恆不變"
+     "chinese": "不變性；永恆不變"
     }
    },
    {
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
     "word": "impalpable",
     "pos": "adj.",
     "definition": "Unable to be felt by touch; not easily understood.",
-    "chinese": "難以觸摸的;難以理解的",
+    "chinese": "難以觸摸的；難以理解的",
     "synonyms": "",
     "root": "in- (not) + palpare (to touch), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be felt by touch; not easily understood.",
-     "chinese": "難以觸摸的;難以理解的"
+     "chinese": "難以觸摸的；難以理解的"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "impasse",
     "pos": "n.",
     "definition": "A situation in which no progress is possible; a deadlock.",
-    "chinese": "僵局;死路",
+    "chinese": "僵局；死路",
     "synonyms": "",
     "root": "in- (not) + passer (to pass), from French",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -440,14 +440,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A situation in which no progress is possible; a deadlock.",
-     "chinese": "僵局;死路"
+     "chinese": "僵局；死路"
     }
    },
    {
     "word": "impeccability",
     "pos": "n.",
     "definition": "The quality of being flawless or faultless.",
-    "chinese": "完美無瑕;無可挑剔",
+    "chinese": "完美無瑕；無可挑剔",
     "synonyms": "",
     "root": "in- (not) + peccare (to sin), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being flawless or faultless.",
-     "chinese": "完美無瑕;無可挑剔"
+     "chinese": "完美無瑕；無可挑剔"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "impermeable",
     "pos": "adj.",
     "definition": "Not allowing fluid to pass through.",
-    "chinese": "不透水的;不可滲透的",
+    "chinese": "不透水的；不可滲透的",
     "synonyms": "",
     "root": "in- (not) + permeare (to pass through), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not allowing fluid to pass through.",
-     "chinese": "不透水的;不可滲透的"
+     "chinese": "不透水的；不可滲透的"
     }
    },
    {
     "word": "impertienece",
     "pos": "n.",
     "definition": "Rudeness or lack of respect (variant spelling of impertinence).",
-    "chinese": "無禮;放肆(impertinence異體拼法)",
+    "chinese": "無禮；放肆(impertinence異體拼法)",
     "synonyms": "",
     "root": "in- (not) + pertinere (to pertain), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rudeness or lack of respect (variant spelling of impertinence).",
-     "chinese": "無禮;放肆(impertinence異體拼法)"
+     "chinese": "無禮；放肆(impertinence異體拼法)"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "imperturbability",
     "pos": "n.",
     "definition": "The quality of being calm and unshakeable.",
-    "chinese": "沉著;鎮定",
+    "chinese": "沉著；鎮定",
     "synonyms": "",
     "root": "in- (not) + perturbare (to disturb), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being calm and unshakeable.",
-     "chinese": "沉著;鎮定"
+     "chinese": "沉著；鎮定"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "importunate",
     "pos": "adj.",
     "definition": "Persistent, especially to the point of being annoying.",
-    "chinese": "糾纏不休的;強求的",
+    "chinese": "糾纏不休的；強求的",
     "synonyms": "",
     "root": "in- (not) + opportunus (fitting, timely), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Persistent, especially to the point of being annoying.",
-     "chinese": "糾纏不休的;強求的"
+     "chinese": "糾纏不休的；強求的"
     }
    },
    {
@@ -694,7 +694,7 @@ window.FLASHCARD_UNITS = {
     "word": "impotent",
     "pos": "adj.",
     "definition": "Lacking power or strength to act effectively.",
-    "chinese": "無力的;無能為力的",
+    "chinese": "無力的；無能為力的",
     "synonyms": "",
     "root": "in- (not) + potens (powerful), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -706,14 +706,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking power or strength to act effectively.",
-     "chinese": "無力的;無能為力的"
+     "chinese": "無力的；無能為力的"
     }
    },
    {
     "word": "impracticable",
     "pos": "adj.",
     "definition": "Not able to be carried out in practice.",
-    "chinese": "不切實際的;行不通的",
+    "chinese": "不切實際的；行不通的",
     "synonyms": "",
     "root": "in- (not) + practicare (to practice), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -725,7 +725,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be carried out in practice.",
-     "chinese": "不切實際的;行不通的"
+     "chinese": "不切實際的；行不通的"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "improbity",
     "pos": "n.",
     "definition": "Wickedness or dishonesty.",
-    "chinese": "不誠實;邪惡",
+    "chinese": "不誠實；邪惡",
     "synonyms": "",
     "root": "in- (not) + probitas (honesty), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wickedness or dishonesty.",
-     "chinese": "不誠實;邪惡"
+     "chinese": "不誠實；邪惡"
     }
    },
    {
     "word": "impropriety",
     "pos": "n.",
     "definition": "Behavior that violates accepted standards; unsuitability.",
-    "chinese": "失禮;不妥當",
+    "chinese": "失禮；不妥當",
     "synonyms": "",
     "root": "in- (not) + proprius (one's own), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behavior that violates accepted standards; unsuitability.",
-     "chinese": "失禮;不妥當"
+     "chinese": "失禮；不妥當"
     }
    },
    {
     "word": "improvident",
     "pos": "adj.",
     "definition": "Not planning ahead; careless about the future.",
-    "chinese": "無遠見的;不節儉的",
+    "chinese": "無遠見的；不節儉的",
     "synonyms": "",
     "root": "in- (not) + providere (to foresee), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -820,7 +820,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not planning ahead; careless about the future.",
-     "chinese": "無遠見的;不節儉的"
+     "chinese": "無遠見的；不節儉的"
     }
    },
    {
@@ -846,7 +846,7 @@ window.FLASHCARD_UNITS = {
     "word": "imprudence",
     "pos": "n.",
     "definition": "Lack of care and thought for the consequences of an action.",
-    "chinese": "輕率;不謹慎",
+    "chinese": "輕率；不謹慎",
     "synonyms": "",
     "root": "in- (not) + prudentia (foresight), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -860,7 +860,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Lack of care and thought for the consequences of an action.",
-     "chinese": "輕率;不謹慎"
+     "chinese": "輕率；不謹慎"
     }
    },
    {
@@ -886,7 +886,7 @@ window.FLASHCARD_UNITS = {
     "word": "impudence",
     "pos": "n.",
     "definition": "Bold disrespect; insolence.",
-    "chinese": "厚顏無恥;放肆",
+    "chinese": "厚顏無恥；放肆",
     "synonyms": "",
     "root": "in- (not) + pudere (to be ashamed), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bold disrespect; insolence.",
-     "chinese": "厚顏無恥;放肆"
+     "chinese": "厚顏無恥；放肆"
     }
    },
    {
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"enemy": ["A person or group actively opposed or hostile to another.", "敵人"], "enmity": ["Ill will, hatred, hostility.", "敵意；仇恨"], "ignoble": ["Not honorable in character or purpose.", "卑鄙的;不光彩的"], "ignominious": ["Humiliating, disgraceful.", "可恥的；不光彩的"], "illicit": ["Forbidden, not permitted.", "非法的；違禁的"], "illogical": ["Lacking sense or clear, sound reasoning.", "不合邏輯的"], "imbalance": ["A lack of proportion or balance between things.", "不平衡;失衡"], "immaculate": ["Perfectly clean or free from flaws.", "一塵不染的；完美無瑕的"], "immitigable": ["Not able to be lessened or eased.", "無法減輕的;無法緩解的"], "immodest": ["Lacking humility or decency; arrogant.", "不謙虛的;傲慢的"], "immoral": ["Not conforming to accepted standards of morality.", "不道德的"], "immorality": ["The state of not conforming to accepted moral standards.", "不道德;墮落"], "immorigerous": ["Rude or lacking in good manners (archaic).", "無禮的;粗魯的(古語)"], "immortalize": ["To make someone or something famous forever.", "使不朽;使永垂不朽"], "immovable": ["Not able to be moved; unyielding.", "不可移動的;不動搖的"], "immune": ["Resistant to disease or harm.", "免疫的；不受影響的"], "immunity": ["Resistance to a particular infection; exemption from a duty.", "免疫力;豁免權"], "immutability": ["The quality of being unchangeable.", "不變性;永恆不變"], "immutable": ["Not changeable.", "不可改變的；永恆的"], "impalpable": ["Unable to be felt by touch; not easily understood.", "難以觸摸的;難以理解的"], "impartial": ["Not biased or prejudiced; treating all sides equally.", "公正的；不偏不倚的"], "impassable": ["Impossible to travel along or through.", "無法通行的"], "impasse": ["A situation in which no progress is possible; a deadlock.", "僵局;死路"], "impeccability": ["The quality of being flawless or faultless.", "完美無瑕;無可挑剔"], "impeccable": ["Faultless:flawless.", "無懈可擊的；無缺點的"], "impecunious": ["Poor.", "貧窮的；身無分文的"], "impenetrable": ["Impossible to pass through.", "無法穿透的"], "impermeable": ["Not allowing fluid to pass through.", "不透水的;不可滲透的"], "impertienece": ["Rudeness or lack of respect (variant spelling of impertinence).", "無禮;放肆(impertinence異體拼法)"], "impertinent": ["Rude, insolent.", "無禮的；魯莽的"], "imperturbability": ["The quality of being calm and unshakeable.", "沉著;鎮定"], "impervious": ["Not affected or influenced by something.", "不受影響的；不透水的"], "impious": ["Lacking respect, irreverent.", "不敬的；無信仰的"], "importunate": ["Persistent, especially to the point of being annoying.", "糾纏不休的;強求的"], "importune": ["To ask urgently:implore.", "強求；胡纏"], "impossible": ["Not able to occur or be done.", "不可能的"], "impotent": ["Lacking power or strength to act effectively.", "無力的;無能為力的"], "impracticable": ["Not able to be carried out in practice.", "不切實際的;行不通的"], "impractical": ["Not sensible or realistic; not suited to the situation or purpose.", "不切實際的"], "impregnable": ["Resistant to capture or penetration.", "堅不可摧的；攻不破的"], "improbity": ["Wickedness or dishonesty.", "不誠實;邪惡"], "impropriety": ["Behavior that violates accepted standards; unsuitability.", "失禮;不妥當"], "improvident": ["Not planning ahead; careless about the future.", "無遠見的;不節儉的"], "improvise": ["To create or perform something without preparation or planning, often with available materials.", "即興創作；臨場發揮"], "imprudence": ["Lack of care and thought for the consequences of an action.", "輕率;不謹慎"], "imprudent": ["Unwise, not careful.", "輕率的；不智的"], "impudence": ["Bold disrespect; insolence.", "厚顏無恥;放肆"], "inactive": ["Not engaged in movement or activity.", "不活躍的；靜止的"], "inadequate": ["Not sufficient or suitable for the intended purpose; lacking in quality or quantity.", "不足的；不適當的"], "inadvertent": ["Unintentional.", "無意的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"enemy": ["A person or group actively opposed or hostile to another.", "敵人"], "enmity": ["Ill will, hatred, hostility.", "敵意；仇恨"], "ignoble": ["Not honorable in character or purpose.", "卑鄙的；不光彩的"], "ignominious": ["Humiliating, disgraceful.", "可恥的；不光彩的"], "illicit": ["Forbidden, not permitted.", "非法的；違禁的"], "illogical": ["Lacking sense or clear, sound reasoning.", "不合邏輯的"], "imbalance": ["A lack of proportion or balance between things.", "不平衡；失衡"], "immaculate": ["Perfectly clean or free from flaws.", "一塵不染的；完美無瑕的"], "immitigable": ["Not able to be lessened or eased.", "無法減輕的；無法緩解的"], "immodest": ["Lacking humility or decency; arrogant.", "不謙虛的；傲慢的"], "immoral": ["Not conforming to accepted standards of morality.", "不道德的"], "immorality": ["The state of not conforming to accepted moral standards.", "不道德；墮落"], "immorigerous": ["Rude or lacking in good manners (archaic).", "無禮的；粗魯的(古語)"], "immortalize": ["To make someone or something famous forever.", "使不朽；使永垂不朽"], "immovable": ["Not able to be moved; unyielding.", "不可移動的；不動搖的"], "immune": ["Resistant to disease or harm.", "免疫的；不受影響的"], "immunity": ["Resistance to a particular infection; exemption from a duty.", "免疫力；豁免權"], "immutability": ["The quality of being unchangeable.", "不變性；永恆不變"], "immutable": ["Not changeable.", "不可改變的；永恆的"], "impalpable": ["Unable to be felt by touch; not easily understood.", "難以觸摸的；難以理解的"], "impartial": ["Not biased or prejudiced; treating all sides equally.", "公正的；不偏不倚的"], "impassable": ["Impossible to travel along or through.", "無法通行的"], "impasse": ["A situation in which no progress is possible; a deadlock.", "僵局；死路"], "impeccability": ["The quality of being flawless or faultless.", "完美無瑕；無可挑剔"], "impeccable": ["Faultless:flawless.", "無懈可擊的；無缺點的"], "impecunious": ["Poor.", "貧窮的；身無分文的"], "impenetrable": ["Impossible to pass through.", "無法穿透的"], "impermeable": ["Not allowing fluid to pass through.", "不透水的；不可滲透的"], "impertienece": ["Rudeness or lack of respect (variant spelling of impertinence).", "無禮；放肆(impertinence異體拼法)"], "impertinent": ["Rude, insolent.", "無禮的；魯莽的"], "imperturbability": ["The quality of being calm and unshakeable.", "沉著；鎮定"], "impervious": ["Not affected or influenced by something.", "不受影響的；不透水的"], "impious": ["Lacking respect, irreverent.", "不敬的；無信仰的"], "importunate": ["Persistent, especially to the point of being annoying.", "糾纏不休的；強求的"], "importune": ["To ask urgently:implore.", "強求；胡纏"], "impossible": ["Not able to occur or be done.", "不可能的"], "impotent": ["Lacking power or strength to act effectively.", "無力的；無能為力的"], "impracticable": ["Not able to be carried out in practice.", "不切實際的；行不通的"], "impractical": ["Not sensible or realistic; not suited to the situation or purpose.", "不切實際的"], "impregnable": ["Resistant to capture or penetration.", "堅不可摧的；攻不破的"], "improbity": ["Wickedness or dishonesty.", "不誠實；邪惡"], "impropriety": ["Behavior that violates accepted standards; unsuitability.", "失禮；不妥當"], "improvident": ["Not planning ahead; careless about the future.", "無遠見的；不節儉的"], "improvise": ["To create or perform something without preparation or planning, often with available materials.", "即興創作；臨場發揮"], "imprudence": ["Lack of care and thought for the consequences of an action.", "輕率；不謹慎"], "imprudent": ["Unwise, not careful.", "輕率的；不智的"], "impudence": ["Bold disrespect; insolence.", "厚顏無恥；放肆"], "inactive": ["Not engaged in movement or activity.", "不活躍的；靜止的"], "inadequate": ["Not sufficient or suitable for the intended purpose; lacking in quality or quantity.", "不足的；不適當的"], "inadvertent": ["Unintentional.", "無意的"]});

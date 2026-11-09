@@ -86,7 +86,7 @@ window.FLASHCARD_UNITS = {
     "word": "revitalizing",
     "pos": "adj.",
     "definition": "Giving new energy or strength to something.",
-    "chinese": "振興的;恢復活力的",
+    "chinese": "振興的；恢復活力的",
     "synonyms": "",
     "root": "re- (again) + vitalis (of life), from Latin vita (life)",
     "group": "re = 反向；再次",
@@ -98,14 +98,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving new energy or strength to something.",
-     "chinese": "振興的;恢復活力的"
+     "chinese": "振興的；恢復活力的"
     }
    },
    {
     "word": "revivifying",
     "pos": "adj.",
     "definition": "Giving new life or vigor to something.",
-    "chinese": "使復甦的;恢復生機的",
+    "chinese": "使復甦的；恢復生機的",
     "synonyms": "",
     "root": "re- (again) + vivificare (to make alive), from Latin vivus (living) + facere (to make)",
     "group": "re = 反向；再次",
@@ -117,7 +117,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving new life or vigor to something.",
-     "chinese": "使復甦的;恢復生機的"
+     "chinese": "使復甦的；恢復生機的"
     }
    },
    {
@@ -143,7 +143,7 @@ window.FLASHCARD_UNITS = {
     "word": "revolve",
     "pos": "v.",
     "definition": "To move in a circle around an axis or center.",
-    "chinese": "旋轉;繞轉",
+    "chinese": "旋轉；繞轉",
     "synonyms": "",
     "root": "re- (back, again) + volvo (roll), from Latin",
     "group": "re = 反向；再次",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To move in a circle around an axis or center.",
-     "chinese": "旋轉;繞轉"
+     "chinese": "旋轉；繞轉"
     }
    },
    {
     "word": "reword",
     "pos": "v.",
     "definition": "To express something again using different words.",
-    "chinese": "改寫;重新措辭",
+    "chinese": "改寫；重新措辭",
     "synonyms": "",
     "root": "re- (again) + word, from Old English wyrd",
     "group": "re = 反向；再次",
@@ -174,7 +174,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express something again using different words.",
-     "chinese": "改寫;重新措辭"
+     "chinese": "改寫；重新措辭"
     }
    },
    {
@@ -442,4 +442,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reverberating": ["Echoing, resounding.", "迴盪的"], "revere": ["To honor, respect, admire.", "尊崇；敬畏"], "revert": ["To return.", "恢復；重返"], "revile": ["Hate:revoke.", "辱罵；斥責"], "revitalizing": ["Giving new energy or strength to something.", "振興的;恢復活力的"], "revivifying": ["Giving new life or vigor to something.", "使復甦的;恢復生機的"], "revoke": ["To take back.", "撤銷；廢除"], "revolve": ["To move in a circle around an axis or center.", "旋轉;繞轉"], "reword": ["To express something again using different words.", "改寫;重新措辭"], "ruse": ["A trick.", "詭計；花招"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reverberating": ["Echoing, resounding.", "迴盪的"], "revere": ["To honor, respect, admire.", "尊崇；敬畏"], "revert": ["To return.", "恢復；重返"], "revile": ["Hate:revoke.", "辱罵；斥責"], "revitalizing": ["Giving new energy or strength to something.", "振興的；恢復活力的"], "revivifying": ["Giving new life or vigor to something.", "使復甦的；恢復生機的"], "revoke": ["To take back.", "撤銷；廢除"], "revolve": ["To move in a circle around an axis or center.", "旋轉；繞轉"], "reword": ["To express something again using different words.", "改寫；重新措辭"], "ruse": ["A trick.", "詭計；花招"]});

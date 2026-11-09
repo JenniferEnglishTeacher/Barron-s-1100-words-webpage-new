@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "glimmering",
     "pos": "adj./n.",
     "definition": "Shining faintly with a flickering light; a faint sign.",
-    "chinese": "微光閃爍的;一線希望",
+    "chinese": "微光閃爍的；一線希望",
     "synonyms": "",
     "root": "glimen (spark), from Middle Low German",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Shining faintly with a flickering light; a faint sign.",
-     "chinese": "微光閃爍的;一線希望"
+     "chinese": "微光閃爍的；一線希望"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "gloomy",
     "pos": "adj.",
     "definition": "Dark or dismal; depressed in spirit.",
-    "chinese": "陰暗的;憂鬱的",
+    "chinese": "陰暗的；憂鬱的",
     "synonyms": "",
     "root": "glom (dark, cloudy), of uncertain Middle English origin",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dark or dismal; depressed in spirit.",
-     "chinese": "陰暗的;憂鬱的"
+     "chinese": "陰暗的；憂鬱的"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "glorious",
     "pos": "adj.",
     "definition": "Having, worthy of, or bringing fame or admiration.",
-    "chinese": "光榮的;輝煌的",
+    "chinese": "光榮的；輝煌的",
     "synonyms": "",
     "root": "gloria (glory), from Latin",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having, worthy of, or bringing fame or admiration.",
-     "chinese": "光榮的;輝煌的"
+     "chinese": "光榮的；輝煌的"
     }
    },
    {
     "word": "gloss",
     "pos": "n./v.",
     "definition": "A shine on a surface; a brief explanation of a word.",
-    "chinese": "光澤;註解",
+    "chinese": "光澤；註解",
     "synonyms": "",
     "root": "glossa (tongue, language), from Greek",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A shine on a surface; a brief explanation of a word.",
-     "chinese": "光澤;註解"
+     "chinese": "光澤；註解"
     }
    },
    {
     "word": "glut",
     "pos": "n./v.",
     "definition": "An excessive supply of something; to fill to excess.",
-    "chinese": "供過於求;塞滿",
+    "chinese": "供過於求；塞滿",
     "synonyms": "",
     "root": "glutire (to swallow), from Latin",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive supply of something; to fill to excess.",
-     "chinese": "供過於求;塞滿"
+     "chinese": "供過於求；塞滿"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "gluttonous",
     "pos": "adj.",
     "definition": "Habitually eating or consuming to excess.",
-    "chinese": "貪吃的;暴食的",
+    "chinese": "貪吃的；暴食的",
     "synonyms": "",
     "root": "gluttire (to swallow), from Latin",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Habitually eating or consuming to excess.",
-     "chinese": "貪吃的;暴食的"
+     "chinese": "貪吃的；暴食的"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "gob",
     "pos": "n.",
     "definition": "A lump or mass of something (informal).",
-    "chinese": "一團;一大塊(口語)",
+    "chinese": "一團；一大塊(口語)",
     "synonyms": "",
     "root": "gobbe (lump), from Middle French",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lump or mass of something (informal).",
-     "chinese": "一團;一大塊(口語)"
+     "chinese": "一團；一大塊(口語)"
     }
    },
    {
     "word": "gorge",
     "pos": "n./v.",
     "definition": "A narrow ravine; to eat greedily.",
-    "chinese": "峽谷;狼吞虎嚥",
+    "chinese": "峽谷；狼吞虎嚥",
     "synonyms": "",
     "root": "gurges (whirlpool, throat), from Latin",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A narrow ravine; to eat greedily.",
-     "chinese": "峽谷;狼吞虎嚥"
+     "chinese": "峽谷；狼吞虎嚥"
     }
    },
    {
     "word": "gorged",
     "pos": "adj.",
     "definition": "Having eaten to full capacity; stuffed.",
-    "chinese": "吃飽的;塞滿的",
+    "chinese": "吃飽的；塞滿的",
     "synonyms": "",
     "root": "gurges (whirlpool, throat), from Latin",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having eaten to full capacity; stuffed.",
-     "chinese": "吃飽的;塞滿的"
+     "chinese": "吃飽的；塞滿的"
     }
    },
    {
     "word": "gorgonize",
     "pos": "v.",
     "definition": "To hypnotize or paralyze with a look, as if turned to stone.",
-    "chinese": "使呆若木雞;使石化般僵住",
+    "chinese": "使呆若木雞；使石化般僵住",
     "synonyms": "",
     "root": "Gorgon, monster from Greek mythology",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To hypnotize or paralyze with a look, as if turned to stone.",
-     "chinese": "使呆若木雞;使石化般僵住"
+     "chinese": "使呆若木雞；使石化般僵住"
     }
    },
    {
     "word": "gormandize",
     "pos": "v.",
     "definition": "To eat greedily or excessively.",
-    "chinese": "狼吞虎嚥;暴飲暴食",
+    "chinese": "狼吞虎嚥；暴飲暴食",
     "synonyms": "",
     "root": "gourmand (glutton), from French",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To eat greedily or excessively.",
-     "chinese": "狼吞虎嚥;暴飲暴食"
+     "chinese": "狼吞虎嚥；暴飲暴食"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "gourmet",
     "pos": "n./adj.",
     "definition": "A connoisseur of fine food and drink; relating to high-quality cuisine.",
-    "chinese": "美食家;高級的(料理)",
+    "chinese": "美食家；高級的(料理)",
     "synonyms": "",
     "root": "gourmet (wine taster), from French",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A connoisseur of fine food and drink; relating to high-quality cuisine.",
-     "chinese": "美食家;高級的(料理)"
+     "chinese": "美食家；高級的(料理)"
     }
    },
    {
     "word": "grand dame",
     "pos": "n.",
     "definition": "A distinguished or elderly woman, especially one prominent in her field.",
-    "chinese": "傑出女性;女性泰斗",
+    "chinese": "傑出女性；女性泰斗",
     "synonyms": "",
     "root": "French grand (great) + dame (lady)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A distinguished or elderly woman, especially one prominent in her field.",
-     "chinese": "傑出女性;女性泰斗"
+     "chinese": "傑出女性；女性泰斗"
     }
    },
    {
     "word": "grandeur",
     "pos": "n.",
     "definition": "Impressiveness of appearance or scale; splendor.",
-    "chinese": "壯麗;宏偉",
+    "chinese": "壯麗；宏偉",
     "synonyms": "",
     "root": "grandis (great, large), from Latin",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impressiveness of appearance or scale; splendor.",
-     "chinese": "壯麗;宏偉"
+     "chinese": "壯麗；宏偉"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "grasping",
     "pos": "adj.",
     "definition": "Greedy for money or possessions.",
-    "chinese": "貪婪的;愛佔便宜的",
+    "chinese": "貪婪的；愛佔便宜的",
     "synonyms": "",
     "root": "grap (to grasp), from Old English graepian",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Greedy for money or possessions.",
-     "chinese": "貪婪的;愛佔便宜的"
+     "chinese": "貪婪的；愛佔便宜的"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "grave",
     "pos": "adj./n.",
     "definition": "Serious and solemn; a place of burial.",
-    "chinese": "嚴重的;墳墓",
+    "chinese": "嚴重的；墳墓",
     "synonyms": "",
     "root": "gravis (heavy, serious), from Latin",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serious and solemn; a place of burial.",
-     "chinese": "嚴重的;墳墓"
+     "chinese": "嚴重的；墳墓"
     }
    },
    {
     "word": "graveolent",
     "pos": "adj.",
     "definition": "Having a strong, often unpleasant smell.",
-    "chinese": "有強烈氣味的;惡臭的",
+    "chinese": "有強烈氣味的；惡臭的",
     "synonyms": "",
     "root": "gravis (heavy) + olere (to smell), from Latin",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a strong, often unpleasant smell.",
-     "chinese": "有強烈氣味的;惡臭的"
+     "chinese": "有強烈氣味的；惡臭的"
     }
    },
    {
     "word": "gravity",
     "pos": "n.",
     "definition": "The force that attracts bodies toward earth's center; seriousness.",
-    "chinese": "重力;嚴重性",
+    "chinese": "重力；嚴重性",
     "synonyms": "",
     "root": "gravitas (weight, seriousness), from Latin",
     "group": "",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The force that attracts bodies toward earth's center; seriousness.",
-     "chinese": "重力;嚴重性"
+     "chinese": "重力；嚴重性"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "greenhorn",
     "pos": "n.",
     "definition": "An inexperienced or naive person.",
-    "chinese": "新手;菜鳥",
+    "chinese": "新手；菜鳥",
     "synonyms": "",
     "root": "green (new) + horn, from Old English",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An inexperienced or naive person.",
-     "chinese": "新手;菜鳥"
+     "chinese": "新手；菜鳥"
     }
    },
    {
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "word": "grievance",
     "pos": "n.",
     "definition": "A formal complaint about unfair treatment.",
-    "chinese": "不滿;申訴",
+    "chinese": "不滿；申訴",
     "synonyms": "",
     "root": "gravis (heavy), from Latin, via Old French grever",
     "group": "",
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal complaint about unfair treatment.",
-     "chinese": "不滿;申訴"
+     "chinese": "不滿；申訴"
     }
    },
    {
@@ -789,7 +789,7 @@ window.FLASHCARD_UNITS = {
     "word": "gross",
     "pos": "adj./n.",
     "definition": "Very obvious and unacceptable; total before deductions.",
-    "chinese": "嚴重的;總額",
+    "chinese": "嚴重的；總額",
     "synonyms": "",
     "root": "grossus (thick, coarse), from Latin",
     "group": "",
@@ -801,7 +801,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Very obvious and unacceptable; total before deductions.",
-     "chinese": "嚴重的;總額"
+     "chinese": "嚴重的；總額"
     }
    },
    {
@@ -846,7 +846,7 @@ window.FLASHCARD_UNITS = {
     "word": "grovel",
     "pos": "v.",
     "definition": "To behave with excessive humility, especially to gain favor.",
-    "chinese": "卑躬屈膝;匍匐",
+    "chinese": "卑躬屈膝；匍匐",
     "synonyms": "",
     "root": "grufe (face down), from Old Norse",
     "group": "",
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To behave with excessive humility, especially to gain favor.",
-     "chinese": "卑躬屈膝;匍匐"
+     "chinese": "卑躬屈膝；匍匐"
     }
    },
    {
@@ -884,7 +884,7 @@ window.FLASHCARD_UNITS = {
     "word": "grow",
     "pos": "v.",
     "definition": "To increase in size or develop over time.",
-    "chinese": "成長;生長",
+    "chinese": "成長；生長",
     "synonyms": "",
     "root": "growan, from Old English",
     "group": "",
@@ -896,14 +896,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To increase in size or develop over time.",
-     "chinese": "成長;生長"
+     "chinese": "成長；生長"
     }
    },
    {
     "word": "grudge",
     "pos": "n./v.",
     "definition": "A persistent feeling of resentment.",
-    "chinese": "怨恨;宿怨",
+    "chinese": "怨恨；宿怨",
     "synonyms": "",
     "root": "grucchier (to grumble), from Old French",
     "group": "",
@@ -915,14 +915,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A persistent feeling of resentment.",
-     "chinese": "怨恨;宿怨"
+     "chinese": "怨恨；宿怨"
     }
    },
    {
     "word": "gruff",
     "pos": "adj.",
     "definition": "Rough and abrupt in manner or speech.",
-    "chinese": "粗魯的;粗聲粗氣的",
+    "chinese": "粗魯的；粗聲粗氣的",
     "synonyms": "",
     "root": "grof (coarse), from Middle Dutch",
     "group": "",
@@ -934,7 +934,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rough and abrupt in manner or speech.",
-     "chinese": "粗魯的;粗聲粗氣的"
+     "chinese": "粗魯的；粗聲粗氣的"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"glib": ["Smooth of speech.", "口齒伶俐的；油嘴滑舌的"], "glimmering": ["Shining faintly with a flickering light; a faint sign.", "微光閃爍的;一線希望"], "glistening": ["Shining with a sparkling light.", "閃閃發亮的"], "gloomy": ["Dark or dismal; depressed in spirit.", "陰暗的;憂鬱的"], "glorify": ["To praise or honor highly.", "讚揚；美化"], "glorious": ["Having, worthy of, or bringing fame or admiration.", "光榮的;輝煌的"], "gloss": ["A shine on a surface; a brief explanation of a word.", "光澤;註解"], "glut": ["An excessive supply of something; to fill to excess.", "供過於求;塞滿"], "glutton": ["One who overindulges in food and drink.", "貪吃者"], "gluttonous": ["Habitually eating or consuming to excess.", "貪吃的;暴食的"], "gluttony": ["Overindulgence in food or drink.", "暴食；貪吃"], "goad": ["To urge, spur, incite to action.", "驅使；煽動"], "gob": ["A lump or mass of something (informal).", "一團;一大塊(口語)"], "gorge": ["A narrow ravine; to eat greedily.", "峽谷;狼吞虎嚥"], "gorged": ["Having eaten to full capacity; stuffed.", "吃飽的;塞滿的"], "gorgonize": ["To hypnotize or paralyze with a look, as if turned to stone.", "使呆若木雞;使石化般僵住"], "gormandize": ["To eat greedily or excessively.", "狼吞虎嚥;暴飲暴食"], "gourmand": ["Someone fond of eating and drinking.", "美食家；老饕"], "gourmet": ["A connoisseur of fine food and drink; relating to high-quality cuisine.", "美食家;高級的(料理)"], "grand dame": ["A distinguished or elderly woman, especially one prominent in her field.", "傑出女性;女性泰斗"], "grandeur": ["Impressiveness of appearance or scale; splendor.", "壯麗;宏偉"], "grandiose": ["On a magnificent or exaggerated scale.", "宏偉的；誇大的"], "graphite": ["A soft carbon material used in pencils.", "石墨"], "graphospasm": ["A cramp of the hand muscles caused by excessive writing.", "書寫痙攣(手部)"], "grapple": ["To struggle or wrestle with something.", "搏鬥；努力應付"], "grasping": ["Greedy for money or possessions.", "貪婪的;愛佔便宜的"], "grating": ["Unpleasantly harsh in sound.", "刺耳的；惱人的"], "grave": ["Serious and solemn; a place of burial.", "嚴重的;墳墓"], "graveolent": ["Having a strong, often unpleasant smell.", "有強烈氣味的;惡臭的"], "gravity": ["The force that attracts bodies toward earth's center; seriousness.", "重力;嚴重性"], "grecophobia": ["An intense dislike or fear of Greece or Greek culture.", "恐希臘症"], "greed": ["An intense and selfish desire for wealth or possessions.", "貪婪"], "greedy": ["Having an excessive desire for wealth or possessions.", "貪婪的"], "greenhorn": ["An inexperienced or naive person.", "新手;菜鳥"], "gregarious": ["Sociable.", "群居的；社交的"], "grievance": ["A formal complaint about unfair treatment.", "不滿;申訴"], "grievous": ["Injurious, hurtful; serious or grave in nature.", "嚴重的；悲痛的"], "grimace": ["Facial expression of disgust.", "鬼臉；痛苦的表情"], "grisette": ["A young working-class Frenchwoman, especially in 19th-century literature.", "法國工人階級女子(19世紀文學用語)"], "grog": ["An alcoholic drink, especially diluted rum.", "格羅格酒(稀釋蘭姆酒)"], "grogram": ["A coarse fabric of silk, wool, or mohair.", "粗絲毛織物"], "gross": ["Very obvious and unacceptable; total before deductions.", "嚴重的;總額"], "grotesque": ["Strange, bizarre, misshapen.", "奇形怪狀的；荒謬的"], "grouchy": ["Irritable and bad-tempered.", "脾氣暴躁的"], "grovel": ["To behave with excessive humility, especially to gain favor.", "卑躬屈膝;匍匐"], "groveling": ["Behaving with excessive humility; abject.", "卑躬屈膝的"], "grow": ["To increase in size or develop over time.", "成長;生長"], "grudge": ["A persistent feeling of resentment.", "怨恨;宿怨"], "gruff": ["Rough and abrupt in manner or speech.", "粗魯的;粗聲粗氣的"], "guess": ["To estimate or suppose without certain knowledge.", "猜測"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"glib": ["Smooth of speech.", "口齒伶俐的；油嘴滑舌的"], "glimmering": ["Shining faintly with a flickering light; a faint sign.", "微光閃爍的；一線希望"], "glistening": ["Shining with a sparkling light.", "閃閃發亮的"], "gloomy": ["Dark or dismal; depressed in spirit.", "陰暗的；憂鬱的"], "glorify": ["To praise or honor highly.", "讚揚；美化"], "glorious": ["Having, worthy of, or bringing fame or admiration.", "光榮的；輝煌的"], "gloss": ["A shine on a surface; a brief explanation of a word.", "光澤；註解"], "glut": ["An excessive supply of something; to fill to excess.", "供過於求；塞滿"], "glutton": ["One who overindulges in food and drink.", "貪吃者"], "gluttonous": ["Habitually eating or consuming to excess.", "貪吃的；暴食的"], "gluttony": ["Overindulgence in food or drink.", "暴食；貪吃"], "goad": ["To urge, spur, incite to action.", "驅使；煽動"], "gob": ["A lump or mass of something (informal).", "一團；一大塊(口語)"], "gorge": ["A narrow ravine; to eat greedily.", "峽谷；狼吞虎嚥"], "gorged": ["Having eaten to full capacity; stuffed.", "吃飽的；塞滿的"], "gorgonize": ["To hypnotize or paralyze with a look, as if turned to stone.", "使呆若木雞；使石化般僵住"], "gormandize": ["To eat greedily or excessively.", "狼吞虎嚥；暴飲暴食"], "gourmand": ["Someone fond of eating and drinking.", "美食家；老饕"], "gourmet": ["A connoisseur of fine food and drink; relating to high-quality cuisine.", "美食家；高級的(料理)"], "grand dame": ["A distinguished or elderly woman, especially one prominent in her field.", "傑出女性；女性泰斗"], "grandeur": ["Impressiveness of appearance or scale; splendor.", "壯麗；宏偉"], "grandiose": ["On a magnificent or exaggerated scale.", "宏偉的；誇大的"], "graphite": ["A soft carbon material used in pencils.", "石墨"], "graphospasm": ["A cramp of the hand muscles caused by excessive writing.", "書寫痙攣(手部)"], "grapple": ["To struggle or wrestle with something.", "搏鬥；努力應付"], "grasping": ["Greedy for money or possessions.", "貪婪的；愛佔便宜的"], "grating": ["Unpleasantly harsh in sound.", "刺耳的；惱人的"], "grave": ["Serious and solemn; a place of burial.", "嚴重的；墳墓"], "graveolent": ["Having a strong, often unpleasant smell.", "有強烈氣味的；惡臭的"], "gravity": ["The force that attracts bodies toward earth's center; seriousness.", "重力；嚴重性"], "grecophobia": ["An intense dislike or fear of Greece or Greek culture.", "恐希臘症"], "greed": ["An intense and selfish desire for wealth or possessions.", "貪婪"], "greedy": ["Having an excessive desire for wealth or possessions.", "貪婪的"], "greenhorn": ["An inexperienced or naive person.", "新手；菜鳥"], "gregarious": ["Sociable.", "群居的；社交的"], "grievance": ["A formal complaint about unfair treatment.", "不滿；申訴"], "grievous": ["Injurious, hurtful; serious or grave in nature.", "嚴重的；悲痛的"], "grimace": ["Facial expression of disgust.", "鬼臉；痛苦的表情"], "grisette": ["A young working-class Frenchwoman, especially in 19th-century literature.", "法國工人階級女子(19世紀文學用語)"], "grog": ["An alcoholic drink, especially diluted rum.", "格羅格酒(稀釋蘭姆酒)"], "grogram": ["A coarse fabric of silk, wool, or mohair.", "粗絲毛織物"], "gross": ["Very obvious and unacceptable; total before deductions.", "嚴重的；總額"], "grotesque": ["Strange, bizarre, misshapen.", "奇形怪狀的；荒謬的"], "grouchy": ["Irritable and bad-tempered.", "脾氣暴躁的"], "grovel": ["To behave with excessive humility, especially to gain favor.", "卑躬屈膝；匍匐"], "groveling": ["Behaving with excessive humility; abject.", "卑躬屈膝的"], "grow": ["To increase in size or develop over time.", "成長；生長"], "grudge": ["A persistent feeling of resentment.", "怨恨；宿怨"], "gruff": ["Rough and abrupt in manner or speech.", "粗魯的；粗聲粗氣的"], "guess": ["To estimate or suppose without certain knowledge.", "猜測"]});

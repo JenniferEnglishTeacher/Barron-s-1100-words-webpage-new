@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "convocation",
     "pos": "n.",
     "definition": "A large formal assembly of people.",
-    "chinese": "集會;大會",
+    "chinese": "集會；大會",
     "synonyms": "",
     "root": "con- (together) + vocare (to call), from Latin",
     "group": "co；com = 共同；一起",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large formal assembly of people.",
-     "chinese": "集會;大會"
+     "chinese": "集會；大會"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "convolution",
     "pos": "n.",
     "definition": "An intricate coiling or complexity.",
-    "chinese": "迂迴;複雜結構",
+    "chinese": "迂迴；複雜結構",
     "synonyms": "",
     "root": "con- (together) + volvere (to roll), from Latin",
     "group": "co；com = 共同；一起",
@@ -138,14 +138,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An intricate coiling or complexity.",
-     "chinese": "迂迴;複雜結構"
+     "chinese": "迂迴；複雜結構"
     }
    },
    {
     "word": "convolve",
     "pos": "v.",
     "definition": "To coil or twist together.",
-    "chinese": "使卷繞;纏繞",
+    "chinese": "使卷繞；纏繞",
     "synonyms": "",
     "root": "con- (together) + volvere (to roll), from Latin",
     "group": "co；com = 共同；一起",
@@ -157,14 +157,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To coil or twist together.",
-     "chinese": "使卷繞;纏繞"
+     "chinese": "使卷繞；纏繞"
     }
    },
    {
     "word": "convulsive",
     "pos": "adj.",
     "definition": "Marked by violent, irregular spasms.",
-    "chinese": "痙攣性的;劇烈的",
+    "chinese": "痙攣性的；劇烈的",
     "synonyms": "",
     "root": "con- (together) + vellere (to pull), from Latin",
     "group": "co；com = 共同；一起",
@@ -176,7 +176,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Marked by violent, irregular spasms.",
-     "chinese": "痙攣性的;劇烈的"
+     "chinese": "痙攣性的；劇烈的"
     }
    },
    {
@@ -202,7 +202,7 @@ window.FLASHCARD_UNITS = {
     "word": "correct",
     "pos": "adj./v.",
     "definition": "Free from error; to make right.",
-    "chinese": "正確的;糾正",
+    "chinese": "正確的；糾正",
     "synonyms": "",
     "root": "com- (thoroughly) + regere (to guide, rule), from Latin",
     "group": "co；com = 共同；一起",
@@ -214,14 +214,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Free from error; to make right.",
-     "chinese": "正確的;糾正"
+     "chinese": "正確的；糾正"
     }
    },
    {
     "word": "correction",
     "pos": "n.",
     "definition": "The act of correcting an error.",
-    "chinese": "糾正;更正",
+    "chinese": "糾正；更正",
     "synonyms": "",
     "root": "com- (thoroughly) + regere (to guide, rule), from Latin",
     "group": "co；com = 共同；一起",
@@ -235,7 +235,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The act of correcting an error.",
-     "chinese": "糾正;更正"
+     "chinese": "糾正；更正"
     }
    },
    {
@@ -263,7 +263,7 @@ window.FLASHCARD_UNITS = {
     "word": "correspondence",
     "pos": "n.",
     "definition": "Communication by exchanging letters; agreement between things.",
-    "chinese": "通信;一致性",
+    "chinese": "通信；一致性",
     "synonyms": "",
     "root": "com- (together) + respondere (to answer), from Latin",
     "group": "co；com = 共同；一起",
@@ -275,7 +275,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Communication by exchanging letters; agreement between things.",
-     "chinese": "通信;一致性"
+     "chinese": "通信；一致性"
     }
    },
    {
@@ -339,7 +339,7 @@ window.FLASHCARD_UNITS = {
     "word": "corruption",
     "pos": "n.",
     "definition": "Dishonest or fraudulent conduct by those in power.",
-    "chinese": "腐敗;貪污",
+    "chinese": "腐敗；貪污",
     "synonyms": "",
     "root": "com- (thoroughly) + rumpere (to break), from Latin",
     "group": "co；com = 共同；一起",
@@ -351,7 +351,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dishonest or fraudulent conduct by those in power.",
-     "chinese": "腐敗;貪污"
+     "chinese": "腐敗；貪污"
     }
    },
    {
@@ -1093,4 +1093,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"convey": ["To communicate or transport something from one place to another.", "傳達；運送"], "convince": ["To persuade someone to believe or do something.", "說服"], "convivial": ["Sociable, outgoing, especially when pertaining to eating and drinking; fond of good company.", "歡樂的；喜好交際的"], "convocation": ["A large formal assembly of people.", "集會;大會"], "convoke": ["To call together for a formal meeting.", "召集"], "convoluted": ["Extremely complex and difficult to follow.", "錯綜複雜的；難懂的"], "convolution": ["An intricate coiling or complexity.", "迂迴;複雜結構"], "convolve": ["To coil or twist together.", "使卷繞;纏繞"], "convulsive": ["Marked by violent, irregular spasms.", "痙攣性的;劇烈的"], "cooperate": ["To work jointly toward a shared goal.", "合作"], "correct": ["Free from error; to make right.", "正確的;糾正"], "correction": ["The act of correcting an error.", "糾正;更正"], "correlates": ["To show a mutual relationship or connection between two things.", "相關；有關聯"], "correspondence": ["Communication by exchanging letters; agreement between things.", "通信;一致性"], "corrigible": ["Capable of being corrected or set right.", "可矯正的"], "corroborate": ["To confirm, support.", "證實；確證"], "corrosive": ["Gradually destructive or harmful.", "腐蝕性的"], "corruption": ["Dishonest or fraudulent conduct by those in power.", "腐敗;貪污"], "countenance": ["To tolerate, approve.", "支持；贊同；面容"], "discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "incoherent": ["Disjointed.", "語無倫次的；不連貫的"], "inconclusive": ["Not leading to a clear or definite conclusion; ambiguous.", "不確定的；未有定論的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"convey": ["To communicate or transport something from one place to another.", "傳達；運送"], "convince": ["To persuade someone to believe or do something.", "說服"], "convivial": ["Sociable, outgoing, especially when pertaining to eating and drinking; fond of good company.", "歡樂的；喜好交際的"], "convocation": ["A large formal assembly of people.", "集會；大會"], "convoke": ["To call together for a formal meeting.", "召集"], "convoluted": ["Extremely complex and difficult to follow.", "錯綜複雜的；難懂的"], "convolution": ["An intricate coiling or complexity.", "迂迴；複雜結構"], "convolve": ["To coil or twist together.", "使卷繞；纏繞"], "convulsive": ["Marked by violent, irregular spasms.", "痙攣性的；劇烈的"], "cooperate": ["To work jointly toward a shared goal.", "合作"], "correct": ["Free from error; to make right.", "正確的；糾正"], "correction": ["The act of correcting an error.", "糾正；更正"], "correlates": ["To show a mutual relationship or connection between two things.", "相關；有關聯"], "correspondence": ["Communication by exchanging letters; agreement between things.", "通信；一致性"], "corrigible": ["Capable of being corrected or set right.", "可矯正的"], "corroborate": ["To confirm, support.", "證實；確證"], "corrosive": ["Gradually destructive or harmful.", "腐蝕性的"], "corruption": ["Dishonest or fraudulent conduct by those in power.", "腐敗；貪污"], "countenance": ["To tolerate, approve.", "支持；贊同；面容"], "discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "incoherent": ["Disjointed.", "語無倫次的；不連貫的"], "inconclusive": ["Not leading to a clear or definite conclusion; ambiguous.", "不確定的；未有定論的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"]});

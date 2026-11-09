@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "pudency",
     "pos": "n.",
     "definition": "Modesty or a sense of shame, especially regarding sexual matters.",
-    "chinese": "羞怯;端莊(archaic)",
+    "chinese": "羞怯；端莊(archaic)",
     "synonyms": "",
     "root": "pudere (to feel shame), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Modesty or a sense of shame, especially regarding sexual matters.",
-     "chinese": "羞怯;端莊(archaic)"
+     "chinese": "羞怯；端莊(archaic)"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "pudeur",
     "pos": "n.",
     "definition": "A sense of modesty or shame, especially concerning sexual matters.",
-    "chinese": "羞怯感;端莊感(法語借詞)",
+    "chinese": "羞怯感；端莊感(法語借詞)",
     "synonyms": "",
     "root": "pudeur (modesty), from French, from Latin pudere (to feel shame)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sense of modesty or shame, especially concerning sexual matters.",
-     "chinese": "羞怯感;端莊感(法語借詞)"
+     "chinese": "羞怯感；端莊感(法語借詞)"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "puerilism",
     "pos": "n.",
     "definition": "Childish behavior or thought exhibited by an adult.",
-    "chinese": "幼稚行為;童稚化",
+    "chinese": "幼稚行為；童稚化",
     "synonyms": "",
     "root": "puer (boy, child), from Latin",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Childish behavior or thought exhibited by an adult.",
-     "chinese": "幼稚行為;童稚化"
+     "chinese": "幼稚行為；童稚化"
     }
    },
    {
     "word": "puerility",
     "pos": "n.",
     "definition": "Childishness or immaturity in behavior or thought.",
-    "chinese": "幼稚;不成熟",
+    "chinese": "幼稚；不成熟",
     "synonyms": "",
     "root": "puer (boy, child), from Latin",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Childishness or immaturity in behavior or thought.",
-     "chinese": "幼稚;不成熟"
+     "chinese": "幼稚；不成熟"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "puissance",
     "pos": "n.",
     "definition": "Great power or strength.",
-    "chinese": "強大;威力",
+    "chinese": "強大；威力",
     "synonyms": "",
     "root": "poissance (power), from Old French poeir (to be able)",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great power or strength.",
-     "chinese": "強大;威力"
+     "chinese": "強大；威力"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "pulchritudinous",
     "pos": "adj.",
     "definition": "Physically beautiful; attractive.",
-    "chinese": "美麗的;姿色出眾的",
+    "chinese": "美麗的；姿色出眾的",
     "synonyms": "",
     "root": "pulchritudo (beauty), from Latin pulcher (beautiful)",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Physically beautiful; attractive.",
-     "chinese": "美麗的;姿色出眾的"
+     "chinese": "美麗的；姿色出眾的"
     }
    },
    {
     "word": "pulmonary",
     "pos": "adj.",
     "definition": "Relating to the lungs.",
-    "chinese": "肺的;肺部的",
+    "chinese": "肺的；肺部的",
     "synonyms": "",
     "root": "pulmo (lung), from Latin",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the lungs.",
-     "chinese": "肺的;肺部的"
+     "chinese": "肺的；肺部的"
     }
    },
    {
     "word": "pulverize",
     "pos": "v.",
     "definition": "To crush something into fine particles or powder.",
-    "chinese": "粉碎;搗碎",
+    "chinese": "粉碎；搗碎",
     "synonyms": "",
     "root": "pulvis (dust, powder), from Latin",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To crush something into fine particles or powder.",
-     "chinese": "粉碎;搗碎"
+     "chinese": "粉碎；搗碎"
     }
    },
    {
     "word": "punctilio",
     "pos": "n.",
     "definition": "A fine or petty point of conduct or procedure.",
-    "chinese": "細節禮節;繁文縟節",
+    "chinese": "細節禮節；繁文縟節",
     "synonyms": "",
     "root": "puntillo (small point), from Italian, from Latin punctum (point)",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fine or petty point of conduct or procedure.",
-     "chinese": "細節禮節;繁文縟節"
+     "chinese": "細節禮節；繁文縟節"
     }
    },
    {
@@ -329,7 +329,7 @@ window.FLASHCARD_UNITS = {
     "word": "puncture",
     "pos": "n./v.",
     "definition": "A small hole made by a sharp object; to make such a hole.",
-    "chinese": "穿孔;刺破",
+    "chinese": "穿孔；刺破",
     "synonyms": "",
     "root": "punctura (a pricking), from Latin pungere (to prick)",
     "group": "",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small hole made by a sharp object; to make such a hole.",
-     "chinese": "穿孔;刺破"
+     "chinese": "穿孔；刺破"
     }
    },
    {
     "word": "pundit",
     "pos": "n.",
     "definition": "An expert commentator, especially in politics or media.",
-    "chinese": "評論家;權威人士",
+    "chinese": "評論家；權威人士",
     "synonyms": "",
     "root": "pandita (learned man), from Sanskrit",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An expert commentator, especially in politics or media.",
-     "chinese": "評論家;權威人士"
+     "chinese": "評論家；權威人士"
     }
    },
    {
     "word": "punditocracy",
     "pos": "n.",
     "definition": "The collective influence or dominance of media pundits over public discourse.",
-    "chinese": "評論家統治;媒體權威集團",
+    "chinese": "評論家統治；媒體權威集團",
     "synonyms": "",
     "root": "pandita (learned man), from Sanskrit + -cracy (rule), from Greek kratos (power)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The collective influence or dominance of media pundits over public discourse.",
-     "chinese": "評論家統治;媒體權威集團"
+     "chinese": "評論家統治；媒體權威集團"
     }
    },
    {
     "word": "punditry",
     "pos": "n.",
     "definition": "The activity or opinions of expert commentators, especially in politics.",
-    "chinese": "評論;時事評論",
+    "chinese": "評論；時事評論",
     "synonyms": "",
     "root": "pandita (learned man), from Sanskrit",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The activity or opinions of expert commentators, especially in politics.",
-     "chinese": "評論;時事評論"
+     "chinese": "評論；時事評論"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "purblind",
     "pos": "adj.",
     "definition": "Having poor or impaired vision; lacking understanding or insight.",
-    "chinese": "半盲的;缺乏洞察力的",
+    "chinese": "半盲的；缺乏洞察力的",
     "synonyms": "",
     "root": "pur- (entirely) + blind, from Middle English pur blind",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having poor or impaired vision; lacking understanding or insight.",
-     "chinese": "半盲的;缺乏洞察力的"
+     "chinese": "半盲的；缺乏洞察力的"
     }
    },
    {
     "word": "pure",
     "pos": "adj.",
     "definition": "Not mixed with anything else; free from contamination.",
-    "chinese": "純粹的;純淨的",
+    "chinese": "純粹的；純淨的",
     "synonyms": "",
     "root": "purus (clean, unmixed), from Latin",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not mixed with anything else; free from contamination.",
-     "chinese": "純粹的;純淨的"
+     "chinese": "純粹的；純淨的"
     }
    },
    {
     "word": "purge",
     "pos": "v./n.",
     "definition": "To remove unwanted elements; a systematic elimination.",
-    "chinese": "清除;整肅",
+    "chinese": "清除；整肅",
     "synonyms": "",
     "root": "purgare (to cleanse), from Latin purus (pure)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To remove unwanted elements; a systematic elimination.",
-     "chinese": "清除;整肅"
+     "chinese": "清除；整肅"
     }
    },
    {
     "word": "puritanical",
     "pos": "adj.",
     "definition": "Practicing or affecting strict moral or religious discipline.",
-    "chinese": "清教徒式的;拘謹嚴苛的",
+    "chinese": "清教徒式的；拘謹嚴苛的",
     "synonyms": "",
     "root": "puritan, from Latin purus (pure)",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Practicing or affecting strict moral or religious discipline.",
-     "chinese": "清教徒式的;拘謹嚴苛的"
+     "chinese": "清教徒式的；拘謹嚴苛的"
     }
    },
    {
     "word": "purloin",
     "pos": "v.",
     "definition": "To steal something, especially through betrayal of trust.",
-    "chinese": "竊取;盜用",
+    "chinese": "竊取；盜用",
     "synonyms": "",
     "root": "purloigner (to remove, put away), from Old French pur- (forth) + loing (far)",
     "group": "",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To steal something, especially through betrayal of trust.",
-     "chinese": "竊取;盜用"
+     "chinese": "竊取；盜用"
     }
    },
    {
     "word": "purposefully",
     "pos": "adv.",
     "definition": "In a determined manner, with a clear intention.",
-    "chinese": "有目的地;堅定地",
+    "chinese": "有目的地；堅定地",
     "synonyms": "",
     "root": "purpose, from Latin proponere (to propose) + -fully",
     "group": "",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a determined manner, with a clear intention.",
-     "chinese": "有目的地;堅定地"
+     "chinese": "有目的地；堅定地"
     }
    },
    {
     "word": "purposeless",
     "pos": "adj.",
     "definition": "Without a clear aim or intention.",
-    "chinese": "無目的的;漫無目標的",
+    "chinese": "無目的的；漫無目標的",
     "synonyms": "",
     "root": "purpose, from Latin proponere (to propose) + -less",
     "group": "",
@@ -590,14 +590,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Without a clear aim or intention.",
-     "chinese": "無目的的;漫無目標的"
+     "chinese": "無目的的；漫無目標的"
     }
    },
    {
     "word": "purposely",
     "pos": "adv.",
     "definition": "On purpose; intentionally.",
-    "chinese": "故意地;蓄意地",
+    "chinese": "故意地；蓄意地",
     "synonyms": "",
     "root": "purpose, from Latin proponere (to propose) + -ly",
     "group": "",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "On purpose; intentionally.",
-     "chinese": "故意地;蓄意地"
+     "chinese": "故意地；蓄意地"
     }
    },
    {
     "word": "pursuit",
     "pos": "n.",
     "definition": "The act of chasing or seeking something.",
-    "chinese": "追求;追逐",
+    "chinese": "追求；追逐",
     "synonyms": "",
     "root": "poursuite (a following after), from Old French poursivre (to pursue)",
     "group": "",
@@ -628,7 +628,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of chasing or seeking something.",
-     "chinese": "追求;追逐"
+     "chinese": "追求；追逐"
     }
    },
    {
@@ -654,7 +654,7 @@ window.FLASHCARD_UNITS = {
     "word": "putative",
     "pos": "adj.",
     "definition": "Generally considered or reputed to be, without definitive proof.",
-    "chinese": "推定的;據稱的",
+    "chinese": "推定的；據稱的",
     "synonyms": "",
     "root": "putativus (supposed), from Latin putare (to think)",
     "group": "",
@@ -666,7 +666,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Generally considered or reputed to be, without definitive proof.",
-     "chinese": "推定的;據稱的"
+     "chinese": "推定的；據稱的"
     }
    },
    {
@@ -711,7 +711,7 @@ window.FLASHCARD_UNITS = {
     "word": "puzzle",
     "pos": "n./v.",
     "definition": "A game or problem designed to test ingenuity; to confuse.",
-    "chinese": "謎題;使困惑",
+    "chinese": "謎題；使困惑",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to opposal",
     "group": "",
@@ -723,14 +723,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A game or problem designed to test ingenuity; to confuse.",
-     "chinese": "謎題;使困惑"
+     "chinese": "謎題；使困惑"
     }
    },
    {
     "word": "pygmy",
     "pos": "n./adj.",
     "definition": "A member of a people of unusually short stature; something very small.",
-    "chinese": "俾格米人;矮小的",
+    "chinese": "俾格米人；矮小的",
     "synonyms": "",
     "root": "pygmaios (dwarfish), from Greek pygme (fist, unit of length)",
     "group": "",
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A member of a people of unusually short stature; something very small.",
-     "chinese": "俾格米人;矮小的"
+     "chinese": "俾格米人；矮小的"
     }
    },
    {
@@ -787,7 +787,7 @@ window.FLASHCARD_UNITS = {
     "word": "pyrrhonism",
     "pos": "n.",
     "definition": "Extreme or radical skepticism, doubting the possibility of certain knowledge.",
-    "chinese": "皮浪主義;極端懷疑論",
+    "chinese": "皮浪主義；極端懷疑論",
     "synonyms": "",
     "root": "named after Pyrrho, an ancient Greek skeptic philosopher",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Extreme or radical skepticism, doubting the possibility of certain knowledge.",
-     "chinese": "皮浪主義;極端懷疑論"
+     "chinese": "皮浪主義；極端懷疑論"
     }
    },
    {
     "word": "pyrrhonist",
     "pos": "n.",
     "definition": "A person who holds extreme skeptical views; a follower of Pyrrhonism.",
-    "chinese": "皮浪主義者;極端懷疑論者",
+    "chinese": "皮浪主義者；極端懷疑論者",
     "synonyms": "",
     "root": "named after Pyrrho, an ancient Greek skeptic philosopher",
     "group": "",
@@ -820,7 +820,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who holds extreme skeptical views; a follower of Pyrrhonism.",
-     "chinese": "皮浪主義者;極端懷疑論者"
+     "chinese": "皮浪主義者；極端懷疑論者"
     }
    },
    {
@@ -865,7 +865,7 @@ window.FLASHCARD_UNITS = {
     "word": "quaff",
     "pos": "v.",
     "definition": "To drink something heartily.",
-    "chinese": "暢飲;大口喝",
+    "chinese": "暢飲；大口喝",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Low German quassen",
     "group": "",
@@ -877,7 +877,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To drink something heartily.",
-     "chinese": "暢飲;大口喝"
+     "chinese": "暢飲；大口喝"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pudency": ["Modesty or a sense of shame, especially regarding sexual matters.", "羞怯;端莊(archaic)"], "pudendum": ["The external genital organs, especially of a woman (formal/medical term).", "外陰部(醫學正式用語)"], "pudeur": ["A sense of modesty or shame, especially concerning sexual matters.", "羞怯感;端莊感(法語借詞)"], "puerile": ["Juvenile, immature.", "幼稚的；孩子氣的"], "puerilism": ["Childish behavior or thought exhibited by an adult.", "幼稚行為;童稚化"], "puerility": ["Childishness or immaturity in behavior or thought.", "幼稚;不成熟"], "pugilism": ["The sport or practice of boxing.", "拳擊運動"], "pugilist": ["A boxer or fighter.", "拳擊手"], "pugnacious": ["Quarrelsome.", "好鬥的"], "puissance": ["Great power or strength.", "強大;威力"], "puissant": ["Powerful.", "強大的；有權力的"], "pulchritude": ["Physical beauty.", "美貌；姿色"], "pulchritudinous": ["Physically beautiful; attractive.", "美麗的;姿色出眾的"], "pulmonary": ["Relating to the lungs.", "肺的;肺部的"], "pulverize": ["To crush something into fine particles or powder.", "粉碎;搗碎"], "punctilio": ["A fine or petty point of conduct or procedure.", "細節禮節;繁文縟節"], "punctilious": ["Eager to follow rules or conventions.", "一絲不苟的；拘泥細節的"], "puncture": ["A small hole made by a sharp object; to make such a hole.", "穿孔;刺破"], "pundit": ["An expert commentator, especially in politics or media.", "評論家;權威人士"], "punditocracy": ["The collective influence or dominance of media pundits over public discourse.", "評論家統治;媒體權威集團"], "punditry": ["The activity or opinions of expert commentators, especially in politics.", "評論;時事評論"], "pungent": ["Sharply stimulating, biting.", "辛辣的；刺鼻的"], "punitive": ["Involving punishment.", "懲罰性的"], "puny": ["Weak, small, unimportant.", "微小的；弱小的"], "purblind": ["Having poor or impaired vision; lacking understanding or insight.", "半盲的;缺乏洞察力的"], "pure": ["Not mixed with anything else; free from contamination.", "純粹的;純淨的"], "purge": ["To remove unwanted elements; a systematic elimination.", "清除;整肅"], "puritanical": ["Practicing or affecting strict moral or religious discipline.", "清教徒式的;拘謹嚴苛的"], "purloin": ["To steal something, especially through betrayal of trust.", "竊取;盜用"], "purposefully": ["In a determined manner, with a clear intention.", "有目的地;堅定地"], "purposeless": ["Without a clear aim or intention.", "無目的的;漫無目標的"], "purposely": ["On purpose; intentionally.", "故意地;蓄意地"], "pursuit": ["The act of chasing or seeking something.", "追求;追逐"], "pustule": ["A small blister or pimple containing pus.", "膿皰"], "putative": ["Generally considered or reputed to be, without definitive proof.", "推定的;據稱的"], "putrescent": ["In a state of decay or decomposition.", "腐爛的；腐敗中的"], "putrid": ["Rotten, foul.", "腐爛的；惡臭的"], "puzzle": ["A game or problem designed to test ingenuity; to confuse.", "謎題;使困惑"], "pygmy": ["A member of a people of unusually short stature; something very small.", "俾格米人;矮小的"], "pyromania": ["An obsessive desire to set things on fire.", "縱火癖"], "pyrophobia": ["An irrational fear of fire.", "火恐懼症"], "pyrrhonism": ["Extreme or radical skepticism, doubting the possibility of certain knowledge.", "皮浪主義;極端懷疑論"], "pyrrhonist": ["A person who holds extreme skeptical views; a follower of Pyrrhonism.", "皮浪主義者;極端懷疑論者"], "quadragenarian": ["A person who is between 40 and 49 years old.", "四十多歲的人"], "quadrinomial": ["Consisting of four terms or names.", "四項式的"], "quaff": ["To drink something heartily.", "暢飲;大口喝"], "quagmire": ["A difficult situation.", "泥沼；困境"], "quaint": ["Charmingly old-fashioned.", "古雅別緻的；古色古香的"], "qualm": ["Twinge of conscience.", "疑慮；不安"], "quandary": ["Doubt, dilemma.", "困惑；窘境"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pudency": ["Modesty or a sense of shame, especially regarding sexual matters.", "羞怯；端莊(archaic)"], "pudendum": ["The external genital organs, especially of a woman (formal/medical term).", "外陰部(醫學正式用語)"], "pudeur": ["A sense of modesty or shame, especially concerning sexual matters.", "羞怯感；端莊感(法語借詞)"], "puerile": ["Juvenile, immature.", "幼稚的；孩子氣的"], "puerilism": ["Childish behavior or thought exhibited by an adult.", "幼稚行為；童稚化"], "puerility": ["Childishness or immaturity in behavior or thought.", "幼稚；不成熟"], "pugilism": ["The sport or practice of boxing.", "拳擊運動"], "pugilist": ["A boxer or fighter.", "拳擊手"], "pugnacious": ["Quarrelsome.", "好鬥的"], "puissance": ["Great power or strength.", "強大；威力"], "puissant": ["Powerful.", "強大的；有權力的"], "pulchritude": ["Physical beauty.", "美貌；姿色"], "pulchritudinous": ["Physically beautiful; attractive.", "美麗的；姿色出眾的"], "pulmonary": ["Relating to the lungs.", "肺的；肺部的"], "pulverize": ["To crush something into fine particles or powder.", "粉碎；搗碎"], "punctilio": ["A fine or petty point of conduct or procedure.", "細節禮節；繁文縟節"], "punctilious": ["Eager to follow rules or conventions.", "一絲不苟的；拘泥細節的"], "puncture": ["A small hole made by a sharp object; to make such a hole.", "穿孔；刺破"], "pundit": ["An expert commentator, especially in politics or media.", "評論家；權威人士"], "punditocracy": ["The collective influence or dominance of media pundits over public discourse.", "評論家統治；媒體權威集團"], "punditry": ["The activity or opinions of expert commentators, especially in politics.", "評論；時事評論"], "pungent": ["Sharply stimulating, biting.", "辛辣的；刺鼻的"], "punitive": ["Involving punishment.", "懲罰性的"], "puny": ["Weak, small, unimportant.", "微小的；弱小的"], "purblind": ["Having poor or impaired vision; lacking understanding or insight.", "半盲的；缺乏洞察力的"], "pure": ["Not mixed with anything else; free from contamination.", "純粹的；純淨的"], "purge": ["To remove unwanted elements; a systematic elimination.", "清除；整肅"], "puritanical": ["Practicing or affecting strict moral or religious discipline.", "清教徒式的；拘謹嚴苛的"], "purloin": ["To steal something, especially through betrayal of trust.", "竊取；盜用"], "purposefully": ["In a determined manner, with a clear intention.", "有目的地；堅定地"], "purposeless": ["Without a clear aim or intention.", "無目的的；漫無目標的"], "purposely": ["On purpose; intentionally.", "故意地；蓄意地"], "pursuit": ["The act of chasing or seeking something.", "追求；追逐"], "pustule": ["A small blister or pimple containing pus.", "膿皰"], "putative": ["Generally considered or reputed to be, without definitive proof.", "推定的；據稱的"], "putrescent": ["In a state of decay or decomposition.", "腐爛的；腐敗中的"], "putrid": ["Rotten, foul.", "腐爛的；惡臭的"], "puzzle": ["A game or problem designed to test ingenuity; to confuse.", "謎題；使困惑"], "pygmy": ["A member of a people of unusually short stature; something very small.", "俾格米人；矮小的"], "pyromania": ["An obsessive desire to set things on fire.", "縱火癖"], "pyrophobia": ["An irrational fear of fire.", "火恐懼症"], "pyrrhonism": ["Extreme or radical skepticism, doubting the possibility of certain knowledge.", "皮浪主義；極端懷疑論"], "pyrrhonist": ["A person who holds extreme skeptical views; a follower of Pyrrhonism.", "皮浪主義者；極端懷疑論者"], "quadragenarian": ["A person who is between 40 and 49 years old.", "四十多歲的人"], "quadrinomial": ["Consisting of four terms or names.", "四項式的"], "quaff": ["To drink something heartily.", "暢飲；大口喝"], "quagmire": ["A difficult situation.", "泥沼；困境"], "quaint": ["Charmingly old-fashioned.", "古雅別緻的；古色古香的"], "qualm": ["Twinge of conscience.", "疑慮；不安"], "quandary": ["Doubt, dilemma.", "困惑；窘境"]});

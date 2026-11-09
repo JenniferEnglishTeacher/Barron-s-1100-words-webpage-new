@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "gracious",
     "pos": "adj.",
     "definition": "Courteous, kind, and pleasant, especially to a subordinate.",
-    "chinese": "親切的;有禮的",
+    "chinese": "親切的；有禮的",
     "synonyms": "",
     "root": "gratia (favor, grace), from Latin",
     "group": "grat = 令人愉悅；感謝",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Courteous, kind, and pleasant, especially to a subordinate.",
-     "chinese": "親切的;有禮的"
+     "chinese": "親切的；有禮的"
     }
    },
    {
     "word": "graciousness",
     "pos": "n.",
     "definition": "The quality of being courteous and pleasant.",
-    "chinese": "親切;優雅有禮",
+    "chinese": "親切；優雅有禮",
     "synonyms": "",
     "root": "gratia (favor, grace), from Latin",
     "group": "grat = 令人愉悅；感謝",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being courteous and pleasant.",
-     "chinese": "親切;優雅有禮"
+     "chinese": "親切；優雅有禮"
     }
    },
    {
@@ -397,4 +397,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ingratiate": ["To win confidence, charm.", "討好；迎合"], "gratuity": ["Tip, gift.", "酬金；小費"], "gratify": ["To please or indulge.", "使滿足"], "disagreement": ["A difference of opinion.", "意見分歧"], "gracious": ["Courteous, kind, and pleasant, especially to a subordinate.", "親切的;有禮的"], "graciousness": ["The quality of being courteous and pleasant.", "親切;優雅有禮"], "gratis": ["Free of charge.", "免費的"], "gratuitous": ["Uncalled for, unwarranted.", "無端的；不必要的"], "ingratiating": ["Capable of winning favor.", "討好的；諂媚的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ingratiate": ["To win confidence, charm.", "討好；迎合"], "gratuity": ["Tip, gift.", "酬金；小費"], "gratify": ["To please or indulge.", "使滿足"], "disagreement": ["A difference of opinion.", "意見分歧"], "gracious": ["Courteous, kind, and pleasant, especially to a subordinate.", "親切的；有禮的"], "graciousness": ["The quality of being courteous and pleasant.", "親切；優雅有禮"], "gratis": ["Free of charge.", "免費的"], "gratuitous": ["Uncalled for, unwarranted.", "無端的；不必要的"], "ingratiating": ["Capable of winning favor.", "討好的；諂媚的"]});

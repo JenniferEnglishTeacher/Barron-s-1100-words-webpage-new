@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "obedient",
     "pos": "adj.",
     "definition": "Willing to comply with orders or requests.",
-    "chinese": "順從的;聽話的",
+    "chinese": "順從的；聽話的",
     "synonyms": "",
     "root": "oboedire (to obey), from Latin ob- (toward) + audire (to hear)",
     "group": "audi = 聽；聲音；說話",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to comply with orders or requests.",
-     "chinese": "順從的;聽話的"
+     "chinese": "順從的；聽話的"
     }
    },
    {
@@ -610,4 +610,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"audacious": ["Showing a willingness to take bold risks, sometimes in a shocking or disrespectful way.", "大膽的；無畏的；放肆的"], "audible": ["Able to be heard.", "聽得見的"], "obedient": ["Willing to comply with orders or requests.", "順從的;聽話的"], "auditory": ["Connected with hearing or the sense of sound.", "聽覺的；與聽力有關的"], "audit": ["An official examination of financial records, procedures, or performance; to conduct such an examination.", "審計；查帳；稽核；審查"], "inaudible": ["Too quiet or unclear to be heard.", "聽不見的；難以聽清的"], "audition": ["A performance used to judge someone's suitability for a role; to perform in such a test.", "試鏡；試演；試奏；參加甄選"], "audiovisual": ["Involving both sound and visual images.", "視聽的；影音的"], "cacophony": ["A harsh, unpleasant mixture of loud sounds.", "刺耳的雜音；嘈雜聲"], "mellifluous": ["Pleasantly smooth, rich, and musical to hear.", "悅耳的；甜美流暢的"], "sonorous": ["Producing a deep, rich, and impressively loud sound.", "洪亮的；渾厚的；響亮的"], "vociferous": ["Expressing opinions loudly, forcefully, and repeatedly.", "大聲疾呼的；喧嚷的；強烈表達的"], "resonance": ["A deep, continuing sound or a quality that creates a strong emotional response or lasting importance.", "共鳴；迴響；深遠影響"], "colloquial": ["Used in ordinary, informal conversation rather than in formal speech or writing.", "口語的；通俗的；非正式的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"audacious": ["Showing a willingness to take bold risks, sometimes in a shocking or disrespectful way.", "大膽的；無畏的；放肆的"], "audible": ["Able to be heard.", "聽得見的"], "obedient": ["Willing to comply with orders or requests.", "順從的；聽話的"], "auditory": ["Connected with hearing or the sense of sound.", "聽覺的；與聽力有關的"], "audit": ["An official examination of financial records, procedures, or performance; to conduct such an examination.", "審計；查帳；稽核；審查"], "inaudible": ["Too quiet or unclear to be heard.", "聽不見的；難以聽清的"], "audition": ["A performance used to judge someone's suitability for a role; to perform in such a test.", "試鏡；試演；試奏；參加甄選"], "audiovisual": ["Involving both sound and visual images.", "視聽的；影音的"], "cacophony": ["A harsh, unpleasant mixture of loud sounds.", "刺耳的雜音；嘈雜聲"], "mellifluous": ["Pleasantly smooth, rich, and musical to hear.", "悅耳的；甜美流暢的"], "sonorous": ["Producing a deep, rich, and impressively loud sound.", "洪亮的；渾厚的；響亮的"], "vociferous": ["Expressing opinions loudly, forcefully, and repeatedly.", "大聲疾呼的；喧嚷的；強烈表達的"], "resonance": ["A deep, continuing sound or a quality that creates a strong emotional response or lasting importance.", "共鳴；迴響；深遠影響"], "colloquial": ["Used in ordinary, informal conversation rather than in formal speech or writing.", "口語的；通俗的；非正式的"]});

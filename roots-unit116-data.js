@@ -48,7 +48,7 @@ window.FLASHCARD_UNITS = {
     "word": "addlepated",
     "pos": "adj.",
     "definition": "Confused or muddled in thought.",
-    "chinese": "頭腦不清的;糊塗的",
+    "chinese": "頭腦不清的；糊塗的",
     "synonyms": "",
     "root": "addled + pate (head)",
     "group": "patr(i) = 父親；祖國",
@@ -60,7 +60,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Confused or muddled in thought.",
-     "chinese": "頭腦不清的;糊塗的"
+     "chinese": "頭腦不清的；糊塗的"
     }
    },
    {
@@ -88,7 +88,7 @@ window.FLASHCARD_UNITS = {
     "word": "patio",
     "pos": "n.",
     "definition": "A paved outdoor area adjoining a house.",
-    "chinese": "露台;庭院",
+    "chinese": "露台；庭院",
     "synonyms": "",
     "root": "patio (courtyard), from Spanish",
     "group": "patr(i) = 父親；祖國",
@@ -100,7 +100,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A paved outdoor area adjoining a house.",
-     "chinese": "露台;庭院"
+     "chinese": "露台；庭院"
     }
    },
    {
@@ -126,7 +126,7 @@ window.FLASHCARD_UNITS = {
     "word": "patrician",
     "pos": "n./adj.",
     "definition": "A person of high social rank; aristocratic.",
-    "chinese": "貴族;貴族的",
+    "chinese": "貴族；貴族的",
     "synonyms": "",
     "root": "patricius (of noble descent), from Latin pater (father)",
     "group": "patr(i) = 父親；祖國",
@@ -138,14 +138,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person of high social rank; aristocratic.",
-     "chinese": "貴族;貴族的"
+     "chinese": "貴族；貴族的"
     }
    },
    {
     "word": "philopatridomania",
     "pos": "n.",
     "definition": "An excessive or obsessive longing for one's homeland; extreme homesickness.",
-    "chinese": "極度思鄉症;愛國狂熱",
+    "chinese": "極度思鄉症；愛國狂熱",
     "synonyms": "",
     "root": "philos (loving) + patris (fatherland) + mania (madness), from Greek",
     "group": "patr(i) = 父親；祖國",
@@ -157,14 +157,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive or obsessive longing for one's homeland; extreme homesickness.",
-     "chinese": "極度思鄉症;愛國狂熱"
+     "chinese": "極度思鄉症；愛國狂熱"
     }
    },
    {
     "word": "puzzlepate",
     "pos": "n.",
     "definition": "A confused or muddle-headed person.",
-    "chinese": "糊塗蛋;頭腦混亂的人",
+    "chinese": "糊塗蛋；頭腦混亂的人",
     "synonyms": "",
     "root": "puzzle, of uncertain origin + pate (head), from Middle English",
     "group": "patr(i) = 父親；祖國",
@@ -176,7 +176,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confused or muddle-headed person.",
-     "chinese": "糊塗蛋;頭腦混亂的人"
+     "chinese": "糊塗蛋；頭腦混亂的人"
     }
    }
   ],
@@ -401,4 +401,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perpetrate": ["To commit a crime.", "犯(罪)；做(壞事)"], "expatriate": ["An exile.", "移居國外者；流放者"], "addlepated": ["Confused or muddled in thought.", "頭腦不清的;糊塗的"], "patent": ["Readily seen or understood, clear.", "明顯的；顯而易見的"], "patio": ["A paved outdoor area adjoining a house.", "露台;庭院"], "patios": ["The plural form of patio, paved outdoor areas adjoining houses.", "露台(複數)"], "patrician": ["A person of high social rank; aristocratic.", "貴族;貴族的"], "philopatridomania": ["An excessive or obsessive longing for one's homeland; extreme homesickness.", "極度思鄉症;愛國狂熱"], "puzzlepate": ["A confused or muddle-headed person.", "糊塗蛋;頭腦混亂的人"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perpetrate": ["To commit a crime.", "犯(罪)；做(壞事)"], "expatriate": ["An exile.", "移居國外者；流放者"], "addlepated": ["Confused or muddled in thought.", "頭腦不清的；糊塗的"], "patent": ["Readily seen or understood, clear.", "明顯的；顯而易見的"], "patio": ["A paved outdoor area adjoining a house.", "露台；庭院"], "patios": ["The plural form of patio, paved outdoor areas adjoining houses.", "露台(複數)"], "patrician": ["A person of high social rank; aristocratic.", "貴族；貴族的"], "philopatridomania": ["An excessive or obsessive longing for one's homeland; extreme homesickness.", "極度思鄉症；愛國狂熱"], "puzzlepate": ["A confused or muddle-headed person.", "糊塗蛋；頭腦混亂的人"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "squalid",
     "pos": "adj.",
     "definition": "Extremely dirty or unpleasant, especially due to poverty or neglect.",
-    "chinese": "骯髒的;污穢不堪的",
+    "chinese": "骯髒的；污穢不堪的",
     "synonyms": "",
     "root": "squalidus (rough, dirty), from Latin squalere (to be filthy)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely dirty or unpleasant, especially due to poverty or neglect.",
-     "chinese": "骯髒的;污穢不堪的"
+     "chinese": "骯髒的；污穢不堪的"
     }
    },
    {
     "word": "squalor",
     "pos": "n.",
     "definition": "A state of being extremely dirty and unpleasant, especially from poverty.",
-    "chinese": "骯髒;貧困污穢",
+    "chinese": "骯髒；貧困污穢",
     "synonyms": "",
     "root": "squalor, from Latin squalere (to be filthy)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of being extremely dirty and unpleasant, especially from poverty.",
-     "chinese": "骯髒;貧困污穢"
+     "chinese": "骯髒；貧困污穢"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "stale",
     "pos": "adj.",
     "definition": "No longer fresh; overused and uninteresting.",
-    "chinese": "不新鮮的;陳腐的",
+    "chinese": "不新鮮的；陳腐的",
     "synonyms": "",
     "root": "of uncertain origin, related to Old French estale (stagnant)",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "No longer fresh; overused and uninteresting.",
-     "chinese": "不新鮮的;陳腐的"
+     "chinese": "不新鮮的；陳腐的"
     }
    },
    {
     "word": "stallion",
     "pos": "n.",
     "definition": "An uncastrated adult male horse.",
-    "chinese": "種馬;公馬",
+    "chinese": "種馬；公馬",
     "synonyms": "",
     "root": "estalon, from Old French, from a Germanic root related to stall",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An uncastrated adult male horse.",
-     "chinese": "種馬;公馬"
+     "chinese": "種馬；公馬"
     }
    },
    {
     "word": "stalwart",
     "pos": "adj./n.",
     "definition": "Loyal, reliable, and hardworking; a strong supporter.",
-    "chinese": "堅定的;忠實支持者",
+    "chinese": "堅定的；忠實支持者",
     "synonyms": "",
     "root": "stælwierþe (serviceable), from Old English",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Loyal, reliable, and hardworking; a strong supporter.",
-     "chinese": "堅定的;忠實支持者"
+     "chinese": "堅定的；忠實支持者"
     }
    },
    {
     "word": "stampede",
     "pos": "n./v.",
     "definition": "A sudden headlong rush of frightened animals or people.",
-    "chinese": "驚竄;蜂擁",
+    "chinese": "驚竄；蜂擁",
     "synonyms": "",
     "root": "estampida (crash, uproar), from Spanish estampar (to stamp)",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden headlong rush of frightened animals or people.",
-     "chinese": "驚竄;蜂擁"
+     "chinese": "驚竄；蜂擁"
     }
    },
    {
     "word": "staple",
     "pos": "n./adj.",
     "definition": "A main or important element; a fastener for paper.",
-    "chinese": "主要產品;主食;釘書針",
+    "chinese": "主要產品；主食；釘書針",
     "synonyms": "",
     "root": "estaple (market, storehouse), from Old French, from a Germanic root",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A main or important element; a fastener for paper.",
-     "chinese": "主要產品;主食;釘書針"
+     "chinese": "主要產品；主食；釘書針"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "steady",
     "pos": "adj./v.",
     "definition": "Firmly fixed or supported; not likely to change.",
-    "chinese": "穩定的;穩固的",
+    "chinese": "穩定的；穩固的",
     "synonyms": "",
     "root": "stede (place), from Old English, related to stead",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Firmly fixed or supported; not likely to change.",
-     "chinese": "穩定的;穩固的"
+     "chinese": "穩定的；穩固的"
     }
    },
    {
     "word": "steal",
     "pos": "v./n.",
     "definition": "To take something without permission or right; a bargain.",
-    "chinese": "偷竊;便宜貨",
+    "chinese": "偷竊；便宜貨",
     "synonyms": "",
     "root": "stelan (to steal), from Old English",
     "group": "",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To take something without permission or right; a bargain.",
-     "chinese": "偷竊;便宜貨"
+     "chinese": "偷竊；便宜貨"
     }
    },
    {
@@ -386,7 +386,7 @@ window.FLASHCARD_UNITS = {
     "word": "sterile",
     "pos": "adj.",
     "definition": "Free from germs; unable to reproduce; lacking imagination.",
-    "chinese": "無菌的;不孕的",
+    "chinese": "無菌的；不孕的",
     "synonyms": "",
     "root": "sterilis (barren), from Latin",
     "group": "",
@@ -398,14 +398,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Free from germs; unable to reproduce; lacking imagination.",
-     "chinese": "無菌的;不孕的"
+     "chinese": "無菌的；不孕的"
     }
    },
    {
     "word": "stevedore",
     "pos": "n.",
     "definition": "A person employed to load and unload ships.",
-    "chinese": "碼頭工人;裝卸工",
+    "chinese": "碼頭工人；裝卸工",
     "synonyms": "",
     "root": "estivador (one who stows cargo), from Spanish estivar (to stow), from Latin stipare",
     "group": "",
@@ -419,14 +419,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person employed to load and unload ships.",
-     "chinese": "碼頭工人;裝卸工"
+     "chinese": "碼頭工人；裝卸工"
     }
    },
    {
     "word": "stigma",
     "pos": "n.",
     "definition": "A mark of disgrace associated with a circumstance or quality.",
-    "chinese": "污名;恥辱標記",
+    "chinese": "污名；恥辱標記",
     "synonyms": "",
     "root": "stigma (a mark made by a pointed instrument), from Greek stizein (to prick)",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mark of disgrace associated with a circumstance or quality.",
-     "chinese": "污名;恥辱標記"
+     "chinese": "污名；恥辱標記"
     }
    },
    {
     "word": "stigmata",
     "pos": "n.",
     "definition": "Marks resembling the wounds of the crucified Christ; plural of stigma.",
-    "chinese": "聖痕;恥辱標記(複數)",
+    "chinese": "聖痕；恥辱標記(複數)",
     "synonyms": "",
     "root": "stigma (a mark made by a pointed instrument), from Greek stizein (to prick)",
     "group": "",
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Marks resembling the wounds of the crucified Christ; plural of stigma.",
-     "chinese": "聖痕;恥辱標記(複數)"
+     "chinese": "聖痕；恥辱標記(複數)"
     }
    },
    {
@@ -502,7 +502,7 @@ window.FLASHCARD_UNITS = {
     "word": "stimulating",
     "pos": "adj.",
     "definition": "Encouraging interest, energy, or enthusiasm.",
-    "chinese": "刺激的;激發興趣的",
+    "chinese": "刺激的；激發興趣的",
     "synonyms": "",
     "root": "stimulare (to goad), from Latin stimulus (a goad)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Encouraging interest, energy, or enthusiasm.",
-     "chinese": "刺激的;激發興趣的"
+     "chinese": "刺激的；激發興趣的"
     }
    },
    {
     "word": "stinginess",
     "pos": "n.",
     "definition": "Unwillingness to give or spend money; miserliness.",
-    "chinese": "吝嗇;小氣",
+    "chinese": "吝嗇；小氣",
     "synonyms": "",
     "root": "stingy, of uncertain origin, possibly related to sting",
     "group": "",
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwillingness to give or spend money; miserliness.",
-     "chinese": "吝嗇;小氣"
+     "chinese": "吝嗇；小氣"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "stipulation",
     "pos": "n.",
     "definition": "A condition specified as part of an agreement.",
-    "chinese": "規定;條款",
+    "chinese": "規定；條款",
     "synonyms": "",
     "root": "stipulatio, from Latin stipulari (to demand a guarantee)",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A condition specified as part of an agreement.",
-     "chinese": "規定;條款"
+     "chinese": "規定；條款"
     }
    },
    {
     "word": "stocky",
     "pos": "adj.",
     "definition": "Broad and solidly built.",
-    "chinese": "矮壯的;結實的",
+    "chinese": "矮壯的；結實的",
     "synonyms": "",
     "root": "stock, from Old English stocc (tree trunk), implying a solid build",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Broad and solidly built.",
-     "chinese": "矮壯的;結實的"
+     "chinese": "矮壯的；結實的"
     }
    },
    {
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "word": "stoicism",
     "pos": "n.",
     "definition": "The endurance of pain or hardship without complaint.",
-    "chinese": "堅忍;斯多噶主義",
+    "chinese": "堅忍；斯多噶主義",
     "synonyms": "",
     "root": "Stoikos, from Greek Stoa (the painted porch where the philosophy was taught)",
     "group": "",
@@ -668,7 +668,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The endurance of pain or hardship without complaint.",
-     "chinese": "堅忍;斯多噶主義"
+     "chinese": "堅忍；斯多噶主義"
     }
    },
    {
@@ -713,7 +713,7 @@ window.FLASHCARD_UNITS = {
     "word": "storm",
     "pos": "n./v.",
     "definition": "A violent disturbance of the atmosphere; to attack forcefully.",
-    "chinese": "暴風雨;猛攻",
+    "chinese": "暴風雨；猛攻",
     "synonyms": "",
     "root": "storm (storm), from Old English",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A violent disturbance of the atmosphere; to attack forcefully.",
-     "chinese": "暴風雨;猛攻"
+     "chinese": "暴風雨；猛攻"
     }
    },
    {
     "word": "stout",
     "pos": "adj.",
     "definition": "Solidly built; brave and determined.",
-    "chinese": "結實的;堅定的",
+    "chinese": "結實的；堅定的",
     "synonyms": "",
     "root": "stout, from Old French estout (bold), of Germanic origin",
     "group": "",
@@ -744,14 +744,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Solidly built; brave and determined.",
-     "chinese": "結實的;堅定的"
+     "chinese": "結實的；堅定的"
     }
    },
    {
     "word": "straight",
     "pos": "adj./adv.",
     "definition": "Extending in one direction without curving; honest and direct.",
-    "chinese": "筆直的;正直的",
+    "chinese": "筆直的；正直的",
     "synonyms": "",
     "root": "streht, past participle of Old English streccan (to stretch)",
     "group": "",
@@ -763,14 +763,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extending in one direction without curving; honest and direct.",
-     "chinese": "筆直的;正直的"
+     "chinese": "筆直的；正直的"
     }
    },
    {
     "word": "straightforward",
     "pos": "adj.",
     "definition": "Uncomplicated and easy to understand; honest.",
-    "chinese": "簡單明瞭的;坦率的",
+    "chinese": "簡單明瞭的；坦率的",
     "synonyms": "",
     "root": "straight, from Old English streccan + forward, from Old English foreweard",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Uncomplicated and easy to understand; honest.",
-     "chinese": "簡單明瞭的;坦率的"
+     "chinese": "簡單明瞭的；坦率的"
     }
    },
    {
     "word": "straightforwardness",
     "pos": "n.",
     "definition": "The quality of being honest and direct.",
-    "chinese": "坦率;直截了當",
+    "chinese": "坦率；直截了當",
     "synonyms": "",
     "root": "straightforward, from Old English streccan + foreweard + -ness",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being honest and direct.",
-     "chinese": "坦率;直截了當"
+     "chinese": "坦率；直截了當"
     }
    },
    {
     "word": "straitlaced",
     "pos": "adj.",
     "definition": "Excessively strict or narrow in morals or conduct.",
-    "chinese": "拘謹的;古板嚴謹的",
+    "chinese": "拘謹的；古板嚴謹的",
     "synonyms": "",
     "root": "strait (narrow), from Latin strictus + laced, referring to a tightly laced corset",
     "group": "",
@@ -820,14 +820,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively strict or narrow in morals or conduct.",
-     "chinese": "拘謹的;古板嚴謹的"
+     "chinese": "拘謹的；古板嚴謹的"
     }
    },
    {
     "word": "stratagem",
     "pos": "n.",
     "definition": "A plan or scheme, especially to outwit an opponent.",
-    "chinese": "計謀;策略",
+    "chinese": "計謀；策略",
     "synonyms": "",
     "root": "strategema (act of a general), from Greek strategos (general)",
     "group": "",
@@ -839,14 +839,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A plan or scheme, especially to outwit an opponent.",
-     "chinese": "計謀;策略"
+     "chinese": "計謀；策略"
     }
    },
    {
     "word": "strategy",
     "pos": "n.",
     "definition": "A plan of action designed to achieve a long-term goal.",
-    "chinese": "策略;戰略",
+    "chinese": "策略；戰略",
     "synonyms": "",
     "root": "strategia (generalship), from Greek strategos (general)",
     "group": "",
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A plan of action designed to achieve a long-term goal.",
-     "chinese": "策略;戰略"
+     "chinese": "策略；戰略"
     }
    },
    {
@@ -922,7 +922,7 @@ window.FLASHCARD_UNITS = {
     "word": "stricture",
     "pos": "n.",
     "definition": "A restriction on behavior; a critical remark.",
-    "chinese": "限制;苛評",
+    "chinese": "限制；苛評",
     "synonyms": "",
     "root": "strictura, from Latin stringere (to draw tight)",
     "group": "",
@@ -936,14 +936,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A restriction on behavior; a critical remark.",
-     "chinese": "限制;苛評"
+     "chinese": "限制；苛評"
     }
    },
    {
     "word": "stridency",
     "pos": "n.",
     "definition": "The quality of being loud, harsh, or grating.",
-    "chinese": "刺耳;尖銳",
+    "chinese": "刺耳；尖銳",
     "synonyms": "",
     "root": "stridere (to creak, grate), from Latin",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being loud, harsh, or grating.",
-     "chinese": "刺耳;尖銳"
+     "chinese": "刺耳；尖銳"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"squalid": ["Extremely dirty or unpleasant, especially due to poverty or neglect.", "骯髒的;污穢不堪的"], "squalor": ["A state of being extremely dirty and unpleasant, especially from poverty.", "骯髒;貧困污穢"], "squander": ["To spend money (or time) in a wasteful, uncaring fashion.", "揮霍"], "squeamish": ["Easily shocked, over sensitive.", "易受驚的；神經質的"], "staid": ["Sedate, serious, self-restrained.", "穩重的；古板的"], "stale": ["No longer fresh; overused and uninteresting.", "不新鮮的;陳腐的"], "stallion": ["An uncastrated adult male horse.", "種馬;公馬"], "stalwart": ["Loyal, reliable, and hardworking; a strong supporter.", "堅定的;忠實支持者"], "stampede": ["A sudden headlong rush of frightened animals or people.", "驚竄;蜂擁"], "staple": ["A main or important element; a fastener for paper.", "主要產品;主食;釘書針"], "stark": ["Very plain; devoid of any details or features.", "荒涼的；明顯的"], "staunch": ["Strong, trusty, firm.", "堅定的；忠誠的"], "steadfast": ["Firmly loyal or unwavering.", "堅定不移的"], "steady": ["Firmly fixed or supported; not likely to change.", "穩定的;穩固的"], "steal": ["To take something without permission or right; a bargain.", "偷竊;便宜貨"], "stealthy": ["Secretive, sly.", "偷偷摸摸的"], "steeped": ["Soaked, drenched, saturated.", "浸泡的"], "stentorian": ["Loud.", "聲音洪亮的"], "stereotype": ["Oversimplified perception.", "刻板印象；成見"], "stereotyped": ["Conforming to an oversimplified, standardized conception.", "刻板印象化的"], "sterile": ["Free from germs; unable to reproduce; lacking imagination.", "無菌的;不孕的"], "stevedore": ["A person employed to load and unload ships.", "碼頭工人;裝卸工"], "stigma": ["A mark of disgrace associated with a circumstance or quality.", "污名;恥辱標記"], "stigmata": ["Marks resembling the wounds of the crucified Christ; plural of stigma.", "聖痕;恥辱標記(複數)"], "stigmatize": ["To mark with a disgrace.", "打上烙印；蔑視"], "stimulate": ["To encourage or provoke a response or activity; to make something more active or intense.", "刺激；激勵"], "stimulating": ["Encouraging interest, energy, or enthusiasm.", "刺激的;激發興趣的"], "stinginess": ["Unwillingness to give or spend money; miserliness.", "吝嗇;小氣"], "stingy": ["Not generous, not inclined to spend or give.", "小氣的；吝嗇的"], "stipulate": ["To specify a condition.", "規定"], "stipulation": ["A condition specified as part of an agreement.", "規定;條款"], "stocky": ["Broad and solidly built.", "矮壯的;結實的"], "stoic": ["Unaffected by passion or feeling.", "堅忍的；淡然的"], "stoical": ["Lacking emotion or not showing any emotion.", "堅忍的；不動感情的"], "stoicism": ["The endurance of pain or hardship without complaint.", "堅忍;斯多噶主義"], "stolid": ["Expressing little sensibility, unemotional.", "遲鈍的；麻木的"], "stolidity": ["Apathy demonstrated by an absence of emotional reactions.", "麻木；冷漠"], "storm": ["A violent disturbance of the atmosphere; to attack forcefully.", "暴風雨;猛攻"], "stout": ["Solidly built; brave and determined.", "結實的;堅定的"], "straight": ["Extending in one direction without curving; honest and direct.", "筆直的;正直的"], "straightforward": ["Uncomplicated and easy to understand; honest.", "簡單明瞭的;坦率的"], "straightforwardness": ["The quality of being honest and direct.", "坦率;直截了當"], "straitlaced": ["Excessively strict or narrow in morals or conduct.", "拘謹的;古板嚴謹的"], "stratagem": ["A plan or scheme, especially to outwit an opponent.", "計謀;策略"], "strategy": ["A plan of action designed to achieve a long-term goal.", "策略;戰略"], "strenuous": ["Requiring tremendous energy or stamina.", "費力的；艱辛的"], "strenuously": ["With great effort.", "竭力地；激烈地"], "strict": ["Demanding exact compliance with rules or standards.", "嚴格的"], "stricture": ["A restriction on behavior; a critical remark.", "限制;苛評"], "stridency": ["The quality of being loud, harsh, or grating.", "刺耳;尖銳"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"squalid": ["Extremely dirty or unpleasant, especially due to poverty or neglect.", "骯髒的；污穢不堪的"], "squalor": ["A state of being extremely dirty and unpleasant, especially from poverty.", "骯髒；貧困污穢"], "squander": ["To spend money (or time) in a wasteful, uncaring fashion.", "揮霍"], "squeamish": ["Easily shocked, over sensitive.", "易受驚的；神經質的"], "staid": ["Sedate, serious, self-restrained.", "穩重的；古板的"], "stale": ["No longer fresh; overused and uninteresting.", "不新鮮的；陳腐的"], "stallion": ["An uncastrated adult male horse.", "種馬；公馬"], "stalwart": ["Loyal, reliable, and hardworking; a strong supporter.", "堅定的；忠實支持者"], "stampede": ["A sudden headlong rush of frightened animals or people.", "驚竄；蜂擁"], "staple": ["A main or important element; a fastener for paper.", "主要產品；主食；釘書針"], "stark": ["Very plain; devoid of any details or features.", "荒涼的；明顯的"], "staunch": ["Strong, trusty, firm.", "堅定的；忠誠的"], "steadfast": ["Firmly loyal or unwavering.", "堅定不移的"], "steady": ["Firmly fixed or supported; not likely to change.", "穩定的；穩固的"], "steal": ["To take something without permission or right; a bargain.", "偷竊；便宜貨"], "stealthy": ["Secretive, sly.", "偷偷摸摸的"], "steeped": ["Soaked, drenched, saturated.", "浸泡的"], "stentorian": ["Loud.", "聲音洪亮的"], "stereotype": ["Oversimplified perception.", "刻板印象；成見"], "stereotyped": ["Conforming to an oversimplified, standardized conception.", "刻板印象化的"], "sterile": ["Free from germs; unable to reproduce; lacking imagination.", "無菌的；不孕的"], "stevedore": ["A person employed to load and unload ships.", "碼頭工人；裝卸工"], "stigma": ["A mark of disgrace associated with a circumstance or quality.", "污名；恥辱標記"], "stigmata": ["Marks resembling the wounds of the crucified Christ; plural of stigma.", "聖痕；恥辱標記(複數)"], "stigmatize": ["To mark with a disgrace.", "打上烙印；蔑視"], "stimulate": ["To encourage or provoke a response or activity; to make something more active or intense.", "刺激；激勵"], "stimulating": ["Encouraging interest, energy, or enthusiasm.", "刺激的；激發興趣的"], "stinginess": ["Unwillingness to give or spend money; miserliness.", "吝嗇；小氣"], "stingy": ["Not generous, not inclined to spend or give.", "小氣的；吝嗇的"], "stipulate": ["To specify a condition.", "規定"], "stipulation": ["A condition specified as part of an agreement.", "規定；條款"], "stocky": ["Broad and solidly built.", "矮壯的；結實的"], "stoic": ["Unaffected by passion or feeling.", "堅忍的；淡然的"], "stoical": ["Lacking emotion or not showing any emotion.", "堅忍的；不動感情的"], "stoicism": ["The endurance of pain or hardship without complaint.", "堅忍；斯多噶主義"], "stolid": ["Expressing little sensibility, unemotional.", "遲鈍的；麻木的"], "stolidity": ["Apathy demonstrated by an absence of emotional reactions.", "麻木；冷漠"], "storm": ["A violent disturbance of the atmosphere; to attack forcefully.", "暴風雨；猛攻"], "stout": ["Solidly built; brave and determined.", "結實的；堅定的"], "straight": ["Extending in one direction without curving; honest and direct.", "筆直的；正直的"], "straightforward": ["Uncomplicated and easy to understand; honest.", "簡單明瞭的；坦率的"], "straightforwardness": ["The quality of being honest and direct.", "坦率；直截了當"], "straitlaced": ["Excessively strict or narrow in morals or conduct.", "拘謹的；古板嚴謹的"], "stratagem": ["A plan or scheme, especially to outwit an opponent.", "計謀；策略"], "strategy": ["A plan of action designed to achieve a long-term goal.", "策略；戰略"], "strenuous": ["Requiring tremendous energy or stamina.", "費力的；艱辛的"], "strenuously": ["With great effort.", "竭力地；激烈地"], "strict": ["Demanding exact compliance with rules or standards.", "嚴格的"], "stricture": ["A restriction on behavior; a critical remark.", "限制；苛評"], "stridency": ["The quality of being loud, harsh, or grating.", "刺耳；尖銳"]});

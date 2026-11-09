@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "personable",
     "pos": "adj.",
     "definition": "Having a pleasant appearance and manner.",
-    "chinese": "討人喜歡的;和藹可親的",
+    "chinese": "討人喜歡的；和藹可親的",
     "synonyms": "",
     "root": "person, from Latin persona (mask, character) + -able",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a pleasant appearance and manner.",
-     "chinese": "討人喜歡的;和藹可親的"
+     "chinese": "討人喜歡的；和藹可親的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "perturb",
     "pos": "v.",
     "definition": "To make someone anxious or unsettled.",
-    "chinese": "使不安;使煩擾",
+    "chinese": "使不安；使煩擾",
     "synonyms": "",
     "root": "perturbare (to confuse thoroughly), from Latin per- (thoroughly) + turbare (to disturb)",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make someone anxious or unsettled.",
-     "chinese": "使不安;使煩擾"
+     "chinese": "使不安；使煩擾"
     }
    },
    {
     "word": "perturbation",
     "pos": "n.",
     "definition": "A state of anxiety or disturbance; a disruption in a system.",
-    "chinese": "不安;擾動",
+    "chinese": "不安；擾動",
     "synonyms": "",
     "root": "perturbare (to confuse thoroughly), from Latin per- (thoroughly) + turbare (to disturb)",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of anxiety or disturbance; a disruption in a system.",
-     "chinese": "不安;擾動"
+     "chinese": "不安；擾動"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "perturbed",
     "pos": "adj.",
     "definition": "Anxious or unsettled.",
-    "chinese": "不安的;煩擾的",
+    "chinese": "不安的；煩擾的",
     "synonyms": "",
     "root": "perturbare (to confuse thoroughly), from Latin per- (thoroughly) + turbare (to disturb)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Anxious or unsettled.",
-     "chinese": "不安的;煩擾的"
+     "chinese": "不安的；煩擾的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "pervade",
     "pos": "v.",
     "definition": "To spread through and be perceived in every part of something.",
-    "chinese": "瀰漫;遍及",
+    "chinese": "瀰漫；遍及",
     "synonyms": "",
     "root": "pervadere (to go through), from Latin per- (through) + vadere (to go)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To spread through and be perceived in every part of something.",
-     "chinese": "瀰漫;遍及"
+     "chinese": "瀰漫；遍及"
     }
    },
    {
     "word": "pervading",
     "pos": "adj.",
     "definition": "Spreading throughout and being perceived in every part.",
-    "chinese": "瀰漫的;普遍的",
+    "chinese": "瀰漫的；普遍的",
     "synonyms": "",
     "root": "pervadere (to go through), from Latin per- (through) + vadere (to go)",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spreading throughout and being perceived in every part.",
-     "chinese": "瀰漫的;普遍的"
+     "chinese": "瀰漫的；普遍的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "pet name",
     "pos": "n.",
     "definition": "An affectionate nickname used for someone.",
-    "chinese": "暱稱;愛稱",
+    "chinese": "暱稱；愛稱",
     "synonyms": "",
     "root": "pet, of uncertain origin + name, from Old English nama",
     "group": "",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An affectionate nickname used for someone.",
-     "chinese": "暱稱;愛稱"
+     "chinese": "暱稱；愛稱"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "petition",
     "pos": "n./v.",
     "definition": "A formal written request, especially signed by many people; to make such a request.",
-    "chinese": "請願書;請願",
+    "chinese": "請願書；請願",
     "synonyms": "",
     "root": "petitio (a request), from Latin petere (to seek)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal written request, especially signed by many people; to make such a request.",
-     "chinese": "請願書;請願"
+     "chinese": "請願書；請願"
     }
    },
    {
     "word": "pettifog",
     "pos": "v.",
     "definition": "To engage in petty, argumentative, or unethical legal practices.",
-    "chinese": "打訟棍;鑽法律漏洞",
+    "chinese": "打訟棍；鑽法律漏洞",
     "synonyms": "",
     "root": "petty + fogger, of uncertain origin, possibly related to Fugger, a wealthy family",
     "group": "",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To engage in petty, argumentative, or unethical legal practices.",
-     "chinese": "打訟棍;鑽法律漏洞"
+     "chinese": "打訟棍；鑽法律漏洞"
     }
    },
    {
     "word": "pettifogger",
     "pos": "n.",
     "definition": "An unscrupulous lawyer who deals in petty or dishonest legal matters.",
-    "chinese": "訟棍;奸詐律師",
+    "chinese": "訟棍；奸詐律師",
     "synonyms": "",
     "root": "petty + fogger, of uncertain origin, possibly related to Fugger, a wealthy family",
     "group": "",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unscrupulous lawyer who deals in petty or dishonest legal matters.",
-     "chinese": "訟棍;奸詐律師"
+     "chinese": "訟棍；奸詐律師"
     }
    },
    {
     "word": "pettifoggery",
     "pos": "n.",
     "definition": "The practice of using unscrupulous or petty legal tactics.",
-    "chinese": "訟棍手法;鑽法律漏洞的行為",
+    "chinese": "訟棍手法；鑽法律漏洞的行為",
     "synonyms": "",
     "root": "petty + fogger, of uncertain origin, possibly related to Fugger, a wealthy family",
     "group": "",
@@ -341,7 +341,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of using unscrupulous or petty legal tactics.",
-     "chinese": "訟棍手法;鑽法律漏洞的行為"
+     "chinese": "訟棍手法；鑽法律漏洞的行為"
     }
    },
    {
@@ -500,7 +500,7 @@ window.FLASHCARD_UNITS = {
     "word": "philandering",
     "pos": "n./adj.",
     "definition": "The practice of having casual romantic affairs, especially by a man.",
-    "chinese": "拈花惹草;風流成性",
+    "chinese": "拈花惹草；風流成性",
     "synonyms": "",
     "root": "philandros (loving men), from Greek philos (loving) + aner (man)",
     "group": "",
@@ -512,7 +512,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of having casual romantic affairs, especially by a man.",
-     "chinese": "拈花惹草;風流成性"
+     "chinese": "拈花惹草；風流成性"
     }
    },
    {
@@ -614,7 +614,7 @@ window.FLASHCARD_UNITS = {
     "word": "philharmonic",
     "pos": "adj./n.",
     "definition": "Relating to or performing orchestral music; a symphony orchestra.",
-    "chinese": "愛樂的;交響樂團",
+    "chinese": "愛樂的；交響樂團",
     "synonyms": "",
     "root": "philos (loving) + harmonia (harmony), from Greek",
     "group": "",
@@ -626,14 +626,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or performing orchestral music; a symphony orchestra.",
-     "chinese": "愛樂的;交響樂團"
+     "chinese": "愛樂的；交響樂團"
     }
    },
    {
     "word": "philharmonics",
     "pos": "n.",
     "definition": "A love of music or harmony; a symphony orchestra.",
-    "chinese": "愛樂;交響樂團",
+    "chinese": "愛樂；交響樂團",
     "synonyms": "",
     "root": "philein (love) + harmonia (harmony), from Greek",
     "group": "",
@@ -645,14 +645,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A love of music or harmony; a symphony orchestra.",
-     "chinese": "愛樂;交響樂團"
+     "chinese": "愛樂；交響樂團"
     }
    },
    {
     "word": "philia",
     "pos": "n.",
     "definition": "Affectionate or platonic love, as distinguished from romantic or familial love.",
-    "chinese": "友愛;情誼",
+    "chinese": "友愛；情誼",
     "synonyms": "",
     "root": "philia (friendship, affection), from Greek philos (loving)",
     "group": "",
@@ -664,7 +664,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Affectionate or platonic love, as distinguished from romantic or familial love.",
-     "chinese": "友愛;情誼"
+     "chinese": "友愛；情誼"
     }
    },
    {
@@ -690,7 +690,7 @@ window.FLASHCARD_UNITS = {
     "word": "philistine",
     "pos": "n./adj.",
     "definition": "A person who is indifferent or hostile to art and culture.",
-    "chinese": "缺乏文化修養的人;市儈的",
+    "chinese": "缺乏文化修養的人；市儈的",
     "synonyms": "",
     "root": "Philistines, an ancient people often depicted as culturally hostile",
     "group": "",
@@ -702,14 +702,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who is indifferent or hostile to art and culture.",
-     "chinese": "缺乏文化修養的人;市儈的"
+     "chinese": "缺乏文化修養的人；市儈的"
     }
    },
    {
     "word": "philodox",
     "pos": "n.",
     "definition": "A person who loves arguing or expressing their own opinions.",
-    "chinese": "好辯者;固執己見的人",
+    "chinese": "好辯者；固執己見的人",
     "synonyms": "",
     "root": "philos (loving) + doxa (opinion), from Greek",
     "group": "",
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who loves arguing or expressing their own opinions.",
-     "chinese": "好辯者;固執己見的人"
+     "chinese": "好辯者；固執己見的人"
     }
    },
    {
@@ -766,7 +766,7 @@ window.FLASHCARD_UNITS = {
     "word": "phlegm",
     "pos": "n.",
     "definition": "Thick mucus secreted in the respiratory passages; calm indifference.",
-    "chinese": "痰;冷靜遲鈍",
+    "chinese": "痰；冷靜遲鈍",
     "synonyms": "",
     "root": "phlegma (inflammation, humor), from Greek phlegein (to burn)",
     "group": "",
@@ -778,7 +778,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thick mucus secreted in the respiratory passages; calm indifference.",
-     "chinese": "痰;冷靜遲鈍"
+     "chinese": "痰；冷靜遲鈍"
     }
    },
    {
@@ -823,7 +823,7 @@ window.FLASHCARD_UNITS = {
     "word": "phobophobia",
     "pos": "n.",
     "definition": "The fear of developing a phobia; fear of fear itself.",
-    "chinese": "恐懼症恐懼症;懼怕恐懼",
+    "chinese": "恐懼症恐懼症；懼怕恐懼",
     "synonyms": "",
     "root": "phobos (fear) + phobos (fear), from Greek",
     "group": "",
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The fear of developing a phobia; fear of fear itself.",
-     "chinese": "恐懼症恐懼症;懼怕恐懼"
+     "chinese": "恐懼症恐懼症；懼怕恐懼"
     }
    },
    {
@@ -861,7 +861,7 @@ window.FLASHCARD_UNITS = {
     "word": "picaroon",
     "pos": "n.",
     "definition": "A rogue or scoundrel, especially a pirate or adventurer.",
-    "chinese": "無賴;海盜冒險者",
+    "chinese": "無賴；海盜冒險者",
     "synonyms": "",
     "root": "picaro (rogue), from Spanish",
     "group": "",
@@ -873,14 +873,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rogue or scoundrel, especially a pirate or adventurer.",
-     "chinese": "無賴;海盜冒險者"
+     "chinese": "無賴；海盜冒險者"
     }
    },
    {
     "word": "piddling",
     "pos": "adj.",
     "definition": "Trivial or insignificant.",
-    "chinese": "微不足道的;瑣碎的",
+    "chinese": "微不足道的；瑣碎的",
     "synonyms": "",
     "root": "piddle (to trifle), of uncertain origin",
     "group": "",
@@ -892,14 +892,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Trivial or insignificant.",
-     "chinese": "微不足道的;瑣碎的"
+     "chinese": "微不足道的；瑣碎的"
     }
    },
    {
     "word": "piece de resistance",
     "pos": "n.",
     "definition": "The most outstanding feature or item, especially the final course of a meal.",
-    "chinese": "壓軸之作;最精彩部分",
+    "chinese": "壓軸之作；最精彩部分",
     "synonyms": "",
     "root": "pièce (piece) + de (of) + résistance (resistance), from French",
     "group": "",
@@ -913,14 +913,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The most outstanding feature or item, especially the final course of a meal.",
-     "chinese": "壓軸之作;最精彩部分"
+     "chinese": "壓軸之作；最精彩部分"
     }
    },
    {
     "word": "pied-a-terre",
     "pos": "n.",
     "definition": "A small apartment or house kept for occasional use.",
-    "chinese": "臨時居所;第二住所",
+    "chinese": "臨時居所；第二住所",
     "synonyms": "",
     "root": "pied (foot) + à (to) + terre (ground), from French",
     "group": "",
@@ -934,7 +934,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small apartment or house kept for occasional use.",
-     "chinese": "臨時居所;第二住所"
+     "chinese": "臨時居所；第二住所"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"persifleur": ["A person who engages in light, teasing banter or mockery.", "喜好戲謔嘲弄之人"], "personable": ["Having a pleasant appearance and manner.", "討人喜歡的;和藹可親的"], "persuade": ["To cause someone to believe or do something through reasoning.", "說服"], "pert": ["Flippant, bold.", "無禮的；大膽俏皮的"], "perturb": ["To make someone anxious or unsettled.", "使不安;使煩擾"], "perturbation": ["A state of anxiety or disturbance; a disruption in a system.", "不安;擾動"], "perturbator": ["A person or thing that causes disturbance or unrest.", "擾亂者"], "perturbed": ["Anxious or unsettled.", "不安的;煩擾的"], "perturber": ["One who disturbs or unsettles; a variant of perturbator.", "擾亂者(異體字)"], "pervade": ["To spread through and be perceived in every part of something.", "瀰漫;遍及"], "pervading": ["Spreading throughout and being perceived in every part.", "瀰漫的;普遍的"], "pesky": ["Annoying.", "討厭的；煩人的"], "pet name": ["An affectionate nickname used for someone.", "暱稱;愛稱"], "petalism": ["An ancient practice of temporary banishment by voting with leaves, similar to ostracism.", "葉片放逐制(古代習俗)"], "petition": ["A formal written request, especially signed by many people; to make such a request.", "請願書;請願"], "pettifog": ["To engage in petty, argumentative, or unethical legal practices.", "打訟棍;鑽法律漏洞"], "pettifogger": ["An unscrupulous lawyer who deals in petty or dishonest legal matters.", "訟棍;奸詐律師"], "pettifoggery": ["The practice of using unscrupulous or petty legal tactics.", "訟棍手法;鑽法律漏洞的行為"], "petty": ["Minor or trivial; small in quantity.", "瑣碎的"], "petulance": ["Rudeness, irritability.", "任性；易怒"], "petulant": ["Easily irritated or annoyed.", "任性易怒的；暴躁的"], "pharmacist": ["A person qualified to prepare and dispense medicinal drugs.", "藥劑師"], "pharmacophobia": ["An irrational fear of taking medication.", "藥物恐懼症"], "phenomenon": ["Unusual occurrence.", "現象"], "philander": ["Have amorous affairs, of men.", "玩弄女性；拈花惹草"], "philanderer": ["A man who has many casual romantic affairs.", "拈花惹草的男人"], "philandering": ["The practice of having casual romantic affairs, especially by a man.", "拈花惹草;風流成性"], "philanthropic": ["Showing a desire to help others by giving gifts; charitable.", "博愛的；慈善的"], "philanthropist": ["A person who donates generously to promote human welfare.", "慈善家"], "philanthropy": ["The practice of donating money or resources to help others.", "慈善事業"], "philatelist": ["A person who collects and studies postage stamps.", "集郵者"], "philemaphobia": ["An irrational fear of kissing.", "接吻恐懼症"], "philharmonic": ["Relating to or performing orchestral music; a symphony orchestra.", "愛樂的;交響樂團"], "philharmonics": ["A love of music or harmony; a symphony orchestra.", "愛樂;交響樂團"], "philia": ["Affectionate or platonic love, as distinguished from romantic or familial love.", "友愛;情誼"], "philippic": ["A bitter verbal attack or denunciation.", "猛烈抨擊的演說"], "philistine": ["A person who is indifferent or hostile to art and culture.", "缺乏文化修養的人;市儈的"], "philodox": ["A person who loves arguing or expressing their own opinions.", "好辯者;固執己見的人"], "philosophy": ["The study of fundamental questions about existence, knowledge, and ethics.", "哲學"], "phiodox": ["A variant spelling of philodox, a person who loves arguing or expressing opinions.", "好辯者(異體拼法)"], "phlegm": ["Thick mucus secreted in the respiratory passages; calm indifference.", "痰;冷靜遲鈍"], "phlegmatic": ["Calm, hard to rouse to action.", "冷靜的；遲鈍的"], "phobia": ["Persistent fear, strong dislike.", "恐懼症"], "phobophobia": ["The fear of developing a phobia; fear of fear itself.", "恐懼症恐懼症;懼怕恐懼"], "picaresque": ["Relating to an episodic style of fiction featuring the adventures of a roguish hero.", "流浪漢小說式的"], "picaroon": ["A rogue or scoundrel, especially a pirate or adventurer.", "無賴;海盜冒險者"], "piddling": ["Trivial or insignificant.", "微不足道的;瑣碎的"], "piece de resistance": ["The most outstanding feature or item, especially the final course of a meal.", "壓軸之作;最精彩部分"], "pied-a-terre": ["A small apartment or house kept for occasional use.", "臨時居所;第二住所"], "pilgrimage": ["A journey to a sacred place, often for religious reasons.", "朝聖之旅"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"persifleur": ["A person who engages in light, teasing banter or mockery.", "喜好戲謔嘲弄之人"], "personable": ["Having a pleasant appearance and manner.", "討人喜歡的；和藹可親的"], "persuade": ["To cause someone to believe or do something through reasoning.", "說服"], "pert": ["Flippant, bold.", "無禮的；大膽俏皮的"], "perturb": ["To make someone anxious or unsettled.", "使不安；使煩擾"], "perturbation": ["A state of anxiety or disturbance; a disruption in a system.", "不安；擾動"], "perturbator": ["A person or thing that causes disturbance or unrest.", "擾亂者"], "perturbed": ["Anxious or unsettled.", "不安的；煩擾的"], "perturber": ["One who disturbs or unsettles; a variant of perturbator.", "擾亂者(異體字)"], "pervade": ["To spread through and be perceived in every part of something.", "瀰漫；遍及"], "pervading": ["Spreading throughout and being perceived in every part.", "瀰漫的；普遍的"], "pesky": ["Annoying.", "討厭的；煩人的"], "pet name": ["An affectionate nickname used for someone.", "暱稱；愛稱"], "petalism": ["An ancient practice of temporary banishment by voting with leaves, similar to ostracism.", "葉片放逐制(古代習俗)"], "petition": ["A formal written request, especially signed by many people; to make such a request.", "請願書；請願"], "pettifog": ["To engage in petty, argumentative, or unethical legal practices.", "打訟棍；鑽法律漏洞"], "pettifogger": ["An unscrupulous lawyer who deals in petty or dishonest legal matters.", "訟棍；奸詐律師"], "pettifoggery": ["The practice of using unscrupulous or petty legal tactics.", "訟棍手法；鑽法律漏洞的行為"], "petty": ["Minor or trivial; small in quantity.", "瑣碎的"], "petulance": ["Rudeness, irritability.", "任性；易怒"], "petulant": ["Easily irritated or annoyed.", "任性易怒的；暴躁的"], "pharmacist": ["A person qualified to prepare and dispense medicinal drugs.", "藥劑師"], "pharmacophobia": ["An irrational fear of taking medication.", "藥物恐懼症"], "phenomenon": ["Unusual occurrence.", "現象"], "philander": ["Have amorous affairs, of men.", "玩弄女性；拈花惹草"], "philanderer": ["A man who has many casual romantic affairs.", "拈花惹草的男人"], "philandering": ["The practice of having casual romantic affairs, especially by a man.", "拈花惹草；風流成性"], "philanthropic": ["Showing a desire to help others by giving gifts; charitable.", "博愛的；慈善的"], "philanthropist": ["A person who donates generously to promote human welfare.", "慈善家"], "philanthropy": ["The practice of donating money or resources to help others.", "慈善事業"], "philatelist": ["A person who collects and studies postage stamps.", "集郵者"], "philemaphobia": ["An irrational fear of kissing.", "接吻恐懼症"], "philharmonic": ["Relating to or performing orchestral music; a symphony orchestra.", "愛樂的；交響樂團"], "philharmonics": ["A love of music or harmony; a symphony orchestra.", "愛樂；交響樂團"], "philia": ["Affectionate or platonic love, as distinguished from romantic or familial love.", "友愛；情誼"], "philippic": ["A bitter verbal attack or denunciation.", "猛烈抨擊的演說"], "philistine": ["A person who is indifferent or hostile to art and culture.", "缺乏文化修養的人；市儈的"], "philodox": ["A person who loves arguing or expressing their own opinions.", "好辯者；固執己見的人"], "philosophy": ["The study of fundamental questions about existence, knowledge, and ethics.", "哲學"], "phiodox": ["A variant spelling of philodox, a person who loves arguing or expressing opinions.", "好辯者(異體拼法)"], "phlegm": ["Thick mucus secreted in the respiratory passages; calm indifference.", "痰；冷靜遲鈍"], "phlegmatic": ["Calm, hard to rouse to action.", "冷靜的；遲鈍的"], "phobia": ["Persistent fear, strong dislike.", "恐懼症"], "phobophobia": ["The fear of developing a phobia; fear of fear itself.", "恐懼症恐懼症；懼怕恐懼"], "picaresque": ["Relating to an episodic style of fiction featuring the adventures of a roguish hero.", "流浪漢小說式的"], "picaroon": ["A rogue or scoundrel, especially a pirate or adventurer.", "無賴；海盜冒險者"], "piddling": ["Trivial or insignificant.", "微不足道的；瑣碎的"], "piece de resistance": ["The most outstanding feature or item, especially the final course of a meal.", "壓軸之作；最精彩部分"], "pied-a-terre": ["A small apartment or house kept for occasional use.", "臨時居所；第二住所"], "pilgrimage": ["A journey to a sacred place, often for religious reasons.", "朝聖之旅"]});

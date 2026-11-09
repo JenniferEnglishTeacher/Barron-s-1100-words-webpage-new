@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     "word": "obfuscation",
     "pos": "n.",
     "definition": "The act of making something unclear or difficult to understand.",
-    "chinese": "使混淆;含糊其辭",
+    "chinese": "使混淆；含糊其辭",
     "synonyms": "",
     "root": "ob- (over) + fuscare (to darken), from Latin fuscus (dark)",
     "group": "ob = 反對；朝向",
@@ -381,7 +381,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of making something unclear or difficult to understand.",
-     "chinese": "使混淆;含糊其辭"
+     "chinese": "使混淆；含糊其辭"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "obnubilation",
     "pos": "n.",
     "definition": "The state of being clouded, obscured, or confused.",
-    "chinese": "遮蔽;昏亂",
+    "chinese": "遮蔽；昏亂",
     "synonyms": "",
     "root": "ob- (over) + nubilare (to cloud), from Latin nubes (cloud)",
     "group": "ob = 反對；朝向",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being clouded, obscured, or confused.",
-     "chinese": "遮蔽;昏亂"
+     "chinese": "遮蔽；昏亂"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "oppose",
     "pos": "v.",
     "definition": "To disagree with or resist strongly.",
-    "chinese": "反對;抵抗",
+    "chinese": "反對；抵抗",
     "synonyms": "",
     "root": "ob- (against) + ponere (to place), from Latin",
     "group": "ob = 反對；朝向",
@@ -611,14 +611,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To disagree with or resist strongly.",
-     "chinese": "反對;抵抗"
+     "chinese": "反對；抵抗"
     }
    },
    {
     "word": "opposition",
     "pos": "n.",
     "definition": "Resistance or dissent; a group opposing another.",
-    "chinese": "反對;反對黨",
+    "chinese": "反對；反對黨",
     "synonyms": "",
     "root": "ob- (against) + ponere (to place), from Latin",
     "group": "ob = 反對；朝向",
@@ -630,7 +630,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resistance or dissent; a group opposing another.",
-     "chinese": "反對;反對黨"
+     "chinese": "反對；反對黨"
     }
    }
   ],
@@ -1431,4 +1431,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"obsolescence": ["Process of wearing out.", "荒廢；淘汰"], "obsess": ["To haunt, preoccupy.", "迷住；使困擾"], "obviate": ["Do away with, eliminate.", "消除；排除"], "ostentatious": ["Showy:flamboyant.", "炫耀的；賣弄的"], "obsequious": ["Seeking favor, fawning.", "諂媚的；奉承的"], "obliterate": ["To erase, wipe out.", "抹去；清除"], "obscure": ["Unknown, lowly, unclear.", "模糊的；默默無聞的"], "ostensible": ["Outward, seeming.", "表面的；假裝的"], "occult": ["Mysterious, supernatural.", "神秘的；超自然的"], "obliging": ["Accommodating, helpful.", "樂於助人的；懇切的"], "opprobrium": ["Scorn, insult.", "恥辱；責罵"], "obloquy": ["Dishonor, disgrace, shame.", "破口大罵；恥辱"], "obdurate": ["Resistant to persuasion or softening.", "執拗的"], "obstinate": ["Stubborn; inflexible.", "固執的"], "obsolete": ["Old; outdated, as in no longer in use.", "過時的"], "unobtrusive": ["Inconspicuous; not easily noticed.", "不張揚的"], "obtuse": ["Stupid; not clear or precise.", "遲鈍的"], "opportunist": ["A person who seeks self-gain, even at the expense of others, without regard to values or moral principles.", "投機者"], "obfuscate": ["To confuse, bewilder, or make unclear.", "使模糊；使困惑"], "obfuscation": ["The act of making something unclear or difficult to understand.", "使混淆;含糊其辭"], "obligate": ["To compel or require.", "使負義務；迫使"], "oblique": ["Diverging from a straight line or course, not straightforward.", "傾斜的；間接的"], "obnoxious": ["Causing disapproval or protest.", "令人討厭的；惹人反感的"], "obnubilation": ["The state of being clouded, obscured, or confused.", "遮蔽;昏亂"], "observable": ["Able to be seen or noticed.", "可觀察到的"], "observant": ["Quick to notice or perceive things; paying careful attention to details.", "善於觀察的；敏銳的"], "obsolescent": ["Becoming disused or outdated.", "逐漸過時的"], "obstetrics": ["The branch of medicine dealing with childbirth and pregnancy.", "產科學"], "obstreperous": ["Noisy, unruly.", "喧鬧的；難以駕馭的"], "obstructed": ["Blocked or hindered.", "受阻的；被堵塞的"], "occupy": ["To take up space or time.", "佔用；佔據"], "oppose": ["To disagree with or resist strongly.", "反對;抵抗"], "opposition": ["Resistance or dissent; a group opposing another.", "反對;反對黨"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"obsolescence": ["Process of wearing out.", "荒廢；淘汰"], "obsess": ["To haunt, preoccupy.", "迷住；使困擾"], "obviate": ["Do away with, eliminate.", "消除；排除"], "ostentatious": ["Showy:flamboyant.", "炫耀的；賣弄的"], "obsequious": ["Seeking favor, fawning.", "諂媚的；奉承的"], "obliterate": ["To erase, wipe out.", "抹去；清除"], "obscure": ["Unknown, lowly, unclear.", "模糊的；默默無聞的"], "ostensible": ["Outward, seeming.", "表面的；假裝的"], "occult": ["Mysterious, supernatural.", "神秘的；超自然的"], "obliging": ["Accommodating, helpful.", "樂於助人的；懇切的"], "opprobrium": ["Scorn, insult.", "恥辱；責罵"], "obloquy": ["Dishonor, disgrace, shame.", "破口大罵；恥辱"], "obdurate": ["Resistant to persuasion or softening.", "執拗的"], "obstinate": ["Stubborn; inflexible.", "固執的"], "obsolete": ["Old; outdated, as in no longer in use.", "過時的"], "unobtrusive": ["Inconspicuous; not easily noticed.", "不張揚的"], "obtuse": ["Stupid; not clear or precise.", "遲鈍的"], "opportunist": ["A person who seeks self-gain, even at the expense of others, without regard to values or moral principles.", "投機者"], "obfuscate": ["To confuse, bewilder, or make unclear.", "使模糊；使困惑"], "obfuscation": ["The act of making something unclear or difficult to understand.", "使混淆；含糊其辭"], "obligate": ["To compel or require.", "使負義務；迫使"], "oblique": ["Diverging from a straight line or course, not straightforward.", "傾斜的；間接的"], "obnoxious": ["Causing disapproval or protest.", "令人討厭的；惹人反感的"], "obnubilation": ["The state of being clouded, obscured, or confused.", "遮蔽；昏亂"], "observable": ["Able to be seen or noticed.", "可觀察到的"], "observant": ["Quick to notice or perceive things; paying careful attention to details.", "善於觀察的；敏銳的"], "obsolescent": ["Becoming disused or outdated.", "逐漸過時的"], "obstetrics": ["The branch of medicine dealing with childbirth and pregnancy.", "產科學"], "obstreperous": ["Noisy, unruly.", "喧鬧的；難以駕馭的"], "obstructed": ["Blocked or hindered.", "受阻的；被堵塞的"], "occupy": ["To take up space or time.", "佔用；佔據"], "oppose": ["To disagree with or resist strongly.", "反對；抵抗"], "opposition": ["Resistance or dissent; a group opposing another.", "反對；反對黨"]});

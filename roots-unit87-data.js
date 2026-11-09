@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "amateur",
     "pos": "n./adj.",
     "definition": "A person who engages in an activity for enjoyment rather than as a profession.",
-    "chinese": "業餘愛好者;業餘的",
+    "chinese": "業餘愛好者；業餘的",
     "synonyms": "",
     "root": "amator (lover, from Latin)",
     "group": "am = 愛",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who engages in an activity for enjoyment rather than as a profession.",
-     "chinese": "業餘愛好者;業餘的"
+     "chinese": "業餘愛好者；業餘的"
     }
    },
    {
     "word": "ambassador",
     "pos": "n.",
     "definition": "A diplomatic official sent by a country to represent it abroad.",
-    "chinese": "大使;代表",
+    "chinese": "大使；代表",
     "synonyms": "",
     "root": "ambactus (servant, from Latin)",
     "group": "am = 愛",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A diplomatic official sent by a country to represent it abroad.",
-     "chinese": "大使;代表"
+     "chinese": "大使；代表"
     }
    },
    {
     "word": "ambrosia",
     "pos": "n.",
     "definition": "Something with an especially delicious flavor or fragrance; the mythical food of the gods.",
-    "chinese": "瓊漿玉液;絕美食物",
+    "chinese": "瓊漿玉液；絕美食物",
     "synonyms": "",
     "root": "ambrotos (immortal, from Greek)",
     "group": "am = 愛",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something with an especially delicious flavor or fragrance; the mythical food of the gods.",
-     "chinese": "瓊漿玉液;絕美食物"
+     "chinese": "瓊漿玉液；絕美食物"
     }
    },
    {
     "word": "ambrosial",
     "pos": "adj.",
     "definition": "Extremely pleasing to taste or smell.",
-    "chinese": "香甜可口的;絕美的",
+    "chinese": "香甜可口的；絕美的",
     "synonyms": "",
     "root": "ambrotos (immortal, from Greek)",
     "group": "am = 愛",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely pleasing to taste or smell.",
-     "chinese": "香甜可口的;絕美的"
+     "chinese": "香甜可口的；絕美的"
     }
    },
    {
     "word": "ambulate",
     "pos": "v.",
     "definition": "To walk or move about.",
-    "chinese": "步行;行走",
+    "chinese": "步行；行走",
     "synonyms": "",
     "root": "ambulare (to walk, from Latin)",
     "group": "am = 愛",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk or move about.",
-     "chinese": "步行;行走"
+     "chinese": "步行；行走"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "ambulatory",
     "pos": "adj.",
     "definition": "Relating to walking; able to walk and not confined to bed.",
-    "chinese": "步行的;可行走的",
+    "chinese": "步行的；可行走的",
     "synonyms": "",
     "root": "ambulare (to walk, from Latin)",
     "group": "am = 愛",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to walking; able to walk and not confined to bed.",
-     "chinese": "步行的;可行走的"
+     "chinese": "步行的；可行走的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "amiability",
     "pos": "n.",
     "definition": "The quality of being friendly and pleasant.",
-    "chinese": "和藹;友善",
+    "chinese": "和藹；友善",
     "synonyms": "",
     "root": "amicabilis (friendly, from Latin)",
     "group": "am = 愛",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being friendly and pleasant.",
-     "chinese": "和藹;友善"
+     "chinese": "和藹；友善"
     }
    },
    {
     "word": "amicability",
     "pos": "n.",
     "definition": "Friendliness and goodwill.",
-    "chinese": "友好;和睦",
+    "chinese": "友好；和睦",
     "synonyms": "",
     "root": "amicus (friend, from Latin)",
     "group": "am = 愛",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendliness and goodwill.",
-     "chinese": "友好;和睦"
+     "chinese": "友好；和睦"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "amity",
     "pos": "n.",
     "definition": "Friendly relations, especially between nations.",
-    "chinese": "友好關係;和睦",
+    "chinese": "友好關係；和睦",
     "synonyms": "",
     "root": "amicitia (friendship, from Latin)",
     "group": "am = 愛",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendly relations, especially between nations.",
-     "chinese": "友好關係;和睦"
+     "chinese": "友好關係；和睦"
     }
    },
    {
@@ -354,7 +354,7 @@ window.FLASHCARD_UNITS = {
     "word": "enamored",
     "pos": "adj.",
     "definition": "Filled with love or admiration for someone or something.",
-    "chinese": "迷戀的;傾心的",
+    "chinese": "迷戀的；傾心的",
     "synonyms": "",
     "root": "en- (in) + amor (love), from Latin",
     "group": "am = 愛",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled with love or admiration for someone or something.",
-     "chinese": "迷戀的;傾心的"
+     "chinese": "迷戀的；傾心的"
     }
    },
    {
@@ -432,7 +432,7 @@ window.FLASHCARD_UNITS = {
     "word": "perambulate",
     "pos": "v.",
     "definition": "To walk about or through a place, especially for pleasure.",
-    "chinese": "漫步;巡遊",
+    "chinese": "漫步；巡遊",
     "synonyms": "",
     "root": "per- (through) + ambulare (to walk), from Latin",
     "group": "am = 愛",
@@ -444,7 +444,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk about or through a place, especially for pleasure.",
-     "chinese": "漫步;巡遊"
+     "chinese": "漫步；巡遊"
     }
    },
    {
@@ -1091,4 +1091,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"amicable": ["Friendly, peaceful.", "友好的"], "amorous": ["Full of love:affectionate.", "多情的；戀愛的"], "amiable": ["Friendly, kind.", "友善的"], "amateur": ["A person who engages in an activity for enjoyment rather than as a profession.", "業餘愛好者;業餘的"], "ambassador": ["A diplomatic official sent by a country to represent it abroad.", "大使;代表"], "ambrosia": ["Something with an especially delicious flavor or fragrance; the mythical food of the gods.", "瓊漿玉液;絕美食物"], "ambrosial": ["Extremely pleasing to taste or smell.", "香甜可口的;絕美的"], "ambulate": ["To walk or move about.", "步行;行走"], "ambulating": ["Walking or moving about.", "行走中的"], "ambulatory": ["Relating to walking; able to walk and not confined to bed.", "步行的;可行走的"], "amenity": ["An item that increases comfort.", "便利設施"], "amiability": ["The quality of being friendly and pleasant.", "和藹;友善"], "amicability": ["Friendliness and goodwill.", "友好;和睦"], "amigo": ["A friend (used especially in informal, friendly address).", "朋友(常用作親切稱呼)"], "amity": ["Friendly relations, especially between nations.", "友好關係;和睦"], "amour-propre": ["Self-esteem or self-respect, especially when easily wounded.", "自尊心"], "amulet": ["A small object worn for protection against evil or harm.", "護身符"], "enamor": ["To fill with love, fascinate.", "使迷戀；使傾心"], "enamored": ["Filled with love or admiration for someone or something.", "迷戀的;傾心的"], "enemy": ["A person or group actively opposed or hostile to another.", "敵人"], "enmity": ["Ill will, hatred, hostility.", "敵意；仇恨"], "inimical": ["Hostile, enemylike.", "敵對的；有害的"], "perambulate": ["To walk about or through a place, especially for pleasure.", "漫步;巡遊"], "somnambulate": ["To walk while asleep.", "夢遊"], "somnambulism": ["The act of walking while asleep.", "夢遊症"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"amicable": ["Friendly, peaceful.", "友好的"], "amorous": ["Full of love:affectionate.", "多情的；戀愛的"], "amiable": ["Friendly, kind.", "友善的"], "amateur": ["A person who engages in an activity for enjoyment rather than as a profession.", "業餘愛好者；業餘的"], "ambassador": ["A diplomatic official sent by a country to represent it abroad.", "大使；代表"], "ambrosia": ["Something with an especially delicious flavor or fragrance; the mythical food of the gods.", "瓊漿玉液；絕美食物"], "ambrosial": ["Extremely pleasing to taste or smell.", "香甜可口的；絕美的"], "ambulate": ["To walk or move about.", "步行；行走"], "ambulating": ["Walking or moving about.", "行走中的"], "ambulatory": ["Relating to walking; able to walk and not confined to bed.", "步行的；可行走的"], "amenity": ["An item that increases comfort.", "便利設施"], "amiability": ["The quality of being friendly and pleasant.", "和藹；友善"], "amicability": ["Friendliness and goodwill.", "友好；和睦"], "amigo": ["A friend (used especially in informal, friendly address).", "朋友(常用作親切稱呼)"], "amity": ["Friendly relations, especially between nations.", "友好關係；和睦"], "amour-propre": ["Self-esteem or self-respect, especially when easily wounded.", "自尊心"], "amulet": ["A small object worn for protection against evil or harm.", "護身符"], "enamor": ["To fill with love, fascinate.", "使迷戀；使傾心"], "enamored": ["Filled with love or admiration for someone or something.", "迷戀的；傾心的"], "enemy": ["A person or group actively opposed or hostile to another.", "敵人"], "enmity": ["Ill will, hatred, hostility.", "敵意；仇恨"], "inimical": ["Hostile, enemylike.", "敵對的；有害的"], "perambulate": ["To walk about or through a place, especially for pleasure.", "漫步；巡遊"], "somnambulate": ["To walk while asleep.", "夢遊"], "somnambulism": ["The act of walking while asleep.", "夢遊症"]});

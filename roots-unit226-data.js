@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "stridor",
     "pos": "n.",
     "definition": "A harsh, grating or vibrating sound, especially in breathing.",
-    "chinese": "喘鳴聲;刺耳聲",
+    "chinese": "喘鳴聲；刺耳聲",
     "synonyms": "",
     "root": "stridor (a harsh sound), from Latin stridere (to creak)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A harsh, grating or vibrating sound, especially in breathing.",
-     "chinese": "喘鳴聲;刺耳聲"
+     "chinese": "喘鳴聲；刺耳聲"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "stridulous",
     "pos": "adj.",
     "definition": "Making or characterized by a shrill, grating sound.",
-    "chinese": "刺耳的;尖聲的",
+    "chinese": "刺耳的；尖聲的",
     "synonyms": "",
     "root": "stridulus (creaking), from Latin stridere (to creak)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making or characterized by a shrill, grating sound.",
-     "chinese": "刺耳的;尖聲的"
+     "chinese": "刺耳的；尖聲的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "stringent",
     "pos": "adj.",
     "definition": "Strict, precise, and exacting.",
-    "chinese": "嚴格的;嚴厲的",
+    "chinese": "嚴格的；嚴厲的",
     "synonyms": "",
     "root": "stringere (to draw tight), from Latin",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Strict, precise, and exacting.",
-     "chinese": "嚴格的;嚴厲的"
+     "chinese": "嚴格的；嚴厲的"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "struthious",
     "pos": "adj.",
     "definition": "Relating to or resembling ostriches.",
-    "chinese": "似鴕鳥的;鴕鳥科的",
+    "chinese": "似鴕鳥的；鴕鳥科的",
     "synonyms": "",
     "root": "struthio (ostrich), from Latin, from Greek strouthion",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or resembling ostriches.",
-     "chinese": "似鴕鳥的;鴕鳥科的"
+     "chinese": "似鴕鳥的；鴕鳥科的"
     }
    },
    {
     "word": "stubborn",
     "pos": "adj.",
     "definition": "Refusing to change one's mind or course of action.",
-    "chinese": "頑固的;固執的",
+    "chinese": "頑固的；固執的",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Middle English stoburn",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Refusing to change one's mind or course of action.",
-     "chinese": "頑固的;固執的"
+     "chinese": "頑固的；固執的"
     }
    },
    {
     "word": "stuff",
     "pos": "n./v.",
     "definition": "Matter, material, or things of an unspecified kind; to fill tightly.",
-    "chinese": "東西;填塞",
+    "chinese": "東西；填塞",
     "synonyms": "",
     "root": "estoffe (material, provisions), from Old French, from Latin stuppa (tow, oakum)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Matter, material, or things of an unspecified kind; to fill tightly.",
-     "chinese": "東西;填塞"
+     "chinese": "東西；填塞"
     }
    },
    {
     "word": "stuffed",
     "pos": "adj.",
     "definition": "Filled tightly, especially with padding; having eaten too much.",
-    "chinese": "填滿的;吃得很飽的",
+    "chinese": "填滿的；吃得很飽的",
     "synonyms": "",
     "root": "estoffe (material), from Old French, from Latin stuppa (tow)",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled tightly, especially with padding; having eaten too much.",
-     "chinese": "填滿的;吃得很飽的"
+     "chinese": "填滿的；吃得很飽的"
     }
    },
    {
     "word": "stun",
     "pos": "v.",
     "definition": "To knock unconscious or daze; to astonish.",
-    "chinese": "使昏迷;使震驚",
+    "chinese": "使昏迷；使震驚",
     "synonyms": "",
     "root": "estoner (to stun), from Old French, from Latin extonare (to thunder at)",
     "group": "",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To knock unconscious or daze; to astonish.",
-     "chinese": "使昏迷;使震驚"
+     "chinese": "使昏迷；使震驚"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "stupefaction",
     "pos": "n.",
     "definition": "A state of being stunned or amazed to the point of insensibility.",
-    "chinese": "驚呆;麻木",
+    "chinese": "驚呆；麻木",
     "synonyms": "",
     "root": "stupefacere (to make stupid), from Latin stupere (to be stunned)",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of being stunned or amazed to the point of insensibility.",
-     "chinese": "驚呆;麻木"
+     "chinese": "驚呆；麻木"
     }
    },
    {
     "word": "stupefied",
     "pos": "adj.",
     "definition": "Astonished or dazed to the point of near insensibility.",
-    "chinese": "目瞪口呆的;驚呆的",
+    "chinese": "目瞪口呆的；驚呆的",
     "synonyms": "",
     "root": "stupefacere (to make stupid), from Latin stupere (to be stunned)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Astonished or dazed to the point of near insensibility.",
-     "chinese": "目瞪口呆的;驚呆的"
+     "chinese": "目瞪口呆的；驚呆的"
     }
    },
    {
     "word": "stupendous",
     "pos": "adj.",
     "definition": "Extremely impressive, especially in size or degree.",
-    "chinese": "驚人的;巨大的",
+    "chinese": "驚人的；巨大的",
     "synonyms": "",
     "root": "stupendus (to be wondered at), from Latin stupere (to be stunned)",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely impressive, especially in size or degree.",
-     "chinese": "驚人的;巨大的"
+     "chinese": "驚人的；巨大的"
     }
    },
    {
@@ -367,7 +367,7 @@ window.FLASHCARD_UNITS = {
     "word": "sturm und drang",
     "pos": "n.",
     "definition": "Turmoil and emotional upheaval, especially in artistic or personal contexts.",
-    "chinese": "狂飆突進;情感風暴",
+    "chinese": "狂飆突進；情感風暴",
     "synonyms": "",
     "root": "Sturm (storm) + und (and) + Drang (urge), from German, named after a literary movement",
     "group": "",
@@ -379,14 +379,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Turmoil and emotional upheaval, especially in artistic or personal contexts.",
-     "chinese": "狂飆突進;情感風暴"
+     "chinese": "狂飆突進；情感風暴"
     }
    },
    {
     "word": "stygian",
     "pos": "adj.",
     "definition": "Extremely dark or gloomy; relating to the underworld river Styx.",
-    "chinese": "冥河般的;極度陰暗的",
+    "chinese": "冥河般的；極度陰暗的",
     "synonyms": "",
     "root": "named after Styx, the river of the underworld in Greek mythology",
     "group": "",
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely dark or gloomy; relating to the underworld river Styx.",
-     "chinese": "冥河般的;極度陰暗的"
+     "chinese": "冥河般的；極度陰暗的"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "suave",
     "pos": "adj.",
     "definition": "Charming, confident, and elegant in manner.",
-    "chinese": "溫文儒雅的;圓滑的",
+    "chinese": "溫文儒雅的；圓滑的",
     "synonyms": "",
     "root": "suavis (sweet, pleasant), from Latin",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Charming, confident, and elegant in manner.",
-     "chinese": "溫文儒雅的;圓滑的"
+     "chinese": "溫文儒雅的；圓滑的"
     }
    },
    {
     "word": "subjugated",
     "pos": "adj.",
     "definition": "Brought under domination or control.",
-    "chinese": "被征服的;被奴役的",
+    "chinese": "被征服的；被奴役的",
     "synonyms": "",
     "root": "past participle of subjugate, from Latin sub- (under) + jugum (yoke)",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Brought under domination or control.",
-     "chinese": "被征服的;被奴役的"
+     "chinese": "被征服的；被奴役的"
     }
    },
    {
     "word": "subjugation",
     "pos": "n.",
     "definition": "The act of bringing someone under domination or control.",
-    "chinese": "征服;奴役",
+    "chinese": "征服；奴役",
     "synonyms": "",
     "root": "subjugare (to bring under the yoke), from Latin sub- (under) + jugum (yoke)",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of bringing someone under domination or control.",
-     "chinese": "征服;奴役"
+     "chinese": "征服；奴役"
     }
    },
    {
     "word": "sublimate",
     "pos": "v.",
     "definition": "To redirect an impulse into a socially acceptable activity; to purify.",
-    "chinese": "昇華;使純化",
+    "chinese": "昇華；使純化",
     "synonyms": "",
     "root": "sublimare (to elevate), from Latin sublimis (lofty)",
     "group": "",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To redirect an impulse into a socially acceptable activity; to purify.",
-     "chinese": "昇華;使純化"
+     "chinese": "昇華；使純化"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "submerge",
     "pos": "v.",
     "definition": "To cause to be under the surface of water; to immerse.",
-    "chinese": "淹沒;浸入",
+    "chinese": "淹沒；浸入",
     "synonyms": "",
     "root": "submergere, from Latin sub- (under) + mergere (to dip, plunge)",
     "group": "",
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause to be under the surface of water; to immerse.",
-     "chinese": "淹沒;浸入"
+     "chinese": "淹沒；浸入"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "successor",
     "pos": "n.",
     "definition": "A person who follows another in a role or position.",
-    "chinese": "繼任者;接班人",
+    "chinese": "繼任者；接班人",
     "synonyms": "",
     "root": "successor, from Latin succedere (to succeed)",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who follows another in a role or position.",
-     "chinese": "繼任者;接班人"
+     "chinese": "繼任者；接班人"
     }
    },
    {
     "word": "succinctness",
     "pos": "n.",
     "definition": "The quality of being brief and clearly expressed.",
-    "chinese": "簡潔;簡明扼要",
+    "chinese": "簡潔；簡明扼要",
     "synonyms": "",
     "root": "succinctus, past participle of Latin succingere (to gird up, tuck up)",
     "group": "",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being brief and clearly expressed.",
-     "chinese": "簡潔;簡明扼要"
+     "chinese": "簡潔；簡明扼要"
     }
    },
    {
@@ -618,7 +618,7 @@ window.FLASHCARD_UNITS = {
     "word": "suffrage",
     "pos": "n.",
     "definition": "The right to vote in political elections.",
-    "chinese": "選舉權;投票權",
+    "chinese": "選舉權；投票權",
     "synonyms": "",
     "root": "suffragium (a vote), from Latin",
     "group": "",
@@ -630,14 +630,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The right to vote in political elections.",
-     "chinese": "選舉權;投票權"
+     "chinese": "選舉權；投票權"
     }
    },
    {
     "word": "suggest",
     "pos": "v.",
     "definition": "To put forward an idea for consideration; to imply.",
-    "chinese": "建議;暗示",
+    "chinese": "建議；暗示",
     "synonyms": "",
     "root": "suggerere, from Latin sub- (under) + gerere (to carry)",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To put forward an idea for consideration; to imply.",
-     "chinese": "建議;暗示"
+     "chinese": "建議；暗示"
     }
    },
    {
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "word": "suitable",
     "pos": "adj.",
     "definition": "Right or appropriate for a particular purpose.",
-    "chinese": "合適的;適當的",
+    "chinese": "合適的；適當的",
     "synonyms": "",
     "root": "suit, from Old French sivre (to follow), from Latin sequi",
     "group": "",
@@ -687,14 +687,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Right or appropriate for a particular purpose.",
-     "chinese": "合適的;適當的"
+     "chinese": "合適的；適當的"
     }
    },
    {
     "word": "sulky",
     "pos": "adj.",
     "definition": "Silent, ill-tempered, and moody due to resentment.",
-    "chinese": "生悶氣的;繃著臉的",
+    "chinese": "生悶氣的；繃著臉的",
     "synonyms": "",
     "root": "of uncertain origin, related to sulk, possibly from Old English asolcen (slothful)",
     "group": "",
@@ -706,7 +706,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Silent, ill-tempered, and moody due to resentment.",
-     "chinese": "生悶氣的;繃著臉的"
+     "chinese": "生悶氣的；繃著臉的"
     }
    },
    {
@@ -732,7 +732,7 @@ window.FLASHCARD_UNITS = {
     "word": "sully",
     "pos": "v.",
     "definition": "To damage the purity or integrity of; to tarnish.",
-    "chinese": "玷污;敗壞",
+    "chinese": "玷污；敗壞",
     "synonyms": "",
     "root": "souiller (to soil), from Old French, from Latin sucula (a little pig)",
     "group": "",
@@ -744,7 +744,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To damage the purity or integrity of; to tarnish.",
-     "chinese": "玷污;敗壞"
+     "chinese": "玷污；敗壞"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "summit",
     "pos": "n.",
     "definition": "The highest point of a hill or mountain; a meeting of high-level leaders.",
-    "chinese": "山頂;高峰會",
+    "chinese": "山頂；高峰會",
     "synonyms": "",
     "root": "summitas, from Latin summus (highest)",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The highest point of a hill or mountain; a meeting of high-level leaders.",
-     "chinese": "山頂;高峰會"
+     "chinese": "山頂；高峰會"
     }
    },
    {
     "word": "sumptuary",
     "pos": "adj.",
     "definition": "Relating to laws that regulate personal expenditure or consumption.",
-    "chinese": "禁奢的;限制消費的",
+    "chinese": "禁奢的；限制消費的",
     "synonyms": "",
     "root": "sumptuarius, from Latin sumptus (expense), from sumere (to take, spend)",
     "group": "",
@@ -801,7 +801,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to laws that regulate personal expenditure or consumption.",
-     "chinese": "禁奢的;限制消費的"
+     "chinese": "禁奢的；限制消費的"
     }
    },
    {
@@ -827,7 +827,7 @@ window.FLASHCARD_UNITS = {
     "word": "superfluity",
     "pos": "n.",
     "definition": "An unnecessary or excessive amount.",
-    "chinese": "過剩;多餘",
+    "chinese": "過剩；多餘",
     "synonyms": "",
     "root": "superfluitas, from Latin superfluere (to overflow)",
     "group": "",
@@ -839,14 +839,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unnecessary or excessive amount.",
-     "chinese": "過剩;多餘"
+     "chinese": "過剩；多餘"
     }
    },
    {
     "word": "supervene",
     "pos": "v.",
     "definition": "To occur as an unexpected addition or interruption.",
-    "chinese": "隨後發生;意外接踵而至",
+    "chinese": "隨後發生；意外接踵而至",
     "synonyms": "",
     "root": "supervenire, from Latin super- (upon) + venire (to come)",
     "group": "",
@@ -858,14 +858,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To occur as an unexpected addition or interruption.",
-     "chinese": "隨後發生;意外接踵而至"
+     "chinese": "隨後發生；意外接踵而至"
     }
    },
    {
     "word": "supervenient",
     "pos": "adj.",
     "definition": "Coming as an unexpected addition or extra.",
-    "chinese": "附加而來的;意外發生的",
+    "chinese": "附加而來的；意外發生的",
     "synonyms": "",
     "root": "supervenire, from Latin super- (upon) + venire (to come)",
     "group": "",
@@ -877,7 +877,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Coming as an unexpected addition or extra.",
-     "chinese": "附加而來的;意外發生的"
+     "chinese": "附加而來的；意外發生的"
     }
    },
    {
@@ -922,7 +922,7 @@ window.FLASHCARD_UNITS = {
     "word": "supplant",
     "pos": "v.",
     "definition": "To take the place of, especially through underhanded means.",
-    "chinese": "取代;篡奪",
+    "chinese": "取代；篡奪",
     "synonyms": "",
     "root": "supplantare (to trip up), from Latin sub- (under) + planta (sole of the foot)",
     "group": "",
@@ -934,14 +934,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To take the place of, especially through underhanded means.",
-     "chinese": "取代;篡奪"
+     "chinese": "取代；篡奪"
     }
    },
    {
     "word": "supple",
     "pos": "adj.",
     "definition": "Bending and moving easily and gracefully; flexible.",
-    "chinese": "柔軟的;靈活的",
+    "chinese": "柔軟的；靈活的",
     "synonyms": "",
     "root": "supplex (submissive, bending), from Latin sub- (under) + plicare (to fold)",
     "group": "",
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bending and moving easily and gracefully; flexible.",
-     "chinese": "柔軟的;靈活的"
+     "chinese": "柔軟的；靈活的"
     }
    }
   ],
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"strident": ["Shrill, harsh, rough.", "刺耳的；尖銳的"], "stridor": ["A harsh, grating or vibrating sound, especially in breathing.", "喘鳴聲;刺耳聲"], "stridulate": ["To make a shrill, grating sound by rubbing body parts together, as insects do.", "(昆蟲)發出摩擦聲"], "stridulous": ["Making or characterized by a shrill, grating sound.", "刺耳的;尖聲的"], "strife": ["Discord, disagreement.", "衝突；爭吵"], "stringent": ["Strict, precise, and exacting.", "嚴格的;嚴厲的"], "strumpet": ["A promiscuous or immoral woman (archaic, derogatory).", "蕩婦(古語,貶義)"], "struthious": ["Relating to or resembling ostriches.", "似鴕鳥的;鴕鳥科的"], "stubborn": ["Refusing to change one's mind or course of action.", "頑固的;固執的"], "stuff": ["Matter, material, or things of an unspecified kind; to fill tightly.", "東西;填塞"], "stuffed": ["Filled tightly, especially with padding; having eaten too much.", "填滿的;吃得很飽的"], "stun": ["To knock unconscious or daze; to astonish.", "使昏迷;使震驚"], "stunted": ["Held back or checked in natural growth.", "發育不良的"], "stupefaction": ["A state of being stunned or amazed to the point of insensibility.", "驚呆;麻木"], "stupefied": ["Astonished or dazed to the point of near insensibility.", "目瞪口呆的;驚呆的"], "stupendous": ["Extremely impressive, especially in size or degree.", "驚人的;巨大的"], "stupid": ["Lacking intelligence or good sense.", "愚蠢的"], "stupor": ["Daze, insensible condition.", "昏迷；恍惚"], "sturdily": ["Strongly or solidly.", "堅固地；結實地"], "sturm und drang": ["Turmoil and emotional upheaval, especially in artistic or personal contexts.", "狂飆突進;情感風暴"], "stygian": ["Extremely dark or gloomy; relating to the underworld river Styx.", "冥河般的;極度陰暗的"], "stymie": ["To hinder, impede.", "阻礙"], "suave": ["Charming, confident, and elegant in manner.", "溫文儒雅的;圓滑的"], "subjugated": ["Brought under domination or control.", "被征服的;被奴役的"], "subjugation": ["The act of bringing someone under domination or control.", "征服;奴役"], "sublimate": ["To redirect an impulse into a socially acceptable activity; to purify.", "昇華;使純化"], "sublimation": ["The redirection of an impulse into a socially acceptable activity.", "昇華作用"], "submerge": ["To cause to be under the surface of water; to immerse.", "淹沒;浸入"], "substantiate": ["To confirm, ratify.", "證實；證明"], "successor": ["A person who follows another in a role or position.", "繼任者;接班人"], "succinctness": ["The quality of being brief and clearly expressed.", "簡潔;簡明扼要"], "succulent": ["Juicy.", "多汁的"], "suffrage": ["The right to vote in political elections.", "選舉權;投票權"], "suggest": ["To put forward an idea for consideration; to imply.", "建議;暗示"], "suicide": ["The act of intentionally killing oneself.", "自殺"], "suitable": ["Right or appropriate for a particular purpose.", "合適的;適當的"], "sulky": ["Silent, ill-tempered, and moody due to resentment.", "生悶氣的;繃著臉的"], "sullen": ["Grim, ill-humored.", "慍怒的；沉悶的"], "sully": ["To damage the purity or integrity of; to tarnish.", "玷污;敗壞"], "sultry": ["Extremely hot and moist, torrid.", "悶熱的；風騷的"], "summit": ["The highest point of a hill or mountain; a meeting of high-level leaders.", "山頂;高峰會"], "sumptuary": ["Relating to laws that regulate personal expenditure or consumption.", "禁奢的;限制消費的"], "sumptuous": ["Lavish:profligate.", "奢華的；豪華的"], "superfluity": ["An unnecessary or excessive amount.", "過剩;多餘"], "supervene": ["To occur as an unexpected addition or interruption.", "隨後發生;意外接踵而至"], "supervenient": ["Coming as an unexpected addition or extra.", "附加而來的;意外發生的"], "supervention": ["The occurrence of something as an unexpected addition.", "意外附加事件的發生"], "supine": ["Lying on one's back.", "仰臥的；軟弱的"], "supplant": ["To take the place of, especially through underhanded means.", "取代;篡奪"], "supple": ["Bending and moving easily and gracefully; flexible.", "柔軟的;靈活的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"strident": ["Shrill, harsh, rough.", "刺耳的；尖銳的"], "stridor": ["A harsh, grating or vibrating sound, especially in breathing.", "喘鳴聲；刺耳聲"], "stridulate": ["To make a shrill, grating sound by rubbing body parts together, as insects do.", "(昆蟲)發出摩擦聲"], "stridulous": ["Making or characterized by a shrill, grating sound.", "刺耳的；尖聲的"], "strife": ["Discord, disagreement.", "衝突；爭吵"], "stringent": ["Strict, precise, and exacting.", "嚴格的；嚴厲的"], "strumpet": ["A promiscuous or immoral woman (archaic, derogatory).", "蕩婦(古語,貶義)"], "struthious": ["Relating to or resembling ostriches.", "似鴕鳥的；鴕鳥科的"], "stubborn": ["Refusing to change one's mind or course of action.", "頑固的；固執的"], "stuff": ["Matter, material, or things of an unspecified kind; to fill tightly.", "東西；填塞"], "stuffed": ["Filled tightly, especially with padding; having eaten too much.", "填滿的；吃得很飽的"], "stun": ["To knock unconscious or daze; to astonish.", "使昏迷；使震驚"], "stunted": ["Held back or checked in natural growth.", "發育不良的"], "stupefaction": ["A state of being stunned or amazed to the point of insensibility.", "驚呆；麻木"], "stupefied": ["Astonished or dazed to the point of near insensibility.", "目瞪口呆的；驚呆的"], "stupendous": ["Extremely impressive, especially in size or degree.", "驚人的；巨大的"], "stupid": ["Lacking intelligence or good sense.", "愚蠢的"], "stupor": ["Daze, insensible condition.", "昏迷；恍惚"], "sturdily": ["Strongly or solidly.", "堅固地；結實地"], "sturm und drang": ["Turmoil and emotional upheaval, especially in artistic or personal contexts.", "狂飆突進；情感風暴"], "stygian": ["Extremely dark or gloomy; relating to the underworld river Styx.", "冥河般的；極度陰暗的"], "stymie": ["To hinder, impede.", "阻礙"], "suave": ["Charming, confident, and elegant in manner.", "溫文儒雅的；圓滑的"], "subjugated": ["Brought under domination or control.", "被征服的；被奴役的"], "subjugation": ["The act of bringing someone under domination or control.", "征服；奴役"], "sublimate": ["To redirect an impulse into a socially acceptable activity; to purify.", "昇華；使純化"], "sublimation": ["The redirection of an impulse into a socially acceptable activity.", "昇華作用"], "submerge": ["To cause to be under the surface of water; to immerse.", "淹沒；浸入"], "substantiate": ["To confirm, ratify.", "證實；證明"], "successor": ["A person who follows another in a role or position.", "繼任者；接班人"], "succinctness": ["The quality of being brief and clearly expressed.", "簡潔；簡明扼要"], "succulent": ["Juicy.", "多汁的"], "suffrage": ["The right to vote in political elections.", "選舉權；投票權"], "suggest": ["To put forward an idea for consideration; to imply.", "建議；暗示"], "suicide": ["The act of intentionally killing oneself.", "自殺"], "suitable": ["Right or appropriate for a particular purpose.", "合適的；適當的"], "sulky": ["Silent, ill-tempered, and moody due to resentment.", "生悶氣的；繃著臉的"], "sullen": ["Grim, ill-humored.", "慍怒的；沉悶的"], "sully": ["To damage the purity or integrity of; to tarnish.", "玷污；敗壞"], "sultry": ["Extremely hot and moist, torrid.", "悶熱的；風騷的"], "summit": ["The highest point of a hill or mountain; a meeting of high-level leaders.", "山頂；高峰會"], "sumptuary": ["Relating to laws that regulate personal expenditure or consumption.", "禁奢的；限制消費的"], "sumptuous": ["Lavish:profligate.", "奢華的；豪華的"], "superfluity": ["An unnecessary or excessive amount.", "過剩；多餘"], "supervene": ["To occur as an unexpected addition or interruption.", "隨後發生；意外接踵而至"], "supervenient": ["Coming as an unexpected addition or extra.", "附加而來的；意外發生的"], "supervention": ["The occurrence of something as an unexpected addition.", "意外附加事件的發生"], "supine": ["Lying on one's back.", "仰臥的；軟弱的"], "supplant": ["To take the place of, especially through underhanded means.", "取代；篡奪"], "supple": ["Bending and moving easily and gracefully; flexible.", "柔軟的；靈活的"]});

@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "comport",
     "pos": "v.",
     "definition": "To conduct oneself in a particular way; to be in agreement with.",
-    "chinese": "舉止合宜;與...一致",
+    "chinese": "舉止合宜；與...一致",
     "synonyms": "",
     "root": "com- (together) + portare (to carry), from Latin",
     "group": "co；com = 共同；一起",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To conduct oneself in a particular way; to be in agreement with.",
-     "chinese": "舉止合宜;與...一致"
+     "chinese": "舉止合宜；與...一致"
     }
    },
    {
     "word": "comportment",
     "pos": "n.",
     "definition": "Behavior or conduct, especially in a formal setting.",
-    "chinese": "舉止;風度",
+    "chinese": "舉止；風度",
     "synonyms": "",
     "root": "com- (together) + portare (to carry), from Latin",
     "group": "co；com = 共同；一起",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behavior or conduct, especially in a formal setting.",
-     "chinese": "舉止;風度"
+     "chinese": "舉止；風度"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "composed",
     "pos": "adj.",
     "definition": "Calm and in control of one's emotions.",
-    "chinese": "鎮定的;沉著的",
+    "chinese": "鎮定的；沉著的",
     "synonyms": "",
     "root": "com- (together) + ponere (to place), from Latin",
     "group": "co；com = 共同；一起",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calm and in control of one's emotions.",
-     "chinese": "鎮定的;沉著的"
+     "chinese": "鎮定的；沉著的"
     }
    },
    {
     "word": "composure",
     "pos": "n.",
     "definition": "Calmness of mind or manner.",
-    "chinese": "鎮定;沉著",
+    "chinese": "鎮定；沉著",
     "synonyms": "",
     "root": "com- (together) + ponere (to place), from Latin",
     "group": "co；com = 共同；一起",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calmness of mind or manner.",
-     "chinese": "鎮定;沉著"
+     "chinese": "鎮定；沉著"
     }
    },
    {
@@ -219,7 +219,7 @@ window.FLASHCARD_UNITS = {
     "word": "comprehensible",
     "pos": "adj.",
     "definition": "Able to be understood.",
-    "chinese": "可理解的;易懂的",
+    "chinese": "可理解的；易懂的",
     "synonyms": "",
     "root": "com- (together) + prehendere (to seize), from Latin",
     "group": "co；com = 共同；一起",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to be understood.",
-     "chinese": "可理解的;易懂的"
+     "chinese": "可理解的；易懂的"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "compromising",
     "pos": "adj.",
     "definition": "Exposing someone to danger, suspicion, or disrepute.",
-    "chinese": "有損名譽的;不利的",
+    "chinese": "有損名譽的；不利的",
     "synonyms": "",
     "root": "com- (together) + promittere (to promise), from Latin",
     "group": "co；com = 共同；一起",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exposing someone to danger, suspicion, or disrepute.",
-     "chinese": "有損名譽的;不利的"
+     "chinese": "有損名譽的；不利的"
     }
    },
    {
@@ -354,7 +354,7 @@ window.FLASHCARD_UNITS = {
     "word": "concave",
     "pos": "adj.",
     "definition": "Curving inward, like the inside of a bowl.",
-    "chinese": "凹的;凹面的",
+    "chinese": "凹的；凹面的",
     "synonyms": "",
     "root": "con- (thoroughly) + cavus (hollow), from Latin",
     "group": "co；com = 共同；一起",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Curving inward, like the inside of a bowl.",
-     "chinese": "凹的;凹面的"
+     "chinese": "凹的；凹面的"
     }
    },
    {
@@ -392,7 +392,7 @@ window.FLASHCARD_UNITS = {
     "word": "concealed",
     "pos": "adj.",
     "definition": "Kept hidden or out of sight.",
-    "chinese": "隱藏的;隱蔽的",
+    "chinese": "隱藏的；隱蔽的",
     "synonyms": "",
     "root": "con- (thoroughly) + celare (to hide), from Latin",
     "group": "co；com = 共同；一起",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Kept hidden or out of sight.",
-     "chinese": "隱藏的;隱蔽的"
+     "chinese": "隱藏的；隱蔽的"
     }
    },
    {
@@ -548,7 +548,7 @@ window.FLASHCARD_UNITS = {
     "word": "conciseness",
     "pos": "n.",
     "definition": "The quality of expressing much in few words.",
-    "chinese": "簡潔;簡明",
+    "chinese": "簡潔；簡明",
     "synonyms": "",
     "root": "con- (thoroughly) + caedere (to cut), from Latin",
     "group": "co；com = 共同；一起",
@@ -560,7 +560,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of expressing much in few words.",
-     "chinese": "簡潔;簡明"
+     "chinese": "簡潔；簡明"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "concubine",
     "pos": "n.",
     "definition": "A woman who lives with a man without being legally married to him, historically often of lower status.",
-    "chinese": "妾;姘婦",
+    "chinese": "妾；姘婦",
     "synonyms": "",
     "root": "con- (together) + cubare (to lie down), from Latin",
     "group": "co；com = 共同；一起",
@@ -638,14 +638,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A woman who lives with a man without being legally married to him, historically often of lower status.",
-     "chinese": "妾;姘婦"
+     "chinese": "妾；姘婦"
     }
    },
    {
     "word": "concupiscent",
     "pos": "adj.",
     "definition": "Having strong sexual desire; lustful.",
-    "chinese": "淫慾的;好色的",
+    "chinese": "淫慾的；好色的",
     "synonyms": "",
     "root": "con- (thoroughly) + cupere (to desire), from Latin",
     "group": "co；com = 共同；一起",
@@ -657,7 +657,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having strong sexual desire; lustful.",
-     "chinese": "淫慾的;好色的"
+     "chinese": "淫慾的；好色的"
     }
    },
    {
@@ -683,7 +683,7 @@ window.FLASHCARD_UNITS = {
     "word": "condemn",
     "pos": "v.",
     "definition": "To express strong disapproval of; to sentence to punishment.",
-    "chinese": "譴責;判刑",
+    "chinese": "譴責；判刑",
     "synonyms": "",
     "root": "con- (thoroughly) + damnare (to condemn), from Latin",
     "group": "co；com = 共同；一起",
@@ -695,14 +695,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express strong disapproval of; to sentence to punishment.",
-     "chinese": "譴責;判刑"
+     "chinese": "譴責；判刑"
     }
    },
    {
     "word": "condemnation",
     "pos": "n.",
     "definition": "The expression of strong disapproval; the act of sentencing.",
-    "chinese": "譴責;判決",
+    "chinese": "譴責；判決",
     "synonyms": "",
     "root": "con- (thoroughly) + damnare (to condemn), from Latin",
     "group": "co；com = 共同；一起",
@@ -714,14 +714,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The expression of strong disapproval; the act of sentencing.",
-     "chinese": "譴責;判決"
+     "chinese": "譴責；判決"
     }
    },
    {
     "word": "condensation",
     "pos": "n.",
     "definition": "The process of a gas turning into a liquid; a shortened version of a text.",
-    "chinese": "凝結;濃縮版",
+    "chinese": "凝結；濃縮版",
     "synonyms": "",
     "root": "con- (together) + densus (dense), from Latin",
     "group": "co；com = 共同；一起",
@@ -733,14 +733,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of a gas turning into a liquid; a shortened version of a text.",
-     "chinese": "凝結;濃縮版"
+     "chinese": "凝結；濃縮版"
     }
    },
    {
     "word": "condense",
     "pos": "v.",
     "definition": "To make more concise; to change from gas to liquid.",
-    "chinese": "濃縮;凝結",
+    "chinese": "濃縮；凝結",
     "synonyms": "",
     "root": "con- (together) + densus (dense), from Latin",
     "group": "co；com = 共同；一起",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make more concise; to change from gas to liquid.",
-     "chinese": "濃縮;凝結"
+     "chinese": "濃縮；凝結"
     }
    },
    {
@@ -816,7 +816,7 @@ window.FLASHCARD_UNITS = {
     "word": "condole",
     "pos": "v.",
     "definition": "To express sympathy for someone's grief or loss.",
-    "chinese": "弔唁;表示慰問",
+    "chinese": "弔唁；表示慰問",
     "synonyms": "",
     "root": "con- (together) + dolere (to grieve), from Latin",
     "group": "co；com = 共同；一起",
@@ -828,7 +828,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express sympathy for someone's grief or loss.",
-     "chinese": "弔唁;表示慰問"
+     "chinese": "弔唁；表示慰問"
     }
    },
    {
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "word": "confederacy",
     "pos": "n.",
     "definition": "An alliance of groups or states for a common purpose.",
-    "chinese": "邦聯;同盟",
+    "chinese": "邦聯；同盟",
     "synonyms": "",
     "root": "con- (together) + foedus (league), from Latin",
     "group": "co；com = 共同；一起",
@@ -965,7 +965,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An alliance of groups or states for a common purpose.",
-     "chinese": "邦聯;同盟"
+     "chinese": "邦聯；同盟"
     }
    }
   ],
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"complicate": ["To make something more difficult or complex.", "使複雜化"], "complicit": ["Being an accomplice in a wrongful act.", "串通的；共謀的"], "complicity": ["Partnership in wrongdoing.", "同謀；共犯關係"], "compliment": ["An expression of esteem or approval.", "讚美；恭維"], "component": ["Element.", "零件；成分"], "comport": ["To conduct oneself in a particular way; to be in agreement with.", "舉止合宜;與...一致"], "comportment": ["Behavior or conduct, especially in a formal setting.", "舉止;風度"], "compose": ["To create or form something, especially in writing or music; to arrange parts into a whole.", "組成；創作"], "composed": ["Calm and in control of one's emotions.", "鎮定的;沉著的"], "composure": ["Calmness of mind or manner.", "鎮定;沉著"], "compound": ["To increase or add to.", "使增加；混合"], "comprehensible": ["Able to be understood.", "可理解的;易懂的"], "comprehensive": ["Thorough.", "廣泛的；綜合的"], "compress": ["To apply pressure, squeeze together.", "壓縮"], "comprise": ["To consist of or include.", "由...組成；包含"], "compromise": ["An agreement reached by mutual concession; to reach such an agreement.", "妥協"], "compromising": ["Exposing someone to danger, suspicion, or disrepute.", "有損名譽的;不利的"], "compunction": ["Distress caused by feeling guilty.", "內疚；悔恨"], "concave": ["Curving inward, like the inside of a bowl.", "凹的;凹面的"], "conceal": ["To hide or keep something out of sight.", "隱藏"], "concealed": ["Kept hidden or out of sight.", "隱藏的;隱蔽的"], "concede": ["To admit or acknowledge something, often reluctantly or after initial resistance.", "承認；讓步"], "conceit": ["Feelings of excessive pride.", "自負；自大"], "conceptualize": ["To form a concept or idea of something in one's mind.", "構思；使概念化"], "concerning": ["Causing worry or distress.", "令人擔憂的"], "conciliate": ["To win a person over through special considerations or persuasive methods.", "撫慰；調解"], "conciliatory": ["Friendly, agreeable.", "和解的；安撫性的"], "concise": ["Using few words in speaking and writing.", "簡潔的"], "conciseness": ["The quality of expressing much in few words.", "簡潔;簡明"], "concoct": ["To devise, fabricate.", "捏造；調製"], "concomitant": ["Accompanying, attending.", "伴隨的"], "concord": ["Harmonious agreement.", "和睦；協調"], "concubine": ["A woman who lives with a man without being legally married to him, historically often of lower status.", "妾;姘婦"], "concupiscent": ["Having strong sexual desire; lustful.", "淫慾的;好色的"], "concur": ["To agree.", "同意"], "condemn": ["To express strong disapproval of; to sentence to punishment.", "譴責;判刑"], "condemnation": ["The expression of strong disapproval; the act of sentencing.", "譴責;判決"], "condensation": ["The process of a gas turning into a liquid; a shortened version of a text.", "凝結;濃縮版"], "condense": ["To make more concise; to change from gas to liquid.", "濃縮;凝結"], "condescend": ["To stoop, lower oneself.", "屈尊；俯就"], "condescending": ["Characteristic of those who treat others with arrogance.", "居高臨下的；傲慢的"], "condition": ["The state of something.", "狀態；情況"], "condole": ["To express sympathy for someone's grief or loss.", "弔唁;表示慰問"], "condolence": ["Expression of sympathy:solace.", "哀悼"], "condone": ["To excuse, pardon.", "寬恕；赦免"], "conducive": ["Leading, helpful.", "有助於...的"], "conductive": ["Having the ability to conduct heat, electricity, or sound.", "傳導性的"], "conduit": ["A pipe or channel through which something passes.", "導管；管道"], "confection": ["A sweet, fancy food.", "糖果；甜點"], "confederacy": ["An alliance of groups or states for a common purpose.", "邦聯;同盟"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"complicate": ["To make something more difficult or complex.", "使複雜化"], "complicit": ["Being an accomplice in a wrongful act.", "串通的；共謀的"], "complicity": ["Partnership in wrongdoing.", "同謀；共犯關係"], "compliment": ["An expression of esteem or approval.", "讚美；恭維"], "component": ["Element.", "零件；成分"], "comport": ["To conduct oneself in a particular way; to be in agreement with.", "舉止合宜；與...一致"], "comportment": ["Behavior or conduct, especially in a formal setting.", "舉止；風度"], "compose": ["To create or form something, especially in writing or music; to arrange parts into a whole.", "組成；創作"], "composed": ["Calm and in control of one's emotions.", "鎮定的；沉著的"], "composure": ["Calmness of mind or manner.", "鎮定；沉著"], "compound": ["To increase or add to.", "使增加；混合"], "comprehensible": ["Able to be understood.", "可理解的；易懂的"], "comprehensive": ["Thorough.", "廣泛的；綜合的"], "compress": ["To apply pressure, squeeze together.", "壓縮"], "comprise": ["To consist of or include.", "由...組成；包含"], "compromise": ["An agreement reached by mutual concession; to reach such an agreement.", "妥協"], "compromising": ["Exposing someone to danger, suspicion, or disrepute.", "有損名譽的；不利的"], "compunction": ["Distress caused by feeling guilty.", "內疚；悔恨"], "concave": ["Curving inward, like the inside of a bowl.", "凹的；凹面的"], "conceal": ["To hide or keep something out of sight.", "隱藏"], "concealed": ["Kept hidden or out of sight.", "隱藏的；隱蔽的"], "concede": ["To admit or acknowledge something, often reluctantly or after initial resistance.", "承認；讓步"], "conceit": ["Feelings of excessive pride.", "自負；自大"], "conceptualize": ["To form a concept or idea of something in one's mind.", "構思；使概念化"], "concerning": ["Causing worry or distress.", "令人擔憂的"], "conciliate": ["To win a person over through special considerations or persuasive methods.", "撫慰；調解"], "conciliatory": ["Friendly, agreeable.", "和解的；安撫性的"], "concise": ["Using few words in speaking and writing.", "簡潔的"], "conciseness": ["The quality of expressing much in few words.", "簡潔；簡明"], "concoct": ["To devise, fabricate.", "捏造；調製"], "concomitant": ["Accompanying, attending.", "伴隨的"], "concord": ["Harmonious agreement.", "和睦；協調"], "concubine": ["A woman who lives with a man without being legally married to him, historically often of lower status.", "妾；姘婦"], "concupiscent": ["Having strong sexual desire; lustful.", "淫慾的；好色的"], "concur": ["To agree.", "同意"], "condemn": ["To express strong disapproval of; to sentence to punishment.", "譴責；判刑"], "condemnation": ["The expression of strong disapproval; the act of sentencing.", "譴責；判決"], "condensation": ["The process of a gas turning into a liquid; a shortened version of a text.", "凝結；濃縮版"], "condense": ["To make more concise; to change from gas to liquid.", "濃縮；凝結"], "condescend": ["To stoop, lower oneself.", "屈尊；俯就"], "condescending": ["Characteristic of those who treat others with arrogance.", "居高臨下的；傲慢的"], "condition": ["The state of something.", "狀態；情況"], "condole": ["To express sympathy for someone's grief or loss.", "弔唁；表示慰問"], "condolence": ["Expression of sympathy:solace.", "哀悼"], "condone": ["To excuse, pardon.", "寬恕；赦免"], "conducive": ["Leading, helpful.", "有助於...的"], "conductive": ["Having the ability to conduct heat, electricity, or sound.", "傳導性的"], "conduit": ["A pipe or channel through which something passes.", "導管；管道"], "confection": ["A sweet, fancy food.", "糖果；甜點"], "confederacy": ["An alliance of groups or states for a common purpose.", "邦聯；同盟"]});

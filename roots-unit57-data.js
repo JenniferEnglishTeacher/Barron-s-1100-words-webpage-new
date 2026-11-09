@@ -352,7 +352,7 @@ window.FLASHCARD_UNITS = {
     "word": "perambulate",
     "pos": "v.",
     "definition": "To walk about or through a place, especially for pleasure.",
-    "chinese": "漫步;巡遊",
+    "chinese": "漫步；巡遊",
     "synonyms": "",
     "root": "per- (through) + ambulare (to walk), from Latin",
     "group": "per = 穿過；完全",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk about or through a place, especially for pleasure.",
-     "chinese": "漫步;巡遊"
+     "chinese": "漫步；巡遊"
     }
    },
    {
     "word": "perennial",
     "pos": "adj./n.",
     "definition": "Lasting for a long or seemingly infinite time; recurring.",
-    "chinese": "持久的;多年生的",
+    "chinese": "持久的；多年生的",
     "synonyms": "",
     "root": "per- (through) + annus (year), from Latin",
     "group": "per = 穿過；完全",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lasting for a long or seemingly infinite time; recurring.",
-     "chinese": "持久的;多年生的"
+     "chinese": "持久的；多年生的"
     }
    },
    {
     "word": "perfervid",
     "pos": "adj.",
     "definition": "Showing intense and passionate feeling.",
-    "chinese": "極度熱情的;狂熱的",
+    "chinese": "極度熱情的；狂熱的",
     "synonyms": "",
     "root": "per- (thoroughly) + fervidus (glowing, ardent), from Latin fervere (to boil)",
     "group": "per = 穿過；完全",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing intense and passionate feeling.",
-     "chinese": "極度熱情的;狂熱的"
+     "chinese": "極度熱情的；狂熱的"
     }
    },
    {
     "word": "perfidiousness",
     "pos": "n.",
     "definition": "Deceitfulness and untrustworthiness; treachery.",
-    "chinese": "背信棄義;奸詐",
+    "chinese": "背信棄義；奸詐",
     "synonyms": "",
     "root": "per- (through, thoroughly) + fides (faith), from Latin, implying breach of faith",
     "group": "per = 穿過；完全",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deceitfulness and untrustworthiness; treachery.",
-     "chinese": "背信棄義;奸詐"
+     "chinese": "背信棄義；奸詐"
     }
    },
    {
     "word": "perfidy",
     "pos": "n.",
     "definition": "Deliberate breach of faith or trust; treachery.",
-    "chinese": "背信;奸詐行為",
+    "chinese": "背信；奸詐行為",
     "synonyms": "",
     "root": "per- (through, thoroughly) + fides (faith), from Latin",
     "group": "per = 穿過；完全",
@@ -440,14 +440,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deliberate breach of faith or trust; treachery.",
-     "chinese": "背信;奸詐行為"
+     "chinese": "背信；奸詐行為"
     }
    },
    {
     "word": "perfumed",
     "pos": "adj.",
     "definition": "Scented with perfume.",
-    "chinese": "撒了香水的;芳香的",
+    "chinese": "撒了香水的；芳香的",
     "synonyms": "",
     "root": "per- (thoroughly) + fumare (to smoke), from Latin, via French parfumer",
     "group": "per = 穿過；完全",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Scented with perfume.",
-     "chinese": "撒了香水的;芳香的"
+     "chinese": "撒了香水的；芳香的"
     }
    },
    {
@@ -601,7 +601,7 @@ window.FLASHCARD_UNITS = {
     "word": "perspicuity",
     "pos": "n.",
     "definition": "Clearness of expression or statement.",
-    "chinese": "明晰;清楚易懂",
+    "chinese": "明晰；清楚易懂",
     "synonyms": "",
     "root": "per- (through) + specere (to look), from Latin",
     "group": "per = 穿過；完全",
@@ -613,7 +613,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearness of expression or statement.",
-     "chinese": "明晰;清楚易懂"
+     "chinese": "明晰；清楚易懂"
     }
    },
    {
@@ -1564,4 +1564,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perceive": ["To understand, know, become aware of.", "察覺；感知"], "pernicious": ["Harmful, causing injury.", "有害的"], "perfunctory": ["Done without care, superficial.", "敷衍的"], "perverse": ["Contrary, persisting in error.", "固執錯誤的；乖戾的"], "pertinent": ["Appropriate:related.", "相關的"], "peruse": ["To read carefully.", "仔細閱讀"], "permeate": ["To spread through.", "彌漫；滲透"], "persevere": ["To persist.", "堅持不懈；不屈不撓"], "perpetrate": ["To commit a crime.", "犯(罪)；做(壞事)"], "peregrination": ["A journey.", "旅程；遊歷"], "perpetuate": ["To cause to continue.", "使不朽；使持續"], "perspicacious": ["Acutely perceptive, shrewd.", "有洞察力的"], "paramount": ["Supreme, foremost.", "首要的；至高無上的"], "peremptory": ["Absolute, compulsory, binding.", "專橫的；不容反抗的"], "perfidious": ["Treacherous, false.", "背信棄義的"], "imperturbable": ["Calm, steady, serene.", "鎮定的；冷靜的"], "impervious": ["Not affected or influenced by something.", "不受影響的；不透水的"], "pellucid": ["Easily intelligible, clear.", "清澈易懂的；透明的"], "perambulate": ["To walk about or through a place, especially for pleasure.", "漫步;巡遊"], "perennial": ["Lasting for a long or seemingly infinite time; recurring.", "持久的;多年生的"], "perfervid": ["Showing intense and passionate feeling.", "極度熱情的;狂熱的"], "perfidiousness": ["Deceitfulness and untrustworthiness; treachery.", "背信棄義;奸詐"], "perfidy": ["Deliberate breach of faith or trust; treachery.", "背信;奸詐行為"], "perfumed": ["Scented with perfume.", "撒了香水的;芳香的"], "permanent": ["Lasting indefinitely.", "永久的"], "perpetual": ["Continuing forever or indefinitely.", "永久的；不斷的"], "perplex": ["To confuse.", "使困惑；使費解"], "persecute": ["Cause to suffer.", "迫害"], "persiflage": ["Light teasing.", "輕鬆調侃；戲謔"], "persistent": ["Continuing firmly or steadily in a course of action despite difficulties or opposition.", "堅持不懈的；持續的"], "perspicacity": ["Shrewdness, perceptiveness.", "敏銳；洞察力"], "perspicuity": ["Clearness of expression or statement.", "明晰;清楚易懂"], "pertinacious": ["Stubbornly persistent.", "頑強的；固執的"], "perusal": ["A careful examination, review.", "仔細閱讀；詳查"], "pervasive": ["Spreading widely throughout an area or a group of people.", "瀰漫的；普遍存在的"], "repercussion": ["An unintended consequence or effect, often negative.", "後果；餘波"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perceive": ["To understand, know, become aware of.", "察覺；感知"], "pernicious": ["Harmful, causing injury.", "有害的"], "perfunctory": ["Done without care, superficial.", "敷衍的"], "perverse": ["Contrary, persisting in error.", "固執錯誤的；乖戾的"], "pertinent": ["Appropriate:related.", "相關的"], "peruse": ["To read carefully.", "仔細閱讀"], "permeate": ["To spread through.", "彌漫；滲透"], "persevere": ["To persist.", "堅持不懈；不屈不撓"], "perpetrate": ["To commit a crime.", "犯(罪)；做(壞事)"], "peregrination": ["A journey.", "旅程；遊歷"], "perpetuate": ["To cause to continue.", "使不朽；使持續"], "perspicacious": ["Acutely perceptive, shrewd.", "有洞察力的"], "paramount": ["Supreme, foremost.", "首要的；至高無上的"], "peremptory": ["Absolute, compulsory, binding.", "專橫的；不容反抗的"], "perfidious": ["Treacherous, false.", "背信棄義的"], "imperturbable": ["Calm, steady, serene.", "鎮定的；冷靜的"], "impervious": ["Not affected or influenced by something.", "不受影響的；不透水的"], "pellucid": ["Easily intelligible, clear.", "清澈易懂的；透明的"], "perambulate": ["To walk about or through a place, especially for pleasure.", "漫步；巡遊"], "perennial": ["Lasting for a long or seemingly infinite time; recurring.", "持久的；多年生的"], "perfervid": ["Showing intense and passionate feeling.", "極度熱情的；狂熱的"], "perfidiousness": ["Deceitfulness and untrustworthiness; treachery.", "背信棄義；奸詐"], "perfidy": ["Deliberate breach of faith or trust; treachery.", "背信；奸詐行為"], "perfumed": ["Scented with perfume.", "撒了香水的；芳香的"], "permanent": ["Lasting indefinitely.", "永久的"], "perpetual": ["Continuing forever or indefinitely.", "永久的；不斷的"], "perplex": ["To confuse.", "使困惑；使費解"], "persecute": ["Cause to suffer.", "迫害"], "persiflage": ["Light teasing.", "輕鬆調侃；戲謔"], "persistent": ["Continuing firmly or steadily in a course of action despite difficulties or opposition.", "堅持不懈的；持續的"], "perspicacity": ["Shrewdness, perceptiveness.", "敏銳；洞察力"], "perspicuity": ["Clearness of expression or statement.", "明晰；清楚易懂"], "pertinacious": ["Stubbornly persistent.", "頑強的；固執的"], "perusal": ["A careful examination, review.", "仔細閱讀；詳查"], "pervasive": ["Spreading widely throughout an area or a group of people.", "瀰漫的；普遍存在的"], "repercussion": ["An unintended consequence or effect, often negative.", "後果；餘波"]});

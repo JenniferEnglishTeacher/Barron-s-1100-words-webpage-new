@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "tasteless",
     "pos": "adj.",
     "definition": "Lacking good judgment about style; having no flavor.",
-    "chinese": "沒品味的;無味的",
+    "chinese": "沒品味的；無味的",
     "synonyms": "",
     "root": "taste, from Latin taxare (to touch, evaluate) + -less",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking good judgment about style; having no flavor.",
-     "chinese": "沒品味的;無味的"
+     "chinese": "沒品味的；無味的"
     }
    },
    {
     "word": "tatter",
     "pos": "n./v.",
     "definition": "A torn or ragged piece of cloth; to become ragged.",
-    "chinese": "破布;破爛",
+    "chinese": "破布；破爛",
     "synonyms": "",
     "root": "of uncertain Scandinavian origin, related to Old Norse tǫturr (rag)",
     "group": "",
@@ -39,14 +39,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A torn or ragged piece of cloth; to become ragged.",
-     "chinese": "破布;破爛"
+     "chinese": "破布；破爛"
     }
    },
    {
     "word": "tatterdemalion",
     "pos": "n./adj.",
     "definition": "A person in ragged clothing; ragged or disreputable in appearance.",
-    "chinese": "衣衫襤褸的人;破爛的",
+    "chinese": "衣衫襤褸的人；破爛的",
     "synonyms": "",
     "root": "tatter, of Scandinavian origin + a fanciful ending imitating a name",
     "group": "",
@@ -58,14 +58,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person in ragged clothing; ragged or disreputable in appearance.",
-     "chinese": "衣衫襤褸的人;破爛的"
+     "chinese": "衣衫襤褸的人；破爛的"
     }
    },
    {
     "word": "tattered",
     "pos": "adj.",
     "definition": "Old and torn; in poor condition.",
-    "chinese": "破爛的;襤褸的",
+    "chinese": "破爛的；襤褸的",
     "synonyms": "",
     "root": "tatter, of uncertain Scandinavian origin, related to Old Norse tǫturr (rag)",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Old and torn; in poor condition.",
-     "chinese": "破爛的;襤褸的"
+     "chinese": "破爛的；襤褸的"
     }
    },
    {
     "word": "taunt",
     "pos": "v./n.",
     "definition": "To provoke or mock someone with insulting remarks.",
-    "chinese": "嘲弄;奚落",
+    "chinese": "嘲弄；奚落",
     "synonyms": "",
     "root": "tanter (to provoke), from Old French, of uncertain further origin",
     "group": "",
@@ -98,7 +98,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To provoke or mock someone with insulting remarks.",
-     "chinese": "嘲弄;奚落"
+     "chinese": "嘲弄；奚落"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "tawdry",
     "pos": "adj.",
     "definition": "Showy or cheap in a gaudy way; morally low.",
-    "chinese": "俗豔的;卑劣的",
+    "chinese": "俗豔的；卑劣的",
     "synonyms": "",
     "root": "shortened from St. Audrey's lace, cheap lace sold at a fair honoring St. Audrey",
     "group": "",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showy or cheap in a gaudy way; morally low.",
-     "chinese": "俗豔的;卑劣的"
+     "chinese": "俗豔的；卑劣的"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "tearful",
     "pos": "adj.",
     "definition": "Inclined to cry; accompanied by tears.",
-    "chinese": "含淚的;哭泣的",
+    "chinese": "含淚的；哭泣的",
     "synonyms": "",
     "root": "tear, from Old English tear + -ful",
     "group": "",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Inclined to cry; accompanied by tears.",
-     "chinese": "含淚的;哭泣的"
+     "chinese": "含淚的；哭泣的"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "tedium",
     "pos": "n.",
     "definition": "The state of being tedious; boredom.",
-    "chinese": "沉悶;乏味",
+    "chinese": "沉悶；乏味",
     "synonyms": "",
     "root": "taedium (weariness, disgust), from Latin taedet (it wearies)",
     "group": "",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being tedious; boredom.",
-     "chinese": "沉悶;乏味"
+     "chinese": "沉悶；乏味"
     }
    },
    {
     "word": "teeming",
     "pos": "adj.",
     "definition": "Full of or swarming with something.",
-    "chinese": "充滿的;熙攘的",
+    "chinese": "充滿的；熙攘的",
     "synonyms": "",
     "root": "teman (to give birth, produce), from Old English",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Full of or swarming with something.",
-     "chinese": "充滿的;熙攘的"
+     "chinese": "充滿的；熙攘的"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "temerarious",
     "pos": "adj.",
     "definition": "Recklessly bold or rash.",
-    "chinese": "魯莽的;冒失的",
+    "chinese": "魯莽的；冒失的",
     "synonyms": "",
     "root": "temerarius, from Latin temere (rashly, by chance)",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Recklessly bold or rash.",
-     "chinese": "魯莽的;冒失的"
+     "chinese": "魯莽的；冒失的"
     }
    },
    {
@@ -352,7 +352,7 @@ window.FLASHCARD_UNITS = {
     "word": "temperate",
     "pos": "adj.",
     "definition": "Showing moderation or self-restraint; not extreme in climate.",
-    "chinese": "溫和的;有節制的",
+    "chinese": "溫和的；有節制的",
     "synonyms": "",
     "root": "temperatus, past participle of Latin temperare (to moderate)",
     "group": "",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing moderation or self-restraint; not extreme in climate.",
-     "chinese": "溫和的;有節制的"
+     "chinese": "溫和的；有節制的"
     }
    },
    {
     "word": "temporal",
     "pos": "adj.",
     "definition": "Relating to time or worldly affairs, as opposed to spiritual.",
-    "chinese": "時間的;世俗的",
+    "chinese": "時間的；世俗的",
     "synonyms": "",
     "root": "temporalis, from Latin tempus (time)",
     "group": "",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to time or worldly affairs, as opposed to spiritual.",
-     "chinese": "時間的;世俗的"
+     "chinese": "時間的；世俗的"
     }
    },
    {
     "word": "temporize",
     "pos": "v.",
     "definition": "To delay making a decision to gain time.",
-    "chinese": "拖延;敷衍",
+    "chinese": "拖延；敷衍",
     "synonyms": "",
     "root": "temporiser, from French, from Latin tempus (time)",
     "group": "",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To delay making a decision to gain time.",
-     "chinese": "拖延;敷衍"
+     "chinese": "拖延；敷衍"
     }
    },
    {
     "word": "tenaculum",
     "pos": "n.",
     "definition": "A surgical instrument for grasping and holding tissue or blood vessels.",
-    "chinese": "組織鉗;止血鉗",
+    "chinese": "組織鉗；止血鉗",
     "synonyms": "",
     "root": "tenaculum (a holder), from Latin tenere (to hold)",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A surgical instrument for grasping and holding tissue or blood vessels.",
-     "chinese": "組織鉗;止血鉗"
+     "chinese": "組織鉗；止血鉗"
     }
    },
    {
     "word": "tenebrous",
     "pos": "adj.",
     "definition": "Dark, shadowy, or obscure.",
-    "chinese": "幽暗的;晦澀的",
+    "chinese": "幽暗的；晦澀的",
     "synonyms": "",
     "root": "tenebrosus, from Latin tenebrae (darkness)",
     "group": "",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dark, shadowy, or obscure.",
-     "chinese": "幽暗的;晦澀的"
+     "chinese": "幽暗的；晦澀的"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "termagant",
     "pos": "n./adj.",
     "definition": "A harsh, overbearing woman; quarrelsome.",
-    "chinese": "潑婦;凶悍的",
+    "chinese": "潑婦；凶悍的",
     "synonyms": "",
     "root": "Termagant, an imaginary deity portrayed as violent in medieval literature",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A harsh, overbearing woman; quarrelsome.",
-     "chinese": "潑婦;凶悍的"
+     "chinese": "潑婦；凶悍的"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "terseness",
     "pos": "n.",
     "definition": "The quality of being brief and to the point, sometimes to the point of curtness.",
-    "chinese": "簡潔;簡短",
+    "chinese": "簡潔；簡短",
     "synonyms": "",
     "root": "tersus, past participle of Latin tergere (to wipe clean)",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being brief and to the point, sometimes to the point of curtness.",
-     "chinese": "簡潔;簡短"
+     "chinese": "簡潔；簡短"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "testimonial",
     "pos": "n./adj.",
     "definition": "A formal statement testifying to someone's character or qualifications.",
-    "chinese": "推薦書;證明書",
+    "chinese": "推薦書；證明書",
     "synonyms": "",
     "root": "testimonium, from Latin testis (witness)",
     "group": "",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A formal statement testifying to someone's character or qualifications.",
-     "chinese": "推薦書;證明書"
+     "chinese": "推薦書；證明書"
     }
    },
    {
     "word": "testimony",
     "pos": "n.",
     "definition": "A formal statement, especially one given in court.",
-    "chinese": "證詞;證言",
+    "chinese": "證詞；證言",
     "synonyms": "",
     "root": "testimonium, from Latin testis (witness)",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal statement, especially one given in court.",
-     "chinese": "證詞;證言"
+     "chinese": "證詞；證言"
     }
    },
    {
     "word": "testy",
     "pos": "adj.",
     "definition": "Easily irritated; impatient.",
-    "chinese": "易怒的;暴躁的",
+    "chinese": "易怒的；暴躁的",
     "synonyms": "",
     "root": "teste (headstrong), from Old French teste (head), from Latin testa",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily irritated; impatient.",
-     "chinese": "易怒的;暴躁的"
+     "chinese": "易怒的；暴躁的"
     }
    },
    {
     "word": "tete a tete",
     "pos": "n./adj.",
     "definition": "A private conversation between two people.",
-    "chinese": "私下交談;促膝談心",
+    "chinese": "私下交談；促膝談心",
     "synonyms": "",
     "root": "tête (head) + à (to) + tête (head), from French",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A private conversation between two people.",
-     "chinese": "私下交談;促膝談心"
+     "chinese": "私下交談；促膝談心"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "thaumaturgy",
     "pos": "n.",
     "definition": "The performance of miracles or magic.",
-    "chinese": "神蹟奇術;魔法",
+    "chinese": "神蹟奇術；魔法",
     "synonyms": "",
     "root": "thauma (wonder) + ergon (work), from Greek",
     "group": "",
@@ -746,14 +746,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The performance of miracles or magic.",
-     "chinese": "神蹟奇術;魔法"
+     "chinese": "神蹟奇術；魔法"
     }
    },
    {
     "word": "theatrical",
     "pos": "adj.",
     "definition": "Relating to the theater; exaggerated or dramatic.",
-    "chinese": "戲劇性的;劇場的",
+    "chinese": "戲劇性的；劇場的",
     "synonyms": "",
     "root": "theatricus, from Latin theatrum (theater), from Greek theasthai (to view)",
     "group": "",
@@ -765,7 +765,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the theater; exaggerated or dramatic.",
-     "chinese": "戲劇性的;劇場的"
+     "chinese": "戲劇性的；劇場的"
     }
    },
    {
@@ -867,7 +867,7 @@ window.FLASHCARD_UNITS = {
     "word": "thesis",
     "pos": "n.",
     "definition": "A statement put forward to be argued; a long research essay.",
-    "chinese": "論點;論文",
+    "chinese": "論點；論文",
     "synonyms": "",
     "root": "thesis (a proposition), from Greek tithenai (to place)",
     "group": "",
@@ -879,14 +879,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A statement put forward to be argued; a long research essay.",
-     "chinese": "論點;論文"
+     "chinese": "論點；論文"
     }
    },
    {
     "word": "thespian",
     "pos": "n./adj.",
     "definition": "An actor; relating to drama or theater.",
-    "chinese": "演員;戲劇的",
+    "chinese": "演員；戲劇的",
     "synonyms": "",
     "root": "named after Thespis, considered the first actor in ancient Greek theater",
     "group": "",
@@ -898,14 +898,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An actor; relating to drama or theater.",
-     "chinese": "演員;戲劇的"
+     "chinese": "演員；戲劇的"
     }
    },
    {
     "word": "thin",
     "pos": "adj./v.",
     "definition": "Having little thickness or width; sparse.",
-    "chinese": "薄的;瘦的",
+    "chinese": "薄的；瘦的",
     "synonyms": "",
     "root": "þynne (thin), from Old English",
     "group": "",
@@ -917,14 +917,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having little thickness or width; sparse.",
-     "chinese": "薄的;瘦的"
+     "chinese": "薄的；瘦的"
     }
    },
    {
     "word": "thorough",
     "pos": "adj.",
     "definition": "Complete in every detail; careful and exhaustive.",
-    "chinese": "徹底的;周密的",
+    "chinese": "徹底的；周密的",
     "synonyms": "",
     "root": "thurh (through), from Old English, a variant of through",
     "group": "",
@@ -936,14 +936,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complete in every detail; careful and exhaustive.",
-     "chinese": "徹底的;周密的"
+     "chinese": "徹底的；周密的"
     }
    },
    {
     "word": "thoroughgoing",
     "pos": "adj.",
     "definition": "Complete and comprehensive in every way.",
-    "chinese": "徹頭徹尾的;全面的",
+    "chinese": "徹頭徹尾的；全面的",
     "synonyms": "",
     "root": "thorough, from Old English thurh + going",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complete and comprehensive in every way.",
-     "chinese": "徹頭徹尾的;全面的"
+     "chinese": "徹頭徹尾的；全面的"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tasteless": ["Lacking good judgment about style; having no flavor.", "沒品味的;無味的"], "tatter": ["A torn or ragged piece of cloth; to become ragged.", "破布;破爛"], "tatterdemalion": ["A person in ragged clothing; ragged or disreputable in appearance.", "衣衫襤褸的人;破爛的"], "tattered": ["Old and torn; in poor condition.", "破爛的;襤褸的"], "taunt": ["To provoke or mock someone with insulting remarks.", "嘲弄;奚落"], "taut": ["On edge, keyed up, tense.", "緊繃的；緊張的"], "tawdry": ["Showy or cheap in a gaudy way; morally low.", "俗豔的;卑劣的"], "taxidermy": ["The art of mounting the skins of animals.", "動物標本剝製術"], "taxonomy": ["The classification of things, especially organisms.", "分類學"], "tearful": ["Inclined to cry; accompanied by tears.", "含淚的;哭泣的"], "technology": ["Branch of knowledge dealing with engineering, applied science, etc.", "技術"], "tedious": ["Too long, slow, or dull; tiresome and repetitive.", "冗長乏味的"], "tedium": ["The state of being tedious; boredom.", "沉悶;乏味"], "teeming": ["Full of or swarming with something.", "充滿的;熙攘的"], "teetotaler": ["Someone who abstains from drinking alcoholic beverages.", "滴酒不沾者"], "temerarious": ["Recklessly bold or rash.", "魯莽的;冒失的"], "temerity": ["Foolish boldness.", "魯莽；冒失"], "temperance": ["Moderation in action or thought.", "節制；克制"], "temperate": ["Showing moderation or self-restraint; not extreme in climate.", "溫和的;有節制的"], "temporal": ["Relating to time or worldly affairs, as opposed to spiritual.", "時間的;世俗的"], "temporize": ["To delay making a decision to gain time.", "拖延;敷衍"], "tenaculum": ["A surgical instrument for grasping and holding tissue or blood vessels.", "組織鉗;止血鉗"], "tenebrous": ["Dark, shadowy, or obscure.", "幽暗的;晦澀的"], "tentative": ["Hesitant; not definite.", "試探性的"], "tenuous": ["Very weak or slight; lacking substance or strength.", "脆弱的；薄弱的"], "tequila": ["A Mexican liquor distilled from the agave plant.", "龍舌蘭酒"], "termagant": ["A harsh, overbearing woman; quarrelsome.", "潑婦;凶悍的"], "terminate": ["To end.", "終止"], "terpsichorean": ["Relating to dancing.", "與舞蹈有關的"], "terrestrial": ["Relating to the land.", "陸地的；地球的"], "terse": ["Concise, brief, compact.", "簡潔的；扼要的"], "terseness": ["The quality of being brief and to the point, sometimes to the point of curtness.", "簡潔;簡短"], "testator": ["A person who has made a legal will.", "立遺囑人"], "testimonial": ["A formal statement testifying to someone's character or qualifications.", "推薦書;證明書"], "testimony": ["A formal statement, especially one given in court.", "證詞;證言"], "testy": ["Easily irritated; impatient.", "易怒的;暴躁的"], "tete a tete": ["A private conversation between two people.", "私下交談;促膝談心"], "thanatophobia": ["An irrational fear of death.", "死亡恐懼症"], "thaumaturgy": ["The performance of miracles or magic.", "神蹟奇術;魔法"], "theatrical": ["Relating to the theater; exaggerated or dramatic.", "戲劇性的;劇場的"], "theomachy": ["A war or conflict among gods.", "諸神之戰"], "theoretical": ["Based on theory rather than practice.", "理論上的"], "theory": ["A system of ideas intended to explain something.", "理論"], "therapy": ["Healing or curing process.", "治療；療法"], "thersitical": ["Foul-mouthed and abusive, especially toward superiors.", "惡言謾罵的"], "thesis": ["A statement put forward to be argued; a long research essay.", "論點;論文"], "thespian": ["An actor; relating to drama or theater.", "演員;戲劇的"], "thin": ["Having little thickness or width; sparse.", "薄的;瘦的"], "thorough": ["Complete in every detail; careful and exhaustive.", "徹底的;周密的"], "thoroughgoing": ["Complete and comprehensive in every way.", "徹頭徹尾的;全面的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tasteless": ["Lacking good judgment about style; having no flavor.", "沒品味的；無味的"], "tatter": ["A torn or ragged piece of cloth; to become ragged.", "破布；破爛"], "tatterdemalion": ["A person in ragged clothing; ragged or disreputable in appearance.", "衣衫襤褸的人；破爛的"], "tattered": ["Old and torn; in poor condition.", "破爛的；襤褸的"], "taunt": ["To provoke or mock someone with insulting remarks.", "嘲弄；奚落"], "taut": ["On edge, keyed up, tense.", "緊繃的；緊張的"], "tawdry": ["Showy or cheap in a gaudy way; morally low.", "俗豔的；卑劣的"], "taxidermy": ["The art of mounting the skins of animals.", "動物標本剝製術"], "taxonomy": ["The classification of things, especially organisms.", "分類學"], "tearful": ["Inclined to cry; accompanied by tears.", "含淚的；哭泣的"], "technology": ["Branch of knowledge dealing with engineering, applied science, etc.", "技術"], "tedious": ["Too long, slow, or dull; tiresome and repetitive.", "冗長乏味的"], "tedium": ["The state of being tedious; boredom.", "沉悶；乏味"], "teeming": ["Full of or swarming with something.", "充滿的；熙攘的"], "teetotaler": ["Someone who abstains from drinking alcoholic beverages.", "滴酒不沾者"], "temerarious": ["Recklessly bold or rash.", "魯莽的；冒失的"], "temerity": ["Foolish boldness.", "魯莽；冒失"], "temperance": ["Moderation in action or thought.", "節制；克制"], "temperate": ["Showing moderation or self-restraint; not extreme in climate.", "溫和的；有節制的"], "temporal": ["Relating to time or worldly affairs, as opposed to spiritual.", "時間的；世俗的"], "temporize": ["To delay making a decision to gain time.", "拖延；敷衍"], "tenaculum": ["A surgical instrument for grasping and holding tissue or blood vessels.", "組織鉗；止血鉗"], "tenebrous": ["Dark, shadowy, or obscure.", "幽暗的；晦澀的"], "tentative": ["Hesitant; not definite.", "試探性的"], "tenuous": ["Very weak or slight; lacking substance or strength.", "脆弱的；薄弱的"], "tequila": ["A Mexican liquor distilled from the agave plant.", "龍舌蘭酒"], "termagant": ["A harsh, overbearing woman; quarrelsome.", "潑婦；凶悍的"], "terminate": ["To end.", "終止"], "terpsichorean": ["Relating to dancing.", "與舞蹈有關的"], "terrestrial": ["Relating to the land.", "陸地的；地球的"], "terse": ["Concise, brief, compact.", "簡潔的；扼要的"], "terseness": ["The quality of being brief and to the point, sometimes to the point of curtness.", "簡潔；簡短"], "testator": ["A person who has made a legal will.", "立遺囑人"], "testimonial": ["A formal statement testifying to someone's character or qualifications.", "推薦書；證明書"], "testimony": ["A formal statement, especially one given in court.", "證詞；證言"], "testy": ["Easily irritated; impatient.", "易怒的；暴躁的"], "tete a tete": ["A private conversation between two people.", "私下交談；促膝談心"], "thanatophobia": ["An irrational fear of death.", "死亡恐懼症"], "thaumaturgy": ["The performance of miracles or magic.", "神蹟奇術；魔法"], "theatrical": ["Relating to the theater; exaggerated or dramatic.", "戲劇性的；劇場的"], "theomachy": ["A war or conflict among gods.", "諸神之戰"], "theoretical": ["Based on theory rather than practice.", "理論上的"], "theory": ["A system of ideas intended to explain something.", "理論"], "therapy": ["Healing or curing process.", "治療；療法"], "thersitical": ["Foul-mouthed and abusive, especially toward superiors.", "惡言謾罵的"], "thesis": ["A statement put forward to be argued; a long research essay.", "論點；論文"], "thespian": ["An actor; relating to drama or theater.", "演員；戲劇的"], "thin": ["Having little thickness or width; sparse.", "薄的；瘦的"], "thorough": ["Complete in every detail; careful and exhaustive.", "徹底的；周密的"], "thoroughgoing": ["Complete and comprehensive in every way.", "徹頭徹尾的；全面的"]});

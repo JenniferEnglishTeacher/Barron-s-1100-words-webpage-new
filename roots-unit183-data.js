@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "expert",
     "pos": "n./adj.",
     "definition": "A person with comprehensive knowledge in a particular area.",
-    "chinese": "專家;熟練的",
+    "chinese": "專家；熟練的",
     "synonyms": "",
     "root": "experiri (to try), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person with comprehensive knowledge in a particular area.",
-     "chinese": "專家;熟練的"
+     "chinese": "專家；熟練的"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "eyesore",
     "pos": "n.",
     "definition": "Something unpleasant to look at, especially a building.",
-    "chinese": "礙眼的東西;醜陋建築",
+    "chinese": "礙眼的東西；醜陋建築",
     "synonyms": "",
     "root": "eye + sore, from Old English",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something unpleasant to look at, especially a building.",
-     "chinese": "礙眼的東西;醜陋建築"
+     "chinese": "礙眼的東西；醜陋建築"
     }
    },
    {
@@ -105,7 +105,7 @@ window.FLASHCARD_UNITS = {
     "word": "fabricated",
     "pos": "adj.",
     "definition": "Invented or made up in order to deceive.",
-    "chinese": "捏造的;虛構的",
+    "chinese": "捏造的；虛構的",
     "synonyms": "",
     "root": "fabricare (to make, construct), from Latin",
     "group": "",
@@ -117,7 +117,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Invented or made up in order to deceive.",
-     "chinese": "捏造的;虛構的"
+     "chinese": "捏造的；虛構的"
     }
    },
    {
@@ -143,7 +143,7 @@ window.FLASHCARD_UNITS = {
     "word": "failing",
     "pos": "n./prep.",
     "definition": "A weakness or fault; in the absence of.",
-    "chinese": "缺點;若非",
+    "chinese": "缺點；若非",
     "synonyms": "",
     "root": "fail, from Latin fallere (to deceive)",
     "group": "",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A weakness or fault; in the absence of.",
-     "chinese": "缺點;若非"
+     "chinese": "缺點；若非"
     }
    },
    {
     "word": "faineance",
     "pos": "n.",
     "definition": "Habitual laziness or idleness.",
-    "chinese": "懶散;怠惰",
+    "chinese": "懶散；怠惰",
     "synonyms": "",
     "root": "faire (to do) + neant (nothing), from French",
     "group": "",
@@ -174,14 +174,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Habitual laziness or idleness.",
-     "chinese": "懶散;怠惰"
+     "chinese": "懶散；怠惰"
     }
    },
    {
     "word": "faint",
     "pos": "adj./v.",
     "definition": "Barely perceptible; to lose consciousness briefly.",
-    "chinese": "微弱的;暈厥",
+    "chinese": "微弱的；暈厥",
     "synonyms": "",
     "root": "feindre (to feign), from Old French",
     "group": "",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Barely perceptible; to lose consciousness briefly.",
-     "chinese": "微弱的;暈厥"
+     "chinese": "微弱的；暈厥"
     }
    },
    {
     "word": "faint-heartedness",
     "pos": "n.",
     "definition": "Lack of courage or determination.",
-    "chinese": "怯懦;缺乏勇氣",
+    "chinese": "怯懦；缺乏勇氣",
     "synonyms": "",
     "root": "faint + heart, from Old French + Old English",
     "group": "",
@@ -212,14 +212,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of courage or determination.",
-     "chinese": "怯懦;缺乏勇氣"
+     "chinese": "怯懦；缺乏勇氣"
     }
    },
    {
     "word": "fainthearted",
     "pos": "adj.",
     "definition": "Lacking courage or determination.",
-    "chinese": "膽怯的;懦弱的",
+    "chinese": "膽怯的；懦弱的",
     "synonyms": "",
     "root": "faint + heart, from Old French + Old English",
     "group": "",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking courage or determination.",
-     "chinese": "膽怯的;懦弱的"
+     "chinese": "膽怯的；懦弱的"
     }
    },
    {
     "word": "fainéant",
     "pos": "adj./n.",
     "definition": "Habitually lazy or idle; an idle person.",
-    "chinese": "懶惰的;懶漢",
+    "chinese": "懶惰的；懶漢",
     "synonyms": "",
     "root": "faire (to do) + neant (nothing), from French",
     "group": "",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Habitually lazy or idle; an idle person.",
-     "chinese": "懶惰的;懶漢"
+     "chinese": "懶惰的；懶漢"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "faithless",
     "pos": "adj.",
     "definition": "Disloyal or not trustworthy.",
-    "chinese": "不忠的;不可靠的",
+    "chinese": "不忠的；不可靠的",
     "synonyms": "",
     "root": "fides (faith, trust), from Latin",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Disloyal or not trustworthy.",
-     "chinese": "不忠的;不可靠的"
+     "chinese": "不忠的；不可靠的"
     }
    },
    {
     "word": "falcate",
     "pos": "adj.",
     "definition": "Curved like a sickle.",
-    "chinese": "鐮刀狀的;彎曲的",
+    "chinese": "鐮刀狀的；彎曲的",
     "synonyms": "",
     "root": "falx (sickle), from Latin",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Curved like a sickle.",
-     "chinese": "鐮刀狀的;彎曲的"
+     "chinese": "鐮刀狀的；彎曲的"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "fallacy",
     "pos": "n.",
     "definition": "A mistaken belief based on unsound reasoning.",
-    "chinese": "謬誤;謬論",
+    "chinese": "謬誤；謬論",
     "synonyms": "",
     "root": "fallere (to deceive), from Latin",
     "group": "",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A mistaken belief based on unsound reasoning.",
-     "chinese": "謬誤;謬論"
+     "chinese": "謬誤；謬論"
     }
    },
    {
     "word": "fallible",
     "pos": "adj.",
     "definition": "Capable of making mistakes.",
-    "chinese": "會犯錯的;有缺陷的",
+    "chinese": "會犯錯的；有缺陷的",
     "synonyms": "",
     "root": "fallere (to deceive), from Latin",
     "group": "",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of making mistakes.",
-     "chinese": "會犯錯的;有缺陷的"
+     "chinese": "會犯錯的；有缺陷的"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "famous",
     "pos": "adj.",
     "definition": "Known about by many people.",
-    "chinese": "著名的;有名的",
+    "chinese": "著名的；有名的",
     "synonyms": "",
     "root": "fama (rumor, reputation), from Latin",
     "group": "",
@@ -423,14 +423,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Known about by many people.",
-     "chinese": "著名的;有名的"
+     "chinese": "著名的；有名的"
     }
    },
    {
     "word": "fan",
     "pos": "n./v.",
     "definition": "An enthusiastic admirer; a device that creates air movement.",
-    "chinese": "粉絲;風扇;煽動",
+    "chinese": "粉絲；風扇；煽動",
     "synonyms": "",
     "root": "fanaticus (fanatic), from Latin, or vannus (winnowing fan)",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An enthusiastic admirer; a device that creates air movement.",
-     "chinese": "粉絲;風扇;煽動"
+     "chinese": "粉絲；風扇；煽動"
     }
    },
    {
@@ -468,7 +468,7 @@ window.FLASHCARD_UNITS = {
     "word": "fanciful",
     "pos": "adj.",
     "definition": "Imaginative or unrealistic in a whimsical way.",
-    "chinese": "異想天開的;幻想的",
+    "chinese": "異想天開的；幻想的",
     "synonyms": "",
     "root": "fancy, from fantasy, from Greek phantasia",
     "group": "",
@@ -480,14 +480,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Imaginative or unrealistic in a whimsical way.",
-     "chinese": "異想天開的;幻想的"
+     "chinese": "異想天開的；幻想的"
     }
    },
    {
     "word": "fanfare",
     "pos": "n.",
     "definition": "A short ceremonial tune, typically played on brass instruments; a showy display.",
-    "chinese": "號角聲;盛大場面",
+    "chinese": "號角聲；盛大場面",
     "synonyms": "",
     "root": "fanfare (flourish of trumpets), from French",
     "group": "",
@@ -499,14 +499,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A short ceremonial tune, typically played on brass instruments; a showy display.",
-     "chinese": "號角聲;盛大場面"
+     "chinese": "號角聲；盛大場面"
     }
    },
    {
     "word": "fanfaronade",
     "pos": "n.",
     "definition": "Excessive boasting or bragging.",
-    "chinese": "誇大其詞;吹噓",
+    "chinese": "誇大其詞；吹噓",
     "synonyms": "",
     "root": "fanfarron (boaster), from Spanish",
     "group": "",
@@ -518,14 +518,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive boasting or bragging.",
-     "chinese": "誇大其詞;吹噓"
+     "chinese": "誇大其詞；吹噓"
     }
    },
    {
     "word": "farce",
     "pos": "n.",
     "definition": "A comic dramatic work using improbable situations; a ridiculous situation.",
-    "chinese": "鬧劇;荒謬之事",
+    "chinese": "鬧劇；荒謬之事",
     "synonyms": "",
     "root": "farcir (to stuff), from Old French",
     "group": "",
@@ -537,14 +537,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A comic dramatic work using improbable situations; a ridiculous situation.",
-     "chinese": "鬧劇;荒謬之事"
+     "chinese": "鬧劇；荒謬之事"
     }
    },
    {
     "word": "farceur",
     "pos": "n.",
     "definition": "A person who acts in or writes farces; a joker.",
-    "chinese": "鬧劇演員;愛開玩笑的人",
+    "chinese": "鬧劇演員；愛開玩笑的人",
     "synonyms": "",
     "root": "farcir (to stuff), from Old French",
     "group": "",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who acts in or writes farces; a joker.",
-     "chinese": "鬧劇演員;愛開玩笑的人"
+     "chinese": "鬧劇演員；愛開玩笑的人"
     }
    },
    {
     "word": "farcical",
     "pos": "adj.",
     "definition": "Relating to broad comedy; absurd.",
-    "chinese": "鬧劇般的;荒謬的",
+    "chinese": "鬧劇般的；荒謬的",
     "synonyms": "",
     "root": "farcir (to stuff), from Old French",
     "group": "",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to broad comedy; absurd.",
-     "chinese": "鬧劇般的;荒謬的"
+     "chinese": "鬧劇般的；荒謬的"
     }
    },
    {
@@ -601,7 +601,7 @@ window.FLASHCARD_UNITS = {
     "word": "farrago",
     "pos": "n.",
     "definition": "A confused mixture of things.",
-    "chinese": "大雜燴;混雜物",
+    "chinese": "大雜燴；混雜物",
     "synonyms": "",
     "root": "farrago (mixed fodder), from Latin",
     "group": "",
@@ -613,7 +613,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confused mixture of things.",
-     "chinese": "大雜燴;混雜物"
+     "chinese": "大雜燴；混雜物"
     }
    },
    {
@@ -639,7 +639,7 @@ window.FLASHCARD_UNITS = {
     "word": "fashionable",
     "pos": "adj.",
     "definition": "Conforming to current trends in style.",
-    "chinese": "時髦的;流行的",
+    "chinese": "時髦的；流行的",
     "synonyms": "",
     "root": "fashion, from Latin factio (making, faction)",
     "group": "",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conforming to current trends in style.",
-     "chinese": "時髦的;流行的"
+     "chinese": "時髦的；流行的"
     }
    },
    {
     "word": "fashionista",
     "pos": "n.",
     "definition": "A designer or follower of high fashion.",
-    "chinese": "時尚達人;時尚愛好者",
+    "chinese": "時尚達人；時尚愛好者",
     "synonyms": "",
     "root": "fashion + -ista, from Latin factio + Spanish suffix",
     "group": "",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A designer or follower of high fashion.",
-     "chinese": "時尚達人;時尚愛好者"
+     "chinese": "時尚達人；時尚愛好者"
     }
    },
    {
@@ -793,7 +793,7 @@ window.FLASHCARD_UNITS = {
     "word": "fatuity",
     "pos": "n.",
     "definition": "Complacent stupidity; foolishness.",
-    "chinese": "愚蠢;自滿的蠢話",
+    "chinese": "愚蠢；自滿的蠢話",
     "synonyms": "",
     "root": "fatuus (foolish), from Latin",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complacent stupidity; foolishness.",
-     "chinese": "愚蠢;自滿的蠢話"
+     "chinese": "愚蠢；自滿的蠢話"
     }
    },
    {
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "word": "fawn",
     "pos": "v./n.",
     "definition": "To display exaggerated flattery; a young deer.",
-    "chinese": "諂媚;小鹿",
+    "chinese": "諂媚；小鹿",
     "synonyms": "",
     "root": "fægnian (to rejoice), from Old English",
     "group": "",
@@ -881,7 +881,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To display exaggerated flattery; a young deer.",
-     "chinese": "諂媚;小鹿"
+     "chinese": "諂媚；小鹿"
     }
    },
    {
@@ -926,7 +926,7 @@ window.FLASHCARD_UNITS = {
     "word": "febrile",
     "pos": "adj.",
     "definition": "Having a fever; feverish and excited.",
-    "chinese": "發熱的;興奮不安的",
+    "chinese": "發熱的；興奮不安的",
     "synonyms": "",
     "root": "febris (fever), from Latin",
     "group": "",
@@ -938,7 +938,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a fever; feverish and excited.",
-     "chinese": "發熱的;興奮不安的"
+     "chinese": "發熱的；興奮不安的"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"expert": ["A person with comprehensive knowledge in a particular area.", "專家;熟練的"], "extremist": ["A person who holds extreme political or religious views.", "極端主義者"], "eyesore": ["Something unpleasant to look at, especially a building.", "礙眼的東西;醜陋建築"], "fabricate": ["To lie, concoct.", "捏造；偽造"], "fabricated": ["Invented or made up in order to deceive.", "捏造的;虛構的"], "fahrenheit": ["A temperature scale on which water freezes at 32 degrees.", "華氏(溫標)"], "failing": ["A weakness or fault; in the absence of.", "缺點;若非"], "faineance": ["Habitual laziness or idleness.", "懶散;怠惰"], "faint": ["Barely perceptible; to lose consciousness briefly.", "微弱的;暈厥"], "faint-heartedness": ["Lack of courage or determination.", "怯懦;缺乏勇氣"], "fainthearted": ["Lacking courage or determination.", "膽怯的;懦弱的"], "fainéant": ["Habitually lazy or idle; an idle person.", "懶惰的;懶漢"], "faithful": ["Loyal and constant in affection or duty.", "忠誠的"], "faithless": ["Disloyal or not trustworthy.", "不忠的;不可靠的"], "falcate": ["Curved like a sickle.", "鐮刀狀的;彎曲的"], "fallacious": ["Misleading.", "謬誤的；欺騙性的"], "fallacy": ["A mistaken belief based on unsound reasoning.", "謬誤;謬論"], "fallible": ["Capable of making mistakes.", "會犯錯的;有缺陷的"], "falter": ["To hesitate, waver, stumble.", "蹣跚；動搖"], "famished": ["Extremely hungry.", "極度飢餓的"], "famous": ["Known about by many people.", "著名的;有名的"], "fan": ["An enthusiastic admirer; a device that creates air movement.", "粉絲;風扇;煽動"], "fanatical": ["Full of great enthusiasm or devotion.", "狂熱的"], "fanciful": ["Imaginative or unrealistic in a whimsical way.", "異想天開的;幻想的"], "fanfare": ["A short ceremonial tune, typically played on brass instruments; a showy display.", "號角聲;盛大場面"], "fanfaronade": ["Excessive boasting or bragging.", "誇大其詞;吹噓"], "farce": ["A comic dramatic work using improbable situations; a ridiculous situation.", "鬧劇;荒謬之事"], "farceur": ["A person who acts in or writes farces; a joker.", "鬧劇演員;愛開玩笑的人"], "farcical": ["Relating to broad comedy; absurd.", "鬧劇般的;荒謬的"], "farraginous": ["Consisting of a confused mixture of things.", "雜亂混合的"], "farrago": ["A confused mixture of things.", "大雜燴;混雜物"], "farther": ["At or to a greater distance.", "更遠的"], "fashionable": ["Conforming to current trends in style.", "時髦的;流行的"], "fashionista": ["A designer or follower of high fashion.", "時尚達人;時尚愛好者"], "fastidious": ["Particular, choosy.", "挑剔的；苛求的"], "fatal": ["Deadly, disastrous.", "致命的；毀滅性的"], "fate": ["The development of events beyond a person's control; destiny.", "命運"], "fathom": ["To understand or comprehend something deeply.", "理解；領悟"], "fatigue": ["Temporary loss of strength and energy from hard work.", "疲勞；疲憊"], "fatigued": ["Extremely tired.", "疲憊的"], "fatuity": ["Complacent stupidity; foolishness.", "愚蠢;自滿的蠢話"], "fatuous": ["Foolish, silly, inane.", "愚蠢的；昏庸的"], "faultfinding": ["The act of criticizing petty errors; overly critical.", "吹毛求疵"], "favorable": ["Showing approval or support; likely to lead to success or good results.", "有利的；贊同的"], "fawn": ["To display exaggerated flattery; a young deer.", "諂媚;小鹿"], "fawning": ["Gaining favor by acting overly kind or by flattery.", "阿諛奉承的"], "febrifuge": ["A medicine used to reduce fever.", "退燒藥"], "febrile": ["Having a fever; feverish and excited.", "發熱的;興奮不安的"], "feces": ["Solid waste matter discharged from the bowels.", "糞便"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"expert": ["A person with comprehensive knowledge in a particular area.", "專家；熟練的"], "extremist": ["A person who holds extreme political or religious views.", "極端主義者"], "eyesore": ["Something unpleasant to look at, especially a building.", "礙眼的東西；醜陋建築"], "fabricate": ["To lie, concoct.", "捏造；偽造"], "fabricated": ["Invented or made up in order to deceive.", "捏造的；虛構的"], "fahrenheit": ["A temperature scale on which water freezes at 32 degrees.", "華氏(溫標)"], "failing": ["A weakness or fault; in the absence of.", "缺點；若非"], "faineance": ["Habitual laziness or idleness.", "懶散；怠惰"], "faint": ["Barely perceptible; to lose consciousness briefly.", "微弱的；暈厥"], "faint-heartedness": ["Lack of courage or determination.", "怯懦；缺乏勇氣"], "fainthearted": ["Lacking courage or determination.", "膽怯的；懦弱的"], "fainéant": ["Habitually lazy or idle; an idle person.", "懶惰的；懶漢"], "faithful": ["Loyal and constant in affection or duty.", "忠誠的"], "faithless": ["Disloyal or not trustworthy.", "不忠的；不可靠的"], "falcate": ["Curved like a sickle.", "鐮刀狀的；彎曲的"], "fallacious": ["Misleading.", "謬誤的；欺騙性的"], "fallacy": ["A mistaken belief based on unsound reasoning.", "謬誤；謬論"], "fallible": ["Capable of making mistakes.", "會犯錯的；有缺陷的"], "falter": ["To hesitate, waver, stumble.", "蹣跚；動搖"], "famished": ["Extremely hungry.", "極度飢餓的"], "famous": ["Known about by many people.", "著名的；有名的"], "fan": ["An enthusiastic admirer; a device that creates air movement.", "粉絲；風扇；煽動"], "fanatical": ["Full of great enthusiasm or devotion.", "狂熱的"], "fanciful": ["Imaginative or unrealistic in a whimsical way.", "異想天開的；幻想的"], "fanfare": ["A short ceremonial tune, typically played on brass instruments; a showy display.", "號角聲；盛大場面"], "fanfaronade": ["Excessive boasting or bragging.", "誇大其詞；吹噓"], "farce": ["A comic dramatic work using improbable situations; a ridiculous situation.", "鬧劇；荒謬之事"], "farceur": ["A person who acts in or writes farces; a joker.", "鬧劇演員；愛開玩笑的人"], "farcical": ["Relating to broad comedy; absurd.", "鬧劇般的；荒謬的"], "farraginous": ["Consisting of a confused mixture of things.", "雜亂混合的"], "farrago": ["A confused mixture of things.", "大雜燴；混雜物"], "farther": ["At or to a greater distance.", "更遠的"], "fashionable": ["Conforming to current trends in style.", "時髦的；流行的"], "fashionista": ["A designer or follower of high fashion.", "時尚達人；時尚愛好者"], "fastidious": ["Particular, choosy.", "挑剔的；苛求的"], "fatal": ["Deadly, disastrous.", "致命的；毀滅性的"], "fate": ["The development of events beyond a person's control; destiny.", "命運"], "fathom": ["To understand or comprehend something deeply.", "理解；領悟"], "fatigue": ["Temporary loss of strength and energy from hard work.", "疲勞；疲憊"], "fatigued": ["Extremely tired.", "疲憊的"], "fatuity": ["Complacent stupidity; foolishness.", "愚蠢；自滿的蠢話"], "fatuous": ["Foolish, silly, inane.", "愚蠢的；昏庸的"], "faultfinding": ["The act of criticizing petty errors; overly critical.", "吹毛求疵"], "favorable": ["Showing approval or support; likely to lead to success or good results.", "有利的；贊同的"], "fawn": ["To display exaggerated flattery; a young deer.", "諂媚；小鹿"], "fawning": ["Gaining favor by acting overly kind or by flattery.", "阿諛奉承的"], "febrifuge": ["A medicine used to reduce fever.", "退燒藥"], "febrile": ["Having a fever; feverish and excited.", "發熱的；興奮不安的"], "feces": ["Solid waste matter discharged from the bowels.", "糞便"]});

@@ -67,7 +67,7 @@ window.FLASHCARD_UNITS = {
     "word": "envy",
     "pos": "n./v.",
     "definition": "A feeling of discontent aroused by another's possessions or qualities.",
-    "chinese": "嫉妒;羨慕",
+    "chinese": "嫉妒；羨慕",
     "synonyms": "",
     "root": "in- (upon) + videre (to see), from Latin",
     "group": "view；vis = 看",
@@ -79,7 +79,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of discontent aroused by another's possessions or qualities.",
-     "chinese": "嫉妒;羨慕"
+     "chinese": "嫉妒；羨慕"
     }
    },
    {
@@ -105,7 +105,7 @@ window.FLASHCARD_UNITS = {
     "word": "evident",
     "pos": "adj.",
     "definition": "Clearly seen or understood; obvious.",
-    "chinese": "明顯的;顯而易見的",
+    "chinese": "明顯的；顯而易見的",
     "synonyms": "",
     "root": "e- (out) + videre (to see), from Latin",
     "group": "view；vis = 看",
@@ -117,14 +117,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearly seen or understood; obvious.",
-     "chinese": "明顯的;顯而易見的"
+     "chinese": "明顯的；顯而易見的"
     }
    },
    {
     "word": "eviscerate",
     "pos": "v.",
     "definition": "To disembowel; to remove the essential content from something.",
-    "chinese": "取出內臟;使空洞化",
+    "chinese": "取出內臟；使空洞化",
     "synonyms": "",
     "root": "e- (out) + viscera (internal organs), from Latin",
     "group": "view；vis = 看",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To disembowel; to remove the essential content from something.",
-     "chinese": "取出內臟;使空洞化"
+     "chinese": "取出內臟；使空洞化"
     }
    },
    {
     "word": "invisible",
     "pos": "adj.",
     "definition": "Unable to be seen.",
-    "chinese": "隱形的;看不見的",
+    "chinese": "隱形的；看不見的",
     "synonyms": "",
     "root": "in- (not) + videre (to see), from Latin",
     "group": "view；vis = 看",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be seen.",
-     "chinese": "隱形的;看不見的"
+     "chinese": "隱形的；看不見的"
     }
    },
    {
     "word": "provide",
     "pos": "v.",
     "definition": "To supply or make available something needed.",
-    "chinese": "提供;供給",
+    "chinese": "提供；供給",
     "synonyms": "",
     "root": "providere (to foresee, provide), from Latin pro- (before) + videre (to see)",
     "group": "view；vis = 看",
@@ -174,14 +174,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To supply or make available something needed.",
-     "chinese": "提供;供給"
+     "chinese": "提供；供給"
     }
    },
    {
     "word": "provident",
     "pos": "adj.",
     "definition": "Making prudent provision for the future.",
-    "chinese": "有遠見的;節儉的",
+    "chinese": "有遠見的；節儉的",
     "synonyms": "",
     "root": "providere (to foresee, provide), from Latin pro- (before) + videre (to see)",
     "group": "view；vis = 看",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making prudent provision for the future.",
-     "chinese": "有遠見的;節儉的"
+     "chinese": "有遠見的；節儉的"
     }
    },
    {
     "word": "revise",
     "pos": "v.",
     "definition": "To reconsider and alter something in light of new information.",
-    "chinese": "修訂;修改",
+    "chinese": "修訂；修改",
     "synonyms": "",
     "root": "revisere (to look at again), from Latin re- (again) + visere (to view)",
     "group": "view；vis = 看",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To reconsider and alter something in light of new information.",
-     "chinese": "修訂;修改"
+     "chinese": "修訂；修改"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "visceral",
     "pos": "adj.",
     "definition": "Relating to deep, instinctive feelings rather than reason.",
-    "chinese": "本能的;發自內心的",
+    "chinese": "本能的；發自內心的",
     "synonyms": "",
     "root": "viscera (internal organs), from Latin",
     "group": "view；vis = 看",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to deep, instinctive feelings rather than reason.",
-     "chinese": "本能的;發自內心的"
+     "chinese": "本能的；發自內心的"
     }
    },
    {
     "word": "viscid",
     "pos": "adj.",
     "definition": "Having a thick, sticky consistency.",
-    "chinese": "黏稠的;黏性的",
+    "chinese": "黏稠的；黏性的",
     "synonyms": "",
     "root": "viscidus, from Latin viscum (birdlime, mistletoe)",
     "group": "view；vis = 看",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a thick, sticky consistency.",
-     "chinese": "黏稠的;黏性的"
+     "chinese": "黏稠的；黏性的"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "visionary",
     "pos": "n./adj.",
     "definition": "A person with original and creative ideas about the future.",
-    "chinese": "有遠見的人;有遠見的",
+    "chinese": "有遠見的人；有遠見的",
     "synonyms": "",
     "root": "vision, from Latin videre (to see) + -ary",
     "group": "view；vis = 看",
@@ -326,7 +326,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person with original and creative ideas about the future.",
-     "chinese": "有遠見的人;有遠見的"
+     "chinese": "有遠見的人；有遠見的"
     }
    }
   ],
@@ -743,4 +743,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"advise": ["To recommend or give guidance.", "建議；勸告"], "clairvoyant": ["Able to perceive things that normal people cannot.", "有透視力的；有洞察力的"], "devise": ["To come up with (a plan).", "設計；想出"], "envy": ["A feeling of discontent aroused by another's possessions or qualities.", "嫉妒;羨慕"], "evidence": ["Information that supports a conclusion.", "證據"], "evident": ["Clearly seen or understood; obvious.", "明顯的;顯而易見的"], "eviscerate": ["To disembowel; to remove the essential content from something.", "取出內臟;使空洞化"], "invisible": ["Unable to be seen.", "隱形的;看不見的"], "provide": ["To supply or make available something needed.", "提供;供給"], "provident": ["Making prudent provision for the future.", "有遠見的;節儉的"], "revise": ["To reconsider and alter something in light of new information.", "修訂;修改"], "visa": ["An official document permitting entry into a foreign country.", "簽證"], "viscera": ["The internal organs of the body, especially those in the abdomen.", "內臟"], "visceral": ["Relating to deep, instinctive feelings rather than reason.", "本能的;發自內心的"], "viscid": ["Having a thick, sticky consistency.", "黏稠的;黏性的"], "viscous": ["Not free flowing, syrupy.", "黏稠的"], "visionary": ["A person with original and creative ideas about the future.", "有遠見的人;有遠見的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"advise": ["To recommend or give guidance.", "建議；勸告"], "clairvoyant": ["Able to perceive things that normal people cannot.", "有透視力的；有洞察力的"], "devise": ["To come up with (a plan).", "設計；想出"], "envy": ["A feeling of discontent aroused by another's possessions or qualities.", "嫉妒；羨慕"], "evidence": ["Information that supports a conclusion.", "證據"], "evident": ["Clearly seen or understood; obvious.", "明顯的；顯而易見的"], "eviscerate": ["To disembowel; to remove the essential content from something.", "取出內臟；使空洞化"], "invisible": ["Unable to be seen.", "隱形的；看不見的"], "provide": ["To supply or make available something needed.", "提供；供給"], "provident": ["Making prudent provision for the future.", "有遠見的；節儉的"], "revise": ["To reconsider and alter something in light of new information.", "修訂；修改"], "visa": ["An official document permitting entry into a foreign country.", "簽證"], "viscera": ["The internal organs of the body, especially those in the abdomen.", "內臟"], "visceral": ["Relating to deep, instinctive feelings rather than reason.", "本能的；發自內心的"], "viscid": ["Having a thick, sticky consistency.", "黏稠的；黏性的"], "viscous": ["Not free flowing, syrupy.", "黏稠的"], "visionary": ["A person with original and creative ideas about the future.", "有遠見的人；有遠見的"]});

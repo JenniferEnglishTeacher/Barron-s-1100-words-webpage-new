@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "matter-of-fact",
     "pos": "adj.",
     "definition": "Unemotional and practical.",
-    "chinese": "就事論事的;實事求是的",
+    "chinese": "就事論事的；實事求是的",
     "synonyms": "",
     "root": "matter + of + fact, from English idiom",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unemotional and practical.",
-     "chinese": "就事論事的;實事求是的"
+     "chinese": "就事論事的；實事求是的"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "parturifacient",
     "pos": "adj./n.",
     "definition": "Inducing or hastening childbirth.",
-    "chinese": "催生的;催生藥物",
+    "chinese": "催生的；催生藥物",
     "synonyms": "",
     "root": "parturire (to be in labor) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Inducing or hastening childbirth.",
-     "chinese": "催生的;催生藥物"
+     "chinese": "催生的；催生藥物"
     }
    },
    {
     "word": "perfect",
     "pos": "adj./v.",
     "definition": "Having all the required or desirable elements; to improve until faultless.",
-    "chinese": "完美的;使完善",
+    "chinese": "完美的；使完善",
     "synonyms": "",
     "root": "perficere (to complete), from Latin per- (thoroughly) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having all the required or desirable elements; to improve until faultless.",
-     "chinese": "完美的;使完善"
+     "chinese": "完美的；使完善"
     }
    },
    {
     "word": "petrifaction",
     "pos": "n.",
     "definition": "The process of turning organic matter into stone; a state of shock.",
-    "chinese": "石化作用;驚呆",
+    "chinese": "石化作用；驚呆",
     "synonyms": "",
     "root": "petra (rock) + facere (to make), from Greek and Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of turning organic matter into stone; a state of shock.",
-     "chinese": "石化作用;驚呆"
+     "chinese": "石化作用；驚呆"
     }
    },
    {
     "word": "petrify",
     "pos": "v.",
     "definition": "To turn into stone; to terrify someone into immobility.",
-    "chinese": "使石化;使驚呆",
+    "chinese": "使石化；使驚呆",
     "synonyms": "",
     "root": "petra (rock) + facere (to make), from Greek and Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -307,14 +307,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To turn into stone; to terrify someone into immobility.",
-     "chinese": "使石化;使驚呆"
+     "chinese": "使石化；使驚呆"
     }
    },
    {
     "word": "pontiff",
     "pos": "n.",
     "definition": "The pope; a high priest, especially in ancient Rome.",
-    "chinese": "教宗;大祭司",
+    "chinese": "教宗；大祭司",
     "synonyms": "",
     "root": "pontifex (high priest, bridge-builder), from Latin pons (bridge) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -326,7 +326,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The pope; a high priest, especially in ancient Rome.",
-     "chinese": "教宗;大祭司"
+     "chinese": "教宗；大祭司"
     }
    },
    {
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
     "word": "proficient",
     "pos": "adj.",
     "definition": "Competent or skilled in doing something.",
-    "chinese": "精通的;熟練的",
+    "chinese": "精通的；熟練的",
     "synonyms": "",
     "root": "proficere (to make progress), from Latin pro- (forward) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Competent or skilled in doing something.",
-     "chinese": "精通的;熟練的"
+     "chinese": "精通的；熟練的"
     }
    },
    {
@@ -409,7 +409,7 @@ window.FLASHCARD_UNITS = {
     "word": "putrefaction",
     "pos": "n.",
     "definition": "The process of organic matter decaying and rotting.",
-    "chinese": "腐爛;腐化",
+    "chinese": "腐爛；腐化",
     "synonyms": "",
     "root": "putrefacere (to make rotten), from Latin putris (rotten) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of organic matter decaying and rotting.",
-     "chinese": "腐爛;腐化"
+     "chinese": "腐爛；腐化"
     }
    },
    {
     "word": "putrefy",
     "pos": "v.",
     "definition": "To decay and rot, producing a foul smell.",
-    "chinese": "腐爛;腐化",
+    "chinese": "腐爛；腐化",
     "synonyms": "",
     "root": "putrefacere (to make rotten), from Latin putris (rotten) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -440,14 +440,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To decay and rot, producing a foul smell.",
-     "chinese": "腐爛;腐化"
+     "chinese": "腐爛；腐化"
     }
    },
    {
     "word": "rarefaction",
     "pos": "n.",
     "definition": "The process of making something less dense; a reduction in density.",
-    "chinese": "稀薄化;稀化",
+    "chinese": "稀薄化；稀化",
     "synonyms": "",
     "root": "rarefacere (to make thin), from Latin rarus (rare, thin) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of making something less dense; a reduction in density.",
-     "chinese": "稀薄化;稀化"
+     "chinese": "稀薄化；稀化"
     }
    },
    {
     "word": "rarefied",
     "pos": "adj.",
     "definition": "Existing in a rare or exclusive atmosphere; of very high standards, understood by few.",
-    "chinese": "稀薄的;高深莫測的",
+    "chinese": "稀薄的；高深莫測的",
     "synonyms": "",
     "root": "rarefacere (to make thin), from Latin rarus (rare, thin) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing in a rare or exclusive atmosphere; of very high standards, understood by few.",
-     "chinese": "稀薄的;高深莫測的"
+     "chinese": "稀薄的；高深莫測的"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "rectification",
     "pos": "n.",
     "definition": "The act of correcting or setting something right.",
-    "chinese": "改正;修正",
+    "chinese": "改正；修正",
     "synonyms": "",
     "root": "rectus (straight, correct) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of correcting or setting something right.",
-     "chinese": "改正;修正"
+     "chinese": "改正；修正"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "revivifying",
     "pos": "adj.",
     "definition": "Giving new life or vigor to something.",
-    "chinese": "使復甦的;恢復生機的",
+    "chinese": "使復甦的；恢復生機的",
     "synonyms": "",
     "root": "re- (again) + vivificare (to make alive), from Latin vivus (living) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving new life or vigor to something.",
-     "chinese": "使復甦的;恢復生機的"
+     "chinese": "使復甦的；恢復生機的"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "sacrifice",
     "pos": "n./v.",
     "definition": "The act of giving up something valued for a higher purpose.",
-    "chinese": "犧牲;獻祭",
+    "chinese": "犧牲；獻祭",
     "synonyms": "",
     "root": "sacrificium (a making sacred), from Latin sacer (sacred) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -594,14 +594,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The act of giving up something valued for a higher purpose.",
-     "chinese": "犧牲;獻祭"
+     "chinese": "犧牲；獻祭"
     }
    },
    {
     "word": "sanctified",
     "pos": "adj.",
     "definition": "Made holy or sacred.",
-    "chinese": "神聖化的;被祝聖的",
+    "chinese": "神聖化的；被祝聖的",
     "synonyms": "",
     "root": "sanctificare (to make holy), from Latin sanctus (holy) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Made holy or sacred.",
-     "chinese": "神聖化的;被祝聖的"
+     "chinese": "神聖化的；被祝聖的"
     }
    },
    {
     "word": "sanctify",
     "pos": "v.",
     "definition": "To make something holy or set apart for sacred use.",
-    "chinese": "使神聖化;聖化",
+    "chinese": "使神聖化；聖化",
     "synonyms": "",
     "root": "sanctificare (to make holy), from Latin sanctus (holy) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something holy or set apart for sacred use.",
-     "chinese": "使神聖化;聖化"
+     "chinese": "使神聖化；聖化"
     }
    },
    {
     "word": "satisfy",
     "pos": "v.",
     "definition": "To meet the expectations or needs of someone.",
-    "chinese": "使滿意;滿足",
+    "chinese": "使滿意；滿足",
     "synonyms": "",
     "root": "satisfacere (to do enough), from Latin satis (enough) + facere (to do)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To meet the expectations or needs of someone.",
-     "chinese": "使滿意;滿足"
+     "chinese": "使滿意；滿足"
     }
    },
    {
@@ -696,7 +696,7 @@ window.FLASHCARD_UNITS = {
     "word": "specify",
     "pos": "v.",
     "definition": "To state something clearly and precisely.",
-    "chinese": "明確指定;詳細說明",
+    "chinese": "明確指定；詳細說明",
     "synonyms": "",
     "root": "species (kind) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To state something clearly and precisely.",
-     "chinese": "明確指定;詳細說明"
+     "chinese": "明確指定；詳細說明"
     }
    },
    {
@@ -774,7 +774,7 @@ window.FLASHCARD_UNITS = {
     "word": "tenebrific",
     "pos": "adj.",
     "definition": "Causing or producing darkness or gloom.",
-    "chinese": "產生黑暗的;陰森的",
+    "chinese": "產生黑暗的；陰森的",
     "synonyms": "",
     "root": "tenebrae (darkness) + facere (to make), from Latin",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing or producing darkness or gloom.",
-     "chinese": "產生黑暗的;陰森的"
+     "chinese": "產生黑暗的；陰森的"
     }
    },
    {
     "word": "testify",
     "pos": "v.",
     "definition": "To give evidence as a witness, especially in court.",
-    "chinese": "作證;證明",
+    "chinese": "作證；證明",
     "synonyms": "",
     "root": "testificari, from Latin testis (witness) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -805,14 +805,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give evidence as a witness, especially in court.",
-     "chinese": "作證;證明"
+     "chinese": "作證；證明"
     }
    },
    {
     "word": "verify",
     "pos": "v.",
     "definition": "To confirm the truth or accuracy of something.",
-    "chinese": "核實;驗證",
+    "chinese": "核實；驗證",
     "synonyms": "",
     "root": "verificare, from Latin verus (true) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -824,14 +824,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To confirm the truth or accuracy of something.",
-     "chinese": "核實;驗證"
+     "chinese": "核實；驗證"
     }
    },
    {
     "word": "vilification",
     "pos": "n.",
     "definition": "The act of speaking or writing about someone in an abusive way.",
-    "chinese": "詆毀;誹謗",
+    "chinese": "詆毀；誹謗",
     "synonyms": "",
     "root": "vilificare, from Latin vilis (cheap, base) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of speaking or writing about someone in an abusive way.",
-     "chinese": "詆毀;誹謗"
+     "chinese": "詆毀；誹謗"
     }
    },
    {
     "word": "vivify",
     "pos": "v.",
     "definition": "To give life or vigor to; to animate.",
-    "chinese": "賦予生命;使生動",
+    "chinese": "賦予生命；使生動",
     "synonyms": "",
     "root": "vivificare, from Latin vivus (alive) + facere (to make)",
     "group": "fac(t)；fec(t)；fic(t) = 做",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give life or vigor to; to animate.",
-     "chinese": "賦予生命;使生動"
+     "chinese": "賦予生命；使生動"
     }
    }
   ],
@@ -1951,4 +1951,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"matter-of-fact": ["Unemotional and practical.", "就事論事的;實事求是的"], "modify": ["To change.", "修改；修飾"], "mollify": ["To appease, pacify.", "撫慰；平息"], "mortify": ["To embarrass, humiliate.", "使屈辱；使窘迫"], "multifaceted": ["Having many aspects or features.", "多方面的；多層面的"], "munificence": ["Generosity in giving.", "慷慨；大方"], "munificent": ["Generous.", "慷慨的；豐厚的"], "nullify": ["To cancel, abolish.", "使無效；取消"], "olfaction": ["The sense of smell; the process of smelling.", "嗅覺"], "olfactory": ["Relating to the sense of smell.", "嗅覺的"], "pacific": ["Soothing.", "平和的；安撫性的"], "pacify": ["To calm; to make peaceful; to restore to a tranquil state.", "使平靜"], "parturifacient": ["Inducing or hastening childbirth.", "催生的;催生藥物"], "perfect": ["Having all the required or desirable elements; to improve until faultless.", "完美的;使完善"], "petrifaction": ["The process of turning organic matter into stone; a state of shock.", "石化作用;驚呆"], "petrify": ["To turn into stone; to terrify someone into immobility.", "使石化;使驚呆"], "pontiff": ["The pope; a high priest, especially in ancient Rome.", "教宗;大祭司"], "pontificate": ["To express opinions in a pompous or dogmatic way.", "自以為是地發表意見"], "pontification": ["The act of expressing opinions in a pompous or dogmatic manner.", "自以為是的高談闊論"], "proficient": ["Competent or skilled in doing something.", "精通的;熟練的"], "prolific": ["Producing abundantly.", "多產的；多產作家的"], "putrefaction": ["The process of organic matter decaying and rotting.", "腐爛;腐化"], "putrefy": ["To decay and rot, producing a foul smell.", "腐爛;腐化"], "rarefaction": ["The process of making something less dense; a reduction in density.", "稀薄化;稀化"], "rarefied": ["Existing in a rare or exclusive atmosphere; of very high standards, understood by few.", "稀薄的;高深莫測的"], "rarefy": ["To make something less dense or thinner, especially a gas.", "使稀薄"], "rectification": ["The act of correcting or setting something right.", "改正;修正"], "rectify": ["To correct or fix something.", "糾正；矯正"], "revivifying": ["Giving new life or vigor to something.", "使復甦的;恢復生機的"], "rubify": ["To make something red or reddish.", "使變紅"], "sacrifice": ["The act of giving up something valued for a higher purpose.", "犧牲;獻祭"], "sanctified": ["Made holy or sacred.", "神聖化的;被祝聖的"], "sanctify": ["To make something holy or set apart for sacred use.", "使神聖化;聖化"], "satisfy": ["To meet the expectations or needs of someone.", "使滿意;滿足"], "simplify": ["To make something easier to understand or do.", "簡化"], "soporific": ["Sleep-inducing; sleepy.", "催眠的"], "specify": ["To state something clearly and precisely.", "明確指定;詳細說明"], "stupefy": ["To astonish, make insensible.", "使目瞪口呆；使麻木"], "superficial": ["On the surface, slight.", "表面的；膚淺的"], "surfeit": ["Excess, superabundance.", "過量；飲食過度"], "tenebrific": ["Causing or producing darkness or gloom.", "產生黑暗的;陰森的"], "testify": ["To give evidence as a witness, especially in court.", "作證;證明"], "verify": ["To confirm the truth or accuracy of something.", "核實;驗證"], "vilification": ["The act of speaking or writing about someone in an abusive way.", "詆毀;誹謗"], "vivify": ["To give life or vigor to; to animate.", "賦予生命;使生動"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"matter-of-fact": ["Unemotional and practical.", "就事論事的；實事求是的"], "modify": ["To change.", "修改；修飾"], "mollify": ["To appease, pacify.", "撫慰；平息"], "mortify": ["To embarrass, humiliate.", "使屈辱；使窘迫"], "multifaceted": ["Having many aspects or features.", "多方面的；多層面的"], "munificence": ["Generosity in giving.", "慷慨；大方"], "munificent": ["Generous.", "慷慨的；豐厚的"], "nullify": ["To cancel, abolish.", "使無效；取消"], "olfaction": ["The sense of smell; the process of smelling.", "嗅覺"], "olfactory": ["Relating to the sense of smell.", "嗅覺的"], "pacific": ["Soothing.", "平和的；安撫性的"], "pacify": ["To calm; to make peaceful; to restore to a tranquil state.", "使平靜"], "parturifacient": ["Inducing or hastening childbirth.", "催生的；催生藥物"], "perfect": ["Having all the required or desirable elements; to improve until faultless.", "完美的；使完善"], "petrifaction": ["The process of turning organic matter into stone; a state of shock.", "石化作用；驚呆"], "petrify": ["To turn into stone; to terrify someone into immobility.", "使石化；使驚呆"], "pontiff": ["The pope; a high priest, especially in ancient Rome.", "教宗；大祭司"], "pontificate": ["To express opinions in a pompous or dogmatic way.", "自以為是地發表意見"], "pontification": ["The act of expressing opinions in a pompous or dogmatic manner.", "自以為是的高談闊論"], "proficient": ["Competent or skilled in doing something.", "精通的；熟練的"], "prolific": ["Producing abundantly.", "多產的；多產作家的"], "putrefaction": ["The process of organic matter decaying and rotting.", "腐爛；腐化"], "putrefy": ["To decay and rot, producing a foul smell.", "腐爛；腐化"], "rarefaction": ["The process of making something less dense; a reduction in density.", "稀薄化；稀化"], "rarefied": ["Existing in a rare or exclusive atmosphere; of very high standards, understood by few.", "稀薄的；高深莫測的"], "rarefy": ["To make something less dense or thinner, especially a gas.", "使稀薄"], "rectification": ["The act of correcting or setting something right.", "改正；修正"], "rectify": ["To correct or fix something.", "糾正；矯正"], "revivifying": ["Giving new life or vigor to something.", "使復甦的；恢復生機的"], "rubify": ["To make something red or reddish.", "使變紅"], "sacrifice": ["The act of giving up something valued for a higher purpose.", "犧牲；獻祭"], "sanctified": ["Made holy or sacred.", "神聖化的；被祝聖的"], "sanctify": ["To make something holy or set apart for sacred use.", "使神聖化；聖化"], "satisfy": ["To meet the expectations or needs of someone.", "使滿意；滿足"], "simplify": ["To make something easier to understand or do.", "簡化"], "soporific": ["Sleep-inducing; sleepy.", "催眠的"], "specify": ["To state something clearly and precisely.", "明確指定；詳細說明"], "stupefy": ["To astonish, make insensible.", "使目瞪口呆；使麻木"], "superficial": ["On the surface, slight.", "表面的；膚淺的"], "surfeit": ["Excess, superabundance.", "過量；飲食過度"], "tenebrific": ["Causing or producing darkness or gloom.", "產生黑暗的；陰森的"], "testify": ["To give evidence as a witness, especially in court.", "作證；證明"], "verify": ["To confirm the truth or accuracy of something.", "核實；驗證"], "vilification": ["The act of speaking or writing about someone in an abusive way.", "詆毀；誹謗"], "vivify": ["To give life or vigor to; to animate.", "賦予生命；使生動"]});

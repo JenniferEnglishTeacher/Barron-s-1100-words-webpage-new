@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "conscience",
     "pos": "n.",
     "definition": "An inner sense of right and wrong that guides behavior.",
-    "chinese": "良心;良知",
+    "chinese": "良心；良知",
     "synonyms": "",
     "root": "con- (with) + scio (know), from Latin",
     "group": "sci；gnos = 知道",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An inner sense of right and wrong that guides behavior.",
-     "chinese": "良心;良知"
+     "chinese": "良心；良知"
     }
    },
    {
     "word": "conscionable",
     "pos": "adj.",
     "definition": "Conforming to what is right or reasonable.",
-    "chinese": "合乎良心的;公道的",
+    "chinese": "合乎良心的；公道的",
     "synonyms": "",
     "root": "con- (together) + scire (to know), from Latin",
     "group": "sci；gnos = 知道",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conforming to what is right or reasonable.",
-     "chinese": "合乎良心的;公道的"
+     "chinese": "合乎良心的；公道的"
     }
    },
    {
     "word": "nescient",
     "pos": "adj.",
     "definition": "Lacking knowledge; ignorant.",
-    "chinese": "無知的;不知情的",
+    "chinese": "無知的；不知情的",
     "synonyms": "",
     "root": "ne- (not) + scio (know), from Latin",
     "group": "sci；gnos = 知道",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking knowledge; ignorant.",
-     "chinese": "無知的;不知情的"
+     "chinese": "無知的；不知情的"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "prescience",
     "pos": "n.",
     "definition": "Knowledge of events before they happen; foresight.",
-    "chinese": "先見之明;預知能力",
+    "chinese": "先見之明；預知能力",
     "synonyms": "",
     "root": "prae- (before) + scire (to know), from Latin",
     "group": "sci；gnos = 知道",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Knowledge of events before they happen; foresight.",
-     "chinese": "先見之明;預知能力"
+     "chinese": "先見之明；預知能力"
     }
    },
    {
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
     "word": "sciolism",
     "pos": "n.",
     "definition": "Superficial knowledge presented as if it were deep understanding.",
-    "chinese": "一知半解;膚淺的學識",
+    "chinese": "一知半解；膚淺的學識",
     "synonyms": "",
     "root": "sciolus (one who knows a little), from Latin scire (to know)",
     "group": "sci；gnos = 知道",
@@ -360,14 +360,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Superficial knowledge presented as if it were deep understanding.",
-     "chinese": "一知半解;膚淺的學識"
+     "chinese": "一知半解；膚淺的學識"
     }
    },
    {
     "word": "sciolist",
     "pos": "n.",
     "definition": "A person who has only superficial knowledge of a subject but claims expertise.",
-    "chinese": "一知半解者;冒充內行的人",
+    "chinese": "一知半解者；冒充內行的人",
     "synonyms": "",
     "root": "sciolus (one who knows a little), from Latin scire (to know)",
     "group": "sci；gnos = 知道",
@@ -379,14 +379,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who has only superficial knowledge of a subject but claims expertise.",
-     "chinese": "一知半解者;冒充內行的人"
+     "chinese": "一知半解者；冒充內行的人"
     }
    },
    {
     "word": "shine",
     "pos": "v./n.",
     "definition": "To emit or reflect light; brightness.",
-    "chinese": "發光;光澤",
+    "chinese": "發光；光澤",
     "synonyms": "",
     "root": "scinan (to shine), from Old English",
     "group": "sci；gnos = 知道",
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To emit or reflect light; brightness.",
-     "chinese": "發光;光澤"
+     "chinese": "發光；光澤"
     }
    }
   ],
@@ -911,4 +911,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prognosticate": ["To predict or foretell a future event.", "預言"], "cognizant": ["Aware.", "認識到的"], "connoisseur": ["Expert.", "鑑賞家；行家"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"], "conscientious": ["Relating to doing what one knows is right; scrupulous.", "認真負責的"], "agnosia": ["A loss of the ability to recognize objects, faces, or sounds despite normal senses.", "失認症"], "agnostic": ["Believing that the existence of God cannot be proven or disproven.", "不可知論的"], "agnosticism": ["The view that the existence of God or the ultimate nature of things is unknown or unknowable.", "不可知論"], "cognitive": ["Relating to the mental processes of perception, memory, judgment, and reasoning.", "認知的"], "conscience": ["An inner sense of right and wrong that guides behavior.", "良心;良知"], "conscionable": ["Conforming to what is right or reasonable.", "合乎良心的;公道的"], "nescient": ["Lacking knowledge; ignorant.", "無知的;不知情的"], "omniscient": ["Knowing, seeing, or understanding everything.", "全知的；無所不知的"], "plebiscite": ["A direct vote by the electorate on a specific issue.", "公民投票"], "prescience": ["Knowledge of events before they happen; foresight.", "先見之明;預知能力"], "prescient": ["To have foreknowledge of events.", "有先見之明的"], "science": ["The systematic study of the natural world through observation and experiment.", "科學"], "scintillating": ["Sparkling.", "閃耀的；機智風趣的"], "sciolism": ["Superficial knowledge presented as if it were deep understanding.", "一知半解;膚淺的學識"], "sciolist": ["A person who has only superficial knowledge of a subject but claims expertise.", "一知半解者;冒充內行的人"], "shine": ["To emit or reflect light; brightness.", "發光;光澤"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prognosticate": ["To predict or foretell a future event.", "預言"], "cognizant": ["Aware.", "認識到的"], "connoisseur": ["Expert.", "鑑賞家；行家"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"], "conscientious": ["Relating to doing what one knows is right; scrupulous.", "認真負責的"], "agnosia": ["A loss of the ability to recognize objects, faces, or sounds despite normal senses.", "失認症"], "agnostic": ["Believing that the existence of God cannot be proven or disproven.", "不可知論的"], "agnosticism": ["The view that the existence of God or the ultimate nature of things is unknown or unknowable.", "不可知論"], "cognitive": ["Relating to the mental processes of perception, memory, judgment, and reasoning.", "認知的"], "conscience": ["An inner sense of right and wrong that guides behavior.", "良心；良知"], "conscionable": ["Conforming to what is right or reasonable.", "合乎良心的；公道的"], "nescient": ["Lacking knowledge; ignorant.", "無知的；不知情的"], "omniscient": ["Knowing, seeing, or understanding everything.", "全知的；無所不知的"], "plebiscite": ["A direct vote by the electorate on a specific issue.", "公民投票"], "prescience": ["Knowledge of events before they happen; foresight.", "先見之明；預知能力"], "prescient": ["To have foreknowledge of events.", "有先見之明的"], "science": ["The systematic study of the natural world through observation and experiment.", "科學"], "scintillating": ["Sparkling.", "閃耀的；機智風趣的"], "sciolism": ["Superficial knowledge presented as if it were deep understanding.", "一知半解；膚淺的學識"], "sciolist": ["A person who has only superficial knowledge of a subject but claims expertise.", "一知半解者；冒充內行的人"], "shine": ["To emit or reflect light; brightness.", "發光；光澤"]});

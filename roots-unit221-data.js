@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "self-important",
     "pos": "adj.",
     "definition": "Having an exaggerated sense of one's own importance.",
-    "chinese": "自視甚高的;自負的",
+    "chinese": "自視甚高的；自負的",
     "synonyms": "",
     "root": "self, from Old English + important, from Latin importare",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having an exaggerated sense of one's own importance.",
-     "chinese": "自視甚高的;自負的"
+     "chinese": "自視甚高的；自負的"
     }
    },
    {
     "word": "self-possesion",
     "pos": "n.",
     "definition": "A variant spelling of self-possession, calm control of oneself under pressure.",
-    "chinese": "自持;鎮定(異體拼法)",
+    "chinese": "自持；鎮定(異體拼法)",
     "synonyms": "",
     "root": "self, from Old English + possession, from Latin possidere",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A variant spelling of self-possession, calm control of oneself under pressure.",
-     "chinese": "自持;鎮定(異體拼法)"
+     "chinese": "自持；鎮定(異體拼法)"
     }
    },
    {
     "word": "self-possessed",
     "pos": "adj.",
     "definition": "Calm, confident, and in control of oneself.",
-    "chinese": "鎮定自若的;沉著的",
+    "chinese": "鎮定自若的；沉著的",
     "synonyms": "",
     "root": "self, from Old English + possessed, from Latin possidere",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calm, confident, and in control of oneself.",
-     "chinese": "鎮定自若的;沉著的"
+     "chinese": "鎮定自若的；沉著的"
     }
    },
    {
     "word": "self-possession",
     "pos": "n.",
     "definition": "Calm control of one's emotions and behavior.",
-    "chinese": "鎮定;自制力",
+    "chinese": "鎮定；自制力",
     "synonyms": "",
     "root": "self, from Old English + possession, from Latin possidere",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calm control of one's emotions and behavior.",
-     "chinese": "鎮定;自制力"
+     "chinese": "鎮定；自制力"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "senescence",
     "pos": "n.",
     "definition": "The process of deterioration with age.",
-    "chinese": "老化;衰老",
+    "chinese": "老化；衰老",
     "synonyms": "",
     "root": "senescere (to grow old), from Latin senex (old)",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of deterioration with age.",
-     "chinese": "老化;衰老"
+     "chinese": "老化；衰老"
     }
    },
    {
     "word": "senescent",
     "pos": "adj.",
     "definition": "Showing signs of aging or deterioration.",
-    "chinese": "老化的;衰老的",
+    "chinese": "老化的；衰老的",
     "synonyms": "",
     "root": "senescere (to grow old), from Latin senex (old)",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing signs of aging or deterioration.",
-     "chinese": "老化的;衰老的"
+     "chinese": "老化的；衰老的"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "senility",
     "pos": "n.",
     "definition": "The mental and physical deterioration associated with old age.",
-    "chinese": "老年衰退;衰老",
+    "chinese": "老年衰退；衰老",
     "synonyms": "",
     "root": "senex (old), from Latin",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The mental and physical deterioration associated with old age.",
-     "chinese": "老年衰退;衰老"
+     "chinese": "老年衰退；衰老"
     }
    },
    {
     "word": "seniority",
     "pos": "n.",
     "definition": "A higher rank or status due to age or length of service.",
-    "chinese": "資歷;年資",
+    "chinese": "資歷；年資",
     "synonyms": "",
     "root": "senex (old), from Latin",
     "group": "",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A higher rank or status due to age or length of service.",
-     "chinese": "資歷;年資"
+     "chinese": "資歷；年資"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "serenade",
     "pos": "n./v.",
     "definition": "A piece of music sung or played outdoors, especially for a lover; to perform such music.",
-    "chinese": "小夜曲;唱小夜曲",
+    "chinese": "小夜曲；唱小夜曲",
     "synonyms": "",
     "root": "serenata (evening music), from Italian sereno (clear, calm)",
     "group": "",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A piece of music sung or played outdoors, especially for a lover; to perform such music.",
-     "chinese": "小夜曲;唱小夜曲"
+     "chinese": "小夜曲；唱小夜曲"
     }
    },
    {
     "word": "serendipitous",
     "pos": "adj.",
     "definition": "Occurring by happy or fortunate accident.",
-    "chinese": "機緣巧合的;幸運偶然的",
+    "chinese": "機緣巧合的；幸運偶然的",
     "synonyms": "",
     "root": "coined from Serendip, an old name for Sri Lanka, from a fairy tale",
     "group": "",
@@ -421,7 +421,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring by happy or fortunate accident.",
-     "chinese": "機緣巧合的;幸運偶然的"
+     "chinese": "機緣巧合的；幸運偶然的"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "seriousness",
     "pos": "n.",
     "definition": "The quality of being serious, solemn, or grave.",
-    "chinese": "嚴肅;認真",
+    "chinese": "嚴肅；認真",
     "synonyms": "",
     "root": "serius (grave, weighty), from Latin",
     "group": "",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being serious, solemn, or grave.",
-     "chinese": "嚴肅;認真"
+     "chinese": "嚴肅；認真"
     }
    },
    {
     "word": "serpentine",
     "pos": "adj.",
     "definition": "Winding and twisting like a serpent.",
-    "chinese": "蛇形的;蜿蜒的",
+    "chinese": "蛇形的；蜿蜒的",
     "synonyms": "",
     "root": "serpens (snake), from Latin serpere (to creep)",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Winding and twisting like a serpent.",
-     "chinese": "蛇形的;蜿蜒的"
+     "chinese": "蛇形的；蜿蜒的"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "servility",
     "pos": "n.",
     "definition": "Excessive willingness to serve or please others.",
-    "chinese": "卑躬屈膝;奴性",
+    "chinese": "卑躬屈膝；奴性",
     "synonyms": "",
     "root": "servilis (of a slave), from Latin servus (slave)",
     "group": "",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive willingness to serve or please others.",
-     "chinese": "卑躬屈膝;奴性"
+     "chinese": "卑躬屈膝；奴性"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "shackle",
     "pos": "n./v.",
     "definition": "A metal fastening for restraining prisoners; to restrain or confine.",
-    "chinese": "鐐銬;束縛",
+    "chinese": "鐐銬；束縛",
     "synonyms": "",
     "root": "sceacel (fetter, shackle), from Old English",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A metal fastening for restraining prisoners; to restrain or confine.",
-     "chinese": "鐐銬;束縛"
+     "chinese": "鐐銬；束縛"
     }
    },
    {
     "word": "shady",
     "pos": "adj.",
     "definition": "Providing shade; of dubious honesty.",
-    "chinese": "遮蔭的;可疑的",
+    "chinese": "遮蔭的；可疑的",
     "synonyms": "",
     "root": "shade, from Old English sceadu",
     "group": "",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Providing shade; of dubious honesty.",
-     "chinese": "遮蔭的;可疑的"
+     "chinese": "遮蔭的；可疑的"
     }
    },
    {
     "word": "shallow",
     "pos": "adj.",
     "definition": "Having little depth; lacking depth of character or thought.",
-    "chinese": "淺的;膚淺的",
+    "chinese": "淺的；膚淺的",
     "synonyms": "",
     "root": "schald (shallow), of uncertain Germanic origin",
     "group": "",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having little depth; lacking depth of character or thought.",
-     "chinese": "淺的;膚淺的"
+     "chinese": "淺的；膚淺的"
     }
    },
    {
     "word": "sham",
     "pos": "n./adj.",
     "definition": "Something false presented as genuine.",
-    "chinese": "騙局;虛假的",
+    "chinese": "騙局；虛假的",
     "synonyms": "",
     "root": "of uncertain origin, possibly a dialectal variant of shame",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something false presented as genuine.",
-     "chinese": "騙局;虛假的"
+     "chinese": "騙局；虛假的"
     }
    },
    {
     "word": "shameful",
     "pos": "adj.",
     "definition": "Causing or deserving shame.",
-    "chinese": "可恥的;丟臉的",
+    "chinese": "可恥的；丟臉的",
     "synonyms": "",
     "root": "shame, from Old English sceamu + -ful",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing or deserving shame.",
-     "chinese": "可恥的;丟臉的"
+     "chinese": "可恥的；丟臉的"
     }
    },
    {
     "word": "shameless",
     "pos": "adj.",
     "definition": "Having no shame despite doing something wrong.",
-    "chinese": "無恥的;厚顏無恥的",
+    "chinese": "無恥的；厚顏無恥的",
     "synonyms": "",
     "root": "shame, from Old English sceamu + -less",
     "group": "",
@@ -708,14 +708,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no shame despite doing something wrong.",
-     "chinese": "無恥的;厚顏無恥的"
+     "chinese": "無恥的；厚顏無恥的"
     }
    },
    {
     "word": "shed",
     "pos": "n./v.",
     "definition": "A small structure for storage; to cause to flow out or fall off.",
-    "chinese": "棚屋;脫落",
+    "chinese": "棚屋；脫落",
     "synonyms": "",
     "root": "shadde (a shelter), from Middle English, of uncertain origin",
     "group": "",
@@ -727,14 +727,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small structure for storage; to cause to flow out or fall off.",
-     "chinese": "棚屋;脫落"
+     "chinese": "棚屋；脫落"
     }
    },
    {
     "word": "sheepishness",
     "pos": "n.",
     "definition": "The quality of being embarrassed or shy, especially after a mistake.",
-    "chinese": "羞怯;不好意思",
+    "chinese": "羞怯；不好意思",
     "synonyms": "",
     "root": "sheep, from Old English sceap, implying meek timidity",
     "group": "",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being embarrassed or shy, especially after a mistake.",
-     "chinese": "羞怯;不好意思"
+     "chinese": "羞怯；不好意思"
     }
    },
    {
@@ -774,7 +774,7 @@ window.FLASHCARD_UNITS = {
     "word": "shiftless",
     "pos": "adj.",
     "definition": "Lacking ambition or motivation.",
-    "chinese": "懶散的;無進取心的",
+    "chinese": "懶散的；無進取心的",
     "synonyms": "",
     "root": "shift, from Old English sciftan (to divide, arrange) + -less",
     "group": "",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking ambition or motivation.",
-     "chinese": "懶散的;無進取心的"
+     "chinese": "懶散的；無進取心的"
     }
    },
    {
     "word": "shifty",
     "pos": "adj.",
     "definition": "Appearing deceptive or untrustworthy.",
-    "chinese": "鬼鬼祟祟的;狡猾的",
+    "chinese": "鬼鬼祟祟的；狡猾的",
     "synonyms": "",
     "root": "shift, from Old English sciftan (to divide, arrange), implying evasiveness",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Appearing deceptive or untrustworthy.",
-     "chinese": "鬼鬼祟祟的;狡猾的"
+     "chinese": "鬼鬼祟祟的；狡猾的"
     }
    },
    {
@@ -831,7 +831,7 @@ window.FLASHCARD_UNITS = {
     "word": "shoddy",
     "pos": "adj.",
     "definition": "Badly made or done.",
-    "chinese": "劣質的;粗製濫造的",
+    "chinese": "劣質的；粗製濫造的",
     "synonyms": "",
     "root": "of uncertain origin, originally referring to inferior recycled wool",
     "group": "",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Badly made or done.",
-     "chinese": "劣質的;粗製濫造的"
+     "chinese": "劣質的；粗製濫造的"
     }
    },
    {
     "word": "shopworn",
     "pos": "adj.",
     "definition": "Worn or shabby from being displayed in a shop; overused or trite.",
-    "chinese": "陳舊的;老套的",
+    "chinese": "陳舊的；老套的",
     "synonyms": "",
     "root": "shop, from Old English sceoppa + worn, from Old English werian",
     "group": "",
@@ -862,14 +862,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Worn or shabby from being displayed in a shop; overused or trite.",
-     "chinese": "陳舊的;老套的"
+     "chinese": "陳舊的；老套的"
     }
    },
    {
     "word": "shortage",
     "pos": "n.",
     "definition": "A state in which something needed is not available in sufficient amounts.",
-    "chinese": "短缺;不足",
+    "chinese": "短缺；不足",
     "synonyms": "",
     "root": "short, from Old English sceort + -age",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state in which something needed is not available in sufficient amounts.",
-     "chinese": "短缺;不足"
+     "chinese": "短缺；不足"
     }
    },
    {
     "word": "shred",
     "pos": "n./v.",
     "definition": "A small piece torn or cut off; to tear into small pieces.",
-    "chinese": "碎片;撕碎",
+    "chinese": "碎片；撕碎",
     "synonyms": "",
     "root": "screade (a piece cut off), from Old English",
     "group": "",
@@ -900,7 +900,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small piece torn or cut off; to tear into small pieces.",
-     "chinese": "碎片;撕碎"
+     "chinese": "碎片；撕碎"
     }
    },
    {
@@ -926,7 +926,7 @@ window.FLASHCARD_UNITS = {
     "word": "shrimp",
     "pos": "n.",
     "definition": "A small marine crustacean; a small or insignificant person (informal).",
-    "chinese": "蝦;矮小之人(非正式)",
+    "chinese": "蝦；矮小之人(非正式)",
     "synonyms": "",
     "root": "shrimpe (small, puny person), of uncertain Germanic origin",
     "group": "",
@@ -938,14 +938,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small marine crustacean; a small or insignificant person (informal).",
-     "chinese": "蝦;矮小之人(非正式)"
+     "chinese": "蝦；矮小之人(非正式)"
     }
    },
    {
     "word": "shrivel",
     "pos": "v.",
     "definition": "To shrink and wrinkle from loss of moisture.",
-    "chinese": "枯萎;皺縮",
+    "chinese": "枯萎；皺縮",
     "synonyms": "",
     "root": "of uncertain Scandinavian origin, related to Swedish skryvla",
     "group": "",
@@ -957,7 +957,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To shrink and wrinkle from loss of moisture.",
-     "chinese": "枯萎;皺縮"
+     "chinese": "枯萎；皺縮"
     }
    }
   ],
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"self-esteem": ["A feeling of pride in yourself.", "自尊；自我價值感"], "self-important": ["Having an exaggerated sense of one's own importance.", "自視甚高的;自負的"], "self-possesion": ["A variant spelling of self-possession, calm control of oneself under pressure.", "自持;鎮定(異體拼法)"], "self-possessed": ["Calm, confident, and in control of oneself.", "鎮定自若的;沉著的"], "self-possession": ["Calm control of one's emotions and behavior.", "鎮定;自制力"], "semanticist": ["A specialist who studies word meanings and their psychological effects.", "語義學家"], "semantics": ["The study of language meaning.", "語意學"], "semaphore": ["A visual signal.", "旗語；信號"], "semen": ["The fluid containing sperm produced by male reproductive organs.", "精液"], "seminal": ["Original, important, creating a field.", "開創性的；影響深遠的"], "seminary": ["A college or school that trains people for religious ministry.", "神學院"], "semordnilap": ["A word that spells a different word when reversed.", "反序異義詞"], "senate": ["Assembly possessing high legislative powers.", "參議院；元老院"], "senescence": ["The process of deterioration with age.", "老化;衰老"], "senescent": ["Showing signs of aging or deterioration.", "老化的;衰老的"], "senile": ["Showing a loss of mental ability in old age.", "衰老的；老態龍鍾的"], "senility": ["The mental and physical deterioration associated with old age.", "老年衰退;衰老"], "seniority": ["A higher rank or status due to age or length of service.", "資歷;年資"], "septuagenarian": ["A person who is between 70 and 79 years old.", "七十多歲的人"], "serape": ["A brightly colored woolen shawl or blanket worn especially in Latin America.", "薩拉佩披肩(拉丁美洲傳統披肩)"], "serenade": ["A piece of music sung or played outdoors, especially for a lover; to perform such music.", "小夜曲;唱小夜曲"], "serendipitous": ["Occurring by happy or fortunate accident.", "機緣巧合的;幸運偶然的"], "serendipity": ["Luck, finding good things without looking for them.", "機緣巧合；意外驚喜"], "serene": ["Calm, peaceful, and untroubled.", "寧靜的；安詳的"], "serenity": ["Peaceful repose.", "寧靜；平靜"], "seriousness": ["The quality of being serious, solemn, or grave.", "嚴肅;認真"], "serpentine": ["Winding and twisting like a serpent.", "蛇形的;蜿蜒的"], "servile": ["Slavish, submissive.", "奴性的；卑屈的"], "servilely": ["In an obsequious manner.", "卑躬屈膝地；奴性地"], "servility": ["Excessive willingness to serve or please others.", "卑躬屈膝;奴性"], "sexagenarian": ["A person who is between 60 and 69 years old.", "六十多歲的人"], "shackle": ["A metal fastening for restraining prisoners; to restrain or confine.", "鐐銬;束縛"], "shady": ["Providing shade; of dubious honesty.", "遮蔭的;可疑的"], "shallow": ["Having little depth; lacking depth of character or thought.", "淺的;膚淺的"], "sham": ["Something false presented as genuine.", "騙局;虛假的"], "shameful": ["Causing or deserving shame.", "可恥的;丟臉的"], "shameless": ["Having no shame despite doing something wrong.", "無恥的;厚顏無恥的"], "shed": ["A small structure for storage; to cause to flow out or fall off.", "棚屋;脫落"], "sheepishness": ["The quality of being embarrassed or shy, especially after a mistake.", "羞怯;不好意思"], "shibboleth": ["Pet phrase, slogan.", "陳詞濫調；口頭禪"], "shiftless": ["Lacking ambition or motivation.", "懶散的;無進取心的"], "shifty": ["Appearing deceptive or untrustworthy.", "鬼鬼祟祟的;狡猾的"], "shocking": ["Causing intense surprise, fear, or disgust.", "令人震驚的"], "shoddy": ["Badly made or done.", "劣質的;粗製濫造的"], "shopworn": ["Worn or shabby from being displayed in a shop; overused or trite.", "陳舊的;老套的"], "shortage": ["A state in which something needed is not available in sufficient amounts.", "短缺;不足"], "shred": ["A small piece torn or cut off; to tear into small pieces.", "碎片;撕碎"], "shrewd": ["Insightful; clever.", "精明的"], "shrimp": ["A small marine crustacean; a small or insignificant person (informal).", "蝦;矮小之人(非正式)"], "shrivel": ["To shrink and wrinkle from loss of moisture.", "枯萎;皺縮"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"self-esteem": ["A feeling of pride in yourself.", "自尊；自我價值感"], "self-important": ["Having an exaggerated sense of one's own importance.", "自視甚高的；自負的"], "self-possesion": ["A variant spelling of self-possession, calm control of oneself under pressure.", "自持；鎮定(異體拼法)"], "self-possessed": ["Calm, confident, and in control of oneself.", "鎮定自若的；沉著的"], "self-possession": ["Calm control of one's emotions and behavior.", "鎮定；自制力"], "semanticist": ["A specialist who studies word meanings and their psychological effects.", "語義學家"], "semantics": ["The study of language meaning.", "語意學"], "semaphore": ["A visual signal.", "旗語；信號"], "semen": ["The fluid containing sperm produced by male reproductive organs.", "精液"], "seminal": ["Original, important, creating a field.", "開創性的；影響深遠的"], "seminary": ["A college or school that trains people for religious ministry.", "神學院"], "semordnilap": ["A word that spells a different word when reversed.", "反序異義詞"], "senate": ["Assembly possessing high legislative powers.", "參議院；元老院"], "senescence": ["The process of deterioration with age.", "老化；衰老"], "senescent": ["Showing signs of aging or deterioration.", "老化的；衰老的"], "senile": ["Showing a loss of mental ability in old age.", "衰老的；老態龍鍾的"], "senility": ["The mental and physical deterioration associated with old age.", "老年衰退；衰老"], "seniority": ["A higher rank or status due to age or length of service.", "資歷；年資"], "septuagenarian": ["A person who is between 70 and 79 years old.", "七十多歲的人"], "serape": ["A brightly colored woolen shawl or blanket worn especially in Latin America.", "薩拉佩披肩(拉丁美洲傳統披肩)"], "serenade": ["A piece of music sung or played outdoors, especially for a lover; to perform such music.", "小夜曲；唱小夜曲"], "serendipitous": ["Occurring by happy or fortunate accident.", "機緣巧合的；幸運偶然的"], "serendipity": ["Luck, finding good things without looking for them.", "機緣巧合；意外驚喜"], "serene": ["Calm, peaceful, and untroubled.", "寧靜的；安詳的"], "serenity": ["Peaceful repose.", "寧靜；平靜"], "seriousness": ["The quality of being serious, solemn, or grave.", "嚴肅；認真"], "serpentine": ["Winding and twisting like a serpent.", "蛇形的；蜿蜒的"], "servile": ["Slavish, submissive.", "奴性的；卑屈的"], "servilely": ["In an obsequious manner.", "卑躬屈膝地；奴性地"], "servility": ["Excessive willingness to serve or please others.", "卑躬屈膝；奴性"], "sexagenarian": ["A person who is between 60 and 69 years old.", "六十多歲的人"], "shackle": ["A metal fastening for restraining prisoners; to restrain or confine.", "鐐銬；束縛"], "shady": ["Providing shade; of dubious honesty.", "遮蔭的；可疑的"], "shallow": ["Having little depth; lacking depth of character or thought.", "淺的；膚淺的"], "sham": ["Something false presented as genuine.", "騙局；虛假的"], "shameful": ["Causing or deserving shame.", "可恥的；丟臉的"], "shameless": ["Having no shame despite doing something wrong.", "無恥的；厚顏無恥的"], "shed": ["A small structure for storage; to cause to flow out or fall off.", "棚屋；脫落"], "sheepishness": ["The quality of being embarrassed or shy, especially after a mistake.", "羞怯；不好意思"], "shibboleth": ["Pet phrase, slogan.", "陳詞濫調；口頭禪"], "shiftless": ["Lacking ambition or motivation.", "懶散的；無進取心的"], "shifty": ["Appearing deceptive or untrustworthy.", "鬼鬼祟祟的；狡猾的"], "shocking": ["Causing intense surprise, fear, or disgust.", "令人震驚的"], "shoddy": ["Badly made or done.", "劣質的；粗製濫造的"], "shopworn": ["Worn or shabby from being displayed in a shop; overused or trite.", "陳舊的；老套的"], "shortage": ["A state in which something needed is not available in sufficient amounts.", "短缺；不足"], "shred": ["A small piece torn or cut off; to tear into small pieces.", "碎片；撕碎"], "shrewd": ["Insightful; clever.", "精明的"], "shrimp": ["A small marine crustacean; a small or insignificant person (informal).", "蝦；矮小之人(非正式)"], "shrivel": ["To shrink and wrinkle from loss of moisture.", "枯萎；皺縮"]});

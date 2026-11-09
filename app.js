@@ -262,7 +262,112 @@ function render() {
 // Buttons are reused between renders so the list never jumps or re-triggers hover.
 let hoverTimer = null;
 
+// ---------- Roots sets: word list = word + POS + 中文 + ☆ save to the board's review list ----------
+// The board (index.html) has no word chips for Zone 3, so saving happens here. Keys are "r<set>:<index>" in the
+// board's own review list; each saved card's details are kept beside it so the board can show and export it.
+const REVIEW_KEY = "barrons1100-review-list";
+const ROOTS_REVIEW_CARDS = "roots-review-cards";
+
+function readStore(key, fallback) {
+  try { return JSON.parse(localStorage.getItem(key) || "") || fallback; } catch (error) { return fallback; }
+}
+
+function rootsKey(realIndex) {
+  return `r${state.unit}:${realIndex}`;
+}
+
+function toggleRootsReview(realIndex) {
+  const card = cards()[realIndex];
+  const key = rootsKey(realIndex);
+  let list = readStore(REVIEW_KEY, []);
+  const details = readStore(ROOTS_REVIEW_CARDS, {});
+  if (list.includes(key)) {
+    list = list.filter(k => k !== key);
+    delete details[key];
+  } else {
+    list.push(key);
+    details[key] = { w: card.word, p: card.pos, d: card.definition, c: card.chinese, s: card.sentence, t: card.translation, as: card.advSentence || "", at: card.advTranslation || "", unit: Number(state.unit) };
+  }
+  try {
+    localStorage.setItem(REVIEW_KEY, JSON.stringify(list));
+    localStorage.setItem(ROOTS_REVIEW_CARDS, JSON.stringify(details));
+  } catch (error) { /* private mode: nothing to save */ }
+  renderWordList();
+}
+
+function renderRootsWordList() {
+  const list = cards();
+  if (!els.wordList.querySelector(".roots-list-head")) {
+    const head = document.createElement("div");
+    head.className = "roots-list-head";
+    head.innerHTML = `<span>Click ☆ to save a word to your review list 點 ☆ 存入複習清單</span><a href="index.html#roots"><b id="rootsSavedCount">0</b> saved · Download Excel on the board ↗</a>`;
+    const rows = list.map((card, realIndex) => {
+      const row = document.createElement("div");
+      row.className = "word-row";
+      row.dataset.real = realIndex;
+      const tab = document.createElement("button");
+      tab.type = "button";
+      tab.className = "word-tab";
+      tab.innerHTML = `<span class="wt-num"></span><span class="wt-word"></span><span class="wt-pos"></span><span class="wt-zh"></span>`;
+      tab.querySelector(".wt-word").textContent = card.word;
+      tab.querySelector(".wt-pos").textContent = card.pos;
+      tab.querySelector(".wt-zh").textContent = card.chinese;
+      tab.addEventListener("click", () => {
+        clearTimeout(hoverTimer);
+        state.index = state.order.indexOf(realIndex);
+        state.flipped = false;
+        render();
+        speak(card.word);
+      });
+      tab.addEventListener("pointerenter", event => {
+        if (event.pointerType !== "mouse") return;
+        clearTimeout(hoverTimer);
+        hoverTimer = setTimeout(() => speak(card.word), 180);
+      });
+      tab.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
+      const save = document.createElement("button");
+      save.type = "button";
+      save.className = "save-toggle";
+      save.addEventListener("click", event => {
+        event.stopPropagation();
+        toggleRootsReview(realIndex);
+      });
+      row.append(tab, save);
+      return row;
+    });
+    els.wordList.replaceChildren(head, ...rows);
+  }
+  const saved = new Set(readStore(REVIEW_KEY, []));
+  let savedHere = 0;
+  els.wordList.querySelectorAll(".word-row").forEach(row => {
+    const realIndex = Number(row.dataset.real);
+    const orderedIndex = state.order.indexOf(realIndex);
+    const isSaved = saved.has(rootsKey(realIndex));
+    if (isSaved) savedHere += 1;
+    row.classList.toggle("active", orderedIndex === state.index);
+    row.classList.toggle("saved", isSaved);
+    row.querySelector(".wt-num").textContent = `${orderedIndex + 1}.`;
+    const save = row.querySelector(".save-toggle");
+    save.textContent = isSaved ? "★" : "☆";
+    save.setAttribute("aria-pressed", String(isSaved));
+    save.title = isSaved ? "Saved — click to remove from review list 已存入，點一下移除" : "Save to review list 存入複習清單";
+    save.setAttribute("aria-label", `${isSaved ? "Remove" : "Save"} ${list[realIndex].word} ${isSaved ? "from" : "to"} review list`);
+  });
+  const countEl = document.querySelector("#rootsSavedCount");
+  if (countEl) countEl.textContent = String(readStore(REVIEW_KEY, []).filter(k => k.startsWith("r")).length);
+  const active = els.wordList.querySelector(".word-row.active");
+  if (active) active.scrollIntoView({ block: "nearest" });
+}
+
+if (SET === "roots") {
+  // The board or another set page changed the review list: refresh the stars.
+  window.addEventListener("storage", event => {
+    if (event.key === REVIEW_KEY) renderRootsWordList();
+  });
+}
+
 function renderWordList() {
+  if (SET === "roots") { renderRootsWordList(); return; }
   const list = cards();
   if (els.wordList.children.length !== list.length) {
     els.wordList.replaceChildren(...list.map((card, realIndex) => {

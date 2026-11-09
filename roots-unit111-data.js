@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "analogy",
     "pos": "n.",
     "definition": "A comparison between two things to explain or clarify.",
-    "chinese": "類比;比喻",
+    "chinese": "類比；比喻",
     "synonyms": "",
     "root": "ana- (up, according to) + logos (ratio), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A comparison between two things to explain or clarify.",
-     "chinese": "類比;比喻"
+     "chinese": "類比；比喻"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "cacology",
     "pos": "n.",
     "definition": "Poor choice of words or bad style in speech or writing.",
-    "chinese": "措辭不當;文體拙劣",
+    "chinese": "措辭不當；文體拙劣",
     "synonyms": "",
     "root": "kakos (bad) + logos (word), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poor choice of words or bad style in speech or writing.",
-     "chinese": "措辭不當;文體拙劣"
+     "chinese": "措辭不當；文體拙劣"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "circumlocutory",
     "pos": "adj.",
     "definition": "Using an indirect and wordy way of speaking, avoiding directness.",
-    "chinese": "拐彎抹角的;迂迴的",
+    "chinese": "拐彎抹角的；迂迴的",
     "synonyms": "",
     "root": "circum- (around) + loqui (to speak), from Latin",
     "group": "locu；log；loqu = 說話",
@@ -265,7 +265,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using an indirect and wordy way of speaking, avoiding directness.",
-     "chinese": "拐彎抹角的;迂迴的"
+     "chinese": "拐彎抹角的；迂迴的"
     }
    },
    {
@@ -367,7 +367,7 @@ window.FLASHCARD_UNITS = {
     "word": "doxology",
     "pos": "n.",
     "definition": "A short hymn of praise to God.",
-    "chinese": "頌榮詩;讚美詩",
+    "chinese": "頌榮詩；讚美詩",
     "synonyms": "",
     "root": "doxa (glory) + logos (word), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -379,7 +379,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A short hymn of praise to God.",
-     "chinese": "頌榮詩;讚美詩"
+     "chinese": "頌榮詩；讚美詩"
     }
    },
    {
@@ -578,7 +578,7 @@ window.FLASHCARD_UNITS = {
     "word": "genealogy",
     "pos": "n.",
     "definition": "An account of a family's or person's descent from an ancestor.",
-    "chinese": "家譜;系譜學",
+    "chinese": "家譜；系譜學",
     "synonyms": "",
     "root": "genesis (birth) + logos (study), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -590,7 +590,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An account of a family's or person's descent from an ancestor.",
-     "chinese": "家譜;系譜學"
+     "chinese": "家譜；系譜學"
     }
    },
    {
@@ -903,7 +903,7 @@ window.FLASHCARD_UNITS = {
     "word": "lock",
     "pos": "n./v.",
     "definition": "A device for securing a door; to fasten with such a device.",
-    "chinese": "鎖;鎖上",
+    "chinese": "鎖；鎖上",
     "synonyms": "",
     "root": "loc (bolt, bar), from Old English",
     "group": "locu；log；loqu = 說話",
@@ -915,14 +915,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A device for securing a door; to fasten with such a device.",
-     "chinese": "鎖;鎖上"
+     "chinese": "鎖；鎖上"
     }
    },
    {
     "word": "locution",
     "pos": "n.",
     "definition": "A particular word or phrase, especially one peculiar to a person or group.",
-    "chinese": "說法;措辭",
+    "chinese": "說法；措辭",
     "synonyms": "",
     "root": "locutio (speech), from Latin loqui (to speak)",
     "group": "locu；log；loqu = 說話",
@@ -936,14 +936,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A particular word or phrase, especially one peculiar to a person or group.",
-     "chinese": "說法;措辭"
+     "chinese": "說法；措辭"
     }
    },
    {
     "word": "logodaedaly",
     "pos": "n.",
     "definition": "Arbitrary or capricious coining of words.",
-    "chinese": "任意造字;文字遊戲",
+    "chinese": "任意造字；文字遊戲",
     "synonyms": "",
     "root": "logos (word) + daidalos (skillfully made), from Greek",
     "group": "locu；log；loqu = 說話",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arbitrary or capricious coining of words.",
-     "chinese": "任意造字;文字遊戲"
+     "chinese": "任意造字；文字遊戲"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"allocate": ["To distribute, set aside.", "分配"], "analogous": ["Comparable, similar.", "類似的；可類比的"], "analogy": ["A comparison between two things to explain or clarify.", "類比;比喻"], "anthropology": ["Science of the origins and social relationships of humans.", "人類學"], "astrology": ["The study claiming that the positions of stars influence human affairs.", "占星學"], "biologist": ["A scientist who studies living organisms.", "生物學家"], "biology": ["The science that studies living organisms.", "生物學"], "breviloquent": ["Speaking in a brief, concise manner.", "言簡意賅的"], "cacology": ["Poor choice of words or bad style in speech or writing.", "措辭不當;文體拙劣"], "cardiologist": ["A doctor specializing in disorders of the heart.", "心臟科醫師"], "cardiology": ["The branch of medicine dealing with the heart and its diseases.", "心臟病學"], "chronological": ["Arranged in order of time.", "按時間順序的"], "circumlocution": ["Speaking in circles; roundabout speech.", "迂迴累贅的說法"], "circumlocutory": ["Using an indirect and wordy way of speaking, avoiding directness.", "拐彎抹角的;迂迴的"], "colloquial": ["Pertaining to common everyday speech; conversational.", "口語的；通俗的"], "dermatologist": ["A doctor specializing in skin disorders.", "皮膚科醫師"], "dermatology": ["The branch of medicine dealing with the skin.", "皮膚科學"], "dialogue": ["A conversation between two persons.", "對話"], "doctiloquent": ["Speaking in a learned or scholarly manner.", "博學善辯的"], "doxology": ["A short hymn of praise to God.", "頌榮詩;讚美詩"], "eloquence": ["Artful ease with speaking that impacts people's feelings.", "口才；雄辯"], "eloquent": ["Fluent or persuasive in speaking or writing.", "雄辯的；口才流利的"], "entomologist": ["A scientist who studies insects.", "昆蟲學家"], "entomology": ["The branch of zoology that studies insects.", "昆蟲學"], "epilogue": ["A short speech by an actor at the end of a play.", "尾聲；後記"], "etiology": ["The study of the causes of diseases or conditions.", "病因學"], "etymologist": ["A scholar who studies the origin and history of words.", "詞源學家"], "etymology": ["The history of words, their origin and development.", "詞源學"], "eulogize": ["To praise, as in a eulogy; to say good things about.", "頌揚"], "eulogy": ["A formal expression of praise for someone who has died.", "悼詞；頌詞"], "genealogy": ["An account of a family's or person's descent from an ancestor.", "家譜;系譜學"], "geologist": ["A scientist who studies the earth's physical structure and substances.", "地質學家"], "geology": ["Science of the history of the earth as recorded in rocks.", "地質學"], "gerontologist": ["A specialist who studies the non-medical aspects of aging.", "老年學家"], "gerontology": ["The branch of medical science that deals with old people.", "老年學"], "grandiloquence": ["Lofty, pompous language.", "誇大的言辭；浮誇"], "grandiloquent": ["Using big and fancy words when speaking for the purpose of impressing others.", "誇大其詞的"], "graphologist": ["A person who analyzes handwriting to assess personality traits.", "筆跡學家"], "graphology": ["The study of handwriting, especially as a means of analyzing character.", "筆跡學"], "gynaecology": ["The branch of medicine that deals with the diseases and hygiene of women.", "婦科學"], "gynecologist": ["A doctor specializing in female reproductive health.", "婦科醫師"], "gynecology": ["The branch of medicine dealing with female reproductive health.", "婦科學"], "ideologue": ["A person who strictly adheres to a particular ideology.", "意識形態的堅定信徒"], "ideology": ["A system of ideas and ideals forming the basis of a political or economic theory.", "意識形態"], "illogical": ["Lacking sense or clear, sound reasoning.", "不合邏輯的"], "interlocutor": ["Someone who participates in a dialogue or conversation.", "對話者；會談者"], "localized": ["Restricted to a specific area or part.", "局部的；地方性的"], "lock": ["A device for securing a door; to fasten with such a device.", "鎖;鎖上"], "locution": ["A particular word or phrase, especially one peculiar to a person or group.", "說法;措辭"], "logodaedaly": ["Arbitrary or capricious coining of words.", "任意造字;文字遊戲"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"allocate": ["To distribute, set aside.", "分配"], "analogous": ["Comparable, similar.", "類似的；可類比的"], "analogy": ["A comparison between two things to explain or clarify.", "類比；比喻"], "anthropology": ["Science of the origins and social relationships of humans.", "人類學"], "astrology": ["The study claiming that the positions of stars influence human affairs.", "占星學"], "biologist": ["A scientist who studies living organisms.", "生物學家"], "biology": ["The science that studies living organisms.", "生物學"], "breviloquent": ["Speaking in a brief, concise manner.", "言簡意賅的"], "cacology": ["Poor choice of words or bad style in speech or writing.", "措辭不當；文體拙劣"], "cardiologist": ["A doctor specializing in disorders of the heart.", "心臟科醫師"], "cardiology": ["The branch of medicine dealing with the heart and its diseases.", "心臟病學"], "chronological": ["Arranged in order of time.", "按時間順序的"], "circumlocution": ["Speaking in circles; roundabout speech.", "迂迴累贅的說法"], "circumlocutory": ["Using an indirect and wordy way of speaking, avoiding directness.", "拐彎抹角的；迂迴的"], "colloquial": ["Pertaining to common everyday speech; conversational.", "口語的；通俗的"], "dermatologist": ["A doctor specializing in skin disorders.", "皮膚科醫師"], "dermatology": ["The branch of medicine dealing with the skin.", "皮膚科學"], "dialogue": ["A conversation between two persons.", "對話"], "doctiloquent": ["Speaking in a learned or scholarly manner.", "博學善辯的"], "doxology": ["A short hymn of praise to God.", "頌榮詩；讚美詩"], "eloquence": ["Artful ease with speaking that impacts people's feelings.", "口才；雄辯"], "eloquent": ["Fluent or persuasive in speaking or writing.", "雄辯的；口才流利的"], "entomologist": ["A scientist who studies insects.", "昆蟲學家"], "entomology": ["The branch of zoology that studies insects.", "昆蟲學"], "epilogue": ["A short speech by an actor at the end of a play.", "尾聲；後記"], "etiology": ["The study of the causes of diseases or conditions.", "病因學"], "etymologist": ["A scholar who studies the origin and history of words.", "詞源學家"], "etymology": ["The history of words, their origin and development.", "詞源學"], "eulogize": ["To praise, as in a eulogy; to say good things about.", "頌揚"], "eulogy": ["A formal expression of praise for someone who has died.", "悼詞；頌詞"], "genealogy": ["An account of a family's or person's descent from an ancestor.", "家譜；系譜學"], "geologist": ["A scientist who studies the earth's physical structure and substances.", "地質學家"], "geology": ["Science of the history of the earth as recorded in rocks.", "地質學"], "gerontologist": ["A specialist who studies the non-medical aspects of aging.", "老年學家"], "gerontology": ["The branch of medical science that deals with old people.", "老年學"], "grandiloquence": ["Lofty, pompous language.", "誇大的言辭；浮誇"], "grandiloquent": ["Using big and fancy words when speaking for the purpose of impressing others.", "誇大其詞的"], "graphologist": ["A person who analyzes handwriting to assess personality traits.", "筆跡學家"], "graphology": ["The study of handwriting, especially as a means of analyzing character.", "筆跡學"], "gynaecology": ["The branch of medicine that deals with the diseases and hygiene of women.", "婦科學"], "gynecologist": ["A doctor specializing in female reproductive health.", "婦科醫師"], "gynecology": ["The branch of medicine dealing with female reproductive health.", "婦科學"], "ideologue": ["A person who strictly adheres to a particular ideology.", "意識形態的堅定信徒"], "ideology": ["A system of ideas and ideals forming the basis of a political or economic theory.", "意識形態"], "illogical": ["Lacking sense or clear, sound reasoning.", "不合邏輯的"], "interlocutor": ["Someone who participates in a dialogue or conversation.", "對話者；會談者"], "localized": ["Restricted to a specific area or part.", "局部的；地方性的"], "lock": ["A device for securing a door; to fasten with such a device.", "鎖；鎖上"], "locution": ["A particular word or phrase, especially one peculiar to a person or group.", "說法；措辭"], "logodaedaly": ["Arbitrary or capricious coining of words.", "任意造字；文字遊戲"]});

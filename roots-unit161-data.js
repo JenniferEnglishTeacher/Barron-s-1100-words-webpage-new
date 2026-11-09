@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "aficionado",
     "pos": "n.",
     "definition": "A person who is very knowledgeable and enthusiastic about an activity.",
-    "chinese": "狂熱愛好者;行家",
+    "chinese": "狂熱愛好者；行家",
     "synonyms": "",
     "root": "aficionar (to inspire affection, from Spanish)",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who is very knowledgeable and enthusiastic about an activity.",
-     "chinese": "狂熱愛好者;行家"
+     "chinese": "狂熱愛好者；行家"
     }
    },
    {
     "word": "afoot",
     "pos": "adj./adv.",
     "definition": "Happening or being planned; in progress.",
-    "chinese": "在進行中的;醞釀中的",
+    "chinese": "在進行中的；醞釀中的",
     "synonyms": "",
     "root": "a- (on) + foot",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Happening or being planned; in progress.",
-     "chinese": "在進行中的;醞釀中的"
+     "chinese": "在進行中的；醞釀中的"
     }
    },
    {
     "word": "aglow",
     "pos": "adj.",
     "definition": "Glowing; flushed or radiant with an emotion.",
-    "chinese": "發光的;容光煥發的",
+    "chinese": "發光的；容光煥發的",
     "synonyms": "",
     "root": "a- (in a state of) + glow",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Glowing; flushed or radiant with an emotion.",
-     "chinese": "發光的;容光煥發的"
+     "chinese": "發光的；容光煥發的"
     }
    },
    {
     "word": "agrarian",
     "pos": "adj.",
     "definition": "Relating to farming, cultivated land, or land ownership.",
-    "chinese": "農業的;土地的",
+    "chinese": "農業的；土地的",
     "synonyms": "",
     "root": "ager (field, from Latin)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to farming, cultivated land, or land ownership.",
-     "chinese": "農業的;土地的"
+     "chinese": "農業的；土地的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "aid",
     "pos": "n./v.",
     "definition": "Help or assistance; to help.",
-    "chinese": "援助;幫助",
+    "chinese": "援助；幫助",
     "synonyms": "",
     "root": "adjutare (to help, from Latin)",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Help or assistance; to help.",
-     "chinese": "援助;幫助"
+     "chinese": "援助；幫助"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "alchemy",
     "pos": "n.",
     "definition": "A medieval forerunner of chemistry, seeking to transform base metals into gold; a seemingly magical process of transformation.",
-    "chinese": "煉金術;神奇的變化",
+    "chinese": "煉金術；神奇的變化",
     "synonyms": "",
     "root": "al-kimiya (from Arabic)",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A medieval forerunner of chemistry, seeking to transform base metals into gold; a seemingly magical process of transformation.",
-     "chinese": "煉金術;神奇的變化"
+     "chinese": "煉金術；神奇的變化"
     }
    },
    {
     "word": "aleatory",
     "pos": "adj.",
     "definition": "Depending on chance or random outcomes.",
-    "chinese": "偶然的;取決於機率的",
+    "chinese": "偶然的；取決於機率的",
     "synonyms": "",
     "root": "alea (dice, from Latin)",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Depending on chance or random outcomes.",
-     "chinese": "偶然的;取決於機率的"
+     "chinese": "偶然的；取決於機率的"
     }
    },
    {
     "word": "alembic",
     "pos": "n.",
     "definition": "An apparatus used for distillation; something that refines or transforms.",
-    "chinese": "蒸餾器;提煉的過程",
+    "chinese": "蒸餾器；提煉的過程",
     "synonyms": "",
     "root": "al-anbiq (from Arabic)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An apparatus used for distillation; something that refines or transforms.",
-     "chinese": "蒸餾器;提煉的過程"
+     "chinese": "蒸餾器；提煉的過程"
     }
    },
    {
     "word": "alembicate",
     "pos": "v.",
     "definition": "To refine or purify, as if by distillation.",
-    "chinese": "提煉;精煉",
+    "chinese": "提煉；精煉",
     "synonyms": "",
     "root": "alembic + -ate",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To refine or purify, as if by distillation.",
-     "chinese": "提煉;精煉"
+     "chinese": "提煉；精煉"
     }
    },
    {
@@ -331,7 +331,7 @@ window.FLASHCARD_UNITS = {
     "word": "alien",
     "pos": "adj./n.",
     "definition": "Unfamiliar and foreign; a foreign national or being from another world.",
-    "chinese": "外國的;外星人",
+    "chinese": "外國的；外星人",
     "synonyms": "",
     "root": "alienus (belonging to another, from Latin)",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unfamiliar and foreign; a foreign national or being from another world.",
-     "chinese": "外國的;外星人"
+     "chinese": "外國的；外星人"
     }
    },
    {
     "word": "alienate",
     "pos": "v.",
     "definition": "To cause someone to feel isolated or estranged.",
-    "chinese": "疏遠;使產生隔閡",
+    "chinese": "疏遠；使產生隔閡",
     "synonyms": "",
     "root": "alienus (belonging to another, from Latin)",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause someone to feel isolated or estranged.",
-     "chinese": "疏遠;使產生隔閡"
+     "chinese": "疏遠；使產生隔閡"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "alms",
     "pos": "n.",
     "definition": "Money or goods given to the poor as charity.",
-    "chinese": "施捨;救濟品",
+    "chinese": "施捨；救濟品",
     "synonyms": "",
     "root": "eleemosyna (pity, from Greek)",
     "group": "",
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Money or goods given to the poor as charity.",
-     "chinese": "施捨;救濟品"
+     "chinese": "施捨；救濟品"
     }
    },
    {
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "word": "aloofness",
     "pos": "n.",
     "definition": "The state of being distant or unfriendly.",
-    "chinese": "冷淡;疏離",
+    "chinese": "冷淡；疏離",
     "synonyms": "",
     "root": "a- (to) + loof (windward, nautical term)",
     "group": "",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being distant or unfriendly.",
-     "chinese": "冷淡;疏離"
+     "chinese": "冷淡；疏離"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "analects",
     "pos": "n.",
     "definition": "A collection of short literary extracts or sayings.",
-    "chinese": "語錄;文選",
+    "chinese": "語錄；文選",
     "synonyms": "",
     "root": "analekta (things gathered up, from Greek)",
     "group": "",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A collection of short literary extracts or sayings.",
-     "chinese": "語錄;文選"
+     "chinese": "語錄；文選"
     }
    },
    {
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "word": "anchorite",
     "pos": "n.",
     "definition": "A person who lives in seclusion for religious reasons.",
-    "chinese": "隱修士;隱士",
+    "chinese": "隱修士；隱士",
     "synonyms": "",
     "root": "anachoretes (one who withdraws, from Greek)",
     "group": "",
@@ -860,7 +860,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who lives in seclusion for religious reasons.",
-     "chinese": "隱修士;隱士"
+     "chinese": "隱修士；隱士"
     }
    },
    {
@@ -886,7 +886,7 @@ window.FLASHCARD_UNITS = {
     "word": "ancient",
     "pos": "adj.",
     "definition": "Belonging to the very distant past; very old.",
-    "chinese": "古代的;古老的",
+    "chinese": "古代的；古老的",
     "synonyms": "",
     "root": "ante (before, from Latin)",
     "group": "",
@@ -898,14 +898,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Belonging to the very distant past; very old.",
-     "chinese": "古代的;古老的"
+     "chinese": "古代的；古老的"
     }
    },
    {
     "word": "androgynous",
     "pos": "adj.",
     "definition": "Having both male and female characteristics; not clearly one gender.",
-    "chinese": "雌雄同體的;中性的",
+    "chinese": "雌雄同體的；中性的",
     "synonyms": "",
     "root": "andro- (man) + gyne (woman), from Greek",
     "group": "",
@@ -917,7 +917,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having both male and female characteristics; not clearly one gender.",
-     "chinese": "雌雄同體的;中性的"
+     "chinese": "雌雄同體的；中性的"
     }
    },
    {
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"aegis": ["Shield, protection, sponsorship.", "庇護；贊助"], "aerial": ["Somehow related to the air.", "空中的"], "aeronausiphobia": ["An abnormal fear of getting airsick.", "暈機恐懼症"], "aesthetic": ["Having to do with artistic beauty.", "美學的"], "aficionado": ["A person who is very knowledgeable and enthusiastic about an activity.", "狂熱愛好者;行家"], "afoot": ["Happening or being planned; in progress.", "在進行中的;醞釀中的"], "aglow": ["Glowing; flushed or radiant with an emotion.", "發光的;容光煥發的"], "agrarian": ["Relating to farming, cultivated land, or land ownership.", "農業的;土地的"], "agriculture": ["Farming.", "農業"], "aid": ["Help or assistance; to help.", "援助;幫助"], "aisle": ["A passageway between rows of seats.", "走道"], "alacrity": ["Briskness, lively action.", "敏捷；活潑"], "alchemy": ["A medieval forerunner of chemistry, seeking to transform base metals into gold; a seemingly magical process of transformation.", "煉金術;神奇的變化"], "aleatory": ["Depending on chance or random outcomes.", "偶然的;取決於機率的"], "alembic": ["An apparatus used for distillation; something that refines or transforms.", "蒸餾器;提煉的過程"], "alembicate": ["To refine or purify, as if by distillation.", "提煉;精煉"], "alias": ["A false name or identity.", "化名；別名"], "alien": ["Unfamiliar and foreign; a foreign national or being from another world.", "外國的;外星人"], "alienate": ["To cause someone to feel isolated or estranged.", "疏遠;使產生隔閡"], "alimentary": ["Relating to food and nourishment.", "營養的；飲食的"], "alligator": ["A large reptile similar to a crocodile, found mainly in the Americas and China.", "短吻鱷"], "allodoxaphobia": ["An abnormal fear of hearing other people's opinions.", "他人意見恐懼症"], "alma mater": ["The school, college, or university one has attended.", "母校"], "alms": ["Money or goods given to the poor as charity.", "施捨;救濟品"], "aloof": ["Reserved, apart, distant.", "冷淡的；疏遠的"], "aloofness": ["The state of being distant or unfriendly.", "冷淡;疏離"], "amalgamate": ["To bring together, unite.", "合併；融合"], "ambidextrous": ["Equally skillful with each hand.", "左右手同樣靈活的"], "ambisinister": ["Clumsy with both hands (the opposite of ambidextrous).", "雙手皆笨拙的"], "ambisinistrous": ["Equally clumsy or awkward with either hand.", "雙手同樣笨拙的"], "ambivalence": ["Mixed or conflicting feelings.", "矛盾情感；猶豫不決"], "ambivalent": ["Unsure, conflicted feelings or opinions about something.", "矛盾的"], "amnesty": ["General pardon.", "大赦；特赦"], "amorphous": ["Without definite shape or type.", "無定形的"], "ample": ["Abundant; plentiful; enough or more than enough.", "充裕的"], "amplify": ["To increase the volume or intensity of something.", "放大；增強"], "amusing": ["Entertaining or humorous.", "有趣的；好笑的"], "anadiplosis": ["A rhetorical device repeating the last word of one clause at the start of the next.", "頂真法(修辭格)"], "analects": ["A collection of short literary extracts or sayings.", "語錄;文選"], "analgesic": ["Something that reduces pain.", "止痛藥；止痛的"], "anapest": ["A metrical foot of two short syllables followed by a long one.", "抑抑揚格(詩律)"], "anaphora": ["The repetition of a word or phrase at the beginning of successive clauses.", "首語重複法(修辭格)"], "anaphoric": ["Referring back to a previously mentioned word or phrase.", "回指的(語言學)"], "anathema": ["Something greatly detested.", "令人厭惡的事物；詛咒"], "anchorite": ["A person who lives in seclusion for religious reasons.", "隱修士;隱士"], "anchovy": ["A small, strong-flavored fish often used salted or in sauces.", "鯷魚"], "ancient": ["Belonging to the very distant past; very old.", "古代的;古老的"], "androgynous": ["Having both male and female characteristics; not clearly one gender.", "雌雄同體的;中性的"], "anecdote": ["A short, humorous account.", "軼事；趣聞"], "anesthesia": ["Loss of sensation.", "麻醉"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"aegis": ["Shield, protection, sponsorship.", "庇護；贊助"], "aerial": ["Somehow related to the air.", "空中的"], "aeronausiphobia": ["An abnormal fear of getting airsick.", "暈機恐懼症"], "aesthetic": ["Having to do with artistic beauty.", "美學的"], "aficionado": ["A person who is very knowledgeable and enthusiastic about an activity.", "狂熱愛好者；行家"], "afoot": ["Happening or being planned; in progress.", "在進行中的；醞釀中的"], "aglow": ["Glowing; flushed or radiant with an emotion.", "發光的；容光煥發的"], "agrarian": ["Relating to farming, cultivated land, or land ownership.", "農業的；土地的"], "agriculture": ["Farming.", "農業"], "aid": ["Help or assistance; to help.", "援助；幫助"], "aisle": ["A passageway between rows of seats.", "走道"], "alacrity": ["Briskness, lively action.", "敏捷；活潑"], "alchemy": ["A medieval forerunner of chemistry, seeking to transform base metals into gold; a seemingly magical process of transformation.", "煉金術；神奇的變化"], "aleatory": ["Depending on chance or random outcomes.", "偶然的；取決於機率的"], "alembic": ["An apparatus used for distillation; something that refines or transforms.", "蒸餾器；提煉的過程"], "alembicate": ["To refine or purify, as if by distillation.", "提煉；精煉"], "alias": ["A false name or identity.", "化名；別名"], "alien": ["Unfamiliar and foreign; a foreign national or being from another world.", "外國的；外星人"], "alienate": ["To cause someone to feel isolated or estranged.", "疏遠；使產生隔閡"], "alimentary": ["Relating to food and nourishment.", "營養的；飲食的"], "alligator": ["A large reptile similar to a crocodile, found mainly in the Americas and China.", "短吻鱷"], "allodoxaphobia": ["An abnormal fear of hearing other people's opinions.", "他人意見恐懼症"], "alma mater": ["The school, college, or university one has attended.", "母校"], "alms": ["Money or goods given to the poor as charity.", "施捨；救濟品"], "aloof": ["Reserved, apart, distant.", "冷淡的；疏遠的"], "aloofness": ["The state of being distant or unfriendly.", "冷淡；疏離"], "amalgamate": ["To bring together, unite.", "合併；融合"], "ambidextrous": ["Equally skillful with each hand.", "左右手同樣靈活的"], "ambisinister": ["Clumsy with both hands (the opposite of ambidextrous).", "雙手皆笨拙的"], "ambisinistrous": ["Equally clumsy or awkward with either hand.", "雙手同樣笨拙的"], "ambivalence": ["Mixed or conflicting feelings.", "矛盾情感；猶豫不決"], "ambivalent": ["Unsure, conflicted feelings or opinions about something.", "矛盾的"], "amnesty": ["General pardon.", "大赦；特赦"], "amorphous": ["Without definite shape or type.", "無定形的"], "ample": ["Abundant; plentiful; enough or more than enough.", "充裕的"], "amplify": ["To increase the volume or intensity of something.", "放大；增強"], "amusing": ["Entertaining or humorous.", "有趣的；好笑的"], "anadiplosis": ["A rhetorical device repeating the last word of one clause at the start of the next.", "頂真法(修辭格)"], "analects": ["A collection of short literary extracts or sayings.", "語錄；文選"], "analgesic": ["Something that reduces pain.", "止痛藥；止痛的"], "anapest": ["A metrical foot of two short syllables followed by a long one.", "抑抑揚格(詩律)"], "anaphora": ["The repetition of a word or phrase at the beginning of successive clauses.", "首語重複法(修辭格)"], "anaphoric": ["Referring back to a previously mentioned word or phrase.", "回指的(語言學)"], "anathema": ["Something greatly detested.", "令人厭惡的事物；詛咒"], "anchorite": ["A person who lives in seclusion for religious reasons.", "隱修士；隱士"], "anchovy": ["A small, strong-flavored fish often used salted or in sauces.", "鯷魚"], "ancient": ["Belonging to the very distant past; very old.", "古代的；古老的"], "androgynous": ["Having both male and female characteristics; not clearly one gender.", "雌雄同體的；中性的"], "anecdote": ["A short, humorous account.", "軼事；趣聞"], "anesthesia": ["Loss of sensation.", "麻醉"]});

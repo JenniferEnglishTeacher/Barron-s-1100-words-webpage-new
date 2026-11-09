@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "coup de grâce",
     "pos": "n.",
     "definition": "A decisive final blow that ends a struggle.",
-    "chinese": "致命一擊;最後一擊",
+    "chinese": "致命一擊；最後一擊",
     "synonyms": "",
     "root": "French coup (blow) + de grâce (of mercy)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A decisive final blow that ends a struggle.",
-     "chinese": "致命一擊;最後一擊"
+     "chinese": "致命一擊；最後一擊"
     }
    },
    {
     "word": "coupon",
     "pos": "n.",
     "definition": "A voucher entitling the holder to a discount.",
-    "chinese": "折價券;優惠券",
+    "chinese": "折價券；優惠券",
     "synonyms": "",
     "root": "couper (to cut), from French",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A voucher entitling the holder to a discount.",
-     "chinese": "折價券;優惠券"
+     "chinese": "折價券；優惠券"
     }
    },
    {
     "word": "courteous",
     "pos": "adj.",
     "definition": "Polite and considerate in manner.",
-    "chinese": "有禮貌的;謙恭的",
+    "chinese": "有禮貌的；謙恭的",
     "synonyms": "",
     "root": "court, from Latin cohors (enclosure, retinue)",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Polite and considerate in manner.",
-     "chinese": "有禮貌的;謙恭的"
+     "chinese": "有禮貌的；謙恭的"
     }
    },
    {
     "word": "courteousness",
     "pos": "n.",
     "definition": "The quality of being polite and considerate.",
-    "chinese": "禮貌;謙恭",
+    "chinese": "禮貌；謙恭",
     "synonyms": "",
     "root": "court, from Latin cohors (enclosure, retinue)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being polite and considerate.",
-     "chinese": "禮貌;謙恭"
+     "chinese": "禮貌；謙恭"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "courtly",
     "pos": "adj.",
     "definition": "Having refined, elegant manners fit for a royal court.",
-    "chinese": "宮廷式的;文雅的",
+    "chinese": "宮廷式的；文雅的",
     "synonyms": "",
     "root": "court, from Latin cohors (enclosure, retinue)",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having refined, elegant manners fit for a royal court.",
-     "chinese": "宮廷式的;文雅的"
+     "chinese": "宮廷式的；文雅的"
     }
    },
    {
     "word": "courtship",
     "pos": "n.",
     "definition": "A period during which a romantic relationship develops before marriage.",
-    "chinese": "追求;求愛期",
+    "chinese": "追求；求愛期",
     "synonyms": "",
     "root": "court, from Latin cohors (enclosure, retinue)",
     "group": "",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A period during which a romantic relationship develops before marriage.",
-     "chinese": "追求;求愛期"
+     "chinese": "追求；求愛期"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "covetous",
     "pos": "adj.",
     "definition": "Having a strong desire for something belonging to another.",
-    "chinese": "貪婪的;垂涎的",
+    "chinese": "貪婪的；垂涎的",
     "synonyms": "",
     "root": "cupere (to desire), from Latin",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a strong desire for something belonging to another.",
-     "chinese": "貪婪的;垂涎的"
+     "chinese": "貪婪的；垂涎的"
     }
    },
    {
     "word": "covetousness",
     "pos": "n.",
     "definition": "An excessive desire for wealth or possessions.",
-    "chinese": "貪婪;貪欲",
+    "chinese": "貪婪；貪欲",
     "synonyms": "",
     "root": "cupere (to desire), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive desire for wealth or possessions.",
-     "chinese": "貪婪;貪欲"
+     "chinese": "貪婪；貪欲"
     }
    },
    {
     "word": "coxcomb",
     "pos": "n.",
     "definition": "A vain and conceited man; a fool.",
-    "chinese": "花花公子;自負的蠢人",
+    "chinese": "花花公子；自負的蠢人",
     "synonyms": "",
     "root": "cock's comb, from Middle English",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A vain and conceited man; a fool.",
-     "chinese": "花花公子;自負的蠢人"
+     "chinese": "花花公子；自負的蠢人"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "cozen",
     "pos": "v.",
     "definition": "To deceive or trick someone.",
-    "chinese": "欺騙;哄騙",
+    "chinese": "欺騙；哄騙",
     "synonyms": "",
     "root": "possibly from Italian cozzonare (to cheat in trading horses)",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To deceive or trick someone.",
-     "chinese": "欺騙;哄騙"
+     "chinese": "欺騙；哄騙"
     }
    },
    {
     "word": "crabbed",
     "pos": "adj.",
     "definition": "Irritable and bad-tempered; cramped and difficult to read.",
-    "chinese": "脾氣暴躁的;難以辨認的",
+    "chinese": "脾氣暴躁的；難以辨認的",
     "synonyms": "",
     "root": "crab (the animal)",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritable and bad-tempered; cramped and difficult to read.",
-     "chinese": "脾氣暴躁的;難以辨認的"
+     "chinese": "脾氣暴躁的；難以辨認的"
     }
    },
    {
     "word": "crabbedness",
     "pos": "n.",
     "definition": "Irritability; illegibility of style.",
-    "chinese": "暴躁;難懂",
+    "chinese": "暴躁；難懂",
     "synonyms": "",
     "root": "crab (the animal)",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritability; illegibility of style.",
-     "chinese": "暴躁;難懂"
+     "chinese": "暴躁；難懂"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "cram",
     "pos": "v.",
     "definition": "To force into a small space; to study intensively before a test.",
-    "chinese": "塞滿;臨時抱佛腳",
+    "chinese": "塞滿；臨時抱佛腳",
     "synonyms": "",
     "root": "from Old English crammian",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To force into a small space; to study intensively before a test.",
-     "chinese": "塞滿;臨時抱佛腳"
+     "chinese": "塞滿；臨時抱佛腳"
     }
    },
    {
     "word": "crammed",
     "pos": "adj.",
     "definition": "Filled to capacity; overfull.",
-    "chinese": "擁擠的;塞滿的",
+    "chinese": "擁擠的；塞滿的",
     "synonyms": "",
     "root": "from Old English crammian",
     "group": "",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled to capacity; overfull.",
-     "chinese": "擁擠的;塞滿的"
+     "chinese": "擁擠的；塞滿的"
     }
    },
    {
     "word": "cranky",
     "pos": "adj.",
     "definition": "Irritable or easily annoyed.",
-    "chinese": "易怒的;脾氣壞的",
+    "chinese": "易怒的；脾氣壞的",
     "synonyms": "",
     "root": "crank, of uncertain origin",
     "group": "",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritable or easily annoyed.",
-     "chinese": "易怒的;脾氣壞的"
+     "chinese": "易怒的；脾氣壞的"
     }
    },
    {
     "word": "cranny",
     "pos": "n.",
     "definition": "A small narrow opening or crevice.",
-    "chinese": "裂縫;縫隙",
+    "chinese": "裂縫；縫隙",
     "synonyms": "",
     "root": "possibly from Old French cran (notch)",
     "group": "",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small narrow opening or crevice.",
-     "chinese": "裂縫;縫隙"
+     "chinese": "裂縫；縫隙"
     }
    },
    {
     "word": "crap",
     "pos": "n.",
     "definition": "Nonsense; worthless material (informal).",
-    "chinese": "廢話;垃圾(口語)",
+    "chinese": "廢話；垃圾(口語)",
     "synonyms": "",
     "root": "possibly from Middle English crappe (chaff)",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Nonsense; worthless material (informal).",
-     "chinese": "廢話;垃圾(口語)"
+     "chinese": "廢話；垃圾(口語)"
     }
    },
    {
     "word": "crapulence",
     "pos": "n.",
     "definition": "Sickness caused by excessive eating or drinking.",
-    "chinese": "宿醉;飲食過量之不適",
+    "chinese": "宿醉；飲食過量之不適",
     "synonyms": "",
     "root": "crapula (intoxication), from Latin",
     "group": "",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sickness caused by excessive eating or drinking.",
-     "chinese": "宿醉;飲食過量之不適"
+     "chinese": "宿醉；飲食過量之不適"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "craven",
     "pos": "adj.",
     "definition": "Contemptibly cowardly.",
-    "chinese": "懦弱的;卑怯的",
+    "chinese": "懦弱的；卑怯的",
     "synonyms": "",
     "root": "possibly from Old French cravanté (defeated)",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Contemptibly cowardly.",
-     "chinese": "懦弱的;卑怯的"
+     "chinese": "懦弱的；卑怯的"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "crenel",
     "pos": "n.",
     "definition": "One of the open spaces alternating with raised sections along the top of a battlement.",
-    "chinese": "雉堞缺口;城垛間隙",
+    "chinese": "雉堞缺口；城垛間隙",
     "synonyms": "",
     "root": "from Old French crenel (notch)",
     "group": "",
@@ -556,7 +556,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "One of the open spaces alternating with raised sections along the top of a battlement.",
-     "chinese": "雉堞缺口;城垛間隙"
+     "chinese": "雉堞缺口；城垛間隙"
     }
    },
    {
@@ -620,7 +620,7 @@ window.FLASHCARD_UNITS = {
     "word": "crepitation",
     "pos": "n.",
     "definition": "A crackling sound or sensation.",
-    "chinese": "爆裂聲;劈啪聲",
+    "chinese": "爆裂聲；劈啪聲",
     "synonyms": "",
     "root": "crepitare (to rattle), from Latin",
     "group": "",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A crackling sound or sensation.",
-     "chinese": "爆裂聲;劈啪聲"
+     "chinese": "爆裂聲；劈啪聲"
     }
    },
    {
     "word": "crepuscular",
     "pos": "adj.",
     "definition": "Relating to twilight; active at dawn and dusk.",
-    "chinese": "黃昏的;晨昏活動的",
+    "chinese": "黃昏的；晨昏活動的",
     "synonyms": "",
     "root": "crepusculum (twilight), from Latin",
     "group": "",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to twilight; active at dawn and dusk.",
-     "chinese": "黃昏的;晨昏活動的"
+     "chinese": "黃昏的；晨昏活動的"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "crescent",
     "pos": "n./adj.",
     "definition": "The curved shape of the moon in its early or last quarter.",
-    "chinese": "新月;新月形的",
+    "chinese": "新月；新月形的",
     "synonyms": "",
     "root": "crescere (to grow), from Latin",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The curved shape of the moon in its early or last quarter.",
-     "chinese": "新月;新月形的"
+     "chinese": "新月；新月形的"
     }
    },
    {
     "word": "crevice",
     "pos": "n.",
     "definition": "A narrow crack or gap, especially in rock.",
-    "chinese": "裂縫;縫隙",
+    "chinese": "裂縫；縫隙",
     "synonyms": "",
     "root": "crepare (to crack), from Latin",
     "group": "",
@@ -708,14 +708,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A narrow crack or gap, especially in rock.",
-     "chinese": "裂縫;縫隙"
+     "chinese": "裂縫；縫隙"
     }
    },
    {
     "word": "cri de coeur",
     "pos": "n.",
     "definition": "A passionate appeal or protest from the heart.",
-    "chinese": "發自內心的呼籲;肺腑之言",
+    "chinese": "發自內心的呼籲；肺腑之言",
     "synonyms": "",
     "root": "French cri (cry) + de coeur (of the heart)",
     "group": "",
@@ -727,7 +727,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A passionate appeal or protest from the heart.",
-     "chinese": "發自內心的呼籲;肺腑之言"
+     "chinese": "發自內心的呼籲；肺腑之言"
     }
    },
    {
@@ -791,7 +791,7 @@ window.FLASHCARD_UNITS = {
     "word": "critic",
     "pos": "n.",
     "definition": "A person who judges or evaluates something, often art.",
-    "chinese": "評論家;批評者",
+    "chinese": "評論家；批評者",
     "synonyms": "",
     "root": "krinein (to judge), from Greek",
     "group": "",
@@ -803,7 +803,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who judges or evaluates something, often art.",
-     "chinese": "評論家;批評者"
+     "chinese": "評論家；批評者"
     }
    },
    {
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "word": "critique",
     "pos": "n./v.",
     "definition": "A detailed analysis and assessment.",
-    "chinese": "評論;評析",
+    "chinese": "評論；評析",
     "synonyms": "",
     "root": "krinein (to judge), from Greek",
     "group": "",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A detailed analysis and assessment.",
-     "chinese": "評論;評析"
+     "chinese": "評論；評析"
     }
    },
    {
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
     "word": "cross",
     "pos": "adj./v.",
     "definition": "Annoyed or angry; to go across.",
-    "chinese": "生氣的;穿越",
+    "chinese": "生氣的；穿越",
     "synonyms": "",
     "root": "crux (cross), from Latin",
     "group": "",
@@ -902,14 +902,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Annoyed or angry; to go across.",
-     "chinese": "生氣的;穿越"
+     "chinese": "生氣的；穿越"
     }
    },
    {
     "word": "crotchet",
     "pos": "n.",
     "definition": "A whimsical or eccentric notion; a musical quarter note.",
-    "chinese": "怪念頭;四分音符",
+    "chinese": "怪念頭；四分音符",
     "synonyms": "",
     "root": "croc (hook), from Old French",
     "group": "",
@@ -923,14 +923,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A whimsical or eccentric notion; a musical quarter note.",
-     "chinese": "怪念頭;四分音符"
+     "chinese": "怪念頭；四分音符"
     }
    },
    {
     "word": "crotchety",
     "pos": "adj.",
     "definition": "Irritable and easily annoyed, especially in old age.",
-    "chinese": "脾氣古怪的;易怒的",
+    "chinese": "脾氣古怪的；易怒的",
     "synonyms": "",
     "root": "croc (hook), from Old French",
     "group": "",
@@ -942,7 +942,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritable and easily annoyed, especially in old age.",
-     "chinese": "脾氣古怪的;易怒的"
+     "chinese": "脾氣古怪的；易怒的"
     }
    },
    {
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coup de grâce": ["A decisive final blow that ends a struggle.", "致命一擊;最後一擊"], "coupon": ["A voucher entitling the holder to a discount.", "折價券;優惠券"], "courteous": ["Polite and considerate in manner.", "有禮貌的;謙恭的"], "courteousness": ["The quality of being polite and considerate.", "禮貌;謙恭"], "courtesan": ["A woman who had sexual relations with wealthy or high-ranking men for compensation.", "交際花"], "courtly": ["Having refined, elegant manners fit for a royal court.", "宮廷式的;文雅的"], "courtship": ["A period during which a romantic relationship develops before marriage.", "追求;求愛期"], "covert": ["Secret, hidden.", "隱蔽的；秘密的"], "covet": ["To want, envy, wish.", "垂涎；貪求"], "covetous": ["Having a strong desire for something belonging to another.", "貪婪的;垂涎的"], "covetousness": ["An excessive desire for wealth or possessions.", "貪婪;貪欲"], "coxcomb": ["A vain and conceited man; a fool.", "花花公子;自負的蠢人"], "coyote": ["A wolf-like wild dog native to North America.", "郊狼"], "cozen": ["To deceive or trick someone.", "欺騙;哄騙"], "crabbed": ["Irritable and bad-tempered; cramped and difficult to read.", "脾氣暴躁的;難以辨認的"], "crabbedness": ["Irritability; illegibility of style.", "暴躁;難懂"], "crafty": ["Cleverly cunning or deceitful.", "狡猾的"], "cram": ["To force into a small space; to study intensively before a test.", "塞滿;臨時抱佛腳"], "crammed": ["Filled to capacity; overfull.", "擁擠的;塞滿的"], "cranky": ["Irritable or easily annoyed.", "易怒的;脾氣壞的"], "cranny": ["A small narrow opening or crevice.", "裂縫;縫隙"], "crap": ["Nonsense; worthless material (informal).", "廢話;垃圾(口語)"], "crapulence": ["Sickness caused by excessive eating or drinking.", "宿醉;飲食過量之不適"], "crapulent": ["Sick from excessive eating or drinking.", "因暴飲暴食而不適的"], "crapulous": ["Given to gross excess in eating or drinking.", "縱情暴食的"], "crave": ["To desire.", "渴望；懇求"], "craven": ["Contemptibly cowardly.", "懦弱的;卑怯的"], "crazed": ["Wildly out of control; insane.", "瘋狂的"], "crenel": ["One of the open spaces alternating with raised sections along the top of a battlement.", "雉堞缺口;城垛間隙"], "crepitaculum": ["The rattle of a rattlesnake's tail.", "響尾蛇的尾部響環"], "crepitant": ["Making a crackling or rattling sound.", "發出爆裂聲的"], "crepitate": ["To make a crackling sound.", "發出爆裂聲"], "crepitation": ["A crackling sound or sensation.", "爆裂聲;劈啪聲"], "crepuscular": ["Relating to twilight; active at dawn and dusk.", "黃昏的;晨昏活動的"], "crescendo": ["A steady increase in intensity or volume.", "漸強；高潮"], "crescent": ["The curved shape of the moon in its early or last quarter.", "新月;新月形的"], "crevice": ["A narrow crack or gap, especially in rock.", "裂縫;縫隙"], "cri de coeur": ["A passionate appeal or protest from the heart.", "發自內心的呼籲;肺腑之言"], "crisis": ["A time of intense difficulty or danger.", "危機"], "criteria": ["Standards by which something is judged.", "標準；準則"], "criterion": ["Test, model, standard.", "標準；準則"], "critic": ["A person who judges or evaluates something, often art.", "評論家;批評者"], "critical": ["Extremely important; essential for a particular purpose; involving an analysis or judgment.", "至關重要的；批判性的"], "criticize": ["To express disapproval.", "批評"], "critique": ["A detailed analysis and assessment.", "評論;評析"], "crocus": ["A small flowering plant that blooms in early spring.", "番紅花"], "cross": ["Annoyed or angry; to go across.", "生氣的;穿越"], "crotchet": ["A whimsical or eccentric notion; a musical quarter note.", "怪念頭;四分音符"], "crotchety": ["Irritable and easily annoyed, especially in old age.", "脾氣古怪的;易怒的"], "cruciverbalist": ["A person skilled in creating or solving crossword puzzles.", "縱橫字謎愛好者"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coup de grâce": ["A decisive final blow that ends a struggle.", "致命一擊；最後一擊"], "coupon": ["A voucher entitling the holder to a discount.", "折價券；優惠券"], "courteous": ["Polite and considerate in manner.", "有禮貌的；謙恭的"], "courteousness": ["The quality of being polite and considerate.", "禮貌；謙恭"], "courtesan": ["A woman who had sexual relations with wealthy or high-ranking men for compensation.", "交際花"], "courtly": ["Having refined, elegant manners fit for a royal court.", "宮廷式的；文雅的"], "courtship": ["A period during which a romantic relationship develops before marriage.", "追求；求愛期"], "covert": ["Secret, hidden.", "隱蔽的；秘密的"], "covet": ["To want, envy, wish.", "垂涎；貪求"], "covetous": ["Having a strong desire for something belonging to another.", "貪婪的；垂涎的"], "covetousness": ["An excessive desire for wealth or possessions.", "貪婪；貪欲"], "coxcomb": ["A vain and conceited man; a fool.", "花花公子；自負的蠢人"], "coyote": ["A wolf-like wild dog native to North America.", "郊狼"], "cozen": ["To deceive or trick someone.", "欺騙；哄騙"], "crabbed": ["Irritable and bad-tempered; cramped and difficult to read.", "脾氣暴躁的；難以辨認的"], "crabbedness": ["Irritability; illegibility of style.", "暴躁；難懂"], "crafty": ["Cleverly cunning or deceitful.", "狡猾的"], "cram": ["To force into a small space; to study intensively before a test.", "塞滿；臨時抱佛腳"], "crammed": ["Filled to capacity; overfull.", "擁擠的；塞滿的"], "cranky": ["Irritable or easily annoyed.", "易怒的；脾氣壞的"], "cranny": ["A small narrow opening or crevice.", "裂縫；縫隙"], "crap": ["Nonsense; worthless material (informal).", "廢話；垃圾(口語)"], "crapulence": ["Sickness caused by excessive eating or drinking.", "宿醉；飲食過量之不適"], "crapulent": ["Sick from excessive eating or drinking.", "因暴飲暴食而不適的"], "crapulous": ["Given to gross excess in eating or drinking.", "縱情暴食的"], "crave": ["To desire.", "渴望；懇求"], "craven": ["Contemptibly cowardly.", "懦弱的；卑怯的"], "crazed": ["Wildly out of control; insane.", "瘋狂的"], "crenel": ["One of the open spaces alternating with raised sections along the top of a battlement.", "雉堞缺口；城垛間隙"], "crepitaculum": ["The rattle of a rattlesnake's tail.", "響尾蛇的尾部響環"], "crepitant": ["Making a crackling or rattling sound.", "發出爆裂聲的"], "crepitate": ["To make a crackling sound.", "發出爆裂聲"], "crepitation": ["A crackling sound or sensation.", "爆裂聲；劈啪聲"], "crepuscular": ["Relating to twilight; active at dawn and dusk.", "黃昏的；晨昏活動的"], "crescendo": ["A steady increase in intensity or volume.", "漸強；高潮"], "crescent": ["The curved shape of the moon in its early or last quarter.", "新月；新月形的"], "crevice": ["A narrow crack or gap, especially in rock.", "裂縫；縫隙"], "cri de coeur": ["A passionate appeal or protest from the heart.", "發自內心的呼籲；肺腑之言"], "crisis": ["A time of intense difficulty or danger.", "危機"], "criteria": ["Standards by which something is judged.", "標準；準則"], "criterion": ["Test, model, standard.", "標準；準則"], "critic": ["A person who judges or evaluates something, often art.", "評論家；批評者"], "critical": ["Extremely important; essential for a particular purpose; involving an analysis or judgment.", "至關重要的；批判性的"], "criticize": ["To express disapproval.", "批評"], "critique": ["A detailed analysis and assessment.", "評論；評析"], "crocus": ["A small flowering plant that blooms in early spring.", "番紅花"], "cross": ["Annoyed or angry; to go across.", "生氣的；穿越"], "crotchet": ["A whimsical or eccentric notion; a musical quarter note.", "怪念頭；四分音符"], "crotchety": ["Irritable and easily annoyed, especially in old age.", "脾氣古怪的；易怒的"], "cruciverbalist": ["A person skilled in creating or solving crossword puzzles.", "縱橫字謎愛好者"]});

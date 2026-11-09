@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "mediocre",
     "pos": "adj.",
     "definition": "Of only moderate quality; not very good.",
-    "chinese": "平庸的;普通的",
+    "chinese": "平庸的；普通的",
     "synonyms": "",
     "root": "medius (middle) + ocris (rugged mountain), from Latin",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of only moderate quality; not very good.",
-     "chinese": "平庸的;普通的"
+     "chinese": "平庸的；普通的"
     }
    },
    {
     "word": "meditate",
     "pos": "v.",
     "definition": "To focus one's mind for relaxation or spiritual purposes; to think deeply.",
-    "chinese": "冥想;沉思",
+    "chinese": "冥想；沉思",
     "synonyms": "",
     "root": "meditari (to reflect on), from Latin",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To focus one's mind for relaxation or spiritual purposes; to think deeply.",
-     "chinese": "冥想;沉思"
+     "chinese": "冥想；沉思"
     }
    },
    {
     "word": "medium",
     "pos": "n./adj.",
     "definition": "A means of communication or expression; intermediate in size or amount.",
-    "chinese": "媒介;中等的",
+    "chinese": "媒介；中等的",
     "synonyms": "",
     "root": "medius (middle), from Latin",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A means of communication or expression; intermediate in size or amount.",
-     "chinese": "媒介;中等的"
+     "chinese": "媒介；中等的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "meek",
     "pos": "adj.",
     "definition": "Quiet, gentle, and submissive.",
-    "chinese": "溫順的;謙卑的",
+    "chinese": "溫順的；謙卑的",
     "synonyms": "",
     "root": "mjukr (soft, gentle), from Old Norse",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Quiet, gentle, and submissive.",
-     "chinese": "溫順的;謙卑的"
+     "chinese": "溫順的；謙卑的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "megalomaniac",
     "pos": "n./adj.",
     "definition": "A person with an obsessive desire for power or grandeur.",
-    "chinese": "誇大妄想狂;自大狂",
+    "chinese": "誇大妄想狂；自大狂",
     "synonyms": "",
     "root": "megas (great) + mania (madness), from Greek",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person with an obsessive desire for power or grandeur.",
-     "chinese": "誇大妄想狂;自大狂"
+     "chinese": "誇大妄想狂；自大狂"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "megalopolis",
     "pos": "n.",
     "definition": "A very large, heavily populated city or urban complex.",
-    "chinese": "巨型都市;大都會區",
+    "chinese": "巨型都市；大都會區",
     "synonyms": "",
     "root": "megas (great) + polis (city), from Greek",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A very large, heavily populated city or urban complex.",
-     "chinese": "巨型都市;大都會區"
+     "chinese": "巨型都市；大都會區"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "melange",
     "pos": "n.",
     "definition": "A mixture of different things.",
-    "chinese": "混合物;大雜燴",
+    "chinese": "混合物；大雜燴",
     "synonyms": "",
     "root": "mélange (mixture), from French mêler (to mix)",
     "group": "",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A mixture of different things.",
-     "chinese": "混合物;大雜燴"
+     "chinese": "混合物；大雜燴"
     }
    },
    {
     "word": "melioration",
     "pos": "n.",
     "definition": "The act or process of improving something.",
-    "chinese": "改善;改良",
+    "chinese": "改善；改良",
     "synonyms": "",
     "root": "meliorare (to make better), from Latin melior (better)",
     "group": "",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act or process of improving something.",
-     "chinese": "改善;改良"
+     "chinese": "改善；改良"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "mellow",
     "pos": "adj./v.",
     "definition": "Pleasantly smooth or soft; to become gentler with time.",
-    "chinese": "溫和的;變得成熟圓融",
+    "chinese": "溫和的；變得成熟圓融",
     "synonyms": "",
     "root": "melu (soft, mellow), from Old English",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pleasantly smooth or soft; to become gentler with time.",
-     "chinese": "溫和的;變得成熟圓融"
+     "chinese": "溫和的；變得成熟圓融"
     }
    },
    {
     "word": "melodious",
     "pos": "adj.",
     "definition": "Pleasant to hear, like music.",
-    "chinese": "悅耳的;旋律優美的",
+    "chinese": "悅耳的；旋律優美的",
     "synonyms": "",
     "root": "melodia (song, chant), from Greek melos (song) + oide (ode)",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pleasant to hear, like music.",
-     "chinese": "悅耳的;旋律優美的"
+     "chinese": "悅耳的；旋律優美的"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "mendacity",
     "pos": "n.",
     "definition": "The tendency to lie; untruthfulness.",
-    "chinese": "虛偽;說謊成性",
+    "chinese": "虛偽；說謊成性",
     "synonyms": "",
     "root": "mendax (lying), from Latin",
     "group": "",
@@ -423,14 +423,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The tendency to lie; untruthfulness.",
-     "chinese": "虛偽;說謊成性"
+     "chinese": "虛偽；說謊成性"
     }
    },
    {
     "word": "mendicant",
     "pos": "n./adj.",
     "definition": "A beggar; relating to begging, especially a religious order that relies on alms.",
-    "chinese": "乞丐;托缽修道的",
+    "chinese": "乞丐；托缽修道的",
     "synonyms": "",
     "root": "mendicare (to beg), from Latin",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A beggar; relating to begging, especially a religious order that relies on alms.",
-     "chinese": "乞丐;托缽修道的"
+     "chinese": "乞丐；托缽修道的"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "mephitic",
     "pos": "adj.",
     "definition": "Having a foul or poisonous smell.",
-    "chinese": "惡臭的;有毒氣的",
+    "chinese": "惡臭的；有毒氣的",
     "synonyms": "",
     "root": "Mephitis, a Roman goddess of noxious gases, from Latin",
     "group": "",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a foul or poisonous smell.",
-     "chinese": "惡臭的;有毒氣的"
+     "chinese": "惡臭的；有毒氣的"
     }
    },
    {
@@ -525,7 +525,7 @@ window.FLASHCARD_UNITS = {
     "word": "merciful",
     "pos": "adj.",
     "definition": "Showing compassion or forgiveness toward others.",
-    "chinese": "仁慈的;寬容的",
+    "chinese": "仁慈的；寬容的",
     "synonyms": "",
     "root": "merces (reward, mercy), from Latin merx (goods)",
     "group": "",
@@ -537,7 +537,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing compassion or forgiveness toward others.",
-     "chinese": "仁慈的;寬容的"
+     "chinese": "仁慈的；寬容的"
     }
    },
    {
@@ -563,7 +563,7 @@ window.FLASHCARD_UNITS = {
     "word": "meretricious",
     "pos": "adj.",
     "definition": "Apparently attractive but having no real value.",
-    "chinese": "華而不實的;俗豔的",
+    "chinese": "華而不實的；俗豔的",
     "synonyms": "",
     "root": "meretrix (prostitute), from Latin merere (to earn)",
     "group": "",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Apparently attractive but having no real value.",
-     "chinese": "華而不實的;俗豔的"
+     "chinese": "華而不實的；俗豔的"
     }
    },
    {
@@ -620,7 +620,7 @@ window.FLASHCARD_UNITS = {
     "word": "merlon",
     "pos": "n.",
     "definition": "A solid section between two openings in a castle battlement.",
-    "chinese": "雉堞;城垛實體部分",
+    "chinese": "雉堞；城垛實體部分",
     "synonyms": "",
     "root": "merlone, from Italian, possibly related to Latin murus (wall)",
     "group": "",
@@ -634,14 +634,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A solid section between two openings in a castle battlement.",
-     "chinese": "雉堞;城垛實體部分"
+     "chinese": "雉堞；城垛實體部分"
     }
    },
    {
     "word": "merry",
     "pos": "adj.",
     "definition": "Cheerful and lighthearted.",
-    "chinese": "歡樂的;愉快的",
+    "chinese": "歡樂的；愉快的",
     "synonyms": "",
     "root": "myrge (pleasant), from Old English",
     "group": "",
@@ -653,14 +653,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheerful and lighthearted.",
-     "chinese": "歡樂的;愉快的"
+     "chinese": "歡樂的；愉快的"
     }
    },
    {
     "word": "mesa",
     "pos": "n.",
     "definition": "An isolated flat-topped hill with steep sides.",
-    "chinese": "台地;方山",
+    "chinese": "台地；方山",
     "synonyms": "",
     "root": "mesa (table), from Spanish, from Latin mensa",
     "group": "",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An isolated flat-topped hill with steep sides.",
-     "chinese": "台地;方山"
+     "chinese": "台地；方山"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "mesmerize",
     "pos": "v.",
     "definition": "To capture the complete attention of someone, as if hypnotized.",
-    "chinese": "使入迷;催眠",
+    "chinese": "使入迷；催眠",
     "synonyms": "",
     "root": "named after Franz Mesmer, an 18th-century physician",
     "group": "",
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To capture the complete attention of someone, as if hypnotized.",
-     "chinese": "使入迷;催眠"
+     "chinese": "使入迷；催眠"
     }
    },
    {
@@ -738,7 +738,7 @@ window.FLASHCARD_UNITS = {
     "word": "metier",
     "pos": "n.",
     "definition": "An occupation or profession one is particularly suited to.",
-    "chinese": "專長;拿手行業",
+    "chinese": "專長；拿手行業",
     "synonyms": "",
     "root": "mestier (trade, craft), from Old French, from Latin ministerium",
     "group": "",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An occupation or profession one is particularly suited to.",
-     "chinese": "專長;拿手行業"
+     "chinese": "專長；拿手行業"
     }
    },
    {
@@ -797,7 +797,7 @@ window.FLASHCARD_UNITS = {
     "word": "mettle",
     "pos": "n.",
     "definition": "A person's ability to cope well with difficulties; spirit and resilience.",
-    "chinese": "勇氣;毅力",
+    "chinese": "勇氣；毅力",
     "synonyms": "",
     "root": "variant of metal, used figuratively for temperament",
     "group": "",
@@ -809,14 +809,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person's ability to cope well with difficulties; spirit and resilience.",
-     "chinese": "勇氣;毅力"
+     "chinese": "勇氣；毅力"
     }
    },
    {
     "word": "microscopic",
     "pos": "adj.",
     "definition": "Extremely small; too small to be seen without a microscope.",
-    "chinese": "微小的;顯微鏡下的",
+    "chinese": "微小的；顯微鏡下的",
     "synonyms": "",
     "root": "mikros (small) + skopein (to look at), from Greek",
     "group": "",
@@ -828,7 +828,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely small; too small to be seen without a microscope.",
-     "chinese": "微小的;顯微鏡下的"
+     "chinese": "微小的；顯微鏡下的"
     }
    },
    {
@@ -911,7 +911,7 @@ window.FLASHCARD_UNITS = {
     "word": "migratory",
     "pos": "adj.",
     "definition": "Relating to seasonal movement from one region to another.",
-    "chinese": "遷徙的;候鳥性的",
+    "chinese": "遷徙的；候鳥性的",
     "synonyms": "",
     "root": "migrare (to move from one place to another), from Latin",
     "group": "",
@@ -923,7 +923,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to seasonal movement from one region to another.",
-     "chinese": "遷徙的;候鳥性的"
+     "chinese": "遷徙的；候鳥性的"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "militant",
     "pos": "adj./n.",
     "definition": "Combative and aggressive in support of a cause.",
-    "chinese": "好戰的;激進分子",
+    "chinese": "好戰的；激進分子",
     "synonyms": "",
     "root": "militare (to serve as a soldier), from Latin miles (soldier)",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Combative and aggressive in support of a cause.",
-     "chinese": "好戰的;激進分子"
+     "chinese": "好戰的；激進分子"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mediocre": ["Of only moderate quality; not very good.", "平庸的;普通的"], "meditate": ["To focus one's mind for relaxation or spiritual purposes; to think deeply.", "冥想;沉思"], "medium": ["A means of communication or expression; intermediate in size or amount.", "媒介;中等的"], "medley": ["A mixture of differing things.", "混合曲；大雜燴"], "meek": ["Quiet, gentle, and submissive.", "溫順的;謙卑的"], "megalocardia": ["Abnormal enlargement of the heart.", "心臟肥大"], "megalomania": ["Abnormal desire for wealth and power.", "狂妄自大；自大狂"], "megalomaniac": ["A person with an obsessive desire for power or grandeur.", "誇大妄想狂;自大狂"], "megalopod": ["An organism having unusually large feet or a large foot-like structure.", "大足類生物"], "megalopolis": ["A very large, heavily populated city or urban complex.", "巨型都市;大都會區"], "melancholy": ["A deep, persistent sadness or sorrow.", "憂鬱的；悲傷的"], "melange": ["A mixture of different things.", "混合物;大雜燴"], "melioration": ["The act or process of improving something.", "改善;改良"], "mellifluous": ["Sweet and smooth sounding.", "悅耳流暢的"], "mellow": ["Pleasantly smooth or soft; to become gentler with time.", "溫和的;變得成熟圓融"], "melodious": ["Pleasant to hear, like music.", "悅耳的;旋律優美的"], "melodramatic": ["Exaggeratedly emotional or theatrical.", "誇張煽情的"], "memento": ["An object kept as a reminder of a person or event.", "紀念品"], "memento mori": ["An object or symbol serving as a reminder of the inevitability of death.", "死亡提醒物(拉丁語:記住你終將一死)"], "memorandum": ["A written message or note, especially in business.", "備忘錄"], "mendacious": ["Lying, untrue.", "虛假的；撒謊的"], "mendacity": ["The tendency to lie; untruthfulness.", "虛偽;說謊成性"], "mendicant": ["A beggar; relating to begging, especially a religious order that relies on alms.", "乞丐;托缽修道的"], "menial": ["Humble, degrading.", "卑微的；僕人的"], "mentor": ["Counselor, coach, tutor.", "導師；良師益友"], "mephitic": ["Having a foul or poisonous smell.", "惡臭的;有毒氣的"], "mercenary": ["Greedy, motivated by desire for gain.", "唯利是圖的"], "merciful": ["Showing compassion or forgiveness toward others.", "仁慈的;寬容的"], "mercurial": ["Characterized by rapid change or temperamentality.", "善變的；喜怒無常的"], "meretricious": ["Apparently attractive but having no real value.", "華而不實的;俗豔的"], "meretrix": ["A prostitute (archaic or literary term).", "妓女(古語或文學用語)"], "meritorious": ["Worthy of esteem or reward.", "值得嘉獎的；有功績的"], "merlon": ["A solid section between two openings in a castle battlement.", "雉堞;城垛實體部分"], "merry": ["Cheerful and lighthearted.", "歡樂的;愉快的"], "mesa": ["An isolated flat-topped hill with steep sides.", "台地;方山"], "mescal": ["An alcoholic drink made from the agave plant.", "梅斯卡爾酒(龍舌蘭酒的一種)"], "mesmerize": ["To capture the complete attention of someone, as if hypnotized.", "使入迷;催眠"], "meticulous": ["Careful.", "一絲不苟的；細心的"], "metier": ["An occupation or profession one is particularly suited to.", "專長;拿手行業"], "metronome": ["Clicking pendulum indicating the tempo of a piece of music.", "節拍器"], "metropolitan": ["Relating to a large city or its metropolitan area.", "大都會的"], "mettle": ["A person's ability to cope well with difficulties; spirit and resilience.", "勇氣;毅力"], "microscopic": ["Extremely small; too small to be seen without a microscope.", "微小的;顯微鏡下的"], "midget": ["An extremely or unusually small person or thing (dated, now often offensive).", "極小的人或物(現多視為冒犯用語)"], "mien": ["Appearance, bearing.", "儀態；風度"], "mignon": ["Small and delicate; dainty (as in filet mignon).", "小巧精緻的"], "mignonne": ["Small and delicately pretty (feminine form of mignon).", "嬌小可愛的(mignon的陰性形式)"], "migratory": ["Relating to seasonal movement from one region to another.", "遷徙的;候鳥性的"], "milieu": ["Environment, setting.", "環境；社會背景"], "militant": ["Combative and aggressive in support of a cause.", "好戰的;激進分子"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mediocre": ["Of only moderate quality; not very good.", "平庸的；普通的"], "meditate": ["To focus one's mind for relaxation or spiritual purposes; to think deeply.", "冥想；沉思"], "medium": ["A means of communication or expression; intermediate in size or amount.", "媒介；中等的"], "medley": ["A mixture of differing things.", "混合曲；大雜燴"], "meek": ["Quiet, gentle, and submissive.", "溫順的；謙卑的"], "megalocardia": ["Abnormal enlargement of the heart.", "心臟肥大"], "megalomania": ["Abnormal desire for wealth and power.", "狂妄自大；自大狂"], "megalomaniac": ["A person with an obsessive desire for power or grandeur.", "誇大妄想狂；自大狂"], "megalopod": ["An organism having unusually large feet or a large foot-like structure.", "大足類生物"], "megalopolis": ["A very large, heavily populated city or urban complex.", "巨型都市；大都會區"], "melancholy": ["A deep, persistent sadness or sorrow.", "憂鬱的；悲傷的"], "melange": ["A mixture of different things.", "混合物；大雜燴"], "melioration": ["The act or process of improving something.", "改善；改良"], "mellifluous": ["Sweet and smooth sounding.", "悅耳流暢的"], "mellow": ["Pleasantly smooth or soft; to become gentler with time.", "溫和的；變得成熟圓融"], "melodious": ["Pleasant to hear, like music.", "悅耳的；旋律優美的"], "melodramatic": ["Exaggeratedly emotional or theatrical.", "誇張煽情的"], "memento": ["An object kept as a reminder of a person or event.", "紀念品"], "memento mori": ["An object or symbol serving as a reminder of the inevitability of death.", "死亡提醒物(拉丁語:記住你終將一死)"], "memorandum": ["A written message or note, especially in business.", "備忘錄"], "mendacious": ["Lying, untrue.", "虛假的；撒謊的"], "mendacity": ["The tendency to lie; untruthfulness.", "虛偽；說謊成性"], "mendicant": ["A beggar; relating to begging, especially a religious order that relies on alms.", "乞丐；托缽修道的"], "menial": ["Humble, degrading.", "卑微的；僕人的"], "mentor": ["Counselor, coach, tutor.", "導師；良師益友"], "mephitic": ["Having a foul or poisonous smell.", "惡臭的；有毒氣的"], "mercenary": ["Greedy, motivated by desire for gain.", "唯利是圖的"], "merciful": ["Showing compassion or forgiveness toward others.", "仁慈的；寬容的"], "mercurial": ["Characterized by rapid change or temperamentality.", "善變的；喜怒無常的"], "meretricious": ["Apparently attractive but having no real value.", "華而不實的；俗豔的"], "meretrix": ["A prostitute (archaic or literary term).", "妓女(古語或文學用語)"], "meritorious": ["Worthy of esteem or reward.", "值得嘉獎的；有功績的"], "merlon": ["A solid section between two openings in a castle battlement.", "雉堞；城垛實體部分"], "merry": ["Cheerful and lighthearted.", "歡樂的；愉快的"], "mesa": ["An isolated flat-topped hill with steep sides.", "台地；方山"], "mescal": ["An alcoholic drink made from the agave plant.", "梅斯卡爾酒(龍舌蘭酒的一種)"], "mesmerize": ["To capture the complete attention of someone, as if hypnotized.", "使入迷；催眠"], "meticulous": ["Careful.", "一絲不苟的；細心的"], "metier": ["An occupation or profession one is particularly suited to.", "專長；拿手行業"], "metronome": ["Clicking pendulum indicating the tempo of a piece of music.", "節拍器"], "metropolitan": ["Relating to a large city or its metropolitan area.", "大都會的"], "mettle": ["A person's ability to cope well with difficulties; spirit and resilience.", "勇氣；毅力"], "microscopic": ["Extremely small; too small to be seen without a microscope.", "微小的；顯微鏡下的"], "midget": ["An extremely or unusually small person or thing (dated, now often offensive).", "極小的人或物(現多視為冒犯用語)"], "mien": ["Appearance, bearing.", "儀態；風度"], "mignon": ["Small and delicate; dainty (as in filet mignon).", "小巧精緻的"], "mignonne": ["Small and delicately pretty (feminine form of mignon).", "嬌小可愛的(mignon的陰性形式)"], "migratory": ["Relating to seasonal movement from one region to another.", "遷徙的；候鳥性的"], "milieu": ["Environment, setting.", "環境；社會背景"], "militant": ["Combative and aggressive in support of a cause.", "好戰的；激進分子"]});

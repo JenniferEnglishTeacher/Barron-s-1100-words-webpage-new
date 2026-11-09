@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "confirmed",
     "pos": "adj.",
     "definition": "Firmly established in a habit or belief; verified as true.",
-    "chinese": "根深蒂固的;已確認的",
+    "chinese": "根深蒂固的；已確認的",
     "synonyms": "",
     "root": "con- (thoroughly) + firmare (to strengthen), from Latin",
     "group": "co；com = 共同；一起",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Firmly established in a habit or belief; verified as true.",
-     "chinese": "根深蒂固的;已確認的"
+     "chinese": "根深蒂固的；已確認的"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "conflate",
     "pos": "v.",
     "definition": "To combine two or more things into one, sometimes mistakenly.",
-    "chinese": "混淆;合併",
+    "chinese": "混淆；合併",
     "synonyms": "",
     "root": "con- (together) + flare (to blow), from Latin",
     "group": "co；com = 共同；一起",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To combine two or more things into one, sometimes mistakenly.",
-     "chinese": "混淆;合併"
+     "chinese": "混淆；合併"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "conflation",
     "pos": "n.",
     "definition": "The act of combining two or more things into one, sometimes mistakenly.",
-    "chinese": "混淆;合併",
+    "chinese": "混淆；合併",
     "synonyms": "",
     "root": "con- (together) + flare (to blow), from Latin",
     "group": "co；com = 共同；一起",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of combining two or more things into one, sometimes mistakenly.",
-     "chinese": "混淆;合併"
+     "chinese": "混淆；合併"
     }
    },
    {
@@ -297,7 +297,7 @@ window.FLASHCARD_UNITS = {
     "word": "confuse",
     "pos": "v.",
     "definition": "To cause someone to be unable to understand clearly.",
-    "chinese": "使困惑;混淆",
+    "chinese": "使困惑；混淆",
     "synonyms": "",
     "root": "con- (together) + fundere (to pour), from Latin",
     "group": "co；com = 共同；一起",
@@ -309,7 +309,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause someone to be unable to understand clearly.",
-     "chinese": "使困惑;混淆"
+     "chinese": "使困惑；混淆"
     }
    },
    {
@@ -375,7 +375,7 @@ window.FLASHCARD_UNITS = {
     "word": "conglomeration",
     "pos": "n.",
     "definition": "A mass of different things gathered together.",
-    "chinese": "聚合物;大雜燴",
+    "chinese": "聚合物；大雜燴",
     "synonyms": "",
     "root": "con- (together) + glomus (ball), from Latin",
     "group": "co；com = 共同；一起",
@@ -387,14 +387,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mass of different things gathered together.",
-     "chinese": "聚合物;大雜燴"
+     "chinese": "聚合物；大雜燴"
     }
    },
    {
     "word": "congregate",
     "pos": "v.",
     "definition": "To gather together into a crowd or group.",
-    "chinese": "聚集;集合",
+    "chinese": "聚集；集合",
     "synonyms": "",
     "root": "con- (together) + grex (herd), from Latin",
     "group": "co；com = 共同；一起",
@@ -406,7 +406,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gather together into a crowd or group.",
-     "chinese": "聚集;集合"
+     "chinese": "聚集；集合"
     }
    },
    {
@@ -432,7 +432,7 @@ window.FLASHCARD_UNITS = {
     "word": "congruent",
     "pos": "adj.",
     "definition": "In agreement or harmony; identical in shape and size (geometry).",
-    "chinese": "一致的;全等的(幾何)",
+    "chinese": "一致的；全等的(幾何)",
     "synonyms": "",
     "root": "con- (together) + gruere (to agree), from Latin",
     "group": "co；com = 共同；一起",
@@ -444,7 +444,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In agreement or harmony; identical in shape and size (geometry).",
-     "chinese": "一致的;全等的(幾何)"
+     "chinese": "一致的；全等的(幾何)"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "congruous",
     "pos": "adj.",
     "definition": "Appropriate or in agreement with something.",
-    "chinese": "相稱的;調和的",
+    "chinese": "相稱的；調和的",
     "synonyms": "",
     "root": "con- (together) + gruere (to agree), from Latin",
     "group": "co；com = 共同；一起",
@@ -482,7 +482,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Appropriate or in agreement with something.",
-     "chinese": "相稱的;調和的"
+     "chinese": "相稱的；調和的"
     }
    },
    {
@@ -567,7 +567,7 @@ window.FLASHCARD_UNITS = {
     "word": "connotation",
     "pos": "n.",
     "definition": "An idea or feeling associated with a word beyond its literal meaning.",
-    "chinese": "隱含意義;言外之意",
+    "chinese": "隱含意義；言外之意",
     "synonyms": "",
     "root": "con- (together) + notare (to mark), from Latin",
     "group": "co；com = 共同；一起",
@@ -579,14 +579,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An idea or feeling associated with a word beyond its literal meaning.",
-     "chinese": "隱含意義;言外之意"
+     "chinese": "隱含意義；言外之意"
     }
    },
    {
     "word": "connote",
     "pos": "v.",
     "definition": "To suggest or imply an idea beyond its literal meaning.",
-    "chinese": "隱含;暗示",
+    "chinese": "隱含；暗示",
     "synonyms": "",
     "root": "con- (together) + notare (to mark), from Latin",
     "group": "co；com = 共同；一起",
@@ -598,7 +598,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To suggest or imply an idea beyond its literal meaning.",
-     "chinese": "隱含;暗示"
+     "chinese": "隱含；暗示"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "conquer",
     "pos": "v.",
     "definition": "To overcome or defeat by force; to gain control of by military force.",
-    "chinese": "征服;戰勝",
+    "chinese": "征服；戰勝",
     "synonyms": "",
     "root": "con- (thoroughly) + quaerere (to seek), from Latin",
     "group": "co；com = 共同；一起",
@@ -636,7 +636,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To overcome or defeat by force; to gain control of by military force.",
-     "chinese": "征服;戰勝"
+     "chinese": "征服；戰勝"
     }
    },
    {
@@ -662,7 +662,7 @@ window.FLASHCARD_UNITS = {
     "word": "conscience",
     "pos": "n.",
     "definition": "An inner sense of right and wrong that guides behavior.",
-    "chinese": "良心;良知",
+    "chinese": "良心；良知",
     "synonyms": "",
     "root": "con- (with) + scio (know), from Latin",
     "group": "co；com = 共同；一起",
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An inner sense of right and wrong that guides behavior.",
-     "chinese": "良心;良知"
+     "chinese": "良心；良知"
     }
    },
    {
@@ -700,7 +700,7 @@ window.FLASHCARD_UNITS = {
     "word": "conscionable",
     "pos": "adj.",
     "definition": "Conforming to what is right or reasonable.",
-    "chinese": "合乎良心的;公道的",
+    "chinese": "合乎良心的；公道的",
     "synonyms": "",
     "root": "con- (together) + scire (to know), from Latin",
     "group": "co；com = 共同；一起",
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conforming to what is right or reasonable.",
-     "chinese": "合乎良心的;公道的"
+     "chinese": "合乎良心的；公道的"
     }
    },
    {
@@ -740,7 +740,7 @@ window.FLASHCARD_UNITS = {
     "word": "consecration",
     "pos": "n.",
     "definition": "The act of formally dedicating something to a sacred purpose.",
-    "chinese": "奉獻;祝聖",
+    "chinese": "奉獻；祝聖",
     "synonyms": "",
     "root": "con- (thoroughly) + sacrare (to make sacred), from Latin",
     "group": "co；com = 共同；一起",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of formally dedicating something to a sacred purpose.",
-     "chinese": "奉獻;祝聖"
+     "chinese": "奉獻；祝聖"
     }
    },
    {
@@ -778,7 +778,7 @@ window.FLASHCARD_UNITS = {
     "word": "consent",
     "pos": "n./v.",
     "definition": "Permission for something to happen; to give permission.",
-    "chinese": "同意;許可",
+    "chinese": "同意；許可",
     "synonyms": "",
     "root": "con- (together) + sentire (to feel), from Latin",
     "group": "co；com = 共同；一起",
@@ -792,14 +792,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Permission for something to happen; to give permission.",
-     "chinese": "同意;許可"
+     "chinese": "同意；許可"
     }
    },
    {
     "word": "consequently",
     "pos": "adv.",
     "definition": "As a result; therefore.",
-    "chinese": "因此;結果",
+    "chinese": "因此；結果",
     "synonyms": "",
     "root": "con- (together) + sequi (to follow), from Latin",
     "group": "co；com = 共同；一起",
@@ -811,14 +811,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "As a result; therefore.",
-     "chinese": "因此;結果"
+     "chinese": "因此；結果"
     }
    },
    {
     "word": "consideration",
     "pos": "n.",
     "definition": "Careful thought about something; thoughtfulness toward others.",
-    "chinese": "考量;體貼",
+    "chinese": "考量；體貼",
     "synonyms": "",
     "root": "con- (together) + sidus (star), from Latin",
     "group": "co；com = 共同；一起",
@@ -830,7 +830,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Careful thought about something; thoughtfulness toward others.",
-     "chinese": "考量;體貼"
+     "chinese": "考量；體貼"
     }
    },
    {
@@ -896,7 +896,7 @@ window.FLASHCARD_UNITS = {
     "word": "console",
     "pos": "v./n.",
     "definition": "To comfort someone in distress; a control panel or cabinet.",
-    "chinese": "安慰;控制台",
+    "chinese": "安慰；控制台",
     "synonyms": "",
     "root": "con- (together) + solari (to comfort), from Latin",
     "group": "co；com = 共同；一起",
@@ -908,14 +908,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To comfort someone in distress; a control panel or cabinet.",
-     "chinese": "安慰;控制台"
+     "chinese": "安慰；控制台"
     }
    },
    {
     "word": "consonance",
     "pos": "n.",
     "definition": "Agreement or harmony between things; repetition of consonant sounds in poetry.",
-    "chinese": "和諧一致;子音韻",
+    "chinese": "和諧一致；子音韻",
     "synonyms": "",
     "root": "con- (together) + sonare (to sound), from Latin",
     "group": "co；com = 共同；一起",
@@ -927,7 +927,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Agreement or harmony between things; repetition of consonant sounds in poetry.",
-     "chinese": "和諧一致;子音韻"
+     "chinese": "和諧一致；子音韻"
     }
    },
    {
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "word": "conspectus",
     "pos": "n.",
     "definition": "A general survey or summary of a subject.",
-    "chinese": "概覽;綜覽",
+    "chinese": "概覽；綜覽",
     "synonyms": "",
     "root": "con- (together) + specere (to look), from Latin",
     "group": "co；com = 共同；一起",
@@ -965,7 +965,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A general survey or summary of a subject.",
-     "chinese": "概覽;綜覽"
+     "chinese": "概覽；綜覽"
     }
    }
   ],
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"confidant": ["One to whom you confide your secrets.", "知己"], "confident": ["Feeling sure or self-assured.", "有信心的"], "configure": ["To arrange or set up something in a particular way.", "設定；配置"], "confirmed": ["Firmly established in a habit or belief; verified as true.", "根深蒂固的;已確認的"], "conflagrant": ["Burning fiercely; ablaze.", "熊熊燃燒的"], "conflagration": ["Great fire.", "大火災"], "conflate": ["To combine two or more things into one, sometimes mistakenly.", "混淆;合併"], "conflated": ["Combined in a misleading way.", "混淆合併的"], "conflation": ["The act of combining two or more things into one, sometimes mistakenly.", "混淆;合併"], "confluence": ["A gathering together.", "匯流；匯集"], "conform": ["To comply with rules or expectations.", "順從；遵從"], "conformist": ["One who behaves the same as others.", "順從者；從眾者"], "confound": ["To frustrate, confuse.", "使困惑；使混淆"], "confounding": ["Puzzling; baffling.", "令人困惑的"], "confront": ["To come face-to-face with.", "面對；遭遇"], "confuse": ["To cause someone to be unable to understand clearly.", "使困惑;混淆"], "congeal": ["To thicken into a solid.", "凝結；凝固"], "congenial": ["Sympathetic, agreeable.", "意氣相投的"], "congenital": ["Present at birth but not necessarily hereditary.", "先天性的"], "conglomeration": ["A mass of different things gathered together.", "聚合物;大雜燴"], "congregate": ["To gather together into a crowd or group.", "聚集;集合"], "congregation": ["A gathering of people, especially for religious services.", "會眾；集會"], "congruent": ["In agreement or harmony; identical in shape and size (geometry).", "一致的;全等的(幾何)"], "congruity": ["The quality of being in agreement.", "一致性；協調"], "congruous": ["Appropriate or in agreement with something.", "相稱的;調和的"], "conjecture": ["Guess.", "推測；猜測"], "conjugal": ["Relating to marriage.", "婚姻的；夫妻的"], "connive": ["To plot, scheme.", "共謀；密謀"], "connoisseur": ["Expert.", "鑑賞家；行家"], "connotation": ["An idea or feeling associated with a word beyond its literal meaning.", "隱含意義;言外之意"], "connote": ["To suggest or imply an idea beyond its literal meaning.", "隱含;暗示"], "connubial": ["Related to marriage.", "婚姻的"], "conquer": ["To overcome or defeat by force; to gain control of by military force.", "征服;戰勝"], "consanguinity": ["The state of being related by blood.", "血緣關係"], "conscience": ["An inner sense of right and wrong that guides behavior.", "良心;良知"], "conscientious": ["Relating to doing what one knows is right; scrupulous.", "認真負責的"], "conscionable": ["Conforming to what is right or reasonable.", "合乎良心的;公道的"], "consecrate": ["To dedicate something to a holy purpose.", "奉獻；使神聖化"], "consecration": ["The act of formally dedicating something to a sacred purpose.", "奉獻;祝聖"], "consensus": ["General agreement.", "共識"], "consent": ["Permission for something to happen; to give permission.", "同意;許可"], "consequently": ["As a result; therefore.", "因此;結果"], "consideration": ["Careful thought about something; thoughtfulness toward others.", "考量;體貼"], "consign": ["To give something over to another's care.", "託付；委託"], "consistent": ["Acting in the same way over time.", "一致的；前後一致的"], "consolation": ["An act of comforting.", "安慰"], "console": ["To comfort someone in distress; a control panel or cabinet.", "安慰;控制台"], "consonance": ["Agreement or harmony between things; repetition of consonant sounds in poetry.", "和諧一致;子音韻"], "consonant": ["In harmony.", "一致的；和諧的"], "conspectus": ["A general survey or summary of a subject.", "概覽;綜覽"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"confidant": ["One to whom you confide your secrets.", "知己"], "confident": ["Feeling sure or self-assured.", "有信心的"], "configure": ["To arrange or set up something in a particular way.", "設定；配置"], "confirmed": ["Firmly established in a habit or belief; verified as true.", "根深蒂固的；已確認的"], "conflagrant": ["Burning fiercely; ablaze.", "熊熊燃燒的"], "conflagration": ["Great fire.", "大火災"], "conflate": ["To combine two or more things into one, sometimes mistakenly.", "混淆；合併"], "conflated": ["Combined in a misleading way.", "混淆合併的"], "conflation": ["The act of combining two or more things into one, sometimes mistakenly.", "混淆；合併"], "confluence": ["A gathering together.", "匯流；匯集"], "conform": ["To comply with rules or expectations.", "順從；遵從"], "conformist": ["One who behaves the same as others.", "順從者；從眾者"], "confound": ["To frustrate, confuse.", "使困惑；使混淆"], "confounding": ["Puzzling; baffling.", "令人困惑的"], "confront": ["To come face-to-face with.", "面對；遭遇"], "confuse": ["To cause someone to be unable to understand clearly.", "使困惑；混淆"], "congeal": ["To thicken into a solid.", "凝結；凝固"], "congenial": ["Sympathetic, agreeable.", "意氣相投的"], "congenital": ["Present at birth but not necessarily hereditary.", "先天性的"], "conglomeration": ["A mass of different things gathered together.", "聚合物；大雜燴"], "congregate": ["To gather together into a crowd or group.", "聚集；集合"], "congregation": ["A gathering of people, especially for religious services.", "會眾；集會"], "congruent": ["In agreement or harmony; identical in shape and size (geometry).", "一致的；全等的(幾何)"], "congruity": ["The quality of being in agreement.", "一致性；協調"], "congruous": ["Appropriate or in agreement with something.", "相稱的；調和的"], "conjecture": ["Guess.", "推測；猜測"], "conjugal": ["Relating to marriage.", "婚姻的；夫妻的"], "connive": ["To plot, scheme.", "共謀；密謀"], "connoisseur": ["Expert.", "鑑賞家；行家"], "connotation": ["An idea or feeling associated with a word beyond its literal meaning.", "隱含意義；言外之意"], "connote": ["To suggest or imply an idea beyond its literal meaning.", "隱含；暗示"], "connubial": ["Related to marriage.", "婚姻的"], "conquer": ["To overcome or defeat by force; to gain control of by military force.", "征服；戰勝"], "consanguinity": ["The state of being related by blood.", "血緣關係"], "conscience": ["An inner sense of right and wrong that guides behavior.", "良心；良知"], "conscientious": ["Relating to doing what one knows is right; scrupulous.", "認真負責的"], "conscionable": ["Conforming to what is right or reasonable.", "合乎良心的；公道的"], "consecrate": ["To dedicate something to a holy purpose.", "奉獻；使神聖化"], "consecration": ["The act of formally dedicating something to a sacred purpose.", "奉獻；祝聖"], "consensus": ["General agreement.", "共識"], "consent": ["Permission for something to happen; to give permission.", "同意；許可"], "consequently": ["As a result; therefore.", "因此；結果"], "consideration": ["Careful thought about something; thoughtfulness toward others.", "考量；體貼"], "consign": ["To give something over to another's care.", "託付；委託"], "consistent": ["Acting in the same way over time.", "一致的；前後一致的"], "consolation": ["An act of comforting.", "安慰"], "console": ["To comfort someone in distress; a control panel or cabinet.", "安慰；控制台"], "consonance": ["Agreement or harmony between things; repetition of consonant sounds in poetry.", "和諧一致；子音韻"], "consonant": ["In harmony.", "一致的；和諧的"], "conspectus": ["A general survey or summary of a subject.", "概覽；綜覽"]});

@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "addlepated",
     "pos": "adj.",
     "definition": "Confused or muddled in thought.",
-    "chinese": "頭腦不清的;糊塗的",
+    "chinese": "頭腦不清的；糊塗的",
     "synonyms": "",
     "root": "addled + pate (head)",
     "group": "pass；path(y) = 感覺",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Confused or muddled in thought.",
-     "chinese": "頭腦不清的;糊塗的"
+     "chinese": "頭腦不清的；糊塗的"
     }
    },
    {
     "word": "dispassionate",
     "pos": "adj.",
     "definition": "Not influenced by strong emotion; impartial.",
-    "chinese": "冷靜客觀的;不帶感情的",
+    "chinese": "冷靜客觀的；不帶感情的",
     "synonyms": "",
     "root": "dis- (not) + passio (passion), from Latin",
     "group": "pass；path(y) = 感覺",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not influenced by strong emotion; impartial.",
-     "chinese": "冷靜客觀的;不帶感情的"
+     "chinese": "冷靜客觀的；不帶感情的"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "en passant",
     "pos": "adv.",
     "definition": "In passing; incidentally.",
-    "chinese": "順帶一提地;偶然地",
+    "chinese": "順帶一提地；偶然地",
     "synonyms": "",
     "root": "French en (in) + passant (passing)",
     "group": "pass；path(y) = 感覺",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In passing; incidentally.",
-     "chinese": "順帶一提地;偶然地"
+     "chinese": "順帶一提地；偶然地"
     }
    },
    {
     "word": "faux pas",
     "pos": "n.",
     "definition": "An embarrassing social mistake.",
-    "chinese": "失禮;社交失誤",
+    "chinese": "失禮；社交失誤",
     "synonyms": "",
     "root": "French faux (false) + pas (step)",
     "group": "pass；path(y) = 感覺",
@@ -210,7 +210,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An embarrassing social mistake.",
-     "chinese": "失禮;社交失誤"
+     "chinese": "失禮；社交失誤"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "impasse",
     "pos": "n.",
     "definition": "A situation in which no progress is possible; a deadlock.",
-    "chinese": "僵局;死路",
+    "chinese": "僵局；死路",
     "synonyms": "",
     "root": "in- (not) + passer (to pass), from French",
     "group": "pass；path(y) = 感覺",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A situation in which no progress is possible; a deadlock.",
-     "chinese": "僵局;死路"
+     "chinese": "僵局；死路"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "passable",
     "pos": "adj.",
     "definition": "Adequate but not excellent; able to be traveled on.",
-    "chinese": "尚可的;可通行的",
+    "chinese": "尚可的；可通行的",
     "synonyms": "",
     "root": "passer (to pass), from Latin passus (step)",
     "group": "pass；path(y) = 感覺",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Adequate but not excellent; able to be traveled on.",
-     "chinese": "尚可的;可通行的"
+     "chinese": "尚可的；可通行的"
     }
    },
    {
     "word": "passionate",
     "pos": "adj.",
     "definition": "Showing strong feelings or enthusiasm.",
-    "chinese": "熱情的;充滿激情的",
+    "chinese": "熱情的；充滿激情的",
     "synonyms": "",
     "root": "passio (suffering, feeling), from Latin pati (to suffer)",
     "group": "pass；path(y) = 感覺",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing strong feelings or enthusiasm.",
-     "chinese": "熱情的;充滿激情的"
+     "chinese": "熱情的；充滿激情的"
     }
    },
    {
     "word": "passive",
     "pos": "adj.",
     "definition": "Accepting what happens without resistance; not participating actively.",
-    "chinese": "被動的;消極的",
+    "chinese": "被動的；消極的",
     "synonyms": "",
     "root": "passivus (capable of feeling), from Latin pati (to suffer)",
     "group": "pass；path(y) = 感覺",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Accepting what happens without resistance; not participating actively.",
-     "chinese": "被動的;消極的"
+     "chinese": "被動的；消極的"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "patio",
     "pos": "n.",
     "definition": "A paved outdoor area adjoining a house.",
-    "chinese": "露台;庭院",
+    "chinese": "露台；庭院",
     "synonyms": "",
     "root": "patio (courtyard), from Spanish",
     "group": "pass；path(y) = 感覺",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A paved outdoor area adjoining a house.",
-     "chinese": "露台;庭院"
+     "chinese": "露台；庭院"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "puzzlepate",
     "pos": "n.",
     "definition": "A confused or muddle-headed person.",
-    "chinese": "糊塗蛋;頭腦混亂的人",
+    "chinese": "糊塗蛋；頭腦混亂的人",
     "synonyms": "",
     "root": "puzzle, of uncertain origin + pate (head), from Middle English",
     "group": "pass；path(y) = 感覺",
@@ -516,14 +516,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confused or muddle-headed person.",
-     "chinese": "糊塗蛋;頭腦混亂的人"
+     "chinese": "糊塗蛋；頭腦混亂的人"
     }
    },
    {
     "word": "surpassing",
     "pos": "adj.",
     "definition": "Exceptional or superior in a way that exceeds others.",
-    "chinese": "超越的;卓越的",
+    "chinese": "超越的；卓越的",
     "synonyms": "",
     "root": "sur- (over) + passer (to pass), from French",
     "group": "pass；path(y) = 感覺",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exceptional or superior in a way that exceeds others.",
-     "chinese": "超越的;卓越的"
+     "chinese": "超越的；卓越的"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "trespass",
     "pos": "v./n.",
     "definition": "To enter someone's property without permission; a wrongdoing.",
-    "chinese": "擅自進入;侵犯",
+    "chinese": "擅自進入；侵犯",
     "synonyms": "",
     "root": "trespasser, from Old French tres- (across) + passer (to pass)",
     "group": "pass；path(y) = 感覺",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To enter someone's property without permission; a wrongdoing.",
-     "chinese": "擅自進入;侵犯"
+     "chinese": "擅自進入；侵犯"
     }
    }
   ],
@@ -1304,4 +1304,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"apathy": ["Unconcern, lack of interest.", "冷漠；無興趣"], "antipathy": ["Dislike, distaste, hate.", "反感；厭惡"], "passé": ["Outmoded, old-fashioned.", "過時的"], "pathetic": ["Sad, pitiful, woeful.", "可悲的；引起憐憫的"], "apathetic": ["Indifferent; showing no care, interest; lacking emotion.", "冷漠的"], "surpass": ["To be better than; to excel.", "超越"], "addlepated": ["Confused or muddled in thought.", "頭腦不清的;糊塗的"], "dispassionate": ["Not influenced by strong emotion; impartial.", "冷靜客觀的;不帶感情的"], "empathy": ["Sensitivity to another's feelings as if they were one's own.", "同理心"], "en passant": ["In passing; incidentally.", "順帶一提地;偶然地"], "faux pas": ["An embarrassing social mistake.", "失禮;社交失誤"], "impassable": ["Impossible to travel along or through.", "無法通行的"], "impasse": ["A situation in which no progress is possible; a deadlock.", "僵局;死路"], "impassionated": ["Filled with intense emotion; passionate.", "充滿激情的"], "osteopath": ["A therapist who manipulates the skeleton and muscles.", "整骨師"], "passable": ["Adequate but not excellent; able to be traveled on.", "尚可的;可通行的"], "passionate": ["Showing strong feelings or enthusiasm.", "熱情的;充滿激情的"], "passive": ["Accepting what happens without resistance; not participating actively.", "被動的;消極的"], "patent": ["Readily seen or understood, clear.", "明顯的；顯而易見的"], "pathological": ["Relating to the study of diseases.", "病理的；病態的"], "pathology": ["A deviation from the normal.", "病理學；病態"], "pathos": ["An emotion of sympathy.", "悲愴感；憐憫"], "patio": ["A paved outdoor area adjoining a house.", "露台;庭院"], "patios": ["The plural form of patio, paved outdoor areas adjoining houses.", "露台(複數)"], "psychopathic": ["Exhibiting severe antisocial behavior and lacking empathy.", "精神病態的"], "psychopathy": ["A mental disorder marked by egocentricity and a lack of remorse.", "精神病態"], "puzzlepate": ["A confused or muddle-headed person.", "糊塗蛋;頭腦混亂的人"], "surpassing": ["Exceptional or superior in a way that exceeds others.", "超越的;卓越的"], "sympathy": ["Sharing the feelings of others, especially sorrow.", "同情；憐憫"], "trespass": ["To enter someone's property without permission; a wrongdoing.", "擅自進入;侵犯"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"apathy": ["Unconcern, lack of interest.", "冷漠；無興趣"], "antipathy": ["Dislike, distaste, hate.", "反感；厭惡"], "passé": ["Outmoded, old-fashioned.", "過時的"], "pathetic": ["Sad, pitiful, woeful.", "可悲的；引起憐憫的"], "apathetic": ["Indifferent; showing no care, interest; lacking emotion.", "冷漠的"], "surpass": ["To be better than; to excel.", "超越"], "addlepated": ["Confused or muddled in thought.", "頭腦不清的；糊塗的"], "dispassionate": ["Not influenced by strong emotion; impartial.", "冷靜客觀的；不帶感情的"], "empathy": ["Sensitivity to another's feelings as if they were one's own.", "同理心"], "en passant": ["In passing; incidentally.", "順帶一提地；偶然地"], "faux pas": ["An embarrassing social mistake.", "失禮；社交失誤"], "impassable": ["Impossible to travel along or through.", "無法通行的"], "impasse": ["A situation in which no progress is possible; a deadlock.", "僵局；死路"], "impassionated": ["Filled with intense emotion; passionate.", "充滿激情的"], "osteopath": ["A therapist who manipulates the skeleton and muscles.", "整骨師"], "passable": ["Adequate but not excellent; able to be traveled on.", "尚可的；可通行的"], "passionate": ["Showing strong feelings or enthusiasm.", "熱情的；充滿激情的"], "passive": ["Accepting what happens without resistance; not participating actively.", "被動的；消極的"], "patent": ["Readily seen or understood, clear.", "明顯的；顯而易見的"], "pathological": ["Relating to the study of diseases.", "病理的；病態的"], "pathology": ["A deviation from the normal.", "病理學；病態"], "pathos": ["An emotion of sympathy.", "悲愴感；憐憫"], "patio": ["A paved outdoor area adjoining a house.", "露台；庭院"], "patios": ["The plural form of patio, paved outdoor areas adjoining houses.", "露台(複數)"], "psychopathic": ["Exhibiting severe antisocial behavior and lacking empathy.", "精神病態的"], "psychopathy": ["A mental disorder marked by egocentricity and a lack of remorse.", "精神病態"], "puzzlepate": ["A confused or muddle-headed person.", "糊塗蛋；頭腦混亂的人"], "surpassing": ["Exceptional or superior in a way that exceeds others.", "超越的；卓越的"], "sympathy": ["Sharing the feelings of others, especially sorrow.", "同情；憐憫"], "trespass": ["To enter someone's property without permission; a wrongdoing.", "擅自進入；侵犯"]});

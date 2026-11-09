@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
     "word": "derision",
     "pos": "n.",
     "definition": "Contemptuous ridicule or mockery.",
-    "chinese": "嘲笑;譏諷",
+    "chinese": "嘲笑；譏諷",
     "synonyms": "",
     "root": "de- (down) + ridere (to laugh), from Latin",
     "group": "de = 去除；下降",
@@ -58,14 +58,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Contemptuous ridicule or mockery.",
-     "chinese": "嘲笑;譏諷"
+     "chinese": "嘲笑；譏諷"
     }
    },
    {
     "word": "derisive",
     "pos": "adj.",
     "definition": "Expressing contempt or ridicule.",
-    "chinese": "嘲笑的;譏諷的",
+    "chinese": "嘲笑的；譏諷的",
     "synonyms": "",
     "root": "de- (down) + ridere (to laugh), from Latin",
     "group": "de = 去除；下降",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing contempt or ridicule.",
-     "chinese": "嘲笑的;譏諷的"
+     "chinese": "嘲笑的；譏諷的"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "designation",
     "pos": "n.",
     "definition": "An official title, name, or classification.",
-    "chinese": "稱號;指定",
+    "chinese": "稱號；指定",
     "synonyms": "",
     "root": "de- (thoroughly) + signare (to mark), from Latin",
     "group": "de = 去除；下降",
@@ -210,7 +210,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official title, name, or classification.",
-     "chinese": "稱號;指定"
+     "chinese": "稱號；指定"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "despicable",
     "pos": "adj.",
     "definition": "Deserving hatred and contempt.",
-    "chinese": "可鄙的;卑劣的",
+    "chinese": "可鄙的；卑劣的",
     "synonyms": "",
     "root": "de- (down) + specere (to look), from Latin",
     "group": "de = 去除；下降",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving hatred and contempt.",
-     "chinese": "可鄙的;卑劣的"
+     "chinese": "可鄙的；卑劣的"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "despoil",
     "pos": "v.",
     "definition": "To plunder or steal from a place violently.",
-    "chinese": "掠奪;蹂躪",
+    "chinese": "掠奪；蹂躪",
     "synonyms": "",
     "root": "de- (thoroughly) + spoliare (to strip, plunder), from Latin",
     "group": "de = 去除；下降",
@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To plunder or steal from a place violently.",
-     "chinese": "掠奪;蹂躪"
+     "chinese": "掠奪；蹂躪"
     }
    },
    {
@@ -393,7 +393,7 @@ window.FLASHCARD_UNITS = {
     "word": "desuetude",
     "pos": "n.",
     "definition": "A state of disuse.",
-    "chinese": "廢棄;不再使用",
+    "chinese": "廢棄；不再使用",
     "synonyms": "",
     "root": "de- (away) + suescere (to become accustomed), from Latin",
     "group": "de = 去除；下降",
@@ -405,7 +405,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of disuse.",
-     "chinese": "廢棄;不再使用"
+     "chinese": "廢棄；不再使用"
     }
    },
    {
@@ -450,7 +450,7 @@ window.FLASHCARD_UNITS = {
     "word": "detail",
     "pos": "n./v.",
     "definition": "An individual small feature; to describe fully.",
-    "chinese": "細節;詳述",
+    "chinese": "細節；詳述",
     "synonyms": "",
     "root": "de- (thoroughly) + tailler (to cut), from French",
     "group": "de = 去除；下降",
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An individual small feature; to describe fully.",
-     "chinese": "細節;詳述"
+     "chinese": "細節；詳述"
     }
    },
    {
@@ -509,7 +509,7 @@ window.FLASHCARD_UNITS = {
     "word": "detestable",
     "pos": "adj.",
     "definition": "Deserving intense dislike or hatred.",
-    "chinese": "可憎的;令人厭惡的",
+    "chinese": "可憎的；令人厭惡的",
     "synonyms": "",
     "root": "de- (thoroughly) + testari (to witness), from Latin",
     "group": "de = 去除；下降",
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving intense dislike or hatred.",
-     "chinese": "可憎的;令人厭惡的"
+     "chinese": "可憎的；令人厭惡的"
     }
    },
    {
@@ -665,7 +665,7 @@ window.FLASHCARD_UNITS = {
     "word": "devote",
     "pos": "v.",
     "definition": "To give up time, effort, or resources to a purpose.",
-    "chinese": "奉獻;投入",
+    "chinese": "奉獻；投入",
     "synonyms": "",
     "root": "de- (thoroughly) + vovere (to vow), from Latin",
     "group": "de = 去除；下降",
@@ -679,14 +679,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To give up time, effort, or resources to a purpose.",
-     "chinese": "奉獻;投入"
+     "chinese": "奉獻；投入"
     }
    },
    {
     "word": "devotee",
     "pos": "n.",
     "definition": "A person who is enthusiastically devoted to something.",
-    "chinese": "熱衷者;信徒",
+    "chinese": "熱衷者；信徒",
     "synonyms": "",
     "root": "de- (thoroughly) + vovere (to vow), from Latin",
     "group": "de = 去除；下降",
@@ -700,14 +700,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is enthusiastically devoted to something.",
-     "chinese": "熱衷者;信徒"
+     "chinese": "熱衷者；信徒"
     }
    },
    {
     "word": "devotion",
     "pos": "n.",
     "definition": "Love, loyalty, or enthusiasm for a person, cause, or activity.",
-    "chinese": "奉獻;虔誠",
+    "chinese": "奉獻；虔誠",
     "synonyms": "",
     "root": "de- (thoroughly) + vovere (to vow), from Latin",
     "group": "de = 去除；下降",
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Love, loyalty, or enthusiasm for a person, cause, or activity.",
-     "chinese": "奉獻;虔誠"
+     "chinese": "奉獻；虔誠"
     }
    },
    {
@@ -1923,4 +1923,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"derelict": ["Abandoned, run-down.", "廢棄的；失職的"], "deride": ["To ridicule, scoff at.", "嘲笑"], "derision": ["Contemptuous ridicule or mockery.", "嘲笑;譏諷"], "derisive": ["Expressing contempt or ridicule.", "嘲笑的;譏諷的"], "derivative": ["Unoriginal; taken from something already existing.", "衍生的；非原創的"], "derived": ["Received from a source, descended from.", "衍生出的；源自的"], "derogatory": ["Belittling, disparaging.", "貶低的；誹謗的"], "descend": ["To move downward; to slope or fall to a lower position.", "下降；降落"], "desecrate": ["To violate the sacredness of a thing or place.", "褻瀆；污損聖地"], "desiccated": ["Dried up, dehydrated.", "乾燥的；枯竭的"], "designation": ["An official title, name, or classification.", "稱號;指定"], "desist": ["To cease.", "停止"], "desolate": ["Deserted, dreary, lifeless.", "荒涼的；淒涼的"], "despicable": ["Deserving hatred and contempt.", "可鄙的;卑劣的"], "despise": ["To strongly dislike or look down upon.", "鄙視；厭惡"], "despoil": ["To plunder or steal from a place violently.", "掠奪;蹂躪"], "despondent": ["Feeling depressed, discouraged, hopeless.", "沮喪的；絕望的"], "destiny": ["The events that will inevitably happen to a person or thing.", "命運"], "destitute": ["Impoverished, utterly lacking.", "赤貧的；窮困潦倒的"], "destitution": ["Extreme poverty.", "貧困；赤貧"], "desuetude": ["A state of disuse.", "廢棄;不再使用"], "desultory": ["Occurring by chance, disconnected.", "散漫的；斷斷續續的"], "detached": ["Aloof; indifferent.", "超然的；冷漠的"], "detail": ["An individual small feature; to describe fully.", "細節;詳述"], "deter": ["To hinder, discourage.", "威懾；阻止"], "determine": ["To establish or decide.", "決定；確定"], "detestable": ["Deserving intense dislike or hatred.", "可憎的;令人厭惡的"], "detriment": ["Injury, damage, hurt.", "損害；危害"], "detrimental": ["Harmful.", "有害的"], "deviancy": ["Behavior that departs significantly from accepted social norms.", "偏差行為"], "deviate": ["To move away from a set path or norm.", "偏離"], "devious": ["Dishonest or deceptive.", "狡詐的"], "devise": ["To come up with (a plan).", "設計；想出"], "devitalize": ["To deprive of vitality or force.", "使失去活力"], "devote": ["To give up time, effort, or resources to a purpose.", "奉獻;投入"], "devotee": ["A person who is enthusiastically devoted to something.", "熱衷者;信徒"], "devotion": ["Love, loyalty, or enthusiasm for a person, cause, or activity.", "奉獻;虔誠"], "digress": ["To wander off from the subject or topic spoken about.", "離題"], "diminish": ["To decrease in size or importance.", "減少；削弱"], "diminutive": ["Small, tiny.", "微小的"], "indecipherable": ["Impossible to read, interpret, or understand due to lack of clarity or complexity.", "難以辨認的；無法解讀的"], "predetermine": ["To decide or determine in advance, especially by fate or a higher power.", "預先決定"], "predetermined": ["Decided in advance.", "預先決定的"], "redefine": ["To change the meaning of something.", "重新定義"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"derelict": ["Abandoned, run-down.", "廢棄的；失職的"], "deride": ["To ridicule, scoff at.", "嘲笑"], "derision": ["Contemptuous ridicule or mockery.", "嘲笑；譏諷"], "derisive": ["Expressing contempt or ridicule.", "嘲笑的；譏諷的"], "derivative": ["Unoriginal; taken from something already existing.", "衍生的；非原創的"], "derived": ["Received from a source, descended from.", "衍生出的；源自的"], "derogatory": ["Belittling, disparaging.", "貶低的；誹謗的"], "descend": ["To move downward; to slope or fall to a lower position.", "下降；降落"], "desecrate": ["To violate the sacredness of a thing or place.", "褻瀆；污損聖地"], "desiccated": ["Dried up, dehydrated.", "乾燥的；枯竭的"], "designation": ["An official title, name, or classification.", "稱號；指定"], "desist": ["To cease.", "停止"], "desolate": ["Deserted, dreary, lifeless.", "荒涼的；淒涼的"], "despicable": ["Deserving hatred and contempt.", "可鄙的；卑劣的"], "despise": ["To strongly dislike or look down upon.", "鄙視；厭惡"], "despoil": ["To plunder or steal from a place violently.", "掠奪；蹂躪"], "despondent": ["Feeling depressed, discouraged, hopeless.", "沮喪的；絕望的"], "destiny": ["The events that will inevitably happen to a person or thing.", "命運"], "destitute": ["Impoverished, utterly lacking.", "赤貧的；窮困潦倒的"], "destitution": ["Extreme poverty.", "貧困；赤貧"], "desuetude": ["A state of disuse.", "廢棄；不再使用"], "desultory": ["Occurring by chance, disconnected.", "散漫的；斷斷續續的"], "detached": ["Aloof; indifferent.", "超然的；冷漠的"], "detail": ["An individual small feature; to describe fully.", "細節；詳述"], "deter": ["To hinder, discourage.", "威懾；阻止"], "determine": ["To establish or decide.", "決定；確定"], "detestable": ["Deserving intense dislike or hatred.", "可憎的；令人厭惡的"], "detriment": ["Injury, damage, hurt.", "損害；危害"], "detrimental": ["Harmful.", "有害的"], "deviancy": ["Behavior that departs significantly from accepted social norms.", "偏差行為"], "deviate": ["To move away from a set path or norm.", "偏離"], "devious": ["Dishonest or deceptive.", "狡詐的"], "devise": ["To come up with (a plan).", "設計；想出"], "devitalize": ["To deprive of vitality or force.", "使失去活力"], "devote": ["To give up time, effort, or resources to a purpose.", "奉獻；投入"], "devotee": ["A person who is enthusiastically devoted to something.", "熱衷者；信徒"], "devotion": ["Love, loyalty, or enthusiasm for a person, cause, or activity.", "奉獻；虔誠"], "digress": ["To wander off from the subject or topic spoken about.", "離題"], "diminish": ["To decrease in size or importance.", "減少；削弱"], "diminutive": ["Small, tiny.", "微小的"], "indecipherable": ["Impossible to read, interpret, or understand due to lack of clarity or complexity.", "難以辨認的；無法解讀的"], "predetermine": ["To decide or determine in advance, especially by fate or a higher power.", "預先決定"], "predetermined": ["Decided in advance.", "預先決定的"], "redefine": ["To change the meaning of something.", "重新定義"]});

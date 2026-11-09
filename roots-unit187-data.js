@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "gainsay",
     "pos": "v.",
     "definition": "To deny or contradict.",
-    "chinese": "否認;反駁",
+    "chinese": "否認；反駁",
     "synonyms": "",
     "root": "gain- (against) + say, from Old English",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deny or contradict.",
-     "chinese": "否認;反駁"
+     "chinese": "否認；反駁"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "gall",
     "pos": "n./v.",
     "definition": "Bold, rude behavior; to irritate.",
-    "chinese": "厚顏無恥;激怒",
+    "chinese": "厚顏無恥；激怒",
     "synonyms": "",
     "root": "galla (gallbladder, bile), from Latin",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bold, rude behavior; to irritate.",
-     "chinese": "厚顏無恥;激怒"
+     "chinese": "厚顏無恥；激怒"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "galoot",
     "pos": "n.",
     "definition": "An awkward or uncouth person.",
-    "chinese": "笨拙的人;粗魯的傢伙",
+    "chinese": "笨拙的人；粗魯的傢伙",
     "synonyms": "",
     "root": "of uncertain nautical slang origin",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An awkward or uncouth person.",
-     "chinese": "笨拙的人;粗魯的傢伙"
+     "chinese": "笨拙的人；粗魯的傢伙"
     }
    },
    {
     "word": "galumph",
     "pos": "v.",
     "definition": "To move in a clumsy, noisy manner.",
-    "chinese": "笨重地走;蹣跚而行",
+    "chinese": "笨重地走；蹣跚而行",
     "synonyms": "",
     "root": "gallop + triumph, coined by Lewis Carroll",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To move in a clumsy, noisy manner.",
-     "chinese": "笨重地走;蹣跚而行"
+     "chinese": "笨重地走；蹣跚而行"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "gargantuan",
     "pos": "adj.",
     "definition": "Enormous; gigantic.",
-    "chinese": "巨大的;龐大的",
+    "chinese": "巨大的；龐大的",
     "synonyms": "",
     "root": "Gargantua, giant in Rabelais' novel",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Enormous; gigantic.",
-     "chinese": "巨大的;龐大的"
+     "chinese": "巨大的；龐大的"
     }
    },
    {
     "word": "gargoyle",
     "pos": "n.",
     "definition": "A grotesque carved figure, often used as a waterspout on a building.",
-    "chinese": "滴水獸;怪誕雕像",
+    "chinese": "滴水獸；怪誕雕像",
     "synonyms": "",
     "root": "gargouille (throat), from Old French",
     "group": "",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A grotesque carved figure, often used as a waterspout on a building.",
-     "chinese": "滴水獸;怪誕雕像"
+     "chinese": "滴水獸；怪誕雕像"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "gasconade",
     "pos": "n.",
     "definition": "Extravagant boasting.",
-    "chinese": "誇大其詞;吹噓",
+    "chinese": "誇大其詞；吹噓",
     "synonyms": "",
     "root": "Gascon, native of Gascony, France",
     "group": "",
@@ -328,14 +328,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extravagant boasting.",
-     "chinese": "誇大其詞;吹噓"
+     "chinese": "誇大其詞；吹噓"
     }
    },
    {
     "word": "gastronome",
     "pos": "n.",
     "definition": "A connoisseur of good food.",
-    "chinese": "美食家;烹飪鑑賞家",
+    "chinese": "美食家；烹飪鑑賞家",
     "synonyms": "",
     "root": "gaster (stomach) + nomos (law), from Greek",
     "group": "",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A connoisseur of good food.",
-     "chinese": "美食家;烹飪鑑賞家"
+     "chinese": "美食家；烹飪鑑賞家"
     }
    },
    {
     "word": "gatehouse",
     "pos": "n.",
     "definition": "A building at or above a gate, especially of a castle or estate.",
-    "chinese": "門房;守衛室",
+    "chinese": "門房；守衛室",
     "synonyms": "",
     "root": "gate + house, from Old Norse + Old English",
     "group": "",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A building at or above a gate, especially of a castle or estate.",
-     "chinese": "門房;守衛室"
+     "chinese": "門房；守衛室"
     }
    },
    {
@@ -660,7 +660,7 @@ window.FLASHCARD_UNITS = {
     "word": "gesticulation",
     "pos": "n.",
     "definition": "The use of expressive hand or arm movements while speaking.",
-    "chinese": "手勢;比手畫腳",
+    "chinese": "手勢；比手畫腳",
     "synonyms": "",
     "root": "gesticulari (to gesture), from Latin",
     "group": "",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of expressive hand or arm movements while speaking.",
-     "chinese": "手勢;比手畫腳"
+     "chinese": "手勢；比手畫腳"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "gewgaw",
     "pos": "n.",
     "definition": "A showy but worthless trinket.",
-    "chinese": "俗麗小飾品;華而不實的小東西",
+    "chinese": "俗麗小飾品；華而不實的小東西",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -712,14 +712,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A showy but worthless trinket.",
-     "chinese": "俗麗小飾品;華而不實的小東西"
+     "chinese": "俗麗小飾品；華而不實的小東西"
     }
    },
    {
     "word": "gibbous",
     "pos": "adj.",
     "definition": "Convex or protuberant, especially of the moon between half and full.",
-    "chinese": "凸出的;凸月的",
+    "chinese": "凸出的；凸月的",
     "synonyms": "",
     "root": "gibbus (hump), from Latin",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Convex or protuberant, especially of the moon between half and full.",
-     "chinese": "凸出的;凸月的"
+     "chinese": "凸出的；凸月的"
     }
    },
    {
     "word": "gibe",
     "pos": "n./v.",
     "definition": "A mocking or insulting remark.",
-    "chinese": "嘲弄;譏笑",
+    "chinese": "嘲弄；譏笑",
     "synonyms": "",
     "root": "giber (to handle roughly), from Old French",
     "group": "",
@@ -752,14 +752,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A mocking or insulting remark.",
-     "chinese": "嘲弄;譏笑"
+     "chinese": "嘲弄；譏笑"
     }
    },
    {
     "word": "giddy",
     "pos": "adj.",
     "definition": "Having a sensation of whirling and a tendency to fall; excitedly happy.",
-    "chinese": "頭暈的;興奮得飄飄然的",
+    "chinese": "頭暈的；興奮得飄飄然的",
     "synonyms": "",
     "root": "gidig (possessed by a god, mad), from Old English",
     "group": "",
@@ -771,7 +771,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a sensation of whirling and a tendency to fall; excitedly happy.",
-     "chinese": "頭暈的;興奮得飄飄然的"
+     "chinese": "頭暈的；興奮得飄飄然的"
     }
    },
    {
@@ -818,7 +818,7 @@ window.FLASHCARD_UNITS = {
     "word": "gimcrack",
     "pos": "adj./n.",
     "definition": "Showy but useless or poorly made; a trinket.",
-    "chinese": "華而不實的;劣質小飾物",
+    "chinese": "華而不實的；劣質小飾物",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -830,7 +830,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showy but useless or poorly made; a trinket.",
-     "chinese": "華而不實的;劣質小飾物"
+     "chinese": "華而不實的；劣質小飾物"
     }
    },
    {
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "word": "gleeful",
     "pos": "adj.",
     "definition": "Feeling or showing great delight.",
-    "chinese": "欣喜的;興高采烈的",
+    "chinese": "欣喜的；興高采烈的",
     "synonyms": "",
     "root": "gliu (joy, mirth), from Old English",
     "group": "",
@@ -965,7 +965,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling or showing great delight.",
-     "chinese": "欣喜的;興高采烈的"
+     "chinese": "欣喜的；興高采烈的"
     }
    }
   ],
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"gainsay": ["To deny or contradict.", "否認;反駁"], "galeanthropy": ["A delusion in which a person believes they are a cat.", "貓化妄想症"], "gall": ["Bold, rude behavior; to irritate.", "厚顏無恥;激怒"], "gallant": ["Brave, heroic, or exceptionally polite and attentive.", "英勇的；殷勤的"], "gallimaufry": ["A confused jumble or medley of things.", "大雜燴"], "gallophobia": ["An intense dislike or fear of France or French culture.", "恐法症"], "galoot": ["An awkward or uncouth person.", "笨拙的人;粗魯的傢伙"], "galumph": ["To move in a clumsy, noisy manner.", "笨重地走;蹣跚而行"], "galvanize": ["To excite or arouse to activity.", "激勵；刺激"], "gamut": ["Range.", "全音階；全部範圍"], "garbled": ["Confused, mixed up.", "混淆的；含糊不清的"], "gargantuan": ["Enormous; gigantic.", "巨大的;龐大的"], "gargoyle": ["A grotesque carved figure, often used as a waterspout on a building.", "滴水獸;怪誕雕像"], "garish": ["Gaudy, in bad taste.", "俗豔的；花俏刺眼的"], "garner": ["To collect or gather, especially information or approval.", "蒐集；獲得"], "garrulous": ["Talkative, wordy.", "喋喋不休的"], "gasconade": ["Extravagant boasting.", "誇大其詞;吹噓"], "gastronome": ["A connoisseur of good food.", "美食家;烹飪鑑賞家"], "gatehouse": ["A building at or above a gate, especially of a castle or estate.", "門房;守衛室"], "gauche": ["Lacking social poise or refinement.", "笨拙的；不得體的"], "gaucherie": ["The quality of being rustic or gauche.", "笨拙；粗俗"], "gaudy": ["Showy, flashy.", "俗麗的"], "gaunt": ["Thin, haggard.", "憔悴的；瘦削的"], "gavelkind": ["A system of land inheritance dividing property equally among heirs.", "諸子均分繼承制"], "geld": ["To castrate an animal.", "閹割"], "gelding": ["A castrated horse.", "閹割過的馬"], "gemütlich": ["Cozy, friendly, and pleasant.", "溫馨舒適的"], "geocentric": ["Having the earth as the center, as in an outdated model of the universe.", "地心說的"], "geography": ["The study of the earth's physical features and climate.", "地理學"], "geometry": ["The branch of mathematics concerned with shapes, sizes, and properties of space.", "幾何學"], "geophagy": ["The practice of eating earth or soil.", "食土癖"], "germane": ["Appropriate, relevant.", "密切相關的"], "germanophobia": ["An intense dislike or fear of Germany or German culture.", "恐德症"], "gesticulate": ["To move the arms energetically.", "打手勢"], "gesticulation": ["The use of expressive hand or arm movements while speaking.", "手勢;比手畫腳"], "gesundheit": ["An expression said to someone who has just sneezed.", "保重(打噴嚏後的祝福語)"], "gewgaw": ["A showy but worthless trinket.", "俗麗小飾品;華而不實的小東西"], "gibbous": ["Convex or protuberant, especially of the moon between half and full.", "凸出的;凸月的"], "gibe": ["A mocking or insulting remark.", "嘲弄;譏笑"], "giddy": ["Having a sensation of whirling and a tendency to fall; excitedly happy.", "頭暈的;興奮得飄飄然的"], "gigantomachy": ["A battle between giants, especially in Greek mythology.", "巨人之戰(希臘神話)"], "giggle": ["A light, silly laugh.", "咯咯笑"], "gimcrack": ["Showy but useless or poorly made; a trinket.", "華而不實的;劣質小飾物"], "gimcrackery": ["Showy but useless objects, collectively.", "華而不實的小物品(統稱)"], "glabrous": ["Having a smooth surface with no hair.", "光滑無毛的"], "glacial": ["Very, very cold or very, very slow moving (in both cases, like a glacier).", "冰河的；極冷的"], "glaring": ["Extremely obvious or conspicuous.", "顯而易見的；刺眼的"], "gleaming": ["Shining brightly, especially as a reflected light.", "閃閃發光的"], "glean": ["To gather, collect.", "收集；拾落穗"], "gleeful": ["Feeling or showing great delight.", "欣喜的;興高采烈的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"gainsay": ["To deny or contradict.", "否認；反駁"], "galeanthropy": ["A delusion in which a person believes they are a cat.", "貓化妄想症"], "gall": ["Bold, rude behavior; to irritate.", "厚顏無恥；激怒"], "gallant": ["Brave, heroic, or exceptionally polite and attentive.", "英勇的；殷勤的"], "gallimaufry": ["A confused jumble or medley of things.", "大雜燴"], "gallophobia": ["An intense dislike or fear of France or French culture.", "恐法症"], "galoot": ["An awkward or uncouth person.", "笨拙的人；粗魯的傢伙"], "galumph": ["To move in a clumsy, noisy manner.", "笨重地走；蹣跚而行"], "galvanize": ["To excite or arouse to activity.", "激勵；刺激"], "gamut": ["Range.", "全音階；全部範圍"], "garbled": ["Confused, mixed up.", "混淆的；含糊不清的"], "gargantuan": ["Enormous; gigantic.", "巨大的；龐大的"], "gargoyle": ["A grotesque carved figure, often used as a waterspout on a building.", "滴水獸；怪誕雕像"], "garish": ["Gaudy, in bad taste.", "俗豔的；花俏刺眼的"], "garner": ["To collect or gather, especially information or approval.", "蒐集；獲得"], "garrulous": ["Talkative, wordy.", "喋喋不休的"], "gasconade": ["Extravagant boasting.", "誇大其詞；吹噓"], "gastronome": ["A connoisseur of good food.", "美食家；烹飪鑑賞家"], "gatehouse": ["A building at or above a gate, especially of a castle or estate.", "門房；守衛室"], "gauche": ["Lacking social poise or refinement.", "笨拙的；不得體的"], "gaucherie": ["The quality of being rustic or gauche.", "笨拙；粗俗"], "gaudy": ["Showy, flashy.", "俗麗的"], "gaunt": ["Thin, haggard.", "憔悴的；瘦削的"], "gavelkind": ["A system of land inheritance dividing property equally among heirs.", "諸子均分繼承制"], "geld": ["To castrate an animal.", "閹割"], "gelding": ["A castrated horse.", "閹割過的馬"], "gemütlich": ["Cozy, friendly, and pleasant.", "溫馨舒適的"], "geocentric": ["Having the earth as the center, as in an outdated model of the universe.", "地心說的"], "geography": ["The study of the earth's physical features and climate.", "地理學"], "geometry": ["The branch of mathematics concerned with shapes, sizes, and properties of space.", "幾何學"], "geophagy": ["The practice of eating earth or soil.", "食土癖"], "germane": ["Appropriate, relevant.", "密切相關的"], "germanophobia": ["An intense dislike or fear of Germany or German culture.", "恐德症"], "gesticulate": ["To move the arms energetically.", "打手勢"], "gesticulation": ["The use of expressive hand or arm movements while speaking.", "手勢；比手畫腳"], "gesundheit": ["An expression said to someone who has just sneezed.", "保重(打噴嚏後的祝福語)"], "gewgaw": ["A showy but worthless trinket.", "俗麗小飾品；華而不實的小東西"], "gibbous": ["Convex or protuberant, especially of the moon between half and full.", "凸出的；凸月的"], "gibe": ["A mocking or insulting remark.", "嘲弄；譏笑"], "giddy": ["Having a sensation of whirling and a tendency to fall; excitedly happy.", "頭暈的；興奮得飄飄然的"], "gigantomachy": ["A battle between giants, especially in Greek mythology.", "巨人之戰(希臘神話)"], "giggle": ["A light, silly laugh.", "咯咯笑"], "gimcrack": ["Showy but useless or poorly made; a trinket.", "華而不實的；劣質小飾物"], "gimcrackery": ["Showy but useless objects, collectively.", "華而不實的小物品(統稱)"], "glabrous": ["Having a smooth surface with no hair.", "光滑無毛的"], "glacial": ["Very, very cold or very, very slow moving (in both cases, like a glacier).", "冰河的；極冷的"], "glaring": ["Extremely obvious or conspicuous.", "顯而易見的；刺眼的"], "gleaming": ["Shining brightly, especially as a reflected light.", "閃閃發光的"], "glean": ["To gather, collect.", "收集；拾落穗"], "gleeful": ["Feeling or showing great delight.", "欣喜的；興高采烈的"]});

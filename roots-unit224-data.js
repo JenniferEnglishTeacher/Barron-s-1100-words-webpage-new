@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "sophomore",
     "pos": "n./adj.",
     "definition": "A second-year student; relating to a second, often less successful, attempt.",
-    "chinese": "二年級生;第二次的",
+    "chinese": "二年級生；第二次的",
     "synonyms": "",
     "root": "sophos (wise) + moros (foolish), from Greek, reflecting a paradoxical blend",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A second-year student; relating to a second, often less successful, attempt.",
-     "chinese": "二年級生;第二次的"
+     "chinese": "二年級生；第二次的"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "sophrosyne",
     "pos": "n.",
     "definition": "A state of moderation, self-control, and inner balance.",
-    "chinese": "自制;中庸之德",
+    "chinese": "自制；中庸之德",
     "synonyms": "",
     "root": "sophrosyne (soundness of mind, moderation), from Greek",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of moderation, self-control, and inner balance.",
-     "chinese": "自制;中庸之德"
+     "chinese": "自制；中庸之德"
     }
    },
    {
     "word": "sorcery",
     "pos": "n.",
     "definition": "The practice of magic, especially black magic.",
-    "chinese": "巫術;魔法",
+    "chinese": "巫術；魔法",
     "synonyms": "",
     "root": "sorcerie, from Old French, from Latin sors (lot, fate)",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of magic, especially black magic.",
-     "chinese": "巫術;魔法"
+     "chinese": "巫術；魔法"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "sordidness",
     "pos": "n.",
     "definition": "The quality of being dirty, degraded, or morally base.",
-    "chinese": "污穢;卑劣",
+    "chinese": "污穢；卑劣",
     "synonyms": "",
     "root": "sordidus (dirty), from Latin sordere (to be dirty)",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being dirty, degraded, or morally base.",
-     "chinese": "污穢;卑劣"
+     "chinese": "污穢；卑劣"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "sorrowful",
     "pos": "adj.",
     "definition": "Feeling or showing deep sadness.",
-    "chinese": "悲傷的;哀痛的",
+    "chinese": "悲傷的；哀痛的",
     "synonyms": "",
     "root": "sorrow, from Old English sorg + -ful",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling or showing deep sadness.",
-     "chinese": "悲傷的;哀痛的"
+     "chinese": "悲傷的；哀痛的"
     }
    },
    {
     "word": "sortilege",
     "pos": "n.",
     "definition": "Divination by drawing lots.",
-    "chinese": "占卜;抽籤占卜術",
+    "chinese": "占卜；抽籤占卜術",
     "synonyms": "",
     "root": "sors (lot) + legere (to choose), from Latin",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Divination by drawing lots.",
-     "chinese": "占卜;抽籤占卜術"
+     "chinese": "占卜；抽籤占卜術"
     }
    },
    {
     "word": "sot",
     "pos": "n.",
     "definition": "A person who is habitually drunk.",
-    "chinese": "醉漢;酒鬼",
+    "chinese": "醉漢；酒鬼",
     "synonyms": "",
     "root": "sott (foolish person), from Old French, of uncertain further origin",
     "group": "",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is habitually drunk.",
-     "chinese": "醉漢;酒鬼"
+     "chinese": "醉漢；酒鬼"
     }
    },
    {
     "word": "soupcon",
     "pos": "n.",
     "definition": "A very small amount, especially of a flavor (variant spelling of soupçon).",
-    "chinese": "少許;一點點(異體標示)",
+    "chinese": "少許；一點點(異體標示)",
     "synonyms": "",
     "root": "soupçon (suspicion), from French",
     "group": "",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A very small amount, especially of a flavor (variant spelling of soupçon).",
-     "chinese": "少許;一點點(異體標示)"
+     "chinese": "少許；一點點(異體標示)"
     }
    },
    {
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
     "word": "spangle",
     "pos": "n./v.",
     "definition": "A small piece of glittering material; to decorate with such pieces.",
-    "chinese": "亮片;以亮片裝飾",
+    "chinese": "亮片；以亮片裝飾",
     "synonyms": "",
     "root": "spang (a metal clasp), from Middle Dutch",
     "group": "",
@@ -427,14 +427,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small piece of glittering material; to decorate with such pieces.",
-     "chinese": "亮片;以亮片裝飾"
+     "chinese": "亮片；以亮片裝飾"
     }
    },
    {
     "word": "spangled",
     "pos": "adj.",
     "definition": "Decorated with small pieces of glittering material.",
-    "chinese": "綴滿亮片的;閃耀的",
+    "chinese": "綴滿亮片的；閃耀的",
     "synonyms": "",
     "root": "spang (a metal clasp), from Middle Dutch",
     "group": "",
@@ -446,7 +446,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Decorated with small pieces of glittering material.",
-     "chinese": "綴滿亮片的;閃耀的"
+     "chinese": "綴滿亮片的；閃耀的"
     }
    },
    {
@@ -472,7 +472,7 @@ window.FLASHCARD_UNITS = {
     "word": "sparkling",
     "pos": "adj.",
     "definition": "Shining with flashes of light; lively and vivacious.",
-    "chinese": "閃耀的;活潑的",
+    "chinese": "閃耀的；活潑的",
     "synonyms": "",
     "root": "spark, from Old English spearca",
     "group": "",
@@ -484,14 +484,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Shining with flashes of light; lively and vivacious.",
-     "chinese": "閃耀的;活潑的"
+     "chinese": "閃耀的；活潑的"
     }
    },
    {
     "word": "sparse",
     "pos": "adj.",
     "definition": "Thinly scattered or distributed.",
-    "chinese": "稀疏的;稀少的",
+    "chinese": "稀疏的；稀少的",
     "synonyms": "",
     "root": "sparsus, past participle of Latin spargere (to scatter)",
     "group": "",
@@ -503,14 +503,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thinly scattered or distributed.",
-     "chinese": "稀疏的;稀少的"
+     "chinese": "稀疏的；稀少的"
     }
    },
    {
     "word": "spasm",
     "pos": "n.",
     "definition": "A sudden involuntary muscle contraction.",
-    "chinese": "痙攣;抽搐",
+    "chinese": "痙攣；抽搐",
     "synonyms": "",
     "root": "spasmos (a drawing, convulsion), from Greek spao (to pull)",
     "group": "",
@@ -522,14 +522,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden involuntary muscle contraction.",
-     "chinese": "痙攣;抽搐"
+     "chinese": "痙攣；抽搐"
     }
    },
    {
     "word": "spasmodic",
     "pos": "adj.",
     "definition": "Occurring in sudden, brief bursts; relating to spasms.",
-    "chinese": "陣發性的;痙攣性的",
+    "chinese": "陣發性的；痙攣性的",
     "synonyms": "",
     "root": "spasmos (a drawing, convulsion), from Greek spao (to pull)",
     "group": "",
@@ -541,7 +541,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring in sudden, brief bursts; relating to spasms.",
-     "chinese": "陣發性的;痙攣性的"
+     "chinese": "陣發性的；痙攣性的"
     }
    },
    {
@@ -567,7 +567,7 @@ window.FLASHCARD_UNITS = {
     "word": "spear",
     "pos": "n./v.",
     "definition": "A weapon with a long shaft and pointed tip; to pierce with such a weapon.",
-    "chinese": "矛;槍;刺穿",
+    "chinese": "矛；槍；刺穿",
     "synonyms": "",
     "root": "spere (spear), from Old English",
     "group": "",
@@ -579,14 +579,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A weapon with a long shaft and pointed tip; to pierce with such a weapon.",
-     "chinese": "矛;槍;刺穿"
+     "chinese": "矛；槍；刺穿"
     }
    },
    {
     "word": "spendthrift",
     "pos": "n./adj.",
     "definition": "A person who spends money extravagantly or wastefully.",
-    "chinese": "揮霍者;揮霍無度的",
+    "chinese": "揮霍者；揮霍無度的",
     "synonyms": "",
     "root": "spend, from Latin expendere + thrift, from Old Norse þrift (thriving)",
     "group": "",
@@ -598,7 +598,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who spends money extravagantly or wastefully.",
-     "chinese": "揮霍者;揮霍無度的"
+     "chinese": "揮霍者；揮霍無度的"
     }
    },
    {
@@ -643,7 +643,7 @@ window.FLASHCARD_UNITS = {
     "word": "spindle",
     "pos": "n.",
     "definition": "A slender rod used for spinning thread; a slender shaft.",
-    "chinese": "紡錘;軸桿",
+    "chinese": "紡錘；軸桿",
     "synonyms": "",
     "root": "spinnan (to spin), from Old English",
     "group": "",
@@ -655,7 +655,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A slender rod used for spinning thread; a slender shaft.",
-     "chinese": "紡錘;軸桿"
+     "chinese": "紡錘；軸桿"
     }
    },
    {
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "word": "spineless",
     "pos": "adj.",
     "definition": "Lacking courage or determination; invertebrate.",
-    "chinese": "懦弱的;無脊椎的",
+    "chinese": "懦弱的；無脊椎的",
     "synonyms": "",
     "root": "spine, from Latin spina (thorn, backbone) + -less",
     "group": "",
@@ -693,14 +693,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking courage or determination; invertebrate.",
-     "chinese": "懦弱的;無脊椎的"
+     "chinese": "懦弱的；無脊椎的"
     }
    },
    {
     "word": "spirited",
     "pos": "adj.",
     "definition": "Full of energy, courage, or enthusiasm.",
-    "chinese": "生氣勃勃的;精神飽滿的",
+    "chinese": "生氣勃勃的；精神飽滿的",
     "synonyms": "",
     "root": "spirit, from Latin spiritus (breath, spirit)",
     "group": "",
@@ -712,14 +712,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Full of energy, courage, or enthusiasm.",
-     "chinese": "生氣勃勃的;精神飽滿的"
+     "chinese": "生氣勃勃的；精神飽滿的"
     }
    },
    {
     "word": "spiritless",
     "pos": "adj.",
     "definition": "Lacking energy, courage, or enthusiasm.",
-    "chinese": "無精打采的;無生氣的",
+    "chinese": "無精打采的；無生氣的",
     "synonyms": "",
     "root": "spirit, from Latin spiritus (breath, spirit) + -less",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking energy, courage, or enthusiasm.",
-     "chinese": "無精打采的;無生氣的"
+     "chinese": "無精打采的；無生氣的"
     }
    },
    {
     "word": "spite",
     "pos": "n./v.",
     "definition": "A desire to hurt or upset someone; malice.",
-    "chinese": "怨恨;惡意",
+    "chinese": "怨恨；惡意",
     "synonyms": "",
     "root": "despit (contempt), from Old French, from Latin despectus (looking down on)",
     "group": "",
@@ -750,14 +750,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A desire to hurt or upset someone; malice.",
-     "chinese": "怨恨;惡意"
+     "chinese": "怨恨；惡意"
     }
    },
    {
     "word": "splenetic",
     "pos": "adj.",
     "definition": "Bad-tempered or spiteful.",
-    "chinese": "易怒的;脾氣暴躁的",
+    "chinese": "易怒的；脾氣暴躁的",
     "synonyms": "",
     "root": "splen (spleen), from Greek, once believed to be the seat of anger",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bad-tempered or spiteful.",
-     "chinese": "易怒的;脾氣暴躁的"
+     "chinese": "易怒的；脾氣暴躁的"
     }
    },
    {
     "word": "sponsorship",
     "pos": "n.",
     "definition": "The position or act of providing financial or other support.",
-    "chinese": "贊助;資助",
+    "chinese": "贊助；資助",
     "synonyms": "",
     "root": "sponsor, from Latin spondere (to pledge) + -ship",
     "group": "",
@@ -788,7 +788,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The position or act of providing financial or other support.",
-     "chinese": "贊助;資助"
+     "chinese": "贊助；資助"
     }
    },
    {
@@ -814,7 +814,7 @@ window.FLASHCARD_UNITS = {
     "word": "spoonerism",
     "pos": "n.",
     "definition": "An error in speech in which corresponding sounds of two words are swapped.",
-    "chinese": "音位誤置;首音互換",
+    "chinese": "音位誤置；首音互換",
     "synonyms": "",
     "root": "named after Reverend William Archibald Spooner, known for such slips",
     "group": "",
@@ -828,7 +828,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An error in speech in which corresponding sounds of two words are swapped.",
-     "chinese": "音位誤置;首音互換"
+     "chinese": "音位誤置；首音互換"
     }
    },
    {
@@ -873,7 +873,7 @@ window.FLASHCARD_UNITS = {
     "word": "sprightly",
     "pos": "adj.",
     "definition": "Lively and energetic, especially for an older person.",
-    "chinese": "活潑的;生氣勃勃的",
+    "chinese": "活潑的；生氣勃勃的",
     "synonyms": "",
     "root": "sprightly, variant of spritely, from sprite, from Latin spiritus",
     "group": "",
@@ -885,14 +885,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lively and energetic, especially for an older person.",
-     "chinese": "活潑的;生氣勃勃的"
+     "chinese": "活潑的；生氣勃勃的"
     }
    },
    {
     "word": "spry",
     "pos": "adj.",
     "definition": "Active and energetic, especially of an older person.",
-    "chinese": "矯健的;敏捷的",
+    "chinese": "矯健的；敏捷的",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Swedish dialect sprygg (agile)",
     "group": "",
@@ -904,14 +904,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Active and energetic, especially of an older person.",
-     "chinese": "矯健的;敏捷的"
+     "chinese": "矯健的；敏捷的"
     }
    },
    {
     "word": "spur",
     "pos": "n./v.",
     "definition": "Something that stimulates or encourages action.",
-    "chinese": "刺激;激勵",
+    "chinese": "刺激；激勵",
     "synonyms": "",
     "root": "spura (spur), from Old English",
     "group": "",
@@ -923,7 +923,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that stimulates or encourages action.",
-     "chinese": "刺激;激勵"
+     "chinese": "刺激；激勵"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "spurn",
     "pos": "v.",
     "definition": "To reject with disdain or contempt.",
-    "chinese": "蔑視拒絕;唾棄",
+    "chinese": "蔑視拒絕；唾棄",
     "synonyms": "",
     "root": "spurnan (to kick away), from Old English",
     "group": "",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To reject with disdain or contempt.",
-     "chinese": "蔑視拒絕;唾棄"
+     "chinese": "蔑視拒絕；唾棄"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sophist": ["A person who reasons with clever but fallacious arguments.", "詭辯家"], "sophistic": ["Using clever but fallacious reasoning.", "詭辯的"], "sophistical": ["Characterized by clever but misleading reasoning.", "詭辯性的"], "sophisticated": ["Complex or refined.", "複雜精密的；世故的"], "sophistry": ["False reasoning or argument.", "詭辯"], "sophomore": ["A second-year student; relating to a second, often less successful, attempt.", "二年級生;第二次的"], "sophomoric": ["Immature, uninformed.", "幼稚的；不成熟的"], "sophophobia": ["An irrational fear of learning.", "學習恐懼症"], "sophrosyne": ["A state of moderation, self-control, and inner balance.", "自制;中庸之德"], "sorcery": ["The practice of magic, especially black magic.", "巫術;魔法"], "sordid": ["Dirty, base.", "骯髒的；卑鄙的"], "sordidness": ["The quality of being dirty, degraded, or morally base.", "污穢;卑劣"], "soriee": ["A variant spelling of soiree, an evening party or gathering.", "晚會(soiree之異體字)"], "sororize": ["To associate in a sisterly manner.", "以姊妹情誼相待"], "sorrowful": ["Feeling or showing deep sadness.", "悲傷的;哀痛的"], "sortilege": ["Divination by drawing lots.", "占卜;抽籤占卜術"], "sot": ["A person who is habitually drunk.", "醉漢;酒鬼"], "soupcon": ["A very small amount, especially of a flavor (variant spelling of soupçon).", "少許;一點點(異體標示)"], "sovereign": ["Having absolute authority in a certain realm.", "至高無上的；主權的"], "spacious": ["Having ample space; roomy.", "寬敞的"], "span": ["The extent or length of something.", "範圍；期間"], "spangle": ["A small piece of glittering material; to decorate with such pieces.", "亮片;以亮片裝飾"], "spangled": ["Decorated with small pieces of glittering material.", "綴滿亮片的;閃耀的"], "sparingly": ["Insufficiently, meagerly, or in a restricted manner.", "節省地；少量地"], "sparkling": ["Shining with flashes of light; lively and vivacious.", "閃耀的;活潑的"], "sparse": ["Thinly scattered or distributed.", "稀疏的;稀少的"], "spasm": ["A sudden involuntary muscle contraction.", "痙攣;抽搐"], "spasmodic": ["Occurring in sudden, brief bursts; relating to spasms.", "陣發性的;痙攣性的"], "spate": ["Rush, flood.", "激增；一連串"], "spear": ["A weapon with a long shaft and pointed tip; to pierce with such a weapon.", "矛;槍;刺穿"], "spendthrift": ["A person who spends money extravagantly or wastefully.", "揮霍者;揮霍無度的"], "spew": ["Spout, eject.", "噴出"], "spherical": ["Shaped like a sphere; globular.", "球形的"], "spindle": ["A slender rod used for spinning thread; a slender shaft.", "紡錘;軸桿"], "spindly": ["Unusually tall or long and thin, often weak-looking.", "細長虛弱的"], "spineless": ["Lacking courage or determination; invertebrate.", "懦弱的;無脊椎的"], "spirited": ["Full of energy, courage, or enthusiasm.", "生氣勃勃的;精神飽滿的"], "spiritless": ["Lacking energy, courage, or enthusiasm.", "無精打采的;無生氣的"], "spite": ["A desire to hurt or upset someone; malice.", "怨恨;惡意"], "splenetic": ["Bad-tempered or spiteful.", "易怒的;脾氣暴躁的"], "sponsorship": ["The position or act of providing financial or other support.", "贊助;資助"], "spontaneous": ["Without preparation, unrehearsed.", "自發的；自然的"], "spoonerism": ["An error in speech in which corresponding sounds of two words are swapped.", "音位誤置;首音互換"], "sporadic": ["Occasional.", "偶爾的；零星的"], "sprachgefühl": ["An intuitive feel for the correct way to use a language.", "語感"], "sprightly": ["Lively and energetic, especially for an older person.", "活潑的;生氣勃勃的"], "spry": ["Active and energetic, especially of an older person.", "矯健的;敏捷的"], "spur": ["Something that stimulates or encourages action.", "刺激;激勵"], "spurious": ["False, counterfeit.", "虛假的；偽造的"], "spurn": ["To reject with disdain or contempt.", "蔑視拒絕;唾棄"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sophist": ["A person who reasons with clever but fallacious arguments.", "詭辯家"], "sophistic": ["Using clever but fallacious reasoning.", "詭辯的"], "sophistical": ["Characterized by clever but misleading reasoning.", "詭辯性的"], "sophisticated": ["Complex or refined.", "複雜精密的；世故的"], "sophistry": ["False reasoning or argument.", "詭辯"], "sophomore": ["A second-year student; relating to a second, often less successful, attempt.", "二年級生；第二次的"], "sophomoric": ["Immature, uninformed.", "幼稚的；不成熟的"], "sophophobia": ["An irrational fear of learning.", "學習恐懼症"], "sophrosyne": ["A state of moderation, self-control, and inner balance.", "自制；中庸之德"], "sorcery": ["The practice of magic, especially black magic.", "巫術；魔法"], "sordid": ["Dirty, base.", "骯髒的；卑鄙的"], "sordidness": ["The quality of being dirty, degraded, or morally base.", "污穢；卑劣"], "soriee": ["A variant spelling of soiree, an evening party or gathering.", "晚會(soiree之異體字)"], "sororize": ["To associate in a sisterly manner.", "以姊妹情誼相待"], "sorrowful": ["Feeling or showing deep sadness.", "悲傷的；哀痛的"], "sortilege": ["Divination by drawing lots.", "占卜；抽籤占卜術"], "sot": ["A person who is habitually drunk.", "醉漢；酒鬼"], "soupcon": ["A very small amount, especially of a flavor (variant spelling of soupçon).", "少許；一點點(異體標示)"], "sovereign": ["Having absolute authority in a certain realm.", "至高無上的；主權的"], "spacious": ["Having ample space; roomy.", "寬敞的"], "span": ["The extent or length of something.", "範圍；期間"], "spangle": ["A small piece of glittering material; to decorate with such pieces.", "亮片；以亮片裝飾"], "spangled": ["Decorated with small pieces of glittering material.", "綴滿亮片的；閃耀的"], "sparingly": ["Insufficiently, meagerly, or in a restricted manner.", "節省地；少量地"], "sparkling": ["Shining with flashes of light; lively and vivacious.", "閃耀的；活潑的"], "sparse": ["Thinly scattered or distributed.", "稀疏的；稀少的"], "spasm": ["A sudden involuntary muscle contraction.", "痙攣；抽搐"], "spasmodic": ["Occurring in sudden, brief bursts; relating to spasms.", "陣發性的；痙攣性的"], "spate": ["Rush, flood.", "激增；一連串"], "spear": ["A weapon with a long shaft and pointed tip; to pierce with such a weapon.", "矛；槍；刺穿"], "spendthrift": ["A person who spends money extravagantly or wastefully.", "揮霍者；揮霍無度的"], "spew": ["Spout, eject.", "噴出"], "spherical": ["Shaped like a sphere; globular.", "球形的"], "spindle": ["A slender rod used for spinning thread; a slender shaft.", "紡錘；軸桿"], "spindly": ["Unusually tall or long and thin, often weak-looking.", "細長虛弱的"], "spineless": ["Lacking courage or determination; invertebrate.", "懦弱的；無脊椎的"], "spirited": ["Full of energy, courage, or enthusiasm.", "生氣勃勃的；精神飽滿的"], "spiritless": ["Lacking energy, courage, or enthusiasm.", "無精打采的；無生氣的"], "spite": ["A desire to hurt or upset someone; malice.", "怨恨；惡意"], "splenetic": ["Bad-tempered or spiteful.", "易怒的；脾氣暴躁的"], "sponsorship": ["The position or act of providing financial or other support.", "贊助；資助"], "spontaneous": ["Without preparation, unrehearsed.", "自發的；自然的"], "spoonerism": ["An error in speech in which corresponding sounds of two words are swapped.", "音位誤置；首音互換"], "sporadic": ["Occasional.", "偶爾的；零星的"], "sprachgefühl": ["An intuitive feel for the correct way to use a language.", "語感"], "sprightly": ["Lively and energetic, especially for an older person.", "活潑的；生氣勃勃的"], "spry": ["Active and energetic, especially of an older person.", "矯健的；敏捷的"], "spur": ["Something that stimulates or encourages action.", "刺激；激勵"], "spurious": ["False, counterfeit.", "虛假的；偽造的"], "spurn": ["To reject with disdain or contempt.", "蔑視拒絕；唾棄"]});

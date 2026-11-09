@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "embellishment",
     "pos": "n.",
     "definition": "A decorative detail added to make something more attractive; an exaggeration.",
-    "chinese": "裝飾;誇大",
+    "chinese": "裝飾；誇大",
     "synonyms": "",
     "root": "en- (in) + bel (beautiful), from Old French",
     "group": "en；em = 使進入",
@@ -98,14 +98,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A decorative detail added to make something more attractive; an exaggeration.",
-     "chinese": "裝飾;誇大"
+     "chinese": "裝飾；誇大"
     }
    },
    {
     "word": "embrace",
     "pos": "v./n.",
     "definition": "To hold someone closely; to accept an idea willingly.",
-    "chinese": "擁抱;欣然接受",
+    "chinese": "擁抱；欣然接受",
     "synonyms": "",
     "root": "en- (in) + bracchium (arm), from Latin",
     "group": "en；em = 使進入",
@@ -117,14 +117,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To hold someone closely; to accept an idea willingly.",
-     "chinese": "擁抱;欣然接受"
+     "chinese": "擁抱；欣然接受"
     }
    },
    {
     "word": "embroilment",
     "pos": "n.",
     "definition": "The state of being involved in an argument, conflict, or difficult situation.",
-    "chinese": "捲入紛爭;糾葛",
+    "chinese": "捲入紛爭；糾葛",
     "synonyms": "",
     "root": "en- (in) + brouiller (to confuse), from French",
     "group": "en；em = 使進入",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being involved in an argument, conflict, or difficult situation.",
-     "chinese": "捲入紛爭;糾葛"
+     "chinese": "捲入紛爭；糾葛"
     }
    },
    {
     "word": "embryonic",
     "pos": "adj.",
     "definition": "In an early or undeveloped stage.",
-    "chinese": "胚胎的;萌芽階段的",
+    "chinese": "胚胎的；萌芽階段的",
     "synonyms": "",
     "root": "em- (in) + bryein (to swell), from Greek",
     "group": "en；em = 使進入",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In an early or undeveloped stage.",
-     "chinese": "胚胎的;萌芽階段的"
+     "chinese": "胚胎的；萌芽階段的"
     }
    },
    {
@@ -221,7 +221,7 @@ window.FLASHCARD_UNITS = {
     "word": "employee",
     "pos": "n.",
     "definition": "A person employed for wages or salary.",
-    "chinese": "員工;受雇者",
+    "chinese": "員工；受雇者",
     "synonyms": "",
     "root": "en- (in) + plicare (to fold), from Latin",
     "group": "en；em = 使進入",
@@ -233,7 +233,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person employed for wages or salary.",
-     "chinese": "員工;受雇者"
+     "chinese": "員工；受雇者"
     }
    },
    {
@@ -280,7 +280,7 @@ window.FLASHCARD_UNITS = {
     "word": "enamored",
     "pos": "adj.",
     "definition": "Filled with love or admiration for someone or something.",
-    "chinese": "迷戀的;傾心的",
+    "chinese": "迷戀的；傾心的",
     "synonyms": "",
     "root": "en- (in) + amor (love), from Latin",
     "group": "en；em = 使進入",
@@ -292,14 +292,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled with love or admiration for someone or something.",
-     "chinese": "迷戀的;傾心的"
+     "chinese": "迷戀的；傾心的"
     }
    },
    {
     "word": "enchant",
     "pos": "v.",
     "definition": "To fill with great delight; to put under a magic spell.",
-    "chinese": "使著迷;施魔法",
+    "chinese": "使著迷；施魔法",
     "synonyms": "",
     "root": "en- (in) + cantare (to sing), from Latin",
     "group": "en；em = 使進入",
@@ -311,14 +311,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To fill with great delight; to put under a magic spell.",
-     "chinese": "使著迷;施魔法"
+     "chinese": "使著迷；施魔法"
     }
    },
    {
     "word": "enchanting",
     "pos": "adj.",
     "definition": "Delightfully charming or attractive.",
-    "chinese": "迷人的;令人著迷的",
+    "chinese": "迷人的；令人著迷的",
     "synonyms": "",
     "root": "en- (in) + cantare (to sing), from Latin",
     "group": "en；em = 使進入",
@@ -330,14 +330,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Delightfully charming or attractive.",
-     "chinese": "迷人的;令人著迷的"
+     "chinese": "迷人的；令人著迷的"
     }
    },
    {
     "word": "encircle",
     "pos": "v.",
     "definition": "To surround something completely.",
-    "chinese": "包圍;環繞",
+    "chinese": "包圍；環繞",
     "synonyms": "",
     "root": "en- (in) + circulus (circle), from Latin",
     "group": "en；em = 使進入",
@@ -349,14 +349,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To surround something completely.",
-     "chinese": "包圍;環繞"
+     "chinese": "包圍；環繞"
     }
    },
    {
     "word": "enclose",
     "pos": "v.",
     "definition": "To surround or close off; to include something with a letter.",
-    "chinese": "圍住;附上",
+    "chinese": "圍住；附上",
     "synonyms": "",
     "root": "en- (in) + claudere (to close), from Latin",
     "group": "en；em = 使進入",
@@ -368,14 +368,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To surround or close off; to include something with a letter.",
-     "chinese": "圍住;附上"
+     "chinese": "圍住；附上"
     }
    },
    {
     "word": "encroach",
     "pos": "v.",
     "definition": "To gradually intrude on a person's territory or rights.",
-    "chinese": "侵占;侵犯",
+    "chinese": "侵占；侵犯",
     "synonyms": "",
     "root": "en- (in) + croc (hook), from Old French",
     "group": "en；em = 使進入",
@@ -387,7 +387,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gradually intrude on a person's territory or rights.",
-     "chinese": "侵占;侵犯"
+     "chinese": "侵占；侵犯"
     }
    },
    {
@@ -434,7 +434,7 @@ window.FLASHCARD_UNITS = {
     "word": "endorse",
     "pos": "v.",
     "definition": "To declare public approval or support of.",
-    "chinese": "支持;背書",
+    "chinese": "支持；背書",
     "synonyms": "",
     "root": "en- (on) + dorsum (back), from Latin",
     "group": "en；em = 使進入",
@@ -448,14 +448,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To declare public approval or support of.",
-     "chinese": "支持;背書"
+     "chinese": "支持；背書"
     }
    },
    {
     "word": "endorsement",
     "pos": "n.",
     "definition": "A public declaration of support or approval.",
-    "chinese": "支持;背書",
+    "chinese": "支持；背書",
     "synonyms": "",
     "root": "en- (on) + dorsum (back), from Latin",
     "group": "en；em = 使進入",
@@ -467,14 +467,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A public declaration of support or approval.",
-     "chinese": "支持;背書"
+     "chinese": "支持；背書"
     }
    },
    {
     "word": "endow",
     "pos": "v.",
     "definition": "To give a permanent income or gift to; to provide with a quality.",
-    "chinese": "捐贈;賦予",
+    "chinese": "捐贈；賦予",
     "synonyms": "",
     "root": "en- (in) + dotare (to give a dowry), from Latin",
     "group": "en；em = 使進入",
@@ -488,14 +488,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To give a permanent income or gift to; to provide with a quality.",
-     "chinese": "捐贈;賦予"
+     "chinese": "捐贈；賦予"
     }
    },
    {
     "word": "energetic",
     "pos": "adj.",
     "definition": "Showing or involving great activity or vitality.",
-    "chinese": "精力充沛的;充滿活力的",
+    "chinese": "精力充沛的；充滿活力的",
     "synonyms": "",
     "root": "en- (in) + ergon (work), from Greek",
     "group": "en；em = 使進入",
@@ -507,14 +507,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing or involving great activity or vitality.",
-     "chinese": "精力充沛的;充滿活力的"
+     "chinese": "精力充沛的；充滿活力的"
     }
    },
    {
     "word": "energize",
     "pos": "v.",
     "definition": "To give vitality and enthusiasm to.",
-    "chinese": "使充滿活力;激勵",
+    "chinese": "使充滿活力；激勵",
     "synonyms": "",
     "root": "en- (in) + ergon (work), from Greek",
     "group": "en；em = 使進入",
@@ -526,14 +526,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give vitality and enthusiasm to.",
-     "chinese": "使充滿活力;激勵"
+     "chinese": "使充滿活力；激勵"
     }
    },
    {
     "word": "enfeeble",
     "pos": "v.",
     "definition": "To make weak or feeble.",
-    "chinese": "使衰弱;削弱",
+    "chinese": "使衰弱；削弱",
     "synonyms": "",
     "root": "en- (in) + feeble, from Old French feble",
     "group": "en；em = 使進入",
@@ -547,7 +547,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To make weak or feeble.",
-     "chinese": "使衰弱;削弱"
+     "chinese": "使衰弱；削弱"
     }
    },
    {
@@ -594,7 +594,7 @@ window.FLASHCARD_UNITS = {
     "word": "engulf",
     "pos": "v.",
     "definition": "To completely surround or overwhelm.",
-    "chinese": "吞沒;籠罩",
+    "chinese": "吞沒；籠罩",
     "synonyms": "",
     "root": "en- (in) + golfe (gulf), from Old French",
     "group": "en；em = 使進入",
@@ -606,14 +606,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To completely surround or overwhelm.",
-     "chinese": "吞沒;籠罩"
+     "chinese": "吞沒；籠罩"
     }
    },
    {
     "word": "enlightened",
     "pos": "adj.",
     "definition": "Having or showing a rational, modern, and well-informed outlook.",
-    "chinese": "開明的;有見識的",
+    "chinese": "開明的；有見識的",
     "synonyms": "",
     "root": "en- (in) + light, from Old English leoht",
     "group": "en；em = 使進入",
@@ -625,14 +625,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing a rational, modern, and well-informed outlook.",
-     "chinese": "開明的;有見識的"
+     "chinese": "開明的；有見識的"
     }
    },
    {
     "word": "enliven",
     "pos": "v.",
     "definition": "To make more lively or interesting.",
-    "chinese": "使活躍;使生動",
+    "chinese": "使活躍；使生動",
     "synonyms": "",
     "root": "en- (in) + life, from Old English lif",
     "group": "en；em = 使進入",
@@ -646,14 +646,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To make more lively or interesting.",
-     "chinese": "使活躍;使生動"
+     "chinese": "使活躍；使生動"
     }
    },
    {
     "word": "enrapture",
     "pos": "v.",
     "definition": "To fill with intense delight.",
-    "chinese": "使狂喜;使著迷",
+    "chinese": "使狂喜；使著迷",
     "synonyms": "",
     "root": "en- (in) + rapture, from Latin rapere (to seize)",
     "group": "en；em = 使進入",
@@ -667,14 +667,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To fill with intense delight.",
-     "chinese": "使狂喜;使著迷"
+     "chinese": "使狂喜；使著迷"
     }
    },
    {
     "word": "enraptured",
     "pos": "adj.",
     "definition": "Filled with intense delight; captivated.",
-    "chinese": "狂喜的;著迷的",
+    "chinese": "狂喜的；著迷的",
     "synonyms": "",
     "root": "en- (in) + rapture, from Latin rapere (to seize)",
     "group": "en；em = 使進入",
@@ -686,14 +686,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled with intense delight; captivated.",
-     "chinese": "狂喜的;著迷的"
+     "chinese": "狂喜的；著迷的"
     }
    },
    {
     "word": "ensconce",
     "pos": "v.",
     "definition": "To settle oneself securely or comfortably.",
-    "chinese": "安頓;安置",
+    "chinese": "安頓；安置",
     "synonyms": "",
     "root": "en- (in) + sconce (fortification), from Dutch schans",
     "group": "en；em = 使進入",
@@ -707,14 +707,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To settle oneself securely or comfortably.",
-     "chinese": "安頓;安置"
+     "chinese": "安頓；安置"
     }
    },
    {
     "word": "enshrine",
     "pos": "v.",
     "definition": "To preserve a right, tradition, or idea in a form that ensures it will be protected.",
-    "chinese": "銘記;奉為神聖",
+    "chinese": "銘記；奉為神聖",
     "synonyms": "",
     "root": "en- (in) + shrine, from Latin scrinium",
     "group": "en；em = 使進入",
@@ -728,7 +728,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To preserve a right, tradition, or idea in a form that ensures it will be protected.",
-     "chinese": "銘記;奉為神聖"
+     "chinese": "銘記；奉為神聖"
     }
    },
    {
@@ -754,7 +754,7 @@ window.FLASHCARD_UNITS = {
     "word": "ensnare",
     "pos": "v.",
     "definition": "To catch in or as if in a trap.",
-    "chinese": "使落入圈套;誘捕",
+    "chinese": "使落入圈套；誘捕",
     "synonyms": "",
     "root": "en- (in) + snare, from Old Norse snara",
     "group": "en；em = 使進入",
@@ -766,14 +766,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To catch in or as if in a trap.",
-     "chinese": "使落入圈套;誘捕"
+     "chinese": "使落入圈套；誘捕"
     }
    },
    {
     "word": "ensorcel",
     "pos": "v.",
     "definition": "To enchant or bewitch.",
-    "chinese": "施魔法;迷惑",
+    "chinese": "施魔法；迷惑",
     "synonyms": "",
     "root": "en- (in) + sorcele (sorcery), from Old French",
     "group": "en；em = 使進入",
@@ -785,7 +785,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To enchant or bewitch.",
-     "chinese": "施魔法;迷惑"
+     "chinese": "施魔法；迷惑"
     }
    },
    {
@@ -811,7 +811,7 @@ window.FLASHCARD_UNITS = {
     "word": "entanglement",
     "pos": "n.",
     "definition": "A complicated or awkward situation; the state of being tangled.",
-    "chinese": "糾纏;糾葛",
+    "chinese": "糾纏；糾葛",
     "synonyms": "",
     "root": "en- (in) + tangle, of uncertain Scandinavian origin",
     "group": "en；em = 使進入",
@@ -823,14 +823,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A complicated or awkward situation; the state of being tangled.",
-     "chinese": "糾纏;糾葛"
+     "chinese": "糾纏；糾葛"
     }
    },
    {
     "word": "enthralled",
     "pos": "adj.",
     "definition": "Captivated; filled with wonder and delight.",
-    "chinese": "著迷的;被迷住的",
+    "chinese": "著迷的；被迷住的",
     "synonyms": "",
     "root": "en- (in) + thrall (slave), from Old Norse thrall",
     "group": "en；em = 使進入",
@@ -842,14 +842,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Captivated; filled with wonder and delight.",
-     "chinese": "著迷的;被迷住的"
+     "chinese": "著迷的；被迷住的"
     }
    },
    {
     "word": "enthrone",
     "pos": "v.",
     "definition": "To install someone as a monarch or ruler; to place in a position of high honor.",
-    "chinese": "使登基;推崇",
+    "chinese": "使登基；推崇",
     "synonyms": "",
     "root": "en- (in) + thronos (seat, throne), from Greek",
     "group": "en；em = 使進入",
@@ -864,14 +864,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To install someone as a monarch or ruler; to place in a position of high honor.",
-     "chinese": "使登基;推崇"
+     "chinese": "使登基；推崇"
     }
    },
    {
     "word": "enthusiasm",
     "pos": "n.",
     "definition": "Intense and eager enjoyment or interest.",
-    "chinese": "熱情;熱忱",
+    "chinese": "熱情；熱忱",
     "synonyms": "",
     "root": "en- (in) + theos (god), from Greek",
     "group": "en；em = 使進入",
@@ -883,14 +883,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intense and eager enjoyment or interest.",
-     "chinese": "熱情;熱忱"
+     "chinese": "熱情；熱忱"
     }
    },
    {
     "word": "enthusiast",
     "pos": "n.",
     "definition": "A person who is highly interested in a particular activity.",
-    "chinese": "熱衷者;愛好者",
+    "chinese": "熱衷者；愛好者",
     "synonyms": "",
     "root": "en- (in) + theos (god), from Greek",
     "group": "en；em = 使進入",
@@ -904,14 +904,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is highly interested in a particular activity.",
-     "chinese": "熱衷者;愛好者"
+     "chinese": "熱衷者；愛好者"
     }
    },
    {
     "word": "entomb",
     "pos": "v.",
     "definition": "To place in or as if in a tomb.",
-    "chinese": "埋葬;禁閉",
+    "chinese": "埋葬；禁閉",
     "synonyms": "",
     "root": "en- (in) + tumba (tomb), from Latin",
     "group": "en；em = 使進入",
@@ -925,14 +925,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To place in or as if in a tomb.",
-     "chinese": "埋葬;禁閉"
+     "chinese": "埋葬；禁閉"
     }
    },
    {
     "word": "entreat",
     "pos": "v.",
     "definition": "To ask someone earnestly or anxiously to do something.",
-    "chinese": "懇求;哀求",
+    "chinese": "懇求；哀求",
     "synonyms": "",
     "root": "en- (in) + traiter (to treat), from Old French",
     "group": "en；em = 使進入",
@@ -946,7 +946,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To ask someone earnestly or anxiously to do something.",
-     "chinese": "懇求;哀求"
+     "chinese": "懇求；哀求"
     }
    },
    {
@@ -2150,4 +2150,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"embellish": ["Adorn, touch up.", "裝飾；潤飾"], "entreaty": ["Appeal, plea.", "懇求；乞求"], "encumbrance": ["Burden, handicap, load.", "累贅；妨礙"], "encomium": ["High praise.", "讚美；頌詞"], "embellishment": ["A decorative detail added to make something more attractive; an exaggeration.", "裝飾;誇大"], "embrace": ["To hold someone closely; to accept an idea willingly.", "擁抱;欣然接受"], "embroilment": ["The state of being involved in an argument, conflict, or difficult situation.", "捲入紛爭;糾葛"], "embryonic": ["In an early or undeveloped stage.", "胚胎的;萌芽階段的"], "empathy": ["Sensitivity to another's feelings as if they were one's own.", "同理心"], "emphasize": ["To give special importance or attention to something.", "強調"], "empirical": ["Based on observation or experience.", "經驗性的；實證的"], "employee": ["A person employed for wages or salary.", "員工;受雇者"], "employer": ["A person or organization that employs people.", "雇主"], "enamor": ["To fill with love, fascinate.", "使迷戀；使傾心"], "enamored": ["Filled with love or admiration for someone or something.", "迷戀的;傾心的"], "enchant": ["To fill with great delight; to put under a magic spell.", "使著迷;施魔法"], "enchanting": ["Delightfully charming or attractive.", "迷人的;令人著迷的"], "encircle": ["To surround something completely.", "包圍;環繞"], "enclose": ["To surround or close off; to include something with a letter.", "圍住;附上"], "encroach": ["To gradually intrude on a person's territory or rights.", "侵占;侵犯"], "encumber": ["To weigh down, burden.", "拖累；妨礙"], "endeavour": ["A purposeful or industrious undertaking.", "努力；事業"], "endorse": ["To declare public approval or support of.", "支持;背書"], "endorsement": ["A public declaration of support or approval.", "支持;背書"], "endow": ["To give a permanent income or gift to; to provide with a quality.", "捐贈;賦予"], "energetic": ["Showing or involving great activity or vitality.", "精力充沛的;充滿活力的"], "energize": ["To give vitality and enthusiasm to.", "使充滿活力;激勵"], "enfeeble": ["To make weak or feeble.", "使衰弱;削弱"], "enfranchise": ["To grant the vote to.", "賦予選舉權"], "engender": ["To bring about, create, generate.", "產生；引起"], "engulf": ["To completely surround or overwhelm.", "吞沒;籠罩"], "enlightened": ["Having or showing a rational, modern, and well-informed outlook.", "開明的;有見識的"], "enliven": ["To make more lively or interesting.", "使活躍;使生動"], "enrapture": ["To fill with intense delight.", "使狂喜;使著迷"], "enraptured": ["Filled with intense delight; captivated.", "狂喜的;著迷的"], "ensconce": ["To settle oneself securely or comfortably.", "安頓;安置"], "enshrine": ["To preserve a right, tradition, or idea in a form that ensures it will be protected.", "銘記;奉為神聖"], "enslave": ["To make someone a slave; to dominate completely.", "奴役"], "ensnare": ["To catch in or as if in a trap.", "使落入圈套;誘捕"], "ensorcel": ["To enchant or bewitch.", "施魔法;迷惑"], "entail": ["To include as a necessary step.", "牽涉；需要"], "entanglement": ["A complicated or awkward situation; the state of being tangled.", "糾纏;糾葛"], "enthralled": ["Captivated; filled with wonder and delight.", "著迷的;被迷住的"], "enthrone": ["To install someone as a monarch or ruler; to place in a position of high honor.", "使登基;推崇"], "enthusiasm": ["Intense and eager enjoyment or interest.", "熱情;熱忱"], "enthusiast": ["A person who is highly interested in a particular activity.", "熱衷者;愛好者"], "entomb": ["To place in or as if in a tomb.", "埋葬;禁閉"], "entreat": ["To ask someone earnestly or anxiously to do something.", "懇求;哀求"], "envelope": ["A flat paper container used to enclose a letter.", "信封"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"embellish": ["Adorn, touch up.", "裝飾；潤飾"], "entreaty": ["Appeal, plea.", "懇求；乞求"], "encumbrance": ["Burden, handicap, load.", "累贅；妨礙"], "encomium": ["High praise.", "讚美；頌詞"], "embellishment": ["A decorative detail added to make something more attractive; an exaggeration.", "裝飾；誇大"], "embrace": ["To hold someone closely; to accept an idea willingly.", "擁抱；欣然接受"], "embroilment": ["The state of being involved in an argument, conflict, or difficult situation.", "捲入紛爭；糾葛"], "embryonic": ["In an early or undeveloped stage.", "胚胎的；萌芽階段的"], "empathy": ["Sensitivity to another's feelings as if they were one's own.", "同理心"], "emphasize": ["To give special importance or attention to something.", "強調"], "empirical": ["Based on observation or experience.", "經驗性的；實證的"], "employee": ["A person employed for wages or salary.", "員工；受雇者"], "employer": ["A person or organization that employs people.", "雇主"], "enamor": ["To fill with love, fascinate.", "使迷戀；使傾心"], "enamored": ["Filled with love or admiration for someone or something.", "迷戀的；傾心的"], "enchant": ["To fill with great delight; to put under a magic spell.", "使著迷；施魔法"], "enchanting": ["Delightfully charming or attractive.", "迷人的；令人著迷的"], "encircle": ["To surround something completely.", "包圍；環繞"], "enclose": ["To surround or close off; to include something with a letter.", "圍住；附上"], "encroach": ["To gradually intrude on a person's territory or rights.", "侵占；侵犯"], "encumber": ["To weigh down, burden.", "拖累；妨礙"], "endeavour": ["A purposeful or industrious undertaking.", "努力；事業"], "endorse": ["To declare public approval or support of.", "支持；背書"], "endorsement": ["A public declaration of support or approval.", "支持；背書"], "endow": ["To give a permanent income or gift to; to provide with a quality.", "捐贈；賦予"], "energetic": ["Showing or involving great activity or vitality.", "精力充沛的；充滿活力的"], "energize": ["To give vitality and enthusiasm to.", "使充滿活力；激勵"], "enfeeble": ["To make weak or feeble.", "使衰弱；削弱"], "enfranchise": ["To grant the vote to.", "賦予選舉權"], "engender": ["To bring about, create, generate.", "產生；引起"], "engulf": ["To completely surround or overwhelm.", "吞沒；籠罩"], "enlightened": ["Having or showing a rational, modern, and well-informed outlook.", "開明的；有見識的"], "enliven": ["To make more lively or interesting.", "使活躍；使生動"], "enrapture": ["To fill with intense delight.", "使狂喜；使著迷"], "enraptured": ["Filled with intense delight; captivated.", "狂喜的；著迷的"], "ensconce": ["To settle oneself securely or comfortably.", "安頓；安置"], "enshrine": ["To preserve a right, tradition, or idea in a form that ensures it will be protected.", "銘記；奉為神聖"], "enslave": ["To make someone a slave; to dominate completely.", "奴役"], "ensnare": ["To catch in or as if in a trap.", "使落入圈套；誘捕"], "ensorcel": ["To enchant or bewitch.", "施魔法；迷惑"], "entail": ["To include as a necessary step.", "牽涉；需要"], "entanglement": ["A complicated or awkward situation; the state of being tangled.", "糾纏；糾葛"], "enthralled": ["Captivated; filled with wonder and delight.", "著迷的；被迷住的"], "enthrone": ["To install someone as a monarch or ruler; to place in a position of high honor.", "使登基；推崇"], "enthusiasm": ["Intense and eager enjoyment or interest.", "熱情；熱忱"], "enthusiast": ["A person who is highly interested in a particular activity.", "熱衷者；愛好者"], "entomb": ["To place in or as if in a tomb.", "埋葬；禁閉"], "entreat": ["To ask someone earnestly or anxiously to do something.", "懇求；哀求"], "envelope": ["A flat paper container used to enclose a letter.", "信封"]});

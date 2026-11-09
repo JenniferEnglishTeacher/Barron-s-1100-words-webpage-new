@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "circumstance",
     "pos": "n.",
     "definition": "A fact or condition connected with an event or situation.",
-    "chinese": "情況;境遇",
+    "chinese": "情況；境遇",
     "synonyms": "",
     "root": "circum- (around) + stare (to stand), from Latin",
     "group": "sist；sta = 站立",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fact or condition connected with an event or situation.",
-     "chinese": "情況;境遇"
+     "chinese": "情況；境遇"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "interstice",
     "pos": "n.",
     "definition": "A small gap or space between things.",
-    "chinese": "縫隙;間隙",
+    "chinese": "縫隙；間隙",
     "synonyms": "",
     "root": "inter- (between) + sistere (to stand), from Latin",
     "group": "sist；sta = 站立",
@@ -271,14 +271,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small gap or space between things.",
-     "chinese": "縫隙;間隙"
+     "chinese": "縫隙；間隙"
     }
    },
    {
     "word": "interstitial",
     "pos": "adj.",
     "definition": "Relating to small spaces between structures or tissues.",
-    "chinese": "間隙的;組織間的",
+    "chinese": "間隙的；組織間的",
     "synonyms": "",
     "root": "inter- (between) + sistere (to stand), from Latin",
     "group": "sist；sta = 站立",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to small spaces between structures or tissues.",
-     "chinese": "間隙的;組織間的"
+     "chinese": "間隙的；組織間的"
     }
    },
    {
     "word": "long-standing",
     "pos": "adj.",
     "definition": "Having existed for a long time.",
-    "chinese": "長久存在的;由來已久的",
+    "chinese": "長久存在的；由來已久的",
     "synonyms": "",
     "root": "long, from Old English lang + standing",
     "group": "sist；sta = 站立",
@@ -309,7 +309,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having existed for a long time.",
-     "chinese": "長久存在的;由來已久的"
+     "chinese": "長久存在的；由來已久的"
     }
    },
    {
@@ -335,7 +335,7 @@ window.FLASHCARD_UNITS = {
     "word": "painstaking",
     "pos": "adj.",
     "definition": "Done with great care and thoroughness.",
-    "chinese": "煞費苦心的;精心細緻的",
+    "chinese": "煞費苦心的；精心細緻的",
     "synonyms": "",
     "root": "pain, from Latin poena + stake, from Old English staca",
     "group": "sist；sta = 站立",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Done with great care and thoroughness.",
-     "chinese": "煞費苦心的;精心細緻的"
+     "chinese": "煞費苦心的；精心細緻的"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "prostitute",
     "pos": "n./v.",
     "definition": "A person who engages in sexual activity for payment; to misuse one's talents for unworthy purposes.",
-    "chinese": "妓女;出賣",
+    "chinese": "妓女；出賣",
     "synonyms": "",
     "root": "prostituere (to expose publicly), from Latin pro- (before) + statuere (to place)",
     "group": "sist；sta = 站立",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who engages in sexual activity for payment; to misuse one's talents for unworthy purposes.",
-     "chinese": "妓女;出賣"
+     "chinese": "妓女；出賣"
     }
    },
    {
     "word": "resist",
     "pos": "v.",
     "definition": "To withstand or fight against something.",
-    "chinese": "抵抗;抗拒",
+    "chinese": "抵抗；抗拒",
     "synonyms": "",
     "root": "resistere (to stand against), from Latin re- (against) + sistere (to stand)",
     "group": "sist；sta = 站立",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To withstand or fight against something.",
-     "chinese": "抵抗;抗拒"
+     "chinese": "抵抗；抗拒"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "stable",
     "pos": "adj./n.",
     "definition": "Firmly fixed or unlikely to change; a building for housing horses.",
-    "chinese": "穩定的;馬廄",
+    "chinese": "穩定的；馬廄",
     "synonyms": "",
     "root": "stabilis (firm, steadfast), from Latin stare (to stand)",
     "group": "sist；sta = 站立",
@@ -482,7 +482,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Firmly fixed or unlikely to change; a building for housing horses.",
-     "chinese": "穩定的;馬廄"
+     "chinese": "穩定的；馬廄"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "stagnation",
     "pos": "n.",
     "definition": "The state of not developing, growing, or moving.",
-    "chinese": "停滯;停頓",
+    "chinese": "停滯；停頓",
     "synonyms": "",
     "root": "stagnum (a pool of standing water), from Latin",
     "group": "sist；sta = 站立",
@@ -539,7 +539,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of not developing, growing, or moving.",
-     "chinese": "停滯;停頓"
+     "chinese": "停滯；停頓"
     }
    },
    {
@@ -565,7 +565,7 @@ window.FLASHCARD_UNITS = {
     "word": "standoffish",
     "pos": "adj.",
     "definition": "Reserved, cold, or distant in manner.",
-    "chinese": "冷淡的;疏遠的",
+    "chinese": "冷淡的；疏遠的",
     "synonyms": "",
     "root": "stand + off, from Old English standan, describing keeping one's distance",
     "group": "sist；sta = 站立",
@@ -577,14 +577,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reserved, cold, or distant in manner.",
-     "chinese": "冷淡的;疏遠的"
+     "chinese": "冷淡的；疏遠的"
     }
    },
    {
     "word": "static",
     "pos": "adj.",
     "definition": "Not moving or changing; stationary.",
-    "chinese": "靜態的;不變的",
+    "chinese": "靜態的；不變的",
     "synonyms": "",
     "root": "statikos (causing to stand), from Greek histanai (to stand)",
     "group": "sist；sta = 站立",
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not moving or changing; stationary.",
-     "chinese": "靜態的;不變的"
+     "chinese": "靜態的；不變的"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "staycation",
     "pos": "n.",
     "definition": "A vacation spent at home or nearby rather than traveling.",
-    "chinese": "宅度假;在地度假",
+    "chinese": "宅度假；在地度假",
     "synonyms": "",
     "root": "stay + vacation, a blend of English words",
     "group": "sist；sta = 站立",
@@ -653,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A vacation spent at home or nearby rather than traveling.",
-     "chinese": "宅度假;在地度假"
+     "chinese": "宅度假；在地度假"
     }
    },
    {
@@ -1564,4 +1564,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"desist": ["To cease.", "停止"], "extant": ["Still existing.", "現存的；尚存的"], "destitution": ["Extreme poverty.", "貧困；赤貧"], "superstition": ["Irrational belief or practice.", "迷信"], "stagnant": ["Motionless, dull, inactive.", "停滯的；不景氣的"], "obstinate": ["Stubborn; inflexible.", "固執的"], "circumstance": ["A fact or condition connected with an event or situation.", "情況;境遇"], "consistent": ["Acting in the same way over time.", "一致的；前後一致的"], "constant": ["Occurring continuously.", "持續不斷的"], "constituent": ["An essential part.", "組成部分；選民"], "destiny": ["The events that will inevitably happen to a person or thing.", "命運"], "destitute": ["Impoverished, utterly lacking.", "赤貧的；窮困潦倒的"], "estate": ["Extensive landed property retained by the owner.", "莊園；地產"], "interstice": ["A small gap or space between things.", "縫隙;間隙"], "interstitial": ["Relating to small spaces between structures or tissues.", "間隙的;組織間的"], "long-standing": ["Having existed for a long time.", "長久存在的;由來已久的"], "obstetrics": ["The branch of medicine dealing with childbirth and pregnancy.", "產科學"], "painstaking": ["Done with great care and thoroughness.", "煞費苦心的;精心細緻的"], "persistent": ["Continuing firmly or steadily in a course of action despite difficulties or opposition.", "堅持不懈的；持續的"], "prostitute": ["A person who engages in sexual activity for payment; to misuse one's talents for unworthy purposes.", "妓女;出賣"], "resist": ["To withstand or fight against something.", "抵抗;抗拒"], "restitution": ["Restoration to the rightful owner.", "賠償；歸還"], "restive": ["Resistant, stubborn, impatient.", "焦躁不安的；難駕馭的"], "restore": ["To bring back to original condition.", "恢復；修復"], "stable": ["Firmly fixed or unlikely to change; a building for housing horses.", "穩定的;馬廄"], "stadium": ["A large structure with tiered seating for sports events.", "體育場"], "stagnate": ["To become or remain inactive, not develop, not flow.", "停滯；停滯不前"], "stagnation": ["The state of not developing, growing, or moving.", "停滯;停頓"], "stairwit": ["A clever remark or response thought of too late (a witty comeback realized only after leaving, as if while descending the stairs).", "事後才想到的機智回應"], "standoffish": ["Reserved, cold, or distant in manner.", "冷淡的;疏遠的"], "static": ["Not moving or changing; stationary.", "靜態的;不變的"], "statuette": ["A small statue.", "小雕像"], "staurophobia": ["An irrational fear of crosses or crucifixes.", "十字架恐懼症"], "staycation": ["A vacation spent at home or nearby rather than traveling.", "宅度假;在地度假"], "subsistence": ["A means of surviving.", "維生；生計"], "substantial": ["Of considerable importance, size, or worth; significant.", "相當大的；重要的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"desist": ["To cease.", "停止"], "extant": ["Still existing.", "現存的；尚存的"], "destitution": ["Extreme poverty.", "貧困；赤貧"], "superstition": ["Irrational belief or practice.", "迷信"], "stagnant": ["Motionless, dull, inactive.", "停滯的；不景氣的"], "obstinate": ["Stubborn; inflexible.", "固執的"], "circumstance": ["A fact or condition connected with an event or situation.", "情況；境遇"], "consistent": ["Acting in the same way over time.", "一致的；前後一致的"], "constant": ["Occurring continuously.", "持續不斷的"], "constituent": ["An essential part.", "組成部分；選民"], "destiny": ["The events that will inevitably happen to a person or thing.", "命運"], "destitute": ["Impoverished, utterly lacking.", "赤貧的；窮困潦倒的"], "estate": ["Extensive landed property retained by the owner.", "莊園；地產"], "interstice": ["A small gap or space between things.", "縫隙；間隙"], "interstitial": ["Relating to small spaces between structures or tissues.", "間隙的；組織間的"], "long-standing": ["Having existed for a long time.", "長久存在的；由來已久的"], "obstetrics": ["The branch of medicine dealing with childbirth and pregnancy.", "產科學"], "painstaking": ["Done with great care and thoroughness.", "煞費苦心的；精心細緻的"], "persistent": ["Continuing firmly or steadily in a course of action despite difficulties or opposition.", "堅持不懈的；持續的"], "prostitute": ["A person who engages in sexual activity for payment; to misuse one's talents for unworthy purposes.", "妓女；出賣"], "resist": ["To withstand or fight against something.", "抵抗；抗拒"], "restitution": ["Restoration to the rightful owner.", "賠償；歸還"], "restive": ["Resistant, stubborn, impatient.", "焦躁不安的；難駕馭的"], "restore": ["To bring back to original condition.", "恢復；修復"], "stable": ["Firmly fixed or unlikely to change; a building for housing horses.", "穩定的；馬廄"], "stadium": ["A large structure with tiered seating for sports events.", "體育場"], "stagnate": ["To become or remain inactive, not develop, not flow.", "停滯；停滯不前"], "stagnation": ["The state of not developing, growing, or moving.", "停滯；停頓"], "stairwit": ["A clever remark or response thought of too late (a witty comeback realized only after leaving, as if while descending the stairs).", "事後才想到的機智回應"], "standoffish": ["Reserved, cold, or distant in manner.", "冷淡的；疏遠的"], "static": ["Not moving or changing; stationary.", "靜態的；不變的"], "statuette": ["A small statue.", "小雕像"], "staurophobia": ["An irrational fear of crosses or crucifixes.", "十字架恐懼症"], "staycation": ["A vacation spent at home or nearby rather than traveling.", "宅度假；在地度假"], "subsistence": ["A means of surviving.", "維生；生計"], "substantial": ["Of considerable importance, size, or worth; significant.", "相當大的；重要的"]});

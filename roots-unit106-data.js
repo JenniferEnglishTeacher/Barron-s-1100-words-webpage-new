@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "digression",
     "pos": "n.",
     "definition": "A departure from the main subject in speech or writing.",
-    "chinese": "離題;岔題",
+    "chinese": "離題；岔題",
     "synonyms": "",
     "root": "dis- (apart) + gradi (to step), from Latin",
     "group": "grad；gress = 行進",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A departure from the main subject in speech or writing.",
-     "chinese": "離題;岔題"
+     "chinese": "離題；岔題"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "egress",
     "pos": "n.",
     "definition": "The act of going out; an exit.",
-    "chinese": "外出;出口",
+    "chinese": "外出；出口",
     "synonyms": "",
     "root": "ex- (out) + gradi (to step), from Latin",
     "group": "grad；gress = 行進",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of going out; an exit.",
-     "chinese": "外出;出口"
+     "chinese": "外出；出口"
     }
    },
    {
     "word": "ingress",
     "pos": "n.",
     "definition": "The act of entering; a means of entry.",
-    "chinese": "進入;入口",
+    "chinese": "進入；入口",
     "synonyms": "",
     "root": "in- (in) + gradi (to step), from Latin",
     "group": "grad；gress = 行進",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of entering; a means of entry.",
-     "chinese": "進入;入口"
+     "chinese": "進入；入口"
     }
    },
    {
@@ -483,4 +483,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"degrade": ["To make contemptible, lower.", "貶低；使降級"], "gratuity": ["Tip, gift.", "酬金；小費"], "digress": ["To wander off from the subject or topic spoken about.", "離題"], "gratify": ["To please or indulge.", "使滿足"], "aggressive": ["Forceful or overly assertive.", "好鬥的；積極進取的"], "digression": ["A departure from the main subject in speech or writing.", "離題;岔題"], "digressive": ["Departing from the main subject.", "離題的"], "disagreement": ["A difference of opinion.", "意見分歧"], "egress": ["The act of going out; an exit.", "外出;出口"], "ingress": ["The act of entering; a means of entry.", "進入;入口"], "transgress": ["To violate, go over a limit.", "違反；逾越"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"degrade": ["To make contemptible, lower.", "貶低；使降級"], "gratuity": ["Tip, gift.", "酬金；小費"], "digress": ["To wander off from the subject or topic spoken about.", "離題"], "gratify": ["To please or indulge.", "使滿足"], "aggressive": ["Forceful or overly assertive.", "好鬥的；積極進取的"], "digression": ["A departure from the main subject in speech or writing.", "離題；岔題"], "digressive": ["Departing from the main subject.", "離題的"], "disagreement": ["A difference of opinion.", "意見分歧"], "egress": ["The act of going out; an exit.", "外出；出口"], "ingress": ["The act of entering; a means of entry.", "進入；入口"], "transgress": ["To violate, go over a limit.", "違反；逾越"]});

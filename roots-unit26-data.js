@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "astound",
     "pos": "v.",
     "definition": "To shock or greatly surprise someone.",
-    "chinese": "使震驚;使驚愕",
+    "chinese": "使震驚；使驚愕",
     "synonyms": "",
     "root": "ex- (out) + tonare (to thunder)",
     "group": "ex = 向外",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To shock or greatly surprise someone.",
-     "chinese": "使震驚;使驚愕"
+     "chinese": "使震驚；使驚愕"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "eccentric",
     "pos": "adj./n.",
     "definition": "Unconventional or slightly strange; a person with such behavior.",
-    "chinese": "古怪的;怪人",
+    "chinese": "古怪的；怪人",
     "synonyms": "",
     "root": "ex- (out of) + kentron (center), from Greek",
     "group": "ex = 向外",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unconventional or slightly strange; a person with such behavior.",
-     "chinese": "古怪的;怪人"
+     "chinese": "古怪的；怪人"
     }
    },
    {
     "word": "eccentricity",
     "pos": "n.",
     "definition": "Unconventional or slightly strange behavior.",
-    "chinese": "古怪;怪癖",
+    "chinese": "古怪；怪癖",
     "synonyms": "",
     "root": "ex- (out of) + kentron (center), from Greek",
     "group": "ex = 向外",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Unconventional or slightly strange behavior.",
-     "chinese": "古怪;怪癖"
+     "chinese": "古怪；怪癖"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "edit",
     "pos": "v.",
     "definition": "To prepare written material for publication by correcting or condensing it.",
-    "chinese": "編輯;校訂",
+    "chinese": "編輯；校訂",
     "synonyms": "",
     "root": "e- (out) + dare (to give), from Latin",
     "group": "ex = 向外",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prepare written material for publication by correcting or condensing it.",
-     "chinese": "編輯;校訂"
+     "chinese": "編輯；校訂"
     }
    },
    {
     "word": "educated",
     "pos": "adj.",
     "definition": "Having received formal instruction or training; informed.",
-    "chinese": "受過教育的;有根據的",
+    "chinese": "受過教育的；有根據的",
     "synonyms": "",
     "root": "e- (out) + ducere (to lead), from Latin",
     "group": "ex = 向外",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having received formal instruction or training; informed.",
-     "chinese": "受過教育的;有根據的"
+     "chinese": "受過教育的；有根據的"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "educationist",
     "pos": "n.",
     "definition": "A specialist in education, especially its theory.",
-    "chinese": "教育學家;教育專家",
+    "chinese": "教育學家；教育專家",
     "synonyms": "",
     "root": "e- (out) + ducere (to lead), from Latin",
     "group": "ex = 向外",
@@ -195,7 +195,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A specialist in education, especially its theory.",
-     "chinese": "教育學家;教育專家"
+     "chinese": "教育學家；教育專家"
     }
    },
    {
@@ -242,7 +242,7 @@ window.FLASHCARD_UNITS = {
     "word": "effeminate",
     "pos": "adj.",
     "definition": "Having qualities considered more typical of women than men.",
-    "chinese": "女性化的;柔弱的",
+    "chinese": "女性化的；柔弱的",
     "synonyms": "",
     "root": "ex- (out) + femina (woman), from Latin",
     "group": "ex = 向外",
@@ -254,14 +254,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having qualities considered more typical of women than men.",
-     "chinese": "女性化的;柔弱的"
+     "chinese": "女性化的；柔弱的"
     }
    },
    {
     "word": "effervescence",
     "pos": "n.",
     "definition": "The release of gas bubbles from a liquid; vivacity.",
-    "chinese": "冒泡;活力四射",
+    "chinese": "冒泡；活力四射",
     "synonyms": "",
     "root": "ex- (out) + fervere (to boil), from Latin",
     "group": "ex = 向外",
@@ -273,7 +273,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The release of gas bubbles from a liquid; vivacity.",
-     "chinese": "冒泡;活力四射"
+     "chinese": "冒泡；活力四射"
     }
    },
    {
@@ -299,7 +299,7 @@ window.FLASHCARD_UNITS = {
     "word": "effete",
     "pos": "adj.",
     "definition": "Affected, overrefined, and ineffectual.",
-    "chinese": "矯揉造作的;軟弱無力的",
+    "chinese": "矯揉造作的；軟弱無力的",
     "synonyms": "",
     "root": "ex- (out) + fetus (having given birth), from Latin",
     "group": "ex = 向外",
@@ -311,7 +311,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Affected, overrefined, and ineffectual.",
-     "chinese": "矯揉造作的;軟弱無力的"
+     "chinese": "矯揉造作的；軟弱無力的"
     }
    },
    {
@@ -375,7 +375,7 @@ window.FLASHCARD_UNITS = {
     "word": "effloresce",
     "pos": "v.",
     "definition": "To burst into bloom; to develop fully.",
-    "chinese": "開花;充分發展",
+    "chinese": "開花；充分發展",
     "synonyms": "",
     "root": "ex- (out) + florescere (to blossom), from Latin",
     "group": "ex = 向外",
@@ -387,14 +387,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To burst into bloom; to develop fully.",
-     "chinese": "開花;充分發展"
+     "chinese": "開花；充分發展"
     }
    },
    {
     "word": "efflorescence",
     "pos": "n.",
     "definition": "The state of flowering; a period of vigorous development.",
-    "chinese": "開花;繁盛時期",
+    "chinese": "開花；繁盛時期",
     "synonyms": "",
     "root": "ex- (out) + florescere (to blossom), from Latin",
     "group": "ex = 向外",
@@ -406,14 +406,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of flowering; a period of vigorous development.",
-     "chinese": "開花;繁盛時期"
+     "chinese": "開花；繁盛時期"
     }
    },
    {
     "word": "efflorescent",
     "pos": "adj.",
     "definition": "Blossoming; developing vigorously.",
-    "chinese": "開花的;繁盛的",
+    "chinese": "開花的；繁盛的",
     "synonyms": "",
     "root": "ex- (out) + florescere (to blossom), from Latin",
     "group": "ex = 向外",
@@ -425,7 +425,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Blossoming; developing vigorously.",
-     "chinese": "開花的;繁盛的"
+     "chinese": "開花的；繁盛的"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "effusion",
     "pos": "n.",
     "definition": "An unrestrained expression of emotion.",
-    "chinese": "(情感的)流露;湧現",
+    "chinese": "(情感的)流露；湧現",
     "synonyms": "",
     "root": "ex- (out) + fundere (to pour), from Latin",
     "group": "ex = 向外",
@@ -482,14 +482,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unrestrained expression of emotion.",
-     "chinese": "(情感的)流露;湧現"
+     "chinese": "(情感的)流露；湧現"
     }
    },
    {
     "word": "effusive",
     "pos": "adj.",
     "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
-    "chinese": "熱情洋溢的;過分熱情的",
+    "chinese": "熱情洋溢的；過分熱情的",
     "synonyms": "",
     "root": "ex- (out) + fundere (to pour), from Latin",
     "group": "ex = 向外",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
-     "chinese": "熱情洋溢的;過分熱情的"
+     "chinese": "熱情洋溢的；過分熱情的"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "egress",
     "pos": "n.",
     "definition": "The act of going out; an exit.",
-    "chinese": "外出;出口",
+    "chinese": "外出；出口",
     "synonyms": "",
     "root": "ex- (out) + gradi (to step), from Latin",
     "group": "ex = 向外",
@@ -539,7 +539,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of going out; an exit.",
-     "chinese": "外出;出口"
+     "chinese": "外出；出口"
     }
    },
    {
@@ -607,7 +607,7 @@ window.FLASHCARD_UNITS = {
     "word": "elevated",
     "pos": "adj.",
     "definition": "Raised above the normal level; noble or exalted.",
-    "chinese": "提高的;崇高的",
+    "chinese": "提高的；崇高的",
     "synonyms": "",
     "root": "e- (out) + levare (to raise), from Latin",
     "group": "ex = 向外",
@@ -619,7 +619,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Raised above the normal level; noble or exalted.",
-     "chinese": "提高的;崇高的"
+     "chinese": "提高的；崇高的"
     }
    },
    {
@@ -645,7 +645,7 @@ window.FLASHCARD_UNITS = {
     "word": "elongate",
     "pos": "v.",
     "definition": "To make something longer.",
-    "chinese": "拉長;延長",
+    "chinese": "拉長；延長",
     "synonyms": "",
     "root": "e- (out) + longus (long), from Latin",
     "group": "ex = 向外",
@@ -657,7 +657,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something longer.",
-     "chinese": "拉長;延長"
+     "chinese": "拉長；延長"
     }
    },
    {
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
     "word": "elucidation",
     "pos": "n.",
     "definition": "An explanation that makes something clear.",
-    "chinese": "闡明;解釋",
+    "chinese": "闡明；解釋",
     "synonyms": "",
     "root": "e- (out) + lucidus (clear), from Latin",
     "group": "ex = 向外",
@@ -733,7 +733,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An explanation that makes something clear.",
-     "chinese": "闡明;解釋"
+     "chinese": "闡明；解釋"
     }
    },
    {
@@ -797,7 +797,7 @@ window.FLASHCARD_UNITS = {
     "word": "emanating",
     "pos": "adj.",
     "definition": "Flowing out or originating from a source.",
-    "chinese": "散發的;發出的",
+    "chinese": "散發的；發出的",
     "synonyms": "",
     "root": "e- (out) + manare (to flow), from Latin",
     "group": "ex = 向外",
@@ -809,14 +809,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flowing out or originating from a source.",
-     "chinese": "散發的;發出的"
+     "chinese": "散發的；發出的"
     }
    },
    {
     "word": "emancipate",
     "pos": "v.",
     "definition": "To free someone from legal, social, or political restriction.",
-    "chinese": "解放;使自由",
+    "chinese": "解放；使自由",
     "synonyms": "",
     "root": "e- (out) + manus (hand) + capere (to take), from Latin",
     "group": "ex = 向外",
@@ -828,7 +828,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To free someone from legal, social, or political restriction.",
-     "chinese": "解放;使自由"
+     "chinese": "解放；使自由"
     }
    },
    {
@@ -854,7 +854,7 @@ window.FLASHCARD_UNITS = {
     "word": "emendation",
     "pos": "n.",
     "definition": "A correction made to a text.",
-    "chinese": "校訂;修正",
+    "chinese": "校訂；修正",
     "synonyms": "",
     "root": "e- (out) + mendum (fault), from Latin",
     "group": "ex = 向外",
@@ -868,14 +868,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A correction made to a text.",
-     "chinese": "校訂;修正"
+     "chinese": "校訂；修正"
     }
    },
    {
     "word": "emerging",
     "pos": "adj.",
     "definition": "Coming into existence or prominence.",
-    "chinese": "新興的;崛起中的",
+    "chinese": "新興的；崛起中的",
     "synonyms": "",
     "root": "e- (out) + mergere (to dip), from Latin",
     "group": "ex = 向外",
@@ -887,7 +887,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Coming into existence or prominence.",
-     "chinese": "新興的;崛起中的"
+     "chinese": "新興的；崛起中的"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alleged": ["Reported, supposed.", "涉嫌的；據稱的"], "astound": ["To shock or greatly surprise someone.", "使震驚;使驚愕"], "ebullient": ["Filled with excitement.", "熱情洋溢的"], "eccentric": ["Unconventional or slightly strange; a person with such behavior.", "古怪的;怪人"], "eccentricity": ["Unconventional or slightly strange behavior.", "古怪;怪癖"], "edict": ["An order, decree.", "法令；敕令"], "edit": ["To prepare written material for publication by correcting or condensing it.", "編輯;校訂"], "educated": ["Having received formal instruction or training; informed.", "受過教育的;有根據的"], "educationalist": ["A specialist in the theory or practice of education.", "教育學家"], "educationist": ["A specialist in education, especially its theory.", "教育學家;教育專家"], "educator": ["A person who provides instruction or training.", "教育工作者"], "efface": ["To wipe out, obliterate, rub away.", "抹去；消除"], "effeminate": ["Having qualities considered more typical of women than men.", "女性化的;柔弱的"], "effervescence": ["The release of gas bubbles from a liquid; vivacity.", "冒泡;活力四射"], "effervescent": ["Lively; full of uplifted spirit; vivacious.", "興高采烈的；冒泡的"], "effete": ["Affected, overrefined, and ineffectual.", "矯揉造作的;軟弱無力的"], "efficacious": ["Effective.", "有效的"], "efficacy": ["Power to produce an effect.", "功效；效力"], "effigy": ["Likeness (usually of a hated person).", "雕像；假人"], "effloresce": ["To burst into bloom; to develop fully.", "開花;充分發展"], "efflorescence": ["The state of flowering; a period of vigorous development.", "開花;繁盛時期"], "efflorescent": ["Blossoming; developing vigorously.", "開花的;繁盛的"], "effrontery": ["Boldness.", "厚顏無恥"], "effulgent": ["Radiant, splendorous.", "光輝燦爛的"], "effusion": ["An unrestrained expression of emotion.", "(情感的)流露;湧現"], "effusive": ["Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.", "熱情洋溢的;過分熱情的"], "egregious": ["Remarkably bad.", "極壞的"], "egress": ["The act of going out; an exit.", "外出;出口"], "elaborate": ["To develop or present something in great detail; involving many careful parts.", "詳細闡述；精心製作的"], "elapse": ["To slip by (time).", "(時間)流逝"], "elated": ["Overjoyed, thrilled.", "興高采烈的；欣喜的"], "elevated": ["Raised above the normal level; noble or exalted.", "提高的;崇高的"], "elicit": ["To draw forth.", "引出"], "elongate": ["To make something longer.", "拉長;延長"], "eloquence": ["Artful ease with speaking that impacts people's feelings.", "口才；雄辯"], "eloquent": ["Fluent or persuasive in speaking or writing.", "雄辯的；口才流利的"], "elucidate": ["To make clear.", "闡明；說明"], "elucidation": ["An explanation that makes something clear.", "闡明;解釋"], "elude": ["To evade, escape.", "逃避；躲避"], "elusive": ["Hard to grasp.", "難以捉摸的"], "emaciated": ["Abnormally thin, wasted away.", "憔悴的"], "emanating": ["Flowing out or originating from a source.", "散發的;發出的"], "emancipate": ["To free someone from legal, social, or political restriction.", "解放;使自由"], "emend": ["To correct or revise a written text.", "校訂；修正"], "emendation": ["A correction made to a text.", "校訂;修正"], "emerging": ["Coming into existence or prominence.", "新興的;崛起中的"], "emigrant": ["A person who leaves their own country to settle in another.", "移民(移出者)"], "emigrate": ["To leave one's own country to settle in another.", "移居國外"], "eminent": ["Of high reputation, outstanding.", "傑出的"], "emissary": ["Representative, envoy.", "使者；密使"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alleged": ["Reported, supposed.", "涉嫌的；據稱的"], "astound": ["To shock or greatly surprise someone.", "使震驚；使驚愕"], "ebullient": ["Filled with excitement.", "熱情洋溢的"], "eccentric": ["Unconventional or slightly strange; a person with such behavior.", "古怪的；怪人"], "eccentricity": ["Unconventional or slightly strange behavior.", "古怪；怪癖"], "edict": ["An order, decree.", "法令；敕令"], "edit": ["To prepare written material for publication by correcting or condensing it.", "編輯；校訂"], "educated": ["Having received formal instruction or training; informed.", "受過教育的；有根據的"], "educationalist": ["A specialist in the theory or practice of education.", "教育學家"], "educationist": ["A specialist in education, especially its theory.", "教育學家；教育專家"], "educator": ["A person who provides instruction or training.", "教育工作者"], "efface": ["To wipe out, obliterate, rub away.", "抹去；消除"], "effeminate": ["Having qualities considered more typical of women than men.", "女性化的；柔弱的"], "effervescence": ["The release of gas bubbles from a liquid; vivacity.", "冒泡；活力四射"], "effervescent": ["Lively; full of uplifted spirit; vivacious.", "興高采烈的；冒泡的"], "effete": ["Affected, overrefined, and ineffectual.", "矯揉造作的；軟弱無力的"], "efficacious": ["Effective.", "有效的"], "efficacy": ["Power to produce an effect.", "功效；效力"], "effigy": ["Likeness (usually of a hated person).", "雕像；假人"], "effloresce": ["To burst into bloom; to develop fully.", "開花；充分發展"], "efflorescence": ["The state of flowering; a period of vigorous development.", "開花；繁盛時期"], "efflorescent": ["Blossoming; developing vigorously.", "開花的；繁盛的"], "effrontery": ["Boldness.", "厚顏無恥"], "effulgent": ["Radiant, splendorous.", "光輝燦爛的"], "effusion": ["An unrestrained expression of emotion.", "(情感的)流露；湧現"], "effusive": ["Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.", "熱情洋溢的；過分熱情的"], "egregious": ["Remarkably bad.", "極壞的"], "egress": ["The act of going out; an exit.", "外出；出口"], "elaborate": ["To develop or present something in great detail; involving many careful parts.", "詳細闡述；精心製作的"], "elapse": ["To slip by (time).", "(時間)流逝"], "elated": ["Overjoyed, thrilled.", "興高采烈的；欣喜的"], "elevated": ["Raised above the normal level; noble or exalted.", "提高的；崇高的"], "elicit": ["To draw forth.", "引出"], "elongate": ["To make something longer.", "拉長；延長"], "eloquence": ["Artful ease with speaking that impacts people's feelings.", "口才；雄辯"], "eloquent": ["Fluent or persuasive in speaking or writing.", "雄辯的；口才流利的"], "elucidate": ["To make clear.", "闡明；說明"], "elucidation": ["An explanation that makes something clear.", "闡明；解釋"], "elude": ["To evade, escape.", "逃避；躲避"], "elusive": ["Hard to grasp.", "難以捉摸的"], "emaciated": ["Abnormally thin, wasted away.", "憔悴的"], "emanating": ["Flowing out or originating from a source.", "散發的；發出的"], "emancipate": ["To free someone from legal, social, or political restriction.", "解放；使自由"], "emend": ["To correct or revise a written text.", "校訂；修正"], "emendation": ["A correction made to a text.", "校訂；修正"], "emerging": ["Coming into existence or prominence.", "新興的；崛起中的"], "emigrant": ["A person who leaves their own country to settle in another.", "移民(移出者)"], "emigrate": ["To leave one's own country to settle in another.", "移居國外"], "eminent": ["Of high reputation, outstanding.", "傑出的"], "emissary": ["Representative, envoy.", "使者；密使"]});

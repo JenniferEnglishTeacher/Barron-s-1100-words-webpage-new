@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "degenerate",
     "pos": "v./adj.",
     "definition": "To decline in quality or morals; morally corrupt.",
-    "chinese": "退化;墮落的",
+    "chinese": "退化；墮落的",
     "synonyms": "",
     "root": "de- (down) + genus (birth, kind), from Latin",
     "group": "de = 去除；下降",
@@ -20,7 +20,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To decline in quality or morals; morally corrupt.",
-     "chinese": "退化;墮落的"
+     "chinese": "退化；墮落的"
     }
    },
    {
@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
     "word": "dejected",
     "pos": "adj.",
     "definition": "Sad and depressed; disheartened.",
-    "chinese": "沮喪的;意氣消沉的",
+    "chinese": "沮喪的；意氣消沉的",
     "synonyms": "",
     "root": "de- (down) + jacere (to throw), from Latin",
     "group": "de = 去除；下降",
@@ -58,14 +58,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sad and depressed; disheartened.",
-     "chinese": "沮喪的;意氣消沉的"
+     "chinese": "沮喪的；意氣消沉的"
     }
    },
    {
     "word": "delay",
     "pos": "v./n.",
     "definition": "To postpone or make late.",
-    "chinese": "延遲;延誤",
+    "chinese": "延遲；延誤",
     "synonyms": "",
     "root": "de- (thoroughly) + laier (to leave), from Old French",
     "group": "de = 去除；下降",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To postpone or make late.",
-     "chinese": "延遲;延誤"
+     "chinese": "延遲；延誤"
     }
    },
    {
@@ -223,7 +223,7 @@ window.FLASHCARD_UNITS = {
     "word": "delinquent",
     "pos": "adj./n.",
     "definition": "Failing to fulfill an obligation; a young offender.",
-    "chinese": "違法的;不良少年",
+    "chinese": "違法的；不良少年",
     "synonyms": "",
     "root": "de- (away) + linquere (to leave), from Latin",
     "group": "de = 去除；下降",
@@ -237,14 +237,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Failing to fulfill an obligation; a young offender.",
-     "chinese": "違法的;不良少年"
+     "chinese": "違法的；不良少年"
     }
    },
    {
     "word": "deliquesce",
     "pos": "v.",
     "definition": "To become liquid, especially by absorbing moisture from the air.",
-    "chinese": "潮解;液化",
+    "chinese": "潮解；液化",
     "synonyms": "",
     "root": "de- (thoroughly) + liquescere (to become liquid), from Latin",
     "group": "de = 去除；下降",
@@ -256,14 +256,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become liquid, especially by absorbing moisture from the air.",
-     "chinese": "潮解;液化"
+     "chinese": "潮解；液化"
     }
    },
    {
     "word": "delirious",
     "pos": "adj.",
     "definition": "In a disturbed state of mind, often marked by confusion or excitement.",
-    "chinese": "神智不清的;狂喜的",
+    "chinese": "神智不清的；狂喜的",
     "synonyms": "",
     "root": "de- (away from) + lira (furrow), from Latin",
     "group": "de = 去除；下降",
@@ -275,7 +275,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a disturbed state of mind, often marked by confusion or excitement.",
-     "chinese": "神智不清的;狂喜的"
+     "chinese": "神智不清的；狂喜的"
     }
    },
    {
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "word": "demonstrate",
     "pos": "v.",
     "definition": "To show clearly by evidence or reasoning.",
-    "chinese": "證明;示範",
+    "chinese": "證明；示範",
     "synonyms": "",
     "root": "de- (thoroughly) + monstrare (to show), from Latin",
     "group": "de = 去除；下降",
@@ -412,7 +412,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To show clearly by evidence or reasoning.",
-     "chinese": "證明;示範"
+     "chinese": "證明；示範"
     }
    },
    {
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "word": "denigrated",
     "pos": "adj.",
     "definition": "Criticized unfairly; disparaged.",
-    "chinese": "被詆毀的;被貶低的",
+    "chinese": "被詆毀的；被貶低的",
     "synonyms": "",
     "root": "de- (thoroughly) + nigrare (to blacken), from Latin",
     "group": "de = 去除；下降",
@@ -469,14 +469,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Criticized unfairly; disparaged.",
-     "chinese": "被詆毀的;被貶低的"
+     "chinese": "被詆毀的；被貶低的"
     }
    },
    {
     "word": "denigration",
     "pos": "n.",
     "definition": "The act of unfairly criticizing or belittling someone.",
-    "chinese": "詆毀;貶損",
+    "chinese": "詆毀；貶損",
     "synonyms": "",
     "root": "de- (thoroughly) + nigrare (to blacken), from Latin",
     "group": "de = 去除；下降",
@@ -488,14 +488,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of unfairly criticizing or belittling someone.",
-     "chinese": "詆毀;貶損"
+     "chinese": "詆毀；貶損"
     }
    },
    {
     "word": "denotation",
     "pos": "n.",
     "definition": "The literal or primary meaning of a word.",
-    "chinese": "本義;字面意義",
+    "chinese": "本義；字面意義",
     "synonyms": "",
     "root": "de- (thoroughly) + notare (to mark), from Latin",
     "group": "de = 去除；下降",
@@ -507,7 +507,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The literal or primary meaning of a word.",
-     "chinese": "本義;字面意義"
+     "chinese": "本義；字面意義"
     }
    },
    {
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "word": "denudation",
     "pos": "n.",
     "definition": "The process of stripping away covering or protection; erosion.",
-    "chinese": "剝蝕;裸露",
+    "chinese": "剝蝕；裸露",
     "synonyms": "",
     "root": "de- (away) + nudare (to strip bare), from Latin",
     "group": "de = 去除；下降",
@@ -585,14 +585,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of stripping away covering or protection; erosion.",
-     "chinese": "剝蝕;裸露"
+     "chinese": "剝蝕；裸露"
     }
    },
    {
     "word": "denude",
     "pos": "v.",
     "definition": "To strip bare of covering.",
-    "chinese": "剝光;裸露",
+    "chinese": "剝光；裸露",
     "synonyms": "",
     "root": "de- (away) + nudare (to strip bare), from Latin",
     "group": "de = 去除；下降",
@@ -604,14 +604,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To strip bare of covering.",
-     "chinese": "剝光;裸露"
+     "chinese": "剝光；裸露"
     }
    },
    {
     "word": "denunciatory",
     "pos": "adj.",
     "definition": "Expressing strong public criticism or condemnation.",
-    "chinese": "譴責的;告發性的",
+    "chinese": "譴責的；告發性的",
     "synonyms": "",
     "root": "de- (thoroughly) + nuntiare (to announce), from Latin",
     "group": "de = 去除；下降",
@@ -623,7 +623,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing strong public criticism or condemnation.",
-     "chinese": "譴責的;告發性的"
+     "chinese": "譴責的；告發性的"
     }
    },
    {
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "word": "deplete",
     "pos": "v.",
     "definition": "To use up the supply or resources of something.",
-    "chinese": "耗盡;使枯竭",
+    "chinese": "耗盡；使枯竭",
     "synonyms": "",
     "root": "de- (away) + plere (to fill), from Latin",
     "group": "de = 去除；下降",
@@ -665,14 +665,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To use up the supply or resources of something.",
-     "chinese": "耗盡;使枯竭"
+     "chinese": "耗盡；使枯竭"
     }
    },
    {
     "word": "depleted",
     "pos": "adj.",
     "definition": "Reduced in quantity, especially to a critically low level.",
-    "chinese": "耗盡的;枯竭的",
+    "chinese": "耗盡的；枯竭的",
     "synonyms": "",
     "root": "de- (away) + plere (to fill), from Latin",
     "group": "de = 去除；下降",
@@ -684,7 +684,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reduced in quantity, especially to a critically low level.",
-     "chinese": "耗盡的;枯竭的"
+     "chinese": "耗盡的；枯竭的"
     }
    },
    {
@@ -750,7 +750,7 @@ window.FLASHCARD_UNITS = {
     "word": "deportment",
     "pos": "n.",
     "definition": "A person's manner of behaving; conduct.",
-    "chinese": "行為舉止;禮儀",
+    "chinese": "行為舉止；禮儀",
     "synonyms": "",
     "root": "de- (away) + portare (to carry), from Latin",
     "group": "de = 去除；下降",
@@ -762,14 +762,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person's manner of behaving; conduct.",
-     "chinese": "行為舉止;禮儀"
+     "chinese": "行為舉止；禮儀"
     }
    },
    {
     "word": "deprave",
     "pos": "v.",
     "definition": "To make morally corrupt.",
-    "chinese": "使墮落;腐化",
+    "chinese": "使墮落；腐化",
     "synonyms": "",
     "root": "de- (thoroughly) + pravus (crooked), from Latin",
     "group": "de = 去除；下降",
@@ -781,14 +781,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make morally corrupt.",
-     "chinese": "使墮落;腐化"
+     "chinese": "使墮落；腐化"
     }
    },
    {
     "word": "depraved",
     "pos": "adj.",
     "definition": "Morally corrupt; wicked.",
-    "chinese": "墮落的;邪惡的",
+    "chinese": "墮落的；邪惡的",
     "synonyms": "",
     "root": "de- (thoroughly) + pravus (crooked), from Latin",
     "group": "de = 去除；下降",
@@ -800,7 +800,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Morally corrupt; wicked.",
-     "chinese": "墮落的;邪惡的"
+     "chinese": "墮落的；邪惡的"
     }
    },
    {
@@ -847,7 +847,7 @@ window.FLASHCARD_UNITS = {
     "word": "deprecatory",
     "pos": "adj.",
     "definition": "Expressing disapproval; self-belittling.",
-    "chinese": "貶低的;自我貶抑的",
+    "chinese": "貶低的；自我貶抑的",
     "synonyms": "",
     "root": "de- (down) + precari (to pray), from Latin",
     "group": "de = 去除；下降",
@@ -859,14 +859,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing disapproval; self-belittling.",
-     "chinese": "貶低的;自我貶抑的"
+     "chinese": "貶低的；自我貶抑的"
     }
    },
    {
     "word": "depreciate",
     "pos": "v.",
     "definition": "To diminish in value over time.",
-    "chinese": "貶值;跌價",
+    "chinese": "貶值；跌價",
     "synonyms": "",
     "root": "de- (down) + pretium (price), from Latin",
     "group": "de = 去除；下降",
@@ -878,14 +878,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To diminish in value over time.",
-     "chinese": "貶值;跌價"
+     "chinese": "貶值；跌價"
     }
    },
    {
     "word": "depreciatory",
     "pos": "adj.",
     "definition": "Tending to belittle or disparage.",
-    "chinese": "貶低的;輕蔑的",
+    "chinese": "貶低的；輕蔑的",
     "synonyms": "",
     "root": "de- (down) + pretium (price), from Latin",
     "group": "de = 去除；下降",
@@ -897,14 +897,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to belittle or disparage.",
-     "chinese": "貶低的;輕蔑的"
+     "chinese": "貶低的；輕蔑的"
     }
    },
    {
     "word": "deprivation",
     "pos": "n.",
     "definition": "The state of lacking basic necessities.",
-    "chinese": "剝奪;匱乏",
+    "chinese": "剝奪；匱乏",
     "synonyms": "",
     "root": "de- (away) + privare (to deprive), from Latin",
     "group": "de = 去除；下降",
@@ -916,7 +916,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of lacking basic necessities.",
-     "chinese": "剝奪;匱乏"
+     "chinese": "剝奪；匱乏"
     }
    },
    {
@@ -944,7 +944,7 @@ window.FLASHCARD_UNITS = {
     "word": "deracinate",
     "pos": "v.",
     "definition": "To uproot someone or something from their natural environment.",
-    "chinese": "連根拔起;使脫離故土",
+    "chinese": "連根拔起；使脫離故土",
     "synonyms": "",
     "root": "de- (away) + racine (root), from French",
     "group": "de = 去除；下降",
@@ -958,14 +958,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To uproot someone or something from their natural environment.",
-     "chinese": "連根拔起;使脫離故土"
+     "chinese": "連根拔起；使脫離故土"
     }
    },
    {
     "word": "deranged",
     "pos": "adj.",
     "definition": "Seriously disturbed in mind; insane.",
-    "chinese": "精神錯亂的;瘋狂的",
+    "chinese": "精神錯亂的；瘋狂的",
     "synonyms": "",
     "root": "de- (away) + rang (row, rank), from French",
     "group": "de = 去除；下降",
@@ -977,7 +977,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Seriously disturbed in mind; insane.",
-     "chinese": "精神錯亂的;瘋狂的"
+     "chinese": "精神錯亂的；瘋狂的"
     }
    }
   ],
@@ -2186,4 +2186,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"degenerate": ["To decline in quality or morals; morally corrupt.", "退化;墮落的"], "degrade": ["To make contemptible, lower.", "貶低；使降級"], "dejected": ["Sad and depressed; disheartened.", "沮喪的;意氣消沉的"], "delay": ["To postpone or make late.", "延遲;延誤"], "delectable": ["Delicious.", "美味可口的"], "delegate": ["To assign responsibility or authority to another person or group.", "委派；授權"], "delete": ["To remove or erase something.", "刪除"], "deliberate": ["Done consciously and intentionally.", "故意的；深思熟慮的"], "deliberation": ["Careful consideration or discussion.", "深思熟慮；商議"], "delineate": ["To describe, outline, shed light on.", "描繪；勾勒"], "delineation": ["Sketch, description in words.", "描繪；輪廓"], "delinquent": ["Failing to fulfill an obligation; a young offender.", "違法的;不良少年"], "deliquesce": ["To become liquid, especially by absorbing moisture from the air.", "潮解;液化"], "delirious": ["In a disturbed state of mind, often marked by confusion or excitement.", "神智不清的;狂喜的"], "delude": ["To fool.", "欺騙；蠱惑"], "delusion": ["A false opinion or belief.", "妄想"], "demarcate": ["To set boundaries or distinguish.", "劃定界線；區分"], "demarcation": ["The marking of boundaries or categories.", "劃界；分界"], "demeanor": ["Conduct, bearing.", "舉止；風度"], "demonstrable": ["Able to be shown or proven clearly.", "可證明的"], "demonstrate": ["To show clearly by evidence or reasoning.", "證明;示範"], "demur": ["To object.", "反對；抗議"], "denigrate": ["To belittle, diminish the opinion of.", "詆毀；貶低"], "denigrated": ["Criticized unfairly; disparaged.", "被詆毀的;被貶低的"], "denigration": ["The act of unfairly criticizing or belittling someone.", "詆毀;貶損"], "denotation": ["The literal or primary meaning of a word.", "本義;字面意義"], "denote": ["To indicate, show, mean.", "表示；意味著"], "denounce": ["To criticize publicly.", "公開譴責；揭發"], "denouncement": ["A public condemnation of someone or something.", "公開譴責"], "denudation": ["The process of stripping away covering or protection; erosion.", "剝蝕;裸露"], "denude": ["To strip bare of covering.", "剝光;裸露"], "denunciatory": ["Expressing strong public criticism or condemnation.", "譴責的;告發性的"], "depict": ["To describe clearly, picture, portray.", "描繪；描述"], "deplete": ["To use up the supply or resources of something.", "耗盡;使枯竭"], "depleted": ["Reduced in quantity, especially to a critically low level.", "耗盡的;枯竭的"], "deplorable": ["Sad, pitiable.", "可悲的；應受譴責的"], "deplore": ["To feel or express sorrow, disapproval.", "深感遺憾；譴責"], "deport": ["To expel a foreigner from a country.", "驅逐出境"], "deportment": ["A person's manner of behaving; conduct.", "行為舉止;禮儀"], "deprave": ["To make morally corrupt.", "使墮落;腐化"], "depraved": ["Morally corrupt; wicked.", "墮落的;邪惡的"], "depravity": ["Wickedness.", "墮落；邪惡"], "deprecate": ["To express disapproval.", "抨擊；反對"], "deprecatory": ["Expressing disapproval; self-belittling.", "貶低的;自我貶抑的"], "depreciate": ["To diminish in value over time.", "貶值;跌價"], "depreciatory": ["Tending to belittle or disparage.", "貶低的;輕蔑的"], "deprivation": ["The state of lacking basic necessities.", "剝奪;匱乏"], "deprive": ["To prevent someone from having or enjoying something.", "剝奪"], "deracinate": ["To uproot someone or something from their natural environment.", "連根拔起;使脫離故土"], "deranged": ["Seriously disturbed in mind; insane.", "精神錯亂的;瘋狂的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"degenerate": ["To decline in quality or morals; morally corrupt.", "退化；墮落的"], "degrade": ["To make contemptible, lower.", "貶低；使降級"], "dejected": ["Sad and depressed; disheartened.", "沮喪的；意氣消沉的"], "delay": ["To postpone or make late.", "延遲；延誤"], "delectable": ["Delicious.", "美味可口的"], "delegate": ["To assign responsibility or authority to another person or group.", "委派；授權"], "delete": ["To remove or erase something.", "刪除"], "deliberate": ["Done consciously and intentionally.", "故意的；深思熟慮的"], "deliberation": ["Careful consideration or discussion.", "深思熟慮；商議"], "delineate": ["To describe, outline, shed light on.", "描繪；勾勒"], "delineation": ["Sketch, description in words.", "描繪；輪廓"], "delinquent": ["Failing to fulfill an obligation; a young offender.", "違法的；不良少年"], "deliquesce": ["To become liquid, especially by absorbing moisture from the air.", "潮解；液化"], "delirious": ["In a disturbed state of mind, often marked by confusion or excitement.", "神智不清的；狂喜的"], "delude": ["To fool.", "欺騙；蠱惑"], "delusion": ["A false opinion or belief.", "妄想"], "demarcate": ["To set boundaries or distinguish.", "劃定界線；區分"], "demarcation": ["The marking of boundaries or categories.", "劃界；分界"], "demeanor": ["Conduct, bearing.", "舉止；風度"], "demonstrable": ["Able to be shown or proven clearly.", "可證明的"], "demonstrate": ["To show clearly by evidence or reasoning.", "證明；示範"], "demur": ["To object.", "反對；抗議"], "denigrate": ["To belittle, diminish the opinion of.", "詆毀；貶低"], "denigrated": ["Criticized unfairly; disparaged.", "被詆毀的；被貶低的"], "denigration": ["The act of unfairly criticizing or belittling someone.", "詆毀；貶損"], "denotation": ["The literal or primary meaning of a word.", "本義；字面意義"], "denote": ["To indicate, show, mean.", "表示；意味著"], "denounce": ["To criticize publicly.", "公開譴責；揭發"], "denouncement": ["A public condemnation of someone or something.", "公開譴責"], "denudation": ["The process of stripping away covering or protection; erosion.", "剝蝕；裸露"], "denude": ["To strip bare of covering.", "剝光；裸露"], "denunciatory": ["Expressing strong public criticism or condemnation.", "譴責的；告發性的"], "depict": ["To describe clearly, picture, portray.", "描繪；描述"], "deplete": ["To use up the supply or resources of something.", "耗盡；使枯竭"], "depleted": ["Reduced in quantity, especially to a critically low level.", "耗盡的；枯竭的"], "deplorable": ["Sad, pitiable.", "可悲的；應受譴責的"], "deplore": ["To feel or express sorrow, disapproval.", "深感遺憾；譴責"], "deport": ["To expel a foreigner from a country.", "驅逐出境"], "deportment": ["A person's manner of behaving; conduct.", "行為舉止；禮儀"], "deprave": ["To make morally corrupt.", "使墮落；腐化"], "depraved": ["Morally corrupt; wicked.", "墮落的；邪惡的"], "depravity": ["Wickedness.", "墮落；邪惡"], "deprecate": ["To express disapproval.", "抨擊；反對"], "deprecatory": ["Expressing disapproval; self-belittling.", "貶低的；自我貶抑的"], "depreciate": ["To diminish in value over time.", "貶值；跌價"], "depreciatory": ["Tending to belittle or disparage.", "貶低的；輕蔑的"], "deprivation": ["The state of lacking basic necessities.", "剝奪；匱乏"], "deprive": ["To prevent someone from having or enjoying something.", "剝奪"], "deracinate": ["To uproot someone or something from their natural environment.", "連根拔起；使脫離故土"], "deranged": ["Seriously disturbed in mind; insane.", "精神錯亂的；瘋狂的"]});

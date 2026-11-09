@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "bon vivant",
     "pos": "n.",
     "definition": "A person who enjoys good food, drink, and company.",
-    "chinese": "享樂主義者;講究生活享受的人",
+    "chinese": "享樂主義者；講究生活享受的人",
     "synonyms": "",
     "root": "bon (good) + vivant (living), from French",
     "group": "vig；viv = 生命",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who enjoys good food, drink, and company.",
-     "chinese": "享樂主義者;講究生活享受的人"
+     "chinese": "享樂主義者；講究生活享受的人"
     }
    },
    {
     "word": "inter vivos",
     "pos": "adj.",
     "definition": "Made or effective between living persons, especially of a legal transfer.",
-    "chinese": "生前的;生者之間的(法律用語)",
+    "chinese": "生前的；生者之間的(法律用語)",
     "synonyms": "",
     "root": "Latin inter (between) + vivos (the living)",
     "group": "vig；viv = 生命",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Made or effective between living persons, especially of a legal transfer.",
-     "chinese": "生前的;生者之間的(法律用語)"
+     "chinese": "生前的；生者之間的(法律用語)"
     }
    },
    {
     "word": "invigorate",
     "pos": "v.",
     "definition": "To give strength or energy to.",
-    "chinese": "使充滿活力;振奮",
+    "chinese": "使充滿活力；振奮",
     "synonyms": "",
     "root": "in- (into) + vigor (strength), from Latin",
     "group": "vig；viv = 生命",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give strength or energy to.",
-     "chinese": "使充滿活力;振奮"
+     "chinese": "使充滿活力；振奮"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "revive",
     "pos": "v.",
     "definition": "To restore to life, consciousness, or vigor.",
-    "chinese": "使甦醒;復興",
+    "chinese": "使甦醒；復興",
     "synonyms": "",
     "root": "revivere (to live again), from Latin re- (again) + vivere (to live)",
     "group": "vig；viv = 生命",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To restore to life, consciousness, or vigor.",
-     "chinese": "使甦醒;復興"
+     "chinese": "使甦醒；復興"
     }
    },
    {
     "word": "revivifying",
     "pos": "adj.",
     "definition": "Giving new life or vigor to something.",
-    "chinese": "使復甦的;恢復生機的",
+    "chinese": "使復甦的；恢復生機的",
     "synonyms": "",
     "root": "re- (again) + vivificare (to make alive), from Latin vivus (living) + facere (to make)",
     "group": "vig；viv = 生命",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving new life or vigor to something.",
-     "chinese": "使復甦的;恢復生機的"
+     "chinese": "使復甦的；恢復生機的"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "vigilante",
     "pos": "n.",
     "definition": "A person who takes law enforcement into their own hands without legal authority.",
-    "chinese": "自警團成員;私刑執法者",
+    "chinese": "自警團成員；私刑執法者",
     "synonyms": "",
     "root": "vigilante (watchman), from Spanish, from Latin vigilare (to keep watch)",
     "group": "vig；viv = 生命",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who takes law enforcement into their own hands without legal authority.",
-     "chinese": "自警團成員;私刑執法者"
+     "chinese": "自警團成員；私刑執法者"
     }
    },
    {
     "word": "vignette",
     "pos": "n.",
     "definition": "A brief, evocative description or episode; a decorative border design.",
-    "chinese": "小品文;小插曲",
+    "chinese": "小品文；小插曲",
     "synonyms": "",
     "root": "vignette (a small vine design), from French vigne (vine)",
     "group": "vig；viv = 生命",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A brief, evocative description or episode; a decorative border design.",
-     "chinese": "小品文;小插曲"
+     "chinese": "小品文；小插曲"
     }
    },
    {
     "word": "vigorous",
     "pos": "adj.",
     "definition": "Strong, healthy, and full of energy.",
-    "chinese": "精力充沛的;強健的",
+    "chinese": "精力充沛的；強健的",
     "synonyms": "",
     "root": "vigor (liveliness), from Latin vigere (to thrive)",
     "group": "vig；viv = 生命",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Strong, healthy, and full of energy.",
-     "chinese": "精力充沛的;強健的"
+     "chinese": "精力充沛的；強健的"
     }
    },
    {
     "word": "vivacity",
     "pos": "n.",
     "definition": "The quality of being lively and animated.",
-    "chinese": "活潑;生氣勃勃",
+    "chinese": "活潑；生氣勃勃",
     "synonyms": "",
     "root": "vivacitas, from Latin vivax (lively), from vivere (to live)",
     "group": "vig；viv = 生命",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being lively and animated.",
-     "chinese": "活潑;生氣勃勃"
+     "chinese": "活潑；生氣勃勃"
     }
    },
    {
     "word": "vivid",
     "pos": "adj.",
     "definition": "Producing powerful feelings or clear images in the mind.",
-    "chinese": "生動的;鮮明的",
+    "chinese": "生動的；鮮明的",
     "synonyms": "",
     "root": "vividus (lively), from Latin vivere (to live)",
     "group": "vig；viv = 生命",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing powerful feelings or clear images in the mind.",
-     "chinese": "生動的;鮮明的"
+     "chinese": "生動的；鮮明的"
     }
    },
    {
     "word": "vivify",
     "pos": "v.",
     "definition": "To give life or vigor to; to animate.",
-    "chinese": "賦予生命;使生動",
+    "chinese": "賦予生命；使生動",
     "synonyms": "",
     "root": "vivificare, from Latin vivus (alive) + facere (to make)",
     "group": "vig；viv = 生命",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give life or vigor to; to animate.",
-     "chinese": "賦予生命;使生動"
+     "chinese": "賦予生命；使生動"
     }
    },
    {
@@ -870,4 +870,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vigilant": ["Watchful.", "警惕的"], "vigil": ["Wakeful watching.", "守夜；監視"], "vivacious": ["Lively.", "活潑的；快活的"], "convivial": ["Sociable, outgoing, especially when pertaining to eating and drinking; fond of good company.", "歡樂的；喜好交際的"], "bon vivant": ["A person who enjoys good food, drink, and company.", "享樂主義者;講究生活享受的人"], "inter vivos": ["Made or effective between living persons, especially of a legal transfer.", "生前的;生者之間的(法律用語)"], "invigorate": ["To give strength or energy to.", "使充滿活力;振奮"], "invigorating": ["Making one feel stronger and more energetic.", "令人精神振奮的"], "revive": ["To restore to life, consciousness, or vigor.", "使甦醒;復興"], "revivifying": ["Giving new life or vigor to something.", "使復甦的;恢復生機的"], "vigilance": ["The action of keeping careful watch.", "警覺；警戒"], "vigilante": ["A person who takes law enforcement into their own hands without legal authority.", "自警團成員;私刑執法者"], "vignette": ["A brief, evocative description or episode; a decorative border design.", "小品文;小插曲"], "vigorous": ["Strong, healthy, and full of energy.", "精力充沛的;強健的"], "vivacity": ["The quality of being lively and animated.", "活潑;生氣勃勃"], "vivid": ["Producing powerful feelings or clear images in the mind.", "生動的;鮮明的"], "vivify": ["To give life or vigor to; to animate.", "賦予生命;使生動"], "viviparous": ["Giving birth to live offspring rather than laying eggs.", "胎生的"], "vivisection": ["Surgical experimentation on live animals for scientific research.", "活體解剖"], "vivisepulture": ["The act of burying someone alive.", "活埋"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vigilant": ["Watchful.", "警惕的"], "vigil": ["Wakeful watching.", "守夜；監視"], "vivacious": ["Lively.", "活潑的；快活的"], "convivial": ["Sociable, outgoing, especially when pertaining to eating and drinking; fond of good company.", "歡樂的；喜好交際的"], "bon vivant": ["A person who enjoys good food, drink, and company.", "享樂主義者；講究生活享受的人"], "inter vivos": ["Made or effective between living persons, especially of a legal transfer.", "生前的；生者之間的(法律用語)"], "invigorate": ["To give strength or energy to.", "使充滿活力；振奮"], "invigorating": ["Making one feel stronger and more energetic.", "令人精神振奮的"], "revive": ["To restore to life, consciousness, or vigor.", "使甦醒；復興"], "revivifying": ["Giving new life or vigor to something.", "使復甦的；恢復生機的"], "vigilance": ["The action of keeping careful watch.", "警覺；警戒"], "vigilante": ["A person who takes law enforcement into their own hands without legal authority.", "自警團成員；私刑執法者"], "vignette": ["A brief, evocative description or episode; a decorative border design.", "小品文；小插曲"], "vigorous": ["Strong, healthy, and full of energy.", "精力充沛的；強健的"], "vivacity": ["The quality of being lively and animated.", "活潑；生氣勃勃"], "vivid": ["Producing powerful feelings or clear images in the mind.", "生動的；鮮明的"], "vivify": ["To give life or vigor to; to animate.", "賦予生命；使生動"], "viviparous": ["Giving birth to live offspring rather than laying eggs.", "胎生的"], "vivisection": ["Surgical experimentation on live animals for scientific research.", "活體解剖"], "vivisepulture": ["The act of burying someone alive.", "活埋"]});

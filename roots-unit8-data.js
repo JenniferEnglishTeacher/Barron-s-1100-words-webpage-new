@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "beneficence",
     "pos": "n.",
     "definition": "The quality of doing good; generous acts of kindness.",
-    "chinese": "善行;仁慈",
+    "chinese": "善行；仁慈",
     "synonyms": "",
     "root": "bene- (well) + facere (to do)",
     "group": "bene = 良好；慈善；祝福",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of doing good; generous acts of kindness.",
-     "chinese": "善行;仁慈"
+     "chinese": "善行；仁慈"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "benevolence",
     "pos": "n.",
     "definition": "Kindness and generosity toward others.",
-    "chinese": "仁慈;善心",
+    "chinese": "仁慈；善心",
     "synonyms": "",
     "root": "bene- (well) + velle (to wish)",
     "group": "bene = 良好；慈善；祝福",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Kindness and generosity toward others.",
-     "chinese": "仁慈;善心"
+     "chinese": "仁慈；善心"
     }
    },
    {
@@ -438,4 +438,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"benediction": ["A blessing, especially one given at the end of a religious service.", "祝福；賜福"], "benefactor": ["A person who gives money or other help to a person or organization.", "捐助者；恩人"], "beneficence": ["The quality of doing good; generous acts of kindness.", "善行;仁慈"], "beneficent": ["Doing good or actively helping others.", "行善的；有慈善心的"], "beneficial": ["Helpful, advantageous, or producing a good result.", "有益的；有利的"], "benevolence": ["Kindness and generosity toward others.", "仁慈;善心"], "benign": ["Gentle and harmless; not cancerous.", "良性的；無害的；慈祥的"], "benevolent": ["Kind, generous, and willing to help others.", "仁慈的；慈善的"], "beneficiary": ["A person or organization that receives an advantage, gift, or inheritance.", "受益人；受惠者"], "benefit": ["An advantage or helpful result; to help or improve something.", "利益；好處；有益於"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"benediction": ["A blessing, especially one given at the end of a religious service.", "祝福；賜福"], "benefactor": ["A person who gives money or other help to a person or organization.", "捐助者；恩人"], "beneficence": ["The quality of doing good; generous acts of kindness.", "善行；仁慈"], "beneficent": ["Doing good or actively helping others.", "行善的；有慈善心的"], "beneficial": ["Helpful, advantageous, or producing a good result.", "有益的；有利的"], "benevolence": ["Kindness and generosity toward others.", "仁慈；善心"], "benign": ["Gentle and harmless; not cancerous.", "良性的；無害的；慈祥的"], "benevolent": ["Kind, generous, and willing to help others.", "仁慈的；慈善的"], "beneficiary": ["A person or organization that receives an advantage, gift, or inheritance.", "受益人；受惠者"], "benefit": ["An advantage or helpful result; to help or improve something.", "利益；好處；有益於"]});

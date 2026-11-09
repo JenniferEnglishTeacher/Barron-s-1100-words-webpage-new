@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "anachronism",
     "pos": "n.",
     "definition": "Something placed in the wrong time period; something outdated.",
-    "chinese": "時代錯誤;不合時宜的事物",
+    "chinese": "時代錯誤；不合時宜的事物",
     "synonyms": "",
     "root": "ana- (against) + chronos (time), from Greek",
     "group": "chron = 長時間",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something placed in the wrong time period; something outdated.",
-     "chinese": "時代錯誤;不合時宜的事物"
+     "chinese": "時代錯誤；不合時宜的事物"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "chronicity",
     "pos": "n.",
     "definition": "The state or quality of continuing for a long time.",
-    "chinese": "慢性;長期性",
+    "chinese": "慢性；長期性",
     "synonyms": "",
     "root": "chronos (time), from Greek",
     "group": "chron = 長時間",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state or quality of continuing for a long time.",
-     "chinese": "慢性;長期性"
+     "chinese": "慢性；長期性"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "chronometer",
     "pos": "n.",
     "definition": "A highly accurate timepiece, especially used in navigation.",
-    "chinese": "精密計時器;天文鐘",
+    "chinese": "精密計時器；天文鐘",
     "synonyms": "",
     "root": "chronos (time) + metron (measure), from Greek",
     "group": "chron = 長時間",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A highly accurate timepiece, especially used in navigation.",
-     "chinese": "精密計時器;天文鐘"
+     "chinese": "精密計時器；天文鐘"
     }
    },
    {
@@ -354,4 +354,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"anachronism": ["Something placed in the wrong time period; something outdated.", "時代錯誤;不合時宜的事物"], "anachronistic": ["Being out of correct chronological order.", "時代錯置的"], "chronicity": ["The state or quality of continuing for a long time.", "慢性;長期性"], "chronicle": ["A written history.", "編年史；紀錄"], "chronological": ["Arranged in order of time.", "按時間順序的"], "chronometer": ["A highly accurate timepiece, especially used in navigation.", "精密計時器;天文鐘"], "synchronization": ["The process of coordinating events.", "同步化"], "synchronize": ["To cause things to happen or operate at the same time or rate.", "使同步"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"anachronism": ["Something placed in the wrong time period; something outdated.", "時代錯誤；不合時宜的事物"], "anachronistic": ["Being out of correct chronological order.", "時代錯置的"], "chronicity": ["The state or quality of continuing for a long time.", "慢性；長期性"], "chronicle": ["A written history.", "編年史；紀錄"], "chronological": ["Arranged in order of time.", "按時間順序的"], "chronometer": ["A highly accurate timepiece, especially used in navigation.", "精密計時器；天文鐘"], "synchronization": ["The process of coordinating events.", "同步化"], "synchronize": ["To cause things to happen or operate at the same time or rate.", "使同步"]});

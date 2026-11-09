@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "interdict",
     "pos": "v./n.",
     "definition": "To forbid or prohibit; an official prohibition.",
-    "chinese": "禁止;禁令",
+    "chinese": "禁止；禁令",
     "synonyms": "",
     "root": "inter- (between) + dicere (to say), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To forbid or prohibit; an official prohibition.",
-     "chinese": "禁止;禁令"
+     "chinese": "禁止；禁令"
     }
    },
    {
     "word": "interdiction",
     "pos": "n.",
     "definition": "The action of prohibiting or forbidding something.",
-    "chinese": "禁止;查禁",
+    "chinese": "禁止；查禁",
     "synonyms": "",
     "root": "inter- (between) + dicere (to say), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The action of prohibiting or forbidding something.",
-     "chinese": "禁止;查禁"
+     "chinese": "禁止；查禁"
     }
    },
    {
     "word": "interface",
     "pos": "n./v.",
     "definition": "A point where two systems meet and interact.",
-    "chinese": "介面;交流",
+    "chinese": "介面；交流",
     "synonyms": "",
     "root": "inter- (between) + facies (face), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A point where two systems meet and interact.",
-     "chinese": "介面;交流"
+     "chinese": "介面；交流"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "interlope",
     "pos": "v.",
     "definition": "To intrude in someone else's affairs without invitation.",
-    "chinese": "干涉;闖入(他人事務)",
+    "chinese": "干涉；闖入(他人事務)",
     "synonyms": "",
     "root": "inter- (between) + lopen (to run), from Dutch",
     "group": "inter = 在⋯⋯之間",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To intrude in someone else's affairs without invitation.",
-     "chinese": "干涉;闖入(他人事務)"
+     "chinese": "干涉；闖入(他人事務)"
     }
    },
    {
     "word": "intermittent",
     "pos": "adj.",
     "definition": "Occurring at irregular intervals; not continuous.",
-    "chinese": "間歇性的;斷斷續續的",
+    "chinese": "間歇性的；斷斷續續的",
     "synonyms": "",
     "root": "inter- (between) + mittere (to send), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring at irregular intervals; not continuous.",
-     "chinese": "間歇性的;斷斷續續的"
+     "chinese": "間歇性的；斷斷續續的"
     }
    },
    {
     "word": "interpolate",
     "pos": "v.",
     "definition": "To insert something of a different nature into something else; to estimate a value between known values.",
-    "chinese": "插入;內插",
+    "chinese": "插入；內插",
     "synonyms": "",
     "root": "inter- (between) + polire (to polish), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To insert something of a different nature into something else; to estimate a value between known values.",
-     "chinese": "插入;內插"
+     "chinese": "插入；內插"
     }
    },
    {
     "word": "interpolation",
     "pos": "n.",
     "definition": "The insertion of something into a text or between other things.",
-    "chinese": "插入;內插法",
+    "chinese": "插入；內插法",
     "synonyms": "",
     "root": "inter- (between) + polire (to polish), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The insertion of something into a text or between other things.",
-     "chinese": "插入;內插法"
+     "chinese": "插入；內插法"
     }
    },
    {
     "word": "interpose",
     "pos": "v.",
     "definition": "To insert between other things; to intervene.",
-    "chinese": "插入;介入",
+    "chinese": "插入；介入",
     "synonyms": "",
     "root": "inter- (between) + ponere (to place), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To insert between other things; to intervene.",
-     "chinese": "插入;介入"
+     "chinese": "插入；介入"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "interregnum",
     "pos": "n.",
     "definition": "A period when normal government is suspended, especially between reigns.",
-    "chinese": "空位期;過渡期",
+    "chinese": "空位期；過渡期",
     "synonyms": "",
     "root": "inter- (between) + regnum (kingdom, reign), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A period when normal government is suspended, especially between reigns.",
-     "chinese": "空位期;過渡期"
+     "chinese": "空位期；過渡期"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "interstice",
     "pos": "n.",
     "definition": "A small gap or space between things.",
-    "chinese": "縫隙;間隙",
+    "chinese": "縫隙；間隙",
     "synonyms": "",
     "root": "inter- (between) + sistere (to stand), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small gap or space between things.",
-     "chinese": "縫隙;間隙"
+     "chinese": "縫隙；間隙"
     }
    },
    {
     "word": "interstitial",
     "pos": "adj.",
     "definition": "Relating to small spaces between structures or tissues.",
-    "chinese": "間隙的;組織間的",
+    "chinese": "間隙的；組織間的",
     "synonyms": "",
     "root": "inter- (between) + sistere (to stand), from Latin",
     "group": "inter = 在⋯⋯之間",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to small spaces between structures or tissues.",
-     "chinese": "間隙的;組織間的"
+     "chinese": "間隙的；組織間的"
     }
    }
   ],
@@ -831,4 +831,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"interject": ["To interrupt.", "插嘴"], "interloper": ["Unauthorized person.", "闖入者；干涉者"], "interrogate": ["To question.", "審問；質問"], "internecine": ["Mutually destructive, conflict within a group.", "內訌的；兩敗俱傷的"], "interchangeable": ["Able to be exchanged or replaced with another item without significant difference.", "可互換的"], "interdict": ["To forbid or prohibit; an official prohibition.", "禁止;禁令"], "interdiction": ["The action of prohibiting or forbidding something.", "禁止;查禁"], "interface": ["A point where two systems meet and interact.", "介面;交流"], "interlocutor": ["Someone who participates in a dialogue or conversation.", "對話者；會談者"], "interlope": ["To intrude in someone else's affairs without invitation.", "干涉;闖入(他人事務)"], "intermittent": ["Occurring at irregular intervals; not continuous.", "間歇性的;斷斷續續的"], "interpolate": ["To insert something of a different nature into something else; to estimate a value between known values.", "插入;內插"], "interpolation": ["The insertion of something into a text or between other things.", "插入;內插法"], "interpose": ["To insert between other things; to intervene.", "插入;介入"], "interpret": ["To explain the meaning of something.", "解釋；詮釋"], "interregnum": ["A period when normal government is suspended, especially between reigns.", "空位期;過渡期"], "intersect": ["To cross or meet at a point.", "相交；交叉"], "interstice": ["A small gap or space between things.", "縫隙;間隙"], "interstitial": ["Relating to small spaces between structures or tissues.", "間隙的;組織間的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"interject": ["To interrupt.", "插嘴"], "interloper": ["Unauthorized person.", "闖入者；干涉者"], "interrogate": ["To question.", "審問；質問"], "internecine": ["Mutually destructive, conflict within a group.", "內訌的；兩敗俱傷的"], "interchangeable": ["Able to be exchanged or replaced with another item without significant difference.", "可互換的"], "interdict": ["To forbid or prohibit; an official prohibition.", "禁止；禁令"], "interdiction": ["The action of prohibiting or forbidding something.", "禁止；查禁"], "interface": ["A point where two systems meet and interact.", "介面；交流"], "interlocutor": ["Someone who participates in a dialogue or conversation.", "對話者；會談者"], "interlope": ["To intrude in someone else's affairs without invitation.", "干涉；闖入(他人事務)"], "intermittent": ["Occurring at irregular intervals; not continuous.", "間歇性的；斷斷續續的"], "interpolate": ["To insert something of a different nature into something else; to estimate a value between known values.", "插入；內插"], "interpolation": ["The insertion of something into a text or between other things.", "插入；內插法"], "interpose": ["To insert between other things; to intervene.", "插入；介入"], "interpret": ["To explain the meaning of something.", "解釋；詮釋"], "interregnum": ["A period when normal government is suspended, especially between reigns.", "空位期；過渡期"], "intersect": ["To cross or meet at a point.", "相交；交叉"], "interstice": ["A small gap or space between things.", "縫隙；間隙"], "interstitial": ["Relating to small spaces between structures or tissues.", "間隙的；組織間的"]});

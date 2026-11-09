@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "feculence",
     "pos": "n.",
     "definition": "The state of being filthy or full of sediment.",
-    "chinese": "污穢;渣滓狀態",
+    "chinese": "污穢；渣滓狀態",
     "synonyms": "",
     "root": "faex (dregs), from Latin",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being filthy or full of sediment.",
-     "chinese": "污穢;渣滓狀態"
+     "chinese": "污穢；渣滓狀態"
     }
    },
    {
     "word": "feculent",
     "pos": "adj.",
     "definition": "Containing sediment or filth; foul.",
-    "chinese": "污濁的;骯髒的",
+    "chinese": "污濁的；骯髒的",
     "synonyms": "",
     "root": "faex (dregs), from Latin",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Containing sediment or filth; foul.",
-     "chinese": "污濁的;骯髒的"
+     "chinese": "污濁的；骯髒的"
     }
    },
    {
     "word": "feeble",
     "pos": "adj.",
     "definition": "Lacking physical strength; weak.",
-    "chinese": "虛弱的;無力的",
+    "chinese": "虛弱的；無力的",
     "synonyms": "",
     "root": "flebilis (lamentable), from Latin",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking physical strength; weak.",
-     "chinese": "虛弱的;無力的"
+     "chinese": "虛弱的；無力的"
     }
    },
    {
     "word": "feign",
     "pos": "v.",
     "definition": "To pretend to feel or be affected by something.",
-    "chinese": "假裝;佯裝",
+    "chinese": "假裝；佯裝",
     "synonyms": "",
     "root": "fingere (to shape, feign), from Latin",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To pretend to feel or be affected by something.",
-     "chinese": "假裝;佯裝"
+     "chinese": "假裝；佯裝"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "felicity",
     "pos": "n.",
     "definition": "Intense happiness; a pleasing manner of expression.",
-    "chinese": "幸福;巧妙",
+    "chinese": "幸福；巧妙",
     "synonyms": "",
     "root": "felix (happy, fortunate), from Latin",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intense happiness; a pleasing manner of expression.",
-     "chinese": "幸福;巧妙"
+     "chinese": "幸福；巧妙"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "feminist",
     "pos": "n./adj.",
     "definition": "An advocate of equal rights for women.",
-    "chinese": "女性主義者;女權主義的",
+    "chinese": "女性主義者；女權主義的",
     "synonyms": "",
     "root": "femina (woman), from Latin",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An advocate of equal rights for women.",
-     "chinese": "女性主義者;女權主義的"
+     "chinese": "女性主義者；女權主義的"
     }
    },
    {
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
     "word": "fictious",
     "pos": "adj.",
     "definition": "Invented or imaginary; not genuine.",
-    "chinese": "虛構的;假的",
+    "chinese": "虛構的；假的",
     "synonyms": "",
     "root": "fingere (to shape, feign), from Latin",
     "group": "",
@@ -360,7 +360,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Invented or imaginary; not genuine.",
-     "chinese": "虛構的;假的"
+     "chinese": "虛構的；假的"
     }
    },
    {
@@ -424,7 +424,7 @@ window.FLASHCARD_UNITS = {
     "word": "filch",
     "pos": "v.",
     "definition": "To steal something of small value.",
-    "chinese": "偷竊;順手牽羊",
+    "chinese": "偷竊；順手牽羊",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To steal something of small value.",
-     "chinese": "偷竊;順手牽羊"
+     "chinese": "偷竊；順手牽羊"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "firebrand",
     "pos": "n.",
     "definition": "A person who incites conflict or agitates for a cause.",
-    "chinese": "煽動者;激進分子",
+    "chinese": "煽動者；激進分子",
     "synonyms": "",
     "root": "fire + brand, from Old English",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who incites conflict or agitates for a cause.",
-     "chinese": "煽動者;激進分子"
+     "chinese": "煽動者；激進分子"
     }
    },
    {
     "word": "fistic",
     "pos": "adj.",
     "definition": "Relating to boxing or fighting with fists.",
-    "chinese": "拳擊的;搏鬥的",
+    "chinese": "拳擊的；搏鬥的",
     "synonyms": "",
     "root": "fist, from Old English fyst",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to boxing or fighting with fists.",
-     "chinese": "拳擊的;搏鬥的"
+     "chinese": "拳擊的；搏鬥的"
     }
    },
    {
     "word": "fisticuffs",
     "pos": "n.",
     "definition": "Fighting with the fists.",
-    "chinese": "鬥毆;拳鬥",
+    "chinese": "鬥毆；拳鬥",
     "synonyms": "",
     "root": "fist + cuff, from Old English",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fighting with the fists.",
-     "chinese": "鬥毆;拳鬥"
+     "chinese": "鬥毆；拳鬥"
     }
    },
    {
     "word": "fitful",
     "pos": "adj.",
     "definition": "Occurring in irregular bursts; not continuous.",
-    "chinese": "斷斷續續的;間歇的",
+    "chinese": "斷斷續續的；間歇的",
     "synonyms": "",
     "root": "fit (paroxysm), from Old English fitt",
     "group": "",
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring in irregular bursts; not continuous.",
-     "chinese": "斷斷續續的;間歇的"
+     "chinese": "斷斷續續的；間歇的"
     }
    },
    {
@@ -559,7 +559,7 @@ window.FLASHCARD_UNITS = {
     "word": "flabbergast",
     "pos": "v.",
     "definition": "To surprise someone greatly.",
-    "chinese": "使大吃一驚;使目瞪口呆",
+    "chinese": "使大吃一驚；使目瞪口呆",
     "synonyms": "",
     "root": "of uncertain origin, possibly blend of flabby + aghast",
     "group": "",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To surprise someone greatly.",
-     "chinese": "使大吃一驚;使目瞪口呆"
+     "chinese": "使大吃一驚；使目瞪口呆"
     }
    },
    {
@@ -618,7 +618,7 @@ window.FLASHCARD_UNITS = {
     "word": "flag",
     "pos": "n./v.",
     "definition": "A piece of cloth used as a symbol; to become tired or weak.",
-    "chinese": "旗幟;變得疲憊",
+    "chinese": "旗幟；變得疲憊",
     "synonyms": "",
     "root": "of uncertain Germanic origin",
     "group": "",
@@ -630,7 +630,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A piece of cloth used as a symbol; to become tired or weak.",
-     "chinese": "旗幟;變得疲憊"
+     "chinese": "旗幟；變得疲憊"
     }
    },
    {
@@ -658,7 +658,7 @@ window.FLASHCARD_UNITS = {
     "word": "flagellate",
     "pos": "v.",
     "definition": "To whip someone, especially as a religious punishment.",
-    "chinese": "鞭打;鞭笞",
+    "chinese": "鞭打；鞭笞",
     "synonyms": "",
     "root": "flagellum (whip), from Latin",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To whip someone, especially as a religious punishment.",
-     "chinese": "鞭打;鞭笞"
+     "chinese": "鞭打；鞭笞"
     }
    },
    {
     "word": "flagellation",
     "pos": "n.",
     "definition": "The act of whipping someone, especially as punishment.",
-    "chinese": "鞭打;鞭笞刑",
+    "chinese": "鞭打；鞭笞刑",
     "synonyms": "",
     "root": "flagellum (whip), from Latin",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of whipping someone, especially as punishment.",
-     "chinese": "鞭打;鞭笞刑"
+     "chinese": "鞭打；鞭笞刑"
     }
    },
    {
     "word": "flagitious",
     "pos": "adj.",
     "definition": "Criminal, villainous, or shockingly wicked.",
-    "chinese": "窮凶極惡的;十惡不赦的",
+    "chinese": "窮凶極惡的；十惡不赦的",
     "synonyms": "",
     "root": "flagitium (shameful act), from Latin",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Criminal, villainous, or shockingly wicked.",
-     "chinese": "窮凶極惡的;十惡不赦的"
+     "chinese": "窮凶極惡的；十惡不赦的"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "flair",
     "pos": "n.",
     "definition": "A natural talent or ability; stylishness.",
-    "chinese": "天賦;風格",
+    "chinese": "天賦；風格",
     "synonyms": "",
     "root": "flairer (to smell), from Old French, from Latin fragrare",
     "group": "",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A natural talent or ability; stylishness.",
-     "chinese": "天賦;風格"
+     "chinese": "天賦；風格"
     }
    },
    {
@@ -772,7 +772,7 @@ window.FLASHCARD_UNITS = {
     "word": "flaneur",
     "pos": "n.",
     "definition": "A man who idles about observing society.",
-    "chinese": "漫遊者;都市閒逛觀察者",
+    "chinese": "漫遊者；都市閒逛觀察者",
     "synonyms": "",
     "root": "flâner (to stroll), from French",
     "group": "",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A man who idles about observing society.",
-     "chinese": "漫遊者;都市閒逛觀察者"
+     "chinese": "漫遊者；都市閒逛觀察者"
     }
    },
    {
     "word": "flashy",
     "pos": "adj.",
     "definition": "Showy and superficially attractive.",
-    "chinese": "浮誇的;炫麗的",
+    "chinese": "浮誇的；炫麗的",
     "synonyms": "",
     "root": "flash, of uncertain imitative origin",
     "group": "",
@@ -805,14 +805,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showy and superficially attractive.",
-     "chinese": "浮誇的;炫麗的"
+     "chinese": "浮誇的；炫麗的"
     }
    },
    {
     "word": "flat",
     "pos": "adj./n.",
     "definition": "Smooth and level; an apartment.",
-    "chinese": "平坦的;公寓",
+    "chinese": "平坦的；公寓",
     "synonyms": "",
     "root": "flatr (flat), from Old Norse",
     "group": "",
@@ -824,14 +824,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Smooth and level; an apartment.",
-     "chinese": "平坦的;公寓"
+     "chinese": "平坦的；公寓"
     }
    },
    {
     "word": "flattery",
     "pos": "n.",
     "definition": "Excessive and insincere praise.",
-    "chinese": "諂媚;奉承",
+    "chinese": "諂媚；奉承",
     "synonyms": "",
     "root": "flater (to caress, flatter), from Old French",
     "group": "",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive and insincere praise.",
-     "chinese": "諂媚;奉承"
+     "chinese": "諂媚；奉承"
     }
    },
    {
     "word": "flatus",
     "pos": "n.",
     "definition": "Gas generated in the digestive system.",
-    "chinese": "腸胃氣體;脹氣",
+    "chinese": "腸胃氣體；脹氣",
     "synonyms": "",
     "root": "flare (to blow), from Latin",
     "group": "",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Gas generated in the digestive system.",
-     "chinese": "腸胃氣體;脹氣"
+     "chinese": "腸胃氣體；脹氣"
     }
    },
    {
@@ -909,7 +909,7 @@ window.FLASHCARD_UNITS = {
     "word": "fleece",
     "pos": "n./v.",
     "definition": "A sheep's woolly coat; to defraud someone of money.",
-    "chinese": "羊毛;詐取",
+    "chinese": "羊毛；詐取",
     "synonyms": "",
     "root": "fleos, from Old English",
     "group": "",
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sheep's woolly coat; to defraud someone of money.",
-     "chinese": "羊毛;詐取"
+     "chinese": "羊毛；詐取"
     }
    },
    {
@@ -947,7 +947,7 @@ window.FLASHCARD_UNITS = {
     "word": "flexible",
     "pos": "adj.",
     "definition": "Capable of bending without breaking; adaptable.",
-    "chinese": "有彈性的;靈活的",
+    "chinese": "有彈性的；靈活的",
     "synonyms": "",
     "root": "flectere (to bend), from Latin",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of bending without breaking; adaptable.",
-     "chinese": "有彈性的;靈活的"
+     "chinese": "有彈性的；靈活的"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"feculence": ["The state of being filthy or full of sediment.", "污穢;渣滓狀態"], "feculent": ["Containing sediment or filth; foul.", "污濁的;骯髒的"], "feeble": ["Lacking physical strength; weak.", "虛弱的;無力的"], "feign": ["To pretend to feel or be affected by something.", "假裝;佯裝"], "feint": ["False attack.", "佯攻"], "felicitous": ["Happy.", "恰當的；令人愉悅的"], "felicity": ["Intense happiness; a pleasing manner of expression.", "幸福;巧妙"], "feline": ["Of or relating to cats.", "貓的；貓科的"], "felon": ["Person guilty of a major crime.", "重罪犯"], "feminist": ["An advocate of equal rights for women.", "女性主義者;女權主義的"], "ferment": ["Uproar, agitation, turmoil.", "發酵；動亂"], "fervent": ["Filled with passion or intensity.", "熱切的"], "fervid": ["Intense, enthusiastic, passionate.", "熱情的；熱烈的"], "fetid": ["Having a foul odor.", "惡臭的"], "fetter": ["To hamper.", "束縛；羈絆"], "fiasco": ["Complete failure.", "慘敗"], "fiat": ["Official order, decree.", "命令；法令"], "fickle": ["Shifting in character, inconstant.", "善變的；反覆無常的"], "fictious": ["Invented or imaginary; not genuine.", "虛構的;假的"], "fiddledeedee": ["An exclamation expressing dismissal of something as nonsense.", "廢話!(表示不屑一顧)"], "fidelity": ["Loyalty, devotion.", "忠誠；忠實"], "figurative": ["Symbolic.", "比喻的；象徵性的"], "filch": ["To steal something of small value.", "偷竊;順手牽羊"], "filigree": ["Delicate ornamental work made from fine wire, often of gold or silver.", "金銀細絲工藝"], "firebrand": ["A person who incites conflict or agitates for a cause.", "煽動者;激進分子"], "fistic": ["Relating to boxing or fighting with fists.", "拳擊的;搏鬥的"], "fisticuffs": ["Fighting with the fists.", "鬥毆;拳鬥"], "fitful": ["Occurring in irregular bursts; not continuous.", "斷斷續續的;間歇的"], "fixed": ["Firmly attached or established; not subject to change.", "固定的"], "flabbergast": ["To surprise someone greatly.", "使大吃一驚;使目瞪口呆"], "flabbergasted": ["Astounded.", "大吃一驚的"], "flaccid": ["Limp, not firm or strong.", "鬆軟的；無力的"], "flag": ["A piece of cloth used as a symbol; to become tired or weak.", "旗幟;變得疲憊"], "flagellant": ["A person who whips themselves or others as a religious discipline.", "苦修鞭笞者"], "flagellate": ["To whip someone, especially as a religious punishment.", "鞭打;鞭笞"], "flagellation": ["The act of whipping someone, especially as punishment.", "鞭打;鞭笞刑"], "flagitious": ["Criminal, villainous, or shockingly wicked.", "窮凶極惡的;十惡不赦的"], "flagrant": ["Outrageous, glaringly bad.", "公然的；惡名昭彰的"], "flair": ["A natural talent or ability; stylishness.", "天賦;風格"], "flamboyant": ["Showy, colorful.", "艷麗的；炫耀的"], "flaneur": ["A man who idles about observing society.", "漫遊者;都市閒逛觀察者"], "flashy": ["Showy and superficially attractive.", "浮誇的;炫麗的"], "flat": ["Smooth and level; an apartment.", "平坦的;公寓"], "flattery": ["Excessive and insincere praise.", "諂媚;奉承"], "flatus": ["Gas generated in the digestive system.", "腸胃氣體;脹氣"], "flay": ["To strip off the skin, scold harshly.", "剝皮；嚴厲批評"], "fledgling": ["Little-known, newly developed.", "無經驗的人；幼鳥"], "fleece": ["A sheep's woolly coat; to defraud someone of money.", "羊毛;詐取"], "fleeting": ["Short-lived.", "稍縱即逝的"], "flexible": ["Capable of bending without breaking; adaptable.", "有彈性的;靈活的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"feculence": ["The state of being filthy or full of sediment.", "污穢；渣滓狀態"], "feculent": ["Containing sediment or filth; foul.", "污濁的；骯髒的"], "feeble": ["Lacking physical strength; weak.", "虛弱的；無力的"], "feign": ["To pretend to feel or be affected by something.", "假裝；佯裝"], "feint": ["False attack.", "佯攻"], "felicitous": ["Happy.", "恰當的；令人愉悅的"], "felicity": ["Intense happiness; a pleasing manner of expression.", "幸福；巧妙"], "feline": ["Of or relating to cats.", "貓的；貓科的"], "felon": ["Person guilty of a major crime.", "重罪犯"], "feminist": ["An advocate of equal rights for women.", "女性主義者；女權主義的"], "ferment": ["Uproar, agitation, turmoil.", "發酵；動亂"], "fervent": ["Filled with passion or intensity.", "熱切的"], "fervid": ["Intense, enthusiastic, passionate.", "熱情的；熱烈的"], "fetid": ["Having a foul odor.", "惡臭的"], "fetter": ["To hamper.", "束縛；羈絆"], "fiasco": ["Complete failure.", "慘敗"], "fiat": ["Official order, decree.", "命令；法令"], "fickle": ["Shifting in character, inconstant.", "善變的；反覆無常的"], "fictious": ["Invented or imaginary; not genuine.", "虛構的；假的"], "fiddledeedee": ["An exclamation expressing dismissal of something as nonsense.", "廢話!(表示不屑一顧)"], "fidelity": ["Loyalty, devotion.", "忠誠；忠實"], "figurative": ["Symbolic.", "比喻的；象徵性的"], "filch": ["To steal something of small value.", "偷竊；順手牽羊"], "filigree": ["Delicate ornamental work made from fine wire, often of gold or silver.", "金銀細絲工藝"], "firebrand": ["A person who incites conflict or agitates for a cause.", "煽動者；激進分子"], "fistic": ["Relating to boxing or fighting with fists.", "拳擊的；搏鬥的"], "fisticuffs": ["Fighting with the fists.", "鬥毆；拳鬥"], "fitful": ["Occurring in irregular bursts; not continuous.", "斷斷續續的；間歇的"], "fixed": ["Firmly attached or established; not subject to change.", "固定的"], "flabbergast": ["To surprise someone greatly.", "使大吃一驚；使目瞪口呆"], "flabbergasted": ["Astounded.", "大吃一驚的"], "flaccid": ["Limp, not firm or strong.", "鬆軟的；無力的"], "flag": ["A piece of cloth used as a symbol; to become tired or weak.", "旗幟；變得疲憊"], "flagellant": ["A person who whips themselves or others as a religious discipline.", "苦修鞭笞者"], "flagellate": ["To whip someone, especially as a religious punishment.", "鞭打；鞭笞"], "flagellation": ["The act of whipping someone, especially as punishment.", "鞭打；鞭笞刑"], "flagitious": ["Criminal, villainous, or shockingly wicked.", "窮凶極惡的；十惡不赦的"], "flagrant": ["Outrageous, glaringly bad.", "公然的；惡名昭彰的"], "flair": ["A natural talent or ability; stylishness.", "天賦；風格"], "flamboyant": ["Showy, colorful.", "艷麗的；炫耀的"], "flaneur": ["A man who idles about observing society.", "漫遊者；都市閒逛觀察者"], "flashy": ["Showy and superficially attractive.", "浮誇的；炫麗的"], "flat": ["Smooth and level; an apartment.", "平坦的；公寓"], "flattery": ["Excessive and insincere praise.", "諂媚；奉承"], "flatus": ["Gas generated in the digestive system.", "腸胃氣體；脹氣"], "flay": ["To strip off the skin, scold harshly.", "剝皮；嚴厲批評"], "fledgling": ["Little-known, newly developed.", "無經驗的人；幼鳥"], "fleece": ["A sheep's woolly coat; to defraud someone of money.", "羊毛；詐取"], "fleeting": ["Short-lived.", "稍縱即逝的"], "flexible": ["Capable of bending without breaking; adaptable.", "有彈性的；靈活的"]});

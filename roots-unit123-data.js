@@ -67,7 +67,7 @@ window.FLASHCARD_UNITS = {
     "word": "apposite",
     "pos": "adj.",
     "definition": "Highly appropriate or relevant.",
-    "chinese": "恰當的;貼切的",
+    "chinese": "恰當的；貼切的",
     "synonyms": "",
     "root": "ad- (to) + ponere (to place)",
     "group": "pose = 放置",
@@ -79,7 +79,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Highly appropriate or relevant.",
-     "chinese": "恰當的;貼切的"
+     "chinese": "恰當的；貼切的"
     }
    },
    {
@@ -107,7 +107,7 @@ window.FLASHCARD_UNITS = {
     "word": "composed",
     "pos": "adj.",
     "definition": "Calm and in control of one's emotions.",
-    "chinese": "鎮定的;沉著的",
+    "chinese": "鎮定的；沉著的",
     "synonyms": "",
     "root": "com- (together) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -119,14 +119,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calm and in control of one's emotions.",
-     "chinese": "鎮定的;沉著的"
+     "chinese": "鎮定的；沉著的"
     }
    },
    {
     "word": "composure",
     "pos": "n.",
     "definition": "Calmness of mind or manner.",
-    "chinese": "鎮定;沉著",
+    "chinese": "鎮定；沉著",
     "synonyms": "",
     "root": "com- (together) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -138,14 +138,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Calmness of mind or manner.",
-     "chinese": "鎮定;沉著"
+     "chinese": "鎮定；沉著"
     }
    },
    {
     "word": "dispose",
     "pos": "v.",
     "definition": "To get rid of; to arrange or incline someone toward.",
-    "chinese": "處理;丟棄;使傾向",
+    "chinese": "處理；丟棄；使傾向",
     "synonyms": "",
     "root": "dis- (apart) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -159,14 +159,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To get rid of; to arrange or incline someone toward.",
-     "chinese": "處理;丟棄;使傾向"
+     "chinese": "處理；丟棄；使傾向"
     }
    },
    {
     "word": "exponent",
     "pos": "n.",
     "definition": "A person who advocates for a theory or belief; a mathematical index.",
-    "chinese": "倡導者;指數",
+    "chinese": "倡導者；指數",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -178,14 +178,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who advocates for a theory or belief; a mathematical index.",
-     "chinese": "倡導者;指數"
+     "chinese": "倡導者；指數"
     }
    },
    {
     "word": "expose",
     "pos": "v.",
     "definition": "To reveal or make visible; to uncover wrongdoing.",
-    "chinese": "揭露;暴露",
+    "chinese": "揭露；暴露",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -197,14 +197,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To reveal or make visible; to uncover wrongdoing.",
-     "chinese": "揭露;暴露"
+     "chinese": "揭露；暴露"
     }
    },
    {
     "word": "expository",
     "pos": "adj.",
     "definition": "Intended to explain or describe something.",
-    "chinese": "說明性的;解說的",
+    "chinese": "說明性的；解說的",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -216,14 +216,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intended to explain or describe something.",
-     "chinese": "說明性的;解說的"
+     "chinese": "說明性的；解說的"
     }
    },
    {
     "word": "expound",
     "pos": "v.",
     "definition": "To explain a theory or idea in detail.",
-    "chinese": "詳細闡述;講解",
+    "chinese": "詳細闡述；講解",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -235,14 +235,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To explain a theory or idea in detail.",
-     "chinese": "詳細闡述;講解"
+     "chinese": "詳細闡述；講解"
     }
    },
    {
     "word": "interpose",
     "pos": "v.",
     "definition": "To insert between other things; to intervene.",
-    "chinese": "插入;介入",
+    "chinese": "插入；介入",
     "synonyms": "",
     "root": "inter- (between) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -256,7 +256,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To insert between other things; to intervene.",
-     "chinese": "插入;介入"
+     "chinese": "插入；介入"
     }
    },
    {
@@ -282,7 +282,7 @@ window.FLASHCARD_UNITS = {
     "word": "oppose",
     "pos": "v.",
     "definition": "To disagree with or resist strongly.",
-    "chinese": "反對;抵抗",
+    "chinese": "反對；抵抗",
     "synonyms": "",
     "root": "ob- (against) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -294,14 +294,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To disagree with or resist strongly.",
-     "chinese": "反對;抵抗"
+     "chinese": "反對；抵抗"
     }
    },
    {
     "word": "opposition",
     "pos": "n.",
     "definition": "Resistance or dissent; a group opposing another.",
-    "chinese": "反對;反對黨",
+    "chinese": "反對；反對黨",
     "synonyms": "",
     "root": "ob- (against) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -313,14 +313,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resistance or dissent; a group opposing another.",
-     "chinese": "反對;反對黨"
+     "chinese": "反對；反對黨"
     }
    },
    {
     "word": "posit",
     "pos": "v.",
     "definition": "To put forward as a fact or basis for argument.",
-    "chinese": "假定;主張",
+    "chinese": "假定；主張",
     "synonyms": "",
     "root": "ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -334,14 +334,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To put forward as a fact or basis for argument.",
-     "chinese": "假定;主張"
+     "chinese": "假定；主張"
     }
    },
    {
     "word": "position",
     "pos": "n.",
     "definition": "A place where someone or something is located; a job or stance.",
-    "chinese": "位置;職位;立場",
+    "chinese": "位置；職位；立場",
     "synonyms": "",
     "root": "ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -353,14 +353,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A place where someone or something is located; a job or stance.",
-     "chinese": "位置;職位;立場"
+     "chinese": "位置；職位；立場"
     }
    },
    {
     "word": "postpone",
     "pos": "v.",
     "definition": "To delay or reschedule to a later time.",
-    "chinese": "推遲;延後",
+    "chinese": "推遲；延後",
     "synonyms": "",
     "root": "post- (after) + ponere (to place), from Latin",
     "group": "pose = 放置",
@@ -372,7 +372,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To delay or reschedule to a later time.",
-     "chinese": "推遲;延後"
+     "chinese": "推遲；延後"
     }
    },
    {
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "word": "suppose",
     "pos": "v.",
     "definition": "To assume something to be true without proof.",
-    "chinese": "假設;猜想",
+    "chinese": "假設；猜想",
     "synonyms": "",
     "root": "supposer, from Old French, from Latin sub- (under) + ponere (to put)",
     "group": "pose = 放置",
@@ -410,14 +410,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To assume something to be true without proof.",
-     "chinese": "假設;猜想"
+     "chinese": "假設；猜想"
     }
    },
    {
     "word": "supposition",
     "pos": "n.",
     "definition": "An assumption made without proof.",
-    "chinese": "假設;推測",
+    "chinese": "假設；推測",
     "synonyms": "",
     "root": "suppositio, from Latin sub- (under) + ponere (to put)",
     "group": "pose = 放置",
@@ -429,14 +429,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An assumption made without proof.",
-     "chinese": "假設;推測"
+     "chinese": "假設；推測"
     }
    },
    {
     "word": "supposititious",
     "pos": "adj.",
     "definition": "Fraudulently substituted; spurious or counterfeit.",
-    "chinese": "冒名頂替的;偽造的",
+    "chinese": "冒名頂替的；偽造的",
     "synonyms": "",
     "root": "suppositicius, from Latin sub- (under) + ponere (to put)",
     "group": "pose = 放置",
@@ -448,14 +448,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fraudulently substituted; spurious or counterfeit.",
-     "chinese": "冒名頂替的;偽造的"
+     "chinese": "冒名頂替的；偽造的"
     }
    },
    {
     "word": "symposium",
     "pos": "n.",
     "definition": "A conference or meeting to discuss a particular subject.",
-    "chinese": "研討會;座談會",
+    "chinese": "研討會；座談會",
     "synonyms": "",
     "root": "symposion (a drinking party), from Greek syn- (together) + posis (drink)",
     "group": "pose = 放置",
@@ -467,7 +467,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A conference or meeting to discuss a particular subject.",
-     "chinese": "研討會;座談會"
+     "chinese": "研討會；座談會"
     }
    }
   ],
@@ -1052,4 +1052,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"compound": ["To increase or add to.", "使增加；混合"], "component": ["Element.", "零件；成分"], "juxtapose": ["To place side by side.", "並列"], "apposite": ["Highly appropriate or relevant.", "恰當的;貼切的"], "compose": ["To create or form something, especially in writing or music; to arrange parts into a whole.", "組成；創作"], "composed": ["Calm and in control of one's emotions.", "鎮定的;沉著的"], "composure": ["Calmness of mind or manner.", "鎮定;沉著"], "dispose": ["To get rid of; to arrange or incline someone toward.", "處理;丟棄;使傾向"], "exponent": ["A person who advocates for a theory or belief; a mathematical index.", "倡導者;指數"], "expose": ["To reveal or make visible; to uncover wrongdoing.", "揭露;暴露"], "expository": ["Intended to explain or describe something.", "說明性的;解說的"], "expound": ["To explain a theory or idea in detail.", "詳細闡述;講解"], "interpose": ["To insert between other things; to intervene.", "插入;介入"], "juxtaposition": ["The act of placing two things next to each other for comparison.", "並置；對比"], "oppose": ["To disagree with or resist strongly.", "反對;抵抗"], "opposition": ["Resistance or dissent; a group opposing another.", "反對;反對黨"], "posit": ["To put forward as a fact or basis for argument.", "假定;主張"], "position": ["A place where someone or something is located; a job or stance.", "位置;職位;立場"], "postpone": ["To delay or reschedule to a later time.", "推遲;延後"], "proponent": ["A person who advocates or supports a cause or idea.", "支持者；提倡者"], "suppose": ["To assume something to be true without proof.", "假設;猜想"], "supposition": ["An assumption made without proof.", "假設;推測"], "supposititious": ["Fraudulently substituted; spurious or counterfeit.", "冒名頂替的;偽造的"], "symposium": ["A conference or meeting to discuss a particular subject.", "研討會;座談會"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"compound": ["To increase or add to.", "使增加；混合"], "component": ["Element.", "零件；成分"], "juxtapose": ["To place side by side.", "並列"], "apposite": ["Highly appropriate or relevant.", "恰當的；貼切的"], "compose": ["To create or form something, especially in writing or music; to arrange parts into a whole.", "組成；創作"], "composed": ["Calm and in control of one's emotions.", "鎮定的；沉著的"], "composure": ["Calmness of mind or manner.", "鎮定；沉著"], "dispose": ["To get rid of; to arrange or incline someone toward.", "處理；丟棄；使傾向"], "exponent": ["A person who advocates for a theory or belief; a mathematical index.", "倡導者；指數"], "expose": ["To reveal or make visible; to uncover wrongdoing.", "揭露；暴露"], "expository": ["Intended to explain or describe something.", "說明性的；解說的"], "expound": ["To explain a theory or idea in detail.", "詳細闡述；講解"], "interpose": ["To insert between other things; to intervene.", "插入；介入"], "juxtaposition": ["The act of placing two things next to each other for comparison.", "並置；對比"], "oppose": ["To disagree with or resist strongly.", "反對；抵抗"], "opposition": ["Resistance or dissent; a group opposing another.", "反對；反對黨"], "posit": ["To put forward as a fact or basis for argument.", "假定；主張"], "position": ["A place where someone or something is located; a job or stance.", "位置；職位；立場"], "postpone": ["To delay or reschedule to a later time.", "推遲；延後"], "proponent": ["A person who advocates or supports a cause or idea.", "支持者；提倡者"], "suppose": ["To assume something to be true without proof.", "假設；猜想"], "supposition": ["An assumption made without proof.", "假設；推測"], "supposititious": ["Fraudulently substituted; spurious or counterfeit.", "冒名頂替的；偽造的"], "symposium": ["A conference or meeting to discuss a particular subject.", "研討會；座談會"]});

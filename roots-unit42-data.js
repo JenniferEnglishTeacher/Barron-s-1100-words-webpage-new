@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "envy",
     "pos": "n./v.",
     "definition": "A feeling of discontent aroused by another's possessions or qualities.",
-    "chinese": "嫉妒;羨慕",
+    "chinese": "嫉妒；羨慕",
     "synonyms": "",
     "root": "in- (upon) + videre (to see), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of discontent aroused by another's possessions or qualities.",
-     "chinese": "嫉妒;羨慕"
+     "chinese": "嫉妒；羨慕"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "illusory",
     "pos": "adj.",
     "definition": "Based on illusion; not real.",
-    "chinese": "虛幻的;錯覺的",
+    "chinese": "虛幻的；錯覺的",
     "synonyms": "",
     "root": "in- (against) + ludere (to play, deceive), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Based on illusion; not real.",
-     "chinese": "虛幻的;錯覺的"
+     "chinese": "虛幻的；錯覺的"
     }
    },
    {
@@ -297,7 +297,7 @@ window.FLASHCARD_UNITS = {
     "word": "immure",
     "pos": "v.",
     "definition": "To confine or imprison someone.",
-    "chinese": "禁閉;囚禁",
+    "chinese": "禁閉；囚禁",
     "synonyms": "",
     "root": "in- (in) + murus (wall), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -311,14 +311,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To confine or imprison someone.",
-     "chinese": "禁閉;囚禁"
+     "chinese": "禁閉；囚禁"
     }
    },
    {
     "word": "immurement",
     "pos": "n.",
     "definition": "The act of confining or imprisoning someone.",
-    "chinese": "禁閉;囚禁",
+    "chinese": "禁閉；囚禁",
     "synonyms": "",
     "root": "in- (in) + murus (wall), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -330,14 +330,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of confining or imprisoning someone.",
-     "chinese": "禁閉;囚禁"
+     "chinese": "禁閉；囚禁"
     }
    },
    {
     "word": "impact",
     "pos": "n./v.",
     "definition": "A marked effect or influence; to have an effect on.",
-    "chinese": "影響;衝擊",
+    "chinese": "影響；衝擊",
     "synonyms": "",
     "root": "in- (into) + pangere (to fix, drive), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -349,14 +349,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A marked effect or influence; to have an effect on.",
-     "chinese": "影響;衝擊"
+     "chinese": "影響；衝擊"
     }
    },
    {
     "word": "impair",
     "pos": "v.",
     "definition": "To weaken or damage the function of something.",
-    "chinese": "損害;削弱",
+    "chinese": "損害；削弱",
     "synonyms": "",
     "root": "in- (into) + pejorare (to make worse), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -370,7 +370,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To weaken or damage the function of something.",
-     "chinese": "損害;削弱"
+     "chinese": "損害；削弱"
     }
    },
    {
@@ -436,7 +436,7 @@ window.FLASHCARD_UNITS = {
     "word": "impediment",
     "pos": "n.",
     "definition": "An obstacle that hinders progress.",
-    "chinese": "阻礙;障礙",
+    "chinese": "阻礙；障礙",
     "synonyms": "",
     "root": "in- (in) + pes (foot), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -448,14 +448,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An obstacle that hinders progress.",
-     "chinese": "阻礙;障礙"
+     "chinese": "阻礙；障礙"
     }
    },
    {
     "word": "impel",
     "pos": "v.",
     "definition": "To drive or force someone to do something.",
-    "chinese": "驅使;迫使",
+    "chinese": "驅使；迫使",
     "synonyms": "",
     "root": "in- (into) + pellere (to drive), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -469,7 +469,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To drive or force someone to do something.",
-     "chinese": "驅使;迫使"
+     "chinese": "驅使；迫使"
     }
    },
    {
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "word": "implant",
     "pos": "v./n.",
     "definition": "To insert or fix into place; a device placed within the body.",
-    "chinese": "植入;植入物",
+    "chinese": "植入；植入物",
     "synonyms": "",
     "root": "in- (into) + plantare (to plant), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -545,7 +545,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To insert or fix into place; a device placed within the body.",
-     "chinese": "植入;植入物"
+     "chinese": "植入；植入物"
     }
    },
    {
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "word": "import",
     "pos": "v./n.",
     "definition": "To bring in goods from abroad; significance.",
-    "chinese": "進口;重要性",
+    "chinese": "進口；重要性",
     "synonyms": "",
     "root": "in- (in) + portare (to carry), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -663,7 +663,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To bring in goods from abroad; significance.",
-     "chinese": "進口;重要性"
+     "chinese": "進口；重要性"
     }
    },
    {
@@ -689,7 +689,7 @@ window.FLASHCARD_UNITS = {
     "word": "imprecation",
     "pos": "n.",
     "definition": "A spoken curse.",
-    "chinese": "詛咒;咒罵",
+    "chinese": "詛咒；咒罵",
     "synonyms": "",
     "root": "in- (upon) + precari (to pray), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -701,14 +701,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A spoken curse.",
-     "chinese": "詛咒;咒罵"
+     "chinese": "詛咒；咒罵"
     }
    },
    {
     "word": "imprecator",
     "pos": "n.",
     "definition": "A person who curses or invokes evil upon another.",
-    "chinese": "咒罵者;詛咒者",
+    "chinese": "咒罵者；詛咒者",
     "synonyms": "",
     "root": "in- (upon) + precari (to pray), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -720,7 +720,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who curses or invokes evil upon another.",
-     "chinese": "咒罵者;詛咒者"
+     "chinese": "咒罵者；詛咒者"
     }
    },
    {
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "word": "impregnate",
     "pos": "v.",
     "definition": "To fill or saturate with a substance; to make pregnant.",
-    "chinese": "浸透;使受孕",
+    "chinese": "浸透；使受孕",
     "synonyms": "",
     "root": "in- (into) + praegnans (pregnant), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -760,14 +760,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To fill or saturate with a substance; to make pregnant.",
-     "chinese": "浸透;使受孕"
+     "chinese": "浸透；使受孕"
     }
    },
    {
     "word": "impregnated",
     "pos": "adj.",
     "definition": "Filled or saturated with a substance.",
-    "chinese": "浸透的;充滿的",
+    "chinese": "浸透的；充滿的",
     "synonyms": "",
     "root": "in- (into) + praegnans (pregnant), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -779,7 +779,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled or saturated with a substance.",
-     "chinese": "浸透的;充滿的"
+     "chinese": "浸透的；充滿的"
     }
    },
    {
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "word": "imputation",
     "pos": "n.",
     "definition": "The act of attributing blame or fault to someone.",
-    "chinese": "歸咎;指控",
+    "chinese": "歸咎；指控",
     "synonyms": "",
     "root": "in- (into) + putare (to reckon), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -817,7 +817,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of attributing blame or fault to someone.",
-     "chinese": "歸咎;指控"
+     "chinese": "歸咎；指控"
     }
    },
    {
@@ -845,7 +845,7 @@ window.FLASHCARD_UNITS = {
     "word": "incandescent",
     "pos": "adj.",
     "definition": "Emitting light as a result of being heated; brilliant.",
-    "chinese": "白熾的;光輝燦爛的",
+    "chinese": "白熾的；光輝燦爛的",
     "synonyms": "",
     "root": "in- (into) + candere (to glow), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -857,7 +857,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Emitting light as a result of being heated; brilliant.",
-     "chinese": "白熾的;光輝燦爛的"
+     "chinese": "白熾的；光輝燦爛的"
     }
    },
    {
@@ -2180,4 +2180,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coincident": ["Occurring or operating at the same time.", "同時發生的"], "encounter": ["To meet or face unexpectedly.", "邂逅；遭遇"], "encourage": ["To support or inspire.", "鼓勵"], "enduring": ["Lasting over time.", "持久的；歷久不衰的"], "engrossed": ["Absorbed:concentrated.", "全神貫注的"], "enhance": ["To intensify, heighten.", "提高；增強"], "envy": ["A feeling of discontent aroused by another's possessions or qualities.", "嫉妒;羨慕"], "illuminate": ["To light up or clarify.", "照亮；闡明"], "illusion": ["Something unreal that gives the appearance of being real.", "幻覺"], "illusory": ["Based on illusion; not real.", "虛幻的;錯覺的"], "illustrious": ["Well-known, respected, and admired for achievements.", "卓越的；著名的"], "imbibe": ["To drink.", "飲；吸收"], "immerse": ["To absorb, deeply involve, engross.", "沉浸；使專注"], "immigrant": ["A person who comes to live permanently in a foreign country.", "移民(移入者)"], "immigrate": ["To come to live permanently in a foreign country.", "移民入境"], "immure": ["To confine or imprison someone.", "禁閉;囚禁"], "immurement": ["The act of confining or imprisoning someone.", "禁閉;囚禁"], "impact": ["A marked effect or influence; to have an effect on.", "影響;衝擊"], "impair": ["To weaken or damage the function of something.", "損害;削弱"], "impart": ["To make information known or to give something.", "傳授；賦予"], "impassionated": ["Filled with intense emotion; passionate.", "充滿激情的"], "impede": ["To interfere, block, hinder.", "阻礙；妨礙"], "impediment": ["An obstacle that hinders progress.", "阻礙;障礙"], "impel": ["To drive or force someone to do something.", "驅使;迫使"], "impending": ["Approaching or about to happen.", "即將發生的；迫近的"], "impetuous": ["Impulsive.", "衝動的；魯莽的"], "impinge": ["To impact, affect, make an impression.", "侵犯；影響"], "implant": ["To insert or fix into place; a device placed within the body.", "植入;植入物"], "implement": ["To put a plan or decision into action; to carry out.", "實施；執行"], "implicate": ["To involve in an incriminating way, incriminate.", "牽連；使涉嫌"], "implication": ["A possible consequence or meaning.", "含意；影響"], "implicit": ["Implied rather than stated directly.", "含蓄的；暗示的"], "imply": ["To suggest something indirectly.", "暗示"], "import": ["To bring in goods from abroad; significance.", "進口;重要性"], "imprecate": ["To invoke a curse upon someone.", "詛咒"], "imprecation": ["A spoken curse.", "詛咒;咒罵"], "imprecator": ["A person who curses or invokes evil upon another.", "咒罵者;詛咒者"], "imprecatory": ["Expressing a curse.", "詛咒性的"], "impregnate": ["To fill or saturate with a substance; to make pregnant.", "浸透;使受孕"], "impregnated": ["Filled or saturated with a substance.", "浸透的;充滿的"], "impulsive": ["Acting without careful thought.", "衝動的"], "imputation": ["The act of attributing blame or fault to someone.", "歸咎;指控"], "impute": ["To ascribe, blame.", "歸咎於；歸因於"], "incandescent": ["Emitting light as a result of being heated; brilliant.", "白熾的;光輝燦爛的"], "incarnate": ["Existing in the flesh, embodied.", "化身的；具體化的"], "inception": ["The start, the beginning of something.", "開端"], "inchoate": ["In an early stage:incipient.", "早期的；未成形的"], "incident": ["A single distinct event.", "事件；事故"], "incidental": ["Less important; minor.", "附帶的"], "incipient": ["Just beginning to exist.", "初期的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coincident": ["Occurring or operating at the same time.", "同時發生的"], "encounter": ["To meet or face unexpectedly.", "邂逅；遭遇"], "encourage": ["To support or inspire.", "鼓勵"], "enduring": ["Lasting over time.", "持久的；歷久不衰的"], "engrossed": ["Absorbed:concentrated.", "全神貫注的"], "enhance": ["To intensify, heighten.", "提高；增強"], "envy": ["A feeling of discontent aroused by another's possessions or qualities.", "嫉妒；羨慕"], "illuminate": ["To light up or clarify.", "照亮；闡明"], "illusion": ["Something unreal that gives the appearance of being real.", "幻覺"], "illusory": ["Based on illusion; not real.", "虛幻的；錯覺的"], "illustrious": ["Well-known, respected, and admired for achievements.", "卓越的；著名的"], "imbibe": ["To drink.", "飲；吸收"], "immerse": ["To absorb, deeply involve, engross.", "沉浸；使專注"], "immigrant": ["A person who comes to live permanently in a foreign country.", "移民(移入者)"], "immigrate": ["To come to live permanently in a foreign country.", "移民入境"], "immure": ["To confine or imprison someone.", "禁閉；囚禁"], "immurement": ["The act of confining or imprisoning someone.", "禁閉；囚禁"], "impact": ["A marked effect or influence; to have an effect on.", "影響；衝擊"], "impair": ["To weaken or damage the function of something.", "損害；削弱"], "impart": ["To make information known or to give something.", "傳授；賦予"], "impassionated": ["Filled with intense emotion; passionate.", "充滿激情的"], "impede": ["To interfere, block, hinder.", "阻礙；妨礙"], "impediment": ["An obstacle that hinders progress.", "阻礙；障礙"], "impel": ["To drive or force someone to do something.", "驅使；迫使"], "impending": ["Approaching or about to happen.", "即將發生的；迫近的"], "impetuous": ["Impulsive.", "衝動的；魯莽的"], "impinge": ["To impact, affect, make an impression.", "侵犯；影響"], "implant": ["To insert or fix into place; a device placed within the body.", "植入；植入物"], "implement": ["To put a plan or decision into action; to carry out.", "實施；執行"], "implicate": ["To involve in an incriminating way, incriminate.", "牽連；使涉嫌"], "implication": ["A possible consequence or meaning.", "含意；影響"], "implicit": ["Implied rather than stated directly.", "含蓄的；暗示的"], "imply": ["To suggest something indirectly.", "暗示"], "import": ["To bring in goods from abroad; significance.", "進口；重要性"], "imprecate": ["To invoke a curse upon someone.", "詛咒"], "imprecation": ["A spoken curse.", "詛咒；咒罵"], "imprecator": ["A person who curses or invokes evil upon another.", "咒罵者；詛咒者"], "imprecatory": ["Expressing a curse.", "詛咒性的"], "impregnate": ["To fill or saturate with a substance; to make pregnant.", "浸透；使受孕"], "impregnated": ["Filled or saturated with a substance.", "浸透的；充滿的"], "impulsive": ["Acting without careful thought.", "衝動的"], "imputation": ["The act of attributing blame or fault to someone.", "歸咎；指控"], "impute": ["To ascribe, blame.", "歸咎於；歸因於"], "incandescent": ["Emitting light as a result of being heated; brilliant.", "白熾的；光輝燦爛的"], "incarnate": ["Existing in the flesh, embodied.", "化身的；具體化的"], "inception": ["The start, the beginning of something.", "開端"], "inchoate": ["In an early stage:incipient.", "早期的；未成形的"], "incident": ["A single distinct event.", "事件；事故"], "incidental": ["Less important; minor.", "附帶的"], "incipient": ["Just beginning to exist.", "初期的"]});

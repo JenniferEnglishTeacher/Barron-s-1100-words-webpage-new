@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "acquisitive",
     "pos": "adj.",
     "definition": "Excessively interested in acquiring money or possessions.",
-    "chinese": "貪得無厭的;渴望獲取的",
+    "chinese": "貪得無厭的；渴望獲取的",
     "synonyms": "",
     "root": "ad- (to) + quaerere (to seek)",
     "group": "quire = 追求",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively interested in acquiring money or possessions.",
-     "chinese": "貪得無厭的;渴望獲取的"
+     "chinese": "貪得無厭的；渴望獲取的"
     }
    },
    {
     "word": "acquisitiveness",
     "pos": "n.",
     "definition": "An excessive desire to acquire and possess things.",
-    "chinese": "貪婪;佔有慾",
+    "chinese": "貪婪；佔有慾",
     "synonyms": "",
     "root": "ad- (to) + quaerere (to seek)",
     "group": "quire = 追求",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive desire to acquire and possess things.",
-     "chinese": "貪婪;佔有慾"
+     "chinese": "貪婪；佔有慾"
     }
    },
    {
     "word": "conquer",
     "pos": "v.",
     "definition": "To overcome or defeat by force; to gain control of by military force.",
-    "chinese": "征服;戰勝",
+    "chinese": "征服；戰勝",
     "synonyms": "",
     "root": "con- (thoroughly) + quaerere (to seek), from Latin",
     "group": "quire = 追求",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To overcome or defeat by force; to gain control of by military force.",
-     "chinese": "征服;戰勝"
+     "chinese": "征服；戰勝"
     }
    },
    {
     "word": "disquisition",
     "pos": "n.",
     "definition": "A long, formal discourse on a subject.",
-    "chinese": "長篇論述;專題論文",
+    "chinese": "長篇論述；專題論文",
     "synonyms": "",
     "root": "dis- (apart) + quaerere (to seek), from Latin",
     "group": "quire = 追求",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long, formal discourse on a subject.",
-     "chinese": "長篇論述;專題論文"
+     "chinese": "長篇論述；專題論文"
     }
    },
    {
     "word": "exquisite",
     "pos": "adj.",
     "definition": "Extremely beautiful or finely made.",
-    "chinese": "精緻的;絕美的",
+    "chinese": "精緻的；絕美的",
     "synonyms": "",
     "root": "ex- (out) + quaerere (to seek), from Latin",
     "group": "quire = 追求",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely beautiful or finely made.",
-     "chinese": "精緻的;絕美的"
+     "chinese": "精緻的；絕美的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "perquisite",
     "pos": "n.",
     "definition": "A benefit given in addition to regular pay.",
-    "chinese": "額外津貼;附加福利",
+    "chinese": "額外津貼；附加福利",
     "synonyms": "",
     "root": "perquirere (to search diligently), from Latin per- (thoroughly) + quaerere (to seek)",
     "group": "quire = 追求",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A benefit given in addition to regular pay.",
-     "chinese": "額外津貼;附加福利"
+     "chinese": "額外津貼；附加福利"
     }
    },
    {
     "word": "query",
     "pos": "n./v.",
     "definition": "A question, especially one expressing doubt; to ask about.",
-    "chinese": "疑問;詢問",
+    "chinese": "疑問；詢問",
     "synonyms": "",
     "root": "quaerere (to seek, ask), from Latin",
     "group": "quire = 追求",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A question, especially one expressing doubt; to ask about.",
-     "chinese": "疑問;詢問"
+     "chinese": "疑問；詢問"
     }
    },
    {
@@ -569,4 +569,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"requisite": ["Requirement.", "必需品；必要條件"], "acquired": ["Gained through effort or experience.", "習得的；後天獲得的"], "acquisitive": ["Excessively interested in acquiring money or possessions.", "貪得無厭的;渴望獲取的"], "acquisitiveness": ["An excessive desire to acquire and possess things.", "貪婪;佔有慾"], "conquer": ["To overcome or defeat by force; to gain control of by military force.", "征服;戰勝"], "disquisition": ["A long, formal discourse on a subject.", "長篇論述;專題論文"], "exquisite": ["Extremely beautiful or finely made.", "精緻的;絕美的"], "inquisitor": ["One who inquires, especially in a hostile manner.", "審問者；質詢者"], "perquisite": ["A benefit given in addition to regular pay.", "額外津貼;附加福利"], "query": ["A question, especially one expressing doubt; to ask about.", "疑問;詢問"], "questionable": ["Doubtful or uncertain.", "可疑的；有問題的"], "qui vive": ["A state of alertness, as in the phrase 'on the qui vive'.", "警覺狀態(片語:on the qui vive)"], "requisition": ["A demand for goods, usually made by an authority.", "徵用；請購"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"requisite": ["Requirement.", "必需品；必要條件"], "acquired": ["Gained through effort or experience.", "習得的；後天獲得的"], "acquisitive": ["Excessively interested in acquiring money or possessions.", "貪得無厭的；渴望獲取的"], "acquisitiveness": ["An excessive desire to acquire and possess things.", "貪婪；佔有慾"], "conquer": ["To overcome or defeat by force; to gain control of by military force.", "征服；戰勝"], "disquisition": ["A long, formal discourse on a subject.", "長篇論述；專題論文"], "exquisite": ["Extremely beautiful or finely made.", "精緻的；絕美的"], "inquisitor": ["One who inquires, especially in a hostile manner.", "審問者；質詢者"], "perquisite": ["A benefit given in addition to regular pay.", "額外津貼；附加福利"], "query": ["A question, especially one expressing doubt; to ask about.", "疑問；詢問"], "questionable": ["Doubtful or uncertain.", "可疑的；有問題的"], "qui vive": ["A state of alertness, as in the phrase 'on the qui vive'.", "警覺狀態(片語:on the qui vive)"], "requisition": ["A demand for goods, usually made by an authority.", "徵用；請購"]});

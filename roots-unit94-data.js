@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "cable",
     "pos": "n.",
     "definition": "A thick rope or bundle of wires; a message sent by underwater telegraph.",
-    "chinese": "纜繩;電報",
+    "chinese": "纜繩；電報",
     "synonyms": "",
     "root": "capulum (halter, from Latin)",
     "group": "cap；capt = 抓取",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A thick rope or bundle of wires; a message sent by underwater telegraph.",
-     "chinese": "纜繩;電報"
+     "chinese": "纜繩；電報"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "capitulation",
     "pos": "n.",
     "definition": "The act of surrendering or giving in, especially under agreed conditions.",
-    "chinese": "投降;屈服",
+    "chinese": "投降；屈服",
     "synonyms": "",
     "root": "capitulum (chapter, heading, from Latin)",
     "group": "cap；capt = 抓取",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of surrendering or giving in, especially under agreed conditions.",
-     "chinese": "投降;屈服"
+     "chinese": "投降；屈服"
     }
    },
    {
     "word": "caprice",
     "pos": "n.",
     "definition": "A sudden and unaccountable change of mood or behavior.",
-    "chinese": "反覆無常;心血來潮",
+    "chinese": "反覆無常；心血來潮",
     "synonyms": "",
     "root": "capriccio (whim, from Italian)",
     "group": "cap；capt = 抓取",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden and unaccountable change of mood or behavior.",
-     "chinese": "反覆無常;心血來潮"
+     "chinese": "反覆無常；心血來潮"
     }
    },
    {
     "word": "captiousness",
     "pos": "n.",
     "definition": "The tendency to find fault or raise petty objections.",
-    "chinese": "吹毛求疵;愛挑剔",
+    "chinese": "吹毛求疵；愛挑剔",
     "synonyms": "",
     "root": "capere (to seize, catch), from Latin",
     "group": "cap；capt = 抓取",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The tendency to find fault or raise petty objections.",
-     "chinese": "吹毛求疵;愛挑剔"
+     "chinese": "吹毛求疵；愛挑剔"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "captivated",
     "pos": "adj.",
     "definition": "Fascinated or attracted intensely.",
-    "chinese": "著迷的;被迷住的",
+    "chinese": "著迷的；被迷住的",
     "synonyms": "",
     "root": "capere (to seize, catch), from Latin",
     "group": "cap；capt = 抓取",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Fascinated or attracted intensely.",
-     "chinese": "著迷的;被迷住的"
+     "chinese": "著迷的；被迷住的"
     }
    },
    {
     "word": "captivating",
     "pos": "adj.",
     "definition": "Capturing interest or attention; charming.",
-    "chinese": "迷人的;引人入勝的",
+    "chinese": "迷人的；引人入勝的",
     "synonyms": "",
     "root": "capere (to seize, catch), from Latin",
     "group": "cap；capt = 抓取",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capturing interest or attention; charming.",
-     "chinese": "迷人的;引人入勝的"
+     "chinese": "迷人的；引人入勝的"
     }
    },
    {
     "word": "chapter",
     "pos": "n.",
     "definition": "A main division of a book; a distinct period in someone's life.",
-    "chinese": "章節;階段",
+    "chinese": "章節；階段",
     "synonyms": "",
     "root": "capitulum (little head, from Latin)",
     "group": "cap；capt = 抓取",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A main division of a book; a distinct period in someone's life.",
-     "chinese": "章節;階段"
+     "chinese": "章節；階段"
     }
    },
    {
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
     "word": "emancipate",
     "pos": "v.",
     "definition": "To free someone from legal, social, or political restriction.",
-    "chinese": "解放;使自由",
+    "chinese": "解放；使自由",
     "synonyms": "",
     "root": "e- (out) + manus (hand) + capere (to take), from Latin",
     "group": "cap；capt = 抓取",
@@ -383,14 +383,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To free someone from legal, social, or political restriction.",
-     "chinese": "解放;使自由"
+     "chinese": "解放；使自由"
     }
    },
    {
     "word": "exceptional",
     "pos": "adj.",
     "definition": "Unusually excellent; not typical.",
-    "chinese": "傑出的;異常的",
+    "chinese": "傑出的；異常的",
     "synonyms": "",
     "root": "ex- (out) + capere (to take), from Latin",
     "group": "cap；capt = 抓取",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unusually excellent; not typical.",
-     "chinese": "傑出的;異常的"
+     "chinese": "傑出的；異常的"
     }
    },
    {
     "word": "municipal",
     "pos": "adj.",
     "definition": "Relating to a town or city with local self-government.",
-    "chinese": "市立的;市政的",
+    "chinese": "市立的；市政的",
     "synonyms": "",
     "root": "municipium (self-governing town), from Latin munia (duties) + capere (to take)",
     "group": "cap；capt = 抓取",
@@ -421,7 +421,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a town or city with local self-government.",
-     "chinese": "市立的;市政的"
+     "chinese": "市立的；市政的"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "perceptible",
     "pos": "adj.",
     "definition": "Able to be noticed or perceived.",
-    "chinese": "可感知的;可察覺的",
+    "chinese": "可感知的；可察覺的",
     "synonyms": "",
     "root": "percipere (to perceive), from Latin per- (thoroughly) + capere (to seize)",
     "group": "cap；capt = 抓取",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to be noticed or perceived.",
-     "chinese": "可感知的;可察覺的"
+     "chinese": "可感知的；可察覺的"
     }
    },
    {
     "word": "perceptive",
     "pos": "adj.",
     "definition": "Having or showing keen insight or understanding.",
-    "chinese": "有洞察力的;敏銳的",
+    "chinese": "有洞察力的；敏銳的",
     "synonyms": "",
     "root": "percipere (to perceive), from Latin per- (thoroughly) + capere (to seize)",
     "group": "cap；capt = 抓取",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing keen insight or understanding.",
-     "chinese": "有洞察力的;敏銳的"
+     "chinese": "有洞察力的；敏銳的"
     }
    },
    {
     "word": "percipient",
     "pos": "adj./n.",
     "definition": "Having or showing keen perception or insight.",
-    "chinese": "有感知力的;有洞察力的人",
+    "chinese": "有感知力的；有洞察力的人",
     "synonyms": "",
     "root": "percipere (to perceive), from Latin per- (thoroughly) + capere (to seize)",
     "group": "cap；capt = 抓取",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing keen perception or insight.",
-     "chinese": "有感知力的;有洞察力的人"
+     "chinese": "有感知力的；有洞察力的人"
     }
    },
    {
     "word": "recap",
     "pos": "n./v.",
     "definition": "A brief summary of what has previously been stated.",
-    "chinese": "摘要;概括",
+    "chinese": "摘要；概括",
     "synonyms": "",
     "root": "shortened form of recapitulation, from Latin re- (again) + capitulum (chapter)",
     "group": "cap；capt = 抓取",
@@ -516,14 +516,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A brief summary of what has previously been stated.",
-     "chinese": "摘要;概括"
+     "chinese": "摘要；概括"
     }
    },
    {
     "word": "recapitulation",
     "pos": "n.",
     "definition": "A summary of the main points at the end of a discussion or text.",
-    "chinese": "概述;總結",
+    "chinese": "概述；總結",
     "synonyms": "",
     "root": "recapitulare (to sum up), from Latin re- (again) + capitulum (chapter)",
     "group": "cap；capt = 抓取",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A summary of the main points at the end of a discussion or text.",
-     "chinese": "概述;總結"
+     "chinese": "概述；總結"
     }
    },
    {
@@ -1259,4 +1259,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perceive": ["To understand, know, become aware of.", "察覺；感知"], "incipient": ["Just beginning to exist.", "初期的"], "incapacitated": ["Disabled, made unfit.", "失去能力的"], "susceptible": ["Easily affected.", "易受影響的"], "captious": ["Made for the sake of quarreling; quibbling.", "吹毛求疵的"], "inception": ["The start, the beginning of something.", "開端"], "anticipate": ["To expect or predict.", "預期；期待"], "cable": ["A thick rope or bundle of wires; a message sent by underwater telegraph.", "纜繩;電報"], "capacious": ["Very spacious.", "寬敞的；容量大的"], "capitulation": ["The act of surrendering or giving in, especially under agreed conditions.", "投降;屈服"], "caprice": ["A sudden and unaccountable change of mood or behavior.", "反覆無常;心血來潮"], "captiousness": ["The tendency to find fault or raise petty objections.", "吹毛求疵;愛挑剔"], "captivate": ["To get the attention of, hold.", "使著迷；迷住"], "captivated": ["Fascinated or attracted intensely.", "著迷的;被迷住的"], "captivating": ["Capturing interest or attention; charming.", "迷人的;引人入勝的"], "chapter": ["A main division of a book; a distinct period in someone's life.", "章節;階段"], "conceit": ["Feelings of excessive pride.", "自負；自大"], "conceptualize": ["To form a concept or idea of something in one's mind.", "構思；使概念化"], "deceptive": ["Misleading or giving a false impression.", "有欺騙性的；誤導性的"], "emancipate": ["To free someone from legal, social, or political restriction.", "解放;使自由"], "exceptional": ["Unusually excellent; not typical.", "傑出的;異常的"], "municipal": ["Relating to a town or city with local self-government.", "市立的;市政的"], "occupy": ["To take up space or time.", "佔用；佔據"], "perceptible": ["Able to be noticed or perceived.", "可感知的;可察覺的"], "perceptive": ["Having or showing keen insight or understanding.", "有洞察力的;敏銳的"], "percipient": ["Having or showing keen perception or insight.", "有感知力的;有洞察力的人"], "recap": ["A brief summary of what has previously been stated.", "摘要;概括"], "recapitulation": ["A summary of the main points at the end of a discussion or text.", "概述;總結"], "receptive": ["Open to new ideas.", "樂於接受的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perceive": ["To understand, know, become aware of.", "察覺；感知"], "incipient": ["Just beginning to exist.", "初期的"], "incapacitated": ["Disabled, made unfit.", "失去能力的"], "susceptible": ["Easily affected.", "易受影響的"], "captious": ["Made for the sake of quarreling; quibbling.", "吹毛求疵的"], "inception": ["The start, the beginning of something.", "開端"], "anticipate": ["To expect or predict.", "預期；期待"], "cable": ["A thick rope or bundle of wires; a message sent by underwater telegraph.", "纜繩；電報"], "capacious": ["Very spacious.", "寬敞的；容量大的"], "capitulation": ["The act of surrendering or giving in, especially under agreed conditions.", "投降；屈服"], "caprice": ["A sudden and unaccountable change of mood or behavior.", "反覆無常；心血來潮"], "captiousness": ["The tendency to find fault or raise petty objections.", "吹毛求疵；愛挑剔"], "captivate": ["To get the attention of, hold.", "使著迷；迷住"], "captivated": ["Fascinated or attracted intensely.", "著迷的；被迷住的"], "captivating": ["Capturing interest or attention; charming.", "迷人的；引人入勝的"], "chapter": ["A main division of a book; a distinct period in someone's life.", "章節；階段"], "conceit": ["Feelings of excessive pride.", "自負；自大"], "conceptualize": ["To form a concept or idea of something in one's mind.", "構思；使概念化"], "deceptive": ["Misleading or giving a false impression.", "有欺騙性的；誤導性的"], "emancipate": ["To free someone from legal, social, or political restriction.", "解放；使自由"], "exceptional": ["Unusually excellent; not typical.", "傑出的；異常的"], "municipal": ["Relating to a town or city with local self-government.", "市立的；市政的"], "occupy": ["To take up space or time.", "佔用；佔據"], "perceptible": ["Able to be noticed or perceived.", "可感知的；可察覺的"], "perceptive": ["Having or showing keen insight or understanding.", "有洞察力的；敏銳的"], "percipient": ["Having or showing keen perception or insight.", "有感知力的；有洞察力的人"], "recap": ["A brief summary of what has previously been stated.", "摘要；概括"], "recapitulation": ["A summary of the main points at the end of a discussion or text.", "概述；總結"], "receptive": ["Open to new ideas.", "樂於接受的"]});

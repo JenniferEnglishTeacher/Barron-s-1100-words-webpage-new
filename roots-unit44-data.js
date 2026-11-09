@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "instill",
     "pos": "v.",
     "definition": "To gradually establish an idea or feeling in someone's mind.",
-    "chinese": "灌輸;逐漸養成",
+    "chinese": "灌輸；逐漸養成",
     "synonyms": "",
     "root": "in- (into) + stillare (to drip), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gradually establish an idea or feeling in someone's mind.",
-     "chinese": "灌輸;逐漸養成"
+     "chinese": "灌輸；逐漸養成"
     }
    },
    {
     "word": "insurgence",
     "pos": "n.",
     "definition": "An act of rising in active revolt.",
-    "chinese": "叛亂;起義",
+    "chinese": "叛亂；起義",
     "synonyms": "",
     "root": "in- (into) + surgere (to rise), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An act of rising in active revolt.",
-     "chinese": "叛亂;起義"
+     "chinese": "叛亂；起義"
     }
    },
    {
     "word": "insurgency",
     "pos": "n.",
     "definition": "An active revolt against an established authority.",
-    "chinese": "叛亂;暴動",
+    "chinese": "叛亂；暴動",
     "synonyms": "",
     "root": "in- (into) + surgere (to rise), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An active revolt against an established authority.",
-     "chinese": "叛亂;暴動"
+     "chinese": "叛亂；暴動"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "insurrection",
     "pos": "n.",
     "definition": "A violent uprising against authority.",
-    "chinese": "暴動;起義",
+    "chinese": "暴動；起義",
     "synonyms": "",
     "root": "in- (into) + surgere (to rise), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A violent uprising against authority.",
-     "chinese": "暴動;起義"
+     "chinese": "暴動；起義"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "intumescence",
     "pos": "n.",
     "definition": "A swelling; the process of swelling up.",
-    "chinese": "腫脹;膨脹",
+    "chinese": "腫脹；膨脹",
     "synonyms": "",
     "root": "in- (into) + tumescere (to begin to swell), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A swelling; the process of swelling up.",
-     "chinese": "腫脹;膨脹"
+     "chinese": "腫脹；膨脹"
     }
    },
    {
@@ -219,7 +219,7 @@ window.FLASHCARD_UNITS = {
     "word": "inundation",
     "pos": "n.",
     "definition": "An overwhelming abundance; a flood.",
-    "chinese": "氾濫;大量湧入",
+    "chinese": "氾濫；大量湧入",
     "synonyms": "",
     "root": "in- (into) + undare (to flow, surge), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An overwhelming abundance; a flood.",
-     "chinese": "氾濫;大量湧入"
+     "chinese": "氾濫；大量湧入"
     }
    },
    {
@@ -259,7 +259,7 @@ window.FLASHCARD_UNITS = {
     "word": "inured",
     "pos": "adj.",
     "definition": "Accustomed to something unpleasant through repeated exposure.",
-    "chinese": "習以為常的;麻木的",
+    "chinese": "習以為常的；麻木的",
     "synonyms": "",
     "root": "in- (into) + euvre (use, work), from Old French",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -271,14 +271,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Accustomed to something unpleasant through repeated exposure.",
-     "chinese": "習以為常的;麻木的"
+     "chinese": "習以為常的；麻木的"
     }
    },
    {
     "word": "invade",
     "pos": "v.",
     "definition": "To enter forcibly as an enemy; to intrude.",
-    "chinese": "入侵;侵犯",
+    "chinese": "入侵；侵犯",
     "synonyms": "",
     "root": "in- (into) + vadere (to go), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To enter forcibly as an enemy; to intrude.",
-     "chinese": "入侵;侵犯"
+     "chinese": "入侵；侵犯"
     }
    },
    {
@@ -451,7 +451,7 @@ window.FLASHCARD_UNITS = {
     "word": "invigorate",
     "pos": "v.",
     "definition": "To give strength or energy to.",
-    "chinese": "使充滿活力;振奮",
+    "chinese": "使充滿活力；振奮",
     "synonyms": "",
     "root": "in- (into) + vigor (strength), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -463,7 +463,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give strength or energy to.",
-     "chinese": "使充滿活力;振奮"
+     "chinese": "使充滿活力；振奮"
     }
    },
    {
@@ -489,7 +489,7 @@ window.FLASHCARD_UNITS = {
     "word": "involve",
     "pos": "v.",
     "definition": "To include as a necessary part or consequence.",
-    "chinese": "包含;牽涉",
+    "chinese": "包含；牽涉",
     "synonyms": "",
     "root": "in- (in) + volvo (roll), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To include as a necessary part or consequence.",
-     "chinese": "包含;牽涉"
+     "chinese": "包含；牽涉"
     }
    },
    {
@@ -1177,4 +1177,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"instill": ["To gradually establish an idea or feeling in someone's mind.", "灌輸;逐漸養成"], "insurgence": ["An act of rising in active revolt.", "叛亂;起義"], "insurgency": ["An active revolt against an established authority.", "叛亂;暴動"], "insurgent": ["One who rebels.", "叛亂分子；起義者"], "insurrection": ["A violent uprising against authority.", "暴動;起義"], "intentional": ["Done on purpose.", "故意的"], "intimidate": ["To overawe.", "恐嚇"], "intricate": ["Very detailed or complex; complicated in design or structure.", "錯綜複雜的；精細的"], "intriguing": ["Arousing curiosity or interest.", "引人入勝的；耐人尋味的"], "intumescence": ["A swelling; the process of swelling up.", "腫脹;膨脹"], "inundate": ["To flood:be full of.", "淹沒；泛濫"], "inundation": ["An overwhelming abundance; a flood.", "氾濫;大量湧入"], "inure": ["To cause someone to become accustomed to a situation.", "使習慣於"], "inured": ["Accustomed to something unpleasant through repeated exposure.", "習以為常的;麻木的"], "invade": ["To enter forcibly as an enemy; to intrude.", "入侵;侵犯"], "invasive": ["Tending to intrude on or interfere with something, often in an unwelcome or harmful way.", "侵入性的"], "invective": ["Insulting, abusive speech.", "辱罵；猛烈抨擊"], "inveigh": ["To attack verbally.", "猛烈抨擊；痛罵"], "invent": ["To create something new.", "發明"], "inventive": ["Having the ability to create new things or ideas; creative and original.", "有創造力的；善於創新的"], "investigation": ["Systematic inquiries to uncover facts.", "調查"], "investment": ["The action of putting money into something for future benefit.", "投資"], "inveterate": ["Habitual, firmly established.", "根深蒂固的；積習的"], "invigorate": ["To give strength or energy to.", "使充滿活力;振奮"], "invigorating": ["Making one feel stronger and more energetic.", "令人精神振奮的"], "involve": ["To include as a necessary part or consequence.", "包含;牽涉"], "reincarnation": ["A second or new birth.", "輪迴轉世"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"instill": ["To gradually establish an idea or feeling in someone's mind.", "灌輸；逐漸養成"], "insurgence": ["An act of rising in active revolt.", "叛亂；起義"], "insurgency": ["An active revolt against an established authority.", "叛亂；暴動"], "insurgent": ["One who rebels.", "叛亂分子；起義者"], "insurrection": ["A violent uprising against authority.", "暴動；起義"], "intentional": ["Done on purpose.", "故意的"], "intimidate": ["To overawe.", "恐嚇"], "intricate": ["Very detailed or complex; complicated in design or structure.", "錯綜複雜的；精細的"], "intriguing": ["Arousing curiosity or interest.", "引人入勝的；耐人尋味的"], "intumescence": ["A swelling; the process of swelling up.", "腫脹；膨脹"], "inundate": ["To flood:be full of.", "淹沒；泛濫"], "inundation": ["An overwhelming abundance; a flood.", "氾濫；大量湧入"], "inure": ["To cause someone to become accustomed to a situation.", "使習慣於"], "inured": ["Accustomed to something unpleasant through repeated exposure.", "習以為常的；麻木的"], "invade": ["To enter forcibly as an enemy; to intrude.", "入侵；侵犯"], "invasive": ["Tending to intrude on or interfere with something, often in an unwelcome or harmful way.", "侵入性的"], "invective": ["Insulting, abusive speech.", "辱罵；猛烈抨擊"], "inveigh": ["To attack verbally.", "猛烈抨擊；痛罵"], "invent": ["To create something new.", "發明"], "inventive": ["Having the ability to create new things or ideas; creative and original.", "有創造力的；善於創新的"], "investigation": ["Systematic inquiries to uncover facts.", "調查"], "investment": ["The action of putting money into something for future benefit.", "投資"], "inveterate": ["Habitual, firmly established.", "根深蒂固的；積習的"], "invigorate": ["To give strength or energy to.", "使充滿活力；振奮"], "invigorating": ["Making one feel stronger and more energetic.", "令人精神振奮的"], "involve": ["To include as a necessary part or consequence.", "包含；牽涉"], "reincarnation": ["A second or new birth.", "輪迴轉世"]});

@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "confuse",
     "pos": "v.",
     "definition": "To cause someone to be unable to understand clearly.",
-    "chinese": "使困惑;混淆",
+    "chinese": "使困惑；混淆",
     "synonyms": "",
     "root": "con- (together) + fundere (to pour), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause someone to be unable to understand clearly.",
-     "chinese": "使困惑;混淆"
+     "chinese": "使困惑；混淆"
     }
    },
    {
     "word": "defuse",
     "pos": "v.",
     "definition": "To remove the fuse from a bomb; to reduce tension.",
-    "chinese": "拆除引信;緩和(局勢)",
+    "chinese": "拆除引信；緩和(局勢)",
     "synonyms": "",
     "root": "de- (removal of) + fuse, from Latin fusus",
     "group": "fund；fus = 傾倒；灌注",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To remove the fuse from a bomb; to reduce tension.",
-     "chinese": "拆除引信;緩和(局勢)"
+     "chinese": "拆除引信；緩和(局勢)"
     }
    },
    {
     "word": "effusion",
     "pos": "n.",
     "definition": "An unrestrained expression of emotion.",
-    "chinese": "(情感的)流露;湧現",
+    "chinese": "(情感的)流露；湧現",
     "synonyms": "",
     "root": "ex- (out) + fundere (to pour), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unrestrained expression of emotion.",
-     "chinese": "(情感的)流露;湧現"
+     "chinese": "(情感的)流露；湧現"
     }
    },
    {
     "word": "effusive",
     "pos": "adj.",
     "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
-    "chinese": "熱情洋溢的;過分熱情的",
+    "chinese": "熱情洋溢的；過分熱情的",
     "synonyms": "",
     "root": "ex- (out) + fundere (to pour), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
-     "chinese": "熱情洋溢的;過分熱情的"
+     "chinese": "熱情洋溢的；過分熱情的"
     }
    },
    {
     "word": "funereal",
     "pos": "adj.",
     "definition": "Having the mournful character of a funeral.",
-    "chinese": "喪禮般的;陰鬱的",
+    "chinese": "喪禮般的；陰鬱的",
     "synonyms": "",
     "root": "funus (funeral), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the mournful character of a funeral.",
-     "chinese": "喪禮般的;陰鬱的"
+     "chinese": "喪禮般的；陰鬱的"
     }
    },
    {
     "word": "fuse",
     "pos": "n./v.",
     "definition": "A safety device that breaks a circuit; to join by melting.",
-    "chinese": "保險絲;熔合",
+    "chinese": "保險絲；熔合",
     "synonyms": "",
     "root": "fusus (poured, molten), from Latin fundere",
     "group": "fund；fus = 傾倒；灌注",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A safety device that breaks a circuit; to join by melting.",
-     "chinese": "保險絲;熔合"
+     "chinese": "保險絲；熔合"
     }
    },
    {
     "word": "fustigate",
     "pos": "v.",
     "definition": "To criticize harshly; to beat with a stick.",
-    "chinese": "嚴厲抨擊;痛打",
+    "chinese": "嚴厲抨擊；痛打",
     "synonyms": "",
     "root": "fustis (stick, club), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -212,14 +212,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To criticize harshly; to beat with a stick.",
-     "chinese": "嚴厲抨擊;痛打"
+     "chinese": "嚴厲抨擊；痛打"
     }
    },
    {
     "word": "infuse",
     "pos": "v.",
     "definition": "To fill with a quality; to steep something to extract flavor.",
-    "chinese": "灌輸;浸泡",
+    "chinese": "灌輸；浸泡",
     "synonyms": "",
     "root": "in- (into) + fundere (to pour), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To fill with a quality; to steep something to extract flavor.",
-     "chinese": "灌輸;浸泡"
+     "chinese": "灌輸；浸泡"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "obfuscation",
     "pos": "n.",
     "definition": "The act of making something unclear or difficult to understand.",
-    "chinese": "使混淆;含糊其辭",
+    "chinese": "使混淆；含糊其辭",
     "synonyms": "",
     "root": "ob- (over) + fuscare (to darken), from Latin fuscus (dark)",
     "group": "fund；fus = 傾倒；灌注",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of making something unclear or difficult to understand.",
-     "chinese": "使混淆;含糊其辭"
+     "chinese": "使混淆；含糊其辭"
     }
    },
    {
@@ -335,7 +335,7 @@ window.FLASHCARD_UNITS = {
     "word": "subfuscous",
     "pos": "adj.",
     "definition": "Dull or dusky in color; drab.",
-    "chinese": "暗淡的;褐灰色的",
+    "chinese": "暗淡的；褐灰色的",
     "synonyms": "",
     "root": "sub- (somewhat) + fuscus (dark, dusky), from Latin",
     "group": "fund；fus = 傾倒；灌注",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull or dusky in color; drab.",
-     "chinese": "暗淡的;褐灰色的"
+     "chinese": "暗淡的；褐灰色的"
     }
    },
    {
     "word": "suffuse",
     "pos": "v.",
     "definition": "To spread throughout or over, as with color or light.",
-    "chinese": "瀰漫;充滿",
+    "chinese": "瀰漫；充滿",
     "synonyms": "",
     "root": "suffundere, from Latin sub- (from below) + fundere (to pour)",
     "group": "fund；fus = 傾倒；灌注",
@@ -366,7 +366,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To spread throughout or over, as with color or light.",
-     "chinese": "瀰漫;充滿"
+     "chinese": "瀰漫；充滿"
     }
    }
   ],
@@ -831,4 +831,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"profuse": ["Abundant, overflowing.", "豐富的；大量的"], "diffuse": ["Spread out, not concise; wordy.", "冗長散漫的；擴散的"], "confounding": ["Puzzling; baffling.", "令人困惑的"], "confound": ["To frustrate, confuse.", "使困惑；使混淆"], "confuse": ["To cause someone to be unable to understand clearly.", "使困惑;混淆"], "defuse": ["To remove the fuse from a bomb; to reduce tension.", "拆除引信;緩和(局勢)"], "effusion": ["An unrestrained expression of emotion.", "(情感的)流露;湧現"], "effusive": ["Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.", "熱情洋溢的;過分熱情的"], "funereal": ["Having the mournful character of a funeral.", "喪禮般的;陰鬱的"], "fuse": ["A safety device that breaks a circuit; to join by melting.", "保險絲;熔合"], "fustigate": ["To criticize harshly; to beat with a stick.", "嚴厲抨擊;痛打"], "infuse": ["To fill with a quality; to steep something to extract flavor.", "灌輸;浸泡"], "infusion": ["An injection of one substance into another.", "注入；灌輸"], "obfuscate": ["To confuse, bewilder, or make unclear.", "使模糊；使困惑"], "obfuscation": ["The act of making something unclear or difficult to understand.", "使混淆;含糊其辭"], "profusion": ["A large quantity of something.", "豐富；大量"], "refuse": ["To decline or reject.", "拒絕"], "subfuscous": ["Dull or dusky in color; drab.", "暗淡的;褐灰色的"], "suffuse": ["To spread throughout or over, as with color or light.", "瀰漫;充滿"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"profuse": ["Abundant, overflowing.", "豐富的；大量的"], "diffuse": ["Spread out, not concise; wordy.", "冗長散漫的；擴散的"], "confounding": ["Puzzling; baffling.", "令人困惑的"], "confound": ["To frustrate, confuse.", "使困惑；使混淆"], "confuse": ["To cause someone to be unable to understand clearly.", "使困惑；混淆"], "defuse": ["To remove the fuse from a bomb; to reduce tension.", "拆除引信；緩和(局勢)"], "effusion": ["An unrestrained expression of emotion.", "(情感的)流露；湧現"], "effusive": ["Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.", "熱情洋溢的；過分熱情的"], "funereal": ["Having the mournful character of a funeral.", "喪禮般的；陰鬱的"], "fuse": ["A safety device that breaks a circuit; to join by melting.", "保險絲；熔合"], "fustigate": ["To criticize harshly; to beat with a stick.", "嚴厲抨擊；痛打"], "infuse": ["To fill with a quality; to steep something to extract flavor.", "灌輸；浸泡"], "infusion": ["An injection of one substance into another.", "注入；灌輸"], "obfuscate": ["To confuse, bewilder, or make unclear.", "使模糊；使困惑"], "obfuscation": ["The act of making something unclear or difficult to understand.", "使混淆；含糊其辭"], "profusion": ["A large quantity of something.", "豐富；大量"], "refuse": ["To decline or reject.", "拒絕"], "subfuscous": ["Dull or dusky in color; drab.", "暗淡的；褐灰色的"], "suffuse": ["To spread throughout or over, as with color or light.", "瀰漫；充滿"]});

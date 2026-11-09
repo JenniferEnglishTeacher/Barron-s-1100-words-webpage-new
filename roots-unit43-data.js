@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "incorporate",
     "pos": "v.",
     "definition": "To include something as part of a whole.",
-    "chinese": "納入;合併",
+    "chinese": "納入；合併",
     "synonyms": "",
     "root": "in- (into) + corpus (body), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To include something as part of a whole.",
-     "chinese": "納入;合併"
+     "chinese": "納入；合併"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "incriminate",
     "pos": "v.",
     "definition": "To make someone appear guilty of a crime.",
-    "chinese": "使負罪;控告",
+    "chinese": "使負罪；控告",
     "synonyms": "",
     "root": "in- (into) + crimen (crime), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make someone appear guilty of a crime.",
-     "chinese": "使負罪;控告"
+     "chinese": "使負罪；控告"
     }
    },
    {
     "word": "inculcate",
     "pos": "v.",
     "definition": "To instill an idea or habit through persistent instruction.",
-    "chinese": "灌輸;諄諄教誨",
+    "chinese": "灌輸；諄諄教誨",
     "synonyms": "",
     "root": "in- (into) + calcare (to trample), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To instill an idea or habit through persistent instruction.",
-     "chinese": "灌輸;諄諄教誨"
+     "chinese": "灌輸；諄諄教誨"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "infer",
     "pos": "v.",
     "definition": "To deduce or conclude from evidence and reasoning.",
-    "chinese": "推斷;推論",
+    "chinese": "推斷；推論",
     "synonyms": "",
     "root": "in- (into) + ferre (to carry), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deduce or conclude from evidence and reasoning.",
-     "chinese": "推斷;推論"
+     "chinese": "推斷；推論"
     }
    },
    {
     "word": "inflammatory",
     "pos": "adj.",
     "definition": "Arousing strong feelings, especially anger; causing inflammation.",
-    "chinese": "煽動性的;引起發炎的",
+    "chinese": "煽動性的；引起發炎的",
     "synonyms": "",
     "root": "in- (in) + flamma (flame), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -309,14 +309,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arousing strong feelings, especially anger; causing inflammation.",
-     "chinese": "煽動性的;引起發炎的"
+     "chinese": "煽動性的；引起發炎的"
     }
    },
    {
     "word": "inflate",
     "pos": "v.",
     "definition": "To fill with air or gas; to exaggerate.",
-    "chinese": "充氣;誇大",
+    "chinese": "充氣；誇大",
     "synonyms": "",
     "root": "in- (into) + flare (to blow), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To fill with air or gas; to exaggerate.",
-     "chinese": "充氣;誇大"
+     "chinese": "充氣；誇大"
     }
    },
    {
@@ -394,7 +394,7 @@ window.FLASHCARD_UNITS = {
     "word": "infringe",
     "pos": "v.",
     "definition": "To violate a right, law, or agreement.",
-    "chinese": "侵犯;違反",
+    "chinese": "侵犯；違反",
     "synonyms": "",
     "root": "in- (into) + frangere (to break), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -406,14 +406,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To violate a right, law, or agreement.",
-     "chinese": "侵犯;違反"
+     "chinese": "侵犯；違反"
     }
    },
    {
     "word": "infuse",
     "pos": "v.",
     "definition": "To fill with a quality; to steep something to extract flavor.",
-    "chinese": "灌輸;浸泡",
+    "chinese": "灌輸；浸泡",
     "synonyms": "",
     "root": "in- (into) + fundere (to pour), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -425,7 +425,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To fill with a quality; to steep something to extract flavor.",
-     "chinese": "灌輸;浸泡"
+     "chinese": "灌輸；浸泡"
     }
    },
    {
@@ -489,7 +489,7 @@ window.FLASHCARD_UNITS = {
     "word": "ingrain",
     "pos": "v.",
     "definition": "To fix an idea, habit, or attitude deeply into someone.",
-    "chinese": "使根深蒂固;深植",
+    "chinese": "使根深蒂固；深植",
     "synonyms": "",
     "root": "in- (into) + grain (dye), from Old French",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To fix an idea, habit, or attitude deeply into someone.",
-     "chinese": "使根深蒂固;深植"
+     "chinese": "使根深蒂固；深植"
     }
    },
    {
@@ -565,7 +565,7 @@ window.FLASHCARD_UNITS = {
     "word": "ingress",
     "pos": "n.",
     "definition": "The act of entering; a means of entry.",
-    "chinese": "進入;入口",
+    "chinese": "進入；入口",
     "synonyms": "",
     "root": "in- (in) + gradi (to step), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -577,7 +577,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of entering; a means of entry.",
-     "chinese": "進入;入口"
+     "chinese": "進入；入口"
     }
    },
    {
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "word": "inseminate",
     "pos": "v.",
     "definition": "To introduce semen into a female's reproductive tract for fertilization.",
-    "chinese": "使受精;授精",
+    "chinese": "使受精；授精",
     "synonyms": "",
     "root": "in- (into) + semen (seed), from Latin",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -847,7 +847,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To introduce semen into a female's reproductive tract for fertilization.",
-     "chinese": "使受精;授精"
+     "chinese": "使受精；授精"
     }
    },
    {
@@ -873,7 +873,7 @@ window.FLASHCARD_UNITS = {
     "word": "insightful",
     "pos": "adj.",
     "definition": "Having or showing deep understanding.",
-    "chinese": "有洞察力的;深刻的",
+    "chinese": "有洞察力的；深刻的",
     "synonyms": "",
     "root": "in- (into) + sight, from Old English",
     "group": "in — in / into / upon = 在內；進入；施加於；朝向",
@@ -885,7 +885,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing deep understanding.",
-     "chinese": "有洞察力的;深刻的"
+     "chinese": "有洞察力的；深刻的"
     }
    },
    {
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incisive": ["Clear, direct.", "敏銳的；深刻的"], "incite": ["To encourage or stir up (violent or unlawful behavior).", "煽動；激起"], "inclination": ["A tendency, propensity.", "傾向；意向"], "incorporate": ["To include something as part of a whole.", "納入;合併"], "increase": ["To become or make greater in size or amount.", "增加"], "increment": ["An enlargement; the process of increasing.", "增量；增額"], "incriminate": ["To make someone appear guilty of a crime.", "使負罪;控告"], "inculcate": ["To instill an idea or habit through persistent instruction.", "灌輸;諄諄教誨"], "incumbent": ["Morally required.", "負有責任的；現任的"], "indicate": ["To point out or show.", "指出；顯示"], "indict": ["To accuse.", "控告；起訴"], "indoctrinate": ["To teach certain principles.", "灌輸；教導"], "induce": ["To bring about, stimulate.", "誘導；引起"], "inebriated": ["Intoxicated, drunk.", "醉酒的"], "infer": ["To deduce or conclude from evidence and reasoning.", "推斷;推論"], "inflammatory": ["Arousing strong feelings, especially anger; causing inflammation.", "煽動性的;引起發炎的"], "inflate": ["To fill with air or gas; to exaggerate.", "充氣;誇大"], "inflicted": ["Caused to be suffered or endured.", "造成的(痛苦、傷害)"], "influence": ["The power to affect others.", "影響力"], "infraction": ["Violation.", "違規；違法"], "infringe": ["To violate a right, law, or agreement.", "侵犯;違反"], "infuse": ["To fill with a quality; to steep something to extract flavor.", "灌輸;浸泡"], "infusion": ["An injection of one substance into another.", "注入；灌輸"], "ingenious": ["Very clever or inventive.", "巧妙的；有創意的"], "ingenuous": ["Not devious; innocent and candid.", "率真的；天真無邪的"], "ingrain": ["To fix an idea, habit, or attitude deeply into someone.", "使根深蒂固;深植"], "ingrained": ["Firmly fixed or established; deep-rooted.", "根深蒂固的"], "ingratiate": ["To win confidence, charm.", "討好；迎合"], "ingratiating": ["Capable of winning favor.", "討好的；諂媚的"], "ingress": ["The act of entering; a means of entry.", "進入;入口"], "inhale": ["To breathe in air or another substance.", "吸入"], "inherent": ["Inborn.", "固有的；與生俱來的"], "inhibit": ["To hinder or restrain.", "抑制；阻礙"], "inhibition": ["Restraint.", "抑制；禁忌"], "initiate": ["To start, get going.", "開始；發起"], "injunction": ["An order of official warning.", "禁制令；強制令"], "innate": ["Natural.", "天生的；先天的"], "innovate": ["To do something in an unprecedented way.", "創新"], "innovation": ["Something new.", "創新"], "innovative": ["Introducing or using new methods, ideas, or products; original and creative.", "創新的"], "innuendo": ["An insinuation.", "暗諷；影射"], "inoculate": ["To introduce a vaccine into an organism to increase immunity.", "接種疫苗；預防注射"], "inquisitor": ["One who inquires, especially in a hostile manner.", "審問者；質詢者"], "inseminate": ["To introduce semen into a female's reproductive tract for fertilization.", "使受精;授精"], "insidious": ["Sly, seductive, treacherous.", "陰險的；潛伏的"], "insightful": ["Having or showing deep understanding.", "有洞察力的;深刻的"], "insinuate": ["To suggest indirectly or subtly.", "暗示；影射"], "inspect": ["To examine closely.", "檢查"], "inspirational": ["Providing motivation or encouragement.", "激勵人心的"], "instigate": ["To urge, goad.", "煽動；唆使"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incisive": ["Clear, direct.", "敏銳的；深刻的"], "incite": ["To encourage or stir up (violent or unlawful behavior).", "煽動；激起"], "inclination": ["A tendency, propensity.", "傾向；意向"], "incorporate": ["To include something as part of a whole.", "納入；合併"], "increase": ["To become or make greater in size or amount.", "增加"], "increment": ["An enlargement; the process of increasing.", "增量；增額"], "incriminate": ["To make someone appear guilty of a crime.", "使負罪；控告"], "inculcate": ["To instill an idea or habit through persistent instruction.", "灌輸；諄諄教誨"], "incumbent": ["Morally required.", "負有責任的；現任的"], "indicate": ["To point out or show.", "指出；顯示"], "indict": ["To accuse.", "控告；起訴"], "indoctrinate": ["To teach certain principles.", "灌輸；教導"], "induce": ["To bring about, stimulate.", "誘導；引起"], "inebriated": ["Intoxicated, drunk.", "醉酒的"], "infer": ["To deduce or conclude from evidence and reasoning.", "推斷；推論"], "inflammatory": ["Arousing strong feelings, especially anger; causing inflammation.", "煽動性的；引起發炎的"], "inflate": ["To fill with air or gas; to exaggerate.", "充氣；誇大"], "inflicted": ["Caused to be suffered or endured.", "造成的(痛苦、傷害)"], "influence": ["The power to affect others.", "影響力"], "infraction": ["Violation.", "違規；違法"], "infringe": ["To violate a right, law, or agreement.", "侵犯；違反"], "infuse": ["To fill with a quality; to steep something to extract flavor.", "灌輸；浸泡"], "infusion": ["An injection of one substance into another.", "注入；灌輸"], "ingenious": ["Very clever or inventive.", "巧妙的；有創意的"], "ingenuous": ["Not devious; innocent and candid.", "率真的；天真無邪的"], "ingrain": ["To fix an idea, habit, or attitude deeply into someone.", "使根深蒂固；深植"], "ingrained": ["Firmly fixed or established; deep-rooted.", "根深蒂固的"], "ingratiate": ["To win confidence, charm.", "討好；迎合"], "ingratiating": ["Capable of winning favor.", "討好的；諂媚的"], "ingress": ["The act of entering; a means of entry.", "進入；入口"], "inhale": ["To breathe in air or another substance.", "吸入"], "inherent": ["Inborn.", "固有的；與生俱來的"], "inhibit": ["To hinder or restrain.", "抑制；阻礙"], "inhibition": ["Restraint.", "抑制；禁忌"], "initiate": ["To start, get going.", "開始；發起"], "injunction": ["An order of official warning.", "禁制令；強制令"], "innate": ["Natural.", "天生的；先天的"], "innovate": ["To do something in an unprecedented way.", "創新"], "innovation": ["Something new.", "創新"], "innovative": ["Introducing or using new methods, ideas, or products; original and creative.", "創新的"], "innuendo": ["An insinuation.", "暗諷；影射"], "inoculate": ["To introduce a vaccine into an organism to increase immunity.", "接種疫苗；預防注射"], "inquisitor": ["One who inquires, especially in a hostile manner.", "審問者；質詢者"], "inseminate": ["To introduce semen into a female's reproductive tract for fertilization.", "使受精；授精"], "insidious": ["Sly, seductive, treacherous.", "陰險的；潛伏的"], "insightful": ["Having or showing deep understanding.", "有洞察力的；深刻的"], "insinuate": ["To suggest indirectly or subtly.", "暗示；影射"], "inspect": ["To examine closely.", "檢查"], "inspirational": ["Providing motivation or encouragement.", "激勵人心的"], "instigate": ["To urge, goad.", "煽動；唆使"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "shroud",
     "pos": "n./v.",
     "definition": "A cloth used to wrap a body for burial; to cover or conceal.",
-    "chinese": "裹屍布;籠罩",
+    "chinese": "裹屍布；籠罩",
     "synonyms": "",
     "root": "scrud (garment), from Old English",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A cloth used to wrap a body for burial; to cover or conceal.",
-     "chinese": "裹屍布;籠罩"
+     "chinese": "裹屍布；籠罩"
     }
    },
    {
     "word": "shrunken",
     "pos": "adj.",
     "definition": "Having become smaller in size.",
-    "chinese": "縮水的;萎縮的",
+    "chinese": "縮水的；萎縮的",
     "synonyms": "",
     "root": "scrincan (to shrink), from Old English",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having become smaller in size.",
-     "chinese": "縮水的;萎縮的"
+     "chinese": "縮水的；萎縮的"
     }
    },
    {
     "word": "shuffle",
     "pos": "v./n.",
     "definition": "To walk while dragging one's feet; to mix items into a random order.",
-    "chinese": "拖著腳走;洗牌",
+    "chinese": "拖著腳走；洗牌",
     "synonyms": "",
     "root": "shovelen (to shove), from Middle English, of uncertain further origin",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk while dragging one's feet; to mix items into a random order.",
-     "chinese": "拖著腳走;洗牌"
+     "chinese": "拖著腳走；洗牌"
     }
    },
    {
     "word": "shun",
     "pos": "v.",
     "definition": "To deliberately avoid or ignore someone or something.",
-    "chinese": "迴避;排斥",
+    "chinese": "迴避；排斥",
     "synonyms": "",
     "root": "scunian (to avoid), from Old English",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deliberately avoid or ignore someone or something.",
-     "chinese": "迴避;排斥"
+     "chinese": "迴避；排斥"
     }
    },
    {
     "word": "shyster",
     "pos": "n.",
     "definition": "An unscrupulous person, especially a dishonest lawyer (informal, derogatory).",
-    "chinese": "奸詐的律師;訟棍(非正式,貶義)",
+    "chinese": "奸詐的律師；訟棍(非正式,貶義)",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to German scheisser",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unscrupulous person, especially a dishonest lawyer (informal, derogatory).",
-     "chinese": "奸詐的律師;訟棍(非正式,貶義)"
+     "chinese": "奸詐的律師；訟棍(非正式,貶義)"
     }
    },
    {
     "word": "sibilance",
     "pos": "n.",
     "definition": "A hissing sound, especially in speech.",
-    "chinese": "嘶嘶聲;齒擦音",
+    "chinese": "嘶嘶聲；齒擦音",
     "synonyms": "",
     "root": "sibilare (to hiss), from Latin",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A hissing sound, especially in speech.",
-     "chinese": "嘶嘶聲;齒擦音"
+     "chinese": "嘶嘶聲；齒擦音"
     }
    },
    {
     "word": "sibilant",
     "pos": "adj./n.",
     "definition": "Making or characterized by a hissing sound.",
-    "chinese": "嘶嘶作響的;齒擦音",
+    "chinese": "嘶嘶作響的；齒擦音",
     "synonyms": "",
     "root": "sibilare (to hiss), from Latin",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making or characterized by a hissing sound.",
-     "chinese": "嘶嘶作響的;齒擦音"
+     "chinese": "嘶嘶作響的；齒擦音"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "silence",
     "pos": "n./v.",
     "definition": "Complete absence of sound; to make quiet.",
-    "chinese": "沉默;寂靜",
+    "chinese": "沉默；寂靜",
     "synonyms": "",
     "root": "silentium (stillness), from Latin silere (to be silent)",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complete absence of sound; to make quiet.",
-     "chinese": "沉默;寂靜"
+     "chinese": "沉默；寂靜"
     }
    },
    {
     "word": "silhouette",
     "pos": "n.",
     "definition": "The outline of a person or object seen against a brighter background.",
-    "chinese": "剪影;輪廓",
+    "chinese": "剪影；輪廓",
     "synonyms": "",
     "root": "named after Étienne de Silhouette, a French finance minister known for frugality",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The outline of a person or object seen against a brighter background.",
-     "chinese": "剪影;輪廓"
+     "chinese": "剪影；輪廓"
     }
    },
    {
     "word": "silk-stocking",
     "pos": "adj.",
     "definition": "Wealthy or aristocratic.",
-    "chinese": "富裕的;上流社會的",
+    "chinese": "富裕的；上流社會的",
     "synonyms": "",
     "root": "silk, from Latin sericum + stocking, referring to a mark of wealth",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wealthy or aristocratic.",
-     "chinese": "富裕的;上流社會的"
+     "chinese": "富裕的；上流社會的"
     }
    },
    {
     "word": "silliness",
     "pos": "n.",
     "definition": "The quality of being foolish or lacking seriousness.",
-    "chinese": "愚蠢;傻氣",
+    "chinese": "愚蠢；傻氣",
     "synonyms": "",
     "root": "sælig (happy, blessed), from Old English, meaning shifted over time",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being foolish or lacking seriousness.",
-     "chinese": "愚蠢;傻氣"
+     "chinese": "愚蠢；傻氣"
     }
    },
    {
     "word": "silly",
     "pos": "adj.",
     "definition": "Lacking seriousness or good sense; foolish.",
-    "chinese": "愚蠢的;傻氣的",
+    "chinese": "愚蠢的；傻氣的",
     "synonyms": "",
     "root": "sælig (happy, blessed), from Old English, meaning shifted over time",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking seriousness or good sense; foolish.",
-     "chinese": "愚蠢的;傻氣的"
+     "chinese": "愚蠢的；傻氣的"
     }
    },
    {
     "word": "simian",
     "pos": "adj./n.",
     "definition": "Relating to or resembling apes or monkeys.",
-    "chinese": "猿猴類的;猿猴",
+    "chinese": "猿猴類的；猿猴",
     "synonyms": "",
     "root": "simia (ape), from Latin",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or resembling apes or monkeys.",
-     "chinese": "猿猴類的;猿猴"
+     "chinese": "猿猴類的；猿猴"
     }
    },
    {
     "word": "simper",
     "pos": "v./n.",
     "definition": "To smile in a silly, affected way.",
-    "chinese": "假笑;傻笑",
+    "chinese": "假笑；傻笑",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Low German simpelen",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To smile in a silly, affected way.",
-     "chinese": "假笑;傻笑"
+     "chinese": "假笑；傻笑"
     }
    },
    {
     "word": "simple",
     "pos": "adj.",
     "definition": "Easily understood or done; plain and uncomplicated.",
-    "chinese": "簡單的;樸素的",
+    "chinese": "簡單的；樸素的",
     "synonyms": "",
     "root": "simplus (simple, single), from Latin",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily understood or done; plain and uncomplicated.",
-     "chinese": "簡單的;樸素的"
+     "chinese": "簡單的；樸素的"
     }
    },
    {
     "word": "simple-minded",
     "pos": "adj.",
     "definition": "Lacking sophistication or complexity in thinking.",
-    "chinese": "頭腦簡單的;思想單純的",
+    "chinese": "頭腦簡單的；思想單純的",
     "synonyms": "",
     "root": "simple, from Latin simplus + mind, from Old English gemynd",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking sophistication or complexity in thinking.",
-     "chinese": "頭腦簡單的;思想單純的"
+     "chinese": "頭腦簡單的；思想單純的"
     }
    },
    {
     "word": "simpleton",
     "pos": "n.",
     "definition": "A foolish or gullible person.",
-    "chinese": "傻瓜;笨蛋",
+    "chinese": "傻瓜；笨蛋",
     "synonyms": "",
     "root": "simple, from Latin simplus + -ton, a diminutive-like ending",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A foolish or gullible person.",
-     "chinese": "傻瓜;笨蛋"
+     "chinese": "傻瓜；笨蛋"
     }
    },
    {
     "word": "simulacrum",
     "pos": "n.",
     "definition": "An image or representation of someone or something, often unsatisfactory.",
-    "chinese": "仿製品;虛假的表象",
+    "chinese": "仿製品；虛假的表象",
     "synonyms": "",
     "root": "simulacrum (likeness, image), from Latin simulare (to imitate)",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An image or representation of someone or something, often unsatisfactory.",
-     "chinese": "仿製品;虛假的表象"
+     "chinese": "仿製品；虛假的表象"
     }
    },
    {
@@ -409,7 +409,7 @@ window.FLASHCARD_UNITS = {
     "word": "sine qua non",
     "pos": "n.",
     "definition": "An essential condition or element without which something is impossible.",
-    "chinese": "必要條件;不可或缺的要素",
+    "chinese": "必要條件；不可或缺的要素",
     "synonyms": "",
     "root": "sine (without) + qua (which) + non (not), from Latin",
     "group": "",
@@ -421,7 +421,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An essential condition or element without which something is impossible.",
-     "chinese": "必要條件;不可或缺的要素"
+     "chinese": "必要條件；不可或缺的要素"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "sinful",
     "pos": "adj.",
     "definition": "Wicked or morally wrong; violating religious law.",
-    "chinese": "有罪的;邪惡的",
+    "chinese": "有罪的；邪惡的",
     "synonyms": "",
     "root": "sin, from Old English synn + -ful",
     "group": "",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wicked or morally wrong; violating religious law.",
-     "chinese": "有罪的;邪惡的"
+     "chinese": "有罪的；邪惡的"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "skein",
     "pos": "n.",
     "definition": "A loosely coiled length of yarn or thread; a flock of geese in flight.",
-    "chinese": "一絞紗線;雁群",
+    "chinese": "一絞紗線；雁群",
     "synonyms": "",
     "root": "escaigne (a hank of yarn), from Old French, of uncertain further origin",
     "group": "",
@@ -594,14 +594,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A loosely coiled length of yarn or thread; a flock of geese in flight.",
-     "chinese": "一絞紗線;雁群"
+     "chinese": "一絞紗線；雁群"
     }
    },
    {
     "word": "skeletal",
     "pos": "adj.",
     "definition": "Relating to a skeleton; extremely thin.",
-    "chinese": "骨骼的;骨瘦如柴的",
+    "chinese": "骨骼的；骨瘦如柴的",
     "synonyms": "",
     "root": "skeletos (dried up), from Greek skellein (to dry)",
     "group": "",
@@ -613,7 +613,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a skeleton; extremely thin.",
-     "chinese": "骨骼的;骨瘦如柴的"
+     "chinese": "骨骼的；骨瘦如柴的"
     }
    },
    {
@@ -658,7 +658,7 @@ window.FLASHCARD_UNITS = {
     "word": "skew",
     "pos": "v./adj.",
     "definition": "To distort or bias something; set at an angle.",
-    "chinese": "使歪斜;使偏頗",
+    "chinese": "使歪斜；使偏頗",
     "synonyms": "",
     "root": "eskiuer (to shy away), from Old French, of uncertain further origin",
     "group": "",
@@ -670,7 +670,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To distort or bias something; set at an angle.",
-     "chinese": "使歪斜;使偏頗"
+     "chinese": "使歪斜；使偏頗"
     }
    },
    {
@@ -715,7 +715,7 @@ window.FLASHCARD_UNITS = {
     "word": "slacken",
     "pos": "v.",
     "definition": "To become or make less active, tight, or fast.",
-    "chinese": "放鬆;減緩",
+    "chinese": "放鬆；減緩",
     "synonyms": "",
     "root": "sleac (slack, lazy), from Old English",
     "group": "",
@@ -727,14 +727,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become or make less active, tight, or fast.",
-     "chinese": "放鬆;減緩"
+     "chinese": "放鬆；減緩"
     }
    },
    {
     "word": "slacker",
     "pos": "n.",
     "definition": "A person who avoids work or exertion.",
-    "chinese": "懶散的人;偷懶者",
+    "chinese": "懶散的人；偷懶者",
     "synonyms": "",
     "root": "sleac (slack, lazy), from Old English",
     "group": "",
@@ -746,14 +746,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who avoids work or exertion.",
-     "chinese": "懶散的人;偷懶者"
+     "chinese": "懶散的人；偷懶者"
     }
    },
    {
     "word": "slander",
     "pos": "n./v.",
     "definition": "A false spoken statement that damages a person's reputation.",
-    "chinese": "誹謗;毀謗",
+    "chinese": "誹謗；毀謗",
     "synonyms": "",
     "root": "esclandre (scandal), from Old French, from Latin scandalum",
     "group": "",
@@ -765,14 +765,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A false spoken statement that damages a person's reputation.",
-     "chinese": "誹謗;毀謗"
+     "chinese": "誹謗；毀謗"
     }
    },
    {
     "word": "slanderous",
     "pos": "adj.",
     "definition": "Containing false and damaging spoken statements.",
-    "chinese": "誹謗性的;中傷的",
+    "chinese": "誹謗性的；中傷的",
     "synonyms": "",
     "root": "esclandre (scandal), from Old French, from Latin scandalum",
     "group": "",
@@ -784,14 +784,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Containing false and damaging spoken statements.",
-     "chinese": "誹謗性的;中傷的"
+     "chinese": "誹謗性的；中傷的"
     }
    },
    {
     "word": "slanguage",
     "pos": "n.",
     "definition": "Slang or informal language used in a distinctive way.",
-    "chinese": "俚語;非正式用語",
+    "chinese": "俚語；非正式用語",
     "synonyms": "",
     "root": "slang + language, humorously blended, of English origin",
     "group": "",
@@ -803,14 +803,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Slang or informal language used in a distinctive way.",
-     "chinese": "俚語;非正式用語"
+     "chinese": "俚語；非正式用語"
     }
    },
    {
     "word": "slapdash",
     "pos": "adj./adv.",
     "definition": "Done hastily and carelessly.",
-    "chinese": "草率的;馬虎的",
+    "chinese": "草率的；馬虎的",
     "synonyms": "",
     "root": "slap, of imitative origin + dash, from Middle English daschen",
     "group": "",
@@ -822,7 +822,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Done hastily and carelessly.",
-     "chinese": "草率的;馬虎的"
+     "chinese": "草率的；馬虎的"
     }
    },
    {
@@ -867,7 +867,7 @@ window.FLASHCARD_UNITS = {
     "word": "sleazy",
     "pos": "adj.",
     "definition": "Sordid, disreputable, or of low quality.",
-    "chinese": "低俗的;下流的",
+    "chinese": "低俗的；下流的",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Silesia, a region once known for flimsy fabric",
     "group": "",
@@ -879,14 +879,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sordid, disreputable, or of low quality.",
-     "chinese": "低俗的;下流的"
+     "chinese": "低俗的；下流的"
     }
    },
    {
     "word": "sleight",
     "pos": "n.",
     "definition": "Skill or dexterity, especially in deception.",
-    "chinese": "巧妙手法;詭計",
+    "chinese": "巧妙手法；詭計",
     "synonyms": "",
     "root": "sloegth (cunning), from Old Norse slœgð",
     "group": "",
@@ -898,14 +898,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Skill or dexterity, especially in deception.",
-     "chinese": "巧妙手法;詭計"
+     "chinese": "巧妙手法；詭計"
     }
    },
    {
     "word": "slender",
     "pos": "adj.",
     "definition": "Thin or narrow, especially gracefully so; slight in amount.",
-    "chinese": "苗條的;微薄的",
+    "chinese": "苗條的；微薄的",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Old French esclendre",
     "group": "",
@@ -917,14 +917,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thin or narrow, especially gracefully so; slight in amount.",
-     "chinese": "苗條的;微薄的"
+     "chinese": "苗條的；微薄的"
     }
    },
    {
     "word": "slight",
     "pos": "adj./n./v.",
     "definition": "Small in degree; a discourteous act or remark.",
-    "chinese": "輕微的;怠慢",
+    "chinese": "輕微的；怠慢",
     "synonyms": "",
     "root": "sliht (smooth, slight), from Old Norse",
     "group": "",
@@ -936,14 +936,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Small in degree; a discourteous act or remark.",
-     "chinese": "輕微的;怠慢"
+     "chinese": "輕微的；怠慢"
     }
    },
    {
     "word": "slim",
     "pos": "adj./v.",
     "definition": "Thin or slender; small in amount.",
-    "chinese": "苗條的;微小的",
+    "chinese": "苗條的；微小的",
     "synonyms": "",
     "root": "slim (crooked, bad), from Middle Low German or Dutch",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thin or slender; small in amount.",
-     "chinese": "苗條的;微小的"
+     "chinese": "苗條的；微小的"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shroud": ["A cloth used to wrap a body for burial; to cover or conceal.", "裹屍布;籠罩"], "shrunken": ["Having become smaller in size.", "縮水的;萎縮的"], "shuffle": ["To walk while dragging one's feet; to mix items into a random order.", "拖著腳走;洗牌"], "shun": ["To deliberately avoid or ignore someone or something.", "迴避;排斥"], "shyster": ["An unscrupulous person, especially a dishonest lawyer (informal, derogatory).", "奸詐的律師;訟棍(非正式,貶義)"], "sibilance": ["A hissing sound, especially in speech.", "嘶嘶聲;齒擦音"], "sibilant": ["Making or characterized by a hissing sound.", "嘶嘶作響的;齒擦音"], "siffleur": ["A whistler, especially a professional performer known for skilled whistling.", "口哨表演者"], "silence": ["Complete absence of sound; to make quiet.", "沉默;寂靜"], "silhouette": ["The outline of a person or object seen against a brighter background.", "剪影;輪廓"], "silk-stocking": ["Wealthy or aristocratic.", "富裕的;上流社會的"], "silliness": ["The quality of being foolish or lacking seriousness.", "愚蠢;傻氣"], "silly": ["Lacking seriousness or good sense; foolish.", "愚蠢的;傻氣的"], "simian": ["Relating to or resembling apes or monkeys.", "猿猴類的;猿猴"], "simper": ["To smile in a silly, affected way.", "假笑;傻笑"], "simple": ["Easily understood or done; plain and uncomplicated.", "簡單的;樸素的"], "simple-minded": ["Lacking sophistication or complexity in thinking.", "頭腦簡單的;思想單純的"], "simpleton": ["A foolish or gullible person.", "傻瓜;笨蛋"], "simulacrum": ["An image or representation of someone or something, often unsatisfactory.", "仿製品;虛假的表象"], "simulate": ["To imitate the appearance or character of something, typically for training or research purposes.", "模擬"], "simulcast": ["A broadcast transmitted simultaneously over multiple channels or media.", "同步轉播"], "sine qua non": ["An essential condition or element without which something is impossible.", "必要條件;不可或缺的要素"], "sinecure": ["Easy job.", "掛名差事；閒職"], "sinful": ["Wicked or morally wrong; violating religious law.", "有罪的;邪惡的"], "singular": ["Remarkable.", "異常的；單一的"], "sinister": ["Evil, ominous.", "邪惡的"], "sinking": ["A slow fall or decline.", "下沉；衰退"], "sinuous": ["Having many curves and turns; winding.", "蜿蜒的；曲折的"], "site": ["Location.", "地點；遺址"], "sitiophobia": ["An irrational fear of eating or food.", "食物恐懼症"], "skein": ["A loosely coiled length of yarn or thread; a flock of geese in flight.", "一絞紗線;雁群"], "skeletal": ["Relating to a skeleton; extremely thin.", "骨骼的;骨瘦如柴的"], "skeptic": ["A person who doubts.", "懷疑論者"], "skeptical": ["Doubtful or inclined to question accepted beliefs or statements.", "懷疑的"], "skew": ["To distort or bias something; set at an angle.", "使歪斜;使偏頗"], "skirmish": ["Small fight, brief encounter.", "小衝突"], "skosh": ["A small amount (informal).", "一點點(非正式)"], "slacken": ["To become or make less active, tight, or fast.", "放鬆;減緩"], "slacker": ["A person who avoids work or exertion.", "懶散的人;偷懶者"], "slander": ["A false spoken statement that damages a person's reputation.", "誹謗;毀謗"], "slanderous": ["Containing false and damaging spoken statements.", "誹謗性的;中傷的"], "slanguage": ["Slang or informal language used in a distinctive way.", "俚語;非正式用語"], "slapdash": ["Done hastily and carelessly.", "草率的;馬虎的"], "slattern": ["An untidy or slovenly woman.", "邋遢的女人"], "slavish": ["Slave-like; overly humble; involving very hard work.", "奴性的"], "sleazy": ["Sordid, disreputable, or of low quality.", "低俗的;下流的"], "sleight": ["Skill or dexterity, especially in deception.", "巧妙手法;詭計"], "slender": ["Thin or narrow, especially gracefully so; slight in amount.", "苗條的;微薄的"], "slight": ["Small in degree; a discourteous act or remark.", "輕微的;怠慢"], "slim": ["Thin or slender; small in amount.", "苗條的;微小的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shroud": ["A cloth used to wrap a body for burial; to cover or conceal.", "裹屍布；籠罩"], "shrunken": ["Having become smaller in size.", "縮水的；萎縮的"], "shuffle": ["To walk while dragging one's feet; to mix items into a random order.", "拖著腳走；洗牌"], "shun": ["To deliberately avoid or ignore someone or something.", "迴避；排斥"], "shyster": ["An unscrupulous person, especially a dishonest lawyer (informal, derogatory).", "奸詐的律師；訟棍(非正式,貶義)"], "sibilance": ["A hissing sound, especially in speech.", "嘶嘶聲；齒擦音"], "sibilant": ["Making or characterized by a hissing sound.", "嘶嘶作響的；齒擦音"], "siffleur": ["A whistler, especially a professional performer known for skilled whistling.", "口哨表演者"], "silence": ["Complete absence of sound; to make quiet.", "沉默；寂靜"], "silhouette": ["The outline of a person or object seen against a brighter background.", "剪影；輪廓"], "silk-stocking": ["Wealthy or aristocratic.", "富裕的；上流社會的"], "silliness": ["The quality of being foolish or lacking seriousness.", "愚蠢；傻氣"], "silly": ["Lacking seriousness or good sense; foolish.", "愚蠢的；傻氣的"], "simian": ["Relating to or resembling apes or monkeys.", "猿猴類的；猿猴"], "simper": ["To smile in a silly, affected way.", "假笑；傻笑"], "simple": ["Easily understood or done; plain and uncomplicated.", "簡單的；樸素的"], "simple-minded": ["Lacking sophistication or complexity in thinking.", "頭腦簡單的；思想單純的"], "simpleton": ["A foolish or gullible person.", "傻瓜；笨蛋"], "simulacrum": ["An image or representation of someone or something, often unsatisfactory.", "仿製品；虛假的表象"], "simulate": ["To imitate the appearance or character of something, typically for training or research purposes.", "模擬"], "simulcast": ["A broadcast transmitted simultaneously over multiple channels or media.", "同步轉播"], "sine qua non": ["An essential condition or element without which something is impossible.", "必要條件；不可或缺的要素"], "sinecure": ["Easy job.", "掛名差事；閒職"], "sinful": ["Wicked or morally wrong; violating religious law.", "有罪的；邪惡的"], "singular": ["Remarkable.", "異常的；單一的"], "sinister": ["Evil, ominous.", "邪惡的"], "sinking": ["A slow fall or decline.", "下沉；衰退"], "sinuous": ["Having many curves and turns; winding.", "蜿蜒的；曲折的"], "site": ["Location.", "地點；遺址"], "sitiophobia": ["An irrational fear of eating or food.", "食物恐懼症"], "skein": ["A loosely coiled length of yarn or thread; a flock of geese in flight.", "一絞紗線；雁群"], "skeletal": ["Relating to a skeleton; extremely thin.", "骨骼的；骨瘦如柴的"], "skeptic": ["A person who doubts.", "懷疑論者"], "skeptical": ["Doubtful or inclined to question accepted beliefs or statements.", "懷疑的"], "skew": ["To distort or bias something; set at an angle.", "使歪斜；使偏頗"], "skirmish": ["Small fight, brief encounter.", "小衝突"], "skosh": ["A small amount (informal).", "一點點(非正式)"], "slacken": ["To become or make less active, tight, or fast.", "放鬆；減緩"], "slacker": ["A person who avoids work or exertion.", "懶散的人；偷懶者"], "slander": ["A false spoken statement that damages a person's reputation.", "誹謗；毀謗"], "slanderous": ["Containing false and damaging spoken statements.", "誹謗性的；中傷的"], "slanguage": ["Slang or informal language used in a distinctive way.", "俚語；非正式用語"], "slapdash": ["Done hastily and carelessly.", "草率的；馬虎的"], "slattern": ["An untidy or slovenly woman.", "邋遢的女人"], "slavish": ["Slave-like; overly humble; involving very hard work.", "奴性的"], "sleazy": ["Sordid, disreputable, or of low quality.", "低俗的；下流的"], "sleight": ["Skill or dexterity, especially in deception.", "巧妙手法；詭計"], "slender": ["Thin or narrow, especially gracefully so; slight in amount.", "苗條的；微薄的"], "slight": ["Small in degree; a discourteous act or remark.", "輕微的；怠慢"], "slim": ["Thin or slender; small in amount.", "苗條的；微小的"]});

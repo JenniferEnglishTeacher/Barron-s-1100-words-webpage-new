@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "attention",
     "pos": "n.",
     "definition": "Notice taken of someone or something; careful thought or consideration.",
-    "chinese": "注意;關注",
+    "chinese": "注意；關注",
     "synonyms": "",
     "root": "ad- (to) + tendere (to stretch)",
     "group": "tend；tens = 伸展",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Notice taken of someone or something; careful thought or consideration.",
-     "chinese": "注意;關注"
+     "chinese": "注意；關注"
     }
    },
    {
     "word": "contend",
     "pos": "v.",
     "definition": "To assert something as a position in an argument; to struggle.",
-    "chinese": "主張;競爭",
+    "chinese": "主張；競爭",
     "synonyms": "",
     "root": "con- (together) + tendere (to stretch), from Latin",
     "group": "tend；tens = 伸展",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To assert something as a position in an argument; to struggle.",
-     "chinese": "主張;競爭"
+     "chinese": "主張；競爭"
     }
    },
    {
     "word": "contention",
     "pos": "n.",
     "definition": "A point asserted in an argument; heated disagreement.",
-    "chinese": "論點;爭執",
+    "chinese": "論點；爭執",
     "synonyms": "",
     "root": "con- (together) + tendere (to stretch), from Latin",
     "group": "tend；tens = 伸展",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A point asserted in an argument; heated disagreement.",
-     "chinese": "論點;爭執"
+     "chinese": "論點；爭執"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "extend",
     "pos": "v.",
     "definition": "To make something longer or larger; to offer.",
-    "chinese": "延伸;延長;給予",
+    "chinese": "延伸；延長；給予",
     "synonyms": "",
     "root": "ex- (out) + tendere (to stretch), from Latin",
     "group": "tend；tens = 伸展",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something longer or larger; to offer.",
-     "chinese": "延伸;延長;給予"
+     "chinese": "延伸；延長；給予"
     }
    },
    {
     "word": "extension",
     "pos": "n.",
     "definition": "An additional period of time; a part added to something.",
-    "chinese": "延期;延伸部分",
+    "chinese": "延期；延伸部分",
     "synonyms": "",
     "root": "ex- (out) + tendere (to stretch), from Latin",
     "group": "tend；tens = 伸展",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An additional period of time; a part added to something.",
-     "chinese": "延期;延伸部分"
+     "chinese": "延期；延伸部分"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "pretentiousness",
     "pos": "n.",
     "definition": "An attempt to impress by affecting greater importance or knowledge than one has.",
-    "chinese": "自命不凡;矯揉造作",
+    "chinese": "自命不凡；矯揉造作",
     "synonyms": "",
     "root": "praetendere (to claim, pretend), from Latin prae- (before) + tendere (to stretch)",
     "group": "tend；tens = 伸展",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An attempt to impress by affecting greater importance or knowledge than one has.",
-     "chinese": "自命不凡;矯揉造作"
+     "chinese": "自命不凡；矯揉造作"
     }
    },
    {
     "word": "tenderfoot",
     "pos": "n.",
     "definition": "An inexperienced newcomer, especially unaccustomed to hardship.",
-    "chinese": "新手;缺乏經驗的人",
+    "chinese": "新手；缺乏經驗的人",
     "synonyms": "",
     "root": "tender, from Latin tener (soft) + foot, from Old English fot",
     "group": "tend；tens = 伸展",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An inexperienced newcomer, especially unaccustomed to hardship.",
-     "chinese": "新手;缺乏經驗的人"
+     "chinese": "新手；缺乏經驗的人"
     }
    },
    {
@@ -739,4 +739,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ostentatious": ["Showy:flamboyant.", "炫耀的；賣弄的"], "ostensible": ["Outward, seeming.", "表面的；假裝的"], "pretentious": ["Claiming or pretending increased importance or grandness.", "自命不凡的"], "contentious": ["Quarrelsome; belligerent.", "好爭論的"], "attention": ["Notice taken of someone or something; careful thought or consideration.", "注意;關注"], "contend": ["To assert something as a position in an argument; to struggle.", "主張;競爭"], "contention": ["A point asserted in an argument; heated disagreement.", "論點;爭執"], "distend": ["To swell out.", "膨脹；腫脹"], "extend": ["To make something longer or larger; to offer.", "延伸;延長;給予"], "extension": ["An additional period of time; a part added to something.", "延期;延伸部分"], "extensive": ["Covering a large area or scope.", "廣泛的"], "intentional": ["Done on purpose.", "故意的"], "portent": ["An omen.", "預兆；徵兆"], "pretense": ["An appearance or action intended to deceive.", "藉口；偽裝"], "pretentiousness": ["An attempt to impress by affecting greater importance or knowledge than one has.", "自命不凡;矯揉造作"], "tenderfoot": ["An inexperienced newcomer, especially unaccustomed to hardship.", "新手;缺乏經驗的人"], "unintended": ["Not planned or meant.", "非故意的；意外的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ostentatious": ["Showy:flamboyant.", "炫耀的；賣弄的"], "ostensible": ["Outward, seeming.", "表面的；假裝的"], "pretentious": ["Claiming or pretending increased importance or grandness.", "自命不凡的"], "contentious": ["Quarrelsome; belligerent.", "好爭論的"], "attention": ["Notice taken of someone or something; careful thought or consideration.", "注意；關注"], "contend": ["To assert something as a position in an argument; to struggle.", "主張；競爭"], "contention": ["A point asserted in an argument; heated disagreement.", "論點；爭執"], "distend": ["To swell out.", "膨脹；腫脹"], "extend": ["To make something longer or larger; to offer.", "延伸；延長；給予"], "extension": ["An additional period of time; a part added to something.", "延期；延伸部分"], "extensive": ["Covering a large area or scope.", "廣泛的"], "intentional": ["Done on purpose.", "故意的"], "portent": ["An omen.", "預兆；徵兆"], "pretense": ["An appearance or action intended to deceive.", "藉口；偽裝"], "pretentiousness": ["An attempt to impress by affecting greater importance or knowledge than one has.", "自命不凡；矯揉造作"], "tenderfoot": ["An inexperienced newcomer, especially unaccustomed to hardship.", "新手；缺乏經驗的人"], "unintended": ["Not planned or meant.", "非故意的；意外的"]});

@@ -27,7 +27,7 @@ window.FLASHCARD_UNITS = {
     "word": "assent",
     "pos": "n./v.",
     "definition": "Agreement or approval; to agree.",
-    "chinese": "同意;贊同",
+    "chinese": "同意；贊同",
     "synonyms": "",
     "root": "ad- (to) + sentire (to feel)",
     "group": "sens；sent = 感覺",
@@ -41,7 +41,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Agreement or approval; to agree.",
-     "chinese": "同意;贊同"
+     "chinese": "同意；贊同"
     }
    },
    {
@@ -67,7 +67,7 @@ window.FLASHCARD_UNITS = {
     "word": "consent",
     "pos": "n./v.",
     "definition": "Permission for something to happen; to give permission.",
-    "chinese": "同意;許可",
+    "chinese": "同意；許可",
     "synonyms": "",
     "root": "con- (together) + sentire (to feel), from Latin",
     "group": "sens；sent = 感覺",
@@ -81,14 +81,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Permission for something to happen; to give permission.",
-     "chinese": "同意;許可"
+     "chinese": "同意；許可"
     }
    },
    {
     "word": "insensate",
     "pos": "adj.",
     "definition": "Lacking physical sensation; lacking sympathy or feeling.",
-    "chinese": "無知覺的;麻木不仁的",
+    "chinese": "無知覺的；麻木不仁的",
     "synonyms": "",
     "root": "in- (not) + sentire (to feel), from Latin",
     "group": "sens；sent = 感覺",
@@ -100,7 +100,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking physical sensation; lacking sympathy or feeling.",
-     "chinese": "無知覺的;麻木不仁的"
+     "chinese": "無知覺的；麻木不仁的"
     }
    },
    {
@@ -126,7 +126,7 @@ window.FLASHCARD_UNITS = {
     "word": "insentient",
     "pos": "adj.",
     "definition": "Lacking the capacity for sensation or consciousness.",
-    "chinese": "無知覺的;無意識的",
+    "chinese": "無知覺的；無意識的",
     "synonyms": "",
     "root": "in- (not) + sentire (to feel), from Latin",
     "group": "sens；sent = 感覺",
@@ -138,7 +138,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking the capacity for sensation or consciousness.",
-     "chinese": "無知覺的;無意識的"
+     "chinese": "無知覺的；無意識的"
     }
    },
    {
@@ -183,7 +183,7 @@ window.FLASHCARD_UNITS = {
     "word": "sensate",
     "pos": "adj.",
     "definition": "Perceiving through the senses; endowed with sensation.",
-    "chinese": "有感覺的;能感知的",
+    "chinese": "有感覺的；能感知的",
     "synonyms": "",
     "root": "sensatus (having sense), from Latin sentire (to feel)",
     "group": "sens；sent = 感覺",
@@ -195,14 +195,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Perceiving through the senses; endowed with sensation.",
-     "chinese": "有感覺的;能感知的"
+     "chinese": "有感覺的；能感知的"
     }
    },
    {
     "word": "senseless",
     "pos": "adj.",
     "definition": "Lacking meaning or purpose; unconscious.",
-    "chinese": "無意義的;失去知覺的",
+    "chinese": "無意義的；失去知覺的",
     "synonyms": "",
     "root": "sense, from Latin sensus + -less",
     "group": "sens；sent = 感覺",
@@ -214,14 +214,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking meaning or purpose; unconscious.",
-     "chinese": "無意義的;失去知覺的"
+     "chinese": "無意義的；失去知覺的"
     }
    },
    {
     "word": "sensible",
     "pos": "adj.",
     "definition": "Having good judgment; practical.",
-    "chinese": "明智的;理智的",
+    "chinese": "明智的；理智的",
     "synonyms": "",
     "root": "sensibilis (perceptible), from Latin sentire (to feel)",
     "group": "sens；sent = 感覺",
@@ -233,7 +233,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having good judgment; practical.",
-     "chinese": "明智的;理智的"
+     "chinese": "明智的；理智的"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "sensualist",
     "pos": "n.",
     "definition": "A person who seeks or values sensory pleasure above all else.",
-    "chinese": "享樂主義者;耽於感官享受者",
+    "chinese": "享樂主義者；耽於感官享受者",
     "synonyms": "",
     "root": "sensualis (of the senses), from Latin sensus (feeling)",
     "group": "sens；sent = 感覺",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who seeks or values sensory pleasure above all else.",
-     "chinese": "享樂主義者;耽於感官享受者"
+     "chinese": "享樂主義者；耽於感官享受者"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "sentence",
     "pos": "n./v.",
     "definition": "A grammatical unit expressing a complete thought; a judicial punishment.",
-    "chinese": "句子;判決",
+    "chinese": "句子；判決",
     "synonyms": "",
     "root": "sententia (opinion, judgment), from Latin sentire (to feel)",
     "group": "sens；sent = 感覺",
@@ -328,14 +328,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A grammatical unit expressing a complete thought; a judicial punishment.",
-     "chinese": "句子;判決"
+     "chinese": "句子；判決"
     }
    },
    {
     "word": "sententious",
     "pos": "adj.",
     "definition": "Given to moralizing in a pompous or affected way.",
-    "chinese": "說教式的;訓誡意味濃厚的",
+    "chinese": "說教式的；訓誡意味濃厚的",
     "synonyms": "",
     "root": "sententiosus (full of meaning), from Latin sententia (opinion, maxim)",
     "group": "sens；sent = 感覺",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Given to moralizing in a pompous or affected way.",
-     "chinese": "說教式的;訓誡意味濃厚的"
+     "chinese": "說教式的；訓誡意味濃厚的"
     }
    },
    {
     "word": "sentience",
     "pos": "n.",
     "definition": "The capacity to feel or perceive things.",
-    "chinese": "感知力;知覺",
+    "chinese": "感知力；知覺",
     "synonyms": "",
     "root": "sentire (to feel), from Latin",
     "group": "sens；sent = 感覺",
@@ -366,14 +366,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The capacity to feel or perceive things.",
-     "chinese": "感知力;知覺"
+     "chinese": "感知力；知覺"
     }
    },
    {
     "word": "sentient",
     "pos": "adj.",
     "definition": "Able to perceive or feel things.",
-    "chinese": "有知覺的;有感知能力的",
+    "chinese": "有知覺的；有感知能力的",
     "synonyms": "",
     "root": "sentire (to feel), from Latin",
     "group": "sens；sent = 感覺",
@@ -385,7 +385,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to perceive or feel things.",
-     "chinese": "有知覺的;有感知能力的"
+     "chinese": "有知覺的；有感知能力的"
     }
    }
   ],
@@ -874,4 +874,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dissent": ["To differ, disagree, protest.", "異議；不同意"], "assent": ["Agreement or approval; to agree.", "同意;贊同"], "consensus": ["General agreement.", "共識"], "consent": ["Permission for something to happen; to give permission.", "同意;許可"], "insensate": ["Lacking physical sensation; lacking sympathy or feeling.", "無知覺的;麻木不仁的"], "insensible": ["Unaware or indifferent.", "無知覺的；麻木的"], "insentient": ["Lacking the capacity for sensation or consciousness.", "無知覺的;無意識的"], "presentiment": ["An intuitive feeling about the future, especially of something bad.", "預感(尤指不祥的)"], "scented": ["Having a pleasant smell.", "有香味的"], "sensate": ["Perceiving through the senses; endowed with sensation.", "有感覺的;能感知的"], "senseless": ["Lacking meaning or purpose; unconscious.", "無意義的;失去知覺的"], "sensible": ["Having good judgment; practical.", "明智的;理智的"], "sensitive": ["Easily affected or aware.", "敏感的"], "sensual": ["Involving sensory gratification, usually related to sex.", "感官的；肉慾的"], "sensualist": ["A person who seeks or values sensory pleasure above all else.", "享樂主義者;耽於感官享受者"], "sensuous": ["Involving sensory gratification.", "感官愉悅的"], "sentence": ["A grammatical unit expressing a complete thought; a judicial punishment.", "句子;判決"], "sententious": ["Given to moralizing in a pompous or affected way.", "說教式的;訓誡意味濃厚的"], "sentience": ["The capacity to feel or perceive things.", "感知力;知覺"], "sentient": ["Able to perceive or feel things.", "有知覺的;有感知能力的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dissent": ["To differ, disagree, protest.", "異議；不同意"], "assent": ["Agreement or approval; to agree.", "同意；贊同"], "consensus": ["General agreement.", "共識"], "consent": ["Permission for something to happen; to give permission.", "同意；許可"], "insensate": ["Lacking physical sensation; lacking sympathy or feeling.", "無知覺的；麻木不仁的"], "insensible": ["Unaware or indifferent.", "無知覺的；麻木的"], "insentient": ["Lacking the capacity for sensation or consciousness.", "無知覺的；無意識的"], "presentiment": ["An intuitive feeling about the future, especially of something bad.", "預感(尤指不祥的)"], "scented": ["Having a pleasant smell.", "有香味的"], "sensate": ["Perceiving through the senses; endowed with sensation.", "有感覺的；能感知的"], "senseless": ["Lacking meaning or purpose; unconscious.", "無意義的；失去知覺的"], "sensible": ["Having good judgment; practical.", "明智的；理智的"], "sensitive": ["Easily affected or aware.", "敏感的"], "sensual": ["Involving sensory gratification, usually related to sex.", "感官的；肉慾的"], "sensualist": ["A person who seeks or values sensory pleasure above all else.", "享樂主義者；耽於感官享受者"], "sensuous": ["Involving sensory gratification.", "感官愉悅的"], "sentence": ["A grammatical unit expressing a complete thought; a judicial punishment.", "句子；判決"], "sententious": ["Given to moralizing in a pompous or affected way.", "說教式的；訓誡意味濃厚的"], "sentience": ["The capacity to feel or perceive things.", "感知力；知覺"], "sentient": ["Able to perceive or feel things.", "有知覺的；有感知能力的"]});

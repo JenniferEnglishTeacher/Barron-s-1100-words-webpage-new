@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "intolerant",
     "pos": "adj.",
     "definition": "Not willing to accept views or behavior different from one's own.",
-    "chinese": "不容忍的;偏執的",
+    "chinese": "不容忍的；偏執的",
     "synonyms": "",
     "root": "in- (not) + tolerare (to endure), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not willing to accept views or behavior different from one's own.",
-     "chinese": "不容忍的;偏執的"
+     "chinese": "不容忍的；偏執的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "invalid",
     "pos": "adj./n.",
     "definition": "Not legally or officially valid; a person disabled by illness.",
-    "chinese": "無效的;病弱者",
+    "chinese": "無效的；病弱者",
     "synonyms": "",
     "root": "in- (not) + validus (strong), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not legally or officially valid; a person disabled by illness.",
-     "chinese": "無效的;病弱者"
+     "chinese": "無效的；病弱者"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "invariable",
     "pos": "adj.",
     "definition": "Never changing; constant.",
-    "chinese": "不變的;固定的",
+    "chinese": "不變的；固定的",
     "synonyms": "",
     "root": "in- (not) + variare (to vary), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Never changing; constant.",
-     "chinese": "不變的;固定的"
+     "chinese": "不變的；固定的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "invisible",
     "pos": "adj.",
     "definition": "Unable to be seen.",
-    "chinese": "隱形的;看不見的",
+    "chinese": "隱形的；看不見的",
     "synonyms": "",
     "root": "in- (not) + videre (to see), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be seen.",
-     "chinese": "隱形的;看不見的"
+     "chinese": "隱形的；看不見的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "irreclaimable",
     "pos": "adj.",
     "definition": "Unable to be reformed or recovered.",
-    "chinese": "無法挽回的;不可救藥的",
+    "chinese": "無法挽回的；不可救藥的",
     "synonyms": "",
     "root": "in- (not) + reclamare (to cry out against), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be reformed or recovered.",
-     "chinese": "無法挽回的;不可救藥的"
+     "chinese": "無法挽回的；不可救藥的"
     }
    },
    {
     "word": "irreconcilable",
     "pos": "adj.",
     "definition": "Impossible to resolve or bring into harmony.",
-    "chinese": "無法調和的;不可協調的",
+    "chinese": "無法調和的；不可協調的",
     "synonyms": "",
     "root": "in- (not) + reconciliare (to reconcile), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible to resolve or bring into harmony.",
-     "chinese": "無法調和的;不可協調的"
+     "chinese": "無法調和的；不可協調的"
     }
    },
    {
     "word": "irredeemable",
     "pos": "adj.",
     "definition": "Not able to be saved, improved, or corrected.",
-    "chinese": "無可救藥的;不可挽回的",
+    "chinese": "無可救藥的；不可挽回的",
     "synonyms": "",
     "root": "in- (not) + redimere (to buy back), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be saved, improved, or corrected.",
-     "chinese": "無可救藥的;不可挽回的"
+     "chinese": "無可救藥的；不可挽回的"
     }
    },
    {
@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     "word": "irrefragable",
     "pos": "adj.",
     "definition": "Not able to be refuted or disproved.",
-    "chinese": "無可辯駁的;確鑿的",
+    "chinese": "無可辯駁的；確鑿的",
     "synonyms": "",
     "root": "in- (not) + refragari (to oppose), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be refuted or disproved.",
-     "chinese": "無可辯駁的;確鑿的"
+     "chinese": "無可辯駁的；確鑿的"
     }
    },
    {
     "word": "irregular",
     "pos": "adj.",
     "definition": "Not conforming to a standard or pattern.",
-    "chinese": "不規則的;不規律的",
+    "chinese": "不規則的；不規律的",
     "synonyms": "",
     "root": "in- (not) + regula (rule), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -341,7 +341,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not conforming to a standard or pattern.",
-     "chinese": "不規則的;不規律的"
+     "chinese": "不規則的；不規律的"
     }
    },
    {
@@ -367,7 +367,7 @@ window.FLASHCARD_UNITS = {
     "word": "irreproachable",
     "pos": "adj.",
     "definition": "Beyond reproach or criticism; blameless.",
-    "chinese": "無可指責的;完美無瑕的",
+    "chinese": "無可指責的；完美無瑕的",
     "synonyms": "",
     "root": "in- (not) + reprobare (to disapprove), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -379,7 +379,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Beyond reproach or criticism; blameless.",
-     "chinese": "無可指責的;完美無瑕的"
+     "chinese": "無可指責的；完美無瑕的"
     }
    },
    {
@@ -424,7 +424,7 @@ window.FLASHCARD_UNITS = {
     "word": "irreverent",
     "pos": "adj.",
     "definition": "Showing a lack of respect for things generally taken seriously.",
-    "chinese": "不敬的;輕率的",
+    "chinese": "不敬的；輕率的",
     "synonyms": "",
     "root": "in- (not) + revereri (to revere), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -436,7 +436,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing a lack of respect for things generally taken seriously.",
-     "chinese": "不敬的;輕率的"
+     "chinese": "不敬的；輕率的"
     }
    },
    {
@@ -1083,4 +1083,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"intestate": ["Having made no legal will before death.", "未立遺囑的"], "intolerant": ["Not willing to accept views or behavior different from one's own.", "不容忍的;偏執的"], "intractable": ["Stubborn; hard to manage.", "難駕馭的"], "intransigent": ["Refusing to compromise, often on an extreme opinion.", "不妥協的；頑固的"], "intrepid": ["Brave.", "無畏的"], "invalid": ["Not legally or officially valid; a person disabled by illness.", "無效的;病弱者"], "invalidate": ["To deprive of legal force, cancel:abrogate\\.", "使無效；使作廢"], "invariable": ["Never changing; constant.", "不變的;固定的"], "inviolable": ["Safe (from destruction, etc.).", "不可侵犯的"], "invisible": ["Unable to be seen.", "隱形的;看不見的"], "involuntarily": ["Done without conscious control.", "不由自主地"], "irrational": ["Unreasonable, absurd.", "不理智的"], "irreclaimable": ["Unable to be reformed or recovered.", "無法挽回的;不可救藥的"], "irreconcilable": ["Impossible to resolve or bring into harmony.", "無法調和的;不可協調的"], "irredeemable": ["Not able to be saved, improved, or corrected.", "無可救藥的;不可挽回的"], "irreformable": ["Not able to be reformed or changed for the better.", "無法改革的"], "irrefragable": ["Not able to be refuted or disproved.", "無可辯駁的;確鑿的"], "irregular": ["Not conforming to a standard or pattern.", "不規則的;不規律的"], "irrelevant": ["Not related to the subject.", "不相關的；不切題的"], "irreproachable": ["Beyond reproach or criticism; blameless.", "無可指責的;完美無瑕的"], "irresolute": ["Showing uncertainty or indecisiveness.", "猶豫不決的"], "irreverence": ["Disrespect.", "不敬；不虔誠"], "irreverent": ["Showing a lack of respect for things generally taken seriously.", "不敬的;輕率的"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "unintended": ["Not planned or meant.", "非故意的；意外的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"intestate": ["Having made no legal will before death.", "未立遺囑的"], "intolerant": ["Not willing to accept views or behavior different from one's own.", "不容忍的；偏執的"], "intractable": ["Stubborn; hard to manage.", "難駕馭的"], "intransigent": ["Refusing to compromise, often on an extreme opinion.", "不妥協的；頑固的"], "intrepid": ["Brave.", "無畏的"], "invalid": ["Not legally or officially valid; a person disabled by illness.", "無效的；病弱者"], "invalidate": ["To deprive of legal force, cancel:abrogate\\.", "使無效；使作廢"], "invariable": ["Never changing; constant.", "不變的；固定的"], "inviolable": ["Safe (from destruction, etc.).", "不可侵犯的"], "invisible": ["Unable to be seen.", "隱形的；看不見的"], "involuntarily": ["Done without conscious control.", "不由自主地"], "irrational": ["Unreasonable, absurd.", "不理智的"], "irreclaimable": ["Unable to be reformed or recovered.", "無法挽回的；不可救藥的"], "irreconcilable": ["Impossible to resolve or bring into harmony.", "無法調和的；不可協調的"], "irredeemable": ["Not able to be saved, improved, or corrected.", "無可救藥的；不可挽回的"], "irreformable": ["Not able to be reformed or changed for the better.", "無法改革的"], "irrefragable": ["Not able to be refuted or disproved.", "無可辯駁的；確鑿的"], "irregular": ["Not conforming to a standard or pattern.", "不規則的；不規律的"], "irrelevant": ["Not related to the subject.", "不相關的；不切題的"], "irreproachable": ["Beyond reproach or criticism; blameless.", "無可指責的；完美無瑕的"], "irresolute": ["Showing uncertainty or indecisiveness.", "猶豫不決的"], "irreverence": ["Disrespect.", "不敬；不虔誠"], "irreverent": ["Showing a lack of respect for things generally taken seriously.", "不敬的；輕率的"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "unintended": ["Not planned or meant.", "非故意的；意外的"]});

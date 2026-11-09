@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "slippery",
     "pos": "adj.",
     "definition": "Difficult to hold or stand on; unreliable or evasive.",
-    "chinese": "滑溜的;狡猾難信任的",
+    "chinese": "滑溜的；狡猾難信任的",
     "synonyms": "",
     "root": "slipor (slippery), from Old English slipan (to slip)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Difficult to hold or stand on; unreliable or evasive.",
-     "chinese": "滑溜的;狡猾難信任的"
+     "chinese": "滑溜的；狡猾難信任的"
     }
    },
    {
     "word": "slit",
     "pos": "n./v.",
     "definition": "A long, narrow cut or opening.",
-    "chinese": "裂縫;狹長切口",
+    "chinese": "裂縫；狹長切口",
     "synonyms": "",
     "root": "slitan (to slit), from Old English",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long, narrow cut or opening.",
-     "chinese": "裂縫;狹長切口"
+     "chinese": "裂縫；狹長切口"
     }
    },
    {
     "word": "slothful",
     "pos": "adj.",
     "definition": "Lazy; disinclined to activity or exertion.",
-    "chinese": "懶惰的;怠惰的",
+    "chinese": "懶惰的；怠惰的",
     "synonyms": "",
     "root": "sloth, from Old English slæwð (slowness), from slaw (slow)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lazy; disinclined to activity or exertion.",
-     "chinese": "懶惰的;怠惰的"
+     "chinese": "懶惰的；怠惰的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "sluggard",
     "pos": "n.",
     "definition": "A habitually lazy person.",
-    "chinese": "懶漢;懶惰的人",
+    "chinese": "懶漢；懶惰的人",
     "synonyms": "",
     "root": "slugge (a lazy person), from Middle English, of uncertain further origin",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A habitually lazy person.",
-     "chinese": "懶漢;懶惰的人"
+     "chinese": "懶漢；懶惰的人"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "smarmy",
     "pos": "adj.",
     "definition": "Excessively flattering or ingratiating in an insincere way.",
-    "chinese": "諂媚的;虛偽討好的",
+    "chinese": "諂媚的；虛偽討好的",
     "synonyms": "",
     "root": "smarm (to smear, flatter), of uncertain dialectal English origin",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively flattering or ingratiating in an insincere way.",
-     "chinese": "諂媚的;虛偽討好的"
+     "chinese": "諂媚的；虛偽討好的"
     }
    },
    {
     "word": "smear",
     "pos": "v./n.",
     "definition": "To spread something greasy or dirty; to damage someone's reputation with false claims.",
-    "chinese": "塗抹;抹黑",
+    "chinese": "塗抹；抹黑",
     "synonyms": "",
     "root": "smerian (to smear), from Old English",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To spread something greasy or dirty; to damage someone's reputation with false claims.",
-     "chinese": "塗抹;抹黑"
+     "chinese": "塗抹；抹黑"
     }
    },
    {
     "word": "smidgen",
     "pos": "n.",
     "definition": "A small amount (informal).",
-    "chinese": "少量;一點點(非正式)",
+    "chinese": "少量；一點點(非正式)",
     "synonyms": "",
     "root": "of uncertain dialectal English origin, possibly related to smitch (a particle)",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small amount (informal).",
-     "chinese": "少量;一點點(非正式)"
+     "chinese": "少量；一點點(非正式)"
     }
    },
    {
     "word": "smirch",
     "pos": "v./n.",
     "definition": "To dishonor or stain, especially a reputation.",
-    "chinese": "玷污;弄髒",
+    "chinese": "玷污；弄髒",
     "synonyms": "",
     "root": "of uncertain origin, related to Old French esmorcher (to hurt)",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To dishonor or stain, especially a reputation.",
-     "chinese": "玷污;弄髒"
+     "chinese": "玷污；弄髒"
     }
    },
    {
     "word": "smirk",
     "pos": "n./v.",
     "definition": "A smug or conceited smile.",
-    "chinese": "得意的笑;假笑",
+    "chinese": "得意的笑；假笑",
     "synonyms": "",
     "root": "smearcian (to smile), from Old English",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A smug or conceited smile.",
-     "chinese": "得意的笑;假笑"
+     "chinese": "得意的笑；假笑"
     }
    },
    {
     "word": "smitten",
     "pos": "adj.",
     "definition": "Deeply affected by love or infatuation; struck.",
-    "chinese": "深深迷戀的;為情所困的",
+    "chinese": "深深迷戀的；為情所困的",
     "synonyms": "",
     "root": "smitan (to smite, strike), from Old English",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deeply affected by love or infatuation; struck.",
-     "chinese": "深深迷戀的;為情所困的"
+     "chinese": "深深迷戀的；為情所困的"
     }
    },
    {
     "word": "smutty",
     "pos": "adj.",
     "definition": "Obscene or indecent; covered with soot or grime.",
-    "chinese": "淫穢的;骯髒的",
+    "chinese": "淫穢的；骯髒的",
     "synonyms": "",
     "root": "smut, from Middle Low German smutten (to make dirty)",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Obscene or indecent; covered with soot or grime.",
-     "chinese": "淫穢的;骯髒的"
+     "chinese": "淫穢的；骯髒的"
     }
    },
    {
     "word": "snappish",
     "pos": "adj.",
     "definition": "Irritable and inclined to speak sharply.",
-    "chinese": "易怒的;暴躁的",
+    "chinese": "易怒的；暴躁的",
     "synonyms": "",
     "root": "snap, of imitative Germanic origin + -ish",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irritable and inclined to speak sharply.",
-     "chinese": "易怒的;暴躁的"
+     "chinese": "易怒的；暴躁的"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "snicker",
     "pos": "v./n.",
     "definition": "To laugh in a partly suppressed, disrespectful way.",
-    "chinese": "竊笑;偷笑",
+    "chinese": "竊笑；偷笑",
     "synonyms": "",
     "root": "of imitative origin, echoing the sound of a stifled laugh",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To laugh in a partly suppressed, disrespectful way.",
-     "chinese": "竊笑;偷笑"
+     "chinese": "竊笑；偷笑"
     }
    },
    {
     "word": "snigger",
     "pos": "v./n.",
     "definition": "To laugh in a quiet, disrespectful way (British variant of snicker).",
-    "chinese": "竊笑;偷笑(英式)",
+    "chinese": "竊笑；偷笑(英式)",
     "synonyms": "",
     "root": "of imitative origin, a variant of snicker",
     "group": "",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To laugh in a quiet, disrespectful way (British variant of snicker).",
-     "chinese": "竊笑;偷笑(英式)"
+     "chinese": "竊笑；偷笑(英式)"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "snobbishness",
     "pos": "n.",
     "definition": "The quality of looking down on those considered inferior in social status or taste.",
-    "chinese": "勢利;自命不凡",
+    "chinese": "勢利；自命不凡",
     "synonyms": "",
     "root": "snob, of uncertain origin, originally denoting a shoemaker or lower-class person + -ish + -ness",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of looking down on those considered inferior in social status or taste.",
-     "chinese": "勢利;自命不凡"
+     "chinese": "勢利；自命不凡"
     }
    },
    {
     "word": "sober",
     "pos": "adj./v.",
     "definition": "Not drunk; serious and solemn.",
-    "chinese": "清醒的;嚴肅的",
+    "chinese": "清醒的；嚴肅的",
     "synonyms": "",
     "root": "sobrius (not drunk), from Latin",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not drunk; serious and solemn.",
-     "chinese": "清醒的;嚴肅的"
+     "chinese": "清醒的；嚴肅的"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "sobriquet",
     "pos": "n.",
     "definition": "A nickname, especially a humorous or affectionate one.",
-    "chinese": "綽號;別名",
+    "chinese": "綽號；別名",
     "synonyms": "",
     "root": "sobriquet (a chuck under the chin, nickname), from French",
     "group": "",
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A nickname, especially a humorous or affectionate one.",
-     "chinese": "綽號;別名"
+     "chinese": "綽號；別名"
     }
    },
    {
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "word": "sociability",
     "pos": "n.",
     "definition": "The quality of being friendly and enjoying the company of others.",
-    "chinese": "社交性;親和力",
+    "chinese": "社交性；親和力",
     "synonyms": "",
     "root": "sociabilis (companionable), from Latin socius (companion)",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being friendly and enjoying the company of others.",
-     "chinese": "社交性;親和力"
+     "chinese": "社交性；親和力"
     }
    },
    {
     "word": "sociable",
     "pos": "adj.",
     "definition": "Friendly and enjoying the company of others.",
-    "chinese": "善於社交的;親切的",
+    "chinese": "善於社交的；親切的",
     "synonyms": "",
     "root": "sociabilis (companionable), from Latin socius (companion)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendly and enjoying the company of others.",
-     "chinese": "善於社交的;親切的"
+     "chinese": "善於社交的；親切的"
     }
    },
    {
     "word": "sodden",
     "pos": "adj.",
     "definition": "Thoroughly soaked with liquid; heavy and doughy.",
-    "chinese": "濕透的;浸透的",
+    "chinese": "濕透的；浸透的",
     "synonyms": "",
     "root": "past participle of seethe, from Old English seoþan",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thoroughly soaked with liquid; heavy and doughy.",
-     "chinese": "濕透的;浸透的"
+     "chinese": "濕透的；浸透的"
     }
    },
    {
     "word": "soften",
     "pos": "v.",
     "definition": "To make or become less hard, severe, or intense.",
-    "chinese": "軟化;緩和",
+    "chinese": "軟化；緩和",
     "synonyms": "",
     "root": "soft, from Old English softe + -en",
     "group": "",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become less hard, severe, or intense.",
-     "chinese": "軟化;緩和"
+     "chinese": "軟化；緩和"
     }
    },
    {
     "word": "soidisant",
     "pos": "adj.",
     "definition": "Self-styled; so-called (used to express skepticism about a claimed title).",
-    "chinese": "自稱的;所謂的",
+    "chinese": "自稱的；所謂的",
     "synonyms": "",
     "root": "soi (oneself) + disant (saying), from French",
     "group": "",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Self-styled; so-called (used to express skepticism about a claimed title).",
-     "chinese": "自稱的;所謂的"
+     "chinese": "自稱的；所謂的"
     }
    },
    {
     "word": "soigné",
     "pos": "adj.",
     "definition": "Elegantly and carefully groomed or maintained.",
-    "chinese": "精心打扮的;講究的",
+    "chinese": "精心打扮的；講究的",
     "synonyms": "",
     "root": "past participle of soigner (to take care of), from French",
     "group": "",
@@ -590,14 +590,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Elegantly and carefully groomed or maintained.",
-     "chinese": "精心打扮的;講究的"
+     "chinese": "精心打扮的；講究的"
     }
    },
    {
     "word": "sojourner",
     "pos": "n.",
     "definition": "A person who stays somewhere temporarily.",
-    "chinese": "旅居者;寄居者",
+    "chinese": "旅居者；寄居者",
     "synonyms": "",
     "root": "sojourn, from Old French sojorner, from Latin sub- + diurnus (daily)",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who stays somewhere temporarily.",
-     "chinese": "旅居者;寄居者"
+     "chinese": "旅居者；寄居者"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "solecism",
     "pos": "n.",
     "definition": "A grammatical mistake; a violation of etiquette.",
-    "chinese": "語法錯誤;失禮",
+    "chinese": "語法錯誤；失禮",
     "synonyms": "",
     "root": "soloikismos (speaking incorrectly), from Greek, referring to the dialect of Soloi",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A grammatical mistake; a violation of etiquette.",
-     "chinese": "語法錯誤;失禮"
+     "chinese": "語法錯誤；失禮"
     }
    },
    {
     "word": "solemn",
     "pos": "adj.",
     "definition": "Formal and dignified; deeply serious.",
-    "chinese": "莊嚴的;嚴肅的",
+    "chinese": "莊嚴的；嚴肅的",
     "synonyms": "",
     "root": "sollemnis (annual, religiously fixed), from Latin",
     "group": "",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Formal and dignified; deeply serious.",
-     "chinese": "莊嚴的;嚴肅的"
+     "chinese": "莊嚴的；嚴肅的"
     }
    },
    {
     "word": "solemnity",
     "pos": "n.",
     "definition": "The state of being serious and dignified.",
-    "chinese": "莊嚴;肅穆",
+    "chinese": "莊嚴；肅穆",
     "synonyms": "",
     "root": "sollemnitas, from Latin sollemnis (annual, religiously fixed)",
     "group": "",
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being serious and dignified.",
-     "chinese": "莊嚴;肅穆"
+     "chinese": "莊嚴；肅穆"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "solidify",
     "pos": "v.",
     "definition": "To make or become solid, firm, or united.",
-    "chinese": "使凝固;鞏固",
+    "chinese": "使凝固；鞏固",
     "synonyms": "",
     "root": "solidus (solid) + -ify, from Latin",
     "group": "",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become solid, firm, or united.",
-     "chinese": "使凝固;鞏固"
+     "chinese": "使凝固；鞏固"
     }
    },
    {
@@ -772,7 +772,7 @@ window.FLASHCARD_UNITS = {
     "word": "solitary",
     "pos": "adj./n.",
     "definition": "Existing or done alone; a single person.",
-    "chinese": "孤獨的;獨自的",
+    "chinese": "孤獨的；獨自的",
     "synonyms": "",
     "root": "solitarius (alone), from Latin solus (alone)",
     "group": "",
@@ -784,14 +784,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing or done alone; a single person.",
-     "chinese": "孤獨的;獨自的"
+     "chinese": "孤獨的；獨自的"
     }
    },
    {
     "word": "solomonic",
     "pos": "adj.",
     "definition": "Showing great wisdom, especially in judgment.",
-    "chinese": "所羅門王般智慧的;明斷的",
+    "chinese": "所羅門王般智慧的；明斷的",
     "synonyms": "",
     "root": "named after King Solomon, from Hebrew Shlomo, renowned for wise judgment",
     "group": "",
@@ -803,7 +803,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing great wisdom, especially in judgment.",
-     "chinese": "所羅門王般智慧的;明斷的"
+     "chinese": "所羅門王般智慧的；明斷的"
     }
    },
    {
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "word": "sombrero",
     "pos": "n.",
     "definition": "A broad-brimmed hat, especially worn in Mexico and the Southwestern U.S.",
-    "chinese": "闊邊帽;墨西哥草帽",
+    "chinese": "闊邊帽；墨西哥草帽",
     "synonyms": "",
     "root": "sombra (shade) + -ero, from Spanish",
     "group": "",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A broad-brimmed hat, especially worn in Mexico and the Southwestern U.S.",
-     "chinese": "闊邊帽;墨西哥草帽"
+     "chinese": "闊邊帽；墨西哥草帽"
     }
    },
    {
@@ -888,7 +888,7 @@ window.FLASHCARD_UNITS = {
     "word": "somnolence",
     "pos": "n.",
     "definition": "A state of drowsiness or sleepiness.",
-    "chinese": "睏倦;嗜睡",
+    "chinese": "睏倦；嗜睡",
     "synonyms": "",
     "root": "somnolentia, from Latin somnus (sleep)",
     "group": "",
@@ -900,7 +900,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of drowsiness or sleepiness.",
-     "chinese": "睏倦;嗜睡"
+     "chinese": "睏倦；嗜睡"
     }
    },
    {
@@ -926,7 +926,7 @@ window.FLASHCARD_UNITS = {
     "word": "sonorous",
     "pos": "adj.",
     "definition": "Producing a deep, full sound.",
-    "chinese": "洪亮的;響亮的",
+    "chinese": "洪亮的；響亮的",
     "synonyms": "",
     "root": "sonorus, from Latin sonor (sound), from sonare (to sound)",
     "group": "",
@@ -938,14 +938,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing a deep, full sound.",
-     "chinese": "洪亮的;響亮的"
+     "chinese": "洪亮的；響亮的"
     }
    },
    {
     "word": "soothe",
     "pos": "v.",
     "definition": "To gently calm or comfort.",
-    "chinese": "安撫;撫慰",
+    "chinese": "安撫；撫慰",
     "synonyms": "",
     "root": "soð (true), from Old English, originally meaning to confirm as true",
     "group": "",
@@ -957,7 +957,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gently calm or comfort.",
-     "chinese": "安撫;撫慰"
+     "chinese": "安撫；撫慰"
     }
    }
   ],
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"slippery": ["Difficult to hold or stand on; unreliable or evasive.", "滑溜的;狡猾難信任的"], "slit": ["A long, narrow cut or opening.", "裂縫;狹長切口"], "slothful": ["Lazy; disinclined to activity or exertion.", "懶惰的;怠惰的"], "slovenly": ["Disorderly, carelessly.", "邋遢的；不修邊幅的"], "sluggard": ["A habitually lazy person.", "懶漢;懶惰的人"], "sluggish": ["Slow and lazy.", "遲緩的"], "sly": ["Underhanded, furtive.", "狡猾的"], "smarmy": ["Excessively flattering or ingratiating in an insincere way.", "諂媚的;虛偽討好的"], "smear": ["To spread something greasy or dirty; to damage someone's reputation with false claims.", "塗抹;抹黑"], "smidgen": ["A small amount (informal).", "少量;一點點(非正式)"], "smirch": ["To dishonor or stain, especially a reputation.", "玷污;弄髒"], "smirk": ["A smug or conceited smile.", "得意的笑;假笑"], "smitten": ["Deeply affected by love or infatuation; struck.", "深深迷戀的;為情所困的"], "smutty": ["Obscene or indecent; covered with soot or grime.", "淫穢的;骯髒的"], "snappish": ["Irritable and inclined to speak sharply.", "易怒的;暴躁的"], "sneaky": ["Marked by quiet and caution and secrecy.", "偷偷摸摸的；鬼鬼祟祟的"], "snicker": ["To laugh in a partly suppressed, disrespectful way.", "竊笑;偷笑"], "snigger": ["To laugh in a quiet, disrespectful way (British variant of snicker).", "竊笑;偷笑(英式)"], "snobbery": ["Arrogant or condescending behavior toward others.", "勢利；自命不凡"], "snobbish": ["Tending to associate only with people of a similar background.", "勢利的；自命清高的"], "snobbishness": ["The quality of looking down on those considered inferior in social status or taste.", "勢利;自命不凡"], "sober": ["Not drunk; serious and solemn.", "清醒的;嚴肅的"], "sobriety": ["Sedate, calm state.", "清醒；節制"], "sobriquet": ["A nickname, especially a humorous or affectionate one.", "綽號;別名"], "sobriquetical": ["Relating to or resembling a nickname.", "綽號性質的"], "sociability": ["The quality of being friendly and enjoying the company of others.", "社交性;親和力"], "sociable": ["Friendly and enjoying the company of others.", "善於社交的;親切的"], "sodden": ["Thoroughly soaked with liquid; heavy and doughy.", "濕透的;浸透的"], "soften": ["To make or become less hard, severe, or intense.", "軟化;緩和"], "soidisant": ["Self-styled; so-called (used to express skepticism about a claimed title).", "自稱的;所謂的"], "soigné": ["Elegantly and carefully groomed or maintained.", "精心打扮的;講究的"], "sojourner": ["A person who stays somewhere temporarily.", "旅居者;寄居者"], "solace": ["Easing of grief.", "安慰"], "solecism": ["A grammatical mistake; a violation of etiquette.", "語法錯誤;失禮"], "solemn": ["Formal and dignified; deeply serious.", "莊嚴的;嚴肅的"], "solemnity": ["The state of being serious and dignified.", "莊嚴;肅穆"], "solicit": ["To beg, seek.", "懇求；徵求"], "solicitous": ["Concerned, attentive.", "關切的；體貼的"], "solidify": ["To make or become solid, firm, or united.", "使凝固;鞏固"], "solipsistic": ["Believing that oneself is all that exists.", "唯我論的；自我中心的"], "solitary": ["Existing or done alone; a single person.", "孤獨的;獨自的"], "solomonic": ["Showing great wisdom, especially in judgment.", "所羅門王般智慧的;明斷的"], "soluble": ["Able to dissolve.", "可溶解的"], "solvent": ["A substance that can dissolve other substances.", "溶劑"], "sombrero": ["A broad-brimmed hat, especially worn in Mexico and the Southwestern U.S.", "闊邊帽;墨西哥草帽"], "sommelier": ["A waiter or steward who specializes in wine.", "侍酒師"], "somnolence": ["A state of drowsiness or sleepiness.", "睏倦;嗜睡"], "somnolent": ["Sleepy, drowsy.", "昏昏欲睡的；嗜睡的"], "sonorous": ["Producing a deep, full sound.", "洪亮的;響亮的"], "soothe": ["To gently calm or comfort.", "安撫;撫慰"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"slippery": ["Difficult to hold or stand on; unreliable or evasive.", "滑溜的；狡猾難信任的"], "slit": ["A long, narrow cut or opening.", "裂縫；狹長切口"], "slothful": ["Lazy; disinclined to activity or exertion.", "懶惰的；怠惰的"], "slovenly": ["Disorderly, carelessly.", "邋遢的；不修邊幅的"], "sluggard": ["A habitually lazy person.", "懶漢；懶惰的人"], "sluggish": ["Slow and lazy.", "遲緩的"], "sly": ["Underhanded, furtive.", "狡猾的"], "smarmy": ["Excessively flattering or ingratiating in an insincere way.", "諂媚的；虛偽討好的"], "smear": ["To spread something greasy or dirty; to damage someone's reputation with false claims.", "塗抹；抹黑"], "smidgen": ["A small amount (informal).", "少量；一點點(非正式)"], "smirch": ["To dishonor or stain, especially a reputation.", "玷污；弄髒"], "smirk": ["A smug or conceited smile.", "得意的笑；假笑"], "smitten": ["Deeply affected by love or infatuation; struck.", "深深迷戀的；為情所困的"], "smutty": ["Obscene or indecent; covered with soot or grime.", "淫穢的；骯髒的"], "snappish": ["Irritable and inclined to speak sharply.", "易怒的；暴躁的"], "sneaky": ["Marked by quiet and caution and secrecy.", "偷偷摸摸的；鬼鬼祟祟的"], "snicker": ["To laugh in a partly suppressed, disrespectful way.", "竊笑；偷笑"], "snigger": ["To laugh in a quiet, disrespectful way (British variant of snicker).", "竊笑；偷笑(英式)"], "snobbery": ["Arrogant or condescending behavior toward others.", "勢利；自命不凡"], "snobbish": ["Tending to associate only with people of a similar background.", "勢利的；自命清高的"], "snobbishness": ["The quality of looking down on those considered inferior in social status or taste.", "勢利；自命不凡"], "sober": ["Not drunk; serious and solemn.", "清醒的；嚴肅的"], "sobriety": ["Sedate, calm state.", "清醒；節制"], "sobriquet": ["A nickname, especially a humorous or affectionate one.", "綽號；別名"], "sobriquetical": ["Relating to or resembling a nickname.", "綽號性質的"], "sociability": ["The quality of being friendly and enjoying the company of others.", "社交性；親和力"], "sociable": ["Friendly and enjoying the company of others.", "善於社交的；親切的"], "sodden": ["Thoroughly soaked with liquid; heavy and doughy.", "濕透的；浸透的"], "soften": ["To make or become less hard, severe, or intense.", "軟化；緩和"], "soidisant": ["Self-styled; so-called (used to express skepticism about a claimed title).", "自稱的；所謂的"], "soigné": ["Elegantly and carefully groomed or maintained.", "精心打扮的；講究的"], "sojourner": ["A person who stays somewhere temporarily.", "旅居者；寄居者"], "solace": ["Easing of grief.", "安慰"], "solecism": ["A grammatical mistake; a violation of etiquette.", "語法錯誤；失禮"], "solemn": ["Formal and dignified; deeply serious.", "莊嚴的；嚴肅的"], "solemnity": ["The state of being serious and dignified.", "莊嚴；肅穆"], "solicit": ["To beg, seek.", "懇求；徵求"], "solicitous": ["Concerned, attentive.", "關切的；體貼的"], "solidify": ["To make or become solid, firm, or united.", "使凝固；鞏固"], "solipsistic": ["Believing that oneself is all that exists.", "唯我論的；自我中心的"], "solitary": ["Existing or done alone; a single person.", "孤獨的；獨自的"], "solomonic": ["Showing great wisdom, especially in judgment.", "所羅門王般智慧的；明斷的"], "soluble": ["Able to dissolve.", "可溶解的"], "solvent": ["A substance that can dissolve other substances.", "溶劑"], "sombrero": ["A broad-brimmed hat, especially worn in Mexico and the Southwestern U.S.", "闊邊帽；墨西哥草帽"], "sommelier": ["A waiter or steward who specializes in wine.", "侍酒師"], "somnolence": ["A state of drowsiness or sleepiness.", "睏倦；嗜睡"], "somnolent": ["Sleepy, drowsy.", "昏昏欲睡的；嗜睡的"], "sonorous": ["Producing a deep, full sound.", "洪亮的；響亮的"], "soothe": ["To gently calm or comfort.", "安撫；撫慰"]});

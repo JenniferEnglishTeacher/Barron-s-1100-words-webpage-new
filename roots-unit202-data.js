@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "monstrous",
     "pos": "adj.",
     "definition": "Extremely large, ugly, or shocking; morally repugnant.",
-    "chinese": "巨大醜陋的;令人髮指的",
+    "chinese": "巨大醜陋的；令人髮指的",
     "synonyms": "",
     "root": "monstrum (portent, monster), from Latin monere (to warn)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely large, ugly, or shocking; morally repugnant.",
-     "chinese": "巨大醜陋的;令人髮指的"
+     "chinese": "巨大醜陋的；令人髮指的"
     }
    },
    {
     "word": "monumental",
     "pos": "adj.",
     "definition": "Great in importance, extent, or size.",
-    "chinese": "巨大的;不朽的",
+    "chinese": "巨大的；不朽的",
     "synonyms": "",
     "root": "monumentum (memorial), from Latin monere (to remind)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great in importance, extent, or size.",
-     "chinese": "巨大的;不朽的"
+     "chinese": "巨大的；不朽的"
     }
    },
    {
     "word": "moonstruck",
     "pos": "adj.",
     "definition": "Romantically or dreamily distracted; slightly crazy.",
-    "chinese": "神魂顛倒的;痴迷的",
+    "chinese": "神魂顛倒的；痴迷的",
     "synonyms": "",
     "root": "moon, from Old English mona + struck, based on old belief the moon caused madness",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Romantically or dreamily distracted; slightly crazy.",
-     "chinese": "神魂顛倒的;痴迷的"
+     "chinese": "神魂顛倒的；痴迷的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "mordant",
     "pos": "adj.",
     "definition": "Sharply sarcastic or critical.",
-    "chinese": "尖酸刻薄的;辛辣諷刺的",
+    "chinese": "尖酸刻薄的；辛辣諷刺的",
     "synonyms": "",
     "root": "mordere (to bite), from Latin",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sharply sarcastic or critical.",
-     "chinese": "尖酸刻薄的;辛辣諷刺的"
+     "chinese": "尖酸刻薄的；辛辣諷刺的"
     }
    },
    {
     "word": "moreover",
     "pos": "adv.",
     "definition": "In addition to what has been said; furthermore.",
-    "chinese": "此外;而且",
+    "chinese": "此外；而且",
     "synonyms": "",
     "root": "more (greater) + over, from Middle English",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In addition to what has been said; furthermore.",
-     "chinese": "此外;而且"
+     "chinese": "此外；而且"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "moroseness",
     "pos": "n.",
     "definition": "A sullen and ill-tempered state.",
-    "chinese": "陰鬱;悶悶不樂",
+    "chinese": "陰鬱；悶悶不樂",
     "synonyms": "",
     "root": "morosus (peevish), from Latin mos (custom, mood)",
     "group": "",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sullen and ill-tempered state.",
-     "chinese": "陰鬱;悶悶不樂"
+     "chinese": "陰鬱；悶悶不樂"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "mournful",
     "pos": "adj.",
     "definition": "Feeling, expressing, or causing sorrow.",
-    "chinese": "悲傷的;哀悼的",
+    "chinese": "悲傷的；哀悼的",
     "synonyms": "",
     "root": "murnan (to mourn), from Old English",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling, expressing, or causing sorrow.",
-     "chinese": "悲傷的;哀悼的"
+     "chinese": "悲傷的；哀悼的"
     }
    },
    {
     "word": "muddle",
     "pos": "n./v.",
     "definition": "A state of confusion; to mix up or confuse.",
-    "chinese": "混亂;搞混",
+    "chinese": "混亂；搞混",
     "synonyms": "",
     "root": "moddelen (to wallow in mud), from Middle Dutch",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of confusion; to mix up or confuse.",
-     "chinese": "混亂;搞混"
+     "chinese": "混亂；搞混"
     }
    },
    {
     "word": "muliebrity",
     "pos": "n.",
     "definition": "The quality of being fully womanly; womanhood.",
-    "chinese": "女性特質;女人味",
+    "chinese": "女性特質；女人味",
     "synonyms": "",
     "root": "mulier (woman), from Latin",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being fully womanly; womanhood.",
-     "chinese": "女性特質;女人味"
+     "chinese": "女性特質；女人味"
     }
    },
    {
     "word": "mull",
     "pos": "v.",
     "definition": "To think about something carefully and at length.",
-    "chinese": "仔細考慮;沉思",
+    "chinese": "仔細考慮；沉思",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to grinding or milling",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To think about something carefully and at length.",
-     "chinese": "仔細考慮;沉思"
+     "chinese": "仔細考慮；沉思"
     }
    },
    {
@@ -409,7 +409,7 @@ window.FLASHCARD_UNITS = {
     "word": "multiparous",
     "pos": "adj.",
     "definition": "Having given birth to more than one child; producing multiple offspring.",
-    "chinese": "經產的;多產的",
+    "chinese": "經產的；多產的",
     "synonyms": "",
     "root": "multus (many) + parere (to bring forth), from Latin",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having given birth to more than one child; producing multiple offspring.",
-     "chinese": "經產的;多產的"
+     "chinese": "經產的；多產的"
     }
    },
    {
     "word": "multitudinous",
     "pos": "adj.",
     "definition": "Existing in great numbers.",
-    "chinese": "眾多的;數不清的",
+    "chinese": "眾多的；數不清的",
     "synonyms": "",
     "root": "multitudo (great number), from Latin multus (many)",
     "group": "",
@@ -440,14 +440,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing in great numbers.",
-     "chinese": "眾多的;數不清的"
+     "chinese": "眾多的；數不清的"
     }
    },
    {
     "word": "mumpsimus",
     "pos": "n.",
     "definition": "A person who obstinately clings to an outdated or incorrect belief or practice.",
-    "chinese": "固執己見者;墨守成規者",
+    "chinese": "固執己見者；墨守成規者",
     "synonyms": "",
     "root": "from a monk's mistaken Latin word, humorously preserved",
     "group": "",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who obstinately clings to an outdated or incorrect belief or practice.",
-     "chinese": "固執己見者;墨守成規者"
+     "chinese": "固執己見者；墨守成規者"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "muse",
     "pos": "n./v.",
     "definition": "A source of artistic inspiration; to think deeply about something.",
-    "chinese": "靈感來源;沉思",
+    "chinese": "靈感來源；沉思",
     "synonyms": "",
     "root": "Mousa (Muse, goddess of the arts), from Greek",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A source of artistic inspiration; to think deeply about something.",
-     "chinese": "靈感來源;沉思"
+     "chinese": "靈感來源；沉思"
     }
    },
    {
     "word": "myopic",
     "pos": "adj.",
     "definition": "Nearsighted; lacking foresight or broad perspective.",
-    "chinese": "近視的;短視的",
+    "chinese": "近視的；短視的",
     "synonyms": "",
     "root": "myein (to close) + ops (eye), from Greek",
     "group": "",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Nearsighted; lacking foresight or broad perspective.",
-     "chinese": "近視的;短視的"
+     "chinese": "近視的；短視的"
     }
    },
    {
@@ -601,7 +601,7 @@ window.FLASHCARD_UNITS = {
     "word": "mysterious",
     "pos": "adj.",
     "definition": "Difficult or impossible to understand or explain.",
-    "chinese": "神秘的;難以理解的",
+    "chinese": "神秘的；難以理解的",
     "synonyms": "",
     "root": "mysterion (secret rite), from Greek myein (to close the eyes)",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Difficult or impossible to understand or explain.",
-     "chinese": "神秘的;難以理解的"
+     "chinese": "神秘的；難以理解的"
     }
    },
    {
     "word": "mystery",
     "pos": "n.",
     "definition": "Something that is difficult to understand or explain.",
-    "chinese": "謎;神秘之事",
+    "chinese": "謎；神秘之事",
     "synonyms": "",
     "root": "mysterion (secret rite), from Greek myein (to close the eyes)",
     "group": "",
@@ -632,14 +632,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that is difficult to understand or explain.",
-     "chinese": "謎;神秘之事"
+     "chinese": "謎；神秘之事"
     }
    },
    {
     "word": "mystify",
     "pos": "v.",
     "definition": "To cause confusion or bewilderment.",
-    "chinese": "使困惑;使迷惑",
+    "chinese": "使困惑；使迷惑",
     "synonyms": "",
     "root": "mysterium (mystery), from Latin, via French mystifier",
     "group": "",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cause confusion or bewilderment.",
-     "chinese": "使困惑;使迷惑"
+     "chinese": "使困惑；使迷惑"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "métier",
     "pos": "n.",
     "definition": "An occupation or profession one is particularly suited to.",
-    "chinese": "專長;拿手行業",
+    "chinese": "專長；拿手行業",
     "synonyms": "",
     "root": "mestier (trade, craft), from Old French, from Latin ministerium",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An occupation or profession one is particularly suited to.",
-     "chinese": "專長;拿手行業"
+     "chinese": "專長；拿手行業"
     }
    },
    {
     "word": "nacre",
     "pos": "n.",
     "definition": "Mother-of-pearl, the iridescent substance lining certain shells.",
-    "chinese": "珍珠母;貝殼內層",
+    "chinese": "珍珠母；貝殼內層",
     "synonyms": "",
     "root": "naccara, from Arabic, via Italian and French",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mother-of-pearl, the iridescent substance lining certain shells.",
-     "chinese": "珍珠母;貝殼內層"
+     "chinese": "珍珠母；貝殼內層"
     }
    },
    {
@@ -867,7 +867,7 @@ window.FLASHCARD_UNITS = {
     "word": "nascency",
     "pos": "n.",
     "definition": "The state of being born or just beginning to exist.",
-    "chinese": "誕生;萌芽狀態",
+    "chinese": "誕生；萌芽狀態",
     "synonyms": "",
     "root": "nasci (to be born), from Latin",
     "group": "",
@@ -879,7 +879,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being born or just beginning to exist.",
-     "chinese": "誕生;萌芽狀態"
+     "chinese": "誕生；萌芽狀態"
     }
    },
    {
@@ -905,7 +905,7 @@ window.FLASHCARD_UNITS = {
     "word": "natural",
     "pos": "adj.",
     "definition": "Existing in or caused by nature; not artificial.",
-    "chinese": "自然的;天生的",
+    "chinese": "自然的；天生的",
     "synonyms": "",
     "root": "naturalis (of nature), from Latin natura (nature)",
     "group": "",
@@ -917,7 +917,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing in or caused by nature; not artificial.",
-     "chinese": "自然的;天生的"
+     "chinese": "自然的；天生的"
     }
    },
    {
@@ -943,7 +943,7 @@ window.FLASHCARD_UNITS = {
     "word": "nauseating",
     "pos": "adj.",
     "definition": "Causing a feeling of sickness or disgust.",
-    "chinese": "令人作嘔的;噁心的",
+    "chinese": "令人作嘔的；噁心的",
     "synonyms": "",
     "root": "nausea (seasickness), from Greek naus (ship)",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing a feeling of sickness or disgust.",
-     "chinese": "令人作嘔的;噁心的"
+     "chinese": "令人作嘔的；噁心的"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"monstrous": ["Extremely large, ugly, or shocking; morally repugnant.", "巨大醜陋的;令人髮指的"], "monumental": ["Great in importance, extent, or size.", "巨大的;不朽的"], "moonstruck": ["Romantically or dreamily distracted; slightly crazy.", "神魂顛倒的;痴迷的"], "morass": ["A wet swampy bog; something that traps and confuses.", "沼澤；困境"], "mordant": ["Sharply sarcastic or critical.", "尖酸刻薄的;辛辣諷刺的"], "moreover": ["In addition to what has been said; furthermore.", "此外;而且"], "mores": ["The moral attitudes and fixed customs of a group of people.", "習俗；風俗規範"], "morganatic": ["Relating to a marriage between a royal person and a commoner, where the commoner's rank remains unchanged.", "貴賤通婚的"], "moribund": ["Dying, at the point of death.", "垂死的"], "moron": ["A stupid person (informal, offensive).", "笨蛋(非正式,冒犯用語)"], "morose": ["Gloomy or sullen.", "陰鬱的；悶悶不樂的"], "moroseness": ["A sullen and ill-tempered state.", "陰鬱;悶悶不樂"], "mortal": ["Subject to death.", "凡人的；終有一死的"], "mortality": ["Death.", "死亡率；必死性"], "mountebank": ["A person who deceives others, especially to sell fraudulent goods.", "江湖騙子"], "mournful": ["Feeling, expressing, or causing sorrow.", "悲傷的;哀悼的"], "muddle": ["A state of confusion; to mix up or confuse.", "混亂;搞混"], "muliebrity": ["The quality of being fully womanly; womanhood.", "女性特質;女人味"], "mull": ["To think about something carefully and at length.", "仔細考慮;沉思"], "multifarious": ["Having great diversity or variety.", "多樣的；種類繁多的"], "multipara": ["A woman who has given birth to more than one child.", "經產婦"], "multiparous": ["Having given birth to more than one child; producing multiple offspring.", "經產的;多產的"], "multitudinous": ["Existing in great numbers.", "眾多的;數不清的"], "mumpsimus": ["A person who obstinately clings to an outdated or incorrect belief or practice.", "固執己見者;墨守成規者"], "mundane": ["Ordinary.", "平凡的"], "murder": ["The unlawful killing of another person; to kill unlawfully.", "謀殺"], "murky": ["Dark, obscure.", "昏暗的；陰晦的"], "muse": ["A source of artistic inspiration; to think deeply about something.", "靈感來源;沉思"], "myopic": ["Nearsighted; lacking foresight or broad perspective.", "近視的;短視的"], "myriad": ["Countless number.", "無數的；極大量的"], "myrmidon": ["A loyal follower who carries out orders without question.", "唯命是從的部下"], "mysterious": ["Difficult or impossible to understand or explain.", "神秘的;難以理解的"], "mystery": ["Something that is difficult to understand or explain.", "謎;神秘之事"], "mystify": ["To cause confusion or bewilderment.", "使困惑;使迷惑"], "mystifying": ["Extremely confusing or difficult to understand; baffling.", "令人困惑的"], "métier": ["An occupation or profession one is particularly suited to.", "專長;拿手行業"], "nacre": ["Mother-of-pearl, the iridescent substance lining certain shells.", "珍珠母;貝殼內層"], "nacreous": ["Having the iridescent luster of mother-of-pearl.", "珍珠光澤的"], "nadir": ["Lowest point.", "最低點"], "nagging": ["Continually complaining or faultfinding.", "嘮叨的；揮之不去的"], "naive": ["Unworldly, unsophisticated.", "天真的；幼稚的"], "narcissism": ["Excessive interest in or admiration of oneself.", "自戀"], "narcissist": ["Having to do with extreme self-adoration.", "自戀者"], "narcissistic": ["Having an excessive interest in or admiration of oneself.", "自戀的"], "narrow-minded": ["Having a limited or intolerant outlook.", "心胸狹隘的"], "nascency": ["The state of being born or just beginning to exist.", "誕生;萌芽狀態"], "nascent": ["Beginning to exist or develop.", "初生的；新生的"], "natural": ["Existing in or caused by nature; not artificial.", "自然的;天生的"], "nausea": ["Disgust so strong it makes you feel sick.", "噁心；反胃"], "nauseating": ["Causing a feeling of sickness or disgust.", "令人作嘔的;噁心的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"monstrous": ["Extremely large, ugly, or shocking; morally repugnant.", "巨大醜陋的；令人髮指的"], "monumental": ["Great in importance, extent, or size.", "巨大的；不朽的"], "moonstruck": ["Romantically or dreamily distracted; slightly crazy.", "神魂顛倒的；痴迷的"], "morass": ["A wet swampy bog; something that traps and confuses.", "沼澤；困境"], "mordant": ["Sharply sarcastic or critical.", "尖酸刻薄的；辛辣諷刺的"], "moreover": ["In addition to what has been said; furthermore.", "此外；而且"], "mores": ["The moral attitudes and fixed customs of a group of people.", "習俗；風俗規範"], "morganatic": ["Relating to a marriage between a royal person and a commoner, where the commoner's rank remains unchanged.", "貴賤通婚的"], "moribund": ["Dying, at the point of death.", "垂死的"], "moron": ["A stupid person (informal, offensive).", "笨蛋(非正式,冒犯用語)"], "morose": ["Gloomy or sullen.", "陰鬱的；悶悶不樂的"], "moroseness": ["A sullen and ill-tempered state.", "陰鬱；悶悶不樂"], "mortal": ["Subject to death.", "凡人的；終有一死的"], "mortality": ["Death.", "死亡率；必死性"], "mountebank": ["A person who deceives others, especially to sell fraudulent goods.", "江湖騙子"], "mournful": ["Feeling, expressing, or causing sorrow.", "悲傷的；哀悼的"], "muddle": ["A state of confusion; to mix up or confuse.", "混亂；搞混"], "muliebrity": ["The quality of being fully womanly; womanhood.", "女性特質；女人味"], "mull": ["To think about something carefully and at length.", "仔細考慮；沉思"], "multifarious": ["Having great diversity or variety.", "多樣的；種類繁多的"], "multipara": ["A woman who has given birth to more than one child.", "經產婦"], "multiparous": ["Having given birth to more than one child; producing multiple offspring.", "經產的；多產的"], "multitudinous": ["Existing in great numbers.", "眾多的；數不清的"], "mumpsimus": ["A person who obstinately clings to an outdated or incorrect belief or practice.", "固執己見者；墨守成規者"], "mundane": ["Ordinary.", "平凡的"], "murder": ["The unlawful killing of another person; to kill unlawfully.", "謀殺"], "murky": ["Dark, obscure.", "昏暗的；陰晦的"], "muse": ["A source of artistic inspiration; to think deeply about something.", "靈感來源；沉思"], "myopic": ["Nearsighted; lacking foresight or broad perspective.", "近視的；短視的"], "myriad": ["Countless number.", "無數的；極大量的"], "myrmidon": ["A loyal follower who carries out orders without question.", "唯命是從的部下"], "mysterious": ["Difficult or impossible to understand or explain.", "神秘的；難以理解的"], "mystery": ["Something that is difficult to understand or explain.", "謎；神秘之事"], "mystify": ["To cause confusion or bewilderment.", "使困惑；使迷惑"], "mystifying": ["Extremely confusing or difficult to understand; baffling.", "令人困惑的"], "métier": ["An occupation or profession one is particularly suited to.", "專長；拿手行業"], "nacre": ["Mother-of-pearl, the iridescent substance lining certain shells.", "珍珠母；貝殼內層"], "nacreous": ["Having the iridescent luster of mother-of-pearl.", "珍珠光澤的"], "nadir": ["Lowest point.", "最低點"], "nagging": ["Continually complaining or faultfinding.", "嘮叨的；揮之不去的"], "naive": ["Unworldly, unsophisticated.", "天真的；幼稚的"], "narcissism": ["Excessive interest in or admiration of oneself.", "自戀"], "narcissist": ["Having to do with extreme self-adoration.", "自戀者"], "narcissistic": ["Having an excessive interest in or admiration of oneself.", "自戀的"], "narrow-minded": ["Having a limited or intolerant outlook.", "心胸狹隘的"], "nascency": ["The state of being born or just beginning to exist.", "誕生；萌芽狀態"], "nascent": ["Beginning to exist or develop.", "初生的；新生的"], "natural": ["Existing in or caused by nature; not artificial.", "自然的；天生的"], "nausea": ["Disgust so strong it makes you feel sick.", "噁心；反胃"], "nauseating": ["Causing a feeling of sickness or disgust.", "令人作嘔的；噁心的"]});

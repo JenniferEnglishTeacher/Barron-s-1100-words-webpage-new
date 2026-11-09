@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "guffaw",
     "pos": "n./v.",
     "definition": "A loud, hearty laugh.",
-    "chinese": "大笑;哄笑",
+    "chinese": "大笑；哄笑",
     "synonyms": "",
     "root": "of imitative Scottish origin",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A loud, hearty laugh.",
-     "chinese": "大笑;哄笑"
+     "chinese": "大笑；哄笑"
     }
    },
    {
     "word": "guide",
     "pos": "n./v.",
     "definition": "A person or thing that shows the way; to direct.",
-    "chinese": "嚮導;指導",
+    "chinese": "嚮導；指導",
     "synonyms": "",
     "root": "widan (to know, see), from Germanic, via Old French guider",
     "group": "",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person or thing that shows the way; to direct.",
-     "chinese": "嚮導;指導"
+     "chinese": "嚮導；指導"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "guileful",
     "pos": "adj.",
     "definition": "Cunning and deceptive.",
-    "chinese": "狡詐的;奸詐的",
+    "chinese": "狡詐的；奸詐的",
     "synonyms": "",
     "root": "guile (deceit), from Old French, possibly Germanic",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cunning and deceptive.",
-     "chinese": "狡詐的;奸詐的"
+     "chinese": "狡詐的；奸詐的"
     }
    },
    {
     "word": "guileless",
     "pos": "adj.",
     "definition": "Innocent and honest; without deception.",
-    "chinese": "天真無邪的;誠實的",
+    "chinese": "天真無邪的；誠實的",
     "synonyms": "",
     "root": "guile (deceit), from Old French, possibly Germanic",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Innocent and honest; without deception.",
-     "chinese": "天真無邪的;誠實的"
+     "chinese": "天真無邪的；誠實的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "guilty",
     "pos": "adj.",
     "definition": "Having committed an offense; feeling responsible for wrongdoing.",
-    "chinese": "有罪的;內疚的",
+    "chinese": "有罪的；內疚的",
     "synonyms": "",
     "root": "gylt (crime, sin), from Old English",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having committed an offense; feeling responsible for wrongdoing.",
-     "chinese": "有罪的;內疚的"
+     "chinese": "有罪的；內疚的"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "gull",
     "pos": "v./n.",
     "definition": "To deceive or trick someone; a seabird.",
-    "chinese": "欺騙;海鷗",
+    "chinese": "欺騙；海鷗",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deceive or trick someone; a seabird.",
-     "chinese": "欺騙;海鷗"
+     "chinese": "欺騙；海鷗"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "guru",
     "pos": "n.",
     "definition": "A spiritual teacher; an influential expert.",
-    "chinese": "導師;權威",
+    "chinese": "導師；權威",
     "synonyms": "",
     "root": "guru (teacher, venerable), from Sanskrit",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A spiritual teacher; an influential expert.",
-     "chinese": "導師;權威"
+     "chinese": "導師；權威"
     }
    },
    {
     "word": "gustation",
     "pos": "n.",
     "definition": "The sense of taste; the act of tasting.",
-    "chinese": "味覺;品嚐",
+    "chinese": "味覺；品嚐",
     "synonyms": "",
     "root": "gustare (to taste), from Latin",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The sense of taste; the act of tasting.",
-     "chinese": "味覺;品嚐"
+     "chinese": "味覺；品嚐"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "gutless",
     "pos": "adj.",
     "definition": "Lacking courage; cowardly.",
-    "chinese": "懦弱的;沒有膽量的",
+    "chinese": "懦弱的；沒有膽量的",
     "synonyms": "",
     "root": "gut (courage, informal) + -less, from Old English",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking courage; cowardly.",
-     "chinese": "懦弱的;沒有膽量的"
+     "chinese": "懦弱的；沒有膽量的"
     }
    },
    {
     "word": "hacienda",
     "pos": "n.",
     "definition": "A large estate or ranch, especially in Spanish-speaking countries.",
-    "chinese": "莊園;種植園",
+    "chinese": "莊園；種植園",
     "synonyms": "",
     "root": "hacienda (estate), from Spanish, from Latin facienda",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large estate or ranch, especially in Spanish-speaking countries.",
-     "chinese": "莊園;種植園"
+     "chinese": "莊園；種植園"
     }
    },
    {
     "word": "hack",
     "pos": "v./n.",
     "definition": "To cut roughly; an unskilled writer or someone who gains unauthorized computer access.",
-    "chinese": "亂砍;拙劣寫手;駭客行為",
+    "chinese": "亂砍；拙劣寫手；駭客行為",
     "synonyms": "",
     "root": "haccian, from Old English",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cut roughly; an unskilled writer or someone who gains unauthorized computer access.",
-     "chinese": "亂砍;拙劣寫手;駭客行為"
+     "chinese": "亂砍；拙劣寫手；駭客行為"
     }
    },
    {
     "word": "hackney",
     "pos": "n./adj.",
     "definition": "A horse-drawn carriage for hire; commonplace or overused.",
-    "chinese": "出租馬車;陳腐的",
+    "chinese": "出租馬車；陳腐的",
     "synonyms": "",
     "root": "Hackney, a district in London",
     "group": "",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A horse-drawn carriage for hire; commonplace or overused.",
-     "chinese": "出租馬車;陳腐的"
+     "chinese": "出租馬車；陳腐的"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "halfwit",
     "pos": "n.",
     "definition": "A foolish or stupid person.",
-    "chinese": "笨蛋;傻瓜",
+    "chinese": "笨蛋；傻瓜",
     "synonyms": "",
     "root": "half + wit, from Old English",
     "group": "",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A foolish or stupid person.",
-     "chinese": "笨蛋;傻瓜"
+     "chinese": "笨蛋；傻瓜"
     }
    },
    {
     "word": "hallow",
     "pos": "v.",
     "definition": "To honor as holy; to consecrate.",
-    "chinese": "使神聖化;尊崇",
+    "chinese": "使神聖化；尊崇",
     "synonyms": "",
     "root": "halgian (to make holy), from Old English",
     "group": "",
@@ -480,7 +480,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To honor as holy; to consecrate.",
-     "chinese": "使神聖化;尊崇"
+     "chinese": "使神聖化；尊崇"
     }
    },
    {
@@ -569,7 +569,7 @@ window.FLASHCARD_UNITS = {
     "word": "handicap",
     "pos": "n./v.",
     "definition": "A condition that limits a person's abilities; to put at a disadvantage.",
-    "chinese": "障礙;不利條件",
+    "chinese": "障礙；不利條件",
     "synonyms": "",
     "root": "hand in cap, an old lottery game, from Old English",
     "group": "",
@@ -581,7 +581,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A condition that limits a person's abilities; to put at a disadvantage.",
-     "chinese": "障礙;不利條件"
+     "chinese": "障礙；不利條件"
     }
    },
    {
@@ -607,7 +607,7 @@ window.FLASHCARD_UNITS = {
     "word": "handy",
     "pos": "adj.",
     "definition": "Convenient to use or reach; skillful with one's hands.",
-    "chinese": "方便的;手巧的",
+    "chinese": "方便的；手巧的",
     "synonyms": "",
     "root": "hand, from Old English",
     "group": "",
@@ -619,14 +619,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Convenient to use or reach; skillful with one's hands.",
-     "chinese": "方便的;手巧的"
+     "chinese": "方便的；手巧的"
     }
    },
    {
     "word": "hanger-on",
     "pos": "n.",
     "definition": "A person who associates with another for personal advantage.",
-    "chinese": "攀附者;食客",
+    "chinese": "攀附者；食客",
     "synonyms": "",
     "root": "hang + on, from Old English",
     "group": "",
@@ -640,7 +640,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who associates with another for personal advantage.",
-     "chinese": "攀附者;食客"
+     "chinese": "攀附者；食客"
     }
    },
    {
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "word": "harbor",
     "pos": "n./v.",
     "definition": "A sheltered place for ships; to hold a feeling secretly.",
-    "chinese": "港口;懷有(情感)",
+    "chinese": "港口；懷有(情感)",
     "synonyms": "",
     "root": "here (army) + beorg (shelter), from Old English",
     "group": "",
@@ -754,7 +754,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sheltered place for ships; to hold a feeling secretly.",
-     "chinese": "港口;懷有(情感)"
+     "chinese": "港口；懷有(情感)"
     }
    },
    {
@@ -818,7 +818,7 @@ window.FLASHCARD_UNITS = {
     "word": "harmony",
     "pos": "n.",
     "definition": "The state of forming a pleasing or consistent whole; agreement.",
-    "chinese": "和諧;融洽",
+    "chinese": "和諧；融洽",
     "synonyms": "",
     "root": "harmonia (agreement, concord), from Greek",
     "group": "",
@@ -830,14 +830,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of forming a pleasing or consistent whole; agreement.",
-     "chinese": "和諧;融洽"
+     "chinese": "和諧；融洽"
     }
    },
    {
     "word": "harridan",
     "pos": "n.",
     "definition": "A strict, bossy, or unpleasant old woman.",
-    "chinese": "潑婦;凶悍的老婦",
+    "chinese": "潑婦；凶悍的老婦",
     "synonyms": "",
     "root": "of uncertain French origin, haridelle (old horse)",
     "group": "",
@@ -849,7 +849,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A strict, bossy, or unpleasant old woman.",
-     "chinese": "潑婦;凶悍的老婦"
+     "chinese": "潑婦；凶悍的老婦"
     }
    },
    {
@@ -875,7 +875,7 @@ window.FLASHCARD_UNITS = {
     "word": "harry",
     "pos": "v.",
     "definition": "To persistently harass or torment.",
-    "chinese": "騷擾;不斷侵擾",
+    "chinese": "騷擾；不斷侵擾",
     "synonyms": "",
     "root": "hergian (to raid, harry), from Old English",
     "group": "",
@@ -887,7 +887,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To persistently harass or torment.",
-     "chinese": "騷擾;不斷侵擾"
+     "chinese": "騷擾；不斷侵擾"
     }
    },
    {
@@ -915,7 +915,7 @@ window.FLASHCARD_UNITS = {
     "word": "haughtiness",
     "pos": "n.",
     "definition": "Arrogant pride and disdain for others.",
-    "chinese": "傲慢;高傲",
+    "chinese": "傲慢；高傲",
     "synonyms": "",
     "root": "haut (high), from Old French",
     "group": "",
@@ -927,7 +927,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arrogant pride and disdain for others.",
-     "chinese": "傲慢;高傲"
+     "chinese": "傲慢；高傲"
     }
    },
    {
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "word": "hauteur",
     "pos": "n.",
     "definition": "Haughty arrogance of manner.",
-    "chinese": "傲慢的態度;高傲",
+    "chinese": "傲慢的態度；高傲",
     "synonyms": "",
     "root": "haut (high), from Old French",
     "group": "",
@@ -965,7 +965,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Haughty arrogance of manner.",
-     "chinese": "傲慢的態度;高傲"
+     "chinese": "傲慢的態度；高傲"
     }
    }
   ],
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"guesstimate": ["An estimate made without much information; a rough calculation.", "粗略估計"], "guffaw": ["A loud, hearty laugh.", "大笑;哄笑"], "guide": ["A person or thing that shows the way; to direct.", "嚮導;指導"], "guile": ["Deceitful, cunning, sly behavior.", "狡詐；詭計"], "guileful": ["Cunning and deceptive.", "狡詐的;奸詐的"], "guileless": ["Innocent and honest; without deception.", "天真無邪的;誠實的"], "guillotine": ["A device used for beheading people as a means of execution.", "斷頭台"], "guilty": ["Having committed an offense; feeling responsible for wrongdoing.", "有罪的;內疚的"], "guise": ["Mien, appearance, manner.", "偽裝；外觀"], "gull": ["To deceive or trick someone; a seabird.", "欺騙;海鷗"], "gullible": ["Easily cheated or fooled.", "易受騙的；輕信的"], "guru": ["A spiritual teacher; an influential expert.", "導師;權威"], "gustation": ["The sense of taste; the act of tasting.", "味覺;品嚐"], "gustatory": ["Relating to the sense of taste.", "味覺的"], "gusto": ["Enthusiasm, enjoyment, zest.", "熱情；津津有味"], "gutless": ["Lacking courage; cowardly.", "懦弱的;沒有膽量的"], "hacienda": ["A large estate or ranch, especially in Spanish-speaking countries.", "莊園;種植園"], "hack": ["To cut roughly; an unskilled writer or someone who gains unauthorized computer access.", "亂砍;拙劣寫手;駭客行為"], "hackney": ["A horse-drawn carriage for hire; commonplace or overused.", "出租馬車;陳腐的"], "hackneyed": ["Made commonplace by overuse; trite.", "陳腐的"], "haggard": ["Showing the wearing effects of overwork, care, or suffering.", "憔悴的；疲憊不堪的"], "hairdresser": ["A person who cuts and styles hair professionally.", "美髮師"], "halcyon": ["Idyllically peaceful, calm.", "寧靜的；平穩的"], "halfwit": ["A foolish or stupid person.", "笨蛋;傻瓜"], "hallow": ["To honor as holy; to consecrate.", "使神聖化;尊崇"], "hallowed": ["Revered, consecrated.", "神聖的；受尊崇的"], "hallucination": ["An experience of perceiving something that is not actually present.", "幻覺"], "hamper": ["To hinder; to prevent something from happening.", "阻礙"], "handbill": ["A small printed notice or advertisement distributed by hand.", "傳單"], "handicap": ["A condition that limits a person's abilities; to put at a disadvantage.", "障礙;不利條件"], "handkerchief": ["A small piece of cloth used for wiping the nose or face.", "手帕"], "handy": ["Convenient to use or reach; skillful with one's hands.", "方便的;手巧的"], "hanger-on": ["A person who associates with another for personal advantage.", "攀附者;食客"], "haphazard": ["Lacking organization or planning.", "雜亂無章的；隨意的"], "hapless": ["Unfortunate, unlucky.", "倒霉的"], "harangue": ["A ranting speech.", "長篇說教；激烈演說"], "harass": ["To trouble, torment.", "騷擾"], "harbinger": ["Forerunner, advance notice.", "先兆"], "harbor": ["A sheltered place for ships; to hold a feeling secretly.", "港口;懷有(情感)"], "hardy": ["Healthy and strong; robust.", "強健的"], "harlot": ["A prostitute (archaic).", "娼妓(古語)"], "harmonious": ["Forming a pleasing or consistent whole; free from conflict.", "和諧的"], "harmony": ["The state of forming a pleasing or consistent whole; agreement.", "和諧;融洽"], "harridan": ["A strict, bossy, or unpleasant old woman.", "潑婦;凶悍的老婦"], "harrowing": ["Greatly distressing, vexing.", "令人痛苦的；煎熬的"], "harry": ["To persistently harass or torment.", "騷擾;不斷侵擾"], "hasten": ["To move or act quickly.", "加速；趕緊"], "haughtiness": ["Arrogant pride and disdain for others.", "傲慢;高傲"], "haughty": ["Having a great pride in oneself and dislike for others.", "高傲的"], "hauteur": ["Haughty arrogance of manner.", "傲慢的態度;高傲"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"guesstimate": ["An estimate made without much information; a rough calculation.", "粗略估計"], "guffaw": ["A loud, hearty laugh.", "大笑；哄笑"], "guide": ["A person or thing that shows the way; to direct.", "嚮導；指導"], "guile": ["Deceitful, cunning, sly behavior.", "狡詐；詭計"], "guileful": ["Cunning and deceptive.", "狡詐的；奸詐的"], "guileless": ["Innocent and honest; without deception.", "天真無邪的；誠實的"], "guillotine": ["A device used for beheading people as a means of execution.", "斷頭台"], "guilty": ["Having committed an offense; feeling responsible for wrongdoing.", "有罪的；內疚的"], "guise": ["Mien, appearance, manner.", "偽裝；外觀"], "gull": ["To deceive or trick someone; a seabird.", "欺騙；海鷗"], "gullible": ["Easily cheated or fooled.", "易受騙的；輕信的"], "guru": ["A spiritual teacher; an influential expert.", "導師；權威"], "gustation": ["The sense of taste; the act of tasting.", "味覺；品嚐"], "gustatory": ["Relating to the sense of taste.", "味覺的"], "gusto": ["Enthusiasm, enjoyment, zest.", "熱情；津津有味"], "gutless": ["Lacking courage; cowardly.", "懦弱的；沒有膽量的"], "hacienda": ["A large estate or ranch, especially in Spanish-speaking countries.", "莊園；種植園"], "hack": ["To cut roughly; an unskilled writer or someone who gains unauthorized computer access.", "亂砍；拙劣寫手；駭客行為"], "hackney": ["A horse-drawn carriage for hire; commonplace or overused.", "出租馬車；陳腐的"], "hackneyed": ["Made commonplace by overuse; trite.", "陳腐的"], "haggard": ["Showing the wearing effects of overwork, care, or suffering.", "憔悴的；疲憊不堪的"], "hairdresser": ["A person who cuts and styles hair professionally.", "美髮師"], "halcyon": ["Idyllically peaceful, calm.", "寧靜的；平穩的"], "halfwit": ["A foolish or stupid person.", "笨蛋；傻瓜"], "hallow": ["To honor as holy; to consecrate.", "使神聖化；尊崇"], "hallowed": ["Revered, consecrated.", "神聖的；受尊崇的"], "hallucination": ["An experience of perceiving something that is not actually present.", "幻覺"], "hamper": ["To hinder; to prevent something from happening.", "阻礙"], "handbill": ["A small printed notice or advertisement distributed by hand.", "傳單"], "handicap": ["A condition that limits a person's abilities; to put at a disadvantage.", "障礙；不利條件"], "handkerchief": ["A small piece of cloth used for wiping the nose or face.", "手帕"], "handy": ["Convenient to use or reach; skillful with one's hands.", "方便的；手巧的"], "hanger-on": ["A person who associates with another for personal advantage.", "攀附者；食客"], "haphazard": ["Lacking organization or planning.", "雜亂無章的；隨意的"], "hapless": ["Unfortunate, unlucky.", "倒霉的"], "harangue": ["A ranting speech.", "長篇說教；激烈演說"], "harass": ["To trouble, torment.", "騷擾"], "harbinger": ["Forerunner, advance notice.", "先兆"], "harbor": ["A sheltered place for ships; to hold a feeling secretly.", "港口；懷有(情感)"], "hardy": ["Healthy and strong; robust.", "強健的"], "harlot": ["A prostitute (archaic).", "娼妓(古語)"], "harmonious": ["Forming a pleasing or consistent whole; free from conflict.", "和諧的"], "harmony": ["The state of forming a pleasing or consistent whole; agreement.", "和諧；融洽"], "harridan": ["A strict, bossy, or unpleasant old woman.", "潑婦；凶悍的老婦"], "harrowing": ["Greatly distressing, vexing.", "令人痛苦的；煎熬的"], "harry": ["To persistently harass or torment.", "騷擾；不斷侵擾"], "hasten": ["To move or act quickly.", "加速；趕緊"], "haughtiness": ["Arrogant pride and disdain for others.", "傲慢；高傲"], "haughty": ["Having a great pride in oneself and dislike for others.", "高傲的"], "hauteur": ["Haughty arrogance of manner.", "傲慢的態度；高傲"]});

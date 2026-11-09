@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "tactless",
     "pos": "adj.",
     "definition": "Lacking sensitivity in dealing with others.",
-    "chinese": "不圓滑的;缺乏分寸的",
+    "chinese": "不圓滑的；缺乏分寸的",
     "synonyms": "",
     "root": "tact, from Latin tactus (touch) + -less",
     "group": "tact；tag = 接觸",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking sensitivity in dealing with others.",
-     "chinese": "不圓滑的;缺乏分寸的"
+     "chinese": "不圓滑的；缺乏分寸的"
     }
    },
    {
     "word": "tangent",
     "pos": "n./adj.",
     "definition": "A completely different line of thought or action; touching but not intersecting.",
-    "chinese": "離題;切線的",
+    "chinese": "離題；切線的",
     "synonyms": "",
     "root": "tangere (to touch), from Latin",
     "group": "tact；tag = 接觸",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A completely different line of thought or action; touching but not intersecting.",
-     "chinese": "離題;切線的"
+     "chinese": "離題；切線的"
     }
    },
    {
@@ -395,4 +395,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tangible": ["Having actual form.", "有形的；實體的"], "integral": ["Essential.", "不可或缺的；整體的"], "attain": ["To achieve, arrive at.", "達成；獲得"], "contingent": ["Dependent on something else.", "視情況而定的；偶然的"], "intangible": ["Not able to be touched or measured.", "無形的"], "tactile": ["Relating to or involving the sense of touch.", "觸覺的"], "tactless": ["Lacking sensitivity in dealing with others.", "不圓滑的;缺乏分寸的"], "tangent": ["A completely different line of thought or action; touching but not intersecting.", "離題;切線的"], "tangential": ["Incidental, peripheral, divergent.", "離題的；邊緣的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tangible": ["Having actual form.", "有形的；實體的"], "integral": ["Essential.", "不可或缺的；整體的"], "attain": ["To achieve, arrive at.", "達成；獲得"], "contingent": ["Dependent on something else.", "視情況而定的；偶然的"], "intangible": ["Not able to be touched or measured.", "無形的"], "tactile": ["Relating to or involving the sense of touch.", "觸覺的"], "tactless": ["Lacking sensitivity in dealing with others.", "不圓滑的；缺乏分寸的"], "tangent": ["A completely different line of thought or action; touching but not intersecting.", "離題；切線的"], "tangential": ["Incidental, peripheral, divergent.", "離題的；邊緣的"]});

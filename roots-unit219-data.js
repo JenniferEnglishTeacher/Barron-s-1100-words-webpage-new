@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "saintly",
     "pos": "adj.",
     "definition": "Resembling or characteristic of a saint; extremely virtuous.",
-    "chinese": "聖潔的;有聖人風範的",
+    "chinese": "聖潔的；有聖人風範的",
     "synonyms": "",
     "root": "sanctus (holy), from Latin sancire (to make sacred)",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling or characteristic of a saint; extremely virtuous.",
-     "chinese": "聖潔的;有聖人風範的"
+     "chinese": "聖潔的；有聖人風範的"
     }
    },
    {
     "word": "salacious",
     "pos": "adj.",
     "definition": "Having an excessive interest in sexual matters.",
-    "chinese": "淫穢的;好色的",
+    "chinese": "淫穢的；好色的",
     "synonyms": "",
     "root": "salax (lustful), from Latin salire (to leap)",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having an excessive interest in sexual matters.",
-     "chinese": "淫穢的;好色的"
+     "chinese": "淫穢的；好色的"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "sallow",
     "pos": "adj.",
     "definition": "Of an unhealthy yellowish skin color.",
-    "chinese": "蠟黃的;病態的",
+    "chinese": "蠟黃的；病態的",
     "synonyms": "",
     "root": "salu (dark, dusky), from Old English",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of an unhealthy yellowish skin color.",
-     "chinese": "蠟黃的;病態的"
+     "chinese": "蠟黃的；病態的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "salmagundi",
     "pos": "n.",
     "definition": "A mixed salad or dish; a general mixture or medley.",
-    "chinese": "什錦沙拉;大雜燴",
+    "chinese": "什錦沙拉；大雜燴",
     "synonyms": "",
     "root": "salmigondin, from French, of uncertain further origin",
     "group": "",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mixed salad or dish; a general mixture or medley.",
-     "chinese": "什錦沙拉;大雜燴"
+     "chinese": "什錦沙拉；大雜燴"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "saltant",
     "pos": "adj.",
     "definition": "Leaping or dancing; characterized by abrupt movement.",
-    "chinese": "跳躍的;跳動的",
+    "chinese": "跳躍的；跳動的",
     "synonyms": "",
     "root": "salire (to leap), from Latin",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Leaping or dancing; characterized by abrupt movement.",
-     "chinese": "跳躍的;跳動的"
+     "chinese": "跳躍的；跳動的"
     }
    },
    {
     "word": "saltate",
     "pos": "v.",
     "definition": "To leap or jump; to proceed by sudden jumps rather than gradually.",
-    "chinese": "跳躍;躍進",
+    "chinese": "跳躍；躍進",
     "synonyms": "",
     "root": "saltare (to leap, dance), from Latin salire (to leap)",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To leap or jump; to proceed by sudden jumps rather than gradually.",
-     "chinese": "跳躍;躍進"
+     "chinese": "跳躍；躍進"
     }
    },
    {
     "word": "saltation",
     "pos": "n.",
     "definition": "The action of leaping or jumping; a sudden evolutionary change.",
-    "chinese": "跳躍;躍進演化",
+    "chinese": "跳躍；躍進演化",
     "synonyms": "",
     "root": "saltare (to leap, dance), from Latin salire (to leap)",
     "group": "",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The action of leaping or jumping; a sudden evolutionary change.",
-     "chinese": "跳躍;躍進演化"
+     "chinese": "跳躍；躍進演化"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "salubriousness",
     "pos": "n.",
     "definition": "The quality of being health-giving or beneficial to health.",
-    "chinese": "有益健康;衛生",
+    "chinese": "有益健康；衛生",
     "synonyms": "",
     "root": "salubris (healthy), from Latin salus (health)",
     "group": "",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being health-giving or beneficial to health.",
-     "chinese": "有益健康;衛生"
+     "chinese": "有益健康；衛生"
     }
    },
    {
     "word": "salutary",
     "pos": "adj.",
     "definition": "Producing good effects, often through an unpleasant experience.",
-    "chinese": "有益的;有教育意義的",
+    "chinese": "有益的；有教育意義的",
     "synonyms": "",
     "root": "salutaris (healthful), from Latin salus (health, safety)",
     "group": "",
@@ -322,7 +322,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing good effects, often through an unpleasant experience.",
-     "chinese": "有益的;有教育意義的"
+     "chinese": "有益的；有教育意義的"
     }
    },
    {
@@ -405,7 +405,7 @@ window.FLASHCARD_UNITS = {
     "word": "sanctimony",
     "pos": "n.",
     "definition": "Hypocritical or affected righteousness.",
-    "chinese": "假正經;偽善的虔誠",
+    "chinese": "假正經；偽善的虔誠",
     "synonyms": "",
     "root": "sanctimonia (sacredness), from Latin sanctus (holy)",
     "group": "",
@@ -417,7 +417,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Hypocritical or affected righteousness.",
-     "chinese": "假正經;偽善的虔誠"
+     "chinese": "假正經；偽善的虔誠"
     }
    },
    {
@@ -443,7 +443,7 @@ window.FLASHCARD_UNITS = {
     "word": "sanctity",
     "pos": "n.",
     "definition": "The state of being holy or sacred; ultimate importance.",
-    "chinese": "神聖性;聖潔",
+    "chinese": "神聖性；聖潔",
     "synonyms": "",
     "root": "sanctitas (holiness), from Latin sanctus (holy)",
     "group": "",
@@ -455,7 +455,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being holy or sacred; ultimate importance.",
-     "chinese": "神聖性;聖潔"
+     "chinese": "神聖性；聖潔"
     }
    },
    {
@@ -481,7 +481,7 @@ window.FLASHCARD_UNITS = {
     "word": "sandwich",
     "pos": "n./v.",
     "definition": "Food consisting of fillings between slices of bread; to insert between two things.",
-    "chinese": "三明治;夾在中間",
+    "chinese": "三明治；夾在中間",
     "synonyms": "",
     "root": "named after John Montagu, 4th Earl of Sandwich",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Food consisting of fillings between slices of bread; to insert between two things.",
-     "chinese": "三明治;夾在中間"
+     "chinese": "三明治；夾在中間"
     }
    },
    {
     "word": "sang-froid",
     "pos": "n.",
     "definition": "Composure or coolness under strain, especially in a difficult situation.",
-    "chinese": "冷靜沉著;泰然自若",
+    "chinese": "冷靜沉著；泰然自若",
     "synonyms": "",
     "root": "sang (blood) + froid (cold), from French",
     "group": "",
@@ -514,7 +514,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Composure or coolness under strain, especially in a difficult situation.",
-     "chinese": "冷靜沉著;泰然自若"
+     "chinese": "冷靜沉著；泰然自若"
     }
    },
    {
@@ -540,7 +540,7 @@ window.FLASHCARD_UNITS = {
     "word": "sanguinary",
     "pos": "adj.",
     "definition": "Involving or delighting in bloodshed.",
-    "chinese": "血腥的;嗜殺的",
+    "chinese": "血腥的；嗜殺的",
     "synonyms": "",
     "root": "sanguinarius (bloody), from Latin sanguis (blood)",
     "group": "",
@@ -552,7 +552,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Involving or delighting in bloodshed.",
-     "chinese": "血腥的;嗜殺的"
+     "chinese": "血腥的；嗜殺的"
     }
    },
    {
@@ -597,7 +597,7 @@ window.FLASHCARD_UNITS = {
     "word": "sapience",
     "pos": "n.",
     "definition": "Wisdom or great learning.",
-    "chinese": "智慧;博學",
+    "chinese": "智慧；博學",
     "synonyms": "",
     "root": "sapientia (wisdom), from Latin sapere (to know, taste)",
     "group": "",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wisdom or great learning.",
-     "chinese": "智慧;博學"
+     "chinese": "智慧；博學"
     }
    },
    {
     "word": "sapient",
     "pos": "adj.",
     "definition": "Wise or having great learning.",
-    "chinese": "有智慧的;博學的",
+    "chinese": "有智慧的；博學的",
     "synonyms": "",
     "root": "sapiens (wise), from Latin sapere (to know, taste)",
     "group": "",
@@ -628,14 +628,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wise or having great learning.",
-     "chinese": "有智慧的;博學的"
+     "chinese": "有智慧的；博學的"
     }
    },
    {
     "word": "sapling",
     "pos": "n.",
     "definition": "A young tree; a young or inexperienced person.",
-    "chinese": "樹苗;年輕人",
+    "chinese": "樹苗；年輕人",
     "synonyms": "",
     "root": "sap, from Old English sæp + -ling",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A young tree; a young or inexperienced person.",
-     "chinese": "樹苗;年輕人"
+     "chinese": "樹苗；年輕人"
     }
    },
    {
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "word": "sarculation",
     "pos": "n.",
     "definition": "The act of weeding or hoeing a field.",
-    "chinese": "除草;鋤田",
+    "chinese": "除草；鋤田",
     "synonyms": "",
     "root": "sarculum (a hoe), from Latin sarire (to weed, hoe)",
     "group": "",
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of weeding or hoeing a field.",
-     "chinese": "除草;鋤田"
+     "chinese": "除草；鋤田"
     }
    },
    {
@@ -713,7 +713,7 @@ window.FLASHCARD_UNITS = {
     "word": "sate",
     "pos": "v.",
     "definition": "To satisfy a desire or appetite to the full.",
-    "chinese": "使滿足;使飽足",
+    "chinese": "使滿足；使飽足",
     "synonyms": "",
     "root": "sadian (to satiate), from Old English",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To satisfy a desire or appetite to the full.",
-     "chinese": "使滿足;使飽足"
+     "chinese": "使滿足；使飽足"
     }
    },
    {
     "word": "saucy",
     "pos": "adj.",
     "definition": "Impudent or cheeky in a bold, playful way.",
-    "chinese": "放肆頑皮的;無禮俏皮的",
+    "chinese": "放肆頑皮的；無禮俏皮的",
     "synonyms": "",
     "root": "sauce, from Latin salsus (salted), implying sharpness",
     "group": "",
@@ -744,7 +744,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impudent or cheeky in a bold, playful way.",
-     "chinese": "放肆頑皮的;無禮俏皮的"
+     "chinese": "放肆頑皮的；無禮俏皮的"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "savant",
     "pos": "n.",
     "definition": "A learned person, especially one with detailed knowledge in a specific field.",
-    "chinese": "博學之士;學者",
+    "chinese": "博學之士；學者",
     "synonyms": "",
     "root": "savoir (to know), from French, from Latin sapere (to know)",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A learned person, especially one with detailed knowledge in a specific field.",
-     "chinese": "博學之士;學者"
+     "chinese": "博學之士；學者"
     }
    },
    {
     "word": "savoir faire",
     "pos": "n.",
     "definition": "The ability to act appropriately in social situations.",
-    "chinese": "社交手腕;應變能力",
+    "chinese": "社交手腕；應變能力",
     "synonyms": "",
     "root": "savoir (to know) + faire (to do), from French",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ability to act appropriately in social situations.",
-     "chinese": "社交手腕;應變能力"
+     "chinese": "社交手腕；應變能力"
     }
    },
    {
     "word": "savor",
     "pos": "v./n.",
     "definition": "To enjoy something fully; a distinctive taste or quality.",
-    "chinese": "細細品味;風味",
+    "chinese": "細細品味；風味",
     "synonyms": "",
     "root": "sapor (taste, flavor), from Latin sapere (to taste)",
     "group": "",
@@ -820,7 +820,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To enjoy something fully; a distinctive taste or quality.",
-     "chinese": "細細品味;風味"
+     "chinese": "細細品味；風味"
     }
    },
    {
@@ -865,7 +865,7 @@ window.FLASHCARD_UNITS = {
     "word": "scalp",
     "pos": "n./v.",
     "definition": "The skin covering the top of the head; to resell tickets at inflated prices.",
-    "chinese": "頭皮;高價轉售",
+    "chinese": "頭皮；高價轉售",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Old Norse skalpr (sheath)",
     "group": "",
@@ -877,7 +877,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The skin covering the top of the head; to resell tickets at inflated prices.",
-     "chinese": "頭皮;高價轉售"
+     "chinese": "頭皮；高價轉售"
     }
    },
    {
@@ -903,7 +903,7 @@ window.FLASHCARD_UNITS = {
     "word": "scanty",
     "pos": "adj.",
     "definition": "Small or meager in amount.",
-    "chinese": "微薄的;不足的",
+    "chinese": "微薄的；不足的",
     "synonyms": "",
     "root": "scant, from Old Norse skamt (short)",
     "group": "",
@@ -915,14 +915,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Small or meager in amount.",
-     "chinese": "微薄的;不足的"
+     "chinese": "微薄的；不足的"
     }
    },
    {
     "word": "scapegrace",
     "pos": "n.",
     "definition": "A mischievous or wayward person, especially a young man.",
-    "chinese": "浪蕩子;不成材的年輕人",
+    "chinese": "浪蕩子；不成材的年輕人",
     "synonyms": "",
     "root": "scape (to escape) + grace, implying one who escapes divine grace",
     "group": "",
@@ -934,7 +934,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mischievous or wayward person, especially a young man.",
-     "chinese": "浪蕩子;不成材的年輕人"
+     "chinese": "浪蕩子；不成材的年輕人"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sagacity": ["Shrewdness, soundness of perspective.", "睿智；明智"], "sage": ["Wise, intelligent.", "睿智的；聖人"], "saint": ["A person recognized as having exceptional holiness or virtue.", "聖人"], "saintly": ["Resembling or characteristic of a saint; extremely virtuous.", "聖潔的;有聖人風範的"], "salacious": ["Having an excessive interest in sexual matters.", "淫穢的;好色的"], "salient": ["Important, prominent.", "顯著的"], "sallow": ["Of an unhealthy yellowish skin color.", "蠟黃的;病態的"], "sally": ["To suddenly rush.", "突圍；出發"], "salmagundi": ["A mixed salad or dish; a general mixture or medley.", "什錦沙拉;大雜燴"], "salmonella": ["A type of bacteria that causes food poisoning.", "沙門氏菌"], "saltant": ["Leaping or dancing; characterized by abrupt movement.", "跳躍的;跳動的"], "saltate": ["To leap or jump; to proceed by sudden jumps rather than gradually.", "跳躍;躍進"], "saltation": ["The action of leaping or jumping; a sudden evolutionary change.", "跳躍;躍進演化"], "saltatory": ["Relating to leaping or jumping; proceeding by sudden movements.", "跳躍性的"], "salubrious": ["Healthful, wholesome.", "有益健康的"], "salubriousness": ["The quality of being health-giving or beneficial to health.", "有益健康;衛生"], "salutary": ["Producing good effects, often through an unpleasant experience.", "有益的;有教育意義的"], "salutation": ["A greeting.", "問候；致敬"], "salvation": ["Deliverance from ruin.", "拯救；救贖"], "salve": ["A soothing balm.", "藥膏；慰藉"], "sanctimonious": ["Hypocritical, claiming moral superiority.", "假裝神聖的"], "sanctimony": ["Hypocritical or affected righteousness.", "假正經;偽善的虔誠"], "sanction": ["To endorse, certify.", "批准；認可"], "sanctity": ["The state of being holy or sacred; ultimate importance.", "神聖性;聖潔"], "sanctuary": ["Shelter, place of protection.", "避難所"], "sandwich": ["Food consisting of fillings between slices of bread; to insert between two things.", "三明治;夾在中間"], "sang-froid": ["Composure or coolness under strain, especially in a difficult situation.", "冷靜沉著;泰然自若"], "sangfroid": ["Composure or coolness under strain, a variant spelling of sang-froid.", "冷靜沉著(異體拼法)"], "sanguinary": ["Involving or delighting in bloodshed.", "血腥的;嗜殺的"], "sanguine": ["Optimistic.", "樂觀的；紅潤的"], "sap": ["A watery fluid that circulates in a plant.", "樹液"], "sapience": ["Wisdom or great learning.", "智慧;博學"], "sapient": ["Wise or having great learning.", "有智慧的;博學的"], "sapling": ["A young tree; a young or inexperienced person.", "樹苗;年輕人"], "sarcophagus": ["A stone coffin, often decorated with inscriptions or sculpture.", "石棺"], "sarculation": ["The act of weeding or hoeing a field.", "除草;鋤田"], "sassafras": ["A North American tree whose aromatic bark and roots are used in traditional medicine and flavoring.", "黃樟樹"], "sate": ["To satisfy a desire or appetite to the full.", "使滿足;使飽足"], "saucy": ["Impudent or cheeky in a bold, playful way.", "放肆頑皮的;無禮俏皮的"], "saurian": ["Relating to or resembling lizards.", "蜥蜴類的"], "savant": ["A learned person, especially one with detailed knowledge in a specific field.", "博學之士;學者"], "savoir faire": ["The ability to act appropriately in social situations.", "社交手腕;應變能力"], "savor": ["To enjoy something fully; a distinctive taste or quality.", "細細品味;風味"], "savory": ["Tasty or good smelling.", "美味的"], "savvy": ["Smart; informed.", "精明的"], "scalp": ["The skin covering the top of the head; to resell tickets at inflated prices.", "頭皮;高價轉售"], "scampi": ["Large prawns, especially when breaded and fried or served in a garlic sauce.", "義式蒜香蝦"], "scanty": ["Small or meager in amount.", "微薄的;不足的"], "scapegrace": ["A mischievous or wayward person, especially a young man.", "浪蕩子;不成材的年輕人"], "scaramouch": ["A boastful but cowardly buffoon, originally a stock character in Italian comedy.", "誇口卻怯懦的丑角(源自義大利喜劇)"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sagacity": ["Shrewdness, soundness of perspective.", "睿智；明智"], "sage": ["Wise, intelligent.", "睿智的；聖人"], "saint": ["A person recognized as having exceptional holiness or virtue.", "聖人"], "saintly": ["Resembling or characteristic of a saint; extremely virtuous.", "聖潔的；有聖人風範的"], "salacious": ["Having an excessive interest in sexual matters.", "淫穢的；好色的"], "salient": ["Important, prominent.", "顯著的"], "sallow": ["Of an unhealthy yellowish skin color.", "蠟黃的；病態的"], "sally": ["To suddenly rush.", "突圍；出發"], "salmagundi": ["A mixed salad or dish; a general mixture or medley.", "什錦沙拉；大雜燴"], "salmonella": ["A type of bacteria that causes food poisoning.", "沙門氏菌"], "saltant": ["Leaping or dancing; characterized by abrupt movement.", "跳躍的；跳動的"], "saltate": ["To leap or jump; to proceed by sudden jumps rather than gradually.", "跳躍；躍進"], "saltation": ["The action of leaping or jumping; a sudden evolutionary change.", "跳躍；躍進演化"], "saltatory": ["Relating to leaping or jumping; proceeding by sudden movements.", "跳躍性的"], "salubrious": ["Healthful, wholesome.", "有益健康的"], "salubriousness": ["The quality of being health-giving or beneficial to health.", "有益健康；衛生"], "salutary": ["Producing good effects, often through an unpleasant experience.", "有益的；有教育意義的"], "salutation": ["A greeting.", "問候；致敬"], "salvation": ["Deliverance from ruin.", "拯救；救贖"], "salve": ["A soothing balm.", "藥膏；慰藉"], "sanctimonious": ["Hypocritical, claiming moral superiority.", "假裝神聖的"], "sanctimony": ["Hypocritical or affected righteousness.", "假正經；偽善的虔誠"], "sanction": ["To endorse, certify.", "批准；認可"], "sanctity": ["The state of being holy or sacred; ultimate importance.", "神聖性；聖潔"], "sanctuary": ["Shelter, place of protection.", "避難所"], "sandwich": ["Food consisting of fillings between slices of bread; to insert between two things.", "三明治；夾在中間"], "sang-froid": ["Composure or coolness under strain, especially in a difficult situation.", "冷靜沉著；泰然自若"], "sangfroid": ["Composure or coolness under strain, a variant spelling of sang-froid.", "冷靜沉著(異體拼法)"], "sanguinary": ["Involving or delighting in bloodshed.", "血腥的；嗜殺的"], "sanguine": ["Optimistic.", "樂觀的；紅潤的"], "sap": ["A watery fluid that circulates in a plant.", "樹液"], "sapience": ["Wisdom or great learning.", "智慧；博學"], "sapient": ["Wise or having great learning.", "有智慧的；博學的"], "sapling": ["A young tree; a young or inexperienced person.", "樹苗；年輕人"], "sarcophagus": ["A stone coffin, often decorated with inscriptions or sculpture.", "石棺"], "sarculation": ["The act of weeding or hoeing a field.", "除草；鋤田"], "sassafras": ["A North American tree whose aromatic bark and roots are used in traditional medicine and flavoring.", "黃樟樹"], "sate": ["To satisfy a desire or appetite to the full.", "使滿足；使飽足"], "saucy": ["Impudent or cheeky in a bold, playful way.", "放肆頑皮的；無禮俏皮的"], "saurian": ["Relating to or resembling lizards.", "蜥蜴類的"], "savant": ["A learned person, especially one with detailed knowledge in a specific field.", "博學之士；學者"], "savoir faire": ["The ability to act appropriately in social situations.", "社交手腕；應變能力"], "savor": ["To enjoy something fully; a distinctive taste or quality.", "細細品味；風味"], "savory": ["Tasty or good smelling.", "美味的"], "savvy": ["Smart; informed.", "精明的"], "scalp": ["The skin covering the top of the head; to resell tickets at inflated prices.", "頭皮；高價轉售"], "scampi": ["Large prawns, especially when breaded and fried or served in a garlic sauce.", "義式蒜香蝦"], "scanty": ["Small or meager in amount.", "微薄的；不足的"], "scapegrace": ["A mischievous or wayward person, especially a young man.", "浪蕩子；不成材的年輕人"], "scaramouch": ["A boastful but cowardly buffoon, originally a stock character in Italian comedy.", "誇口卻怯懦的丑角(源自義大利喜劇)"]});

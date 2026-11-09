@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "utility",
     "pos": "n.",
     "definition": "Usefulness, especially practical; a public service such as electricity or water.",
-    "chinese": "效用;公用事業",
+    "chinese": "效用；公用事業",
     "synonyms": "",
     "root": "utilitas, from Latin uti (to use)",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Usefulness, especially practical; a public service such as electricity or water.",
-     "chinese": "效用;公用事業"
+     "chinese": "效用；公用事業"
     }
    },
    {
     "word": "utilize",
     "pos": "v.",
     "definition": "To make practical use of.",
-    "chinese": "利用;使用",
+    "chinese": "利用；使用",
     "synonyms": "",
     "root": "utiliser, from French, from Latin uti (to use)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make practical use of.",
-     "chinese": "利用;使用"
+     "chinese": "利用；使用"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "utopian",
     "pos": "adj./n.",
     "definition": "Relating to an idealized, perfect society; impractically idealistic.",
-    "chinese": "烏托邦式的;空想的",
+    "chinese": "烏托邦式的；空想的",
     "synonyms": "",
     "root": "Utopia, coined by Thomas More from Greek ou (not) + topos (place)",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to an idealized, perfect society; impractically idealistic.",
-     "chinese": "烏托邦式的;空想的"
+     "chinese": "烏托邦式的；空想的"
     }
    },
    {
     "word": "uxorial",
     "pos": "adj.",
     "definition": "Relating to or characteristic of a wife.",
-    "chinese": "妻子的;與妻子有關的",
+    "chinese": "妻子的；與妻子有關的",
     "synonyms": "",
     "root": "uxorius, from Latin uxor (wife)",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or characteristic of a wife.",
-     "chinese": "妻子的;與妻子有關的"
+     "chinese": "妻子的；與妻子有關的"
     }
    },
    {
     "word": "uxorious",
     "pos": "adj.",
     "definition": "Excessively fond of or submissive to one's wife.",
-    "chinese": "溺愛妻子的;懼內的",
+    "chinese": "溺愛妻子的；懼內的",
     "synonyms": "",
     "root": "uxorius, from Latin uxor (wife)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively fond of or submissive to one's wife.",
-     "chinese": "溺愛妻子的;懼內的"
+     "chinese": "溺愛妻子的；懼內的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "vagabond",
     "pos": "n./adj.",
     "definition": "A person who wanders without a fixed home; wandering.",
-    "chinese": "流浪漢;流浪的",
+    "chinese": "流浪漢；流浪的",
     "synonyms": "",
     "root": "vagabundus, from Latin vagari (to wander)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who wanders without a fixed home; wandering.",
-     "chinese": "流浪漢;流浪的"
+     "chinese": "流浪漢；流浪的"
     }
    },
    {
     "word": "vagary",
     "pos": "n.",
     "definition": "An unpredictable or erratic change or action.",
-    "chinese": "反覆無常;怪念頭",
+    "chinese": "反覆無常；怪念頭",
     "synonyms": "",
     "root": "vagari (to wander), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An unpredictable or erratic change or action.",
-     "chinese": "反覆無常;怪念頭"
+     "chinese": "反覆無常；怪念頭"
     }
    },
    {
     "word": "vagrant",
     "pos": "n./adj.",
     "definition": "A person without a settled home or job; wandering.",
-    "chinese": "流浪者;漂泊的",
+    "chinese": "流浪者；漂泊的",
     "synonyms": "",
     "root": "vagant-, from Latin vagari (to wander)",
     "group": "",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person without a settled home or job; wandering.",
-     "chinese": "流浪者;漂泊的"
+     "chinese": "流浪者；漂泊的"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "vain",
     "pos": "adj.",
     "definition": "Having excessive pride in one's appearance; producing no result.",
-    "chinese": "虛榮的;徒勞的",
+    "chinese": "虛榮的；徒勞的",
     "synonyms": "",
     "root": "vanus (empty, idle), from Latin",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having excessive pride in one's appearance; producing no result.",
-     "chinese": "虛榮的;徒勞的"
+     "chinese": "虛榮的；徒勞的"
     }
    },
    {
     "word": "vainglorious",
     "pos": "adj.",
     "definition": "Excessively proud of oneself; boastful.",
-    "chinese": "自負的;自誇的",
+    "chinese": "自負的；自誇的",
     "synonyms": "",
     "root": "vana gloria (empty glory), from Latin vanus (empty) + gloria (glory)",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively proud of oneself; boastful.",
-     "chinese": "自負的;自誇的"
+     "chinese": "自負的；自誇的"
     }
    },
    {
     "word": "vainglory",
     "pos": "n.",
     "definition": "Excessive pride in oneself; boastfulness.",
-    "chinese": "自負;虛榮的驕傲",
+    "chinese": "自負；虛榮的驕傲",
     "synonyms": "",
     "root": "vana gloria (empty glory), from Latin vanus (empty) + gloria (glory)",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive pride in oneself; boastfulness.",
-     "chinese": "自負;虛榮的驕傲"
+     "chinese": "自負；虛榮的驕傲"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "valiant",
     "pos": "adj.",
     "definition": "Possessing or showing courage, especially in battle.",
-    "chinese": "英勇的;勇敢的",
+    "chinese": "英勇的；勇敢的",
     "synonyms": "",
     "root": "valere (to be strong), from Latin",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Possessing or showing courage, especially in battle.",
-     "chinese": "英勇的;勇敢的"
+     "chinese": "英勇的；勇敢的"
     }
    },
    {
     "word": "valid",
     "pos": "adj.",
     "definition": "Having a sound basis; legally acceptable.",
-    "chinese": "有效的;正當的",
+    "chinese": "有效的；正當的",
     "synonyms": "",
     "root": "validus (strong), from Latin valere (to be strong)",
     "group": "",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a sound basis; legally acceptable.",
-     "chinese": "有效的;正當的"
+     "chinese": "有效的；正當的"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "vanguard",
     "pos": "n.",
     "definition": "The leading position in a movement or field; forward troops.",
-    "chinese": "先鋒;前衛",
+    "chinese": "先鋒；前衛",
     "synonyms": "",
     "root": "avant-garde (front guard), from Old French avant (before) + garde (guard)",
     "group": "",
@@ -423,14 +423,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The leading position in a movement or field; forward troops.",
-     "chinese": "先鋒;前衛"
+     "chinese": "先鋒；前衛"
     }
    },
    {
     "word": "vanity",
     "pos": "n.",
     "definition": "Excessive pride in one's appearance or achievements.",
-    "chinese": "虛榮心;自負",
+    "chinese": "虛榮心；自負",
     "synonyms": "",
     "root": "vanitas, from Latin vanus (empty)",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive pride in one's appearance or achievements.",
-     "chinese": "虛榮心;自負"
+     "chinese": "虛榮心；自負"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "vaquero",
     "pos": "n.",
     "definition": "A cowboy or cattle herder, especially in the American Southwest.",
-    "chinese": "牧牛人;牛仔",
+    "chinese": "牧牛人；牛仔",
     "synonyms": "",
     "root": "vaquero, from Spanish vaca (cow), from Latin vacca",
     "group": "",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A cowboy or cattle herder, especially in the American Southwest.",
-     "chinese": "牧牛人;牛仔"
+     "chinese": "牧牛人；牛仔"
     }
    },
    {
@@ -525,7 +525,7 @@ window.FLASHCARD_UNITS = {
     "word": "variegate",
     "pos": "v.",
     "definition": "To mark with different colors or shades; to diversify.",
-    "chinese": "使呈雜色;使多樣化",
+    "chinese": "使呈雜色；使多樣化",
     "synonyms": "",
     "root": "variegare, from Latin varius (varied)",
     "group": "",
@@ -537,14 +537,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To mark with different colors or shades; to diversify.",
-     "chinese": "使呈雜色;使多樣化"
+     "chinese": "使呈雜色；使多樣化"
     }
    },
    {
     "word": "varlet",
     "pos": "n.",
     "definition": "A low, unprincipled person (archaic); a servant or attendant.",
-    "chinese": "無賴;僕從(古語)",
+    "chinese": "無賴；僕從(古語)",
     "synonyms": "",
     "root": "vaslet, from Old French, a variant of vassal",
     "group": "",
@@ -556,7 +556,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A low, unprincipled person (archaic); a servant or attendant.",
-     "chinese": "無賴;僕從(古語)"
+     "chinese": "無賴；僕從(古語)"
     }
    },
    {
@@ -582,7 +582,7 @@ window.FLASHCARD_UNITS = {
     "word": "vascular",
     "pos": "adj.",
     "definition": "Relating to vessels that carry blood or other fluids in the body.",
-    "chinese": "血管的;脈管的",
+    "chinese": "血管的；脈管的",
     "synonyms": "",
     "root": "vasculum (a small vessel), from Latin vas (vessel)",
     "group": "",
@@ -594,14 +594,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to vessels that carry blood or other fluids in the body.",
-     "chinese": "血管的;脈管的"
+     "chinese": "血管的；脈管的"
     }
    },
    {
     "word": "vassal",
     "pos": "n.",
     "definition": "A person or state in a subordinate position to another, especially historically.",
-    "chinese": "封臣;附庸",
+    "chinese": "封臣；附庸",
     "synonyms": "",
     "root": "vassallus, from Medieval Latin, from Celtic gwas (servant)",
     "group": "",
@@ -615,14 +615,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person or state in a subordinate position to another, especially historically.",
-     "chinese": "封臣;附庸"
+     "chinese": "封臣；附庸"
     }
    },
    {
     "word": "vaticinate",
     "pos": "v.",
     "definition": "To prophesy or predict.",
-    "chinese": "預言;預測",
+    "chinese": "預言；預測",
     "synonyms": "",
     "root": "vaticinari, from Latin vates (prophet, seer)",
     "group": "",
@@ -634,7 +634,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prophesy or predict.",
-     "chinese": "預言;預測"
+     "chinese": "預言；預測"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "venal",
     "pos": "adj.",
     "definition": "Willing to act dishonestly in return for money; corruptible.",
-    "chinese": "貪贓枉法的;可收買的",
+    "chinese": "貪贓枉法的；可收買的",
     "synonyms": "",
     "root": "venalis (for sale), from Latin venum (sale)",
     "group": "",
@@ -710,14 +710,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to act dishonestly in return for money; corruptible.",
-     "chinese": "貪贓枉法的;可收買的"
+     "chinese": "貪贓枉法的；可收買的"
     }
    },
    {
     "word": "venality",
     "pos": "n.",
     "definition": "The quality of being willing to act dishonestly for money.",
-    "chinese": "貪贓枉法;貪腐",
+    "chinese": "貪贓枉法；貪腐",
     "synonyms": "",
     "root": "venalitas, from Latin venum (sale)",
     "group": "",
@@ -729,14 +729,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being willing to act dishonestly for money.",
-     "chinese": "貪贓枉法;貪腐"
+     "chinese": "貪贓枉法；貪腐"
     }
    },
    {
     "word": "vendetta",
     "pos": "n.",
     "definition": "A prolonged bitter quarrel or feud, often for revenge.",
-    "chinese": "世仇;宿怨",
+    "chinese": "世仇；宿怨",
     "synonyms": "",
     "root": "vendetta (blood feud), from Italian, from Latin vindicta (vengeance)",
     "group": "",
@@ -748,14 +748,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A prolonged bitter quarrel or feud, often for revenge.",
-     "chinese": "世仇;宿怨"
+     "chinese": "世仇；宿怨"
     }
    },
    {
     "word": "vendor",
     "pos": "n.",
     "definition": "A person or company selling goods or services.",
-    "chinese": "小販;賣家",
+    "chinese": "小販；賣家",
     "synonyms": "",
     "root": "vendre (to sell), from Old French, from Latin vendere",
     "group": "",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person or company selling goods or services.",
-     "chinese": "小販;賣家"
+     "chinese": "小販；賣家"
     }
    },
    {
@@ -831,7 +831,7 @@ window.FLASHCARD_UNITS = {
     "word": "veneration",
     "pos": "n.",
     "definition": "Great respect or reverence.",
-    "chinese": "崇敬;敬仰",
+    "chinese": "崇敬；敬仰",
     "synonyms": "",
     "root": "veneratio, from Latin venerari (to revere)",
     "group": "",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great respect or reverence.",
-     "chinese": "崇敬;敬仰"
+     "chinese": "崇敬；敬仰"
     }
    },
    {
     "word": "venereal",
     "pos": "adj.",
     "definition": "Relating to sexual intercourse or sexually transmitted disease.",
-    "chinese": "性病的;性交的",
+    "chinese": "性病的；性交的",
     "synonyms": "",
     "root": "venereus, from Latin Venus (goddess of love)",
     "group": "",
@@ -862,14 +862,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to sexual intercourse or sexually transmitted disease.",
-     "chinese": "性病的;性交的"
+     "chinese": "性病的；性交的"
     }
    },
    {
     "word": "venery",
     "pos": "n.",
     "definition": "The pursuit of sexual pleasure; the practice of hunting (archaic).",
-    "chinese": "縱慾;狩獵(古語)",
+    "chinese": "縱慾；狩獵(古語)",
     "synonyms": "",
     "root": "venerie, from Old French, from Latin venari (to hunt)",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The pursuit of sexual pleasure; the practice of hunting (archaic).",
-     "chinese": "縱慾;狩獵(古語)"
+     "chinese": "縱慾；狩獵(古語)"
     }
    },
    {
     "word": "vengeful",
     "pos": "adj.",
     "definition": "Seeking revenge; vindictive.",
-    "chinese": "報復心強的;復仇的",
+    "chinese": "報復心強的；復仇的",
     "synonyms": "",
     "root": "vengeance, from Latin vindicare (to avenge) + -ful",
     "group": "",
@@ -900,7 +900,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Seeking revenge; vindictive.",
-     "chinese": "報復心強的;復仇的"
+     "chinese": "報復心強的；復仇的"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"utilitarian": ["Relating to or aiming at usefulness.", "實用主義的；功利的"], "utilitarianism": ["The ethical theory that the best action maximizes overall happiness or utility.", "功利主義"], "utility": ["Usefulness, especially practical; a public service such as electricity or water.", "效用;公用事業"], "utilize": ["To make practical use of.", "利用;使用"], "utopia": ["Place of perfection.", "烏托邦；理想國"], "utopian": ["Relating to an idealized, perfect society; impractically idealistic.", "烏托邦式的;空想的"], "uxorial": ["Relating to or characteristic of a wife.", "妻子的;與妻子有關的"], "uxorious": ["Excessively fond of or submissive to one's wife.", "溺愛妻子的;懼內的"], "uxorodespotism": ["Domination or tyranny exercised by a husband over his wife (rare word).", "夫權專制(罕用詞)"], "vagabond": ["A person who wanders without a fixed home; wandering.", "流浪漢;流浪的"], "vagary": ["An unpredictable or erratic change or action.", "反覆無常;怪念頭"], "vagrant": ["A person without a settled home or job; wandering.", "流浪者;漂泊的"], "vague": ["Not clear in meaning or expression; indefinite.", "模糊的；含糊的"], "vain": ["Having excessive pride in one's appearance; producing no result.", "虛榮的;徒勞的"], "vainglorious": ["Excessively proud of oneself; boastful.", "自負的;自誇的"], "vainglory": ["Excessive pride in oneself; boastfulness.", "自負;虛榮的驕傲"], "valetudinarian": ["A person who is excessively concerned with their own health.", "過度關注健康者"], "valiant": ["Possessing or showing courage, especially in battle.", "英勇的;勇敢的"], "valid": ["Having a sound basis; legally acceptable.", "有效的;正當的"], "validate": ["To confirm or verify as being true, accurate, or acceptable.", "證實；驗證"], "valor": ["Courage:bravery.", "英勇；勇氣"], "vanguard": ["The leading position in a movement or field; forward troops.", "先鋒;前衛"], "vanity": ["Excessive pride in one's appearance or achievements.", "虛榮心;自負"], "vapid": ["Uninteresting, dull.", "乏味的；無趣的"], "vaporize": ["To turn to vapor, foam, or mist.", "使…蒸發"], "vaquero": ["A cowboy or cattle herder, especially in the American Southwest.", "牧牛人;牛仔"], "variable": ["Likely to change.", "多變的；易變的"], "variegate": ["To mark with different colors or shades; to diversify.", "使呈雜色;使多樣化"], "varlet": ["A low, unprincipled person (archaic); a servant or attendant.", "無賴;僕從(古語)"], "vary": ["To change or differ in some way; to alter or modify.", "改變；不同"], "vascular": ["Relating to vessels that carry blood or other fluids in the body.", "血管的;脈管的"], "vassal": ["A person or state in a subordinate position to another, especially historically.", "封臣;附庸"], "vaticinate": ["To prophesy or predict.", "預言;預測"], "vegetate": ["Engage in passive relaxation.", "無所事事；虛度光陰"], "vehement": ["Showing strong feeling or passion; forceful or intense.", "強烈的；激烈的"], "vehemently": ["Violently, eagerly, passionately.", "激烈地；強烈地"], "venal": ["Willing to act dishonestly in return for money; corruptible.", "貪贓枉法的;可收買的"], "venality": ["The quality of being willing to act dishonestly for money.", "貪贓枉法;貪腐"], "vendetta": ["A prolonged bitter quarrel or feud, often for revenge.", "世仇;宿怨"], "vendor": ["A person or company selling goods or services.", "小販;賣家"], "veneer": ["Thin covering.", "飾面；虛飾"], "venerable": ["Respected, worshiped.", "值得尊敬的；莊嚴的"], "venerate": ["To honor or show deep respect for age or tradition.", "尊崇"], "veneration": ["Great respect or reverence.", "崇敬;敬仰"], "venereal": ["Relating to sexual intercourse or sexually transmitted disease.", "性病的;性交的"], "venery": ["The pursuit of sexual pleasure; the practice of hunting (archaic).", "縱慾;狩獵(古語)"], "vengeful": ["Seeking revenge; vindictive.", "報復心強的;復仇的"], "venial": ["Pardonable, forgivable.", "可寬恕的；輕微的"], "venom": ["Poison, spite, malice.", "毒液；惡意"], "ventral": ["Toward or on or near the belly.", "腹部的；腹側的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"utilitarian": ["Relating to or aiming at usefulness.", "實用主義的；功利的"], "utilitarianism": ["The ethical theory that the best action maximizes overall happiness or utility.", "功利主義"], "utility": ["Usefulness, especially practical; a public service such as electricity or water.", "效用；公用事業"], "utilize": ["To make practical use of.", "利用；使用"], "utopia": ["Place of perfection.", "烏托邦；理想國"], "utopian": ["Relating to an idealized, perfect society; impractically idealistic.", "烏托邦式的；空想的"], "uxorial": ["Relating to or characteristic of a wife.", "妻子的；與妻子有關的"], "uxorious": ["Excessively fond of or submissive to one's wife.", "溺愛妻子的；懼內的"], "uxorodespotism": ["Domination or tyranny exercised by a husband over his wife (rare word).", "夫權專制(罕用詞)"], "vagabond": ["A person who wanders without a fixed home; wandering.", "流浪漢；流浪的"], "vagary": ["An unpredictable or erratic change or action.", "反覆無常；怪念頭"], "vagrant": ["A person without a settled home or job; wandering.", "流浪者；漂泊的"], "vague": ["Not clear in meaning or expression; indefinite.", "模糊的；含糊的"], "vain": ["Having excessive pride in one's appearance; producing no result.", "虛榮的；徒勞的"], "vainglorious": ["Excessively proud of oneself; boastful.", "自負的；自誇的"], "vainglory": ["Excessive pride in oneself; boastfulness.", "自負；虛榮的驕傲"], "valetudinarian": ["A person who is excessively concerned with their own health.", "過度關注健康者"], "valiant": ["Possessing or showing courage, especially in battle.", "英勇的；勇敢的"], "valid": ["Having a sound basis; legally acceptable.", "有效的；正當的"], "validate": ["To confirm or verify as being true, accurate, or acceptable.", "證實；驗證"], "valor": ["Courage:bravery.", "英勇；勇氣"], "vanguard": ["The leading position in a movement or field; forward troops.", "先鋒；前衛"], "vanity": ["Excessive pride in one's appearance or achievements.", "虛榮心；自負"], "vapid": ["Uninteresting, dull.", "乏味的；無趣的"], "vaporize": ["To turn to vapor, foam, or mist.", "使…蒸發"], "vaquero": ["A cowboy or cattle herder, especially in the American Southwest.", "牧牛人；牛仔"], "variable": ["Likely to change.", "多變的；易變的"], "variegate": ["To mark with different colors or shades; to diversify.", "使呈雜色；使多樣化"], "varlet": ["A low, unprincipled person (archaic); a servant or attendant.", "無賴；僕從(古語)"], "vary": ["To change or differ in some way; to alter or modify.", "改變；不同"], "vascular": ["Relating to vessels that carry blood or other fluids in the body.", "血管的；脈管的"], "vassal": ["A person or state in a subordinate position to another, especially historically.", "封臣；附庸"], "vaticinate": ["To prophesy or predict.", "預言；預測"], "vegetate": ["Engage in passive relaxation.", "無所事事；虛度光陰"], "vehement": ["Showing strong feeling or passion; forceful or intense.", "強烈的；激烈的"], "vehemently": ["Violently, eagerly, passionately.", "激烈地；強烈地"], "venal": ["Willing to act dishonestly in return for money; corruptible.", "貪贓枉法的；可收買的"], "venality": ["The quality of being willing to act dishonestly for money.", "貪贓枉法；貪腐"], "vendetta": ["A prolonged bitter quarrel or feud, often for revenge.", "世仇；宿怨"], "vendor": ["A person or company selling goods or services.", "小販；賣家"], "veneer": ["Thin covering.", "飾面；虛飾"], "venerable": ["Respected, worshiped.", "值得尊敬的；莊嚴的"], "venerate": ["To honor or show deep respect for age or tradition.", "尊崇"], "veneration": ["Great respect or reverence.", "崇敬；敬仰"], "venereal": ["Relating to sexual intercourse or sexually transmitted disease.", "性病的；性交的"], "venery": ["The pursuit of sexual pleasure; the practice of hunting (archaic).", "縱慾；狩獵(古語)"], "vengeful": ["Seeking revenge; vindictive.", "報復心強的；復仇的"], "venial": ["Pardonable, forgivable.", "可寬恕的；輕微的"], "venom": ["Poison, spite, malice.", "毒液；惡意"], "ventral": ["Toward or on or near the belly.", "腹部的；腹側的"]});

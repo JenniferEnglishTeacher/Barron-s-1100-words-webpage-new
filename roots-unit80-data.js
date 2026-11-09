@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "parameter",
     "pos": "n.",
     "definition": "A limit or boundary that defines the scope of something; a measurable factor.",
-    "chinese": "參數;界限",
+    "chinese": "參數；界限",
     "synonyms": "",
     "root": "para- (beside) + metron (measure), from Greek",
     "group": "para = 旁邊；類似",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A limit or boundary that defines the scope of something; a measurable factor.",
-     "chinese": "參數;界限"
+     "chinese": "參數；界限"
     }
    },
    {
     "word": "paranoia",
     "pos": "n.",
     "definition": "Irrational and excessive suspicion or distrust of others.",
-    "chinese": "偏執;妄想症",
+    "chinese": "偏執；妄想症",
     "synonyms": "",
     "root": "para- (beside) + nous (mind), from Greek",
     "group": "para = 旁邊；類似",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Irrational and excessive suspicion or distrust of others.",
-     "chinese": "偏執;妄想症"
+     "chinese": "偏執；妄想症"
     }
    },
    {
     "word": "paraphrase",
     "pos": "v./n.",
     "definition": "To express the meaning of something using different words.",
-    "chinese": "改述;釋義",
+    "chinese": "改述；釋義",
     "synonyms": "",
     "root": "para- (beside) + phrasis (speech), from Greek",
     "group": "para = 旁邊；類似",
@@ -174,14 +174,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express the meaning of something using different words.",
-     "chinese": "改述;釋義"
+     "chinese": "改述；釋義"
     }
    },
    {
     "word": "parapraxis",
     "pos": "n.",
     "definition": "A minor error revealing unconscious motives, such as a slip of the tongue.",
-    "chinese": "口誤;失誤動作(佛洛伊德式)",
+    "chinese": "口誤；失誤動作(佛洛伊德式)",
     "synonyms": "",
     "root": "para- (beside) + praxis (action), from Greek",
     "group": "para = 旁邊；類似",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A minor error revealing unconscious motives, such as a slip of the tongue.",
-     "chinese": "口誤;失誤動作(佛洛伊德式)"
+     "chinese": "口誤；失誤動作(佛洛伊德式)"
     }
    },
    {
@@ -528,4 +528,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"paradox": ["A statement that at first seems to be absurd but may turn out to be true.", "悖論"], "paroxysm": ["Fit, sudden outburst.", "陣發；突發"], "paragon": ["Model of excellence.", "模範；典範"], "parable": ["Moralistic story.", "寓言；比喻"], "paradigm": ["An example that is a perfect pattern or model.", "典範；範例"], "paraleipsis": ["A rhetorical device drawing attention to something by professing to pass over it.", "假隱實顯法(修辭手法)"], "parameter": ["A limit or boundary that defines the scope of something; a measurable factor.", "參數;界限"], "paranoia": ["Irrational and excessive suspicion or distrust of others.", "偏執;妄想症"], "paraphrase": ["To express the meaning of something using different words.", "改述;釋義"], "parapraxis": ["A minor error revealing unconscious motives, such as a slip of the tongue.", "口誤;失誤動作(佛洛伊德式)"], "parody": ["A satirical imitation.", "戲仿；諷刺模仿"], "paronychia": ["An infection of the skin around a fingernail or toenail.", "甲溝炎"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"paradox": ["A statement that at first seems to be absurd but may turn out to be true.", "悖論"], "paroxysm": ["Fit, sudden outburst.", "陣發；突發"], "paragon": ["Model of excellence.", "模範；典範"], "parable": ["Moralistic story.", "寓言；比喻"], "paradigm": ["An example that is a perfect pattern or model.", "典範；範例"], "paraleipsis": ["A rhetorical device drawing attention to something by professing to pass over it.", "假隱實顯法(修辭手法)"], "parameter": ["A limit or boundary that defines the scope of something; a measurable factor.", "參數；界限"], "paranoia": ["Irrational and excessive suspicion or distrust of others.", "偏執；妄想症"], "paraphrase": ["To express the meaning of something using different words.", "改述；釋義"], "parapraxis": ["A minor error revealing unconscious motives, such as a slip of the tongue.", "口誤；失誤動作(佛洛伊德式)"], "parody": ["A satirical imitation.", "戲仿；諷刺模仿"], "paronychia": ["An infection of the skin around a fingernail or toenail.", "甲溝炎"]});

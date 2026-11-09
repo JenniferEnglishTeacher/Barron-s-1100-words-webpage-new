@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "angelic",
     "pos": "adj.",
     "definition": "Resembling an angel; extremely beautiful, innocent, or kind.",
-    "chinese": "天使般的;純潔的",
+    "chinese": "天使般的；純潔的",
     "synonyms": "",
     "root": "angelos (messenger, from Greek)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling an angel; extremely beautiful, innocent, or kind.",
-     "chinese": "天使般的;純潔的"
+     "chinese": "天使般的；純潔的"
     }
    },
    {
     "word": "anglomania",
     "pos": "n.",
     "definition": "An excessive admiration of England or English customs.",
-    "chinese": "英國狂熱;英國崇拜",
+    "chinese": "英國狂熱；英國崇拜",
     "synonyms": "",
     "root": "Anglo- (English) + mania (madness), from Greek",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive admiration of England or English customs.",
-     "chinese": "英國狂熱;英國崇拜"
+     "chinese": "英國狂熱；英國崇拜"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "anglophobia",
     "pos": "n.",
     "definition": "A strong dislike or fear of England, its people, or its culture.",
-    "chinese": "英國恐懼症;仇英情結",
+    "chinese": "英國恐懼症；仇英情結",
     "synonyms": "",
     "root": "Anglo- (English) + phobos (fear), from Greek",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A strong dislike or fear of England, its people, or its culture.",
-     "chinese": "英國恐懼症;仇英情結"
+     "chinese": "英國恐懼症；仇英情結"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "anomalous",
     "pos": "adj.",
     "definition": "Deviating from what is standard or expected.",
-    "chinese": "異常的;反常的",
+    "chinese": "異常的；反常的",
     "synonyms": "",
     "root": "an- (not) + homalos (even), from Greek",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deviating from what is standard or expected.",
-     "chinese": "異常的;反常的"
+     "chinese": "異常的；反常的"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "anserine",
     "pos": "adj.",
     "definition": "Resembling a goose; silly or foolish.",
-    "chinese": "似鵝的;愚蠢的",
+    "chinese": "似鵝的；愚蠢的",
     "synonyms": "",
     "root": "anser (goose, from Latin)",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling a goose; silly or foolish.",
-     "chinese": "似鵝的;愚蠢的"
+     "chinese": "似鵝的；愚蠢的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "antenna",
     "pos": "n.",
     "definition": "A device for receiving or transmitting radio waves; a feeler organ on an insect.",
-    "chinese": "天線;觸角",
+    "chinese": "天線；觸角",
     "synonyms": "",
     "root": "antenna (sail yard, from Latin)",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A device for receiving or transmitting radio waves; a feeler organ on an insect.",
-     "chinese": "天線;觸角"
+     "chinese": "天線；觸角"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "anthropoid",
     "pos": "adj./n.",
     "definition": "Resembling a human in form; a great ape.",
-    "chinese": "類人的;類人猿",
+    "chinese": "類人的；類人猿",
     "synonyms": "",
     "root": "anthropos (human) + -oid (resembling), from Greek",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling a human in form; a great ape.",
-     "chinese": "類人的;類人猿"
+     "chinese": "類人的；類人猿"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "anthropomorphize",
     "pos": "v.",
     "definition": "To attribute human traits or emotions to a non-human thing.",
-    "chinese": "擬人化;賦予人性",
+    "chinese": "擬人化；賦予人性",
     "synonyms": "",
     "root": "anthropos (human) + morphe (form), from Greek",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To attribute human traits or emotions to a non-human thing.",
-     "chinese": "擬人化;賦予人性"
+     "chinese": "擬人化；賦予人性"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "anxious",
     "pos": "adj.",
     "definition": "Feeling worried or nervous; eager.",
-    "chinese": "焦慮的;渴望的",
+    "chinese": "焦慮的；渴望的",
     "synonyms": "",
     "root": "angere (to choke, distress, from Latin)",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling worried or nervous; eager.",
-     "chinese": "焦慮的;渴望的"
+     "chinese": "焦慮的；渴望的"
     }
    },
    {
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "word": "aperçu",
     "pos": "n.",
     "definition": "A brief, insightful comment or summary.",
-    "chinese": "洞察;概述",
+    "chinese": "洞察；概述",
     "synonyms": "",
     "root": "apercevoir (to perceive, from French)",
     "group": "",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A brief, insightful comment or summary.",
-     "chinese": "洞察;概述"
+     "chinese": "洞察；概述"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "aphorism",
     "pos": "n.",
     "definition": "A short, pointed statement expressing a general truth.",
-    "chinese": "格言;警句",
+    "chinese": "格言；警句",
     "synonyms": "",
     "root": "aphorismos (definition, from Greek)",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A short, pointed statement expressing a general truth.",
-     "chinese": "格言;警句"
+     "chinese": "格言；警句"
     }
    },
    {
     "word": "aphoristic",
     "pos": "adj.",
     "definition": "Expressed in short, memorable phrases.",
-    "chinese": "格言式的;警句般的",
+    "chinese": "格言式的；警句般的",
     "synonyms": "",
     "root": "aphorismos (definition, from Greek)",
     "group": "",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressed in short, memorable phrases.",
-     "chinese": "格言式的;警句般的"
+     "chinese": "格言式的；警句般的"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "aplomb",
     "pos": "n.",
     "definition": "Self-confidence or composure, especially in a difficult situation.",
-    "chinese": "沉著;泰然自若",
+    "chinese": "沉著；泰然自若",
     "synonyms": "",
     "root": "a plomb (according to the plummet, from French)",
     "group": "",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Self-confidence or composure, especially in a difficult situation.",
-     "chinese": "沉著;泰然自若"
+     "chinese": "沉著；泰然自若"
     }
    },
    {
@@ -618,7 +618,7 @@ window.FLASHCARD_UNITS = {
     "word": "apodictic",
     "pos": "adj.",
     "definition": "Clearly established beyond dispute; certain.",
-    "chinese": "不容置疑的;確鑿的",
+    "chinese": "不容置疑的；確鑿的",
     "synonyms": "",
     "root": "apodeiknynai (to demonstrate, from Greek)",
     "group": "",
@@ -630,7 +630,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearly established beyond dispute; certain.",
-     "chinese": "不容置疑的;確鑿的"
+     "chinese": "不容置疑的；確鑿的"
     }
    },
    {
@@ -656,7 +656,7 @@ window.FLASHCARD_UNITS = {
     "word": "apologia",
     "pos": "n.",
     "definition": "A formal written defense of one's opinions or conduct.",
-    "chinese": "辯護書;自辯",
+    "chinese": "辯護書；自辯",
     "synonyms": "",
     "root": "apologia (a speech in defense, from Greek)",
     "group": "",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal written defense of one's opinions or conduct.",
-     "chinese": "辯護書;自辯"
+     "chinese": "辯護書；自辯"
     }
    },
    {
     "word": "apology",
     "pos": "n.",
     "definition": "An expression of regret for having done wrong; a formal defense.",
-    "chinese": "道歉;辯護",
+    "chinese": "道歉；辯護",
     "synonyms": "",
     "root": "apologia (a speech in defense, from Greek)",
     "group": "",
@@ -687,14 +687,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An expression of regret for having done wrong; a formal defense.",
-     "chinese": "道歉;辯護"
+     "chinese": "道歉；辯護"
     }
    },
    {
     "word": "apostasy",
     "pos": "n.",
     "definition": "The abandonment of one's religious or political beliefs.",
-    "chinese": "背教;變節",
+    "chinese": "背教；變節",
     "synonyms": "",
     "root": "apo- (away) + histanai (to stand), from Greek",
     "group": "",
@@ -706,14 +706,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The abandonment of one's religious or political beliefs.",
-     "chinese": "背教;變節"
+     "chinese": "背教；變節"
     }
    },
    {
     "word": "apostate",
     "pos": "n./adj.",
     "definition": "A person who abandons their religious or political beliefs.",
-    "chinese": "變節者;背教者",
+    "chinese": "變節者；背教者",
     "synonyms": "",
     "root": "apo- (away) + histanai (to stand), from Greek",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who abandons their religious or political beliefs.",
-     "chinese": "變節者;背教者"
+     "chinese": "變節者；背教者"
     }
    },
    {
     "word": "apostatize",
     "pos": "v.",
     "definition": "To abandon one's religious faith, political party, or cause.",
-    "chinese": "背棄信仰;變節",
+    "chinese": "背棄信仰；變節",
     "synonyms": "",
     "root": "apo- (away) + histanai (to stand), from Greek",
     "group": "",
@@ -744,14 +744,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To abandon one's religious faith, political party, or cause.",
-     "chinese": "背棄信仰;變節"
+     "chinese": "背棄信仰；變節"
     }
    },
    {
     "word": "apotheosis",
     "pos": "n.",
     "definition": "The highest point in the development of something; elevation to divine status.",
-    "chinese": "頂點;神化",
+    "chinese": "頂點；神化",
     "synonyms": "",
     "root": "apo- (from) + theos (god), from Greek",
     "group": "",
@@ -763,14 +763,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The highest point in the development of something; elevation to divine status.",
-     "chinese": "頂點;神化"
+     "chinese": "頂點；神化"
     }
    },
    {
     "word": "apotheosize",
     "pos": "v.",
     "definition": "To elevate to the status of a god; to glorify.",
-    "chinese": "神化;推崇至極",
+    "chinese": "神化；推崇至極",
     "synonyms": "",
     "root": "apo- (from) + theos (god), from Greek",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To elevate to the status of a god; to glorify.",
-     "chinese": "神化;推崇至極"
+     "chinese": "神化；推崇至極"
     }
    },
    {
     "word": "apparent",
     "pos": "adj.",
     "definition": "Clearly visible or understood; seeming real but not necessarily so.",
-    "chinese": "明顯的;表面上的",
+    "chinese": "明顯的；表面上的",
     "synonyms": "",
     "root": "apparere (to appear, from Latin)",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearly visible or understood; seeming real but not necessarily so.",
-     "chinese": "明顯的;表面上的"
+     "chinese": "明顯的；表面上的"
     }
    },
    {
     "word": "apprise",
     "pos": "v.",
     "definition": "To inform someone of something.",
-    "chinese": "通知;告知",
+    "chinese": "通知；告知",
     "synonyms": "",
     "root": "apprendre (to learn, from French)",
     "group": "",
@@ -822,14 +822,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To inform someone of something.",
-     "chinese": "通知;告知"
+     "chinese": "通知；告知"
     }
    },
    {
     "word": "apropos",
     "pos": "adj./adv./prep.",
     "definition": "Appropriate to a particular situation; with reference to.",
-    "chinese": "恰當的;關於",
+    "chinese": "恰當的；關於",
     "synonyms": "",
     "root": "à propos (to the purpose, from French)",
     "group": "",
@@ -841,7 +841,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Appropriate to a particular situation; with reference to.",
-     "chinese": "恰當的;關於"
+     "chinese": "恰當的；關於"
     }
    },
    {
@@ -943,7 +943,7 @@ window.FLASHCARD_UNITS = {
     "word": "arcadian",
     "pos": "adj.",
     "definition": "Relating to an idealized, peaceful rural life.",
-    "chinese": "田園牧歌式的;世外桃源般的",
+    "chinese": "田園牧歌式的；世外桃源般的",
     "synonyms": "",
     "root": "Arcadia (a rural region of ancient Greece)",
     "group": "",
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to an idealized, peaceful rural life.",
-     "chinese": "田園牧歌式的;世外桃源般的"
+     "chinese": "田園牧歌式的；世外桃源般的"
     }
    }
   ],
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"angelic": ["Resembling an angel; extremely beautiful, innocent, or kind.", "天使般的;純潔的"], "anglomania": ["An excessive admiration of England or English customs.", "英國狂熱;英國崇拜"], "anglophile": ["An admirer of England and English things.", "親英人士"], "anglophobia": ["A strong dislike or fear of England, its people, or its culture.", "英國恐懼症;仇英情結"], "anguish": ["Extreme sadness, torment.", "極度痛苦；苦惱"], "annals": ["Historical records.", "編年史"], "anodyne": ["Capable of relieving pain.", "止痛的；無害的"], "anomalous": ["Deviating from what is standard or expected.", "異常的;反常的"], "anomaly": ["Irregularity, abnormality.", "異常；反常"], "anonymous": ["Being unknown, unrecognized.", "匿名的；不知名的"], "anserine": ["Resembling a goose; silly or foolish.", "似鵝的;愚蠢的"], "antediluvian": ["Very, very old; antiquated.", "遠古的"], "antenna": ["A device for receiving or transmitting radio waves; a feeler organ on an insect.", "天線;觸角"], "antepenultimate": ["Third from the last.", "倒數第三的"], "anteprandial": ["Occurring before a meal, especially dinner.", "餐前的"], "anthropoid": ["Resembling a human in form; a great ape.", "類人的;類人猿"], "anthropologist": ["Expert in the study of mankind's customs.", "人類學家"], "anthropomorphic": ["Attributing human characteristics to non-human things.", "擬人化的"], "anthropomorphize": ["To attribute human traits or emotions to a non-human thing.", "擬人化;賦予人性"], "antiquated": ["Out-of-date, obsolete.", "過時的；陳舊的"], "antiquity": ["Ancient times.", "古代"], "anxiety": ["Intense uneasiness.", "焦慮；不安"], "anxious": ["Feeling worried or nervous; eager.", "焦慮的;渴望的"], "apace": ["Quickly; at a rapid pace.", "迅速地"], "apartheid": ["A policy of racial segregation, especially as practiced in South Africa.", "種族隔離制度"], "aperçu": ["A brief, insightful comment or summary.", "洞察;概述"], "apex": ["The highest point of something.", "頂點；最高點"], "aphorism": ["A short, pointed statement expressing a general truth.", "格言;警句"], "aphoristic": ["Expressed in short, memorable phrases.", "格言式的;警句般的"], "aphrodisiac": ["A drug or other agent that stimulates sexual desire.", "春藥；催情物"], "aplomb": ["Self-confidence or composure, especially in a difficult situation.", "沉著;泰然自若"], "apocryphal": ["Fictitious, false, wrong.", "虛構的；來源可疑的"], "apodictic": ["Clearly established beyond dispute; certain.", "不容置疑的;確鑿的"], "apogee": ["The farthest point in an orbit around the Earth.", "遠地點；巔峰"], "apologia": ["A formal written defense of one's opinions or conduct.", "辯護書;自辯"], "apology": ["An expression of regret for having done wrong; a formal defense.", "道歉;辯護"], "apostasy": ["The abandonment of one's religious or political beliefs.", "背教;變節"], "apostate": ["A person who abandons their religious or political beliefs.", "變節者;背教者"], "apostatize": ["To abandon one's religious faith, political party, or cause.", "背棄信仰;變節"], "apotheosis": ["The highest point in the development of something; elevation to divine status.", "頂點;神化"], "apotheosize": ["To elevate to the status of a god; to glorify.", "神化;推崇至極"], "apparent": ["Clearly visible or understood; seeming real but not necessarily so.", "明顯的;表面上的"], "apprise": ["To inform someone of something.", "通知;告知"], "apropos": ["Appropriate to a particular situation; with reference to.", "恰當的;關於"], "arable": ["Suitable for growing crops.", "適合耕種的"], "arbitrary": ["Based on whim, dictatorial.", "任意的；武斷的"], "arbitration": ["The process or act of resolving a dispute.", "仲裁"], "arbitrator": ["An independent person appointed to settle a dispute.", "仲裁人"], "arboreal": ["Of or relating to trees.", "樹棲的；樹木的"], "arcadian": ["Relating to an idealized, peaceful rural life.", "田園牧歌式的;世外桃源般的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"angelic": ["Resembling an angel; extremely beautiful, innocent, or kind.", "天使般的；純潔的"], "anglomania": ["An excessive admiration of England or English customs.", "英國狂熱；英國崇拜"], "anglophile": ["An admirer of England and English things.", "親英人士"], "anglophobia": ["A strong dislike or fear of England, its people, or its culture.", "英國恐懼症；仇英情結"], "anguish": ["Extreme sadness, torment.", "極度痛苦；苦惱"], "annals": ["Historical records.", "編年史"], "anodyne": ["Capable of relieving pain.", "止痛的；無害的"], "anomalous": ["Deviating from what is standard or expected.", "異常的；反常的"], "anomaly": ["Irregularity, abnormality.", "異常；反常"], "anonymous": ["Being unknown, unrecognized.", "匿名的；不知名的"], "anserine": ["Resembling a goose; silly or foolish.", "似鵝的；愚蠢的"], "antediluvian": ["Very, very old; antiquated.", "遠古的"], "antenna": ["A device for receiving or transmitting radio waves; a feeler organ on an insect.", "天線；觸角"], "antepenultimate": ["Third from the last.", "倒數第三的"], "anteprandial": ["Occurring before a meal, especially dinner.", "餐前的"], "anthropoid": ["Resembling a human in form; a great ape.", "類人的；類人猿"], "anthropologist": ["Expert in the study of mankind's customs.", "人類學家"], "anthropomorphic": ["Attributing human characteristics to non-human things.", "擬人化的"], "anthropomorphize": ["To attribute human traits or emotions to a non-human thing.", "擬人化；賦予人性"], "antiquated": ["Out-of-date, obsolete.", "過時的；陳舊的"], "antiquity": ["Ancient times.", "古代"], "anxiety": ["Intense uneasiness.", "焦慮；不安"], "anxious": ["Feeling worried or nervous; eager.", "焦慮的；渴望的"], "apace": ["Quickly; at a rapid pace.", "迅速地"], "apartheid": ["A policy of racial segregation, especially as practiced in South Africa.", "種族隔離制度"], "aperçu": ["A brief, insightful comment or summary.", "洞察；概述"], "apex": ["The highest point of something.", "頂點；最高點"], "aphorism": ["A short, pointed statement expressing a general truth.", "格言；警句"], "aphoristic": ["Expressed in short, memorable phrases.", "格言式的；警句般的"], "aphrodisiac": ["A drug or other agent that stimulates sexual desire.", "春藥；催情物"], "aplomb": ["Self-confidence or composure, especially in a difficult situation.", "沉著；泰然自若"], "apocryphal": ["Fictitious, false, wrong.", "虛構的；來源可疑的"], "apodictic": ["Clearly established beyond dispute; certain.", "不容置疑的；確鑿的"], "apogee": ["The farthest point in an orbit around the Earth.", "遠地點；巔峰"], "apologia": ["A formal written defense of one's opinions or conduct.", "辯護書；自辯"], "apology": ["An expression of regret for having done wrong; a formal defense.", "道歉；辯護"], "apostasy": ["The abandonment of one's religious or political beliefs.", "背教；變節"], "apostate": ["A person who abandons their religious or political beliefs.", "變節者；背教者"], "apostatize": ["To abandon one's religious faith, political party, or cause.", "背棄信仰；變節"], "apotheosis": ["The highest point in the development of something; elevation to divine status.", "頂點；神化"], "apotheosize": ["To elevate to the status of a god; to glorify.", "神化；推崇至極"], "apparent": ["Clearly visible or understood; seeming real but not necessarily so.", "明顯的；表面上的"], "apprise": ["To inform someone of something.", "通知；告知"], "apropos": ["Appropriate to a particular situation; with reference to.", "恰當的；關於"], "arable": ["Suitable for growing crops.", "適合耕種的"], "arbitrary": ["Based on whim, dictatorial.", "任意的；武斷的"], "arbitration": ["The process or act of resolving a dispute.", "仲裁"], "arbitrator": ["An independent person appointed to settle a dispute.", "仲裁人"], "arboreal": ["Of or relating to trees.", "樹棲的；樹木的"], "arcadian": ["Relating to an idealized, peaceful rural life.", "田園牧歌式的；世外桃源般的"]});

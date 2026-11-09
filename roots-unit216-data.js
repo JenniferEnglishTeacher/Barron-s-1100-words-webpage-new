@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "rapacious",
     "pos": "adj.",
     "definition": "Aggressively greedy or grasping.",
-    "chinese": "貪婪的;掠奪成性的",
+    "chinese": "貪婪的；掠奪成性的",
     "synonyms": "",
     "root": "rapax (grasping, greedy), from Latin rapere (to seize)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Aggressively greedy or grasping.",
-     "chinese": "貪婪的;掠奪成性的"
+     "chinese": "貪婪的；掠奪成性的"
     }
    },
    {
     "word": "rape",
     "pos": "n./v.",
     "definition": "The crime of forcing someone into sexual intercourse without consent.",
-    "chinese": "強姦;性侵",
+    "chinese": "強姦；性侵",
     "synonyms": "",
     "root": "rapere (to seize), from Latin",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The crime of forcing someone into sexual intercourse without consent.",
-     "chinese": "強姦;性侵"
+     "chinese": "強姦；性侵"
     }
    },
    {
     "word": "rapprochement",
     "pos": "n.",
     "definition": "The establishment or resumption of harmonious relations.",
-    "chinese": "和解;關係修復",
+    "chinese": "和解；關係修復",
     "synonyms": "",
     "root": "rapprocher (to bring closer), from French re- (again) + approcher (to approach)",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The establishment or resumption of harmonious relations.",
-     "chinese": "和解;關係修復"
+     "chinese": "和解；關係修復"
     }
    },
    {
     "word": "rapscallion",
     "pos": "n.",
     "definition": "A mischievous or dishonest person, especially playfully so.",
-    "chinese": "頑皮的搗蛋鬼;無賴",
+    "chinese": "頑皮的搗蛋鬼；無賴",
     "synonyms": "",
     "root": "rascallion (rascal), variant of rascal, of uncertain origin",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mischievous or dishonest person, especially playfully so.",
-     "chinese": "頑皮的搗蛋鬼;無賴"
+     "chinese": "頑皮的搗蛋鬼；無賴"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "raptorial",
     "pos": "adj.",
     "definition": "Relating to birds of prey; adapted for seizing prey.",
-    "chinese": "猛禽的;適於捕食的",
+    "chinese": "猛禽的；適於捕食的",
     "synonyms": "",
     "root": "raptor (plunderer), from Latin rapere (to seize)",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to birds of prey; adapted for seizing prey.",
-     "chinese": "猛禽的;適於捕食的"
+     "chinese": "猛禽的；適於捕食的"
     }
    },
    {
     "word": "rapturous",
     "pos": "adj.",
     "definition": "Characterized by intense pleasure or enthusiasm.",
-    "chinese": "狂喜的;興高采烈的",
+    "chinese": "狂喜的；興高采烈的",
     "synonyms": "",
     "root": "raptura (a seizing, rapture), from Latin rapere (to seize)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characterized by intense pleasure or enthusiasm.",
-     "chinese": "狂喜的;興高采烈的"
+     "chinese": "狂喜的；興高采烈的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "rascal",
     "pos": "n.",
     "definition": "A mischievous or dishonest person, often affectionately.",
-    "chinese": "搗蛋鬼;無賴",
+    "chinese": "搗蛋鬼；無賴",
     "synonyms": "",
     "root": "rascaille (rabble), from Old French, of uncertain origin",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mischievous or dishonest person, often affectionately.",
-     "chinese": "搗蛋鬼;無賴"
+     "chinese": "搗蛋鬼；無賴"
     }
    },
    {
     "word": "rascally",
     "pos": "adj.",
     "definition": "Dishonest or unprincipled, often in a mischievous way.",
-    "chinese": "無賴的;搗蛋的",
+    "chinese": "無賴的；搗蛋的",
     "synonyms": "",
     "root": "rascaille (rabble), from Old French, of uncertain origin",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dishonest or unprincipled, often in a mischievous way.",
-     "chinese": "無賴的;搗蛋的"
+     "chinese": "無賴的；搗蛋的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "ratification",
     "pos": "n.",
     "definition": "The formal confirmation or approval of an agreement.",
-    "chinese": "批准;認可",
+    "chinese": "批准；認可",
     "synonyms": "",
     "root": "ratus (fixed, valid), from Latin reri (to think, judge)",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The formal confirmation or approval of an agreement.",
-     "chinese": "批准;認可"
+     "chinese": "批准；認可"
     }
    },
    {
     "word": "ratify",
     "pos": "v.",
     "definition": "To formally confirm or approve an agreement.",
-    "chinese": "批准;認可",
+    "chinese": "批准；認可",
     "synonyms": "",
     "root": "ratus (fixed, valid), from Latin reri (to think, judge)",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To formally confirm or approve an agreement.",
-     "chinese": "批准;認可"
+     "chinese": "批准；認可"
     }
    },
    {
     "word": "rational",
     "pos": "adj.",
     "definition": "Based on reason or logic rather than emotion.",
-    "chinese": "理性的;合乎邏輯的",
+    "chinese": "理性的；合乎邏輯的",
     "synonyms": "",
     "root": "rationalis (of reason), from Latin ratio (reckoning, reason)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Based on reason or logic rather than emotion.",
-     "chinese": "理性的;合乎邏輯的"
+     "chinese": "理性的；合乎邏輯的"
     }
    },
    {
     "word": "rationalization",
     "pos": "n.",
     "definition": "The act of justifying behavior with logical-sounding reasons rather than the true motive.",
-    "chinese": "合理化;自我辯解",
+    "chinese": "合理化；自我辯解",
     "synonyms": "",
     "root": "rationalis (of reason), from Latin ratio (reckoning, reason)",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of justifying behavior with logical-sounding reasons rather than the true motive.",
-     "chinese": "合理化;自我辯解"
+     "chinese": "合理化；自我辯解"
     }
    },
    {
@@ -329,7 +329,7 @@ window.FLASHCARD_UNITS = {
     "word": "rattle",
     "pos": "v./n.",
     "definition": "To make a series of short, sharp sounds; to unsettle someone.",
-    "chinese": "發出咯咯聲;使不安",
+    "chinese": "發出咯咯聲；使不安",
     "synonyms": "",
     "root": "ratelen (to rattle), from Middle Dutch or Middle Low German",
     "group": "",
@@ -341,7 +341,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make a series of short, sharp sounds; to unsettle someone.",
-     "chinese": "發出咯咯聲;使不安"
+     "chinese": "發出咯咯聲；使不安"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "realistic",
     "pos": "adj.",
     "definition": "Having a practical view of what can be achieved; resembling real life.",
-    "chinese": "現實的;逼真的",
+    "chinese": "現實的；逼真的",
     "synonyms": "",
     "root": "realis (actual), from Latin res (thing)",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a practical view of what can be achieved; resembling real life.",
-     "chinese": "現實的;逼真的"
+     "chinese": "現實的；逼真的"
     }
    },
    {
     "word": "rebarbative",
     "pos": "adj.",
     "definition": "Causing irritation or aversion; repellent.",
-    "chinese": "令人反感的;討厭的",
+    "chinese": "令人反感的；討厭的",
     "synonyms": "",
     "root": "rebarbatif (grim, forbidding), from French re- (against) + barbe (beard)",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing irritation or aversion; repellent.",
-     "chinese": "令人反感的;討厭的"
+     "chinese": "令人反感的；討厭的"
     }
    },
    {
     "word": "rebellious",
     "pos": "adj.",
     "definition": "Resisting authority or control.",
-    "chinese": "反叛的;不服從的",
+    "chinese": "反叛的；不服從的",
     "synonyms": "",
     "root": "rebellare (to wage war again), from Latin re- (again) + bellum (war)",
     "group": "",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resisting authority or control.",
-     "chinese": "反叛的;不服從的"
+     "chinese": "反叛的；不服從的"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "recherche",
     "pos": "adj.",
     "definition": "Rare, exotic, or carefully chosen, sometimes to the point of affectation.",
-    "chinese": "精挑細選的;講究的",
+    "chinese": "精挑細選的；講究的",
     "synonyms": "",
     "root": "rechercher (to search again), from French re- (again) + chercher (to search)",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rare, exotic, or carefully chosen, sometimes to the point of affectation.",
-     "chinese": "精挑細選的;講究的"
+     "chinese": "精挑細選的；講究的"
     }
    },
    {
     "word": "recherché",
     "pos": "adj.",
     "definition": "Rare, exotic, or carefully chosen, sometimes to an affected degree.",
-    "chinese": "精挑細選的;講究的",
+    "chinese": "精挑細選的；講究的",
     "synonyms": "",
     "root": "rechercher (to search again), from French re- (again) + chercher (to search)",
     "group": "",
@@ -552,7 +552,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rare, exotic, or carefully chosen, sometimes to an affected degree.",
-     "chinese": "精挑細選的;講究的"
+     "chinese": "精挑細選的；講究的"
     }
    },
    {
@@ -580,7 +580,7 @@ window.FLASHCARD_UNITS = {
     "word": "recompense",
     "pos": "n./v.",
     "definition": "Compensation for loss or harm; to repay.",
-    "chinese": "補償;報酬",
+    "chinese": "補償；報酬",
     "synonyms": "",
     "root": "recompensare (to weigh back), from Latin re- (back) + compensare (to compensate)",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Compensation for loss or harm; to repay.",
-     "chinese": "補償;報酬"
+     "chinese": "補償；報酬"
     }
    },
    {
     "word": "reconciliation",
     "pos": "n.",
     "definition": "The restoration of friendly relations after a disagreement.",
-    "chinese": "和解;調解",
+    "chinese": "和解；調解",
     "synonyms": "",
     "root": "reconciliare (to bring together again), from Latin re- (again) + conciliare (to unite)",
     "group": "",
@@ -611,14 +611,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The restoration of friendly relations after a disagreement.",
-     "chinese": "和解;調解"
+     "chinese": "和解；調解"
     }
    },
    {
     "word": "recreant",
     "pos": "n./adj.",
     "definition": "A coward or traitor; cowardly or disloyal.",
-    "chinese": "叛徒;懦弱的",
+    "chinese": "叛徒；懦弱的",
     "synonyms": "",
     "root": "recreire (to surrender), from Old French re- (again) + croire (to believe)",
     "group": "",
@@ -630,14 +630,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A coward or traitor; cowardly or disloyal.",
-     "chinese": "叛徒;懦弱的"
+     "chinese": "叛徒；懦弱的"
     }
    },
    {
     "word": "recrudesce",
     "pos": "v.",
     "definition": "To break out again after a period of dormancy, especially of a disease or conflict.",
-    "chinese": "復發;再度爆發",
+    "chinese": "復發；再度爆發",
     "synonyms": "",
     "root": "recrudescere (to become raw again), from Latin re- (again) + crudus (raw)",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To break out again after a period of dormancy, especially of a disease or conflict.",
-     "chinese": "復發;再度爆發"
+     "chinese": "復發；再度爆發"
     }
    },
    {
     "word": "recrudescence",
     "pos": "n.",
     "definition": "A breaking out again of something dormant, especially disease or conflict.",
-    "chinese": "復發;再度爆發",
+    "chinese": "復發；再度爆發",
     "synonyms": "",
     "root": "recrudescere (to become raw again), from Latin re- (again) + crudus (raw)",
     "group": "",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A breaking out again of something dormant, especially disease or conflict.",
-     "chinese": "復發;再度爆發"
+     "chinese": "復發；再度爆發"
     }
    },
    {
     "word": "recrudescent",
     "pos": "adj.",
     "definition": "Breaking out again after a period of dormancy.",
-    "chinese": "復發的;再度爆發的",
+    "chinese": "復發的；再度爆發的",
     "synonyms": "",
     "root": "recrudescere (to become raw again), from Latin re- (again) + crudus (raw)",
     "group": "",
@@ -687,14 +687,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Breaking out again after a period of dormancy.",
-     "chinese": "復發的;再度爆發的"
+     "chinese": "復發的；再度爆發的"
     }
    },
    {
     "word": "recumbent",
     "pos": "adj.",
     "definition": "Lying down; reclining.",
-    "chinese": "躺臥的;斜倚的",
+    "chinese": "躺臥的；斜倚的",
     "synonyms": "",
     "root": "recumbere (to lie back), from Latin re- (back) + cumbere (to lie)",
     "group": "",
@@ -706,14 +706,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lying down; reclining.",
-     "chinese": "躺臥的;斜倚的"
+     "chinese": "躺臥的；斜倚的"
     }
    },
    {
     "word": "recusal",
     "pos": "n.",
     "definition": "The act of withdrawing from a decision due to a conflict of interest.",
-    "chinese": "迴避;自請迴避",
+    "chinese": "迴避；自請迴避",
     "synonyms": "",
     "root": "recusare (to refuse), from Latin re- (against) + causa (cause)",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of withdrawing from a decision due to a conflict of interest.",
-     "chinese": "迴避;自請迴避"
+     "chinese": "迴避；自請迴避"
     }
    },
    {
     "word": "recusant",
     "pos": "n./adj.",
     "definition": "A person who refuses to submit to authority or comply with a requirement.",
-    "chinese": "拒不服從者;不從國教者",
+    "chinese": "拒不服從者；不從國教者",
     "synonyms": "",
     "root": "recusare (to refuse), from Latin re- (against) + causa (cause)",
     "group": "",
@@ -744,7 +744,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who refuses to submit to authority or comply with a requirement.",
-     "chinese": "拒不服從者;不從國教者"
+     "chinese": "拒不服從者；不從國教者"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "redundancy",
     "pos": "n.",
     "definition": "The state of being unnecessary or excessive; a job loss due to being superfluous.",
-    "chinese": "冗餘;裁員",
+    "chinese": "冗餘；裁員",
     "synonyms": "",
     "root": "redundare (to overflow), from Latin re- (again) + unda (wave)",
     "group": "",
@@ -784,14 +784,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The state of being unnecessary or excessive; a job loss due to being superfluous.",
-     "chinese": "冗餘;裁員"
+     "chinese": "冗餘；裁員"
     }
    },
    {
     "word": "redundant",
     "pos": "adj.",
     "definition": "No longer needed or useful; unnecessarily repetitive.",
-    "chinese": "多餘的;冗贅的",
+    "chinese": "多餘的；冗贅的",
     "synonyms": "",
     "root": "redundare (to overflow), from Latin re- (again) + unda (wave)",
     "group": "",
@@ -803,14 +803,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "No longer needed or useful; unnecessarily repetitive.",
-     "chinese": "多餘的;冗贅的"
+     "chinese": "多餘的；冗贅的"
     }
    },
    {
     "word": "reeling",
     "pos": "adj./v.",
     "definition": "Swaying or staggering unsteadily; feeling shocked or overwhelmed.",
-    "chinese": "搖晃的;震驚的",
+    "chinese": "搖晃的；震驚的",
     "synonyms": "",
     "root": "reol (a reel), from Old English, related to spinning motion",
     "group": "",
@@ -822,14 +822,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Swaying or staggering unsteadily; feeling shocked or overwhelmed.",
-     "chinese": "搖晃的;震驚的"
+     "chinese": "搖晃的；震驚的"
     }
    },
    {
     "word": "refined",
     "pos": "adj.",
     "definition": "Elegant and cultured; free from impurities.",
-    "chinese": "精緻的;精煉的",
+    "chinese": "精緻的；精煉的",
     "synonyms": "",
     "root": "raffiner (to refine), from Old French re- (again) + affiner (to purify)",
     "group": "",
@@ -841,14 +841,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Elegant and cultured; free from impurities.",
-     "chinese": "精緻的;精煉的"
+     "chinese": "精緻的；精煉的"
     }
    },
    {
     "word": "reflective",
     "pos": "adj.",
     "definition": "Thoughtful; capable of reflecting light or heat.",
-    "chinese": "反思的;反射的",
+    "chinese": "反思的；反射的",
     "synonyms": "",
     "root": "reflectere (to bend back), from Latin re- (back) + flectere (to bend)",
     "group": "",
@@ -860,14 +860,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Thoughtful; capable of reflecting light or heat.",
-     "chinese": "反思的;反射的"
+     "chinese": "反思的；反射的"
     }
    },
    {
     "word": "refractory",
     "pos": "adj.",
     "definition": "Stubborn or resistant to control; resistant to treatment.",
-    "chinese": "頑固的;難治的",
+    "chinese": "頑固的；難治的",
     "synonyms": "",
     "root": "refractarius (stubborn), from Latin re- (back) + frangere (to break)",
     "group": "",
@@ -879,14 +879,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stubborn or resistant to control; resistant to treatment.",
-     "chinese": "頑固的;難治的"
+     "chinese": "頑固的；難治的"
     }
    },
    {
     "word": "refulgence",
     "pos": "n.",
     "definition": "Radiant brightness or splendor.",
-    "chinese": "光輝;燦爛",
+    "chinese": "光輝；燦爛",
     "synonyms": "",
     "root": "refulgere (to shine brightly), from Latin re- (back) + fulgere (to shine)",
     "group": "",
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Radiant brightness or splendor.",
-     "chinese": "光輝;燦爛"
+     "chinese": "光輝；燦爛"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"rant": ["To talk very loudly, even wildly.", "大聲咆哮；胡言亂語"], "rapacious": ["Aggressively greedy or grasping.", "貪婪的;掠奪成性的"], "rape": ["The crime of forcing someone into sexual intercourse without consent.", "強姦;性侵"], "rapprochement": ["The establishment or resumption of harmonious relations.", "和解;關係修復"], "rapscallion": ["A mischievous or dishonest person, especially playfully so.", "頑皮的搗蛋鬼;無賴"], "rapt": ["Feeling great delight and interest.", "全神貫注的；入迷的"], "raptorial": ["Relating to birds of prey; adapted for seizing prey.", "猛禽的;適於捕食的"], "rapturous": ["Characterized by intense pleasure or enthusiasm.", "狂喜的;興高采烈的"], "rarely": ["Infrequently or seldom.", "很少；罕見地"], "rascal": ["A mischievous or dishonest person, often affectionately.", "搗蛋鬼;無賴"], "rascally": ["Dishonest or unprincipled, often in a mischievous way.", "無賴的;搗蛋的"], "rash": ["Too hasty, reckless.", "魯莽的；輕率的"], "ratification": ["The formal confirmation or approval of an agreement.", "批准;認可"], "ratify": ["To formally confirm or approve an agreement.", "批准;認可"], "rational": ["Based on reason or logic rather than emotion.", "理性的;合乎邏輯的"], "rationalization": ["The act of justifying behavior with logical-sounding reasons rather than the true motive.", "合理化;自我辯解"], "rationalize": ["To give a reason other than the real one.", "合理化"], "rattle": ["To make a series of short, sharp sounds; to unsettle someone.", "發出咯咯聲;使不安"], "raucous": ["Noisy.", "沙啞的；喧鬧的"], "ravenous": ["Very hungry.", "極餓的"], "rawboned": ["Having a lean, bony build.", "骨瘦如柴的"], "raze": ["To destroy.", "夷為平地；破壞"], "ready": ["Prepared for immediate action or use.", "準備好的"], "realistic": ["Having a practical view of what can be achieved; resembling real life.", "現實的;逼真的"], "rebarbative": ["Causing irritation or aversion; repellent.", "令人反感的;討厭的"], "rebellious": ["Resisting authority or control.", "反叛的;不服從的"], "rebuttal": ["A response disproving or contradicting an argument.", "反駁"], "recherche": ["Rare, exotic, or carefully chosen, sometimes to the point of affectation.", "精挑細選的;講究的"], "recherché": ["Rare, exotic, or carefully chosen, sometimes to an affected degree.", "精挑細選的;講究的"], "reciprocate": ["To respond to a gesture or action by making a corresponding one; to give and receive in return.", "回報；互惠"], "recompense": ["Compensation for loss or harm; to repay.", "補償;報酬"], "reconciliation": ["The restoration of friendly relations after a disagreement.", "和解;調解"], "recreant": ["A coward or traitor; cowardly or disloyal.", "叛徒;懦弱的"], "recrudesce": ["To break out again after a period of dormancy, especially of a disease or conflict.", "復發;再度爆發"], "recrudescence": ["A breaking out again of something dormant, especially disease or conflict.", "復發;再度爆發"], "recrudescent": ["Breaking out again after a period of dormancy.", "復發的;再度爆發的"], "recumbent": ["Lying down; reclining.", "躺臥的;斜倚的"], "recusal": ["The act of withdrawing from a decision due to a conflict of interest.", "迴避;自請迴避"], "recusant": ["A person who refuses to submit to authority or comply with a requirement.", "拒不服從者;不從國教者"], "recuse": ["To withdraw from a decision-making role due to a conflict of interest.", "自請迴避"], "redundancy": ["The state of being unnecessary or excessive; a job loss due to being superfluous.", "冗餘;裁員"], "redundant": ["No longer needed or useful; unnecessarily repetitive.", "多餘的;冗贅的"], "reeling": ["Swaying or staggering unsteadily; feeling shocked or overwhelmed.", "搖晃的;震驚的"], "refined": ["Elegant and cultured; free from impurities.", "精緻的;精煉的"], "reflective": ["Thoughtful; capable of reflecting light or heat.", "反思的;反射的"], "refractory": ["Stubborn or resistant to control; resistant to treatment.", "頑固的;難治的"], "refulgence": ["Radiant brightness or splendor.", "光輝;燦爛"], "refulgent": ["Shining brightly; radiant.", "光輝燦爛的"], "regrettable": ["Causing sorrow or disappointment.", "令人遺憾的"], "relish": ["To enjoy.", "享受；樂在其中"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"rant": ["To talk very loudly, even wildly.", "大聲咆哮；胡言亂語"], "rapacious": ["Aggressively greedy or grasping.", "貪婪的；掠奪成性的"], "rape": ["The crime of forcing someone into sexual intercourse without consent.", "強姦；性侵"], "rapprochement": ["The establishment or resumption of harmonious relations.", "和解；關係修復"], "rapscallion": ["A mischievous or dishonest person, especially playfully so.", "頑皮的搗蛋鬼；無賴"], "rapt": ["Feeling great delight and interest.", "全神貫注的；入迷的"], "raptorial": ["Relating to birds of prey; adapted for seizing prey.", "猛禽的；適於捕食的"], "rapturous": ["Characterized by intense pleasure or enthusiasm.", "狂喜的；興高采烈的"], "rarely": ["Infrequently or seldom.", "很少；罕見地"], "rascal": ["A mischievous or dishonest person, often affectionately.", "搗蛋鬼；無賴"], "rascally": ["Dishonest or unprincipled, often in a mischievous way.", "無賴的；搗蛋的"], "rash": ["Too hasty, reckless.", "魯莽的；輕率的"], "ratification": ["The formal confirmation or approval of an agreement.", "批准；認可"], "ratify": ["To formally confirm or approve an agreement.", "批准；認可"], "rational": ["Based on reason or logic rather than emotion.", "理性的；合乎邏輯的"], "rationalization": ["The act of justifying behavior with logical-sounding reasons rather than the true motive.", "合理化；自我辯解"], "rationalize": ["To give a reason other than the real one.", "合理化"], "rattle": ["To make a series of short, sharp sounds; to unsettle someone.", "發出咯咯聲；使不安"], "raucous": ["Noisy.", "沙啞的；喧鬧的"], "ravenous": ["Very hungry.", "極餓的"], "rawboned": ["Having a lean, bony build.", "骨瘦如柴的"], "raze": ["To destroy.", "夷為平地；破壞"], "ready": ["Prepared for immediate action or use.", "準備好的"], "realistic": ["Having a practical view of what can be achieved; resembling real life.", "現實的；逼真的"], "rebarbative": ["Causing irritation or aversion; repellent.", "令人反感的；討厭的"], "rebellious": ["Resisting authority or control.", "反叛的；不服從的"], "rebuttal": ["A response disproving or contradicting an argument.", "反駁"], "recherche": ["Rare, exotic, or carefully chosen, sometimes to the point of affectation.", "精挑細選的；講究的"], "recherché": ["Rare, exotic, or carefully chosen, sometimes to an affected degree.", "精挑細選的；講究的"], "reciprocate": ["To respond to a gesture or action by making a corresponding one; to give and receive in return.", "回報；互惠"], "recompense": ["Compensation for loss or harm; to repay.", "補償；報酬"], "reconciliation": ["The restoration of friendly relations after a disagreement.", "和解；調解"], "recreant": ["A coward or traitor; cowardly or disloyal.", "叛徒；懦弱的"], "recrudesce": ["To break out again after a period of dormancy, especially of a disease or conflict.", "復發；再度爆發"], "recrudescence": ["A breaking out again of something dormant, especially disease or conflict.", "復發；再度爆發"], "recrudescent": ["Breaking out again after a period of dormancy.", "復發的；再度爆發的"], "recumbent": ["Lying down; reclining.", "躺臥的；斜倚的"], "recusal": ["The act of withdrawing from a decision due to a conflict of interest.", "迴避；自請迴避"], "recusant": ["A person who refuses to submit to authority or comply with a requirement.", "拒不服從者；不從國教者"], "recuse": ["To withdraw from a decision-making role due to a conflict of interest.", "自請迴避"], "redundancy": ["The state of being unnecessary or excessive; a job loss due to being superfluous.", "冗餘；裁員"], "redundant": ["No longer needed or useful; unnecessarily repetitive.", "多餘的；冗贅的"], "reeling": ["Swaying or staggering unsteadily; feeling shocked or overwhelmed.", "搖晃的；震驚的"], "refined": ["Elegant and cultured; free from impurities.", "精緻的；精煉的"], "reflective": ["Thoughtful; capable of reflecting light or heat.", "反思的；反射的"], "refractory": ["Stubborn or resistant to control; resistant to treatment.", "頑固的；難治的"], "refulgence": ["Radiant brightness or splendor.", "光輝；燦爛"], "refulgent": ["Shining brightly; radiant.", "光輝燦爛的"], "regrettable": ["Causing sorrow or disappointment.", "令人遺憾的"], "relish": ["To enjoy.", "享受；樂在其中"]});

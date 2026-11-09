@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "dull",
     "pos": "adj.",
     "definition": "Lacking sharpness, interest, or brightness.",
-    "chinese": "遲鈍的;無趣的",
+    "chinese": "遲鈍的；無趣的",
     "synonyms": "",
     "root": "dol, from Old English",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking sharpness, interest, or brightness.",
-     "chinese": "遲鈍的;無趣的"
+     "chinese": "遲鈍的；無趣的"
     }
    },
    {
     "word": "dullard",
     "pos": "n.",
     "definition": "A slow-witted or stupid person.",
-    "chinese": "笨蛋;愚鈍之人",
+    "chinese": "笨蛋；愚鈍之人",
     "synonyms": "",
     "root": "dol (dull), from Old English",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A slow-witted or stupid person.",
-     "chinese": "笨蛋;愚鈍之人"
+     "chinese": "笨蛋；愚鈍之人"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "dunce",
     "pos": "n.",
     "definition": "A person who is slow at learning; a stupid person.",
-    "chinese": "笨學生;愚人",
+    "chinese": "笨學生；愚人",
     "synonyms": "",
     "root": "from the name of scholar Duns Scotus",
     "group": "",
@@ -79,14 +79,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who is slow at learning; a stupid person.",
-     "chinese": "笨學生;愚人"
+     "chinese": "笨學生；愚人"
     }
    },
    {
     "word": "dunderhead",
     "pos": "n.",
     "definition": "A stupid person.",
-    "chinese": "笨蛋;糊塗蟲",
+    "chinese": "笨蛋；糊塗蟲",
     "synonyms": "",
     "root": "dunder (uncertain) + head, from English dialect",
     "group": "",
@@ -98,7 +98,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stupid person.",
-     "chinese": "笨蛋;糊塗蟲"
+     "chinese": "笨蛋；糊塗蟲"
     }
    },
    {
@@ -143,7 +143,7 @@ window.FLASHCARD_UNITS = {
     "word": "duplicitous",
     "pos": "adj.",
     "definition": "Deceitful; deliberately deceptive.",
-    "chinese": "口是心非的;欺詐的",
+    "chinese": "口是心非的；欺詐的",
     "synonyms": "",
     "root": "duo (two) + plicare (to fold), from Latin",
     "group": "",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deceitful; deliberately deceptive.",
-     "chinese": "口是心非的;欺詐的"
+     "chinese": "口是心非的；欺詐的"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "duration",
     "pos": "n.",
     "definition": "The length of time something continues.",
-    "chinese": "持續時間;期間",
+    "chinese": "持續時間；期間",
     "synonyms": "",
     "root": "durare (to last), from Latin",
     "group": "",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The length of time something continues.",
-     "chinese": "持續時間;期間"
+     "chinese": "持續時間；期間"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "dutiful",
     "pos": "adj.",
     "definition": "Conscientiously fulfilling one's duty or obligations.",
-    "chinese": "盡職的;孝順的",
+    "chinese": "盡職的；孝順的",
     "synonyms": "",
     "root": "duty, from Old French deu (owed)",
     "group": "",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conscientiously fulfilling one's duty or obligations.",
-     "chinese": "盡職的;孝順的"
+     "chinese": "盡職的；孝順的"
     }
    },
    {
     "word": "dwarf",
     "pos": "n./v.",
     "definition": "A person, animal, or plant much smaller than usual; to make appear small.",
-    "chinese": "矮子;使相形見絀",
+    "chinese": "矮子；使相形見絀",
     "synonyms": "",
     "root": "dweorg, from Old English",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person, animal, or plant much smaller than usual; to make appear small.",
-     "chinese": "矮子;使相形見絀"
+     "chinese": "矮子；使相形見絀"
     }
    },
    {
     "word": "dwindle",
     "pos": "v.",
     "definition": "To become gradually smaller or less.",
-    "chinese": "逐漸減少;萎縮",
+    "chinese": "逐漸減少；萎縮",
     "synonyms": "",
     "root": "dwinan (to waste away), from Old English",
     "group": "",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To become gradually smaller or less.",
-     "chinese": "逐漸減少;萎縮"
+     "chinese": "逐漸減少；萎縮"
     }
    },
    {
     "word": "dyed-in-the-wool",
     "pos": "adj.",
     "definition": "Unchanging in a particular belief or opinion; thoroughgoing.",
-    "chinese": "根深蒂固的;死忠的",
+    "chinese": "根深蒂固的；死忠的",
     "synonyms": "",
     "root": "dye + wool, from Old English",
     "group": "",
@@ -309,7 +309,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unchanging in a particular belief or opinion; thoroughgoing.",
-     "chinese": "根深蒂固的;死忠的"
+     "chinese": "根深蒂固的；死忠的"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "dysmenorrhea",
     "pos": "n.",
     "definition": "Painful menstruation.",
-    "chinese": "經痛;痛經",
+    "chinese": "經痛；痛經",
     "synonyms": "",
     "root": "dys- (difficult) + men (month) + rhoia (flow), from Greek",
     "group": "",
@@ -385,7 +385,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Painful menstruation.",
-     "chinese": "經痛;痛經"
+     "chinese": "經痛；痛經"
     }
    },
    {
@@ -449,7 +449,7 @@ window.FLASHCARD_UNITS = {
     "word": "dyspeptic",
     "pos": "adj.",
     "definition": "Suffering from indigestion; irritable.",
-    "chinese": "消化不良的;易怒的",
+    "chinese": "消化不良的；易怒的",
     "synonyms": "",
     "root": "dys- (difficult) + pepsis (digestion), from Greek",
     "group": "",
@@ -461,7 +461,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Suffering from indigestion; irritable.",
-     "chinese": "消化不良的;易怒的"
+     "chinese": "消化不良的；易怒的"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "dysphemism",
     "pos": "n.",
     "definition": "A harsh or blunt term used in place of a milder one.",
-    "chinese": "貶抑語;粗鄙用詞",
+    "chinese": "貶抑語；粗鄙用詞",
     "synonyms": "",
     "root": "dys- (bad) + pheme (speech), from Greek",
     "group": "",
@@ -501,14 +501,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A harsh or blunt term used in place of a milder one.",
-     "chinese": "貶抑語;粗鄙用詞"
+     "chinese": "貶抑語；粗鄙用詞"
     }
    },
    {
     "word": "dysphoria",
     "pos": "n.",
     "definition": "A state of dissatisfaction, anxiety, or unease.",
-    "chinese": "煩躁不安;情緒惡劣",
+    "chinese": "煩躁不安；情緒惡劣",
     "synonyms": "",
     "root": "dys- (bad) + pherein (to bear), from Greek",
     "group": "",
@@ -520,7 +520,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of dissatisfaction, anxiety, or unease.",
-     "chinese": "煩躁不安;情緒惡劣"
+     "chinese": "煩躁不安；情緒惡劣"
     }
    },
    {
@@ -603,7 +603,7 @@ window.FLASHCARD_UNITS = {
     "word": "eager",
     "pos": "adj.",
     "definition": "Strongly wanting to do or have something.",
-    "chinese": "渴望的;熱切的",
+    "chinese": "渴望的；熱切的",
     "synonyms": "",
     "root": "acer (sharp, keen), from Latin",
     "group": "",
@@ -615,7 +615,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Strongly wanting to do or have something.",
-     "chinese": "渴望的;熱切的"
+     "chinese": "渴望的；熱切的"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "earnestness",
     "pos": "n.",
     "definition": "Sincere and serious conviction.",
-    "chinese": "真誠;認真",
+    "chinese": "真誠；認真",
     "synonyms": "",
     "root": "eornoste (zeal), from Old English",
     "group": "",
@@ -653,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sincere and serious conviction.",
-     "chinese": "真誠;認真"
+     "chinese": "真誠；認真"
     }
    },
    {
@@ -679,7 +679,7 @@ window.FLASHCARD_UNITS = {
     "word": "earthshaking",
     "pos": "adj.",
     "definition": "Of great importance or significance.",
-    "chinese": "驚天動地的;意義重大的",
+    "chinese": "驚天動地的；意義重大的",
     "synonyms": "",
     "root": "earth + shake, from Old English",
     "group": "",
@@ -691,14 +691,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of great importance or significance.",
-     "chinese": "驚天動地的;意義重大的"
+     "chinese": "驚天動地的；意義重大的"
     }
    },
    {
     "word": "ease",
     "pos": "n./v.",
     "definition": "Freedom from difficulty or effort; to relieve.",
-    "chinese": "輕鬆;緩解",
+    "chinese": "輕鬆；緩解",
     "synonyms": "",
     "root": "adjacens (nearby), from Latin, via Old French aise",
     "group": "",
@@ -710,14 +710,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Freedom from difficulty or effort; to relieve.",
-     "chinese": "輕鬆;緩解"
+     "chinese": "輕鬆；緩解"
     }
    },
    {
     "word": "ebb",
     "pos": "v./n.",
     "definition": "To gradually decrease; the outward flow of the tide.",
-    "chinese": "衰退;退潮",
+    "chinese": "衰退；退潮",
     "synonyms": "",
     "root": "ebba, from Old English",
     "group": "",
@@ -729,14 +729,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gradually decrease; the outward flow of the tide.",
-     "chinese": "衰退;退潮"
+     "chinese": "衰退；退潮"
     }
    },
    {
     "word": "ebullience",
     "pos": "n.",
     "definition": "The quality of being cheerful and full of energy.",
-    "chinese": "活力四射;熱情洋溢",
+    "chinese": "活力四射；熱情洋溢",
     "synonyms": "",
     "root": "ebullire (to boil up), from Latin",
     "group": "",
@@ -748,14 +748,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being cheerful and full of energy.",
-     "chinese": "活力四射;熱情洋溢"
+     "chinese": "活力四射；熱情洋溢"
     }
    },
    {
     "word": "ebullition",
     "pos": "n.",
     "definition": "A sudden outburst of emotion; the process of boiling.",
-    "chinese": "突然爆發;沸騰",
+    "chinese": "突然爆發；沸騰",
     "synonyms": "",
     "root": "ebullire (to boil up), from Latin",
     "group": "",
@@ -767,14 +767,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden outburst of emotion; the process of boiling.",
-     "chinese": "突然爆發;沸騰"
+     "chinese": "突然爆發；沸騰"
     }
    },
    {
     "word": "ecclesiastical",
     "pos": "adj.",
     "definition": "Relating to the Christian church or its clergy.",
-    "chinese": "教會的;宗教的",
+    "chinese": "教會的；宗教的",
     "synonyms": "",
     "root": "ekklesia (assembly, church), from Greek",
     "group": "",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the Christian church or its clergy.",
-     "chinese": "教會的;宗教的"
+     "chinese": "教會的；宗教的"
     }
    },
    {
     "word": "eclat",
     "pos": "n.",
     "definition": "Brilliant display or effect; conspicuous success.",
-    "chinese": "光彩;顯赫的成功",
+    "chinese": "光彩；顯赫的成功",
     "synonyms": "",
     "root": "esclater (to burst out), from Old French",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Brilliant display or effect; conspicuous success.",
-     "chinese": "光彩;顯赫的成功"
+     "chinese": "光彩；顯赫的成功"
     }
    },
    {
@@ -833,7 +833,7 @@ window.FLASHCARD_UNITS = {
     "word": "economical",
     "pos": "adj.",
     "definition": "Using money or resources carefully and without waste.",
-    "chinese": "節約的;經濟實惠的",
+    "chinese": "節約的；經濟實惠的",
     "synonyms": "",
     "root": "oikos (house) + nomos (managing), from Greek",
     "group": "",
@@ -845,7 +845,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using money or resources carefully and without waste.",
-     "chinese": "節約的;經濟實惠的"
+     "chinese": "節約的；經濟實惠的"
     }
    },
    {
@@ -871,7 +871,7 @@ window.FLASHCARD_UNITS = {
     "word": "ecumenical",
     "pos": "adj.",
     "definition": "Representing a number of different Christian churches; universal.",
-    "chinese": "普世的;超教派的",
+    "chinese": "普世的；超教派的",
     "synonyms": "",
     "root": "oikoumene (the inhabited world), from Greek",
     "group": "",
@@ -883,14 +883,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Representing a number of different Christian churches; universal.",
-     "chinese": "普世的;超教派的"
+     "chinese": "普世的；超教派的"
     }
    },
    {
     "word": "edacious",
     "pos": "adj.",
     "definition": "Having a huge appetite; voracious.",
-    "chinese": "貪吃的;食欲旺盛的",
+    "chinese": "貪吃的；食欲旺盛的",
     "synonyms": "",
     "root": "edax (voracious), from Latin edere (to eat)",
     "group": "",
@@ -902,14 +902,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a huge appetite; voracious.",
-     "chinese": "貪吃的;食欲旺盛的"
+     "chinese": "貪吃的；食欲旺盛的"
     }
    },
    {
     "word": "edification",
     "pos": "n.",
     "definition": "The moral or intellectual improvement of a person.",
-    "chinese": "教化;啟迪",
+    "chinese": "教化；啟迪",
     "synonyms": "",
     "root": "aedificare (to build), from Latin",
     "group": "",
@@ -921,14 +921,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The moral or intellectual improvement of a person.",
-     "chinese": "教化;啟迪"
+     "chinese": "教化；啟迪"
     }
    },
    {
     "word": "edify",
     "pos": "v.",
     "definition": "To instruct or improve someone morally or intellectually.",
-    "chinese": "教化;啟發",
+    "chinese": "教化；啟發",
     "synonyms": "",
     "root": "aedificare (to build), from Latin",
     "group": "",
@@ -940,14 +940,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To instruct or improve someone morally or intellectually.",
-     "chinese": "教化;啟發"
+     "chinese": "教化；啟發"
     }
    },
    {
     "word": "edifying",
     "pos": "adj.",
     "definition": "Providing moral or intellectual instruction.",
-    "chinese": "有教育意義的;啟發性的",
+    "chinese": "有教育意義的；啟發性的",
     "synonyms": "",
     "root": "aedificare (to build), from Latin",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Providing moral or intellectual instruction.",
-     "chinese": "有教育意義的;啟發性的"
+     "chinese": "有教育意義的；啟發性的"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dull": ["Lacking sharpness, interest, or brightness.", "遲鈍的;無趣的"], "dullard": ["A slow-witted or stupid person.", "笨蛋;愚鈍之人"], "dumbfound": ["To astonish someone greatly, leaving them speechless.", "使目瞪口呆"], "dunce": ["A person who is slow at learning; a stupid person.", "笨學生;愚人"], "dunderhead": ["A stupid person.", "笨蛋;糊塗蟲"], "dungeon": ["A strong underground prison cell, especially in a castle.", "地牢"], "dupe": ["Person easily tricked.", "易受騙的人"], "duplicitous": ["Deceitful; deliberately deceptive.", "口是心非的;欺詐的"], "duplicity": ["Cunning, trickery.", "表裡不一；欺騙"], "duration": ["The length of time something continues.", "持續時間;期間"], "duress": ["Compulsion, force.", "脅迫"], "dustophobia": ["An abnormal fear of dust.", "灰塵恐懼症"], "dutiful": ["Conscientiously fulfilling one's duty or obligations.", "盡職的;孝順的"], "dwarf": ["A person, animal, or plant much smaller than usual; to make appear small.", "矮子;使相形見絀"], "dwindle": ["To become gradually smaller or less.", "逐漸減少;萎縮"], "dyed-in-the-wool": ["Unchanging in a particular belief or opinion; thoroughgoing.", "根深蒂固的;死忠的"], "dynamic": ["Constantly changing or energetic.", "充滿活力的；動態的"], "dysgraphia": ["A learning disability affecting writing ability.", "書寫障礙"], "dyslexia": ["A learning disorder affecting reading ability.", "閱讀障礙"], "dysmenorrhea": ["Painful menstruation.", "經痛;痛經"], "dysmorphophobia": ["An abnormal preoccupation with an imagined defect in one's appearance.", "身體畸形恐懼症"], "dysosmia": ["A disorder involving impaired sense of smell.", "嗅覺障礙"], "dyspepsia": ["Indigestion.", "消化不良"], "dyspeptic": ["Suffering from indigestion; irritable.", "消化不良的;易怒的"], "dysphagia": ["Difficulty in swallowing.", "吞嚥困難"], "dysphemism": ["A harsh or blunt term used in place of a milder one.", "貶抑語;粗鄙用詞"], "dysphoria": ["A state of dissatisfaction, anxiety, or unease.", "煩躁不安;情緒惡劣"], "dyspnea": ["Difficult or labored breathing.", "呼吸困難"], "déjà entendu": ["The illusion of having already heard something one is hearing for the first time.", "似曾聽過的感覺"], "déjà lu": ["The illusion of having already read something one is reading for the first time.", "似曾讀過的感覺"], "déjà vu": ["The illusion of having already experienced something one is experiencing for the first time.", "似曾相識的感覺"], "eager": ["Strongly wanting to do or have something.", "渴望的;熱切的"], "earnest": ["Serious and sincere.", "誠摯的；認真的"], "earnestness": ["Sincere and serious conviction.", "真誠;認真"], "earsplitting": ["Extremely loud.", "震耳欲聾的"], "earthshaking": ["Of great importance or significance.", "驚天動地的;意義重大的"], "ease": ["Freedom from difficulty or effort; to relieve.", "輕鬆;緩解"], "ebb": ["To gradually decrease; the outward flow of the tide.", "衰退;退潮"], "ebullience": ["The quality of being cheerful and full of energy.", "活力四射;熱情洋溢"], "ebullition": ["A sudden outburst of emotion; the process of boiling.", "突然爆發;沸騰"], "ecclesiastical": ["Relating to the Christian church or its clergy.", "教會的;宗教的"], "eclat": ["Brilliant display or effect; conspicuous success.", "光彩;顯赫的成功"], "eclipse": ["To overshadow or surpass.", "使黯然失色；掩蓋"], "economical": ["Using money or resources carefully and without waste.", "節約的;經濟實惠的"], "ecstatic": ["Intensely and overpoweringly happy.", "狂喜的；欣喜若狂的"], "ecumenical": ["Representing a number of different Christian churches; universal.", "普世的;超教派的"], "edacious": ["Having a huge appetite; voracious.", "貪吃的;食欲旺盛的"], "edification": ["The moral or intellectual improvement of a person.", "教化;啟迪"], "edify": ["To instruct or improve someone morally or intellectually.", "教化;啟發"], "edifying": ["Providing moral or intellectual instruction.", "有教育意義的;啟發性的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dull": ["Lacking sharpness, interest, or brightness.", "遲鈍的；無趣的"], "dullard": ["A slow-witted or stupid person.", "笨蛋；愚鈍之人"], "dumbfound": ["To astonish someone greatly, leaving them speechless.", "使目瞪口呆"], "dunce": ["A person who is slow at learning; a stupid person.", "笨學生；愚人"], "dunderhead": ["A stupid person.", "笨蛋；糊塗蟲"], "dungeon": ["A strong underground prison cell, especially in a castle.", "地牢"], "dupe": ["Person easily tricked.", "易受騙的人"], "duplicitous": ["Deceitful; deliberately deceptive.", "口是心非的；欺詐的"], "duplicity": ["Cunning, trickery.", "表裡不一；欺騙"], "duration": ["The length of time something continues.", "持續時間；期間"], "duress": ["Compulsion, force.", "脅迫"], "dustophobia": ["An abnormal fear of dust.", "灰塵恐懼症"], "dutiful": ["Conscientiously fulfilling one's duty or obligations.", "盡職的；孝順的"], "dwarf": ["A person, animal, or plant much smaller than usual; to make appear small.", "矮子；使相形見絀"], "dwindle": ["To become gradually smaller or less.", "逐漸減少；萎縮"], "dyed-in-the-wool": ["Unchanging in a particular belief or opinion; thoroughgoing.", "根深蒂固的；死忠的"], "dynamic": ["Constantly changing or energetic.", "充滿活力的；動態的"], "dysgraphia": ["A learning disability affecting writing ability.", "書寫障礙"], "dyslexia": ["A learning disorder affecting reading ability.", "閱讀障礙"], "dysmenorrhea": ["Painful menstruation.", "經痛；痛經"], "dysmorphophobia": ["An abnormal preoccupation with an imagined defect in one's appearance.", "身體畸形恐懼症"], "dysosmia": ["A disorder involving impaired sense of smell.", "嗅覺障礙"], "dyspepsia": ["Indigestion.", "消化不良"], "dyspeptic": ["Suffering from indigestion; irritable.", "消化不良的；易怒的"], "dysphagia": ["Difficulty in swallowing.", "吞嚥困難"], "dysphemism": ["A harsh or blunt term used in place of a milder one.", "貶抑語；粗鄙用詞"], "dysphoria": ["A state of dissatisfaction, anxiety, or unease.", "煩躁不安；情緒惡劣"], "dyspnea": ["Difficult or labored breathing.", "呼吸困難"], "déjà entendu": ["The illusion of having already heard something one is hearing for the first time.", "似曾聽過的感覺"], "déjà lu": ["The illusion of having already read something one is reading for the first time.", "似曾讀過的感覺"], "déjà vu": ["The illusion of having already experienced something one is experiencing for the first time.", "似曾相識的感覺"], "eager": ["Strongly wanting to do or have something.", "渴望的；熱切的"], "earnest": ["Serious and sincere.", "誠摯的；認真的"], "earnestness": ["Sincere and serious conviction.", "真誠；認真"], "earsplitting": ["Extremely loud.", "震耳欲聾的"], "earthshaking": ["Of great importance or significance.", "驚天動地的；意義重大的"], "ease": ["Freedom from difficulty or effort; to relieve.", "輕鬆；緩解"], "ebb": ["To gradually decrease; the outward flow of the tide.", "衰退；退潮"], "ebullience": ["The quality of being cheerful and full of energy.", "活力四射；熱情洋溢"], "ebullition": ["A sudden outburst of emotion; the process of boiling.", "突然爆發；沸騰"], "ecclesiastical": ["Relating to the Christian church or its clergy.", "教會的；宗教的"], "eclat": ["Brilliant display or effect; conspicuous success.", "光彩；顯赫的成功"], "eclipse": ["To overshadow or surpass.", "使黯然失色；掩蓋"], "economical": ["Using money or resources carefully and without waste.", "節約的；經濟實惠的"], "ecstatic": ["Intensely and overpoweringly happy.", "狂喜的；欣喜若狂的"], "ecumenical": ["Representing a number of different Christian churches; universal.", "普世的；超教派的"], "edacious": ["Having a huge appetite; voracious.", "貪吃的；食欲旺盛的"], "edification": ["The moral or intellectual improvement of a person.", "教化；啟迪"], "edify": ["To instruct or improve someone morally or intellectually.", "教化；啟發"], "edifying": ["Providing moral or intellectual instruction.", "有教育意義的；啟發性的"]});

@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "lay",
     "pos": "v./adj.",
     "definition": "To put down carefully; not belonging to the clergy or a profession.",
-    "chinese": "放置;非專業的",
+    "chinese": "放置；非專業的",
     "synonyms": "",
     "root": "lecgan (to lay), from Old English",
     "group": "lec(t) = 選擇；收集",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To put down carefully; not belonging to the clergy or a profession.",
-     "chinese": "放置;非專業的"
+     "chinese": "放置；非專業的"
     }
    },
    {
     "word": "lecherous",
     "pos": "adj.",
     "definition": "Showing excessive sexual desire.",
-    "chinese": "好色的;淫蕩的",
+    "chinese": "好色的；淫蕩的",
     "synonyms": "",
     "root": "lecheor (lecher), from Old French",
     "group": "lec(t) = 選擇；收集",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing excessive sexual desire.",
-     "chinese": "好色的;淫蕩的"
+     "chinese": "好色的；淫蕩的"
     }
    }
   ],
@@ -309,4 +309,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"allay": ["To calm, soothe.", "減輕；平息"], "eclectic": ["Taken from many different sources.", "兼收並蓄的"], "anthology": ["A selected collection of writings, songs, etc.", "選集；文集"], "catalog": ["To list, enter into a list.", "編目；列冊"], "dialect": ["A variation of a language.", "方言"], "lay": ["To put down carefully; not belonging to the clergy or a profession.", "放置;非專業的"], "lecherous": ["Showing excessive sexual desire.", "好色的;淫蕩的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"allay": ["To calm, soothe.", "減輕；平息"], "eclectic": ["Taken from many different sources.", "兼收並蓄的"], "anthology": ["A selected collection of writings, songs, etc.", "選集；文集"], "catalog": ["To list, enter into a list.", "編目；列冊"], "dialect": ["A variation of a language.", "方言"], "lay": ["To put down carefully; not belonging to the clergy or a profession.", "放置；非專業的"], "lecherous": ["Showing excessive sexual desire.", "好色的；淫蕩的"]});

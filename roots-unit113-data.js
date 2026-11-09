@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "emission",
     "pos": "n.",
     "definition": "The production and discharge of something, especially gas.",
-    "chinese": "排放;釋放",
+    "chinese": "排放；釋放",
     "synonyms": "",
     "root": "e- (out) + mittere (to send), from Latin",
     "group": "miss；mit = 發送",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The production and discharge of something, especially gas.",
-     "chinese": "排放;釋放"
+     "chinese": "排放；釋放"
     }
    },
    {
     "word": "immitigable",
     "pos": "adj.",
     "definition": "Not able to be lessened or eased.",
-    "chinese": "無法減輕的;無法緩解的",
+    "chinese": "無法減輕的；無法緩解的",
     "synonyms": "",
     "root": "in- (not) + mitigare (to soften), from Latin",
     "group": "miss；mit = 發送",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be lessened or eased.",
-     "chinese": "無法減輕的;無法緩解的"
+     "chinese": "無法減輕的；無法緩解的"
     }
    },
    {
     "word": "intermittent",
     "pos": "adj.",
     "definition": "Occurring at irregular intervals; not continuous.",
-    "chinese": "間歇性的;斷斷續續的",
+    "chinese": "間歇性的；斷斷續續的",
     "synonyms": "",
     "root": "inter- (between) + mittere (to send), from Latin",
     "group": "miss；mit = 發送",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring at irregular intervals; not continuous.",
-     "chinese": "間歇性的;斷斷續續的"
+     "chinese": "間歇性的；斷斷續續的"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "missive",
     "pos": "n.",
     "definition": "A letter, especially a formal or lengthy one.",
-    "chinese": "公函;書信",
+    "chinese": "公函；書信",
     "synonyms": "",
     "root": "mittere (to send), from Latin",
     "group": "miss；mit = 發送",
@@ -307,14 +307,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A letter, especially a formal or lengthy one.",
-     "chinese": "公函;書信"
+     "chinese": "公函；書信"
     }
    },
    {
     "word": "missle",
     "pos": "n.",
     "definition": "A common misspelling of missile, a weapon or object propelled toward a target.",
-    "chinese": "飛彈;拋擲物(missile的誤拼)",
+    "chinese": "飛彈；拋擲物(missile的誤拼)",
     "synonyms": "",
     "root": "mittere (to send), from Latin, variant spelling",
     "group": "miss；mit = 發送",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A common misspelling of missile, a weapon or object propelled toward a target.",
-     "chinese": "飛彈;拋擲物(missile的誤拼)"
+     "chinese": "飛彈；拋擲物(missile的誤拼)"
     }
    },
    {
     "word": "mite",
     "pos": "n.",
     "definition": "A tiny arachnid; a small amount or contribution.",
-    "chinese": "蟎蟲;微薄的貢獻",
+    "chinese": "蟎蟲；微薄的貢獻",
     "synonyms": "",
     "root": "mite (small creature), from Old English",
     "group": "miss；mit = 發送",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A tiny arachnid; a small amount or contribution.",
-     "chinese": "蟎蟲;微薄的貢獻"
+     "chinese": "蟎蟲；微薄的貢獻"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "permit",
     "pos": "v./n.",
     "definition": "To allow something; an official document granting authorization.",
-    "chinese": "允許;許可證",
+    "chinese": "允許；許可證",
     "synonyms": "",
     "root": "permittere (to let pass through), from Latin per- (through) + mittere (to send)",
     "group": "miss；mit = 發送",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To allow something; an official document granting authorization.",
-     "chinese": "允許;許可證"
+     "chinese": "允許；許可證"
     }
    },
    {
     "word": "submission",
     "pos": "n.",
     "definition": "The act of yielding to authority; something submitted for consideration.",
-    "chinese": "屈服;提交",
+    "chinese": "屈服；提交",
     "synonyms": "",
     "root": "submittere, from Latin sub- (under) + mittere (to send)",
     "group": "miss；mit = 發送",
@@ -406,14 +406,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The act of yielding to authority; something submitted for consideration.",
-     "chinese": "屈服;提交"
+     "chinese": "屈服；提交"
     }
    },
    {
     "word": "submit",
     "pos": "v.",
     "definition": "To accept or yield to authority; to present for consideration.",
-    "chinese": "屈服;提交",
+    "chinese": "屈服；提交",
     "synonyms": "",
     "root": "submittere, from Latin sub- (under) + mittere (to send)",
     "group": "miss；mit = 發送",
@@ -425,7 +425,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To accept or yield to authority; to present for consideration.",
-     "chinese": "屈服;提交"
+     "chinese": "屈服；提交"
     }
    }
   ],
@@ -962,4 +962,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"emit": ["To give off.", "發出；散發"], "premise": ["Proposition for argument.", "前提；假設"], "surmise": ["To guess.", "猜測；臆測"], "remiss": ["Careless, negligent.", "怠忽職守的"], "unmitigated": ["Unrelieved, as bad as can be.", "未減輕的；絕對的"], "emissary": ["Representative, envoy.", "使者；密使"], "mitigate": ["To make or become less severe; to lessen pain or damage.", "使緩和"], "submissive": ["Voluntarily obeying another; humble.", "順從的"], "committed": ["Dedicated to a cause or task.", "投入的；忠誠的"], "dismiss": ["To reject or send away.", "駁回；解散"], "dismissive": ["Showing disregard or lack of interest; treating something as unworthy of attention.", "輕蔑的；不屑一顧的"], "emission": ["The production and discharge of something, especially gas.", "排放;釋放"], "immitigable": ["Not able to be lessened or eased.", "無法減輕的;無法緩解的"], "intermittent": ["Occurring at irregular intervals; not continuous.", "間歇性的;斷斷續續的"], "manumit": ["To release from slavery.", "解放奴隸"], "missive": ["A letter, especially a formal or lengthy one.", "公函;書信"], "missle": ["A common misspelling of missile, a weapon or object propelled toward a target.", "飛彈;拋擲物(missile的誤拼)"], "mite": ["A tiny arachnid; a small amount or contribution.", "蟎蟲;微薄的貢獻"], "mitigable": ["Capable of being lessened or made less severe.", "可減輕的"], "permit": ["To allow something; an official document granting authorization.", "允許;許可證"], "submission": ["The act of yielding to authority; something submitted for consideration.", "屈服;提交"], "submit": ["To accept or yield to authority; to present for consideration.", "屈服;提交"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"emit": ["To give off.", "發出；散發"], "premise": ["Proposition for argument.", "前提；假設"], "surmise": ["To guess.", "猜測；臆測"], "remiss": ["Careless, negligent.", "怠忽職守的"], "unmitigated": ["Unrelieved, as bad as can be.", "未減輕的；絕對的"], "emissary": ["Representative, envoy.", "使者；密使"], "mitigate": ["To make or become less severe; to lessen pain or damage.", "使緩和"], "submissive": ["Voluntarily obeying another; humble.", "順從的"], "committed": ["Dedicated to a cause or task.", "投入的；忠誠的"], "dismiss": ["To reject or send away.", "駁回；解散"], "dismissive": ["Showing disregard or lack of interest; treating something as unworthy of attention.", "輕蔑的；不屑一顧的"], "emission": ["The production and discharge of something, especially gas.", "排放；釋放"], "immitigable": ["Not able to be lessened or eased.", "無法減輕的；無法緩解的"], "intermittent": ["Occurring at irregular intervals; not continuous.", "間歇性的；斷斷續續的"], "manumit": ["To release from slavery.", "解放奴隸"], "missive": ["A letter, especially a formal or lengthy one.", "公函；書信"], "missle": ["A common misspelling of missile, a weapon or object propelled toward a target.", "飛彈；拋擲物(missile的誤拼)"], "mite": ["A tiny arachnid; a small amount or contribution.", "蟎蟲；微薄的貢獻"], "mitigable": ["Capable of being lessened or made less severe.", "可減輕的"], "permit": ["To allow something; an official document granting authorization.", "允許；許可證"], "submission": ["The act of yielding to authority; something submitted for consideration.", "屈服；提交"], "submit": ["To accept or yield to authority; to present for consideration.", "屈服；提交"]});

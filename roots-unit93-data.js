@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "broadcast",
     "pos": "v./n.",
     "definition": "To transmit a program by radio or television; such a transmission.",
-    "chinese": "廣播;播送",
+    "chinese": "廣播；播送",
     "synonyms": "",
     "root": "broad + cast (to scatter)",
     "group": "cad；cas；cid = 降落",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To transmit a program by radio or television; such a transmission.",
-     "chinese": "廣播;播送"
+     "chinese": "廣播；播送"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "castellated",
     "pos": "adj.",
     "definition": "Built with battlements like a castle.",
-    "chinese": "有城垛的;城堡式的",
+    "chinese": "有城垛的；城堡式的",
     "synonyms": "",
     "root": "castellum (small fort, from Latin)",
     "group": "cad；cas；cid = 降落",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Built with battlements like a castle.",
-     "chinese": "有城垛的;城堡式的"
+     "chinese": "有城垛的；城堡式的"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "castigation",
     "pos": "n.",
     "definition": "Severe criticism or punishment.",
-    "chinese": "嚴厲斥責;懲罰",
+    "chinese": "嚴厲斥責；懲罰",
     "synonyms": "",
     "root": "castigare (to correct, punish), from Latin",
     "group": "cad；cas；cid = 降落",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Severe criticism or punishment.",
-     "chinese": "嚴厲斥責;懲罰"
+     "chinese": "嚴厲斥責；懲罰"
     }
    },
    {
     "word": "casuistry",
     "pos": "n.",
     "definition": "Excessively subtle or misleading reasoning, especially about moral questions.",
-    "chinese": "詭辯;似是而非的推理",
+    "chinese": "詭辯；似是而非的推理",
     "synonyms": "",
     "root": "casus (case, from Latin)",
     "group": "cad；cas；cid = 降落",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively subtle or misleading reasoning, especially about moral questions.",
-     "chinese": "詭辯;似是而非的推理"
+     "chinese": "詭辯；似是而非的推理"
     }
    },
    {
     "word": "chasten",
     "pos": "v.",
     "definition": "To discipline or correct through reproof; to restrain.",
-    "chinese": "懲戒;抑制",
+    "chinese": "懲戒；抑制",
     "synonyms": "",
     "root": "castigare (to punish, from Latin)",
     "group": "cad；cas；cid = 降落",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To discipline or correct through reproof; to restrain.",
-     "chinese": "懲戒;抑制"
+     "chinese": "懲戒；抑制"
     }
    },
    {
     "word": "chastisement",
     "pos": "n.",
     "definition": "Severe criticism or punishment.",
-    "chinese": "懲罰;責罰",
+    "chinese": "懲罰；責罰",
     "synonyms": "",
     "root": "castigare (to punish, from Latin)",
     "group": "cad；cas；cid = 降落",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Severe criticism or punishment.",
-     "chinese": "懲罰;責罰"
+     "chinese": "懲罰；責罰"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "downcast",
     "pos": "adj.",
     "definition": "Feeling sad or dejected; directed downward.",
-    "chinese": "沮喪的;垂頭喪氣的",
+    "chinese": "沮喪的；垂頭喪氣的",
     "synonyms": "",
     "root": "down + cast, from Old English",
     "group": "cad；cas；cid = 降落",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling sad or dejected; directed downward.",
-     "chinese": "沮喪的;垂頭喪氣的"
+     "chinese": "沮喪的；垂頭喪氣的"
     }
    },
    {
     "word": "forecast",
     "pos": "n./v.",
     "definition": "A prediction, especially of weather or trends.",
-    "chinese": "預測;預報",
+    "chinese": "預測；預報",
     "synonyms": "",
     "root": "fore- (before) + cast, from Old English + Old Norse",
     "group": "cad；cas；cid = 降落",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A prediction, especially of weather or trends.",
-     "chinese": "預測;預報"
+     "chinese": "預測；預報"
     }
    },
    {
@@ -827,4 +827,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"decadence": ["Self-indulgence.", "墮落；衰退"], "incidental": ["Less important; minor.", "附帶的"], "accident": ["An unfortunate mishap.", "意外事故"], "broadcast": ["To transmit a program by radio or television; such a transmission.", "廣播;播送"], "cadaver": ["The dead body of a human being.", "屍體"], "cadaverous": ["Of or relating to a corpse.", "屍體般的；枯槁蒼白的"], "cadence": ["A rhythm, progression of sound.", "節奏；韻律"], "castellated": ["Built with battlements like a castle.", "有城垛的;城堡式的"], "castellation": ["Battlement-like structures on top of a wall or building.", "城垛結構"], "castigation": ["Severe criticism or punishment.", "嚴厲斥責;懲罰"], "casuistry": ["Excessively subtle or misleading reasoning, especially about moral questions.", "詭辯;似是而非的推理"], "chasten": ["To discipline or correct through reproof; to restrain.", "懲戒;抑制"], "chastisement": ["Severe criticism or punishment.", "懲罰;責罰"], "coincident": ["Occurring or operating at the same time.", "同時發生的"], "decadent": ["Relating to indulgence in something pleasurable.", "頹廢的；奢靡享樂的"], "deciduous": ["Shedding foliage at the end of the growing season.", "落葉性的"], "downcast": ["Feeling sad or dejected; directed downward.", "沮喪的;垂頭喪氣的"], "forecast": ["A prediction, especially of weather or trends.", "預測;預報"], "incident": ["A single distinct event.", "事件；事故"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"decadence": ["Self-indulgence.", "墮落；衰退"], "incidental": ["Less important; minor.", "附帶的"], "accident": ["An unfortunate mishap.", "意外事故"], "broadcast": ["To transmit a program by radio or television; such a transmission.", "廣播；播送"], "cadaver": ["The dead body of a human being.", "屍體"], "cadaverous": ["Of or relating to a corpse.", "屍體般的；枯槁蒼白的"], "cadence": ["A rhythm, progression of sound.", "節奏；韻律"], "castellated": ["Built with battlements like a castle.", "有城垛的；城堡式的"], "castellation": ["Battlement-like structures on top of a wall or building.", "城垛結構"], "castigation": ["Severe criticism or punishment.", "嚴厲斥責；懲罰"], "casuistry": ["Excessively subtle or misleading reasoning, especially about moral questions.", "詭辯；似是而非的推理"], "chasten": ["To discipline or correct through reproof; to restrain.", "懲戒；抑制"], "chastisement": ["Severe criticism or punishment.", "懲罰；責罰"], "coincident": ["Occurring or operating at the same time.", "同時發生的"], "decadent": ["Relating to indulgence in something pleasurable.", "頹廢的；奢靡享樂的"], "deciduous": ["Shedding foliage at the end of the growing season.", "落葉性的"], "downcast": ["Feeling sad or dejected; directed downward.", "沮喪的；垂頭喪氣的"], "forecast": ["A prediction, especially of weather or trends.", "預測；預報"], "incident": ["A single distinct event.", "事件；事故"]});

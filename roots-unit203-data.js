@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "nautical",
     "pos": "adj.",
     "definition": "Relating to ships, sailors, or navigation.",
-    "chinese": "航海的;船舶的",
+    "chinese": "航海的；船舶的",
     "synonyms": "",
     "root": "naus/nautes (ship, sailor), from Greek",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to ships, sailors, or navigation.",
-     "chinese": "航海的;船舶的"
+     "chinese": "航海的；船舶的"
     }
    },
    {
     "word": "ne'er-do-well",
     "pos": "n./adj.",
     "definition": "A person who habitually fails to succeed, especially due to laziness.",
-    "chinese": "一事無成的人;無賴",
+    "chinese": "一事無成的人；無賴",
     "synonyms": "",
     "root": "never do well, contracted from Middle English",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who habitually fails to succeed, especially due to laziness.",
-     "chinese": "一事無成的人;無賴"
+     "chinese": "一事無成的人；無賴"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "nectar",
     "pos": "n.",
     "definition": "A sweet liquid produced by flowers; a delicious drink.",
-    "chinese": "花蜜;瓊漿玉液",
+    "chinese": "花蜜；瓊漿玉液",
     "synonyms": "",
     "root": "nektar, the mythical drink of the Greek gods",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sweet liquid produced by flowers; a delicious drink.",
-     "chinese": "花蜜;瓊漿玉液"
+     "chinese": "花蜜；瓊漿玉液"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "negate",
     "pos": "v.",
     "definition": "To nullify or make ineffective; to deny the existence of.",
-    "chinese": "否定;使無效",
+    "chinese": "否定；使無效",
     "synonyms": "",
     "root": "negare (deny), from Latin",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To nullify or make ineffective; to deny the existence of.",
-     "chinese": "否定;使無效"
+     "chinese": "否定；使無效"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "nemesis",
     "pos": "n.",
     "definition": "A long-standing rival; an inescapable agent of one's downfall.",
-    "chinese": "宿敵;剋星",
+    "chinese": "宿敵；剋星",
     "synonyms": "",
     "root": "Nemesis, the Greek goddess of retribution",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long-standing rival; an inescapable agent of one's downfall.",
-     "chinese": "宿敵;剋星"
+     "chinese": "宿敵；剋星"
     }
    },
    {
@@ -276,7 +276,7 @@ window.FLASHCARD_UNITS = {
     "word": "nepenthe",
     "pos": "n.",
     "definition": "Something that induces forgetfulness of sorrow or pain.",
-    "chinese": "忘憂藥;解憂之物",
+    "chinese": "忘憂藥；解憂之物",
     "synonyms": "",
     "root": "ne- (not) + penthos (grief), from Greek",
     "group": "",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that induces forgetfulness of sorrow or pain.",
-     "chinese": "忘憂藥;解憂之物"
+     "chinese": "忘憂藥；解憂之物"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "nerd",
     "pos": "n.",
     "definition": "A person regarded as overly studious or socially awkward, especially one obsessed with technology.",
-    "chinese": "書呆子;技術宅",
+    "chinese": "書呆子；技術宅",
     "synonyms": "",
     "root": "of uncertain origin, popularized by a Dr. Seuss book",
     "group": "",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person regarded as overly studious or socially awkward, especially one obsessed with technology.",
-     "chinese": "書呆子;技術宅"
+     "chinese": "書呆子；技術宅"
     }
    },
    {
     "word": "nerve",
     "pos": "n.",
     "definition": "A fiber conveying impulses in the body; courage or boldness.",
-    "chinese": "神經;膽量",
+    "chinese": "神經；膽量",
     "synonyms": "",
     "root": "nervus (sinew, nerve), from Latin",
     "group": "",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fiber conveying impulses in the body; courage or boldness.",
-     "chinese": "神經;膽量"
+     "chinese": "神經；膽量"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "neurosis",
     "pos": "n.",
     "definition": "A mental disorder involving anxiety, obsession, or other distress, without loss of touch with reality.",
-    "chinese": "精神官能症;神經症",
+    "chinese": "精神官能症；神經症",
     "synonyms": "",
     "root": "neuron (nerve) + -osis (condition), from Greek",
     "group": "",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mental disorder involving anxiety, obsession, or other distress, without loss of touch with reality.",
-     "chinese": "精神官能症;神經症"
+     "chinese": "精神官能症；神經症"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "nevertheless",
     "pos": "adv.",
     "definition": "In spite of that; notwithstanding.",
-    "chinese": "然而;儘管如此",
+    "chinese": "然而；儘管如此",
     "synonyms": "",
     "root": "never + the + less, from Old English",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In spite of that; notwithstanding.",
-     "chinese": "然而;儘管如此"
+     "chinese": "然而；儘管如此"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "nicety",
     "pos": "n.",
     "definition": "A fine or subtle detail or distinction.",
-    "chinese": "細微差別;精妙之處",
+    "chinese": "細微差別；精妙之處",
     "synonyms": "",
     "root": "nice, from Latin nescius (ignorant) + -ty",
     "group": "",
@@ -575,14 +575,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A fine or subtle detail or distinction.",
-     "chinese": "細微差別;精妙之處"
+     "chinese": "細微差別；精妙之處"
     }
    },
    {
     "word": "nickname",
     "pos": "n./v.",
     "definition": "A familiar or humorous name given instead of a real name.",
-    "chinese": "綽號;暱稱",
+    "chinese": "綽號；暱稱",
     "synonyms": "",
     "root": "eke name (additional name), from Middle English, reanalyzed as a nekename",
     "group": "",
@@ -594,7 +594,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A familiar or humorous name given instead of a real name.",
-     "chinese": "綽號;暱稱"
+     "chinese": "綽號；暱稱"
     }
    },
    {
@@ -639,7 +639,7 @@ window.FLASHCARD_UNITS = {
     "word": "niggle",
     "pos": "v.",
     "definition": "To spend excessive time on trivial details; to cause slight but persistent annoyance.",
-    "chinese": "在小事上斤斤計較;使煩惱",
+    "chinese": "在小事上斤斤計較；使煩惱",
     "synonyms": "",
     "root": "of uncertain Scandinavian origin",
     "group": "",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To spend excessive time on trivial details; to cause slight but persistent annoyance.",
-     "chinese": "在小事上斤斤計較;使煩惱"
+     "chinese": "在小事上斤斤計較；使煩惱"
     }
    },
    {
@@ -715,7 +715,7 @@ window.FLASHCARD_UNITS = {
     "word": "nil",
     "pos": "n.",
     "definition": "Nothing; zero.",
-    "chinese": "零;無",
+    "chinese": "零；無",
     "synonyms": "",
     "root": "nihil (nothing), from Latin",
     "group": "",
@@ -727,14 +727,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Nothing; zero.",
-     "chinese": "零;無"
+     "chinese": "零；無"
     }
    },
    {
     "word": "nimble",
     "pos": "adj.",
     "definition": "Quick and light in movement or action; mentally quick.",
-    "chinese": "敏捷的;靈活的",
+    "chinese": "敏捷的；靈活的",
     "synonyms": "",
     "root": "numol (quick to seize), from Old English niman (to take)",
     "group": "",
@@ -746,14 +746,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Quick and light in movement or action; mentally quick.",
-     "chinese": "敏捷的;靈活的"
+     "chinese": "敏捷的；靈活的"
     }
    },
    {
     "word": "nincompoop",
     "pos": "n.",
     "definition": "A foolish or silly person.",
-    "chinese": "笨蛋;傻瓜",
+    "chinese": "笨蛋；傻瓜",
     "synonyms": "",
     "root": "of uncertain origin, possibly from Latin non compos mentis",
     "group": "",
@@ -765,7 +765,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A foolish or silly person.",
-     "chinese": "笨蛋;傻瓜"
+     "chinese": "笨蛋；傻瓜"
     }
    },
    {
@@ -810,7 +810,7 @@ window.FLASHCARD_UNITS = {
     "word": "nix",
     "pos": "v./n.",
     "definition": "To cancel or reject something (informal).",
-    "chinese": "取消;否決(非正式)",
+    "chinese": "取消；否決(非正式)",
     "synonyms": "",
     "root": "nix (nothing), from German",
     "group": "",
@@ -822,14 +822,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cancel or reject something (informal).",
-     "chinese": "取消;否決(非正式)"
+     "chinese": "取消；否決(非正式)"
     }
    },
    {
     "word": "no-account",
     "pos": "adj.",
     "definition": "Worthless or of no importance (informal).",
-    "chinese": "無用的;不成材的(非正式)",
+    "chinese": "無用的；不成材的(非正式)",
     "synonyms": "",
     "root": "no + account, from English idiom",
     "group": "",
@@ -841,14 +841,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Worthless or of no importance (informal).",
-     "chinese": "無用的;不成材的(非正式)"
+     "chinese": "無用的；不成材的(非正式)"
     }
    },
    {
     "word": "noble",
     "pos": "adj./n.",
     "definition": "Belonging to a hereditary class of high social rank; having fine moral qualities.",
-    "chinese": "貴族的;高尚的",
+    "chinese": "貴族的；高尚的",
     "synonyms": "",
     "root": "nobilis (well-known, noble), from Latin noscere (to know)",
     "group": "",
@@ -860,14 +860,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Belonging to a hereditary class of high social rank; having fine moral qualities.",
-     "chinese": "貴族的;高尚的"
+     "chinese": "貴族的；高尚的"
     }
    },
    {
     "word": "noblesse oblige",
     "pos": "n.",
     "definition": "The obligation of those with wealth or high status to act generously toward others.",
-    "chinese": "貴族的義務;上位者應盡的責任",
+    "chinese": "貴族的義務；上位者應盡的責任",
     "synonyms": "",
     "root": "noblesse (nobility) + oblige (to bind), from French",
     "group": "",
@@ -879,7 +879,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The obligation of those with wealth or high status to act generously toward others.",
-     "chinese": "貴族的義務;上位者應盡的責任"
+     "chinese": "貴族的義務；上位者應盡的責任"
     }
    },
    {
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"nautical": ["Relating to ships, sailors, or navigation.", "航海的;船舶的"], "ne'er-do-well": ["A person who habitually fails to succeed, especially due to laziness.", "一事無成的人;無賴"], "nebula": ["A cloud of gas and dust in outer space.", "星雲"], "nebular": ["Relating to a nebula or cloud of interstellar gas and dust.", "星雲的"], "nebulous": ["Unclear, vague.", "朦朧的；模糊的"], "nectar": ["A sweet liquid produced by flowers; a delicious drink.", "花蜜;瓊漿玉液"], "nefarious": ["Villainous, vicious:egregious.", "邪惡的"], "negate": ["To nullify or make ineffective; to deny the existence of.", "否定;使無效"], "neglect": ["To fail to care for properly.", "忽視；疏忽"], "negligent": ["Habitually careless, neglectful.", "疏忽的；玩忽職守的"], "negligible": ["Trifling, inconsiderable.", "微不足道的"], "nemesis": ["A long-standing rival; an inescapable agent of one's downfall.", "宿敵;剋星"], "neophobia": ["An extreme or irrational fear of anything new.", "新事物恐懼症"], "neophyte": ["Someone who is young or inexperienced.", "新手；初學者"], "nepenthe": ["Something that induces forgetfulness of sorrow or pain.", "忘憂藥;解憂之物"], "nepotism": ["Favoritism towards relatives.", "裙帶關係"], "nepotistic": ["Favoring relatives or friends, especially in granting jobs or advantages.", "任人唯親的"], "nerd": ["A person regarded as overly studious or socially awkward, especially one obsessed with technology.", "書呆子;技術宅"], "nerve": ["A fiber conveying impulses in the body; courage or boldness.", "神經;膽量"], "nettle": ["To irritate:to vex.", "惹怒；激怒"], "neuralgia": ["Sharp, severe pain along the path of a nerve.", "神經痛"], "neuritis": ["Inflammation of a nerve or nerves.", "神經炎"], "neurosis": ["A mental disorder involving anxiety, obsession, or other distress, without loss of touch with reality.", "精神官能症;神經症"], "neurotic": ["Suffering from a nervous disorder.", "神經質的"], "neutrality": ["The state of not taking sides.", "中立"], "neutralize": ["To counteract.", "抵銷；中和"], "nevertheless": ["In spite of that; notwithstanding.", "然而;儘管如此"], "newfound": ["Recently discovered or developed.", "新發現的；新獲得的"], "newscast": ["A broadcast of news on television or radio.", "新聞廣播"], "nicety": ["A fine or subtle detail or distinction.", "細微差別;精妙之處"], "nickname": ["A familiar or humorous name given instead of a real name.", "綽號;暱稱"], "niggard": ["A stingy or miserly person.", "吝嗇鬼"], "niggardly": ["Petty or reluctant in giving or spending.", "吝嗇的；小氣的"], "niggle": ["To spend excessive time on trivial details; to cause slight but persistent annoyance.", "在小事上斤斤計較;使煩惱"], "nihilism": ["The belief that life is without objective meaning or values.", "虛無主義"], "nihilist": ["A person who believes life is without objective meaning.", "虛無主義者"], "nihilistic": ["Relating to the belief that life is without objective meaning or values.", "虛無主義的"], "nil": ["Nothing; zero.", "零;無"], "nimble": ["Quick and light in movement or action; mentally quick.", "敏捷的;靈活的"], "nincompoop": ["A foolish or silly person.", "笨蛋;傻瓜"], "nirvana": ["Freedom from care and pain, Buddhist heaven.", "涅槃；解脫"], "nitpick": ["To criticize small, often unimportant details.", "吹毛求疵"], "nix": ["To cancel or reject something (informal).", "取消;否決(非正式)"], "no-account": ["Worthless or of no importance (informal).", "無用的;不成材的(非正式)"], "noble": ["Belonging to a hereditary class of high social rank; having fine moral qualities.", "貴族的;高尚的"], "noblesse oblige": ["The obligation of those with wealth or high status to act generously toward others.", "貴族的義務;上位者應盡的責任"], "noctivagant": ["Wandering about at night.", "夜遊的"], "noctivagation": ["The act of wandering about at night.", "夜遊行為"], "nocturnal": ["Relating to or occurring during the night.", "夜間的；夜行性的"], "noesis": ["Purely intellectual understanding or cognition.", "純粹的理智認知"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"nautical": ["Relating to ships, sailors, or navigation.", "航海的；船舶的"], "ne'er-do-well": ["A person who habitually fails to succeed, especially due to laziness.", "一事無成的人；無賴"], "nebula": ["A cloud of gas and dust in outer space.", "星雲"], "nebular": ["Relating to a nebula or cloud of interstellar gas and dust.", "星雲的"], "nebulous": ["Unclear, vague.", "朦朧的；模糊的"], "nectar": ["A sweet liquid produced by flowers; a delicious drink.", "花蜜；瓊漿玉液"], "nefarious": ["Villainous, vicious:egregious.", "邪惡的"], "negate": ["To nullify or make ineffective; to deny the existence of.", "否定；使無效"], "neglect": ["To fail to care for properly.", "忽視；疏忽"], "negligent": ["Habitually careless, neglectful.", "疏忽的；玩忽職守的"], "negligible": ["Trifling, inconsiderable.", "微不足道的"], "nemesis": ["A long-standing rival; an inescapable agent of one's downfall.", "宿敵；剋星"], "neophobia": ["An extreme or irrational fear of anything new.", "新事物恐懼症"], "neophyte": ["Someone who is young or inexperienced.", "新手；初學者"], "nepenthe": ["Something that induces forgetfulness of sorrow or pain.", "忘憂藥；解憂之物"], "nepotism": ["Favoritism towards relatives.", "裙帶關係"], "nepotistic": ["Favoring relatives or friends, especially in granting jobs or advantages.", "任人唯親的"], "nerd": ["A person regarded as overly studious or socially awkward, especially one obsessed with technology.", "書呆子；技術宅"], "nerve": ["A fiber conveying impulses in the body; courage or boldness.", "神經；膽量"], "nettle": ["To irritate:to vex.", "惹怒；激怒"], "neuralgia": ["Sharp, severe pain along the path of a nerve.", "神經痛"], "neuritis": ["Inflammation of a nerve or nerves.", "神經炎"], "neurosis": ["A mental disorder involving anxiety, obsession, or other distress, without loss of touch with reality.", "精神官能症；神經症"], "neurotic": ["Suffering from a nervous disorder.", "神經質的"], "neutrality": ["The state of not taking sides.", "中立"], "neutralize": ["To counteract.", "抵銷；中和"], "nevertheless": ["In spite of that; notwithstanding.", "然而；儘管如此"], "newfound": ["Recently discovered or developed.", "新發現的；新獲得的"], "newscast": ["A broadcast of news on television or radio.", "新聞廣播"], "nicety": ["A fine or subtle detail or distinction.", "細微差別；精妙之處"], "nickname": ["A familiar or humorous name given instead of a real name.", "綽號；暱稱"], "niggard": ["A stingy or miserly person.", "吝嗇鬼"], "niggardly": ["Petty or reluctant in giving or spending.", "吝嗇的；小氣的"], "niggle": ["To spend excessive time on trivial details; to cause slight but persistent annoyance.", "在小事上斤斤計較；使煩惱"], "nihilism": ["The belief that life is without objective meaning or values.", "虛無主義"], "nihilist": ["A person who believes life is without objective meaning.", "虛無主義者"], "nihilistic": ["Relating to the belief that life is without objective meaning or values.", "虛無主義的"], "nil": ["Nothing; zero.", "零；無"], "nimble": ["Quick and light in movement or action; mentally quick.", "敏捷的；靈活的"], "nincompoop": ["A foolish or silly person.", "笨蛋；傻瓜"], "nirvana": ["Freedom from care and pain, Buddhist heaven.", "涅槃；解脫"], "nitpick": ["To criticize small, often unimportant details.", "吹毛求疵"], "nix": ["To cancel or reject something (informal).", "取消；否決(非正式)"], "no-account": ["Worthless or of no importance (informal).", "無用的；不成材的(非正式)"], "noble": ["Belonging to a hereditary class of high social rank; having fine moral qualities.", "貴族的；高尚的"], "noblesse oblige": ["The obligation of those with wealth or high status to act generously toward others.", "貴族的義務；上位者應盡的責任"], "noctivagant": ["Wandering about at night.", "夜遊的"], "noctivagation": ["The act of wandering about at night.", "夜遊行為"], "nocturnal": ["Relating to or occurring during the night.", "夜間的；夜行性的"], "noesis": ["Purely intellectual understanding or cognition.", "純粹的理智認知"]});

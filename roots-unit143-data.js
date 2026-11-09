@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "evacuate",
     "pos": "v.",
     "definition": "To remove people from a place of danger.",
-    "chinese": "撤離;疏散",
+    "chinese": "撤離；疏散",
     "synonyms": "",
     "root": "e- (out) + vacuus (empty), from Latin",
     "group": "vac；void = 空；缺乏",
@@ -39,14 +39,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To remove people from a place of danger.",
-     "chinese": "撤離;疏散"
+     "chinese": "撤離；疏散"
     }
    },
    {
     "word": "staycation",
     "pos": "n.",
     "definition": "A vacation spent at home or nearby rather than traveling.",
-    "chinese": "宅度假;在地度假",
+    "chinese": "宅度假；在地度假",
     "synonyms": "",
     "root": "stay + vacation, a blend of English words",
     "group": "vac；void = 空；缺乏",
@@ -58,14 +58,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A vacation spent at home or nearby rather than traveling.",
-     "chinese": "宅度假;在地度假"
+     "chinese": "宅度假；在地度假"
     }
    },
    {
     "word": "vacant",
     "pos": "adj.",
     "definition": "Not occupied or filled; showing no interest or intelligence.",
-    "chinese": "空缺的;空虛的",
+    "chinese": "空缺的；空虛的",
     "synonyms": "",
     "root": "vacans, from Latin vacare (to be empty)",
     "group": "vac；void = 空；缺乏",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not occupied or filled; showing no interest or intelligence.",
-     "chinese": "空缺的;空虛的"
+     "chinese": "空缺的；空虛的"
     }
    },
    {
     "word": "vacillating",
     "pos": "adj.",
     "definition": "Wavering between different opinions or actions; indecisive.",
-    "chinese": "猶豫不決的;搖擺不定的",
+    "chinese": "猶豫不決的；搖擺不定的",
     "synonyms": "",
     "root": "vacillare (to sway, waver), from Latin",
     "group": "vac；void = 空；缺乏",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wavering between different opinions or actions; indecisive.",
-     "chinese": "猶豫不決的;搖擺不定的"
+     "chinese": "猶豫不決的；搖擺不定的"
     }
    },
    {
     "word": "vacuity",
     "pos": "n.",
     "definition": "The state of being empty; lack of thought or intelligence.",
-    "chinese": "空虛;空洞",
+    "chinese": "空虛；空洞",
     "synonyms": "",
     "root": "vacuitas, from Latin vacuus (empty)",
     "group": "vac；void = 空；缺乏",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being empty; lack of thought or intelligence.",
-     "chinese": "空虛;空洞"
+     "chinese": "空虛；空洞"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "vacuum",
     "pos": "n.",
     "definition": "A space entirely devoid of matter; an absence.",
-    "chinese": "真空;空虛",
+    "chinese": "真空；空虛",
     "synonyms": "",
     "root": "vacuus (empty), from Latin",
     "group": "vac；void = 空；缺乏",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A space entirely devoid of matter; an absence.",
-     "chinese": "真空;空虛"
+     "chinese": "真空；空虛"
     }
    }
   ],
@@ -354,4 +354,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vacillate": ["To hesitate, fluctuate.", "猶豫不決；搖擺"], "evacuate": ["To remove people from a place of danger.", "撤離;疏散"], "staycation": ["A vacation spent at home or nearby rather than traveling.", "宅度假;在地度假"], "vacant": ["Not occupied or filled; showing no interest or intelligence.", "空缺的;空虛的"], "vacillating": ["Wavering between different opinions or actions; indecisive.", "猶豫不決的;搖擺不定的"], "vacuity": ["The state of being empty; lack of thought or intelligence.", "空虛;空洞"], "vacuous": ["Lack of content or ideas, stupid.", "空洞的；愚蠢的"], "vacuum": ["A space entirely devoid of matter; an absence.", "真空;空虛"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"vacillate": ["To hesitate, fluctuate.", "猶豫不決；搖擺"], "evacuate": ["To remove people from a place of danger.", "撤離；疏散"], "staycation": ["A vacation spent at home or nearby rather than traveling.", "宅度假；在地度假"], "vacant": ["Not occupied or filled; showing no interest or intelligence.", "空缺的；空虛的"], "vacillating": ["Wavering between different opinions or actions; indecisive.", "猶豫不決的；搖擺不定的"], "vacuity": ["The state of being empty; lack of thought or intelligence.", "空虛；空洞"], "vacuous": ["Lack of content or ideas, stupid.", "空洞的；愚蠢的"], "vacuum": ["A space entirely devoid of matter; an absence.", "真空；空虛"]});

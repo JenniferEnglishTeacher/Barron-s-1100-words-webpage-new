@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "aside",
     "pos": "adv./n.",
     "definition": "To or on one side; a remark not meant to be heard by everyone.",
-    "chinese": "在旁邊;旁白",
+    "chinese": "在旁邊；旁白",
     "synonyms": "",
     "root": "a- (on) + side",
     "group": "sess；sid = 坐",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To or on one side; a remark not meant to be heard by everyone.",
-     "chinese": "在旁邊;旁白"
+     "chinese": "在旁邊；旁白"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "consideration",
     "pos": "n.",
     "definition": "Careful thought about something; thoughtfulness toward others.",
-    "chinese": "考量;體貼",
+    "chinese": "考量；體貼",
     "synonyms": "",
     "root": "con- (together) + sidus (star), from Latin",
     "group": "sess；sid = 坐",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Careful thought about something; thoughtfulness toward others.",
-     "chinese": "考量;體貼"
+     "chinese": "考量；體貼"
     }
    },
    {
     "word": "dissident",
     "pos": "n./adj.",
     "definition": "A person who opposes official policy, especially in an authoritarian state.",
-    "chinese": "異議人士;持不同政見的",
+    "chinese": "異議人士；持不同政見的",
     "synonyms": "",
     "root": "dis- (apart) + sedere (to sit), from Latin",
     "group": "sess；sid = 坐",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who opposes official policy, especially in an authoritarian state.",
-     "chinese": "異議人士;持不同政見的"
+     "chinese": "異議人士；持不同政見的"
     }
    },
    {
     "word": "possess",
     "pos": "v.",
     "definition": "To have or own something; to have as a quality.",
-    "chinese": "擁有;具備",
+    "chinese": "擁有；具備",
     "synonyms": "",
     "root": "possidere (to have and hold), from Latin potis (able) + sedere (to sit)",
     "group": "sess；sid = 坐",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To have or own something; to have as a quality.",
-     "chinese": "擁有;具備"
+     "chinese": "擁有；具備"
     }
    },
    {
     "word": "subside",
     "pos": "v.",
     "definition": "To become less intense or violent; to sink to a lower level.",
-    "chinese": "平息;沉降",
+    "chinese": "平息；沉降",
     "synonyms": "",
     "root": "subsidere, from Latin sub- (down) + sidere (to settle)",
     "group": "sess；sid = 坐",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become less intense or violent; to sink to a lower level.",
-     "chinese": "平息;沉降"
+     "chinese": "平息；沉降"
     }
    },
    {
     "word": "supersede",
     "pos": "v.",
     "definition": "To take the place of, especially something outdated.",
-    "chinese": "取代;替代",
+    "chinese": "取代；替代",
     "synonyms": "",
     "root": "supersedere, from Latin super- (above) + sedere (to sit)",
     "group": "sess；sid = 坐",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To take the place of, especially something outdated.",
-     "chinese": "取代;替代"
+     "chinese": "取代；替代"
     }
    }
   ],
@@ -567,4 +567,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"obsess": ["To haunt, preoccupy.", "迷住；使困擾"], "sedentary": ["Largely inactive, accustomed to sitting.", "久坐的；定棲的"], "assiduous": ["Devoted, attentive.", "勤勉的；刻苦的"], "insidious": ["Sly, seductive, treacherous.", "陰險的；潛伏的"], "aside": ["To or on one side; a remark not meant to be heard by everyone.", "在旁邊;旁白"], "assess": ["To evaluate.", "評估"], "bathysiderodromophobia": ["An abnormal fear of traveling in underground trains or tunnels.", "地下鐵恐懼症"], "besides": ["In addition; furthermore; apart from or in addition to someone or something.", "此外；而且；除……之外"], "consideration": ["Careful thought about something; thoughtfulness toward others.", "考量;體貼"], "dissident": ["A person who opposes official policy, especially in an authoritarian state.", "異議人士;持不同政見的"], "possess": ["To have or own something; to have as a quality.", "擁有;具備"], "subside": ["To become less intense or violent; to sink to a lower level.", "平息;沉降"], "supersede": ["To take the place of, especially something outdated.", "取代;替代"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"obsess": ["To haunt, preoccupy.", "迷住；使困擾"], "sedentary": ["Largely inactive, accustomed to sitting.", "久坐的；定棲的"], "assiduous": ["Devoted, attentive.", "勤勉的；刻苦的"], "insidious": ["Sly, seductive, treacherous.", "陰險的；潛伏的"], "aside": ["To or on one side; a remark not meant to be heard by everyone.", "在旁邊；旁白"], "assess": ["To evaluate.", "評估"], "bathysiderodromophobia": ["An abnormal fear of traveling in underground trains or tunnels.", "地下鐵恐懼症"], "besides": ["In addition; furthermore; apart from or in addition to someone or something.", "此外；而且；除……之外"], "consideration": ["Careful thought about something; thoughtfulness toward others.", "考量；體貼"], "dissident": ["A person who opposes official policy, especially in an authoritarian state.", "異議人士；持不同政見的"], "possess": ["To have or own something; to have as a quality.", "擁有；具備"], "subside": ["To become less intense or violent; to sink to a lower level.", "平息；沉降"], "supersede": ["To take the place of, especially something outdated.", "取代；替代"]});

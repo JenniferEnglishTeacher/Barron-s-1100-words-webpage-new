@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "epicene",
     "pos": "adj.",
     "definition": "Having characteristics of both sexes; sexless.",
-    "chinese": "雌雄同體的;中性的",
+    "chinese": "雌雄同體的；中性的",
     "synonyms": "",
     "root": "epi- (upon) + koinos (common), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having characteristics of both sexes; sexless.",
-     "chinese": "雌雄同體的;中性的"
+     "chinese": "雌雄同體的；中性的"
     }
    },
    {
     "word": "epidemic",
     "pos": "n./adj.",
     "definition": "A widespread occurrence of a disease in a community.",
-    "chinese": "流行病;傳染病",
+    "chinese": "流行病；傳染病",
     "synonyms": "",
     "root": "epi- (upon) + demos (people), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A widespread occurrence of a disease in a community.",
-     "chinese": "流行病;傳染病"
+     "chinese": "流行病；傳染病"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "epigram",
     "pos": "n.",
     "definition": "A brief, witty, and often paradoxical saying.",
-    "chinese": "警句;諷刺短詩",
+    "chinese": "警句；諷刺短詩",
     "synonyms": "",
     "root": "epi- (upon) + gramma (writing), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A brief, witty, and often paradoxical saying.",
-     "chinese": "警句;諷刺短詩"
+     "chinese": "警句；諷刺短詩"
     }
    },
    {
     "word": "epigrammatic",
     "pos": "adj.",
     "definition": "Concise and witty, in the manner of an epigram.",
-    "chinese": "警句式的;簡潔機智的",
+    "chinese": "警句式的；簡潔機智的",
     "synonyms": "",
     "root": "epi- (upon) + gramma (writing), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Concise and witty, in the manner of an epigram.",
-     "chinese": "警句式的;簡潔機智的"
+     "chinese": "警句式的；簡潔機智的"
     }
    },
    {
     "word": "epigraph",
     "pos": "n.",
     "definition": "A short quotation at the start of a book or chapter.",
-    "chinese": "題詞;卷首語",
+    "chinese": "題詞；卷首語",
     "synonyms": "",
     "root": "epi- (upon) + graphein (to write), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -174,7 +174,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A short quotation at the start of a book or chapter.",
-     "chinese": "題詞;卷首語"
+     "chinese": "題詞；卷首語"
     }
    },
    {
@@ -200,7 +200,7 @@ window.FLASHCARD_UNITS = {
     "word": "epiphanic",
     "pos": "adj.",
     "definition": "Relating to a sudden moment of insight or realization.",
-    "chinese": "頓悟的;啟示性的",
+    "chinese": "頓悟的；啟示性的",
     "synonyms": "",
     "root": "epi- (upon) + phainein (to show), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -212,14 +212,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a sudden moment of insight or realization.",
-     "chinese": "頓悟的;啟示性的"
+     "chinese": "頓悟的；啟示性的"
     }
    },
    {
     "word": "epiphany",
     "pos": "n.",
     "definition": "A sudden and striking realization.",
-    "chinese": "頓悟;豁然開朗",
+    "chinese": "頓悟；豁然開朗",
     "synonyms": "",
     "root": "epi- (upon) + phainein (to show), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden and striking realization.",
-     "chinese": "頓悟;豁然開朗"
+     "chinese": "頓悟；豁然開朗"
     }
    },
    {
     "word": "epistle",
     "pos": "n.",
     "definition": "A formal or literary letter.",
-    "chinese": "書信;使徒書",
+    "chinese": "書信；使徒書",
     "synonyms": "",
     "root": "epi- (upon) + stellein (to send), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal or literary letter.",
-     "chinese": "書信;使徒書"
+     "chinese": "書信；使徒書"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "eponym",
     "pos": "n.",
     "definition": "A person after whom a discovery, invention, or place is named.",
-    "chinese": "同名者;命名來源",
+    "chinese": "同名者；命名來源",
     "synonyms": "",
     "root": "epi- (upon) + onyma (name), from Greek",
     "group": "epi = 在⋯⋯之上；之後",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person after whom a discovery, invention, or place is named.",
-     "chinese": "同名者;命名來源"
+     "chinese": "同名者；命名來源"
     }
    },
    {
@@ -743,4 +743,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"epithet": ["Disparaging word or phrase.", "綽號；貶稱"], "epitome": ["Person or thing that represents the best.", "縮影；典範"], "ephemeral": ["Lasting a short time; fleeting.", "短暫的"], "epicene": ["Having characteristics of both sexes; sexless.", "雌雄同體的;中性的"], "epidemic": ["A widespread occurrence of a disease in a community.", "流行病;傳染病"], "epidermis": ["The outer layer of skin covering the body surface.", "表皮"], "epigram": ["A brief, witty, and often paradoxical saying.", "警句;諷刺短詩"], "epigrammatic": ["Concise and witty, in the manner of an epigram.", "警句式的;簡潔機智的"], "epigraph": ["A short quotation at the start of a book or chapter.", "題詞;卷首語"], "epilogue": ["A short speech by an actor at the end of a play.", "尾聲；後記"], "epiphanic": ["Relating to a sudden moment of insight or realization.", "頓悟的;啟示性的"], "epiphany": ["A sudden and striking realization.", "頓悟;豁然開朗"], "epistle": ["A formal or literary letter.", "書信;使徒書"], "epistrophe": ["The repetition of a word or phrase at the end of successive clauses.", "尾語重複法(修辭)"], "epitaph": ["Words inscribed on a tombstone in memory of the deceased.", "墓誌銘"], "eponym": ["A person after whom a discovery, invention, or place is named.", "同名者;命名來源"], "eponymous": ["Giving one's name to something, especially a work.", "同名的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"epithet": ["Disparaging word or phrase.", "綽號；貶稱"], "epitome": ["Person or thing that represents the best.", "縮影；典範"], "ephemeral": ["Lasting a short time; fleeting.", "短暫的"], "epicene": ["Having characteristics of both sexes; sexless.", "雌雄同體的；中性的"], "epidemic": ["A widespread occurrence of a disease in a community.", "流行病；傳染病"], "epidermis": ["The outer layer of skin covering the body surface.", "表皮"], "epigram": ["A brief, witty, and often paradoxical saying.", "警句；諷刺短詩"], "epigrammatic": ["Concise and witty, in the manner of an epigram.", "警句式的；簡潔機智的"], "epigraph": ["A short quotation at the start of a book or chapter.", "題詞；卷首語"], "epilogue": ["A short speech by an actor at the end of a play.", "尾聲；後記"], "epiphanic": ["Relating to a sudden moment of insight or realization.", "頓悟的；啟示性的"], "epiphany": ["A sudden and striking realization.", "頓悟；豁然開朗"], "epistle": ["A formal or literary letter.", "書信；使徒書"], "epistrophe": ["The repetition of a word or phrase at the end of successive clauses.", "尾語重複法(修辭)"], "epitaph": ["Words inscribed on a tombstone in memory of the deceased.", "墓誌銘"], "eponym": ["A person after whom a discovery, invention, or place is named.", "同名者；命名來源"], "eponymous": ["Giving one's name to something, especially a work.", "同名的"]});

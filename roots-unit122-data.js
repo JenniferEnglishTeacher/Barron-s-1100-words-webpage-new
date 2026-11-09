@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "comport",
     "pos": "v.",
     "definition": "To conduct oneself in a particular way; to be in agreement with.",
-    "chinese": "舉止合宜;與...一致",
+    "chinese": "舉止合宜；與...一致",
     "synonyms": "",
     "root": "com- (together) + portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To conduct oneself in a particular way; to be in agreement with.",
-     "chinese": "舉止合宜;與...一致"
+     "chinese": "舉止合宜；與...一致"
     }
    },
    {
     "word": "comportment",
     "pos": "n.",
     "definition": "Behavior or conduct, especially in a formal setting.",
-    "chinese": "舉止;風度",
+    "chinese": "舉止；風度",
     "synonyms": "",
     "root": "com- (together) + portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behavior or conduct, especially in a formal setting.",
-     "chinese": "舉止;風度"
+     "chinese": "舉止；風度"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "deportment",
     "pos": "n.",
     "definition": "A person's manner of behaving; conduct.",
-    "chinese": "行為舉止;禮儀",
+    "chinese": "行為舉止；禮儀",
     "synonyms": "",
     "root": "de- (away) + portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person's manner of behaving; conduct.",
-     "chinese": "行為舉止;禮儀"
+     "chinese": "行為舉止；禮儀"
     }
    },
    {
     "word": "export",
     "pos": "v./n.",
     "definition": "To send goods to another country for sale.",
-    "chinese": "出口;輸出",
+    "chinese": "出口；輸出",
     "synonyms": "",
     "root": "ex- (out) + portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To send goods to another country for sale.",
-     "chinese": "出口;輸出"
+     "chinese": "出口；輸出"
     }
    },
    {
     "word": "import",
     "pos": "v./n.",
     "definition": "To bring in goods from abroad; significance.",
-    "chinese": "進口;重要性",
+    "chinese": "進口；重要性",
     "synonyms": "",
     "root": "in- (in) + portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To bring in goods from abroad; significance.",
-     "chinese": "進口;重要性"
+     "chinese": "進口；重要性"
     }
    },
    {
     "word": "portable",
     "pos": "adj.",
     "definition": "Able to be easily carried or moved.",
-    "chinese": "便攜的;可攜式的",
+    "chinese": "便攜的；可攜式的",
     "synonyms": "",
     "root": "portare (to carry), from Latin",
     "group": "port = 運送；攜帶",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to be easily carried or moved.",
-     "chinese": "便攜的;可攜式的"
+     "chinese": "便攜的；可攜式的"
     }
    },
    {
     "word": "portcullis",
     "pos": "n.",
     "definition": "A heavy grated gate lowered to block a castle's entrance.",
-    "chinese": "閘門;吊閘",
+    "chinese": "閘門；吊閘",
     "synonyms": "",
     "root": "porte coleice (sliding door), from Old French",
     "group": "port = 運送；攜帶",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A heavy grated gate lowered to block a castle's entrance.",
-     "chinese": "閘門;吊閘"
+     "chinese": "閘門；吊閘"
     }
    },
    {
     "word": "portfolio",
     "pos": "n.",
     "definition": "A case for carrying documents; a range of investments or work samples.",
-    "chinese": "文件夾;投資組合;作品集",
+    "chinese": "文件夾；投資組合；作品集",
     "synonyms": "",
     "root": "portare (to carry) + foglio (leaf, sheet), from Italian",
     "group": "port = 運送；攜帶",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A case for carrying documents; a range of investments or work samples.",
-     "chinese": "文件夾;投資組合;作品集"
+     "chinese": "文件夾；投資組合；作品集"
     }
    },
    {
     "word": "portly",
     "pos": "adj.",
     "definition": "Somewhat overweight, especially in a dignified way.",
-    "chinese": "肥胖的;體態豐腴的",
+    "chinese": "肥胖的；體態豐腴的",
     "synonyms": "",
     "root": "port (bearing, demeanor), from Latin portare (to carry)",
     "group": "port = 運送；攜帶",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Somewhat overweight, especially in a dignified way.",
-     "chinese": "肥胖的;體態豐腴的"
+     "chinese": "肥胖的；體態豐腴的"
     }
    },
    {
     "word": "portmanteau",
     "pos": "n.",
     "definition": "A word blending the sounds and meanings of two others; a large traveling case.",
-    "chinese": "混成詞;大型行李箱",
+    "chinese": "混成詞；大型行李箱",
     "synonyms": "",
     "root": "porter (to carry) + manteau (cloak), from French",
     "group": "port = 運送；攜帶",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A word blending the sounds and meanings of two others; a large traveling case.",
-     "chinese": "混成詞;大型行李箱"
+     "chinese": "混成詞；大型行李箱"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "rapporteur",
     "pos": "n.",
     "definition": "A person appointed to report on the proceedings of a meeting or committee.",
-    "chinese": "報告員;調查專員",
+    "chinese": "報告員；調查專員",
     "synonyms": "",
     "root": "rapporter (to bring back), from French, from Latin re- (back) + portare (to carry)",
     "group": "port = 運送；攜帶",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person appointed to report on the proceedings of a meeting or committee.",
-     "chinese": "報告員;調查專員"
+     "chinese": "報告員；調查專員"
     }
    },
    {
     "word": "report",
     "pos": "n./v.",
     "definition": "A spoken or written account of an event; to give an account of something.",
-    "chinese": "報告;報導",
+    "chinese": "報告；報導",
     "synonyms": "",
     "root": "reportare (to carry back), from Latin re- (back) + portare (to carry)",
     "group": "port = 運送；攜帶",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A spoken or written account of an event; to give an account of something.",
-     "chinese": "報告;報導"
+     "chinese": "報告；報導"
     }
    }
   ],
@@ -698,4 +698,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"importune": ["To ask urgently:implore.", "強求；胡纏"], "opportunist": ["A person who seeks self-gain, even at the expense of others, without regard to values or moral principles.", "投機者"], "comport": ["To conduct oneself in a particular way; to be in agreement with.", "舉止合宜;與...一致"], "comportment": ["Behavior or conduct, especially in a formal setting.", "舉止;風度"], "deport": ["To expel a foreigner from a country.", "驅逐出境"], "deportment": ["A person's manner of behaving; conduct.", "行為舉止;禮儀"], "export": ["To send goods to another country for sale.", "出口;輸出"], "import": ["To bring in goods from abroad; significance.", "進口;重要性"], "portable": ["Able to be easily carried or moved.", "便攜的;可攜式的"], "portcullis": ["A heavy grated gate lowered to block a castle's entrance.", "閘門;吊閘"], "portfolio": ["A case for carrying documents; a range of investments or work samples.", "文件夾;投資組合;作品集"], "portly": ["Somewhat overweight, especially in a dignified way.", "肥胖的;體態豐腴的"], "portmanteau": ["A word blending the sounds and meanings of two others; a large traveling case.", "混成詞;大型行李箱"], "rapport": ["Mutual understanding and harmony.", "融洽關係；默契"], "rapporteur": ["A person appointed to report on the proceedings of a meeting or committee.", "報告員;調查專員"], "report": ["A spoken or written account of an event; to give an account of something.", "報告;報導"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"importune": ["To ask urgently:implore.", "強求；胡纏"], "opportunist": ["A person who seeks self-gain, even at the expense of others, without regard to values or moral principles.", "投機者"], "comport": ["To conduct oneself in a particular way; to be in agreement with.", "舉止合宜；與...一致"], "comportment": ["Behavior or conduct, especially in a formal setting.", "舉止；風度"], "deport": ["To expel a foreigner from a country.", "驅逐出境"], "deportment": ["A person's manner of behaving; conduct.", "行為舉止；禮儀"], "export": ["To send goods to another country for sale.", "出口；輸出"], "import": ["To bring in goods from abroad; significance.", "進口；重要性"], "portable": ["Able to be easily carried or moved.", "便攜的；可攜式的"], "portcullis": ["A heavy grated gate lowered to block a castle's entrance.", "閘門；吊閘"], "portfolio": ["A case for carrying documents; a range of investments or work samples.", "文件夾；投資組合；作品集"], "portly": ["Somewhat overweight, especially in a dignified way.", "肥胖的；體態豐腴的"], "portmanteau": ["A word blending the sounds and meanings of two others; a large traveling case.", "混成詞；大型行李箱"], "rapport": ["Mutual understanding and harmony.", "融洽關係；默契"], "rapporteur": ["A person appointed to report on the proceedings of a meeting or committee.", "報告員；調查專員"], "report": ["A spoken or written account of an event; to give an account of something.", "報告；報導"]});

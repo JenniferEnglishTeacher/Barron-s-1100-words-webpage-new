@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "accordingly",
     "pos": "adv.",
     "definition": "In a manner that fits the circumstances; consequently.",
-    "chinese": "相應地;因此",
+    "chinese": "相應地；因此",
     "synonyms": "",
     "root": "ac- (to) + cor (heart, i.e. agreement)",
     "group": "cord = 心",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a manner that fits the circumstances; consequently.",
-     "chinese": "相應地;因此"
+     "chinese": "相應地；因此"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "cordiality",
     "pos": "n.",
     "definition": "Warm and friendly courtesy.",
-    "chinese": "熱誠;友好",
+    "chinese": "熱誠；友好",
     "synonyms": "",
     "root": "cor (heart), from Latin",
     "group": "cord = 心",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Warm and friendly courtesy.",
-     "chinese": "熱誠;友好"
+     "chinese": "熱誠；友好"
     }
    },
    {
@@ -526,4 +526,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quarry": ["Something hunted or pursued.", "獵物；目標"], "cordial": ["Warm and friendly; amiable.", "熱誠友好的"], "discordant": ["Lacking harmony or agreement.", "不和諧的"], "accord": ["An agreement.", "協議；一致"], "accordingly": ["In a manner that fits the circumstances; consequently.", "相應地;因此"], "concord": ["Harmonious agreement.", "和睦；協調"], "cordiality": ["Warm and friendly courtesy.", "熱誠;友好"], "cordially": ["In a warm or friendly manner.", "誠摯地；友好地"], "courageous": ["Able to face danger or fear with bravery.", "勇敢的"], "discord": ["Disagreement.", "不和；紛爭"], "discourage": ["To dissuade or deter.", "使氣餒；勸阻"], "encourage": ["To support or inspire.", "鼓勵"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quarry": ["Something hunted or pursued.", "獵物；目標"], "cordial": ["Warm and friendly; amiable.", "熱誠友好的"], "discordant": ["Lacking harmony or agreement.", "不和諧的"], "accord": ["An agreement.", "協議；一致"], "accordingly": ["In a manner that fits the circumstances; consequently.", "相應地；因此"], "concord": ["Harmonious agreement.", "和睦；協調"], "cordiality": ["Warm and friendly courtesy.", "熱誠；友好"], "cordially": ["In a warm or friendly manner.", "誠摯地；友好地"], "courageous": ["Able to face danger or fear with bravery.", "勇敢的"], "discord": ["Disagreement.", "不和；紛爭"], "discourage": ["To dissuade or deter.", "使氣餒；勸阻"], "encourage": ["To support or inspire.", "鼓勵"]});

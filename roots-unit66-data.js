@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "superabundance",
     "pos": "n.",
     "definition": "An excessive amount of something.",
-    "chinese": "過剩;過量",
+    "chinese": "過剩；過量",
     "synonyms": "",
     "root": "super- (over) + abundantia (abundance), from Latin",
     "group": "super = 在上方",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive amount of something.",
-     "chinese": "過剩;過量"
+     "chinese": "過剩；過量"
     }
    },
    {
     "word": "superannuated",
     "pos": "adj.",
     "definition": "Retired due to age; obsolete.",
-    "chinese": "因年老而退休的;過時的",
+    "chinese": "因年老而退休的；過時的",
     "synonyms": "",
     "root": "super- (beyond) + annus (year), from Latin",
     "group": "super = 在上方",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Retired due to age; obsolete.",
-     "chinese": "因年老而退休的;過時的"
+     "chinese": "因年老而退休的；過時的"
     }
    },
    {
     "word": "superciliousness",
     "pos": "n.",
     "definition": "The quality of behaving as if one is superior to others.",
-    "chinese": "傲慢;高傲自大",
+    "chinese": "傲慢；高傲自大",
     "synonyms": "",
     "root": "super- (above) + cilium (eyelid), from Latin, referring to a raised eyebrow of scorn",
     "group": "super = 在上方",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of behaving as if one is superior to others.",
-     "chinese": "傲慢;高傲自大"
+     "chinese": "傲慢；高傲自大"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "supernumerary",
     "pos": "adj./n.",
     "definition": "Exceeding the required or usual number; an extra person.",
-    "chinese": "額外的;多餘的人員",
+    "chinese": "額外的；多餘的人員",
     "synonyms": "",
     "root": "super- (over) + numerus (number), from Latin",
     "group": "super = 在上方",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exceeding the required or usual number; an extra person.",
-     "chinese": "額外的;多餘的人員"
+     "chinese": "額外的；多餘的人員"
     }
    },
    {
@@ -571,4 +571,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"surmise": ["To guess.", "猜測；臆測"], "superstition": ["Irrational belief or practice.", "迷信"], "superficial": ["On the surface, slight.", "表面的；膚淺的"], "surfeit": ["Excess, superabundance.", "過量；飲食過度"], "superfluous": ["Excessive, surplus.", "多餘的；過剩的"], "supercilious": ["Looking down on others; proud and scornful.", "目中無人的"], "insuperable": ["Unable to be overcome.", "難以克服的"], "superabundance": ["An excessive amount of something.", "過剩;過量"], "superannuated": ["Retired due to age; obsolete.", "因年老而退休的;過時的"], "superciliousness": ["The quality of behaving as if one is superior to others.", "傲慢;高傲自大"], "supernatural": ["Attributed to forces beyond the laws of nature.", "超自然的"], "supernumerary": ["Exceeding the required or usual number; an extra person.", "額外的;多餘的人員"], "surrender": ["To give up or yield.", "投降；放棄"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"surmise": ["To guess.", "猜測；臆測"], "superstition": ["Irrational belief or practice.", "迷信"], "superficial": ["On the surface, slight.", "表面的；膚淺的"], "surfeit": ["Excess, superabundance.", "過量；飲食過度"], "superfluous": ["Excessive, surplus.", "多餘的；過剩的"], "supercilious": ["Looking down on others; proud and scornful.", "目中無人的"], "insuperable": ["Unable to be overcome.", "難以克服的"], "superabundance": ["An excessive amount of something.", "過剩；過量"], "superannuated": ["Retired due to age; obsolete.", "因年老而退休的；過時的"], "superciliousness": ["The quality of behaving as if one is superior to others.", "傲慢；高傲自大"], "supernatural": ["Attributed to forces beyond the laws of nature.", "超自然的"], "supernumerary": ["Exceeding the required or usual number; an extra person.", "額外的；多餘的人員"], "surrender": ["To give up or yield.", "投降；放棄"]});

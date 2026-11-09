@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "headstrong",
     "pos": "adj.",
     "definition": "Stubbornly determined to have one's own way.",
-    "chinese": "固執的;任性的",
+    "chinese": "固執的；任性的",
     "synonyms": "",
     "root": "head + strong, from Old English",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stubbornly determined to have one's own way.",
-     "chinese": "固執的;任性的"
+     "chinese": "固執的；任性的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "heartrending",
     "pos": "adj.",
     "definition": "Causing great sadness or distress.",
-    "chinese": "令人心碎的;悲痛的",
+    "chinese": "令人心碎的；悲痛的",
     "synonyms": "",
     "root": "heart + rend, from Old English",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing great sadness or distress.",
-     "chinese": "令人心碎的;悲痛的"
+     "chinese": "令人心碎的；悲痛的"
     }
    },
    {
     "word": "heavenly",
     "pos": "adj.",
     "definition": "Of or relating to heaven; delightful.",
-    "chinese": "天堂的;極美好的",
+    "chinese": "天堂的；極美好的",
     "synonyms": "",
     "root": "heofon (sky, heaven), from Old English",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of or relating to heaven; delightful.",
-     "chinese": "天堂的;極美好的"
+     "chinese": "天堂的；極美好的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "hebdomad",
     "pos": "n.",
     "definition": "A group or period of seven, especially seven days.",
-    "chinese": "七日;一週",
+    "chinese": "七日；一週",
     "synonyms": "",
     "root": "hepta (seven), from Greek",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A group or period of seven, especially seven days.",
-     "chinese": "七日;一週"
+     "chinese": "七日；一週"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "hebetate",
     "pos": "v.",
     "definition": "To make dull or blunt, especially mentally.",
-    "chinese": "使遲鈍;使麻木",
+    "chinese": "使遲鈍；使麻木",
     "synonyms": "",
     "root": "hebes (dull, blunt), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make dull or blunt, especially mentally.",
-     "chinese": "使遲鈍;使麻木"
+     "chinese": "使遲鈍；使麻木"
     }
    },
    {
     "word": "hebetude",
     "pos": "n.",
     "definition": "The state of being dull or lethargic.",
-    "chinese": "遲鈍;麻木狀態",
+    "chinese": "遲鈍；麻木狀態",
     "synonyms": "",
     "root": "hebes (dull, blunt), from Latin",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being dull or lethargic.",
-     "chinese": "遲鈍;麻木狀態"
+     "chinese": "遲鈍；麻木狀態"
     }
    },
    {
     "word": "hebetudinous",
     "pos": "adj.",
     "definition": "Mentally dull or lethargic.",
-    "chinese": "遲鈍的;麻木的",
+    "chinese": "遲鈍的；麻木的",
     "synonyms": "",
     "root": "hebes (dull, blunt), from Latin",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mentally dull or lethargic.",
-     "chinese": "遲鈍的;麻木的"
+     "chinese": "遲鈍的；麻木的"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "heckle",
     "pos": "v.",
     "definition": "To interrupt a speaker with aggressive comments.",
-    "chinese": "起鬨;喝倒采",
+    "chinese": "起鬨；喝倒采",
     "synonyms": "",
     "root": "hekele (flax comb), from Middle English",
     "group": "",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To interrupt a speaker with aggressive comments.",
-     "chinese": "起鬨;喝倒采"
+     "chinese": "起鬨；喝倒采"
     }
    },
    {
     "word": "hectic",
     "pos": "adj.",
     "definition": "Full of frantic activity; feverish.",
-    "chinese": "忙亂的;繁忙的",
+    "chinese": "忙亂的；繁忙的",
     "synonyms": "",
     "root": "hektikos (habitual, feverish), from Greek",
     "group": "",
@@ -307,14 +307,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Full of frantic activity; feverish.",
-     "chinese": "忙亂的;繁忙的"
+     "chinese": "忙亂的；繁忙的"
     }
    },
    {
     "word": "hector",
     "pos": "v.",
     "definition": "To talk to someone in a bullying way.",
-    "chinese": "欺凌;恐嚇",
+    "chinese": "欺凌；恐嚇",
     "synonyms": "",
     "root": "Hector, hero of the Iliad",
     "group": "",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To talk to someone in a bullying way.",
-     "chinese": "欺凌;恐嚇"
+     "chinese": "欺凌；恐嚇"
     }
    },
    {
     "word": "hectoring",
     "pos": "adj.",
     "definition": "Bullying or intimidating in manner.",
-    "chinese": "咄咄逼人的;恐嚇性的",
+    "chinese": "咄咄逼人的；恐嚇性的",
     "synonyms": "",
     "root": "Hector, hero of the Iliad",
     "group": "",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bullying or intimidating in manner.",
-     "chinese": "咄咄逼人的;恐嚇性的"
+     "chinese": "咄咄逼人的；恐嚇性的"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "heedlessness",
     "pos": "n.",
     "definition": "A lack of attention or care.",
-    "chinese": "粗心大意;不留心",
+    "chinese": "粗心大意；不留心",
     "synonyms": "",
     "root": "hedan (to heed), from Old English",
     "group": "",
@@ -440,14 +440,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of attention or care.",
-     "chinese": "粗心大意;不留心"
+     "chinese": "粗心大意；不留心"
     }
    },
    {
     "word": "hegemon",
     "pos": "n.",
     "definition": "A leading or dominant state, group, or individual.",
-    "chinese": "霸主;主導勢力",
+    "chinese": "霸主；主導勢力",
     "synonyms": "",
     "root": "hegemon (leader), from Greek",
     "group": "",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A leading or dominant state, group, or individual.",
-     "chinese": "霸主;主導勢力"
+     "chinese": "霸主；主導勢力"
     }
    },
    {
     "word": "hegemonic",
     "pos": "adj.",
     "definition": "Relating to dominant leadership or control.",
-    "chinese": "霸權的;主導性的",
+    "chinese": "霸權的；主導性的",
     "synonyms": "",
     "root": "hegemon (leader), from Greek",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to dominant leadership or control.",
-     "chinese": "霸權的;主導性的"
+     "chinese": "霸權的；主導性的"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "heliotropism",
     "pos": "n.",
     "definition": "The tendency of plants to grow or turn toward sunlight.",
-    "chinese": "向日性;趨光性",
+    "chinese": "向日性；趨光性",
     "synonyms": "",
     "root": "helios (sun) + tropos (turn), from Greek",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The tendency of plants to grow or turn toward sunlight.",
-     "chinese": "向日性;趨光性"
+     "chinese": "向日性；趨光性"
     }
    },
    {
     "word": "helpless",
     "pos": "adj.",
     "definition": "Unable to defend oneself or act without help.",
-    "chinese": "無助的;無能為力的",
+    "chinese": "無助的；無能為力的",
     "synonyms": "",
     "root": "help, from Old English helpan",
     "group": "",
@@ -594,7 +594,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Unable to defend oneself or act without help.",
-     "chinese": "無助的;無能為力的"
+     "chinese": "無助的；無能為力的"
     }
    },
    {
@@ -620,7 +620,7 @@ window.FLASHCARD_UNITS = {
     "word": "henchman",
     "pos": "n.",
     "definition": "A loyal supporter, especially one who commits unethical acts for a leader.",
-    "chinese": "爪牙;心腹打手",
+    "chinese": "爪牙；心腹打手",
     "synonyms": "",
     "root": "hengest (stallion) + man, from Old English",
     "group": "",
@@ -634,14 +634,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A loyal supporter, especially one who commits unethical acts for a leader.",
-     "chinese": "爪牙;心腹打手"
+     "chinese": "爪牙；心腹打手"
     }
    },
    {
     "word": "herald",
     "pos": "n./v.",
     "definition": "A messenger bringing important news; to announce the approach of.",
-    "chinese": "使者;預示",
+    "chinese": "使者；預示",
     "synonyms": "",
     "root": "heriwald (army commander), from Old French, of Germanic origin",
     "group": "",
@@ -653,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A messenger bringing important news; to announce the approach of.",
-     "chinese": "使者;預示"
+     "chinese": "使者；預示"
     }
    },
    {
@@ -679,7 +679,7 @@ window.FLASHCARD_UNITS = {
     "word": "herculean",
     "pos": "adj.",
     "definition": "Requiring great strength or effort.",
-    "chinese": "極為艱鉅的;大力士般的",
+    "chinese": "極為艱鉅的；大力士般的",
     "synonyms": "",
     "root": "Hercules, hero of Greek and Roman mythology",
     "group": "",
@@ -691,7 +691,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Requiring great strength or effort.",
-     "chinese": "極為艱鉅的;大力士般的"
+     "chinese": "極為艱鉅的；大力士般的"
     }
    },
    {
@@ -717,7 +717,7 @@ window.FLASHCARD_UNITS = {
     "word": "heretical",
     "pos": "adj.",
     "definition": "Contrary to accepted religious or established beliefs.",
-    "chinese": "異端的;離經叛道的",
+    "chinese": "異端的；離經叛道的",
     "synonyms": "",
     "root": "hairesis (choice, sect), from Greek",
     "group": "",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Contrary to accepted religious or established beliefs.",
-     "chinese": "異端的;離經叛道的"
+     "chinese": "異端的；離經叛道的"
     }
    },
    {
@@ -774,7 +774,7 @@ window.FLASHCARD_UNITS = {
     "word": "heterodox",
     "pos": "adj.",
     "definition": "Not conforming to accepted or orthodox beliefs.",
-    "chinese": "非正統的;異端的",
+    "chinese": "非正統的；異端的",
     "synonyms": "",
     "root": "heteros (other) + doxa (opinion), from Greek",
     "group": "",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not conforming to accepted or orthodox beliefs.",
-     "chinese": "非正統的;異端的"
+     "chinese": "非正統的；異端的"
     }
    },
    {
     "word": "heterodoxy",
     "pos": "n.",
     "definition": "Beliefs that do not conform to accepted standards or doctrine.",
-    "chinese": "異端;非正統觀點",
+    "chinese": "異端；非正統觀點",
     "synonyms": "",
     "root": "heteros (other) + doxa (opinion), from Greek",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Beliefs that do not conform to accepted standards or doctrine.",
-     "chinese": "異端;非正統觀點"
+     "chinese": "異端；非正統觀點"
     }
    },
    {
@@ -945,7 +945,7 @@ window.FLASHCARD_UNITS = {
     "word": "hierarch",
     "pos": "n.",
     "definition": "A leader within a religious or organizational hierarchy.",
-    "chinese": "教階領袖;上層權威",
+    "chinese": "教階領袖；上層權威",
     "synonyms": "",
     "root": "hieros (sacred) + arkhein (to rule), from Greek",
     "group": "",
@@ -957,7 +957,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A leader within a religious or organizational hierarchy.",
-     "chinese": "教階領袖;上層權威"
+     "chinese": "教階領袖；上層權威"
     }
    }
   ],
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"haven": ["Place of safety.", "避難所；港口"], "hayseed": ["An unsophisticated person from a rural area (informal).", "鄉巴佬(口語)"], "headstrong": ["Stubbornly determined to have one's own way.", "固執的;任性的"], "healthful": ["Conducive to good health.", "有益健康的"], "heartbroken": ["Overwhelmed with grief or disappointment.", "心碎的"], "heartrending": ["Causing great sadness or distress.", "令人心碎的;悲痛的"], "heavenly": ["Of or relating to heaven; delightful.", "天堂的;極美好的"], "heavyhearted": ["Feeling sad or depressed.", "心情沉重的"], "hebdomad": ["A group or period of seven, especially seven days.", "七日;一週"], "hebdomadal": ["Occurring or published every week.", "每週的"], "hebetate": ["To make dull or blunt, especially mentally.", "使遲鈍;使麻木"], "hebetude": ["The state of being dull or lethargic.", "遲鈍;麻木狀態"], "hebetudinous": ["Mentally dull or lethargic.", "遲鈍的;麻木的"], "hebetutudinous": ["A variant spelling relating to mental dullness or lethargy.", "遲鈍麻木的(異體拼法)"], "heckle": ["To interrupt a speaker with aggressive comments.", "起鬨;喝倒采"], "hectic": ["Full of frantic activity; feverish.", "忙亂的;繁忙的"], "hector": ["To talk to someone in a bullying way.", "欺凌;恐嚇"], "hectoring": ["Bullying or intimidating in manner.", "咄咄逼人的;恐嚇性的"], "hedonism": ["The pursuit of pleasure as the most important goal in life.", "享樂主義"], "hedonist": ["A person who lives for pleasure.", "享樂主義者"], "heed": ["To pay attention to or take notice of.", "注意；聽從"], "heedful": ["Paying careful attention to.", "留心的"], "heedlessness": ["A lack of attention or care.", "粗心大意;不留心"], "hegemon": ["A leading or dominant state, group, or individual.", "霸主;主導勢力"], "hegemonic": ["Relating to dominant leadership or control.", "霸權的;主導性的"], "hegemony": ["Domination over others.", "霸權；支配地位"], "heinous": ["Hatefully evil.", "十惡不赦的"], "heliocentric": ["Having the sun as the center, as in the modern model of the solar system.", "日心說的"], "heliotherapy": ["Treatment of disease by exposure to sunlight.", "日光療法"], "heliotropism": ["The tendency of plants to grow or turn toward sunlight.", "向日性;趨光性"], "helpless": ["Unable to defend oneself or act without help.", "無助的;無能為力的"], "henbane": ["A poisonous plant with a foul smell, historically used as a sedative.", "天仙子(毒草)"], "henchman": ["A loyal supporter, especially one who commits unethical acts for a leader.", "爪牙;心腹打手"], "herald": ["A messenger bringing important news; to announce the approach of.", "使者;預示"], "herbivorous": ["Feeding only on plants.", "草食性的"], "herculean": ["Requiring great strength or effort.", "極為艱鉅的;大力士般的"], "heresy": ["Unbelief, blasphemy, lack of faith.", "異端；邪說"], "heretical": ["Contrary to accepted religious or established beliefs.", "異端的;離經叛道的"], "hermaphrodite": ["An organism with both male and female reproductive organs.", "雌雄同體生物"], "hermaphroditic": ["Having both male and female reproductive organs.", "雌雄同體的"], "heterodox": ["Not conforming to accepted or orthodox beliefs.", "非正統的;異端的"], "heterodoxy": ["Beliefs that do not conform to accepted standards or doctrine.", "異端;非正統觀點"], "hiatus": ["A break or gap in duration or continuity.", "中斷；間隙"], "hibernal": ["Relating to or occurring in winter.", "冬季的"], "hibernate": ["To spend a long period of time in a dormant or inactive state, especially during the winter.", "冬眠"], "hibernation": ["A state of dormancy or deep sleep.", "冬眠(狀態)"], "hidalgo": ["A Spanish nobleman of lower rank.", "西班牙下層貴族"], "hidebound": ["Strongly-opinionated; narrow-mindedly stubborn.", "頑固守舊的"], "hiemal": ["Relating to winter.", "冬天的"], "hierarch": ["A leader within a religious or organizational hierarchy.", "教階領袖;上層權威"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"haven": ["Place of safety.", "避難所；港口"], "hayseed": ["An unsophisticated person from a rural area (informal).", "鄉巴佬(口語)"], "headstrong": ["Stubbornly determined to have one's own way.", "固執的；任性的"], "healthful": ["Conducive to good health.", "有益健康的"], "heartbroken": ["Overwhelmed with grief or disappointment.", "心碎的"], "heartrending": ["Causing great sadness or distress.", "令人心碎的；悲痛的"], "heavenly": ["Of or relating to heaven; delightful.", "天堂的；極美好的"], "heavyhearted": ["Feeling sad or depressed.", "心情沉重的"], "hebdomad": ["A group or period of seven, especially seven days.", "七日；一週"], "hebdomadal": ["Occurring or published every week.", "每週的"], "hebetate": ["To make dull or blunt, especially mentally.", "使遲鈍；使麻木"], "hebetude": ["The state of being dull or lethargic.", "遲鈍；麻木狀態"], "hebetudinous": ["Mentally dull or lethargic.", "遲鈍的；麻木的"], "hebetutudinous": ["A variant spelling relating to mental dullness or lethargy.", "遲鈍麻木的(異體拼法)"], "heckle": ["To interrupt a speaker with aggressive comments.", "起鬨；喝倒采"], "hectic": ["Full of frantic activity; feverish.", "忙亂的；繁忙的"], "hector": ["To talk to someone in a bullying way.", "欺凌；恐嚇"], "hectoring": ["Bullying or intimidating in manner.", "咄咄逼人的；恐嚇性的"], "hedonism": ["The pursuit of pleasure as the most important goal in life.", "享樂主義"], "hedonist": ["A person who lives for pleasure.", "享樂主義者"], "heed": ["To pay attention to or take notice of.", "注意；聽從"], "heedful": ["Paying careful attention to.", "留心的"], "heedlessness": ["A lack of attention or care.", "粗心大意；不留心"], "hegemon": ["A leading or dominant state, group, or individual.", "霸主；主導勢力"], "hegemonic": ["Relating to dominant leadership or control.", "霸權的；主導性的"], "hegemony": ["Domination over others.", "霸權；支配地位"], "heinous": ["Hatefully evil.", "十惡不赦的"], "heliocentric": ["Having the sun as the center, as in the modern model of the solar system.", "日心說的"], "heliotherapy": ["Treatment of disease by exposure to sunlight.", "日光療法"], "heliotropism": ["The tendency of plants to grow or turn toward sunlight.", "向日性；趨光性"], "helpless": ["Unable to defend oneself or act without help.", "無助的；無能為力的"], "henbane": ["A poisonous plant with a foul smell, historically used as a sedative.", "天仙子(毒草)"], "henchman": ["A loyal supporter, especially one who commits unethical acts for a leader.", "爪牙；心腹打手"], "herald": ["A messenger bringing important news; to announce the approach of.", "使者；預示"], "herbivorous": ["Feeding only on plants.", "草食性的"], "herculean": ["Requiring great strength or effort.", "極為艱鉅的；大力士般的"], "heresy": ["Unbelief, blasphemy, lack of faith.", "異端；邪說"], "heretical": ["Contrary to accepted religious or established beliefs.", "異端的；離經叛道的"], "hermaphrodite": ["An organism with both male and female reproductive organs.", "雌雄同體生物"], "hermaphroditic": ["Having both male and female reproductive organs.", "雌雄同體的"], "heterodox": ["Not conforming to accepted or orthodox beliefs.", "非正統的；異端的"], "heterodoxy": ["Beliefs that do not conform to accepted standards or doctrine.", "異端；非正統觀點"], "hiatus": ["A break or gap in duration or continuity.", "中斷；間隙"], "hibernal": ["Relating to or occurring in winter.", "冬季的"], "hibernate": ["To spend a long period of time in a dormant or inactive state, especially during the winter.", "冬眠"], "hibernation": ["A state of dormancy or deep sleep.", "冬眠(狀態)"], "hidalgo": ["A Spanish nobleman of lower rank.", "西班牙下層貴族"], "hidebound": ["Strongly-opinionated; narrow-mindedly stubborn.", "頑固守舊的"], "hiemal": ["Relating to winter.", "冬天的"], "hierarch": ["A leader within a religious or organizational hierarchy.", "教階領袖；上層權威"]});

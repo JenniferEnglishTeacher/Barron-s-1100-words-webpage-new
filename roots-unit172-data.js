@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "chaste",
     "pos": "adj.",
     "definition": "Abstaining from sexual activity; morally pure; simple in style.",
-    "chinese": "貞潔的;樸素的",
+    "chinese": "貞潔的；樸素的",
     "synonyms": "",
     "root": "castus (pure, from Latin)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Abstaining from sexual activity; morally pure; simple in style.",
-     "chinese": "貞潔的;樸素的"
+     "chinese": "貞潔的；樸素的"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "chatterbox",
     "pos": "n.",
     "definition": "A person who talks a great deal.",
-    "chinese": "話匣子;愛說話的人",
+    "chinese": "話匣子；愛說話的人",
     "synonyms": "",
     "root": "chatter + box",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who talks a great deal.",
-     "chinese": "話匣子;愛說話的人"
+     "chinese": "話匣子；愛說話的人"
     }
    },
    {
     "word": "chauffeur",
     "pos": "n./v.",
     "definition": "A person employed to drive a car for someone else; to drive someone.",
-    "chinese": "司機;開車接送",
+    "chinese": "司機；開車接送",
     "synonyms": "",
     "root": "chauffeur (stoker, from French)",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person employed to drive a car for someone else; to drive someone.",
-     "chinese": "司機;開車接送"
+     "chinese": "司機；開車接送"
     }
    },
    {
     "word": "chauvinism",
     "pos": "n.",
     "definition": "Excessive or biased loyalty to one's own group, especially nation or gender.",
-    "chinese": "沙文主義;偏執的優越感",
+    "chinese": "沙文主義；偏執的優越感",
     "synonyms": "",
     "root": "named after Nicolas Chauvin, a legendarily patriotic French soldier",
     "group": "",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive or biased loyalty to one's own group, especially nation or gender.",
-     "chinese": "沙文主義;偏執的優越感"
+     "chinese": "沙文主義；偏執的優越感"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "cheapskate",
     "pos": "n.",
     "definition": "A person who is reluctant to spend money.",
-    "chinese": "小氣鬼;吝嗇鬼",
+    "chinese": "小氣鬼；吝嗇鬼",
     "synonyms": "",
     "root": "cheap + skate (a worthless person, slang)",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who is reluctant to spend money.",
-     "chinese": "小氣鬼;吝嗇鬼"
+     "chinese": "小氣鬼；吝嗇鬼"
     }
    },
    {
     "word": "cheek",
     "pos": "n.",
     "definition": "Either side of the face below the eye; rude, disrespectful boldness.",
-    "chinese": "臉頰;無禮",
+    "chinese": "臉頰；無禮",
     "synonyms": "",
     "root": "ceace (jaw, cheek, from Old English)",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Either side of the face below the eye; rude, disrespectful boldness.",
-     "chinese": "臉頰;無禮"
+     "chinese": "臉頰；無禮"
     }
    },
    {
     "word": "cheeky",
     "pos": "adj.",
     "definition": "Impudent or irreverent in a light-hearted way.",
-    "chinese": "厚臉皮的;調皮無禮的",
+    "chinese": "厚臉皮的；調皮無禮的",
     "synonyms": "",
     "root": "cheek + -y",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impudent or irreverent in a light-hearted way.",
-     "chinese": "厚臉皮的;調皮無禮的"
+     "chinese": "厚臉皮的；調皮無禮的"
     }
    },
    {
     "word": "cheerful",
     "pos": "adj.",
     "definition": "Noticeably happy and optimistic.",
-    "chinese": "開朗的;愉快的",
+    "chinese": "開朗的；愉快的",
     "synonyms": "",
     "root": "cheer + -ful",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Noticeably happy and optimistic.",
-     "chinese": "開朗的;愉快的"
+     "chinese": "開朗的；愉快的"
     }
    },
    {
     "word": "cheerfulness",
     "pos": "n.",
     "definition": "The state of being happy and optimistic.",
-    "chinese": "開朗;愉快",
+    "chinese": "開朗；愉快",
     "synonyms": "",
     "root": "cheer + -ful + -ness",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being happy and optimistic.",
-     "chinese": "開朗;愉快"
+     "chinese": "開朗；愉快"
     }
    },
    {
     "word": "cheerless",
     "pos": "adj.",
     "definition": "Gloomy; lacking joy or warmth.",
-    "chinese": "陰鬱的;毫無生氣的",
+    "chinese": "陰鬱的；毫無生氣的",
     "synonyms": "",
     "root": "cheer + -less",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Gloomy; lacking joy or warmth.",
-     "chinese": "陰鬱的;毫無生氣的"
+     "chinese": "陰鬱的；毫無生氣的"
     }
    },
    {
     "word": "chef-d'oeuvre",
     "pos": "n.",
     "definition": "A masterpiece, especially in art or literature.",
-    "chinese": "傑作;代表作",
+    "chinese": "傑作；代表作",
     "synonyms": "",
     "root": "chef (chief) + d'oeuvre (of work), from French",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A masterpiece, especially in art or literature.",
-     "chinese": "傑作;代表作"
+     "chinese": "傑作；代表作"
     }
    },
    {
     "word": "chef-d'œuvre",
     "pos": "n.",
     "definition": "A masterpiece, especially in art or literature.",
-    "chinese": "傑作;代表作",
+    "chinese": "傑作；代表作",
     "synonyms": "",
     "root": "chef (chief) + d'œuvre (of work), from French",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A masterpiece, especially in art or literature.",
-     "chinese": "傑作;代表作"
+     "chinese": "傑作；代表作"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "chilean",
     "pos": "adj./n.",
     "definition": "Relating to Chile or its people; a person from Chile.",
-    "chinese": "智利的;智利人",
+    "chinese": "智利的；智利人",
     "synonyms": "",
     "root": "Chile (country name)",
     "group": "",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to Chile or its people; a person from Chile.",
-     "chinese": "智利的;智利人"
+     "chinese": "智利的；智利人"
     }
    },
    {
     "word": "chimera",
     "pos": "n.",
     "definition": "An unrealistic hope or fantastical creation; a mythical beast made of parts of different animals.",
-    "chinese": "幻想;喀邁拉(神話怪獸)",
+    "chinese": "幻想；喀邁拉(神話怪獸)",
     "synonyms": "",
     "root": "khimaira (she-goat, mythical monster, from Greek)",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unrealistic hope or fantastical creation; a mythical beast made of parts of different animals.",
-     "chinese": "幻想;喀邁拉(神話怪獸)"
+     "chinese": "幻想；喀邁拉(神話怪獸)"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "chink",
     "pos": "n.",
     "definition": "A narrow opening or crack; a weakness in an argument.",
-    "chinese": "裂縫;弱點",
+    "chinese": "裂縫；弱點",
     "synonyms": "",
     "root": "cine (crack, from Old English)",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A narrow opening or crack; a weakness in an argument.",
-     "chinese": "裂縫;弱點"
+     "chinese": "裂縫；弱點"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "chirography",
     "pos": "n.",
     "definition": "The art or study of handwriting; penmanship.",
-    "chinese": "書法藝術;書寫學",
+    "chinese": "書法藝術；書寫學",
     "synonyms": "",
     "root": "cheir (hand) + graphein (write), from Greek",
     "group": "",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The art or study of handwriting; penmanship.",
-     "chinese": "書法藝術;書寫學"
+     "chinese": "書法藝術；書寫學"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "chiropody",
     "pos": "n.",
     "definition": "The treatment of ailments of the feet; podiatry.",
-    "chinese": "足病治療;足科醫療",
+    "chinese": "足病治療；足科醫療",
     "synonyms": "",
     "root": "cheir (hand) + pous/podos (foot), from Greek",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The treatment of ailments of the feet; podiatry.",
-     "chinese": "足病治療;足科醫療"
+     "chinese": "足病治療；足科醫療"
     }
    },
    {
@@ -694,7 +694,7 @@ window.FLASHCARD_UNITS = {
     "word": "choke",
     "pos": "v.",
     "definition": "To have difficulty breathing due to a constricted throat; to block.",
-    "chinese": "使窒息;堵塞",
+    "chinese": "使窒息；堵塞",
     "synonyms": "",
     "root": "aceocian (to choke, from Old English)",
     "group": "",
@@ -706,14 +706,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To have difficulty breathing due to a constricted throat; to block.",
-     "chinese": "使窒息;堵塞"
+     "chinese": "使窒息；堵塞"
     }
    },
    {
     "word": "choler",
     "pos": "n.",
     "definition": "Anger or irritability, historically believed to result from an excess of bile.",
-    "chinese": "易怒;膽汁質(古醫學)",
+    "chinese": "易怒；膽汁質(古醫學)",
     "synonyms": "",
     "root": "khole (bile, from Greek)",
     "group": "",
@@ -725,14 +725,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Anger or irritability, historically believed to result from an excess of bile.",
-     "chinese": "易怒;膽汁質(古醫學)"
+     "chinese": "易怒；膽汁質(古醫學)"
     }
    },
    {
     "word": "choleric",
     "pos": "adj.",
     "definition": "Easily angered; bad-tempered.",
-    "chinese": "易怒的;暴躁的",
+    "chinese": "易怒的；暴躁的",
     "synonyms": "",
     "root": "khole (bile, from Greek)",
     "group": "",
@@ -744,7 +744,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily angered; bad-tempered.",
-     "chinese": "易怒的;暴躁的"
+     "chinese": "易怒的；暴躁的"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "chortle",
     "pos": "v./n.",
     "definition": "To laugh in a breathless, gleeful way; such a laugh.",
-    "chinese": "咯咯笑;得意地笑",
+    "chinese": "咯咯笑；得意地笑",
     "synonyms": "",
     "root": "chuckle + snort (coined by Lewis Carroll)",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To laugh in a breathless, gleeful way; such a laugh.",
-     "chinese": "咯咯笑;得意地笑"
+     "chinese": "咯咯笑；得意地笑"
     }
    },
    {
     "word": "chronic",
     "pos": "adj.",
     "definition": "Persisting for a long time or constantly recurring.",
-    "chinese": "慢性的;長期的",
+    "chinese": "慢性的；長期的",
     "synonyms": "",
     "root": "khronos (time, from Greek)",
     "group": "",
@@ -801,7 +801,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Persisting for a long time or constantly recurring.",
-     "chinese": "慢性的;長期的"
+     "chinese": "慢性的；長期的"
     }
    },
    {
@@ -827,7 +827,7 @@ window.FLASHCARD_UNITS = {
     "word": "chrysalis",
     "pos": "n.",
     "definition": "The protective casing of a butterfly pupa; a preparatory stage of development.",
-    "chinese": "蛹;蝶蛹",
+    "chinese": "蛹；蝶蛹",
     "synonyms": "",
     "root": "khrysos (gold, referring to golden pupal cases), from Greek",
     "group": "",
@@ -839,7 +839,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The protective casing of a butterfly pupa; a preparatory stage of development.",
-     "chinese": "蛹;蝶蛹"
+     "chinese": "蛹；蝶蛹"
     }
    },
    {
@@ -903,7 +903,7 @@ window.FLASHCARD_UNITS = {
     "word": "chuckle",
     "pos": "v./n.",
     "definition": "To laugh quietly; a quiet laugh.",
-    "chinese": "輕笑;咯咯笑",
+    "chinese": "輕笑；咯咯笑",
     "synonyms": "",
     "root": "chukken (to cluck, from Middle English)",
     "group": "",
@@ -915,14 +915,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To laugh quietly; a quiet laugh.",
-     "chinese": "輕笑;咯咯笑"
+     "chinese": "輕笑；咯咯笑"
     }
    },
    {
     "word": "churl",
     "pos": "n.",
     "definition": "A rude, ill-mannered person, especially one of low social status (archaic usage).",
-    "chinese": "粗魯的人;鄉巴佬",
+    "chinese": "粗魯的人；鄉巴佬",
     "synonyms": "",
     "root": "ceorl (peasant, from Old English)",
     "group": "",
@@ -934,14 +934,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rude, ill-mannered person, especially one of low social status (archaic usage).",
-     "chinese": "粗魯的人;鄉巴佬"
+     "chinese": "粗魯的人；鄉巴佬"
     }
    },
    {
     "word": "churlish",
     "pos": "adj.",
     "definition": "Rude in a mean-spirited way.",
-    "chinese": "粗魯無禮的;刻薄的",
+    "chinese": "粗魯無禮的；刻薄的",
     "synonyms": "",
     "root": "ceorl (peasant, from Old English)",
     "group": "",
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Rude in a mean-spirited way.",
-     "chinese": "粗魯無禮的;刻薄的"
+     "chinese": "粗魯無禮的；刻薄的"
     }
    }
   ],
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chary": ["Cautious; wary.", "謹慎的"], "chaste": ["Abstaining from sexual activity; morally pure; simple in style.", "貞潔的;樸素的"], "chastise": ["To punish or scold harshly.", "責罰"], "chatoyant": ["Having a changeable, shimmering luster, like a cat's eye in the dark.", "貓眼般閃光的"], "chatterbox": ["A person who talks a great deal.", "話匣子;愛說話的人"], "chauffeur": ["A person employed to drive a car for someone else; to drive someone.", "司機;開車接送"], "chauvinism": ["Excessive or biased loyalty to one's own group, especially nation or gender.", "沙文主義;偏執的優越感"], "chauvinist": ["A person with a prejudiced belief in his own superiority.", "沙文主義者"], "cheapskate": ["A person who is reluctant to spend money.", "小氣鬼;吝嗇鬼"], "cheek": ["Either side of the face below the eye; rude, disrespectful boldness.", "臉頰;無禮"], "cheeky": ["Impudent or irreverent in a light-hearted way.", "厚臉皮的;調皮無禮的"], "cheerful": ["Noticeably happy and optimistic.", "開朗的;愉快的"], "cheerfulness": ["The state of being happy and optimistic.", "開朗;愉快"], "cheerless": ["Gloomy; lacking joy or warmth.", "陰鬱的;毫無生氣的"], "chef-d'oeuvre": ["A masterpiece, especially in art or literature.", "傑作;代表作"], "chef-d'œuvre": ["A masterpiece, especially in art or literature.", "傑作;代表作"], "cherish": ["To feel or show affection toward something.", "珍惜；珍愛"], "chiaroscuro": ["The use of strong contrasts between light and dark, especially in painting.", "明暗對照法(繪畫技法)"], "chicanery": ["Trickery, underhandedness.", "詭計；欺騙"], "chide": ["To voice disapproval.", "斥責；責備"], "childish": ["Immature or silly, in a negative sense.", "幼稚的"], "childlike": ["Having the innocent or endearing qualities of a child, in a positive sense.", "天真爛漫的"], "chile": ["A hot pepper used to add spice to food.", "辣椒"], "chilean": ["Relating to Chile or its people; a person from Chile.", "智利的;智利人"], "chimera": ["An unrealistic hope or fantastical creation; a mythical beast made of parts of different animals.", "幻想;喀邁拉(神話怪獸)"], "chimerical": ["Visionary, imaginary, fantastic.", "荒唐的；空想的"], "chink": ["A narrow opening or crack; a weakness in an argument.", "裂縫;弱點"], "chirognomy": ["The study of the shape and lines of the hand to determine character.", "手相性格學"], "chirography": ["The art or study of handwriting; penmanship.", "書法藝術;書寫學"], "chiromancy": ["Palm reading; fortune-telling by examining the hand.", "手相占卜術"], "chiropodist": ["A specialist in care for the feet.", "足科醫師"], "chiropody": ["The treatment of ailments of the feet; podiatry.", "足病治療;足科醫療"], "chiropractic": ["A method of treatment that manipulates body structures to relieve pain.", "整脊療法"], "chiropractor": ["A therapist who manipulates the body to ease pain.", "整脊師"], "chivalrous": ["Attentive and honorable like an ideal knight.", "騎士風度的；俠義的"], "chivalry": ["The medieval principles governing knightly conduct.", "騎士精神"], "choke": ["To have difficulty breathing due to a constricted throat; to block.", "使窒息;堵塞"], "choler": ["Anger or irritability, historically believed to result from an excess of bile.", "易怒;膽汁質(古醫學)"], "choleric": ["Easily angered; bad-tempered.", "易怒的;暴躁的"], "choreography": ["The arrangement of dances.", "編舞"], "chortle": ["To laugh in a breathless, gleeful way; such a laugh.", "咯咯笑;得意地笑"], "chronic": ["Persisting for a long time or constantly recurring.", "慢性的;長期的"], "chronophobia": ["An abnormal fear of the passage of time.", "時間恐懼症"], "chrysalis": ["The protective casing of a butterfly pupa; a preparatory stage of development.", "蛹;蝶蛹"], "chrysanthemum": ["A flowering plant with brightly colored, layered petals.", "菊花"], "chryselephantine": ["Made of or overlaid with gold and ivory, especially of ancient statues.", "金象牙製的(古代雕像)"], "chrysocracy": ["Government or rule by the wealthy.", "富豪統治"], "chuckle": ["To laugh quietly; a quiet laugh.", "輕笑;咯咯笑"], "churl": ["A rude, ill-mannered person, especially one of low social status (archaic usage).", "粗魯的人;鄉巴佬"], "churlish": ["Rude in a mean-spirited way.", "粗魯無禮的;刻薄的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chary": ["Cautious; wary.", "謹慎的"], "chaste": ["Abstaining from sexual activity; morally pure; simple in style.", "貞潔的；樸素的"], "chastise": ["To punish or scold harshly.", "責罰"], "chatoyant": ["Having a changeable, shimmering luster, like a cat's eye in the dark.", "貓眼般閃光的"], "chatterbox": ["A person who talks a great deal.", "話匣子；愛說話的人"], "chauffeur": ["A person employed to drive a car for someone else; to drive someone.", "司機；開車接送"], "chauvinism": ["Excessive or biased loyalty to one's own group, especially nation or gender.", "沙文主義；偏執的優越感"], "chauvinist": ["A person with a prejudiced belief in his own superiority.", "沙文主義者"], "cheapskate": ["A person who is reluctant to spend money.", "小氣鬼；吝嗇鬼"], "cheek": ["Either side of the face below the eye; rude, disrespectful boldness.", "臉頰；無禮"], "cheeky": ["Impudent or irreverent in a light-hearted way.", "厚臉皮的；調皮無禮的"], "cheerful": ["Noticeably happy and optimistic.", "開朗的；愉快的"], "cheerfulness": ["The state of being happy and optimistic.", "開朗；愉快"], "cheerless": ["Gloomy; lacking joy or warmth.", "陰鬱的；毫無生氣的"], "chef-d'oeuvre": ["A masterpiece, especially in art or literature.", "傑作；代表作"], "chef-d'œuvre": ["A masterpiece, especially in art or literature.", "傑作；代表作"], "cherish": ["To feel or show affection toward something.", "珍惜；珍愛"], "chiaroscuro": ["The use of strong contrasts between light and dark, especially in painting.", "明暗對照法(繪畫技法)"], "chicanery": ["Trickery, underhandedness.", "詭計；欺騙"], "chide": ["To voice disapproval.", "斥責；責備"], "childish": ["Immature or silly, in a negative sense.", "幼稚的"], "childlike": ["Having the innocent or endearing qualities of a child, in a positive sense.", "天真爛漫的"], "chile": ["A hot pepper used to add spice to food.", "辣椒"], "chilean": ["Relating to Chile or its people; a person from Chile.", "智利的；智利人"], "chimera": ["An unrealistic hope or fantastical creation; a mythical beast made of parts of different animals.", "幻想；喀邁拉(神話怪獸)"], "chimerical": ["Visionary, imaginary, fantastic.", "荒唐的；空想的"], "chink": ["A narrow opening or crack; a weakness in an argument.", "裂縫；弱點"], "chirognomy": ["The study of the shape and lines of the hand to determine character.", "手相性格學"], "chirography": ["The art or study of handwriting; penmanship.", "書法藝術；書寫學"], "chiromancy": ["Palm reading; fortune-telling by examining the hand.", "手相占卜術"], "chiropodist": ["A specialist in care for the feet.", "足科醫師"], "chiropody": ["The treatment of ailments of the feet; podiatry.", "足病治療；足科醫療"], "chiropractic": ["A method of treatment that manipulates body structures to relieve pain.", "整脊療法"], "chiropractor": ["A therapist who manipulates the body to ease pain.", "整脊師"], "chivalrous": ["Attentive and honorable like an ideal knight.", "騎士風度的；俠義的"], "chivalry": ["The medieval principles governing knightly conduct.", "騎士精神"], "choke": ["To have difficulty breathing due to a constricted throat; to block.", "使窒息；堵塞"], "choler": ["Anger or irritability, historically believed to result from an excess of bile.", "易怒；膽汁質(古醫學)"], "choleric": ["Easily angered; bad-tempered.", "易怒的；暴躁的"], "choreography": ["The arrangement of dances.", "編舞"], "chortle": ["To laugh in a breathless, gleeful way; such a laugh.", "咯咯笑；得意地笑"], "chronic": ["Persisting for a long time or constantly recurring.", "慢性的；長期的"], "chronophobia": ["An abnormal fear of the passage of time.", "時間恐懼症"], "chrysalis": ["The protective casing of a butterfly pupa; a preparatory stage of development.", "蛹；蝶蛹"], "chrysanthemum": ["A flowering plant with brightly colored, layered petals.", "菊花"], "chryselephantine": ["Made of or overlaid with gold and ivory, especially of ancient statues.", "金象牙製的(古代雕像)"], "chrysocracy": ["Government or rule by the wealthy.", "富豪統治"], "chuckle": ["To laugh quietly; a quiet laugh.", "輕笑；咯咯笑"], "churl": ["A rude, ill-mannered person, especially one of low social status (archaic usage).", "粗魯的人；鄉巴佬"], "churlish": ["Rude in a mean-spirited way.", "粗魯無禮的；刻薄的"]});

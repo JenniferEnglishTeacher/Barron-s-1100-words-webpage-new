@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "impel",
     "pos": "v.",
     "definition": "To drive or force someone to do something.",
-    "chinese": "驅使;迫使",
+    "chinese": "驅使；迫使",
     "synonyms": "",
     "root": "in- (into) + pellere (to drive), from Latin",
     "group": "pel；puls = 推；驅使",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To drive or force someone to do something.",
-     "chinese": "驅使;迫使"
+     "chinese": "驅使；迫使"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "pilfer",
     "pos": "v.",
     "definition": "To steal, especially in small amounts.",
-    "chinese": "偷竊;小偷小摸",
+    "chinese": "偷竊；小偷小摸",
     "synonyms": "",
     "root": "pelfrer (to pillage), from Old French pelfre (booty)",
     "group": "pel；puls = 推；驅使",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To steal, especially in small amounts.",
-     "chinese": "偷竊;小偷小摸"
+     "chinese": "偷竊；小偷小摸"
     }
    },
    {
     "word": "repellent",
     "pos": "adj./n.",
     "definition": "Causing distaste or aversion; a substance that repels.",
-    "chinese": "令人厭惡的;驅蟲劑",
+    "chinese": "令人厭惡的；驅蟲劑",
     "synonyms": "",
     "root": "repellere (to drive back), from Latin re- (back) + pellere (to drive)",
     "group": "pel；puls = 推；驅使",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing distaste or aversion; a substance that repels.",
-     "chinese": "令人厭惡的;驅蟲劑"
+     "chinese": "令人厭惡的；驅蟲劑"
     }
    },
    {
     "word": "repulsive",
     "pos": "adj.",
     "definition": "Arousing intense disgust.",
-    "chinese": "令人厭惡的;排斥的",
+    "chinese": "令人厭惡的；排斥的",
     "synonyms": "",
     "root": "repellere (to drive back), from Latin re- (back) + pellere (to drive)",
     "group": "pel；puls = 推；驅使",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arousing intense disgust.",
-     "chinese": "令人厭惡的;排斥的"
+     "chinese": "令人厭惡的；排斥的"
     }
    }
   ],
@@ -440,4 +440,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"repulse": ["To drive back, repel.", "擊退；拒絕"], "appellation": ["A name.", "名稱；稱呼"], "archipelago": ["A group of many islands in a sea or lake.", "群島"], "compelling": ["Captivating or persuasive.", "引人入勝的；有說服力的"], "dispel": ["To drive away, scatter.", "驅散；消除"], "impel": ["To drive or force someone to do something.", "驅使;迫使"], "impulsive": ["Acting without careful thought.", "衝動的"], "pilfer": ["To steal, especially in small amounts.", "偷竊;小偷小摸"], "repellent": ["Causing distaste or aversion; a substance that repels.", "令人厭惡的;驅蟲劑"], "repulsive": ["Arousing intense disgust.", "令人厭惡的;排斥的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"repulse": ["To drive back, repel.", "擊退；拒絕"], "appellation": ["A name.", "名稱；稱呼"], "archipelago": ["A group of many islands in a sea or lake.", "群島"], "compelling": ["Captivating or persuasive.", "引人入勝的；有說服力的"], "dispel": ["To drive away, scatter.", "驅散；消除"], "impel": ["To drive or force someone to do something.", "驅使；迫使"], "impulsive": ["Acting without careful thought.", "衝動的"], "pilfer": ["To steal, especially in small amounts.", "偷竊；小偷小摸"], "repellent": ["Causing distaste or aversion; a substance that repels.", "令人厭惡的；驅蟲劑"], "repulsive": ["Arousing intense disgust.", "令人厭惡的；排斥的"]});

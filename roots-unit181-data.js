@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "egg on",
     "pos": "phrasal v.",
     "definition": "To encourage someone to do something, often risky.",
-    "chinese": "慫恿;鼓動",
+    "chinese": "慫恿；鼓動",
     "synonyms": "",
     "root": "eggja (to incite), from Old Norse",
     "group": "",
@@ -20,7 +20,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To encourage someone to do something, often risky.",
-     "chinese": "慫恿;鼓動"
+     "chinese": "慫恿；鼓動"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "egomaniacal",
     "pos": "adj.",
     "definition": "Morbidly obsessed with oneself and one's own importance.",
-    "chinese": "極度自負的;自我狂的",
+    "chinese": "極度自負的；自我狂的",
     "synonyms": "",
     "root": "ego (I, self) + mania (madness), from Latin and Greek",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Morbidly obsessed with oneself and one's own importance.",
-     "chinese": "極度自負的;自我狂的"
+     "chinese": "極度自負的；自我狂的"
     }
    },
    {
     "word": "egotism",
     "pos": "n.",
     "definition": "Excessive conceit or self-absorption.",
-    "chinese": "自我中心;自負",
+    "chinese": "自我中心；自負",
     "synonyms": "",
     "root": "ego (I), from Latin",
     "group": "",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive conceit or self-absorption.",
-     "chinese": "自我中心;自負"
+     "chinese": "自我中心；自負"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "elan",
     "pos": "n.",
     "definition": "Energy, style, and enthusiasm.",
-    "chinese": "熱情;活力",
+    "chinese": "熱情；活力",
     "synonyms": "",
     "root": "élancer (to dart, launch), from French",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Energy, style, and enthusiasm.",
-     "chinese": "熱情;活力"
+     "chinese": "熱情；活力"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "eleemosynary",
     "pos": "adj.",
     "definition": "Relating to charity or almsgiving.",
-    "chinese": "慈善的;施捨的",
+    "chinese": "慈善的；施捨的",
     "synonyms": "",
     "root": "eleemosyne (alms), from Greek",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to charity or almsgiving.",
-     "chinese": "慈善的;施捨的"
+     "chinese": "慈善的；施捨的"
     }
    },
    {
     "word": "elegance",
     "pos": "n.",
     "definition": "The quality of being graceful and stylish.",
-    "chinese": "優雅;高雅",
+    "chinese": "優雅；高雅",
     "synonyms": "",
     "root": "eligere (to choose), from Latin",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being graceful and stylish.",
-     "chinese": "優雅;高雅"
+     "chinese": "優雅；高雅"
     }
    },
    {
     "word": "elegant",
     "pos": "adj.",
     "definition": "Graceful and stylish in appearance or manner.",
-    "chinese": "優雅的;精緻的",
+    "chinese": "優雅的；精緻的",
     "synonyms": "",
     "root": "eligere (to choose), from Latin",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Graceful and stylish in appearance or manner.",
-     "chinese": "優雅的;精緻的"
+     "chinese": "優雅的；精緻的"
     }
    },
    {
     "word": "elegiac",
     "pos": "adj.",
     "definition": "Mournful; expressing sorrow, especially for the dead.",
-    "chinese": "哀歌的;悲悼的",
+    "chinese": "哀歌的；悲悼的",
     "synonyms": "",
     "root": "elegos (song of mourning), from Greek",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mournful; expressing sorrow, especially for the dead.",
-     "chinese": "哀歌的;悲悼的"
+     "chinese": "哀歌的；悲悼的"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "elementary",
     "pos": "adj.",
     "definition": "Relating to the basic or first principles of a subject.",
-    "chinese": "基礎的;初等的",
+    "chinese": "基礎的；初等的",
     "synonyms": "",
     "root": "elementum (first principle), from Latin",
     "group": "",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the basic or first principles of a subject.",
-     "chinese": "基礎的;初等的"
+     "chinese": "基礎的；初等的"
     }
    },
    {
     "word": "elephantine",
     "pos": "adj.",
     "definition": "Resembling an elephant in size or clumsiness; huge.",
-    "chinese": "龐大的;笨重的",
+    "chinese": "龐大的；笨重的",
     "synonyms": "",
     "root": "elephas (elephant), from Greek",
     "group": "",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling an elephant in size or clumsiness; huge.",
-     "chinese": "龐大的;笨重的"
+     "chinese": "龐大的；笨重的"
     }
    },
    {
     "word": "elite",
     "pos": "n./adj.",
     "definition": "A select group considered the best or most powerful.",
-    "chinese": "菁英;上層階級",
+    "chinese": "菁英；上層階級",
     "synonyms": "",
     "root": "eligere (to choose), from Latin",
     "group": "",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A select group considered the best or most powerful.",
-     "chinese": "菁英;上層階級"
+     "chinese": "菁英；上層階級"
     }
    },
    {
     "word": "elitist",
     "pos": "adj./n.",
     "definition": "Believing in rule by a select superior group; a person holding such views.",
-    "chinese": "精英主義的;精英主義者",
+    "chinese": "精英主義的；精英主義者",
     "synonyms": "",
     "root": "eligere (to choose), from Latin",
     "group": "",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Believing in rule by a select superior group; a person holding such views.",
-     "chinese": "精英主義的;精英主義者"
+     "chinese": "精英主義的；精英主義者"
     }
    },
    {
     "word": "elixir",
     "pos": "n.",
     "definition": "A magical or medicinal potion; a solution to all problems.",
-    "chinese": "萬靈丹;靈丹妙藥",
+    "chinese": "萬靈丹；靈丹妙藥",
     "synonyms": "",
     "root": "al-iksir, from Arabic",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A magical or medicinal potion; a solution to all problems.",
-     "chinese": "萬靈丹;靈丹妙藥"
+     "chinese": "萬靈丹；靈丹妙藥"
     }
    },
    {
     "word": "ellipsis",
     "pos": "n.",
     "definition": "The omission of words from a sentence, marked by dots; the mark itself.",
-    "chinese": "省略號;省略",
+    "chinese": "省略號；省略",
     "synonyms": "",
     "root": "elleipein (to leave out), from Greek",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The omission of words from a sentence, marked by dots; the mark itself.",
-     "chinese": "省略號;省略"
+     "chinese": "省略號；省略"
     }
    },
    {
     "word": "elliptical",
     "pos": "adj.",
     "definition": "Having the shape of an ellipse; using deliberately brief or indirect expression.",
-    "chinese": "橢圓形的;省略的",
+    "chinese": "橢圓形的；省略的",
     "synonyms": "",
     "root": "elleipein (to leave out), from Greek",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the shape of an ellipse; using deliberately brief or indirect expression.",
-     "chinese": "橢圓形的;省略的"
+     "chinese": "橢圓形的；省略的"
     }
    },
    {
     "word": "embargo",
     "pos": "n./v.",
     "definition": "An official ban on trade with a particular country.",
-    "chinese": "禁運;禁令",
+    "chinese": "禁運；禁令",
     "synonyms": "",
     "root": "embargar (to bar), from Spanish",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official ban on trade with a particular country.",
-     "chinese": "禁運;禁令"
+     "chinese": "禁運；禁令"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "emblem",
     "pos": "n.",
     "definition": "A symbol that represents a quality or idea.",
-    "chinese": "象徵;徽章",
+    "chinese": "象徵；徽章",
     "synonyms": "",
     "root": "emballein (to insert), from Greek",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A symbol that represents a quality or idea.",
-     "chinese": "象徵;徽章"
+     "chinese": "象徵；徽章"
     }
    },
    {
     "word": "emblematic",
     "pos": "adj.",
     "definition": "Serving as a symbol of a particular quality or idea.",
-    "chinese": "象徵性的;典型的",
+    "chinese": "象徵性的；典型的",
     "synonyms": "",
     "root": "emballein (to insert), from Greek",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving as a symbol of a particular quality or idea.",
-     "chinese": "象徵性的;典型的"
+     "chinese": "象徵性的；典型的"
     }
    },
    {
     "word": "emolument",
     "pos": "n.",
     "definition": "A salary, fee, or other financial benefit from employment.",
-    "chinese": "報酬;薪俸",
+    "chinese": "報酬；薪俸",
     "synonyms": "",
     "root": "emolumentum (profit), from Latin",
     "group": "",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A salary, fee, or other financial benefit from employment.",
-     "chinese": "報酬;薪俸"
+     "chinese": "報酬；薪俸"
     }
    },
    {
     "word": "emphatic",
     "pos": "adj.",
     "definition": "Expressing something forcibly and clearly.",
-    "chinese": "強調的;斷然的",
+    "chinese": "強調的；斷然的",
     "synonyms": "",
     "root": "emphainein (to exhibit), from Greek",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing something forcibly and clearly.",
-     "chinese": "強調的;斷然的"
+     "chinese": "強調的；斷然的"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "en masse",
     "pos": "adv.",
     "definition": "All together, as a group.",
-    "chinese": "全體地;集體地",
+    "chinese": "全體地；集體地",
     "synonyms": "",
     "root": "French en (in) + masse (mass)",
     "group": "",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "All together, as a group.",
-     "chinese": "全體地;集體地"
+     "chinese": "全體地；集體地"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "encomiast",
     "pos": "n.",
     "definition": "A person who praises someone or something highly.",
-    "chinese": "頌揚者;讚美者",
+    "chinese": "頌揚者；讚美者",
     "synonyms": "",
     "root": "enkomion (praise), from Greek",
     "group": "",
@@ -613,7 +613,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who praises someone or something highly.",
-     "chinese": "頌揚者;讚美者"
+     "chinese": "頌揚者；讚美者"
     }
    },
    {
@@ -871,7 +871,7 @@ window.FLASHCARD_UNITS = {
     "word": "entrepreneur",
     "pos": "n.",
     "definition": "A person who organizes and operates a business, taking on financial risk.",
-    "chinese": "企業家;創業者",
+    "chinese": "企業家；創業者",
     "synonyms": "",
     "root": "entre- (between) + prendre (to take), from French",
     "group": "",
@@ -885,14 +885,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who organizes and operates a business, taking on financial risk.",
-     "chinese": "企業家;創業者"
+     "chinese": "企業家；創業者"
     }
    },
    {
     "word": "envoy",
     "pos": "n.",
     "definition": "A diplomatic representative sent on a special mission.",
-    "chinese": "使節;特使",
+    "chinese": "使節；特使",
     "synonyms": "",
     "root": "envoyer (to send), from Old French",
     "group": "",
@@ -904,7 +904,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A diplomatic representative sent on a special mission.",
-     "chinese": "使節;特使"
+     "chinese": "使節；特使"
     }
    },
    {
@@ -951,7 +951,7 @@ window.FLASHCARD_UNITS = {
     "word": "epicureanism",
     "pos": "n.",
     "definition": "The pursuit of pleasure, especially sensory or culinary, as a way of life.",
-    "chinese": "享樂主義;伊比鳩魯主義",
+    "chinese": "享樂主義；伊比鳩魯主義",
     "synonyms": "",
     "root": "Epicurus, Greek philosopher",
     "group": "",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The pursuit of pleasure, especially sensory or culinary, as a way of life.",
-     "chinese": "享樂主義;伊比鳩魯主義"
+     "chinese": "享樂主義；伊比鳩魯主義"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"egg on": ["To encourage someone to do something, often risky.", "慫恿;鼓動"], "egoism": ["A philosophical theory holding self-interest as the foundation of morality.", "利己主義"], "egoist": ["A conceited and self-centered person.", "利己主義者；自我中心的人"], "egomaniacal": ["Morbidly obsessed with oneself and one's own importance.", "極度自負的;自我狂的"], "egotism": ["Excessive conceit or self-absorption.", "自我中心;自負"], "egotist": ["Vain, conceited person.", "利己主義者；自大狂"], "egotistical": ["Excessively self-absorbed; very conceited.", "自我中心的"], "elan": ["Energy, style, and enthusiasm.", "熱情;活力"], "electrocardiograph": ["An instrument that records the electrical activity of the heart.", "心電圖機"], "eleemosynary": ["Relating to charity or almsgiving.", "慈善的;施捨的"], "elegance": ["The quality of being graceful and stylish.", "優雅;高雅"], "elegant": ["Graceful and stylish in appearance or manner.", "優雅的;精緻的"], "elegiac": ["Mournful; expressing sorrow, especially for the dead.", "哀歌的;悲悼的"], "elegy": ["A speech given in honor of a dead person.", "輓詩；悼詞"], "elementary": ["Relating to the basic or first principles of a subject.", "基礎的;初等的"], "elephantine": ["Resembling an elephant in size or clumsiness; huge.", "龐大的;笨重的"], "elite": ["A select group considered the best or most powerful.", "菁英;上層階級"], "elitist": ["Believing in rule by a select superior group; a person holding such views.", "精英主義的;精英主義者"], "elixir": ["A magical or medicinal potion; a solution to all problems.", "萬靈丹;靈丹妙藥"], "ellipsis": ["The omission of words from a sentence, marked by dots; the mark itself.", "省略號;省略"], "elliptical": ["Having the shape of an ellipse; using deliberately brief or indirect expression.", "橢圓形的;省略的"], "embargo": ["An official ban on trade with a particular country.", "禁運;禁令"], "embezzle": ["To steal money by falsifying records.", "侵吞公款；挪用"], "emblem": ["A symbol that represents a quality or idea.", "象徵;徽章"], "emblematic": ["Serving as a symbol of a particular quality or idea.", "象徵性的;典型的"], "emolument": ["A salary, fee, or other financial benefit from employment.", "報酬;薪俸"], "emphatic": ["Expressing something forcibly and clearly.", "強調的;斷然的"], "empire": ["An extensive group of states or countries ruled by a single authority.", "帝國"], "emulate": ["Strive to equal, surpass.", "效仿；模仿"], "en masse": ["All together, as a group.", "全體地;集體地"], "enchilada": ["A Mexican dish of a tortilla rolled around a filling and covered with chili sauce.", "墨西哥捲餅(安吉拉達)"], "encomiast": ["A person who praises someone or something highly.", "頌揚者;讚美者"], "encompass": ["To include or surround.", "包含；涵蓋"], "encore": ["The audience's demand for a repeat performance.", "安可；再度演出"], "endocardial": ["Relating to the inner lining of the heart's chambers.", "心內膜的"], "endodontics": ["The branch of dentistry dealing with diseases of the dental pulp.", "牙髓病學(根管治療)"], "endodontist": ["A dentist who specializes in root canal treatment.", "牙髓病醫師"], "endogamy": ["The custom of marrying only within one's social group, class, or tribe.", "族內婚制"], "engaging": ["Attractive or charming; capable of holding one's attention.", "引人入勝的；有魅力的"], "enigma": ["Riddle.", "謎；難以理解的事物"], "enigmatic": ["Mystifying, cryptic.", "神秘難解的"], "ennui": ["Boredom.", "倦怠；無聊"], "enthrall": ["To charm, hold spellbound.", "使著迷；使入迷"], "entourage": ["Group of attendants, followers.", "隨從"], "entrails": ["The internal organs of a person or animal, especially the intestines.", "內臟"], "entrepreneur": ["A person who organizes and operates a business, taking on financial risk.", "企業家;創業者"], "envoy": ["A diplomatic representative sent on a special mission.", "使節;特使"], "epicure": ["A person who takes particular pleasure in fine food and drink.", "美食家"], "epicurean": ["To do with the pleasure of eating and drinking (n. epicure).", "享樂主義的"], "epicureanism": ["The pursuit of pleasure, especially sensory or culinary, as a way of life.", "享樂主義;伊比鳩魯主義"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"egg on": ["To encourage someone to do something, often risky.", "慫恿；鼓動"], "egoism": ["A philosophical theory holding self-interest as the foundation of morality.", "利己主義"], "egoist": ["A conceited and self-centered person.", "利己主義者；自我中心的人"], "egomaniacal": ["Morbidly obsessed with oneself and one's own importance.", "極度自負的；自我狂的"], "egotism": ["Excessive conceit or self-absorption.", "自我中心；自負"], "egotist": ["Vain, conceited person.", "利己主義者；自大狂"], "egotistical": ["Excessively self-absorbed; very conceited.", "自我中心的"], "elan": ["Energy, style, and enthusiasm.", "熱情；活力"], "electrocardiograph": ["An instrument that records the electrical activity of the heart.", "心電圖機"], "eleemosynary": ["Relating to charity or almsgiving.", "慈善的；施捨的"], "elegance": ["The quality of being graceful and stylish.", "優雅；高雅"], "elegant": ["Graceful and stylish in appearance or manner.", "優雅的；精緻的"], "elegiac": ["Mournful; expressing sorrow, especially for the dead.", "哀歌的；悲悼的"], "elegy": ["A speech given in honor of a dead person.", "輓詩；悼詞"], "elementary": ["Relating to the basic or first principles of a subject.", "基礎的；初等的"], "elephantine": ["Resembling an elephant in size or clumsiness; huge.", "龐大的；笨重的"], "elite": ["A select group considered the best or most powerful.", "菁英；上層階級"], "elitist": ["Believing in rule by a select superior group; a person holding such views.", "精英主義的；精英主義者"], "elixir": ["A magical or medicinal potion; a solution to all problems.", "萬靈丹；靈丹妙藥"], "ellipsis": ["The omission of words from a sentence, marked by dots; the mark itself.", "省略號；省略"], "elliptical": ["Having the shape of an ellipse; using deliberately brief or indirect expression.", "橢圓形的；省略的"], "embargo": ["An official ban on trade with a particular country.", "禁運；禁令"], "embezzle": ["To steal money by falsifying records.", "侵吞公款；挪用"], "emblem": ["A symbol that represents a quality or idea.", "象徵；徽章"], "emblematic": ["Serving as a symbol of a particular quality or idea.", "象徵性的；典型的"], "emolument": ["A salary, fee, or other financial benefit from employment.", "報酬；薪俸"], "emphatic": ["Expressing something forcibly and clearly.", "強調的；斷然的"], "empire": ["An extensive group of states or countries ruled by a single authority.", "帝國"], "emulate": ["Strive to equal, surpass.", "效仿；模仿"], "en masse": ["All together, as a group.", "全體地；集體地"], "enchilada": ["A Mexican dish of a tortilla rolled around a filling and covered with chili sauce.", "墨西哥捲餅(安吉拉達)"], "encomiast": ["A person who praises someone or something highly.", "頌揚者；讚美者"], "encompass": ["To include or surround.", "包含；涵蓋"], "encore": ["The audience's demand for a repeat performance.", "安可；再度演出"], "endocardial": ["Relating to the inner lining of the heart's chambers.", "心內膜的"], "endodontics": ["The branch of dentistry dealing with diseases of the dental pulp.", "牙髓病學(根管治療)"], "endodontist": ["A dentist who specializes in root canal treatment.", "牙髓病醫師"], "endogamy": ["The custom of marrying only within one's social group, class, or tribe.", "族內婚制"], "engaging": ["Attractive or charming; capable of holding one's attention.", "引人入勝的；有魅力的"], "enigma": ["Riddle.", "謎；難以理解的事物"], "enigmatic": ["Mystifying, cryptic.", "神秘難解的"], "ennui": ["Boredom.", "倦怠；無聊"], "enthrall": ["To charm, hold spellbound.", "使著迷；使入迷"], "entourage": ["Group of attendants, followers.", "隨從"], "entrails": ["The internal organs of a person or animal, especially the intestines.", "內臟"], "entrepreneur": ["A person who organizes and operates a business, taking on financial risk.", "企業家；創業者"], "envoy": ["A diplomatic representative sent on a special mission.", "使節；特使"], "epicure": ["A person who takes particular pleasure in fine food and drink.", "美食家"], "epicurean": ["To do with the pleasure of eating and drinking (n. epicure).", "享樂主義的"], "epicureanism": ["The pursuit of pleasure, especially sensory or culinary, as a way of life.", "享樂主義；伊比鳩魯主義"]});

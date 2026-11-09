@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "consequently",
     "pos": "adv.",
     "definition": "As a result; therefore.",
-    "chinese": "因此;結果",
+    "chinese": "因此；結果",
     "synonyms": "",
     "root": "con- (together) + sequi (to follow), from Latin",
     "group": "secu；sequ；sue = 追隨",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "As a result; therefore.",
-     "chinese": "因此;結果"
+     "chinese": "因此；結果"
     }
    },
    {
     "word": "desuetude",
     "pos": "n.",
     "definition": "A state of disuse.",
-    "chinese": "廢棄;不再使用",
+    "chinese": "廢棄；不再使用",
     "synonyms": "",
     "root": "de- (away) + suescere (to become accustomed), from Latin",
     "group": "secu；sequ；sue = 追隨",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of disuse.",
-     "chinese": "廢棄;不再使用"
+     "chinese": "廢棄；不再使用"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "obsequiousness",
     "pos": "n.",
     "definition": "Excessive eagerness to please or obey.",
-    "chinese": "阿諛奉承;過度順從",
+    "chinese": "阿諛奉承；過度順從",
     "synonyms": "",
     "root": "obsequi (to comply), from Latin ob- + sequi (to follow)",
     "group": "secu；sequ；sue = 追隨",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive eagerness to please or obey.",
-     "chinese": "阿諛奉承;過度順從"
+     "chinese": "阿諛奉承；過度順從"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "sequel",
     "pos": "n.",
     "definition": "A work that continues the story of an earlier one; a consequence.",
-    "chinese": "續集;後續",
+    "chinese": "續集；後續",
     "synonyms": "",
     "root": "sequi (follow), from Latin",
     "group": "secu；sequ；sue = 追隨",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A work that continues the story of an earlier one; a consequence.",
-     "chinese": "續集;後續"
+     "chinese": "續集；後續"
     }
    },
    {
     "word": "sequence",
     "pos": "n.",
     "definition": "A particular order in which related events or things follow each other.",
-    "chinese": "順序;序列",
+    "chinese": "順序；序列",
     "synonyms": "",
     "root": "sequi (follow), from Latin",
     "group": "secu；sequ；sue = 追隨",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A particular order in which related events or things follow each other.",
-     "chinese": "順序;序列"
+     "chinese": "順序；序列"
     }
    },
    {
@@ -297,7 +297,7 @@ window.FLASHCARD_UNITS = {
     "word": "subsequent",
     "pos": "adj.",
     "definition": "Coming after something in time; following.",
-    "chinese": "隨後的;接著的",
+    "chinese": "隨後的；接著的",
     "synonyms": "",
     "root": "sub- (under, after) + sequi (follow), from Latin",
     "group": "secu；sequ；sue = 追隨",
@@ -309,14 +309,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Coming after something in time; following.",
-     "chinese": "隨後的;接著的"
+     "chinese": "隨後的；接著的"
     }
    },
    {
     "word": "subsequently",
     "pos": "adv.",
     "definition": "Afterward; following in time or order.",
-    "chinese": "隨後;其後",
+    "chinese": "隨後；其後",
     "synonyms": "",
     "root": "subsequi (to follow after), from Latin sub- (after) + sequi (to follow)",
     "group": "secu；sequ；sue = 追隨",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Afterward; following in time or order.",
-     "chinese": "隨後;其後"
+     "chinese": "隨後；其後"
     }
    }
   ],
@@ -745,4 +745,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extrinsic": ["Foreign, coming from outside.", "外在的；非固有的"], "obsequious": ["Seeking favor, fawning.", "諂媚的；奉承的"], "intrinsic": ["Inborn, natural, essential.", "固有的；內在的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "consequently": ["As a result; therefore.", "因此;結果"], "desuetude": ["A state of disuse.", "廢棄;不再使用"], "intersect": ["To cross or meet at a point.", "相交；交叉"], "non sequitur": ["A reply that has no relevance to what preceded it.", "不合邏輯的推論；文不對題的話"], "obsequiousness": ["Excessive eagerness to please or obey.", "阿諛奉承;過度順從"], "persecute": ["Cause to suffer.", "迫害"], "persecution": ["Hostility and ill-treatment, especially due to race, religion, or belief.", "迫害"], "prosecute": ["Conduct legal proceedings against a defendant.", "起訴；檢控"], "sequel": ["A work that continues the story of an earlier one; a consequence.", "續集;後續"], "sequence": ["A particular order in which related events or things follow each other.", "順序;序列"], "sequester": ["To isolate or hide away (someone or something).", "隔離；扣押"], "subsequent": ["Coming after something in time; following.", "隨後的;接著的"], "subsequently": ["Afterward; following in time or order.", "隨後;其後"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"extrinsic": ["Foreign, coming from outside.", "外在的；非固有的"], "obsequious": ["Seeking favor, fawning.", "諂媚的；奉承的"], "intrinsic": ["Inborn, natural, essential.", "固有的；內在的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "consequently": ["As a result; therefore.", "因此；結果"], "desuetude": ["A state of disuse.", "廢棄；不再使用"], "intersect": ["To cross or meet at a point.", "相交；交叉"], "non sequitur": ["A reply that has no relevance to what preceded it.", "不合邏輯的推論；文不對題的話"], "obsequiousness": ["Excessive eagerness to please or obey.", "阿諛奉承；過度順從"], "persecute": ["Cause to suffer.", "迫害"], "persecution": ["Hostility and ill-treatment, especially due to race, religion, or belief.", "迫害"], "prosecute": ["Conduct legal proceedings against a defendant.", "起訴；檢控"], "sequel": ["A work that continues the story of an earlier one; a consequence.", "續集；後續"], "sequence": ["A particular order in which related events or things follow each other.", "順序；序列"], "sequester": ["To isolate or hide away (someone or something).", "隔離；扣押"], "subsequent": ["Coming after something in time; following.", "隨後的；接著的"], "subsequently": ["Afterward; following in time or order.", "隨後；其後"]});

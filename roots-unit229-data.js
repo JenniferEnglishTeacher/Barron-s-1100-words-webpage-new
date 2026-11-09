@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "thoughtless",
     "pos": "adj.",
     "definition": "Showing a lack of consideration for others; careless.",
-    "chinese": "欠考慮的;不體貼的",
+    "chinese": "欠考慮的；不體貼的",
     "synonyms": "",
     "root": "thought, from Old English geþoht + -less",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing a lack of consideration for others; careless.",
-     "chinese": "欠考慮的;不體貼的"
+     "chinese": "欠考慮的；不體貼的"
     }
    },
    {
     "word": "thrall",
     "pos": "n.",
     "definition": "The state of being in someone's power; a slave.",
-    "chinese": "奴役;支配",
+    "chinese": "奴役；支配",
     "synonyms": "",
     "root": "þræl (slave), from Old Norse",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being in someone's power; a slave.",
-     "chinese": "奴役;支配"
+     "chinese": "奴役；支配"
     }
    },
    {
     "word": "threadbare",
     "pos": "adj.",
     "definition": "Worn thin from use; overused and unconvincing.",
-    "chinese": "破舊的;老套的",
+    "chinese": "破舊的；老套的",
     "synonyms": "",
     "root": "thread, from Old English þræd + bare, from Old English bær",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Worn thin from use; overused and unconvincing.",
-     "chinese": "破舊的;老套的"
+     "chinese": "破舊的；老套的"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "thunderous",
     "pos": "adj.",
     "definition": "Extremely loud, like thunder.",
-    "chinese": "雷鳴般的;震耳欲聾的",
+    "chinese": "雷鳴般的；震耳欲聾的",
     "synonyms": "",
     "root": "thunder, from Old English þunor + -ous",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely loud, like thunder.",
-     "chinese": "雷鳴般的;震耳欲聾的"
+     "chinese": "雷鳴般的；震耳欲聾的"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "timeless",
     "pos": "adj.",
     "definition": "Not affected by the passage of time; eternal.",
-    "chinese": "永恆的;不受時間影響的",
+    "chinese": "永恆的；不受時間影響的",
     "synonyms": "",
     "root": "time, from Old English tima + -less",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not affected by the passage of time; eternal.",
-     "chinese": "永恆的;不受時間影響的"
+     "chinese": "永恆的；不受時間影響的"
     }
    },
    {
     "word": "timeworn",
     "pos": "adj.",
     "definition": "Showing the effects of age or long use.",
-    "chinese": "陳舊的;老舊的",
+    "chinese": "陳舊的；老舊的",
     "synonyms": "",
     "root": "time, from Old English tima + worn, from Old English werian",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing the effects of age or long use.",
-     "chinese": "陳舊的;老舊的"
+     "chinese": "陳舊的；老舊的"
     }
    },
    {
     "word": "timid",
     "pos": "adj.",
     "definition": "Showing a lack of courage or confidence.",
-    "chinese": "膽怯的;羞怯的",
+    "chinese": "膽怯的；羞怯的",
     "synonyms": "",
     "root": "timidus, from Latin timere (to fear)",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing a lack of courage or confidence.",
-     "chinese": "膽怯的;羞怯的"
+     "chinese": "膽怯的；羞怯的"
     }
    },
    {
     "word": "timidity",
     "pos": "n.",
     "definition": "A lack of courage or confidence.",
-    "chinese": "膽怯;怯懦",
+    "chinese": "膽怯；怯懦",
     "synonyms": "",
     "root": "timiditas, from Latin timere (to fear)",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of courage or confidence.",
-     "chinese": "膽怯;怯懦"
+     "chinese": "膽怯；怯懦"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "timorousness",
     "pos": "n.",
     "definition": "The quality of being fearful or timid.",
-    "chinese": "膽小;畏怯",
+    "chinese": "膽小；畏怯",
     "synonyms": "",
     "root": "timorosus, from Latin timor (fear)",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being fearful or timid.",
-     "chinese": "膽小;畏怯"
+     "chinese": "膽小；畏怯"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "tiny",
     "pos": "adj.",
     "definition": "Very small in size.",
-    "chinese": "極小的;微小的",
+    "chinese": "極小的；微小的",
     "synonyms": "",
     "root": "tine (a small amount), of uncertain further origin",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Very small in size.",
-     "chinese": "極小的;微小的"
+     "chinese": "極小的；微小的"
     }
    },
    {
     "word": "tip",
     "pos": "n./v.",
     "definition": "A small piece of advice; a small gift of money for service; to lean or fall.",
-    "chinese": "訣竅;小費;傾斜",
+    "chinese": "訣竅；小費；傾斜",
     "synonyms": "",
     "root": "of uncertain origin, related to Middle Low German tip (point)",
     "group": "",
@@ -381,7 +381,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small piece of advice; a small gift of money for service; to lean or fall.",
-     "chinese": "訣竅;小費;傾斜"
+     "chinese": "訣竅；小費；傾斜"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "tiresome",
     "pos": "adj.",
     "definition": "Causing weariness or annoyance through being tedious.",
-    "chinese": "令人厭煩的;沉悶的",
+    "chinese": "令人厭煩的；沉悶的",
     "synonyms": "",
     "root": "tire, from Old English teorian (to become weary) + -some",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing weariness or annoyance through being tedious.",
-     "chinese": "令人厭煩的;沉悶的"
+     "chinese": "令人厭煩的；沉悶的"
     }
    },
    {
     "word": "titan",
     "pos": "n.",
     "definition": "A person or thing of enormous power, size, or influence.",
-    "chinese": "巨人;泰坦;巨擘",
+    "chinese": "巨人；泰坦；巨擘",
     "synonyms": "",
     "root": "Titan, from Greek mythology, referring to a race of giant deities",
     "group": "",
@@ -459,7 +459,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person or thing of enormous power, size, or influence.",
-     "chinese": "巨人;泰坦;巨擘"
+     "chinese": "巨人；泰坦；巨擘"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "titter",
     "pos": "v./n.",
     "definition": "To laugh quietly in a nervous or suppressed way.",
-    "chinese": "竊笑;傻笑",
+    "chinese": "竊笑；傻笑",
     "synonyms": "",
     "root": "of imitative origin, echoing a suppressed laugh",
     "group": "",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To laugh quietly in a nervous or suppressed way.",
-     "chinese": "竊笑;傻笑"
+     "chinese": "竊笑；傻笑"
     }
    },
    {
@@ -544,7 +544,7 @@ window.FLASHCARD_UNITS = {
     "word": "toilsome",
     "pos": "adj.",
     "definition": "Involving hard and tiring work.",
-    "chinese": "費力的;辛勞的",
+    "chinese": "費力的；辛勞的",
     "synonyms": "",
     "root": "toil, from Old French toeillier (to drag, stir up) + -some",
     "group": "",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Involving hard and tiring work.",
-     "chinese": "費力的;辛勞的"
+     "chinese": "費力的；辛勞的"
     }
    },
    {
     "word": "tolerant",
     "pos": "adj.",
     "definition": "Willing to accept beliefs or behavior different from one's own.",
-    "chinese": "寬容的;容忍的",
+    "chinese": "寬容的；容忍的",
     "synonyms": "",
     "root": "tolerare (to bear, endure), from Latin",
     "group": "",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to accept beliefs or behavior different from one's own.",
-     "chinese": "寬容的;容忍的"
+     "chinese": "寬容的；容忍的"
     }
    },
    {
@@ -620,7 +620,7 @@ window.FLASHCARD_UNITS = {
     "word": "tomfoolery",
     "pos": "n.",
     "definition": "Silly or foolish behavior.",
-    "chinese": "胡鬧;愚蠢行為",
+    "chinese": "胡鬧；愚蠢行為",
     "synonyms": "",
     "root": "Tom Fool, a generic name for a foolish person, from Middle English",
     "group": "",
@@ -632,7 +632,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Silly or foolish behavior.",
-     "chinese": "胡鬧;愚蠢行為"
+     "chinese": "胡鬧；愚蠢行為"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "torpor",
     "pos": "n.",
     "definition": "A state of physical or mental inactivity; lethargy.",
-    "chinese": "麻木;遲鈍;蟄伏",
+    "chinese": "麻木；遲鈍；蟄伏",
     "synonyms": "",
     "root": "torpor (numbness), from Latin torpere (to be numb)",
     "group": "",
@@ -710,7 +710,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of physical or mental inactivity; lethargy.",
-     "chinese": "麻木;遲鈍;蟄伏"
+     "chinese": "麻木；遲鈍；蟄伏"
     }
    },
    {
@@ -736,7 +736,7 @@ window.FLASHCARD_UNITS = {
     "word": "tour de force",
     "pos": "n.",
     "definition": "An achievement that displays great skill or ingenuity.",
-    "chinese": "精湛之作;傑作",
+    "chinese": "精湛之作；傑作",
     "synonyms": "",
     "root": "tour (turn, feat) + de (of) + force (strength), from French",
     "group": "",
@@ -748,14 +748,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An achievement that displays great skill or ingenuity.",
-     "chinese": "精湛之作;傑作"
+     "chinese": "精湛之作；傑作"
     }
    },
    {
     "word": "toxic",
     "pos": "adj.",
     "definition": "Poisonous; harmful.",
-    "chinese": "有毒的;有害的",
+    "chinese": "有毒的；有害的",
     "synonyms": "",
     "root": "toxicum (poison), from Latin, from Greek toxikon (arrow poison)",
     "group": "",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poisonous; harmful.",
-     "chinese": "有毒的;有害的"
+     "chinese": "有毒的；有害的"
     }
    },
    {
@@ -812,7 +812,7 @@ window.FLASHCARD_UNITS = {
     "word": "tragedy",
     "pos": "n.",
     "definition": "An event causing great suffering; a serious drama with an unhappy ending.",
-    "chinese": "悲劇;慘劇",
+    "chinese": "悲劇；慘劇",
     "synonyms": "",
     "root": "tragoidia (goat song), from Greek tragos (goat) + oide (song)",
     "group": "",
@@ -824,14 +824,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An event causing great suffering; a serious drama with an unhappy ending.",
-     "chinese": "悲劇;慘劇"
+     "chinese": "悲劇；慘劇"
     }
    },
    {
     "word": "traipse",
     "pos": "v.",
     "definition": "To walk or move about tiredly or without purpose.",
-    "chinese": "疲憊地走;閒逛",
+    "chinese": "疲憊地走；閒逛",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to French trapasser (to trespass, pass)",
     "group": "",
@@ -843,7 +843,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To walk or move about tiredly or without purpose.",
-     "chinese": "疲憊地走;閒逛"
+     "chinese": "疲憊地走；閒逛"
     }
    },
    {
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "word": "traitorous",
     "pos": "adj.",
     "definition": "Guilty of or involving betrayal.",
-    "chinese": "叛逆的;背叛的",
+    "chinese": "叛逆的；背叛的",
     "synonyms": "",
     "root": "traditor, from Latin tradere (to hand over, betray)",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Guilty of or involving betrayal.",
-     "chinese": "叛逆的;背叛的"
+     "chinese": "叛逆的；背叛的"
     }
    },
    {
     "word": "trammel",
     "pos": "n./v.",
     "definition": "A restraint or hindrance; to restrict or hamper.",
-    "chinese": "束縛;妨礙",
+    "chinese": "束縛；妨礙",
     "synonyms": "",
     "root": "tramail (a fishing net), from Old French, from Latin tres (three) + macula (mesh)",
     "group": "",
@@ -902,7 +902,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A restraint or hindrance; to restrict or hamper.",
-     "chinese": "束縛;妨礙"
+     "chinese": "束縛；妨礙"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "transfiguration",
     "pos": "n.",
     "definition": "A complete transformation into a more beautiful or spiritual state.",
-    "chinese": "變容;變形",
+    "chinese": "變容；變形",
     "synonyms": "",
     "root": "transfigurare, from Latin trans- (across) + figura (form)",
     "group": "",
@@ -940,14 +940,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A complete transformation into a more beautiful or spiritual state.",
-     "chinese": "變容;變形"
+     "chinese": "變容；變形"
     }
    },
    {
     "word": "transfigure",
     "pos": "v.",
     "definition": "To transform into something more beautiful or exalted.",
-    "chinese": "使變形;使變容",
+    "chinese": "使變形；使變容",
     "synonyms": "",
     "root": "transfigurare, from Latin trans- (across) + figura (form)",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To transform into something more beautiful or exalted.",
-     "chinese": "使變形;使變容"
+     "chinese": "使變形；使變容"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"thoughtfulness": ["Consideration for others.", "體貼；周到"], "thoughtless": ["Showing a lack of consideration for others; careless.", "欠考慮的;不體貼的"], "thrall": ["The state of being in someone's power; a slave.", "奴役;支配"], "threadbare": ["Worn thin from use; overused and unconvincing.", "破舊的;老套的"], "thrifty": ["Careful with how money and resources are spent; miserly.", "節儉的"], "thrive": ["To grow strong; to flourish.", "茁壯成長"], "throng": ["To crowd; great number of people.", "人群"], "thunderous": ["Extremely loud, like thunder.", "雷鳴般的;震耳欲聾的"], "thwart": ["To hinder, defeat.", "阻撓"], "tijuana": ["A city in Mexico near the U.S. border, often referenced culturally.", "提華納(墨西哥城市)"], "timeless": ["Not affected by the passage of time; eternal.", "永恆的;不受時間影響的"], "timeworn": ["Showing the effects of age or long use.", "陳舊的;老舊的"], "timid": ["Showing a lack of courage or confidence.", "膽怯的;羞怯的"], "timidity": ["A lack of courage or confidence.", "膽怯;怯懦"], "timorous": ["Fearful.", "膽怯的；怯懦的"], "timorousness": ["The quality of being fearful or timid.", "膽小;畏怯"], "tinge": ["A trace, smattering, or slight degree.", "一絲；色彩"], "tinnitus": ["A ringing or buzzing sound in the ears.", "耳鳴"], "tiny": ["Very small in size.", "極小的;微小的"], "tip": ["A small piece of advice; a small gift of money for service; to lean or fall.", "訣竅;小費;傾斜"], "tipple": ["Drink moderately but regularly.", "小酌；經常小飲"], "tirade": ["A long speech marked by harsh or biting language.", "長篇抨擊；激烈的斥責"], "tiresome": ["Causing weariness or annoyance through being tedious.", "令人厭煩的;沉悶的"], "titan": ["A person or thing of enormous power, size, or influence.", "巨人;泰坦;巨擘"], "titillate": ["Stimulate or excite.", "刺激；逗弄"], "titter": ["To laugh quietly in a nervous or suppressed way.", "竊笑;傻笑"], "toady": ["A flatterer; a sycophant.", "馬屁精"], "toadying": ["The act of behaving obsequiously toward someone for personal gain.", "阿諛奉承"], "toilsome": ["Involving hard and tiring work.", "費力的;辛勞的"], "tolerant": ["Willing to accept beliefs or behavior different from one's own.", "寬容的;容忍的"], "tolerate": ["To put up with, to bear.", "容忍"], "tome": ["A large book.", "大部頭書籍；巨著"], "tomfoolery": ["Silly or foolish behavior.", "胡鬧;愚蠢行為"], "toponym": ["A place name, especially one derived from a geographical feature.", "地名"], "toreador": ["A bullfighter, especially one on horseback.", "鬥牛士(尤指騎馬者)"], "torpid": ["Lacking energy; relating to inactivity; feeling sluggish.", "遲鈍的；麻木的"], "torpor": ["A state of physical or mental inactivity; lethargy.", "麻木;遲鈍;蟄伏"], "torrid": ["Giving off intense heat, passionate.", "酷熱的；激情的"], "tour de force": ["An achievement that displays great skill or ingenuity.", "精湛之作;傑作"], "toxic": ["Poisonous; harmful.", "有毒的;有害的"], "traditional": ["Following long-established customs or beliefs.", "傳統的"], "tragedienne": ["A female actor who specializes in tragic roles.", "悲劇女演員"], "tragedy": ["An event causing great suffering; a serious drama with an unhappy ending.", "悲劇;慘劇"], "traipse": ["To walk or move about tiredly or without purpose.", "疲憊地走;閒逛"], "traitor": ["A person who betrays their country, cause, or trust.", "叛徒"], "traitorous": ["Guilty of or involving betrayal.", "叛逆的;背叛的"], "trammel": ["A restraint or hindrance; to restrict or hamper.", "束縛;妨礙"], "tranquility": ["Peacefulness; calmness.", "平靜"], "transfiguration": ["A complete transformation into a more beautiful or spiritual state.", "變容;變形"], "transfigure": ["To transform into something more beautiful or exalted.", "使變形;使變容"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"thoughtfulness": ["Consideration for others.", "體貼；周到"], "thoughtless": ["Showing a lack of consideration for others; careless.", "欠考慮的；不體貼的"], "thrall": ["The state of being in someone's power; a slave.", "奴役；支配"], "threadbare": ["Worn thin from use; overused and unconvincing.", "破舊的；老套的"], "thrifty": ["Careful with how money and resources are spent; miserly.", "節儉的"], "thrive": ["To grow strong; to flourish.", "茁壯成長"], "throng": ["To crowd; great number of people.", "人群"], "thunderous": ["Extremely loud, like thunder.", "雷鳴般的；震耳欲聾的"], "thwart": ["To hinder, defeat.", "阻撓"], "tijuana": ["A city in Mexico near the U.S. border, often referenced culturally.", "提華納(墨西哥城市)"], "timeless": ["Not affected by the passage of time; eternal.", "永恆的；不受時間影響的"], "timeworn": ["Showing the effects of age or long use.", "陳舊的；老舊的"], "timid": ["Showing a lack of courage or confidence.", "膽怯的；羞怯的"], "timidity": ["A lack of courage or confidence.", "膽怯；怯懦"], "timorous": ["Fearful.", "膽怯的；怯懦的"], "timorousness": ["The quality of being fearful or timid.", "膽小；畏怯"], "tinge": ["A trace, smattering, or slight degree.", "一絲；色彩"], "tinnitus": ["A ringing or buzzing sound in the ears.", "耳鳴"], "tiny": ["Very small in size.", "極小的；微小的"], "tip": ["A small piece of advice; a small gift of money for service; to lean or fall.", "訣竅；小費；傾斜"], "tipple": ["Drink moderately but regularly.", "小酌；經常小飲"], "tirade": ["A long speech marked by harsh or biting language.", "長篇抨擊；激烈的斥責"], "tiresome": ["Causing weariness or annoyance through being tedious.", "令人厭煩的；沉悶的"], "titan": ["A person or thing of enormous power, size, or influence.", "巨人；泰坦；巨擘"], "titillate": ["Stimulate or excite.", "刺激；逗弄"], "titter": ["To laugh quietly in a nervous or suppressed way.", "竊笑；傻笑"], "toady": ["A flatterer; a sycophant.", "馬屁精"], "toadying": ["The act of behaving obsequiously toward someone for personal gain.", "阿諛奉承"], "toilsome": ["Involving hard and tiring work.", "費力的；辛勞的"], "tolerant": ["Willing to accept beliefs or behavior different from one's own.", "寬容的；容忍的"], "tolerate": ["To put up with, to bear.", "容忍"], "tome": ["A large book.", "大部頭書籍；巨著"], "tomfoolery": ["Silly or foolish behavior.", "胡鬧；愚蠢行為"], "toponym": ["A place name, especially one derived from a geographical feature.", "地名"], "toreador": ["A bullfighter, especially one on horseback.", "鬥牛士(尤指騎馬者)"], "torpid": ["Lacking energy; relating to inactivity; feeling sluggish.", "遲鈍的；麻木的"], "torpor": ["A state of physical or mental inactivity; lethargy.", "麻木；遲鈍；蟄伏"], "torrid": ["Giving off intense heat, passionate.", "酷熱的；激情的"], "tour de force": ["An achievement that displays great skill or ingenuity.", "精湛之作；傑作"], "toxic": ["Poisonous; harmful.", "有毒的；有害的"], "traditional": ["Following long-established customs or beliefs.", "傳統的"], "tragedienne": ["A female actor who specializes in tragic roles.", "悲劇女演員"], "tragedy": ["An event causing great suffering; a serious drama with an unhappy ending.", "悲劇；慘劇"], "traipse": ["To walk or move about tiredly or without purpose.", "疲憊地走；閒逛"], "traitor": ["A person who betrays their country, cause, or trust.", "叛徒"], "traitorous": ["Guilty of or involving betrayal.", "叛逆的；背叛的"], "trammel": ["A restraint or hindrance; to restrict or hamper.", "束縛；妨礙"], "tranquility": ["Peacefulness; calmness.", "平靜"], "transfiguration": ["A complete transformation into a more beautiful or spiritual state.", "變容；變形"], "transfigure": ["To transform into something more beautiful or exalted.", "使變形；使變容"]});

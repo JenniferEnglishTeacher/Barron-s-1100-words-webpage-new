@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "broad-minded",
     "pos": "adj.",
     "definition": "Tolerant of different views and ways of behaving.",
-    "chinese": "心胸開闊的;思想開明的",
+    "chinese": "心胸開闊的；思想開明的",
     "synonyms": "",
     "root": "broad + mind",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tolerant of different views and ways of behaving.",
-     "chinese": "心胸開闊的;思想開明的"
+     "chinese": "心胸開闊的；思想開明的"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "bromidic",
     "pos": "adj.",
     "definition": "Boringly conventional or trite.",
-    "chinese": "陳腐的;老套的",
+    "chinese": "陳腐的；老套的",
     "synonyms": "",
     "root": "bromide (a dull, unoriginal remark)",
     "group": "",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Boringly conventional or trite.",
-     "chinese": "陳腐的;老套的"
+     "chinese": "陳腐的；老套的"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "brummagem",
     "pos": "adj./n.",
     "definition": "Cheap and showy but of poor quality; something counterfeit.",
-    "chinese": "俗麗而劣質的;贗品",
+    "chinese": "俗麗而劣質的；贗品",
     "synonyms": "",
     "root": "from Brummagem, a dialect form of Birmingham, once known for counterfeit goods",
     "group": "",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheap and showy but of poor quality; something counterfeit.",
-     "chinese": "俗麗而劣質的;贗品"
+     "chinese": "俗麗而劣質的；贗品"
     }
    },
    {
@@ -202,7 +202,7 @@ window.FLASHCARD_UNITS = {
     "word": "bucolic",
     "pos": "adj.",
     "definition": "Relating to peaceful, idyllic rural life.",
-    "chinese": "田園式的;鄉村生活的",
+    "chinese": "田園式的；鄉村生活的",
     "synonyms": "",
     "root": "boukolos (herdsman, from Greek)",
     "group": "",
@@ -214,7 +214,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to peaceful, idyllic rural life.",
-     "chinese": "田園式的;鄉村生活的"
+     "chinese": "田園式的；鄉村生活的"
     }
    },
    {
@@ -263,7 +263,7 @@ window.FLASHCARD_UNITS = {
     "word": "buffoon",
     "pos": "n.",
     "definition": "A ridiculous but amusing person; a clown.",
-    "chinese": "小丑;滑稽的人",
+    "chinese": "小丑；滑稽的人",
     "synonyms": "",
     "root": "buffare (to puff out cheeks, from Italian)",
     "group": "",
@@ -275,7 +275,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A ridiculous but amusing person; a clown.",
-     "chinese": "小丑;滑稽的人"
+     "chinese": "小丑；滑稽的人"
     }
    },
    {
@@ -320,7 +320,7 @@ window.FLASHCARD_UNITS = {
     "word": "bulky",
     "pos": "adj.",
     "definition": "Large and awkward to handle or store.",
-    "chinese": "笨重的;體積龐大的",
+    "chinese": "笨重的；體積龐大的",
     "synonyms": "",
     "root": "bulk (mass, size)",
     "group": "",
@@ -332,14 +332,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Large and awkward to handle or store.",
-     "chinese": "笨重的;體積龐大的"
+     "chinese": "笨重的；體積龐大的"
     }
    },
    {
     "word": "bulletin",
     "pos": "n.",
     "definition": "A short official statement or summary of news.",
-    "chinese": "公告;簡報",
+    "chinese": "公告；簡報",
     "synonyms": "",
     "root": "bulla (seal, papal decree, from Latin)",
     "group": "",
@@ -351,7 +351,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A short official statement or summary of news.",
-     "chinese": "公告;簡報"
+     "chinese": "公告；簡報"
     }
    },
    {
@@ -396,7 +396,7 @@ window.FLASHCARD_UNITS = {
     "word": "bungling",
     "pos": "adj./n.",
     "definition": "Clumsy or incompetent, especially in performing a task.",
-    "chinese": "笨拙的;搞砸",
+    "chinese": "笨拙的；搞砸",
     "synonyms": "",
     "root": "bungle (to perform clumsily)",
     "group": "",
@@ -408,14 +408,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clumsy or incompetent, especially in performing a task.",
-     "chinese": "笨拙的;搞砸"
+     "chinese": "笨拙的；搞砸"
     }
    },
    {
     "word": "buoyant",
     "pos": "adj.",
     "definition": "Able to float; cheerful and optimistic.",
-    "chinese": "有浮力的;樂觀的",
+    "chinese": "有浮力的；樂觀的",
     "synonyms": "",
     "root": "boyar (to float, from Spanish/Portuguese)",
     "group": "",
@@ -427,7 +427,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to float; cheerful and optimistic.",
-     "chinese": "有浮力的;樂觀的"
+     "chinese": "有浮力的；樂觀的"
     }
    },
    {
@@ -453,7 +453,7 @@ window.FLASHCARD_UNITS = {
     "word": "burlesque",
     "pos": "n./adj.",
     "definition": "A comically exaggerated imitation, especially in performance.",
-    "chinese": "滑稽模仿;鬧劇表演",
+    "chinese": "滑稽模仿；鬧劇表演",
     "synonyms": "",
     "root": "burla (mockery, from Italian)",
     "group": "",
@@ -465,7 +465,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A comically exaggerated imitation, especially in performance.",
-     "chinese": "滑稽模仿;鬧劇表演"
+     "chinese": "滑稽模仿；鬧劇表演"
     }
    },
    {
@@ -567,7 +567,7 @@ window.FLASHCARD_UNITS = {
     "word": "butt in",
     "pos": "v.",
     "definition": "To interrupt or intrude rudely into a conversation or situation.",
-    "chinese": "插嘴;打岔",
+    "chinese": "插嘴；打岔",
     "synonyms": "",
     "root": "butt (to push against) + in",
     "group": "",
@@ -579,7 +579,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To interrupt or intrude rudely into a conversation or situation.",
-     "chinese": "插嘴;打岔"
+     "chinese": "插嘴；打岔"
     }
    },
    {
@@ -626,7 +626,7 @@ window.FLASHCARD_UNITS = {
     "word": "bête noire",
     "pos": "n.",
     "definition": "A person or thing that one particularly dislikes or dreads.",
-    "chinese": "眼中釘;最厭惡的人事物",
+    "chinese": "眼中釘；最厭惡的人事物",
     "synonyms": "",
     "root": "bête (beast) + noire (black), from French",
     "group": "",
@@ -638,14 +638,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person or thing that one particularly dislikes or dreads.",
-     "chinese": "眼中釘;最厭惡的人事物"
+     "chinese": "眼中釘；最厭惡的人事物"
     }
    },
    {
     "word": "cabal",
     "pos": "n.",
     "definition": "A secret group plotting political intrigue.",
-    "chinese": "陰謀集團;秘密組織",
+    "chinese": "陰謀集團；秘密組織",
     "synonyms": "",
     "root": "cabbala (esoteric doctrine, from Hebrew)",
     "group": "",
@@ -657,7 +657,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A secret group plotting political intrigue.",
-     "chinese": "陰謀集團;秘密組織"
+     "chinese": "陰謀集團；秘密組織"
     }
    },
    {
@@ -702,7 +702,7 @@ window.FLASHCARD_UNITS = {
     "word": "cachet",
     "pos": "n.",
     "definition": "The state of being respected or admired; prestige.",
-    "chinese": "威望;身分地位的象徵",
+    "chinese": "威望；身分地位的象徵",
     "synonyms": "",
     "root": "cacher (to press, from French)",
     "group": "",
@@ -714,7 +714,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being respected or admired; prestige.",
-     "chinese": "威望;身分地位的象徵"
+     "chinese": "威望；身分地位的象徵"
     }
    },
    {
@@ -759,7 +759,7 @@ window.FLASHCARD_UNITS = {
     "word": "cackle",
     "pos": "n./v.",
     "definition": "A loud, harsh laugh or sound, like that of a hen; to make such a sound.",
-    "chinese": "咯咯笑;咯咯叫",
+    "chinese": "咯咯笑；咯咯叫",
     "synonyms": "",
     "root": "kakelen (to cackle, from Middle Dutch)",
     "group": "",
@@ -771,7 +771,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A loud, harsh laugh or sound, like that of a hen; to make such a sound.",
-     "chinese": "咯咯笑;咯咯叫"
+     "chinese": "咯咯笑；咯咯叫"
     }
    },
    {
@@ -797,7 +797,7 @@ window.FLASHCARD_UNITS = {
     "word": "cacoeconomy",
     "pos": "n.",
     "definition": "Bad or wasteful management, especially of finances.",
-    "chinese": "管理不善;經濟失序",
+    "chinese": "管理不善；經濟失序",
     "synonyms": "",
     "root": "kakos (bad) + oikonomia (household management), from Greek",
     "group": "",
@@ -809,7 +809,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bad or wasteful management, especially of finances.",
-     "chinese": "管理不善;經濟失序"
+     "chinese": "管理不善；經濟失序"
     }
    },
    {
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "word": "cacoethes",
     "pos": "n.",
     "definition": "An irresistible urge to do something inadvisable.",
-    "chinese": "難以自制的惡習;衝動",
+    "chinese": "難以自制的惡習；衝動",
     "synonyms": "",
     "root": "kakoethes (bad habit, from Greek)",
     "group": "",
@@ -847,14 +847,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An irresistible urge to do something inadvisable.",
-     "chinese": "難以自制的惡習;衝動"
+     "chinese": "難以自制的惡習；衝動"
     }
    },
    {
     "word": "cacography",
     "pos": "n.",
     "definition": "Bad handwriting or incorrect spelling.",
-    "chinese": "字跡潦草;拼寫錯誤",
+    "chinese": "字跡潦草；拼寫錯誤",
     "synonyms": "",
     "root": "kakos (bad) + graphein (to write), from Greek",
     "group": "",
@@ -866,7 +866,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bad handwriting or incorrect spelling.",
-     "chinese": "字跡潦草;拼寫錯誤"
+     "chinese": "字跡潦草；拼寫錯誤"
     }
    },
    {
@@ -930,7 +930,7 @@ window.FLASHCARD_UNITS = {
     "word": "cajolery",
     "pos": "n.",
     "definition": "Persuasion through flattery or coaxing.",
-    "chinese": "哄騙;甜言蜜語的勸誘",
+    "chinese": "哄騙；甜言蜜語的勸誘",
     "synonyms": "",
     "root": "cajoler (to cajole, from French)",
     "group": "",
@@ -942,14 +942,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Persuasion through flattery or coaxing.",
-     "chinese": "哄騙;甜言蜜語的勸誘"
+     "chinese": "哄騙；甜言蜜語的勸誘"
     }
    },
    {
     "word": "calaboose",
     "pos": "n.",
     "definition": "A jail, especially a small local one.",
-    "chinese": "小監獄;拘留所",
+    "chinese": "小監獄；拘留所",
     "synonyms": "",
     "root": "calabozo (dungeon, from Spanish)",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A jail, especially a small local one.",
-     "chinese": "小監獄;拘留所"
+     "chinese": "小監獄；拘留所"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"broad-minded": ["Tolerant of different views and ways of behaving.", "心胸開闊的;思想開明的"], "brobdingnagian": ["Enormous or gigantic.", "巨大無比的"], "bromance": ["A close, non-romantic friendship between two men.", "男性摯友情誼"], "bromide": ["A trite or obvious remark.", "陳腔濫調"], "bromidic": ["Boringly conventional or trite.", "陳腐的;老套的"], "bruit": ["To spread a report or rumor widely.", "散播(謠言)"], "brummagem": ["Cheap and showy but of poor quality; something counterfeit.", "俗麗而劣質的;贗品"], "brusque": ["Short, abrupt, dismissive.", "唐突的；生硬的"], "bruxomania": ["An obsessive urge to grind one's teeth.", "磨牙癖"], "buckaroo": ["A cowboy.", "牛仔"], "bucolic": ["Relating to peaceful, idyllic rural life.", "田園式的;鄉村生活的"], "buff": ["A fan, follower.", "愛好者；迷"], "buffet": ["To strike with force.", "衝擊；擊打"], "buffoon": ["A ridiculous but amusing person; a clown.", "小丑;滑稽的人"], "bufoniform": ["Shaped like a toad.", "似蟾蜍形的"], "bulimia": ["A disorder involving episodes of overeating followed by purging.", "暴食症"], "bulky": ["Large and awkward to handle or store.", "笨重的;體積龐大的"], "bulletin": ["A short official statement or summary of news.", "公告;簡報"], "bulwark": ["Protection:fortress.", "堡壘；保障"], "bumpkin": ["An unsophisticated person from a rural area.", "鄉巴佬"], "bungling": ["Clumsy or incompetent, especially in performing a task.", "笨拙的;搞砸"], "buoyant": ["Able to float; cheerful and optimistic.", "有浮力的;樂觀的"], "burgeoned": ["Grew, flourished.", "激增；迅速發展"], "burlesque": ["A comically exaggerated imitation, especially in performance.", "滑稽模仿;鬧劇表演"], "burly": ["Strongly built, husky (person).", "魁梧的"], "burnish": ["To polish, shine.", "擦亮；磨光"], "burro": ["A small donkey used as a pack animal.", "小驢子"], "busy": ["Having a great deal to do; full of activity.", "忙碌的"], "busybody": ["A person who meddles in other people's affairs.", "愛管閒事的人"], "butt in": ["To interrupt or intrude rudely into a conversation or situation.", "插嘴;打岔"], "buttress": ["A structure built to support or reinforce a wall or building; to support or strengthen something.", "支柱；支撐"], "bypass": ["To go around or avoid.", "繞過；避開"], "bête noire": ["A person or thing that one particularly dislikes or dreads.", "眼中釘;最厭惡的人事物"], "cabal": ["A secret group plotting political intrigue.", "陰謀集團;秘密組織"], "cabala": ["A mystical Jewish tradition of interpreting scripture; any esoteric doctrine.", "卡巴拉(猶太神秘哲學)"], "cache": ["Secret hiding place.", "隱藏處；儲藏物"], "cachet": ["The state of being respected or admired; prestige.", "威望;身分地位的象徵"], "cachinnate": ["To laugh loudly or immoderately.", "縱聲大笑"], "cachinnation": ["Loud, immoderate laughter.", "縱聲大笑"], "cackle": ["A loud, harsh laugh or sound, like that of a hen; to make such a sound.", "咯咯笑;咯咯叫"], "cacodoxy": ["A false or heretical doctrine.", "異端邪說"], "cacoeconomy": ["Bad or wasteful management, especially of finances.", "管理不善;經濟失序"], "cacoepy": ["Incorrect or faulty pronunciation of words.", "發音錯誤"], "cacoethes": ["An irresistible urge to do something inadvisable.", "難以自制的惡習;衝動"], "cacography": ["Bad handwriting or incorrect spelling.", "字跡潦草;拼寫錯誤"], "caconym": ["An incorrectly formed or objectionable scientific name.", "不當學名"], "caduceus": ["A staff with two entwined snakes, a symbol associated with medicine.", "雙蛇杖(醫學象徵)"], "cajole": ["To coax.", "哄騙"], "cajolery": ["Persuasion through flattery or coaxing.", "哄騙;甜言蜜語的勸誘"], "calaboose": ["A jail, especially a small local one.", "小監獄;拘留所"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"broad-minded": ["Tolerant of different views and ways of behaving.", "心胸開闊的；思想開明的"], "brobdingnagian": ["Enormous or gigantic.", "巨大無比的"], "bromance": ["A close, non-romantic friendship between two men.", "男性摯友情誼"], "bromide": ["A trite or obvious remark.", "陳腔濫調"], "bromidic": ["Boringly conventional or trite.", "陳腐的；老套的"], "bruit": ["To spread a report or rumor widely.", "散播(謠言)"], "brummagem": ["Cheap and showy but of poor quality; something counterfeit.", "俗麗而劣質的；贗品"], "brusque": ["Short, abrupt, dismissive.", "唐突的；生硬的"], "bruxomania": ["An obsessive urge to grind one's teeth.", "磨牙癖"], "buckaroo": ["A cowboy.", "牛仔"], "bucolic": ["Relating to peaceful, idyllic rural life.", "田園式的；鄉村生活的"], "buff": ["A fan, follower.", "愛好者；迷"], "buffet": ["To strike with force.", "衝擊；擊打"], "buffoon": ["A ridiculous but amusing person; a clown.", "小丑；滑稽的人"], "bufoniform": ["Shaped like a toad.", "似蟾蜍形的"], "bulimia": ["A disorder involving episodes of overeating followed by purging.", "暴食症"], "bulky": ["Large and awkward to handle or store.", "笨重的；體積龐大的"], "bulletin": ["A short official statement or summary of news.", "公告；簡報"], "bulwark": ["Protection:fortress.", "堡壘；保障"], "bumpkin": ["An unsophisticated person from a rural area.", "鄉巴佬"], "bungling": ["Clumsy or incompetent, especially in performing a task.", "笨拙的；搞砸"], "buoyant": ["Able to float; cheerful and optimistic.", "有浮力的；樂觀的"], "burgeoned": ["Grew, flourished.", "激增；迅速發展"], "burlesque": ["A comically exaggerated imitation, especially in performance.", "滑稽模仿；鬧劇表演"], "burly": ["Strongly built, husky (person).", "魁梧的"], "burnish": ["To polish, shine.", "擦亮；磨光"], "burro": ["A small donkey used as a pack animal.", "小驢子"], "busy": ["Having a great deal to do; full of activity.", "忙碌的"], "busybody": ["A person who meddles in other people's affairs.", "愛管閒事的人"], "butt in": ["To interrupt or intrude rudely into a conversation or situation.", "插嘴；打岔"], "buttress": ["A structure built to support or reinforce a wall or building; to support or strengthen something.", "支柱；支撐"], "bypass": ["To go around or avoid.", "繞過；避開"], "bête noire": ["A person or thing that one particularly dislikes or dreads.", "眼中釘；最厭惡的人事物"], "cabal": ["A secret group plotting political intrigue.", "陰謀集團；秘密組織"], "cabala": ["A mystical Jewish tradition of interpreting scripture; any esoteric doctrine.", "卡巴拉(猶太神秘哲學)"], "cache": ["Secret hiding place.", "隱藏處；儲藏物"], "cachet": ["The state of being respected or admired; prestige.", "威望；身分地位的象徵"], "cachinnate": ["To laugh loudly or immoderately.", "縱聲大笑"], "cachinnation": ["Loud, immoderate laughter.", "縱聲大笑"], "cackle": ["A loud, harsh laugh or sound, like that of a hen; to make such a sound.", "咯咯笑；咯咯叫"], "cacodoxy": ["A false or heretical doctrine.", "異端邪說"], "cacoeconomy": ["Bad or wasteful management, especially of finances.", "管理不善；經濟失序"], "cacoepy": ["Incorrect or faulty pronunciation of words.", "發音錯誤"], "cacoethes": ["An irresistible urge to do something inadvisable.", "難以自制的惡習；衝動"], "cacography": ["Bad handwriting or incorrect spelling.", "字跡潦草；拼寫錯誤"], "caconym": ["An incorrectly formed or objectionable scientific name.", "不當學名"], "caduceus": ["A staff with two entwined snakes, a symbol associated with medicine.", "雙蛇杖(醫學象徵)"], "cajole": ["To coax.", "哄騙"], "cajolery": ["Persuasion through flattery or coaxing.", "哄騙；甜言蜜語的勸誘"], "calaboose": ["A jail, especially a small local one.", "小監獄；拘留所"]});

@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "correct",
     "pos": "adj./v.",
     "definition": "Free from error; to make right.",
-    "chinese": "正確的;糾正",
+    "chinese": "正確的；糾正",
     "synonyms": "",
     "root": "com- (thoroughly) + regere (to guide, rule), from Latin",
     "group": "rect；reg = 正；直",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Free from error; to make right.",
-     "chinese": "正確的;糾正"
+     "chinese": "正確的；糾正"
     }
    },
    {
     "word": "correction",
     "pos": "n.",
     "definition": "The act of correcting an error.",
-    "chinese": "糾正;更正",
+    "chinese": "糾正；更正",
     "synonyms": "",
     "root": "com- (thoroughly) + regere (to guide, rule), from Latin",
     "group": "rect；reg = 正；直",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The act of correcting an error.",
-     "chinese": "糾正;更正"
+     "chinese": "糾正；更正"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "direct",
     "pos": "adj./v.",
     "definition": "Going in a straight line; to guide or manage.",
-    "chinese": "直接的;指導",
+    "chinese": "直接的；指導",
     "synonyms": "",
     "root": "dis- (apart) + regere (to guide), from Latin",
     "group": "rect；reg = 正；直",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Going in a straight line; to guide or manage.",
-     "chinese": "直接的;指導"
+     "chinese": "直接的；指導"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "interregnum",
     "pos": "n.",
     "definition": "A period when normal government is suspended, especially between reigns.",
-    "chinese": "空位期;過渡期",
+    "chinese": "空位期；過渡期",
     "synonyms": "",
     "root": "inter- (between) + regnum (kingdom, reign), from Latin",
     "group": "rect；reg = 正；直",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A period when normal government is suspended, especially between reigns.",
-     "chinese": "空位期;過渡期"
+     "chinese": "空位期；過渡期"
     }
    },
    {
     "word": "irregular",
     "pos": "adj.",
     "definition": "Not conforming to a standard or pattern.",
-    "chinese": "不規則的;不規律的",
+    "chinese": "不規則的；不規律的",
     "synonyms": "",
     "root": "in- (not) + regula (rule), from Latin",
     "group": "rect；reg = 正；直",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not conforming to a standard or pattern.",
-     "chinese": "不規則的;不規律的"
+     "chinese": "不規則的；不規律的"
     }
    },
    {
     "word": "rectification",
     "pos": "n.",
     "definition": "The act of correcting or setting something right.",
-    "chinese": "改正;修正",
+    "chinese": "改正；修正",
     "synonyms": "",
     "root": "rectus (straight, correct) + facere (to make), from Latin",
     "group": "rect；reg = 正；直",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of correcting or setting something right.",
-     "chinese": "改正;修正"
+     "chinese": "改正；修正"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "rector",
     "pos": "n.",
     "definition": "A member of the clergy in charge of a parish; the head of certain institutions.",
-    "chinese": "教區牧師;校長",
+    "chinese": "教區牧師；校長",
     "synonyms": "",
     "root": "rector (ruler, guide), from Latin regere (to rule, guide)",
     "group": "rect；reg = 正；直",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A member of the clergy in charge of a parish; the head of certain institutions.",
-     "chinese": "教區牧師;校長"
+     "chinese": "教區牧師；校長"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "regardless",
     "pos": "adv.",
     "definition": "Despite the prevailing circumstances; without being deterred.",
-    "chinese": "不管怎樣;儘管如此",
+    "chinese": "不管怎樣；儘管如此",
     "synonyms": "",
     "root": "regard, from Old French regarder + -less",
     "group": "rect；reg = 正；直",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Despite the prevailing circumstances; without being deterred.",
-     "chinese": "不管怎樣;儘管如此"
+     "chinese": "不管怎樣；儘管如此"
     }
    },
    {
     "word": "regimen",
     "pos": "n.",
     "definition": "A prescribed course of diet, exercise, or medication.",
-    "chinese": "養生法;療程",
+    "chinese": "養生法；療程",
     "synonyms": "",
     "root": "regimen (rule, government), from Latin regere (to rule)",
     "group": "rect；reg = 正；直",
@@ -286,14 +286,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A prescribed course of diet, exercise, or medication.",
-     "chinese": "養生法;療程"
+     "chinese": "養生法；療程"
     }
    },
    {
     "word": "regnant",
     "pos": "adj.",
     "definition": "Reigning; currently exercising power.",
-    "chinese": "在位的;統治中的",
+    "chinese": "在位的；統治中的",
     "synonyms": "",
     "root": "regnare (to reign), from Latin regnum (kingdom)",
     "group": "rect；reg = 正；直",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reigning; currently exercising power.",
-     "chinese": "在位的;統治中的"
+     "chinese": "在位的；統治中的"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "reign",
     "pos": "n./v.",
     "definition": "The period during which a monarch rules; to hold royal office.",
-    "chinese": "統治;在位期間",
+    "chinese": "統治；在位期間",
     "synonyms": "",
     "root": "regnum (kingdom), from Latin regere (to rule)",
     "group": "rect；reg = 正；直",
@@ -345,14 +345,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The period during which a monarch rules; to hold royal office.",
-     "chinese": "統治;在位期間"
+     "chinese": "統治；在位期間"
     }
    },
    {
     "word": "royal",
     "pos": "adj.",
     "definition": "Relating to a king or queen; having a grand or magnificent quality.",
-    "chinese": "皇家的;王室的",
+    "chinese": "皇家的；王室的",
     "synonyms": "",
     "root": "regalis (royal), from Latin rex (king)",
     "group": "rect；reg = 正；直",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a king or queen; having a grand or magnificent quality.",
-     "chinese": "皇家的;王室的"
+     "chinese": "皇家的；王室的"
     }
    },
    {
     "word": "unregenerate",
     "pos": "adj.",
     "definition": "Not reformed or repentant; stubbornly unchanged.",
-    "chinese": "不悔改的;冥頑不靈的",
+    "chinese": "不悔改的；冥頑不靈的",
     "synonyms": "",
     "root": "regenerate, from Latin regenerare (to bring forth again) + un-",
     "group": "rect；reg = 正；直",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not reformed or repentant; stubbornly unchanged.",
-     "chinese": "不悔改的;冥頑不靈的"
+     "chinese": "不悔改的；冥頑不靈的"
     }
    }
   ],
@@ -872,4 +872,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"realm": ["Special field of something or someone; kingdom.", "領域"], "correct": ["Free from error; to make right.", "正確的;糾正"], "correction": ["The act of correcting an error.", "糾正;更正"], "corrigible": ["Capable of being corrected or set right.", "可矯正的"], "direct": ["Going in a straight line; to guide or manage.", "直接的;指導"], "directed": ["Managed or guided.", "執導的；指導的"], "interregnum": ["A period when normal government is suspended, especially between reigns.", "空位期;過渡期"], "irregular": ["Not conforming to a standard or pattern.", "不規則的;不規律的"], "rectification": ["The act of correcting or setting something right.", "改正;修正"], "rectify": ["To correct or fix something.", "糾正；矯正"], "rectitude": ["Uprightness, extreme morality.", "正直；端正"], "rector": ["A member of the clergy in charge of a parish; the head of certain institutions.", "教區牧師;校長"], "rectum": ["The final section of the large intestine.", "直腸"], "regardless": ["Despite the prevailing circumstances; without being deterred.", "不管怎樣;儘管如此"], "regimen": ["A prescribed course of diet, exercise, or medication.", "養生法;療程"], "regnant": ["Reigning; currently exercising power.", "在位的;統治中的"], "regulate": ["To control or manage.", "規範；管制"], "reign": ["The period during which a monarch rules; to hold royal office.", "統治;在位期間"], "royal": ["Relating to a king or queen; having a grand or magnificent quality.", "皇家的;王室的"], "unregenerate": ["Not reformed or repentant; stubbornly unchanged.", "不悔改的;冥頑不靈的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"realm": ["Special field of something or someone; kingdom.", "領域"], "correct": ["Free from error; to make right.", "正確的；糾正"], "correction": ["The act of correcting an error.", "糾正；更正"], "corrigible": ["Capable of being corrected or set right.", "可矯正的"], "direct": ["Going in a straight line; to guide or manage.", "直接的；指導"], "directed": ["Managed or guided.", "執導的；指導的"], "interregnum": ["A period when normal government is suspended, especially between reigns.", "空位期；過渡期"], "irregular": ["Not conforming to a standard or pattern.", "不規則的；不規律的"], "rectification": ["The act of correcting or setting something right.", "改正；修正"], "rectify": ["To correct or fix something.", "糾正；矯正"], "rectitude": ["Uprightness, extreme morality.", "正直；端正"], "rector": ["A member of the clergy in charge of a parish; the head of certain institutions.", "教區牧師；校長"], "rectum": ["The final section of the large intestine.", "直腸"], "regardless": ["Despite the prevailing circumstances; without being deterred.", "不管怎樣；儘管如此"], "regimen": ["A prescribed course of diet, exercise, or medication.", "養生法；療程"], "regnant": ["Reigning; currently exercising power.", "在位的；統治中的"], "regulate": ["To control or manage.", "規範；管制"], "reign": ["The period during which a monarch rules; to hold royal office.", "統治；在位期間"], "royal": ["Relating to a king or queen; having a grand or magnificent quality.", "皇家的；王室的"], "unregenerate": ["Not reformed or repentant; stubbornly unchanged.", "不悔改的；冥頑不靈的"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "hot-bloodedness",
     "pos": "n.",
     "definition": "The quality of being easily excited to strong emotion.",
-    "chinese": "血氣方剛;易怒",
+    "chinese": "血氣方剛；易怒",
     "synonyms": "",
     "root": "hot + blood, from Old English",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being easily excited to strong emotion.",
-     "chinese": "血氣方剛;易怒"
+     "chinese": "血氣方剛；易怒"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "however",
     "pos": "adv./conj.",
     "definition": "Used to introduce a contrasting statement; in whatever way.",
-    "chinese": "然而;無論如何",
+    "chinese": "然而；無論如何",
     "synonyms": "",
     "root": "how + ever, from Old English",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Used to introduce a contrasting statement; in whatever way.",
-     "chinese": "然而;無論如何"
+     "chinese": "然而；無論如何"
     }
    },
    {
     "word": "hubris",
     "pos": "n.",
     "definition": "Excessive pride or self-confidence.",
-    "chinese": "傲慢;狂妄自大",
+    "chinese": "傲慢；狂妄自大",
     "synonyms": "",
     "root": "hybris (violence, insolence), from Greek",
     "group": "",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Excessive pride or self-confidence.",
-     "chinese": "傲慢;狂妄自大"
+     "chinese": "傲慢；狂妄自大"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "huff",
     "pos": "n./v.",
     "definition": "A fit of anger or indignation; to breathe heavily.",
-    "chinese": "慍怒;喘氣",
+    "chinese": "慍怒；喘氣",
     "synonyms": "",
     "root": "of imitative origin",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fit of anger or indignation; to breathe heavily.",
-     "chinese": "慍怒;喘氣"
+     "chinese": "慍怒；喘氣"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "human",
     "pos": "adj./n.",
     "definition": "Relating to or characteristic of people; a person.",
-    "chinese": "人類的;人",
+    "chinese": "人類的；人",
     "synonyms": "",
     "root": "humanus (human), from Latin",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or characteristic of people; a person.",
-     "chinese": "人類的;人"
+     "chinese": "人類的；人"
     }
    },
    {
     "word": "humane",
     "pos": "adj.",
     "definition": "Showing compassion and benevolence.",
-    "chinese": "人道的;仁慈的",
+    "chinese": "人道的；仁慈的",
     "synonyms": "",
     "root": "humanus (human), from Latin",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing compassion and benevolence.",
-     "chinese": "人道的;仁慈的"
+     "chinese": "人道的；仁慈的"
     }
    },
    {
     "word": "humanitarian",
     "pos": "adj./n.",
     "definition": "Concerned with human welfare; a person devoted to promoting welfare.",
-    "chinese": "人道主義的;人道主義者",
+    "chinese": "人道主義的；人道主義者",
     "synonyms": "",
     "root": "humanus (human), from Latin",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Concerned with human welfare; a person devoted to promoting welfare.",
-     "chinese": "人道主義的;人道主義者"
+     "chinese": "人道主義的；人道主義者"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "humbleness",
     "pos": "n.",
     "definition": "The quality of having a modest sense of one's own importance.",
-    "chinese": "謙遜;謙卑",
+    "chinese": "謙遜；謙卑",
     "synonyms": "",
     "root": "humus (ground, earth), from Latin",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of having a modest sense of one's own importance.",
-     "chinese": "謙遜;謙卑"
+     "chinese": "謙遜；謙卑"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "hurry",
     "pos": "v./n.",
     "definition": "To move or act with great speed; urgency.",
-    "chinese": "匆忙;趕快",
+    "chinese": "匆忙；趕快",
     "synonyms": "",
     "root": "of uncertain imitative origin",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To move or act with great speed; urgency.",
-     "chinese": "匆忙;趕快"
+     "chinese": "匆忙；趕快"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "hypocorism",
     "pos": "n.",
     "definition": "A pet name or affectionate nickname.",
-    "chinese": "暱稱;愛稱",
+    "chinese": "暱稱；愛稱",
     "synonyms": "",
     "root": "hypokorizesthai (to use pet names), from Greek",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A pet name or affectionate nickname.",
-     "chinese": "暱稱;愛稱"
+     "chinese": "暱稱；愛稱"
     }
    },
    {
     "word": "hypocritical",
     "pos": "adj.",
     "definition": "Behaving in a way that contradicts one's stated beliefs.",
-    "chinese": "偽善的;虛偽的",
+    "chinese": "偽善的；虛偽的",
     "synonyms": "",
     "root": "hypokrites (actor, pretender), from Greek",
     "group": "",
@@ -381,7 +381,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behaving in a way that contradicts one's stated beliefs.",
-     "chinese": "偽善的;虛偽的"
+     "chinese": "偽善的；虛偽的"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "iatric",
     "pos": "adj.",
     "definition": "Relating to medicine or physicians.",
-    "chinese": "醫學的;醫療的",
+    "chinese": "醫學的；醫療的",
     "synonyms": "",
     "root": "iatros (healer), from Greek",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to medicine or physicians.",
-     "chinese": "醫學的;醫療的"
+     "chinese": "醫學的；醫療的"
     }
    },
    {
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "word": "ideal",
     "pos": "n./adj.",
     "definition": "A standard of perfection; existing only as a perfect example.",
-    "chinese": "理想;完美的",
+    "chinese": "理想；完美的",
     "synonyms": "",
     "root": "idea (form, pattern), from Greek",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A standard of perfection; existing only as a perfect example.",
-     "chinese": "理想;完美的"
+     "chinese": "理想；完美的"
     }
    },
    {
     "word": "idee fixe",
     "pos": "n.",
     "definition": "An idea that dominates a person's mind, often obsessively.",
-    "chinese": "固執的念頭;執念",
+    "chinese": "固執的念頭；執念",
     "synonyms": "",
     "root": "French idée (idea) + fixe (fixed)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An idea that dominates a person's mind, often obsessively.",
-     "chinese": "固執的念頭;執念"
+     "chinese": "固執的念頭；執念"
     }
    },
    {
     "word": "idiosyncrasy",
     "pos": "n.",
     "definition": "A peculiar or distinctive habit or trait.",
-    "chinese": "怪癖;特質",
+    "chinese": "怪癖；特質",
     "synonyms": "",
     "root": "idios (own) + syn (with) + krasis (mixture), from Greek",
     "group": "",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A peculiar or distinctive habit or trait.",
-     "chinese": "怪癖;特質"
+     "chinese": "怪癖；特質"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "ignoramus",
     "pos": "n.",
     "definition": "An ignorant or stupid person.",
-    "chinese": "無知的人;笨蛋",
+    "chinese": "無知的人；笨蛋",
     "synonyms": "",
     "root": "ignorare (to not know), from Latin",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An ignorant or stupid person.",
-     "chinese": "無知的人;笨蛋"
+     "chinese": "無知的人；笨蛋"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "ill-arrangeg",
     "pos": "adj.",
     "definition": "Poorly organized or arranged.",
-    "chinese": "安排不當的;雜亂無章的",
+    "chinese": "安排不當的；雜亂無章的",
     "synonyms": "",
     "root": "ill + arrange, from Old Norse + Old French",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poorly organized or arranged.",
-     "chinese": "安排不當的;雜亂無章的"
+     "chinese": "安排不當的；雜亂無章的"
     }
    },
    {
     "word": "ill-contrived",
     "pos": "adj.",
     "definition": "Poorly planned or devised.",
-    "chinese": "計畫不周的;拙劣構思的",
+    "chinese": "計畫不周的；拙劣構思的",
     "synonyms": "",
     "root": "ill + controver (to devise), from Old Norse + Old French",
     "group": "",
@@ -668,7 +668,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poorly planned or devised.",
-     "chinese": "計畫不周的;拙劣構思的"
+     "chinese": "計畫不周的；拙劣構思的"
     }
    },
    {
@@ -732,7 +732,7 @@ window.FLASHCARD_UNITS = {
     "word": "imbecile",
     "pos": "n./adj.",
     "definition": "A stupid person; extremely foolish.",
-    "chinese": "白痴;愚蠢的",
+    "chinese": "白痴；愚蠢的",
     "synonyms": "",
     "root": "imbecillus (weak, feeble), from Latin",
     "group": "",
@@ -744,14 +744,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stupid person; extremely foolish.",
-     "chinese": "白痴;愚蠢的"
+     "chinese": "白痴；愚蠢的"
     }
    },
    {
     "word": "imbroglio",
     "pos": "n.",
     "definition": "A confusing and complicated situation.",
-    "chinese": "糾紛;複雜局面",
+    "chinese": "糾紛；複雜局面",
     "synonyms": "",
     "root": "imbrogliare (to entangle), from Italian",
     "group": "",
@@ -763,14 +763,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confusing and complicated situation.",
-     "chinese": "糾紛;複雜局面"
+     "chinese": "糾紛；複雜局面"
     }
    },
    {
     "word": "imbrue",
     "pos": "v.",
     "definition": "To stain or soak, especially with blood.",
-    "chinese": "浸染;沾染(尤指鮮血)",
+    "chinese": "浸染；沾染(尤指鮮血)",
     "synonyms": "",
     "root": "imbevere (to drink in), from Latin, via Old Italian",
     "group": "",
@@ -784,14 +784,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To stain or soak, especially with blood.",
-     "chinese": "浸染;沾染(尤指鮮血)"
+     "chinese": "浸染；沾染(尤指鮮血)"
     }
    },
    {
     "word": "imbue",
     "pos": "v.",
     "definition": "To fill someone or something with a quality or feeling.",
-    "chinese": "灌輸;充滿",
+    "chinese": "灌輸；充滿",
     "synonyms": "",
     "root": "imbuere (to soak, saturate), from Latin",
     "group": "",
@@ -805,14 +805,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To fill someone or something with a quality or feeling.",
-     "chinese": "灌輸;充滿"
+     "chinese": "灌輸；充滿"
     }
    },
    {
     "word": "imbued",
     "pos": "adj.",
     "definition": "Filled or permeated with a quality or feeling.",
-    "chinese": "充滿的;灌注的",
+    "chinese": "充滿的；灌注的",
     "synonyms": "",
     "root": "imbuere (to soak, saturate), from Latin",
     "group": "",
@@ -824,7 +824,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Filled or permeated with a quality or feeling.",
-     "chinese": "充滿的;灌注的"
+     "chinese": "充滿的；灌注的"
     }
    },
    {
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "word": "immolate",
     "pos": "v.",
     "definition": "To kill or destroy, especially by fire, as a sacrifice.",
-    "chinese": "焚燒獻祭;犧牲",
+    "chinese": "焚燒獻祭；犧牲",
     "synonyms": "",
     "root": "immolare (to sprinkle with sacrificial meal), from Latin",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To kill or destroy, especially by fire, as a sacrifice.",
-     "chinese": "焚燒獻祭;犧牲"
+     "chinese": "焚燒獻祭；犧牲"
     }
    },
    {
     "word": "immolation",
     "pos": "n.",
     "definition": "The act of killing or destroying as a sacrifice, especially by fire.",
-    "chinese": "焚燒獻祭;自焚",
+    "chinese": "焚燒獻祭；自焚",
     "synonyms": "",
     "root": "immolare (to sprinkle with sacrificial meal), from Latin",
     "group": "",
@@ -900,7 +900,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of killing or destroying as a sacrifice, especially by fire.",
-     "chinese": "焚燒獻祭;自焚"
+     "chinese": "焚燒獻祭；自焚"
     }
    },
    {
@@ -926,7 +926,7 @@ window.FLASHCARD_UNITS = {
     "word": "imperial",
     "pos": "adj.",
     "definition": "Relating to an empire or emperor.",
-    "chinese": "帝國的;皇家的",
+    "chinese": "帝國的；皇家的",
     "synonyms": "",
     "root": "imperium (command, empire), from Latin",
     "group": "",
@@ -938,7 +938,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to an empire or emperor.",
-     "chinese": "帝國的;皇家的"
+     "chinese": "帝國的；皇家的"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hot-bloodedness": ["The quality of being easily excited to strong emotion.", "血氣方剛;易怒"], "hotchpotch": ["A confused mixture of things (British variant of hodgepodge).", "大雜燴(英式拼法)"], "however": ["Used to introduce a contrasting statement; in whatever way.", "然而;無論如何"], "hubris": ["Excessive pride or self-confidence.", "傲慢;狂妄自大"], "hubristic": ["Exhibiting excessive pride or self-confidence.", "傲慢自大的"], "huff": ["A fit of anger or indignation; to breathe heavily.", "慍怒;喘氣"], "huge": ["Extremely large in size or amount.", "巨大的"], "human": ["Relating to or characteristic of people; a person.", "人類的;人"], "humane": ["Showing compassion and benevolence.", "人道的;仁慈的"], "humanitarian": ["Concerned with human welfare; a person devoted to promoting welfare.", "人道主義的;人道主義者"], "humble": ["Modest or low estimate of one's importance.", "謙遜的"], "humbleness": ["The quality of having a modest sense of one's own importance.", "謙遜;謙卑"], "humdrum": ["Lacking excitement or variety; dull.", "單調乏味的"], "humility": ["Humbleness, modesty.", "謙卑；謙遜"], "hurricane": ["A severe tropical storm with violent winds.", "颶風"], "hurried": ["Done in a rush; hasty.", "匆忙的"], "hurry": ["To move or act with great speed; urgency.", "匆忙;趕快"], "hypnotize": ["To put someone into a state of hypnosis.", "催眠"], "hypocorism": ["A pet name or affectionate nickname.", "暱稱;愛稱"], "hypocritical": ["Behaving in a way that contradicts one's stated beliefs.", "偽善的;虛偽的"], "iamb": ["A metrical foot with an unstressed syllable followed by a stressed one.", "抑揚格(詩律)"], "iambic": ["Using a metrical pattern of unstressed followed by stressed syllables.", "抑揚格的"], "iatric": ["Relating to medicine or physicians.", "醫學的;醫療的"], "iconoclast": ["Image-breaker, attacker of beliefs.", "反傳統者"], "iconoclastic": ["Characterized by attack on established beliefs.", "反傳統的；打破偶像的"], "ideal": ["A standard of perfection; existing only as a perfect example.", "理想;完美的"], "idee fixe": ["An idea that dominates a person's mind, often obsessively.", "固執的念頭;執念"], "idiosyncrasy": ["A peculiar or distinctive habit or trait.", "怪癖;特質"], "idiosyncratic": ["Peculiar to one person; highly individualized.", "獨特的；特殊癖好的"], "idosyncracy": ["A variant spelling of idiosyncrasy, a peculiar or distinctive habit.", "怪癖(idiosyncrasy異體拼法)"], "idyllic": ["Simple, peaceful.", "田園詩般的"], "ignoramus": ["An ignorant or stupid person.", "無知的人;笨蛋"], "ilk": ["Kind, sort, type.", "種類；同類"], "ill-arrangeg": ["Poorly organized or arranged.", "安排不當的;雜亂無章的"], "ill-contrived": ["Poorly planned or devised.", "計畫不周的;拙劣構思的"], "illinois": ["A state in the midwestern United States.", "伊利諾州(美國中西部)"], "imaginative": ["Creative and full of new ideas.", "富有想像力的"], "imagine": ["To form a mental picture or idea of something.", "想像"], "imbecile": ["A stupid person; extremely foolish.", "白痴;愚蠢的"], "imbroglio": ["A confusing and complicated situation.", "糾紛;複雜局面"], "imbrue": ["To stain or soak, especially with blood.", "浸染;沾染(尤指鮮血)"], "imbue": ["To fill someone or something with a quality or feeling.", "灌輸;充滿"], "imbued": ["Filled or permeated with a quality or feeling.", "充滿的;灌注的"], "imitate": ["To copy the actions, appearance, or manner of another.", "模仿"], "imitation": ["A copy or replica of something.", "模仿；仿製品"], "immolate": ["To kill or destroy, especially by fire, as a sacrifice.", "焚燒獻祭;犧牲"], "immolation": ["The act of killing or destroying as a sacrifice, especially by fire.", "焚燒獻祭;自焚"], "imperative": ["Urgent, necessary, compulsory.", "必要的；命令的"], "imperial": ["Relating to an empire or emperor.", "帝國的;皇家的"], "imperialism": ["A policy of extending a country's power through colonization or military force.", "帝國主義"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hot-bloodedness": ["The quality of being easily excited to strong emotion.", "血氣方剛；易怒"], "hotchpotch": ["A confused mixture of things (British variant of hodgepodge).", "大雜燴(英式拼法)"], "however": ["Used to introduce a contrasting statement; in whatever way.", "然而；無論如何"], "hubris": ["Excessive pride or self-confidence.", "傲慢；狂妄自大"], "hubristic": ["Exhibiting excessive pride or self-confidence.", "傲慢自大的"], "huff": ["A fit of anger or indignation; to breathe heavily.", "慍怒；喘氣"], "huge": ["Extremely large in size or amount.", "巨大的"], "human": ["Relating to or characteristic of people; a person.", "人類的；人"], "humane": ["Showing compassion and benevolence.", "人道的；仁慈的"], "humanitarian": ["Concerned with human welfare; a person devoted to promoting welfare.", "人道主義的；人道主義者"], "humble": ["Modest or low estimate of one's importance.", "謙遜的"], "humbleness": ["The quality of having a modest sense of one's own importance.", "謙遜；謙卑"], "humdrum": ["Lacking excitement or variety; dull.", "單調乏味的"], "humility": ["Humbleness, modesty.", "謙卑；謙遜"], "hurricane": ["A severe tropical storm with violent winds.", "颶風"], "hurried": ["Done in a rush; hasty.", "匆忙的"], "hurry": ["To move or act with great speed; urgency.", "匆忙；趕快"], "hypnotize": ["To put someone into a state of hypnosis.", "催眠"], "hypocorism": ["A pet name or affectionate nickname.", "暱稱；愛稱"], "hypocritical": ["Behaving in a way that contradicts one's stated beliefs.", "偽善的；虛偽的"], "iamb": ["A metrical foot with an unstressed syllable followed by a stressed one.", "抑揚格(詩律)"], "iambic": ["Using a metrical pattern of unstressed followed by stressed syllables.", "抑揚格的"], "iatric": ["Relating to medicine or physicians.", "醫學的；醫療的"], "iconoclast": ["Image-breaker, attacker of beliefs.", "反傳統者"], "iconoclastic": ["Characterized by attack on established beliefs.", "反傳統的；打破偶像的"], "ideal": ["A standard of perfection; existing only as a perfect example.", "理想；完美的"], "idee fixe": ["An idea that dominates a person's mind, often obsessively.", "固執的念頭；執念"], "idiosyncrasy": ["A peculiar or distinctive habit or trait.", "怪癖；特質"], "idiosyncratic": ["Peculiar to one person; highly individualized.", "獨特的；特殊癖好的"], "idosyncracy": ["A variant spelling of idiosyncrasy, a peculiar or distinctive habit.", "怪癖(idiosyncrasy異體拼法)"], "idyllic": ["Simple, peaceful.", "田園詩般的"], "ignoramus": ["An ignorant or stupid person.", "無知的人；笨蛋"], "ilk": ["Kind, sort, type.", "種類；同類"], "ill-arrangeg": ["Poorly organized or arranged.", "安排不當的；雜亂無章的"], "ill-contrived": ["Poorly planned or devised.", "計畫不周的；拙劣構思的"], "illinois": ["A state in the midwestern United States.", "伊利諾州(美國中西部)"], "imaginative": ["Creative and full of new ideas.", "富有想像力的"], "imagine": ["To form a mental picture or idea of something.", "想像"], "imbecile": ["A stupid person; extremely foolish.", "白痴；愚蠢的"], "imbroglio": ["A confusing and complicated situation.", "糾紛；複雜局面"], "imbrue": ["To stain or soak, especially with blood.", "浸染；沾染(尤指鮮血)"], "imbue": ["To fill someone or something with a quality or feeling.", "灌輸；充滿"], "imbued": ["Filled or permeated with a quality or feeling.", "充滿的；灌注的"], "imitate": ["To copy the actions, appearance, or manner of another.", "模仿"], "imitation": ["A copy or replica of something.", "模仿；仿製品"], "immolate": ["To kill or destroy, especially by fire, as a sacrifice.", "焚燒獻祭；犧牲"], "immolation": ["The act of killing or destroying as a sacrifice, especially by fire.", "焚燒獻祭；自焚"], "imperative": ["Urgent, necessary, compulsory.", "必要的；命令的"], "imperial": ["Relating to an empire or emperor.", "帝國的；皇家的"], "imperialism": ["A policy of extending a country's power through colonization or military force.", "帝國主義"]});

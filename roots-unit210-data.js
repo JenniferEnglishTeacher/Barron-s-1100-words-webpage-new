@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "pimple",
     "pos": "n.",
     "definition": "A small inflamed spot on the skin.",
-    "chinese": "青春痘;粉刺",
+    "chinese": "青春痘；粉刺",
     "synonyms": "",
     "root": "of uncertain origin, related to pustule",
     "group": "",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small inflamed spot on the skin.",
-     "chinese": "青春痘;粉刺"
+     "chinese": "青春痘；粉刺"
     }
    },
    {
@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "pinto",
     "pos": "adj./n.",
     "definition": "Marked with patches of two colors, especially of a horse; a variety of bean.",
-    "chinese": "花斑的;花斑馬",
+    "chinese": "花斑的；花斑馬",
     "synonyms": "",
     "root": "pintar (to paint), from Spanish, from Latin pingere",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Marked with patches of two colors, especially of a horse; a variety of bean.",
-     "chinese": "花斑的;花斑馬"
+     "chinese": "花斑的；花斑馬"
     }
    },
    {
     "word": "pious",
     "pos": "adj.",
     "definition": "Devoutly religious; making a hypocritical show of virtue.",
-    "chinese": "虔誠的;偽善的",
+    "chinese": "虔誠的；偽善的",
     "synonyms": "",
     "root": "pius (dutiful, devout), from Latin",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Devoutly religious; making a hypocritical show of virtue.",
-     "chinese": "虔誠的;偽善的"
+     "chinese": "虔誠的；偽善的"
     }
    },
    {
     "word": "piquant",
     "pos": "adj.",
     "definition": "Having a pleasantly sharp taste or appeal; stimulating.",
-    "chinese": "辛辣開胃的;引人入勝的",
+    "chinese": "辛辣開胃的；引人入勝的",
     "synonyms": "",
     "root": "piquer (to prick, sting), from French",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a pleasantly sharp taste or appeal; stimulating.",
-     "chinese": "辛辣開胃的;引人入勝的"
+     "chinese": "辛辣開胃的；引人入勝的"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "pit",
     "pos": "n./v.",
     "definition": "A large hole in the ground; to set in opposition.",
-    "chinese": "坑洞;使對抗",
+    "chinese": "坑洞；使對抗",
     "synonyms": "",
     "root": "pytt (pit, hole), from Old English, from Latin puteus (well)",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large hole in the ground; to set in opposition.",
-     "chinese": "坑洞;使對抗"
+     "chinese": "坑洞；使對抗"
     }
    },
    {
@@ -200,7 +200,7 @@ window.FLASHCARD_UNITS = {
     "word": "pithiness",
     "pos": "n.",
     "definition": "The quality of being brief, forceful, and meaningful in expression.",
-    "chinese": "簡潔有力;言簡意賅",
+    "chinese": "簡潔有力；言簡意賅",
     "synonyms": "",
     "root": "pith (core, essence), from Old English piða",
     "group": "",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being brief, forceful, and meaningful in expression.",
-     "chinese": "簡潔有力;言簡意賅"
+     "chinese": "簡潔有力；言簡意賅"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "pitiable",
     "pos": "adj.",
     "definition": "Deserving or arousing pity.",
-    "chinese": "可憐的;令人同情的",
+    "chinese": "可憐的；令人同情的",
     "synonyms": "",
     "root": "pietas (piety, pity), from Latin",
     "group": "",
@@ -250,7 +250,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving or arousing pity.",
-     "chinese": "可憐的;令人同情的"
+     "chinese": "可憐的；令人同情的"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "placatory",
     "pos": "adj.",
     "definition": "Intended to placate or appease.",
-    "chinese": "撫慰的;安撫性的",
+    "chinese": "撫慰的；安撫性的",
     "synonyms": "",
     "root": "placare (to calm, appease), from Latin",
     "group": "",
@@ -326,7 +326,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intended to placate or appease.",
-     "chinese": "撫慰的;安撫性的"
+     "chinese": "撫慰的；安撫性的"
     }
    },
    {
@@ -352,7 +352,7 @@ window.FLASHCARD_UNITS = {
     "word": "placidity",
     "pos": "n.",
     "definition": "The state of being calm and peaceful.",
-    "chinese": "平靜;沉著",
+    "chinese": "平靜；沉著",
     "synonyms": "",
     "root": "placidus (calm, gentle), from Latin placere (to please)",
     "group": "",
@@ -364,14 +364,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being calm and peaceful.",
-     "chinese": "平靜;沉著"
+     "chinese": "平靜；沉著"
     }
    },
    {
     "word": "plain",
     "pos": "adj./n.",
     "definition": "Clear and simple; a large area of flat land.",
-    "chinese": "簡樸的;平原",
+    "chinese": "簡樸的；平原",
     "synonyms": "",
     "root": "planus (flat, level), from Latin",
     "group": "",
@@ -385,7 +385,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Clear and simple; a large area of flat land.",
-     "chinese": "簡樸的;平原"
+     "chinese": "簡樸的；平原"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "plaint",
     "pos": "n.",
     "definition": "A formal expression of grief or accusation.",
-    "chinese": "訴苦;控訴",
+    "chinese": "訴苦；控訴",
     "synonyms": "",
     "root": "planctus (lamentation), from Latin plangere (to lament)",
     "group": "",
@@ -423,7 +423,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal expression of grief or accusation.",
-     "chinese": "訴苦;控訴"
+     "chinese": "訴苦；控訴"
     }
    },
    {
@@ -449,7 +449,7 @@ window.FLASHCARD_UNITS = {
     "word": "plaintive",
     "pos": "adj.",
     "definition": "Expressing sadness or sorrow.",
-    "chinese": "哀傷的;悲切的",
+    "chinese": "哀傷的；悲切的",
     "synonyms": "",
     "root": "plaintif (complaining), from Old French plaindre (to lament)",
     "group": "",
@@ -461,14 +461,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing sadness or sorrow.",
-     "chinese": "哀傷的;悲切的"
+     "chinese": "哀傷的；悲切的"
     }
    },
    {
     "word": "plangent",
     "pos": "adj.",
     "definition": "Having a loud, mournful, reverberating sound.",
-    "chinese": "轟鳴悲鳴的;迴盪哀傷的",
+    "chinese": "轟鳴悲鳴的；迴盪哀傷的",
     "synonyms": "",
     "root": "plangere (to lament, beat the breast), from Latin",
     "group": "",
@@ -480,7 +480,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a loud, mournful, reverberating sound.",
-     "chinese": "轟鳴悲鳴的;迴盪哀傷的"
+     "chinese": "轟鳴悲鳴的；迴盪哀傷的"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "pleasure",
     "pos": "n.",
     "definition": "A feeling of happy satisfaction and enjoyment.",
-    "chinese": "愉悅;樂趣",
+    "chinese": "愉悅；樂趣",
     "synonyms": "",
     "root": "plaisir (pleasure), from Old French, from Latin placere (to please)",
     "group": "",
@@ -655,14 +655,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A feeling of happy satisfaction and enjoyment.",
-     "chinese": "愉悅;樂趣"
+     "chinese": "愉悅；樂趣"
     }
    },
    {
     "word": "plebeian",
     "pos": "n./adj.",
     "definition": "Relating to the common people; lacking refinement.",
-    "chinese": "平民的;粗俗的",
+    "chinese": "平民的；粗俗的",
     "synonyms": "",
     "root": "plebeius (of the common people), from Latin plebs (common people)",
     "group": "",
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the common people; lacking refinement.",
-     "chinese": "平民的;粗俗的"
+     "chinese": "平民的；粗俗的"
     }
    },
    {
@@ -757,7 +757,7 @@ window.FLASHCARD_UNITS = {
     "word": "pleonastic",
     "pos": "adj.",
     "definition": "Using more words than necessary; redundant.",
-    "chinese": "冗贅的;贅述的",
+    "chinese": "冗贅的；贅述的",
     "synonyms": "",
     "root": "pleonazein (to be superfluous), from Greek pleon (more)",
     "group": "",
@@ -769,7 +769,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using more words than necessary; redundant.",
-     "chinese": "冗贅的;贅述的"
+     "chinese": "冗贅的；贅述的"
     }
    },
    {
@@ -795,7 +795,7 @@ window.FLASHCARD_UNITS = {
     "word": "plethoric",
     "pos": "adj.",
     "definition": "Excessively full or overabundant.",
-    "chinese": "過多的;充血的",
+    "chinese": "過多的；充血的",
     "synonyms": "",
     "root": "plethora (fullness), from Greek plethein (to be full)",
     "group": "",
@@ -807,7 +807,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively full or overabundant.",
-     "chinese": "過多的;充血的"
+     "chinese": "過多的；充血的"
     }
    },
    {
@@ -833,7 +833,7 @@ window.FLASHCARD_UNITS = {
     "word": "pliant",
     "pos": "adj.",
     "definition": "Bending easily; adaptable or easily influenced.",
-    "chinese": "柔韌的;易受影響的",
+    "chinese": "柔韌的；易受影響的",
     "synonyms": "",
     "root": "pliant (bending), from French plier (to bend), from Latin plicare",
     "group": "",
@@ -845,7 +845,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bending easily; adaptable or easily influenced.",
-     "chinese": "柔韌的;易受影響的"
+     "chinese": "柔韌的；易受影響的"
     }
    },
    {
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
     "word": "plunder",
     "pos": "v./n.",
     "definition": "To steal goods by force, especially during war; the goods stolen.",
-    "chinese": "掠奪;戰利品",
+    "chinese": "掠奪；戰利品",
     "synonyms": "",
     "root": "plunder (household goods), from German plunder, via Dutch",
     "group": "",
@@ -902,7 +902,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To steal goods by force, especially during war; the goods stolen.",
-     "chinese": "掠奪;戰利品"
+     "chinese": "掠奪；戰利品"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "plutocracy",
     "pos": "n.",
     "definition": "A society or government ruled by the wealthy.",
-    "chinese": "富豪統治;金權政治",
+    "chinese": "富豪統治；金權政治",
     "synonyms": "",
     "root": "ploutos (wealth) + kratos (power), from Greek",
     "group": "",
@@ -940,7 +940,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A society or government ruled by the wealthy.",
-     "chinese": "富豪統治;金權政治"
+     "chinese": "富豪統治；金權政治"
     }
    },
    {
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pillage": ["To seize or plunder, especially in war.", "掠奪；搶劫"], "pimple": ["A small inflamed spot on the skin.", "青春痘;粉刺"], "pinnacle": ["Summit, peak, top, crown.", "頂點；巔峰"], "pinto": ["Marked with patches of two colors, especially of a horse; a variety of bean.", "花斑的;花斑馬"], "pious": ["Devoutly religious; making a hypocritical show of virtue.", "虔誠的;偽善的"], "piquant": ["Having a pleasantly sharp taste or appeal; stimulating.", "辛辣開胃的;引人入勝的"], "pique": ["Fit of resentment.", "生氣；怨恨"], "piscine": ["Of or relating to fish.", "魚類的"], "pit": ["A large hole in the ground; to set in opposition.", "坑洞;使對抗"], "pitfall": ["An unseen danger, risk, or drawback.", "陷阱；隱患"], "pithiness": ["The quality of being brief, forceful, and meaningful in expression.", "簡潔有力;言簡意賅"], "pithy": ["Brief and full of meaning and substance; concise.", "言簡意賅的；精闢的"], "pitiable": ["Deserving or arousing pity.", "可憐的;令人同情的"], "pittance": ["Small amount.", "少量；微薄的薪水"], "placard": ["Poster.", "海報；標語牌"], "placate": ["To make calm; to soothe.", "撫慰；使平息"], "placatory": ["Intended to placate or appease.", "撫慰的;安撫性的"], "placid": ["Calm, peaceful.", "平靜的；安詳的"], "placidity": ["The state of being calm and peaceful.", "平靜;沉著"], "plain": ["Clear and simple; a large area of flat land.", "簡樸的;平原"], "plain-spoken": ["Expressing oneself directly and honestly, without diplomatic evasion.", "直言不諱的"], "plaint": ["A formal expression of grief or accusation.", "訴苦;控訴"], "plaintiff": ["Complaining party (in law).", "原告"], "plaintive": ["Expressing sadness or sorrow.", "哀傷的;悲切的"], "plangent": ["Having a loud, mournful, reverberating sound.", "轟鳴悲鳴的;迴盪哀傷的"], "platitude": ["Meaningless from overuse, trivial.", "陳腔濫調"], "platitudinarian": ["A person given to using clichés or platitudes.", "愛用陳腔濫調的人"], "platitudinize": ["To utter clichés or trite remarks.", "說陳腔濫調"], "platitudinous": ["Dull and tiresome but with pretensions of significance.", "陳腐的；老套的"], "platypus": ["A flat-footed, egg-laying mammal native to Australia.", "鴨嘴獸"], "plaudits": ["Enthusiastic approval, applause.", "喝采；讚譽"], "plausible": ["Believable, reasonable.", "似乎合理的；可信的"], "playboy": ["A wealthy man who spends his time enjoying leisure and casual relationships.", "花花公子"], "pleasure": ["A feeling of happy satisfaction and enjoyment.", "愉悅;樂趣"], "plebeian": ["Relating to the common people; lacking refinement.", "平民的;粗俗的"], "plebian": ["A variant spelling of plebeian, relating to the common people.", "平民的(異體拼法)"], "plebs": ["The common people, especially in ancient Rome.", "平民百姓"], "pleonasm": ["The use of more words than necessary to express meaning.", "冗詞贅語"], "pleonast": ["A person who habitually uses more words than necessary.", "愛用贅詞的人"], "pleonastic": ["Using more words than necessary; redundant.", "冗贅的;贅述的"], "plethora": ["Excess.", "過多"], "plethoric": ["Excessively full or overabundant.", "過多的;充血的"], "pliable": ["Flexible.", "柔軟的；易受影響的"], "pliant": ["Bending easily; adaptable or easily influenced.", "柔韌的;易受影響的"], "pliers": ["A tool with pincers for holding or bending objects.", "鉗子"], "plight": ["Predicament, dangerous situation.", "困境；苦境"], "plunder": ["To steal goods by force, especially during war; the goods stolen.", "掠奪;戰利品"], "plundering": ["The act of stealing goods by force.", "掠奪(行為)"], "plutocracy": ["A society or government ruled by the wealthy.", "富豪統治;金權政治"], "plutocrat": ["A person whose power derives from great wealth.", "富豪統治者"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pillage": ["To seize or plunder, especially in war.", "掠奪；搶劫"], "pimple": ["A small inflamed spot on the skin.", "青春痘；粉刺"], "pinnacle": ["Summit, peak, top, crown.", "頂點；巔峰"], "pinto": ["Marked with patches of two colors, especially of a horse; a variety of bean.", "花斑的；花斑馬"], "pious": ["Devoutly religious; making a hypocritical show of virtue.", "虔誠的；偽善的"], "piquant": ["Having a pleasantly sharp taste or appeal; stimulating.", "辛辣開胃的；引人入勝的"], "pique": ["Fit of resentment.", "生氣；怨恨"], "piscine": ["Of or relating to fish.", "魚類的"], "pit": ["A large hole in the ground; to set in opposition.", "坑洞；使對抗"], "pitfall": ["An unseen danger, risk, or drawback.", "陷阱；隱患"], "pithiness": ["The quality of being brief, forceful, and meaningful in expression.", "簡潔有力；言簡意賅"], "pithy": ["Brief and full of meaning and substance; concise.", "言簡意賅的；精闢的"], "pitiable": ["Deserving or arousing pity.", "可憐的；令人同情的"], "pittance": ["Small amount.", "少量；微薄的薪水"], "placard": ["Poster.", "海報；標語牌"], "placate": ["To make calm; to soothe.", "撫慰；使平息"], "placatory": ["Intended to placate or appease.", "撫慰的；安撫性的"], "placid": ["Calm, peaceful.", "平靜的；安詳的"], "placidity": ["The state of being calm and peaceful.", "平靜；沉著"], "plain": ["Clear and simple; a large area of flat land.", "簡樸的；平原"], "plain-spoken": ["Expressing oneself directly and honestly, without diplomatic evasion.", "直言不諱的"], "plaint": ["A formal expression of grief or accusation.", "訴苦；控訴"], "plaintiff": ["Complaining party (in law).", "原告"], "plaintive": ["Expressing sadness or sorrow.", "哀傷的；悲切的"], "plangent": ["Having a loud, mournful, reverberating sound.", "轟鳴悲鳴的；迴盪哀傷的"], "platitude": ["Meaningless from overuse, trivial.", "陳腔濫調"], "platitudinarian": ["A person given to using clichés or platitudes.", "愛用陳腔濫調的人"], "platitudinize": ["To utter clichés or trite remarks.", "說陳腔濫調"], "platitudinous": ["Dull and tiresome but with pretensions of significance.", "陳腐的；老套的"], "platypus": ["A flat-footed, egg-laying mammal native to Australia.", "鴨嘴獸"], "plaudits": ["Enthusiastic approval, applause.", "喝采；讚譽"], "plausible": ["Believable, reasonable.", "似乎合理的；可信的"], "playboy": ["A wealthy man who spends his time enjoying leisure and casual relationships.", "花花公子"], "pleasure": ["A feeling of happy satisfaction and enjoyment.", "愉悅；樂趣"], "plebeian": ["Relating to the common people; lacking refinement.", "平民的；粗俗的"], "plebian": ["A variant spelling of plebeian, relating to the common people.", "平民的(異體拼法)"], "plebs": ["The common people, especially in ancient Rome.", "平民百姓"], "pleonasm": ["The use of more words than necessary to express meaning.", "冗詞贅語"], "pleonast": ["A person who habitually uses more words than necessary.", "愛用贅詞的人"], "pleonastic": ["Using more words than necessary; redundant.", "冗贅的；贅述的"], "plethora": ["Excess.", "過多"], "plethoric": ["Excessively full or overabundant.", "過多的；充血的"], "pliable": ["Flexible.", "柔軟的；易受影響的"], "pliant": ["Bending easily; adaptable or easily influenced.", "柔韌的；易受影響的"], "pliers": ["A tool with pincers for holding or bending objects.", "鉗子"], "plight": ["Predicament, dangerous situation.", "困境；苦境"], "plunder": ["To steal goods by force, especially during war; the goods stolen.", "掠奪；戰利品"], "plundering": ["The act of stealing goods by force.", "掠奪(行為)"], "plutocracy": ["A society or government ruled by the wealthy.", "富豪統治；金權政治"], "plutocrat": ["A person whose power derives from great wealth.", "富豪統治者"]});

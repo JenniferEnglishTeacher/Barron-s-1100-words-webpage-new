@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "abstinence",
     "pos": "n.",
     "definition": "The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.",
-    "chinese": "節制;戒絕",
+    "chinese": "節制；戒絕",
     "synonyms": "",
     "root": "abs- (away) + tenere (to hold)",
     "group": "tain = 握住",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.",
-     "chinese": "節制;戒絕"
+     "chinese": "節制；戒絕"
     }
    },
    {
     "word": "continual",
     "pos": "adj.",
     "definition": "Happening frequently, with intervals in between.",
-    "chinese": "頻繁的;反覆的",
+    "chinese": "頻繁的；反覆的",
     "synonyms": "",
     "root": "con- (together) + tenere (to hold), from Latin",
     "group": "tain = 握住",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Happening frequently, with intervals in between.",
-     "chinese": "頻繁的;反覆的"
+     "chinese": "頻繁的；反覆的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "sustenance",
     "pos": "n.",
     "definition": "Food and drink needed to maintain life; support.",
-    "chinese": "食物;維生;支持",
+    "chinese": "食物；維生；支持",
     "synonyms": "",
     "root": "sustinere, from Latin sub- (up) + tenere (to hold)",
     "group": "tain = 握住",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Food and drink needed to maintain life; support.",
-     "chinese": "食物;維生;支持"
+     "chinese": "食物；維生；支持"
     }
    }
   ],
@@ -526,4 +526,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pertinent": ["Appropriate:related.", "相關的"], "tenacious": ["Tough, stubborn.", "頑強的；固執的"], "countenance": ["To tolerate, approve.", "支持；贊同；面容"], "tenable": ["Supportable, defendable.", "站得住腳的；可防守的"], "abstain": ["To restrain oneself from doing or enjoying something.", "戒絕；棄權"], "abstinence": ["The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.", "節制;戒絕"], "continual": ["Happening frequently, with intervals in between.", "頻繁的;反覆的"], "continue": ["To persist in an activity or process without stopping.", "繼續"], "continuous": ["Without interruption; unbroken.", "連續不斷的"], "pertinacious": ["Stubbornly persistent.", "頑強的；固執的"], "retain": ["To keep or hold onto.", "保留；保持"], "sustenance": ["Food and drink needed to maintain life; support.", "食物;維生;支持"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pertinent": ["Appropriate:related.", "相關的"], "tenacious": ["Tough, stubborn.", "頑強的；固執的"], "countenance": ["To tolerate, approve.", "支持；贊同；面容"], "tenable": ["Supportable, defendable.", "站得住腳的；可防守的"], "abstain": ["To restrain oneself from doing or enjoying something.", "戒絕；棄權"], "abstinence": ["The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.", "節制；戒絕"], "continual": ["Happening frequently, with intervals in between.", "頻繁的；反覆的"], "continue": ["To persist in an activity or process without stopping.", "繼續"], "continuous": ["Without interruption; unbroken.", "連續不斷的"], "pertinacious": ["Stubbornly persistent.", "頑強的；固執的"], "retain": ["To keep or hold onto.", "保留；保持"], "sustenance": ["Food and drink needed to maintain life; support.", "食物；維生；支持"]});

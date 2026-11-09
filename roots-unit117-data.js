@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "impediment",
     "pos": "n.",
     "definition": "An obstacle that hinders progress.",
-    "chinese": "阻礙;障礙",
+    "chinese": "阻礙；障礙",
     "synonyms": "",
     "root": "in- (in) + pes (foot), from Latin",
     "group": "ped = 腳；足",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An obstacle that hinders progress.",
-     "chinese": "阻礙;障礙"
+     "chinese": "阻礙；障礙"
     }
    },
    {
     "word": "pawn",
     "pos": "n./v.",
     "definition": "A person used to further another's purposes; to give as security for a loan.",
-    "chinese": "棋子;典當",
+    "chinese": "棋子；典當",
     "synonyms": "",
     "root": "pedon (foot soldier), from Latin pes (foot), via Old French",
     "group": "ped = 腳；足",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person used to further another's purposes; to give as security for a loan.",
-     "chinese": "棋子;典當"
+     "chinese": "棋子；典當"
     }
    },
    {
     "word": "pedant",
     "pos": "n.",
     "definition": "A person who is overly concerned with minor details or rules.",
-    "chinese": "拘泥細節的人;賣弄學問者",
+    "chinese": "拘泥細節的人；賣弄學問者",
     "synonyms": "",
     "root": "pedante (teacher), from Italian, ultimately from Greek paideuein (to educate)",
     "group": "ped = 腳；足",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who is overly concerned with minor details or rules.",
-     "chinese": "拘泥細節的人;賣弄學問者"
+     "chinese": "拘泥細節的人；賣弄學問者"
     }
    },
    {
     "word": "pedantic",
     "pos": "adj.",
     "definition": "Excessively concerned with minor details or formal rules.",
-    "chinese": "拘泥形式的;學究氣的",
+    "chinese": "拘泥形式的；學究氣的",
     "synonyms": "",
     "root": "pedante (teacher), from Italian, ultimately from Greek paideuein (to educate)",
     "group": "ped = 腳；足",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively concerned with minor details or formal rules.",
-     "chinese": "拘泥形式的;學究氣的"
+     "chinese": "拘泥形式的；學究氣的"
     }
    },
    {
     "word": "pedantry",
     "pos": "n.",
     "definition": "Excessive concern with minor details or formal rules.",
-    "chinese": "學究氣;拘泥細節",
+    "chinese": "學究氣；拘泥細節",
     "synonyms": "",
     "root": "pedante (teacher), from Italian, ultimately from Greek paideuein (to educate)",
     "group": "ped = 腳；足",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive concern with minor details or formal rules.",
-     "chinese": "學究氣;拘泥細節"
+     "chinese": "學究氣；拘泥細節"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "sesquipedalian",
     "pos": "adj.",
     "definition": "Characterized by long words; given to using long words.",
-    "chinese": "愛用長字的;多音節的",
+    "chinese": "愛用長字的；多音節的",
     "synonyms": "",
     "root": "sesqui- (one and a half) + pes, pedis (foot), from Latin",
     "group": "ped = 腳；足",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characterized by long words; given to using long words.",
-     "chinese": "愛用長字的;多音節的"
+     "chinese": "愛用長字的；多音節的"
     }
    }
   ],
@@ -440,4 +440,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"impede": ["To interfere, block, hinder.", "阻礙；妨礙"], "expedite": ["To carry out promptly.", "加速；促進"], "expedient": ["Convenient, opportunistic.", "權宜的；方便的"], "impediment": ["An obstacle that hinders progress.", "阻礙;障礙"], "pawn": ["A person used to further another's purposes; to give as security for a loan.", "棋子;典當"], "pedant": ["A person who is overly concerned with minor details or rules.", "拘泥細節的人;賣弄學問者"], "pedantic": ["Excessively concerned with minor details or formal rules.", "拘泥形式的;學究氣的"], "pedantry": ["Excessive concern with minor details or formal rules.", "學究氣;拘泥細節"], "pedestrian": ["A person who travels by foot.", "行人"], "sesquipedalian": ["Characterized by long words; given to using long words.", "愛用長字的;多音節的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"impede": ["To interfere, block, hinder.", "阻礙；妨礙"], "expedite": ["To carry out promptly.", "加速；促進"], "expedient": ["Convenient, opportunistic.", "權宜的；方便的"], "impediment": ["An obstacle that hinders progress.", "阻礙；障礙"], "pawn": ["A person used to further another's purposes; to give as security for a loan.", "棋子；典當"], "pedant": ["A person who is overly concerned with minor details or rules.", "拘泥細節的人；賣弄學問者"], "pedantic": ["Excessively concerned with minor details or formal rules.", "拘泥形式的；學究氣的"], "pedantry": ["Excessive concern with minor details or formal rules.", "學究氣；拘泥細節"], "pedestrian": ["A person who travels by foot.", "行人"], "sesquipedalian": ["Characterized by long words; given to using long words.", "愛用長字的；多音節的"]});

@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "inalienable",
     "pos": "adj.",
     "definition": "Unable to be taken away or transferred.",
-    "chinese": "不可剝奪的;不可轉讓的",
+    "chinese": "不可剝奪的；不可轉讓的",
     "synonyms": "",
     "root": "in- (not) + alienare (to make foreign), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be taken away or transferred.",
-     "chinese": "不可剝奪的;不可轉讓的"
+     "chinese": "不可剝奪的；不可轉讓的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "inapplicable",
     "pos": "adj.",
     "definition": "Not relevant or appropriate.",
-    "chinese": "不適用的;不相關的",
+    "chinese": "不適用的；不相關的",
     "synonyms": "",
     "root": "in- (not) + applicare (to apply), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not relevant or appropriate.",
-     "chinese": "不適用的;不相關的"
+     "chinese": "不適用的；不相關的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "incompetent",
     "pos": "adj.",
     "definition": "Not having the necessary skill to do something successfully.",
-    "chinese": "無能的;不稱職的",
+    "chinese": "無能的；不稱職的",
     "synonyms": "",
     "root": "in- (not) + competere (to be suitable), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not having the necessary skill to do something successfully.",
-     "chinese": "無能的;不稱職的"
+     "chinese": "無能的；不稱職的"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "incondite",
     "pos": "adj.",
     "definition": "Poorly organized or crudely put together.",
-    "chinese": "組織不良的;粗製濫造的",
+    "chinese": "組織不良的；粗製濫造的",
     "synonyms": "",
     "root": "in- (not) + condere (to construct), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Poorly organized or crudely put together.",
-     "chinese": "組織不良的;粗製濫造的"
+     "chinese": "組織不良的；粗製濫造的"
     }
    },
    {
@@ -329,7 +329,7 @@ window.FLASHCARD_UNITS = {
     "word": "inconsistent",
     "pos": "adj.",
     "definition": "Not staying the same; contradictory.",
-    "chinese": "不一致的;矛盾的",
+    "chinese": "不一致的；矛盾的",
     "synonyms": "",
     "root": "in- (not) + consistere (to stand together), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not staying the same; contradictory.",
-     "chinese": "不一致的;矛盾的"
+     "chinese": "不一致的；矛盾的"
     }
    },
    {
     "word": "inconsolable",
     "pos": "adj.",
     "definition": "Unable to be comforted; deeply unhappy.",
-    "chinese": "無法安慰的;悲痛欲絕的",
+    "chinese": "無法安慰的；悲痛欲絕的",
     "synonyms": "",
     "root": "in- (not) + consolari (to console), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -360,7 +360,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be comforted; deeply unhappy.",
-     "chinese": "無法安慰的;悲痛欲絕的"
+     "chinese": "無法安慰的；悲痛欲絕的"
     }
    },
    {
@@ -386,7 +386,7 @@ window.FLASHCARD_UNITS = {
     "word": "incontestable",
     "pos": "adj.",
     "definition": "Not able to be disputed; certain.",
-    "chinese": "無可爭辯的;確鑿的",
+    "chinese": "無可爭辯的；確鑿的",
     "synonyms": "",
     "root": "in- (not) + contestari (to call to witness), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be disputed; certain.",
-     "chinese": "無可爭辯的;確鑿的"
+     "chinese": "無可爭辯的；確鑿的"
     }
    },
    {
@@ -424,7 +424,7 @@ window.FLASHCARD_UNITS = {
     "word": "incorporeal",
     "pos": "adj.",
     "definition": "Not having a physical body or form.",
-    "chinese": "無形的;非物質的",
+    "chinese": "無形的；非物質的",
     "synonyms": "",
     "root": "in- (not) + corpus (body), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -436,14 +436,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not having a physical body or form.",
-     "chinese": "無形的;非物質的"
+     "chinese": "無形的；非物質的"
     }
    },
    {
     "word": "incorrigibility",
     "pos": "n.",
     "definition": "The inability to be reformed or corrected.",
-    "chinese": "不可救藥;無法矯正",
+    "chinese": "不可救藥；無法矯正",
     "synonyms": "",
     "root": "in- (not) + corrigo (correct), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -455,7 +455,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The inability to be reformed or corrected.",
-     "chinese": "不可救藥;無法矯正"
+     "chinese": "不可救藥；無法矯正"
     }
    },
    {
@@ -481,7 +481,7 @@ window.FLASHCARD_UNITS = {
     "word": "incorruptibility",
     "pos": "n.",
     "definition": "The quality of being unable to be corrupted or bribed.",
-    "chinese": "不可腐蝕性;廉潔",
+    "chinese": "不可腐蝕性；廉潔",
     "synonyms": "",
     "root": "in- (not) + corrumpere (to destroy, corrupt), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -493,14 +493,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being unable to be corrupted or bribed.",
-     "chinese": "不可腐蝕性;廉潔"
+     "chinese": "不可腐蝕性；廉潔"
     }
    },
    {
     "word": "incorruptible",
     "pos": "adj.",
     "definition": "Unable to be corrupted or bribed.",
-    "chinese": "不可腐蝕的;廉潔的",
+    "chinese": "不可腐蝕的；廉潔的",
     "synonyms": "",
     "root": "in- (not) + corrumpere (to destroy, corrupt), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -512,14 +512,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be corrupted or bribed.",
-     "chinese": "不可腐蝕的;廉潔的"
+     "chinese": "不可腐蝕的；廉潔的"
     }
    },
    {
     "word": "incredible",
     "pos": "adj.",
     "definition": "Impossible or hard to believe; extraordinary.",
-    "chinese": "難以置信的;驚人的",
+    "chinese": "難以置信的；驚人的",
     "synonyms": "",
     "root": "in- (not) + credere (to believe), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -531,7 +531,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible or hard to believe; extraordinary.",
-     "chinese": "難以置信的;驚人的"
+     "chinese": "難以置信的；驚人的"
     }
    },
    {
@@ -614,7 +614,7 @@ window.FLASHCARD_UNITS = {
     "word": "indefeasible",
     "pos": "adj.",
     "definition": "Not able to be forfeited or overturned.",
-    "chinese": "不可剝奪的;不可廢止的",
+    "chinese": "不可剝奪的；不可廢止的",
     "synonyms": "",
     "root": "in- (not) + defaire (to undo), from Old French",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -626,14 +626,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be forfeited or overturned.",
-     "chinese": "不可剝奪的;不可廢止的"
+     "chinese": "不可剝奪的；不可廢止的"
     }
    },
    {
     "word": "indefinite",
     "pos": "adj.",
     "definition": "Not precisely determined; vague.",
-    "chinese": "不確定的;無限期的",
+    "chinese": "不確定的；無限期的",
     "synonyms": "",
     "root": "in- (not) + definire (to limit, end), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -645,14 +645,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not precisely determined; vague.",
-     "chinese": "不確定的;無限期的"
+     "chinese": "不確定的；無限期的"
     }
    },
    {
     "word": "indelicate",
     "pos": "adj.",
     "definition": "Lacking tact or discretion; crude.",
-    "chinese": "不得體的;粗俗的",
+    "chinese": "不得體的；粗俗的",
     "synonyms": "",
     "root": "in- (not) + delicatus (delicate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -664,7 +664,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking tact or discretion; crude.",
-     "chinese": "不得體的;粗俗的"
+     "chinese": "不得體的；粗俗的"
     }
    },
    {
@@ -766,7 +766,7 @@ window.FLASHCARD_UNITS = {
     "word": "indiscernible",
     "pos": "adj.",
     "definition": "Not able to be perceived or recognized clearly.",
-    "chinese": "難以辨別的;不明顯的",
+    "chinese": "難以辨別的；不明顯的",
     "synonyms": "",
     "root": "in- (not) + discernere (to discern), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -778,7 +778,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be perceived or recognized clearly.",
-     "chinese": "難以辨別的;不明顯的"
+     "chinese": "難以辨別的；不明顯的"
     }
    },
    {
@@ -842,7 +842,7 @@ window.FLASHCARD_UNITS = {
     "word": "indolence",
     "pos": "n.",
     "definition": "A state of laziness or avoidance of exertion.",
-    "chinese": "懶散;怠惰",
+    "chinese": "懶散；怠惰",
     "synonyms": "",
     "root": "in- (not) + dolere (to suffer, feel pain), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -854,7 +854,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of laziness or avoidance of exertion.",
-     "chinese": "懶散;怠惰"
+     "chinese": "懶散；怠惰"
     }
    },
    {
@@ -2158,4 +2158,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "inalienable": ["Unable to be taken away or transferred.", "不可剝奪的;不可轉讓的"], "inanimate": ["Lifeless.", "無生命的"], "inapplicable": ["Not relevant or appropriate.", "不適用的;不相關的"], "inappropriate": ["Not suitable or proper in the circumstances.", "不恰當的"], "inarticulate": ["Incapable of expressing oneself clearly through speech.", "口齒不清的；表達不清的"], "incapacitated": ["Disabled, made unfit.", "失去能力的"], "incessant": ["Continuing without pause or interruption.", "不停的；持續不斷的"], "inclement": ["Unfavorable, stormy.", "惡劣的(天氣)"], "incoherent": ["Disjointed.", "語無倫次的；不連貫的"], "incomparable": ["Without equal; beyond comparison.", "無與倫比的"], "incompatibility": ["Quality of being mismatched, lack of harmony.", "不相容；不協調"], "incompetent": ["Not having the necessary skill to do something successfully.", "無能的;不稱職的"], "inconclusive": ["Not leading to a clear or definite conclusion; ambiguous.", "不確定的；未有定論的"], "incondite": ["Poorly organized or crudely put together.", "組織不良的;粗製濫造的"], "incongruous": ["Out of place.", "不協調的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "inconsistent": ["Not staying the same; contradictory.", "不一致的;矛盾的"], "inconsolable": ["Unable to be comforted; deeply unhappy.", "無法安慰的;悲痛欲絕的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "incontestable": ["Not able to be disputed; certain.", "無可爭辯的;確鑿的"], "incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "incorporeal": ["Not having a physical body or form.", "無形的;非物質的"], "incorrigibility": ["The inability to be reformed or corrected.", "不可救藥;無法矯正"], "incorrigible": ["Incapable of correction, delinquent.", "無可救藥的；積習難改的"], "incorruptibility": ["The quality of being unable to be corrupted or bribed.", "不可腐蝕性;廉潔"], "incorruptible": ["Unable to be corrupted or bribed.", "不可腐蝕的;廉潔的"], "incredible": ["Impossible or hard to believe; extraordinary.", "難以置信的;驚人的"], "incredulous": ["Skeptical:suspicious.", "懷疑的；不輕信的"], "incurable": ["Not able to be cured or healed.", "無法治癒的"], "indecipherable": ["Impossible to read, interpret, or understand due to lack of clarity or complexity.", "難以辨認的；無法解讀的"], "indefatigable": ["Incapable of defeat, failure, decay.", "不屈不撓的；不知疲倦的"], "indefeasible": ["Not able to be forfeited or overturned.", "不可剝奪的;不可廢止的"], "indefinite": ["Not precisely determined; vague.", "不確定的;無限期的"], "indelicate": ["Lacking tact or discretion; crude.", "不得體的;粗俗的"], "indescribable": ["Too extreme or unusual to be described.", "難以形容的"], "indifference": ["Lack of concern.", "漠不關心"], "indifferent": ["Apathetic; showing little or no concern or care.", "漠不關心的"], "indignant": ["Angry.", "憤慨的"], "indignation": ["Anger sparked by something unjust or unfair.", "憤慨；義憤"], "indiscernible": ["Not able to be perceived or recognized clearly.", "難以辨別的;不明顯的"], "indiscriminate": ["Choosing at random without careful selection.", "不加選擇的"], "indisputable": ["Unable to be challenged or denied.", "無可爭議的"], "indistinct": ["Not clear or sharply defined.", "模糊不清的"], "indolence": ["A state of laziness or avoidance of exertion.", "懶散;怠惰"], "indolent": ["Lazy.", "懶惰的"], "indomitable": ["Not capable of being conquered.", "不屈不撓的；難以征服的"], "indubitable": ["Impossible to doubt; unquestionable.", "無庸置疑的"], "ineffable": ["Unspeakable, incapable of being expressed through words.", "難以言喻的"], "ineffectual": ["Unable to accomplish anything.", "無效的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "inalienable": ["Unable to be taken away or transferred.", "不可剝奪的；不可轉讓的"], "inanimate": ["Lifeless.", "無生命的"], "inapplicable": ["Not relevant or appropriate.", "不適用的；不相關的"], "inappropriate": ["Not suitable or proper in the circumstances.", "不恰當的"], "inarticulate": ["Incapable of expressing oneself clearly through speech.", "口齒不清的；表達不清的"], "incapacitated": ["Disabled, made unfit.", "失去能力的"], "incessant": ["Continuing without pause or interruption.", "不停的；持續不斷的"], "inclement": ["Unfavorable, stormy.", "惡劣的(天氣)"], "incoherent": ["Disjointed.", "語無倫次的；不連貫的"], "incomparable": ["Without equal; beyond comparison.", "無與倫比的"], "incompatibility": ["Quality of being mismatched, lack of harmony.", "不相容；不協調"], "incompetent": ["Not having the necessary skill to do something successfully.", "無能的；不稱職的"], "inconclusive": ["Not leading to a clear or definite conclusion; ambiguous.", "不確定的；未有定論的"], "incondite": ["Poorly organized or crudely put together.", "組織不良的；粗製濫造的"], "incongruous": ["Out of place.", "不協調的"], "inconsequential": ["Irrelevant; of no significance; unimportant.", "無關緊要的"], "inconsistent": ["Not staying the same; contradictory.", "不一致的；矛盾的"], "inconsolable": ["Unable to be comforted; deeply unhappy.", "無法安慰的；悲痛欲絕的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "incontestable": ["Not able to be disputed; certain.", "無可爭辯的；確鑿的"], "incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "incorporeal": ["Not having a physical body or form.", "無形的；非物質的"], "incorrigibility": ["The inability to be reformed or corrected.", "不可救藥；無法矯正"], "incorrigible": ["Incapable of correction, delinquent.", "無可救藥的；積習難改的"], "incorruptibility": ["The quality of being unable to be corrupted or bribed.", "不可腐蝕性；廉潔"], "incorruptible": ["Unable to be corrupted or bribed.", "不可腐蝕的；廉潔的"], "incredible": ["Impossible or hard to believe; extraordinary.", "難以置信的；驚人的"], "incredulous": ["Skeptical:suspicious.", "懷疑的；不輕信的"], "incurable": ["Not able to be cured or healed.", "無法治癒的"], "indecipherable": ["Impossible to read, interpret, or understand due to lack of clarity or complexity.", "難以辨認的；無法解讀的"], "indefatigable": ["Incapable of defeat, failure, decay.", "不屈不撓的；不知疲倦的"], "indefeasible": ["Not able to be forfeited or overturned.", "不可剝奪的；不可廢止的"], "indefinite": ["Not precisely determined; vague.", "不確定的；無限期的"], "indelicate": ["Lacking tact or discretion; crude.", "不得體的；粗俗的"], "indescribable": ["Too extreme or unusual to be described.", "難以形容的"], "indifference": ["Lack of concern.", "漠不關心"], "indifferent": ["Apathetic; showing little or no concern or care.", "漠不關心的"], "indignant": ["Angry.", "憤慨的"], "indignation": ["Anger sparked by something unjust or unfair.", "憤慨；義憤"], "indiscernible": ["Not able to be perceived or recognized clearly.", "難以辨別的；不明顯的"], "indiscriminate": ["Choosing at random without careful selection.", "不加選擇的"], "indisputable": ["Unable to be challenged or denied.", "無可爭議的"], "indistinct": ["Not clear or sharply defined.", "模糊不清的"], "indolence": ["A state of laziness or avoidance of exertion.", "懶散；怠惰"], "indolent": ["Lazy.", "懶惰的"], "indomitable": ["Not capable of being conquered.", "不屈不撓的；難以征服的"], "indubitable": ["Impossible to doubt; unquestionable.", "無庸置疑的"], "ineffable": ["Unspeakable, incapable of being expressed through words.", "難以言喻的"], "ineffectual": ["Unable to accomplish anything.", "無效的"]});

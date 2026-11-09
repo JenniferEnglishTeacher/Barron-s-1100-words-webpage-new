@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "disencumber",
     "pos": "v.",
     "definition": "To free from a burden.",
-    "chinese": "解除負擔;卸下重擔",
+    "chinese": "解除負擔；卸下重擔",
     "synonyms": "",
     "root": "dis- (reverse) + encombrer (to encumber), from Old French",
     "group": "dis = 相反的",
@@ -20,14 +20,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To free from a burden.",
-     "chinese": "解除負擔;卸下重擔"
+     "chinese": "解除負擔；卸下重擔"
     }
    },
    {
     "word": "disenthrall",
     "pos": "v.",
     "definition": "To free from mental or moral bondage.",
-    "chinese": "解放;使擺脫束縛",
+    "chinese": "解放；使擺脫束縛",
     "synonyms": "",
     "root": "dis- (reverse) + thrall (bondage), from Old English",
     "group": "dis = 相反的",
@@ -39,7 +39,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To free from mental or moral bondage.",
-     "chinese": "解放;使擺脫束縛"
+     "chinese": "解放；使擺脫束縛"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "disharmony",
     "pos": "n.",
     "definition": "Lack of harmony or agreement.",
-    "chinese": "不和諧;不協調",
+    "chinese": "不和諧；不協調",
     "synonyms": "",
     "root": "dis- (not) + harmonia (agreement), from Greek",
     "group": "dis = 相反的",
@@ -134,7 +134,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of harmony or agreement.",
-     "chinese": "不和諧;不協調"
+     "chinese": "不和諧；不協調"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "dishonorable",
     "pos": "adj.",
     "definition": "Bringing shame or disgrace.",
-    "chinese": "不名譽的;可恥的",
+    "chinese": "不名譽的；可恥的",
     "synonyms": "",
     "root": "dis- (not) + honor (honor), from Latin",
     "group": "dis = 相反的",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bringing shame or disgrace.",
-     "chinese": "不名譽的;可恥的"
+     "chinese": "不名譽的；可恥的"
     }
    },
    {
     "word": "disingenuous",
     "pos": "adj.",
     "definition": "Not candid or sincere, typically by pretending to know less than one does.",
-    "chinese": "虛偽的;不誠懇的",
+    "chinese": "虛偽的；不誠懇的",
     "synonyms": "",
     "root": "dis- (not) + ingenuus (noble, frank), from Latin",
     "group": "dis = 相反的",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not candid or sincere, typically by pretending to know less than one does.",
-     "chinese": "虛偽的;不誠懇的"
+     "chinese": "虛偽的；不誠懇的"
     }
    },
    {
     "word": "disingenuousness",
     "pos": "n.",
     "definition": "Lack of candor; insincerity.",
-    "chinese": "虛偽;不誠懇",
+    "chinese": "虛偽；不誠懇",
     "synonyms": "",
     "root": "dis- (not) + ingenuus (noble, frank), from Latin",
     "group": "dis = 相反的",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of candor; insincerity.",
-     "chinese": "虛偽;不誠懇"
+     "chinese": "虛偽；不誠懇"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "disordered",
     "pos": "adj.",
     "definition": "Lacking order; disturbed or confused.",
-    "chinese": "混亂的;失調的",
+    "chinese": "混亂的；失調的",
     "synonyms": "",
     "root": "dis- (not) + ordo (order), from Latin",
     "group": "dis = 相反的",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking order; disturbed or confused.",
-     "chinese": "混亂的;失調的"
+     "chinese": "混亂的；失調的"
     }
    },
    {
     "word": "disown",
     "pos": "v.",
     "definition": "To refuse to acknowledge as one's own; to reject.",
-    "chinese": "與...斷絕關係;否認",
+    "chinese": "與...斷絕關係；否認",
     "synonyms": "",
     "root": "dis- (not) + own, from Old English agnian",
     "group": "dis = 相反的",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To refuse to acknowledge as one's own; to reject.",
-     "chinese": "與...斷絕關係;否認"
+     "chinese": "與...斷絕關係；否認"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "disparagement",
     "pos": "n.",
     "definition": "The act of belittling or criticizing something.",
-    "chinese": "貶低;輕視",
+    "chinese": "貶低；輕視",
     "synonyms": "",
     "root": "dis- (apart) + par (equal), from Latin",
     "group": "dis = 相反的",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of belittling or criticizing something.",
-     "chinese": "貶低;輕視"
+     "chinese": "貶低；輕視"
     }
    },
    {
     "word": "disparaging",
     "pos": "adj.",
     "definition": "Expressing a low opinion; belittling.",
-    "chinese": "貶低的;輕蔑的",
+    "chinese": "貶低的；輕蔑的",
     "synonyms": "",
     "root": "dis- (apart) + par (equal), from Latin",
     "group": "dis = 相反的",
@@ -404,7 +404,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing a low opinion; belittling.",
-     "chinese": "貶低的;輕蔑的"
+     "chinese": "貶低的；輕蔑的"
     }
    },
    {
@@ -430,7 +430,7 @@ window.FLASHCARD_UNITS = {
     "word": "disparity",
     "pos": "n.",
     "definition": "A great inequality or difference.",
-    "chinese": "差距;不平等",
+    "chinese": "差距；不平等",
     "synonyms": "",
     "root": "dis- (not) + par (equal), from Latin",
     "group": "dis = 相反的",
@@ -442,14 +442,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A great inequality or difference.",
-     "chinese": "差距;不平等"
+     "chinese": "差距；不平等"
     }
    },
    {
     "word": "dispassionate",
     "pos": "adj.",
     "definition": "Not influenced by strong emotion; impartial.",
-    "chinese": "冷靜客觀的;不帶感情的",
+    "chinese": "冷靜客觀的；不帶感情的",
     "synonyms": "",
     "root": "dis- (not) + passio (passion), from Latin",
     "group": "dis = 相反的",
@@ -461,7 +461,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not influenced by strong emotion; impartial.",
-     "chinese": "冷靜客觀的;不帶感情的"
+     "chinese": "冷靜客觀的；不帶感情的"
     }
    },
    {
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     "word": "dispensation",
     "pos": "n.",
     "definition": "Exemption from a rule or usual requirement.",
-    "chinese": "豁免;特許",
+    "chinese": "豁免；特許",
     "synonyms": "",
     "root": "dis- (apart) + pendere (to weigh, pay), from Latin",
     "group": "dis = 相反的",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Exemption from a rule or usual requirement.",
-     "chinese": "豁免;特許"
+     "chinese": "豁免；特許"
     }
    },
    {
@@ -544,7 +544,7 @@ window.FLASHCARD_UNITS = {
     "word": "dispirited",
     "pos": "adj.",
     "definition": "Having lost enthusiasm or hope; discouraged.",
-    "chinese": "沮喪的;意志消沉的",
+    "chinese": "沮喪的；意志消沉的",
     "synonyms": "",
     "root": "dis- (away) + spiritus (breath, spirit), from Latin",
     "group": "dis = 相反的",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having lost enthusiasm or hope; discouraged.",
-     "chinese": "沮喪的;意志消沉的"
+     "chinese": "沮喪的；意志消沉的"
     }
    },
    {
     "word": "displeasure",
     "pos": "n.",
     "definition": "A feeling of annoyance or dissatisfaction.",
-    "chinese": "不悅;不滿",
+    "chinese": "不悅；不滿",
     "synonyms": "",
     "root": "dis- (not) + plaisir (pleasure), from Old French",
     "group": "dis = 相反的",
@@ -575,14 +575,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of annoyance or dissatisfaction.",
-     "chinese": "不悅;不滿"
+     "chinese": "不悅；不滿"
     }
    },
    {
     "word": "dispose",
     "pos": "v.",
     "definition": "To get rid of; to arrange or incline someone toward.",
-    "chinese": "處理;丟棄;使傾向",
+    "chinese": "處理；丟棄；使傾向",
     "synonyms": "",
     "root": "dis- (apart) + ponere (to place), from Latin",
     "group": "dis = 相反的",
@@ -596,14 +596,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To get rid of; to arrange or incline someone toward.",
-     "chinese": "處理;丟棄;使傾向"
+     "chinese": "處理；丟棄；使傾向"
     }
    },
    {
     "word": "dispossess",
     "pos": "v.",
     "definition": "To deprive someone of their land, home, or property.",
-    "chinese": "剝奪;沒收財產",
+    "chinese": "剝奪；沒收財產",
     "synonyms": "",
     "root": "dis- (away) + possidere (to possess), from Latin",
     "group": "dis = 相反的",
@@ -617,7 +617,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To deprive someone of their land, home, or property.",
-     "chinese": "剝奪;沒收財產"
+     "chinese": "剝奪；沒收財產"
     }
    },
    {
@@ -662,7 +662,7 @@ window.FLASHCARD_UNITS = {
     "word": "disquiet",
     "pos": "n./v.",
     "definition": "A feeling of anxiety; to make uneasy.",
-    "chinese": "不安;使不安",
+    "chinese": "不安；使不安",
     "synonyms": "",
     "root": "dis- (not) + quies (rest), from Latin",
     "group": "dis = 相反的",
@@ -676,14 +676,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A feeling of anxiety; to make uneasy.",
-     "chinese": "不安;使不安"
+     "chinese": "不安；使不安"
     }
    },
    {
     "word": "disquisition",
     "pos": "n.",
     "definition": "A long, formal discourse on a subject.",
-    "chinese": "長篇論述;專題論文",
+    "chinese": "長篇論述；專題論文",
     "synonyms": "",
     "root": "dis- (apart) + quaerere (to seek), from Latin",
     "group": "dis = 相反的",
@@ -695,14 +695,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long, formal discourse on a subject.",
-     "chinese": "長篇論述;專題論文"
+     "chinese": "長篇論述；專題論文"
     }
    },
    {
     "word": "disreputable",
     "pos": "adj.",
     "definition": "Not respectable in character or appearance.",
-    "chinese": "名聲不佳的;不體面的",
+    "chinese": "名聲不佳的；不體面的",
     "synonyms": "",
     "root": "dis- (not) + reputare (to reckon), from Latin",
     "group": "dis = 相反的",
@@ -714,7 +714,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not respectable in character or appearance.",
-     "chinese": "名聲不佳的;不體面的"
+     "chinese": "名聲不佳的；不體面的"
     }
    },
    {
@@ -740,7 +740,7 @@ window.FLASHCARD_UNITS = {
     "word": "disrespect",
     "pos": "n./v.",
     "definition": "A lack of respect; to treat rudely.",
-    "chinese": "不敬;無禮",
+    "chinese": "不敬；無禮",
     "synonyms": "",
     "root": "dis- (not) + respectus (regard), from Latin",
     "group": "dis = 相反的",
@@ -752,14 +752,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of respect; to treat rudely.",
-     "chinese": "不敬;無禮"
+     "chinese": "不敬；無禮"
     }
    },
    {
     "word": "disrespectful",
     "pos": "adj.",
     "definition": "Showing a lack of respect.",
-    "chinese": "不敬的;無禮的",
+    "chinese": "不敬的；無禮的",
     "synonyms": "",
     "root": "dis- (not) + respectus (regard), from Latin",
     "group": "dis = 相反的",
@@ -771,7 +771,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing a lack of respect.",
-     "chinese": "不敬的;無禮的"
+     "chinese": "不敬的；無禮的"
     }
    },
    {
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "word": "dissident",
     "pos": "n./adj.",
     "definition": "A person who opposes official policy, especially in an authoritarian state.",
-    "chinese": "異議人士;持不同政見的",
+    "chinese": "異議人士；持不同政見的",
     "synonyms": "",
     "root": "dis- (apart) + sedere (to sit), from Latin",
     "group": "dis = 相反的",
@@ -870,7 +870,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who opposes official policy, especially in an authoritarian state.",
-     "chinese": "異議人士;持不同政見的"
+     "chinese": "異議人士；持不同政見的"
     }
    },
    {
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "word": "dissimulation",
     "pos": "n.",
     "definition": "The act of concealing one's true feelings or intentions.",
-    "chinese": "偽裝;掩飾",
+    "chinese": "偽裝；掩飾",
     "synonyms": "",
     "root": "dis- (apart) + simulare (to imitate), from Latin",
     "group": "dis = 相反的",
@@ -910,7 +910,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of concealing one's true feelings or intentions.",
-     "chinese": "偽裝;掩飾"
+     "chinese": "偽裝；掩飾"
     }
    },
    {
@@ -938,7 +938,7 @@ window.FLASHCARD_UNITS = {
     "word": "dissipated",
     "pos": "adj.",
     "definition": "Indulging excessively in pleasure; having wasted resources.",
-    "chinese": "放蕩的;揮霍的",
+    "chinese": "放蕩的；揮霍的",
     "synonyms": "",
     "root": "dis- (apart) + supare (to throw), from Latin",
     "group": "dis = 相反的",
@@ -950,14 +950,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Indulging excessively in pleasure; having wasted resources.",
-     "chinese": "放蕩的;揮霍的"
+     "chinese": "放蕩的；揮霍的"
     }
    },
    {
     "word": "dissolute",
     "pos": "adj.",
     "definition": "Lax in morals; given to overindulgence.",
-    "chinese": "放蕩的;道德淪喪的",
+    "chinese": "放蕩的；道德淪喪的",
     "synonyms": "",
     "root": "dis- (apart) + solvere (to loosen), from Latin",
     "group": "dis = 相反的",
@@ -969,7 +969,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lax in morals; given to overindulgence.",
-     "chinese": "放蕩的;道德淪喪的"
+     "chinese": "放蕩的；道德淪喪的"
     }
    }
   ],
@@ -2178,4 +2178,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"disencumber": ["To free from a burden.", "解除負擔;卸下重擔"], "disenthrall": ["To free from mental or moral bondage.", "解放;使擺脫束縛"], "disgruntled": ["Unhappy, displeased.", "不滿的"], "disguise": ["A means of concealing one's identity or appearance.", "偽裝"], "disgusting": ["Causing intense distaste or revulsion.", "令人厭惡的"], "dishabille": ["The state of being carelessly or partially dressed.", "衣衫不整"], "disharmony": ["Lack of harmony or agreement.", "不和諧;不協調"], "disheveled": ["Disorderly appearance.", "蓬亂的；不整潔的"], "dishonesty": ["Behavior that is not honest; deceitfulness.", "不誠實"], "dishonorable": ["Bringing shame or disgrace.", "不名譽的;可恥的"], "disingenuous": ["Not candid or sincere, typically by pretending to know less than one does.", "虛偽的;不誠懇的"], "disingenuousness": ["Lack of candor; insincerity.", "虛偽;不誠懇"], "disinterested": ["Not influenced by personal interest; impartial.", "公正無私的"], "dismantle": ["To strip of covering, take apart.", "拆除；解散"], "dismiss": ["To reject or send away.", "駁回；解散"], "dismissive": ["Showing disregard or lack of interest; treating something as unworthy of attention.", "輕蔑的；不屑一顧的"], "disordered": ["Lacking order; disturbed or confused.", "混亂的;失調的"], "disown": ["To refuse to acknowledge as one's own; to reject.", "與...斷絕關係;否認"], "disparage": ["To discredit, belittle:relegate.", "貶低"], "disparagement": ["The act of belittling or criticizing something.", "貶低;輕視"], "disparaging": ["Expressing a low opinion; belittling.", "貶低的;輕蔑的"], "disparate": ["Different.", "迥然不同的；無法比較的"], "disparity": ["A great inequality or difference.", "差距;不平等"], "dispassionate": ["Not influenced by strong emotion; impartial.", "冷靜客觀的;不帶感情的"], "dispel": ["To drive away, scatter.", "驅散；消除"], "dispensation": ["Exemption from a rule or usual requirement.", "豁免;特許"], "disperse": ["To scatter, cause to scatter.", "驅散；分散"], "dispersed": ["Scattered, spread, broken up.", "被驅散的"], "dispirited": ["Having lost enthusiasm or hope; discouraged.", "沮喪的;意志消沉的"], "displeasure": ["A feeling of annoyance or dissatisfaction.", "不悅;不滿"], "dispose": ["To get rid of; to arrange or incline someone toward.", "處理;丟棄;使傾向"], "dispossess": ["To deprive someone of their land, home, or property.", "剝奪;沒收財產"], "disputatious": ["Likely to dispute or argue.", "好辯的"], "dispute": ["To argue about something; a disagreement or conflict.", "爭論；爭執"], "disquiet": ["A feeling of anxiety; to make uneasy.", "不安;使不安"], "disquisition": ["A long, formal discourse on a subject.", "長篇論述;專題論文"], "disreputable": ["Not respectable in character or appearance.", "名聲不佳的;不體面的"], "disrepute": ["A state of being held in low regard.", "壞名聲；聲名狼藉"], "disrespect": ["A lack of respect; to treat rudely.", "不敬;無禮"], "disrespectful": ["Showing a lack of respect.", "不敬的;無禮的"], "dissemble": ["To conceal, fake.", "掩飾；偽裝"], "disseminate": ["To scatter, spread.", "散佈；傳播"], "dissent": ["To differ, disagree, protest.", "異議；不同意"], "dissertation": ["A long piece of academic writing on a specific topic.", "論文"], "dissident": ["A person who opposes official policy, especially in an authoritarian state.", "異議人士;持不同政見的"], "dissimulate": ["Hide feelings from other people.", "掩飾情感；假裝"], "dissimulation": ["The act of concealing one's true feelings or intentions.", "偽裝;掩飾"], "dissipate": ["To disappear, cause to disappear.", "消散；揮霍"], "dissipated": ["Indulging excessively in pleasure; having wasted resources.", "放蕩的;揮霍的"], "dissolute": ["Lax in morals; given to overindulgence.", "放蕩的;道德淪喪的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"disencumber": ["To free from a burden.", "解除負擔；卸下重擔"], "disenthrall": ["To free from mental or moral bondage.", "解放；使擺脫束縛"], "disgruntled": ["Unhappy, displeased.", "不滿的"], "disguise": ["A means of concealing one's identity or appearance.", "偽裝"], "disgusting": ["Causing intense distaste or revulsion.", "令人厭惡的"], "dishabille": ["The state of being carelessly or partially dressed.", "衣衫不整"], "disharmony": ["Lack of harmony or agreement.", "不和諧；不協調"], "disheveled": ["Disorderly appearance.", "蓬亂的；不整潔的"], "dishonesty": ["Behavior that is not honest; deceitfulness.", "不誠實"], "dishonorable": ["Bringing shame or disgrace.", "不名譽的；可恥的"], "disingenuous": ["Not candid or sincere, typically by pretending to know less than one does.", "虛偽的；不誠懇的"], "disingenuousness": ["Lack of candor; insincerity.", "虛偽；不誠懇"], "disinterested": ["Not influenced by personal interest; impartial.", "公正無私的"], "dismantle": ["To strip of covering, take apart.", "拆除；解散"], "dismiss": ["To reject or send away.", "駁回；解散"], "dismissive": ["Showing disregard or lack of interest; treating something as unworthy of attention.", "輕蔑的；不屑一顧的"], "disordered": ["Lacking order; disturbed or confused.", "混亂的；失調的"], "disown": ["To refuse to acknowledge as one's own; to reject.", "與...斷絕關係；否認"], "disparage": ["To discredit, belittle:relegate.", "貶低"], "disparagement": ["The act of belittling or criticizing something.", "貶低；輕視"], "disparaging": ["Expressing a low opinion; belittling.", "貶低的；輕蔑的"], "disparate": ["Different.", "迥然不同的；無法比較的"], "disparity": ["A great inequality or difference.", "差距；不平等"], "dispassionate": ["Not influenced by strong emotion; impartial.", "冷靜客觀的；不帶感情的"], "dispel": ["To drive away, scatter.", "驅散；消除"], "dispensation": ["Exemption from a rule or usual requirement.", "豁免；特許"], "disperse": ["To scatter, cause to scatter.", "驅散；分散"], "dispersed": ["Scattered, spread, broken up.", "被驅散的"], "dispirited": ["Having lost enthusiasm or hope; discouraged.", "沮喪的；意志消沉的"], "displeasure": ["A feeling of annoyance or dissatisfaction.", "不悅；不滿"], "dispose": ["To get rid of; to arrange or incline someone toward.", "處理；丟棄；使傾向"], "dispossess": ["To deprive someone of their land, home, or property.", "剝奪；沒收財產"], "disputatious": ["Likely to dispute or argue.", "好辯的"], "dispute": ["To argue about something; a disagreement or conflict.", "爭論；爭執"], "disquiet": ["A feeling of anxiety; to make uneasy.", "不安；使不安"], "disquisition": ["A long, formal discourse on a subject.", "長篇論述；專題論文"], "disreputable": ["Not respectable in character or appearance.", "名聲不佳的；不體面的"], "disrepute": ["A state of being held in low regard.", "壞名聲；聲名狼藉"], "disrespect": ["A lack of respect; to treat rudely.", "不敬；無禮"], "disrespectful": ["Showing a lack of respect.", "不敬的；無禮的"], "dissemble": ["To conceal, fake.", "掩飾；偽裝"], "disseminate": ["To scatter, spread.", "散佈；傳播"], "dissent": ["To differ, disagree, protest.", "異議；不同意"], "dissertation": ["A long piece of academic writing on a specific topic.", "論文"], "dissident": ["A person who opposes official policy, especially in an authoritarian state.", "異議人士；持不同政見的"], "dissimulate": ["Hide feelings from other people.", "掩飾情感；假裝"], "dissimulation": ["The act of concealing one's true feelings or intentions.", "偽裝；掩飾"], "dissipate": ["To disappear, cause to disappear.", "消散；揮霍"], "dissipated": ["Indulging excessively in pleasure; having wasted resources.", "放蕩的；揮霍的"], "dissolute": ["Lax in morals; given to overindulgence.", "放蕩的；道德淪喪的"]});

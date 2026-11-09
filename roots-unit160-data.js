@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "abandonment",
     "pos": "n.",
     "definition": "The act of giving something up completely; the state of being deserted.",
-    "chinese": "遺棄;放棄",
+    "chinese": "遺棄；放棄",
     "synonyms": "",
     "root": "a- (to) + bandon (control, from Old French)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of giving something up completely; the state of being deserted.",
-     "chinese": "遺棄;放棄"
+     "chinese": "遺棄；放棄"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "abecedarian",
     "pos": "adj./n.",
     "definition": "Arranged alphabetically; a person learning the alphabet or basics of a subject.",
-    "chinese": "按字母順序排列的;初學者",
+    "chinese": "按字母順序排列的；初學者",
     "synonyms": "",
     "root": "abecedarius (from the letters a, b, c, d)",
     "group": "",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Arranged alphabetically; a person learning the alphabet or basics of a subject.",
-     "chinese": "按字母順序排列的;初學者"
+     "chinese": "按字母順序排列的；初學者"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "ablaze",
     "pos": "adj./adv.",
     "definition": "Burning fiercely; brightly lit or full of strong emotion.",
-    "chinese": "熊熊燃燒的;閃耀的",
+    "chinese": "熊熊燃燒的；閃耀的",
     "synonyms": "",
     "root": "a- (in a state of) + blaze (fire)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Burning fiercely; brightly lit or full of strong emotion.",
-     "chinese": "熊熊燃燒的;閃耀的"
+     "chinese": "熊熊燃燒的；閃耀的"
     }
    },
    {
     "word": "able",
     "pos": "adj.",
     "definition": "Having the power, skill, or means to do something; competent.",
-    "chinese": "有能力的;能幹的",
+    "chinese": "有能力的；能幹的",
     "synonyms": "",
     "root": "habilis (easily handled, from Latin)",
     "group": "",
@@ -172,7 +172,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the power, skill, or means to do something; competent.",
-     "chinese": "有能力的;能幹的"
+     "chinese": "有能力的；能幹的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "aboveboard",
     "pos": "adj./adv.",
     "definition": "Honest and open; without any attempt at deception.",
-    "chinese": "光明正大的;誠實的",
+    "chinese": "光明正大的；誠實的",
     "synonyms": "",
     "root": "above + board (table, i.e. not hiding cards under the table)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Honest and open; without any attempt at deception.",
-     "chinese": "光明正大的;誠實的"
+     "chinese": "光明正大的；誠實的"
     }
    },
    {
     "word": "abreast",
     "pos": "adv.",
     "definition": "Side by side and facing the same way; up to date with.",
-    "chinese": "並肩地;跟上(最新資訊)",
+    "chinese": "並肩地；跟上(最新資訊)",
     "synonyms": "",
     "root": "a- (on) + breast",
     "group": "",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Side by side and facing the same way; up to date with.",
-     "chinese": "並肩地;跟上(最新資訊)"
+     "chinese": "並肩地；跟上(最新資訊)"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "accoucheur",
     "pos": "n.",
     "definition": "A male midwife or obstetrician.",
-    "chinese": "男助產士;男產科醫生",
+    "chinese": "男助產士；男產科醫生",
     "synonyms": "",
     "root": "accoucher (to assist at childbirth, from French)",
     "group": "",
@@ -402,7 +402,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A male midwife or obstetrician.",
-     "chinese": "男助產士;男產科醫生"
+     "chinese": "男助產士；男產科醫生"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "acerbity",
     "pos": "n.",
     "definition": "Sharpness or bitterness of tone, temper, or expression.",
-    "chinese": "尖酸;刻薄",
+    "chinese": "尖酸；刻薄",
     "synonyms": "",
     "root": "acerbus (harsh, from Latin)",
     "group": "",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sharpness or bitterness of tone, temper, or expression.",
-     "chinese": "尖酸;刻薄"
+     "chinese": "尖酸；刻薄"
     }
    },
    {
     "word": "acidic",
     "pos": "adj.",
     "definition": "Having the properties of an acid; sharply critical.",
-    "chinese": "酸性的;尖刻的",
+    "chinese": "酸性的；尖刻的",
     "synonyms": "",
     "root": "acidus (sour)",
     "group": "",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the properties of an acid; sharply critical.",
-     "chinese": "酸性的;尖刻的"
+     "chinese": "酸性的；尖刻的"
     }
    },
    {
     "word": "acidulous",
     "pos": "adj.",
     "definition": "Somewhat sour in taste or manner; sharp-tongued.",
-    "chinese": "略帶酸味的;尖酸的",
+    "chinese": "略帶酸味的；尖酸的",
     "synonyms": "",
     "root": "acidulus (slightly sour, from Latin)",
     "group": "",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Somewhat sour in taste or manner; sharp-tongued.",
-     "chinese": "略帶酸味的;尖酸的"
+     "chinese": "略帶酸味的；尖酸的"
     }
    },
    {
     "word": "acmatic",
     "pos": "adj.",
     "definition": "Relating to the acme, or highest point, of development.",
-    "chinese": "頂點的;鼎盛期的",
+    "chinese": "頂點的；鼎盛期的",
     "synonyms": "",
     "root": "akme (point, highest point, from Greek)",
     "group": "",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the acme, or highest point, of development.",
-     "chinese": "頂點的;鼎盛期的"
+     "chinese": "頂點的；鼎盛期的"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "acolyte",
     "pos": "n.",
     "definition": "A person assisting a priest in a religious service; a devoted follower.",
-    "chinese": "助手;追隨者",
+    "chinese": "助手；追隨者",
     "synonyms": "",
     "root": "akolouthos (follower, from Greek)",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person assisting a priest in a religious service; a devoted follower.",
-     "chinese": "助手;追隨者"
+     "chinese": "助手；追隨者"
     }
    },
    {
     "word": "acouasm",
     "pos": "n.",
     "definition": "An imaginary ringing or buzzing sound in the ear.",
-    "chinese": "幻聽聲響;耳鳴幻覺",
+    "chinese": "幻聽聲響；耳鳴幻覺",
     "synonyms": "",
     "root": "akouein (to hear, from Greek)",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An imaginary ringing or buzzing sound in the ear.",
-     "chinese": "幻聽聲響;耳鳴幻覺"
+     "chinese": "幻聽聲響；耳鳴幻覺"
     }
    },
    {
     "word": "acoustic",
     "pos": "adj.",
     "definition": "Relating to sound or the sense of hearing; not electronically amplified.",
-    "chinese": "聲學的;原聲的",
+    "chinese": "聲學的；原聲的",
     "synonyms": "",
     "root": "akoustikos (relating to hearing, from Greek)",
     "group": "",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to sound or the sense of hearing; not electronically amplified.",
-     "chinese": "聲學的;原聲的"
+     "chinese": "聲學的；原聲的"
     }
    },
    {
@@ -675,7 +675,7 @@ window.FLASHCARD_UNITS = {
     "word": "acroamatic",
     "pos": "adj.",
     "definition": "Intended for or communicated to an inner circle of disciples; esoteric.",
-    "chinese": "秘傳的;僅限內部傳授的",
+    "chinese": "秘傳的；僅限內部傳授的",
     "synonyms": "",
     "root": "akroasthai (to listen, from Greek)",
     "group": "",
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intended for or communicated to an inner circle of disciples; esoteric.",
-     "chinese": "秘傳的;僅限內部傳授的"
+     "chinese": "秘傳的；僅限內部傳授的"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "ad infinitum",
     "pos": "adv.",
     "definition": "Again and again in the same way; endlessly.",
-    "chinese": "無限地;沒完沒了地",
+    "chinese": "無限地；沒完沒了地",
     "synonyms": "",
     "root": "ad (to) + infinitum (the infinite, from Latin)",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Again and again in the same way; endlessly.",
-     "chinese": "無限地;沒完沒了地"
+     "chinese": "無限地；沒完沒了地"
     }
    },
    {
     "word": "adage",
     "pos": "n.",
     "definition": "A traditional saying expressing a general truth.",
-    "chinese": "格言;諺語",
+    "chinese": "格言；諺語",
     "synonyms": "",
     "root": "adagium (proverb, from Latin)",
     "group": "",
@@ -801,7 +801,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A traditional saying expressing a general truth.",
-     "chinese": "格言;諺語"
+     "chinese": "格言；諺語"
     }
    },
    {
@@ -827,7 +827,7 @@ window.FLASHCARD_UNITS = {
     "word": "addled",
     "pos": "adj.",
     "definition": "Confused; unable to think clearly.",
-    "chinese": "糊塗的;昏亂的",
+    "chinese": "糊塗的；昏亂的",
     "synonyms": "",
     "root": "adela (liquid filth, from Old English)",
     "group": "",
@@ -839,7 +839,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Confused; unable to think clearly.",
-     "chinese": "糊塗的;昏亂的"
+     "chinese": "糊塗的；昏亂的"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"(wreak) havoc": ["Ruin.", "大破壞；浩劫"], "abandonment": ["The act of giving something up completely; the state of being deserted.", "遺棄;放棄"], "abate": ["To become less active, intense, or great.", "減弱；緩和"], "abattoir": ["A slaughterhouse.", "屠宰場"], "abecedarian": ["Arranged alphabetically; a person learning the alphabet or basics of a subject.", "按字母順序排列的;初學者"], "abet": ["To aid, help, encourage.", "教唆；慫恿"], "abide": ["To put up with.", "忍受；遵守"], "ablaze": ["Burning fiercely; brightly lit or full of strong emotion.", "熊熊燃燒的;閃耀的"], "able": ["Having the power, skill, or means to do something; competent.", "有能力的;能幹的"], "ablutophobia": ["An abnormal fear of washing or bathing.", "洗浴恐懼症"], "abode": ["A place where one lives; a home or dwelling.", "住所"], "aboveboard": ["Honest and open; without any attempt at deception.", "光明正大的;誠實的"], "abreast": ["Side by side and facing the same way; up to date with.", "並肩地;跟上(最新資訊)"], "abridge": ["Shorten.", "刪節；縮短"], "abundance": ["A large quantity of something; more than enough.", "豐富；充足"], "abundant": ["Existing or available in large quantities.", "豐富的；充足的"], "abysmal": ["Extremely bad.", "糟糕透頂的"], "academia": ["The environment or community of scholars and researchers.", "學術界"], "acceptable": ["Satisfactory or permissible.", "可接受的"], "accidental": ["Happening by chance.", "意外的；偶然的"], "accoucheur": ["A male midwife or obstetrician.", "男助產士;男產科醫生"], "accuracy": ["The quality of being correct or precise.", "準確性"], "acerbic": ["Biting, bitter in tone or taste.", "尖酸刻薄的"], "acerbity": ["Sharpness or bitterness of tone, temper, or expression.", "尖酸;刻薄"], "acidic": ["Having the properties of an acid; sharply critical.", "酸性的;尖刻的"], "acidulous": ["Somewhat sour in taste or manner; sharp-tongued.", "略帶酸味的;尖酸的"], "acmatic": ["Relating to the acme, or highest point, of development.", "頂點的;鼎盛期的"], "acme": ["Peak, pinnacle, zenith.", "頂點；極點"], "acolyte": ["A person assisting a priest in a religious service; a devoted follower.", "助手;追隨者"], "acouasm": ["An imaginary ringing or buzzing sound in the ear.", "幻聽聲響;耳鳴幻覺"], "acoustic": ["Relating to sound or the sense of hearing; not electronically amplified.", "聲學的;原聲的"], "acoustics": ["The quality of sound, pertaining to how it is heard based on the quality and structure of the room.", "音響效果；聲學"], "acrid": ["Bitter, harsh.", "刺鼻的；刻薄的"], "acrimonious": ["Bitter.", "嚴厲的；辛辣的"], "acrimony": ["Bitterness, discord.", "尖刻；不和"], "acroamatic": ["Intended for or communicated to an inner circle of disciples; esoteric.", "秘傳的;僅限內部傳授的"], "acrophobia": ["An extreme or irrational fear of heights.", "懼高症"], "acumen": ["Keen insight.", "敏銳；精明"], "acute": ["Sharp, keen, severe.", "敏銳的；急性的"], "acute accent": ["A diacritical mark (´) placed over a vowel, as in café.", "尖音符號(´)"], "ad infinitum": ["Again and again in the same way; endlessly.", "無限地;沒完沒了地"], "adage": ["A traditional saying expressing a general truth.", "格言;諺語"], "adamant": ["Unyielding, inflexible.", "固執的；堅定不移的"], "addled": ["Confused; unable to think clearly.", "糊塗的;昏亂的"], "adroit": ["Skillful.", "熟練的；機敏的"], "adulate": ["To praise or flatter too greatly; fawn over.", "過分諂媚；奉承"], "adulation": ["Extreme praise.", "過度讚美；諂媚"], "advantageous": ["Beneficial or useful.", "有利的"], "adventuresome": ["Willing to take risks; adventurous.", "愛冒險的"], "adverbiage": ["Wordy, padded language, especially the overuse of unnecessary adverbs.", "冗詞贅語(尤指濫用副詞)"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"(wreak) havoc": ["Ruin.", "大破壞；浩劫"], "abandonment": ["The act of giving something up completely; the state of being deserted.", "遺棄；放棄"], "abate": ["To become less active, intense, or great.", "減弱；緩和"], "abattoir": ["A slaughterhouse.", "屠宰場"], "abecedarian": ["Arranged alphabetically; a person learning the alphabet or basics of a subject.", "按字母順序排列的；初學者"], "abet": ["To aid, help, encourage.", "教唆；慫恿"], "abide": ["To put up with.", "忍受；遵守"], "ablaze": ["Burning fiercely; brightly lit or full of strong emotion.", "熊熊燃燒的；閃耀的"], "able": ["Having the power, skill, or means to do something; competent.", "有能力的；能幹的"], "ablutophobia": ["An abnormal fear of washing or bathing.", "洗浴恐懼症"], "abode": ["A place where one lives; a home or dwelling.", "住所"], "aboveboard": ["Honest and open; without any attempt at deception.", "光明正大的；誠實的"], "abreast": ["Side by side and facing the same way; up to date with.", "並肩地；跟上(最新資訊)"], "abridge": ["Shorten.", "刪節；縮短"], "abundance": ["A large quantity of something; more than enough.", "豐富；充足"], "abundant": ["Existing or available in large quantities.", "豐富的；充足的"], "abysmal": ["Extremely bad.", "糟糕透頂的"], "academia": ["The environment or community of scholars and researchers.", "學術界"], "acceptable": ["Satisfactory or permissible.", "可接受的"], "accidental": ["Happening by chance.", "意外的；偶然的"], "accoucheur": ["A male midwife or obstetrician.", "男助產士；男產科醫生"], "accuracy": ["The quality of being correct or precise.", "準確性"], "acerbic": ["Biting, bitter in tone or taste.", "尖酸刻薄的"], "acerbity": ["Sharpness or bitterness of tone, temper, or expression.", "尖酸；刻薄"], "acidic": ["Having the properties of an acid; sharply critical.", "酸性的；尖刻的"], "acidulous": ["Somewhat sour in taste or manner; sharp-tongued.", "略帶酸味的；尖酸的"], "acmatic": ["Relating to the acme, or highest point, of development.", "頂點的；鼎盛期的"], "acme": ["Peak, pinnacle, zenith.", "頂點；極點"], "acolyte": ["A person assisting a priest in a religious service; a devoted follower.", "助手；追隨者"], "acouasm": ["An imaginary ringing or buzzing sound in the ear.", "幻聽聲響；耳鳴幻覺"], "acoustic": ["Relating to sound or the sense of hearing; not electronically amplified.", "聲學的；原聲的"], "acoustics": ["The quality of sound, pertaining to how it is heard based on the quality and structure of the room.", "音響效果；聲學"], "acrid": ["Bitter, harsh.", "刺鼻的；刻薄的"], "acrimonious": ["Bitter.", "嚴厲的；辛辣的"], "acrimony": ["Bitterness, discord.", "尖刻；不和"], "acroamatic": ["Intended for or communicated to an inner circle of disciples; esoteric.", "秘傳的；僅限內部傳授的"], "acrophobia": ["An extreme or irrational fear of heights.", "懼高症"], "acumen": ["Keen insight.", "敏銳；精明"], "acute": ["Sharp, keen, severe.", "敏銳的；急性的"], "acute accent": ["A diacritical mark (´) placed over a vowel, as in café.", "尖音符號(´)"], "ad infinitum": ["Again and again in the same way; endlessly.", "無限地；沒完沒了地"], "adage": ["A traditional saying expressing a general truth.", "格言；諺語"], "adamant": ["Unyielding, inflexible.", "固執的；堅定不移的"], "addled": ["Confused; unable to think clearly.", "糊塗的；昏亂的"], "adroit": ["Skillful.", "熟練的；機敏的"], "adulate": ["To praise or flatter too greatly; fawn over.", "過分諂媚；奉承"], "adulation": ["Extreme praise.", "過度讚美；諂媚"], "advantageous": ["Beneficial or useful.", "有利的"], "adventuresome": ["Willing to take risks; adventurous.", "愛冒險的"], "adverbiage": ["Wordy, padded language, especially the overuse of unnecessary adverbs.", "冗詞贅語(尤指濫用副詞)"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "veracious",
     "pos": "adj.",
     "definition": "Speaking or representing the truth.",
-    "chinese": "誠實的;真實的",
+    "chinese": "誠實的；真實的",
     "synonyms": "",
     "root": "verax, from Latin verus (true)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Speaking or representing the truth.",
-     "chinese": "誠實的;真實的"
+     "chinese": "誠實的；真實的"
     }
    },
    {
     "word": "verbal",
     "pos": "adj.",
     "definition": "Relating to or expressed in words, especially spoken.",
-    "chinese": "言語的;口頭的",
+    "chinese": "言語的；口頭的",
     "synonyms": "",
     "root": "verbalis, from Latin verbum (word)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or expressed in words, especially spoken.",
-     "chinese": "言語的;口頭的"
+     "chinese": "言語的；口頭的"
     }
    },
    {
     "word": "verbatim",
     "pos": "adv./adj.",
     "definition": "In exactly the same words; word for word.",
-    "chinese": "逐字地;一字不差的",
+    "chinese": "逐字地；一字不差的",
     "synonyms": "",
     "root": "verbum (word), from Latin",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In exactly the same words; word for word.",
-     "chinese": "逐字地;一字不差的"
+     "chinese": "逐字地；一字不差的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "verbosity",
     "pos": "n.",
     "definition": "The use of more words than needed; wordiness.",
-    "chinese": "冗長;囉唆",
+    "chinese": "冗長；囉唆",
     "synonyms": "",
     "root": "verbositas, from Latin verbosus (wordy), from verbum (word)",
     "group": "",
@@ -170,7 +170,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The use of more words than needed; wordiness.",
-     "chinese": "冗長;囉唆"
+     "chinese": "冗長；囉唆"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "verdure",
     "pos": "n.",
     "definition": "Lush green vegetation.",
-    "chinese": "翠綠;綠意",
+    "chinese": "翠綠；綠意",
     "synonyms": "",
     "root": "verdure, from Old French, from Latin viridis (green)",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lush green vegetation.",
-     "chinese": "翠綠;綠意"
+     "chinese": "翠綠；綠意"
     }
    },
    {
     "word": "veriest",
     "pos": "adj.",
     "definition": "The utmost or most complete (superlative of very, archaic).",
-    "chinese": "最真實的;十足的(古語,very的最高級)",
+    "chinese": "最真實的；十足的(古語,very的最高級)",
     "synonyms": "",
     "root": "very, from Old French verai (true), from Latin verus + -est",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The utmost or most complete (superlative of very, archaic).",
-     "chinese": "最真實的;十足的(古語,very的最高級)"
+     "chinese": "最真實的；十足的(古語,very的最高級)"
     }
    },
    {
     "word": "verily",
     "pos": "adv.",
     "definition": "In truth; certainly (archaic).",
-    "chinese": "確實;真地(古語)",
+    "chinese": "確實；真地(古語)",
     "synonyms": "",
     "root": "verray (true), from Old French verai, from Latin verus",
     "group": "",
@@ -265,7 +265,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In truth; certainly (archaic).",
-     "chinese": "確實;真地(古語)"
+     "chinese": "確實；真地(古語)"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "verity",
     "pos": "n.",
     "definition": "A true principle or belief, especially one of enduring importance.",
-    "chinese": "真理;真實性",
+    "chinese": "真理；真實性",
     "synonyms": "",
     "root": "veritas, from Latin verus (true)",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A true principle or belief, especially one of enduring importance.",
-     "chinese": "真理;真實性"
+     "chinese": "真理；真實性"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "vernacular",
     "pos": "n./adj.",
     "definition": "The everyday language spoken by ordinary people, as opposed to formal language.",
-    "chinese": "白話;方言",
+    "chinese": "白話；方言",
     "synonyms": "",
     "root": "vernaculus (native, domestic), from Latin verna (a home-born slave)",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The everyday language spoken by ordinary people, as opposed to formal language.",
-     "chinese": "白話;方言"
+     "chinese": "白話；方言"
     }
    },
    {
     "word": "vernal",
     "pos": "adj.",
     "definition": "Relating to spring; fresh and youthful.",
-    "chinese": "春天的;青春的",
+    "chinese": "春天的；青春的",
     "synonyms": "",
     "root": "vernalis, from Latin ver (spring)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to spring; fresh and youthful.",
-     "chinese": "春天的;青春的"
+     "chinese": "春天的；青春的"
     }
    },
    {
     "word": "verve",
     "pos": "n.",
     "definition": "Energy and enthusiasm, especially in artistic or creative endeavors.",
-    "chinese": "活力;熱情",
+    "chinese": "活力；熱情",
     "synonyms": "",
     "root": "verve (vigor), from Old French, from Latin verba (words)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Energy and enthusiasm, especially in artistic or creative endeavors.",
-     "chinese": "活力;熱情"
+     "chinese": "活力；熱情"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "vespertine",
     "pos": "adj.",
     "definition": "Relating to or occurring in the evening.",
-    "chinese": "傍晚的;黃昏的",
+    "chinese": "傍晚的；黃昏的",
     "synonyms": "",
     "root": "vespertinus, from Latin vesper (evening)",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or occurring in the evening.",
-     "chinese": "傍晚的;黃昏的"
+     "chinese": "傍晚的；黃昏的"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "vestigial",
     "pos": "adj.",
     "definition": "Remaining as a trace of something that once existed; underdeveloped.",
-    "chinese": "殘留的;退化的",
+    "chinese": "殘留的；退化的",
     "synonyms": "",
     "root": "vestigium (footprint, trace), from Latin",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Remaining as a trace of something that once existed; underdeveloped.",
-     "chinese": "殘留的;退化的"
+     "chinese": "殘留的；退化的"
     }
    },
    {
     "word": "veteran",
     "pos": "n./adj.",
     "definition": "A person with long experience, especially in the military.",
-    "chinese": "老兵;老手",
+    "chinese": "老兵；老手",
     "synonyms": "",
     "root": "veteranus, from Latin vetus (old)",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person with long experience, especially in the military.",
-     "chinese": "老兵;老手"
+     "chinese": "老兵；老手"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "vexation",
     "pos": "n.",
     "definition": "The state of being annoyed or frustrated.",
-    "chinese": "惱怒;煩惱",
+    "chinese": "惱怒；煩惱",
     "synonyms": "",
     "root": "vexatio, from Latin vexare (to shake, disturb)",
     "group": "",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being annoyed or frustrated.",
-     "chinese": "惱怒;煩惱"
+     "chinese": "惱怒；煩惱"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "vexed",
     "pos": "adj.",
     "definition": "Annoyed or frustrated; difficult to resolve.",
-    "chinese": "惱怒的;棘手的",
+    "chinese": "惱怒的；棘手的",
     "synonyms": "",
     "root": "vexare (to shake, disturb), from Latin",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Annoyed or frustrated; difficult to resolve.",
-     "chinese": "惱怒的;棘手的"
+     "chinese": "惱怒的；棘手的"
     }
    },
    {
     "word": "via",
     "pos": "prep.",
     "definition": "By way of; passing through.",
-    "chinese": "經由;透過",
+    "chinese": "經由；透過",
     "synonyms": "",
     "root": "via (road, way), from Latin",
     "group": "",
@@ -592,7 +592,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "By way of; passing through.",
-     "chinese": "經由;透過"
+     "chinese": "經由；透過"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "vicar",
     "pos": "n.",
     "definition": "A member of the clergy, especially in the Church of England.",
-    "chinese": "教區牧師;代理主教",
+    "chinese": "教區牧師；代理主教",
     "synonyms": "",
     "root": "vicarius (substitute, deputy), from Latin vicis (change, substitution)",
     "group": "",
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A member of the clergy, especially in the Church of England.",
-     "chinese": "教區牧師;代理主教"
+     "chinese": "教區牧師；代理主教"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "vicious",
     "pos": "adj.",
     "definition": "Deliberately cruel or violent.",
-    "chinese": "凶惡的;惡毒的",
+    "chinese": "凶惡的；惡毒的",
     "synonyms": "",
     "root": "vitiosus (faulty, corrupt), from Latin vitium (fault, vice)",
     "group": "",
@@ -689,7 +689,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deliberately cruel or violent.",
-     "chinese": "凶惡的;惡毒的"
+     "chinese": "凶惡的；惡毒的"
     }
    },
    {
@@ -736,7 +736,7 @@ window.FLASHCARD_UNITS = {
     "word": "vile",
     "pos": "adj.",
     "definition": "Extremely unpleasant or morally wrong.",
-    "chinese": "卑鄙的;惡劣的",
+    "chinese": "卑鄙的；惡劣的",
     "synonyms": "",
     "root": "vilis (cheap, base), from Latin",
     "group": "",
@@ -748,14 +748,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely unpleasant or morally wrong.",
-     "chinese": "卑鄙的;惡劣的"
+     "chinese": "卑鄙的；惡劣的"
     }
    },
    {
     "word": "vileness",
     "pos": "n.",
     "definition": "The quality of being morally repugnant or extremely unpleasant.",
-    "chinese": "卑鄙;邪惡",
+    "chinese": "卑鄙；邪惡",
     "synonyms": "",
     "root": "vilis (cheap, base), from Latin + -ness",
     "group": "",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being morally repugnant or extremely unpleasant.",
-     "chinese": "卑鄙;邪惡"
+     "chinese": "卑鄙；邪惡"
     }
    },
    {
@@ -795,7 +795,7 @@ window.FLASHCARD_UNITS = {
     "word": "villain",
     "pos": "n.",
     "definition": "A wicked or evil person, especially in a story.",
-    "chinese": "反派;惡棍",
+    "chinese": "反派；惡棍",
     "synonyms": "",
     "root": "villanus (farmhand), from Medieval Latin villa (country house), meaning shifted over time",
     "group": "",
@@ -807,14 +807,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A wicked or evil person, especially in a story.",
-     "chinese": "反派;惡棍"
+     "chinese": "反派；惡棍"
     }
    },
    {
     "word": "villainous",
     "pos": "adj.",
     "definition": "Characteristic of a villain; wicked.",
-    "chinese": "邪惡的;惡棍般的",
+    "chinese": "邪惡的；惡棍般的",
     "synonyms": "",
     "root": "villanus (farmhand), from Medieval Latin villa (country house), meaning shifted over time",
     "group": "",
@@ -826,14 +826,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characteristic of a villain; wicked.",
-     "chinese": "邪惡的;惡棍般的"
+     "chinese": "邪惡的；惡棍般的"
     }
    },
    {
     "word": "villainy",
     "pos": "n.",
     "definition": "Wicked or criminal behavior.",
-    "chinese": "邪惡行為;罪行",
+    "chinese": "邪惡行為；罪行",
     "synonyms": "",
     "root": "villanie, from Old French vilain (villain)",
     "group": "",
@@ -845,7 +845,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wicked or criminal behavior.",
-     "chinese": "邪惡行為;罪行"
+     "chinese": "邪惡行為；罪行"
     }
    },
    {
@@ -873,7 +873,7 @@ window.FLASHCARD_UNITS = {
     "word": "vindication",
     "pos": "n.",
     "definition": "The clearing of someone from blame or suspicion.",
-    "chinese": "平反;辯白",
+    "chinese": "平反；辯白",
     "synonyms": "",
     "root": "vindicatio, from Latin vindicare (to claim, avenge)",
     "group": "",
@@ -885,7 +885,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The clearing of someone from blame or suspicion.",
-     "chinese": "平反;辯白"
+     "chinese": "平反；辯白"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "virtue",
     "pos": "n.",
     "definition": "Behavior showing high moral standards; a good quality.",
-    "chinese": "美德;優點",
+    "chinese": "美德；優點",
     "synonyms": "",
     "root": "virtus (excellence, valor), from Latin vir (man)",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Behavior showing high moral standards; a good quality.",
-     "chinese": "美德;優點"
+     "chinese": "美德；優點"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"veracious": ["Speaking or representing the truth.", "誠實的;真實的"], "verbal": ["Relating to or expressed in words, especially spoken.", "言語的;口頭的"], "verbatim": ["In exactly the same words; word for word.", "逐字地;一字不差的"], "verbiage": ["Excessive or unnecessary use of words.", "冗詞贅語"], "verbigerate": ["To repeat words or phrases meaninglessly, often as a symptom of mental disturbance.", "無意義地重複言語"], "verbigeration": ["The meaningless repetition of words or phrases, often as a symptom of mental illness.", "言語重複症"], "verbigerator": ["A person who meaninglessly repeats words or phrases (rare word).", "言語重複者(罕用詞)"], "verbose": ["Talkative.", "囉嗦的"], "verbosity": ["The use of more words than needed; wordiness.", "冗長;囉唆"], "verboten": ["Forbidden, especially by an authority.", "被禁止的"], "verdant": ["Green in tint or color.", "翠綠的；青翠的"], "verdure": ["Lush green vegetation.", "翠綠;綠意"], "veriest": ["The utmost or most complete (superlative of very, archaic).", "最真實的;十足的(古語,very的最高級)"], "verily": ["In truth; certainly (archaic).", "確實;真地(古語)"], "verisimilar": ["Having the appearance of being true or real.", "貌似真實的"], "verity": ["A true principle or belief, especially one of enduring importance.", "真理;真實性"], "vermiform": ["Shaped like a worm.", "蠕蟲狀的"], "vermin": ["Any of various small animals or insects that are pests.", "害蟲；害獸"], "vernacular": ["The everyday language spoken by ordinary people, as opposed to formal language.", "白話;方言"], "vernal": ["Relating to spring; fresh and youthful.", "春天的;青春的"], "verve": ["Energy and enthusiasm, especially in artistic or creative endeavors.", "活力;熱情"], "vespers": ["A religious evening service, especially in Christian traditions.", "晚禱"], "vespertine": ["Relating to or occurring in the evening.", "傍晚的;黃昏的"], "vestige": ["Evidence, trace.", "遺跡；痕跡"], "vestigial": ["Remaining as a trace of something that once existed; underdeveloped.", "殘留的;退化的"], "veteran": ["A person with long experience, especially in the military.", "老兵;老手"], "vex": ["To annoy or worry someone; to cause distress.", "使煩惱；使苦惱"], "vexation": ["The state of being annoyed or frustrated.", "惱怒;煩惱"], "vexatious": ["Annoying.", "令人煩惱的"], "vexed": ["Annoyed or frustrated; difficult to resolve.", "惱怒的;棘手的"], "via": ["By way of; passing through.", "經由;透過"], "viable": ["Practicable, workable.", "切實可行的；能存活的"], "vibrant": ["Lively; full of vitality.", "充滿活力的"], "vicar": ["A member of the clergy, especially in the Church of England.", "教區牧師;代理主教"], "vicarious": ["Experiencing through another.", "替代性的；間接體驗的"], "vicious": ["Deliberately cruel or violent.", "凶惡的;惡毒的"], "vicissitude": ["Event that occurs by chance.", "變遷；際遇無常"], "vicissitudes": ["Difficulties.", "變遷；興衰"], "vile": ["Extremely unpleasant or morally wrong.", "卑鄙的;惡劣的"], "vileness": ["The quality of being morally repugnant or extremely unpleasant.", "卑鄙;邪惡"], "vilify": ["To malign, slander.", "誹謗；貶低"], "villain": ["A wicked or evil person, especially in a story.", "反派;惡棍"], "villainous": ["Characteristic of a villain; wicked.", "邪惡的;惡棍般的"], "villainy": ["Wicked or criminal behavior.", "邪惡行為;罪行"], "vindicate": ["To absolve, justify.", "證明清白；維護"], "vindication": ["The clearing of someone from blame or suspicion.", "平反;辯白"], "vindictive": ["Vengeful.", "報復心強的；懷恨的"], "virago": ["A noisy or scolding or domineering woman.", "潑婦；悍婦"], "virile": ["Masterful, manly.", "有男子氣概的"], "virtue": ["Behavior showing high moral standards; a good quality.", "美德;優點"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"veracious": ["Speaking or representing the truth.", "誠實的；真實的"], "verbal": ["Relating to or expressed in words, especially spoken.", "言語的；口頭的"], "verbatim": ["In exactly the same words; word for word.", "逐字地；一字不差的"], "verbiage": ["Excessive or unnecessary use of words.", "冗詞贅語"], "verbigerate": ["To repeat words or phrases meaninglessly, often as a symptom of mental disturbance.", "無意義地重複言語"], "verbigeration": ["The meaningless repetition of words or phrases, often as a symptom of mental illness.", "言語重複症"], "verbigerator": ["A person who meaninglessly repeats words or phrases (rare word).", "言語重複者(罕用詞)"], "verbose": ["Talkative.", "囉嗦的"], "verbosity": ["The use of more words than needed; wordiness.", "冗長；囉唆"], "verboten": ["Forbidden, especially by an authority.", "被禁止的"], "verdant": ["Green in tint or color.", "翠綠的；青翠的"], "verdure": ["Lush green vegetation.", "翠綠；綠意"], "veriest": ["The utmost or most complete (superlative of very, archaic).", "最真實的；十足的(古語,very的最高級)"], "verily": ["In truth; certainly (archaic).", "確實；真地(古語)"], "verisimilar": ["Having the appearance of being true or real.", "貌似真實的"], "verity": ["A true principle or belief, especially one of enduring importance.", "真理；真實性"], "vermiform": ["Shaped like a worm.", "蠕蟲狀的"], "vermin": ["Any of various small animals or insects that are pests.", "害蟲；害獸"], "vernacular": ["The everyday language spoken by ordinary people, as opposed to formal language.", "白話；方言"], "vernal": ["Relating to spring; fresh and youthful.", "春天的；青春的"], "verve": ["Energy and enthusiasm, especially in artistic or creative endeavors.", "活力；熱情"], "vespers": ["A religious evening service, especially in Christian traditions.", "晚禱"], "vespertine": ["Relating to or occurring in the evening.", "傍晚的；黃昏的"], "vestige": ["Evidence, trace.", "遺跡；痕跡"], "vestigial": ["Remaining as a trace of something that once existed; underdeveloped.", "殘留的；退化的"], "veteran": ["A person with long experience, especially in the military.", "老兵；老手"], "vex": ["To annoy or worry someone; to cause distress.", "使煩惱；使苦惱"], "vexation": ["The state of being annoyed or frustrated.", "惱怒；煩惱"], "vexatious": ["Annoying.", "令人煩惱的"], "vexed": ["Annoyed or frustrated; difficult to resolve.", "惱怒的；棘手的"], "via": ["By way of; passing through.", "經由；透過"], "viable": ["Practicable, workable.", "切實可行的；能存活的"], "vibrant": ["Lively; full of vitality.", "充滿活力的"], "vicar": ["A member of the clergy, especially in the Church of England.", "教區牧師；代理主教"], "vicarious": ["Experiencing through another.", "替代性的；間接體驗的"], "vicious": ["Deliberately cruel or violent.", "凶惡的；惡毒的"], "vicissitude": ["Event that occurs by chance.", "變遷；際遇無常"], "vicissitudes": ["Difficulties.", "變遷；興衰"], "vile": ["Extremely unpleasant or morally wrong.", "卑鄙的；惡劣的"], "vileness": ["The quality of being morally repugnant or extremely unpleasant.", "卑鄙；邪惡"], "vilify": ["To malign, slander.", "誹謗；貶低"], "villain": ["A wicked or evil person, especially in a story.", "反派；惡棍"], "villainous": ["Characteristic of a villain; wicked.", "邪惡的；惡棍般的"], "villainy": ["Wicked or criminal behavior.", "邪惡行為；罪行"], "vindicate": ["To absolve, justify.", "證明清白；維護"], "vindication": ["The clearing of someone from blame or suspicion.", "平反；辯白"], "vindictive": ["Vengeful.", "報復心強的；懷恨的"], "virago": ["A noisy or scolding or domineering woman.", "潑婦；悍婦"], "virile": ["Masterful, manly.", "有男子氣概的"], "virtue": ["Behavior showing high moral standards; a good quality.", "美德；優點"]});

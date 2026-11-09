@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "noetic",
     "pos": "adj.",
     "definition": "Relating to mental activity or the intellect.",
-    "chinese": "理智的;心智的",
+    "chinese": "理智的；心智的",
     "synonyms": "",
     "root": "noetikos (intellectual), from Greek nous (mind)",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to mental activity or the intellect.",
-     "chinese": "理智的;心智的"
+     "chinese": "理智的；心智的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "nomenclature",
     "pos": "n.",
     "definition": "A system of names used in a particular field.",
-    "chinese": "命名法;術語系統",
+    "chinese": "命名法；術語系統",
     "synonyms": "",
     "root": "nomen (name) + calare (to call), from Latin",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A system of names used in a particular field.",
-     "chinese": "命名法;術語系統"
+     "chinese": "命名法；術語系統"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "nonplus",
     "pos": "v.",
     "definition": "To completely surprise or confuse someone.",
-    "chinese": "使困惑;使不知所措",
+    "chinese": "使困惑；使不知所措",
     "synonyms": "",
     "root": "non plus (not more), from Latin, indicating no further response possible",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To completely surprise or confuse someone.",
-     "chinese": "使困惑;使不知所措"
+     "chinese": "使困惑；使不知所措"
     }
    },
    {
     "word": "nonplussed",
     "pos": "adj.",
     "definition": "Surprised and confused to the point of not knowing how to react.",
-    "chinese": "困惑不解的;不知所措的",
+    "chinese": "困惑不解的；不知所措的",
     "synonyms": "",
     "root": "non plus (not more), from Latin, indicating no further response possible",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Surprised and confused to the point of not knowing how to react.",
-     "chinese": "困惑不解的;不知所措的"
+     "chinese": "困惑不解的；不知所措的"
     }
    },
    {
     "word": "normal",
     "pos": "adj.",
     "definition": "Conforming to a standard or usual state.",
-    "chinese": "正常的;標準的",
+    "chinese": "正常的；標準的",
     "synonyms": "",
     "root": "normalis (made according to a rule), from Latin norma (rule)",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conforming to a standard or usual state.",
-     "chinese": "正常的;標準的"
+     "chinese": "正常的；標準的"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "nostrum",
     "pos": "n.",
     "definition": "An ineffective remedy or solution, especially one offered as a cure-all.",
-    "chinese": "萬靈丹;江湖藥方",
+    "chinese": "萬靈丹；江湖藥方",
     "synonyms": "",
     "root": "nostrum (our own), from Latin, implying a secret home remedy",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An ineffective remedy or solution, especially one offered as a cure-all.",
-     "chinese": "萬靈丹;江湖藥方"
+     "chinese": "萬靈丹；江湖藥方"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "notoriety",
     "pos": "n.",
     "definition": "The state of being famous for something bad.",
-    "chinese": "惡名;臭名昭彰",
+    "chinese": "惡名；臭名昭彰",
     "synonyms": "",
     "root": "notus (known), from Latin",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being famous for something bad.",
-     "chinese": "惡名;臭名昭彰"
+     "chinese": "惡名；臭名昭彰"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "nubilous",
     "pos": "adj.",
     "definition": "Cloudy or overcast; obscure.",
-    "chinese": "多雲的;模糊不清的",
+    "chinese": "多雲的；模糊不清的",
     "synonyms": "",
     "root": "nubes (cloud), from Latin",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cloudy or overcast; obscure.",
-     "chinese": "多雲的;模糊不清的"
+     "chinese": "多雲的；模糊不清的"
     }
    },
    {
     "word": "nuclear",
     "pos": "adj.",
     "definition": "Relating to the nucleus of an atom or to nuclear energy or weapons.",
-    "chinese": "核子的;原子核的",
+    "chinese": "核子的；原子核的",
     "synonyms": "",
     "root": "nucleus (kernel), from Latin nux (nut)",
     "group": "",
@@ -419,14 +419,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the nucleus of an atom or to nuclear energy or weapons.",
-     "chinese": "核子的;原子核的"
+     "chinese": "核子的；原子核的"
     }
    },
    {
     "word": "nude",
     "pos": "adj./n.",
     "definition": "Wearing no clothes; naked.",
-    "chinese": "裸體的;裸體畫",
+    "chinese": "裸體的；裸體畫",
     "synonyms": "",
     "root": "nudus (naked), from Latin",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wearing no clothes; naked.",
-     "chinese": "裸體的;裸體畫"
+     "chinese": "裸體的；裸體畫"
     }
    },
    {
     "word": "nudity",
     "pos": "n.",
     "definition": "The state of being naked.",
-    "chinese": "裸露;裸體狀態",
+    "chinese": "裸露；裸體狀態",
     "synonyms": "",
     "root": "nudus (naked), from Latin",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being naked.",
-     "chinese": "裸露;裸體狀態"
+     "chinese": "裸露；裸體狀態"
     }
    },
    {
     "word": "nugacity",
     "pos": "n.",
     "definition": "Triviality or worthlessness; futility.",
-    "chinese": "瑣碎;無價值",
+    "chinese": "瑣碎；無價值",
     "synonyms": "",
     "root": "nugax (trifling), from Latin nugae (jokes, trifles)",
     "group": "",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Triviality or worthlessness; futility.",
-     "chinese": "瑣碎;無價值"
+     "chinese": "瑣碎；無價值"
     }
    },
    {
     "word": "nugatory",
     "pos": "adj.",
     "definition": "Having no value or importance; invalid.",
-    "chinese": "無價值的;無效的",
+    "chinese": "無價值的；無效的",
     "synonyms": "",
     "root": "nugatorius (trifling), from Latin nugae (jokes, trifles)",
     "group": "",
@@ -495,14 +495,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no value or importance; invalid.",
-     "chinese": "無價值的;無效的"
+     "chinese": "無價值的；無效的"
     }
    },
    {
     "word": "nullibiety",
     "pos": "n.",
     "definition": "The state of existing nowhere.",
-    "chinese": "無所在;不存在於任何地方的狀態",
+    "chinese": "無所在；不存在於任何地方的狀態",
     "synonyms": "",
     "root": "nullibi (nowhere), from Latin nullus (none) + ibi (there)",
     "group": "",
@@ -514,14 +514,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of existing nowhere.",
-     "chinese": "無所在;不存在於任何地方的狀態"
+     "chinese": "無所在；不存在於任何地方的狀態"
     }
    },
    {
     "word": "nullibiquitous",
     "pos": "adj.",
     "definition": "Existing nowhere; the opposite of ubiquitous.",
-    "chinese": "無所不在之反義;不存在於任何地方的",
+    "chinese": "無所不在之反義；不存在於任何地方的",
     "synonyms": "",
     "root": "nullibi (nowhere), from Latin nullus (none) + ibi (there)",
     "group": "",
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing nowhere; the opposite of ubiquitous.",
-     "chinese": "無所不在之反義;不存在於任何地方的"
+     "chinese": "無所不在之反義；不存在於任何地方的"
     }
    },
    {
@@ -578,7 +578,7 @@ window.FLASHCARD_UNITS = {
     "word": "numbskull",
     "pos": "n.",
     "definition": "A stupid person (informal).",
-    "chinese": "笨蛋;傻瓜(非正式)",
+    "chinese": "笨蛋；傻瓜(非正式)",
     "synonyms": "",
     "root": "numb, from Middle English nomen + skull",
     "group": "",
@@ -590,14 +590,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stupid person (informal).",
-     "chinese": "笨蛋;傻瓜(非正式)"
+     "chinese": "笨蛋；傻瓜(非正式)"
     }
    },
    {
     "word": "numen",
     "pos": "n.",
     "definition": "A divine or spiritual force believed to inhabit a particular object or place.",
-    "chinese": "神靈;神性",
+    "chinese": "神靈；神性",
     "synonyms": "",
     "root": "numen (nod, divine will), from Latin nuere (to nod)",
     "group": "",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A divine or spiritual force believed to inhabit a particular object or place.",
-     "chinese": "神靈;神性"
+     "chinese": "神靈；神性"
     }
    },
    {
     "word": "numinous",
     "pos": "adj.",
     "definition": "Having a strong religious or spiritual quality; suggesting the presence of a divinity.",
-    "chinese": "神聖的;神秘感的",
+    "chinese": "神聖的；神秘感的",
     "synonyms": "",
     "root": "numen (nod, divine will), from Latin nuere (to nod)",
     "group": "",
@@ -628,14 +628,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a strong religious or spiritual quality; suggesting the presence of a divinity.",
-     "chinese": "神聖的;神秘感的"
+     "chinese": "神聖的；神秘感的"
     }
    },
    {
     "word": "numismatist",
     "pos": "n.",
     "definition": "A person who collects or studies coins and currency.",
-    "chinese": "錢幣收藏家;錢幣學家",
+    "chinese": "錢幣收藏家；錢幣學家",
     "synonyms": "",
     "root": "nomisma (coin), from Greek nomos (custom, law)",
     "group": "",
@@ -647,7 +647,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who collects or studies coins and currency.",
-     "chinese": "錢幣收藏家;錢幣學家"
+     "chinese": "錢幣收藏家；錢幣學家"
     }
    },
    {
@@ -692,7 +692,7 @@ window.FLASHCARD_UNITS = {
     "word": "oath",
     "pos": "n.",
     "definition": "A solemn promise, often invoking a divine witness.",
-    "chinese": "誓言;宣誓",
+    "chinese": "誓言；宣誓",
     "synonyms": "",
     "root": "að (oath), from Old English",
     "group": "",
@@ -704,14 +704,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A solemn promise, often invoking a divine witness.",
-     "chinese": "誓言;宣誓"
+     "chinese": "誓言；宣誓"
     }
    },
    {
     "word": "obeisance",
     "pos": "n.",
     "definition": "Deferential respect; a gesture expressing such respect, like a bow.",
-    "chinese": "敬意;鞠躬致敬",
+    "chinese": "敬意；鞠躬致敬",
     "synonyms": "",
     "root": "obeissance (obedience), from Old French obeir (to obey)",
     "group": "",
@@ -723,7 +723,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deferential respect; a gesture expressing such respect, like a bow.",
-     "chinese": "敬意;鞠躬致敬"
+     "chinese": "敬意；鞠躬致敬"
     }
    },
    {
@@ -749,7 +749,7 @@ window.FLASHCARD_UNITS = {
     "word": "objectionable",
     "pos": "adj.",
     "definition": "Causing disapproval or offense.",
-    "chinese": "令人反感的;不妥的",
+    "chinese": "令人反感的；不妥的",
     "synonyms": "",
     "root": "objectio (a throwing against), from Latin objicere (to throw before)",
     "group": "",
@@ -761,14 +761,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing disapproval or offense.",
-     "chinese": "令人反感的;不妥的"
+     "chinese": "令人反感的；不妥的"
     }
    },
    {
     "word": "objet d'art",
     "pos": "n.",
     "definition": "A small decorative or artistic object.",
-    "chinese": "藝術品;工藝品",
+    "chinese": "藝術品；工藝品",
     "synonyms": "",
     "root": "objet (object) + d'art (of art), from French",
     "group": "",
@@ -780,7 +780,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small decorative or artistic object.",
-     "chinese": "藝術品;工藝品"
+     "chinese": "藝術品；工藝品"
     }
    },
    {
@@ -827,7 +827,7 @@ window.FLASHCARD_UNITS = {
     "word": "obligatory",
     "pos": "adj.",
     "definition": "Required by law, rule, or custom.",
-    "chinese": "義務的;必須的",
+    "chinese": "義務的；必須的",
     "synonyms": "",
     "root": "obligare (to bind), from Latin ob- + ligare (to bind)",
     "group": "",
@@ -839,14 +839,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Required by law, rule, or custom.",
-     "chinese": "義務的;必須的"
+     "chinese": "義務的；必須的"
     }
    },
    {
     "word": "oblivion",
     "pos": "n.",
     "definition": "The state of being forgotten or unaware.",
-    "chinese": "遺忘;湮沒無聞",
+    "chinese": "遺忘；湮沒無聞",
     "synonyms": "",
     "root": "oblivio (forgetfulness), from Latin oblivisci (to forget)",
     "group": "",
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being forgotten or unaware.",
-     "chinese": "遺忘;湮沒無聞"
+     "chinese": "遺忘；湮沒無聞"
     }
    },
    {
@@ -884,7 +884,7 @@ window.FLASHCARD_UNITS = {
     "word": "obscene",
     "pos": "adj.",
     "definition": "Offensive or disgusting, especially in a sexual way.",
-    "chinese": "猥褻的;下流的",
+    "chinese": "猥褻的；下流的",
     "synonyms": "",
     "root": "obscenus (ill-omened, filthy), from Latin",
     "group": "",
@@ -896,7 +896,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Offensive or disgusting, especially in a sexual way.",
-     "chinese": "猥褻的;下流的"
+     "chinese": "猥褻的；下流的"
     }
    },
    {
@@ -922,7 +922,7 @@ window.FLASHCARD_UNITS = {
     "word": "obvious",
     "pos": "adj.",
     "definition": "Easily seen, recognized, or understood.",
-    "chinese": "明顯的;顯而易見的",
+    "chinese": "明顯的；顯而易見的",
     "synonyms": "",
     "root": "obvius (in the way, meeting), from Latin ob- + via (way)",
     "group": "",
@@ -934,14 +934,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily seen, recognized, or understood.",
-     "chinese": "明顯的;顯而易見的"
+     "chinese": "明顯的；顯而易見的"
     }
    },
    {
     "word": "occasional",
     "pos": "adj.",
     "definition": "Occurring infrequently or irregularly.",
-    "chinese": "偶爾的;不定期的",
+    "chinese": "偶爾的；不定期的",
     "synonyms": "",
     "root": "occasio (opportunity, occasion), from Latin occidere (to fall)",
     "group": "",
@@ -953,7 +953,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Occurring infrequently or irregularly.",
-     "chinese": "偶爾的;不定期的"
+     "chinese": "偶爾的；不定期的"
     }
    }
   ],
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"noetic": ["Relating to mental activity or the intellect.", "理智的;心智的"], "noisome": ["Foul, unwholesome.", "惡臭的；令人討厭的"], "nom de plume": ["A pen name used by an author instead of their real name.", "筆名"], "nomadic": ["Wandering.", "遊牧的；流浪的"], "nomenclator": ["A person who assigns names, especially in a scientific or systematic way.", "命名者"], "nomenclature": ["A system of names used in a particular field.", "命名法;術語系統"], "nominal": ["Slight, in name only.", "名義上的；微不足道的"], "nonagenarian": ["A person who is between 90 and 99 years old.", "九十多歲的人"], "nonplus": ["To completely surprise or confuse someone.", "使困惑;使不知所措"], "nonplussed": ["Surprised and confused to the point of not knowing how to react.", "困惑不解的;不知所措的"], "normal": ["Conforming to a standard or usual state.", "正常的;標準的"], "nostalgia": ["Yearning for the past.", "懷舊；思鄉病"], "nostalgic": ["Unhappy about being away and longing for familiar things.", "懷舊的；思鄉的"], "nostrum": ["An ineffective remedy or solution, especially one offered as a cure-all.", "萬靈丹;江湖藥方"], "notional": ["Existing only in theory.", "概念上的；假設的"], "notoriety": ["The state of being famous for something bad.", "惡名;臭名昭彰"], "notorious": ["Widely and unfavorably known.", "臭名昭著的"], "noxious": ["Harmful, poisonous, or very unpleasant.", "有害的；有毒的"], "nuance": ["Complexity, slight variation in meaning, tone, etc.", "細微差別"], "nuanced": ["Showing subtle distinctions or variations in meaning, expression, or feeling.", "細膩的；微妙的"], "nubilous": ["Cloudy or overcast; obscure.", "多雲的;模糊不清的"], "nuclear": ["Relating to the nucleus of an atom or to nuclear energy or weapons.", "核子的;原子核的"], "nude": ["Wearing no clothes; naked.", "裸體的;裸體畫"], "nudity": ["The state of being naked.", "裸露;裸體狀態"], "nugacity": ["Triviality or worthlessness; futility.", "瑣碎;無價值"], "nugatory": ["Having no value or importance; invalid.", "無價值的;無效的"], "nullibiety": ["The state of existing nowhere.", "無所在;不存在於任何地方的狀態"], "nullibiquitous": ["Existing nowhere; the opposite of ubiquitous.", "無所不在之反義;不存在於任何地方的"], "nullipara": ["A woman who has never given birth.", "未產婦"], "nulliparous": ["Having never given birth.", "未產的"], "numbskull": ["A stupid person (informal).", "笨蛋;傻瓜(非正式)"], "numen": ["A divine or spiritual force believed to inhabit a particular object or place.", "神靈;神性"], "numinous": ["Having a strong religious or spiritual quality; suggesting the presence of a divinity.", "神聖的;神秘感的"], "numismatist": ["A person who collects or studies coins and currency.", "錢幣收藏家;錢幣學家"], "nurture": ["To nourish, support.", "養育；培育"], "nutritive": ["Having nourishing properties.", "營養的"], "oath": ["A solemn promise, often invoking a divine witness.", "誓言;宣誓"], "obeisance": ["Deferential respect; a gesture expressing such respect, like a bow.", "敬意;鞠躬致敬"], "obese": ["Excessively overweight.", "肥胖的"], "objectionable": ["Causing disapproval or offense.", "令人反感的;不妥的"], "objet d'art": ["A small decorative or artistic object.", "藝術品;工藝品"], "objurgate": ["To scold or rebuke harshly.", "嚴厲斥責"], "objurgation": ["A harsh rebuke or scolding.", "嚴厲斥責"], "obligatory": ["Required by law, rule, or custom.", "義務的;必須的"], "oblivion": ["The state of being forgotten or unaware.", "遺忘;湮沒無聞"], "oblivious": ["Lacking consciousness or awareness of something.", "渾然不覺的；未察覺的"], "obscene": ["Offensive or disgusting, especially in a sexual way.", "猥褻的;下流的"], "obstetrician": ["A doctor specializing in pregnancy and childbirth.", "產科醫生"], "obvious": ["Easily seen, recognized, or understood.", "明顯的;顯而易見的"], "occasional": ["Occurring infrequently or irregularly.", "偶爾的;不定期的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"noetic": ["Relating to mental activity or the intellect.", "理智的；心智的"], "noisome": ["Foul, unwholesome.", "惡臭的；令人討厭的"], "nom de plume": ["A pen name used by an author instead of their real name.", "筆名"], "nomadic": ["Wandering.", "遊牧的；流浪的"], "nomenclator": ["A person who assigns names, especially in a scientific or systematic way.", "命名者"], "nomenclature": ["A system of names used in a particular field.", "命名法；術語系統"], "nominal": ["Slight, in name only.", "名義上的；微不足道的"], "nonagenarian": ["A person who is between 90 and 99 years old.", "九十多歲的人"], "nonplus": ["To completely surprise or confuse someone.", "使困惑；使不知所措"], "nonplussed": ["Surprised and confused to the point of not knowing how to react.", "困惑不解的；不知所措的"], "normal": ["Conforming to a standard or usual state.", "正常的；標準的"], "nostalgia": ["Yearning for the past.", "懷舊；思鄉病"], "nostalgic": ["Unhappy about being away and longing for familiar things.", "懷舊的；思鄉的"], "nostrum": ["An ineffective remedy or solution, especially one offered as a cure-all.", "萬靈丹；江湖藥方"], "notional": ["Existing only in theory.", "概念上的；假設的"], "notoriety": ["The state of being famous for something bad.", "惡名；臭名昭彰"], "notorious": ["Widely and unfavorably known.", "臭名昭著的"], "noxious": ["Harmful, poisonous, or very unpleasant.", "有害的；有毒的"], "nuance": ["Complexity, slight variation in meaning, tone, etc.", "細微差別"], "nuanced": ["Showing subtle distinctions or variations in meaning, expression, or feeling.", "細膩的；微妙的"], "nubilous": ["Cloudy or overcast; obscure.", "多雲的；模糊不清的"], "nuclear": ["Relating to the nucleus of an atom or to nuclear energy or weapons.", "核子的；原子核的"], "nude": ["Wearing no clothes; naked.", "裸體的；裸體畫"], "nudity": ["The state of being naked.", "裸露；裸體狀態"], "nugacity": ["Triviality or worthlessness; futility.", "瑣碎；無價值"], "nugatory": ["Having no value or importance; invalid.", "無價值的；無效的"], "nullibiety": ["The state of existing nowhere.", "無所在；不存在於任何地方的狀態"], "nullibiquitous": ["Existing nowhere; the opposite of ubiquitous.", "無所不在之反義；不存在於任何地方的"], "nullipara": ["A woman who has never given birth.", "未產婦"], "nulliparous": ["Having never given birth.", "未產的"], "numbskull": ["A stupid person (informal).", "笨蛋；傻瓜(非正式)"], "numen": ["A divine or spiritual force believed to inhabit a particular object or place.", "神靈；神性"], "numinous": ["Having a strong religious or spiritual quality; suggesting the presence of a divinity.", "神聖的；神秘感的"], "numismatist": ["A person who collects or studies coins and currency.", "錢幣收藏家；錢幣學家"], "nurture": ["To nourish, support.", "養育；培育"], "nutritive": ["Having nourishing properties.", "營養的"], "oath": ["A solemn promise, often invoking a divine witness.", "誓言；宣誓"], "obeisance": ["Deferential respect; a gesture expressing such respect, like a bow.", "敬意；鞠躬致敬"], "obese": ["Excessively overweight.", "肥胖的"], "objectionable": ["Causing disapproval or offense.", "令人反感的；不妥的"], "objet d'art": ["A small decorative or artistic object.", "藝術品；工藝品"], "objurgate": ["To scold or rebuke harshly.", "嚴厲斥責"], "objurgation": ["A harsh rebuke or scolding.", "嚴厲斥責"], "obligatory": ["Required by law, rule, or custom.", "義務的；必須的"], "oblivion": ["The state of being forgotten or unaware.", "遺忘；湮沒無聞"], "oblivious": ["Lacking consciousness or awareness of something.", "渾然不覺的；未察覺的"], "obscene": ["Offensive or disgusting, especially in a sexual way.", "猥褻的；下流的"], "obstetrician": ["A doctor specializing in pregnancy and childbirth.", "產科醫生"], "obvious": ["Easily seen, recognized, or understood.", "明顯的；顯而易見的"], "occasional": ["Occurring infrequently or irregularly.", "偶爾的；不定期的"]});

@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "preapprehension",
     "pos": "n.",
     "definition": "An understanding or perception formed in advance.",
-    "chinese": "預先認知;先入之見",
+    "chinese": "預先認知；先入之見",
     "synonyms": "",
     "root": "prae- (before) + apprehendere (to seize, understand), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An understanding or perception formed in advance.",
-     "chinese": "預先認知;先入之見"
+     "chinese": "預先認知；先入之見"
     }
    },
    {
@@ -331,7 +331,7 @@ window.FLASHCARD_UNITS = {
     "word": "precognition",
     "pos": "n.",
     "definition": "Supposed knowledge of an event before it happens.",
-    "chinese": "預知;超前認知",
+    "chinese": "預知；超前認知",
     "synonyms": "",
     "root": "prae- (before) + cognitio (knowledge), from Latin cognoscere (to know)",
     "group": "pre = 在⋯⋯之前",
@@ -343,14 +343,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Supposed knowledge of an event before it happens.",
-     "chinese": "預知;超前認知"
+     "chinese": "預知；超前認知"
     }
    },
    {
     "word": "precursor",
     "pos": "n.",
     "definition": "A person or thing that precedes and leads to the development of something else.",
-    "chinese": "先驅;前身",
+    "chinese": "先驅；前身",
     "synonyms": "",
     "root": "prae- (before) + currere (to run), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person or thing that precedes and leads to the development of something else.",
-     "chinese": "先驅;前身"
+     "chinese": "先驅；前身"
     }
    },
    {
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "word": "predispose",
     "pos": "v.",
     "definition": "To make someone susceptible to a particular condition or behavior beforehand.",
-    "chinese": "使易於;使傾向於",
+    "chinese": "使易於；使傾向於",
     "synonyms": "",
     "root": "prae- (before) + disponere (to arrange), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make someone susceptible to a particular condition or behavior beforehand.",
-     "chinese": "使易於;使傾向於"
+     "chinese": "使易於；使傾向於"
     }
    },
    {
     "word": "predisposition",
     "pos": "n.",
     "definition": "A tendency to a particular condition or behavior, existing beforehand.",
-    "chinese": "先天傾向;易感性",
+    "chinese": "先天傾向；易感性",
     "synonyms": "",
     "root": "prae- (before) + disponere (to arrange), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A tendency to a particular condition or behavior, existing beforehand.",
-     "chinese": "先天傾向;易感性"
+     "chinese": "先天傾向；易感性"
     }
    },
    {
     "word": "preeminent",
     "pos": "adj.",
     "definition": "Surpassing all others; distinguished above all others.",
-    "chinese": "卓越的;首屈一指的",
+    "chinese": "卓越的；首屈一指的",
     "synonyms": "",
     "root": "prae- (before) + eminere (to stand out), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Surpassing all others; distinguished above all others.",
-     "chinese": "卓越的;首屈一指的"
+     "chinese": "卓越的；首屈一指的"
     }
    },
    {
     "word": "preference",
     "pos": "n.",
     "definition": "A greater liking for one option over another.",
-    "chinese": "偏好;偏愛",
+    "chinese": "偏好；偏愛",
     "synonyms": "",
     "root": "prae- (before) + ferre (to carry), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -518,14 +518,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A greater liking for one option over another.",
-     "chinese": "偏好;偏愛"
+     "chinese": "偏好；偏愛"
     }
    },
    {
     "word": "prejudice",
     "pos": "n./v.",
     "definition": "A preconceived opinion not based on reason; to cause bias.",
-    "chinese": "偏見;成見",
+    "chinese": "偏見；成見",
     "synonyms": "",
     "root": "prae- (before) + judicium (judgment), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -537,14 +537,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A preconceived opinion not based on reason; to cause bias.",
-     "chinese": "偏見;成見"
+     "chinese": "偏見；成見"
     }
    },
    {
     "word": "prelapsarian",
     "pos": "adj.",
     "definition": "Relating to the innocent period before a significant fall or loss.",
-    "chinese": "墮落之前的;純真時期的",
+    "chinese": "墮落之前的；純真時期的",
     "synonyms": "",
     "root": "prae- (before) + lapsus (a fall), from Latin labi (to slip)",
     "group": "pre = 在⋯⋯之前",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the innocent period before a significant fall or loss.",
-     "chinese": "墮落之前的;純真時期的"
+     "chinese": "墮落之前的；純真時期的"
     }
    },
    {
     "word": "preliminary",
     "pos": "adj./n.",
     "definition": "Preceding and preparing for something more important.",
-    "chinese": "初步的;預備的",
+    "chinese": "初步的；預備的",
     "synonyms": "",
     "root": "prae- (before) + limen (threshold), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Preceding and preparing for something more important.",
-     "chinese": "初步的;預備的"
+     "chinese": "初步的；預備的"
     }
    },
    {
@@ -601,7 +601,7 @@ window.FLASHCARD_UNITS = {
     "word": "premonitory",
     "pos": "adj.",
     "definition": "Giving warning of something in advance.",
-    "chinese": "預兆的;預警的",
+    "chinese": "預兆的；預警的",
     "synonyms": "",
     "root": "prae- (before) + monere (to warn), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -613,7 +613,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving warning of something in advance.",
-     "chinese": "預兆的;預警的"
+     "chinese": "預兆的；預警的"
     }
    },
    {
@@ -639,7 +639,7 @@ window.FLASHCARD_UNITS = {
     "word": "prepossess",
     "pos": "v.",
     "definition": "To influence someone beforehand, especially favorably.",
-    "chinese": "使先入為主;使產生好感",
+    "chinese": "使先入為主；使產生好感",
     "synonyms": "",
     "root": "prae- (before) + possess, from Latin possidere (to have and hold)",
     "group": "pre = 在⋯⋯之前",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To influence someone beforehand, especially favorably.",
-     "chinese": "使先入為主;使產生好感"
+     "chinese": "使先入為主；使產生好感"
     }
    },
    {
@@ -696,7 +696,7 @@ window.FLASHCARD_UNITS = {
     "word": "prescience",
     "pos": "n.",
     "definition": "Knowledge of events before they happen; foresight.",
-    "chinese": "先見之明;預知能力",
+    "chinese": "先見之明；預知能力",
     "synonyms": "",
     "root": "prae- (before) + scire (to know), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Knowledge of events before they happen; foresight.",
-     "chinese": "先見之明;預知能力"
+     "chinese": "先見之明；預知能力"
     }
    },
    {
@@ -755,7 +755,7 @@ window.FLASHCARD_UNITS = {
     "word": "prescription",
     "pos": "n.",
     "definition": "An instruction written by a doctor for medicine; an authoritative recommendation.",
-    "chinese": "處方;規定",
+    "chinese": "處方；規定",
     "synonyms": "",
     "root": "prae- (before) + scribere (to write), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -767,7 +767,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An instruction written by a doctor for medicine; an authoritative recommendation.",
-     "chinese": "處方;規定"
+     "chinese": "處方；規定"
     }
    },
    {
@@ -831,7 +831,7 @@ window.FLASHCARD_UNITS = {
     "word": "presumption",
     "pos": "n.",
     "definition": "An assumption taken as true without proof; arrogant behavior.",
-    "chinese": "假定;放肆",
+    "chinese": "假定；放肆",
     "synonyms": "",
     "root": "prae- (before) + sumere (to take), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An assumption taken as true without proof; arrogant behavior.",
-     "chinese": "假定;放肆"
+     "chinese": "假定；放肆"
     }
    },
    {
     "word": "presumptuousness",
     "pos": "n.",
     "definition": "The quality of being overly bold or arrogant.",
-    "chinese": "放肆;僭越",
+    "chinese": "放肆；僭越",
     "synonyms": "",
     "root": "prae- (before) + sumere (to take), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being overly bold or arrogant.",
-     "chinese": "放肆;僭越"
+     "chinese": "放肆；僭越"
     }
    },
    {
@@ -909,7 +909,7 @@ window.FLASHCARD_UNITS = {
     "word": "prevent",
     "pos": "v.",
     "definition": "To stop something from happening.",
-    "chinese": "預防;阻止",
+    "chinese": "預防；阻止",
     "synonyms": "",
     "root": "prae- (before) + venire (to come), from Latin",
     "group": "pre = 在⋯⋯之前",
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To stop something from happening.",
-     "chinese": "預防;阻止"
+     "chinese": "預防；阻止"
     }
    },
    {
@@ -2125,4 +2125,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pretext": ["An excuse.", "藉口"], "precocious": ["Reaching maturity early.", "早熟的"], "premonition": ["Forewarning.", "預感"], "premise": ["Proposition for argument.", "前提；假設"], "precipitate": ["To hasten, cause.", "促成；使沉澱"], "preclude": ["To prevent.", "排除；防止"], "prelude": ["Introduction.", "序幕；前奏"], "prevalent": ["Primary, common, general.", "普遍的；盛行的"], "precedent": ["Earlier example of something similar.", "先例；前例"], "prerogative": ["Exclusive power or right.", "特權"], "prevarication": ["Lie, deviation from the truth.", "支吾；撒謊"], "presumptuous": ["Too forward or bold; overstepping proper bounds.", "專擅的；冒失的"], "pretentious": ["Claiming or pretending increased importance or grandness.", "自命不凡的"], "predator": ["One who takes advantage of another, exploits or feeds on another; a strong adversary or rival.", "掠食者"], "unprecedented": ["Novel; unparalleled.", "空前的"], "preapprehension": ["An understanding or perception formed in advance.", "預先認知;先入之見"], "precipice": ["The face of a cliff, a steep or overhanging place.", "懸崖；絕壁"], "precognition": ["Supposed knowledge of an event before it happens.", "預知;超前認知"], "precursor": ["A person or thing that precedes and leads to the development of something else.", "先驅;前身"], "predetermine": ["To decide or determine in advance, especially by fate or a higher power.", "預先決定"], "predetermined": ["Decided in advance.", "預先決定的"], "predict": ["To say what will happen in the future.", "預測"], "predilection": ["A preference or inclination for something.", "偏好；偏愛"], "predispose": ["To make someone susceptible to a particular condition or behavior beforehand.", "使易於;使傾向於"], "predisposition": ["A tendency to a particular condition or behavior, existing beforehand.", "先天傾向;易感性"], "preeminent": ["Surpassing all others; distinguished above all others.", "卓越的;首屈一指的"], "preference": ["A greater liking for one option over another.", "偏好;偏愛"], "prejudice": ["A preconceived opinion not based on reason; to cause bias.", "偏見;成見"], "prelapsarian": ["Relating to the innocent period before a significant fall or loss.", "墮落之前的;純真時期的"], "preliminary": ["Preceding and preparing for something more important.", "初步的;預備的"], "premeditated": ["Planned beforehand.", "預謀的"], "premonitory": ["Giving warning of something in advance.", "預兆的;預警的"], "preponderance": ["Superiority in importance or quantity.", "優勢；多數"], "prepossess": ["To influence someone beforehand, especially favorably.", "使先入為主;使產生好感"], "prepossessing": ["Occupying the mind to the exclusion of other thoughts.", "先入為主的；占據心思的"], "presage": ["An omen.", "預兆；前兆"], "prescience": ["Knowledge of events before they happen; foresight.", "先見之明;預知能力"], "prescient": ["To have foreknowledge of events.", "有先見之明的"], "prescribe": ["To recommend or authorize the use of something, especially a treatment or remedy.", "開處方；規定"], "prescription": ["An instruction written by a doctor for medicine; an authoritative recommendation.", "處方;規定"], "presentiment": ["An intuitive feeling about the future, especially of something bad.", "預感(尤指不祥的)"], "preserve": ["To keep something in its original state.", "保存；維護"], "presume": ["To assume something to be true.", "假定；推測"], "presumption": ["An assumption taken as true without proof; arrogant behavior.", "假定;放肆"], "presumptuousness": ["The quality of being overly bold or arrogant.", "放肆;僭越"], "pretense": ["An appearance or action intended to deceive.", "藉口；偽裝"], "prevail": ["To prove more powerful or superior; to win or succeed after a struggle.", "獲勝；盛行"], "prevent": ["To stop something from happening.", "預防;阻止"], "preventable": ["Able to be avoided.", "可預防的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pretext": ["An excuse.", "藉口"], "precocious": ["Reaching maturity early.", "早熟的"], "premonition": ["Forewarning.", "預感"], "premise": ["Proposition for argument.", "前提；假設"], "precipitate": ["To hasten, cause.", "促成；使沉澱"], "preclude": ["To prevent.", "排除；防止"], "prelude": ["Introduction.", "序幕；前奏"], "prevalent": ["Primary, common, general.", "普遍的；盛行的"], "precedent": ["Earlier example of something similar.", "先例；前例"], "prerogative": ["Exclusive power or right.", "特權"], "prevarication": ["Lie, deviation from the truth.", "支吾；撒謊"], "presumptuous": ["Too forward or bold; overstepping proper bounds.", "專擅的；冒失的"], "pretentious": ["Claiming or pretending increased importance or grandness.", "自命不凡的"], "predator": ["One who takes advantage of another, exploits or feeds on another; a strong adversary or rival.", "掠食者"], "unprecedented": ["Novel; unparalleled.", "空前的"], "preapprehension": ["An understanding or perception formed in advance.", "預先認知；先入之見"], "precipice": ["The face of a cliff, a steep or overhanging place.", "懸崖；絕壁"], "precognition": ["Supposed knowledge of an event before it happens.", "預知；超前認知"], "precursor": ["A person or thing that precedes and leads to the development of something else.", "先驅；前身"], "predetermine": ["To decide or determine in advance, especially by fate or a higher power.", "預先決定"], "predetermined": ["Decided in advance.", "預先決定的"], "predict": ["To say what will happen in the future.", "預測"], "predilection": ["A preference or inclination for something.", "偏好；偏愛"], "predispose": ["To make someone susceptible to a particular condition or behavior beforehand.", "使易於；使傾向於"], "predisposition": ["A tendency to a particular condition or behavior, existing beforehand.", "先天傾向；易感性"], "preeminent": ["Surpassing all others; distinguished above all others.", "卓越的；首屈一指的"], "preference": ["A greater liking for one option over another.", "偏好；偏愛"], "prejudice": ["A preconceived opinion not based on reason; to cause bias.", "偏見；成見"], "prelapsarian": ["Relating to the innocent period before a significant fall or loss.", "墮落之前的；純真時期的"], "preliminary": ["Preceding and preparing for something more important.", "初步的；預備的"], "premeditated": ["Planned beforehand.", "預謀的"], "premonitory": ["Giving warning of something in advance.", "預兆的；預警的"], "preponderance": ["Superiority in importance or quantity.", "優勢；多數"], "prepossess": ["To influence someone beforehand, especially favorably.", "使先入為主；使產生好感"], "prepossessing": ["Occupying the mind to the exclusion of other thoughts.", "先入為主的；占據心思的"], "presage": ["An omen.", "預兆；前兆"], "prescience": ["Knowledge of events before they happen; foresight.", "先見之明；預知能力"], "prescient": ["To have foreknowledge of events.", "有先見之明的"], "prescribe": ["To recommend or authorize the use of something, especially a treatment or remedy.", "開處方；規定"], "prescription": ["An instruction written by a doctor for medicine; an authoritative recommendation.", "處方；規定"], "presentiment": ["An intuitive feeling about the future, especially of something bad.", "預感(尤指不祥的)"], "preserve": ["To keep something in its original state.", "保存；維護"], "presume": ["To assume something to be true.", "假定；推測"], "presumption": ["An assumption taken as true without proof; arrogant behavior.", "假定；放肆"], "presumptuousness": ["The quality of being overly bold or arrogant.", "放肆；僭越"], "pretense": ["An appearance or action intended to deceive.", "藉口；偽裝"], "prevail": ["To prove more powerful or superior; to win or succeed after a struggle.", "獲勝；盛行"], "prevent": ["To stop something from happening.", "預防；阻止"], "preventable": ["Able to be avoided.", "可預防的"]});

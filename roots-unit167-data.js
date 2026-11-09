@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "bibliophobe",
     "pos": "n.",
     "definition": "A person who fears or dislikes books.",
-    "chinese": "厭書者;懼書者",
+    "chinese": "厭書者；懼書者",
     "synonyms": "",
     "root": "biblio- (book) + phobos (fear), from Greek",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who fears or dislikes books.",
-     "chinese": "厭書者;懼書者"
+     "chinese": "厭書者；懼書者"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "bibliopolist",
     "pos": "n.",
     "definition": "A person who sells books, especially rare or antiquarian ones.",
-    "chinese": "書商;書籍販售商",
+    "chinese": "書商；書籍販售商",
     "synonyms": "",
     "root": "biblio- (book) + polein (to sell), from Greek",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who sells books, especially rare or antiquarian ones.",
-     "chinese": "書商;書籍販售商"
+     "chinese": "書商；書籍販售商"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "bigoted",
     "pos": "adj.",
     "definition": "Having strong, unreasonable prejudices, especially against a group.",
-    "chinese": "心胸狹隘的;偏執的",
+    "chinese": "心胸狹隘的；偏執的",
     "synonyms": "",
     "root": "bigot (a hypocrite, from Old French)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having strong, unreasonable prejudices, especially against a group.",
-     "chinese": "心胸狹隘的;偏執的"
+     "chinese": "心胸狹隘的；偏執的"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "biting",
     "pos": "adj.",
     "definition": "Sharply critical or painful; extremely cold.",
-    "chinese": "尖銳的;刺骨的",
+    "chinese": "尖銳的；刺骨的",
     "synonyms": "",
     "root": "bitan (to bite, from Old English)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sharply critical or painful; extremely cold.",
-     "chinese": "尖銳的;刺骨的"
+     "chinese": "尖銳的；刺骨的"
     }
    },
    {
     "word": "bitterness",
     "pos": "n.",
     "definition": "Anger and resentment; a sharp, unpleasant taste.",
-    "chinese": "怨恨;苦味",
+    "chinese": "怨恨；苦味",
     "synonyms": "",
     "root": "biter (bitter, from Old English)",
     "group": "",
@@ -303,7 +303,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Anger and resentment; a sharp, unpleasant taste.",
-     "chinese": "怨恨;苦味"
+     "chinese": "怨恨；苦味"
     }
    },
    {
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
     "word": "blabbermouth",
     "pos": "n.",
     "definition": "A person who talks too much, especially revealing secrets.",
-    "chinese": "多嘴的人;大嘴巴",
+    "chinese": "多嘴的人；大嘴巴",
     "synonyms": "",
     "root": "blab (to talk indiscreetly) + mouth",
     "group": "",
@@ -360,14 +360,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who talks too much, especially revealing secrets.",
-     "chinese": "多嘴的人;大嘴巴"
+     "chinese": "多嘴的人；大嘴巴"
     }
    },
    {
     "word": "blackguard",
     "pos": "n.",
     "definition": "A dishonorable or contemptible person.",
-    "chinese": "惡棍;無賴",
+    "chinese": "惡棍；無賴",
     "synonyms": "",
     "root": "black + guard (originally kitchen servants)",
     "group": "",
@@ -379,7 +379,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dishonorable or contemptible person.",
-     "chinese": "惡棍;無賴"
+     "chinese": "惡棍；無賴"
     }
    },
    {
@@ -405,7 +405,7 @@ window.FLASHCARD_UNITS = {
     "word": "bland",
     "pos": "adj.",
     "definition": "Lacking strong flavor, interest, or character.",
-    "chinese": "乏味的;平淡的",
+    "chinese": "乏味的；平淡的",
     "synonyms": "",
     "root": "blandus (smooth, flattering, from Latin)",
     "group": "",
@@ -417,7 +417,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking strong flavor, interest, or character.",
-     "chinese": "乏味的;平淡的"
+     "chinese": "乏味的；平淡的"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "blandishment",
     "pos": "n.",
     "definition": "Flattering words or actions used to persuade someone.",
-    "chinese": "諂媚;甜言蜜語",
+    "chinese": "諂媚；甜言蜜語",
     "synonyms": "",
     "root": "blandiri (to flatter, from Latin)",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flattering words or actions used to persuade someone.",
-     "chinese": "諂媚;甜言蜜語"
+     "chinese": "諂媚；甜言蜜語"
     }
    },
    {
     "word": "blank",
     "pos": "adj./n.",
     "definition": "Having no writing or marks; an empty space.",
-    "chinese": "空白的;空白處",
+    "chinese": "空白的；空白處",
     "synonyms": "",
     "root": "blanc (white, from French)",
     "group": "",
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no writing or marks; an empty space.",
-     "chinese": "空白的;空白處"
+     "chinese": "空白的；空白處"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "blather",
     "pos": "n./v.",
     "definition": "Talk that is foolish or meaningless; to talk foolishly.",
-    "chinese": "胡言亂語;瞎扯",
+    "chinese": "胡言亂語；瞎扯",
     "synonyms": "",
     "root": "blathra (nonsense, from Old Norse)",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Talk that is foolish or meaningless; to talk foolishly.",
-     "chinese": "胡言亂語;瞎扯"
+     "chinese": "胡言亂語；瞎扯"
     }
    },
    {
     "word": "blatherer",
     "pos": "n.",
     "definition": "A person who talks foolishly or excessively.",
-    "chinese": "瞎扯的人;廢話連篇者",
+    "chinese": "瞎扯的人；廢話連篇者",
     "synonyms": "",
     "root": "blathra (nonsense, from Old Norse)",
     "group": "",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who talks foolishly or excessively.",
-     "chinese": "瞎扯的人;廢話連篇者"
+     "chinese": "瞎扯的人；廢話連篇者"
     }
    },
    {
     "word": "blathering",
     "pos": "adj./n.",
     "definition": "Talking foolishly and at length.",
-    "chinese": "喋喋不休的;胡扯",
+    "chinese": "喋喋不休的；胡扯",
     "synonyms": "",
     "root": "blathra (nonsense, from Old Norse)",
     "group": "",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Talking foolishly and at length.",
-     "chinese": "喋喋不休的;胡扯"
+     "chinese": "喋喋不休的；胡扯"
     }
    },
    {
     "word": "blatherskite",
     "pos": "n.",
     "definition": "A person who talks at great length without making much sense.",
-    "chinese": "胡扯的人;廢話大王",
+    "chinese": "胡扯的人；廢話大王",
     "synonyms": "",
     "root": "blather + skite (contemptible person, from Scots)",
     "group": "",
@@ -590,7 +590,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who talks at great length without making much sense.",
-     "chinese": "胡扯的人;廢話大王"
+     "chinese": "胡扯的人；廢話大王"
     }
    },
    {
@@ -616,7 +616,7 @@ window.FLASHCARD_UNITS = {
     "word": "blazing",
     "pos": "adj.",
     "definition": "Burning fiercely; extremely bright or intense.",
-    "chinese": "熾熱的;炙熱的",
+    "chinese": "熾熱的；炙熱的",
     "synonyms": "",
     "root": "blæse (torch, flame, from Old English)",
     "group": "",
@@ -628,7 +628,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Burning fiercely; extremely bright or intense.",
-     "chinese": "熾熱的;炙熱的"
+     "chinese": "熾熱的；炙熱的"
     }
    },
    {
@@ -692,7 +692,7 @@ window.FLASHCARD_UNITS = {
     "word": "blissful",
     "pos": "adj.",
     "definition": "Extremely happy; joyful.",
-    "chinese": "幸福的;極樂的",
+    "chinese": "幸福的；極樂的",
     "synonyms": "",
     "root": "bliths (bliss, from Old English)",
     "group": "",
@@ -704,14 +704,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely happy; joyful.",
-     "chinese": "幸福的;極樂的"
+     "chinese": "幸福的；極樂的"
     }
    },
    {
     "word": "blister",
     "pos": "n./v.",
     "definition": "A small bubble on the skin filled with fluid; to form such a bubble.",
-    "chinese": "水泡;起水泡",
+    "chinese": "水泡；起水泡",
     "synonyms": "",
     "root": "blestra (blister, from Middle Dutch)",
     "group": "",
@@ -723,14 +723,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small bubble on the skin filled with fluid; to form such a bubble.",
-     "chinese": "水泡;起水泡"
+     "chinese": "水泡；起水泡"
     }
    },
    {
     "word": "blithe",
     "pos": "adj.",
     "definition": "Cheerful and carefree, often to the point of thoughtlessness.",
-    "chinese": "無憂無慮的;輕率的",
+    "chinese": "無憂無慮的；輕率的",
     "synonyms": "",
     "root": "blithe (joyous, from Old English)",
     "group": "",
@@ -742,14 +742,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Cheerful and carefree, often to the point of thoughtlessness.",
-     "chinese": "無憂無慮的;輕率的"
+     "chinese": "無憂無慮的；輕率的"
     }
    },
    {
     "word": "blockhead",
     "pos": "n.",
     "definition": "A stupid person.",
-    "chinese": "笨蛋;傻瓜",
+    "chinese": "笨蛋；傻瓜",
     "synonyms": "",
     "root": "block + head",
     "group": "",
@@ -761,14 +761,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stupid person.",
-     "chinese": "笨蛋;傻瓜"
+     "chinese": "笨蛋；傻瓜"
     }
    },
    {
     "word": "bloodless",
     "pos": "adj.",
     "definition": "Without violence or bloodshed; lacking energy or emotion.",
-    "chinese": "不流血的;冷漠的",
+    "chinese": "不流血的；冷漠的",
     "synonyms": "",
     "root": "blood + -less",
     "group": "",
@@ -780,14 +780,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Without violence or bloodshed; lacking energy or emotion.",
-     "chinese": "不流血的;冷漠的"
+     "chinese": "不流血的；冷漠的"
     }
    },
    {
     "word": "blue-blooded",
     "pos": "adj.",
     "definition": "Of noble or aristocratic descent.",
-    "chinese": "貴族血統的;出身名門的",
+    "chinese": "貴族血統的；出身名門的",
     "synonyms": "",
     "root": "sangre azul (blue blood, from Spanish, referring to visible veins of the pale nobility)",
     "group": "",
@@ -799,14 +799,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Of noble or aristocratic descent.",
-     "chinese": "貴族血統的;出身名門的"
+     "chinese": "貴族血統的；出身名門的"
     }
    },
    {
     "word": "blue-collar",
     "pos": "adj.",
     "definition": "Relating to manual labor or the working class.",
-    "chinese": "藍領的;體力勞動的",
+    "chinese": "藍領的；體力勞動的",
     "synonyms": "",
     "root": "blue + collar (referring to work uniforms)",
     "group": "",
@@ -818,7 +818,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to manual labor or the working class.",
-     "chinese": "藍領的;體力勞動的"
+     "chinese": "藍領的；體力勞動的"
     }
    },
    {
@@ -844,7 +844,7 @@ window.FLASHCARD_UNITS = {
     "word": "bluster",
     "pos": "n./v.",
     "definition": "Loud, aggressive talk with little substance; to talk in this way.",
-    "chinese": "虛張聲勢;咆哮",
+    "chinese": "虛張聲勢；咆哮",
     "synonyms": "",
     "root": "blustren (to blow violently, from Middle English)",
     "group": "",
@@ -856,7 +856,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Loud, aggressive talk with little substance; to talk in this way.",
-     "chinese": "虛張聲勢;咆哮"
+     "chinese": "虛張聲勢；咆哮"
     }
    },
    {
@@ -882,7 +882,7 @@ window.FLASHCARD_UNITS = {
     "word": "boeotian",
     "pos": "adj.",
     "definition": "Dull, unintelligent, or lacking culture.",
-    "chinese": "愚鈍的;粗俗無知的",
+    "chinese": "愚鈍的；粗俗無知的",
     "synonyms": "",
     "root": "from Boeotia, a region of ancient Greece stereotyped as unrefined",
     "group": "",
@@ -894,7 +894,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull, unintelligent, or lacking culture.",
-     "chinese": "愚鈍的;粗俗無知的"
+     "chinese": "愚鈍的；粗俗無知的"
     }
    },
    {
@@ -920,7 +920,7 @@ window.FLASHCARD_UNITS = {
     "word": "boil",
     "pos": "v./n.",
     "definition": "To heat liquid until it bubbles; a painful, inflamed swelling on the skin.",
-    "chinese": "煮沸;癤子",
+    "chinese": "煮沸；癤子",
     "synonyms": "",
     "root": "bullire (to bubble, from Latin)",
     "group": "",
@@ -932,7 +932,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To heat liquid until it bubbles; a painful, inflamed swelling on the skin.",
-     "chinese": "煮沸;癤子"
+     "chinese": "煮沸；癤子"
     }
    },
    {
@@ -2160,4 +2160,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bibliophilic": ["Relating to a love of books.", "愛書的"], "bibliophobe": ["A person who fears or dislikes books.", "厭書者;懼書者"], "bibliophobia": ["An abnormal fear or dislike of books.", "懼書症"], "bibliopolist": ["A person who sells books, especially rare or antiquarian ones.", "書商;書籍販售商"], "bibliothecary": ["A librarian or keeper of a library.", "圖書館員(古語)"], "bibulous": ["Given to or marked by the consumption of alcohol.", "嗜酒的"], "bigot": ["Narrow-minded, prejudiced person.", "偏執者"], "bigoted": ["Having strong, unreasonable prejudices, especially against a group.", "心胸狹隘的;偏執的"], "bildungsroman": ["A novel concerned with the moral and psychological growth of the main character.", "成長小說"], "bilk": ["Cheat, defraud.", "詐騙；賴帳"], "billet-doux": ["A love letter.", "情書"], "billingsgate": ["Coarse, abusive language.", "粗俗謾罵"], "biography": ["A written account of a person's life.", "傳記"], "biopsy": ["The examination of tissue removed from a living body for diagnosis.", "切片檢查"], "biting": ["Sharply critical or painful; extremely cold.", "尖銳的;刺骨的"], "bitterness": ["Anger and resentment; a sharp, unpleasant taste.", "怨恨;苦味"], "bizarre": ["Fantastic, odd.", "奇異的；古怪的"], "blabbermouth": ["A person who talks too much, especially revealing secrets.", "多嘴的人;大嘴巴"], "blackguard": ["A dishonorable or contemptible person.", "惡棍;無賴"], "blanched": ["Made pale, especially from shock or fear.", "臉色蒼白的"], "bland": ["Lacking strong flavor, interest, or character.", "乏味的;平淡的"], "blandish": ["To coax by using flattery.", "奉承；哄騙"], "blandishment": ["Flattering words or actions used to persuade someone.", "諂媚;甜言蜜語"], "blank": ["Having no writing or marks; an empty space.", "空白的;空白處"], "blasé": ["Indifferent, not responsive to excitement.", "玩世不恭的；厭倦的"], "blatant": ["Obvious, very showy:flagrant.", "明目張膽的"], "blather": ["Talk that is foolish or meaningless; to talk foolishly.", "胡言亂語;瞎扯"], "blatherer": ["A person who talks foolishly or excessively.", "瞎扯的人;廢話連篇者"], "blathering": ["Talking foolishly and at length.", "喋喋不休的;胡扯"], "blatherskite": ["A person who talks at great length without making much sense.", "胡扯的人;廢話大王"], "blattoid": ["Resembling or relating to a cockroach.", "似蟑螂的"], "blazing": ["Burning fiercely; extremely bright or intense.", "熾熱的;炙熱的"], "blemish": ["An imperfection, flaw.", "瑕疵；缺點"], "blight": ["A plague, disease.", "枯萎病；禍害"], "bliss": ["Happiness, pleasure.", "極樂；狂喜"], "blissful": ["Extremely happy; joyful.", "幸福的;極樂的"], "blister": ["A small bubble on the skin filled with fluid; to form such a bubble.", "水泡;起水泡"], "blithe": ["Cheerful and carefree, often to the point of thoughtlessness.", "無憂無慮的;輕率的"], "blockhead": ["A stupid person.", "笨蛋;傻瓜"], "bloodless": ["Without violence or bloodshed; lacking energy or emotion.", "不流血的;冷漠的"], "blue-blooded": ["Of noble or aristocratic descent.", "貴族血統的;出身名門的"], "blue-collar": ["Relating to manual labor or the working class.", "藍領的;體力勞動的"], "blunt": ["Plainspoken:candid.", "直率的；遲鈍的"], "bluster": ["Loud, aggressive talk with little substance; to talk in this way.", "虛張聲勢;咆哮"], "boanthropy": ["A psychological disorder in which a person believes they are an ox or cow.", "牛化妄想症"], "boeotian": ["Dull, unintelligent, or lacking culture.", "愚鈍的;粗俗無知的"], "bogus": ["Counterfeit, fake.", "偽造的；假的"], "boil": ["To heat liquid until it bubbles; a painful, inflamed swelling on the skin.", "煮沸;癤子"], "boisterous": ["Loud and full of energy.", "喧鬧的；精力旺盛的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bibliophilic": ["Relating to a love of books.", "愛書的"], "bibliophobe": ["A person who fears or dislikes books.", "厭書者；懼書者"], "bibliophobia": ["An abnormal fear or dislike of books.", "懼書症"], "bibliopolist": ["A person who sells books, especially rare or antiquarian ones.", "書商；書籍販售商"], "bibliothecary": ["A librarian or keeper of a library.", "圖書館員(古語)"], "bibulous": ["Given to or marked by the consumption of alcohol.", "嗜酒的"], "bigot": ["Narrow-minded, prejudiced person.", "偏執者"], "bigoted": ["Having strong, unreasonable prejudices, especially against a group.", "心胸狹隘的；偏執的"], "bildungsroman": ["A novel concerned with the moral and psychological growth of the main character.", "成長小說"], "bilk": ["Cheat, defraud.", "詐騙；賴帳"], "billet-doux": ["A love letter.", "情書"], "billingsgate": ["Coarse, abusive language.", "粗俗謾罵"], "biography": ["A written account of a person's life.", "傳記"], "biopsy": ["The examination of tissue removed from a living body for diagnosis.", "切片檢查"], "biting": ["Sharply critical or painful; extremely cold.", "尖銳的；刺骨的"], "bitterness": ["Anger and resentment; a sharp, unpleasant taste.", "怨恨；苦味"], "bizarre": ["Fantastic, odd.", "奇異的；古怪的"], "blabbermouth": ["A person who talks too much, especially revealing secrets.", "多嘴的人；大嘴巴"], "blackguard": ["A dishonorable or contemptible person.", "惡棍；無賴"], "blanched": ["Made pale, especially from shock or fear.", "臉色蒼白的"], "bland": ["Lacking strong flavor, interest, or character.", "乏味的；平淡的"], "blandish": ["To coax by using flattery.", "奉承；哄騙"], "blandishment": ["Flattering words or actions used to persuade someone.", "諂媚；甜言蜜語"], "blank": ["Having no writing or marks; an empty space.", "空白的；空白處"], "blasé": ["Indifferent, not responsive to excitement.", "玩世不恭的；厭倦的"], "blatant": ["Obvious, very showy:flagrant.", "明目張膽的"], "blather": ["Talk that is foolish or meaningless; to talk foolishly.", "胡言亂語；瞎扯"], "blatherer": ["A person who talks foolishly or excessively.", "瞎扯的人；廢話連篇者"], "blathering": ["Talking foolishly and at length.", "喋喋不休的；胡扯"], "blatherskite": ["A person who talks at great length without making much sense.", "胡扯的人；廢話大王"], "blattoid": ["Resembling or relating to a cockroach.", "似蟑螂的"], "blazing": ["Burning fiercely; extremely bright or intense.", "熾熱的；炙熱的"], "blemish": ["An imperfection, flaw.", "瑕疵；缺點"], "blight": ["A plague, disease.", "枯萎病；禍害"], "bliss": ["Happiness, pleasure.", "極樂；狂喜"], "blissful": ["Extremely happy; joyful.", "幸福的；極樂的"], "blister": ["A small bubble on the skin filled with fluid; to form such a bubble.", "水泡；起水泡"], "blithe": ["Cheerful and carefree, often to the point of thoughtlessness.", "無憂無慮的；輕率的"], "blockhead": ["A stupid person.", "笨蛋；傻瓜"], "bloodless": ["Without violence or bloodshed; lacking energy or emotion.", "不流血的；冷漠的"], "blue-blooded": ["Of noble or aristocratic descent.", "貴族血統的；出身名門的"], "blue-collar": ["Relating to manual labor or the working class.", "藍領的；體力勞動的"], "blunt": ["Plainspoken:candid.", "直率的；遲鈍的"], "bluster": ["Loud, aggressive talk with little substance; to talk in this way.", "虛張聲勢；咆哮"], "boanthropy": ["A psychological disorder in which a person believes they are an ox or cow.", "牛化妄想症"], "boeotian": ["Dull, unintelligent, or lacking culture.", "愚鈍的；粗俗無知的"], "bogus": ["Counterfeit, fake.", "偽造的；假的"], "boil": ["To heat liquid until it bubbles; a painful, inflamed swelling on the skin.", "煮沸；癤子"], "boisterous": ["Loud and full of energy.", "喧鬧的；精力旺盛的"]});

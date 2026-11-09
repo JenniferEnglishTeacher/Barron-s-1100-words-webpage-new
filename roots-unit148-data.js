@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "adduce",
     "pos": "v.",
     "definition": "To cite as evidence or proof.",
-    "chinese": "引證;提出(證據)",
+    "chinese": "引證；提出(證據)",
     "synonyms": "",
     "root": "ad- (to) + ducere (to lead)",
     "group": "duc；duct = 引導；帶領",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cite as evidence or proof.",
-     "chinese": "引證;提出(證據)"
+     "chinese": "引證；提出(證據)"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "educated",
     "pos": "adj.",
     "definition": "Having received formal instruction or training; informed.",
-    "chinese": "受過教育的;有根據的",
+    "chinese": "受過教育的；有根據的",
     "synonyms": "",
     "root": "e- (out) + ducere (to lead), from Latin",
     "group": "duc；duct = 引導；帶領",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having received formal instruction or training; informed.",
-     "chinese": "受過教育的;有根據的"
+     "chinese": "受過教育的；有根據的"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "educationist",
     "pos": "n.",
     "definition": "A specialist in education, especially its theory.",
-    "chinese": "教育學家;教育專家",
+    "chinese": "教育學家；教育專家",
     "synonyms": "",
     "root": "e- (out) + ducere (to lead), from Latin",
     "group": "duc；duct = 引導；帶領",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A specialist in education, especially its theory.",
-     "chinese": "教育學家;教育專家"
+     "chinese": "教育學家；教育專家"
     }
    },
    {
@@ -221,7 +221,7 @@ window.FLASHCARD_UNITS = {
     "word": "subdue",
     "pos": "v.",
     "definition": "To overcome or bring under control by force.",
-    "chinese": "征服;抑制",
+    "chinese": "征服；抑制",
     "synonyms": "",
     "root": "subducere (to withdraw), from Latin sub- (under) + ducere (to lead)",
     "group": "duc；duct = 引導；帶領",
@@ -233,14 +233,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To overcome or bring under control by force.",
-     "chinese": "征服;抑制"
+     "chinese": "征服；抑制"
     }
    },
    {
     "word": "subdued",
     "pos": "adj.",
     "definition": "Lacking liveliness; quiet and restrained.",
-    "chinese": "柔和的;抑制的",
+    "chinese": "柔和的；抑制的",
     "synonyms": "",
     "root": "past participle of subdue, from Latin sub- (under) + ducere (to lead)",
     "group": "duc；duct = 引導；帶領",
@@ -252,14 +252,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking liveliness; quiet and restrained.",
-     "chinese": "柔和的;抑制的"
+     "chinese": "柔和的；抑制的"
     }
    },
    {
     "word": "traduce",
     "pos": "v.",
     "definition": "To speak falsely or maliciously about someone; to slander.",
-    "chinese": "誹謗;詆毀",
+    "chinese": "誹謗；詆毀",
     "synonyms": "",
     "root": "traducere (to lead across, expose to shame), from Latin trans- + ducere (to lead)",
     "group": "duc；duct = 引導；帶領",
@@ -271,14 +271,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To speak falsely or maliciously about someone; to slander.",
-     "chinese": "誹謗;詆毀"
+     "chinese": "誹謗；詆毀"
     }
    },
    {
     "word": "traducement",
     "pos": "n.",
     "definition": "The act of slandering or defaming someone.",
-    "chinese": "誹謗;詆毀行為",
+    "chinese": "誹謗；詆毀行為",
     "synonyms": "",
     "root": "traducere (to lead across, expose to shame), from Latin trans- + ducere (to lead)",
     "group": "duc；duct = 引導；帶領",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of slandering or defaming someone.",
-     "chinese": "誹謗;詆毀行為"
+     "chinese": "誹謗；詆毀行為"
     }
    }
   ],
@@ -659,4 +659,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conducive": ["Leading, helpful.", "有助於...的"], "abduct": ["To kidnap, take by force.", "綁架；劫持"], "adduce": ["To cite as evidence or proof.", "引證;提出(證據)"], "conductive": ["Having the ability to conduct heat, electricity, or sound.", "傳導性的"], "conduit": ["A pipe or channel through which something passes.", "導管；管道"], "educated": ["Having received formal instruction or training; informed.", "受過教育的;有根據的"], "educationalist": ["A specialist in the theory or practice of education.", "教育學家"], "educationist": ["A specialist in education, especially its theory.", "教育學家;教育專家"], "educator": ["A person who provides instruction or training.", "教育工作者"], "induce": ["To bring about, stimulate.", "誘導；引起"], "produce": ["To create or generate something.", "生產；製造"], "subdue": ["To overcome or bring under control by force.", "征服;抑制"], "subdued": ["Lacking liveliness; quiet and restrained.", "柔和的;抑制的"], "traduce": ["To speak falsely or maliciously about someone; to slander.", "誹謗;詆毀"], "traducement": ["The act of slandering or defaming someone.", "誹謗;詆毀行為"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conducive": ["Leading, helpful.", "有助於...的"], "abduct": ["To kidnap, take by force.", "綁架；劫持"], "adduce": ["To cite as evidence or proof.", "引證；提出(證據)"], "conductive": ["Having the ability to conduct heat, electricity, or sound.", "傳導性的"], "conduit": ["A pipe or channel through which something passes.", "導管；管道"], "educated": ["Having received formal instruction or training; informed.", "受過教育的；有根據的"], "educationalist": ["A specialist in the theory or practice of education.", "教育學家"], "educationist": ["A specialist in education, especially its theory.", "教育學家；教育專家"], "educator": ["A person who provides instruction or training.", "教育工作者"], "induce": ["To bring about, stimulate.", "誘導；引起"], "produce": ["To create or generate something.", "生產；製造"], "subdue": ["To overcome or bring under control by force.", "征服；抑制"], "subdued": ["Lacking liveliness; quiet and restrained.", "柔和的；抑制的"], "traduce": ["To speak falsely or maliciously about someone; to slander.", "誹謗；詆毀"], "traducement": ["The act of slandering or defaming someone.", "誹謗；詆毀行為"]});

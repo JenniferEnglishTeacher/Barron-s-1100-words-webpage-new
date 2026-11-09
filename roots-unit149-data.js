@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "bon mot",
     "pos": "n.",
     "definition": "A clever, witty remark.",
-    "chinese": "妙語;機智話語",
+    "chinese": "妙語；機智話語",
     "synonyms": "",
     "root": "bon (good) + mot (word), from French",
     "group": "mov；mot；mob = 動",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A clever, witty remark.",
-     "chinese": "妙語;機智話語"
+     "chinese": "妙語；機智話語"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "immovable",
     "pos": "adj.",
     "definition": "Not able to be moved; unyielding.",
-    "chinese": "不可移動的;不動搖的",
+    "chinese": "不可移動的；不動搖的",
     "synonyms": "",
     "root": "in- (not) + movere (to move), from Latin",
     "group": "mov；mot；mob = 動",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not able to be moved; unyielding.",
-     "chinese": "不可移動的;不動搖的"
+     "chinese": "不可移動的；不動搖的"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "leitmotif",
     "pos": "n.",
     "definition": "A recurring theme associated with a particular idea or character.",
-    "chinese": "主導動機;主旋律",
+    "chinese": "主導動機；主旋律",
     "synonyms": "",
     "root": "leiten (to lead) + Motiv (motif), from German",
     "group": "mov；mot；mob = 動",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A recurring theme associated with a particular idea or character.",
-     "chinese": "主導動機;主旋律"
+     "chinese": "主導動機；主旋律"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "motif",
     "pos": "n.",
     "definition": "A recurring theme or idea in an artistic work.",
-    "chinese": "主題;圖案",
+    "chinese": "主題；圖案",
     "synonyms": "",
     "root": "motif (motive, theme), from French, from Latin movere (to move)",
     "group": "mov；mot；mob = 動",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A recurring theme or idea in an artistic work.",
-     "chinese": "主題;圖案"
+     "chinese": "主題；圖案"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "promote",
     "pos": "v.",
     "definition": "To raise to a higher position; to encourage the development of something.",
-    "chinese": "晉升;促進",
+    "chinese": "晉升；促進",
     "synonyms": "",
     "root": "promovere (to move forward), from Latin pro- (forward) + movere (to move)",
     "group": "mov；mot；mob = 動",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To raise to a higher position; to encourage the development of something.",
-     "chinese": "晉升;促進"
+     "chinese": "晉升；促進"
     }
    }
   ],
@@ -526,4 +526,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"remote": ["Distant, hidden away.", "遙遠的"], "motivate": ["To inspire, stimulate, provoke.", "激發；促動"], "automobile": ["A road vehicle powered by an engine, typically for passengers.", "汽車"], "bon mot": ["A clever, witty remark.", "妙語;機智話語"], "emote": ["To express emotion.", "表達情感；演出情緒"], "immovable": ["Not able to be moved; unyielding.", "不可移動的;不動搖的"], "leitmoff": ["A variant spelling of leitmotif, a recurring musical or thematic theme.", "主導動機(leitmotif異體拼法)"], "leitmotif": ["A recurring theme associated with a particular idea or character.", "主導動機;主旋律"], "moat": ["A deep, wide ditch surrounding a castle, filled with water for defense.", "護城河"], "motif": ["A recurring theme or idea in an artistic work.", "主題;圖案"], "motorcade": ["A procession of motor vehicles.", "車隊"], "promote": ["To raise to a higher position; to encourage the development of something.", "晉升;促進"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"remote": ["Distant, hidden away.", "遙遠的"], "motivate": ["To inspire, stimulate, provoke.", "激發；促動"], "automobile": ["A road vehicle powered by an engine, typically for passengers.", "汽車"], "bon mot": ["A clever, witty remark.", "妙語；機智話語"], "emote": ["To express emotion.", "表達情感；演出情緒"], "immovable": ["Not able to be moved; unyielding.", "不可移動的；不動搖的"], "leitmoff": ["A variant spelling of leitmotif, a recurring musical or thematic theme.", "主導動機(leitmotif異體拼法)"], "leitmotif": ["A recurring theme associated with a particular idea or character.", "主導動機；主旋律"], "moat": ["A deep, wide ditch surrounding a castle, filled with water for defense.", "護城河"], "motif": ["A recurring theme or idea in an artistic work.", "主題；圖案"], "motorcade": ["A procession of motor vehicles.", "車隊"], "promote": ["To raise to a higher position; to encourage the development of something.", "晉升；促進"]});

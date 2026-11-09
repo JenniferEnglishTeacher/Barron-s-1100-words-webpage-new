@@ -10,6 +10,7 @@ const VA2 = window.VA2_DASHBOARD_UNITS || [];
 const STORE_KEY = "barrons1100-review-list"; // kept from the Barron's-only board so existing lists survive
 const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
 const ROOTS_SETS = window.ROOTS_SETS || []; // built locally from the combined-sources data; no live fetch
+const ROOTS_REVIEW_CARDS = "roots-review-cards"; // details of Zone 3 words saved on roots-unitN.html (key "r<set>:<index>")
 
 // Each book: how its units are named, linked and keyed in the review list.
 // Barron's keys stay "unit:index" (as before); Hot Words keys are "h<lesson>:index"; Verbal Advantage keys are "v<unit>:index".
@@ -17,7 +18,8 @@ const BOOKS = {
   barrons: { name: "Barron's 1100", unitName: "Unit", short: "U", units: BARRONS, key: (u, i) => `${u}:${i}`, page: u => `unit${u}.html` },
   hot: { name: "Hot Words for the SAT", unitName: "Lesson", short: "H", units: HOT, key: (u, i) => `h${u}:${i}`, page: u => `hot-unit${u}.html` },
   va: { name: "Verbal Advantage Lv.1–5", unitName: "Unit", short: "V", units: VA, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` },
-  va2: { name: "Verbal Advantage Lv.6–10", unitName: "Unit", short: "V", units: VA2, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` }
+  va2: { name: "Verbal Advantage Lv.6–10", unitName: "Unit", short: "V", units: VA2, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` },
+  roots: { name: "字根 / 字首 / 未歸類", unitName: "Set", short: "R", units: [], key: (u, i) => `r${u}:${i}`, page: u => `roots-unit${u}.html` }
 };
 
 const countEl = document.querySelector("#reviewCount");
@@ -33,6 +35,18 @@ const lookup = new Map();
 Object.entries(BOOKS).forEach(([book, cfg]) => cfg.units.forEach(u => u.cards.forEach((card, i) => {
   lookup.set(cfg.key(u.unit, i), { book, unit: u.unit, index: i, ...card });
 })));
+
+// Zone 3 words are saved on their set pages; their details come from local storage, not from a board.
+function loadRootsSaved() {
+  let details = {};
+  try { details = JSON.parse(localStorage.getItem(ROOTS_REVIEW_CARDS) || "{}") || {}; } catch (error) { details = {}; }
+  [...lookup.keys()].filter(k => k.startsWith("r")).forEach(k => lookup.delete(k));
+  Object.entries(details).forEach(([key, card]) => {
+    const index = Number(key.split(":")[1]);
+    lookup.set(key, { book: "roots", index, ...card });
+  });
+}
+loadRootsSaved();
 
 let marked = loadMarked();
 let hoverTimer = null;
@@ -233,6 +247,14 @@ function refresh() {
   const set = new Set(marked);
   document.querySelectorAll(".board-word").forEach(btn => btn.classList.toggle("marked", set.has(btn.dataset.key)));
   countEl.textContent = marked.length;
+  // Zone 3 set chips show how many of their words are on the review list.
+  const perSet = {};
+  marked.filter(k => k.startsWith("r")).forEach(k => { const u = k.slice(1).split(":")[0]; perSet[u] = (perSet[u] || 0) + 1; });
+  document.querySelectorAll(".roots-chip").forEach(chip => {
+    const n = perSet[chip.dataset.unit] || 0;
+    chip.classList.toggle("has-saved", n > 0);
+    chip.querySelector(".chip-saved").textContent = n ? `★${n}` : "";
+  });
   [downloadBtn, showBtn, clearBtn].forEach(btn => { btn.disabled = marked.length === 0; });
   if (!marked.length) preview.hidden = true;
   if (!preview.hidden) renderPreview();
@@ -317,7 +339,7 @@ search.addEventListener("input", () => applySearch(true));
 
 // Marks made in another tab (e.g. a student opens several cards) stay in sync.
 window.addEventListener("storage", event => {
-  if (event.key === STORE_KEY) { marked = loadMarked(); refresh(); }
+  if (event.key === STORE_KEY || event.key === ROOTS_REVIEW_CARDS) { loadRootsSaved(); marked = loadMarked(); refresh(); }
 });
 
 // ---------- Zone 3: 字根 / 字首 / 未歸類 (map of sets → each opens its own flashcard page) ----------
@@ -334,6 +356,7 @@ function loadBatches() {
   document.querySelector("#rootsTotal").textContent = `${total.toLocaleString()} words · ${batches.length} sets`;
   document.querySelector("#rootsStatus").hidden = true;
   renderBatches();
+  refresh();
 }
 
 function renderBatches() {
@@ -355,7 +378,8 @@ function renderBatches() {
       a.className = "roots-chip";
       a.href = `roots-unit${b.unit}.html`;
       a.dataset.terms = `${b.name} ${b.subtitle} ${b.search_terms || ""}`.toLowerCase();
-      a.innerHTML = `<strong></strong><span></span><small></small>`;
+      a.dataset.unit = String(b.unit);
+      a.innerHTML = `<strong></strong><span></span><small></small><em class="chip-saved"></em>`;
       a.querySelector("strong").textContent = key === "unclassified" ? b.name.replace(/^Unclassified\s*/, "") : b.name;
       a.querySelector("span").textContent = key === "unclassified" ? "" : b.subtitle;
       a.querySelector("small").textContent = `${b.count}`;

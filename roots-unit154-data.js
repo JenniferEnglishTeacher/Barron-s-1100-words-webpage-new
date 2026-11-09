@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "forceful",
     "pos": "adj.",
     "definition": "Powerful and assertive.",
-    "chinese": "強而有力的;強勢的",
+    "chinese": "強而有力的；強勢的",
     "synonyms": "",
     "root": "fortis (strong), from Latin",
     "group": "fort = 強",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Powerful and assertive.",
-     "chinese": "強而有力的;強勢的"
+     "chinese": "強而有力的；強勢的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "forte",
     "pos": "n.",
     "definition": "A person's strong point or particular talent.",
-    "chinese": "強項;拿手好戲",
+    "chinese": "強項；拿手好戲",
     "synonyms": "",
     "root": "fortis (strong), from Latin, via French",
     "group": "fort = 強",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person's strong point or particular talent.",
-     "chinese": "強項;拿手好戲"
+     "chinese": "強項；拿手好戲"
     }
    },
    {
     "word": "fortify",
     "pos": "v.",
     "definition": "To strengthen a place against attack; to strengthen mentally or physically.",
-    "chinese": "強化;加固",
+    "chinese": "強化；加固",
     "synonyms": "",
     "root": "fortis (strong) + facere (to make), from Latin",
     "group": "fort = 強",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To strengthen a place against attack; to strengthen mentally or physically.",
-     "chinese": "強化;加固"
+     "chinese": "強化；加固"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "forward",
     "pos": "adv./adj.",
     "definition": "Toward the front or future; bold or presumptuous.",
-    "chinese": "向前的;冒失的",
+    "chinese": "向前的；冒失的",
     "synonyms": "",
     "root": "fore (before) + weard (direction), from Old English",
     "group": "fort = 強",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Toward the front or future; bold or presumptuous.",
-     "chinese": "向前的;冒失的"
+     "chinese": "向前的；冒失的"
     }
    }
   ],
@@ -309,4 +309,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "forceful": ["Powerful and assertive.", "強而有力的;強勢的"], "foreign": ["Belonging to a country other than one's own.", "外國的"], "forte": ["A person's strong point or particular talent.", "強項;拿手好戲"], "fortify": ["To strengthen a place against attack; to strengthen mentally or physically.", "強化;加固"], "fortitude": ["Strength, guts.", "堅忍；毅力"], "forward": ["Toward the front or future; bold or presumptuous.", "向前的;冒失的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "forceful": ["Powerful and assertive.", "強而有力的；強勢的"], "foreign": ["Belonging to a country other than one's own.", "外國的"], "forte": ["A person's strong point or particular talent.", "強項；拿手好戲"], "fortify": ["To strengthen a place against attack; to strengthen mentally or physically.", "強化；加固"], "fortitude": ["Strength, guts.", "堅忍；毅力"], "forward": ["Toward the front or future; bold or presumptuous.", "向前的；冒失的"]});

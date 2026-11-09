@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "flighty",
     "pos": "adj.",
     "definition": "Unpredictable and fickle; easily excitable.",
-    "chinese": "反覆無常的;輕浮的",
+    "chinese": "反覆無常的；輕浮的",
     "synonyms": "",
     "root": "flight, from Old English flyht",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unpredictable and fickle; easily excitable.",
-     "chinese": "反覆無常的;輕浮的"
+     "chinese": "反覆無常的；輕浮的"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "flippant",
     "pos": "adj.",
     "definition": "Not showing proper seriousness; disrespectful.",
-    "chinese": "輕率的;無禮的",
+    "chinese": "輕率的；無禮的",
     "synonyms": "",
     "root": "flip, of uncertain imitative origin",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not showing proper seriousness; disrespectful.",
-     "chinese": "輕率的;無禮的"
+     "chinese": "輕率的；無禮的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "flocculate",
     "pos": "v.",
     "definition": "To form or cause to form small clumps or masses.",
-    "chinese": "絮凝;聚結成團",
+    "chinese": "絮凝；聚結成團",
     "synonyms": "",
     "root": "floccus (tuft of wool), from Latin",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To form or cause to form small clumps or masses.",
-     "chinese": "絮凝;聚結成團"
+     "chinese": "絮凝；聚結成團"
     }
    },
    {
     "word": "floccule",
     "pos": "n.",
     "definition": "A small loosely aggregated mass of particles.",
-    "chinese": "絮狀物;小絨團",
+    "chinese": "絮狀物；小絨團",
     "synonyms": "",
     "root": "floccus (tuft of wool), from Latin",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small loosely aggregated mass of particles.",
-     "chinese": "絮狀物;小絨團"
+     "chinese": "絮狀物；小絨團"
     }
    },
    {
     "word": "flocculent",
     "pos": "adj.",
     "definition": "Having a loose, fluffy texture, like tufts of wool.",
-    "chinese": "絮狀的;蓬鬆的",
+    "chinese": "絮狀的；蓬鬆的",
     "synonyms": "",
     "root": "floccus (tuft of wool), from Latin",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a loose, fluffy texture, like tufts of wool.",
-     "chinese": "絮狀的;蓬鬆的"
+     "chinese": "絮狀的；蓬鬆的"
     }
    },
    {
     "word": "floccus",
     "pos": "n.",
     "definition": "A tuft of woolly hair or fibers.",
-    "chinese": "絨毛叢;毛簇",
+    "chinese": "絨毛叢；毛簇",
     "synonyms": "",
     "root": "floccus (tuft of wool), from Latin",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A tuft of woolly hair or fibers.",
-     "chinese": "絨毛叢;毛簇"
+     "chinese": "絨毛叢；毛簇"
     }
    },
    {
     "word": "flog",
     "pos": "v.",
     "definition": "To beat someone with a whip or stick as punishment.",
-    "chinese": "鞭打;抽打",
+    "chinese": "鞭打；抽打",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Latin flagellare",
     "group": "",
@@ -174,14 +174,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To beat someone with a whip or stick as punishment.",
-     "chinese": "鞭打;抽打"
+     "chinese": "鞭打；抽打"
     }
    },
    {
     "word": "floral",
     "pos": "adj.",
     "definition": "Relating to or decorated with flowers.",
-    "chinese": "花卉的;花朵圖案的",
+    "chinese": "花卉的；花朵圖案的",
     "synonyms": "",
     "root": "flos (flower), from Latin",
     "group": "",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or decorated with flowers.",
-     "chinese": "花卉的;花朵圖案的"
+     "chinese": "花卉的；花朵圖案的"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "florist",
     "pos": "n.",
     "definition": "A person who sells or arranges flowers.",
-    "chinese": "花商;花藝師",
+    "chinese": "花商；花藝師",
     "synonyms": "",
     "root": "flos (flower), from Latin",
     "group": "",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who sells or arranges flowers.",
-     "chinese": "花商;花藝師"
+     "chinese": "花商；花藝師"
     }
    },
    {
     "word": "flourish",
     "pos": "v./n.",
     "definition": "To grow vigorously; a decorative embellishment.",
-    "chinese": "茁壯成長;誇張的動作",
+    "chinese": "茁壯成長；誇張的動作",
     "synonyms": "",
     "root": "florere (to bloom), from Latin",
     "group": "",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To grow vigorously; a decorative embellishment.",
-     "chinese": "茁壯成長;誇張的動作"
+     "chinese": "茁壯成長；誇張的動作"
     }
    },
    {
@@ -335,7 +335,7 @@ window.FLASHCARD_UNITS = {
     "word": "fluctuation",
     "pos": "n.",
     "definition": "An irregular rise and fall in number or amount.",
-    "chinese": "波動;起伏",
+    "chinese": "波動；起伏",
     "synonyms": "",
     "root": "fluctuare (to wave), from Latin",
     "group": "",
@@ -349,7 +349,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An irregular rise and fall in number or amount.",
-     "chinese": "波動;起伏"
+     "chinese": "波動；起伏"
     }
    },
    {
@@ -396,7 +396,7 @@ window.FLASHCARD_UNITS = {
     "word": "flummox",
     "pos": "v.",
     "definition": "To bewilder or confuse someone completely.",
-    "chinese": "使困惑;使不知所措",
+    "chinese": "使困惑；使不知所措",
     "synonyms": "",
     "root": "of uncertain English dialect origin",
     "group": "",
@@ -410,14 +410,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To bewilder or confuse someone completely.",
-     "chinese": "使困惑;使不知所措"
+     "chinese": "使困惑；使不知所措"
     }
    },
    {
     "word": "fluster",
     "pos": "v./n.",
     "definition": "To make someone nervous or confused; a state of agitation.",
-    "chinese": "使慌亂;慌張狀態",
+    "chinese": "使慌亂；慌張狀態",
     "synonyms": "",
     "root": "of uncertain Scandinavian origin",
     "group": "",
@@ -429,14 +429,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make someone nervous or confused; a state of agitation.",
-     "chinese": "使慌亂;慌張狀態"
+     "chinese": "使慌亂；慌張狀態"
     }
    },
    {
     "word": "foible",
     "pos": "n.",
     "definition": "A minor weakness or eccentricity in character.",
-    "chinese": "小缺點;怪癖",
+    "chinese": "小缺點；怪癖",
     "synonyms": "",
     "root": "faible (weak), from Old French",
     "group": "",
@@ -450,7 +450,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A minor weakness or eccentricity in character.",
-     "chinese": "小缺點;怪癖"
+     "chinese": "小缺點；怪癖"
     }
    },
    {
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "word": "foilage",
     "pos": "n.",
     "definition": "An alternate/variant spelling of foliage, the leaves of plants collectively.",
-    "chinese": "葉子;葉叢(foliage之異體)",
+    "chinese": "葉子；葉叢(foliage之異體)",
     "synonyms": "",
     "root": "folium (leaf), from Latin",
     "group": "",
@@ -488,7 +488,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An alternate/variant spelling of foliage, the leaves of plants collectively.",
-     "chinese": "葉子;葉叢(foliage之異體)"
+     "chinese": "葉子；葉叢(foliage之異體)"
     }
    },
    {
@@ -514,7 +514,7 @@ window.FLASHCARD_UNITS = {
     "word": "follower",
     "pos": "n.",
     "definition": "A person who supports or is influenced by another.",
-    "chinese": "追隨者;粉絲",
+    "chinese": "追隨者；粉絲",
     "synonyms": "",
     "root": "folgian (to follow), from Old English",
     "group": "",
@@ -528,7 +528,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who supports or is influenced by another.",
-     "chinese": "追隨者;粉絲"
+     "chinese": "追隨者；粉絲"
     }
    },
    {
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "word": "fondness",
     "pos": "n.",
     "definition": "A liking or affection for someone or something.",
-    "chinese": "喜愛;鍾愛",
+    "chinese": "喜愛；鍾愛",
     "synonyms": "",
     "root": "fond (foolish, then affectionate), from Middle English fonned",
     "group": "",
@@ -566,7 +566,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A liking or affection for someone or something.",
-     "chinese": "喜愛;鍾愛"
+     "chinese": "喜愛；鍾愛"
     }
    },
    {
@@ -594,7 +594,7 @@ window.FLASHCARD_UNITS = {
     "word": "foolhardy",
     "pos": "adj.",
     "definition": "Recklessly bold or rash.",
-    "chinese": "有勇無謀的;魯莽的",
+    "chinese": "有勇無謀的；魯莽的",
     "synonyms": "",
     "root": "fol (foolish) + hardi (bold), from Old French",
     "group": "",
@@ -606,7 +606,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Recklessly bold or rash.",
-     "chinese": "有勇無謀的;魯莽的"
+     "chinese": "有勇無謀的；魯莽的"
     }
    },
    {
@@ -632,7 +632,7 @@ window.FLASHCARD_UNITS = {
     "word": "foolishness",
     "pos": "n.",
     "definition": "The quality of being unwise or silly.",
-    "chinese": "愚蠢;傻氣",
+    "chinese": "愚蠢；傻氣",
     "synonyms": "",
     "root": "fol (fool), from Old French",
     "group": "",
@@ -644,14 +644,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being unwise or silly.",
-     "chinese": "愚蠢;傻氣"
+     "chinese": "愚蠢；傻氣"
     }
    },
    {
     "word": "fop",
     "pos": "n.",
     "definition": "A man overly concerned with his appearance and fashion.",
-    "chinese": "花花公子;紈褲子弟",
+    "chinese": "花花公子；紈褲子弟",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -663,7 +663,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A man overly concerned with his appearance and fashion.",
-     "chinese": "花花公子;紈褲子弟"
+     "chinese": "花花公子；紈褲子弟"
     }
    },
    {
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "word": "forbearing",
     "pos": "adj.",
     "definition": "Patient and self-controlled, especially in difficult situations.",
-    "chinese": "容忍的;寬容的",
+    "chinese": "容忍的；寬容的",
     "synonyms": "",
     "root": "for- (thoroughly) + bear, from Old English beran",
     "group": "",
@@ -720,7 +720,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Patient and self-controlled, especially in difficult situations.",
-     "chinese": "容忍的;寬容的"
+     "chinese": "容忍的；寬容的"
     }
    },
    {
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "word": "forbidding",
     "pos": "adj.",
     "definition": "Unfriendly or threatening in appearance.",
-    "chinese": "令人生畏的;險惡的",
+    "chinese": "令人生畏的；險惡的",
     "synonyms": "",
     "root": "for- (against) + bid, from Old English forbeodan",
     "group": "",
@@ -758,7 +758,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unfriendly or threatening in appearance.",
-     "chinese": "令人生畏的;險惡的"
+     "chinese": "令人生畏的；險惡的"
     }
    },
    {
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     "word": "forswear",
     "pos": "v.",
     "definition": "To formally renounce or reject something.",
-    "chinese": "發誓放棄;摒棄",
+    "chinese": "發誓放棄；摒棄",
     "synonyms": "",
     "root": "for- (away) + swear, from Old English forswerian",
     "group": "",
@@ -876,14 +876,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To formally renounce or reject something.",
-     "chinese": "發誓放棄;摒棄"
+     "chinese": "發誓放棄；摒棄"
     }
    },
    {
     "word": "forthright",
     "pos": "adj.",
     "definition": "Direct and outspoken.",
-    "chinese": "直率的;坦率的",
+    "chinese": "直率的；坦率的",
     "synonyms": "",
     "root": "forth (forward) + right, from Old English",
     "group": "",
@@ -895,14 +895,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Direct and outspoken.",
-     "chinese": "直率的;坦率的"
+     "chinese": "直率的；坦率的"
     }
    },
    {
     "word": "forthrightness",
     "pos": "n.",
     "definition": "The quality of being direct and outspoken.",
-    "chinese": "直率;坦誠",
+    "chinese": "直率；坦誠",
     "synonyms": "",
     "root": "forth (forward) + right, from Old English",
     "group": "",
@@ -914,7 +914,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being direct and outspoken.",
-     "chinese": "直率;坦誠"
+     "chinese": "直率；坦誠"
     }
    },
    {
@@ -2180,4 +2180,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"flighty": ["Unpredictable and fickle; easily excitable.", "反覆無常的;輕浮的"], "flippancy": ["Inappropriate levity.", "輕浮；輕率"], "flippant": ["Not showing proper seriousness; disrespectful.", "輕率的;無禮的"], "floccinaucinihilipilification": ["The act of estimating something as worthless.", "視為毫無價值的行為(極長字)"], "flocculate": ["To form or cause to form small clumps or masses.", "絮凝;聚結成團"], "floccule": ["A small loosely aggregated mass of particles.", "絮狀物;小絨團"], "flocculent": ["Having a loose, fluffy texture, like tufts of wool.", "絮狀的;蓬鬆的"], "floccus": ["A tuft of woolly hair or fibers.", "絨毛叢;毛簇"], "flog": ["To beat someone with a whip or stick as punishment.", "鞭打;抽打"], "floral": ["Relating to or decorated with flowers.", "花卉的;花朵圖案的"], "floriated": ["Decorated with a floral design.", "裝飾以花卉圖案的"], "floriculture": ["The cultivation of flowers, especially as a business.", "花卉栽培業"], "florid": ["Flowery, ornate.", "華麗的；辭藻堆砌的"], "florist": ["A person who sells or arranges flowers.", "花商;花藝師"], "flourish": ["To grow vigorously; a decorative embellishment.", "茁壯成長;誇張的動作"], "flout": ["To disregard.", "嘲弄；無視"], "fluctuate": ["To shift, alternate.", "波動；起伏"], "fluctuation": ["An irregular rise and fall in number or amount.", "波動;起伏"], "fluent": ["Expressing yourself readily, clearly, effectively.", "流利的；流暢的"], "fluid": ["Continuous amorphous matter that tends to flow.", "流體；液體"], "flummox": ["To bewilder or confuse someone completely.", "使困惑;使不知所措"], "fluster": ["To make someone nervous or confused; a state of agitation.", "使慌亂;慌張狀態"], "foible": ["A minor weakness or eccentricity in character.", "小缺點;怪癖"], "foil": ["To thwart, frustrate, defeat.", "挫敗；阻撓"], "foilage": ["An alternate/variant spelling of foliage, the leaves of plants collectively.", "葉子;葉叢(foliage之異體)"], "foist": ["To force upon, pass off slyly.", "偷偷插入；強加"], "follower": ["A person who supports or is influenced by another.", "追隨者;粉絲"], "foment": ["To stir up, instigate.", "煽動；挑起"], "fondness": ["A liking or affection for someone or something.", "喜愛;鍾愛"], "foodie": ["A person with a particular interest in food, especially fine cuisine.", "美食愛好者"], "foolhardy": ["Recklessly bold or rash.", "有勇無謀的;魯莽的"], "foolish": ["Lacking good sense; unwise.", "愚蠢的"], "foolishness": ["The quality of being unwise or silly.", "愚蠢;傻氣"], "fop": ["A man overly concerned with his appearance and fashion.", "花花公子;紈褲子弟"], "forage": ["To graze, rummage for food.", "覓食；搜尋"], "forbearance": ["Patience, restraint, toleration.", "忍耐；克制"], "forbearing": ["Patient and self-controlled, especially in difficult situations.", "容忍的;寬容的"], "forbid": ["To refuse to allow something.", "禁止"], "forbidding": ["Unfriendly or threatening in appearance.", "令人生畏的;險惡的"], "forestall": ["To prevent, thwart, delay.", "預先阻止；搶先"], "foretell": ["To predict or estimate something that will happen in the future.", "預言；預示"], "forge": ["To create or form something through effort or through heating and shaping, especially metal.", "鍛造；締造"], "forlorn": ["Sad, pitiful, distressed.", "孤苦伶仃的；絕望的"], "forsake": ["To give up, renounce.", "拋棄；放棄"], "forswear": ["To formally renounce or reject something.", "發誓放棄;摒棄"], "forthright": ["Direct and outspoken.", "直率的;坦率的"], "forthrightness": ["The quality of being direct and outspoken.", "直率;坦誠"], "forthwith": ["Immediately.", "立即"], "fortuitous": ["Lucky, accidental.", "偶然的；幸運的"], "fortunate": ["Having good luck; favorable.", "幸運的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"flighty": ["Unpredictable and fickle; easily excitable.", "反覆無常的；輕浮的"], "flippancy": ["Inappropriate levity.", "輕浮；輕率"], "flippant": ["Not showing proper seriousness; disrespectful.", "輕率的；無禮的"], "floccinaucinihilipilification": ["The act of estimating something as worthless.", "視為毫無價值的行為(極長字)"], "flocculate": ["To form or cause to form small clumps or masses.", "絮凝；聚結成團"], "floccule": ["A small loosely aggregated mass of particles.", "絮狀物；小絨團"], "flocculent": ["Having a loose, fluffy texture, like tufts of wool.", "絮狀的；蓬鬆的"], "floccus": ["A tuft of woolly hair or fibers.", "絨毛叢；毛簇"], "flog": ["To beat someone with a whip or stick as punishment.", "鞭打；抽打"], "floral": ["Relating to or decorated with flowers.", "花卉的；花朵圖案的"], "floriated": ["Decorated with a floral design.", "裝飾以花卉圖案的"], "floriculture": ["The cultivation of flowers, especially as a business.", "花卉栽培業"], "florid": ["Flowery, ornate.", "華麗的；辭藻堆砌的"], "florist": ["A person who sells or arranges flowers.", "花商；花藝師"], "flourish": ["To grow vigorously; a decorative embellishment.", "茁壯成長；誇張的動作"], "flout": ["To disregard.", "嘲弄；無視"], "fluctuate": ["To shift, alternate.", "波動；起伏"], "fluctuation": ["An irregular rise and fall in number or amount.", "波動；起伏"], "fluent": ["Expressing yourself readily, clearly, effectively.", "流利的；流暢的"], "fluid": ["Continuous amorphous matter that tends to flow.", "流體；液體"], "flummox": ["To bewilder or confuse someone completely.", "使困惑；使不知所措"], "fluster": ["To make someone nervous or confused; a state of agitation.", "使慌亂；慌張狀態"], "foible": ["A minor weakness or eccentricity in character.", "小缺點；怪癖"], "foil": ["To thwart, frustrate, defeat.", "挫敗；阻撓"], "foilage": ["An alternate/variant spelling of foliage, the leaves of plants collectively.", "葉子；葉叢(foliage之異體)"], "foist": ["To force upon, pass off slyly.", "偷偷插入；強加"], "follower": ["A person who supports or is influenced by another.", "追隨者；粉絲"], "foment": ["To stir up, instigate.", "煽動；挑起"], "fondness": ["A liking or affection for someone or something.", "喜愛；鍾愛"], "foodie": ["A person with a particular interest in food, especially fine cuisine.", "美食愛好者"], "foolhardy": ["Recklessly bold or rash.", "有勇無謀的；魯莽的"], "foolish": ["Lacking good sense; unwise.", "愚蠢的"], "foolishness": ["The quality of being unwise or silly.", "愚蠢；傻氣"], "fop": ["A man overly concerned with his appearance and fashion.", "花花公子；紈褲子弟"], "forage": ["To graze, rummage for food.", "覓食；搜尋"], "forbearance": ["Patience, restraint, toleration.", "忍耐；克制"], "forbearing": ["Patient and self-controlled, especially in difficult situations.", "容忍的；寬容的"], "forbid": ["To refuse to allow something.", "禁止"], "forbidding": ["Unfriendly or threatening in appearance.", "令人生畏的；險惡的"], "forestall": ["To prevent, thwart, delay.", "預先阻止；搶先"], "foretell": ["To predict or estimate something that will happen in the future.", "預言；預示"], "forge": ["To create or form something through effort or through heating and shaping, especially metal.", "鍛造；締造"], "forlorn": ["Sad, pitiful, distressed.", "孤苦伶仃的；絕望的"], "forsake": ["To give up, renounce.", "拋棄；放棄"], "forswear": ["To formally renounce or reject something.", "發誓放棄；摒棄"], "forthright": ["Direct and outspoken.", "直率的；坦率的"], "forthrightness": ["The quality of being direct and outspoken.", "直率；坦誠"], "forthwith": ["Immediately.", "立即"], "fortuitous": ["Lucky, accidental.", "偶然的；幸運的"], "fortunate": ["Having good luck; favorable.", "幸運的"]});

@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "credence",
     "pos": "n.",
     "definition": "Belief in the truth of something.",
-    "chinese": "相信;信任",
+    "chinese": "相信；信任",
     "synonyms": "",
     "root": "credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Belief in the truth of something.",
-     "chinese": "相信;信任"
+     "chinese": "相信；信任"
     }
    },
    {
     "word": "credentials",
     "pos": "n.",
     "definition": "Qualifications, achievements, or documents that establish one's trustworthiness or ability.",
-    "chinese": "資格;證書",
+    "chinese": "資格；證書",
     "synonyms": "",
     "root": "credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Qualifications, achievements, or documents that establish one's trustworthiness or ability.",
-     "chinese": "資格;證書"
+     "chinese": "資格；證書"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "credit",
     "pos": "n./v.",
     "definition": "Acknowledgment of achievement; trust in ability to pay.",
-    "chinese": "信譽;讚許;貸款",
+    "chinese": "信譽；讚許；貸款",
     "synonyms": "",
     "root": "credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Acknowledgment of achievement; trust in ability to pay.",
-     "chinese": "信譽;讚許;貸款"
+     "chinese": "信譽；讚許；貸款"
     }
    },
    {
     "word": "credo",
     "pos": "n.",
     "definition": "A formal statement of belief or guiding principles.",
-    "chinese": "信條;信念",
+    "chinese": "信條；信念",
     "synonyms": "",
     "root": "credo (I believe), from Latin",
     "group": "cred = 相信",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal statement of belief or guiding principles.",
-     "chinese": "信條;信念"
+     "chinese": "信條；信念"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "creed",
     "pos": "n.",
     "definition": "A system of religious or moral belief.",
-    "chinese": "信條;教義",
+    "chinese": "信條；教義",
     "synonyms": "",
     "root": "credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A system of religious or moral belief.",
-     "chinese": "信條;教義"
+     "chinese": "信條；教義"
     }
    },
    {
     "word": "discredit",
     "pos": "v./n.",
     "definition": "To damage the reputation of; disbelief.",
-    "chinese": "使名譽受損;懷疑",
+    "chinese": "使名譽受損；懷疑",
     "synonyms": "",
     "root": "dis- (not) + credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To damage the reputation of; disbelief.",
-     "chinese": "使名譽受損;懷疑"
+     "chinese": "使名譽受損；懷疑"
     }
    },
    {
     "word": "incredible",
     "pos": "adj.",
     "definition": "Impossible or hard to believe; extraordinary.",
-    "chinese": "難以置信的;驚人的",
+    "chinese": "難以置信的；驚人的",
     "synonyms": "",
     "root": "in- (not) + credere (to believe), from Latin",
     "group": "cred = 相信",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible or hard to believe; extraordinary.",
-     "chinese": "難以置信的;驚人的"
+     "chinese": "難以置信的；驚人的"
     }
    },
    {
     "word": "miscreant",
     "pos": "n./adj.",
     "definition": "A person who behaves badly or unlawfully.",
-    "chinese": "惡棍;歹徒",
+    "chinese": "惡棍；歹徒",
     "synonyms": "",
     "root": "mescreant (unbelieving), from Old French mes- + creire (to believe)",
     "group": "cred = 相信",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who behaves badly or unlawfully.",
-     "chinese": "惡棍;歹徒"
+     "chinese": "惡棍；歹徒"
     }
    }
   ],
@@ -569,4 +569,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incredulous": ["Skeptical:suspicious.", "懷疑的；不輕信的"], "creative": ["Involving original imagination or ideas.", "有創意的"], "credence": ["Belief in the truth of something.", "相信;信任"], "credentials": ["Qualifications, achievements, or documents that establish one's trustworthiness or ability.", "資格;證書"], "credible": ["Able to be believed; convincing.", "可信的"], "credit": ["Acknowledgment of achievement; trust in ability to pay.", "信譽;讚許;貸款"], "credo": ["A formal statement of belief or guiding principles.", "信條;信念"], "credulity": ["Readiness to believe.", "輕信；易信"], "credulous": ["Too ready to believe things without sufficient evidence.", "輕信的"], "creed": ["A system of religious or moral belief.", "信條;教義"], "discredit": ["To damage the reputation of; disbelief.", "使名譽受損;懷疑"], "incredible": ["Impossible or hard to believe; extraordinary.", "難以置信的;驚人的"], "miscreant": ["A person who behaves badly or unlawfully.", "惡棍;歹徒"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incredulous": ["Skeptical:suspicious.", "懷疑的；不輕信的"], "creative": ["Involving original imagination or ideas.", "有創意的"], "credence": ["Belief in the truth of something.", "相信；信任"], "credentials": ["Qualifications, achievements, or documents that establish one's trustworthiness or ability.", "資格；證書"], "credible": ["Able to be believed; convincing.", "可信的"], "credit": ["Acknowledgment of achievement; trust in ability to pay.", "信譽；讚許；貸款"], "credo": ["A formal statement of belief or guiding principles.", "信條；信念"], "credulity": ["Readiness to believe.", "輕信；易信"], "credulous": ["Too ready to believe things without sufficient evidence.", "輕信的"], "creed": ["A system of religious or moral belief.", "信條；教義"], "discredit": ["To damage the reputation of; disbelief.", "使名譽受損；懷疑"], "incredible": ["Impossible or hard to believe; extraordinary.", "難以置信的；驚人的"], "miscreant": ["A person who behaves badly or unlawfully.", "惡棍；歹徒"]});

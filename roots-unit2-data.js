@@ -164,7 +164,7 @@ window.FLASHCARD_UNITS = {
     "word": "acclamation",
     "pos": "n.",
     "definition": "Enthusiastic and approving shouts or applause.",
-    "chinese": "歡呼;喝采",
+    "chinese": "歡呼；喝采",
     "synonyms": "",
     "root": "ad- (to) + clamare (to shout)",
     "group": "ad = 朝向",
@@ -176,7 +176,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Enthusiastic and approving shouts or applause.",
-     "chinese": "歡呼;喝采"
+     "chinese": "歡呼；喝采"
     }
    },
    {
@@ -242,7 +242,7 @@ window.FLASHCARD_UNITS = {
     "word": "accommodations",
     "pos": "n.",
     "definition": "Lodging or living quarters; adjustments made to suit particular needs.",
-    "chinese": "住宿;通融安排",
+    "chinese": "住宿；通融安排",
     "synonyms": "",
     "root": "ad- (to) + commodus (fitting)",
     "group": "ad = 朝向",
@@ -254,7 +254,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lodging or living quarters; adjustments made to suit particular needs.",
-     "chinese": "住宿;通融安排"
+     "chinese": "住宿；通融安排"
     }
    },
    {
@@ -280,7 +280,7 @@ window.FLASHCARD_UNITS = {
     "word": "accomplished",
     "pos": "adj.",
     "definition": "Highly skilled or successful, especially in a particular field.",
-    "chinese": "有成就的;熟練的",
+    "chinese": "有成就的；熟練的",
     "synonyms": "",
     "root": "ad- (to) + complere (to complete)",
     "group": "ad = 朝向",
@@ -292,7 +292,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Highly skilled or successful, especially in a particular field.",
-     "chinese": "有成就的;熟練的"
+     "chinese": "有成就的；熟練的"
     }
    },
    {
@@ -318,7 +318,7 @@ window.FLASHCARD_UNITS = {
     "word": "accordingly",
     "pos": "adv.",
     "definition": "In a manner that fits the circumstances; consequently.",
-    "chinese": "相應地;因此",
+    "chinese": "相應地；因此",
     "synonyms": "",
     "root": "ac- (to) + cor (heart, i.e. agreement)",
     "group": "ad = 朝向",
@@ -330,7 +330,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a manner that fits the circumstances; consequently.",
-     "chinese": "相應地;因此"
+     "chinese": "相應地；因此"
     }
    },
    {
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "word": "acquiescence",
     "pos": "n.",
     "definition": "Reluctant acceptance without protest.",
-    "chinese": "默許;勉強同意",
+    "chinese": "默許；勉強同意",
     "synonyms": "",
     "root": "ad- (to) + quiescere (to become quiet)",
     "group": "ad = 朝向",
@@ -431,14 +431,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reluctant acceptance without protest.",
-     "chinese": "默許;勉強同意"
+     "chinese": "默許；勉強同意"
     }
    },
    {
     "word": "acquiescent",
     "pos": "adj.",
     "definition": "Willing to accept something without protest, though not necessarily happily.",
-    "chinese": "順從的;默許的",
+    "chinese": "順從的；默許的",
     "synonyms": "",
     "root": "ad- (to) + quiescere (to become quiet)",
     "group": "ad = 朝向",
@@ -450,7 +450,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to accept something without protest, though not necessarily happily.",
-     "chinese": "順從的;默許的"
+     "chinese": "順從的；默許的"
     }
    },
    {
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "word": "acquisitive",
     "pos": "adj.",
     "definition": "Excessively interested in acquiring money or possessions.",
-    "chinese": "貪得無厭的;渴望獲取的",
+    "chinese": "貪得無厭的；渴望獲取的",
     "synonyms": "",
     "root": "ad- (to) + quaerere (to seek)",
     "group": "ad = 朝向",
@@ -488,14 +488,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively interested in acquiring money or possessions.",
-     "chinese": "貪得無厭的;渴望獲取的"
+     "chinese": "貪得無厭的；渴望獲取的"
     }
    },
    {
     "word": "acquisitiveness",
     "pos": "n.",
     "definition": "An excessive desire to acquire and possess things.",
-    "chinese": "貪婪;佔有慾",
+    "chinese": "貪婪；佔有慾",
     "synonyms": "",
     "root": "ad- (to) + quaerere (to seek)",
     "group": "ad = 朝向",
@@ -507,14 +507,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An excessive desire to acquire and possess things.",
-     "chinese": "貪婪;佔有慾"
+     "chinese": "貪婪；佔有慾"
     }
    },
    {
     "word": "acquit",
     "pos": "v.",
     "definition": "To declare someone not guilty of a crime; to conduct oneself in a specified way.",
-    "chinese": "宣判無罪;表現(自己)",
+    "chinese": "宣判無罪；表現(自己)",
     "synonyms": "",
     "root": "ad- (to) + quietare (to settle, quiet)",
     "group": "ad = 朝向",
@@ -528,7 +528,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To declare someone not guilty of a crime; to conduct oneself in a specified way.",
-     "chinese": "宣判無罪;表現(自己)"
+     "chinese": "宣判無罪；表現(自己)"
     }
    },
    {
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "word": "adduce",
     "pos": "v.",
     "definition": "To cite as evidence or proof.",
-    "chinese": "引證;提出(證據)",
+    "chinese": "引證；提出(證據)",
     "synonyms": "",
     "root": "ad- (to) + ducere (to lead)",
     "group": "ad = 朝向",
@@ -566,7 +566,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To cite as evidence or proof.",
-     "chinese": "引證;提出(證據)"
+     "chinese": "引證；提出(證據)"
     }
    },
    {
@@ -653,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "word": "adjure",
     "pos": "v.",
     "definition": "To urge or command someone solemnly.",
-    "chinese": "懇求;鄭重命令",
+    "chinese": "懇求；鄭重命令",
     "synonyms": "",
     "root": "ad- (to) + jurare (to swear)",
     "group": "ad = 朝向",
@@ -667,7 +667,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To urge or command someone solemnly.",
-     "chinese": "懇求;鄭重命令"
+     "chinese": "懇求；鄭重命令"
     }
    },
    {
@@ -693,7 +693,7 @@ window.FLASHCARD_UNITS = {
     "word": "admirable",
     "pos": "adj.",
     "definition": "Deserving respect and approval.",
-    "chinese": "令人欽佩的;值得讚賞的",
+    "chinese": "令人欽佩的；值得讚賞的",
     "synonyms": "",
     "root": "ad- (to) + mirari (to wonder at)",
     "group": "ad = 朝向",
@@ -705,7 +705,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving respect and approval.",
-     "chinese": "令人欽佩的;值得讚賞的"
+     "chinese": "令人欽佩的；值得讚賞的"
     }
    },
    {
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "word": "admonishment",
     "pos": "n.",
     "definition": "A firm warning or reprimand.",
-    "chinese": "告誡;訓斥",
+    "chinese": "告誡；訓斥",
     "synonyms": "",
     "root": "ad- (to) + monere (to warn)",
     "group": "ad = 朝向",
@@ -764,14 +764,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A firm warning or reprimand.",
-     "chinese": "告誡;訓斥"
+     "chinese": "告誡；訓斥"
     }
    },
    {
     "word": "admonition",
     "pos": "n.",
     "definition": "A warning or reprimand, often given with advice.",
-    "chinese": "勸誡;警告",
+    "chinese": "勸誡；警告",
     "synonyms": "",
     "root": "ad- (to) + monere (to warn)",
     "group": "ad = 朝向",
@@ -783,7 +783,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A warning or reprimand, often given with advice.",
-     "chinese": "勸誡;警告"
+     "chinese": "勸誡；警告"
     }
    },
    {
@@ -811,7 +811,7 @@ window.FLASHCARD_UNITS = {
     "word": "adoration",
     "pos": "n.",
     "definition": "Deep love, respect, or worship.",
-    "chinese": "崇拜;愛慕",
+    "chinese": "崇拜；愛慕",
     "synonyms": "",
     "root": "ad- (to) + orare (to pray)",
     "group": "ad = 朝向",
@@ -823,7 +823,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deep love, respect, or worship.",
-     "chinese": "崇拜;愛慕"
+     "chinese": "崇拜；愛慕"
     }
    },
    {
@@ -872,7 +872,7 @@ window.FLASHCARD_UNITS = {
     "word": "adulatory",
     "pos": "adj.",
     "definition": "Excessively flattering or admiring.",
-    "chinese": "阿諛的;過度讚美的",
+    "chinese": "阿諛的；過度讚美的",
     "synonyms": "",
     "root": "ad- (to) + ulare (to howl, fawn)",
     "group": "ad = 朝向",
@@ -884,7 +884,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively flattering or admiring.",
-     "chinese": "阿諛的;過度讚美的"
+     "chinese": "阿諛的；過度讚美的"
     }
    },
    {
@@ -932,7 +932,7 @@ window.FLASHCARD_UNITS = {
     "word": "adventitious",
     "pos": "adj.",
     "definition": "Happening by chance rather than design.",
-    "chinese": "偶然的;外來的",
+    "chinese": "偶然的；外來的",
     "synonyms": "",
     "root": "ad- (to) + venire (to come)",
     "group": "ad = 朝向",
@@ -944,7 +944,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Happening by chance rather than design.",
-     "chinese": "偶然的;外來的"
+     "chinese": "偶然的；外來的"
     }
    },
    {
@@ -2193,4 +2193,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"abase": ["To humiliate, degrade.", "貶低；使卑下"], "accede": ["To agree.", "同意；應允"], "accelerate": ["To increase in speed or rate.", "加速"], "accentuate": ["To emphasize or highlight.", "強調；使突出"], "access": ["Admittance.", "接近；通道"], "accessible": ["Available; ready for use.", "易接近的"], "accident": ["An unfortunate mishap.", "意外事故"], "acclaim": ["To express strong approval or praise; hail.", "稱讚；歡呼"], "acclamation": ["Enthusiastic and approving shouts or applause.", "歡呼;喝采"], "accolade": ["High praise, special distinction.", "讚譽；殊榮"], "accommodate": ["To make fit, adjust to.", "容納；適應"], "accommodating": ["Helpful, obliging, polite.", "樂於助人的；隨和的"], "accommodations": ["Lodging or living quarters; adjustments made to suit particular needs.", "住宿;通融安排"], "accomplice": ["Associate in crime.", "共犯；幫兇"], "accomplished": ["Highly skilled or successful, especially in a particular field.", "有成就的;熟練的"], "accord": ["An agreement.", "協議；一致"], "accordingly": ["In a manner that fits the circumstances; consequently.", "相應地;因此"], "accost": ["To approach and speak to.", "搭訕"], "accretion": ["Slow growth in size or amount.", "增積；漸增"], "acknowledge": ["To admit.", "承認；答謝"], "acquiesce": ["To agree without protesting.", "默許；勉強同意"], "acquiescence": ["Reluctant acceptance without protest.", "默許;勉強同意"], "acquiescent": ["Willing to accept something without protest, though not necessarily happily.", "順從的;默許的"], "acquired": ["Gained through effort or experience.", "習得的；後天獲得的"], "acquisitive": ["Excessively interested in acquiring money or possessions.", "貪得無厭的;渴望獲取的"], "acquisitiveness": ["An excessive desire to acquire and possess things.", "貪婪;佔有慾"], "acquit": ["To declare someone not guilty of a crime; to conduct oneself in a specified way.", "宣判無罪;表現(自己)"], "adapt": ["To adjust to new conditions.", "適應"], "adduce": ["To cite as evidence or proof.", "引證;提出(證據)"], "adept": ["Very skilled or proficient at something.", "熟練的；精通的"], "adequate": ["Having sufficient qualifications to meet a specific task or purpose.", "足夠的；適當的"], "adhere": ["To stick firmly to a surface or to follow a set of rules or beliefs.", "黏附；遵守"], "adherent": ["Backer, supporter.", "擁護者；信徒"], "adjure": ["To urge or command someone solemnly.", "懇求;鄭重命令"], "adjust": ["To modify or change slightly.", "調整"], "admirable": ["Deserving respect and approval.", "令人欽佩的;值得讚賞的"], "admire": ["To respect or look up to.", "欽佩；仰慕"], "admonish": ["To warn, reprove.", "警告"], "admonishment": ["A firm warning or reprimand.", "告誡;訓斥"], "admonition": ["A warning or reprimand, often given with advice.", "勸誡;警告"], "adolescent": ["A person who is older than 12 but younger than 20.", "青少年"], "adoration": ["Deep love, respect, or worship.", "崇拜;愛慕"], "adorn": ["To decorate.", "裝飾；點綴"], "adulator": ["A person who flatters excessively.", "阿諛奉承者"], "adulatory": ["Excessively flattering or admiring.", "阿諛的;過度讚美的"], "adumbrate": ["To sketch out in a vague way.", "粗略描繪；暗示"], "advent": ["Arrival of an important event.", "到來；出現"], "adventitious": ["Happening by chance rather than design.", "偶然的;外來的"], "adversary": ["Opponent, enemy, foe.", "對手；敵手"], "adverse": ["Unfavorable, harmful.", "不利的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"abase": ["To humiliate, degrade.", "貶低；使卑下"], "accede": ["To agree.", "同意；應允"], "accelerate": ["To increase in speed or rate.", "加速"], "accentuate": ["To emphasize or highlight.", "強調；使突出"], "access": ["Admittance.", "接近；通道"], "accessible": ["Available; ready for use.", "易接近的"], "accident": ["An unfortunate mishap.", "意外事故"], "acclaim": ["To express strong approval or praise; hail.", "稱讚；歡呼"], "acclamation": ["Enthusiastic and approving shouts or applause.", "歡呼；喝采"], "accolade": ["High praise, special distinction.", "讚譽；殊榮"], "accommodate": ["To make fit, adjust to.", "容納；適應"], "accommodating": ["Helpful, obliging, polite.", "樂於助人的；隨和的"], "accommodations": ["Lodging or living quarters; adjustments made to suit particular needs.", "住宿；通融安排"], "accomplice": ["Associate in crime.", "共犯；幫兇"], "accomplished": ["Highly skilled or successful, especially in a particular field.", "有成就的；熟練的"], "accord": ["An agreement.", "協議；一致"], "accordingly": ["In a manner that fits the circumstances; consequently.", "相應地；因此"], "accost": ["To approach and speak to.", "搭訕"], "accretion": ["Slow growth in size or amount.", "增積；漸增"], "acknowledge": ["To admit.", "承認；答謝"], "acquiesce": ["To agree without protesting.", "默許；勉強同意"], "acquiescence": ["Reluctant acceptance without protest.", "默許；勉強同意"], "acquiescent": ["Willing to accept something without protest, though not necessarily happily.", "順從的；默許的"], "acquired": ["Gained through effort or experience.", "習得的；後天獲得的"], "acquisitive": ["Excessively interested in acquiring money or possessions.", "貪得無厭的；渴望獲取的"], "acquisitiveness": ["An excessive desire to acquire and possess things.", "貪婪；佔有慾"], "acquit": ["To declare someone not guilty of a crime; to conduct oneself in a specified way.", "宣判無罪；表現(自己)"], "adapt": ["To adjust to new conditions.", "適應"], "adduce": ["To cite as evidence or proof.", "引證；提出(證據)"], "adept": ["Very skilled or proficient at something.", "熟練的；精通的"], "adequate": ["Having sufficient qualifications to meet a specific task or purpose.", "足夠的；適當的"], "adhere": ["To stick firmly to a surface or to follow a set of rules or beliefs.", "黏附；遵守"], "adherent": ["Backer, supporter.", "擁護者；信徒"], "adjure": ["To urge or command someone solemnly.", "懇求；鄭重命令"], "adjust": ["To modify or change slightly.", "調整"], "admirable": ["Deserving respect and approval.", "令人欽佩的；值得讚賞的"], "admire": ["To respect or look up to.", "欽佩；仰慕"], "admonish": ["To warn, reprove.", "警告"], "admonishment": ["A firm warning or reprimand.", "告誡；訓斥"], "admonition": ["A warning or reprimand, often given with advice.", "勸誡；警告"], "adolescent": ["A person who is older than 12 but younger than 20.", "青少年"], "adoration": ["Deep love, respect, or worship.", "崇拜；愛慕"], "adorn": ["To decorate.", "裝飾；點綴"], "adulator": ["A person who flatters excessively.", "阿諛奉承者"], "adulatory": ["Excessively flattering or admiring.", "阿諛的；過度讚美的"], "adumbrate": ["To sketch out in a vague way.", "粗略描繪；暗示"], "advent": ["Arrival of an important event.", "到來；出現"], "adventitious": ["Happening by chance rather than design.", "偶然的；外來的"], "adversary": ["Opponent, enemy, foe.", "對手；敵手"], "adverse": ["Unfavorable, harmful.", "不利的"]});

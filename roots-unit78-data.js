@@ -432,7 +432,7 @@ window.FLASHCARD_UNITS = {
     "word": "prognosis",
     "pos": "n.",
     "definition": "A forecast, especially regarding the likely course of a disease.",
-    "chinese": "預後;預測",
+    "chinese": "預後；預測",
     "synonyms": "",
     "root": "pro- (before) + gignoskein (to know), from Greek",
     "group": "pro = 向前；代替",
@@ -444,14 +444,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A forecast, especially regarding the likely course of a disease.",
-     "chinese": "預後;預測"
+     "chinese": "預後；預測"
     }
    },
    {
     "word": "prognostic",
     "pos": "adj./n.",
     "definition": "Indicating the likely future course of something.",
-    "chinese": "預兆的;預測性的",
+    "chinese": "預兆的；預測性的",
     "synonyms": "",
     "root": "pro- (before) + gignoskein (to know), from Greek",
     "group": "pro = 向前；代替",
@@ -463,14 +463,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Indicating the likely future course of something.",
-     "chinese": "預兆的;預測性的"
+     "chinese": "預兆的；預測性的"
     }
    },
    {
     "word": "prognostication",
     "pos": "n.",
     "definition": "A prediction or forecast.",
-    "chinese": "預測;預言",
+    "chinese": "預測；預言",
     "synonyms": "",
     "root": "pro- (before) + gignoskein (to know), from Greek",
     "group": "pro = 向前；代替",
@@ -484,14 +484,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A prediction or forecast.",
-     "chinese": "預測;預言"
+     "chinese": "預測；預言"
     }
    },
    {
     "word": "prognosticator",
     "pos": "n.",
     "definition": "A person who predicts future events.",
-    "chinese": "預言家;預測者",
+    "chinese": "預言家；預測者",
     "synonyms": "",
     "root": "pro- (before) + gignoskein (to know), from Greek",
     "group": "pro = 向前；代替",
@@ -503,7 +503,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who predicts future events.",
-     "chinese": "預言家;預測者"
+     "chinese": "預言家；預測者"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "prospect",
     "pos": "n./v.",
     "definition": "The possibility of something happening in the future; a potential customer.",
-    "chinese": "前景;潛在客戶",
+    "chinese": "前景；潛在客戶",
     "synonyms": "",
     "root": "pro- (forward) + specere (to look), from Latin",
     "group": "pro = 向前；代替",
@@ -636,7 +636,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The possibility of something happening in the future; a potential customer.",
-     "chinese": "前景;潛在客戶"
+     "chinese": "前景；潛在客戶"
     }
    },
    {
@@ -1482,4 +1482,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prognosticate": ["To predict or foretell a future event.", "預言"], "promulgate": ["To make known officially.", "公布；頒布"], "propitious": ["Favorable.", "吉利的；有利的"], "progeny": ["Descendants, offspring.", "後代；子孫"], "profligate": ["Wasteful: (anti:frugal.", "揮霍的；放蕩的"], "prohibition": ["The act of banning certain behavior.", "禁止"], "prodigy": ["Marvel, phenomenon.", "神童；奇蹟"], "propagate": ["To multiply, spread.", "傳播；繁殖"], "prodigious": ["Extraordinary, enormous.", "巨大的；驚人的"], "profound": ["Deep, intense.", "深奧的；深刻的"], "propensity": ["Disposition, inclination, bent.", "傾向；習性"], "procrastinate": ["To delay, put off.", "拖延；耽擱"], "proffer": ["To offer for acceptance.", "提供；提出"], "profuse": ["Abundant, overflowing.", "豐富的；大量的"], "prodigal": ["Wasteful; lavish.", "揮霍的"], "proactive": ["Acting in anticipation of future problems rather than reacting to them.", "積極主動的"], "proclaim": ["To announce officially or publicly.", "宣告；宣布"], "proclivity": ["A strong inclination toward something.", "傾向；癖好"], "procure": ["To obtain, acquire.", "取得；採購"], "produce": ["To create or generate something.", "生產；製造"], "profane": ["Lewd, indecent.", "褻瀆的；粗俗的"], "profusion": ["A large quantity of something.", "豐富；大量"], "prognosis": ["A forecast, especially regarding the likely course of a disease.", "預後;預測"], "prognostic": ["Indicating the likely future course of something.", "預兆的;預測性的"], "prognostication": ["A prediction or forecast.", "預測;預言"], "prognosticator": ["A person who predicts future events.", "預言家;預測者"], "prologue": ["An introductory section of a novel or other literary work.", "序言；前言"], "prolong": ["To extend in duration.", "延長"], "prominent": ["Important or well-known.", "知名的；顯著的"], "proponent": ["A person who advocates or supports a cause or idea.", "支持者；提倡者"], "proscribe": ["To forbid, especially by law; to condemn or outlaw.", "禁止；取締"], "prosecute": ["Conduct legal proceedings against a defendant.", "起訴；檢控"], "prospect": ["The possibility of something happening in the future; a potential customer.", "前景;潛在客戶"], "provoke": ["To stir up or incite.", "激怒；激起"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prognosticate": ["To predict or foretell a future event.", "預言"], "promulgate": ["To make known officially.", "公布；頒布"], "propitious": ["Favorable.", "吉利的；有利的"], "progeny": ["Descendants, offspring.", "後代；子孫"], "profligate": ["Wasteful: (anti:frugal.", "揮霍的；放蕩的"], "prohibition": ["The act of banning certain behavior.", "禁止"], "prodigy": ["Marvel, phenomenon.", "神童；奇蹟"], "propagate": ["To multiply, spread.", "傳播；繁殖"], "prodigious": ["Extraordinary, enormous.", "巨大的；驚人的"], "profound": ["Deep, intense.", "深奧的；深刻的"], "propensity": ["Disposition, inclination, bent.", "傾向；習性"], "procrastinate": ["To delay, put off.", "拖延；耽擱"], "proffer": ["To offer for acceptance.", "提供；提出"], "profuse": ["Abundant, overflowing.", "豐富的；大量的"], "prodigal": ["Wasteful; lavish.", "揮霍的"], "proactive": ["Acting in anticipation of future problems rather than reacting to them.", "積極主動的"], "proclaim": ["To announce officially or publicly.", "宣告；宣布"], "proclivity": ["A strong inclination toward something.", "傾向；癖好"], "procure": ["To obtain, acquire.", "取得；採購"], "produce": ["To create or generate something.", "生產；製造"], "profane": ["Lewd, indecent.", "褻瀆的；粗俗的"], "profusion": ["A large quantity of something.", "豐富；大量"], "prognosis": ["A forecast, especially regarding the likely course of a disease.", "預後；預測"], "prognostic": ["Indicating the likely future course of something.", "預兆的；預測性的"], "prognostication": ["A prediction or forecast.", "預測；預言"], "prognosticator": ["A person who predicts future events.", "預言家；預測者"], "prologue": ["An introductory section of a novel or other literary work.", "序言；前言"], "prolong": ["To extend in duration.", "延長"], "prominent": ["Important or well-known.", "知名的；顯著的"], "proponent": ["A person who advocates or supports a cause or idea.", "支持者；提倡者"], "proscribe": ["To forbid, especially by law; to condemn or outlaw.", "禁止；取締"], "prosecute": ["Conduct legal proceedings against a defendant.", "起訴；檢控"], "prospect": ["The possibility of something happening in the future; a potential customer.", "前景；潛在客戶"], "provoke": ["To stir up or incite.", "激怒；激起"]});

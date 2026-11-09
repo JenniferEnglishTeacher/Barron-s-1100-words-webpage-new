@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "oral",
     "pos": "adj.",
     "definition": "Spoken rather than written; relating to the mouth.",
-    "chinese": "口頭的;口腔的",
+    "chinese": "口頭的；口腔的",
     "synonyms": "",
     "root": "os, oris (mouth), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spoken rather than written; relating to the mouth.",
-     "chinese": "口頭的;口腔的"
+     "chinese": "口頭的；口腔的"
     }
    },
    {
@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "orate",
     "pos": "v.",
     "definition": "To make a formal or lengthy speech.",
-    "chinese": "演說;發表演講",
+    "chinese": "演說；發表演講",
     "synonyms": "",
     "root": "orare (to speak, plead), from Latin os, oris (mouth)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make a formal or lengthy speech.",
-     "chinese": "演說;發表演講"
+     "chinese": "演說；發表演講"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "ordinary",
     "pos": "adj.",
     "definition": "With no special or distinctive features; normal.",
-    "chinese": "普通的;平凡的",
+    "chinese": "普通的；平凡的",
     "synonyms": "",
     "root": "ordinarius (usual, regular), from Latin ordo (order)",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "With no special or distinctive features; normal.",
-     "chinese": "普通的;平凡的"
+     "chinese": "普通的；平凡的"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "orthography",
     "pos": "n.",
     "definition": "The conventional spelling system of a language.",
-    "chinese": "正字法;拼字法",
+    "chinese": "正字法；拼字法",
     "synonyms": "",
     "root": "orthos (correct) + graphein (to write), from Greek",
     "group": "",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The conventional spelling system of a language.",
-     "chinese": "正字法;拼字法"
+     "chinese": "正字法；拼字法"
     }
    },
    {
@@ -329,7 +329,7 @@ window.FLASHCARD_UNITS = {
     "word": "orthoscopic",
     "pos": "adj.",
     "definition": "Producing images free from distortion, especially in optics.",
-    "chinese": "無畸變的;正像的",
+    "chinese": "無畸變的；正像的",
     "synonyms": "",
     "root": "orthos (correct) + skopein (to look at), from Greek",
     "group": "",
@@ -341,7 +341,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing images free from distortion, especially in optics.",
-     "chinese": "無畸變的;正像的"
+     "chinese": "無畸變的；正像的"
     }
    },
    {
@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     "word": "oscitancy",
     "pos": "n.",
     "definition": "Drowsiness or a tendency to yawn; mental dullness.",
-    "chinese": "昏昏欲睡;精神遲鈍",
+    "chinese": "昏昏欲睡；精神遲鈍",
     "synonyms": "",
     "root": "oscitare (to yawn), from Latin os (mouth) + citare (to move)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Drowsiness or a tendency to yawn; mental dullness.",
-     "chinese": "昏昏欲睡;精神遲鈍"
+     "chinese": "昏昏欲睡；精神遲鈍"
     }
    },
    {
     "word": "oscitant",
     "pos": "adj.",
     "definition": "Yawning; drowsy or inattentive.",
-    "chinese": "打呵欠的;昏昏欲睡的",
+    "chinese": "打呵欠的；昏昏欲睡的",
     "synonyms": "",
     "root": "oscitare (to yawn), from Latin os (mouth) + citare (to move)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Yawning; drowsy or inattentive.",
-     "chinese": "打呵欠的;昏昏欲睡的"
+     "chinese": "打呵欠的；昏昏欲睡的"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "ostracize",
     "pos": "v.",
     "definition": "To exclude someone from a society or group.",
-    "chinese": "排斥;放逐",
+    "chinese": "排斥；放逐",
     "synonyms": "",
     "root": "ostrakizein (to banish by voting with potsherds), from Greek ostrakon (shell, potsherd)",
     "group": "",
@@ -459,14 +459,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To exclude someone from a society or group.",
-     "chinese": "排斥;放逐"
+     "chinese": "排斥；放逐"
     }
    },
    {
     "word": "otiose",
     "pos": "adj.",
     "definition": "Serving no practical purpose; futile.",
-    "chinese": "無用的;徒勞的",
+    "chinese": "無用的；徒勞的",
     "synonyms": "",
     "root": "otiosus (at leisure, idle), from Latin otium (leisure)",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving no practical purpose; futile.",
-     "chinese": "無用的;徒勞的"
+     "chinese": "無用的；徒勞的"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "outgrowth",
     "pos": "n.",
     "definition": "Something that develops as a natural result or consequence.",
-    "chinese": "自然結果;衍生物",
+    "chinese": "自然結果；衍生物",
     "synonyms": "",
     "root": "out + growth, from Old English growan (to grow)",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that develops as a natural result or consequence.",
-     "chinese": "自然結果;衍生物"
+     "chinese": "自然結果；衍生物"
     }
    },
    {
     "word": "outlandish",
     "pos": "adj.",
     "definition": "Bizarre or unfamiliar, especially in appearance.",
-    "chinese": "古怪的;離譜的",
+    "chinese": "古怪的；離譜的",
     "synonyms": "",
     "root": "utlendisc (foreign), from Old English ut (out) + land",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bizarre or unfamiliar, especially in appearance.",
-     "chinese": "古怪的;離譜的"
+     "chinese": "古怪的；離譜的"
     }
    },
    {
     "word": "outmoded",
     "pos": "adj.",
     "definition": "No longer fashionable or useful.",
-    "chinese": "過時的;不合時宜的",
+    "chinese": "過時的；不合時宜的",
     "synonyms": "",
     "root": "out + mode, from Latin modus (measure, manner)",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "No longer fashionable or useful.",
-     "chinese": "過時的;不合時宜的"
+     "chinese": "過時的；不合時宜的"
     }
    },
    {
     "word": "outrageous",
     "pos": "adj.",
     "definition": "Shockingly bad, excessive, or unacceptable.",
-    "chinese": "令人震驚的;離譜的",
+    "chinese": "令人震驚的；離譜的",
     "synonyms": "",
     "root": "outrage, from Old French oultrage (excess), from Latin ultra (beyond)",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Shockingly bad, excessive, or unacceptable.",
-     "chinese": "令人震驚的;離譜的"
+     "chinese": "令人震驚的；離譜的"
     }
    },
    {
     "word": "outre",
     "pos": "adj.",
     "definition": "Unusual and slightly shocking; outside the bounds of convention.",
-    "chinese": "怪異的;離經叛道的(異體標示)",
+    "chinese": "怪異的；離經叛道的(異體標示)",
     "synonyms": "",
     "root": "outré (exaggerated, beyond bounds), from French outre (beyond)",
     "group": "",
@@ -611,14 +611,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unusual and slightly shocking; outside the bounds of convention.",
-     "chinese": "怪異的;離經叛道的(異體標示)"
+     "chinese": "怪異的；離經叛道的(異體標示)"
     }
    },
    {
     "word": "outré",
     "pos": "adj.",
     "definition": "Unusual and slightly shocking; outside the bounds of convention.",
-    "chinese": "怪異的;離經叛道的",
+    "chinese": "怪異的；離經叛道的",
     "synonyms": "",
     "root": "outré (exaggerated, beyond bounds), from French outre (beyond)",
     "group": "",
@@ -630,7 +630,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unusual and slightly shocking; outside the bounds of convention.",
-     "chinese": "怪異的;離經叛道的"
+     "chinese": "怪異的；離經叛道的"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "outworn",
     "pos": "adj.",
     "definition": "No longer useful, valid, or fashionable.",
-    "chinese": "過時的;陳舊的",
+    "chinese": "過時的；陳舊的",
     "synonyms": "",
     "root": "out + worn, from Old English werian (to wear)",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "No longer useful, valid, or fashionable.",
-     "chinese": "過時的;陳舊的"
+     "chinese": "過時的；陳舊的"
     }
    },
    {
     "word": "overbearing",
     "pos": "adj.",
     "definition": "Domineering and unpleasantly controlling.",
-    "chinese": "專橫的;高壓的",
+    "chinese": "專橫的；高壓的",
     "synonyms": "",
     "root": "over + bear, from Old English beran (to carry)",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Domineering and unpleasantly controlling.",
-     "chinese": "專橫的;高壓的"
+     "chinese": "專橫的；高壓的"
     }
    },
    {
@@ -818,7 +818,7 @@ window.FLASHCARD_UNITS = {
     "word": "overspread",
     "pos": "v.",
     "definition": "To spread over the surface of something.",
-    "chinese": "覆蓋;蔓延",
+    "chinese": "覆蓋；蔓延",
     "synonyms": "",
     "root": "over + spread, from Old English sprædan",
     "group": "",
@@ -830,7 +830,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To spread over the surface of something.",
-     "chinese": "覆蓋;蔓延"
+     "chinese": "覆蓋；蔓延"
     }
    },
    {
@@ -856,7 +856,7 @@ window.FLASHCARD_UNITS = {
     "word": "overthrow",
     "pos": "v./n.",
     "definition": "To remove forcibly from power; the removal of a government by force.",
-    "chinese": "推翻;政變",
+    "chinese": "推翻；政變",
     "synonyms": "",
     "root": "over + throw, from Old English thrawan",
     "group": "",
@@ -868,7 +868,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To remove forcibly from power; the removal of a government by force.",
-     "chinese": "推翻;政變"
+     "chinese": "推翻；政變"
     }
    },
    {
@@ -894,7 +894,7 @@ window.FLASHCARD_UNITS = {
     "word": "overween",
     "pos": "v.",
     "definition": "To be excessively conceited or arrogant.",
-    "chinese": "過分自負;狂妄自大",
+    "chinese": "過分自負；狂妄自大",
     "synonyms": "",
     "root": "over + wenan (to think, suppose), from Old English",
     "group": "",
@@ -906,14 +906,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To be excessively conceited or arrogant.",
-     "chinese": "過分自負;狂妄自大"
+     "chinese": "過分自負；狂妄自大"
     }
    },
    {
     "word": "overweening",
     "pos": "adj.",
     "definition": "Showing excessive confidence or pride.",
-    "chinese": "自負的;狂妄的",
+    "chinese": "自負的；狂妄的",
     "synonyms": "",
     "root": "over + wenan (to think, suppose), from Old English",
     "group": "",
@@ -925,7 +925,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing excessive confidence or pride.",
-     "chinese": "自負的;狂妄的"
+     "chinese": "自負的；狂妄的"
     }
    },
    {
@@ -951,7 +951,7 @@ window.FLASHCARD_UNITS = {
     "word": "overwrought",
     "pos": "adj.",
     "definition": "Extremely agitated or excited; excessively elaborate.",
-    "chinese": "情緒激動的;過度雕琢的",
+    "chinese": "情緒激動的；過度雕琢的",
     "synonyms": "",
     "root": "over + wrought (worked), from Old English wyrcan (to work)",
     "group": "",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely agitated or excited; excessively elaborate.",
-     "chinese": "情緒激動的;過度雕琢的"
+     "chinese": "情緒激動的；過度雕琢的"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"oral": ["Spoken rather than written; relating to the mouth.", "口頭的;口腔的"], "orangutan": ["A large arboreal ape native to Borneo and Sumatra.", "紅毛猩猩"], "orate": ["To make a formal or lengthy speech.", "演說;發表演講"], "oration": ["A speech delivered in a formal or ceremonious manner.", "演說；致詞"], "orator": ["A skilled and eloquent public speaker.", "演說家"], "ordinary": ["With no special or distinctive features; normal.", "普通的;平凡的"], "originate": ["To begin, arise.", "發源；創立"], "ornamental": ["Serving as decoration rather than for a practical purpose.", "裝飾性的"], "ornate": ["Highly elaborate, excessively decorated.", "華麗的；裝飾繁複的"], "orthodontia": ["The branch of dentistry concerned with straightening teeth.", "牙齒矯正學"], "orthodontics": ["The branch of dentistry dealing with correction of irregular teeth.", "齒顎矯正學"], "orthodontist": ["A dentist who specializes in correcting the alignment of teeth.", "牙齒矯正醫師"], "orthodox": ["Conventional, conforming to established protocol.", "正統的；傳統的"], "orthoepy": ["The study of correct pronunciation.", "正音學"], "orthography": ["The conventional spelling system of a language.", "正字法;拼字法"], "orthopaedics": ["The branch of medicine concerned with disorders of the spine and joints.", "骨科學"], "orthopedist": ["A surgeon who corrects deformities of bones and joints.", "骨科醫師"], "orthoscopic": ["Producing images free from distortion, especially in optics.", "無畸變的;正像的"], "oscillate": ["To move or swing back and forth in a regular rhythm.", "擺動；搖擺"], "oscitancy": ["Drowsiness or a tendency to yawn; mental dullness.", "昏昏欲睡;精神遲鈍"], "oscitant": ["Yawning; drowsy or inattentive.", "打呵欠的;昏昏欲睡的"], "osculation": ["The act of kissing.", "親吻(正式或詼諧用語)"], "ostracism": ["Exclusion from a group.", "排斥；放逐"], "ostracize": ["To exclude someone from a society or group.", "排斥;放逐"], "otiose": ["Serving no practical purpose; futile.", "無用的;徒勞的"], "oubliette": ["A secret dungeon accessible only from a trapdoor in the ceiling.", "地牢暗室(僅能從天花板暗門進入)"], "oust": ["To drive out, eject.", "驅逐"], "outgrowth": ["Something that develops as a natural result or consequence.", "自然結果;衍生物"], "outlandish": ["Bizarre or unfamiliar, especially in appearance.", "古怪的;離譜的"], "outmoded": ["No longer fashionable or useful.", "過時的;不合時宜的"], "outrageous": ["Shockingly bad, excessive, or unacceptable.", "令人震驚的;離譜的"], "outre": ["Unusual and slightly shocking; outside the bounds of convention.", "怪異的;離經叛道的(異體標示)"], "outré": ["Unusual and slightly shocking; outside the bounds of convention.", "怪異的;離經叛道的"], "outspokenness": ["The quality of expressing one's opinions frankly, even if controversial.", "直言不諱"], "outstrip": ["To surpass or exceed.", "超越；勝過"], "outworn": ["No longer useful, valid, or fashionable.", "過時的;陳舊的"], "overbearing": ["Domineering and unpleasantly controlling.", "專橫的;高壓的"], "overcome": ["To succeed in dealing with a problem.", "克服"], "overconfident": ["Having excessive confidence in oneself.", "過度自信的"], "overlook": ["To fail to notice or consider.", "忽略"], "overreact": ["To respond too strongly.", "反應過度"], "overshadow": ["To be more important than something else.", "使黯然失色；蓋過"], "overspread": ["To spread over the surface of something.", "覆蓋;蔓延"], "overt": ["Open:obvious.", "公開的；明顯的"], "overthrow": ["To remove forcibly from power; the removal of a government by force.", "推翻;政變"], "overtly": ["Openly and clearly.", "公開地；明顯地"], "overween": ["To be excessively conceited or arrogant.", "過分自負;狂妄自大"], "overweening": ["Showing excessive confidence or pride.", "自負的;狂妄的"], "overwhelmed": ["Feeling excessive stress or emotion.", "不堪重負的；難以承受的"], "overwrought": ["Extremely agitated or excited; excessively elaborate.", "情緒激動的;過度雕琢的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"oral": ["Spoken rather than written; relating to the mouth.", "口頭的；口腔的"], "orangutan": ["A large arboreal ape native to Borneo and Sumatra.", "紅毛猩猩"], "orate": ["To make a formal or lengthy speech.", "演說；發表演講"], "oration": ["A speech delivered in a formal or ceremonious manner.", "演說；致詞"], "orator": ["A skilled and eloquent public speaker.", "演說家"], "ordinary": ["With no special or distinctive features; normal.", "普通的；平凡的"], "originate": ["To begin, arise.", "發源；創立"], "ornamental": ["Serving as decoration rather than for a practical purpose.", "裝飾性的"], "ornate": ["Highly elaborate, excessively decorated.", "華麗的；裝飾繁複的"], "orthodontia": ["The branch of dentistry concerned with straightening teeth.", "牙齒矯正學"], "orthodontics": ["The branch of dentistry dealing with correction of irregular teeth.", "齒顎矯正學"], "orthodontist": ["A dentist who specializes in correcting the alignment of teeth.", "牙齒矯正醫師"], "orthodox": ["Conventional, conforming to established protocol.", "正統的；傳統的"], "orthoepy": ["The study of correct pronunciation.", "正音學"], "orthography": ["The conventional spelling system of a language.", "正字法；拼字法"], "orthopaedics": ["The branch of medicine concerned with disorders of the spine and joints.", "骨科學"], "orthopedist": ["A surgeon who corrects deformities of bones and joints.", "骨科醫師"], "orthoscopic": ["Producing images free from distortion, especially in optics.", "無畸變的；正像的"], "oscillate": ["To move or swing back and forth in a regular rhythm.", "擺動；搖擺"], "oscitancy": ["Drowsiness or a tendency to yawn; mental dullness.", "昏昏欲睡；精神遲鈍"], "oscitant": ["Yawning; drowsy or inattentive.", "打呵欠的；昏昏欲睡的"], "osculation": ["The act of kissing.", "親吻(正式或詼諧用語)"], "ostracism": ["Exclusion from a group.", "排斥；放逐"], "ostracize": ["To exclude someone from a society or group.", "排斥；放逐"], "otiose": ["Serving no practical purpose; futile.", "無用的；徒勞的"], "oubliette": ["A secret dungeon accessible only from a trapdoor in the ceiling.", "地牢暗室(僅能從天花板暗門進入)"], "oust": ["To drive out, eject.", "驅逐"], "outgrowth": ["Something that develops as a natural result or consequence.", "自然結果；衍生物"], "outlandish": ["Bizarre or unfamiliar, especially in appearance.", "古怪的；離譜的"], "outmoded": ["No longer fashionable or useful.", "過時的；不合時宜的"], "outrageous": ["Shockingly bad, excessive, or unacceptable.", "令人震驚的；離譜的"], "outre": ["Unusual and slightly shocking; outside the bounds of convention.", "怪異的；離經叛道的(異體標示)"], "outré": ["Unusual and slightly shocking; outside the bounds of convention.", "怪異的；離經叛道的"], "outspokenness": ["The quality of expressing one's opinions frankly, even if controversial.", "直言不諱"], "outstrip": ["To surpass or exceed.", "超越；勝過"], "outworn": ["No longer useful, valid, or fashionable.", "過時的；陳舊的"], "overbearing": ["Domineering and unpleasantly controlling.", "專橫的；高壓的"], "overcome": ["To succeed in dealing with a problem.", "克服"], "overconfident": ["Having excessive confidence in oneself.", "過度自信的"], "overlook": ["To fail to notice or consider.", "忽略"], "overreact": ["To respond too strongly.", "反應過度"], "overshadow": ["To be more important than something else.", "使黯然失色；蓋過"], "overspread": ["To spread over the surface of something.", "覆蓋；蔓延"], "overt": ["Open:obvious.", "公開的；明顯的"], "overthrow": ["To remove forcibly from power; the removal of a government by force.", "推翻；政變"], "overtly": ["Openly and clearly.", "公開地；明顯地"], "overween": ["To be excessively conceited or arrogant.", "過分自負；狂妄自大"], "overweening": ["Showing excessive confidence or pride.", "自負的；狂妄的"], "overwhelmed": ["Feeling excessive stress or emotion.", "不堪重負的；難以承受的"], "overwrought": ["Extremely agitated or excited; excessively elaborate.", "情緒激動的；過度雕琢的"]});

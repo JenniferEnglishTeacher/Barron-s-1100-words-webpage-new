@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "diabolical",
     "pos": "adj.",
     "definition": "Characteristic of the devil; extremely evil.",
-    "chinese": "惡魔般的;極其邪惡的",
+    "chinese": "惡魔般的；極其邪惡的",
     "synonyms": "",
     "root": "diabolos (devil), from Greek",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characteristic of the devil; extremely evil.",
-     "chinese": "惡魔般的;極其邪惡的"
+     "chinese": "惡魔般的；極其邪惡的"
     }
    },
    {
     "word": "diastema",
     "pos": "n.",
     "definition": "A gap between two teeth.",
-    "chinese": "齒縫;牙間隙",
+    "chinese": "齒縫；牙間隙",
     "synonyms": "",
     "root": "diastema (interval), from Greek",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A gap between two teeth.",
-     "chinese": "齒縫;牙間隙"
+     "chinese": "齒縫；牙間隙"
     }
    },
    {
     "word": "dichotomy",
     "pos": "n.",
     "definition": "A division into two sharply contrasting parts or groups.",
-    "chinese": "二分法;對立",
+    "chinese": "二分法；對立",
     "synonyms": "",
     "root": "dicha (in two) + tome (cutting), from Greek",
     "group": "",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A division into two sharply contrasting parts or groups.",
-     "chinese": "二分法;對立"
+     "chinese": "二分法；對立"
     }
    },
    {
     "word": "dicta",
     "pos": "n.",
     "definition": "Authoritative statements or pronouncements (plural of dictum).",
-    "chinese": "格言;判詞(dictum複數)",
+    "chinese": "格言；判詞(dictum複數)",
     "synonyms": "",
     "root": "dicere (to say), from Latin",
     "group": "",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Authoritative statements or pronouncements (plural of dictum).",
-     "chinese": "格言;判詞(dictum複數)"
+     "chinese": "格言；判詞(dictum複數)"
     }
    },
    {
     "word": "dictatorial",
     "pos": "adj.",
     "definition": "Tending to give orders in an overbearing way; tyrannical.",
-    "chinese": "獨裁的;專橫的",
+    "chinese": "獨裁的；專橫的",
     "synonyms": "",
     "root": "dicere (to say), from Latin",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to give orders in an overbearing way; tyrannical.",
-     "chinese": "獨裁的;專橫的"
+     "chinese": "獨裁的；專橫的"
     }
    },
    {
     "word": "diction",
     "pos": "n.",
     "definition": "The choice and use of words in speech or writing.",
-    "chinese": "措辭;用字",
+    "chinese": "措辭；用字",
     "synonyms": "",
     "root": "dicere (to say), from Latin",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The choice and use of words in speech or writing.",
-     "chinese": "措辭;用字"
+     "chinese": "措辭；用字"
     }
    },
    {
     "word": "dictum",
     "pos": "n.",
     "definition": "A formal pronouncement or well-known saying.",
-    "chinese": "格言;正式聲明",
+    "chinese": "格言；正式聲明",
     "synonyms": "",
     "root": "dicere (to say), from Latin",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal pronouncement or well-known saying.",
-     "chinese": "格言;正式聲明"
+     "chinese": "格言；正式聲明"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "diehard",
     "pos": "n./adj.",
     "definition": "A person who strongly resists change; deeply committed.",
-    "chinese": "頑固分子;死忠的",
+    "chinese": "頑固分子；死忠的",
     "synonyms": "",
     "root": "die + hard, from Middle English",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who strongly resists change; deeply committed.",
-     "chinese": "頑固分子;死忠的"
+     "chinese": "頑固分子；死忠的"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "digest",
     "pos": "v./n.",
     "definition": "To break down food for absorption; a summary of information.",
-    "chinese": "消化;文摘",
+    "chinese": "消化；文摘",
     "synonyms": "",
     "root": "di- (apart) + gerere (to carry), from Latin",
     "group": "",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To break down food for absorption; a summary of information.",
-     "chinese": "消化;文摘"
+     "chinese": "消化；文摘"
     }
    },
    {
     "word": "dignified",
     "pos": "adj.",
     "definition": "Having a composed, serious manner worthy of respect.",
-    "chinese": "莊嚴的;有尊嚴的",
+    "chinese": "莊嚴的；有尊嚴的",
     "synonyms": "",
     "root": "dignus (worthy), from Latin",
     "group": "",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a composed, serious manner worthy of respect.",
-     "chinese": "莊嚴的;有尊嚴的"
+     "chinese": "莊嚴的；有尊嚴的"
     }
    },
    {
     "word": "dignify",
     "pos": "v.",
     "definition": "To give an air of dignity to something unworthy of it.",
-    "chinese": "使顯得尊貴;抬舉",
+    "chinese": "使顯得尊貴；抬舉",
     "synonyms": "",
     "root": "dignus (worthy), from Latin",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give an air of dignity to something unworthy of it.",
-     "chinese": "使顯得尊貴;抬舉"
+     "chinese": "使顯得尊貴；抬舉"
     }
    },
    {
     "word": "dignitary",
     "pos": "n.",
     "definition": "A person considered important due to high rank or office.",
-    "chinese": "顯要人物;要員",
+    "chinese": "顯要人物；要員",
     "synonyms": "",
     "root": "dignus (worthy), from Latin",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person considered important due to high rank or office.",
-     "chinese": "顯要人物;要員"
+     "chinese": "顯要人物；要員"
     }
    },
    {
@@ -331,7 +331,7 @@ window.FLASHCARD_UNITS = {
     "word": "dilemma",
     "pos": "n.",
     "definition": "A situation requiring a choice between equally undesirable options.",
-    "chinese": "困境;兩難",
+    "chinese": "困境；兩難",
     "synonyms": "",
     "root": "di- (two) + lemma (premise), from Greek",
     "group": "",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A situation requiring a choice between equally undesirable options.",
-     "chinese": "困境;兩難"
+     "chinese": "困境；兩難"
     }
    },
    {
@@ -388,7 +388,7 @@ window.FLASHCARD_UNITS = {
     "word": "dim",
     "pos": "adj./v.",
     "definition": "Not bright; to make less bright.",
-    "chinese": "昏暗的;調暗",
+    "chinese": "昏暗的；調暗",
     "synonyms": "",
     "root": "from Old English dimm",
     "group": "",
@@ -400,14 +400,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not bright; to make less bright.",
-     "chinese": "昏暗的;調暗"
+     "chinese": "昏暗的；調暗"
     }
    },
    {
     "word": "dim-witted",
     "pos": "adj.",
     "definition": "Stupid or slow to understand.",
-    "chinese": "愚笨的;遲鈍的",
+    "chinese": "愚笨的；遲鈍的",
     "synonyms": "",
     "root": "dim + wit, from Old English",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stupid or slow to understand.",
-     "chinese": "愚笨的;遲鈍的"
+     "chinese": "愚笨的；遲鈍的"
     }
    },
    {
@@ -466,7 +466,7 @@ window.FLASHCARD_UNITS = {
     "word": "dipsomania",
     "pos": "n.",
     "definition": "An uncontrollable craving for alcohol.",
-    "chinese": "酗酒癖;嗜酒狂",
+    "chinese": "酗酒癖；嗜酒狂",
     "synonyms": "",
     "root": "dipsa (thirst) + mania (madness), from Greek",
     "group": "",
@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An uncontrollable craving for alcohol.",
-     "chinese": "酗酒癖;嗜酒狂"
+     "chinese": "酗酒癖；嗜酒狂"
     }
    },
    {
@@ -620,7 +620,7 @@ window.FLASHCARD_UNITS = {
     "word": "dismal",
     "pos": "adj.",
     "definition": "Depressing or gloomy.",
-    "chinese": "陰鬱的;悲慘的",
+    "chinese": "陰鬱的；悲慘的",
     "synonyms": "",
     "root": "dies mali (evil days), from Latin",
     "group": "",
@@ -632,7 +632,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Depressing or gloomy.",
-     "chinese": "陰鬱的;悲慘的"
+     "chinese": "陰鬱的；悲慘的"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "distaff",
     "pos": "n./adj.",
     "definition": "A tool for spinning wool; relating to women or the maternal side of a family.",
-    "chinese": "紡桿;女性方面的",
+    "chinese": "紡桿；女性方面的",
     "synonyms": "",
     "root": "from Old English distæf",
     "group": "",
@@ -689,7 +689,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A tool for spinning wool; relating to women or the maternal side of a family.",
-     "chinese": "紡桿;女性方面的"
+     "chinese": "紡桿；女性方面的"
     }
    },
    {
@@ -736,7 +736,7 @@ window.FLASHCARD_UNITS = {
     "word": "diurnal",
     "pos": "adj.",
     "definition": "Active during the day rather than at night.",
-    "chinese": "白天活動的;每日的",
+    "chinese": "白天活動的；每日的",
     "synonyms": "",
     "root": "dies (day), from Latin",
     "group": "",
@@ -748,7 +748,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Active during the day rather than at night.",
-     "chinese": "白天活動的;每日的"
+     "chinese": "白天活動的；每日的"
     }
    },
    {
@@ -850,7 +850,7 @@ window.FLASHCARD_UNITS = {
     "word": "do-nothing",
     "pos": "adj./n.",
     "definition": "Lazy or ineffective; a person who accomplishes nothing.",
-    "chinese": "無所作為的;懶惰的人",
+    "chinese": "無所作為的；懶惰的人",
     "synonyms": "",
     "root": "do + nothing, from Old English",
     "group": "",
@@ -862,14 +862,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lazy or ineffective; a person who accomplishes nothing.",
-     "chinese": "無所作為的;懶惰的人"
+     "chinese": "無所作為的；懶惰的人"
     }
    },
    {
     "word": "docent",
     "pos": "n.",
     "definition": "A person who acts as a guide, typically in a museum.",
-    "chinese": "導覽員;講解員",
+    "chinese": "導覽員；講解員",
     "synonyms": "",
     "root": "docere (to teach), from Latin",
     "group": "",
@@ -883,7 +883,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who acts as a guide, typically in a museum.",
-     "chinese": "導覽員;講解員"
+     "chinese": "導覽員；講解員"
     }
    },
    {
@@ -909,7 +909,7 @@ window.FLASHCARD_UNITS = {
     "word": "docility",
     "pos": "n.",
     "definition": "The quality of being easily managed or taught.",
-    "chinese": "溫順;易受管教",
+    "chinese": "溫順；易受管教",
     "synonyms": "",
     "root": "docere (to teach), from Latin",
     "group": "",
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being easily managed or taught.",
-     "chinese": "溫順;易受管教"
+     "chinese": "溫順；易受管教"
     }
    },
    {
@@ -947,7 +947,7 @@ window.FLASHCARD_UNITS = {
     "word": "doctrine",
     "pos": "n.",
     "definition": "A set of beliefs held and taught by a religious, political, or philosophical group.",
-    "chinese": "教條;學說",
+    "chinese": "教條；學說",
     "synonyms": "",
     "root": "docere (to teach), from Latin",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A set of beliefs held and taught by a religious, political, or philosophical group.",
-     "chinese": "教條;學說"
+     "chinese": "教條；學說"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dexterous": ["Skillful in physical movements, especially of the hands.", "靈巧的；手巧的"], "diabolical": ["Characteristic of the devil; extremely evil.", "惡魔般的;極其邪惡的"], "diastema": ["A gap between two teeth.", "齒縫;牙間隙"], "dichotomy": ["A division into two sharply contrasting parts or groups.", "二分法;對立"], "dicta": ["Authoritative statements or pronouncements (plural of dictum).", "格言;判詞(dictum複數)"], "dictatorial": ["Tending to give orders in an overbearing way; tyrannical.", "獨裁的;專橫的"], "diction": ["The choice and use of words in speech or writing.", "措辭;用字"], "dictum": ["A formal pronouncement or well-known saying.", "格言;正式聲明"], "didactic": ["Intended to instruct.", "說教的；教育性的"], "didactics": ["The theory and method of teaching.", "教學法"], "diehard": ["A person who strongly resists change; deeply committed.", "頑固分子;死忠的"], "dieresis": ["A mark placed over a vowel to indicate it is pronounced separately.", "分音符號(如ë)"], "digest": ["To break down food for absorption; a summary of information.", "消化;文摘"], "dignified": ["Having a composed, serious manner worthy of respect.", "莊嚴的;有尊嚴的"], "dignify": ["To give an air of dignity to something unworthy of it.", "使顯得尊貴;抬舉"], "dignitary": ["A person considered important due to high rank or office.", "顯要人物;要員"], "dignity": ["The state of being worthy of honor or respect.", "尊嚴"], "dilemma": ["A situation requiring a choice between equally undesirable options.", "困境;兩難"], "dilettante": ["One who has great interest, but little knowledge.", "業餘愛好者；半吊子"], "diligent": ["Showing care and effort in one's work or duties.", "勤勉的；勤奮的"], "dim": ["Not bright; to make less bright.", "昏暗的;調暗"], "dim-witted": ["Stupid or slow to understand.", "愚笨的;遲鈍的"], "din": ["Ongoing loud sound; noise.", "喧鬧聲"], "diphthong": ["A sound formed by the combination of two vowels in a single syllable.", "雙母音"], "dipsomania": ["An uncontrollable craving for alcohol.", "酗酒癖;嗜酒狂"], "dire": ["Fraught with extreme danger; nearly hopeless.", "極度危急的；悲慘的"], "dirge": ["A mournful song, especially for a funeral.", "輓歌；哀歌"], "disciple": ["Follower.", "門徒；信徒"], "discount": ["To disregard or reduce in value.", "忽視；打折"], "disengage": ["To separate or detach something from a connection or attachment.", "使脫離；使分離"], "dishabillophobia": ["An abnormal fear of undressing in front of someone.", "當眾脫衣恐懼症"], "disheartened": ["Feeling a loss of spirit or morale.", "灰心的；氣餒的"], "dismal": ["Depressing or gloomy.", "陰鬱的;悲慘的"], "disorienting": ["Causing confusion or loss of direction, especially in space or time.", "使人迷失方向的；令人困惑的"], "dispatch": ["To send off to accomplish a duty.", "派遣；發送"], "distaff": ["A tool for spinning wool; relating to women or the maternal side of a family.", "紡桿;女性方面的"], "distraught": ["Confused, upset.", "心煩意亂的"], "dither": ["To be indecisive.", "猶豫不決"], "diurnal": ["Active during the day rather than at night.", "白天活動的;每日的"], "diva": ["A highly skilled singer, usually an opera singer.", "首席女歌手；女神"], "divination": ["The practice of seeking knowledge of the future through supernatural means.", "占卜"], "divine": ["Godly, exceedingly wonderful.", "神聖的；絕妙的"], "divisive": ["Causing dissent, discord.", "引起分裂的；有爭議的"], "dizziness": ["A sensation of spinning or unsteadiness.", "頭暈"], "do-nothing": ["Lazy or ineffective; a person who accomplishes nothing.", "無所作為的;懶惰的人"], "docent": ["A person who acts as a guide, typically in a museum.", "導覽員;講解員"], "docile": ["Ready to accept control or instruction; submissive.", "溫馴的；順從的"], "docility": ["The quality of being easily managed or taught.", "溫順;易受管教"], "doctrinaire": ["Insisting on theory without regard to practicality.", "教條主義的"], "doctrine": ["A set of beliefs held and taught by a religious, political, or philosophical group.", "教條;學說"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dexterous": ["Skillful in physical movements, especially of the hands.", "靈巧的；手巧的"], "diabolical": ["Characteristic of the devil; extremely evil.", "惡魔般的；極其邪惡的"], "diastema": ["A gap between two teeth.", "齒縫；牙間隙"], "dichotomy": ["A division into two sharply contrasting parts or groups.", "二分法；對立"], "dicta": ["Authoritative statements or pronouncements (plural of dictum).", "格言；判詞(dictum複數)"], "dictatorial": ["Tending to give orders in an overbearing way; tyrannical.", "獨裁的；專橫的"], "diction": ["The choice and use of words in speech or writing.", "措辭；用字"], "dictum": ["A formal pronouncement or well-known saying.", "格言；正式聲明"], "didactic": ["Intended to instruct.", "說教的；教育性的"], "didactics": ["The theory and method of teaching.", "教學法"], "diehard": ["A person who strongly resists change; deeply committed.", "頑固分子；死忠的"], "dieresis": ["A mark placed over a vowel to indicate it is pronounced separately.", "分音符號(如ë)"], "digest": ["To break down food for absorption; a summary of information.", "消化；文摘"], "dignified": ["Having a composed, serious manner worthy of respect.", "莊嚴的；有尊嚴的"], "dignify": ["To give an air of dignity to something unworthy of it.", "使顯得尊貴；抬舉"], "dignitary": ["A person considered important due to high rank or office.", "顯要人物；要員"], "dignity": ["The state of being worthy of honor or respect.", "尊嚴"], "dilemma": ["A situation requiring a choice between equally undesirable options.", "困境；兩難"], "dilettante": ["One who has great interest, but little knowledge.", "業餘愛好者；半吊子"], "diligent": ["Showing care and effort in one's work or duties.", "勤勉的；勤奮的"], "dim": ["Not bright; to make less bright.", "昏暗的；調暗"], "dim-witted": ["Stupid or slow to understand.", "愚笨的；遲鈍的"], "din": ["Ongoing loud sound; noise.", "喧鬧聲"], "diphthong": ["A sound formed by the combination of two vowels in a single syllable.", "雙母音"], "dipsomania": ["An uncontrollable craving for alcohol.", "酗酒癖；嗜酒狂"], "dire": ["Fraught with extreme danger; nearly hopeless.", "極度危急的；悲慘的"], "dirge": ["A mournful song, especially for a funeral.", "輓歌；哀歌"], "disciple": ["Follower.", "門徒；信徒"], "discount": ["To disregard or reduce in value.", "忽視；打折"], "disengage": ["To separate or detach something from a connection or attachment.", "使脫離；使分離"], "dishabillophobia": ["An abnormal fear of undressing in front of someone.", "當眾脫衣恐懼症"], "disheartened": ["Feeling a loss of spirit or morale.", "灰心的；氣餒的"], "dismal": ["Depressing or gloomy.", "陰鬱的；悲慘的"], "disorienting": ["Causing confusion or loss of direction, especially in space or time.", "使人迷失方向的；令人困惑的"], "dispatch": ["To send off to accomplish a duty.", "派遣；發送"], "distaff": ["A tool for spinning wool; relating to women or the maternal side of a family.", "紡桿；女性方面的"], "distraught": ["Confused, upset.", "心煩意亂的"], "dither": ["To be indecisive.", "猶豫不決"], "diurnal": ["Active during the day rather than at night.", "白天活動的；每日的"], "diva": ["A highly skilled singer, usually an opera singer.", "首席女歌手；女神"], "divination": ["The practice of seeking knowledge of the future through supernatural means.", "占卜"], "divine": ["Godly, exceedingly wonderful.", "神聖的；絕妙的"], "divisive": ["Causing dissent, discord.", "引起分裂的；有爭議的"], "dizziness": ["A sensation of spinning or unsteadiness.", "頭暈"], "do-nothing": ["Lazy or ineffective; a person who accomplishes nothing.", "無所作為的；懶惰的人"], "docent": ["A person who acts as a guide, typically in a museum.", "導覽員；講解員"], "docile": ["Ready to accept control or instruction; submissive.", "溫馴的；順從的"], "docility": ["The quality of being easily managed or taught.", "溫順；易受管教"], "doctrinaire": ["Insisting on theory without regard to practicality.", "教條主義的"], "doctrine": ["A set of beliefs held and taught by a religious, political, or philosophical group.", "教條；學說"]});

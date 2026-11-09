@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "military",
     "pos": "n./adj.",
     "definition": "Relating to soldiers or armed forces.",
-    "chinese": "軍事的;軍隊",
+    "chinese": "軍事的；軍隊",
     "synonyms": "",
     "root": "miles/militis (soldier), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to soldiers or armed forces.",
-     "chinese": "軍事的;軍隊"
+     "chinese": "軍事的；軍隊"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "minatory",
     "pos": "adj.",
     "definition": "Expressing or conveying a threat.",
-    "chinese": "恫嚇的;威脅的",
+    "chinese": "恫嚇的；威脅的",
     "synonyms": "",
     "root": "minari (to threaten), from Latin",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing or conveying a threat.",
-     "chinese": "恫嚇的;威脅的"
+     "chinese": "恫嚇的；威脅的"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "minim",
     "pos": "n.",
     "definition": "A very small amount or quantity; a unit of liquid measure.",
-    "chinese": "極少量;微量單位",
+    "chinese": "極少量；微量單位",
     "synonyms": "",
     "root": "minimus (smallest), from Latin",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A very small amount or quantity; a unit of liquid measure.",
-     "chinese": "極少量;微量單位"
+     "chinese": "極少量；微量單位"
     }
    },
    {
     "word": "minion",
     "pos": "n.",
     "definition": "A servile follower or subordinate.",
-    "chinese": "走狗;下屬",
+    "chinese": "走狗；下屬",
     "synonyms": "",
     "root": "mignon (dainty, favorite), from French",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A servile follower or subordinate.",
-     "chinese": "走狗;下屬"
+     "chinese": "走狗；下屬"
     }
    },
    {
     "word": "ministerial",
     "pos": "adj.",
     "definition": "Relating to a government minister or ministry; relating to religious ministry.",
-    "chinese": "部長的;牧師的",
+    "chinese": "部長的；牧師的",
     "synonyms": "",
     "root": "minister (servant), from Latin minus (less)",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a government minister or ministry; relating to religious ministry.",
-     "chinese": "部長的;牧師的"
+     "chinese": "部長的；牧師的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "minute",
     "pos": "adj./n.",
     "definition": "Extremely small; a unit of time.",
-    "chinese": "微小的;分鐘",
+    "chinese": "微小的；分鐘",
     "synonyms": "",
     "root": "minutus (made small), from Latin minuere (to lessen)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely small; a unit of time.",
-     "chinese": "微小的;分鐘"
+     "chinese": "微小的；分鐘"
     }
    },
    {
     "word": "mirthful",
     "pos": "adj.",
     "definition": "Full of joy and laughter.",
-    "chinese": "歡樂的;愉悅的",
+    "chinese": "歡樂的；愉悅的",
     "synonyms": "",
     "root": "myrgð (joy), from Old English",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Full of joy and laughter.",
-     "chinese": "歡樂的;愉悅的"
+     "chinese": "歡樂的；愉悅的"
     }
    },
    {
     "word": "misadventure",
     "pos": "n.",
     "definition": "An unlucky mishap or accident.",
-    "chinese": "不幸事件;意外",
+    "chinese": "不幸事件；意外",
     "synonyms": "",
     "root": "mes- (bad) + aventure (chance, fortune), from Old French",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An unlucky mishap or accident.",
-     "chinese": "不幸事件;意外"
+     "chinese": "不幸事件；意外"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "misandry",
     "pos": "n.",
     "definition": "Dislike of or prejudice against men.",
-    "chinese": "厭男;仇男",
+    "chinese": "厭男；仇男",
     "synonyms": "",
     "root": "misein (to hate) + aner, andros (man), from Greek",
     "group": "",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dislike of or prejudice against men.",
-     "chinese": "厭男;仇男"
+     "chinese": "厭男；仇男"
     }
    },
    {
@@ -352,7 +352,7 @@ window.FLASHCARD_UNITS = {
     "word": "misanthropy",
     "pos": "n.",
     "definition": "A general hatred or distrust of humankind.",
-    "chinese": "厭世;仇視人類",
+    "chinese": "厭世；仇視人類",
     "synonyms": "",
     "root": "misein (to hate) + anthropos (man, human), from Greek",
     "group": "",
@@ -366,14 +366,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A general hatred or distrust of humankind.",
-     "chinese": "厭世;仇視人類"
+     "chinese": "厭世；仇視人類"
     }
    },
    {
     "word": "miscellaneous",
     "pos": "adj.",
     "definition": "Consisting of various types or things; not classified.",
-    "chinese": "各式各樣的;雜項的",
+    "chinese": "各式各樣的；雜項的",
     "synonyms": "",
     "root": "miscellaneus (mixed), from Latin miscere (to mix)",
     "group": "",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Consisting of various types or things; not classified.",
-     "chinese": "各式各樣的;雜項的"
+     "chinese": "各式各樣的；雜項的"
     }
    },
    {
     "word": "miscellany",
     "pos": "n.",
     "definition": "A collection of various items or writings.",
-    "chinese": "雜集;雜錄",
+    "chinese": "雜集；雜錄",
     "synonyms": "",
     "root": "miscellanea (mixed things), from Latin miscere (to mix)",
     "group": "",
@@ -404,14 +404,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A collection of various items or writings.",
-     "chinese": "雜集;雜錄"
+     "chinese": "雜集；雜錄"
     }
    },
    {
     "word": "miserable",
     "pos": "adj.",
     "definition": "Extremely unhappy or uncomfortable.",
-    "chinese": "悲慘的;痛苦的",
+    "chinese": "悲慘的；痛苦的",
     "synonyms": "",
     "root": "miser (wretched), from Latin",
     "group": "",
@@ -423,14 +423,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely unhappy or uncomfortable.",
-     "chinese": "悲慘的;痛苦的"
+     "chinese": "悲慘的；痛苦的"
     }
    },
    {
     "word": "miserliness",
     "pos": "n.",
     "definition": "Extreme stinginess or reluctance to spend money.",
-    "chinese": "吝嗇;小氣",
+    "chinese": "吝嗇；小氣",
     "synonyms": "",
     "root": "miser (wretched), from Latin",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme stinginess or reluctance to spend money.",
-     "chinese": "吝嗇;小氣"
+     "chinese": "吝嗇；小氣"
     }
    },
    {
@@ -468,7 +468,7 @@ window.FLASHCARD_UNITS = {
     "word": "misery",
     "pos": "n.",
     "definition": "A state of great suffering or unhappiness.",
-    "chinese": "痛苦;悲慘",
+    "chinese": "痛苦；悲慘",
     "synonyms": "",
     "root": "miseria (wretchedness), from Latin miser (wretched)",
     "group": "",
@@ -480,14 +480,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of great suffering or unhappiness.",
-     "chinese": "痛苦;悲慘"
+     "chinese": "痛苦；悲慘"
     }
    },
    {
     "word": "mishmash",
     "pos": "n.",
     "definition": "A confused mixture of things.",
-    "chinese": "大雜燴;混雜物",
+    "chinese": "大雜燴；混雜物",
     "synonyms": "",
     "root": "reduplication of mash, from Old English masc",
     "group": "",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A confused mixture of things.",
-     "chinese": "大雜燴;混雜物"
+     "chinese": "大雜燴；混雜物"
     }
    },
    {
@@ -544,7 +544,7 @@ window.FLASHCARD_UNITS = {
     "word": "misogyny",
     "pos": "n.",
     "definition": "Dislike of, contempt for, or ingrained prejudice against women.",
-    "chinese": "厭女;仇女",
+    "chinese": "厭女；仇女",
     "synonyms": "",
     "root": "misein (to hate) + gyne (woman), from Greek",
     "group": "",
@@ -556,14 +556,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dislike of, contempt for, or ingrained prejudice against women.",
-     "chinese": "厭女;仇女"
+     "chinese": "厭女；仇女"
     }
    },
    {
     "word": "mnemonic",
     "pos": "adj./n.",
     "definition": "Assisting or relating to memory; a memory aid.",
-    "chinese": "助記的;記憶術",
+    "chinese": "助記的；記憶術",
     "synonyms": "",
     "root": "mnemonikos (of memory), from Greek mneme (memory)",
     "group": "",
@@ -575,7 +575,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Assisting or relating to memory; a memory aid.",
-     "chinese": "助記的;記憶術"
+     "chinese": "助記的；記憶術"
     }
    },
    {
@@ -660,7 +660,7 @@ window.FLASHCARD_UNITS = {
     "word": "modesty",
     "pos": "n.",
     "definition": "The quality of not being vain or boastful.",
-    "chinese": "謙虛;謙遜",
+    "chinese": "謙虛；謙遜",
     "synonyms": "",
     "root": "modestus (keeping due measure), from Latin modus (measure)",
     "group": "",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of not being vain or boastful.",
-     "chinese": "謙虛;謙遜"
+     "chinese": "謙虛；謙遜"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "mold",
     "pos": "n./v.",
     "definition": "A fungal growth; a hollow container used to shape material; to shape.",
-    "chinese": "黴菌;模具;塑造",
+    "chinese": "黴菌；模具；塑造",
     "synonyms": "",
     "root": "modulus (small measure), from Latin, via Old French modle",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fungal growth; a hollow container used to shape material; to shape.",
-     "chinese": "黴菌;模具;塑造"
+     "chinese": "黴菌；模具；塑造"
     }
    },
    {
     "word": "molder",
     "pos": "v.",
     "definition": "To slowly decay or crumble.",
-    "chinese": "逐漸腐朽;衰敗",
+    "chinese": "逐漸腐朽；衰敗",
     "synonyms": "",
     "root": "molde (soil, earth), from Old English, related to mold",
     "group": "",
@@ -750,7 +750,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To slowly decay or crumble.",
-     "chinese": "逐漸腐朽;衰敗"
+     "chinese": "逐漸腐朽；衰敗"
     }
    },
    {
@@ -776,7 +776,7 @@ window.FLASHCARD_UNITS = {
     "word": "mole",
     "pos": "n.",
     "definition": "A small burrowing mammal; a spy working within an organization; a small dark skin blemish.",
-    "chinese": "鼴鼠;內奸;痣",
+    "chinese": "鼴鼠；內奸；痣",
     "synonyms": "",
     "root": "mol (mole), from Middle Low German",
     "group": "",
@@ -788,7 +788,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small burrowing mammal; a spy working within an organization; a small dark skin blemish.",
-     "chinese": "鼴鼠;內奸;痣"
+     "chinese": "鼴鼠；內奸；痣"
     }
    },
    {
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "word": "monitory",
     "pos": "adj.",
     "definition": "Giving a warning; cautionary.",
-    "chinese": "警告的;告誡的",
+    "chinese": "警告的；告誡的",
     "synonyms": "",
     "root": "monere (to warn), from Latin",
     "group": "",
@@ -847,14 +847,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving a warning; cautionary.",
-     "chinese": "警告的;告誡的"
+     "chinese": "警告的；告誡的"
     }
    },
    {
     "word": "monogamy",
     "pos": "n.",
     "definition": "The practice of having only one spouse or partner at a time.",
-    "chinese": "一夫一妻制;單配偶制",
+    "chinese": "一夫一妻制；單配偶制",
     "synonyms": "",
     "root": "monos (single) + gamos (marriage), from Greek",
     "group": "",
@@ -866,14 +866,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of having only one spouse or partner at a time.",
-     "chinese": "一夫一妻制;單配偶制"
+     "chinese": "一夫一妻制；單配偶制"
     }
    },
    {
     "word": "monogram",
     "pos": "n.",
     "definition": "A design of one or more letters, typically someone's initials.",
-    "chinese": "花押字;姓名縮寫圖案",
+    "chinese": "花押字；姓名縮寫圖案",
     "synonyms": "",
     "root": "monos (single) + gramma (letter), from Greek",
     "group": "",
@@ -885,14 +885,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A design of one or more letters, typically someone's initials.",
-     "chinese": "花押字;姓名縮寫圖案"
+     "chinese": "花押字；姓名縮寫圖案"
     }
    },
    {
     "word": "monograph",
     "pos": "n.",
     "definition": "A detailed written study of a single specialized subject.",
-    "chinese": "專題論文;專著",
+    "chinese": "專題論文；專著",
     "synonyms": "",
     "root": "monos (single) + graphein (to write), from Greek",
     "group": "",
@@ -904,7 +904,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A detailed written study of a single specialized subject.",
-     "chinese": "專題論文;專著"
+     "chinese": "專題論文；專著"
     }
    },
    {
@@ -930,7 +930,7 @@ window.FLASHCARD_UNITS = {
     "word": "monotonous",
     "pos": "adj.",
     "definition": "Dull, repetitive, and lacking variety.",
-    "chinese": "單調的;乏味的",
+    "chinese": "單調的；乏味的",
     "synonyms": "",
     "root": "monos (single) + tonos (tone), from Greek",
     "group": "",
@@ -942,14 +942,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull, repetitive, and lacking variety.",
-     "chinese": "單調的;乏味的"
+     "chinese": "單調的；乏味的"
     }
    },
    {
     "word": "monotony",
     "pos": "n.",
     "definition": "A state of dull, tedious sameness.",
-    "chinese": "單調;千篇一律",
+    "chinese": "單調；千篇一律",
     "synonyms": "",
     "root": "monos (single) + tonos (tone), from Greek",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of dull, tedious sameness.",
-     "chinese": "單調;千篇一律"
+     "chinese": "單調；千篇一律"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"military": ["Relating to soldiers or armed forces.", "軍事的;軍隊"], "militate": ["Have force or influence; bring about an effect or change.", "起作用；產生影響"], "mimic": ["To imitate or copy something or someone, often to entertain or mock.", "模仿"], "minacious": ["Threatening; menacing.", "威脅性的"], "minatory": ["Expressing or conveying a threat.", "恫嚇的;威脅的"], "mince": ["Cut into small pieces.", "切碎；剁碎"], "mingle-mangle": ["A confused mixture; a jumble.", "雜亂的混合物"], "minim": ["A very small amount or quantity; a unit of liquid measure.", "極少量;微量單位"], "minion": ["A servile follower or subordinate.", "走狗;下屬"], "ministerial": ["Relating to a government minister or ministry; relating to religious ministry.", "部長的;牧師的"], "minuscule": ["Extremely small.", "極小的"], "minute": ["Extremely small; a unit of time.", "微小的;分鐘"], "mirthful": ["Full of joy and laughter.", "歡樂的;愉悅的"], "misadventure": ["An unlucky mishap or accident.", "不幸事件;意外"], "misandrist": ["A person who dislikes or is prejudiced against men.", "厭男者"], "misandry": ["Dislike of or prejudice against men.", "厭男;仇男"], "misanthrope": ["Someone who dislikes all people.", "厭世者"], "misanthropic": ["Disliking people or society.", "厭世的；憤世嫉俗的"], "misanthropy": ["A general hatred or distrust of humankind.", "厭世;仇視人類"], "miscellaneous": ["Consisting of various types or things; not classified.", "各式各樣的;雜項的"], "miscellany": ["A collection of various items or writings.", "雜集;雜錄"], "miserable": ["Extremely unhappy or uncomfortable.", "悲慘的;痛苦的"], "miserliness": ["Extreme stinginess or reluctance to spend money.", "吝嗇;小氣"], "miserly": ["Careful with how money is spent; thrifty.", "吝嗇的"], "misery": ["A state of great suffering or unhappiness.", "痛苦;悲慘"], "mishmash": ["A confused mixture of things.", "大雜燴;混雜物"], "misogamist": ["A person who hates, avoids, or opposes marriage.", "厭婚者"], "misogynist": ["A misanthrope who dislikes women in particular.", "厭女者"], "misogyny": ["Dislike of, contempt for, or ingrained prejudice against women.", "厭女;仇女"], "mnemonic": ["Assisting or relating to memory; a memory aid.", "助記的;記憶術"], "mnemonics": ["Techniques used to improve or aid memory.", "記憶術"], "mock": ["To make fun of; to imitate.", "嘲笑"], "moderate": ["To make something less extreme or intense; average in amount or degree.", "使溫和；適度的"], "modest": ["Unassuming or humble in the estimation of one's abilities or achievements.", "謙虛的；樸實的"], "modesty": ["The quality of not being vain or boastful.", "謙虛;謙遜"], "modicum": ["A small amount of something.", "少量；些許"], "modulate": ["To pass from one state to another, especially in music.", "調節；轉調"], "mold": ["A fungal growth; a hollow container used to shape material; to shape.", "黴菌;模具;塑造"], "molder": ["To slowly decay or crumble.", "逐漸腐朽;衰敗"], "moldering": ["Slowly decaying or crumbling.", "逐漸腐朽的"], "mole": ["A small burrowing mammal; a spy working within an organization; a small dark skin blemish.", "鼴鼠;內奸;痣"], "mondegreen": ["A mishearing or misinterpretation of a phrase, especially in a song, producing a new meaning.", "誤聽的歌詞或短語"], "money-grubbing": ["Excessively or obsessively concerned with making money.", "貪財的"], "monitory": ["Giving a warning; cautionary.", "警告的;告誡的"], "monogamy": ["The practice of having only one spouse or partner at a time.", "一夫一妻制;單配偶制"], "monogram": ["A design of one or more letters, typically someone's initials.", "花押字;姓名縮寫圖案"], "monograph": ["A detailed written study of a single specialized subject.", "專題論文;專著"], "monomaniac": ["A person suffering from monomania.", "偏執狂；單一狂熱者"], "monotonous": ["Dull, repetitive, and lacking variety.", "單調的;乏味的"], "monotony": ["A state of dull, tedious sameness.", "單調;千篇一律"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"military": ["Relating to soldiers or armed forces.", "軍事的；軍隊"], "militate": ["Have force or influence; bring about an effect or change.", "起作用；產生影響"], "mimic": ["To imitate or copy something or someone, often to entertain or mock.", "模仿"], "minacious": ["Threatening; menacing.", "威脅性的"], "minatory": ["Expressing or conveying a threat.", "恫嚇的；威脅的"], "mince": ["Cut into small pieces.", "切碎；剁碎"], "mingle-mangle": ["A confused mixture; a jumble.", "雜亂的混合物"], "minim": ["A very small amount or quantity; a unit of liquid measure.", "極少量；微量單位"], "minion": ["A servile follower or subordinate.", "走狗；下屬"], "ministerial": ["Relating to a government minister or ministry; relating to religious ministry.", "部長的；牧師的"], "minuscule": ["Extremely small.", "極小的"], "minute": ["Extremely small; a unit of time.", "微小的；分鐘"], "mirthful": ["Full of joy and laughter.", "歡樂的；愉悅的"], "misadventure": ["An unlucky mishap or accident.", "不幸事件；意外"], "misandrist": ["A person who dislikes or is prejudiced against men.", "厭男者"], "misandry": ["Dislike of or prejudice against men.", "厭男；仇男"], "misanthrope": ["Someone who dislikes all people.", "厭世者"], "misanthropic": ["Disliking people or society.", "厭世的；憤世嫉俗的"], "misanthropy": ["A general hatred or distrust of humankind.", "厭世；仇視人類"], "miscellaneous": ["Consisting of various types or things; not classified.", "各式各樣的；雜項的"], "miscellany": ["A collection of various items or writings.", "雜集；雜錄"], "miserable": ["Extremely unhappy or uncomfortable.", "悲慘的；痛苦的"], "miserliness": ["Extreme stinginess or reluctance to spend money.", "吝嗇；小氣"], "miserly": ["Careful with how money is spent; thrifty.", "吝嗇的"], "misery": ["A state of great suffering or unhappiness.", "痛苦；悲慘"], "mishmash": ["A confused mixture of things.", "大雜燴；混雜物"], "misogamist": ["A person who hates, avoids, or opposes marriage.", "厭婚者"], "misogynist": ["A misanthrope who dislikes women in particular.", "厭女者"], "misogyny": ["Dislike of, contempt for, or ingrained prejudice against women.", "厭女；仇女"], "mnemonic": ["Assisting or relating to memory; a memory aid.", "助記的；記憶術"], "mnemonics": ["Techniques used to improve or aid memory.", "記憶術"], "mock": ["To make fun of; to imitate.", "嘲笑"], "moderate": ["To make something less extreme or intense; average in amount or degree.", "使溫和；適度的"], "modest": ["Unassuming or humble in the estimation of one's abilities or achievements.", "謙虛的；樸實的"], "modesty": ["The quality of not being vain or boastful.", "謙虛；謙遜"], "modicum": ["A small amount of something.", "少量；些許"], "modulate": ["To pass from one state to another, especially in music.", "調節；轉調"], "mold": ["A fungal growth; a hollow container used to shape material; to shape.", "黴菌；模具；塑造"], "molder": ["To slowly decay or crumble.", "逐漸腐朽；衰敗"], "moldering": ["Slowly decaying or crumbling.", "逐漸腐朽的"], "mole": ["A small burrowing mammal; a spy working within an organization; a small dark skin blemish.", "鼴鼠；內奸；痣"], "mondegreen": ["A mishearing or misinterpretation of a phrase, especially in a song, producing a new meaning.", "誤聽的歌詞或短語"], "money-grubbing": ["Excessively or obsessively concerned with making money.", "貪財的"], "monitory": ["Giving a warning; cautionary.", "警告的；告誡的"], "monogamy": ["The practice of having only one spouse or partner at a time.", "一夫一妻制；單配偶制"], "monogram": ["A design of one or more letters, typically someone's initials.", "花押字；姓名縮寫圖案"], "monograph": ["A detailed written study of a single specialized subject.", "專題論文；專著"], "monomaniac": ["A person suffering from monomania.", "偏執狂；單一狂熱者"], "monotonous": ["Dull, repetitive, and lacking variety.", "單調的；乏味的"], "monotony": ["A state of dull, tedious sameness.", "單調；千篇一律"]});

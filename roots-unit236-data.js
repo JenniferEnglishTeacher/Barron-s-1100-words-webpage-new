@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "xeric",
     "pos": "adj.",
     "definition": "Characterized by very dry conditions; requiring little moisture.",
-    "chinese": "乾旱的;耐旱的",
+    "chinese": "乾旱的；耐旱的",
     "synonyms": "",
     "root": "xeros (dry), from Greek",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characterized by very dry conditions; requiring little moisture.",
-     "chinese": "乾旱的;耐旱的"
+     "chinese": "乾旱的；耐旱的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "xerophilous",
     "pos": "adj.",
     "definition": "Adapted to thrive in dry conditions.",
-    "chinese": "耐旱的;喜旱的",
+    "chinese": "耐旱的；喜旱的",
     "synonyms": "",
     "root": "xeros (dry) + philos (loving), from Greek",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Adapted to thrive in dry conditions.",
-     "chinese": "耐旱的;喜旱的"
+     "chinese": "耐旱的；喜旱的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "yahoo",
     "pos": "n.",
     "definition": "A crude, boorish, or uncivilized person.",
-    "chinese": "粗野之人;鄙陋之人",
+    "chinese": "粗野之人；鄙陋之人",
     "synonyms": "",
     "root": "coined by Jonathan Swift in Gulliver's Travels for a brutish race of humans",
     "group": "",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A crude, boorish, or uncivilized person.",
-     "chinese": "粗野之人;鄙陋之人"
+     "chinese": "粗野之人；鄙陋之人"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "yenta",
     "pos": "n.",
     "definition": "A woman who gossips or meddles in others' affairs (informal, Yiddish origin).",
-    "chinese": "愛管閒事的女人;長舌婦(非正式,意第緒語)",
+    "chinese": "愛管閒事的女人；長舌婦(非正式,意第緒語)",
     "synonyms": "",
     "root": "yenta, from Yiddish, originally a common woman's given name",
     "group": "",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A woman who gossips or meddles in others' affairs (informal, Yiddish origin).",
-     "chinese": "愛管閒事的女人;長舌婦(非正式,意第緒語)"
+     "chinese": "愛管閒事的女人；長舌婦(非正式,意第緒語)"
     }
    },
    {
@@ -261,7 +261,7 @@ window.FLASHCARD_UNITS = {
     "word": "zeal",
     "pos": "n.",
     "definition": "Great energy or enthusiasm in pursuit of a cause or goal.",
-    "chinese": "熱忱;熱情",
+    "chinese": "熱忱；熱情",
     "synonyms": "",
     "root": "zelus, from Latin, from Greek zelos (ardor, jealousy)",
     "group": "",
@@ -273,7 +273,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great energy or enthusiasm in pursuit of a cause or goal.",
-     "chinese": "熱忱;熱情"
+     "chinese": "熱忱；熱情"
     }
    },
    {
@@ -318,7 +318,7 @@ window.FLASHCARD_UNITS = {
     "word": "zemblanity",
     "pos": "n.",
     "definition": "The occurrence of unpleasant or unfortunate discoveries by design or effort (opposite of serendipity).",
-    "chinese": "衰事連連;必然的不幸發現",
+    "chinese": "衰事連連；必然的不幸發現",
     "synonyms": "",
     "root": "coined from Novaya Zemlya, a bleak Arctic archipelago, as an opposite of serendipity",
     "group": "",
@@ -330,7 +330,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The occurrence of unpleasant or unfortunate discoveries by design or effort (opposite of serendipity).",
-     "chinese": "衰事連連;必然的不幸發現"
+     "chinese": "衰事連連；必然的不幸發現"
     }
    },
    {
@@ -1048,4 +1048,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"xenophobic": ["Having or showing an intense dislike or fear of foreigners.", "仇外的"], "xeric": ["Characterized by very dry conditions; requiring little moisture.", "乾旱的;耐旱的"], "xeriscape": ["A landscape designed to reduce or eliminate the need for irrigation.", "節水造景"], "xerophilous": ["Adapted to thrive in dry conditions.", "耐旱的;喜旱的"], "xerophthalmia": ["A condition of abnormal dryness of the eye, often due to vitamin A deficiency.", "乾眼症"], "xerophyte": ["A plant adapted to survive in an environment with little water.", "旱生植物"], "yahoo": ["A crude, boorish, or uncivilized person.", "粗野之人;鄙陋之人"], "yarmulke": ["A skullcap worn by Jewish men, especially during prayer.", "猶太小圓帽"], "yen": ["Strong desire or longing.", "渴望；癮"], "yenta": ["A woman who gossips or meddles in others' affairs (informal, Yiddish origin).", "愛管閒事的女人;長舌婦(非正式,意第緒語)"], "yoke": ["To join, link.", "使結合；套上軛"], "yokel": ["An unsophisticated person from a rural area (informal, often derogatory).", "鄉巴佬(非正式,常帶貶義)"], "zany": ["Amusingly unconventional or eccentric.", "滑稽古怪的"], "zeal": ["Great energy or enthusiasm in pursuit of a cause or goal.", "熱忱;熱情"], "zealous": ["Overly enthusiastic:avid.", "熱心的；狂熱的"], "zeitgeist": ["The defining spirit or mood of a particular period in history.", "時代精神"], "zemblanity": ["The occurrence of unpleasant or unfortunate discoveries by design or effort (opposite of serendipity).", "衰事連連;必然的不幸發現"], "zenith": ["Summit, top, prime.", "頂點；鼎盛時期"], "zenzizenzizenzic": ["An archaic mathematical term for the eighth power of a number.", "八次方(古代數學用語)"], "zephyr": ["A gentle breeze.", "微風；和風"], "zoanthropy": ["A delusion in which a person believes they have transformed into an animal.", "獸化妄想症"], "zoophobia": ["An irrational fear of animals.", "動物恐懼症"], "zucchetto": ["A small skullcap worn by Roman Catholic clergy.", "教士小圓帽"], "zucchini": ["A long, green summer squash.", "櫛瓜"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"xenophobic": ["Having or showing an intense dislike or fear of foreigners.", "仇外的"], "xeric": ["Characterized by very dry conditions; requiring little moisture.", "乾旱的；耐旱的"], "xeriscape": ["A landscape designed to reduce or eliminate the need for irrigation.", "節水造景"], "xerophilous": ["Adapted to thrive in dry conditions.", "耐旱的；喜旱的"], "xerophthalmia": ["A condition of abnormal dryness of the eye, often due to vitamin A deficiency.", "乾眼症"], "xerophyte": ["A plant adapted to survive in an environment with little water.", "旱生植物"], "yahoo": ["A crude, boorish, or uncivilized person.", "粗野之人；鄙陋之人"], "yarmulke": ["A skullcap worn by Jewish men, especially during prayer.", "猶太小圓帽"], "yen": ["Strong desire or longing.", "渴望；癮"], "yenta": ["A woman who gossips or meddles in others' affairs (informal, Yiddish origin).", "愛管閒事的女人；長舌婦(非正式,意第緒語)"], "yoke": ["To join, link.", "使結合；套上軛"], "yokel": ["An unsophisticated person from a rural area (informal, often derogatory).", "鄉巴佬(非正式,常帶貶義)"], "zany": ["Amusingly unconventional or eccentric.", "滑稽古怪的"], "zeal": ["Great energy or enthusiasm in pursuit of a cause or goal.", "熱忱；熱情"], "zealous": ["Overly enthusiastic:avid.", "熱心的；狂熱的"], "zeitgeist": ["The defining spirit or mood of a particular period in history.", "時代精神"], "zemblanity": ["The occurrence of unpleasant or unfortunate discoveries by design or effort (opposite of serendipity).", "衰事連連；必然的不幸發現"], "zenith": ["Summit, top, prime.", "頂點；鼎盛時期"], "zenzizenzizenzic": ["An archaic mathematical term for the eighth power of a number.", "八次方(古代數學用語)"], "zephyr": ["A gentle breeze.", "微風；和風"], "zoanthropy": ["A delusion in which a person believes they have transformed into an animal.", "獸化妄想症"], "zoophobia": ["An irrational fear of animals.", "動物恐懼症"], "zucchetto": ["A small skullcap worn by Roman Catholic clergy.", "教士小圓帽"], "zucchini": ["A long, green summer squash.", "櫛瓜"]});

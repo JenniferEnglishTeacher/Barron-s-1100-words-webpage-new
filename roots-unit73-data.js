@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "unaffected",
     "pos": "adj.",
     "definition": "Not influenced or changed; natural and sincere.",
-    "chinese": "不受影響的;自然的",
+    "chinese": "不受影響的；自然的",
     "synonyms": "",
     "root": "affect, from Latin afficere (to influence) + un-",
     "group": "un = 不",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not influenced or changed; natural and sincere.",
-     "chinese": "不受影響的;自然的"
+     "chinese": "不受影響的；自然的"
     }
    },
    {
     "word": "unappeasable",
     "pos": "adj.",
     "definition": "Impossible to satisfy or calm.",
-    "chinese": "無法平息的;難以撫慰的",
+    "chinese": "無法平息的；難以撫慰的",
     "synonyms": "",
     "root": "appease, from Old French apaisier + un-",
     "group": "un = 不",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible to satisfy or calm.",
-     "chinese": "無法平息的;難以撫慰的"
+     "chinese": "無法平息的；難以撫慰的"
     }
    },
    {
     "word": "unappetizing",
     "pos": "adj.",
     "definition": "Not appealing, especially in terms of food.",
-    "chinese": "沒有食慾的;倒胃口的",
+    "chinese": "沒有食慾的；倒胃口的",
     "synonyms": "",
     "root": "appetite, from Latin appetere (to seek after) + un-",
     "group": "un = 不",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not appealing, especially in terms of food.",
-     "chinese": "沒有食慾的;倒胃口的"
+     "chinese": "沒有食慾的；倒胃口的"
     }
    },
    {
     "word": "unapproachable",
     "pos": "adj.",
     "definition": "Not friendly or easy to talk to.",
-    "chinese": "難以接近的;冷淡的",
+    "chinese": "難以接近的；冷淡的",
     "synonyms": "",
     "root": "approach, from Old French aprochier + un-",
     "group": "un = 不",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not friendly or easy to talk to.",
-     "chinese": "難以接近的;冷淡的"
+     "chinese": "難以接近的；冷淡的"
     }
    },
    {
     "word": "unassuming",
     "pos": "adj.",
     "definition": "Not pretentious or arrogant; modest.",
-    "chinese": "謙遜的;不張揚的",
+    "chinese": "謙遜的；不張揚的",
     "synonyms": "",
     "root": "assume, from Latin assumere (to take up) + un-",
     "group": "un = 不",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not pretentious or arrogant; modest.",
-     "chinese": "謙遜的;不張揚的"
+     "chinese": "謙遜的；不張揚的"
     }
    },
    {
     "word": "unauthenticated",
     "pos": "adj.",
     "definition": "Not proven to be genuine or true.",
-    "chinese": "未經證實的;未經鑑定的",
+    "chinese": "未經證實的；未經鑑定的",
     "synonyms": "",
     "root": "authenticate, from Greek authentikos (original, genuine) + un-",
     "group": "un = 不",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not proven to be genuine or true.",
-     "chinese": "未經證實的;未經鑑定的"
+     "chinese": "未經證實的；未經鑑定的"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "unavailing",
     "pos": "adj.",
     "definition": "Producing no useful result; ineffective.",
-    "chinese": "徒勞無功的;無效的",
+    "chinese": "徒勞無功的；無效的",
     "synonyms": "",
     "root": "avail, from Old French valoir (to be worth) + un-",
     "group": "un = 不",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Producing no useful result; ineffective.",
-     "chinese": "徒勞無功的;無效的"
+     "chinese": "徒勞無功的；無效的"
     }
    },
    {
     "word": "unaware",
     "pos": "adj.",
     "definition": "Having no knowledge of a situation or fact.",
-    "chinese": "未察覺的;不知情的",
+    "chinese": "未察覺的；不知情的",
     "synonyms": "",
     "root": "aware, from Old English gewær + un-",
     "group": "un = 不",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no knowledge of a situation or fact.",
-     "chinese": "未察覺的;不知情的"
+     "chinese": "未察覺的；不知情的"
     }
    },
    {
     "word": "unbiased",
     "pos": "adj.",
     "definition": "Showing no prejudice for or against something; impartial.",
-    "chinese": "公正的;無偏見的",
+    "chinese": "公正的；無偏見的",
     "synonyms": "",
     "root": "bias, from Old French biais (slant) + un-",
     "group": "un = 不",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing no prejudice for or against something; impartial.",
-     "chinese": "公正的;無偏見的"
+     "chinese": "公正的；無偏見的"
     }
    },
    {
     "word": "unbridled",
     "pos": "adj.",
     "definition": "Uncontrolled or unrestrained.",
-    "chinese": "不受約束的;放縱的",
+    "chinese": "不受約束的；放縱的",
     "synonyms": "",
     "root": "bridle, from Old English bridel + un-",
     "group": "un = 不",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Uncontrolled or unrestrained.",
-     "chinese": "不受約束的;放縱的"
+     "chinese": "不受約束的；放縱的"
     }
    },
    {
     "word": "uncivil",
     "pos": "adj.",
     "definition": "Not polite or courteous.",
-    "chinese": "無禮的;粗魯的",
+    "chinese": "無禮的；粗魯的",
     "synonyms": "",
     "root": "civil, from Latin civilis (relating to citizens) + un-",
     "group": "un = 不",
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not polite or courteous.",
-     "chinese": "無禮的;粗魯的"
+     "chinese": "無禮的；粗魯的"
     }
    },
    {
     "word": "uncompromising",
     "pos": "adj.",
     "definition": "Unwilling to make concessions; firm in one's position.",
-    "chinese": "不妥協的;堅定不讓步的",
+    "chinese": "不妥協的；堅定不讓步的",
     "synonyms": "",
     "root": "compromise, from Latin compromittere (to make a mutual promise) + un-",
     "group": "un = 不",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwilling to make concessions; firm in one's position.",
-     "chinese": "不妥協的;堅定不讓步的"
+     "chinese": "不妥協的；堅定不讓步的"
     }
    },
    {
     "word": "unconcealed",
     "pos": "adj.",
     "definition": "Not hidden; open and obvious.",
-    "chinese": "未掩飾的;公開的",
+    "chinese": "未掩飾的；公開的",
     "synonyms": "",
     "root": "conceal, from Latin concelare (to hide completely) + un-",
     "group": "un = 不",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not hidden; open and obvious.",
-     "chinese": "未掩飾的;公開的"
+     "chinese": "未掩飾的；公開的"
     }
    },
    {
@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     "word": "uncontrolled",
     "pos": "adj.",
     "definition": "Not restrained, regulated, or checked.",
-    "chinese": "不受控制的;失控的",
+    "chinese": "不受控制的；失控的",
     "synonyms": "",
     "root": "control, from Old French contreroller + un-",
     "group": "un = 不",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not restrained, regulated, or checked.",
-     "chinese": "不受控制的;失控的"
+     "chinese": "不受控制的；失控的"
     }
    },
    {
     "word": "unconventional",
     "pos": "adj.",
     "definition": "Not based on or conforming to conventional or accepted standards.",
-    "chinese": "非傳統的;不落俗套的",
+    "chinese": "非傳統的；不落俗套的",
     "synonyms": "",
     "root": "convention, from Latin convenire (to come together) + un-",
     "group": "un = 不",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not based on or conforming to conventional or accepted standards.",
-     "chinese": "非傳統的;不落俗套的"
+     "chinese": "非傳統的；不落俗套的"
     }
    },
    {
     "word": "uncultivated",
     "pos": "adj.",
     "definition": "Not developed or refined; not farmed.",
-    "chinese": "未開墾的;未受教養的",
+    "chinese": "未開墾的；未受教養的",
     "synonyms": "",
     "root": "cultivate, from Latin cultivare (to till) + un-",
     "group": "un = 不",
@@ -360,14 +360,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not developed or refined; not farmed.",
-     "chinese": "未開墾的;未受教養的"
+     "chinese": "未開墾的；未受教養的"
     }
    },
    {
     "word": "uncultured",
     "pos": "adj.",
     "definition": "Lacking good taste, education, or refinement.",
-    "chinese": "沒有文化素養的;粗俗的",
+    "chinese": "沒有文化素養的；粗俗的",
     "synonyms": "",
     "root": "culture, from Latin cultura (cultivation) + un-",
     "group": "un = 不",
@@ -379,14 +379,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking good taste, education, or refinement.",
-     "chinese": "沒有文化素養的;粗俗的"
+     "chinese": "沒有文化素養的；粗俗的"
     }
    },
    {
     "word": "undemonstrative",
     "pos": "adj.",
     "definition": "Not showing feelings or emotions openly.",
-    "chinese": "不外露情感的;內斂的",
+    "chinese": "不外露情感的；內斂的",
     "synonyms": "",
     "root": "demonstrative, from Latin demonstrare (to show) + un-",
     "group": "un = 不",
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not showing feelings or emotions openly.",
-     "chinese": "不外露情感的;內斂的"
+     "chinese": "不外露情感的；內斂的"
     }
    },
    {
@@ -424,7 +424,7 @@ window.FLASHCARD_UNITS = {
     "word": "undiscriminating",
     "pos": "adj.",
     "definition": "Lacking careful judgment; not distinguishing between different qualities.",
-    "chinese": "不加區別的;不挑剔的",
+    "chinese": "不加區別的；不挑剔的",
     "synonyms": "",
     "root": "discriminate, from Latin discriminare (to divide, distinguish) + un-",
     "group": "un = 不",
@@ -436,14 +436,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking careful judgment; not distinguishing between different qualities.",
-     "chinese": "不加區別的;不挑剔的"
+     "chinese": "不加區別的；不挑剔的"
     }
    },
    {
     "word": "undress",
     "pos": "v./n.",
     "definition": "To remove one's clothes; a state of being unclothed.",
-    "chinese": "脫衣服;裸露狀態",
+    "chinese": "脫衣服；裸露狀態",
     "synonyms": "",
     "root": "dress, from Old French drecier (to arrange) + un-",
     "group": "un = 不",
@@ -455,14 +455,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To remove one's clothes; a state of being unclothed.",
-     "chinese": "脫衣服;裸露狀態"
+     "chinese": "脫衣服；裸露狀態"
     }
    },
    {
     "word": "uneasiness",
     "pos": "n.",
     "definition": "A feeling of anxiety or discomfort.",
-    "chinese": "不安;焦慮",
+    "chinese": "不安；焦慮",
     "synonyms": "",
     "root": "ease, from Old French aise (comfort) + un- + -ness",
     "group": "un = 不",
@@ -474,14 +474,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of anxiety or discomfort.",
-     "chinese": "不安;焦慮"
+     "chinese": "不安；焦慮"
     }
    },
    {
     "word": "unemotional",
     "pos": "adj.",
     "definition": "Not showing or influenced by emotion.",
-    "chinese": "不動感情的;冷靜的",
+    "chinese": "不動感情的；冷靜的",
     "synonyms": "",
     "root": "emotion, from Latin emovere (to move out, stir up) + un-",
     "group": "un = 不",
@@ -493,14 +493,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not showing or influenced by emotion.",
-     "chinese": "不動感情的;冷靜的"
+     "chinese": "不動感情的；冷靜的"
     }
    },
    {
     "word": "unenlightened",
     "pos": "adj.",
     "definition": "Lacking knowledge, understanding, or modern views.",
-    "chinese": "未開化的;無知的",
+    "chinese": "未開化的；無知的",
     "synonyms": "",
     "root": "enlighten, from Old English inlihtan + un-",
     "group": "un = 不",
@@ -512,14 +512,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking knowledge, understanding, or modern views.",
-     "chinese": "未開化的;無知的"
+     "chinese": "未開化的；無知的"
     }
    },
    {
     "word": "unfazed",
     "pos": "adj.",
     "definition": "Not disturbed or disconcerted.",
-    "chinese": "不為所動的;鎮定自若的",
+    "chinese": "不為所動的；鎮定自若的",
     "synonyms": "",
     "root": "faze, of uncertain dialectal origin, related to feeze (to frighten) + un-",
     "group": "un = 不",
@@ -531,14 +531,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not disturbed or disconcerted.",
-     "chinese": "不為所動的;鎮定自若的"
+     "chinese": "不為所動的；鎮定自若的"
     }
    },
    {
     "word": "unfetter",
     "pos": "v.",
     "definition": "To free from restraint or restriction.",
-    "chinese": "解除束縛;釋放",
+    "chinese": "解除束縛；釋放",
     "synonyms": "",
     "root": "fetter, from Old English feter (shackle) + un-",
     "group": "un = 不",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To free from restraint or restriction.",
-     "chinese": "解除束縛;釋放"
+     "chinese": "解除束縛；釋放"
     }
    },
    {
     "word": "unfettered",
     "pos": "adj.",
     "definition": "Not restrained or restricted; free.",
-    "chinese": "不受束縛的;自由的",
+    "chinese": "不受束縛的；自由的",
     "synonyms": "",
     "root": "past participle of unfetter, from Old English feter (shackle) + un-",
     "group": "un = 不",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not restrained or restricted; free.",
-     "chinese": "不受束縛的;自由的"
+     "chinese": "不受束縛的；自由的"
     }
    },
    {
     "word": "ungovernable",
     "pos": "adj.",
     "definition": "Impossible to control or restrain.",
-    "chinese": "難以管束的;無法控制的",
+    "chinese": "難以管束的；無法控制的",
     "synonyms": "",
     "root": "govern, from Latin gubernare (to steer, direct) + un-",
     "group": "un = 不",
@@ -590,14 +590,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible to control or restrain.",
-     "chinese": "難以管束的;無法控制的"
+     "chinese": "難以管束的；無法控制的"
     }
    },
    {
     "word": "unhinged",
     "pos": "adj.",
     "definition": "Mentally unstable or unbalanced.",
-    "chinese": "精神錯亂的;失常的",
+    "chinese": "精神錯亂的；失常的",
     "synonyms": "",
     "root": "hinge, from Middle English henge + un-, describing a door off its hinges",
     "group": "un = 不",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mentally unstable or unbalanced.",
-     "chinese": "精神錯亂的;失常的"
+     "chinese": "精神錯亂的；失常的"
     }
    },
    {
     "word": "unimpeachable",
     "pos": "adj.",
     "definition": "Beyond doubt or reproach; unquestionable.",
-    "chinese": "無可指摘的;不容置疑的",
+    "chinese": "無可指摘的；不容置疑的",
     "synonyms": "",
     "root": "impeach, from Latin impedicare (to entangle, fetter) + un-",
     "group": "un = 不",
@@ -628,14 +628,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Beyond doubt or reproach; unquestionable.",
-     "chinese": "無可指摘的;不容置疑的"
+     "chinese": "無可指摘的；不容置疑的"
     }
    },
    {
     "word": "uninspired",
     "pos": "adj.",
     "definition": "Lacking creativity, originality, or enthusiasm.",
-    "chinese": "缺乏靈感的;平庸的",
+    "chinese": "缺乏靈感的；平庸的",
     "synonyms": "",
     "root": "inspire, from Latin inspirare (to breathe into) + un-",
     "group": "un = 不",
@@ -647,14 +647,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking creativity, originality, or enthusiasm.",
-     "chinese": "缺乏靈感的;平庸的"
+     "chinese": "缺乏靈感的；平庸的"
     }
    },
    {
     "word": "unintelligent",
     "pos": "adj.",
     "definition": "Lacking intelligence; not showing good judgment.",
-    "chinese": "不聰明的;愚笨的",
+    "chinese": "不聰明的；愚笨的",
     "synonyms": "",
     "root": "intelligent, from Latin intelligere (to understand) + un-",
     "group": "un = 不",
@@ -666,7 +666,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking intelligence; not showing good judgment.",
-     "chinese": "不聰明的;愚笨的"
+     "chinese": "不聰明的；愚笨的"
     }
    },
    {
@@ -711,7 +711,7 @@ window.FLASHCARD_UNITS = {
     "word": "unmanageable",
     "pos": "adj.",
     "definition": "Difficult or impossible to control or handle.",
-    "chinese": "難以管理的;難以駕馭的",
+    "chinese": "難以管理的；難以駕馭的",
     "synonyms": "",
     "root": "manage, from Italian maneggiare (to handle) + un-",
     "group": "un = 不",
@@ -723,7 +723,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Difficult or impossible to control or handle.",
-     "chinese": "難以管理的;難以駕馭的"
+     "chinese": "難以管理的；難以駕馭的"
     }
    },
    {
@@ -749,7 +749,7 @@ window.FLASHCARD_UNITS = {
     "word": "unnatural",
     "pos": "adj.",
     "definition": "Contrary to nature or normal expectations; forced.",
-    "chinese": "不自然的;反常的",
+    "chinese": "不自然的；反常的",
     "synonyms": "",
     "root": "natural, from Latin naturalis (relating to nature) + un-",
     "group": "un = 不",
@@ -761,7 +761,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Contrary to nature or normal expectations; forced.",
-     "chinese": "不自然的;反常的"
+     "chinese": "不自然的；反常的"
     }
    },
    {
@@ -787,7 +787,7 @@ window.FLASHCARD_UNITS = {
     "word": "unorthodox",
     "pos": "adj.",
     "definition": "Not conforming to accepted or usual standards.",
-    "chinese": "非正統的;非傳統的",
+    "chinese": "非正統的；非傳統的",
     "synonyms": "",
     "root": "orthodoxos (right opinion), from Greek orthos (correct) + doxa (opinion) + un-",
     "group": "un = 不",
@@ -799,14 +799,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not conforming to accepted or usual standards.",
-     "chinese": "非正統的;非傳統的"
+     "chinese": "非正統的；非傳統的"
     }
    },
    {
     "word": "unostentatious",
     "pos": "adj.",
     "definition": "Not showy or designed to attract attention.",
-    "chinese": "不張揚的;樸實的",
+    "chinese": "不張揚的；樸實的",
     "synonyms": "",
     "root": "ostentatio (a showing), from Latin ostendere (to show) + un-",
     "group": "un = 不",
@@ -818,14 +818,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not showy or designed to attract attention.",
-     "chinese": "不張揚的;樸實的"
+     "chinese": "不張揚的；樸實的"
     }
    },
    {
     "word": "unpalatable",
     "pos": "adj.",
     "definition": "Not pleasant to taste; difficult to accept.",
-    "chinese": "難以下嚥的;難以接受的",
+    "chinese": "難以下嚥的；難以接受的",
     "synonyms": "",
     "root": "palatable, from Latin palatum (palate) + un-",
     "group": "un = 不",
@@ -837,14 +837,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not pleasant to taste; difficult to accept.",
-     "chinese": "難以下嚥的;難以接受的"
+     "chinese": "難以下嚥的；難以接受的"
     }
    },
    {
     "word": "unparalleled",
     "pos": "adj.",
     "definition": "Having no equal or match.",
-    "chinese": "無與倫比的;空前的",
+    "chinese": "無與倫比的；空前的",
     "synonyms": "",
     "root": "parallel, from Greek parallelos (beside one another) + un-",
     "group": "un = 不",
@@ -856,14 +856,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no equal or match.",
-     "chinese": "無與倫比的;空前的"
+     "chinese": "無與倫比的；空前的"
     }
    },
    {
     "word": "unperturbed",
     "pos": "adj.",
     "definition": "Not disturbed or agitated; calm.",
-    "chinese": "不受干擾的;鎮靜的",
+    "chinese": "不受干擾的；鎮靜的",
     "synonyms": "",
     "root": "perturb, from Latin perturbare (to throw into confusion) + un-",
     "group": "un = 不",
@@ -875,14 +875,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not disturbed or agitated; calm.",
-     "chinese": "不受干擾的;鎮靜的"
+     "chinese": "不受干擾的；鎮靜的"
     }
    },
    {
     "word": "unpolished",
     "pos": "adj.",
     "definition": "Not refined or finished; lacking sophistication.",
-    "chinese": "未經雕琢的;粗糙的",
+    "chinese": "未經雕琢的；粗糙的",
     "synonyms": "",
     "root": "polish, from Latin polire (to smooth) + un-",
     "group": "un = 不",
@@ -894,7 +894,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not refined or finished; lacking sophistication.",
-     "chinese": "未經雕琢的;粗糙的"
+     "chinese": "未經雕琢的；粗糙的"
     }
    },
    {
@@ -920,7 +920,7 @@ window.FLASHCARD_UNITS = {
     "word": "unprepossessing",
     "pos": "adj.",
     "definition": "Not attractive or impressive in appearance.",
-    "chinese": "不起眼的;不吸引人的",
+    "chinese": "不起眼的；不吸引人的",
     "synonyms": "",
     "root": "prepossess, from pre- (before) + possess, from Latin possidere + un-",
     "group": "un = 不",
@@ -932,14 +932,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not attractive or impressive in appearance.",
-     "chinese": "不起眼的;不吸引人的"
+     "chinese": "不起眼的；不吸引人的"
     }
    },
    {
     "word": "unprincipled",
     "pos": "adj.",
     "definition": "Not guided by sound moral principles; unscrupulous.",
-    "chinese": "無原則的;不道德的",
+    "chinese": "無原則的；不道德的",
     "synonyms": "",
     "root": "principle, from Latin principium (beginning, foundation) + un-",
     "group": "un = 不",
@@ -951,7 +951,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not guided by sound moral principles; unscrupulous.",
-     "chinese": "無原則的;不道德的"
+     "chinese": "無原則的；不道德的"
     }
    }
   ],
@@ -2160,4 +2160,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"unabated": ["Without subsiding:continuous.", "不減退的；未減弱的"], "unaffected": ["Not influenced or changed; natural and sincere.", "不受影響的;自然的"], "unappeasable": ["Impossible to satisfy or calm.", "無法平息的;難以撫慰的"], "unappetizing": ["Not appealing, especially in terms of food.", "沒有食慾的;倒胃口的"], "unapproachable": ["Not friendly or easy to talk to.", "難以接近的;冷淡的"], "unassuming": ["Not pretentious or arrogant; modest.", "謙遜的;不張揚的"], "unauthenticated": ["Not proven to be genuine or true.", "未經證實的;未經鑑定的"], "unauthorized": ["Not having official permission or approval.", "未經授權的"], "unavailing": ["Producing no useful result; ineffective.", "徒勞無功的;無效的"], "unaware": ["Having no knowledge of a situation or fact.", "未察覺的;不知情的"], "unbiased": ["Showing no prejudice for or against something; impartial.", "公正的;無偏見的"], "unbridled": ["Uncontrolled or unrestrained.", "不受約束的;放縱的"], "uncivil": ["Not polite or courteous.", "無禮的;粗魯的"], "uncompromising": ["Unwilling to make concessions; firm in one's position.", "不妥協的;堅定不讓步的"], "unconcealed": ["Not hidden; open and obvious.", "未掩飾的;公開的"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"], "uncontrolled": ["Not restrained, regulated, or checked.", "不受控制的;失控的"], "unconventional": ["Not based on or conforming to conventional or accepted standards.", "非傳統的;不落俗套的"], "uncultivated": ["Not developed or refined; not farmed.", "未開墾的;未受教養的"], "uncultured": ["Lacking good taste, education, or refinement.", "沒有文化素養的;粗俗的"], "undemonstrative": ["Not showing feelings or emotions openly.", "不外露情感的;內斂的"], "undiscerning": ["Lacking good judgment or the ability to perceive distinctions.", "缺乏辨別力的"], "undiscriminating": ["Lacking careful judgment; not distinguishing between different qualities.", "不加區別的;不挑剔的"], "undress": ["To remove one's clothes; a state of being unclothed.", "脫衣服;裸露狀態"], "uneasiness": ["A feeling of anxiety or discomfort.", "不安;焦慮"], "unemotional": ["Not showing or influenced by emotion.", "不動感情的;冷靜的"], "unenlightened": ["Lacking knowledge, understanding, or modern views.", "未開化的;無知的"], "unfazed": ["Not disturbed or disconcerted.", "不為所動的;鎮定自若的"], "unfetter": ["To free from restraint or restriction.", "解除束縛;釋放"], "unfettered": ["Not restrained or restricted; free.", "不受束縛的;自由的"], "ungovernable": ["Impossible to control or restrain.", "難以管束的;無法控制的"], "unhinged": ["Mentally unstable or unbalanced.", "精神錯亂的;失常的"], "unimpeachable": ["Beyond doubt or reproach; unquestionable.", "無可指摘的;不容置疑的"], "uninspired": ["Lacking creativity, originality, or enthusiasm.", "缺乏靈感的;平庸的"], "unintelligent": ["Lacking intelligence; not showing good judgment.", "不聰明的;愚笨的"], "uninterested": ["Not interested; lacking curiosity or concern.", "不感興趣的"], "unkempt": ["Untidy, neglected.", "蓬亂的；未梳理的"], "unmanageable": ["Difficult or impossible to control or handle.", "難以管理的;難以駕馭的"], "unmitigated": ["Unrelieved, as bad as can be.", "未減輕的；絕對的"], "unnatural": ["Contrary to nature or normal expectations; forced.", "不自然的;反常的"], "unobtrusive": ["Inconspicuous; not easily noticed.", "不張揚的"], "unorthodox": ["Not conforming to accepted or usual standards.", "非正統的;非傳統的"], "unostentatious": ["Not showy or designed to attract attention.", "不張揚的;樸實的"], "unpalatable": ["Not pleasant to taste; difficult to accept.", "難以下嚥的;難以接受的"], "unparalleled": ["Having no equal or match.", "無與倫比的;空前的"], "unperturbed": ["Not disturbed or agitated; calm.", "不受干擾的;鎮靜的"], "unpolished": ["Not refined or finished; lacking sophistication.", "未經雕琢的;粗糙的"], "unprecedented": ["Novel; unparalleled.", "空前的"], "unprepossessing": ["Not attractive or impressive in appearance.", "不起眼的;不吸引人的"], "unprincipled": ["Not guided by sound moral principles; unscrupulous.", "無原則的;不道德的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"unabated": ["Without subsiding:continuous.", "不減退的；未減弱的"], "unaffected": ["Not influenced or changed; natural and sincere.", "不受影響的；自然的"], "unappeasable": ["Impossible to satisfy or calm.", "無法平息的；難以撫慰的"], "unappetizing": ["Not appealing, especially in terms of food.", "沒有食慾的；倒胃口的"], "unapproachable": ["Not friendly or easy to talk to.", "難以接近的；冷淡的"], "unassuming": ["Not pretentious or arrogant; modest.", "謙遜的；不張揚的"], "unauthenticated": ["Not proven to be genuine or true.", "未經證實的；未經鑑定的"], "unauthorized": ["Not having official permission or approval.", "未經授權的"], "unavailing": ["Producing no useful result; ineffective.", "徒勞無功的；無效的"], "unaware": ["Having no knowledge of a situation or fact.", "未察覺的；不知情的"], "unbiased": ["Showing no prejudice for or against something; impartial.", "公正的；無偏見的"], "unbridled": ["Uncontrolled or unrestrained.", "不受約束的；放縱的"], "uncivil": ["Not polite or courteous.", "無禮的；粗魯的"], "uncompromising": ["Unwilling to make concessions; firm in one's position.", "不妥協的；堅定不讓步的"], "unconcealed": ["Not hidden; open and obvious.", "未掩飾的；公開的"], "unconscionable": ["Unreasonable, unjust.", "沒良心的；不合理的"], "uncontrolled": ["Not restrained, regulated, or checked.", "不受控制的；失控的"], "unconventional": ["Not based on or conforming to conventional or accepted standards.", "非傳統的；不落俗套的"], "uncultivated": ["Not developed or refined; not farmed.", "未開墾的；未受教養的"], "uncultured": ["Lacking good taste, education, or refinement.", "沒有文化素養的；粗俗的"], "undemonstrative": ["Not showing feelings or emotions openly.", "不外露情感的；內斂的"], "undiscerning": ["Lacking good judgment or the ability to perceive distinctions.", "缺乏辨別力的"], "undiscriminating": ["Lacking careful judgment; not distinguishing between different qualities.", "不加區別的；不挑剔的"], "undress": ["To remove one's clothes; a state of being unclothed.", "脫衣服；裸露狀態"], "uneasiness": ["A feeling of anxiety or discomfort.", "不安；焦慮"], "unemotional": ["Not showing or influenced by emotion.", "不動感情的；冷靜的"], "unenlightened": ["Lacking knowledge, understanding, or modern views.", "未開化的；無知的"], "unfazed": ["Not disturbed or disconcerted.", "不為所動的；鎮定自若的"], "unfetter": ["To free from restraint or restriction.", "解除束縛；釋放"], "unfettered": ["Not restrained or restricted; free.", "不受束縛的；自由的"], "ungovernable": ["Impossible to control or restrain.", "難以管束的；無法控制的"], "unhinged": ["Mentally unstable or unbalanced.", "精神錯亂的；失常的"], "unimpeachable": ["Beyond doubt or reproach; unquestionable.", "無可指摘的；不容置疑的"], "uninspired": ["Lacking creativity, originality, or enthusiasm.", "缺乏靈感的；平庸的"], "unintelligent": ["Lacking intelligence; not showing good judgment.", "不聰明的；愚笨的"], "uninterested": ["Not interested; lacking curiosity or concern.", "不感興趣的"], "unkempt": ["Untidy, neglected.", "蓬亂的；未梳理的"], "unmanageable": ["Difficult or impossible to control or handle.", "難以管理的；難以駕馭的"], "unmitigated": ["Unrelieved, as bad as can be.", "未減輕的；絕對的"], "unnatural": ["Contrary to nature or normal expectations; forced.", "不自然的；反常的"], "unobtrusive": ["Inconspicuous; not easily noticed.", "不張揚的"], "unorthodox": ["Not conforming to accepted or usual standards.", "非正統的；非傳統的"], "unostentatious": ["Not showy or designed to attract attention.", "不張揚的；樸實的"], "unpalatable": ["Not pleasant to taste; difficult to accept.", "難以下嚥的；難以接受的"], "unparalleled": ["Having no equal or match.", "無與倫比的；空前的"], "unperturbed": ["Not disturbed or agitated; calm.", "不受干擾的；鎮靜的"], "unpolished": ["Not refined or finished; lacking sophistication.", "未經雕琢的；粗糙的"], "unprecedented": ["Novel; unparalleled.", "空前的"], "unprepossessing": ["Not attractive or impressive in appearance.", "不起眼的；不吸引人的"], "unprincipled": ["Not guided by sound moral principles; unscrupulous.", "無原則的；不道德的"]});

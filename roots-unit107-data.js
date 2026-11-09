@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "habituated",
     "pos": "adj.",
     "definition": "Accustomed to something through repeated experience.",
-    "chinese": "習以為常的;已習慣的",
+    "chinese": "習以為常的；已習慣的",
     "synonyms": "",
     "root": "habere (to have, hold), from Latin",
     "group": "habit = 居住；擁有",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Accustomed to something through repeated experience.",
-     "chinese": "習以為常的;已習慣的"
+     "chinese": "習以為常的；已習慣的"
     }
    },
    {
@@ -354,4 +354,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"malady": ["Disease.", "疾病"], "inhibition": ["Restraint.", "抑制；禁忌"], "habitat": ["Natural environment.", "棲息地；產地"], "prohibition": ["The act of banning certain behavior.", "禁止"], "habitual": ["Done regularly or repeatedly.", "習慣性的"], "habituated": ["Accustomed to something through repeated experience.", "習以為常的;已習慣的"], "inhibit": ["To hinder or restrain.", "抑制；阻礙"], "prohibit": ["To formally forbid something.", "禁止"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"malady": ["Disease.", "疾病"], "inhibition": ["Restraint.", "抑制；禁忌"], "habitat": ["Natural environment.", "棲息地；產地"], "prohibition": ["The act of banning certain behavior.", "禁止"], "habitual": ["Done regularly or repeatedly.", "習慣性的"], "habituated": ["Accustomed to something through repeated experience.", "習以為常的；已習慣的"], "inhibit": ["To hinder or restrain.", "抑制；阻礙"], "prohibit": ["To formally forbid something.", "禁止"]});

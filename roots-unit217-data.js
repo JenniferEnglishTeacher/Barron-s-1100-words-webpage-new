@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "reluctant",
     "pos": "adj.",
     "definition": "Unwilling and hesitant to do something.",
-    "chinese": "不情願的;猶豫的",
+    "chinese": "不情願的；猶豫的",
     "synonyms": "",
     "root": "reluctari (to struggle against), from Latin re- (against) + luctari (to struggle)",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwilling and hesitant to do something.",
-     "chinese": "不情願的;猶豫的"
+     "chinese": "不情願的；猶豫的"
     }
    },
    {
     "word": "remonstrate",
     "pos": "v.",
     "definition": "To make a forceful protest or objection.",
-    "chinese": "抗議;力爭",
+    "chinese": "抗議；力爭",
     "synonyms": "",
     "root": "remonstrare (to demonstrate, point out), from Latin re- (again) + monstrare (to show)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make a forceful protest or objection.",
-     "chinese": "抗議;力爭"
+     "chinese": "抗議；力爭"
     }
    },
    {
     "word": "remorseful",
     "pos": "adj.",
     "definition": "Feeling deep regret or guilt for wrongdoing.",
-    "chinese": "懊悔的;悔恨的",
+    "chinese": "懊悔的；悔恨的",
     "synonyms": "",
     "root": "remorsus (a biting back), from Latin re- (again) + mordere (to bite)",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling deep regret or guilt for wrongdoing.",
-     "chinese": "懊悔的;悔恨的"
+     "chinese": "懊悔的；悔恨的"
     }
    },
    {
     "word": "remunerate",
     "pos": "v.",
     "definition": "To pay someone for services rendered or work done.",
-    "chinese": "支付報酬;酬謝",
+    "chinese": "支付報酬；酬謝",
     "synonyms": "",
     "root": "remunerari (to reward), from Latin re- (again) + munus (gift)",
     "group": "",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To pay someone for services rendered or work done.",
-     "chinese": "支付報酬;酬謝"
+     "chinese": "支付報酬；酬謝"
     }
    },
    {
     "word": "renaissance",
     "pos": "n.",
     "definition": "A revival or renewed interest in something, especially art and learning.",
-    "chinese": "復興;文藝復興",
+    "chinese": "復興；文藝復興",
     "synonyms": "",
     "root": "renaissance (rebirth), from French re- (again) + naissance (birth)",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A revival or renewed interest in something, especially art and learning.",
-     "chinese": "復興;文藝復興"
+     "chinese": "復興；文藝復興"
     }
    },
    {
     "word": "renegade",
     "pos": "n./adj.",
     "definition": "A person who deserts a group or cause for another; rebellious.",
-    "chinese": "叛徒;反叛的",
+    "chinese": "叛徒；反叛的",
     "synonyms": "",
     "root": "renegado (renegade), from Spanish, from Latin re- (again) + negare (to deny)",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who deserts a group or cause for another; rebellious.",
-     "chinese": "叛徒;反叛的"
+     "chinese": "叛徒；反叛的"
     }
    },
    {
     "word": "repartee",
     "pos": "n.",
     "definition": "A quick and witty reply or exchange of remarks.",
-    "chinese": "機智的應答;妙語連珠",
+    "chinese": "機智的應答；妙語連珠",
     "synonyms": "",
     "root": "repartie (a quick retort), from French repartir (to reply promptly)",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A quick and witty reply or exchange of remarks.",
-     "chinese": "機智的應答;妙語連珠"
+     "chinese": "機智的應答；妙語連珠"
     }
    },
    {
     "word": "repeal",
     "pos": "v./n.",
     "definition": "To officially revoke or cancel a law.",
-    "chinese": "廢除;撤銷",
+    "chinese": "廢除；撤銷",
     "synonyms": "",
     "root": "repeler (to appeal again), from Old French re- (again) + apeler (to appeal)",
     "group": "",
@@ -153,14 +153,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To officially revoke or cancel a law.",
-     "chinese": "廢除;撤銷"
+     "chinese": "廢除；撤銷"
     }
    },
    {
     "word": "reply",
     "pos": "v./n.",
     "definition": "To respond to something said or written.",
-    "chinese": "回覆;回答",
+    "chinese": "回覆；回答",
     "synonyms": "",
     "root": "replier (to fold back), from Old French re- (back) + plier (to fold)",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To respond to something said or written.",
-     "chinese": "回覆;回答"
+     "chinese": "回覆；回答"
     }
    },
    {
     "word": "reprehend",
     "pos": "v.",
     "definition": "To rebuke or criticize someone sharply.",
-    "chinese": "斥責;嚴厲批評",
+    "chinese": "斥責；嚴厲批評",
     "synonyms": "",
     "root": "reprehendere (to seize, blame), from Latin re- (back) + prehendere (to seize)",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To rebuke or criticize someone sharply.",
-     "chinese": "斥責;嚴厲批評"
+     "chinese": "斥責；嚴厲批評"
     }
    },
    {
     "word": "reproof",
     "pos": "n.",
     "definition": "An expression of blame or disapproval.",
-    "chinese": "斥責;責備",
+    "chinese": "斥責；責備",
     "synonyms": "",
     "root": "reprover (to reprove), from Old French re- (again) + prover (to prove)",
     "group": "",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An expression of blame or disapproval.",
-     "chinese": "斥責;責備"
+     "chinese": "斥責；責備"
     }
    },
    {
     "word": "reproval",
     "pos": "n.",
     "definition": "The act of expressing disapproval or blame.",
-    "chinese": "責備;譴責",
+    "chinese": "責備；譴責",
     "synonyms": "",
     "root": "reprover (to reprove), from Old French re- (again) + prover (to prove)",
     "group": "",
@@ -229,14 +229,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of expressing disapproval or blame.",
-     "chinese": "責備;譴責"
+     "chinese": "責備；譴責"
     }
    },
    {
     "word": "repudiation",
     "pos": "n.",
     "definition": "The rejection or refusal to accept something as valid.",
-    "chinese": "拒絕承認;否認",
+    "chinese": "拒絕承認；否認",
     "synonyms": "",
     "root": "repudiare (to reject), from Latin repudium (divorce, rejection)",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The rejection or refusal to accept something as valid.",
-     "chinese": "拒絕承認;否認"
+     "chinese": "拒絕承認；否認"
     }
    },
    {
     "word": "requital",
     "pos": "n.",
     "definition": "Repayment or retaliation for a good or bad deed.",
-    "chinese": "報答;報復",
+    "chinese": "報答；報復",
     "synonyms": "",
     "root": "requiten (to repay), from Middle English re- (back) + quite (to pay)",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Repayment or retaliation for a good or bad deed.",
-     "chinese": "報答;報復"
+     "chinese": "報答；報復"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "reserved",
     "pos": "adj.",
     "definition": "Slow to reveal emotion or opinions; kept back for a particular purpose.",
-    "chinese": "矜持的;預留的",
+    "chinese": "矜持的；預留的",
     "synonyms": "",
     "root": "reservare (to keep back), from Latin re- (back) + servare (to keep)",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Slow to reveal emotion or opinions; kept back for a particular purpose.",
-     "chinese": "矜持的;預留的"
+     "chinese": "矜持的；預留的"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "respectful",
     "pos": "adj.",
     "definition": "Showing deference and consideration toward others.",
-    "chinese": "恭敬的;尊重的",
+    "chinese": "恭敬的；尊重的",
     "synonyms": "",
     "root": "respectus (regard), from Latin respicere (to look back at)",
     "group": "",
@@ -362,7 +362,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing deference and consideration toward others.",
-     "chinese": "恭敬的;尊重的"
+     "chinese": "恭敬的；尊重的"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "resume",
     "pos": "v./n.",
     "definition": "To begin again after a pause; a summary document of one's work history.",
-    "chinese": "恢復;履歷表",
+    "chinese": "恢復；履歷表",
     "synonyms": "",
     "root": "resumere (to take up again), from Latin re- (again) + sumere (to take)",
     "group": "",
@@ -438,14 +438,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To begin again after a pause; a summary document of one's work history.",
-     "chinese": "恢復;履歷表"
+     "chinese": "恢復；履歷表"
     }
    },
    {
     "word": "retard",
     "pos": "v./n.",
     "definition": "To delay or hold back the progress of something.",
-    "chinese": "阻礙;延遲",
+    "chinese": "阻礙；延遲",
     "synonyms": "",
     "root": "retardare (to make slow), from Latin re- (back) + tardus (slow)",
     "group": "",
@@ -457,14 +457,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To delay or hold back the progress of something.",
-     "chinese": "阻礙;延遲"
+     "chinese": "阻礙；延遲"
     }
    },
    {
     "word": "retardation",
     "pos": "n.",
     "definition": "The action of delaying or slowing down a process.",
-    "chinese": "延遲;遲滯",
+    "chinese": "延遲；遲滯",
     "synonyms": "",
     "root": "retardare (to make slow), from Latin re- (back) + tardus (slow)",
     "group": "",
@@ -476,7 +476,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The action of delaying or slowing down a process.",
-     "chinese": "延遲;遲滯"
+     "chinese": "延遲；遲滯"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "reveal",
     "pos": "v.",
     "definition": "To make known previously secret or hidden information.",
-    "chinese": "揭露;透露",
+    "chinese": "揭露；透露",
     "synonyms": "",
     "root": "revelare (to unveil), from Latin re- (again) + velum (veil)",
     "group": "",
@@ -533,14 +533,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make known previously secret or hidden information.",
-     "chinese": "揭露;透露"
+     "chinese": "揭露；透露"
     }
    },
    {
     "word": "reverence",
     "pos": "n.",
     "definition": "Deep respect for someone or something.",
-    "chinese": "崇敬;敬畏",
+    "chinese": "崇敬；敬畏",
     "synonyms": "",
     "root": "revereri (to stand in awe of), from Latin re- (again) + vereri (to fear)",
     "group": "",
@@ -552,14 +552,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deep respect for someone or something.",
-     "chinese": "崇敬;敬畏"
+     "chinese": "崇敬；敬畏"
     }
    },
    {
     "word": "reverie",
     "pos": "n.",
     "definition": "A state of being pleasantly lost in one's thoughts; a daydream.",
-    "chinese": "幻想;白日夢",
+    "chinese": "幻想；白日夢",
     "synonyms": "",
     "root": "resverie (wildness, delirium), from Old French resver (to wander, rave)",
     "group": "",
@@ -571,14 +571,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of being pleasantly lost in one's thoughts; a daydream.",
-     "chinese": "幻想;白日夢"
+     "chinese": "幻想；白日夢"
     }
    },
    {
     "word": "reviled",
     "pos": "adj.",
     "definition": "Spoken of with great hatred or contempt.",
-    "chinese": "遭人唾棄的;被辱罵的",
+    "chinese": "遭人唾棄的；被辱罵的",
     "synonyms": "",
     "root": "reviler (to despise), from Old French re- (thoroughly) + vil (vile)",
     "group": "",
@@ -590,14 +590,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spoken of with great hatred or contempt.",
-     "chinese": "遭人唾棄的;被辱罵的"
+     "chinese": "遭人唾棄的；被辱罵的"
     }
    },
    {
     "word": "revolt",
     "pos": "n./v.",
     "definition": "A rebellion against authority; to rise in rebellion.",
-    "chinese": "叛亂;反抗",
+    "chinese": "叛亂；反抗",
     "synonyms": "",
     "root": "revolvere (to roll back), from Latin re- (back) + volvere (to roll)",
     "group": "",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rebellion against authority; to rise in rebellion.",
-     "chinese": "叛亂;反抗"
+     "chinese": "叛亂；反抗"
     }
    },
    {
     "word": "revolution",
     "pos": "n.",
     "definition": "A forcible overthrow of a government; a dramatic change.",
-    "chinese": "革命;變革",
+    "chinese": "革命；變革",
     "synonyms": "",
     "root": "revolvere (to roll back), from Latin re- (back) + volvere (to roll)",
     "group": "",
@@ -628,14 +628,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A forcible overthrow of a government; a dramatic change.",
-     "chinese": "革命;變革"
+     "chinese": "革命；變革"
     }
    },
    {
     "word": "reward",
     "pos": "n./v.",
     "definition": "Something given in recognition of effort or achievement; to give such recognition.",
-    "chinese": "獎勵;報酬",
+    "chinese": "獎勵；報酬",
     "synonyms": "",
     "root": "rewarden (to guard, reward), from Old North French re- (again) + warder (to guard)",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Something given in recognition of effort or achievement; to give such recognition.",
-     "chinese": "獎勵;報酬"
+     "chinese": "獎勵；報酬"
     }
    },
    {
     "word": "rhapsodic",
     "pos": "adj.",
     "definition": "Expressing enthusiastic or extravagant praise.",
-    "chinese": "狂想的;熱情洋溢的",
+    "chinese": "狂想的；熱情洋溢的",
     "synonyms": "",
     "root": "rhapsodia (epic poem), from Greek rhaptein (to stitch) + oide (song)",
     "group": "",
@@ -668,7 +668,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing enthusiastic or extravagant praise.",
-     "chinese": "狂想的;熱情洋溢的"
+     "chinese": "狂想的；熱情洋溢的"
     }
    },
    {
@@ -694,7 +694,7 @@ window.FLASHCARD_UNITS = {
     "word": "rhapsody",
     "pos": "n.",
     "definition": "An effusively enthusiastic expression of feeling; a free-form musical piece.",
-    "chinese": "狂想曲;熱情洋溢的言辭",
+    "chinese": "狂想曲；熱情洋溢的言辭",
     "synonyms": "",
     "root": "rhapsodia (epic poem), from Greek rhaptein (to stitch) + oide (song)",
     "group": "",
@@ -706,7 +706,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An effusively enthusiastic expression of feeling; a free-form musical piece.",
-     "chinese": "狂想曲;熱情洋溢的言辭"
+     "chinese": "狂想曲；熱情洋溢的言辭"
     }
    },
    {
@@ -751,7 +751,7 @@ window.FLASHCARD_UNITS = {
     "word": "riam",
     "pos": "n.",
     "definition": "A rare dialectal term for a narrow strip or boundary of land.",
-    "chinese": "狹長地帶;邊界地(方言用語)",
+    "chinese": "狹長地帶；邊界地(方言用語)",
     "synonyms": "",
     "root": "of uncertain dialectal origin, possibly related to rim",
     "group": "",
@@ -763,7 +763,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A rare dialectal term for a narrow strip or boundary of land.",
-     "chinese": "狹長地帶;邊界地(方言用語)"
+     "chinese": "狹長地帶；邊界地(方言用語)"
     }
    },
    {
@@ -789,7 +789,7 @@ window.FLASHCARD_UNITS = {
     "word": "ribaldry",
     "pos": "n.",
     "definition": "Crude, humorous, and often sexual language or behavior.",
-    "chinese": "粗俗笑話;下流言語",
+    "chinese": "粗俗笑話；下流言語",
     "synonyms": "",
     "root": "ribald (a lewd, coarse person), from Old French ribauld",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Crude, humorous, and often sexual language or behavior.",
-     "chinese": "粗俗笑話;下流言語"
+     "chinese": "粗俗笑話；下流言語"
     }
    },
    {
     "word": "riddle",
     "pos": "n./v.",
     "definition": "A puzzling question requiring ingenuity to answer; to pierce with many holes.",
-    "chinese": "謎語;布滿孔洞",
+    "chinese": "謎語；布滿孔洞",
     "synonyms": "",
     "root": "rædels (advice, riddle), from Old English rædan (to advise, guess)",
     "group": "",
@@ -820,14 +820,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A puzzling question requiring ingenuity to answer; to pierce with many holes.",
-     "chinese": "謎語;布滿孔洞"
+     "chinese": "謎語；布滿孔洞"
     }
    },
    {
     "word": "ridicule",
     "pos": "n./v.",
     "definition": "Mockery or derision; to make fun of someone.",
-    "chinese": "嘲笑;奚落",
+    "chinese": "嘲笑；奚落",
     "synonyms": "",
     "root": "ridiculum (a jest), from Latin ridere (to laugh)",
     "group": "",
@@ -839,14 +839,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mockery or derision; to make fun of someone.",
-     "chinese": "嘲笑;奚落"
+     "chinese": "嘲笑；奚落"
     }
    },
    {
     "word": "ridiculous",
     "pos": "adj.",
     "definition": "Deserving or inviting mockery; absurd.",
-    "chinese": "荒謬的;可笑的",
+    "chinese": "荒謬的；可笑的",
     "synonyms": "",
     "root": "ridiculus (laughable), from Latin ridere (to laugh)",
     "group": "",
@@ -858,7 +858,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving or inviting mockery; absurd.",
-     "chinese": "荒謬的;可笑的"
+     "chinese": "荒謬的；可笑的"
     }
    },
    {
@@ -903,7 +903,7 @@ window.FLASHCARD_UNITS = {
     "word": "righteous",
     "pos": "adj.",
     "definition": "Morally right or justifiable; virtuous.",
-    "chinese": "正義的;公正的",
+    "chinese": "正義的；公正的",
     "synonyms": "",
     "root": "rihtwis (just), from Old English riht (right) + wis (wise)",
     "group": "",
@@ -915,7 +915,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Morally right or justifiable; virtuous.",
-     "chinese": "正義的;公正的"
+     "chinese": "正義的；公正的"
     }
    },
    {
@@ -2162,4 +2162,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reluctant": ["Unwilling and hesitant to do something.", "不情願的;猶豫的"], "remonstrate": ["To make a forceful protest or objection.", "抗議;力爭"], "remorseful": ["Feeling deep regret or guilt for wrongdoing.", "懊悔的;悔恨的"], "remunerate": ["To pay someone for services rendered or work done.", "支付報酬;酬謝"], "renaissance": ["A revival or renewed interest in something, especially art and learning.", "復興;文藝復興"], "renegade": ["A person who deserts a group or cause for another; rebellious.", "叛徒;反叛的"], "repartee": ["A quick and witty reply or exchange of remarks.", "機智的應答;妙語連珠"], "repeal": ["To officially revoke or cancel a law.", "廢除;撤銷"], "reply": ["To respond to something said or written.", "回覆;回答"], "reprehend": ["To rebuke or criticize someone sharply.", "斥責;嚴厲批評"], "reproof": ["An expression of blame or disapproval.", "斥責;責備"], "reproval": ["The act of expressing disapproval or blame.", "責備;譴責"], "repudiation": ["The rejection or refusal to accept something as valid.", "拒絕承認;否認"], "requital": ["Repayment or retaliation for a good or bad deed.", "報答;報復"], "research": ["Systematic investigation to establish facts or reach conclusions.", "研究"], "reserved": ["Slow to reveal emotion or opinions; kept back for a particular purpose.", "矜持的;預留的"], "resistentialism": ["A humorous theory that inanimate objects display malicious behavior toward humans.", "物體惡意論(戲謔理論)"], "resistentialist": ["Relating to the theory that inanimate objects act with hostile intent.", "物體惡意論的(信奉者)"], "respectful": ["Showing deference and consideration toward others.", "恭敬的;尊重的"], "respite": ["Interval of relief, delay.", "喘息"], "restaurateur": ["A person who owns and manages a restaurant.", "餐廳老闆"], "restless": ["Unable to rest or relax; constantly moving or active due to anxiety or agitation.", "不安分的；坐立不安的"], "resume": ["To begin again after a pause; a summary document of one's work history.", "恢復;履歷表"], "retard": ["To delay or hold back the progress of something.", "阻礙;延遲"], "retardation": ["The action of delaying or slowing down a process.", "延遲;遲滯"], "retirement": ["The withdrawal from active working life, especially due to age.", "退休"], "retronym": ["A new term created to distinguish an original concept from a newer variant.", "回溯造詞"], "reveal": ["To make known previously secret or hidden information.", "揭露;透露"], "reverence": ["Deep respect for someone or something.", "崇敬;敬畏"], "reverie": ["A state of being pleasantly lost in one's thoughts; a daydream.", "幻想;白日夢"], "reviled": ["Spoken of with great hatred or contempt.", "遭人唾棄的;被辱罵的"], "revolt": ["A rebellion against authority; to rise in rebellion.", "叛亂;反抗"], "revolution": ["A forcible overthrow of a government; a dramatic change.", "革命;變革"], "reward": ["Something given in recognition of effort or achievement; to give such recognition.", "獎勵;報酬"], "rhapsodic": ["Expressing enthusiastic or extravagant praise.", "狂想的;熱情洋溢的"], "rhapsodize": ["To engage in excessive enthusiasm.", "狂熱地談論；滔滔不絕地讚美"], "rhapsody": ["An effusively enthusiastic expression of feeling; a free-form musical piece.", "狂想曲;熱情洋溢的言辭"], "rhetoric": ["Use (sometimes exaggerated) of language.", "修辭；浮誇的言語"], "rhetorical": ["Relating to speech that is used to persuade or have some effect; insincere in expression.", "修辭的；言過其實的"], "riam": ["A rare dialectal term for a narrow strip or boundary of land.", "狹長地帶;邊界地(方言用語)"], "ribald": ["Coarsely, crudely humorous.", "粗俗下流的；低級幽默的"], "ribaldry": ["Crude, humorous, and often sexual language or behavior.", "粗俗笑話;下流言語"], "riddle": ["A puzzling question requiring ingenuity to answer; to pierce with many holes.", "謎語;布滿孔洞"], "ridicule": ["Mockery or derision; to make fun of someone.", "嘲笑;奚落"], "ridiculous": ["Deserving or inviting mockery; absurd.", "荒謬的;可笑的"], "rife": ["Widespread.", "普遍的；盛傳的"], "rift": ["Opening, split.", "裂縫；不和"], "righteous": ["Morally right or justifiable; virtuous.", "正義的;公正的"], "rigor": ["Harshness, severity.", "嚴格；嚴厲"], "rigorous": ["Strict and demanding, requiring a high level of effort and precision.", "嚴格的；嚴謹的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"reluctant": ["Unwilling and hesitant to do something.", "不情願的；猶豫的"], "remonstrate": ["To make a forceful protest or objection.", "抗議；力爭"], "remorseful": ["Feeling deep regret or guilt for wrongdoing.", "懊悔的；悔恨的"], "remunerate": ["To pay someone for services rendered or work done.", "支付報酬；酬謝"], "renaissance": ["A revival or renewed interest in something, especially art and learning.", "復興；文藝復興"], "renegade": ["A person who deserts a group or cause for another; rebellious.", "叛徒；反叛的"], "repartee": ["A quick and witty reply or exchange of remarks.", "機智的應答；妙語連珠"], "repeal": ["To officially revoke or cancel a law.", "廢除；撤銷"], "reply": ["To respond to something said or written.", "回覆；回答"], "reprehend": ["To rebuke or criticize someone sharply.", "斥責；嚴厲批評"], "reproof": ["An expression of blame or disapproval.", "斥責；責備"], "reproval": ["The act of expressing disapproval or blame.", "責備；譴責"], "repudiation": ["The rejection or refusal to accept something as valid.", "拒絕承認；否認"], "requital": ["Repayment or retaliation for a good or bad deed.", "報答；報復"], "research": ["Systematic investigation to establish facts or reach conclusions.", "研究"], "reserved": ["Slow to reveal emotion or opinions; kept back for a particular purpose.", "矜持的；預留的"], "resistentialism": ["A humorous theory that inanimate objects display malicious behavior toward humans.", "物體惡意論(戲謔理論)"], "resistentialist": ["Relating to the theory that inanimate objects act with hostile intent.", "物體惡意論的(信奉者)"], "respectful": ["Showing deference and consideration toward others.", "恭敬的；尊重的"], "respite": ["Interval of relief, delay.", "喘息"], "restaurateur": ["A person who owns and manages a restaurant.", "餐廳老闆"], "restless": ["Unable to rest or relax; constantly moving or active due to anxiety or agitation.", "不安分的；坐立不安的"], "resume": ["To begin again after a pause; a summary document of one's work history.", "恢復；履歷表"], "retard": ["To delay or hold back the progress of something.", "阻礙；延遲"], "retardation": ["The action of delaying or slowing down a process.", "延遲；遲滯"], "retirement": ["The withdrawal from active working life, especially due to age.", "退休"], "retronym": ["A new term created to distinguish an original concept from a newer variant.", "回溯造詞"], "reveal": ["To make known previously secret or hidden information.", "揭露；透露"], "reverence": ["Deep respect for someone or something.", "崇敬；敬畏"], "reverie": ["A state of being pleasantly lost in one's thoughts; a daydream.", "幻想；白日夢"], "reviled": ["Spoken of with great hatred or contempt.", "遭人唾棄的；被辱罵的"], "revolt": ["A rebellion against authority; to rise in rebellion.", "叛亂；反抗"], "revolution": ["A forcible overthrow of a government; a dramatic change.", "革命；變革"], "reward": ["Something given in recognition of effort or achievement; to give such recognition.", "獎勵；報酬"], "rhapsodic": ["Expressing enthusiastic or extravagant praise.", "狂想的；熱情洋溢的"], "rhapsodize": ["To engage in excessive enthusiasm.", "狂熱地談論；滔滔不絕地讚美"], "rhapsody": ["An effusively enthusiastic expression of feeling; a free-form musical piece.", "狂想曲；熱情洋溢的言辭"], "rhetoric": ["Use (sometimes exaggerated) of language.", "修辭；浮誇的言語"], "rhetorical": ["Relating to speech that is used to persuade or have some effect; insincere in expression.", "修辭的；言過其實的"], "riam": ["A rare dialectal term for a narrow strip or boundary of land.", "狹長地帶；邊界地(方言用語)"], "ribald": ["Coarsely, crudely humorous.", "粗俗下流的；低級幽默的"], "ribaldry": ["Crude, humorous, and often sexual language or behavior.", "粗俗笑話；下流言語"], "riddle": ["A puzzling question requiring ingenuity to answer; to pierce with many holes.", "謎語；布滿孔洞"], "ridicule": ["Mockery or derision; to make fun of someone.", "嘲笑；奚落"], "ridiculous": ["Deserving or inviting mockery; absurd.", "荒謬的；可笑的"], "rife": ["Widespread.", "普遍的；盛傳的"], "rift": ["Opening, split.", "裂縫；不和"], "righteous": ["Morally right or justifiable; virtuous.", "正義的；公正的"], "rigor": ["Harshness, severity.", "嚴格；嚴厲"], "rigorous": ["Strict and demanding, requiring a high level of effort and precision.", "嚴格的；嚴謹的"]});

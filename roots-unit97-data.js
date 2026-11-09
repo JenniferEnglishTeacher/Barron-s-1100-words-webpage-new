@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "certain",
     "pos": "adj.",
     "definition": "Known for sure; particular but not specified.",
-    "chinese": "確定的;某些",
+    "chinese": "確定的；某些",
     "synonyms": "",
     "root": "certus (fixed, sure, from Latin)",
     "group": "cert = 確定；真實；驗證；信念",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Known for sure; particular but not specified.",
-     "chinese": "確定的;某些"
+     "chinese": "確定的；某些"
     }
    },
    {
     "word": "certify",
     "pos": "v.",
     "definition": "To formally confirm or attest to something.",
-    "chinese": "證明;認證",
+    "chinese": "證明；認證",
     "synonyms": "",
     "root": "certus (fixed, sure) + facere (to make), from Latin",
     "group": "cert = 確定；真實；驗證；信念",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To formally confirm or attest to something.",
-     "chinese": "證明;認證"
+     "chinese": "證明；認證"
     }
    },
    {
@@ -653,4 +653,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ascertain": ["To discover or establish something with certainty through examination or investigation.", "查明；弄清；確定"], "certain": ["Known for sure; particular but not specified.", "確定的;某些"], "certify": ["To formally confirm or attest to something.", "證明;認證"], "sincerity": ["The quality of being genuine.", "真誠"], "certitude": ["Complete certainty or freedom from doubt.", "確信；確定性；十足把握"], "concerted": ["Planned, coordinated, and carried out together with determined effort.", "協同的；齊心協力的；一致的"], "unsettling": ["Causing anxiety, uneasiness, or uncertainty.", "令人不安的；令人心神不寧的"], "certification": ["Official confirmation that a person, product, or process meets required standards.", "認證；資格證明；證書"], "recertify": ["To officially confirm again that someone or something still meets required standards.", "重新認證；重新核准資格"], "conviction": ["A firmly held belief, or a formal judgment that someone is guilty of a crime.", "堅定信念；確信；定罪"], "veracity": ["The quality of being truthful, accurate, or in accordance with facts.", "真實性；準確性；誠實"], "indubitable": ["Impossible to doubt; completely certain.", "不容置疑的；確鑿的；無疑的"], "corroborate": ["To confirm or support a statement, theory, or finding with additional evidence.", "證實；提供證據支持；確證"], "empirical": ["Based on observation, experiment, or practical experience rather than theory alone.", "實證的；以觀察或經驗為依據的"], "dogmatic": ["Expressing opinions as unquestionable truths and refusing to consider other views.", "教條主義的；武斷的；固執己見的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ascertain": ["To discover or establish something with certainty through examination or investigation.", "查明；弄清；確定"], "certain": ["Known for sure; particular but not specified.", "確定的；某些"], "certify": ["To formally confirm or attest to something.", "證明；認證"], "sincerity": ["The quality of being genuine.", "真誠"], "certitude": ["Complete certainty or freedom from doubt.", "確信；確定性；十足把握"], "concerted": ["Planned, coordinated, and carried out together with determined effort.", "協同的；齊心協力的；一致的"], "unsettling": ["Causing anxiety, uneasiness, or uncertainty.", "令人不安的；令人心神不寧的"], "certification": ["Official confirmation that a person, product, or process meets required standards.", "認證；資格證明；證書"], "recertify": ["To officially confirm again that someone or something still meets required standards.", "重新認證；重新核准資格"], "conviction": ["A firmly held belief, or a formal judgment that someone is guilty of a crime.", "堅定信念；確信；定罪"], "veracity": ["The quality of being truthful, accurate, or in accordance with facts.", "真實性；準確性；誠實"], "indubitable": ["Impossible to doubt; completely certain.", "不容置疑的；確鑿的；無疑的"], "corroborate": ["To confirm or support a statement, theory, or finding with additional evidence.", "證實；提供證據支持；確證"], "empirical": ["Based on observation, experiment, or practical experience rather than theory alone.", "實證的；以觀察或經驗為依據的"], "dogmatic": ["Expressing opinions as unquestionable truths and refusing to consider other views.", "教條主義的；武斷的；固執己見的"]});

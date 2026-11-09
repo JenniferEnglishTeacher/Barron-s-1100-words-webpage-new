@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
     "word": "coalescence",
     "pos": "n.",
     "definition": "The process of coming together to form one mass or whole.",
-    "chinese": "融合;結合",
+    "chinese": "融合；結合",
     "synonyms": "",
     "root": "co- (together) + alescere (to grow up), from Latin",
     "group": "co；com = 共同；一起",
@@ -58,14 +58,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of coming together to form one mass or whole.",
-     "chinese": "融合;結合"
+     "chinese": "融合；結合"
     }
    },
    {
     "word": "coalescent",
     "pos": "adj.",
     "definition": "Coming together to form one mass or whole.",
-    "chinese": "融合的;結合的",
+    "chinese": "融合的；結合的",
     "synonyms": "",
     "root": "co- (together) + alescere (to grow up), from Latin",
     "group": "co；com = 共同；一起",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Coming together to form one mass or whole.",
-     "chinese": "融合的;結合的"
+     "chinese": "融合的；結合的"
     }
    },
    {
     "word": "coalition",
     "pos": "n.",
     "definition": "A temporary alliance formed for joint action, especially in politics.",
-    "chinese": "聯盟;聯合政府",
+    "chinese": "聯盟；聯合政府",
     "synonyms": "",
     "root": "co- (together) + alescere (to grow up), from Latin",
     "group": "co；com = 共同；一起",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A temporary alliance formed for joint action, especially in politics.",
-     "chinese": "聯盟;聯合政府"
+     "chinese": "聯盟；聯合政府"
     }
    },
    {
@@ -143,7 +143,7 @@ window.FLASHCARD_UNITS = {
     "word": "cognate",
     "pos": "adj./n.",
     "definition": "Related by descent from the same ancestor or origin, especially of words.",
-    "chinese": "同源的;同源詞",
+    "chinese": "同源的；同源詞",
     "synonyms": "",
     "root": "co- (together) + gnatus (born), from Latin",
     "group": "co；com = 共同；一起",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Related by descent from the same ancestor or origin, especially of words.",
-     "chinese": "同源的;同源詞"
+     "chinese": "同源的；同源詞"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "collect",
     "pos": "v.",
     "definition": "To gather together; to accumulate.",
-    "chinese": "收集;聚集",
+    "chinese": "收集；聚集",
     "synonyms": "",
     "root": "col- (together) + legere (to gather), from Latin",
     "group": "co；com = 共同；一起",
@@ -290,14 +290,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gather together; to accumulate.",
-     "chinese": "收集;聚集"
+     "chinese": "收集；聚集"
     }
    },
    {
     "word": "collection",
     "pos": "n.",
     "definition": "A group of objects gathered together, especially as a hobby or study.",
-    "chinese": "收藏;收藏品",
+    "chinese": "收藏；收藏品",
     "synonyms": "",
     "root": "col- (together) + legere (to gather), from Latin",
     "group": "co；com = 共同；一起",
@@ -309,14 +309,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A group of objects gathered together, especially as a hobby or study.",
-     "chinese": "收藏;收藏品"
+     "chinese": "收藏；收藏品"
     }
    },
    {
     "word": "collide",
     "pos": "v.",
     "definition": "To crash violently together.",
-    "chinese": "碰撞;衝突",
+    "chinese": "碰撞；衝突",
     "synonyms": "",
     "root": "com- (together) + laedere (to strike), from Latin",
     "group": "co；com = 共同；一起",
@@ -330,14 +330,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To crash violently together.",
-     "chinese": "碰撞;衝突"
+     "chinese": "碰撞；衝突"
     }
    },
    {
     "word": "collision",
     "pos": "n.",
     "definition": "An instance of crashing violently together.",
-    "chinese": "碰撞;衝突",
+    "chinese": "碰撞；衝突",
     "synonyms": "",
     "root": "com- (together) + laedere (to strike), from Latin",
     "group": "co；com = 共同；一起",
@@ -349,7 +349,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An instance of crashing violently together.",
-     "chinese": "碰撞;衝突"
+     "chinese": "碰撞；衝突"
     }
    },
    {
@@ -375,7 +375,7 @@ window.FLASHCARD_UNITS = {
     "word": "collude",
     "pos": "v.",
     "definition": "To cooperate secretly, especially for an illegal or dishonest purpose.",
-    "chinese": "共謀;勾結",
+    "chinese": "共謀；勾結",
     "synonyms": "",
     "root": "com- (together) + ludere (to play), from Latin",
     "group": "co；com = 共同；一起",
@@ -389,7 +389,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To cooperate secretly, especially for an illegal or dishonest purpose.",
-     "chinese": "共謀;勾結"
+     "chinese": "共謀；勾結"
     }
    },
    {
@@ -434,7 +434,7 @@ window.FLASHCARD_UNITS = {
     "word": "commend",
     "pos": "v.",
     "definition": "To praise formally or officially; to recommend.",
-    "chinese": "稱讚;推薦",
+    "chinese": "稱讚；推薦",
     "synonyms": "",
     "root": "com- (together) + mandare (to entrust), from Latin",
     "group": "co；com = 共同；一起",
@@ -448,7 +448,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To praise formally or officially; to recommend.",
-     "chinese": "稱讚;推薦"
+     "chinese": "稱讚；推薦"
     }
    },
    {
@@ -493,7 +493,7 @@ window.FLASHCARD_UNITS = {
     "word": "commentary",
     "pos": "n.",
     "definition": "An explanatory or critical discussion of a text or event.",
-    "chinese": "評論;解說",
+    "chinese": "評論；解說",
     "synonyms": "",
     "root": "com- (together) + mens (mind), from Latin",
     "group": "co；com = 共同；一起",
@@ -505,7 +505,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An explanatory or critical discussion of a text or event.",
-     "chinese": "評論;解說"
+     "chinese": "評論；解說"
     }
    },
    {
@@ -552,7 +552,7 @@ window.FLASHCARD_UNITS = {
     "word": "commingle",
     "pos": "v.",
     "definition": "To mix or blend together.",
-    "chinese": "混合;融合",
+    "chinese": "混合；融合",
     "synonyms": "",
     "root": "com- (together) + miscere (to mix), from Latin",
     "group": "co；com = 共同；一起",
@@ -566,14 +566,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To mix or blend together.",
-     "chinese": "混合;融合"
+     "chinese": "混合；融合"
     }
    },
    {
     "word": "comminute",
     "pos": "v.",
     "definition": "To reduce to small particles or fragments.",
-    "chinese": "粉碎;搗碎",
+    "chinese": "粉碎；搗碎",
     "synonyms": "",
     "root": "com- (together) + minuere (to lessen), from Latin",
     "group": "co；com = 共同；一起",
@@ -585,7 +585,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To reduce to small particles or fragments.",
-     "chinese": "粉碎;搗碎"
+     "chinese": "粉碎；搗碎"
     }
    },
    {
@@ -649,7 +649,7 @@ window.FLASHCARD_UNITS = {
     "word": "companionable",
     "pos": "adj.",
     "definition": "Friendly and sociable; pleasant to be with.",
-    "chinese": "友好隨和的;易相處的",
+    "chinese": "友好隨和的；易相處的",
     "synonyms": "",
     "root": "com- (together) + panis (bread), from Latin",
     "group": "co；com = 共同；一起",
@@ -661,7 +661,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendly and sociable; pleasant to be with.",
-     "chinese": "友好隨和的;易相處的"
+     "chinese": "友好隨和的；易相處的"
     }
    },
    {
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "word": "compassionate",
     "pos": "adj.",
     "definition": "Feeling or showing sympathy and concern for others.",
-    "chinese": "有同情心的;仁慈的",
+    "chinese": "有同情心的；仁慈的",
     "synonyms": "",
     "root": "com- (together) + pati (to suffer), from Latin",
     "group": "co；com = 共同；一起",
@@ -699,14 +699,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling or showing sympathy and concern for others.",
-     "chinese": "有同情心的;仁慈的"
+     "chinese": "有同情心的；仁慈的"
     }
    },
    {
     "word": "compatibility",
     "pos": "n.",
     "definition": "The state of being able to exist or work together harmoniously.",
-    "chinese": "相容性;協調性",
+    "chinese": "相容性；協調性",
     "synonyms": "",
     "root": "com- (together) + pati (to suffer, endure), from Latin",
     "group": "co；com = 共同；一起",
@@ -718,7 +718,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being able to exist or work together harmoniously.",
-     "chinese": "相容性;協調性"
+     "chinese": "相容性；協調性"
     }
    },
    {
@@ -763,7 +763,7 @@ window.FLASHCARD_UNITS = {
     "word": "compendious",
     "pos": "adj.",
     "definition": "Giving a lot of information in a concise, well-organized way.",
-    "chinese": "簡明扼要的;概括性的",
+    "chinese": "簡明扼要的；概括性的",
     "synonyms": "",
     "root": "com- (together) + pendere (to weigh), from Latin",
     "group": "co；com = 共同；一起",
@@ -775,14 +775,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Giving a lot of information in a concise, well-organized way.",
-     "chinese": "簡明扼要的;概括性的"
+     "chinese": "簡明扼要的；概括性的"
     }
    },
    {
     "word": "compendium",
     "pos": "n.",
     "definition": "A concise collection of information on a particular subject.",
-    "chinese": "概要;彙編",
+    "chinese": "概要；彙編",
     "synonyms": "",
     "root": "com- (together) + pendere (to weigh), from Latin",
     "group": "co；com = 共同；一起",
@@ -794,14 +794,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A concise collection of information on a particular subject.",
-     "chinese": "概要;彙編"
+     "chinese": "概要；彙編"
     }
    },
    {
     "word": "compensation",
     "pos": "n.",
     "definition": "Payment given in return for a loss, suffering, or service.",
-    "chinese": "補償;報酬",
+    "chinese": "補償；報酬",
     "synonyms": "",
     "root": "com- (together) + pensare (to weigh), from Latin",
     "group": "co；com = 共同；一起",
@@ -813,7 +813,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Payment given in return for a loss, suffering, or service.",
-     "chinese": "補償;報酬"
+     "chinese": "補償；報酬"
     }
    },
    {
@@ -2176,4 +2176,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coagulate": ["To thicken, clot.", "凝結；凝固"], "coalesce": ["To have different opinions join together; fuse; converge.", "結合；融合"], "coalescence": ["The process of coming together to form one mass or whole.", "融合;結合"], "coalescent": ["Coming together to form one mass or whole.", "融合的;結合的"], "coalition": ["A temporary alliance formed for joint action, especially in politics.", "聯盟;聯合政府"], "coerce": ["To force:put a person in duress.", "強制；脅迫"], "cogent": ["Forceful, convincing, persuasive.", "令人信服的"], "cognate": ["Related by descent from the same ancestor or origin, especially of words.", "同源的;同源詞"], "cognizant": ["Aware.", "認識到的"], "coherent": ["Logically consistent, intelligible.", "條理清晰的；連貫的"], "coincidence": ["A surprising and unexpected event.", "巧合"], "coincident": ["Occurring or operating at the same time.", "同時發生的"], "collaboration": ["Working together on a task.", "合作"], "collateral": ["Secondary.", "附帶的；擔保品的"], "collect": ["To gather together; to accumulate.", "收集;聚集"], "collection": ["A group of objects gathered together, especially as a hobby or study.", "收藏;收藏品"], "collide": ["To crash violently together.", "碰撞;衝突"], "collision": ["An instance of crashing violently together.", "碰撞;衝突"], "colloquial": ["Pertaining to common everyday speech; conversational.", "口語的；通俗的"], "collude": ["To cooperate secretly, especially for an illegal or dishonest purpose.", "共謀;勾結"], "collusion": ["Secret agreement, conspiracy.", "勾結；共謀"], "commencing": ["Beginning; starting.", "開始的"], "commend": ["To praise formally or officially; to recommend.", "稱讚;推薦"], "commendation": ["A notice of approval or recognition.", "嘉獎；表揚"], "commensurate": ["Corresponding in size or amount.", "相稱的；相應的"], "commentary": ["An explanatory or critical discussion of a text or event.", "評論;解說"], "commercialization": ["The process of making something a business.", "商業化"], "commercialize": ["To manage or exploit something for financial gain; to turn into a commercial product or activity.", "使商業化"], "commingle": ["To mix or blend together.", "混合;融合"], "comminute": ["To reduce to small particles or fragments.", "粉碎;搗碎"], "commiserate": ["Feel or express sympathy or compassion.", "同情；慰問"], "committed": ["Dedicated to a cause or task.", "投入的；忠誠的"], "commodious": ["Large, spacious.", "寬敞的"], "companionable": ["Friendly and sociable; pleasant to be with.", "友好隨和的;易相處的"], "compassion": ["Sympathetic feeling, kindness.", "同情；憐憫"], "compassionate": ["Feeling or showing sympathy and concern for others.", "有同情心的;仁慈的"], "compatibility": ["The state of being able to exist or work together harmoniously.", "相容性;協調性"], "compatible": ["Harmonious, well-matched.", "相容的；和諧的"], "compelling": ["Captivating or persuasive.", "引人入勝的；有說服力的"], "compendious": ["Giving a lot of information in a concise, well-organized way.", "簡明扼要的;概括性的"], "compendium": ["A concise collection of information on a particular subject.", "概要;彙編"], "compensation": ["Payment given in return for a loss, suffering, or service.", "補償;報酬"], "compensatory": ["Making up for a loss.", "補償的"], "competent": ["Having the necessary ability or skill.", "有能力的；勝任的"], "complacency": ["Self-satisfied ignorance of danger.", "自滿；自鳴得意"], "complacent": ["Self-satisfied.", "自滿的"], "complement": ["To complete, make perfect.", "補足；相輔相成"], "complementary": ["Serving to complete another.", "互補的"], "complexity": ["The state of being intricate or complicated.", "複雜性"], "compliant": ["Yielding, submissive.", "順從的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coagulate": ["To thicken, clot.", "凝結；凝固"], "coalesce": ["To have different opinions join together; fuse; converge.", "結合；融合"], "coalescence": ["The process of coming together to form one mass or whole.", "融合；結合"], "coalescent": ["Coming together to form one mass or whole.", "融合的；結合的"], "coalition": ["A temporary alliance formed for joint action, especially in politics.", "聯盟；聯合政府"], "coerce": ["To force:put a person in duress.", "強制；脅迫"], "cogent": ["Forceful, convincing, persuasive.", "令人信服的"], "cognate": ["Related by descent from the same ancestor or origin, especially of words.", "同源的；同源詞"], "cognizant": ["Aware.", "認識到的"], "coherent": ["Logically consistent, intelligible.", "條理清晰的；連貫的"], "coincidence": ["A surprising and unexpected event.", "巧合"], "coincident": ["Occurring or operating at the same time.", "同時發生的"], "collaboration": ["Working together on a task.", "合作"], "collateral": ["Secondary.", "附帶的；擔保品的"], "collect": ["To gather together; to accumulate.", "收集；聚集"], "collection": ["A group of objects gathered together, especially as a hobby or study.", "收藏；收藏品"], "collide": ["To crash violently together.", "碰撞；衝突"], "collision": ["An instance of crashing violently together.", "碰撞；衝突"], "colloquial": ["Pertaining to common everyday speech; conversational.", "口語的；通俗的"], "collude": ["To cooperate secretly, especially for an illegal or dishonest purpose.", "共謀；勾結"], "collusion": ["Secret agreement, conspiracy.", "勾結；共謀"], "commencing": ["Beginning; starting.", "開始的"], "commend": ["To praise formally or officially; to recommend.", "稱讚；推薦"], "commendation": ["A notice of approval or recognition.", "嘉獎；表揚"], "commensurate": ["Corresponding in size or amount.", "相稱的；相應的"], "commentary": ["An explanatory or critical discussion of a text or event.", "評論；解說"], "commercialization": ["The process of making something a business.", "商業化"], "commercialize": ["To manage or exploit something for financial gain; to turn into a commercial product or activity.", "使商業化"], "commingle": ["To mix or blend together.", "混合；融合"], "comminute": ["To reduce to small particles or fragments.", "粉碎；搗碎"], "commiserate": ["Feel or express sympathy or compassion.", "同情；慰問"], "committed": ["Dedicated to a cause or task.", "投入的；忠誠的"], "commodious": ["Large, spacious.", "寬敞的"], "companionable": ["Friendly and sociable; pleasant to be with.", "友好隨和的；易相處的"], "compassion": ["Sympathetic feeling, kindness.", "同情；憐憫"], "compassionate": ["Feeling or showing sympathy and concern for others.", "有同情心的；仁慈的"], "compatibility": ["The state of being able to exist or work together harmoniously.", "相容性；協調性"], "compatible": ["Harmonious, well-matched.", "相容的；和諧的"], "compelling": ["Captivating or persuasive.", "引人入勝的；有說服力的"], "compendious": ["Giving a lot of information in a concise, well-organized way.", "簡明扼要的；概括性的"], "compendium": ["A concise collection of information on a particular subject.", "概要；彙編"], "compensation": ["Payment given in return for a loss, suffering, or service.", "補償；報酬"], "compensatory": ["Making up for a loss.", "補償的"], "competent": ["Having the necessary ability or skill.", "有能力的；勝任的"], "complacency": ["Self-satisfied ignorance of danger.", "自滿；自鳴得意"], "complacent": ["Self-satisfied.", "自滿的"], "complement": ["To complete, make perfect.", "補足；相輔相成"], "complementary": ["Serving to complete another.", "互補的"], "complexity": ["The state of being intricate or complicated.", "複雜性"], "compliant": ["Yielding, submissive.", "順從的"]});

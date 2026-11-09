@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "protract",
     "pos": "v.",
     "definition": "To prolong or extend the duration of something.",
-    "chinese": "拖延;延長",
+    "chinese": "拖延；延長",
     "synonyms": "",
     "root": "protrahere (to drag out), from Latin pro- (forward) + trahere (to drag)",
     "group": "tract = 拉",
@@ -77,14 +77,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prolong or extend the duration of something.",
-     "chinese": "拖延;延長"
+     "chinese": "拖延；延長"
     }
    },
    {
     "word": "protracted",
     "pos": "adj.",
     "definition": "Lasting for a longer time than expected or usual.",
-    "chinese": "延長的;拖延的",
+    "chinese": "延長的；拖延的",
     "synonyms": "",
     "root": "protrahere (to drag out), from Latin pro- (forward) + trahere (to drag)",
     "group": "tract = 拉",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lasting for a longer time than expected or usual.",
-     "chinese": "延長的;拖延的"
+     "chinese": "延長的；拖延的"
     }
    },
    {
@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "tract",
     "pos": "n.",
     "definition": "An area of land; a short pamphlet, especially on a political or religious topic.",
-    "chinese": "地帶;小冊子",
+    "chinese": "地帶；小冊子",
     "synonyms": "",
     "root": "tractus, from Latin trahere (to draw, pull)",
     "group": "tract = 拉",
@@ -136,7 +136,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An area of land; a short pamphlet, especially on a political or religious topic.",
-     "chinese": "地帶;小冊子"
+     "chinese": "地帶；小冊子"
     }
    },
    {
@@ -162,7 +162,7 @@ window.FLASHCARD_UNITS = {
     "word": "traction",
     "pos": "n.",
     "definition": "The grip of a wheel or tire on a surface; growing popularity or acceptance.",
-    "chinese": "牽引力;吸引力",
+    "chinese": "牽引力；吸引力",
     "synonyms": "",
     "root": "tractio, from Latin trahere (to draw, pull)",
     "group": "tract = 拉",
@@ -174,7 +174,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The grip of a wheel or tire on a surface; growing popularity or acceptance.",
-     "chinese": "牽引力;吸引力"
+     "chinese": "牽引力；吸引力"
     }
    },
    {
@@ -442,4 +442,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"intractable": ["Stubborn; hard to manage.", "難駕馭的"], "abstract": ["Existing purely in the mind; not representing actual reality.", "抽象的"], "distract": ["To divert attention.", "使分心"], "protract": ["To prolong or extend the duration of something.", "拖延;延長"], "protracted": ["Lasting for a longer time than expected or usual.", "延長的;拖延的"], "retract": ["Withdraw.", "撤回；收回"], "tract": ["An area of land; a short pamphlet, especially on a political or religious topic.", "地帶;小冊子"], "tractable": ["Easily controlled.", "易駕馭的；溫順的"], "traction": ["The grip of a wheel or tire on a surface; growing popularity or acceptance.", "牽引力;吸引力"], "tractor": ["A powerful vehicle used for pulling farm machinery.", "拖拉機"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"intractable": ["Stubborn; hard to manage.", "難駕馭的"], "abstract": ["Existing purely in the mind; not representing actual reality.", "抽象的"], "distract": ["To divert attention.", "使分心"], "protract": ["To prolong or extend the duration of something.", "拖延；延長"], "protracted": ["Lasting for a longer time than expected or usual.", "延長的；拖延的"], "retract": ["Withdraw.", "撤回；收回"], "tract": ["An area of land; a short pamphlet, especially on a political or religious topic.", "地帶；小冊子"], "tractable": ["Easily controlled.", "易駕馭的；溫順的"], "traction": ["The grip of a wheel or tire on a surface; growing popularity or acceptance.", "牽引力；吸引力"], "tractor": ["A powerful vehicle used for pulling farm machinery.", "拖拉機"]});

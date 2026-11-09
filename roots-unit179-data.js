@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "dodge",
     "pos": "v./n.",
     "definition": "To avoid by moving quickly; a trick to avoid something.",
-    "chinese": "躲避;詭計",
+    "chinese": "躲避；詭計",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to dodder",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To avoid by moving quickly; a trick to avoid something.",
-     "chinese": "躲避;詭計"
+     "chinese": "躲避；詭計"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "dogma",
     "pos": "n.",
     "definition": "A principle or set of principles laid down by an authority as incontrovertibly true.",
-    "chinese": "教條;信條",
+    "chinese": "教條；信條",
     "synonyms": "",
     "root": "dokein (to seem, think), from Greek",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A principle or set of principles laid down by an authority as incontrovertibly true.",
-     "chinese": "教條;信條"
+     "chinese": "教條；信條"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "dolor",
     "pos": "n.",
     "definition": "Sorrow or grief.",
-    "chinese": "悲傷;哀痛",
+    "chinese": "悲傷；哀痛",
     "synonyms": "",
     "root": "dolor (pain, grief), from Latin",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sorrow or grief.",
-     "chinese": "悲傷;哀痛"
+     "chinese": "悲傷；哀痛"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "dolt",
     "pos": "n.",
     "definition": "A stupid person.",
-    "chinese": "笨蛋;蠢材",
+    "chinese": "笨蛋；蠢材",
     "synonyms": "",
     "root": "dull, from Old English dol (foolish)",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A stupid person.",
-     "chinese": "笨蛋;蠢材"
+     "chinese": "笨蛋；蠢材"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "donjon",
     "pos": "n.",
     "definition": "The great tower or innermost keep of a castle.",
-    "chinese": "城堡主樓;地牢塔",
+    "chinese": "城堡主樓；地牢塔",
     "synonyms": "",
     "root": "dominus (lord), from Latin, via Old French donjon",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The great tower or innermost keep of a castle.",
-     "chinese": "城堡主樓;地牢塔"
+     "chinese": "城堡主樓；地牢塔"
     }
    },
    {
     "word": "doppelganger",
     "pos": "n.",
     "definition": "A look-alike or double of a living person.",
-    "chinese": "分身;長相酷似的人",
+    "chinese": "分身；長相酷似的人",
     "synonyms": "",
     "root": "doppel (double) + Gänger (goer), from German",
     "group": "",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A look-alike or double of a living person.",
-     "chinese": "分身;長相酷似的人"
+     "chinese": "分身；長相酷似的人"
     }
    },
    {
     "word": "doppelgänger",
     "pos": "n.",
     "definition": "A look-alike or double of a living person.",
-    "chinese": "分身;長相酷似的人",
+    "chinese": "分身；長相酷似的人",
     "synonyms": "",
     "root": "doppel (double) + Gänger (goer), from German",
     "group": "",
@@ -322,7 +322,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A look-alike or double of a living person.",
-     "chinese": "分身;長相酷似的人"
+     "chinese": "分身；長相酷似的人"
     }
    },
    {
@@ -367,7 +367,7 @@ window.FLASHCARD_UNITS = {
     "word": "dorsum",
     "pos": "n.",
     "definition": "The back or upper surface of an organ or body part.",
-    "chinese": "背部;背面",
+    "chinese": "背部；背面",
     "synonyms": "",
     "root": "dorsum (back), from Latin",
     "group": "",
@@ -379,14 +379,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The back or upper surface of an organ or body part.",
-     "chinese": "背部;背面"
+     "chinese": "背部；背面"
     }
    },
    {
     "word": "dossier",
     "pos": "n.",
     "definition": "A collection of documents about a particular person or subject.",
-    "chinese": "檔案;卷宗",
+    "chinese": "檔案；卷宗",
     "synonyms": "",
     "root": "dos (back, bundle of papers), from French",
     "group": "",
@@ -398,14 +398,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A collection of documents about a particular person or subject.",
-     "chinese": "檔案;卷宗"
+     "chinese": "檔案；卷宗"
     }
    },
    {
     "word": "dotage",
     "pos": "n.",
     "definition": "A period of life characterized by weakened intellect due to old age.",
-    "chinese": "老年昏聵;晚年",
+    "chinese": "老年昏聵；晚年",
     "synonyms": "",
     "root": "dote, of uncertain origin",
     "group": "",
@@ -417,14 +417,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A period of life characterized by weakened intellect due to old age.",
-     "chinese": "老年昏聵;晚年"
+     "chinese": "老年昏聵；晚年"
     }
    },
    {
     "word": "dotard",
     "pos": "n.",
     "definition": "An old person, especially one whose mental faculties have declined.",
-    "chinese": "老糊塗;老朽",
+    "chinese": "老糊塗；老朽",
     "synonyms": "",
     "root": "dote, of uncertain origin",
     "group": "",
@@ -436,14 +436,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An old person, especially one whose mental faculties have declined.",
-     "chinese": "老糊塗;老朽"
+     "chinese": "老糊塗；老朽"
     }
    },
    {
     "word": "dote",
     "pos": "v.",
     "definition": "To show excessive love or fondness for someone.",
-    "chinese": "溺愛;寵愛",
+    "chinese": "溺愛；寵愛",
     "synonyms": "",
     "root": "of uncertain Middle Dutch origin",
     "group": "",
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To show excessive love or fondness for someone.",
-     "chinese": "溺愛;寵愛"
+     "chinese": "溺愛；寵愛"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "doubtful",
     "pos": "adj.",
     "definition": "Uncertain; feeling doubt.",
-    "chinese": "懷疑的;不確定的",
+    "chinese": "懷疑的；不確定的",
     "synonyms": "",
     "root": "dubitare (to doubt), from Latin",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Uncertain; feeling doubt.",
-     "chinese": "懷疑的;不確定的"
+     "chinese": "懷疑的；不確定的"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "downhearted",
     "pos": "adj.",
     "definition": "Feeling low in spirits; discouraged.",
-    "chinese": "沮喪的;灰心的",
+    "chinese": "沮喪的；灰心的",
     "synonyms": "",
     "root": "down + heart, from Old English",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Feeling low in spirits; discouraged.",
-     "chinese": "沮喪的;灰心的"
+     "chinese": "沮喪的；灰心的"
     }
    },
    {
     "word": "doxasitc",
     "pos": "adj.",
     "definition": "Relating to opinion or belief rather than proven knowledge.",
-    "chinese": "意見性的;信念性的",
+    "chinese": "意見性的；信念性的",
     "synonyms": "",
     "root": "doxa (opinion), from Greek",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to opinion or belief rather than proven knowledge.",
-     "chinese": "意見性的;信念性的"
+     "chinese": "意見性的；信念性的"
     }
    },
    {
     "word": "doxy",
     "pos": "n.",
     "definition": "A mistress or promiscuous woman (archaic/informal).",
-    "chinese": "情婦;放蕩的女人(古語)",
+    "chinese": "情婦；放蕩的女人(古語)",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A mistress or promiscuous woman (archaic/informal).",
-     "chinese": "情婦;放蕩的女人(古語)"
+     "chinese": "情婦；放蕩的女人(古語)"
     }
    },
    {
     "word": "doyen",
     "pos": "n.",
     "definition": "The most respected or senior member of a group.",
-    "chinese": "資深權威;元老",
+    "chinese": "資深權威；元老",
     "synonyms": "",
     "root": "decanus (chief of ten), from Latin",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The most respected or senior member of a group.",
-     "chinese": "資深權威;元老"
+     "chinese": "資深權威；元老"
     }
    },
    {
     "word": "doyenne",
     "pos": "n.",
     "definition": "The most respected or senior woman in a group.",
-    "chinese": "資深女性權威;女元老",
+    "chinese": "資深女性權威；女元老",
     "synonyms": "",
     "root": "decanus (chief of ten), from Latin",
     "group": "",
@@ -611,14 +611,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The most respected or senior woman in a group.",
-     "chinese": "資深女性權威;女元老"
+     "chinese": "資深女性權威；女元老"
     }
    },
    {
     "word": "drab",
     "pos": "adj.",
     "definition": "Dull and lacking brightness or color.",
-    "chinese": "單調的;灰暗的",
+    "chinese": "單調的；灰暗的",
     "synonyms": "",
     "root": "drap (cloth), from Old French",
     "group": "",
@@ -630,14 +630,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull and lacking brightness or color.",
-     "chinese": "單調的;灰暗的"
+     "chinese": "單調的；灰暗的"
     }
    },
    {
     "word": "draconian",
     "pos": "adj.",
     "definition": "Excessively harsh or severe, especially of laws.",
-    "chinese": "嚴苛的;殘酷的",
+    "chinese": "嚴苛的；殘酷的",
     "synonyms": "",
     "root": "Draco, ancient Athenian lawgiver, from Greek",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessively harsh or severe, especially of laws.",
-     "chinese": "嚴苛的;殘酷的"
+     "chinese": "嚴苛的；殘酷的"
     }
    },
    {
     "word": "dramatic",
     "pos": "adj.",
     "definition": "Striking in effect; relating to drama.",
-    "chinese": "戲劇性的;引人注目的",
+    "chinese": "戲劇性的；引人注目的",
     "synonyms": "",
     "root": "drama (deed, play), from Greek",
     "group": "",
@@ -668,14 +668,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Striking in effect; relating to drama.",
-     "chinese": "戲劇性的;引人注目的"
+     "chinese": "戲劇性的；引人注目的"
     }
    },
    {
     "word": "drawbridge",
     "pos": "n.",
     "definition": "A bridge that can be raised to prevent access or allow ships to pass.",
-    "chinese": "吊橋;開合橋",
+    "chinese": "吊橋；開合橋",
     "synonyms": "",
     "root": "draw + bridge, from Old English",
     "group": "",
@@ -687,14 +687,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A bridge that can be raised to prevent access or allow ships to pass.",
-     "chinese": "吊橋;開合橋"
+     "chinese": "吊橋；開合橋"
     }
    },
    {
     "word": "dreary",
     "pos": "adj.",
     "definition": "Dull, bleak, and depressing.",
-    "chinese": "沉悶的;陰鬱的",
+    "chinese": "沉悶的；陰鬱的",
     "synonyms": "",
     "root": "dreorig (bloody, sad), from Old English",
     "group": "",
@@ -706,7 +706,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull, bleak, and depressing.",
-     "chinese": "沉悶的;陰鬱的"
+     "chinese": "沉悶的；陰鬱的"
     }
    },
    {
@@ -770,7 +770,7 @@ window.FLASHCARD_UNITS = {
     "word": "drollery",
     "pos": "n.",
     "definition": "Amusing behavior or speech; whimsical humor.",
-    "chinese": "滑稽;詼諧言行",
+    "chinese": "滑稽；詼諧言行",
     "synonyms": "",
     "root": "drôle (funny), from French",
     "group": "",
@@ -782,14 +782,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Amusing behavior or speech; whimsical humor.",
-     "chinese": "滑稽;詼諧言行"
+     "chinese": "滑稽；詼諧言行"
     }
    },
    {
     "word": "droop",
     "pos": "v.",
     "definition": "To bend or hang downward through weakness or tiredness.",
-    "chinese": "下垂;萎靡",
+    "chinese": "下垂；萎靡",
     "synonyms": "",
     "root": "from Old Norse drupa",
     "group": "",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To bend or hang downward through weakness or tiredness.",
-     "chinese": "下垂;萎靡"
+     "chinese": "下垂；萎靡"
     }
    },
    {
     "word": "drown",
     "pos": "v.",
     "definition": "To die from submersion in liquid; to overwhelm.",
-    "chinese": "淹死;淹沒",
+    "chinese": "淹死；淹沒",
     "synonyms": "",
     "root": "drunknian, from Old English",
     "group": "",
@@ -822,14 +822,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To die from submersion in liquid; to overwhelm.",
-     "chinese": "淹死;淹沒"
+     "chinese": "淹死；淹沒"
     }
    },
    {
     "word": "drudge",
     "pos": "n./v.",
     "definition": "A person who does tedious, menial work.",
-    "chinese": "做苦工的人;做苦差事",
+    "chinese": "做苦工的人；做苦差事",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -841,7 +841,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who does tedious, menial work.",
-     "chinese": "做苦工的人;做苦差事"
+     "chinese": "做苦工的人；做苦差事"
     }
    },
    {
@@ -867,7 +867,7 @@ window.FLASHCARD_UNITS = {
     "word": "dry",
     "pos": "adj.",
     "definition": "Free from moisture; lacking interest or emotion.",
-    "chinese": "乾燥的;枯燥的",
+    "chinese": "乾燥的；枯燥的",
     "synonyms": "",
     "root": "dryge, from Old English",
     "group": "",
@@ -879,14 +879,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Free from moisture; lacking interest or emotion.",
-     "chinese": "乾燥的;枯燥的"
+     "chinese": "乾燥的；枯燥的"
     }
    },
    {
     "word": "dubiety",
     "pos": "n.",
     "definition": "A feeling of doubt or uncertainty.",
-    "chinese": "疑惑;不確定",
+    "chinese": "疑惑；不確定",
     "synonyms": "",
     "root": "dubius (doubtful), from Latin",
     "group": "",
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of doubt or uncertainty.",
-     "chinese": "疑惑;不確定"
+     "chinese": "疑惑；不確定"
     }
    },
    {
@@ -924,7 +924,7 @@ window.FLASHCARD_UNITS = {
     "word": "dudgeon",
     "pos": "n.",
     "definition": "A feeling of offense or deep resentment (often \"in high dudgeon\").",
-    "chinese": "憤慨;怨恨",
+    "chinese": "憤慨；怨恨",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -936,7 +936,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of offense or deep resentment (often \"in high dudgeon\").",
-     "chinese": "憤慨;怨恨"
+     "chinese": "憤慨；怨恨"
     }
    },
    {
@@ -2164,4 +2164,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doddering": ["Shaky from old age.", "蹣跚的；老態龍鍾的"], "dodge": ["To avoid by moving quickly; a trick to avoid something.", "躲避;詭計"], "dog's-bane": ["A poisonous plant traditionally believed to be harmful to dogs.", "犬毒草(有毒植物)"], "dogged": ["Stubborn; determined.", "頑強的"], "dogma": ["A principle or set of principles laid down by an authority as incontrovertibly true.", "教條;信條"], "dogmatic": ["Aggressively and arrogantly certain about unproved principles.", "武斷的；教條式的"], "doleful": ["Sad, melancholy.", "悲哀的"], "dolor": ["Sorrow or grief.", "悲傷;哀痛"], "dolorous": ["Showing sorrow.", "悲傷的；哀痛的"], "dolour": ["(poetry) painful grief.", "悲痛；哀傷(詩意用語)"], "dolt": ["A stupid person.", "笨蛋;蠢材"], "domesticate": ["To tame or train an animal or plant to live and reproduce in a human-controlled environment.", "馴養；馴化"], "domicile": ["Home:abode.", "住所；住宅"], "dominance": ["The state of being in control or superior.", "支配地位；優勢"], "donjon": ["The great tower or innermost keep of a castle.", "城堡主樓;地牢塔"], "doppelganger": ["A look-alike or double of a living person.", "分身;長相酷似的人"], "doppelgänger": ["A look-alike or double of a living person.", "分身;長相酷似的人"], "dormant": ["Asleep, resting.", "休眠的；靜止的"], "dorsal": ["On or near the back of an animal or organ.", "背部的；背側的"], "dorsum": ["The back or upper surface of an organ or body part.", "背部;背面"], "dossier": ["A collection of documents about a particular person or subject.", "檔案;卷宗"], "dotage": ["A period of life characterized by weakened intellect due to old age.", "老年昏聵;晚年"], "dotard": ["An old person, especially one whose mental faculties have declined.", "老糊塗;老朽"], "dote": ["To show excessive love or fondness for someone.", "溺愛;寵愛"], "double entendre": ["A word or phrase with two interpretations, one of which is risqué.", "雙關語(尤指帶曖昧意味)"], "doubtful": ["Uncertain; feeling doubt.", "懷疑的;不確定的"], "dour": ["Stern, joyless.", "冷酷的；陰沉的"], "downhearted": ["Feeling low in spirits; discouraged.", "沮喪的;灰心的"], "doxasitc": ["Relating to opinion or belief rather than proven knowledge.", "意見性的;信念性的"], "doxy": ["A mistress or promiscuous woman (archaic/informal).", "情婦;放蕩的女人(古語)"], "doyen": ["The most respected or senior member of a group.", "資深權威;元老"], "doyenne": ["The most respected or senior woman in a group.", "資深女性權威;女元老"], "drab": ["Dull and lacking brightness or color.", "單調的;灰暗的"], "draconian": ["Excessively harsh or severe, especially of laws.", "嚴苛的;殘酷的"], "dramatic": ["Striking in effect; relating to drama.", "戲劇性的;引人注目的"], "drawbridge": ["A bridge that can be raised to prevent access or allow ships to pass.", "吊橋;開合橋"], "dreary": ["Dull, bleak, and depressing.", "沉悶的;陰鬱的"], "dregs": ["Most worthless part.", "渣滓；糟粕"], "drenched": ["Soaked thoroughly with liquid.", "濕透的"], "droll": ["Curious or amusing in an odd way.", "滑稽有趣的"], "drollery": ["Amusing behavior or speech; whimsical humor.", "滑稽;詼諧言行"], "droop": ["To bend or hang downward through weakness or tiredness.", "下垂;萎靡"], "drown": ["To die from submersion in liquid; to overwhelm.", "淹死;淹沒"], "drudge": ["A person who does tedious, menial work.", "做苦工的人;做苦差事"], "drudgery": ["Unpleasant, dull, or hard work.", "苦工"], "dry": ["Free from moisture; lacking interest or emotion.", "乾燥的;枯燥的"], "dubiety": ["A feeling of doubt or uncertainty.", "疑惑;不確定"], "dubious": ["Doubtful.", "可疑的"], "dudgeon": ["A feeling of offense or deep resentment (often \"in high dudgeon\").", "憤慨;怨恨"], "dulcet": ["Sweet or melodious to the ear.", "悅耳的；甜美的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doddering": ["Shaky from old age.", "蹣跚的；老態龍鍾的"], "dodge": ["To avoid by moving quickly; a trick to avoid something.", "躲避；詭計"], "dog's-bane": ["A poisonous plant traditionally believed to be harmful to dogs.", "犬毒草(有毒植物)"], "dogged": ["Stubborn; determined.", "頑強的"], "dogma": ["A principle or set of principles laid down by an authority as incontrovertibly true.", "教條；信條"], "dogmatic": ["Aggressively and arrogantly certain about unproved principles.", "武斷的；教條式的"], "doleful": ["Sad, melancholy.", "悲哀的"], "dolor": ["Sorrow or grief.", "悲傷；哀痛"], "dolorous": ["Showing sorrow.", "悲傷的；哀痛的"], "dolour": ["(poetry) painful grief.", "悲痛；哀傷(詩意用語)"], "dolt": ["A stupid person.", "笨蛋；蠢材"], "domesticate": ["To tame or train an animal or plant to live and reproduce in a human-controlled environment.", "馴養；馴化"], "domicile": ["Home:abode.", "住所；住宅"], "dominance": ["The state of being in control or superior.", "支配地位；優勢"], "donjon": ["The great tower or innermost keep of a castle.", "城堡主樓；地牢塔"], "doppelganger": ["A look-alike or double of a living person.", "分身；長相酷似的人"], "doppelgänger": ["A look-alike or double of a living person.", "分身；長相酷似的人"], "dormant": ["Asleep, resting.", "休眠的；靜止的"], "dorsal": ["On or near the back of an animal or organ.", "背部的；背側的"], "dorsum": ["The back or upper surface of an organ or body part.", "背部；背面"], "dossier": ["A collection of documents about a particular person or subject.", "檔案；卷宗"], "dotage": ["A period of life characterized by weakened intellect due to old age.", "老年昏聵；晚年"], "dotard": ["An old person, especially one whose mental faculties have declined.", "老糊塗；老朽"], "dote": ["To show excessive love or fondness for someone.", "溺愛；寵愛"], "double entendre": ["A word or phrase with two interpretations, one of which is risqué.", "雙關語(尤指帶曖昧意味)"], "doubtful": ["Uncertain; feeling doubt.", "懷疑的；不確定的"], "dour": ["Stern, joyless.", "冷酷的；陰沉的"], "downhearted": ["Feeling low in spirits; discouraged.", "沮喪的；灰心的"], "doxasitc": ["Relating to opinion or belief rather than proven knowledge.", "意見性的；信念性的"], "doxy": ["A mistress or promiscuous woman (archaic/informal).", "情婦；放蕩的女人(古語)"], "doyen": ["The most respected or senior member of a group.", "資深權威；元老"], "doyenne": ["The most respected or senior woman in a group.", "資深女性權威；女元老"], "drab": ["Dull and lacking brightness or color.", "單調的；灰暗的"], "draconian": ["Excessively harsh or severe, especially of laws.", "嚴苛的；殘酷的"], "dramatic": ["Striking in effect; relating to drama.", "戲劇性的；引人注目的"], "drawbridge": ["A bridge that can be raised to prevent access or allow ships to pass.", "吊橋；開合橋"], "dreary": ["Dull, bleak, and depressing.", "沉悶的；陰鬱的"], "dregs": ["Most worthless part.", "渣滓；糟粕"], "drenched": ["Soaked thoroughly with liquid.", "濕透的"], "droll": ["Curious or amusing in an odd way.", "滑稽有趣的"], "drollery": ["Amusing behavior or speech; whimsical humor.", "滑稽；詼諧言行"], "droop": ["To bend or hang downward through weakness or tiredness.", "下垂；萎靡"], "drown": ["To die from submersion in liquid; to overwhelm.", "淹死；淹沒"], "drudge": ["A person who does tedious, menial work.", "做苦工的人；做苦差事"], "drudgery": ["Unpleasant, dull, or hard work.", "苦工"], "dry": ["Free from moisture; lacking interest or emotion.", "乾燥的；枯燥的"], "dubiety": ["A feeling of doubt or uncertainty.", "疑惑；不確定"], "dubious": ["Doubtful.", "可疑的"], "dudgeon": ["A feeling of offense or deep resentment (often \"in high dudgeon\").", "憤慨；怨恨"], "dulcet": ["Sweet or melodious to the ear.", "悅耳的；甜美的"]});

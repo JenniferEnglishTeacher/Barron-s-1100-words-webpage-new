@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "ovine",
     "pos": "adj.",
     "definition": "Relating to or resembling sheep.",
-    "chinese": "綿羊的;似綿羊的",
+    "chinese": "綿羊的；似綿羊的",
     "synonyms": "",
     "root": "ovis (sheep), from Latin",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or resembling sheep.",
-     "chinese": "綿羊的;似綿羊的"
+     "chinese": "綿羊的；似綿羊的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "oxytocic",
     "pos": "adj./n.",
     "definition": "Hastening childbirth by stimulating uterine contractions.",
-    "chinese": "催產的;催產藥物",
+    "chinese": "催產的；催產藥物",
     "synonyms": "",
     "root": "oxys (sharp, quick) + tokos (childbirth), from Greek",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Hastening childbirth by stimulating uterine contractions.",
-     "chinese": "催產的;催產藥物"
+     "chinese": "催產的；催產藥物"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "paean",
     "pos": "n.",
     "definition": "A song or expression of praise or triumph.",
-    "chinese": "頌歌;讚美詩",
+    "chinese": "頌歌；讚美詩",
     "synonyms": "",
     "root": "Paian, an epithet of Apollo, from Greek",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A song or expression of praise or triumph.",
-     "chinese": "頌歌;讚美詩"
+     "chinese": "頌歌；讚美詩"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "pain",
     "pos": "n./v.",
     "definition": "Physical or emotional suffering.",
-    "chinese": "疼痛;痛苦",
+    "chinese": "疼痛；痛苦",
     "synonyms": "",
     "root": "poena (penalty, punishment), from Latin, via Old French peine",
     "group": "",
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Physical or emotional suffering.",
-     "chinese": "疼痛;痛苦"
+     "chinese": "疼痛；痛苦"
     }
    },
    {
@@ -445,7 +445,7 @@ window.FLASHCARD_UNITS = {
     "word": "palter",
     "pos": "v.",
     "definition": "To talk or act insincerely; to equivocate.",
-    "chinese": "含糊其辭;搪塞",
+    "chinese": "含糊其辭；搪塞",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to paltry",
     "group": "",
@@ -457,7 +457,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To talk or act insincerely; to equivocate.",
-     "chinese": "含糊其辭;搪塞"
+     "chinese": "含糊其辭；搪塞"
     }
    },
    {
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "word": "panache",
     "pos": "n.",
     "definition": "Flamboyant confidence of style or manner.",
-    "chinese": "灑脫;風度翩翩",
+    "chinese": "灑脫；風度翩翩",
     "synonyms": "",
     "root": "pennacchio (plume), from Italian, from Latin pinna (feather)",
     "group": "",
@@ -516,14 +516,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flamboyant confidence of style or manner.",
-     "chinese": "灑脫;風度翩翩"
+     "chinese": "灑脫；風度翩翩"
     }
    },
    {
     "word": "pander",
     "pos": "v.",
     "definition": "To gratify or indulge someone's weaknesses or desires.",
-    "chinese": "迎合;縱容",
+    "chinese": "迎合；縱容",
     "synonyms": "",
     "root": "Pandare, a character from Boccaccio who arranged illicit love affairs",
     "group": "",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gratify or indulge someone's weaknesses or desires.",
-     "chinese": "迎合;縱容"
+     "chinese": "迎合；縱容"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "panoply",
     "pos": "n.",
     "definition": "A complete or impressive collection of things.",
-    "chinese": "全套裝備;琳瑯滿目的展示",
+    "chinese": "全套裝備；琳瑯滿目的展示",
     "synonyms": "",
     "root": "panoplia (full armor), from Greek pan- (all) + hopla (arms)",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A complete or impressive collection of things.",
-     "chinese": "全套裝備;琳瑯滿目的展示"
+     "chinese": "全套裝備；琳瑯滿目的展示"
     }
    },
    {
     "word": "paradigmatic",
     "pos": "adj.",
     "definition": "Serving as a typical example or model.",
-    "chinese": "典範的;範例性的",
+    "chinese": "典範的；範例性的",
     "synonyms": "",
     "root": "paradeigma (pattern, example), from Greek para- (beside) + deiknynai (to show)",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving as a typical example or model.",
-     "chinese": "典範的;範例性的"
+     "chinese": "典範的；範例性的"
     }
    },
    {
     "word": "paralyze",
     "pos": "v.",
     "definition": "To render unable to move or act; to bring to a standstill.",
-    "chinese": "使癱瘓;使停頓",
+    "chinese": "使癱瘓；使停頓",
     "synonyms": "",
     "root": "paralyein (to disable), from Greek para- (beside) + lyein (to loosen)",
     "group": "",
@@ -613,14 +613,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To render unable to move or act; to bring to a standstill.",
-     "chinese": "使癱瘓;使停頓"
+     "chinese": "使癱瘓；使停頓"
     }
    },
    {
     "word": "paramour",
     "pos": "n.",
     "definition": "A lover, especially one in an illicit relationship.",
-    "chinese": "情夫;情婦",
+    "chinese": "情夫；情婦",
     "synonyms": "",
     "root": "par amour (by love), from Old French",
     "group": "",
@@ -632,7 +632,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lover, especially one in an illicit relationship.",
-     "chinese": "情夫;情婦"
+     "chinese": "情夫；情婦"
     }
    },
    {
@@ -658,7 +658,7 @@ window.FLASHCARD_UNITS = {
     "word": "parisienne",
     "pos": "n./adj.",
     "definition": "A woman from Paris; relating to Parisian style.",
-    "chinese": "巴黎女子;巴黎風格的",
+    "chinese": "巴黎女子；巴黎風格的",
     "synonyms": "",
     "root": "Parisien (of Paris), from French",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A woman from Paris; relating to Parisian style.",
-     "chinese": "巴黎女子;巴黎風格的"
+     "chinese": "巴黎女子；巴黎風格的"
     }
    },
    {
     "word": "parity",
     "pos": "n.",
     "definition": "Equality in status, power, or value.",
-    "chinese": "平等;對等",
+    "chinese": "平等；對等",
     "synonyms": "",
     "root": "par (equal), from Latin",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Equality in status, power, or value.",
-     "chinese": "平等;對等"
+     "chinese": "平等；對等"
     }
    },
    {
     "word": "parochial",
     "pos": "adj.",
     "definition": "Having a limited or narrow outlook; relating to a church parish.",
-    "chinese": "狹隘的;教區的",
+    "chinese": "狹隘的；教區的",
     "synonyms": "",
     "root": "parochia (parish), from Greek paroikia (dwelling near)",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a limited or narrow outlook; relating to a church parish.",
-     "chinese": "狹隘的;教區的"
+     "chinese": "狹隘的；教區的"
     }
    },
    {
@@ -753,7 +753,7 @@ window.FLASHCARD_UNITS = {
     "word": "partiality",
     "pos": "n.",
     "definition": "Unfair bias in favor of one thing or person; a liking for something.",
-    "chinese": "偏袒;偏愛",
+    "chinese": "偏袒；偏愛",
     "synonyms": "",
     "root": "partialis (partial), from Latin pars (part)",
     "group": "",
@@ -765,7 +765,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unfair bias in favor of one thing or person; a liking for something.",
-     "chinese": "偏袒;偏愛"
+     "chinese": "偏袒；偏愛"
     }
    },
    {
@@ -793,7 +793,7 @@ window.FLASHCARD_UNITS = {
     "word": "parturient",
     "pos": "adj.",
     "definition": "About to give birth; relating to childbirth.",
-    "chinese": "臨盆的;將產的",
+    "chinese": "臨盆的；將產的",
     "synonyms": "",
     "root": "parturire (to be in labor), from Latin parere (to bring forth)",
     "group": "",
@@ -805,7 +805,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "About to give birth; relating to childbirth.",
-     "chinese": "臨盆的;將產的"
+     "chinese": "臨盆的；將產的"
     }
    },
    {
@@ -850,7 +850,7 @@ window.FLASHCARD_UNITS = {
     "word": "pasquinade",
     "pos": "n.",
     "definition": "A satire or lampoon, especially one posted in a public place.",
-    "chinese": "諷刺短文;張貼的諷刺文",
+    "chinese": "諷刺短文；張貼的諷刺文",
     "synonyms": "",
     "root": "named after Pasquino, a Roman statue used to post satirical verses",
     "group": "",
@@ -864,14 +864,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A satire or lampoon, especially one posted in a public place.",
-     "chinese": "諷刺短文;張貼的諷刺文"
+     "chinese": "諷刺短文；張貼的諷刺文"
     }
    },
    {
     "word": "past master",
     "pos": "n.",
     "definition": "A person with great skill or experience in a particular activity.",
-    "chinese": "老手;箇中高手",
+    "chinese": "老手；箇中高手",
     "synonyms": "",
     "root": "past + master, from Latin magister (master)",
     "group": "",
@@ -883,7 +883,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person with great skill or experience in a particular activity.",
-     "chinese": "老手;箇中高手"
+     "chinese": "老手；箇中高手"
     }
    },
    {
@@ -909,7 +909,7 @@ window.FLASHCARD_UNITS = {
     "word": "pastiche",
     "pos": "n.",
     "definition": "A work of art imitating the style of previous works.",
-    "chinese": "拼貼作品;仿作",
+    "chinese": "拼貼作品；仿作",
     "synonyms": "",
     "root": "pasticcio (pie, medley), from Italian, from Latin pasta (paste)",
     "group": "",
@@ -921,14 +921,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A work of art imitating the style of previous works.",
-     "chinese": "拼貼作品;仿作"
+     "chinese": "拼貼作品；仿作"
     }
    },
    {
     "word": "pastoral",
     "pos": "adj.",
     "definition": "Relating to the countryside or rural life; relating to spiritual guidance.",
-    "chinese": "田園的;牧師的",
+    "chinese": "田園的；牧師的",
     "synonyms": "",
     "root": "pastor (shepherd), from Latin pascere (to feed)",
     "group": "",
@@ -940,14 +940,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the countryside or rural life; relating to spiritual guidance.",
-     "chinese": "田園的;牧師的"
+     "chinese": "田園的；牧師的"
     }
    },
    {
     "word": "paterfamilias",
     "pos": "n.",
     "definition": "The male head of a family or household.",
-    "chinese": "家長;一家之主",
+    "chinese": "家長；一家之主",
     "synonyms": "",
     "root": "pater (father) + familias (of the family), from Latin",
     "group": "",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The male head of a family or household.",
-     "chinese": "家長;一家之主"
+     "chinese": "家長；一家之主"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"oviform": ["Having the shape of an egg.", "卵形的"], "ovine": ["Relating to or resembling sheep.", "綿羊的;似綿羊的"], "oviparous": ["Reproducing by laying eggs.", "卵生的"], "oxymoron": ["A figure of speech combining contradictory terms.", "矛盾修辭法"], "oxymoronic": ["Having the quality of combining contradictory terms.", "矛盾修辭的"], "oxytocic": ["Hastening childbirth by stimulating uterine contractions.", "催產的;催產藥物"], "pachyderm": ["A large mammal with thick skin, such as an elephant or hippo.", "厚皮動物"], "paean": ["A song or expression of praise or triumph.", "頌歌;讚美詩"], "paediatrics": ["The branch of medicine concerned with the treatment of infants and children.", "小兒科學"], "pain": ["Physical or emotional suffering.", "疼痛;痛苦"], "palatable": ["Pleasing to the taste buds.", "可口的"], "palaverer": ["A person who engages in idle or lengthy chatter.", "喋喋不休的人"], "pale": ["Very light in color or highly diluted with white.", "蒼白的；淡色的"], "palette": ["A range of colors or qualities.", "調色盤；色彩範圍"], "palindrome": ["A word or phrase that reads the same backward as forward.", "迴文"], "pall": ["To cease to please, become dull.", "失去吸引力；令人生厭"], "palliate": ["To alleviate, relieve without curing.", "減輕；掩飾"], "pallid": ["Lacking color.", "蒼白的；無血色的"], "pallor": ["An unnatural lack of color in the skin.", "蒼白；臉色差"], "palmistry": ["The practice of predicting a person's future by reading the lines on their palm.", "手相術"], "palpable": ["Able to be touched or felt; tangible; clear to the mind or senses.", "明顯的；可感知的"], "palpate": ["To examine by touch, especially medically.", "觸診"], "palpation": ["The act of examining by touch.", "觸診"], "palter": ["To talk or act insincerely; to equivocate.", "含糊其辭;搪塞"], "paltry": ["Petty, worthless.", "微不足道的"], "pamphlet": ["A small unbound booklet, often on a political or educational topic.", "小冊子"], "panache": ["Flamboyant confidence of style or manner.", "灑脫;風度翩翩"], "pander": ["To gratify or indulge someone's weaknesses or desires.", "迎合;縱容"], "pandiculation": ["The act of stretching and yawning, especially upon waking.", "伸懶腰打呵欠"], "panoply": ["A complete or impressive collection of things.", "全套裝備;琳瑯滿目的展示"], "paradigmatic": ["Serving as a typical example or model.", "典範的;範例性的"], "paralyze": ["To render unable to move or act; to bring to a standstill.", "使癱瘓;使停頓"], "paramour": ["A lover, especially one in an illicit relationship.", "情夫;情婦"], "pariah": ["A social outcast.", "賤民；被排斥者"], "parisienne": ["A woman from Paris; relating to Parisian style.", "巴黎女子;巴黎風格的"], "parity": ["Equality in status, power, or value.", "平等;對等"], "parochial": ["Having a limited or narrow outlook; relating to a church parish.", "狹隘的;教區的"], "parsimonious": ["Miserly.", "吝嗇的；極度節儉的"], "parsimony": ["Frugality, stinginess.", "吝嗇；節儉"], "partiality": ["Unfair bias in favor of one thing or person; a liking for something.", "偏袒;偏愛"], "partisan": ["A follower, adherent.", "黨派人士；擁護者"], "parturient": ["About to give birth; relating to childbirth.", "臨盆的;將產的"], "parturition": ["The act of giving birth.", "分娩"], "parvenu": ["A person who has recently gained wealth or social status but lacks the manners expected of it.", "暴發戶"], "pasquinade": ["A satire or lampoon, especially one posted in a public place.", "諷刺短文;張貼的諷刺文"], "past master": ["A person with great skill or experience in a particular activity.", "老手;箇中高手"], "pasteurize": ["To heat a liquid, especially milk, to destroy harmful microorganisms.", "巴氏殺菌"], "pastiche": ["A work of art imitating the style of previous works.", "拼貼作品;仿作"], "pastoral": ["Relating to the countryside or rural life; relating to spiritual guidance.", "田園的;牧師的"], "paterfamilias": ["The male head of a family or household.", "家長;一家之主"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"oviform": ["Having the shape of an egg.", "卵形的"], "ovine": ["Relating to or resembling sheep.", "綿羊的；似綿羊的"], "oviparous": ["Reproducing by laying eggs.", "卵生的"], "oxymoron": ["A figure of speech combining contradictory terms.", "矛盾修辭法"], "oxymoronic": ["Having the quality of combining contradictory terms.", "矛盾修辭的"], "oxytocic": ["Hastening childbirth by stimulating uterine contractions.", "催產的；催產藥物"], "pachyderm": ["A large mammal with thick skin, such as an elephant or hippo.", "厚皮動物"], "paean": ["A song or expression of praise or triumph.", "頌歌；讚美詩"], "paediatrics": ["The branch of medicine concerned with the treatment of infants and children.", "小兒科學"], "pain": ["Physical or emotional suffering.", "疼痛；痛苦"], "palatable": ["Pleasing to the taste buds.", "可口的"], "palaverer": ["A person who engages in idle or lengthy chatter.", "喋喋不休的人"], "pale": ["Very light in color or highly diluted with white.", "蒼白的；淡色的"], "palette": ["A range of colors or qualities.", "調色盤；色彩範圍"], "palindrome": ["A word or phrase that reads the same backward as forward.", "迴文"], "pall": ["To cease to please, become dull.", "失去吸引力；令人生厭"], "palliate": ["To alleviate, relieve without curing.", "減輕；掩飾"], "pallid": ["Lacking color.", "蒼白的；無血色的"], "pallor": ["An unnatural lack of color in the skin.", "蒼白；臉色差"], "palmistry": ["The practice of predicting a person's future by reading the lines on their palm.", "手相術"], "palpable": ["Able to be touched or felt; tangible; clear to the mind or senses.", "明顯的；可感知的"], "palpate": ["To examine by touch, especially medically.", "觸診"], "palpation": ["The act of examining by touch.", "觸診"], "palter": ["To talk or act insincerely; to equivocate.", "含糊其辭；搪塞"], "paltry": ["Petty, worthless.", "微不足道的"], "pamphlet": ["A small unbound booklet, often on a political or educational topic.", "小冊子"], "panache": ["Flamboyant confidence of style or manner.", "灑脫；風度翩翩"], "pander": ["To gratify or indulge someone's weaknesses or desires.", "迎合；縱容"], "pandiculation": ["The act of stretching and yawning, especially upon waking.", "伸懶腰打呵欠"], "panoply": ["A complete or impressive collection of things.", "全套裝備；琳瑯滿目的展示"], "paradigmatic": ["Serving as a typical example or model.", "典範的；範例性的"], "paralyze": ["To render unable to move or act; to bring to a standstill.", "使癱瘓；使停頓"], "paramour": ["A lover, especially one in an illicit relationship.", "情夫；情婦"], "pariah": ["A social outcast.", "賤民；被排斥者"], "parisienne": ["A woman from Paris; relating to Parisian style.", "巴黎女子；巴黎風格的"], "parity": ["Equality in status, power, or value.", "平等；對等"], "parochial": ["Having a limited or narrow outlook; relating to a church parish.", "狹隘的；教區的"], "parsimonious": ["Miserly.", "吝嗇的；極度節儉的"], "parsimony": ["Frugality, stinginess.", "吝嗇；節儉"], "partiality": ["Unfair bias in favor of one thing or person; a liking for something.", "偏袒；偏愛"], "partisan": ["A follower, adherent.", "黨派人士；擁護者"], "parturient": ["About to give birth; relating to childbirth.", "臨盆的；將產的"], "parturition": ["The act of giving birth.", "分娩"], "parvenu": ["A person who has recently gained wealth or social status but lacks the manners expected of it.", "暴發戶"], "pasquinade": ["A satire or lampoon, especially one posted in a public place.", "諷刺短文；張貼的諷刺文"], "past master": ["A person with great skill or experience in a particular activity.", "老手；箇中高手"], "pasteurize": ["To heat a liquid, especially milk, to destroy harmful microorganisms.", "巴氏殺菌"], "pastiche": ["A work of art imitating the style of previous works.", "拼貼作品；仿作"], "pastoral": ["Relating to the countryside or rural life; relating to spiritual guidance.", "田園的；牧師的"], "paterfamilias": ["The male head of a family or household.", "家長；一家之主"]});

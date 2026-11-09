@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "immutability",
     "pos": "n.",
     "definition": "The quality of being unchangeable.",
-    "chinese": "不變性;永恆不變",
+    "chinese": "不變性；永恆不變",
     "synonyms": "",
     "root": "in- (not) + mutare (to change), from Latin",
     "group": "mut = 改變",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being unchangeable.",
-     "chinese": "不變性;永恆不變"
+     "chinese": "不變性；永恆不變"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "mutant",
     "pos": "n./adj.",
     "definition": "An organism with altered genetic characteristics; having undergone mutation.",
-    "chinese": "突變體;突變的",
+    "chinese": "突變體；突變的",
     "synonyms": "",
     "root": "mutare (to change), from Latin",
     "group": "mut = 改變",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An organism with altered genetic characteristics; having undergone mutation.",
-     "chinese": "突變體;突變的"
+     "chinese": "突變體；突變的"
     }
    },
    {
     "word": "mutate",
     "pos": "v.",
     "definition": "To change in form or nature, especially genetically.",
-    "chinese": "突變;改變",
+    "chinese": "突變；改變",
     "synonyms": "",
     "root": "mutare (to change), from Latin",
     "group": "mut = 改變",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To change in form or nature, especially genetically.",
-     "chinese": "突變;改變"
+     "chinese": "突變；改變"
     }
    },
    {
     "word": "mutation",
     "pos": "n.",
     "definition": "A change in genetic structure; a significant change.",
-    "chinese": "突變;變異",
+    "chinese": "突變；變異",
     "synonyms": "",
     "root": "mutare (to change), from Latin",
     "group": "mut = 改變",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A change in genetic structure; a significant change.",
-     "chinese": "突變;變異"
+     "chinese": "突變；變異"
     }
    },
    {
     "word": "permutation",
     "pos": "n.",
     "definition": "A way in which a set of things can be ordered or arranged.",
-    "chinese": "排列組合;變化",
+    "chinese": "排列組合；變化",
     "synonyms": "",
     "root": "permutare (to change thoroughly), from Latin per- (thoroughly) + mutare (to change)",
     "group": "mut = 改變",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A way in which a set of things can be ordered or arranged.",
-     "chinese": "排列組合;變化"
+     "chinese": "排列組合；變化"
     }
    },
    {
     "word": "transmutation",
     "pos": "n.",
     "definition": "The action of changing from one form, nature, or substance into another.",
-    "chinese": "變化;嬗變",
+    "chinese": "變化；嬗變",
     "synonyms": "",
     "root": "transmutare, from Latin trans- (across) + mutare (to change)",
     "group": "mut = 改變",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The action of changing from one form, nature, or substance into another.",
-     "chinese": "變化;嬗變"
+     "chinese": "變化；嬗變"
     }
    },
    {
@@ -397,4 +397,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"immutability": ["The quality of being unchangeable.", "不變性;永恆不變"], "immutable": ["Not changeable.", "不可改變的；永恆的"], "mutable": ["Able to change.", "可變的；易變的"], "mutant": ["An organism with altered genetic characteristics; having undergone mutation.", "突變體;突變的"], "mutate": ["To change in form or nature, especially genetically.", "突變;改變"], "mutation": ["A change in genetic structure; a significant change.", "突變;變異"], "permutation": ["A way in which a set of things can be ordered or arranged.", "排列組合;變化"], "transmutation": ["The action of changing from one form, nature, or substance into another.", "變化;嬗變"], "transmute": ["To change or alter in form.", "使變形；使轉化"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"immutability": ["The quality of being unchangeable.", "不變性；永恆不變"], "immutable": ["Not changeable.", "不可改變的；永恆的"], "mutable": ["Able to change.", "可變的；易變的"], "mutant": ["An organism with altered genetic characteristics; having undergone mutation.", "突變體；突變的"], "mutate": ["To change in form or nature, especially genetically.", "突變；改變"], "mutation": ["A change in genetic structure; a significant change.", "突變；變異"], "permutation": ["A way in which a set of things can be ordered or arranged.", "排列組合；變化"], "transmutation": ["The action of changing from one form, nature, or substance into another.", "變化；嬗變"], "transmute": ["To change or alter in form.", "使變形；使轉化"]});

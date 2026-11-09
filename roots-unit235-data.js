@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "weaken",
     "pos": "v.",
     "definition": "To make or become less strong.",
-    "chinese": "使虛弱;削弱",
+    "chinese": "使虛弱；削弱",
     "synonyms": "",
     "root": "weak, from Old English wac + -en",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become less strong.",
-     "chinese": "使虛弱;削弱"
+     "chinese": "使虛弱；削弱"
     }
    },
    {
     "word": "weariness",
     "pos": "n.",
     "definition": "Extreme tiredness; a lack of enthusiasm.",
-    "chinese": "疲憊;厭倦",
+    "chinese": "疲憊；厭倦",
     "synonyms": "",
     "root": "werig (weary), from Old English",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme tiredness; a lack of enthusiasm.",
-     "chinese": "疲憊;厭倦"
+     "chinese": "疲憊；厭倦"
     }
    },
    {
     "word": "weary",
     "pos": "adj./v.",
     "definition": "Extremely tired; to become tired of something.",
-    "chinese": "疲憊的;厭倦",
+    "chinese": "疲憊的；厭倦",
     "synonyms": "",
     "root": "werig (weary), from Old English",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely tired; to become tired of something.",
-     "chinese": "疲憊的;厭倦"
+     "chinese": "疲憊的；厭倦"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "weltschmerz",
     "pos": "n.",
     "definition": "A feeling of melancholy or world-weariness caused by comparing the ideal with the real.",
-    "chinese": "世界苦悶;厭世感",
+    "chinese": "世界苦悶；厭世感",
     "synonyms": "",
     "root": "Welt (world) + Schmerz (pain), from German",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of melancholy or world-weariness caused by comparing the ideal with the real.",
-     "chinese": "世界苦悶;厭世感"
+     "chinese": "世界苦悶；厭世感"
     }
    },
    {
     "word": "wen",
     "pos": "n.",
     "definition": "A benign cyst on the skin, especially on the scalp.",
-    "chinese": "皮脂囊腫;粉瘤",
+    "chinese": "皮脂囊腫；粉瘤",
     "synonyms": "",
     "root": "wenn (a wen, tumor), from Old English",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A benign cyst on the skin, especially on the scalp.",
-     "chinese": "皮脂囊腫;粉瘤"
+     "chinese": "皮脂囊腫；粉瘤"
     }
    },
    {
@@ -198,7 +198,7 @@ window.FLASHCARD_UNITS = {
     "word": "whim",
     "pos": "n.",
     "definition": "A sudden desire or change of mind, especially without a clear reason.",
-    "chinese": "一時興起;突發奇想",
+    "chinese": "一時興起；突發奇想",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to whimsy or Old Norse hvima (to wander with the eyes)",
     "group": "",
@@ -210,7 +210,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A sudden desire or change of mind, especially without a clear reason.",
-     "chinese": "一時興起;突發奇想"
+     "chinese": "一時興起；突發奇想"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "whimsicality",
     "pos": "n.",
     "definition": "The quality of being playfully quaint or fanciful.",
-    "chinese": "異想天開;古怪有趣",
+    "chinese": "異想天開；古怪有趣",
     "synonyms": "",
     "root": "whimsy, of uncertain origin, related to whim-wham + -ical + -ity",
     "group": "",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being playfully quaint or fanciful.",
-     "chinese": "異想天開;古怪有趣"
+     "chinese": "異想天開；古怪有趣"
     }
    },
    {
     "word": "whimsy",
     "pos": "n.",
     "definition": "Playfully quaint or fanciful behavior or humor.",
-    "chinese": "異想天開;古怪念頭",
+    "chinese": "異想天開；古怪念頭",
     "synonyms": "",
     "root": "of uncertain origin, related to whim-wham, a fanciful English coinage",
     "group": "",
@@ -267,14 +267,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Playfully quaint or fanciful behavior or humor.",
-     "chinese": "異想天開;古怪念頭"
+     "chinese": "異想天開；古怪念頭"
     }
    },
    {
     "word": "wholesome",
     "pos": "adj.",
     "definition": "Conducive to good health or moral well-being.",
-    "chinese": "有益健康的;有益身心的",
+    "chinese": "有益健康的；有益身心的",
     "synonyms": "",
     "root": "hal (whole, healthy), from Old English + -some",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Conducive to good health or moral well-being.",
-     "chinese": "有益健康的;有益身心的"
+     "chinese": "有益健康的；有益身心的"
     }
    },
    {
@@ -407,7 +407,7 @@ window.FLASHCARD_UNITS = {
     "word": "winning",
     "pos": "adj.",
     "definition": "Charming and attractive; successful.",
-    "chinese": "討人喜歡的;獲勝的",
+    "chinese": "討人喜歡的；獲勝的",
     "synonyms": "",
     "root": "win, from Old English winnan (to struggle, labor)",
     "group": "",
@@ -419,7 +419,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Charming and attractive; successful.",
-     "chinese": "討人喜歡的;獲勝的"
+     "chinese": "討人喜歡的；獲勝的"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "wit",
     "pos": "n.",
     "definition": "The ability to speak or write cleverly and humorously.",
-    "chinese": "機智;風趣",
+    "chinese": "機智；風趣",
     "synonyms": "",
     "root": "witt (knowledge, mind), from Old English witan (to know)",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ability to speak or write cleverly and humorously.",
-     "chinese": "機智;風趣"
+     "chinese": "機智；風趣"
     }
    },
    {
@@ -525,7 +525,7 @@ window.FLASHCARD_UNITS = {
     "word": "wither",
     "pos": "v.",
     "definition": "To become dry and shriveled, especially from lack of water.",
-    "chinese": "枯萎;凋謝",
+    "chinese": "枯萎；凋謝",
     "synonyms": "",
     "root": "wederen (to expose to weather), from Middle English, related to weather",
     "group": "",
@@ -537,14 +537,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become dry and shriveled, especially from lack of water.",
-     "chinese": "枯萎;凋謝"
+     "chinese": "枯萎；凋謝"
     }
    },
    {
     "word": "witless",
     "pos": "adj.",
     "definition": "Lacking intelligence or good sense.",
-    "chinese": "愚蠢的;無知的",
+    "chinese": "愚蠢的；無知的",
     "synonyms": "",
     "root": "witt (knowledge, mind), from Old English + -less",
     "group": "",
@@ -556,7 +556,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking intelligence or good sense.",
-     "chinese": "愚蠢的;無知的"
+     "chinese": "愚蠢的；無知的"
     }
    },
    {
@@ -582,7 +582,7 @@ window.FLASHCARD_UNITS = {
     "word": "witticism",
     "pos": "n.",
     "definition": "A witty remark.",
-    "chinese": "妙語;俏皮話",
+    "chinese": "妙語；俏皮話",
     "synonyms": "",
     "root": "witty, from Old English witig + -ism, coined on the pattern of criticism",
     "group": "",
@@ -596,14 +596,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A witty remark.",
-     "chinese": "妙語;俏皮話"
+     "chinese": "妙語；俏皮話"
     }
    },
    {
     "word": "witzelsucht",
     "pos": "n.",
     "definition": "A pathological tendency to make inappropriate jokes, often linked to brain injury.",
-    "chinese": "戲謔癖;病理性愛開玩笑症",
+    "chinese": "戲謔癖；病理性愛開玩笑症",
     "synonyms": "",
     "root": "Witz (joke) + Sucht (addiction), from German",
     "group": "",
@@ -615,14 +615,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A pathological tendency to make inappropriate jokes, often linked to brain injury.",
-     "chinese": "戲謔癖;病理性愛開玩笑症"
+     "chinese": "戲謔癖；病理性愛開玩笑症"
     }
    },
    {
     "word": "wizen",
     "pos": "v./adj.",
     "definition": "To become dry, shriveled, and wrinkled, especially with age.",
-    "chinese": "枯萎乾癟;乾癟的",
+    "chinese": "枯萎乾癟；乾癟的",
     "synonyms": "",
     "root": "wisnian (to wither), from Old English",
     "group": "",
@@ -636,7 +636,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To become dry, shriveled, and wrinkled, especially with age.",
-     "chinese": "枯萎乾癟;乾癟的"
+     "chinese": "枯萎乾癟；乾癟的"
     }
    },
    {
@@ -662,7 +662,7 @@ window.FLASHCARD_UNITS = {
     "word": "woe",
     "pos": "n.",
     "definition": "Great sorrow or distress; trouble.",
-    "chinese": "悲哀;苦難",
+    "chinese": "悲哀；苦難",
     "synonyms": "",
     "root": "wa (woe), from Old English, of imitative origin",
     "group": "",
@@ -674,14 +674,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Great sorrow or distress; trouble.",
-     "chinese": "悲哀;苦難"
+     "chinese": "悲哀；苦難"
     }
    },
    {
     "word": "woeful",
     "pos": "adj.",
     "definition": "Characterized by or expressing great sorrow; very bad.",
-    "chinese": "悲哀的;糟糕透頂的",
+    "chinese": "悲哀的；糟糕透頂的",
     "synonyms": "",
     "root": "woe, from Old English wa + -ful",
     "group": "",
@@ -693,7 +693,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characterized by or expressing great sorrow; very bad.",
-     "chinese": "悲哀的;糟糕透頂的"
+     "chinese": "悲哀的；糟糕透頂的"
     }
    },
    {
@@ -719,7 +719,7 @@ window.FLASHCARD_UNITS = {
     "word": "worsen",
     "pos": "v.",
     "definition": "To make or become worse.",
-    "chinese": "惡化;使變壞",
+    "chinese": "惡化；使變壞",
     "synonyms": "",
     "root": "wyrsian (to become worse), from Old English wyrsa (worse)",
     "group": "",
@@ -731,14 +731,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become worse.",
-     "chinese": "惡化;使變壞"
+     "chinese": "惡化；使變壞"
     }
    },
    {
     "word": "worthless",
     "pos": "adj.",
     "definition": "Having no value, use, or importance.",
-    "chinese": "毫無價值的;無用的",
+    "chinese": "毫無價值的；無用的",
     "synonyms": "",
     "root": "worth, from Old English weorþ + -less",
     "group": "",
@@ -750,14 +750,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having no value, use, or importance.",
-     "chinese": "毫無價值的;無用的"
+     "chinese": "毫無價值的；無用的"
     }
    },
    {
     "word": "wraith",
     "pos": "n.",
     "definition": "A ghost or ghostlike image of a person.",
-    "chinese": "鬼魂;幽靈",
+    "chinese": "鬼魂；幽靈",
     "synonyms": "",
     "root": "of uncertain Scottish origin, possibly related to Old Norse vörðr (guardian)",
     "group": "",
@@ -769,14 +769,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A ghost or ghostlike image of a person.",
-     "chinese": "鬼魂;幽靈"
+     "chinese": "鬼魂；幽靈"
     }
    },
    {
     "word": "wrangle",
     "pos": "v./n.",
     "definition": "To have a long, complicated dispute or argument.",
-    "chinese": "爭吵;口角",
+    "chinese": "爭吵；口角",
     "synonyms": "",
     "root": "wranglen, from Middle English, related to Low German wrangeln (to struggle)",
     "group": "",
@@ -788,7 +788,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To have a long, complicated dispute or argument.",
-     "chinese": "爭吵;口角"
+     "chinese": "爭吵；口角"
     }
    },
    {
@@ -854,7 +854,7 @@ window.FLASHCARD_UNITS = {
     "word": "wry",
     "pos": "adj.",
     "definition": "Using dry, ironic humor; twisted or distorted.",
-    "chinese": "諷刺的;歪斜的",
+    "chinese": "諷刺的；歪斜的",
     "synonyms": "",
     "root": "wrigian (to turn, twist), from Old English",
     "group": "",
@@ -866,14 +866,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using dry, ironic humor; twisted or distorted.",
-     "chinese": "諷刺的;歪斜的"
+     "chinese": "諷刺的；歪斜的"
     }
    },
    {
     "word": "xanthippe",
     "pos": "n.",
     "definition": "An ill-tempered, nagging woman (from the name of Socrates's wife).",
-    "chinese": "悍婦;潑婦(源自蘇格拉底之妻之名)",
+    "chinese": "悍婦；潑婦(源自蘇格拉底之妻之名)",
     "synonyms": "",
     "root": "named after Xanthippe, the wife of the philosopher Socrates",
     "group": "",
@@ -885,7 +885,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An ill-tempered, nagging woman (from the name of Socrates's wife).",
-     "chinese": "悍婦;潑婦(源自蘇格拉底之妻之名)"
+     "chinese": "悍婦；潑婦(源自蘇格拉底之妻之名)"
     }
    },
    {
@@ -913,7 +913,7 @@ window.FLASHCARD_UNITS = {
     "word": "xenophilia",
     "pos": "n.",
     "definition": "An attraction to or love of foreign people, customs, or things.",
-    "chinese": "親外情結;喜好外國事物",
+    "chinese": "親外情結；喜好外國事物",
     "synonyms": "",
     "root": "xenos (stranger, foreign) + philia (love), from Greek",
     "group": "",
@@ -925,7 +925,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An attraction to or love of foreign people, customs, or things.",
-     "chinese": "親外情結;喜好外國事物"
+     "chinese": "親外情結；喜好外國事物"
     }
    },
    {
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"weaken": ["To make or become less strong.", "使虛弱;削弱"], "weariness": ["Extreme tiredness; a lack of enthusiasm.", "疲憊;厭倦"], "weary": ["Extremely tired; to become tired of something.", "疲憊的;厭倦"], "well-bred": ["Having good manners as a result of upbringing.", "教養良好的"], "weltanschauung": ["A particular philosophy or view of life; a worldview.", "世界觀"], "weltschmerz": ["A feeling of melancholy or world-weariness caused by comparing the ideal with the real.", "世界苦悶;厭世感"], "wen": ["A benign cyst on the skin, especially on the scalp.", "皮脂囊腫;粉瘤"], "wether": ["A castrated male sheep.", "閹羊"], "wheedle": ["To coax, persuade, cajole.", "哄騙；誘騙"], "whet": ["To stimulate, stir up.", "刺激；磨快"], "whim": ["A sudden desire or change of mind, especially without a clear reason.", "一時興起;突發奇想"], "whimsical": ["Humorous, witty.", "古怪的；異想天開的"], "whimsicality": ["The quality of being playfully quaint or fanciful.", "異想天開;古怪有趣"], "whimsy": ["Playfully quaint or fanciful behavior or humor.", "異想天開;古怪念頭"], "wholesome": ["Conducive to good health or moral well-being.", "有益健康的;有益身心的"], "whore": ["A prostitute; a promiscuous person (offensive, archaic in some uses).", "妓女(冒犯性用語,部分用法屬古語)"], "widespread": ["Found or occurring over a large area.", "普遍的；廣泛的"], "willful": ["Stubborn.", "任性的；固執的"], "wily": ["Crafty, sly.", "狡猾的；機靈的"], "wince": ["To draw back, flinch.", "退縮；畏縮"], "windbag": ["A person who talks a great deal but says little of value (informal).", "誇誇其談的人(非正式)"], "winning": ["Charming and attractive; successful.", "討人喜歡的;獲勝的"], "winsome": ["Attractive or appealing in a charming or pleasing way.", "迷人的；討人喜歡的"], "wisteria": ["A climbing plant with clusters of purple or white flowers.", "紫藤"], "wistful": ["Wishful, pensive, longing.", "渴望的；惆悵的"], "wit": ["The ability to speak or write cleverly and humorously.", "機智;風趣"], "withdraw": ["To remove or retreat.", "撤回；退出"], "wither": ["To become dry and shriveled, especially from lack of water.", "枯萎;凋謝"], "witless": ["Lacking intelligence or good sense.", "愚蠢的;無知的"], "witling": ["A person who fancies themselves clever or witty but is not (derogatory).", "自以為機智的人(貶義)"], "witticism": ["A witty remark.", "妙語;俏皮話"], "witzelsucht": ["A pathological tendency to make inappropriate jokes, often linked to brain injury.", "戲謔癖;病理性愛開玩笑症"], "wizen": ["To become dry, shriveled, and wrinkled, especially with age.", "枯萎乾癟;乾癟的"], "wizened": ["Dry, shrunken, wrinkled.", "乾癟的；皺縮的"], "woe": ["Great sorrow or distress; trouble.", "悲哀;苦難"], "woeful": ["Characterized by or expressing great sorrow; very bad.", "悲哀的;糟糕透頂的"], "wolfsbane": ["A poisonous plant, also known as aconite or monkshood.", "烏頭(有毒植物)"], "worsen": ["To make or become worse.", "惡化;使變壞"], "worthless": ["Having no value, use, or importance.", "毫無價值的;無用的"], "wraith": ["A ghost or ghostlike image of a person.", "鬼魂;幽靈"], "wrangle": ["To have a long, complicated dispute or argument.", "爭吵;口角"], "wrath": ["Vengeful anger, punishment.", "憤怒；天譴"], "wrest": ["To take by force.", "奪取"], "wretch": ["Someone you feel sorry for.", "可憐蟲；悲慘的人"], "wry": ["Using dry, ironic humor; twisted or distorted.", "諷刺的;歪斜的"], "xanthippe": ["An ill-tempered, nagging woman (from the name of Socrates's wife).", "悍婦;潑婦(源自蘇格拉底之妻之名)"], "xenomania": ["An excessive enthusiasm for foreign things or customs.", "崇洋狂熱"], "xenophilia": ["An attraction to or love of foreign people, customs, or things.", "親外情結;喜好外國事物"], "xenophobe": ["A person with an intense dislike or fear of foreigners.", "仇外者"], "xenophobia": ["An intense dislike or fear of foreigners or foreign things.", "仇外心理"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"weaken": ["To make or become less strong.", "使虛弱；削弱"], "weariness": ["Extreme tiredness; a lack of enthusiasm.", "疲憊；厭倦"], "weary": ["Extremely tired; to become tired of something.", "疲憊的；厭倦"], "well-bred": ["Having good manners as a result of upbringing.", "教養良好的"], "weltanschauung": ["A particular philosophy or view of life; a worldview.", "世界觀"], "weltschmerz": ["A feeling of melancholy or world-weariness caused by comparing the ideal with the real.", "世界苦悶；厭世感"], "wen": ["A benign cyst on the skin, especially on the scalp.", "皮脂囊腫；粉瘤"], "wether": ["A castrated male sheep.", "閹羊"], "wheedle": ["To coax, persuade, cajole.", "哄騙；誘騙"], "whet": ["To stimulate, stir up.", "刺激；磨快"], "whim": ["A sudden desire or change of mind, especially without a clear reason.", "一時興起；突發奇想"], "whimsical": ["Humorous, witty.", "古怪的；異想天開的"], "whimsicality": ["The quality of being playfully quaint or fanciful.", "異想天開；古怪有趣"], "whimsy": ["Playfully quaint or fanciful behavior or humor.", "異想天開；古怪念頭"], "wholesome": ["Conducive to good health or moral well-being.", "有益健康的；有益身心的"], "whore": ["A prostitute; a promiscuous person (offensive, archaic in some uses).", "妓女(冒犯性用語,部分用法屬古語)"], "widespread": ["Found or occurring over a large area.", "普遍的；廣泛的"], "willful": ["Stubborn.", "任性的；固執的"], "wily": ["Crafty, sly.", "狡猾的；機靈的"], "wince": ["To draw back, flinch.", "退縮；畏縮"], "windbag": ["A person who talks a great deal but says little of value (informal).", "誇誇其談的人(非正式)"], "winning": ["Charming and attractive; successful.", "討人喜歡的；獲勝的"], "winsome": ["Attractive or appealing in a charming or pleasing way.", "迷人的；討人喜歡的"], "wisteria": ["A climbing plant with clusters of purple or white flowers.", "紫藤"], "wistful": ["Wishful, pensive, longing.", "渴望的；惆悵的"], "wit": ["The ability to speak or write cleverly and humorously.", "機智；風趣"], "withdraw": ["To remove or retreat.", "撤回；退出"], "wither": ["To become dry and shriveled, especially from lack of water.", "枯萎；凋謝"], "witless": ["Lacking intelligence or good sense.", "愚蠢的；無知的"], "witling": ["A person who fancies themselves clever or witty but is not (derogatory).", "自以為機智的人(貶義)"], "witticism": ["A witty remark.", "妙語；俏皮話"], "witzelsucht": ["A pathological tendency to make inappropriate jokes, often linked to brain injury.", "戲謔癖；病理性愛開玩笑症"], "wizen": ["To become dry, shriveled, and wrinkled, especially with age.", "枯萎乾癟；乾癟的"], "wizened": ["Dry, shrunken, wrinkled.", "乾癟的；皺縮的"], "woe": ["Great sorrow or distress; trouble.", "悲哀；苦難"], "woeful": ["Characterized by or expressing great sorrow; very bad.", "悲哀的；糟糕透頂的"], "wolfsbane": ["A poisonous plant, also known as aconite or monkshood.", "烏頭(有毒植物)"], "worsen": ["To make or become worse.", "惡化；使變壞"], "worthless": ["Having no value, use, or importance.", "毫無價值的；無用的"], "wraith": ["A ghost or ghostlike image of a person.", "鬼魂；幽靈"], "wrangle": ["To have a long, complicated dispute or argument.", "爭吵；口角"], "wrath": ["Vengeful anger, punishment.", "憤怒；天譴"], "wrest": ["To take by force.", "奪取"], "wretch": ["Someone you feel sorry for.", "可憐蟲；悲慘的人"], "wry": ["Using dry, ironic humor; twisted or distorted.", "諷刺的；歪斜的"], "xanthippe": ["An ill-tempered, nagging woman (from the name of Socrates's wife).", "悍婦；潑婦(源自蘇格拉底之妻之名)"], "xenomania": ["An excessive enthusiasm for foreign things or customs.", "崇洋狂熱"], "xenophilia": ["An attraction to or love of foreign people, customs, or things.", "親外情結；喜好外國事物"], "xenophobe": ["A person with an intense dislike or fear of foreigners.", "仇外者"], "xenophobia": ["An intense dislike or fear of foreigners or foreign things.", "仇外心理"]});

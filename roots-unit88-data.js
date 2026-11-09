@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "animadversion",
     "pos": "n.",
     "definition": "A critical or hostile remark.",
-    "chinese": "批評;譴責",
+    "chinese": "批評；譴責",
     "synonyms": "",
     "root": "animus (mind) + advertere (to turn toward), from Latin",
     "group": "anim = 氣息；心",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A critical or hostile remark.",
-     "chinese": "批評;譴責"
+     "chinese": "批評；譴責"
     }
    },
    {
     "word": "animadvert",
     "pos": "v.",
     "definition": "To criticize or comment on something critically.",
-    "chinese": "批評;非難",
+    "chinese": "批評；非難",
     "synonyms": "",
     "root": "animus (mind) + advertere (to turn toward), from Latin",
     "group": "anim = 氣息；心",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To criticize or comment on something critically.",
-     "chinese": "批評;非難"
+     "chinese": "批評；非難"
     }
    },
    {
     "word": "animate",
     "pos": "v./adj.",
     "definition": "To bring to life or give energy to; alive or lively.",
-    "chinese": "使有活力;賦予生命",
+    "chinese": "使有活力；賦予生命",
     "synonyms": "",
     "root": "anima (breath, soul, from Latin)",
     "group": "anim = 氣息；心",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To bring to life or give energy to; alive or lively.",
-     "chinese": "使有活力;賦予生命"
+     "chinese": "使有活力；賦予生命"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "animation",
     "pos": "n.",
     "definition": "Liveliness and enthusiasm; the technique of creating moving images from drawings.",
-    "chinese": "活力;動畫",
+    "chinese": "活力；動畫",
     "synonyms": "",
     "root": "anima (breath, soul, from Latin)",
     "group": "anim = 氣息；心",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Liveliness and enthusiasm; the technique of creating moving images from drawings.",
-     "chinese": "活力;動畫"
+     "chinese": "活力；動畫"
     }
    },
    {
     "word": "animus",
     "pos": "n.",
     "definition": "Hostility or ill feeling; a motivating force.",
-    "chinese": "敵意;動機",
+    "chinese": "敵意；動機",
     "synonyms": "",
     "root": "animus (mind, spirit, from Latin)",
     "group": "anim = 氣息；心",
@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Hostility or ill feeling; a motivating force.",
-     "chinese": "敵意;動機"
+     "chinese": "敵意；動機"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "longanimity",
     "pos": "n.",
     "definition": "Patient endurance of hardship; forbearance.",
-    "chinese": "堅忍;寬容忍耐",
+    "chinese": "堅忍；寬容忍耐",
     "synonyms": "",
     "root": "longus (long) + animus (mind, spirit), from Latin",
     "group": "anim = 氣息；心",
@@ -265,7 +265,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Patient endurance of hardship; forbearance.",
-     "chinese": "堅忍;寬容忍耐"
+     "chinese": "堅忍；寬容忍耐"
     }
    },
    {
@@ -291,7 +291,7 @@ window.FLASHCARD_UNITS = {
     "word": "pusillanimity",
     "pos": "n.",
     "definition": "A lack of courage or determination; timidity.",
-    "chinese": "怯懦;膽小",
+    "chinese": "怯懦；膽小",
     "synonyms": "",
     "root": "pusillus (very small) + animus (spirit), from Latin",
     "group": "anim = 氣息；心",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lack of courage or determination; timidity.",
-     "chinese": "怯懦;膽小"
+     "chinese": "怯懦；膽小"
     }
    },
    {
     "word": "pusillanimous",
     "pos": "adj.",
     "definition": "Showing a lack of courage or determination.",
-    "chinese": "怯懦的;膽小的",
+    "chinese": "怯懦的；膽小的",
     "synonyms": "",
     "root": "pusillus (very small) + animus (spirit), from Latin",
     "group": "anim = 氣息；心",
@@ -322,7 +322,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing a lack of courage or determination.",
-     "chinese": "怯懦的;膽小的"
+     "chinese": "怯懦的；膽小的"
     }
    },
    {
@@ -782,4 +782,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inanimate": ["Lifeless.", "無生命的"], "equanimity": ["Calmness, self-control.", "平靜；鎮定"], "magnanimous": ["Noble, generous.", "寬宏大量的"], "animosity": ["Hatred; ill will.", "仇恨；敵意"], "animadversion": ["A critical or hostile remark.", "批評;譴責"], "animadvert": ["To criticize or comment on something critically.", "批評;非難"], "animate": ["To bring to life or give energy to; alive or lively.", "使有活力;賦予生命"], "animated": ["Lively.", "生動的；活潑的"], "animating": ["Giving life, energy, or spirit to something.", "賦予活力的"], "animation": ["Liveliness and enthusiasm; the technique of creating moving images from drawings.", "活力;動畫"], "animus": ["Hostility or ill feeling; a motivating force.", "敵意;動機"], "laonanimity": ["A rare term relating to calmness or tranquility of mind.", "心靈的平靜(罕見詞)"], "longanimity": ["Patient endurance of hardship; forbearance.", "堅忍;寬容忍耐"], "magnanimity": ["Generosity or forgiveness toward a rival or less powerful person.", "寬宏大量"], "pusillanimity": ["A lack of courage or determination; timidity.", "怯懦;膽小"], "pusillanimous": ["Showing a lack of courage or determination.", "怯懦的;膽小的"], "unanimous": ["Fully in agreement, especially by all members of a group.", "一致同意的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inanimate": ["Lifeless.", "無生命的"], "equanimity": ["Calmness, self-control.", "平靜；鎮定"], "magnanimous": ["Noble, generous.", "寬宏大量的"], "animosity": ["Hatred; ill will.", "仇恨；敵意"], "animadversion": ["A critical or hostile remark.", "批評；譴責"], "animadvert": ["To criticize or comment on something critically.", "批評；非難"], "animate": ["To bring to life or give energy to; alive or lively.", "使有活力；賦予生命"], "animated": ["Lively.", "生動的；活潑的"], "animating": ["Giving life, energy, or spirit to something.", "賦予活力的"], "animation": ["Liveliness and enthusiasm; the technique of creating moving images from drawings.", "活力；動畫"], "animus": ["Hostility or ill feeling; a motivating force.", "敵意；動機"], "laonanimity": ["A rare term relating to calmness or tranquility of mind.", "心靈的平靜(罕見詞)"], "longanimity": ["Patient endurance of hardship; forbearance.", "堅忍；寬容忍耐"], "magnanimity": ["Generosity or forgiveness toward a rival or less powerful person.", "寬宏大量"], "pusillanimity": ["A lack of courage or determination; timidity.", "怯懦；膽小"], "pusillanimous": ["Showing a lack of courage or determination.", "怯懦的；膽小的"], "unanimous": ["Fully in agreement, especially by all members of a group.", "一致同意的"]});

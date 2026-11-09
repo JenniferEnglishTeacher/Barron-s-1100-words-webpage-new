@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "avocation",
     "pos": "n.",
     "definition": "A hobby or minor occupation apart from one's main career.",
-    "chinese": "副業;業餘愛好",
+    "chinese": "副業；業餘愛好",
     "synonyms": "",
     "root": "ab- (away) + vocare (to call)",
     "group": "voc；vok = 呼叫",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A hobby or minor occupation apart from one's main career.",
-     "chinese": "副業;業餘愛好"
+     "chinese": "副業；業餘愛好"
     }
    },
    {
     "word": "convocation",
     "pos": "n.",
     "definition": "A large formal assembly of people.",
-    "chinese": "集會;大會",
+    "chinese": "集會；大會",
     "synonyms": "",
     "root": "con- (together) + vocare (to call), from Latin",
     "group": "voc；vok = 呼叫",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large formal assembly of people.",
-     "chinese": "集會;大會"
+     "chinese": "集會；大會"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "evocation",
     "pos": "n.",
     "definition": "The act of bringing a feeling or memory to mind.",
-    "chinese": "喚起;召喚",
+    "chinese": "喚起；召喚",
     "synonyms": "",
     "root": "e- (out) + vocare (to call), from Latin",
     "group": "voc；vok = 呼叫",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of bringing a feeling or memory to mind.",
-     "chinese": "喚起;召喚"
+     "chinese": "喚起；召喚"
     }
    },
    {
     "word": "evocative",
     "pos": "adj.",
     "definition": "Bringing strong images, memories, or feelings to mind.",
-    "chinese": "喚起回憶的;引發聯想的",
+    "chinese": "喚起回憶的；引發聯想的",
     "synonyms": "",
     "root": "e- (out) + vocare (to call), from Latin",
     "group": "voc；vok = 呼叫",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bringing strong images, memories, or feelings to mind.",
-     "chinese": "喚起回憶的;引發聯想的"
+     "chinese": "喚起回憶的；引發聯想的"
     }
    },
    {
@@ -243,7 +243,7 @@ window.FLASHCARD_UNITS = {
     "word": "vocal",
     "pos": "adj./n.",
     "definition": "Expressing opinions loudly and firmly; relating to the voice.",
-    "chinese": "直言不諱的;聲樂的",
+    "chinese": "直言不諱的；聲樂的",
     "synonyms": "",
     "root": "vocalis, from Latin vox (voice)",
     "group": "voc；vok = 呼叫",
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Expressing opinions loudly and firmly; relating to the voice.",
-     "chinese": "直言不諱的;聲樂的"
+     "chinese": "直言不諱的；聲樂的"
     }
    },
    {
@@ -281,7 +281,7 @@ window.FLASHCARD_UNITS = {
     "word": "vocational",
     "pos": "adj.",
     "definition": "Relating to training for a specific job or trade.",
-    "chinese": "職業的;職業訓練的",
+    "chinese": "職業的；職業訓練的",
     "synonyms": "",
     "root": "vocatio (a calling), from Latin vocare (to call)",
     "group": "voc；vok = 呼叫",
@@ -293,14 +293,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to training for a specific job or trade.",
-     "chinese": "職業的;職業訓練的"
+     "chinese": "職業的；職業訓練的"
     }
    },
    {
     "word": "vociferate",
     "pos": "v.",
     "definition": "To shout or express loudly and forcefully.",
-    "chinese": "大聲喊叫;高聲抗議",
+    "chinese": "大聲喊叫；高聲抗議",
     "synonyms": "",
     "root": "vociferari, from Latin vox (voice) + ferre (to carry)",
     "group": "voc；vok = 呼叫",
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To shout or express loudly and forcefully.",
-     "chinese": "大聲喊叫;高聲抗議"
+     "chinese": "大聲喊叫；高聲抗議"
     }
    }
   ],
@@ -705,4 +705,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"advocate": ["To be in favor of, support.", "提倡"], "avocation": ["A hobby or minor occupation apart from one's main career.", "副業;業餘愛好"], "convocation": ["A large formal assembly of people.", "集會;大會"], "convoke": ["To call together for a formal meeting.", "召集"], "disavow": ["To deny knowledge of or responsibility for.", "否認；斷絕關係"], "equivocal": ["Ambiguous, uncertain, undecided.", "模稜兩可的"], "evocation": ["The act of bringing a feeling or memory to mind.", "喚起;召喚"], "evocative": ["Bringing strong images, memories, or feelings to mind.", "喚起回憶的;引發聯想的"], "evoke": ["To draw forth or call up.", "喚起；引起"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "provoke": ["To stir up or incite.", "激怒；激起"], "revoke": ["To take back.", "撤銷；廢除"], "vocal": ["Expressing opinions loudly and firmly; relating to the voice.", "直言不諱的;聲樂的"], "vocation": ["The work in which someone is employed, profession.", "職業；天職"], "vocational": ["Relating to training for a specific job or trade.", "職業的;職業訓練的"], "vociferate": ["To shout or express loudly and forcefully.", "大聲喊叫;高聲抗議"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"advocate": ["To be in favor of, support.", "提倡"], "avocation": ["A hobby or minor occupation apart from one's main career.", "副業；業餘愛好"], "convocation": ["A large formal assembly of people.", "集會；大會"], "convoke": ["To call together for a formal meeting.", "召集"], "disavow": ["To deny knowledge of or responsibility for.", "否認；斷絕關係"], "equivocal": ["Ambiguous, uncertain, undecided.", "模稜兩可的"], "evocation": ["The act of bringing a feeling or memory to mind.", "喚起；召喚"], "evocative": ["Bringing strong images, memories, or feelings to mind.", "喚起回憶的；引發聯想的"], "evoke": ["To draw forth or call up.", "喚起；引起"], "irrevocable": ["Incapable of being taken back.", "不可撤銷的；無法挽回的"], "provoke": ["To stir up or incite.", "激怒；激起"], "revoke": ["To take back.", "撤銷；廢除"], "vocal": ["Expressing opinions loudly and firmly; relating to the voice.", "直言不諱的；聲樂的"], "vocation": ["The work in which someone is employed, profession.", "職業；天職"], "vocational": ["Relating to training for a specific job or trade.", "職業的；職業訓練的"], "vociferate": ["To shout or express loudly and forcefully.", "大聲喊叫；高聲抗議"]});

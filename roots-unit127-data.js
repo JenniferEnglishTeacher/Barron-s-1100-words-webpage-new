@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "corruption",
     "pos": "n.",
     "definition": "Dishonest or fraudulent conduct by those in power.",
-    "chinese": "腐敗;貪污",
+    "chinese": "腐敗；貪污",
     "synonyms": "",
     "root": "com- (thoroughly) + rumpere (to break), from Latin",
     "group": "rupt = 破裂；打破；崩解；劇變",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dishonest or fraudulent conduct by those in power.",
-     "chinese": "腐敗;貪污"
+     "chinese": "腐敗；貪污"
     }
    },
    {
@@ -610,4 +610,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"eruption": ["Bursting out.", "爆發"], "abrupt": ["Sudden and unexpected, or brief and unfriendly in manner.", "突然的；意外的；唐突的；生硬的"], "corruption": ["Dishonest or fraudulent conduct by those in power.", "腐敗;貪污"], "rupture": ["A sudden break, burst, or serious breach in a structure or relationship; to cause such a break.", "破裂；斷裂；決裂；使破裂"], "disruptive": ["Causing disorder, interruption, or major change to an established system.", "造成干擾的；破壞性的；顛覆性的"], "corruptible": ["Capable of being morally influenced by dishonesty or physically damaged and made unreliable.", "容易腐敗的；可被收買的；容易損壞的"], "interrupt": ["To stop an activity temporarily or break into someone's speech or action.", "打斷；插嘴；中斷；阻斷"], "eruptive": ["Relating to or tending to burst outward suddenly and violently.", "噴發的；爆發性的；突然爆發的"], "fracture": ["A crack or break in a hard object or bone; to crack, break, or divide something.", "裂縫；骨折；斷裂；使分裂"], "infraction": ["A violation of a rule, law, agreement, or code of conduct.", "違規；違法行為；違反"], "upheaval": ["A sudden, violent, or major change that causes disorder and uncertainty.", "劇變；動盪；動亂；大變動"], "cataclysmic": ["Causing a sudden and extremely destructive disaster or enormous change.", "災難性的；毀滅性的；引起巨大變動的"], "schism": ["A serious and lasting division between members of a group, especially over beliefs or policies.", "分裂；派系鬥爭；教派分裂"], "fragmentary": ["Consisting of small, disconnected pieces and therefore incomplete.", "零碎的；片段的；不完整的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"eruption": ["Bursting out.", "爆發"], "abrupt": ["Sudden and unexpected, or brief and unfriendly in manner.", "突然的；意外的；唐突的；生硬的"], "corruption": ["Dishonest or fraudulent conduct by those in power.", "腐敗；貪污"], "rupture": ["A sudden break, burst, or serious breach in a structure or relationship; to cause such a break.", "破裂；斷裂；決裂；使破裂"], "disruptive": ["Causing disorder, interruption, or major change to an established system.", "造成干擾的；破壞性的；顛覆性的"], "corruptible": ["Capable of being morally influenced by dishonesty or physically damaged and made unreliable.", "容易腐敗的；可被收買的；容易損壞的"], "interrupt": ["To stop an activity temporarily or break into someone's speech or action.", "打斷；插嘴；中斷；阻斷"], "eruptive": ["Relating to or tending to burst outward suddenly and violently.", "噴發的；爆發性的；突然爆發的"], "fracture": ["A crack or break in a hard object or bone; to crack, break, or divide something.", "裂縫；骨折；斷裂；使分裂"], "infraction": ["A violation of a rule, law, agreement, or code of conduct.", "違規；違法行為；違反"], "upheaval": ["A sudden, violent, or major change that causes disorder and uncertainty.", "劇變；動盪；動亂；大變動"], "cataclysmic": ["Causing a sudden and extremely destructive disaster or enormous change.", "災難性的；毀滅性的；引起巨大變動的"], "schism": ["A serious and lasting division between members of a group, especially over beliefs or policies.", "分裂；派系鬥爭；教派分裂"], "fragmentary": ["Consisting of small, disconnected pieces and therefore incomplete.", "零碎的；片段的；不完整的"]});

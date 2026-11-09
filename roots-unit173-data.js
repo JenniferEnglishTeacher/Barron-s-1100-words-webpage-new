@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "cicerone",
     "pos": "n.",
     "definition": "A guide who explains the history and features of a place to visitors.",
-    "chinese": "導遊;嚮導",
+    "chinese": "導遊；嚮導",
     "synonyms": "",
     "root": "named after Cicero, the eloquent Roman orator",
     "group": "",
@@ -20,14 +20,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A guide who explains the history and features of a place to visitors.",
-     "chinese": "導遊;嚮導"
+     "chinese": "導遊；嚮導"
     }
    },
    {
     "word": "cimmerian",
     "pos": "adj.",
     "definition": "Extremely dark or gloomy.",
-    "chinese": "漆黑的;幽暗的",
+    "chinese": "漆黑的；幽暗的",
     "synonyms": "",
     "root": "from the Cimmerians, a mythical people said to live in perpetual darkness",
     "group": "",
@@ -39,14 +39,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely dark or gloomy.",
-     "chinese": "漆黑的;幽暗的"
+     "chinese": "漆黑的；幽暗的"
     }
    },
    {
     "word": "cinch",
     "pos": "n.",
     "definition": "Something very easy to accomplish; a firm hold.",
-    "chinese": "輕而易舉的事;必然之事",
+    "chinese": "輕而易舉的事；必然之事",
     "synonyms": "",
     "root": "cincha (saddle girth, from Spanish)",
     "group": "",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something very easy to accomplish; a firm hold.",
-     "chinese": "輕而易舉的事;必然之事"
+     "chinese": "輕而易舉的事；必然之事"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "circular",
     "pos": "adj./n.",
     "definition": "Having the shape of a circle; a printed advertisement distributed widely.",
-    "chinese": "圓形的;傳單",
+    "chinese": "圓形的；傳單",
     "synonyms": "",
     "root": "circulus (small ring, from Latin)",
     "group": "",
@@ -96,14 +96,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having the shape of a circle; a printed advertisement distributed widely.",
-     "chinese": "圓形的;傳單"
+     "chinese": "圓形的；傳單"
     }
    },
    {
     "word": "civic",
     "pos": "adj.",
     "definition": "Relating to a city, town, or its citizens.",
-    "chinese": "市民的;公民的",
+    "chinese": "市民的；公民的",
     "synonyms": "",
     "root": "civis (citizen, from Latin)",
     "group": "",
@@ -115,14 +115,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a city, town, or its citizens.",
-     "chinese": "市民的;公民的"
+     "chinese": "市民的；公民的"
     }
    },
    {
     "word": "civil",
     "pos": "adj.",
     "definition": "Polite and courteous; relating to ordinary citizens.",
-    "chinese": "有禮貌的;民事的",
+    "chinese": "有禮貌的；民事的",
     "synonyms": "",
     "root": "civis (citizen, from Latin)",
     "group": "",
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Polite and courteous; relating to ordinary citizens.",
-     "chinese": "有禮貌的;民事的"
+     "chinese": "有禮貌的；民事的"
     }
    },
    {
     "word": "clairvoyance",
     "pos": "n.",
     "definition": "The supposed ability to perceive events or things beyond normal senses.",
-    "chinese": "千里眼;超感知能力",
+    "chinese": "千里眼；超感知能力",
     "synonyms": "",
     "root": "clair (clear) + voyance (seeing), from French",
     "group": "",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The supposed ability to perceive events or things beyond normal senses.",
-     "chinese": "千里眼;超感知能力"
+     "chinese": "千里眼；超感知能力"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "clamorous",
     "pos": "adj.",
     "definition": "Making a loud and confused noise; demanding attention noisily.",
-    "chinese": "喧鬧的;吵嚷的",
+    "chinese": "喧鬧的；吵嚷的",
     "synonyms": "",
     "root": "clamare (to shout, from Latin)",
     "group": "",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making a loud and confused noise; demanding attention noisily.",
-     "chinese": "喧鬧的;吵嚷的"
+     "chinese": "喧鬧的；吵嚷的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "clarify",
     "pos": "v.",
     "definition": "To make something clearer or easier to understand.",
-    "chinese": "澄清;闡明",
+    "chinese": "澄清；闡明",
     "synonyms": "",
     "root": "clarus (clear, from Latin)",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something clearer or easier to understand.",
-     "chinese": "澄清;闡明"
+     "chinese": "澄清；闡明"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "cleft",
     "pos": "n./adj.",
     "definition": "A split or crack; split or divided.",
-    "chinese": "裂縫;分裂的",
+    "chinese": "裂縫；分裂的",
     "synonyms": "",
     "root": "cleofan (to cleave, from Old English)",
     "group": "",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A split or crack; split or divided.",
-     "chinese": "裂縫;分裂的"
+     "chinese": "裂縫；分裂的"
     }
    },
    {
@@ -331,7 +331,7 @@ window.FLASHCARD_UNITS = {
     "word": "clement",
     "pos": "adj.",
     "definition": "Mild or merciful, especially of weather or judgment.",
-    "chinese": "溫和的;仁慈的",
+    "chinese": "溫和的；仁慈的",
     "synonyms": "",
     "root": "clemens (mild, merciful, from Latin)",
     "group": "",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Mild or merciful, especially of weather or judgment.",
-     "chinese": "溫和的;仁慈的"
+     "chinese": "溫和的；仁慈的"
     }
    },
    {
@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     "word": "clerical",
     "pos": "adj.",
     "definition": "Relating to office work; relating to the clergy.",
-    "chinese": "文書的;神職的",
+    "chinese": "文書的；神職的",
     "synonyms": "",
     "root": "clericus (clergyman, from Latin)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to office work; relating to the clergy.",
-     "chinese": "文書的;神職的"
+     "chinese": "文書的；神職的"
     }
    },
    {
     "word": "clever",
     "pos": "adj.",
     "definition": "Quick to understand or devise ingenious solutions.",
-    "chinese": "聰明的;機智的",
+    "chinese": "聰明的；機智的",
     "synonyms": "",
     "root": "clivor (skillful, from Middle English)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Quick to understand or devise ingenious solutions.",
-     "chinese": "聰明的;機智的"
+     "chinese": "聰明的；機智的"
     }
    },
    {
@@ -449,7 +449,7 @@ window.FLASHCARD_UNITS = {
     "word": "clink",
     "pos": "n./v.",
     "definition": "A light, sharp ringing sound; to make such a sound.",
-    "chinese": "叮噹聲;碰杯",
+    "chinese": "叮噹聲；碰杯",
     "synonyms": "",
     "root": "klinken (to ring, from Middle Dutch)",
     "group": "",
@@ -463,14 +463,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A light, sharp ringing sound; to make such a sound.",
-     "chinese": "叮噹聲;碰杯"
+     "chinese": "叮噹聲；碰杯"
     }
    },
    {
     "word": "clinquant",
     "pos": "adj./n.",
     "definition": "Glittering with gold and silver; cheap, showy ornamentation.",
-    "chinese": "金光閃閃的;俗麗的裝飾",
+    "chinese": "金光閃閃的；俗麗的裝飾",
     "synonyms": "",
     "root": "clinquant (glittering, from French)",
     "group": "",
@@ -482,7 +482,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Glittering with gold and silver; cheap, showy ornamentation.",
-     "chinese": "金光閃閃的;俗麗的裝飾"
+     "chinese": "金光閃閃的；俗麗的裝飾"
     }
    },
    {
@@ -508,7 +508,7 @@ window.FLASHCARD_UNITS = {
     "word": "clod",
     "pos": "n.",
     "definition": "A lump of earth or clay; a stupid person.",
-    "chinese": "土塊;笨蛋",
+    "chinese": "土塊；笨蛋",
     "synonyms": "",
     "root": "clod (lump, from Old English)",
     "group": "",
@@ -520,14 +520,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lump of earth or clay; a stupid person.",
-     "chinese": "土塊;笨蛋"
+     "chinese": "土塊；笨蛋"
     }
    },
    {
     "word": "clodhopper",
     "pos": "n.",
     "definition": "A clumsy or unsophisticated person; a heavy, coarse shoe.",
-    "chinese": "笨手笨腳的人;粗重的鞋",
+    "chinese": "笨手笨腳的人；粗重的鞋",
     "synonyms": "",
     "root": "clod (lump of earth) + hopper",
     "group": "",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A clumsy or unsophisticated person; a heavy, coarse shoe.",
-     "chinese": "笨手笨腳的人;粗重的鞋"
+     "chinese": "笨手笨腳的人；粗重的鞋"
     }
    },
    {
     "word": "cloy",
     "pos": "v.",
     "definition": "To become distasteful through excessive sweetness or richness.",
-    "chinese": "使膩;過度甜膩",
+    "chinese": "使膩；過度甜膩",
     "synonyms": "",
     "root": "acloyer (to nail, obstruct, from Old French)",
     "group": "",
@@ -558,7 +558,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To become distasteful through excessive sweetness or richness.",
-     "chinese": "使膩;過度甜膩"
+     "chinese": "使膩；過度甜膩"
     }
    },
    {
@@ -603,7 +603,7 @@ window.FLASHCARD_UNITS = {
     "word": "coax",
     "pos": "v.",
     "definition": "To gently persuade someone to do something.",
-    "chinese": "哄勸;勸誘",
+    "chinese": "哄勸；勸誘",
     "synonyms": "",
     "root": "cokes (a fool, from obsolete English, via \"cokesen\")",
     "group": "",
@@ -615,7 +615,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To gently persuade someone to do something.",
-     "chinese": "哄勸;勸誘"
+     "chinese": "哄勸；勸誘"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "cockalorum",
     "pos": "n.",
     "definition": "A small, self-important person; boastful talk.",
-    "chinese": "自大的小人物;自吹自擂",
+    "chinese": "自大的小人物；自吹自擂",
     "synonyms": "",
     "root": "possibly from Dutch \"kockeloeren\" (to crow)",
     "group": "",
@@ -653,14 +653,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small, self-important person; boastful talk.",
-     "chinese": "自大的小人物;自吹自擂"
+     "chinese": "自大的小人物；自吹自擂"
     }
    },
    {
     "word": "cogitate",
     "pos": "v.",
     "definition": "To think deeply about something.",
-    "chinese": "深思;沉思",
+    "chinese": "深思；沉思",
     "synonyms": "",
     "root": "cogitare (to think, from Latin)",
     "group": "",
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To think deeply about something.",
-     "chinese": "深思;沉思"
+     "chinese": "深思；沉思"
     }
    },
    {
@@ -700,7 +700,7 @@ window.FLASHCARD_UNITS = {
     "word": "cognoscente",
     "pos": "n.",
     "definition": "A person with expert knowledge in a particular field, especially the arts.",
-    "chinese": "行家;鑑賞家",
+    "chinese": "行家；鑑賞家",
     "synonyms": "",
     "root": "cognoscere (to know, from Latin/Italian)",
     "group": "",
@@ -714,14 +714,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person with expert knowledge in a particular field, especially the arts.",
-     "chinese": "行家;鑑賞家"
+     "chinese": "行家；鑑賞家"
     }
    },
    {
     "word": "cognoscenti",
     "pos": "n.",
     "definition": "People with specialized knowledge or expertise, especially in the arts.",
-    "chinese": "行家們;內行人",
+    "chinese": "行家們；內行人",
     "synonyms": "",
     "root": "cognoscere (to know, from Latin/Italian)",
     "group": "",
@@ -733,7 +733,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "People with specialized knowledge or expertise, especially in the arts.",
-     "chinese": "行家們;內行人"
+     "chinese": "行家們；內行人"
     }
    },
    {
@@ -839,7 +839,7 @@ window.FLASHCARD_UNITS = {
     "word": "colloquy",
     "pos": "n.",
     "definition": "A formal conversation or dialogue.",
-    "chinese": "正式對話;會談",
+    "chinese": "正式對話；會談",
     "synonyms": "",
     "root": "colloqui (to converse), from Latin",
     "group": "",
@@ -851,14 +851,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal conversation or dialogue.",
-     "chinese": "正式對話;會談"
+     "chinese": "正式對話；會談"
     }
    },
    {
     "word": "colorless",
     "pos": "adj.",
     "definition": "Lacking color; lacking interest or personality.",
-    "chinese": "無色的;乏味的",
+    "chinese": "無色的；乏味的",
     "synonyms": "",
     "root": "color + -less",
     "group": "",
@@ -870,14 +870,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking color; lacking interest or personality.",
-     "chinese": "無色的;乏味的"
+     "chinese": "無色的；乏味的"
     }
    },
    {
     "word": "colossal",
     "pos": "adj.",
     "definition": "Extremely large in size or extent.",
-    "chinese": "巨大的;龐大的",
+    "chinese": "巨大的；龐大的",
     "synonyms": "",
     "root": "kolossos (a giant statue, from Greek)",
     "group": "",
@@ -889,7 +889,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely large in size or extent.",
-     "chinese": "巨大的;龐大的"
+     "chinese": "巨大的；龐大的"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cicerone": ["A guide who explains the history and features of a place to visitors.", "導遊;嚮導"], "cimmerian": ["Extremely dark or gloomy.", "漆黑的;幽暗的"], "cinch": ["Something very easy to accomplish; a firm hold.", "輕而易舉的事;必然之事"], "circuitous": ["Roundabout.", "迂迴的；繞道的"], "circular": ["Having the shape of a circle; a printed advertisement distributed widely.", "圓形的;傳單"], "civic": ["Relating to a city, town, or its citizens.", "市民的;公民的"], "civil": ["Polite and courteous; relating to ordinary citizens.", "有禮貌的;民事的"], "clairvoyance": ["The supposed ability to perceive events or things beyond normal senses.", "千里眼;超感知能力"], "clamor": ["Unpleasant sound; noise.", "喧鬧聲"], "clamorous": ["Making a loud and confused noise; demanding attention noisily.", "喧鬧的;吵嚷的"], "clandestine": ["Secret, undercover.", "秘密的"], "clarify": ["To make something clearer or easier to understand.", "澄清;闡明"], "claustrophobia": ["An extreme fear of confined or enclosed spaces.", "幽閉恐懼症"], "clearheaded": ["Able to think clearly; rational.", "頭腦清晰的"], "cleave": ["To divide into parts.", "劈開；分裂"], "cleft": ["A split or crack; split or divided.", "裂縫;分裂的"], "clemency": ["Mercy.", "寬容；仁慈"], "clement": ["Mild or merciful, especially of weather or judgment.", "溫和的;仁慈的"], "clergy": ["Members of Christian holy orders.", "神職人員"], "clerical": ["Relating to office work; relating to the clergy.", "文書的;神職的"], "clever": ["Quick to understand or devise ingenious solutions.", "聰明的;機智的"], "cliche": ["An idea or expression that has become stale due to overuse.", "陳腔濫調"], "cliché": ["Commonplace phrase.", "陳詞濫調"], "clink": ["A light, sharp ringing sound; to make such a sound.", "叮噹聲;碰杯"], "clinquant": ["Glittering with gold and silver; cheap, showy ornamentation.", "金光閃閃的;俗麗的裝飾"], "clique": ["Small, exclusive group of people.", "小圈子；派系"], "clod": ["A lump of earth or clay; a stupid person.", "土塊;笨蛋"], "clodhopper": ["A clumsy or unsophisticated person; a heavy, coarse shoe.", "笨手笨腳的人;粗重的鞋"], "cloy": ["To become distasteful through excessive sweetness or richness.", "使膩;過度甜膩"], "cloying": ["Sickeningly sweet.", "甜膩的；過分討好的"], "clumsy": ["Awkward in movement or in handling things.", "笨拙的"], "coax": ["To gently persuade someone to do something.", "哄勸;勸誘"], "cobbler": ["A person who makes or repairs shoes.", "補鞋匠"], "cockalorum": ["A small, self-important person; boastful talk.", "自大的小人物;自吹自擂"], "cogitate": ["To think deeply about something.", "深思;沉思"], "cognition": ["The mental process of acquiring knowledge and understanding.", "認知"], "cognoscente": ["A person with expert knowledge in a particular field, especially the arts.", "行家;鑑賞家"], "cognoscenti": ["People with specialized knowledge or expertise, especially in the arts.", "行家們;內行人"], "coiffeur": ["A hairdresser, especially a male one.", "美髮師(男性)"], "coiffure": ["A person's hairstyle, especially an elaborate one.", "髮型(尤指精緻繁複的)"], "cold-bloodedness": ["Lack of emotion or feeling, especially in committing cruel acts.", "冷血無情"], "colloquialism": ["An informal word or phrase used in ordinary conversation.", "口語用語"], "colloquium": ["An academic conference or seminar.", "學術研討會"], "colloquy": ["A formal conversation or dialogue.", "正式對話;會談"], "colorless": ["Lacking color; lacking interest or personality.", "無色的;乏味的"], "colossal": ["Extremely large in size or extent.", "巨大的;龐大的"], "colossus": ["A gigantic statue or thing.", "巨像；龐然大物"], "colporteur": ["A person who travels selling books, especially religious texts.", "行商賣書人(尤指宗教書籍)"], "combustion": ["The act or process of burning.", "燃燒"], "comedienne": ["A female comedian.", "女喜劇演員"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cicerone": ["A guide who explains the history and features of a place to visitors.", "導遊；嚮導"], "cimmerian": ["Extremely dark or gloomy.", "漆黑的；幽暗的"], "cinch": ["Something very easy to accomplish; a firm hold.", "輕而易舉的事；必然之事"], "circuitous": ["Roundabout.", "迂迴的；繞道的"], "circular": ["Having the shape of a circle; a printed advertisement distributed widely.", "圓形的；傳單"], "civic": ["Relating to a city, town, or its citizens.", "市民的；公民的"], "civil": ["Polite and courteous; relating to ordinary citizens.", "有禮貌的；民事的"], "clairvoyance": ["The supposed ability to perceive events or things beyond normal senses.", "千里眼；超感知能力"], "clamor": ["Unpleasant sound; noise.", "喧鬧聲"], "clamorous": ["Making a loud and confused noise; demanding attention noisily.", "喧鬧的；吵嚷的"], "clandestine": ["Secret, undercover.", "秘密的"], "clarify": ["To make something clearer or easier to understand.", "澄清；闡明"], "claustrophobia": ["An extreme fear of confined or enclosed spaces.", "幽閉恐懼症"], "clearheaded": ["Able to think clearly; rational.", "頭腦清晰的"], "cleave": ["To divide into parts.", "劈開；分裂"], "cleft": ["A split or crack; split or divided.", "裂縫；分裂的"], "clemency": ["Mercy.", "寬容；仁慈"], "clement": ["Mild or merciful, especially of weather or judgment.", "溫和的；仁慈的"], "clergy": ["Members of Christian holy orders.", "神職人員"], "clerical": ["Relating to office work; relating to the clergy.", "文書的；神職的"], "clever": ["Quick to understand or devise ingenious solutions.", "聰明的；機智的"], "cliche": ["An idea or expression that has become stale due to overuse.", "陳腔濫調"], "cliché": ["Commonplace phrase.", "陳詞濫調"], "clink": ["A light, sharp ringing sound; to make such a sound.", "叮噹聲；碰杯"], "clinquant": ["Glittering with gold and silver; cheap, showy ornamentation.", "金光閃閃的；俗麗的裝飾"], "clique": ["Small, exclusive group of people.", "小圈子；派系"], "clod": ["A lump of earth or clay; a stupid person.", "土塊；笨蛋"], "clodhopper": ["A clumsy or unsophisticated person; a heavy, coarse shoe.", "笨手笨腳的人；粗重的鞋"], "cloy": ["To become distasteful through excessive sweetness or richness.", "使膩；過度甜膩"], "cloying": ["Sickeningly sweet.", "甜膩的；過分討好的"], "clumsy": ["Awkward in movement or in handling things.", "笨拙的"], "coax": ["To gently persuade someone to do something.", "哄勸；勸誘"], "cobbler": ["A person who makes or repairs shoes.", "補鞋匠"], "cockalorum": ["A small, self-important person; boastful talk.", "自大的小人物；自吹自擂"], "cogitate": ["To think deeply about something.", "深思；沉思"], "cognition": ["The mental process of acquiring knowledge and understanding.", "認知"], "cognoscente": ["A person with expert knowledge in a particular field, especially the arts.", "行家；鑑賞家"], "cognoscenti": ["People with specialized knowledge or expertise, especially in the arts.", "行家們；內行人"], "coiffeur": ["A hairdresser, especially a male one.", "美髮師(男性)"], "coiffure": ["A person's hairstyle, especially an elaborate one.", "髮型(尤指精緻繁複的)"], "cold-bloodedness": ["Lack of emotion or feeling, especially in committing cruel acts.", "冷血無情"], "colloquialism": ["An informal word or phrase used in ordinary conversation.", "口語用語"], "colloquium": ["An academic conference or seminar.", "學術研討會"], "colloquy": ["A formal conversation or dialogue.", "正式對話；會談"], "colorless": ["Lacking color; lacking interest or personality.", "無色的；乏味的"], "colossal": ["Extremely large in size or extent.", "巨大的；龐大的"], "colossus": ["A gigantic statue or thing.", "巨像；龐然大物"], "colporteur": ["A person who travels selling books, especially religious texts.", "行商賣書人(尤指宗教書籍)"], "combustion": ["The act or process of burning.", "燃燒"], "comedienne": ["A female comedian.", "女喜劇演員"]});

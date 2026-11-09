@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "advertise",
     "pos": "v.",
     "definition": "To promote a product, service, or event publicly.",
-    "chinese": "宣傳;登廣告",
+    "chinese": "宣傳；登廣告",
     "synonyms": "",
     "root": "ad- (to) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -248,7 +248,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To promote a product, service, or event publicly.",
-     "chinese": "宣傳;登廣告"
+     "chinese": "宣傳；登廣告"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "aver",
     "pos": "v.",
     "definition": "To state something as a fact with confidence.",
-    "chinese": "斷言;宣稱",
+    "chinese": "斷言；宣稱",
     "synonyms": "",
     "root": "ad- (to) + verus (true)",
     "group": "vert；vers = 轉",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To state something as a fact with confidence.",
-     "chinese": "斷言;宣稱"
+     "chinese": "斷言；宣稱"
     }
    },
    {
     "word": "avert",
     "pos": "v.",
     "definition": "To prevent an undesirable event; to turn away one's gaze.",
-    "chinese": "避免;移開視線",
+    "chinese": "避免；移開視線",
     "synonyms": "",
     "root": "ab- (away) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prevent an undesirable event; to turn away one's gaze.",
-     "chinese": "避免;移開視線"
+     "chinese": "避免；移開視線"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "controvert",
     "pos": "v.",
     "definition": "To deny or dispute the truth of something.",
-    "chinese": "反駁;否認",
+    "chinese": "反駁；否認",
     "synonyms": "",
     "root": "contra- (against) + vertere (to turn), from Latin",
     "group": "vert；vers = 轉",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To deny or dispute the truth of something.",
-     "chinese": "反駁;否認"
+     "chinese": "反駁；否認"
     }
    },
    {
     "word": "conversant",
     "pos": "adj.",
     "definition": "Familiar with or knowledgeable about a subject.",
-    "chinese": "熟悉的;精通的",
+    "chinese": "熟悉的；精通的",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "vert；vers = 轉",
@@ -366,14 +366,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Familiar with or knowledgeable about a subject.",
-     "chinese": "熟悉的;精通的"
+     "chinese": "熟悉的；精通的"
     }
    },
    {
     "word": "conversation",
     "pos": "n.",
     "definition": "An informal talk between people.",
-    "chinese": "對話;交談",
+    "chinese": "對話；交談",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "vert；vers = 轉",
@@ -385,14 +385,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An informal talk between people.",
-     "chinese": "對話;交談"
+     "chinese": "對話；交談"
     }
    },
    {
     "word": "converse",
     "pos": "v./adj.",
     "definition": "To talk informally; being the opposite.",
-    "chinese": "交談;相反的",
+    "chinese": "交談；相反的",
     "synonyms": "",
     "root": "con- (together) + vertere (to turn), from Latin",
     "group": "vert；vers = 轉",
@@ -406,7 +406,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To talk informally; being the opposite.",
-     "chinese": "交談;相反的"
+     "chinese": "交談；相反的"
     }
    },
    {
@@ -508,7 +508,7 @@ window.FLASHCARD_UNITS = {
     "word": "pervert",
     "pos": "v./n.",
     "definition": "To distort something from its original meaning or use; a person with deviant tendencies.",
-    "chinese": "曲解;變態者",
+    "chinese": "曲解；變態者",
     "synonyms": "",
     "root": "pervertere (to turn around), from Latin per- (thoroughly) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -520,14 +520,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To distort something from its original meaning or use; a person with deviant tendencies.",
-     "chinese": "曲解;變態者"
+     "chinese": "曲解；變態者"
     }
    },
    {
     "word": "subvert",
     "pos": "v.",
     "definition": "To undermine or overthrow the power or authority of.",
-    "chinese": "顛覆;破壞",
+    "chinese": "顛覆；破壞",
     "synonyms": "",
     "root": "subvertere, from Latin sub- (from below) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -539,14 +539,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To undermine or overthrow the power or authority of.",
-     "chinese": "顛覆;破壞"
+     "chinese": "顛覆；破壞"
     }
    },
    {
     "word": "tergiversate",
     "pos": "v.",
     "definition": "To change one's loyalties or opinions repeatedly; to be evasive.",
-    "chinese": "反覆變節;支吾其詞",
+    "chinese": "反覆變節；支吾其詞",
     "synonyms": "",
     "root": "tergiversari, from Latin tergum (back) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -558,14 +558,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To change one's loyalties or opinions repeatedly; to be evasive.",
-     "chinese": "反覆變節;支吾其詞"
+     "chinese": "反覆變節；支吾其詞"
     }
    },
    {
     "word": "tergiversation",
     "pos": "n.",
     "definition": "The act of repeatedly changing one's loyalties or opinions; evasiveness.",
-    "chinese": "反覆變節;支吾搪塞",
+    "chinese": "反覆變節；支吾搪塞",
     "synonyms": "",
     "root": "tergiversatio, from Latin tergum (back) + vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -577,7 +577,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of repeatedly changing one's loyalties or opinions; evasiveness.",
-     "chinese": "反覆變節;支吾搪塞"
+     "chinese": "反覆變節；支吾搪塞"
     }
    },
    {
@@ -641,7 +641,7 @@ window.FLASHCARD_UNITS = {
     "word": "versatile",
     "pos": "adj.",
     "definition": "Able to adapt to many different functions or activities.",
-    "chinese": "多才多藝的;通用的",
+    "chinese": "多才多藝的；通用的",
     "synonyms": "",
     "root": "vertere (to turn), from Latin",
     "group": "vert；vers = 轉",
@@ -653,14 +653,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to adapt to many different functions or activities.",
-     "chinese": "多才多藝的;通用的"
+     "chinese": "多才多藝的；通用的"
     }
    },
    {
     "word": "versed",
     "pos": "adj.",
     "definition": "Having great knowledge or experience in a particular subject.",
-    "chinese": "精通的;熟悉的",
+    "chinese": "精通的；熟悉的",
     "synonyms": "",
     "root": "versatus, past participle of Latin versari (to be occupied with)",
     "group": "vert；vers = 轉",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having great knowledge or experience in a particular subject.",
-     "chinese": "精通的;熟悉的"
+     "chinese": "精通的；熟悉的"
     }
    },
    {
@@ -717,7 +717,7 @@ window.FLASHCARD_UNITS = {
     "word": "vertex",
     "pos": "n.",
     "definition": "The highest point; the point where two lines meet to form an angle.",
-    "chinese": "頂點;端點",
+    "chinese": "頂點；端點",
     "synonyms": "",
     "root": "vertex (whirl, top), from Latin vertere (to turn)",
     "group": "vert；vers = 轉",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The highest point; the point where two lines meet to form an angle.",
-     "chinese": "頂點;端點"
+     "chinese": "頂點；端點"
     }
    },
    {
@@ -1736,4 +1736,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inadvertent": ["Unintentional.", "無意的"], "perverse": ["Contrary, persisting in error.", "固執錯誤的；乖戾的"], "revert": ["To return.", "恢復；重返"], "adverse": ["Unfavorable, harmful.", "不利的"], "incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "controversial": ["Debatable.", "有爭議的"], "universal": ["Present everywhere.", "普遍的；宇宙的"], "aversion": ["Strong dislike, opposition.", "厭惡；反感"], "adversary": ["Opponent, enemy, foe.", "對手；敵手"], "vertigo": ["Dizziness.", "眩暈"], "diversity": ["Variety.", "多樣性"], "adversity": ["Great trouble or difficulty.", "逆境；不幸"], "advertise": ["To promote a product, service, or event publicly.", "宣傳;登廣告"], "ambivert": ["A person with a balance of introverted and extroverted traits.", "中間性格者(內外向兼具)"], "aver": ["To state something as a fact with confidence.", "斷言;宣稱"], "avert": ["To prevent an undesirable event; to turn away one's gaze.", "避免;移開視線"], "controversy": ["Prolonged public dispute or disagreement.", "爭議"], "controvert": ["To deny or dispute the truth of something.", "反駁;否認"], "conversant": ["Familiar with or knowledgeable about a subject.", "熟悉的;精通的"], "conversation": ["An informal talk between people.", "對話;交談"], "converse": ["To talk informally; being the opposite.", "交談;相反的"], "convert": ["To change something into a different form, state, or use.", "轉變；使轉換"], "diverse": ["Showing a great deal of variety; very different from one another.", "多樣的；各異的"], "extrovert": ["A person directed toward others as opposed to the self.", "外向的人"], "inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "introvert": ["A person who tends to shrink from social contacts.", "內向的人"], "pervert": ["To distort something from its original meaning or use; a person with deviant tendencies.", "曲解;變態者"], "subvert": ["To undermine or overthrow the power or authority of.", "顛覆;破壞"], "tergiversate": ["To change one's loyalties or opinions repeatedly; to be evasive.", "反覆變節;支吾其詞"], "tergiversation": ["The act of repeatedly changing one's loyalties or opinions; evasiveness.", "反覆變節;支吾搪塞"], "veracity": ["Truthfulness, accuracy.", "真實性；誠實"], "verisimilitude": ["The appearance or quality of being real or true; the resemblance to reality.", "逼真；擬真性"], "veritable": ["Used to emphasize truth.", "名副其實的；真正的"], "versatile": ["Able to adapt to many different functions or activities.", "多才多藝的;通用的"], "versed": ["Having great knowledge or experience in a particular subject.", "精通的;熟悉的"], "vert": ["The color green, especially in heraldry.", "綠色(尤指紋章學)"], "vertebrae": ["The small bones that form the backbone (plural of vertebra).", "脊椎骨(複數)"], "vertex": ["The highest point; the point where two lines meet to form an angle.", "頂點;端點"], "vertiginous": ["Causing dizziness; extremely high or steep.", "令人暈眩的"], "vice versa": ["With the order or meaning reversed; conversely.", "反之亦然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inadvertent": ["Unintentional.", "無意的"], "perverse": ["Contrary, persisting in error.", "固執錯誤的；乖戾的"], "revert": ["To return.", "恢復；重返"], "adverse": ["Unfavorable, harmful.", "不利的"], "incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "controversial": ["Debatable.", "有爭議的"], "universal": ["Present everywhere.", "普遍的；宇宙的"], "aversion": ["Strong dislike, opposition.", "厭惡；反感"], "adversary": ["Opponent, enemy, foe.", "對手；敵手"], "vertigo": ["Dizziness.", "眩暈"], "diversity": ["Variety.", "多樣性"], "adversity": ["Great trouble or difficulty.", "逆境；不幸"], "advertise": ["To promote a product, service, or event publicly.", "宣傳；登廣告"], "ambivert": ["A person with a balance of introverted and extroverted traits.", "中間性格者(內外向兼具)"], "aver": ["To state something as a fact with confidence.", "斷言；宣稱"], "avert": ["To prevent an undesirable event; to turn away one's gaze.", "避免；移開視線"], "controversy": ["Prolonged public dispute or disagreement.", "爭議"], "controvert": ["To deny or dispute the truth of something.", "反駁；否認"], "conversant": ["Familiar with or knowledgeable about a subject.", "熟悉的；精通的"], "conversation": ["An informal talk between people.", "對話；交談"], "converse": ["To talk informally; being the opposite.", "交談；相反的"], "convert": ["To change something into a different form, state, or use.", "轉變；使轉換"], "diverse": ["Showing a great deal of variety; very different from one another.", "多樣的；各異的"], "extrovert": ["A person directed toward others as opposed to the self.", "外向的人"], "inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "introvert": ["A person who tends to shrink from social contacts.", "內向的人"], "pervert": ["To distort something from its original meaning or use; a person with deviant tendencies.", "曲解；變態者"], "subvert": ["To undermine or overthrow the power or authority of.", "顛覆；破壞"], "tergiversate": ["To change one's loyalties or opinions repeatedly; to be evasive.", "反覆變節；支吾其詞"], "tergiversation": ["The act of repeatedly changing one's loyalties or opinions; evasiveness.", "反覆變節；支吾搪塞"], "veracity": ["Truthfulness, accuracy.", "真實性；誠實"], "verisimilitude": ["The appearance or quality of being real or true; the resemblance to reality.", "逼真；擬真性"], "veritable": ["Used to emphasize truth.", "名副其實的；真正的"], "versatile": ["Able to adapt to many different functions or activities.", "多才多藝的；通用的"], "versed": ["Having great knowledge or experience in a particular subject.", "精通的；熟悉的"], "vert": ["The color green, especially in heraldry.", "綠色(尤指紋章學)"], "vertebrae": ["The small bones that form the backbone (plural of vertebra).", "脊椎骨(複數)"], "vertex": ["The highest point; the point where two lines meet to form an angle.", "頂點；端點"], "vertiginous": ["Causing dizziness; extremely high or steep.", "令人暈眩的"], "vice versa": ["With the order or meaning reversed; conversely.", "反之亦然"]});

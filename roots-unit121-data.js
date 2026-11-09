@@ -122,7 +122,7 @@ window.FLASHCARD_UNITS = {
     "word": "deplete",
     "pos": "v.",
     "definition": "To use up the supply or resources of something.",
-    "chinese": "耗盡;使枯竭",
+    "chinese": "耗盡；使枯竭",
     "synonyms": "",
     "root": "de- (away) + plere (to fill), from Latin",
     "group": "plen；plete = 滿；全",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To use up the supply or resources of something.",
-     "chinese": "耗盡;使枯竭"
+     "chinese": "耗盡；使枯竭"
     }
    },
    {
     "word": "depleted",
     "pos": "adj.",
     "definition": "Reduced in quantity, especially to a critically low level.",
-    "chinese": "耗盡的;枯竭的",
+    "chinese": "耗盡的；枯竭的",
     "synonyms": "",
     "root": "de- (away) + plere (to fill), from Latin",
     "group": "plen；plete = 滿；全",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reduced in quantity, especially to a critically low level.",
-     "chinese": "耗盡的;枯竭的"
+     "chinese": "耗盡的；枯竭的"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "plenary",
     "pos": "adj.",
     "definition": "Complete in every respect; fully attended.",
-    "chinese": "完全的;全體出席的",
+    "chinese": "完全的；全體出席的",
     "synonyms": "",
     "root": "plenus (full), from Latin",
     "group": "plen；plete = 滿；全",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Complete in every respect; fully attended.",
-     "chinese": "完全的;全體出席的"
+     "chinese": "完全的；全體出席的"
     }
    },
    {
@@ -219,7 +219,7 @@ window.FLASHCARD_UNITS = {
     "word": "plentiful",
     "pos": "adj.",
     "definition": "Existing in large quantities.",
-    "chinese": "豐富的;充足的",
+    "chinese": "豐富的；充足的",
     "synonyms": "",
     "root": "plentee (abundance), from Old French, from Latin plenus (full)",
     "group": "plen；plete = 滿；全",
@@ -231,14 +231,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing in large quantities.",
-     "chinese": "豐富的;充足的"
+     "chinese": "豐富的；充足的"
     }
    },
    {
     "word": "plentitude",
     "pos": "n.",
     "definition": "An abundance or ample quantity of something.",
-    "chinese": "豐富;大量",
+    "chinese": "豐富；大量",
     "synonyms": "",
     "root": "plenus (full), from Latin, variant of plenitude",
     "group": "plen；plete = 滿；全",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An abundance or ample quantity of something.",
-     "chinese": "豐富;大量"
+     "chinese": "豐富；大量"
     }
    },
    {
     "word": "plenty",
     "pos": "n./adv.",
     "definition": "A large or sufficient amount.",
-    "chinese": "大量;充足",
+    "chinese": "大量；充足",
     "synonyms": "",
     "root": "plente (abundance), from Old French, from Latin plenus (full)",
     "group": "plen；plete = 滿；全",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A large or sufficient amount.",
-     "chinese": "大量;充足"
+     "chinese": "大量；充足"
     }
    },
    {
     "word": "plexiform",
     "pos": "adj.",
     "definition": "Having a complex, interwoven structure like a network.",
-    "chinese": "網狀的;叢狀的",
+    "chinese": "網狀的；叢狀的",
     "synonyms": "",
     "root": "plexus (braid, network), from Latin plectere (to braid) + forma (shape)",
     "group": "plen；plete = 滿；全",
@@ -288,14 +288,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having a complex, interwoven structure like a network.",
-     "chinese": "網狀的;叢狀的"
+     "chinese": "網狀的；叢狀的"
     }
    },
    {
     "word": "plexus",
     "pos": "n.",
     "definition": "A network of nerves or vessels in the body.",
-    "chinese": "神經叢;脈絡叢",
+    "chinese": "神經叢；脈絡叢",
     "synonyms": "",
     "root": "plexus (braid, network), from Latin plectere (to braid)",
     "group": "plen；plete = 滿；全",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A network of nerves or vessels in the body.",
-     "chinese": "神經叢;脈絡叢"
+     "chinese": "神經叢；脈絡叢"
     }
    },
    {
@@ -745,4 +745,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"replete": ["Completely filled or supplied with.", "充滿的"], "replenish": ["To fill again, restock.", "補充；重新裝滿"], "compliant": ["Yielding, submissive.", "順從的"], "complementary": ["Serving to complete another.", "互補的"], "complement": ["To complete, make perfect.", "補足；相輔相成"], "compliment": ["An expression of esteem or approval.", "讚美；恭維"], "deplete": ["To use up the supply or resources of something.", "耗盡;使枯竭"], "depleted": ["Reduced in quantity, especially to a critically low level.", "耗盡的;枯竭的"], "implement": ["To put a plan or decision into action; to carry out.", "實施；執行"], "plenary": ["Complete in every respect; fully attended.", "完全的;全體出席的"], "plenitude": ["An abundance.", "豐富；充裕"], "plentiful": ["Existing in large quantities.", "豐富的;充足的"], "plentitude": ["An abundance or ample quantity of something.", "豐富;大量"], "plenty": ["A large or sufficient amount.", "大量;充足"], "plexiform": ["Having a complex, interwoven structure like a network.", "網狀的;叢狀的"], "plexus": ["A network of nerves or vessels in the body.", "神經叢;脈絡叢"], "supplement": ["To add something extra to complete or enhance something else.", "補充；補充品"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"replete": ["Completely filled or supplied with.", "充滿的"], "replenish": ["To fill again, restock.", "補充；重新裝滿"], "compliant": ["Yielding, submissive.", "順從的"], "complementary": ["Serving to complete another.", "互補的"], "complement": ["To complete, make perfect.", "補足；相輔相成"], "compliment": ["An expression of esteem or approval.", "讚美；恭維"], "deplete": ["To use up the supply or resources of something.", "耗盡；使枯竭"], "depleted": ["Reduced in quantity, especially to a critically low level.", "耗盡的；枯竭的"], "implement": ["To put a plan or decision into action; to carry out.", "實施；執行"], "plenary": ["Complete in every respect; fully attended.", "完全的；全體出席的"], "plenitude": ["An abundance.", "豐富；充裕"], "plentiful": ["Existing in large quantities.", "豐富的；充足的"], "plentitude": ["An abundance or ample quantity of something.", "豐富；大量"], "plenty": ["A large or sufficient amount.", "大量；充足"], "plexiform": ["Having a complex, interwoven structure like a network.", "網狀的；叢狀的"], "plexus": ["A network of nerves or vessels in the body.", "神經叢；脈絡叢"], "supplement": ["To add something extra to complete or enhance something else.", "補充；補充品"]});

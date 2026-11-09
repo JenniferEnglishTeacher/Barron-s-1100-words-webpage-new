@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "prate",
     "pos": "v.",
     "definition": "To talk foolishly or at tedious length about something.",
-    "chinese": "喋喋不休;瞎扯",
+    "chinese": "喋喋不休；瞎扯",
     "synonyms": "",
     "root": "praten (to chatter), from Middle Dutch",
     "group": "",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To talk foolishly or at tedious length about something.",
-     "chinese": "喋喋不休;瞎扯"
+     "chinese": "喋喋不休；瞎扯"
     }
    },
    {
@@ -103,7 +103,7 @@ window.FLASHCARD_UNITS = {
     "word": "prattler",
     "pos": "n.",
     "definition": "A person who talks in a foolish or childish way, especially at length.",
-    "chinese": "喋喋不休的人;饒舌者",
+    "chinese": "喋喋不休的人；饒舌者",
     "synonyms": "",
     "root": "praten (to chatter), from Middle Dutch",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who talks in a foolish or childish way, especially at length.",
-     "chinese": "喋喋不休的人;饒舌者"
+     "chinese": "喋喋不休的人；饒舌者"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "preceptor",
     "pos": "n.",
     "definition": "A teacher or instructor, especially one giving practical guidance.",
-    "chinese": "導師;教師",
+    "chinese": "導師；教師",
     "synonyms": "",
     "root": "praeceptor (teacher), from Latin praecipere (to instruct)",
     "group": "",
@@ -172,14 +172,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A teacher or instructor, especially one giving practical guidance.",
-     "chinese": "導師;教師"
+     "chinese": "導師；教師"
     }
    },
    {
     "word": "precipitous",
     "pos": "adj.",
     "definition": "Dangerously steep; done with excessive haste.",
-    "chinese": "陡峭的;倉促的",
+    "chinese": "陡峭的；倉促的",
     "synonyms": "",
     "root": "praeceps (headlong), from Latin prae- (before) + caput (head)",
     "group": "",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dangerously steep; done with excessive haste.",
-     "chinese": "陡峭的;倉促的"
+     "chinese": "陡峭的；倉促的"
     }
    },
    {
     "word": "precis",
     "pos": "n.",
     "definition": "A concise summary of the essential points of a text.",
-    "chinese": "摘要;概要",
+    "chinese": "摘要；概要",
     "synonyms": "",
     "root": "précis (precise, exact), from French, from Latin praecisus (cut short)",
     "group": "",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A concise summary of the essential points of a text.",
-     "chinese": "摘要;概要"
+     "chinese": "摘要；概要"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "predicament",
     "pos": "n.",
     "definition": "A difficult, unpleasant, or embarrassing situation.",
-    "chinese": "困境;窘境",
+    "chinese": "困境；窘境",
     "synonyms": "",
     "root": "praedicamentum (that which is predicated), from Latin praedicare (to proclaim)",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A difficult, unpleasant, or embarrassing situation.",
-     "chinese": "困境;窘境"
+     "chinese": "困境；窘境"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "presbyter",
     "pos": "n.",
     "definition": "An elder or senior member of the clergy in certain Christian churches.",
-    "chinese": "長老;牧師",
+    "chinese": "長老；牧師",
     "synonyms": "",
     "root": "presbyteros (elder), from Greek presbys (old)",
     "group": "",
@@ -347,14 +347,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An elder or senior member of the clergy in certain Christian churches.",
-     "chinese": "長老;牧師"
+     "chinese": "長老；牧師"
     }
    },
    {
     "word": "presbyterian",
     "pos": "adj./n.",
     "definition": "Relating to a church governed by elders; a member of such a church.",
-    "chinese": "長老會的;長老會教徒",
+    "chinese": "長老會的；長老會教徒",
     "synonyms": "",
     "root": "presbyteros (elder), from Greek presbys (old)",
     "group": "",
@@ -368,14 +368,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Relating to a church governed by elders; a member of such a church.",
-     "chinese": "長老會的;長老會教徒"
+     "chinese": "長老會的；長老會教徒"
     }
    },
    {
     "word": "presbytery",
     "pos": "n.",
     "definition": "A governing body of elders in a Presbyterian church; a priest's residence.",
-    "chinese": "長老會議;神父住所",
+    "chinese": "長老會議；神父住所",
     "synonyms": "",
     "root": "presbyteros (elder), from Greek presbys (old)",
     "group": "",
@@ -387,14 +387,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A governing body of elders in a Presbyterian church; a priest's residence.",
-     "chinese": "長老會議;神父住所"
+     "chinese": "長老會議；神父住所"
     }
    },
    {
     "word": "preserving",
     "pos": "adj./v.",
     "definition": "Maintaining something in its original or existing state.",
-    "chinese": "保存的;維護的",
+    "chinese": "保存的；維護的",
     "synonyms": "",
     "root": "praeservare (to guard beforehand), from Latin prae- (before) + servare (to keep)",
     "group": "",
@@ -406,14 +406,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Maintaining something in its original or existing state.",
-     "chinese": "保存的;維護的"
+     "chinese": "保存的；維護的"
     }
    },
    {
     "word": "prestidigitation",
     "pos": "n.",
     "definition": "Skill in performing conjuring tricks with the hands.",
-    "chinese": "手法戲法;戲法技藝",
+    "chinese": "手法戲法；戲法技藝",
     "synonyms": "",
     "root": "presto (quick), from Italian + digitus (finger), from Latin",
     "group": "",
@@ -425,14 +425,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Skill in performing conjuring tricks with the hands.",
-     "chinese": "手法戲法;戲法技藝"
+     "chinese": "手法戲法；戲法技藝"
     }
    },
    {
     "word": "prestidigitator",
     "pos": "n.",
     "definition": "A magician skilled in sleight of hand.",
-    "chinese": "魔術師;戲法師",
+    "chinese": "魔術師；戲法師",
     "synonyms": "",
     "root": "presto (quick), from Italian + digitus (finger), from Latin",
     "group": "",
@@ -444,7 +444,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A magician skilled in sleight of hand.",
-     "chinese": "魔術師;戲法師"
+     "chinese": "魔術師；戲法師"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "preterition",
     "pos": "n.",
     "definition": "The act of passing over or omitting something, especially a rhetorical device.",
-    "chinese": "省略修辭法;略而不提",
+    "chinese": "省略修辭法；略而不提",
     "synonyms": "",
     "root": "praeterire (to pass by), from Latin praeter- (past) + ire (to go)",
     "group": "",
@@ -482,14 +482,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of passing over or omitting something, especially a rhetorical device.",
-     "chinese": "省略修辭法;略而不提"
+     "chinese": "省略修辭法；略而不提"
     }
    },
    {
     "word": "preternatural",
     "pos": "adj.",
     "definition": "Beyond what is normal or natural; extraordinary.",
-    "chinese": "超自然的;異常的",
+    "chinese": "超自然的；異常的",
     "synonyms": "",
     "root": "praeter- (beyond) + naturalis (natural), from Latin",
     "group": "",
@@ -501,14 +501,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Beyond what is normal or natural; extraordinary.",
-     "chinese": "超自然的;異常的"
+     "chinese": "超自然的；異常的"
     }
    },
    {
     "word": "prevaricate",
     "pos": "v.",
     "definition": "To speak evasively to avoid telling the truth.",
-    "chinese": "支吾其詞;含糊其辭",
+    "chinese": "支吾其詞；含糊其辭",
     "synonyms": "",
     "root": "praevaricari (to walk crookedly), from Latin prae- (before) + varicare (to straddle)",
     "group": "",
@@ -520,7 +520,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To speak evasively to avoid telling the truth.",
-     "chinese": "支吾其詞;含糊其辭"
+     "chinese": "支吾其詞；含糊其辭"
     }
    },
    {
@@ -565,7 +565,7 @@ window.FLASHCARD_UNITS = {
     "word": "prim",
     "pos": "adj.",
     "definition": "Stiffly formal and correct; disapproving of impropriety.",
-    "chinese": "拘謹的;一本正經的",
+    "chinese": "拘謹的；一本正經的",
     "synonyms": "",
     "root": "prime (excellent), from French, possibly influenced by proper",
     "group": "",
@@ -577,14 +577,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Stiffly formal and correct; disapproving of impropriety.",
-     "chinese": "拘謹的;一本正經的"
+     "chinese": "拘謹的；一本正經的"
     }
    },
    {
     "word": "primer",
     "pos": "n.",
     "definition": "An introductory book on a subject; a substance applied before paint.",
-    "chinese": "入門書;底漆",
+    "chinese": "入門書；底漆",
     "synonyms": "",
     "root": "primarius (first, chief), from Latin primus (first)",
     "group": "",
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An introductory book on a subject; a substance applied before paint.",
-     "chinese": "入門書;底漆"
+     "chinese": "入門書；底漆"
     }
    },
    {
@@ -660,7 +660,7 @@ window.FLASHCARD_UNITS = {
     "word": "primitive",
     "pos": "adj.",
     "definition": "Relating to an early stage of development; simple or crude.",
-    "chinese": "原始的;簡陋的",
+    "chinese": "原始的；簡陋的",
     "synonyms": "",
     "root": "primitivus (first of its kind), from Latin primus (first)",
     "group": "",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to an early stage of development; simple or crude.",
-     "chinese": "原始的;簡陋的"
+     "chinese": "原始的；簡陋的"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "pristine",
     "pos": "adj.",
     "definition": "In its original, unspoiled condition.",
-    "chinese": "原始的;純淨無瑕的",
+    "chinese": "原始的；純淨無瑕的",
     "synonyms": "",
     "root": "pristinus (former, original), from Latin",
     "group": "",
@@ -710,14 +710,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In its original, unspoiled condition.",
-     "chinese": "原始的;純淨無瑕的"
+     "chinese": "原始的；純淨無瑕的"
     }
    },
    {
     "word": "private",
     "pos": "adj.",
     "definition": "Belonging to a particular person; not open to the public.",
-    "chinese": "私人的;私密的",
+    "chinese": "私人的；私密的",
     "synonyms": "",
     "root": "privatus (deprived of office, private), from Latin privare (to deprive)",
     "group": "",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Belonging to a particular person; not open to the public.",
-     "chinese": "私人的;私密的"
+     "chinese": "私人的；私密的"
     }
    },
    {
@@ -755,7 +755,7 @@ window.FLASHCARD_UNITS = {
     "word": "privative",
     "pos": "adj.",
     "definition": "Indicating the absence or removal of a quality.",
-    "chinese": "表否定的;剝奪性的",
+    "chinese": "表否定的；剝奪性的",
     "synonyms": "",
     "root": "privativus (depriving), from Latin privare (to deprive)",
     "group": "",
@@ -767,14 +767,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Indicating the absence or removal of a quality.",
-     "chinese": "表否定的;剝奪性的"
+     "chinese": "表否定的；剝奪性的"
     }
    },
    {
     "word": "pro bono",
     "pos": "adj./adv.",
     "definition": "Done or given without charge, especially professional services.",
-    "chinese": "無償的;義務的",
+    "chinese": "無償的；義務的",
     "synonyms": "",
     "root": "pro bono publico (for the public good), from Latin",
     "group": "",
@@ -786,7 +786,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Done or given without charge, especially professional services.",
-     "chinese": "無償的;義務的"
+     "chinese": "無償的；義務的"
     }
    },
    {
@@ -812,7 +812,7 @@ window.FLASHCARD_UNITS = {
     "word": "pro tempore",
     "pos": "adv./adj.",
     "definition": "For the time being; temporarily.",
-    "chinese": "暫時的;臨時的(拉丁語)",
+    "chinese": "暫時的；臨時的(拉丁語)",
     "synonyms": "",
     "root": "pro (for) + tempore (time), from Latin",
     "group": "",
@@ -824,7 +824,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "For the time being; temporarily.",
-     "chinese": "暫時的;臨時的(拉丁語)"
+     "chinese": "暫時的；臨時的(拉丁語)"
     }
    },
    {
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "word": "process",
     "pos": "n./v.",
     "definition": "A series of actions to achieve a result; to handle or deal with.",
-    "chinese": "過程;處理",
+    "chinese": "過程；處理",
     "synonyms": "",
     "root": "processus (a going forward), from Latin procedere",
     "group": "",
@@ -881,14 +881,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A series of actions to achieve a result; to handle or deal with.",
-     "chinese": "過程;處理"
+     "chinese": "過程；處理"
     }
    },
    {
     "word": "procrustean",
     "pos": "adj.",
     "definition": "Enforcing conformity by ignoring individual differences, often ruthlessly.",
-    "chinese": "強求一致的;削足適履的",
+    "chinese": "強求一致的；削足適履的",
     "synonyms": "",
     "root": "named after Procrustes, a mythical figure who forced victims to fit his bed",
     "group": "",
@@ -900,14 +900,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Enforcing conformity by ignoring individual differences, often ruthlessly.",
-     "chinese": "強求一致的;削足適履的"
+     "chinese": "強求一致的；削足適履的"
     }
    },
    {
     "word": "profess",
     "pos": "v.",
     "definition": "To openly declare a belief, feeling, or claim.",
-    "chinese": "公開表示;宣稱",
+    "chinese": "公開表示；宣稱",
     "synonyms": "",
     "root": "profiteri (to declare publicly), from Latin pro- (forth) + fateri (to confess)",
     "group": "",
@@ -919,14 +919,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To openly declare a belief, feeling, or claim.",
-     "chinese": "公開表示;宣稱"
+     "chinese": "公開表示；宣稱"
     }
    },
    {
     "word": "proletarian",
     "pos": "adj./n.",
     "definition": "Relating to the working class; a member of the working class.",
-    "chinese": "無產階級的;無產階級者",
+    "chinese": "無產階級的；無產階級者",
     "synonyms": "",
     "root": "proletarius (citizen of the lowest class), from Latin proles (offspring)",
     "group": "",
@@ -938,7 +938,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the working class; a member of the working class.",
-     "chinese": "無產階級的;無產階級者"
+     "chinese": "無產階級的；無產階級者"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"praise": ["To express approval or admiration.", "讚美；稱讚"], "prandial": ["Relating to a meal, especially dinner.", "用餐的"], "prankish": ["Playful and mischievous, fond of practical jokes.", "愛惡作劇的"], "prate": ["To talk foolishly or at tedious length about something.", "喋喋不休;瞎扯"], "prattle": ["To speak on and on in a senseless and silly manner; to talk foolishly.", "喋喋不休地說廢話"], "prattler": ["A person who talks in a foolish or childish way, especially at length.", "喋喋不休的人;饒舌者"], "prattling": ["Talking in a foolish or childish manner, especially at length.", "喋喋不休的"], "precarious": ["Dangerous or risky; uncertain.", "不穩定的；危險的"], "preceptor": ["A teacher or instructor, especially one giving practical guidance.", "導師;教師"], "precipitous": ["Dangerously steep; done with excessive haste.", "陡峭的;倉促的"], "precis": ["A concise summary of the essential points of a text.", "摘要;概要"], "precociousness": ["The quality of showing unusually advanced development at an early age.", "早熟"], "predatory": ["Seeking to exploit or harm others, often for personal gain; related to predators.", "掠奪性的；捕食性的"], "predicament": ["A difficult, unpleasant, or embarrassing situation.", "困境;窘境"], "presbycisis": ["A variant spelling of presbycusis, age-related hearing loss.", "老年性聽力損失(異體拼法)"], "presbycusis": ["Gradual hearing loss associated with aging.", "老年性聽力損失"], "presbyopia": ["Age-related loss of near-vision focus.", "老花眼"], "presbyter": ["An elder or senior member of the clergy in certain Christian churches.", "長老;牧師"], "presbyterian": ["Relating to a church governed by elders; a member of such a church.", "長老會的;長老會教徒"], "presbytery": ["A governing body of elders in a Presbyterian church; a priest's residence.", "長老會議;神父住所"], "preserving": ["Maintaining something in its original or existing state.", "保存的;維護的"], "prestidigitation": ["Skill in performing conjuring tricks with the hands.", "手法戲法;戲法技藝"], "prestidigitator": ["A magician skilled in sleight of hand.", "魔術師;戲法師"], "prestigious": ["Well-known.", "享有聲望的"], "preterition": ["The act of passing over or omitting something, especially a rhetorical device.", "省略修辭法;略而不提"], "preternatural": ["Beyond what is normal or natural; extraordinary.", "超自然的;異常的"], "prevaricate": ["To speak evasively to avoid telling the truth.", "支吾其詞;含糊其辭"], "prevaricating": ["Speaking evasively to avoid telling the truth.", "支吾其詞的"], "prickmedainty": ["An affectedly precise or fussy person (archaic); overly fastidious.", "矯揉造作的講究者(古語)"], "prim": ["Stiffly formal and correct; disapproving of impropriety.", "拘謹的;一本正經的"], "primer": ["An introductory book on a subject; a substance applied before paint.", "入門書;底漆"], "primeval": ["Original, ancient.", "原始的；太古的"], "primipara": ["A woman giving birth for the first time.", "初產婦"], "primiparous": ["Having given birth for the first time.", "初產的"], "primitive": ["Relating to an early stage of development; simple or crude.", "原始的;簡陋的"], "princox": ["A conceited young man; a coxcomb (archaic).", "自負的年輕人(古語)"], "pristine": ["In its original, unspoiled condition.", "原始的;純淨無瑕的"], "private": ["Belonging to a particular person; not open to the public.", "私人的;私密的"], "privation": ["Lack of necessities.", "匱乏"], "privative": ["Indicating the absence or removal of a quality.", "表否定的;剝奪性的"], "pro bono": ["Done or given without charge, especially professional services.", "無償的;義務的"], "pro bono publico": ["For the public good, especially referring to unpaid professional work.", "為了公眾利益(拉丁語)"], "pro tempore": ["For the time being; temporarily.", "暫時的;臨時的(拉丁語)"], "probability": ["Likelihood of something happening.", "可能性"], "probity": ["Virtue, integrity.", "正直；誠實"], "process": ["A series of actions to achieve a result; to handle or deal with.", "過程;處理"], "procrustean": ["Enforcing conformity by ignoring individual differences, often ruthlessly.", "強求一致的;削足適履的"], "profess": ["To openly declare a belief, feeling, or claim.", "公開表示;宣稱"], "proletarian": ["Relating to the working class; a member of the working class.", "無產階級的;無產階級者"], "proletariat": ["The working class, especially industrial wage earners.", "無產階級"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"praise": ["To express approval or admiration.", "讚美；稱讚"], "prandial": ["Relating to a meal, especially dinner.", "用餐的"], "prankish": ["Playful and mischievous, fond of practical jokes.", "愛惡作劇的"], "prate": ["To talk foolishly or at tedious length about something.", "喋喋不休；瞎扯"], "prattle": ["To speak on and on in a senseless and silly manner; to talk foolishly.", "喋喋不休地說廢話"], "prattler": ["A person who talks in a foolish or childish way, especially at length.", "喋喋不休的人；饒舌者"], "prattling": ["Talking in a foolish or childish manner, especially at length.", "喋喋不休的"], "precarious": ["Dangerous or risky; uncertain.", "不穩定的；危險的"], "preceptor": ["A teacher or instructor, especially one giving practical guidance.", "導師；教師"], "precipitous": ["Dangerously steep; done with excessive haste.", "陡峭的；倉促的"], "precis": ["A concise summary of the essential points of a text.", "摘要；概要"], "precociousness": ["The quality of showing unusually advanced development at an early age.", "早熟"], "predatory": ["Seeking to exploit or harm others, often for personal gain; related to predators.", "掠奪性的；捕食性的"], "predicament": ["A difficult, unpleasant, or embarrassing situation.", "困境；窘境"], "presbycisis": ["A variant spelling of presbycusis, age-related hearing loss.", "老年性聽力損失(異體拼法)"], "presbycusis": ["Gradual hearing loss associated with aging.", "老年性聽力損失"], "presbyopia": ["Age-related loss of near-vision focus.", "老花眼"], "presbyter": ["An elder or senior member of the clergy in certain Christian churches.", "長老；牧師"], "presbyterian": ["Relating to a church governed by elders; a member of such a church.", "長老會的；長老會教徒"], "presbytery": ["A governing body of elders in a Presbyterian church; a priest's residence.", "長老會議；神父住所"], "preserving": ["Maintaining something in its original or existing state.", "保存的；維護的"], "prestidigitation": ["Skill in performing conjuring tricks with the hands.", "手法戲法；戲法技藝"], "prestidigitator": ["A magician skilled in sleight of hand.", "魔術師；戲法師"], "prestigious": ["Well-known.", "享有聲望的"], "preterition": ["The act of passing over or omitting something, especially a rhetorical device.", "省略修辭法；略而不提"], "preternatural": ["Beyond what is normal or natural; extraordinary.", "超自然的；異常的"], "prevaricate": ["To speak evasively to avoid telling the truth.", "支吾其詞；含糊其辭"], "prevaricating": ["Speaking evasively to avoid telling the truth.", "支吾其詞的"], "prickmedainty": ["An affectedly precise or fussy person (archaic); overly fastidious.", "矯揉造作的講究者(古語)"], "prim": ["Stiffly formal and correct; disapproving of impropriety.", "拘謹的；一本正經的"], "primer": ["An introductory book on a subject; a substance applied before paint.", "入門書；底漆"], "primeval": ["Original, ancient.", "原始的；太古的"], "primipara": ["A woman giving birth for the first time.", "初產婦"], "primiparous": ["Having given birth for the first time.", "初產的"], "primitive": ["Relating to an early stage of development; simple or crude.", "原始的；簡陋的"], "princox": ["A conceited young man; a coxcomb (archaic).", "自負的年輕人(古語)"], "pristine": ["In its original, unspoiled condition.", "原始的；純淨無瑕的"], "private": ["Belonging to a particular person; not open to the public.", "私人的；私密的"], "privation": ["Lack of necessities.", "匱乏"], "privative": ["Indicating the absence or removal of a quality.", "表否定的；剝奪性的"], "pro bono": ["Done or given without charge, especially professional services.", "無償的；義務的"], "pro bono publico": ["For the public good, especially referring to unpaid professional work.", "為了公眾利益(拉丁語)"], "pro tempore": ["For the time being; temporarily.", "暫時的；臨時的(拉丁語)"], "probability": ["Likelihood of something happening.", "可能性"], "probity": ["Virtue, integrity.", "正直；誠實"], "process": ["A series of actions to achieve a result; to handle or deal with.", "過程；處理"], "procrustean": ["Enforcing conformity by ignoring individual differences, often ruthlessly.", "強求一致的；削足適履的"], "profess": ["To openly declare a belief, feeling, or claim.", "公開表示；宣稱"], "proletarian": ["Relating to the working class; a member of the working class.", "無產階級的；無產階級者"], "proletariat": ["The working class, especially industrial wage earners.", "無產階級"]});

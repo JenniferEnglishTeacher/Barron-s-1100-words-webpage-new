@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "atrocious",
     "pos": "adj.",
     "definition": "Extremely wicked or cruel; very bad.",
-    "chinese": "殘暴的;糟糕透頂的",
+    "chinese": "殘暴的；糟糕透頂的",
     "synonyms": "",
     "root": "atrox (cruel, from Latin)",
     "group": "",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely wicked or cruel; very bad.",
-     "chinese": "殘暴的;糟糕透頂的"
+     "chinese": "殘暴的；糟糕透頂的"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "attack",
     "pos": "n./v.",
     "definition": "A violent or hostile act against someone; to act against forcefully.",
-    "chinese": "攻擊;抨擊",
+    "chinese": "攻擊；抨擊",
     "synonyms": "",
     "root": "attaccare (to attach, join battle, from Italian)",
     "group": "",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A violent or hostile act against someone; to act against forcefully.",
-     "chinese": "攻擊;抨擊"
+     "chinese": "攻擊；抨擊"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "aubade",
     "pos": "n.",
     "definition": "A poem or song about lovers separating at dawn.",
-    "chinese": "晨歌;晨別詩",
+    "chinese": "晨歌；晨別詩",
     "synonyms": "",
     "root": "aube (dawn, from French)",
     "group": "",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A poem or song about lovers separating at dawn.",
-     "chinese": "晨歌;晨別詩"
+     "chinese": "晨歌；晨別詩"
     }
    },
    {
@@ -215,7 +215,7 @@ window.FLASHCARD_UNITS = {
     "word": "augur",
     "pos": "n./v.",
     "definition": "A religious official who interprets omens; to be a sign of a future outcome.",
-    "chinese": "占卜官;預示",
+    "chinese": "占卜官；預示",
     "synonyms": "",
     "root": "augur (diviner, from Latin)",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A religious official who interprets omens; to be a sign of a future outcome.",
-     "chinese": "占卜官;預示"
+     "chinese": "占卜官；預示"
     }
    },
    {
     "word": "augury",
     "pos": "n.",
     "definition": "An omen or sign of what is to come.",
-    "chinese": "預兆;占卜",
+    "chinese": "預兆；占卜",
     "synonyms": "",
     "root": "augur (diviner, from Latin)",
     "group": "",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An omen or sign of what is to come.",
-     "chinese": "預兆;占卜"
+     "chinese": "預兆；占卜"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "authentic",
     "pos": "adj.",
     "definition": "Genuine and not a copy or fake.",
-    "chinese": "真實的;道地的",
+    "chinese": "真實的；道地的",
     "synonyms": "",
     "root": "authentikos (original, from Greek)",
     "group": "",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Genuine and not a copy or fake.",
-     "chinese": "真實的;道地的"
+     "chinese": "真實的；道地的"
     }
    },
    {
     "word": "authenticate",
     "pos": "v.",
     "definition": "To prove or confirm something is genuine.",
-    "chinese": "證明真實性;鑑定",
+    "chinese": "證明真實性；鑑定",
     "synonyms": "",
     "root": "authentikos (original, from Greek)",
     "group": "",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prove or confirm something is genuine.",
-     "chinese": "證明真實性;鑑定"
+     "chinese": "證明真實性；鑑定"
     }
    },
    {
     "word": "authoritarian",
     "pos": "adj./n.",
     "definition": "Favoring strict obedience to authority at the expense of personal freedom.",
-    "chinese": "獨裁的;威權主義者",
+    "chinese": "獨裁的；威權主義者",
     "synonyms": "",
     "root": "auctor (author, originator, from Latin)",
     "group": "",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Favoring strict obedience to authority at the expense of personal freedom.",
-     "chinese": "獨裁的;威權主義者"
+     "chinese": "獨裁的；威權主義者"
     }
    },
    {
     "word": "authorization",
     "pos": "n.",
     "definition": "Official permission or approval.",
-    "chinese": "授權;批准",
+    "chinese": "授權；批准",
     "synonyms": "",
     "root": "auctor (author, originator, from Latin)",
     "group": "",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Official permission or approval.",
-     "chinese": "授權;批准"
+     "chinese": "授權；批准"
     }
    },
    {
     "word": "authorize",
     "pos": "v.",
     "definition": "To give official permission for something.",
-    "chinese": "授權;核准",
+    "chinese": "授權；核准",
     "synonyms": "",
     "root": "auctor (author, originator, from Latin)",
     "group": "",
@@ -360,7 +360,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To give official permission for something.",
-     "chinese": "授權;核准"
+     "chinese": "授權；核准"
     }
    },
    {
@@ -386,7 +386,7 @@ window.FLASHCARD_UNITS = {
     "word": "autochthonous",
     "pos": "adj.",
     "definition": "Originating in the place where it is found; indigenous.",
-    "chinese": "土生土長的;原生的",
+    "chinese": "土生土長的；原生的",
     "synonyms": "",
     "root": "autos (self) + chthon (earth), from Greek",
     "group": "",
@@ -398,14 +398,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Originating in the place where it is found; indigenous.",
-     "chinese": "土生土長的;原生的"
+     "chinese": "土生土長的；原生的"
     }
    },
    {
     "word": "autocracy",
     "pos": "n.",
     "definition": "A system of government by one person with absolute power.",
-    "chinese": "獨裁政體;專制",
+    "chinese": "獨裁政體；專制",
     "synonyms": "",
     "root": "autos (self) + kratos (power), from Greek",
     "group": "",
@@ -417,14 +417,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A system of government by one person with absolute power.",
-     "chinese": "獨裁政體;專制"
+     "chinese": "獨裁政體；專制"
     }
    },
    {
     "word": "autocratic",
     "pos": "adj.",
     "definition": "Relating to a ruler with absolute power; domineering.",
-    "chinese": "獨裁的;專斷的",
+    "chinese": "獨裁的；專斷的",
     "synonyms": "",
     "root": "autos (self) + kratos (power), from Greek",
     "group": "",
@@ -436,7 +436,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to a ruler with absolute power; domineering.",
-     "chinese": "獨裁的;專斷的"
+     "chinese": "獨裁的；專斷的"
     }
    },
    {
@@ -481,7 +481,7 @@ window.FLASHCARD_UNITS = {
     "word": "autograph",
     "pos": "n./v.",
     "definition": "A person's own signature, especially of a celebrity; to sign one's name.",
-    "chinese": "親筆簽名;簽名",
+    "chinese": "親筆簽名；簽名",
     "synonyms": "",
     "root": "autos (self) + graphein (to write), from Greek",
     "group": "",
@@ -493,7 +493,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person's own signature, especially of a celebrity; to sign one's name.",
-     "chinese": "親筆簽名;簽名"
+     "chinese": "親筆簽名；簽名"
     }
    },
    {
@@ -519,7 +519,7 @@ window.FLASHCARD_UNITS = {
     "word": "autonomy",
     "pos": "n.",
     "definition": "The right or condition of self-government; independence.",
-    "chinese": "自治;自主權",
+    "chinese": "自治；自主權",
     "synonyms": "",
     "root": "autos (self) + nomos (law), from Greek",
     "group": "",
@@ -531,7 +531,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The right or condition of self-government; independence.",
-     "chinese": "自治;自主權"
+     "chinese": "自治；自主權"
     }
    },
    {
@@ -557,7 +557,7 @@ window.FLASHCARD_UNITS = {
     "word": "autumnal",
     "pos": "adj.",
     "definition": "Relating to or characteristic of autumn.",
-    "chinese": "秋天的;秋季的",
+    "chinese": "秋天的；秋季的",
     "synonyms": "",
     "root": "autumnus (autumn, from Latin)",
     "group": "",
@@ -569,7 +569,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or characteristic of autumn.",
-     "chinese": "秋天的;秋季的"
+     "chinese": "秋天的；秋季的"
     }
    },
    {
@@ -747,7 +747,7 @@ window.FLASHCARD_UNITS = {
     "word": "awkward",
     "pos": "adj.",
     "definition": "Causing embarrassment or discomfort; lacking grace.",
-    "chinese": "尷尬的;笨拙的",
+    "chinese": "尷尬的；笨拙的",
     "synonyms": "",
     "root": "awk (backhanded, from Old Norse) + -ward",
     "group": "",
@@ -759,14 +759,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing embarrassment or discomfort; lacking grace.",
-     "chinese": "尷尬的;笨拙的"
+     "chinese": "尷尬的；笨拙的"
     }
    },
    {
     "word": "awry",
     "pos": "adj./adv.",
     "definition": "Away from the expected course; twisted or crooked.",
-    "chinese": "出岔子的;歪斜的",
+    "chinese": "出岔子的；歪斜的",
     "synonyms": "",
     "root": "a- (on) + wry (twisted)",
     "group": "",
@@ -778,14 +778,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Away from the expected course; twisted or crooked.",
-     "chinese": "出岔子的;歪斜的"
+     "chinese": "出岔子的；歪斜的"
     }
    },
    {
     "word": "axiom",
     "pos": "n.",
     "definition": "A statement regarded as self-evidently true.",
-    "chinese": "公理;格言",
+    "chinese": "公理；格言",
     "synonyms": "",
     "root": "axioma (worthy, from Greek)",
     "group": "",
@@ -797,7 +797,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A statement regarded as self-evidently true.",
-     "chinese": "公理;格言"
+     "chinese": "公理；格言"
     }
    },
    {
@@ -823,7 +823,7 @@ window.FLASHCARD_UNITS = {
     "word": "bacchanal",
     "pos": "n.",
     "definition": "A wild, drunken celebration or reveler.",
-    "chinese": "狂歡者;酒神祭",
+    "chinese": "狂歡者；酒神祭",
     "synonyms": "",
     "root": "Bacchus (Roman god of wine, from Latin)",
     "group": "",
@@ -835,7 +835,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A wild, drunken celebration or reveler.",
-     "chinese": "狂歡者;酒神祭"
+     "chinese": "狂歡者；酒神祭"
     }
    },
    {
@@ -861,7 +861,7 @@ window.FLASHCARD_UNITS = {
     "word": "bacchanalian",
     "pos": "adj.",
     "definition": "Characterized by wild, drunken revelry.",
-    "chinese": "狂歡的;縱酒狂歡的",
+    "chinese": "狂歡的；縱酒狂歡的",
     "synonyms": "",
     "root": "Bacchus (Roman god of wine, from Latin)",
     "group": "",
@@ -873,14 +873,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Characterized by wild, drunken revelry.",
-     "chinese": "狂歡的;縱酒狂歡的"
+     "chinese": "狂歡的；縱酒狂歡的"
     }
    },
    {
     "word": "bacchant",
     "pos": "n.",
     "definition": "A priest or follower of Bacchus; a drunken reveler.",
-    "chinese": "酒神信徒;縱酒狂歡者",
+    "chinese": "酒神信徒；縱酒狂歡者",
     "synonyms": "",
     "root": "Bacchus (Roman god of wine, from Latin)",
     "group": "",
@@ -894,14 +894,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A priest or follower of Bacchus; a drunken reveler.",
-     "chinese": "酒神信徒;縱酒狂歡者"
+     "chinese": "酒神信徒；縱酒狂歡者"
     }
    },
    {
     "word": "backbiting",
     "pos": "n.",
     "definition": "Spiteful talk about someone who is not present.",
-    "chinese": "背後中傷;說壞話",
+    "chinese": "背後中傷；說壞話",
     "synonyms": "",
     "root": "back + bite",
     "group": "",
@@ -913,14 +913,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spiteful talk about someone who is not present.",
-     "chinese": "背後中傷;說壞話"
+     "chinese": "背後中傷；說壞話"
     }
    },
    {
     "word": "backward",
     "pos": "adj./adv.",
     "definition": "Directed toward the back or the past; underdeveloped.",
-    "chinese": "向後的;落後的",
+    "chinese": "向後的；落後的",
     "synonyms": "",
     "root": "back + -ward",
     "group": "",
@@ -932,7 +932,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Directed toward the back or the past; underdeveloped.",
-     "chinese": "向後的;落後的"
+     "chinese": "向後的；落後的"
     }
    },
    {
@@ -2160,4 +2160,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"atrabilious": ["Bad-tempered or gloomy.", "憂鬱易怒的"], "atrocious": ["Extremely wicked or cruel; very bad.", "殘暴的;糟糕透頂的"], "atrocity": ["An extremely cruel or brutal act.", "暴行"], "atrophy": ["To waste away.", "萎縮"], "attack": ["A violent or hostile act against someone; to act against forcefully.", "攻擊;抨擊"], "atypical": ["Nonconforming.", "非典型的"], "au courant": ["Up-to-date.", "趕上時代的"], "aubade": ["A poem or song about lovers separating at dawn.", "晨歌;晨別詩"], "audacity": ["Boldness, daring.", "大膽；厚顏無恥"], "auger": ["A tool used for boring holes in wood or ice.", "螺旋鑽"], "augment": ["To enlarge, increase.", "增加；擴大"], "augur": ["A religious official who interprets omens; to be a sign of a future outcome.", "占卜官;預示"], "augury": ["An omen or sign of what is to come.", "預兆;占卜"], "austere": ["Simple, unadorned, hard.", "嚴峻的；簡樸的"], "authentic": ["Genuine and not a copy or fake.", "真實的;道地的"], "authenticate": ["To prove or confirm something is genuine.", "證明真實性;鑑定"], "authoritarian": ["Favoring strict obedience to authority at the expense of personal freedom.", "獨裁的;威權主義者"], "authorization": ["Official permission or approval.", "授權;批准"], "authorize": ["To give official permission for something.", "授權;核准"], "autobiography": ["An account of a person's life written by that person.", "自傳"], "autochthonous": ["Originating in the place where it is found; indigenous.", "土生土長的;原生的"], "autocracy": ["A system of government by one person with absolute power.", "獨裁政體;專制"], "autocratic": ["Relating to a ruler with absolute power; domineering.", "獨裁的;專斷的"], "autodidact": ["A person who has taught themselves a skill or subject.", "自學者"], "autodidactic": ["Relating to self-teaching or self-education.", "自學的"], "autograph": ["A person's own signature, especially of a celebrity; to sign one's name.", "親筆簽名;簽名"], "automatic": ["Working by itself with little or no direct human control.", "自動的"], "autonomy": ["The right or condition of self-government; independence.", "自治;自主權"], "autopsy": ["A medical examination of a corpse to determine the cause of death.", "驗屍"], "autumnal": ["Relating to or characteristic of autumn.", "秋天的;秋季的"], "avarice": ["Greed, passion for riches.", "貪婪"], "avaricious": ["Having an extreme desire for wealth.", "貪婪的"], "avian": ["Relating to birds.", "鳥類的"], "aviary": ["An enclosed space for birds.", "鳥舍"], "aviatophobia": ["An abnormal fear of flying.", "飛行恐懼症"], "avid": ["Eager.", "渴望的"], "avoid": ["To stay away from or prevent.", "避免；躲避"], "avuncular": ["Kind and friendly toward younger people, in the manner of an uncle.", "叔伯般慈祥的"], "awesome": ["Inspiring great admiration or fear.", "令人敬畏的"], "awkward": ["Causing embarrassment or discomfort; lacking grace.", "尷尬的;笨拙的"], "awry": ["Away from the expected course; twisted or crooked.", "出岔子的;歪斜的"], "axiom": ["A statement regarded as self-evidently true.", "公理;格言"], "azygophrenia": ["Psychological distress associated with being unmarried or without a partner.", "單身焦慮症"], "bacchanal": ["A wild, drunken celebration or reveler.", "狂歡者;酒神祭"], "bacchanalia": ["A wild and drunken festivity or orgy.", "狂歡盛宴"], "bacchanalian": ["Characterized by wild, drunken revelry.", "狂歡的;縱酒狂歡的"], "bacchant": ["A priest or follower of Bacchus; a drunken reveler.", "酒神信徒;縱酒狂歡者"], "backbiting": ["Spiteful talk about someone who is not present.", "背後中傷;說壞話"], "backward": ["Directed toward the back or the past; underdeveloped.", "向後的;落後的"], "bacteriophobia": ["An abnormal fear of bacteria and germs.", "細菌恐懼症"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"atrabilious": ["Bad-tempered or gloomy.", "憂鬱易怒的"], "atrocious": ["Extremely wicked or cruel; very bad.", "殘暴的；糟糕透頂的"], "atrocity": ["An extremely cruel or brutal act.", "暴行"], "atrophy": ["To waste away.", "萎縮"], "attack": ["A violent or hostile act against someone; to act against forcefully.", "攻擊；抨擊"], "atypical": ["Nonconforming.", "非典型的"], "au courant": ["Up-to-date.", "趕上時代的"], "aubade": ["A poem or song about lovers separating at dawn.", "晨歌；晨別詩"], "audacity": ["Boldness, daring.", "大膽；厚顏無恥"], "auger": ["A tool used for boring holes in wood or ice.", "螺旋鑽"], "augment": ["To enlarge, increase.", "增加；擴大"], "augur": ["A religious official who interprets omens; to be a sign of a future outcome.", "占卜官；預示"], "augury": ["An omen or sign of what is to come.", "預兆；占卜"], "austere": ["Simple, unadorned, hard.", "嚴峻的；簡樸的"], "authentic": ["Genuine and not a copy or fake.", "真實的；道地的"], "authenticate": ["To prove or confirm something is genuine.", "證明真實性；鑑定"], "authoritarian": ["Favoring strict obedience to authority at the expense of personal freedom.", "獨裁的；威權主義者"], "authorization": ["Official permission or approval.", "授權；批准"], "authorize": ["To give official permission for something.", "授權；核准"], "autobiography": ["An account of a person's life written by that person.", "自傳"], "autochthonous": ["Originating in the place where it is found; indigenous.", "土生土長的；原生的"], "autocracy": ["A system of government by one person with absolute power.", "獨裁政體；專制"], "autocratic": ["Relating to a ruler with absolute power; domineering.", "獨裁的；專斷的"], "autodidact": ["A person who has taught themselves a skill or subject.", "自學者"], "autodidactic": ["Relating to self-teaching or self-education.", "自學的"], "autograph": ["A person's own signature, especially of a celebrity; to sign one's name.", "親筆簽名；簽名"], "automatic": ["Working by itself with little or no direct human control.", "自動的"], "autonomy": ["The right or condition of self-government; independence.", "自治；自主權"], "autopsy": ["A medical examination of a corpse to determine the cause of death.", "驗屍"], "autumnal": ["Relating to or characteristic of autumn.", "秋天的；秋季的"], "avarice": ["Greed, passion for riches.", "貪婪"], "avaricious": ["Having an extreme desire for wealth.", "貪婪的"], "avian": ["Relating to birds.", "鳥類的"], "aviary": ["An enclosed space for birds.", "鳥舍"], "aviatophobia": ["An abnormal fear of flying.", "飛行恐懼症"], "avid": ["Eager.", "渴望的"], "avoid": ["To stay away from or prevent.", "避免；躲避"], "avuncular": ["Kind and friendly toward younger people, in the manner of an uncle.", "叔伯般慈祥的"], "awesome": ["Inspiring great admiration or fear.", "令人敬畏的"], "awkward": ["Causing embarrassment or discomfort; lacking grace.", "尷尬的；笨拙的"], "awry": ["Away from the expected course; twisted or crooked.", "出岔子的；歪斜的"], "axiom": ["A statement regarded as self-evidently true.", "公理；格言"], "azygophrenia": ["Psychological distress associated with being unmarried or without a partner.", "單身焦慮症"], "bacchanal": ["A wild, drunken celebration or reveler.", "狂歡者；酒神祭"], "bacchanalia": ["A wild and drunken festivity or orgy.", "狂歡盛宴"], "bacchanalian": ["Characterized by wild, drunken revelry.", "狂歡的；縱酒狂歡的"], "bacchant": ["A priest or follower of Bacchus; a drunken reveler.", "酒神信徒；縱酒狂歡者"], "backbiting": ["Spiteful talk about someone who is not present.", "背後中傷；說壞話"], "backward": ["Directed toward the back or the past; underdeveloped.", "向後的；落後的"], "bacteriophobia": ["An abnormal fear of bacteria and germs.", "細菌恐懼症"]});

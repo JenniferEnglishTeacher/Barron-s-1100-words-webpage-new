@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "subfuscous",
     "pos": "adj.",
     "definition": "Dull or dusky in color; drab.",
-    "chinese": "暗淡的;褐灰色的",
+    "chinese": "暗淡的；褐灰色的",
     "synonyms": "",
     "root": "sub- (somewhat) + fuscus (dark, dusky), from Latin",
     "group": "sub = 在⋯⋯之下",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Dull or dusky in color; drab.",
-     "chinese": "暗淡的;褐灰色的"
+     "chinese": "暗淡的；褐灰色的"
     }
    },
    {
@@ -293,7 +293,7 @@ window.FLASHCARD_UNITS = {
     "word": "subliminal",
     "pos": "adj.",
     "definition": "Below the threshold of conscious perception.",
-    "chinese": "潛意識的;下意識的",
+    "chinese": "潛意識的；下意識的",
     "synonyms": "",
     "root": "sub- (below) + limen (threshold), from Latin",
     "group": "sub = 在⋯⋯之下",
@@ -305,14 +305,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Below the threshold of conscious perception.",
-     "chinese": "潛意識的;下意識的"
+     "chinese": "潛意識的；下意識的"
     }
    },
    {
     "word": "sublunary",
     "pos": "adj.",
     "definition": "Belonging to this world; earthly and mundane.",
-    "chinese": "塵世的;凡俗的",
+    "chinese": "塵世的；凡俗的",
     "synonyms": "",
     "root": "sub- (under) + luna (moon), from Latin",
     "group": "sub = 在⋯⋯之下",
@@ -324,14 +324,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Belonging to this world; earthly and mundane.",
-     "chinese": "塵世的;凡俗的"
+     "chinese": "塵世的；凡俗的"
     }
    },
    {
     "word": "subsequent",
     "pos": "adj.",
     "definition": "Coming after something in time; following.",
-    "chinese": "隨後的;接著的",
+    "chinese": "隨後的；接著的",
     "synonyms": "",
     "root": "sub- (under, after) + sequi (follow), from Latin",
     "group": "sub = 在⋯⋯之下",
@@ -343,7 +343,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Coming after something in time; following.",
-     "chinese": "隨後的;接著的"
+     "chinese": "隨後的；接著的"
     }
    },
    {
@@ -1089,4 +1089,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"succumb to": ["To give way, yield.", "屈服"], "subjugate": ["To conquer.", "征服；降伏"], "subterranean": ["Underground.", "地下的；隱蔽的"], "surreptitious": ["Stealthy, accomplished by secret:furtive.", "鬼鬼祟祟的；暗中的"], "subterfuge": ["Ruse, trick.", "詭計；遁詞"], "supplication": ["Earnest plea.", "懇求；祈求"], "susceptible": ["Easily affected.", "易受影響的"], "succinct": ["Brief, concise.", "簡明的；簡潔的"], "somber": ["Gloomy, sad.", "憂鬱的；昏暗的"], "sojourn": ["Temporary stay.", "逗留；旅居"], "subservient": ["Obsequious, servile.", "屈從的；奉承的"], "submissive": ["Voluntarily obeying another; humble.", "順從的"], "subordinate": ["Inferior; lower in rank or status.", "下級的；從屬的"], "subfuscous": ["Dull or dusky in color; drab.", "暗淡的;褐灰色的"], "sublime": ["Lofty, grand, exalted.", "崇高的；壯麗的"], "subliminal": ["Below the threshold of conscious perception.", "潛意識的;下意識的"], "sublunary": ["Belonging to this world; earthly and mundane.", "塵世的;凡俗的"], "subsequent": ["Coming after something in time; following.", "隨後的;接著的"], "subsistence": ["A means of surviving.", "維生；生計"], "substantial": ["Of considerable importance, size, or worth; significant.", "相當大的；重要的"], "subtle": ["Delicate or precise, difficult to perceive or understand; understated.", "微妙的；精細的"], "suburban": ["Relating to a residential area on the outskirts of a city.", "郊區的"], "succumb": ["To yield or give in to something, such as a temptation or pressure; to die from an illness or injury.", "屈服；因病而死"], "supplement": ["To add something extra to complete or enhance something else.", "補充；補充品"], "surrogate": ["One acting in place of another.", "代理人；代替者"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"succumb to": ["To give way, yield.", "屈服"], "subjugate": ["To conquer.", "征服；降伏"], "subterranean": ["Underground.", "地下的；隱蔽的"], "surreptitious": ["Stealthy, accomplished by secret:furtive.", "鬼鬼祟祟的；暗中的"], "subterfuge": ["Ruse, trick.", "詭計；遁詞"], "supplication": ["Earnest plea.", "懇求；祈求"], "susceptible": ["Easily affected.", "易受影響的"], "succinct": ["Brief, concise.", "簡明的；簡潔的"], "somber": ["Gloomy, sad.", "憂鬱的；昏暗的"], "sojourn": ["Temporary stay.", "逗留；旅居"], "subservient": ["Obsequious, servile.", "屈從的；奉承的"], "submissive": ["Voluntarily obeying another; humble.", "順從的"], "subordinate": ["Inferior; lower in rank or status.", "下級的；從屬的"], "subfuscous": ["Dull or dusky in color; drab.", "暗淡的；褐灰色的"], "sublime": ["Lofty, grand, exalted.", "崇高的；壯麗的"], "subliminal": ["Below the threshold of conscious perception.", "潛意識的；下意識的"], "sublunary": ["Belonging to this world; earthly and mundane.", "塵世的；凡俗的"], "subsequent": ["Coming after something in time; following.", "隨後的；接著的"], "subsistence": ["A means of surviving.", "維生；生計"], "substantial": ["Of considerable importance, size, or worth; significant.", "相當大的；重要的"], "subtle": ["Delicate or precise, difficult to perceive or understand; understated.", "微妙的；精細的"], "suburban": ["Relating to a residential area on the outskirts of a city.", "郊區的"], "succumb": ["To yield or give in to something, such as a temptation or pressure; to die from an illness or injury.", "屈服；因病而死"], "supplement": ["To add something extra to complete or enhance something else.", "補充；補充品"], "surrogate": ["One acting in place of another.", "代理人；代替者"]});

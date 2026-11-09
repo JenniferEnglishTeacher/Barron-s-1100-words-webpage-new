@@ -162,7 +162,7 @@ window.FLASHCARD_UNITS = {
     "word": "abbreviate",
     "pos": "v.",
     "definition": "To shorten a word or phrase.",
-    "chinese": "縮寫;縮短",
+    "chinese": "縮寫；縮短",
     "synonyms": "",
     "root": "ab- (away) + brevis (short)",
     "group": "ab；abs = 離開；相反；不",
@@ -174,7 +174,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To shorten a word or phrase.",
-     "chinese": "縮寫;縮短"
+     "chinese": "縮寫；縮短"
     }
    },
    {
@@ -219,7 +219,7 @@ window.FLASHCARD_UNITS = {
     "word": "aberrant",
     "pos": "adj.",
     "definition": "Deviating from what is normal or expected.",
-    "chinese": "異常的;脫軌的",
+    "chinese": "異常的；脫軌的",
     "synonyms": "",
     "root": "ab- (away) + errare (to wander)",
     "group": "ab；abs = 離開；相反；不",
@@ -231,7 +231,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deviating from what is normal or expected.",
-     "chinese": "異常的;脫軌的"
+     "chinese": "異常的；脫軌的"
     }
    },
    {
@@ -297,7 +297,7 @@ window.FLASHCARD_UNITS = {
     "word": "abjection",
     "pos": "n.",
     "definition": "A state of complete misery, hopelessness, or degradation.",
-    "chinese": "卑賤;悲慘狀態",
+    "chinese": "卑賤；悲慘狀態",
     "synonyms": "",
     "root": "ab- (away) + jacere (to throw)",
     "group": "ab；abs = 離開；相反；不",
@@ -309,14 +309,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of complete misery, hopelessness, or degradation.",
-     "chinese": "卑賤;悲慘狀態"
+     "chinese": "卑賤；悲慘狀態"
     }
    },
    {
     "word": "abjuration",
     "pos": "n.",
     "definition": "The solemn renunciation of a belief, cause, or claim.",
-    "chinese": "公開放棄;誓絕",
+    "chinese": "公開放棄；誓絕",
     "synonyms": "",
     "root": "ab- (away) + jurare (to swear)",
     "group": "ab；abs = 離開；相反；不",
@@ -328,14 +328,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The solemn renunciation of a belief, cause, or claim.",
-     "chinese": "公開放棄;誓絕"
+     "chinese": "公開放棄；誓絕"
     }
    },
    {
     "word": "ablution",
     "pos": "n.",
     "definition": "The act of washing oneself, especially as part of a religious ritual.",
-    "chinese": "沐浴;淨身儀式",
+    "chinese": "沐浴；淨身儀式",
     "synonyms": "",
     "root": "ab- (away) + luere (to wash)",
     "group": "ab；abs = 離開；相反；不",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of washing oneself, especially as part of a religious ritual.",
-     "chinese": "沐浴;淨身儀式"
+     "chinese": "沐浴；淨身儀式"
     }
    },
    {
@@ -411,7 +411,7 @@ window.FLASHCARD_UNITS = {
     "word": "abominable",
     "pos": "adj.",
     "definition": "Causing moral revulsion; extremely unpleasant.",
-    "chinese": "可憎的;惡劣的",
+    "chinese": "可憎的；惡劣的",
     "synonyms": "",
     "root": "ab- (away from) + omen (omen)",
     "group": "ab；abs = 離開；相反；不",
@@ -423,14 +423,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing moral revulsion; extremely unpleasant.",
-     "chinese": "可憎的;惡劣的"
+     "chinese": "可憎的；惡劣的"
     }
    },
    {
     "word": "abomination",
     "pos": "n.",
     "definition": "Something that causes disgust or hatred.",
-    "chinese": "可憎之事;令人厭惡的東西",
+    "chinese": "可憎之事；令人厭惡的東西",
     "synonyms": "",
     "root": "ab- (away from) + omen (omen)",
     "group": "ab；abs = 離開；相反；不",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Something that causes disgust or hatred.",
-     "chinese": "可憎之事;令人厭惡的東西"
+     "chinese": "可憎之事；令人厭惡的東西"
     }
    },
    {
@@ -468,7 +468,7 @@ window.FLASHCARD_UNITS = {
     "word": "abounding",
     "pos": "adj.",
     "definition": "Existing in large numbers or amounts.",
-    "chinese": "大量存在的;豐富的",
+    "chinese": "大量存在的；豐富的",
     "synonyms": "",
     "root": "ab- (away, thoroughly) + undare (to overflow)",
     "group": "ab；abs = 離開；相反；不",
@@ -480,14 +480,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Existing in large numbers or amounts.",
-     "chinese": "大量存在的;豐富的"
+     "chinese": "大量存在的；豐富的"
     }
    },
    {
     "word": "abrade",
     "pos": "v.",
     "definition": "To scrape or wear away by friction.",
-    "chinese": "磨損;擦傷",
+    "chinese": "磨損；擦傷",
     "synonyms": "",
     "root": "ab- (away) + radere (to scrape)",
     "group": "ab；abs = 離開；相反；不",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To scrape or wear away by friction.",
-     "chinese": "磨損;擦傷"
+     "chinese": "磨損；擦傷"
     }
    },
    {
@@ -525,7 +525,7 @@ window.FLASHCARD_UNITS = {
     "word": "abridgement",
     "pos": "n.",
     "definition": "A shortened version of a book or other written work.",
-    "chinese": "節略本;縮減版",
+    "chinese": "節略本；縮減版",
     "synonyms": "",
     "root": "ab- (away) + breviare (to shorten)",
     "group": "ab；abs = 離開；相反；不",
@@ -537,7 +537,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A shortened version of a book or other written work.",
-     "chinese": "節略本;縮減版"
+     "chinese": "節略本；縮減版"
     }
    },
    {
@@ -645,7 +645,7 @@ window.FLASHCARD_UNITS = {
     "word": "abstemiousness",
     "pos": "n.",
     "definition": "Moderation or self-restraint, especially in eating and drinking.",
-    "chinese": "節制;克己",
+    "chinese": "節制；克己",
     "synonyms": "",
     "root": "abs- (away) + temetum (strong drink)",
     "group": "ab；abs = 離開；相反；不",
@@ -657,14 +657,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Moderation or self-restraint, especially in eating and drinking.",
-     "chinese": "節制;克己"
+     "chinese": "節制；克己"
     }
    },
    {
     "word": "abstinence",
     "pos": "n.",
     "definition": "The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.",
-    "chinese": "節制;戒絕",
+    "chinese": "節制；戒絕",
     "synonyms": "",
     "root": "abs- (away) + tenere (to hold)",
     "group": "ab；abs = 離開；相反；不",
@@ -676,7 +676,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.",
-     "chinese": "節制;戒絕"
+     "chinese": "節制；戒絕"
     }
    },
    {
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
     "word": "abuse",
     "pos": "v./n.",
     "definition": "To use wrongly or harmfully; harmful or unfair treatment.",
-    "chinese": "濫用;虐待",
+    "chinese": "濫用；虐待",
     "synonyms": "",
     "root": "ab- (away, wrongly) + uti (to use)",
     "group": "ab；abs = 離開；相反；不",
@@ -733,14 +733,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To use wrongly or harmfully; harmful or unfair treatment.",
-     "chinese": "濫用;虐待"
+     "chinese": "濫用；虐待"
     }
    },
    {
     "word": "avert",
     "pos": "v.",
     "definition": "To prevent an undesirable event; to turn away one's gaze.",
-    "chinese": "避免;移開視線",
+    "chinese": "避免；移開視線",
     "synonyms": "",
     "root": "ab- (away) + vertere (to turn)",
     "group": "ab；abs = 離開；相反；不",
@@ -752,14 +752,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To prevent an undesirable event; to turn away one's gaze.",
-     "chinese": "避免;移開視線"
+     "chinese": "避免；移開視線"
     }
    },
    {
     "word": "avocation",
     "pos": "n.",
     "definition": "A hobby or minor occupation apart from one's main career.",
-    "chinese": "副業;業餘愛好",
+    "chinese": "副業；業餘愛好",
     "synonyms": "",
     "root": "ab- (away) + vocare (to call)",
     "group": "ab；abs = 離開；相反；不",
@@ -771,14 +771,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A hobby or minor occupation apart from one's main career.",
-     "chinese": "副業;業餘愛好"
+     "chinese": "副業；業餘愛好"
     }
    },
    {
     "word": "self-abnegate",
     "pos": "v.",
     "definition": "To deny oneself pleasures or personal interests, often for others' sake.",
-    "chinese": "自我犧牲;克己",
+    "chinese": "自我犧牲；克己",
     "synonyms": "",
     "root": "self + ab- (away) + negare (deny), from Latin",
     "group": "ab；abs = 離開；相反；不",
@@ -790,7 +790,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deny oneself pleasures or personal interests, often for others' sake.",
-     "chinese": "自我犧牲;克己"
+     "chinese": "自我犧牲；克己"
     }
    },
    {
@@ -1826,4 +1826,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"abound": ["To exist in great numbers.", "充滿"], "abrogate": ["To deprive of legal force, to nullify.", "廢除；取消"], "abortive": ["Fruitless, failing.", "失敗的；夭折的"], "abstemious": ["Moderate in eating or drinking.", "飲食有節制的"], "abhorrent": ["Detestable, despised.", "令人厭惡的"], "absurd": ["Ridiculous.", "荒謬的"], "aversion": ["Strong dislike, opposition.", "厭惡；反感"], "abjure": ["To renounce, abstain from.", "發誓放棄；棄絕"], "abbreviate": ["To shorten a word or phrase.", "縮寫;縮短"], "abdicate": ["To give up a position, usually one of leadership.", "退位；放棄(職位)"], "abduct": ["To kidnap, take by force.", "綁架；劫持"], "aberrant": ["Deviating from what is normal or expected.", "異常的;脫軌的"], "aberration": ["Something that differs from the norm.", "異常；脫軌"], "abhor": ["To regard with disgust and hatred.", "憎惡；厭惡"], "abject": ["Wretched, pitiful.", "卑賤的；淒慘的"], "abjection": ["A state of complete misery, hopelessness, or degradation.", "卑賤;悲慘狀態"], "abjuration": ["The solemn renunciation of a belief, cause, or claim.", "公開放棄;誓絕"], "ablution": ["The act of washing oneself, especially as part of a religious ritual.", "沐浴;淨身儀式"], "abnegate": ["To deny or renounce.", "放棄；克制"], "abnegation": ["Denial of comfort to oneself.", "自我克制；放棄"], "abolish": ["To formally put an end to a system, practice, or institution.", "廢除"], "abominable": ["Causing moral revulsion; extremely unpleasant.", "可憎的;惡劣的"], "abomination": ["Something that causes disgust or hatred.", "可憎之事;令人厭惡的東西"], "abort": ["To give up on a half-finished project or effort.", "中止；放棄"], "abounding": ["Existing in large numbers or amounts.", "大量存在的;豐富的"], "abrade": ["To scrape or wear away by friction.", "磨損;擦傷"], "abrasive": ["Showing little concern for others; harsh.", "粗暴的；刺耳的"], "abridgement": ["A shortened version of a book or other written work.", "節略本;縮減版"], "abrupt": ["Sudden or unexpected; brief and curt in manner.", "突然的；唐突的"], "abscond": ["To sneak away and hide.", "潛逃；逃匿"], "absolution": ["Freedom from blame, guilt, sin.", "赦免；免罪"], "absolve": ["To free someone from blame, guilt, or responsibility.", "免除罪責；赦免"], "abstain": ["To restrain oneself from doing or enjoying something.", "戒絕；棄權"], "abstemiousness": ["Moderation or self-restraint, especially in eating and drinking.", "節制;克己"], "abstinence": ["The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.", "節制;戒絕"], "abstract": ["Existing purely in the mind; not representing actual reality.", "抽象的"], "abstruse": ["Hard to comprehend.", "深奧難懂的"], "abuse": ["To use wrongly or harmfully; harmful or unfair treatment.", "濫用;虐待"], "avert": ["To prevent an undesirable event; to turn away one's gaze.", "避免;移開視線"], "avocation": ["A hobby or minor occupation apart from one's main career.", "副業;業餘愛好"], "self-abnegate": ["To deny oneself pleasures or personal interests, often for others' sake.", "自我犧牲;克己"], "self-abnegation": ["Renunciation of your own interests in favor of others.", "自我克制；捨己為人"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"abound": ["To exist in great numbers.", "充滿"], "abrogate": ["To deprive of legal force, to nullify.", "廢除；取消"], "abortive": ["Fruitless, failing.", "失敗的；夭折的"], "abstemious": ["Moderate in eating or drinking.", "飲食有節制的"], "abhorrent": ["Detestable, despised.", "令人厭惡的"], "absurd": ["Ridiculous.", "荒謬的"], "aversion": ["Strong dislike, opposition.", "厭惡；反感"], "abjure": ["To renounce, abstain from.", "發誓放棄；棄絕"], "abbreviate": ["To shorten a word or phrase.", "縮寫；縮短"], "abdicate": ["To give up a position, usually one of leadership.", "退位；放棄(職位)"], "abduct": ["To kidnap, take by force.", "綁架；劫持"], "aberrant": ["Deviating from what is normal or expected.", "異常的；脫軌的"], "aberration": ["Something that differs from the norm.", "異常；脫軌"], "abhor": ["To regard with disgust and hatred.", "憎惡；厭惡"], "abject": ["Wretched, pitiful.", "卑賤的；淒慘的"], "abjection": ["A state of complete misery, hopelessness, or degradation.", "卑賤；悲慘狀態"], "abjuration": ["The solemn renunciation of a belief, cause, or claim.", "公開放棄；誓絕"], "ablution": ["The act of washing oneself, especially as part of a religious ritual.", "沐浴；淨身儀式"], "abnegate": ["To deny or renounce.", "放棄；克制"], "abnegation": ["Denial of comfort to oneself.", "自我克制；放棄"], "abolish": ["To formally put an end to a system, practice, or institution.", "廢除"], "abominable": ["Causing moral revulsion; extremely unpleasant.", "可憎的；惡劣的"], "abomination": ["Something that causes disgust or hatred.", "可憎之事；令人厭惡的東西"], "abort": ["To give up on a half-finished project or effort.", "中止；放棄"], "abounding": ["Existing in large numbers or amounts.", "大量存在的；豐富的"], "abrade": ["To scrape or wear away by friction.", "磨損；擦傷"], "abrasive": ["Showing little concern for others; harsh.", "粗暴的；刺耳的"], "abridgement": ["A shortened version of a book or other written work.", "節略本；縮減版"], "abrupt": ["Sudden or unexpected; brief and curt in manner.", "突然的；唐突的"], "abscond": ["To sneak away and hide.", "潛逃；逃匿"], "absolution": ["Freedom from blame, guilt, sin.", "赦免；免罪"], "absolve": ["To free someone from blame, guilt, or responsibility.", "免除罪責；赦免"], "abstain": ["To restrain oneself from doing or enjoying something.", "戒絕；棄權"], "abstemiousness": ["Moderation or self-restraint, especially in eating and drinking.", "節制；克己"], "abstinence": ["The practice of restraining oneself from something enjoyable, especially food, alcohol, or sex.", "節制；戒絕"], "abstract": ["Existing purely in the mind; not representing actual reality.", "抽象的"], "abstruse": ["Hard to comprehend.", "深奧難懂的"], "abuse": ["To use wrongly or harmfully; harmful or unfair treatment.", "濫用；虐待"], "avert": ["To prevent an undesirable event; to turn away one's gaze.", "避免；移開視線"], "avocation": ["A hobby or minor occupation apart from one's main career.", "副業；業餘愛好"], "self-abnegate": ["To deny oneself pleasures or personal interests, often for others' sake.", "自我犧牲；克己"], "self-abnegation": ["Renunciation of your own interests in favor of others.", "自我克制；捨己為人"]});

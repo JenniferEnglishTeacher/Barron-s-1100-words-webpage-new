@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "applicable",
     "pos": "adj.",
     "definition": "Relevant or appropriate to a particular situation.",
-    "chinese": "適用的;可應用的",
+    "chinese": "適用的；可應用的",
     "synonyms": "",
     "root": "ad- (to) + plicare (to fold)",
     "group": "ad = 朝向",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relevant or appropriate to a particular situation.",
-     "chinese": "適用的;可應用的"
+     "chinese": "適用的；可應用的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "apposite",
     "pos": "adj.",
     "definition": "Highly appropriate or relevant.",
-    "chinese": "恰當的;貼切的",
+    "chinese": "恰當的；貼切的",
     "synonyms": "",
     "root": "ad- (to) + ponere (to place)",
     "group": "ad = 朝向",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Highly appropriate or relevant.",
-     "chinese": "恰當的;貼切的"
+     "chinese": "恰當的；貼切的"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "apprehension",
     "pos": "n.",
     "definition": "Anxiety about the future; understanding; the act of arresting.",
-    "chinese": "憂慮;理解;逮捕",
+    "chinese": "憂慮；理解；逮捕",
     "synonyms": "",
     "root": "ad- (to) + prehendere (to seize)",
     "group": "ad = 朝向",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Anxiety about the future; understanding; the act of arresting.",
-     "chinese": "憂慮;理解;逮捕"
+     "chinese": "憂慮；理解；逮捕"
     }
    },
    {
     "word": "apprehensive",
     "pos": "adj.",
     "definition": "Anxious or fearful about something that may happen.",
-    "chinese": "憂慮的;擔心的",
+    "chinese": "憂慮的；擔心的",
     "synonyms": "",
     "root": "ad- (to) + prehendere (to seize)",
     "group": "ad = 朝向",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Anxious or fearful about something that may happen.",
-     "chinese": "憂慮的;擔心的"
+     "chinese": "憂慮的；擔心的"
     }
    },
    {
@@ -196,7 +196,7 @@ window.FLASHCARD_UNITS = {
     "word": "approve",
     "pos": "v.",
     "definition": "To officially agree to or accept as satisfactory.",
-    "chinese": "批准;贊同",
+    "chinese": "批准；贊同",
     "synonyms": "",
     "root": "ad- (to) + probare (to test, prove)",
     "group": "ad = 朝向",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To officially agree to or accept as satisfactory.",
-     "chinese": "批准;贊同"
+     "chinese": "批准；贊同"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "arrogance",
     "pos": "n.",
     "definition": "An exaggerated sense of one's own importance.",
-    "chinese": "傲慢;自大",
+    "chinese": "傲慢；自大",
     "synonyms": "",
     "root": "ad- (to) + rogare (to ask, claim)",
     "group": "ad = 朝向",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An exaggerated sense of one's own importance.",
-     "chinese": "傲慢;自大"
+     "chinese": "傲慢；自大"
     }
    },
    {
@@ -470,7 +470,7 @@ window.FLASHCARD_UNITS = {
     "word": "assailant",
     "pos": "n.",
     "definition": "A person who physically attacks another.",
-    "chinese": "攻擊者;施暴者",
+    "chinese": "攻擊者；施暴者",
     "synonyms": "",
     "root": "ad- (to) + salire (to leap)",
     "group": "ad = 朝向",
@@ -482,14 +482,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who physically attacks another.",
-     "chinese": "攻擊者;施暴者"
+     "chinese": "攻擊者；施暴者"
     }
    },
    {
     "word": "assault",
     "pos": "n./v.",
     "definition": "A physical attack; to attack violently.",
-    "chinese": "攻擊;襲擊",
+    "chinese": "攻擊；襲擊",
     "synonyms": "",
     "root": "ad- (to) + saltare (to leap)",
     "group": "ad = 朝向",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A physical attack; to attack violently.",
-     "chinese": "攻擊;襲擊"
+     "chinese": "攻擊；襲擊"
     }
    },
    {
@@ -527,7 +527,7 @@ window.FLASHCARD_UNITS = {
     "word": "assent",
     "pos": "n./v.",
     "definition": "Agreement or approval; to agree.",
-    "chinese": "同意;贊同",
+    "chinese": "同意；贊同",
     "synonyms": "",
     "root": "ad- (to) + sentire (to feel)",
     "group": "ad = 朝向",
@@ -541,7 +541,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Agreement or approval; to agree.",
-     "chinese": "同意;贊同"
+     "chinese": "同意；贊同"
     }
    },
    {
@@ -607,7 +607,7 @@ window.FLASHCARD_UNITS = {
     "word": "asseverate",
     "pos": "v.",
     "definition": "To state something firmly and seriously.",
-    "chinese": "鄭重聲明;堅稱",
+    "chinese": "鄭重聲明；堅稱",
     "synonyms": "",
     "root": "ad- (to) + severus (severe, serious)",
     "group": "ad = 朝向",
@@ -619,7 +619,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To state something firmly and seriously.",
-     "chinese": "鄭重聲明;堅稱"
+     "chinese": "鄭重聲明；堅稱"
     }
    },
    {
@@ -645,7 +645,7 @@ window.FLASHCARD_UNITS = {
     "word": "assimilate",
     "pos": "v.",
     "definition": "To absorb and integrate into a larger group or system.",
-    "chinese": "同化;吸收",
+    "chinese": "同化；吸收",
     "synonyms": "",
     "root": "ad- (to) + similis (similar)",
     "group": "ad = 朝向",
@@ -657,14 +657,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To absorb and integrate into a larger group or system.",
-     "chinese": "同化;吸收"
+     "chinese": "同化；吸收"
     }
    },
    {
     "word": "assonance",
     "pos": "n.",
     "definition": "The repetition of vowel sounds in nearby words.",
-    "chinese": "母音韻;類韻",
+    "chinese": "母音韻；類韻",
     "synonyms": "",
     "root": "ad- (to) + sonare (to sound)",
     "group": "ad = 朝向",
@@ -676,7 +676,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The repetition of vowel sounds in nearby words.",
-     "chinese": "母音韻;類韻"
+     "chinese": "母音韻；類韻"
     }
    },
    {
@@ -702,7 +702,7 @@ window.FLASHCARD_UNITS = {
     "word": "assume",
     "pos": "v.",
     "definition": "To suppose something to be true without proof; to take on a role.",
-    "chinese": "假設;承擔",
+    "chinese": "假設；承擔",
     "synonyms": "",
     "root": "ad- (to) + sumere (to take)",
     "group": "ad = 朝向",
@@ -714,14 +714,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To suppose something to be true without proof; to take on a role.",
-     "chinese": "假設;承擔"
+     "chinese": "假設；承擔"
     }
    },
    {
     "word": "assumption",
     "pos": "n.",
     "definition": "A thing accepted as true without proof.",
-    "chinese": "假設;臆測",
+    "chinese": "假設；臆測",
     "synonyms": "",
     "root": "ad- (to) + sumere (to take)",
     "group": "ad = 朝向",
@@ -733,14 +733,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A thing accepted as true without proof.",
-     "chinese": "假設;臆測"
+     "chinese": "假設；臆測"
     }
    },
    {
     "word": "astringent",
     "pos": "adj./n.",
     "definition": "Sharply harsh or biting in tone; a substance that contracts body tissue.",
-    "chinese": "尖刻的;收斂劑",
+    "chinese": "尖刻的；收斂劑",
     "synonyms": "",
     "root": "ad- (to) + stringere (to bind tight)",
     "group": "ad = 朝向",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sharply harsh or biting in tone; a substance that contracts body tissue.",
-     "chinese": "尖刻的;收斂劑"
+     "chinese": "尖刻的；收斂劑"
     }
    },
    {
@@ -778,7 +778,7 @@ window.FLASHCARD_UNITS = {
     "word": "attention",
     "pos": "n.",
     "definition": "Notice taken of someone or something; careful thought or consideration.",
-    "chinese": "注意;關注",
+    "chinese": "注意；關注",
     "synonyms": "",
     "root": "ad- (to) + tendere (to stretch)",
     "group": "ad = 朝向",
@@ -790,7 +790,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Notice taken of someone or something; careful thought or consideration.",
-     "chinese": "注意;關注"
+     "chinese": "注意；關注"
     }
    },
    {
@@ -896,7 +896,7 @@ window.FLASHCARD_UNITS = {
     "word": "aver",
     "pos": "v.",
     "definition": "To state something as a fact with confidence.",
-    "chinese": "斷言;宣稱",
+    "chinese": "斷言；宣稱",
     "synonyms": "",
     "root": "ad- (to) + verus (true)",
     "group": "ad = 朝向",
@@ -910,14 +910,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To state something as a fact with confidence.",
-     "chinese": "斷言;宣稱"
+     "chinese": "斷言；宣稱"
     }
    },
    {
     "word": "avow",
     "pos": "v.",
     "definition": "To declare openly and confidently.",
-    "chinese": "公開承認;坦承",
+    "chinese": "公開承認；坦承",
     "synonyms": "",
     "root": "ad- (to) + votum (vow)",
     "group": "ad = 朝向",
@@ -931,14 +931,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To declare openly and confidently.",
-     "chinese": "公開承認;坦承"
+     "chinese": "公開承認；坦承"
     }
    },
    {
     "word": "avowal",
     "pos": "n.",
     "definition": "An open declaration or admission.",
-    "chinese": "公開承認;坦白",
+    "chinese": "公開承認；坦白",
     "synonyms": "",
     "root": "ad- (to) + votum (vow)",
     "group": "ad = 朝向",
@@ -950,7 +950,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An open declaration or admission.",
-     "chinese": "公開承認;坦白"
+     "chinese": "公開承認；坦白"
     }
    },
    {
@@ -2307,4 +2307,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"applause": ["Approval expressed by clapping.", "掌聲"], "applicable": ["Relevant or appropriate to a particular situation.", "適用的;可應用的"], "appointee": ["A person who is appointed to a position.", "被任命者"], "apposite": ["Highly appropriate or relevant.", "恰當的;貼切的"], "appraise": ["To assess the worth or value of.", "評估；鑑定"], "apprehend": ["To seize, arrest.", "逮捕；理解"], "apprehension": ["Anxiety about the future; understanding; the act of arresting.", "憂慮;理解;逮捕"], "apprehensive": ["Anxious or fearful about something that may happen.", "憂慮的;擔心的"], "approbation": ["Praise.", "讚許；認可"], "appropriate": ["Suitable for a specific situation.", "適當的；合宜的"], "approve": ["To officially agree to or accept as satisfactory.", "批准;贊同"], "approximate": ["Close to the actual, but not completely accurate or exact.", "大概的；近似的"], "arbiter": ["Judge.", "仲裁者；權威"], "array": ["Arrangement, display.", "陣列；打扮"], "arrogance": ["An exaggerated sense of one's own importance.", "傲慢;自大"], "arrogant": ["Overbearing; proud; haughty.", "傲慢的"], "arrogate": ["To take without justification.", "擅自取得；僭越"], "ascend": ["To rise.", "上升"], "ascertain": ["To find out about, discover.", "查明；確定"], "ascribe": ["To assign, credit, attribute to.", "歸因於；歸功於"], "aspersion": ["A curse, expression of ill-will.", "誹謗；中傷"], "aspirant": ["Candidate, striver, applicant.", "渴望者；有志者"], "aspire": ["To strive for.", "渴望；立志"], "assail": ["To attack.", "抨擊；攻擊"], "assailant": ["A person who physically attacks another.", "攻擊者;施暴者"], "assault": ["A physical attack; to attack violently.", "攻擊;襲擊"], "assemble": ["To gather or put together.", "集合；組裝"], "assent": ["Agreement or approval; to agree.", "同意;贊同"], "assert": ["To state or declare something confidently or forcefully.", "斷言；主張"], "assess": ["To evaluate.", "評估"], "asset": ["Valuable thing to have.", "資產"], "asseverate": ["To state something firmly and seriously.", "鄭重聲明;堅稱"], "assiduous": ["Devoted, attentive.", "勤勉的；刻苦的"], "assimilate": ["To absorb and integrate into a larger group or system.", "同化;吸收"], "assonance": ["The repetition of vowel sounds in nearby words.", "母音韻;類韻"], "assuage": ["To alleviate; to lessen pain or conflict; pacify.", "緩和；減輕"], "assume": ["To suppose something to be true without proof; to take on a role.", "假設;承擔"], "assumption": ["A thing accepted as true without proof.", "假設;臆測"], "astringent": ["Sharply harsh or biting in tone; a substance that contracts body tissue.", "尖刻的;收斂劑"], "attain": ["To achieve, arrive at.", "達成；獲得"], "attention": ["Notice taken of someone or something; careful thought or consideration.", "注意;關注"], "attenuated": ["Weakened, thinned, decreased.", "減弱的；變薄的"], "attest": ["To certify.", "證明；證實"], "attribute": ["To credit, assign.", "歸因於；歸屬於"], "avenge": ["To seek revenge.", "報仇；為...復仇"], "avenue": ["A wide street or thoroughfare.", "大道；途徑"], "aver": ["To state something as a fact with confidence.", "斷言;宣稱"], "avow": ["To declare openly and confidently.", "公開承認;坦承"], "avowal": ["An open declaration or admission.", "公開承認;坦白"], "inadvertent": ["Unintentional.", "無意的"], "inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "maladjusted": ["Dysfunctional.", "適應不良的"], "unabated": ["Without subsiding:continuous.", "不減退的；未減弱的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"applause": ["Approval expressed by clapping.", "掌聲"], "applicable": ["Relevant or appropriate to a particular situation.", "適用的；可應用的"], "appointee": ["A person who is appointed to a position.", "被任命者"], "apposite": ["Highly appropriate or relevant.", "恰當的；貼切的"], "appraise": ["To assess the worth or value of.", "評估；鑑定"], "apprehend": ["To seize, arrest.", "逮捕；理解"], "apprehension": ["Anxiety about the future; understanding; the act of arresting.", "憂慮；理解；逮捕"], "apprehensive": ["Anxious or fearful about something that may happen.", "憂慮的；擔心的"], "approbation": ["Praise.", "讚許；認可"], "appropriate": ["Suitable for a specific situation.", "適當的；合宜的"], "approve": ["To officially agree to or accept as satisfactory.", "批准；贊同"], "approximate": ["Close to the actual, but not completely accurate or exact.", "大概的；近似的"], "arbiter": ["Judge.", "仲裁者；權威"], "array": ["Arrangement, display.", "陣列；打扮"], "arrogance": ["An exaggerated sense of one's own importance.", "傲慢；自大"], "arrogant": ["Overbearing; proud; haughty.", "傲慢的"], "arrogate": ["To take without justification.", "擅自取得；僭越"], "ascend": ["To rise.", "上升"], "ascertain": ["To find out about, discover.", "查明；確定"], "ascribe": ["To assign, credit, attribute to.", "歸因於；歸功於"], "aspersion": ["A curse, expression of ill-will.", "誹謗；中傷"], "aspirant": ["Candidate, striver, applicant.", "渴望者；有志者"], "aspire": ["To strive for.", "渴望；立志"], "assail": ["To attack.", "抨擊；攻擊"], "assailant": ["A person who physically attacks another.", "攻擊者；施暴者"], "assault": ["A physical attack; to attack violently.", "攻擊；襲擊"], "assemble": ["To gather or put together.", "集合；組裝"], "assent": ["Agreement or approval; to agree.", "同意；贊同"], "assert": ["To state or declare something confidently or forcefully.", "斷言；主張"], "assess": ["To evaluate.", "評估"], "asset": ["Valuable thing to have.", "資產"], "asseverate": ["To state something firmly and seriously.", "鄭重聲明；堅稱"], "assiduous": ["Devoted, attentive.", "勤勉的；刻苦的"], "assimilate": ["To absorb and integrate into a larger group or system.", "同化；吸收"], "assonance": ["The repetition of vowel sounds in nearby words.", "母音韻；類韻"], "assuage": ["To alleviate; to lessen pain or conflict; pacify.", "緩和；減輕"], "assume": ["To suppose something to be true without proof; to take on a role.", "假設；承擔"], "assumption": ["A thing accepted as true without proof.", "假設；臆測"], "astringent": ["Sharply harsh or biting in tone; a substance that contracts body tissue.", "尖刻的；收斂劑"], "attain": ["To achieve, arrive at.", "達成；獲得"], "attention": ["Notice taken of someone or something; careful thought or consideration.", "注意；關注"], "attenuated": ["Weakened, thinned, decreased.", "減弱的；變薄的"], "attest": ["To certify.", "證明；證實"], "attribute": ["To credit, assign.", "歸因於；歸屬於"], "avenge": ["To seek revenge.", "報仇；為...復仇"], "avenue": ["A wide street or thoroughfare.", "大道；途徑"], "aver": ["To state something as a fact with confidence.", "斷言；宣稱"], "avow": ["To declare openly and confidently.", "公開承認；坦承"], "avowal": ["An open declaration or admission.", "公開承認；坦白"], "inadvertent": ["Unintentional.", "無意的"], "inadvertently": ["Unintentionally or by accident.", "無意間；不小心地"], "maladjusted": ["Dysfunctional.", "適應不良的"], "unabated": ["Without subsiding:continuous.", "不減退的；未減弱的"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "manager",
     "pos": "n.",
     "definition": "A person responsible for controlling or administering an organization or group.",
-    "chinese": "經理;管理者",
+    "chinese": "經理；管理者",
     "synonyms": "",
     "root": "maneggiare (to handle), from Italian, via manus (hand), from Latin",
     "group": "",
@@ -18,7 +18,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person responsible for controlling or administering an organization or group.",
-     "chinese": "經理;管理者"
+     "chinese": "經理；管理者"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "manikin",
     "pos": "n.",
     "definition": "A small model of the human body used for anatomical study; a little man.",
-    "chinese": "解剖模型;小人像",
+    "chinese": "解剖模型；小人像",
     "synonyms": "",
     "root": "manneken (little man), from Dutch",
     "group": "",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small model of the human body used for anatomical study; a little man.",
-     "chinese": "解剖模型;小人像"
+     "chinese": "解剖模型；小人像"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "mannequin",
     "pos": "n.",
     "definition": "A dummy used to display clothes; a fashion model.",
-    "chinese": "人體模型;時裝模特兒",
+    "chinese": "人體模型；時裝模特兒",
     "synonyms": "",
     "root": "manneken (little man), from Dutch",
     "group": "",
@@ -155,7 +155,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A dummy used to display clothes; a fashion model.",
-     "chinese": "人體模型;時裝模特兒"
+     "chinese": "人體模型；時裝模特兒"
     }
    },
    {
@@ -181,7 +181,7 @@ window.FLASHCARD_UNITS = {
     "word": "mar",
     "pos": "v.",
     "definition": "To damage or spoil the appearance or perfection of.",
-    "chinese": "損壞;玷污",
+    "chinese": "損壞；玷污",
     "synonyms": "",
     "root": "merran (to hinder, waste), from Old English",
     "group": "",
@@ -193,14 +193,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To damage or spoil the appearance or perfection of.",
-     "chinese": "損壞;玷污"
+     "chinese": "損壞；玷污"
     }
    },
    {
     "word": "marathon",
     "pos": "n.",
     "definition": "A long-distance running race; a prolonged activity or event.",
-    "chinese": "馬拉松;耐力賽事",
+    "chinese": "馬拉松；耐力賽事",
     "synonyms": "",
     "root": "named after the Battle of Marathon in ancient Greece",
     "group": "",
@@ -212,7 +212,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A long-distance running race; a prolonged activity or event.",
-     "chinese": "馬拉松;耐力賽事"
+     "chinese": "馬拉松；耐力賽事"
     }
    },
    {
@@ -238,7 +238,7 @@ window.FLASHCARD_UNITS = {
     "word": "margin",
     "pos": "n.",
     "definition": "The edge or border of something; an amount by which something exceeds or falls short.",
-    "chinese": "邊緣;差距",
+    "chinese": "邊緣；差距",
     "synonyms": "",
     "root": "margo (edge, border), from Latin",
     "group": "",
@@ -250,14 +250,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The edge or border of something; an amount by which something exceeds or falls short.",
-     "chinese": "邊緣;差距"
+     "chinese": "邊緣；差距"
     }
    },
    {
     "word": "marginal",
     "pos": "adj.",
     "definition": "Relating to the edge; of minor importance.",
-    "chinese": "邊緣的;次要的",
+    "chinese": "邊緣的；次要的",
     "synonyms": "",
     "root": "margo (edge, border), from Latin",
     "group": "",
@@ -269,7 +269,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the edge; of minor importance.",
-     "chinese": "邊緣的;次要的"
+     "chinese": "邊緣的；次要的"
     }
    },
    {
@@ -355,7 +355,7 @@ window.FLASHCARD_UNITS = {
     "word": "marshal",
     "pos": "n./v.",
     "definition": "A high-ranking military officer; to organize or arrange in preparation.",
-    "chinese": "元帥;整頓部署",
+    "chinese": "元帥；整頓部署",
     "synonyms": "",
     "root": "marahscalc (horse servant), from Old French, from Germanic origin",
     "group": "",
@@ -369,7 +369,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A high-ranking military officer; to organize or arrange in preparation.",
-     "chinese": "元帥;整頓部署"
+     "chinese": "元帥；整頓部署"
     }
    },
    {
@@ -414,7 +414,7 @@ window.FLASHCARD_UNITS = {
     "word": "massive",
     "pos": "adj.",
     "definition": "Large and heavy; substantial.",
-    "chinese": "巨大的;龐大的",
+    "chinese": "巨大的；龐大的",
     "synonyms": "",
     "root": "massa (lump, mass), from Latin",
     "group": "",
@@ -426,14 +426,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Large and heavy; substantial.",
-     "chinese": "巨大的;龐大的"
+     "chinese": "巨大的；龐大的"
     }
    },
    {
     "word": "masterful",
     "pos": "adj.",
     "definition": "Having or showing great skill; imperious.",
-    "chinese": "精湛的;專橫的",
+    "chinese": "精湛的；專橫的",
     "synonyms": "",
     "root": "master, from Latin magister + -ful",
     "group": "",
@@ -445,14 +445,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Having or showing great skill; imperious.",
-     "chinese": "精湛的;專橫的"
+     "chinese": "精湛的；專橫的"
     }
    },
    {
     "word": "masterly",
     "pos": "adj.",
     "definition": "Showing great skill or ability.",
-    "chinese": "精湛的;熟練的",
+    "chinese": "精湛的；熟練的",
     "synonyms": "",
     "root": "master, from Latin magister + -ly",
     "group": "",
@@ -464,14 +464,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Showing great skill or ability.",
-     "chinese": "精湛的;熟練的"
+     "chinese": "精湛的；熟練的"
     }
    },
    {
     "word": "masterpiece",
     "pos": "n.",
     "definition": "A work of outstanding artistry or skill.",
-    "chinese": "傑作;鉅作",
+    "chinese": "傑作；鉅作",
     "synonyms": "",
     "root": "meesterstuk (master's work), from Dutch, calqued into English",
     "group": "",
@@ -483,7 +483,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A work of outstanding artistry or skill.",
-     "chinese": "傑作;鉅作"
+     "chinese": "傑作；鉅作"
     }
    },
    {
@@ -623,7 +623,7 @@ window.FLASHCARD_UNITS = {
     "word": "maternity",
     "pos": "n./adj.",
     "definition": "Motherhood; relating to pregnancy and childbirth.",
-    "chinese": "母性;產科的",
+    "chinese": "母性；產科的",
     "synonyms": "",
     "root": "mater (mother), from Latin",
     "group": "",
@@ -635,7 +635,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Motherhood; relating to pregnancy and childbirth.",
-     "chinese": "母性;產科的"
+     "chinese": "母性；產科的"
     }
    },
    {
@@ -699,7 +699,7 @@ window.FLASHCARD_UNITS = {
     "word": "matutinal",
     "pos": "adj.",
     "definition": "Relating to or occurring in the morning.",
-    "chinese": "早晨的;清晨的",
+    "chinese": "早晨的；清晨的",
     "synonyms": "",
     "root": "matutinus (of the morning), from Latin Matuta, goddess of dawn",
     "group": "",
@@ -711,7 +711,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to or occurring in the morning.",
-     "chinese": "早晨的;清晨的"
+     "chinese": "早晨的；清晨的"
     }
    },
    {
@@ -737,7 +737,7 @@ window.FLASHCARD_UNITS = {
     "word": "maunder",
     "pos": "v.",
     "definition": "To talk in a rambling, aimless manner; to move aimlessly.",
-    "chinese": "喃喃自語;漫無目的地閒逛",
+    "chinese": "喃喃自語；漫無目的地閒逛",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to meander",
     "group": "",
@@ -749,14 +749,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To talk in a rambling, aimless manner; to move aimlessly.",
-     "chinese": "喃喃自語;漫無目的地閒逛"
+     "chinese": "喃喃自語；漫無目的地閒逛"
     }
    },
    {
     "word": "maven",
     "pos": "n.",
     "definition": "An expert or knowledgeable enthusiast.",
-    "chinese": "行家;專家",
+    "chinese": "行家；專家",
     "synonyms": "",
     "root": "mevin (one who understands), from Yiddish, from Hebrew mevin",
     "group": "",
@@ -768,7 +768,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An expert or knowledgeable enthusiast.",
-     "chinese": "行家;專家"
+     "chinese": "行家；專家"
     }
    },
    {
@@ -870,7 +870,7 @@ window.FLASHCARD_UNITS = {
     "word": "meander",
     "pos": "v./n.",
     "definition": "To wander in a winding path without a fixed direction.",
-    "chinese": "蜿蜒而行;閒逛",
+    "chinese": "蜿蜒而行；閒逛",
     "synonyms": "",
     "root": "Maiandros, a winding river in ancient Anatolia, from Greek",
     "group": "",
@@ -882,14 +882,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To wander in a winding path without a fixed direction.",
-     "chinese": "蜿蜒而行;閒逛"
+     "chinese": "蜿蜒而行；閒逛"
     }
    },
    {
     "word": "meandering",
     "pos": "adj.",
     "definition": "Following a winding or aimless course.",
-    "chinese": "蜿蜒的;漫無目的的",
+    "chinese": "蜿蜒的；漫無目的的",
     "synonyms": "",
     "root": "Maiandros, a winding river in ancient Anatolia, from Greek",
     "group": "",
@@ -901,14 +901,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Following a winding or aimless course.",
-     "chinese": "蜿蜒的;漫無目的的"
+     "chinese": "蜿蜒的；漫無目的的"
     }
    },
    {
     "word": "meddle",
     "pos": "v.",
     "definition": "To interfere in something that is not one's concern.",
-    "chinese": "干涉;多管閒事",
+    "chinese": "干涉；多管閒事",
     "synonyms": "",
     "root": "medler (to mix, meddle), from Old French",
     "group": "",
@@ -920,7 +920,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To interfere in something that is not one's concern.",
-     "chinese": "干涉;多管閒事"
+     "chinese": "干涉；多管閒事"
     }
    },
    {
@@ -946,7 +946,7 @@ window.FLASHCARD_UNITS = {
     "word": "mediative",
     "pos": "adj.",
     "definition": "Serving to mediate or bring about reconciliation.",
-    "chinese": "調解的;斡旋的",
+    "chinese": "調解的；斡旋的",
     "synonyms": "",
     "root": "mediare (to be in the middle), from Latin medius (middle)",
     "group": "",
@@ -958,7 +958,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Serving to mediate or bring about reconciliation.",
-     "chinese": "調解的;斡旋的"
+     "chinese": "調解的；斡旋的"
     }
    }
   ],
@@ -2167,4 +2167,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"manager": ["A person responsible for controlling or administering an organization or group.", "經理;管理者"], "mandate": ["Authoritative order or command.", "命令；授權"], "mandatory": ["Required or obligatory.", "強制性的；必須的"], "manifest": ["Evident, obvious.", "明顯的；明白的"], "manifold": ["Complex, many.", "多種多樣的；繁多的"], "manikin": ["A small model of the human body used for anatomical study; a little man.", "解剖模型;小人像"], "manipulate": ["To control or influence (someone or something) cleverly or unscrupulously.", "操控；操縱"], "mannequin": ["A dummy used to display clothes; a fashion model.", "人體模型;時裝模特兒"], "mannerly": ["Polite and well-behaved.", "有禮貌的"], "mar": ["To damage or spoil the appearance or perfection of.", "損壞;玷污"], "marathon": ["A long-distance running race; a prolonged activity or event.", "馬拉松;耐力賽事"], "margaritaceous": ["Resembling or having the luster of a pearl.", "如珍珠般光澤的"], "margin": ["The edge or border of something; an amount by which something exceeds or falls short.", "邊緣;差距"], "marginal": ["Relating to the edge; of minor importance.", "邊緣的;次要的"], "marginalia": ["Notes or comments written in the margins of a book.", "頁邊註記"], "marginalize": ["To treat a person or group as insignificant or peripheral.", "邊緣化"], "mariticide": ["The killing of one's husband.", "殺夫罪"], "marmoreal": ["Resembling marble, especially in coldness or smoothness.", "如大理石般的"], "marshal": ["A high-ranking military officer; to organize or arrange in preparation.", "元帥;整頓部署"], "martinet": ["Strict disciplinarian.", "嚴格執行紀律的人"], "masseur": ["A man who provides massage professionally.", "按摩師(男性)"], "massive": ["Large and heavy; substantial.", "巨大的;龐大的"], "masterful": ["Having or showing great skill; imperious.", "精湛的;專橫的"], "masterly": ["Showing great skill or ability.", "精湛的;熟練的"], "masterpiece": ["A work of outstanding artistry or skill.", "傑作;鉅作"], "masticate": ["To chew up.", "咀嚼"], "mastication": ["The act of chewing food.", "咀嚼"], "mastiff": ["Large dog.", "獒犬"], "matador": ["A bullfighter whose task is to kill the bull.", "鬥牛士"], "matchless": ["So good or great as to have no equal.", "無與倫比的"], "materfamilias": ["A female head of a family or household.", "女家長"], "materialism": ["Attention to worldly things and neglect of spiritual needs.", "物質主義"], "maternity": ["Motherhood; relating to pregnancy and childbirth.", "母性;產科的"], "mathematics": ["The abstract science of number, quantity, and space.", "數學"], "matins": ["Morning prayers, especially in Christian liturgy.", "晨禱"], "matrimony": ["The state of being married; marriage.", "婚姻"], "matutinal": ["Relating to or occurring in the morning.", "早晨的;清晨的"], "maudlin": ["Sentimental:melancholy.", "傷感流淚的；感情脆弱的"], "maunder": ["To talk in a rambling, aimless manner; to move aimlessly.", "喃喃自語;漫無目的地閒逛"], "maven": ["An expert or knowledgeable enthusiast.", "行家;專家"], "maverick": ["An independent, nonconformist person.", "特立獨行者"], "mawkish": ["Characterized by sick sentimentality.", "過度感傷的；矯情的"], "maxim": ["A common saying expressing a principle of conduct.", "格言；箴言"], "mayoral": ["Relating to a mayor or mayoral office.", "市長的"], "meager": ["Deficient in size or quality.", "貧乏的；微薄的"], "meander": ["To wander in a winding path without a fixed direction.", "蜿蜒而行;閒逛"], "meandering": ["Following a winding or aimless course.", "蜿蜒的;漫無目的的"], "meddle": ["To interfere in something that is not one's concern.", "干涉;多管閒事"], "mediate": ["To act as a go-between in settling conflicts or disputes.", "調解"], "mediative": ["Serving to mediate or bring about reconciliation.", "調解的;斡旋的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"manager": ["A person responsible for controlling or administering an organization or group.", "經理；管理者"], "mandate": ["Authoritative order or command.", "命令；授權"], "mandatory": ["Required or obligatory.", "強制性的；必須的"], "manifest": ["Evident, obvious.", "明顯的；明白的"], "manifold": ["Complex, many.", "多種多樣的；繁多的"], "manikin": ["A small model of the human body used for anatomical study; a little man.", "解剖模型；小人像"], "manipulate": ["To control or influence (someone or something) cleverly or unscrupulously.", "操控；操縱"], "mannequin": ["A dummy used to display clothes; a fashion model.", "人體模型；時裝模特兒"], "mannerly": ["Polite and well-behaved.", "有禮貌的"], "mar": ["To damage or spoil the appearance or perfection of.", "損壞；玷污"], "marathon": ["A long-distance running race; a prolonged activity or event.", "馬拉松；耐力賽事"], "margaritaceous": ["Resembling or having the luster of a pearl.", "如珍珠般光澤的"], "margin": ["The edge or border of something; an amount by which something exceeds or falls short.", "邊緣；差距"], "marginal": ["Relating to the edge; of minor importance.", "邊緣的；次要的"], "marginalia": ["Notes or comments written in the margins of a book.", "頁邊註記"], "marginalize": ["To treat a person or group as insignificant or peripheral.", "邊緣化"], "mariticide": ["The killing of one's husband.", "殺夫罪"], "marmoreal": ["Resembling marble, especially in coldness or smoothness.", "如大理石般的"], "marshal": ["A high-ranking military officer; to organize or arrange in preparation.", "元帥；整頓部署"], "martinet": ["Strict disciplinarian.", "嚴格執行紀律的人"], "masseur": ["A man who provides massage professionally.", "按摩師(男性)"], "massive": ["Large and heavy; substantial.", "巨大的；龐大的"], "masterful": ["Having or showing great skill; imperious.", "精湛的；專橫的"], "masterly": ["Showing great skill or ability.", "精湛的；熟練的"], "masterpiece": ["A work of outstanding artistry or skill.", "傑作；鉅作"], "masticate": ["To chew up.", "咀嚼"], "mastication": ["The act of chewing food.", "咀嚼"], "mastiff": ["Large dog.", "獒犬"], "matador": ["A bullfighter whose task is to kill the bull.", "鬥牛士"], "matchless": ["So good or great as to have no equal.", "無與倫比的"], "materfamilias": ["A female head of a family or household.", "女家長"], "materialism": ["Attention to worldly things and neglect of spiritual needs.", "物質主義"], "maternity": ["Motherhood; relating to pregnancy and childbirth.", "母性；產科的"], "mathematics": ["The abstract science of number, quantity, and space.", "數學"], "matins": ["Morning prayers, especially in Christian liturgy.", "晨禱"], "matrimony": ["The state of being married; marriage.", "婚姻"], "matutinal": ["Relating to or occurring in the morning.", "早晨的；清晨的"], "maudlin": ["Sentimental:melancholy.", "傷感流淚的；感情脆弱的"], "maunder": ["To talk in a rambling, aimless manner; to move aimlessly.", "喃喃自語；漫無目的地閒逛"], "maven": ["An expert or knowledgeable enthusiast.", "行家；專家"], "maverick": ["An independent, nonconformist person.", "特立獨行者"], "mawkish": ["Characterized by sick sentimentality.", "過度感傷的；矯情的"], "maxim": ["A common saying expressing a principle of conduct.", "格言；箴言"], "mayoral": ["Relating to a mayor or mayoral office.", "市長的"], "meager": ["Deficient in size or quality.", "貧乏的；微薄的"], "meander": ["To wander in a winding path without a fixed direction.", "蜿蜒而行；閒逛"], "meandering": ["Following a winding or aimless course.", "蜿蜒的；漫無目的的"], "meddle": ["To interfere in something that is not one's concern.", "干涉；多管閒事"], "mediate": ["To act as a go-between in settling conflicts or disputes.", "調解"], "mediative": ["Serving to mediate or bring about reconciliation.", "調解的；斡旋的"]});

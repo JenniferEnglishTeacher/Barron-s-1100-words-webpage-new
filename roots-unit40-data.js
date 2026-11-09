@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "inefficacious",
     "pos": "adj.",
     "definition": "Not producing the desired effect; ineffective.",
-    "chinese": "無效的;不奏效的",
+    "chinese": "無效的；不奏效的",
     "synonyms": "",
     "root": "in- (not) + efficax (effective), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not producing the desired effect; ineffective.",
-     "chinese": "無效的;不奏效的"
+     "chinese": "無效的；不奏效的"
     }
    },
    {
     "word": "ineluctable",
     "pos": "adj.",
     "definition": "Unable to be resisted or avoided; inevitable.",
-    "chinese": "不可避免的;無法逃避的",
+    "chinese": "不可避免的；無法逃避的",
     "synonyms": "",
     "root": "in- (not) + eluctari (to struggle out), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be resisted or avoided; inevitable.",
-     "chinese": "不可避免的;無法逃避的"
+     "chinese": "不可避免的；無法逃避的"
     }
    },
    {
@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "inequity",
     "pos": "n.",
     "definition": "Lack of fairness or justice.",
-    "chinese": "不公平;不平等",
+    "chinese": "不公平；不平等",
     "synonyms": "",
     "root": "in- (not) + aequus (equal), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of fairness or justice.",
-     "chinese": "不公平;不平等"
+     "chinese": "不公平；不平等"
     }
    },
    {
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
     "word": "infelicitous",
     "pos": "adj.",
     "definition": "Not appropriate for the situation; unfortunate in expression.",
-    "chinese": "不恰當的;措辭欠妥的",
+    "chinese": "不恰當的；措辭欠妥的",
     "synonyms": "",
     "root": "in- (not) + felix (happy, fortunate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -265,14 +265,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not appropriate for the situation; unfortunate in expression.",
-     "chinese": "不恰當的;措辭欠妥的"
+     "chinese": "不恰當的；措辭欠妥的"
     }
    },
    {
     "word": "infertile",
     "pos": "adj.",
     "definition": "Unable to produce offspring or crops; barren.",
-    "chinese": "不孕的;貧瘠的",
+    "chinese": "不孕的；貧瘠的",
     "synonyms": "",
     "root": "in- (not) + fertilis (fruitful), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to produce offspring or crops; barren.",
-     "chinese": "不孕的;貧瘠的"
+     "chinese": "不孕的；貧瘠的"
     }
    },
    {
     "word": "infirm",
     "pos": "adj.",
     "definition": "Physically weak, especially from age or illness.",
-    "chinese": "體弱的;年老多病的",
+    "chinese": "體弱的；年老多病的",
     "synonyms": "",
     "root": "in- (not) + firmus (strong, firm), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Physically weak, especially from age or illness.",
-     "chinese": "體弱的;年老多病的"
+     "chinese": "體弱的；年老多病的"
     }
    },
    {
     "word": "inflexible",
     "pos": "adj.",
     "definition": "Unwilling to change; rigid.",
-    "chinese": "不知變通的;固執的",
+    "chinese": "不知變通的；固執的",
     "synonyms": "",
     "root": "in- (not) + flectere (to bend), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unwilling to change; rigid.",
-     "chinese": "不知變通的;固執的"
+     "chinese": "不知變通的；固執的"
     }
    },
    {
     "word": "informal",
     "pos": "adj.",
     "definition": "Not following strict rules or conventions; casual.",
-    "chinese": "非正式的;隨意的",
+    "chinese": "非正式的；隨意的",
     "synonyms": "",
     "root": "in- (not) + formalis (formal), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -341,7 +341,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not following strict rules or conventions; casual.",
-     "chinese": "非正式的;隨意的"
+     "chinese": "非正式的；隨意的"
     }
    },
    {
@@ -386,7 +386,7 @@ window.FLASHCARD_UNITS = {
     "word": "inimitable",
     "pos": "adj.",
     "definition": "Impossible to imitate; unique.",
-    "chinese": "無法模仿的;獨特的",
+    "chinese": "無法模仿的；獨特的",
     "synonyms": "",
     "root": "in- (not) + imitari (to imitate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -398,7 +398,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible to imitate; unique.",
-     "chinese": "無法模仿的;獨特的"
+     "chinese": "無法模仿的；獨特的"
     }
    },
    {
@@ -464,7 +464,7 @@ window.FLASHCARD_UNITS = {
     "word": "injurious",
     "pos": "adj.",
     "definition": "Causing harm or injury.",
-    "chinese": "有害的;傷害性的",
+    "chinese": "有害的；傷害性的",
     "synonyms": "",
     "root": "in- (not) + jus (right, law), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -476,14 +476,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Causing harm or injury.",
-     "chinese": "有害的;傷害性的"
+     "chinese": "有害的；傷害性的"
     }
    },
    {
     "word": "injustice",
     "pos": "n.",
     "definition": "Lack of fairness or justice.",
-    "chinese": "不公正;不義",
+    "chinese": "不公正；不義",
     "synonyms": "",
     "root": "in- (not) + justitia (justice), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -495,7 +495,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of fairness or justice.",
-     "chinese": "不公正;不義"
+     "chinese": "不公正；不義"
     }
    },
    {
@@ -521,7 +521,7 @@ window.FLASHCARD_UNITS = {
     "word": "inoperative",
     "pos": "adj.",
     "definition": "Not functioning or working.",
-    "chinese": "失效的;不運作的",
+    "chinese": "失效的；不運作的",
     "synonyms": "",
     "root": "in- (not) + operari (to work), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -533,7 +533,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not functioning or working.",
-     "chinese": "失效的;不運作的"
+     "chinese": "失效的；不運作的"
     }
    },
    {
@@ -559,7 +559,7 @@ window.FLASHCARD_UNITS = {
     "word": "insalubrious",
     "pos": "adj.",
     "definition": "Not conducive to health; unwholesome.",
-    "chinese": "不利健康的;不衛生的",
+    "chinese": "不利健康的；不衛生的",
     "synonyms": "",
     "root": "in- (not) + salubris (healthy), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -571,7 +571,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not conducive to health; unwholesome.",
-     "chinese": "不利健康的;不衛生的"
+     "chinese": "不利健康的；不衛生的"
     }
    },
    {
@@ -597,7 +597,7 @@ window.FLASHCARD_UNITS = {
     "word": "inscrutable",
     "pos": "adj.",
     "definition": "Impossible to understand or interpret.",
-    "chinese": "難以理解的;高深莫測的",
+    "chinese": "難以理解的；高深莫測的",
     "synonyms": "",
     "root": "in- (not) + scrutari (to search), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -609,14 +609,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Impossible to understand or interpret.",
-     "chinese": "難以理解的;高深莫測的"
+     "chinese": "難以理解的；高深莫測的"
     }
    },
    {
     "word": "insensate",
     "pos": "adj.",
     "definition": "Lacking physical sensation; lacking sympathy or feeling.",
-    "chinese": "無知覺的;麻木不仁的",
+    "chinese": "無知覺的；麻木不仁的",
     "synonyms": "",
     "root": "in- (not) + sentire (to feel), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -628,7 +628,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking physical sensation; lacking sympathy or feeling.",
-     "chinese": "無知覺的;麻木不仁的"
+     "chinese": "無知覺的；麻木不仁的"
     }
    },
    {
@@ -654,7 +654,7 @@ window.FLASHCARD_UNITS = {
     "word": "insentient",
     "pos": "adj.",
     "definition": "Lacking the capacity for sensation or consciousness.",
-    "chinese": "無知覺的;無意識的",
+    "chinese": "無知覺的；無意識的",
     "synonyms": "",
     "root": "in- (not) + sentire (to feel), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -666,7 +666,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking the capacity for sensation or consciousness.",
-     "chinese": "無知覺的;無意識的"
+     "chinese": "無知覺的；無意識的"
     }
    },
    {
@@ -692,7 +692,7 @@ window.FLASHCARD_UNITS = {
     "word": "insincere",
     "pos": "adj.",
     "definition": "Not expressing genuine feelings; hypocritical.",
-    "chinese": "不真誠的;虛偽的",
+    "chinese": "不真誠的；虛偽的",
     "synonyms": "",
     "root": "in- (not) + sincerus (genuine), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -704,7 +704,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not expressing genuine feelings; hypocritical.",
-     "chinese": "不真誠的;虛偽的"
+     "chinese": "不真誠的；虛偽的"
     }
    },
    {
@@ -730,7 +730,7 @@ window.FLASHCARD_UNITS = {
     "word": "insolence",
     "pos": "n.",
     "definition": "Bold, disrespectful behavior.",
-    "chinese": "傲慢無禮;放肆",
+    "chinese": "傲慢無禮；放肆",
     "synonyms": "",
     "root": "in- (not) + solere (to be accustomed), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -742,7 +742,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bold, disrespectful behavior.",
-     "chinese": "傲慢無禮;放肆"
+     "chinese": "傲慢無禮；放肆"
     }
    },
    {
@@ -768,7 +768,7 @@ window.FLASHCARD_UNITS = {
     "word": "insouciance",
     "pos": "n.",
     "definition": "A casual lack of concern; carefree indifference.",
-    "chinese": "漠不關心;無憂無慮",
+    "chinese": "漠不關心；無憂無慮",
     "synonyms": "",
     "root": "in- (not) + soucier (to worry), from French",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -780,14 +780,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A casual lack of concern; carefree indifference.",
-     "chinese": "漠不關心;無憂無慮"
+     "chinese": "漠不關心；無憂無慮"
     }
    },
    {
     "word": "insouciant",
     "pos": "adj.",
     "definition": "Casually indifferent; carefree.",
-    "chinese": "漫不經心的;無憂無慮的",
+    "chinese": "漫不經心的；無憂無慮的",
     "synonyms": "",
     "root": "in- (not) + soucier (to worry), from French",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -799,14 +799,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Casually indifferent; carefree.",
-     "chinese": "漫不經心的;無憂無慮的"
+     "chinese": "漫不經心的；無憂無慮的"
     }
    },
    {
     "word": "insubstantial",
     "pos": "adj.",
     "definition": "Lacking solidity or substance; flimsy.",
-    "chinese": "不牢固的;空洞的",
+    "chinese": "不牢固的；空洞的",
     "synonyms": "",
     "root": "in- (not) + substantia (substance), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -818,14 +818,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking solidity or substance; flimsy.",
-     "chinese": "不牢固的;空洞的"
+     "chinese": "不牢固的；空洞的"
     }
    },
    {
     "word": "insufficiency",
     "pos": "n.",
     "definition": "A state of not being enough or adequate.",
-    "chinese": "不足;不夠",
+    "chinese": "不足；不夠",
     "synonyms": "",
     "root": "in- (not) + sufficere (to suffice), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -837,7 +837,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of not being enough or adequate.",
-     "chinese": "不足;不夠"
+     "chinese": "不足；不夠"
     }
    },
    {
@@ -901,7 +901,7 @@ window.FLASHCARD_UNITS = {
     "word": "intemperance",
     "pos": "n.",
     "definition": "Lack of moderation, especially in consuming alcohol.",
-    "chinese": "無節制;放縱",
+    "chinese": "無節制；放縱",
     "synonyms": "",
     "root": "in- (not) + temperare (to moderate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -913,14 +913,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lack of moderation, especially in consuming alcohol.",
-     "chinese": "無節制;放縱"
+     "chinese": "無節制；放縱"
     }
    },
    {
     "word": "intemperate",
     "pos": "adj.",
     "definition": "Lacking self-restraint, especially regarding alcohol or emotion.",
-    "chinese": "無節制的;過度的",
+    "chinese": "無節制的；過度的",
     "synonyms": "",
     "root": "in- (not) + temperare (to moderate), from Latin",
     "group": "in — not / opposite = 否定；不是；缺乏；相反",
@@ -932,7 +932,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Lacking self-restraint, especially regarding alcohol or emotion.",
-     "chinese": "無節制的;過度的"
+     "chinese": "無節制的；過度的"
     }
    },
    {
@@ -2160,4 +2160,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inefficacious": ["Not producing the desired effect; ineffective.", "無效的;不奏效的"], "ineluctable": ["Unable to be resisted or avoided; inevitable.", "不可避免的;無法逃避的"], "inept": ["Having or showing no skill; clumsy.", "笨拙的；不稱職的"], "inequity": ["Lack of fairness or justice.", "不公平;不平等"], "inert": ["Without power to move.", "遲鈍的；惰性的"], "inevitable": ["Sure, certain, unavoidable.", "不可避免的"], "inexorable": ["Inflexible, unrelenting.", "無情的；不可阻擋的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"], "inexplicable": ["Unable to be explained or understood; baffling.", "無法解釋的"], "inextricable": ["Hopelessly tangled or entangled.", "無法解開的；密不可分的"], "infallible": ["Exempt from error, right.", "絕對正確的"], "infamous": ["Having a bad reputation.", "臭名昭著的"], "infamy": ["Notoriety, extreme ill repute.", "惡名；臭名"], "infelicitous": ["Not appropriate for the situation; unfortunate in expression.", "不恰當的;措辭欠妥的"], "infertile": ["Unable to produce offspring or crops; barren.", "不孕的;貧瘠的"], "infirm": ["Physically weak, especially from age or illness.", "體弱的;年老多病的"], "inflexible": ["Unwilling to change; rigid.", "不知變通的;固執的"], "informal": ["Not following strict rules or conventions; casual.", "非正式的;隨意的"], "infrequent": ["Not occurring often.", "罕見的；不常發生的"], "inimical": ["Hostile, enemylike.", "敵對的；有害的"], "inimitable": ["Impossible to imitate; unique.", "無法模仿的;獨特的"], "iniquitous": ["Showing a lack of fairness; wicked; vicious.", "不公正的；邪惡的"], "iniquity": ["Wickedness, injustice.", "邪惡；不公正"], "injure": ["To cause physical harm to someone.", "傷害"], "injurious": ["Causing harm or injury.", "有害的;傷害性的"], "injustice": ["Lack of fairness or justice.", "不公正;不義"], "innocuous": ["Harmless, mild, innocent.", "無害的"], "inoperative": ["Not functioning or working.", "失效的;不運作的"], "inordinate": ["Excessive.", "過度的；無節制的"], "insalubrious": ["Not conducive to health; unwholesome.", "不利健康的;不衛生的"], "insatiable": ["Cannot be satisfied.", "貪得無厭的"], "inscrutable": ["Impossible to understand or interpret.", "難以理解的;高深莫測的"], "insensate": ["Lacking physical sensation; lacking sympathy or feeling.", "無知覺的;麻木不仁的"], "insensible": ["Unaware or indifferent.", "無知覺的；麻木的"], "insentient": ["Lacking the capacity for sensation or consciousness.", "無知覺的;無意識的"], "insignificant": ["Too small or unimportant to matter.", "微不足道的"], "insincere": ["Not expressing genuine feelings; hypocritical.", "不真誠的;虛偽的"], "insipid": ["Lacking flavor or taste; unexciting.", "枯燥乏味的"], "insolence": ["Bold, disrespectful behavior.", "傲慢無禮;放肆"], "insolent": ["Boldly disrespectful in speech or behavior; rude.", "傲慢無禮的"], "insouciance": ["A casual lack of concern; carefree indifference.", "漠不關心;無憂無慮"], "insouciant": ["Casually indifferent; carefree.", "漫不經心的;無憂無慮的"], "insubstantial": ["Lacking solidity or substance; flimsy.", "不牢固的;空洞的"], "insufficiency": ["A state of not being enough or adequate.", "不足;不夠"], "insuperable": ["Unable to be overcome.", "難以克服的"], "intangible": ["Not able to be touched or measured.", "無形的"], "integral": ["Essential.", "不可或缺的；整體的"], "intemperance": ["Lack of moderation, especially in consuming alcohol.", "無節制;放縱"], "intemperate": ["Lacking self-restraint, especially regarding alcohol or emotion.", "無節制的;過度的"], "interminable": ["Unending.", "無休止的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"inefficacious": ["Not producing the desired effect; ineffective.", "無效的；不奏效的"], "ineluctable": ["Unable to be resisted or avoided; inevitable.", "不可避免的；無法逃避的"], "inept": ["Having or showing no skill; clumsy.", "笨拙的；不稱職的"], "inequity": ["Lack of fairness or justice.", "不公平；不平等"], "inert": ["Without power to move.", "遲鈍的；惰性的"], "inevitable": ["Sure, certain, unavoidable.", "不可避免的"], "inexorable": ["Inflexible, unrelenting.", "無情的；不可阻擋的"], "inexpensive": ["Not costly.", "不昂貴的；便宜的"], "inexplicable": ["Unable to be explained or understood; baffling.", "無法解釋的"], "inextricable": ["Hopelessly tangled or entangled.", "無法解開的；密不可分的"], "infallible": ["Exempt from error, right.", "絕對正確的"], "infamous": ["Having a bad reputation.", "臭名昭著的"], "infamy": ["Notoriety, extreme ill repute.", "惡名；臭名"], "infelicitous": ["Not appropriate for the situation; unfortunate in expression.", "不恰當的；措辭欠妥的"], "infertile": ["Unable to produce offspring or crops; barren.", "不孕的；貧瘠的"], "infirm": ["Physically weak, especially from age or illness.", "體弱的；年老多病的"], "inflexible": ["Unwilling to change; rigid.", "不知變通的；固執的"], "informal": ["Not following strict rules or conventions; casual.", "非正式的；隨意的"], "infrequent": ["Not occurring often.", "罕見的；不常發生的"], "inimical": ["Hostile, enemylike.", "敵對的；有害的"], "inimitable": ["Impossible to imitate; unique.", "無法模仿的；獨特的"], "iniquitous": ["Showing a lack of fairness; wicked; vicious.", "不公正的；邪惡的"], "iniquity": ["Wickedness, injustice.", "邪惡；不公正"], "injure": ["To cause physical harm to someone.", "傷害"], "injurious": ["Causing harm or injury.", "有害的；傷害性的"], "injustice": ["Lack of fairness or justice.", "不公正；不義"], "innocuous": ["Harmless, mild, innocent.", "無害的"], "inoperative": ["Not functioning or working.", "失效的；不運作的"], "inordinate": ["Excessive.", "過度的；無節制的"], "insalubrious": ["Not conducive to health; unwholesome.", "不利健康的；不衛生的"], "insatiable": ["Cannot be satisfied.", "貪得無厭的"], "inscrutable": ["Impossible to understand or interpret.", "難以理解的；高深莫測的"], "insensate": ["Lacking physical sensation; lacking sympathy or feeling.", "無知覺的；麻木不仁的"], "insensible": ["Unaware or indifferent.", "無知覺的；麻木的"], "insentient": ["Lacking the capacity for sensation or consciousness.", "無知覺的；無意識的"], "insignificant": ["Too small or unimportant to matter.", "微不足道的"], "insincere": ["Not expressing genuine feelings; hypocritical.", "不真誠的；虛偽的"], "insipid": ["Lacking flavor or taste; unexciting.", "枯燥乏味的"], "insolence": ["Bold, disrespectful behavior.", "傲慢無禮；放肆"], "insolent": ["Boldly disrespectful in speech or behavior; rude.", "傲慢無禮的"], "insouciance": ["A casual lack of concern; carefree indifference.", "漠不關心；無憂無慮"], "insouciant": ["Casually indifferent; carefree.", "漫不經心的；無憂無慮的"], "insubstantial": ["Lacking solidity or substance; flimsy.", "不牢固的；空洞的"], "insufficiency": ["A state of not being enough or adequate.", "不足；不夠"], "insuperable": ["Unable to be overcome.", "難以克服的"], "intangible": ["Not able to be touched or measured.", "無形的"], "integral": ["Essential.", "不可或缺的；整體的"], "intemperance": ["Lack of moderation, especially in consuming alcohol.", "無節制；放縱"], "intemperate": ["Lacking self-restraint, especially regarding alcohol or emotion.", "無節制的；過度的"], "interminable": ["Unending.", "無休止的"]});

@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "advertise",
     "pos": "v.",
     "definition": "To promote a product, service, or event publicly.",
-    "chinese": "宣傳;登廣告",
+    "chinese": "宣傳；登廣告",
     "synonyms": "",
     "root": "ad- (to) + vertere (to turn)",
     "group": "ad = 朝向",
@@ -37,7 +37,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To promote a product, service, or event publicly.",
-     "chinese": "宣傳;登廣告"
+     "chinese": "宣傳；登廣告"
     }
    },
    {
@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "affability",
     "pos": "n.",
     "definition": "Friendliness and ease of approach.",
-    "chinese": "和藹可親;友善",
+    "chinese": "和藹可親；友善",
     "synonyms": "",
     "root": "ad- (to) + fari (to speak)",
     "group": "ad = 朝向",
@@ -94,7 +94,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Friendliness and ease of approach.",
-     "chinese": "和藹可親;友善"
+     "chinese": "和藹可親；友善"
     }
    },
    {
@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "affect",
     "pos": "v./n.",
     "definition": "To influence or produce a change in; a person's outward emotional expression.",
-    "chinese": "影響;情感表現",
+    "chinese": "影響；情感表現",
     "synonyms": "",
     "root": "ad- (to) + facere (to do)",
     "group": "ad = 朝向",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To influence or produce a change in; a person's outward emotional expression.",
-     "chinese": "影響;情感表現"
+     "chinese": "影響；情感表現"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "afflatus",
     "pos": "n.",
     "definition": "A divine creative impulse or inspiration.",
-    "chinese": "靈感;神授的創作衝動",
+    "chinese": "靈感；神授的創作衝動",
     "synonyms": "",
     "root": "ad- (to) + flare (to blow)",
     "group": "ad = 朝向",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A divine creative impulse or inspiration.",
-     "chinese": "靈感;神授的創作衝動"
+     "chinese": "靈感；神授的創作衝動"
     }
    },
    {
@@ -257,7 +257,7 @@ window.FLASHCARD_UNITS = {
     "word": "affliction",
     "pos": "n.",
     "definition": "A state of pain, distress, or suffering; something causing this.",
-    "chinese": "苦難;疾病",
+    "chinese": "苦難；疾病",
     "synonyms": "",
     "root": "ad- (to) + fligere (to strike)",
     "group": "ad = 朝向",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of pain, distress, or suffering; something causing this.",
-     "chinese": "苦難;疾病"
+     "chinese": "苦難；疾病"
     }
    },
    {
     "word": "affluence",
     "pos": "n.",
     "definition": "The state of having a great deal of money; wealth.",
-    "chinese": "富裕;財富",
+    "chinese": "富裕；財富",
     "synonyms": "",
     "root": "ad- (to) + fluere (to flow)",
     "group": "ad = 朝向",
@@ -288,7 +288,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of having a great deal of money; wealth.",
-     "chinese": "富裕;財富"
+     "chinese": "富裕；財富"
     }
    },
    {
@@ -352,7 +352,7 @@ window.FLASHCARD_UNITS = {
     "word": "aggrandizement",
     "pos": "n.",
     "definition": "The action of increasing one's own power, status, or wealth.",
-    "chinese": "自我擴張;權勢增長",
+    "chinese": "自我擴張；權勢增長",
     "synonyms": "",
     "root": "ad- (to) + grandire (to make great)",
     "group": "ad = 朝向",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The action of increasing one's own power, status, or wealth.",
-     "chinese": "自我擴張;權勢增長"
+     "chinese": "自我擴張；權勢增長"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "aggrieve",
     "pos": "v.",
     "definition": "To cause distress or grief to; to treat unjustly.",
-    "chinese": "使苦惱;使受委屈",
+    "chinese": "使苦惱；使受委屈",
     "synonyms": "",
     "root": "ad- (to) + gravare (to burden)",
     "group": "ad = 朝向",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To cause distress or grief to; to treat unjustly.",
-     "chinese": "使苦惱;使受委屈"
+     "chinese": "使苦惱；使受委屈"
     }
    },
    {
@@ -468,7 +468,7 @@ window.FLASHCARD_UNITS = {
     "word": "agnate",
     "pos": "adj./n.",
     "definition": "Related on the father's side; a relative through male descent.",
-    "chinese": "父系血親的;父系親屬",
+    "chinese": "父系血親的；父系親屬",
     "synonyms": "",
     "root": "ad- (to) + gnasci (to be born)",
     "group": "ad = 朝向",
@@ -480,14 +480,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Related on the father's side; a relative through male descent.",
-     "chinese": "父系血親的;父系親屬"
+     "chinese": "父系血親的；父系親屬"
     }
    },
    {
     "word": "allegation",
     "pos": "n.",
     "definition": "A claim or assertion, typically without proof.",
-    "chinese": "指控;指稱",
+    "chinese": "指控；指稱",
     "synonyms": "",
     "root": "ad- (to) + legare (to depute, allege)",
     "group": "ad = 朝向",
@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A claim or assertion, typically without proof.",
-     "chinese": "指控;指稱"
+     "chinese": "指控；指稱"
     }
    },
    {
@@ -660,7 +660,7 @@ window.FLASHCARD_UNITS = {
     "word": "amelioration",
     "pos": "n.",
     "definition": "The process of making something better.",
-    "chinese": "改善;改良",
+    "chinese": "改善；改良",
     "synonyms": "",
     "root": "ad- (to) + melior (better)",
     "group": "ad = 朝向",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process of making something better.",
-     "chinese": "改善;改良"
+     "chinese": "改善；改良"
     }
    },
    {
@@ -736,7 +736,7 @@ window.FLASHCARD_UNITS = {
     "word": "amends",
     "pos": "n.",
     "definition": "Compensation given for a wrong or injury done.",
-    "chinese": "賠償;彌補",
+    "chinese": "賠償；彌補",
     "synonyms": "",
     "root": "ad- (to) + emendare (to correct)",
     "group": "ad = 朝向",
@@ -748,7 +748,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Compensation given for a wrong or injury done.",
-     "chinese": "賠償;彌補"
+     "chinese": "賠償；彌補"
     }
    },
    {
@@ -793,7 +793,7 @@ window.FLASHCARD_UNITS = {
     "word": "annotation",
     "pos": "n.",
     "definition": "A note added to a text to explain or comment on it.",
-    "chinese": "註釋;注解",
+    "chinese": "註釋；注解",
     "synonyms": "",
     "root": "ad- (to) + notare (to mark)",
     "group": "ad = 朝向",
@@ -807,7 +807,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A note added to a text to explain or comment on it.",
-     "chinese": "註釋;注解"
+     "chinese": "註釋；注解"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "appendix",
     "pos": "n.",
     "definition": "A section of supplementary material at the end of a book; a small organ near the intestine.",
-    "chinese": "附錄;闌尾",
+    "chinese": "附錄；闌尾",
     "synonyms": "",
     "root": "ad- (to) + pendere (to hang)",
     "group": "ad = 朝向",
@@ -940,14 +940,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A section of supplementary material at the end of a book; a small organ near the intestine.",
-     "chinese": "附錄;闌尾"
+     "chinese": "附錄；闌尾"
     }
    },
    {
     "word": "applaud",
     "pos": "v.",
     "definition": "To show approval by clapping; to praise.",
-    "chinese": "鼓掌;讚揚",
+    "chinese": "鼓掌；讚揚",
     "synonyms": "",
     "root": "ad- (to) + plaudere (to clap)",
     "group": "ad = 朝向",
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To show approval by clapping; to praise.",
-     "chinese": "鼓掌;讚揚"
+     "chinese": "鼓掌；讚揚"
     }
    }
   ],
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"adversity": ["Great trouble or difficulty.", "逆境；不幸"], "advertise": ["To promote a product, service, or event publicly.", "宣傳;登廣告"], "advise": ["To recommend or give guidance.", "建議；勸告"], "advocate": ["To be in favor of, support.", "提倡"], "affability": ["Friendliness and ease of approach.", "和藹可親;友善"], "affable": ["Easy to talk to; easy to approach, friendly; kind.", "和藹可親的"], "affect": ["To influence or produce a change in; a person's outward emotional expression.", "影響;情感表現"], "affinity": ["A spontaneous feeling of closeness.", "親近感；密切關係"], "affirm": ["To state as a fact; to declare strongly.", "肯定；確認"], "afflated": ["Inspired, as if breathed upon by a divine or creative force.", "受靈感啟發的"], "afflation": ["A sudden burst of creative inspiration.", "靈感的湧現"], "afflatus": ["A divine creative impulse or inspiration.", "靈感;神授的創作衝動"], "afflict": ["To trouble greatly, distress.", "折磨"], "affliction": ["A state of pain, distress, or suffering; something causing this.", "苦難;疾病"], "affluence": ["The state of having a great deal of money; wealth.", "富裕;財富"], "affluent": ["Rich.", "富裕的"], "affront": ["An insult.", "侮辱；冒犯"], "aggrandize": ["To increase or make greater.", "誇大；擴大權勢"], "aggrandizement": ["The action of increasing one's own power, status, or wealth.", "自我擴張;權勢增長"], "aggravate": ["To worsen or intensify.", "使惡化；加重"], "aggregate": ["A sum total or mixture.", "總和；集合體"], "aggressive": ["Forceful or overly assertive.", "好鬥的；積極進取的"], "aggrieve": ["To cause distress or grief to; to treat unjustly.", "使苦惱;使受委屈"], "aggrieved": ["Distressed, wronged, injured.", "感到委屈的；受害的"], "agnate": ["Related on the father's side; a relative through male descent.", "父系血親的;父系親屬"], "allegation": ["A claim or assertion, typically without proof.", "指控;指稱"], "allege": ["To assert, usually without proof.", "宣稱；指稱(未經證實)"], "alleviate": ["To make easier, lighten.", "減輕；緩解"], "alliteration": ["The repetition of the same initial consonant sound in nearby words.", "頭韻"], "alliterative": ["Characterized by the repetition of initial consonant sounds.", "頭韻的"], "allocate": ["To distribute, set aside.", "分配"], "allude": ["To hint, suggest.", "暗示；提及"], "allusion": ["An indirect reference, often to literature.", "暗指"], "ameliorate": ["To relieve, improve.", "改善；減輕"], "amelioration": ["The process of making something better.", "改善;改良"], "ameliorative": ["Intended to make a situation better.", "改善性的"], "amenable": ["Willing, compliant.", "順從的；願意配合的"], "amendable": ["Capable of being changed or corrected.", "可修改的"], "amends": ["Compensation given for a wrong or injury done.", "賠償;彌補"], "annex": ["To incorporate territory or space.", "併吞；合併"], "annotate": ["To add explanatory notes or comments to a text or diagram.", "加註解；註釋"], "annotation": ["A note added to a text to explain or comment on it.", "註釋;注解"], "announce": ["To make a public statement.", "宣布；公告"], "annul": ["To make void or invalid.", "廢除；使無效"], "appalled": ["Shocked, dismayed.", "震驚的；駭然的"], "appalling": ["Inspiring shock, horror, disgust.", "駭人的；令人震驚的"], "appease": ["To make tranquil, especially by giving into demands; pacify.", "平息；安撫"], "appellation": ["A name.", "名稱；稱呼"], "appendix": ["A section of supplementary material at the end of a book; a small organ near the intestine.", "附錄;闌尾"], "applaud": ["To show approval by clapping; to praise.", "鼓掌;讚揚"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"adversity": ["Great trouble or difficulty.", "逆境；不幸"], "advertise": ["To promote a product, service, or event publicly.", "宣傳；登廣告"], "advise": ["To recommend or give guidance.", "建議；勸告"], "advocate": ["To be in favor of, support.", "提倡"], "affability": ["Friendliness and ease of approach.", "和藹可親；友善"], "affable": ["Easy to talk to; easy to approach, friendly; kind.", "和藹可親的"], "affect": ["To influence or produce a change in; a person's outward emotional expression.", "影響；情感表現"], "affinity": ["A spontaneous feeling of closeness.", "親近感；密切關係"], "affirm": ["To state as a fact; to declare strongly.", "肯定；確認"], "afflated": ["Inspired, as if breathed upon by a divine or creative force.", "受靈感啟發的"], "afflation": ["A sudden burst of creative inspiration.", "靈感的湧現"], "afflatus": ["A divine creative impulse or inspiration.", "靈感；神授的創作衝動"], "afflict": ["To trouble greatly, distress.", "折磨"], "affliction": ["A state of pain, distress, or suffering; something causing this.", "苦難；疾病"], "affluence": ["The state of having a great deal of money; wealth.", "富裕；財富"], "affluent": ["Rich.", "富裕的"], "affront": ["An insult.", "侮辱；冒犯"], "aggrandize": ["To increase or make greater.", "誇大；擴大權勢"], "aggrandizement": ["The action of increasing one's own power, status, or wealth.", "自我擴張；權勢增長"], "aggravate": ["To worsen or intensify.", "使惡化；加重"], "aggregate": ["A sum total or mixture.", "總和；集合體"], "aggressive": ["Forceful or overly assertive.", "好鬥的；積極進取的"], "aggrieve": ["To cause distress or grief to; to treat unjustly.", "使苦惱；使受委屈"], "aggrieved": ["Distressed, wronged, injured.", "感到委屈的；受害的"], "agnate": ["Related on the father's side; a relative through male descent.", "父系血親的；父系親屬"], "allegation": ["A claim or assertion, typically without proof.", "指控；指稱"], "allege": ["To assert, usually without proof.", "宣稱；指稱(未經證實)"], "alleviate": ["To make easier, lighten.", "減輕；緩解"], "alliteration": ["The repetition of the same initial consonant sound in nearby words.", "頭韻"], "alliterative": ["Characterized by the repetition of initial consonant sounds.", "頭韻的"], "allocate": ["To distribute, set aside.", "分配"], "allude": ["To hint, suggest.", "暗示；提及"], "allusion": ["An indirect reference, often to literature.", "暗指"], "ameliorate": ["To relieve, improve.", "改善；減輕"], "amelioration": ["The process of making something better.", "改善；改良"], "ameliorative": ["Intended to make a situation better.", "改善性的"], "amenable": ["Willing, compliant.", "順從的；願意配合的"], "amendable": ["Capable of being changed or corrected.", "可修改的"], "amends": ["Compensation given for a wrong or injury done.", "賠償；彌補"], "annex": ["To incorporate territory or space.", "併吞；合併"], "annotate": ["To add explanatory notes or comments to a text or diagram.", "加註解；註釋"], "annotation": ["A note added to a text to explain or comment on it.", "註釋；注解"], "announce": ["To make a public statement.", "宣布；公告"], "annul": ["To make void or invalid.", "廢除；使無效"], "appalled": ["Shocked, dismayed.", "震驚的；駭然的"], "appalling": ["Inspiring shock, horror, disgust.", "駭人的；令人震驚的"], "appease": ["To make tranquil, especially by giving into demands; pacify.", "平息；安撫"], "appellation": ["A name.", "名稱；稱呼"], "appendix": ["A section of supplementary material at the end of a book; a small organ near the intestine.", "附錄；闌尾"], "applaud": ["To show approval by clapping; to praise.", "鼓掌；讚揚"]});

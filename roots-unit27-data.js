@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "emission",
     "pos": "n.",
     "definition": "The production and discharge of something, especially gas.",
-    "chinese": "排放;釋放",
+    "chinese": "排放；釋放",
     "synonyms": "",
     "root": "e- (out) + mittere (to send), from Latin",
     "group": "ex = 向外",
@@ -20,7 +20,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The production and discharge of something, especially gas.",
-     "chinese": "排放;釋放"
+     "chinese": "排放；釋放"
     }
    },
    {
@@ -105,7 +105,7 @@ window.FLASHCARD_UNITS = {
     "word": "enervated",
     "pos": "adj.",
     "definition": "Drained of energy or vitality.",
-    "chinese": "虛弱無力的;疲憊的",
+    "chinese": "虛弱無力的；疲憊的",
     "synonyms": "",
     "root": "e- (out) + nervus (sinew), from Latin",
     "group": "ex = 向外",
@@ -117,14 +117,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Drained of energy or vitality.",
-     "chinese": "虛弱無力的;疲憊的"
+     "chinese": "虛弱無力的；疲憊的"
     }
    },
    {
     "word": "enervation",
     "pos": "n.",
     "definition": "The state of being drained of energy or vitality.",
-    "chinese": "虛脫;衰弱",
+    "chinese": "虛脫；衰弱",
     "synonyms": "",
     "root": "e- (out) + nervus (sinew), from Latin",
     "group": "ex = 向外",
@@ -136,14 +136,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being drained of energy or vitality.",
-     "chinese": "虛脫;衰弱"
+     "chinese": "虛脫；衰弱"
     }
    },
    {
     "word": "enormity",
     "pos": "n.",
     "definition": "The great or extreme scale, seriousness, or extent of something.",
-    "chinese": "巨大;嚴重性",
+    "chinese": "巨大；嚴重性",
     "synonyms": "",
     "root": "e- (out) + norma (rule, pattern), from Latin",
     "group": "ex = 向外",
@@ -155,14 +155,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The great or extreme scale, seriousness, or extent of something.",
-     "chinese": "巨大;嚴重性"
+     "chinese": "巨大；嚴重性"
     }
    },
    {
     "word": "enormousness",
     "pos": "n.",
     "definition": "The quality of being extremely large.",
-    "chinese": "巨大;龐大",
+    "chinese": "巨大；龐大",
     "synonyms": "",
     "root": "e- (out) + norma (rule, pattern), from Latin",
     "group": "ex = 向外",
@@ -174,14 +174,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being extremely large.",
-     "chinese": "巨大;龐大"
+     "chinese": "巨大；龐大"
     }
    },
    {
     "word": "enumerate",
     "pos": "v.",
     "definition": "To mention a number of things one by one.",
-    "chinese": "列舉;枚舉",
+    "chinese": "列舉；枚舉",
     "synonyms": "",
     "root": "e- (out) + numerus (number), from Latin",
     "group": "ex = 向外",
@@ -193,7 +193,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To mention a number of things one by one.",
-     "chinese": "列舉;枚舉"
+     "chinese": "列舉；枚舉"
     }
    },
    {
@@ -240,7 +240,7 @@ window.FLASHCARD_UNITS = {
     "word": "erase",
     "pos": "v.",
     "definition": "To rub out or remove something completely.",
-    "chinese": "擦除;抹去",
+    "chinese": "擦除；抹去",
     "synonyms": "",
     "root": "e- (out) + radere (to scrape), from Latin",
     "group": "ex = 向外",
@@ -252,7 +252,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To rub out or remove something completely.",
-     "chinese": "擦除;抹去"
+     "chinese": "擦除；抹去"
     }
    },
    {
@@ -278,7 +278,7 @@ window.FLASHCARD_UNITS = {
     "word": "erudition",
     "pos": "n.",
     "definition": "Extensive knowledge gained through study.",
-    "chinese": "博學;學識淵博",
+    "chinese": "博學；學識淵博",
     "synonyms": "",
     "root": "e- (out) + rudis (rough, untrained), from Latin",
     "group": "ex = 向外",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extensive knowledge gained through study.",
-     "chinese": "博學;學識淵博"
+     "chinese": "博學；學識淵博"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "escort",
     "pos": "n./v.",
     "definition": "A person or group accompanying another for protection or guidance.",
-    "chinese": "護送;護衛",
+    "chinese": "護送；護衛",
     "synonyms": "",
     "root": "ex- (out) + corrigere (to correct), from Latin, via Old Italian scorta",
     "group": "ex = 向外",
@@ -328,7 +328,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person or group accompanying another for protection or guidance.",
-     "chinese": "護送;護衛"
+     "chinese": "護送；護衛"
     }
    },
    {
@@ -354,7 +354,7 @@ window.FLASHCARD_UNITS = {
     "word": "evacuate",
     "pos": "v.",
     "definition": "To remove people from a place of danger.",
-    "chinese": "撤離;疏散",
+    "chinese": "撤離；疏散",
     "synonyms": "",
     "root": "e- (out) + vacuus (empty), from Latin",
     "group": "ex = 向外",
@@ -368,7 +368,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To remove people from a place of danger.",
-     "chinese": "撤離;疏散"
+     "chinese": "撤離；疏散"
     }
    },
    {
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
     "word": "evasive",
     "pos": "adj.",
     "definition": "Tending to avoid commitment or directness.",
-    "chinese": "逃避的;閃爍其詞的",
+    "chinese": "逃避的；閃爍其詞的",
     "synonyms": "",
     "root": "e- (out) + vadere (to go), from Latin",
     "group": "ex = 向外",
@@ -425,7 +425,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Tending to avoid commitment or directness.",
-     "chinese": "逃避的;閃爍其詞的"
+     "chinese": "逃避的；閃爍其詞的"
     }
    },
    {
@@ -472,7 +472,7 @@ window.FLASHCARD_UNITS = {
     "word": "evident",
     "pos": "adj.",
     "definition": "Clearly seen or understood; obvious.",
-    "chinese": "明顯的;顯而易見的",
+    "chinese": "明顯的；顯而易見的",
     "synonyms": "",
     "root": "e- (out) + videre (to see), from Latin",
     "group": "ex = 向外",
@@ -484,7 +484,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearly seen or understood; obvious.",
-     "chinese": "明顯的;顯而易見的"
+     "chinese": "明顯的；顯而易見的"
     }
    },
    {
@@ -512,7 +512,7 @@ window.FLASHCARD_UNITS = {
     "word": "eviscerate",
     "pos": "v.",
     "definition": "To disembowel; to remove the essential content from something.",
-    "chinese": "取出內臟;使空洞化",
+    "chinese": "取出內臟；使空洞化",
     "synonyms": "",
     "root": "e- (out) + viscera (internal organs), from Latin",
     "group": "ex = 向外",
@@ -524,14 +524,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To disembowel; to remove the essential content from something.",
-     "chinese": "取出內臟;使空洞化"
+     "chinese": "取出內臟；使空洞化"
     }
    },
    {
     "word": "evocation",
     "pos": "n.",
     "definition": "The act of bringing a feeling or memory to mind.",
-    "chinese": "喚起;召喚",
+    "chinese": "喚起；召喚",
     "synonyms": "",
     "root": "e- (out) + vocare (to call), from Latin",
     "group": "ex = 向外",
@@ -543,14 +543,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of bringing a feeling or memory to mind.",
-     "chinese": "喚起;召喚"
+     "chinese": "喚起；召喚"
     }
    },
    {
     "word": "evocative",
     "pos": "adj.",
     "definition": "Bringing strong images, memories, or feelings to mind.",
-    "chinese": "喚起回憶的;引發聯想的",
+    "chinese": "喚起回憶的；引發聯想的",
     "synonyms": "",
     "root": "e- (out) + vocare (to call), from Latin",
     "group": "ex = 向外",
@@ -562,7 +562,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Bringing strong images, memories, or feelings to mind.",
-     "chinese": "喚起回憶的;引發聯想的"
+     "chinese": "喚起回憶的；引發聯想的"
     }
    },
    {
@@ -591,7 +591,7 @@ window.FLASHCARD_UNITS = {
     "word": "evolve",
     "pos": "v.",
     "definition": "To develop gradually, especially from a simpler to a more complex form.",
-    "chinese": "演化;逐漸發展",
+    "chinese": "演化；逐漸發展",
     "synonyms": "",
     "root": "e-/ex- (out) + volvo (roll), from Latin",
     "group": "ex = 向外",
@@ -603,7 +603,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To develop gradually, especially from a simpler to a more complex form.",
-     "chinese": "演化;逐漸發展"
+     "chinese": "演化；逐漸發展"
     }
    },
    {
@@ -707,7 +707,7 @@ window.FLASHCARD_UNITS = {
     "word": "exaltation",
     "pos": "n.",
     "definition": "A feeling of intense happiness or triumph.",
-    "chinese": "狂喜;興高采烈",
+    "chinese": "狂喜；興高采烈",
     "synonyms": "",
     "root": "ex- (out) + altus (high), from Latin",
     "group": "ex = 向外",
@@ -719,14 +719,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of intense happiness or triumph.",
-     "chinese": "狂喜;興高采烈"
+     "chinese": "狂喜；興高采烈"
     }
    },
    {
     "word": "exalted",
     "pos": "adj.",
     "definition": "Held in high regard; elevated in rank or status.",
-    "chinese": "崇高的;地位顯赫的",
+    "chinese": "崇高的；地位顯赫的",
     "synonyms": "",
     "root": "ex- (out) + altus (high), from Latin",
     "group": "ex = 向外",
@@ -738,7 +738,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Held in high regard; elevated in rank or status.",
-     "chinese": "崇高的;地位顯赫的"
+     "chinese": "崇高的；地位顯赫的"
     }
    },
    {
@@ -804,7 +804,7 @@ window.FLASHCARD_UNITS = {
     "word": "exceptional",
     "pos": "adj.",
     "definition": "Unusually excellent; not typical.",
-    "chinese": "傑出的;異常的",
+    "chinese": "傑出的；異常的",
     "synonyms": "",
     "root": "ex- (out) + capere (to take), from Latin",
     "group": "ex = 向外",
@@ -816,7 +816,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unusually excellent; not typical.",
-     "chinese": "傑出的;異常的"
+     "chinese": "傑出的；異常的"
     }
    },
    {
@@ -842,7 +842,7 @@ window.FLASHCARD_UNITS = {
     "word": "excess",
     "pos": "n./adj.",
     "definition": "An amount beyond what is necessary or normal.",
-    "chinese": "過度;過剩",
+    "chinese": "過度；過剩",
     "synonyms": "",
     "root": "ex- (out) + cedere (to go), from Latin",
     "group": "ex = 向外",
@@ -854,14 +854,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An amount beyond what is necessary or normal.",
-     "chinese": "過度;過剩"
+     "chinese": "過度；過剩"
     }
    },
    {
     "word": "excessive",
     "pos": "adj.",
     "definition": "More than what is necessary or reasonable.",
-    "chinese": "過度的;過分的",
+    "chinese": "過度的；過分的",
     "synonyms": "",
     "root": "ex- (out) + cedere (to go), from Latin",
     "group": "ex = 向外",
@@ -873,7 +873,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "More than what is necessary or reasonable.",
-     "chinese": "過度的;過分的"
+     "chinese": "過度的；過分的"
     }
    },
    {
@@ -920,7 +920,7 @@ window.FLASHCARD_UNITS = {
     "word": "excoriation",
     "pos": "n.",
     "definition": "An area of skin that has been scraped or worn away; severe criticism.",
-    "chinese": "皮膚擦傷;嚴厲斥責",
+    "chinese": "皮膚擦傷；嚴厲斥責",
     "synonyms": "",
     "root": "ex- (off) + corium (skin, hide), from Latin",
     "group": "ex = 向外",
@@ -932,14 +932,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An area of skin that has been scraped or worn away; severe criticism.",
-     "chinese": "皮膚擦傷;嚴厲斥責"
+     "chinese": "皮膚擦傷；嚴厲斥責"
     }
    },
    {
     "word": "excrescence",
     "pos": "n.",
     "definition": "An abnormal outgrowth on a body or plant; an unattractive addition.",
-    "chinese": "贅生物;不協調的附加物",
+    "chinese": "贅生物；不協調的附加物",
     "synonyms": "",
     "root": "ex- (out) + crescere (to grow), from Latin",
     "group": "ex = 向外",
@@ -951,14 +951,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An abnormal outgrowth on a body or plant; an unattractive addition.",
-     "chinese": "贅生物;不協調的附加物"
+     "chinese": "贅生物；不協調的附加物"
     }
    },
    {
     "word": "excrescent",
     "pos": "adj.",
     "definition": "Forming an abnormal or unnecessary outgrowth.",
-    "chinese": "贅生的;多餘的",
+    "chinese": "贅生的；多餘的",
     "synonyms": "",
     "root": "ex- (out) + crescere (to grow), from Latin",
     "group": "ex = 向外",
@@ -970,7 +970,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Forming an abnormal or unnecessary outgrowth.",
-     "chinese": "贅生的;多餘的"
+     "chinese": "贅生的；多餘的"
     }
    }
   ],
@@ -2179,4 +2179,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"emission": ["The production and discharge of something, especially gas.", "排放;釋放"], "emit": ["To give off.", "發出；散發"], "emollient": ["Soothing.", "舒緩的；軟化的"], "emote": ["To express emotion.", "表達情感；演出情緒"], "enervate": ["To weaken, exhaust.", "使衰弱；使無力"], "enervated": ["Drained of energy or vitality.", "虛弱無力的;疲憊的"], "enervation": ["The state of being drained of energy or vitality.", "虛脫;衰弱"], "enormity": ["The great or extreme scale, seriousness, or extent of something.", "巨大;嚴重性"], "enormousness": ["The quality of being extremely large.", "巨大;龐大"], "enumerate": ["To mention a number of things one by one.", "列舉;枚舉"], "enunciate": ["To express, proclaim.", "闡明；清晰發音"], "eradicate": ["To wipe out.", "根除；消滅"], "erase": ["To rub out or remove something completely.", "擦除;抹去"], "erudite": ["Very scholarly.", "博學的"], "erudition": ["Extensive knowledge gained through study.", "博學;學識淵博"], "eruption": ["Bursting out.", "爆發"], "escort": ["A person or group accompanying another for protection or guidance.", "護送;護衛"], "esteem": ["To value highly; to have great regard for.", "敬重"], "evacuate": ["To remove people from a place of danger.", "撤離;疏散"], "evaluate": ["Appraise, find the value of.", "評估；評價"], "evanescent": ["Fleeting, passing, momentary.", "瞬息即逝的"], "evasive": ["Tending to avoid commitment or directness.", "逃避的;閃爍其詞的"], "eventuate": ["To result finally.", "最終導致；結果是"], "evidence": ["Information that supports a conclusion.", "證據"], "evident": ["Clearly seen or understood; obvious.", "明顯的;顯而易見的"], "evince": ["To show plainly, exhibit.", "表明；顯示"], "eviscerate": ["To disembowel; to remove the essential content from something.", "取出內臟;使空洞化"], "evocation": ["The act of bringing a feeling or memory to mind.", "喚起;召喚"], "evocative": ["Bringing strong images, memories, or feelings to mind.", "喚起回憶的;引發聯想的"], "evoke": ["To draw forth or call up.", "喚起；引起"], "evolve": ["To develop gradually, especially from a simpler to a more complex form.", "演化;逐漸發展"], "exacerbate": ["To irritate, make worse.", "惡化；激怒"], "exacting": ["Requiring a great deal of care or effort; painstaking.", "嚴格要求的"], "exactitude": ["The quality of being precise or accurate.", "精確性"], "exaggerate": ["To overstate or magnify beyond the truth.", "誇大"], "exalt": ["To praise or glorify; to lift up in status, dignity, power.", "讚揚；提升"], "exaltation": ["A feeling of intense happiness or triumph.", "狂喜;興高采烈"], "exalted": ["Held in high regard; elevated in rank or status.", "崇高的;地位顯赫的"], "exasperate": ["To irritate, irk.", "激怒；使惱火"], "excavate": ["To dig out of the ground and remove.", "挖掘；開鑿"], "exceed": ["To go beyond a limit.", "超過；超越"], "exceptional": ["Unusually excellent; not typical.", "傑出的;異常的"], "excerpt": ["A portion of a text or musical piece that is taken, or extracted, from the whole.", "摘錄"], "excess": ["An amount beyond what is necessary or normal.", "過度;過剩"], "excessive": ["More than what is necessary or reasonable.", "過度的;過分的"], "excited": ["Feeling great enthusiasm or eagerness.", "興奮的"], "excoriate": ["To criticize severely.", "嚴厲批評；痛斥"], "excoriation": ["An area of skin that has been scraped or worn away; severe criticism.", "皮膚擦傷;嚴厲斥責"], "excrescence": ["An abnormal outgrowth on a body or plant; an unattractive addition.", "贅生物;不協調的附加物"], "excrescent": ["Forming an abnormal or unnecessary outgrowth.", "贅生的;多餘的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"emission": ["The production and discharge of something, especially gas.", "排放；釋放"], "emit": ["To give off.", "發出；散發"], "emollient": ["Soothing.", "舒緩的；軟化的"], "emote": ["To express emotion.", "表達情感；演出情緒"], "enervate": ["To weaken, exhaust.", "使衰弱；使無力"], "enervated": ["Drained of energy or vitality.", "虛弱無力的；疲憊的"], "enervation": ["The state of being drained of energy or vitality.", "虛脫；衰弱"], "enormity": ["The great or extreme scale, seriousness, or extent of something.", "巨大；嚴重性"], "enormousness": ["The quality of being extremely large.", "巨大；龐大"], "enumerate": ["To mention a number of things one by one.", "列舉；枚舉"], "enunciate": ["To express, proclaim.", "闡明；清晰發音"], "eradicate": ["To wipe out.", "根除；消滅"], "erase": ["To rub out or remove something completely.", "擦除；抹去"], "erudite": ["Very scholarly.", "博學的"], "erudition": ["Extensive knowledge gained through study.", "博學；學識淵博"], "eruption": ["Bursting out.", "爆發"], "escort": ["A person or group accompanying another for protection or guidance.", "護送；護衛"], "esteem": ["To value highly; to have great regard for.", "敬重"], "evacuate": ["To remove people from a place of danger.", "撤離；疏散"], "evaluate": ["Appraise, find the value of.", "評估；評價"], "evanescent": ["Fleeting, passing, momentary.", "瞬息即逝的"], "evasive": ["Tending to avoid commitment or directness.", "逃避的；閃爍其詞的"], "eventuate": ["To result finally.", "最終導致；結果是"], "evidence": ["Information that supports a conclusion.", "證據"], "evident": ["Clearly seen or understood; obvious.", "明顯的；顯而易見的"], "evince": ["To show plainly, exhibit.", "表明；顯示"], "eviscerate": ["To disembowel; to remove the essential content from something.", "取出內臟；使空洞化"], "evocation": ["The act of bringing a feeling or memory to mind.", "喚起；召喚"], "evocative": ["Bringing strong images, memories, or feelings to mind.", "喚起回憶的；引發聯想的"], "evoke": ["To draw forth or call up.", "喚起；引起"], "evolve": ["To develop gradually, especially from a simpler to a more complex form.", "演化；逐漸發展"], "exacerbate": ["To irritate, make worse.", "惡化；激怒"], "exacting": ["Requiring a great deal of care or effort; painstaking.", "嚴格要求的"], "exactitude": ["The quality of being precise or accurate.", "精確性"], "exaggerate": ["To overstate or magnify beyond the truth.", "誇大"], "exalt": ["To praise or glorify; to lift up in status, dignity, power.", "讚揚；提升"], "exaltation": ["A feeling of intense happiness or triumph.", "狂喜；興高采烈"], "exalted": ["Held in high regard; elevated in rank or status.", "崇高的；地位顯赫的"], "exasperate": ["To irritate, irk.", "激怒；使惱火"], "excavate": ["To dig out of the ground and remove.", "挖掘；開鑿"], "exceed": ["To go beyond a limit.", "超過；超越"], "exceptional": ["Unusually excellent; not typical.", "傑出的；異常的"], "excerpt": ["A portion of a text or musical piece that is taken, or extracted, from the whole.", "摘錄"], "excess": ["An amount beyond what is necessary or normal.", "過度；過剩"], "excessive": ["More than what is necessary or reasonable.", "過度的；過分的"], "excited": ["Feeling great enthusiasm or eagerness.", "興奮的"], "excoriate": ["To criticize severely.", "嚴厲批評；痛斥"], "excoriation": ["An area of skin that has been scraped or worn away; severe criticism.", "皮膚擦傷；嚴厲斥責"], "excrescence": ["An abnormal outgrowth on a body or plant; an unattractive addition.", "贅生物；不協調的附加物"], "excrescent": ["Forming an abnormal or unnecessary outgrowth.", "贅生的；多餘的"]});

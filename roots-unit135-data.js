@@ -120,7 +120,7 @@ window.FLASHCARD_UNITS = {
     "word": "auspice",
     "pos": "n.",
     "definition": "Patronage and support; (usually plural) an omen.",
-    "chinese": "贊助;吉兆",
+    "chinese": "贊助；吉兆",
     "synonyms": "",
     "root": "avis (bird) + specere (to look at), from Latin",
     "group": "spec = 看",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Patronage and support; (usually plural) an omen.",
-     "chinese": "贊助;吉兆"
+     "chinese": "贊助；吉兆"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "conspectus",
     "pos": "n.",
     "definition": "A general survey or summary of a subject.",
-    "chinese": "概覽;綜覽",
+    "chinese": "概覽；綜覽",
     "synonyms": "",
     "root": "con- (together) + specere (to look), from Latin",
     "group": "spec = 看",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A general survey or summary of a subject.",
-     "chinese": "概覽;綜覽"
+     "chinese": "概覽；綜覽"
     }
    },
    {
     "word": "despicable",
     "pos": "adj.",
     "definition": "Deserving hatred and contempt.",
-    "chinese": "可鄙的;卑劣的",
+    "chinese": "可鄙的；卑劣的",
     "synonyms": "",
     "root": "de- (down) + specere (to look), from Latin",
     "group": "spec = 看",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Deserving hatred and contempt.",
-     "chinese": "可鄙的;卑劣的"
+     "chinese": "可鄙的；卑劣的"
     }
    },
    {
     "word": "introspection",
     "pos": "n.",
     "definition": "The examination of one's own thoughts and feelings.",
-    "chinese": "內省;反省",
+    "chinese": "內省；反省",
     "synonyms": "",
     "root": "intro- (inward) + specere (to look), from Latin",
     "group": "spec = 看",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The examination of one's own thoughts and feelings.",
-     "chinese": "內省;反省"
+     "chinese": "內省；反省"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "perspicuity",
     "pos": "n.",
     "definition": "Clearness of expression or statement.",
-    "chinese": "明晰;清楚易懂",
+    "chinese": "明晰；清楚易懂",
     "synonyms": "",
     "root": "per- (through) + specere (to look), from Latin",
     "group": "spec = 看",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearness of expression or statement.",
-     "chinese": "明晰;清楚易懂"
+     "chinese": "明晰；清楚易懂"
     }
    },
    {
@@ -272,7 +272,7 @@ window.FLASHCARD_UNITS = {
     "word": "prospect",
     "pos": "n./v.",
     "definition": "The possibility of something happening in the future; a potential customer.",
-    "chinese": "前景;潛在客戶",
+    "chinese": "前景；潛在客戶",
     "synonyms": "",
     "root": "pro- (forward) + specere (to look), from Latin",
     "group": "spec = 看",
@@ -284,14 +284,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The possibility of something happening in the future; a potential customer.",
-     "chinese": "前景;潛在客戶"
+     "chinese": "前景；潛在客戶"
     }
    },
    {
     "word": "specify",
     "pos": "v.",
     "definition": "To state something clearly and precisely.",
-    "chinese": "明確指定;詳細說明",
+    "chinese": "明確指定；詳細說明",
     "synonyms": "",
     "root": "species (kind) + facere (to make), from Latin",
     "group": "spec = 看",
@@ -303,14 +303,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To state something clearly and precisely.",
-     "chinese": "明確指定;詳細說明"
+     "chinese": "明確指定；詳細說明"
     }
    },
    {
     "word": "specious",
     "pos": "adj.",
     "definition": "Appearing true or plausible but actually false.",
-    "chinese": "似是而非的;貌似有理的",
+    "chinese": "似是而非的；貌似有理的",
     "synonyms": "",
     "root": "speciosus (good-looking, plausible), from Latin species (appearance)",
     "group": "spec = 看",
@@ -322,14 +322,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Appearing true or plausible but actually false.",
-     "chinese": "似是而非的;貌似有理的"
+     "chinese": "似是而非的；貌似有理的"
     }
    },
    {
     "word": "spectacle",
     "pos": "n.",
     "definition": "A visually striking public display or performance.",
-    "chinese": "奇觀;壯觀的場面",
+    "chinese": "奇觀；壯觀的場面",
     "synonyms": "",
     "root": "spectaculum, from Latin spectare (to watch)",
     "group": "spec = 看",
@@ -341,14 +341,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A visually striking public display or performance.",
-     "chinese": "奇觀;壯觀的場面"
+     "chinese": "奇觀；壯觀的場面"
     }
    },
    {
     "word": "spectacular",
     "pos": "adj.",
     "definition": "Beautiful or dramatic in a way that impresses.",
-    "chinese": "壯觀的;令人驚嘆的",
+    "chinese": "壯觀的；令人驚嘆的",
     "synonyms": "",
     "root": "spectaculum, from Latin spectare (to watch)",
     "group": "spec = 看",
@@ -360,14 +360,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Beautiful or dramatic in a way that impresses.",
-     "chinese": "壯觀的;令人驚嘆的"
+     "chinese": "壯觀的；令人驚嘆的"
     }
    },
    {
     "word": "spectator",
     "pos": "n.",
     "definition": "A person who watches an event without participating.",
-    "chinese": "觀眾;旁觀者",
+    "chinese": "觀眾；旁觀者",
     "synonyms": "",
     "root": "spectare (to watch), from Latin",
     "group": "spec = 看",
@@ -381,7 +381,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who watches an event without participating.",
-     "chinese": "觀眾;旁觀者"
+     "chinese": "觀眾；旁觀者"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "suspect",
     "pos": "v./n./adj.",
     "definition": "To believe something is likely without proof; a person thought guilty.",
-    "chinese": "懷疑;嫌疑犯",
+    "chinese": "懷疑；嫌疑犯",
     "synonyms": "",
     "root": "suspicere, from Latin sub- (under) + specere (to look)",
     "group": "spec = 看",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To believe something is likely without proof; a person thought guilty.",
-     "chinese": "懷疑;嫌疑犯"
+     "chinese": "懷疑；嫌疑犯"
     }
    }
   ],
@@ -1001,4 +1001,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"introspective": ["Looking into one's own feelings.", "內省的；反省的"], "perspicacious": ["Acutely perceptive, shrewd.", "有洞察力的"], "retrospect": ["Looking backward.", "回顧；追溯"], "circumspect": ["Careful and cautious before acting.", "謹慎周到的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "auspex": ["A person who observes and interprets omens, especially from the flight of birds.", "占鳥師"], "auspice": ["Patronage and support; (usually plural) an omen.", "贊助;吉兆"], "auspicious": ["Favorable, indicative of good things.", "吉利的；預示好兆頭的"], "conspectus": ["A general survey or summary of a subject.", "概覽;綜覽"], "despicable": ["Deserving hatred and contempt.", "可鄙的;卑劣的"], "introspection": ["The examination of one's own thoughts and feelings.", "內省;反省"], "perspicacity": ["Shrewdness, perceptiveness.", "敏銳；洞察力"], "perspicuity": ["Clearness of expression or statement.", "明晰;清楚易懂"], "perspicuous": ["Clearly expressed and easily understood.", "清晰明瞭的"], "prospect": ["The possibility of something happening in the future; a potential customer.", "前景;潛在客戶"], "specify": ["To state something clearly and precisely.", "明確指定;詳細說明"], "specious": ["Appearing true or plausible but actually false.", "似是而非的;貌似有理的"], "spectacle": ["A visually striking public display or performance.", "奇觀;壯觀的場面"], "spectacular": ["Beautiful or dramatic in a way that impresses.", "壯觀的;令人驚嘆的"], "spectator": ["A person who watches an event without participating.", "觀眾;旁觀者"], "speculate": ["To form a theory or conjecture without sufficient evidence; to guess.", "推測；臆測"], "speculative": ["Not based in fact.", "臆測的；投機性的"], "suspect": ["To believe something is likely without proof; a person thought guilty.", "懷疑;嫌疑犯"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"introspective": ["Looking into one's own feelings.", "內省的；反省的"], "perspicacious": ["Acutely perceptive, shrewd.", "有洞察力的"], "retrospect": ["Looking backward.", "回顧；追溯"], "circumspect": ["Careful and cautious before acting.", "謹慎周到的"], "inconspicuous": ["Hardly noticeable.", "不顯眼的"], "auspex": ["A person who observes and interprets omens, especially from the flight of birds.", "占鳥師"], "auspice": ["Patronage and support; (usually plural) an omen.", "贊助；吉兆"], "auspicious": ["Favorable, indicative of good things.", "吉利的；預示好兆頭的"], "conspectus": ["A general survey or summary of a subject.", "概覽；綜覽"], "despicable": ["Deserving hatred and contempt.", "可鄙的；卑劣的"], "introspection": ["The examination of one's own thoughts and feelings.", "內省；反省"], "perspicacity": ["Shrewdness, perceptiveness.", "敏銳；洞察力"], "perspicuity": ["Clearness of expression or statement.", "明晰；清楚易懂"], "perspicuous": ["Clearly expressed and easily understood.", "清晰明瞭的"], "prospect": ["The possibility of something happening in the future; a potential customer.", "前景；潛在客戶"], "specify": ["To state something clearly and precisely.", "明確指定；詳細說明"], "specious": ["Appearing true or plausible but actually false.", "似是而非的；貌似有理的"], "spectacle": ["A visually striking public display or performance.", "奇觀；壯觀的場面"], "spectacular": ["Beautiful or dramatic in a way that impresses.", "壯觀的；令人驚嘆的"], "spectator": ["A person who watches an event without participating.", "觀眾；旁觀者"], "speculate": ["To form a theory or conjecture without sufficient evidence; to guess.", "推測；臆測"], "speculative": ["Not based in fact.", "臆測的；投機性的"], "suspect": ["To believe something is likely without proof; a person thought guilty.", "懷疑；嫌疑犯"]});

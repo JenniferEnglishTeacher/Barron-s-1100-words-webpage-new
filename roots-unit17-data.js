@@ -65,7 +65,7 @@ window.FLASHCARD_UNITS = {
     "word": "contrarianism",
     "pos": "n.",
     "definition": "The practice of opposing popular opinion on principle.",
-    "chinese": "逆向思維;唱反調",
+    "chinese": "逆向思維；唱反調",
     "synonyms": "",
     "root": "contra- (against) + -ian + -ism (practice of)",
     "group": "contra；contro；counter = 反對；對抗",
@@ -77,7 +77,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The practice of opposing popular opinion on principle.",
-     "chinese": "逆向思維;唱反調"
+     "chinese": "逆向思維；唱反調"
     }
    },
    {
@@ -124,7 +124,7 @@ window.FLASHCARD_UNITS = {
     "word": "controvert",
     "pos": "v.",
     "definition": "To deny or dispute the truth of something.",
-    "chinese": "反駁;否認",
+    "chinese": "反駁；否認",
     "synonyms": "",
     "root": "contra- (against) + vertere (to turn), from Latin",
     "group": "contra；contro；counter = 反對；對抗",
@@ -138,7 +138,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To deny or dispute the truth of something.",
-     "chinese": "反駁;否認"
+     "chinese": "反駁；否認"
     }
    },
    {
@@ -401,4 +401,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "controversial": ["Debatable.", "有爭議的"], "contradict": ["To be in contrast with.", "反駁；矛盾"], "contrarianism": ["The practice of opposing popular opinion on principle.", "逆向思維;唱反調"], "contravene": ["To contradict, oppose, violate.", "違反；牴觸"], "controversy": ["Prolonged public dispute or disagreement.", "爭議"], "controvert": ["To deny or dispute the truth of something.", "反駁;否認"], "counteract": ["To work in opposition to.", "抵消；抵銷"], "counterintuitive": ["Contrary to what intuition would suggest.", "違反直覺的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"incontrovertible": ["Undeniable.", "無可辯駁的；不容置疑的"], "controversial": ["Debatable.", "有爭議的"], "contradict": ["To be in contrast with.", "反駁；矛盾"], "contrarianism": ["The practice of opposing popular opinion on principle.", "逆向思維；唱反調"], "contravene": ["To contradict, oppose, violate.", "違反；牴觸"], "controversy": ["Prolonged public dispute or disagreement.", "爭議"], "controvert": ["To deny or dispute the truth of something.", "反駁；否認"], "counteract": ["To work in opposition to.", "抵消；抵銷"], "counterintuitive": ["Contrary to what intuition would suggest.", "違反直覺的"]});

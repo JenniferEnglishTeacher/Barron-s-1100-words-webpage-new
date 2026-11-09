@@ -44,7 +44,7 @@ window.FLASHCARD_UNITS = {
     "word": "quash",
     "pos": "v.",
     "definition": "To reject or void, especially by legal authority; to suppress.",
-    "chinese": "駁回;鎮壓",
+    "chinese": "駁回；鎮壓",
     "synonyms": "",
     "root": "quassare (to shatter), from Latin quatere (to shake)",
     "group": "",
@@ -56,7 +56,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To reject or void, especially by legal authority; to suppress.",
-     "chinese": "駁回;鎮壓"
+     "chinese": "駁回；鎮壓"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "quibble",
     "pos": "n./v.",
     "definition": "A minor objection or complaint; to argue about a trivial matter.",
-    "chinese": "小爭論;吹毛求疵",
+    "chinese": "小爭論；吹毛求疵",
     "synonyms": "",
     "root": "of uncertain origin, possibly a diminutive of quip",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A minor objection or complaint; to argue about a trivial matter.",
-     "chinese": "小爭論;吹毛求疵"
+     "chinese": "小爭論；吹毛求疵"
     }
    },
    {
@@ -139,7 +139,7 @@ window.FLASHCARD_UNITS = {
     "word": "quick",
     "pos": "adj.",
     "definition": "Moving fast; happening in a short time.",
-    "chinese": "快速的;敏捷的",
+    "chinese": "快速的；敏捷的",
     "synonyms": "",
     "root": "cwic (alive), from Old English, originally meaning 'living'",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Moving fast; happening in a short time.",
-     "chinese": "快速的;敏捷的"
+     "chinese": "快速的；敏捷的"
     }
    },
    {
     "word": "quicken",
     "pos": "v.",
     "definition": "To make or become faster; to stimulate.",
-    "chinese": "加快;使活躍",
+    "chinese": "加快；使活躍",
     "synonyms": "",
     "root": "cwic (alive), from Old English, originally meaning 'to bring to life'",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become faster; to stimulate.",
-     "chinese": "加快;使活躍"
+     "chinese": "加快；使活躍"
     }
    },
    {
     "word": "quickness",
     "pos": "n.",
     "definition": "The quality of being fast or swift.",
-    "chinese": "敏捷;快速",
+    "chinese": "敏捷；快速",
     "synonyms": "",
     "root": "cwic (alive), from Old English, originally meaning 'liveliness'",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The quality of being fast or swift.",
-     "chinese": "敏捷;快速"
+     "chinese": "敏捷；快速"
     }
    },
    {
     "word": "quid pro quo",
     "pos": "n.",
     "definition": "A favor or advantage granted in return for something.",
-    "chinese": "交換條件;等價回報",
+    "chinese": "交換條件；等價回報",
     "synonyms": "",
     "root": "quid (something) + pro (for) + quo (something), from Latin",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A favor or advantage granted in return for something.",
-     "chinese": "交換條件;等價回報"
+     "chinese": "交換條件；等價回報"
     }
    },
    {
     "word": "quiddity",
     "pos": "n.",
     "definition": "The inherent nature or essence of something; a trivial point.",
-    "chinese": "本質;繁瑣細節",
+    "chinese": "本質；繁瑣細節",
     "synonyms": "",
     "root": "quidditas (whatness), from Latin quid (what)",
     "group": "",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The inherent nature or essence of something; a trivial point.",
-     "chinese": "本質;繁瑣細節"
+     "chinese": "本質；繁瑣細節"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "quiescence",
     "pos": "n.",
     "definition": "A state of quiet, inactivity, or dormancy.",
-    "chinese": "靜止;休眠狀態",
+    "chinese": "靜止；休眠狀態",
     "synonyms": "",
     "root": "quiescere (to become quiet), from Latin quies (rest)",
     "group": "",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of quiet, inactivity, or dormancy.",
-     "chinese": "靜止;休眠狀態"
+     "chinese": "靜止；休眠狀態"
     }
    },
    {
@@ -314,7 +314,7 @@ window.FLASHCARD_UNITS = {
     "word": "quintessence",
     "pos": "n.",
     "definition": "The most perfect or typical example of a quality.",
-    "chinese": "精髓;典範",
+    "chinese": "精髓；典範",
     "synonyms": "",
     "root": "quinta essentia (fifth essence), from Medieval Latin quintus (fifth) + essentia (essence)",
     "group": "",
@@ -326,14 +326,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The most perfect or typical example of a quality.",
-     "chinese": "精髓;典範"
+     "chinese": "精髓；典範"
     }
    },
    {
     "word": "quintessential",
     "pos": "adj.",
     "definition": "Representing the most perfect or typical example of something.",
-    "chinese": "典型的;精髓的",
+    "chinese": "典型的；精髓的",
     "synonyms": "",
     "root": "quinta essentia (fifth essence), from Medieval Latin quintus (fifth) + essentia (essence)",
     "group": "",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Representing the most perfect or typical example of something.",
-     "chinese": "典型的;精髓的"
+     "chinese": "典型的；精髓的"
     }
    },
    {
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
     "word": "quirk",
     "pos": "n.",
     "definition": "A peculiar behavioral habit; a strange twist of fate.",
-    "chinese": "怪癖;奇特之處",
+    "chinese": "怪癖；奇特之處",
     "synonyms": "",
     "root": "of uncertain origin, possibly related to Old English cweorra",
     "group": "",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A peculiar behavioral habit; a strange twist of fate.",
-     "chinese": "怪癖;奇特之處"
+     "chinese": "怪癖；奇特之處"
     }
    },
    {
@@ -409,7 +409,7 @@ window.FLASHCARD_UNITS = {
     "word": "quisling",
     "pos": "n.",
     "definition": "A traitor who collaborates with an occupying enemy force.",
-    "chinese": "叛徒;通敵者",
+    "chinese": "叛徒；通敵者",
     "synonyms": "",
     "root": "named after Vidkun Quisling, a Norwegian collaborator with Nazi Germany",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A traitor who collaborates with an occupying enemy force.",
-     "chinese": "叛徒;通敵者"
+     "chinese": "叛徒；通敵者"
     }
    },
    {
     "word": "quittance",
     "pos": "n.",
     "definition": "A document acknowledging that a debt has been paid; release from an obligation.",
-    "chinese": "免除債務證明;解除義務",
+    "chinese": "免除債務證明；解除義務",
     "synonyms": "",
     "root": "quitance (release, discharge), from Old French quiter (to release)",
     "group": "",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A document acknowledging that a debt has been paid; release from an obligation.",
-     "chinese": "免除債務證明;解除義務"
+     "chinese": "免除債務證明；解除義務"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "quote",
     "pos": "v./n.",
     "definition": "To repeat words from a text or speech; a passage repeated.",
-    "chinese": "引用;引語",
+    "chinese": "引用；引語",
     "synonyms": "",
     "root": "quotare (to mark with numbers), from Medieval Latin quotus (how many)",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To repeat words from a text or speech; a passage repeated.",
-     "chinese": "引用;引語"
+     "chinese": "引用；引語"
     }
    },
    {
@@ -542,7 +542,7 @@ window.FLASHCARD_UNITS = {
     "word": "radiant",
     "pos": "adj.",
     "definition": "Shining brightly; expressing great happiness.",
-    "chinese": "光芒四射的;容光煥發的",
+    "chinese": "光芒四射的；容光煥發的",
     "synonyms": "",
     "root": "radiare (to emit rays), from Latin radius (ray)",
     "group": "",
@@ -554,14 +554,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Shining brightly; expressing great happiness.",
-     "chinese": "光芒四射的;容光煥發的"
+     "chinese": "光芒四射的；容光煥發的"
     }
    },
    {
     "word": "radical",
     "pos": "adj./n.",
     "definition": "Advocating thorough or extreme change; a person holding such views.",
-    "chinese": "激進的;激進分子",
+    "chinese": "激進的；激進分子",
     "synonyms": "",
     "root": "radicalis (of roots), from Latin radix (root)",
     "group": "",
@@ -573,14 +573,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Advocating thorough or extreme change; a person holding such views.",
-     "chinese": "激進的;激進分子"
+     "chinese": "激進的；激進分子"
     }
    },
    {
     "word": "raffish",
     "pos": "adj.",
     "definition": "Unconventional and slightly disreputable in an attractive way.",
-    "chinese": "不拘小節且有魅力的;放蕩不羈的",
+    "chinese": "不拘小節且有魅力的；放蕩不羈的",
     "synonyms": "",
     "root": "riffraff (rabble), from Old French rif et raf (one and all)",
     "group": "",
@@ -592,14 +592,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unconventional and slightly disreputable in an attractive way.",
-     "chinese": "不拘小節且有魅力的;放蕩不羈的"
+     "chinese": "不拘小節且有魅力的；放蕩不羈的"
     }
    },
    {
     "word": "rage",
     "pos": "n./v.",
     "definition": "Violent, uncontrollable anger; to feel or express such anger.",
-    "chinese": "盛怒;狂怒",
+    "chinese": "盛怒；狂怒",
     "synonyms": "",
     "root": "rabies (madness, rage), from Latin rabere (to rave)",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Violent, uncontrollable anger; to feel or express such anger.",
-     "chinese": "盛怒;狂怒"
+     "chinese": "盛怒；狂怒"
     }
    },
    {
@@ -639,7 +639,7 @@ window.FLASHCARD_UNITS = {
     "word": "raillery",
     "pos": "n.",
     "definition": "Good-humored teasing or banter.",
-    "chinese": "戲謔;打趣",
+    "chinese": "戲謔；打趣",
     "synonyms": "",
     "root": "railler (to mock), from French, of uncertain further origin",
     "group": "",
@@ -651,7 +651,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Good-humored teasing or banter.",
-     "chinese": "戲謔;打趣"
+     "chinese": "戲謔；打趣"
     }
    },
    {
@@ -677,7 +677,7 @@ window.FLASHCARD_UNITS = {
     "word": "raison d'etre",
     "pos": "n.",
     "definition": "The most important reason or purpose for someone's or something's existence.",
-    "chinese": "存在的理由;存在意義",
+    "chinese": "存在的理由；存在意義",
     "synonyms": "",
     "root": "raison (reason) + d'être (of being), from French",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The most important reason or purpose for someone's or something's existence.",
-     "chinese": "存在的理由;存在意義"
+     "chinese": "存在的理由；存在意義"
     }
    },
    {
     "word": "rake",
     "pos": "n./v.",
     "definition": "A dissolute man of fashion; to gather with a toothed tool.",
-    "chinese": "浪蕩子;耙",
+    "chinese": "浪蕩子；耙",
     "synonyms": "",
     "root": "rakel (rash, reckless), of uncertain Middle English origin",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A dissolute man of fashion; to gather with a toothed tool.",
-     "chinese": "浪蕩子;耙"
+     "chinese": "浪蕩子；耙"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "ramble",
     "pos": "v./n.",
     "definition": "To talk or write at length without a clear purpose; a leisurely walk.",
-    "chinese": "漫談;閒逛",
+    "chinese": "漫談；閒逛",
     "synonyms": "",
     "root": "romblen (to wander), from Middle Dutch, of uncertain origin",
     "group": "",
@@ -746,14 +746,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To talk or write at length without a clear purpose; a leisurely walk.",
-     "chinese": "漫談;閒逛"
+     "chinese": "漫談；閒逛"
     }
    },
    {
     "word": "ramification",
     "pos": "n.",
     "definition": "A consequence of an action, often complex or unwelcome.",
-    "chinese": "後果;分支影響",
+    "chinese": "後果；分支影響",
     "synonyms": "",
     "root": "ramus (branch), from Latin",
     "group": "",
@@ -767,14 +767,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A consequence of an action, often complex or unwelcome.",
-     "chinese": "後果;分支影響"
+     "chinese": "後果；分支影響"
     }
    },
    {
     "word": "ramifications",
     "pos": "n.",
     "definition": "The plural of ramification, consequences of an action.",
-    "chinese": "後果;影響(複數)",
+    "chinese": "後果；影響(複數)",
     "synonyms": "",
     "root": "ramus (branch), from Latin",
     "group": "",
@@ -786,7 +786,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The plural of ramification, consequences of an action.",
-     "chinese": "後果;影響(複數)"
+     "chinese": "後果；影響(複數)"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "range",
     "pos": "n./v.",
     "definition": "The area of variation between limits; to vary within limits.",
-    "chinese": "範圍;變化幅度",
+    "chinese": "範圍；變化幅度",
     "synonyms": "",
     "root": "reng (row, rank), from Old French renc, of Germanic origin",
     "group": "",
@@ -940,14 +940,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The area of variation between limits; to vary within limits.",
-     "chinese": "範圍;變化幅度"
+     "chinese": "範圍；變化幅度"
     }
    },
    {
     "word": "rank",
     "pos": "n./adj./v.",
     "definition": "A position within a hierarchy; having a strong unpleasant smell; to arrange in order.",
-    "chinese": "等級;惡臭的;排序",
+    "chinese": "等級；惡臭的；排序",
     "synonyms": "",
     "root": "reng (row, rank), from Old French renc, of Germanic origin",
     "group": "",
@@ -961,7 +961,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A position within a hierarchy; having a strong unpleasant smell; to arrange in order.",
-     "chinese": "等級;惡臭的;排序"
+     "chinese": "等級；惡臭的；排序"
     }
    }
   ],
@@ -2170,4 +2170,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quantity": ["An amount or number.", "數量"], "quarrel": ["An angry argument or dispute.", "爭吵"], "quash": ["To reject or void, especially by legal authority; to suppress.", "駁回;鎮壓"], "quell": ["Put an end to.", "平息"], "querulous": ["Whining; complaining.", "愛抱怨的"], "quibble": ["A minor objection or complaint; to argue about a trivial matter.", "小爭論;吹毛求疵"], "quibbling": ["Arguing or raising objections about trivial matters.", "吹毛求疵的"], "quick": ["Moving fast; happening in a short time.", "快速的;敏捷的"], "quicken": ["To make or become faster; to stimulate.", "加快;使活躍"], "quickness": ["The quality of being fast or swift.", "敏捷;快速"], "quid pro quo": ["A favor or advantage granted in return for something.", "交換條件;等價回報"], "quiddity": ["The inherent nature or essence of something; a trivial point.", "本質;繁瑣細節"], "quidnunc": ["A person eager to know the latest news or gossip.", "愛打聽消息的人"], "quiescence": ["A state of quiet, inactivity, or dormancy.", "靜止;休眠狀態"], "quiescent": ["Quiet; still; inactive.", "靜止的；不活動的"], "quinquagenarian": ["A person who is between 50 and 59 years old.", "五十多歲的人"], "quintessence": ["The most perfect or typical example of a quality.", "精髓;典範"], "quintessential": ["Representing the most perfect or typical example of something.", "典型的;精髓的"], "quip": ["To joke.", "嘲弄；說俏皮話"], "quirk": ["A peculiar behavioral habit; a strange twist of fate.", "怪癖;奇特之處"], "quisle": ["To betray one's country by collaborating with an occupying enemy.", "叛國通敵(罕見動詞)"], "quisling": ["A traitor who collaborates with an occupying enemy force.", "叛徒;通敵者"], "quittance": ["A document acknowledging that a debt has been paid; release from an obligation.", "免除債務證明;解除義務"], "quixotic": ["Extremely idealistic; unrealistic and impractical.", "不切實際的；唐吉訶德式的"], "quomodocunquize": ["To make money by any means possible, especially dishonest ones.", "不擇手段賺錢"], "quote": ["To repeat words from a text or speech; a passage repeated.", "引用;引語"], "quotidian": ["Daily.", "日常的；平凡的"], "rabid": ["Fanatical, furious, mad.", "狂熱的；瘋狂的"], "radiant": ["Shining brightly; expressing great happiness.", "光芒四射的;容光煥發的"], "radical": ["Advocating thorough or extreme change; a person holding such views.", "激進的;激進分子"], "raffish": ["Unconventional and slightly disreputable in an attractive way.", "不拘小節且有魅力的;放蕩不羈的"], "rage": ["Violent, uncontrollable anger; to feel or express such anger.", "盛怒;狂怒"], "rail": ["To use abusive language, scold.", "責罵；抱怨"], "raillery": ["Good-humored teasing or banter.", "戲謔;打趣"], "raiment": ["Clothing, dress.", "衣服；服飾"], "raison d'etre": ["The most important reason or purpose for someone's or something's existence.", "存在的理由;存在意義"], "rake": ["A dissolute man of fashion; to gather with a toothed tool.", "浪蕩子;耙"], "rakish": ["Dashing and slightly disreputable, especially in appearance.", "瀟灑不羈的"], "ramble": ["To talk or write at length without a clear purpose; a leisurely walk.", "漫談;閒逛"], "ramification": ["A consequence of an action, often complex or unwelcome.", "後果;分支影響"], "ramifications": ["The plural of ramification, consequences of an action.", "後果;影響(複數)"], "ramiform": ["Having the shape or structure of branches.", "分枝狀的"], "ramify": ["To split into two or more branches.", "分支；分岔"], "rampant": ["Going unchecked, widespread.", "猖獗的"], "ranch": ["A large farm used for raising livestock, especially in North America.", "牧場"], "rancid": ["Having a terrible taste or smell.", "腐臭的；酸敗的"], "rancor": ["Deep, bitter resentment.", "深仇；怨恨"], "rancorous": ["Deeply hateful or spiteful; malicious.", "深懷怨恨的"], "range": ["The area of variation between limits; to vary within limits.", "範圍;變化幅度"], "rank": ["A position within a hierarchy; having a strong unpleasant smell; to arrange in order.", "等級;惡臭的;排序"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quantity": ["An amount or number.", "數量"], "quarrel": ["An angry argument or dispute.", "爭吵"], "quash": ["To reject or void, especially by legal authority; to suppress.", "駁回；鎮壓"], "quell": ["Put an end to.", "平息"], "querulous": ["Whining; complaining.", "愛抱怨的"], "quibble": ["A minor objection or complaint; to argue about a trivial matter.", "小爭論；吹毛求疵"], "quibbling": ["Arguing or raising objections about trivial matters.", "吹毛求疵的"], "quick": ["Moving fast; happening in a short time.", "快速的；敏捷的"], "quicken": ["To make or become faster; to stimulate.", "加快；使活躍"], "quickness": ["The quality of being fast or swift.", "敏捷；快速"], "quid pro quo": ["A favor or advantage granted in return for something.", "交換條件；等價回報"], "quiddity": ["The inherent nature or essence of something; a trivial point.", "本質；繁瑣細節"], "quidnunc": ["A person eager to know the latest news or gossip.", "愛打聽消息的人"], "quiescence": ["A state of quiet, inactivity, or dormancy.", "靜止；休眠狀態"], "quiescent": ["Quiet; still; inactive.", "靜止的；不活動的"], "quinquagenarian": ["A person who is between 50 and 59 years old.", "五十多歲的人"], "quintessence": ["The most perfect or typical example of a quality.", "精髓；典範"], "quintessential": ["Representing the most perfect or typical example of something.", "典型的；精髓的"], "quip": ["To joke.", "嘲弄；說俏皮話"], "quirk": ["A peculiar behavioral habit; a strange twist of fate.", "怪癖；奇特之處"], "quisle": ["To betray one's country by collaborating with an occupying enemy.", "叛國通敵(罕見動詞)"], "quisling": ["A traitor who collaborates with an occupying enemy force.", "叛徒；通敵者"], "quittance": ["A document acknowledging that a debt has been paid; release from an obligation.", "免除債務證明；解除義務"], "quixotic": ["Extremely idealistic; unrealistic and impractical.", "不切實際的；唐吉訶德式的"], "quomodocunquize": ["To make money by any means possible, especially dishonest ones.", "不擇手段賺錢"], "quote": ["To repeat words from a text or speech; a passage repeated.", "引用；引語"], "quotidian": ["Daily.", "日常的；平凡的"], "rabid": ["Fanatical, furious, mad.", "狂熱的；瘋狂的"], "radiant": ["Shining brightly; expressing great happiness.", "光芒四射的；容光煥發的"], "radical": ["Advocating thorough or extreme change; a person holding such views.", "激進的；激進分子"], "raffish": ["Unconventional and slightly disreputable in an attractive way.", "不拘小節且有魅力的；放蕩不羈的"], "rage": ["Violent, uncontrollable anger; to feel or express such anger.", "盛怒；狂怒"], "rail": ["To use abusive language, scold.", "責罵；抱怨"], "raillery": ["Good-humored teasing or banter.", "戲謔；打趣"], "raiment": ["Clothing, dress.", "衣服；服飾"], "raison d'etre": ["The most important reason or purpose for someone's or something's existence.", "存在的理由；存在意義"], "rake": ["A dissolute man of fashion; to gather with a toothed tool.", "浪蕩子；耙"], "rakish": ["Dashing and slightly disreputable, especially in appearance.", "瀟灑不羈的"], "ramble": ["To talk or write at length without a clear purpose; a leisurely walk.", "漫談；閒逛"], "ramification": ["A consequence of an action, often complex or unwelcome.", "後果；分支影響"], "ramifications": ["The plural of ramification, consequences of an action.", "後果；影響(複數)"], "ramiform": ["Having the shape or structure of branches.", "分枝狀的"], "ramify": ["To split into two or more branches.", "分支；分岔"], "rampant": ["Going unchecked, widespread.", "猖獗的"], "ranch": ["A large farm used for raising livestock, especially in North America.", "牧場"], "rancid": ["Having a terrible taste or smell.", "腐臭的；酸敗的"], "rancor": ["Deep, bitter resentment.", "深仇；怨恨"], "rancorous": ["Deeply hateful or spiteful; malicious.", "深懷怨恨的"], "range": ["The area of variation between limits; to vary within limits.", "範圍；變化幅度"], "rank": ["A position within a hierarchy; having a strong unpleasant smell; to arrange in order.", "等級；惡臭的；排序"]});

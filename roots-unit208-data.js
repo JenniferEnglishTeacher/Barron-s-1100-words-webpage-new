@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
     "word": "paternity",
     "pos": "n.",
     "definition": "The state of being a father; fatherhood.",
-    "chinese": "父親身分;父權",
+    "chinese": "父親身分；父權",
     "synonyms": "",
     "root": "pater (father), from Latin",
     "group": "",
@@ -18,14 +18,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of being a father; fatherhood.",
-     "chinese": "父親身分;父權"
+     "chinese": "父親身分；父權"
     }
    },
    {
     "word": "patois",
     "pos": "n.",
     "definition": "A regional dialect of a language, especially one considered nonstandard.",
-    "chinese": "地方方言;土話",
+    "chinese": "地方方言；土話",
     "synonyms": "",
     "root": "patois (rough speech), from Old French",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A regional dialect of a language, especially one considered nonstandard.",
-     "chinese": "地方方言;土話"
+     "chinese": "地方方言；土話"
     }
    },
    {
     "word": "patrimony",
     "pos": "n.",
     "definition": "Property or inheritance received from one's father or ancestors.",
-    "chinese": "父系遺產;世襲財產",
+    "chinese": "父系遺產；世襲財產",
     "synonyms": "",
     "root": "pater (father), from Latin",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Property or inheritance received from one's father or ancestors.",
-     "chinese": "父系遺產;世襲財產"
+     "chinese": "父系遺產；世襲財產"
     }
    },
    {
     "word": "patronymic",
     "pos": "n.",
     "definition": "A name derived from the name of one's father.",
-    "chinese": "父稱;父系姓氏",
+    "chinese": "父稱；父系姓氏",
     "synonyms": "",
     "root": "pater (father) + onyma (name), from Greek",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A name derived from the name of one's father.",
-     "chinese": "父稱;父系姓氏"
+     "chinese": "父稱；父系姓氏"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "pavonine",
     "pos": "adj.",
     "definition": "Resembling a peacock, especially in coloring or display.",
-    "chinese": "如孔雀般的;絢麗炫耀的",
+    "chinese": "如孔雀般的；絢麗炫耀的",
     "synonyms": "",
     "root": "pavo (peacock), from Latin",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Resembling a peacock, especially in coloring or display.",
-     "chinese": "如孔雀般的;絢麗炫耀的"
+     "chinese": "如孔雀般的；絢麗炫耀的"
     }
    },
    {
     "word": "peaceable",
     "pos": "adj.",
     "definition": "Inclined to avoid conflict; peaceful.",
-    "chinese": "愛好和平的;平和的",
+    "chinese": "愛好和平的；平和的",
     "synonyms": "",
     "root": "pax (peace), from Latin, via Old French pais",
     "group": "",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Inclined to avoid conflict; peaceful.",
-     "chinese": "愛好和平的;平和的"
+     "chinese": "愛好和平的；平和的"
     }
    },
    {
     "word": "peak",
     "pos": "n./v.",
     "definition": "The highest point of something; to reach the highest level.",
-    "chinese": "頂峰;達到高峰",
+    "chinese": "頂峰；達到高峰",
     "synonyms": "",
     "root": "pic (pointed top), from Middle English, of uncertain origin",
     "group": "",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The highest point of something; to reach the highest level.",
-     "chinese": "頂峰;達到高峰"
+     "chinese": "頂峰；達到高峰"
     }
    },
    {
     "word": "peccable",
     "pos": "adj.",
     "definition": "Liable to sin; capable of wrongdoing.",
-    "chinese": "易犯錯的;可能犯罪的",
+    "chinese": "易犯錯的；可能犯罪的",
     "synonyms": "",
     "root": "peccare (to sin), from Latin",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Liable to sin; capable of wrongdoing.",
-     "chinese": "易犯錯的;可能犯罪的"
+     "chinese": "易犯錯的；可能犯罪的"
     }
    },
    {
     "word": "peccadillo",
     "pos": "n.",
     "definition": "A minor or trivial sin or offense.",
-    "chinese": "小過失;輕微罪過",
+    "chinese": "小過失；輕微罪過",
     "synonyms": "",
     "root": "pecadillo (little sin), from Spanish pecado (sin)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A minor or trivial sin or offense.",
-     "chinese": "小過失;輕微罪過"
+     "chinese": "小過失；輕微罪過"
     }
    },
    {
     "word": "peccant",
     "pos": "adj.",
     "definition": "Sinning; violating a rule or principle.",
-    "chinese": "犯罪的;違規的",
+    "chinese": "犯罪的；違規的",
     "synonyms": "",
     "root": "peccare (to sin), from Latin",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sinning; violating a rule or principle.",
-     "chinese": "犯罪的;違規的"
+     "chinese": "犯罪的；違規的"
     }
    },
    {
@@ -274,7 +274,7 @@ window.FLASHCARD_UNITS = {
     "word": "pedagogic",
     "pos": "adj.",
     "definition": "Relating to teaching or education.",
-    "chinese": "教學法的;教育學的",
+    "chinese": "教學法的；教育學的",
     "synonyms": "",
     "root": "paidagogos (teacher, guide of children), from Greek pais (child) + agogos (leader)",
     "group": "",
@@ -286,7 +286,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to teaching or education.",
-     "chinese": "教學法的;教育學的"
+     "chinese": "教學法的；教育學的"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "peer",
     "pos": "n.",
     "definition": "A person of the same age, rank, or status as oneself.",
-    "chinese": "同儕;同輩",
+    "chinese": "同儕；同輩",
     "synonyms": "",
     "root": "par (equal), from Latin",
     "group": "",
@@ -364,7 +364,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person of the same age, rank, or status as oneself.",
-     "chinese": "同儕;同輩"
+     "chinese": "同儕；同輩"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "peevish",
     "pos": "adj.",
     "definition": "Easily irritated, especially over trivial matters.",
-    "chinese": "易怒的;暴躁的",
+    "chinese": "易怒的；暴躁的",
     "synonyms": "",
     "root": "of uncertain Middle English origin",
     "group": "",
@@ -402,14 +402,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Easily irritated, especially over trivial matters.",
-     "chinese": "易怒的;暴躁的"
+     "chinese": "易怒的；暴躁的"
     }
    },
    {
     "word": "pejorate",
     "pos": "v.",
     "definition": "To make or become worse.",
-    "chinese": "使惡化;貶低",
+    "chinese": "使惡化；貶低",
     "synonyms": "",
     "root": "pejorare (to make worse), from Latin pejor (worse)",
     "group": "",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make or become worse.",
-     "chinese": "使惡化;貶低"
+     "chinese": "使惡化；貶低"
     }
    },
    {
     "word": "pejoration",
     "pos": "n.",
     "definition": "The process by which a word's meaning becomes more negative over time.",
-    "chinese": "詞義貶降;惡化",
+    "chinese": "詞義貶降；惡化",
     "synonyms": "",
     "root": "pejorare (to make worse), from Latin pejor (worse)",
     "group": "",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The process by which a word's meaning becomes more negative over time.",
-     "chinese": "詞義貶降;惡化"
+     "chinese": "詞義貶降；惡化"
     }
    },
    {
@@ -466,7 +466,7 @@ window.FLASHCARD_UNITS = {
     "word": "penal",
     "pos": "adj.",
     "definition": "Relating to punishment, especially by law.",
-    "chinese": "刑罰的;懲罰性的",
+    "chinese": "刑罰的；懲罰性的",
     "synonyms": "",
     "root": "poena (penalty, punishment), from Latin",
     "group": "",
@@ -478,14 +478,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to punishment, especially by law.",
-     "chinese": "刑罰的;懲罰性的"
+     "chinese": "刑罰的；懲罰性的"
     }
    },
    {
     "word": "penalty",
     "pos": "n.",
     "definition": "A punishment imposed for breaking a law or rule.",
-    "chinese": "罰款;懲罰",
+    "chinese": "罰款；懲罰",
     "synonyms": "",
     "root": "poenalis (of punishment), from Latin poena (penalty)",
     "group": "",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A punishment imposed for breaking a law or rule.",
-     "chinese": "罰款;懲罰"
+     "chinese": "罰款；懲罰"
     }
    },
    {
@@ -523,7 +523,7 @@ window.FLASHCARD_UNITS = {
     "word": "penetrable",
     "pos": "adj.",
     "definition": "Capable of being penetrated or pierced.",
-    "chinese": "可穿透的;可滲入的",
+    "chinese": "可穿透的；可滲入的",
     "synonyms": "",
     "root": "penetrare (to penetrate), from Latin",
     "group": "",
@@ -535,14 +535,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of being penetrated or pierced.",
-     "chinese": "可穿透的;可滲入的"
+     "chinese": "可穿透的；可滲入的"
     }
    },
    {
     "word": "penitence",
     "pos": "n.",
     "definition": "Sincere regret or remorse for wrongdoing.",
-    "chinese": "懺悔;悔悟",
+    "chinese": "懺悔；悔悟",
     "synonyms": "",
     "root": "paenitentia (repentance), from Latin paenitere (to repent)",
     "group": "",
@@ -554,7 +554,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Sincere regret or remorse for wrongdoing.",
-     "chinese": "懺悔;悔悟"
+     "chinese": "懺悔；悔悟"
     }
    },
    {
@@ -599,7 +599,7 @@ window.FLASHCARD_UNITS = {
     "word": "penny-pinching",
     "pos": "adj.",
     "definition": "Extremely careful and reluctant with spending money.",
-    "chinese": "斤斤計較的;吝嗇的",
+    "chinese": "斤斤計較的；吝嗇的",
     "synonyms": "",
     "root": "penny + pinch, from Old English pening + Old French pincier",
     "group": "",
@@ -611,7 +611,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely careful and reluctant with spending money.",
-     "chinese": "斤斤計較的;吝嗇的"
+     "chinese": "斤斤計較的；吝嗇的"
     }
    },
    {
@@ -694,7 +694,7 @@ window.FLASHCARD_UNITS = {
     "word": "penuriousness",
     "pos": "n.",
     "definition": "Extreme poverty or stinginess.",
-    "chinese": "貧困;吝嗇",
+    "chinese": "貧困；吝嗇",
     "synonyms": "",
     "root": "penuria (want, need), from Latin",
     "group": "",
@@ -706,7 +706,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extreme poverty or stinginess.",
-     "chinese": "貧困;吝嗇"
+     "chinese": "貧困；吝嗇"
     }
    },
    {
@@ -732,7 +732,7 @@ window.FLASHCARD_UNITS = {
     "word": "peon",
     "pos": "n.",
     "definition": "A person who does menial or unskilled work; a laborer bound in servitude.",
-    "chinese": "苦力;低下勞工",
+    "chinese": "苦力；低下勞工",
     "synonyms": "",
     "root": "peon (foot soldier, laborer), from Spanish, from Latin pes (foot)",
     "group": "",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person who does menial or unskilled work; a laborer bound in servitude.",
-     "chinese": "苦力;低下勞工"
+     "chinese": "苦力；低下勞工"
     }
    },
    {
@@ -772,7 +772,7 @@ window.FLASHCARD_UNITS = {
     "word": "peregrinate",
     "pos": "v.",
     "definition": "To travel or wander from place to place.",
-    "chinese": "遊歷;漂泊",
+    "chinese": "遊歷；漂泊",
     "synonyms": "",
     "root": "peregrinari (to travel abroad), from Latin peregrinus (foreign)",
     "group": "",
@@ -784,14 +784,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To travel or wander from place to place.",
-     "chinese": "遊歷;漂泊"
+     "chinese": "遊歷；漂泊"
     }
    },
    {
     "word": "peregrine",
     "pos": "adj./n.",
     "definition": "Foreign or traveling from abroad; a type of falcon known for migration.",
-    "chinese": "外來的;遊隼",
+    "chinese": "外來的；遊隼",
     "synonyms": "",
     "root": "peregrinus (foreign, traveling), from Latin per- (through) + ager (field)",
     "group": "",
@@ -803,14 +803,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Foreign or traveling from abroad; a type of falcon known for migration.",
-     "chinese": "外來的;遊隼"
+     "chinese": "外來的；遊隼"
     }
    },
    {
     "word": "perendinate",
     "pos": "v.",
     "definition": "To postpone or defer until the day after tomorrow.",
-    "chinese": "延至後天;拖延",
+    "chinese": "延至後天；拖延",
     "synonyms": "",
     "root": "perendinare (to put off), from Latin perendie (on the day after tomorrow)",
     "group": "",
@@ -822,7 +822,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To postpone or defer until the day after tomorrow.",
-     "chinese": "延至後天;拖延"
+     "chinese": "延至後天；拖延"
     }
    },
    {
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "word": "perk",
     "pos": "n./v.",
     "definition": "A benefit given in addition to a salary; to become more lively.",
-    "chinese": "額外福利;振作起來",
+    "chinese": "額外福利；振作起來",
     "synonyms": "",
     "root": "shortened form of perquisite, from Latin perquirere (to search diligently)",
     "group": "",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A benefit given in addition to a salary; to become more lively.",
-     "chinese": "額外福利;振作起來"
+     "chinese": "額外福利；振作起來"
     }
    },
    {
@@ -888,7 +888,7 @@ window.FLASHCARD_UNITS = {
     "word": "permeated",
     "pos": "adj.",
     "definition": "Spread throughout or saturated something.",
-    "chinese": "滲透的;瀰漫的",
+    "chinese": "滲透的；瀰漫的",
     "synonyms": "",
     "root": "permeare (to pass through), from Latin per- (through) + meare (to pass)",
     "group": "",
@@ -900,14 +900,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Spread throughout or saturated something.",
-     "chinese": "滲透的;瀰漫的"
+     "chinese": "滲透的；瀰漫的"
     }
    },
    {
     "word": "perorate",
     "pos": "v.",
     "definition": "To conclude a speech with a formal summary; to speak at length.",
-    "chinese": "作結語演說;滔滔不絕地演說",
+    "chinese": "作結語演說；滔滔不絕地演說",
     "synonyms": "",
     "root": "perorare (to speak through to the end), from Latin per- (through) + orare (to speak)",
     "group": "",
@@ -919,7 +919,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To conclude a speech with a formal summary; to speak at length.",
-     "chinese": "作結語演說;滔滔不絕地演說"
+     "chinese": "作結語演說；滔滔不絕地演說"
     }
    },
    {
@@ -2166,4 +2166,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"paternity": ["The state of being a father; fatherhood.", "父親身分;父權"], "patois": ["A regional dialect of a language, especially one considered nonstandard.", "地方方言;土話"], "patrimony": ["Property or inheritance received from one's father or ancestors.", "父系遺產;世襲財產"], "patronymic": ["A name derived from the name of one's father.", "父稱;父系姓氏"], "paucity": ["Scarcity:privation,indigence.", "缺乏"], "pavonine": ["Resembling a peacock, especially in coloring or display.", "如孔雀般的;絢麗炫耀的"], "peaceable": ["Inclined to avoid conflict; peaceful.", "愛好和平的;平和的"], "peak": ["The highest point of something; to reach the highest level.", "頂峰;達到高峰"], "peccable": ["Liable to sin; capable of wrongdoing.", "易犯錯的;可能犯罪的"], "peccadillo": ["A minor or trivial sin or offense.", "小過失;輕微罪過"], "peccant": ["Sinning; violating a rule or principle.", "犯罪的;違規的"], "peculate": ["To embezzle money, especially public funds.", "侵吞公款"], "peculation": ["The act of embezzling money, especially from public funds.", "侵吞公款"], "pecuniary": ["Financial.", "金錢的；金錢上的"], "pedagogic": ["Relating to teaching or education.", "教學法的;教育學的"], "pedagogue": ["Teacher.", "教師；教育者"], "pediatrician": ["A doctor specializing in the medical care of children.", "小兒科醫師"], "pedodontist": ["A dentist who specializes in children's dental care.", "小兒牙科醫師"], "peer": ["A person of the same age, rank, or status as oneself.", "同儕;同輩"], "peerless": ["Unequaled or unmatched.", "無與倫比的"], "peevish": ["Easily irritated, especially over trivial matters.", "易怒的;暴躁的"], "pejorate": ["To make or become worse.", "使惡化;貶低"], "pejoration": ["The process by which a word's meaning becomes more negative over time.", "詞義貶降;惡化"], "pejorative": ["Derogatory, uncomplimentary.", "貶抑的；輕蔑的"], "penal": ["Relating to punishment, especially by law.", "刑罰的;懲罰性的"], "penalty": ["A punishment imposed for breaking a law or rule.", "罰款;懲罰"], "penance": ["Atonement for sin.", "懺悔；贖罪"], "penetrable": ["Capable of being penetrated or pierced.", "可穿透的;可滲入的"], "penitence": ["Sincere regret or remorse for wrongdoing.", "懺悔;悔悟"], "penitent": ["Regretful, confessing guilt.", "懺悔的"], "penne": ["Pasta shaped in short tubes with angled ends.", "筆管麵"], "penny-pinching": ["Extremely careful and reluctant with spending money.", "斤斤計較的;吝嗇的"], "pentagon": ["A geometric figure with five straight sides and angles.", "五邊形"], "penult": ["The second-to-last syllable of a word.", "倒數第二音節"], "penultimate": ["Next to last.", "倒數第二的"], "penurious": ["Stingy; relating to great poverty, destitution.", "吝嗇的；貧困的"], "penuriousness": ["Extreme poverty or stinginess.", "貧困;吝嗇"], "penury": ["Poverty.", "貧困；拮据"], "peon": ["A person who does menial or unskilled work; a laborer bound in servitude.", "苦力;低下勞工"], "peonage": ["A system of forced labor to pay off a debt.", "抵債勞役制度"], "peregrinate": ["To travel or wander from place to place.", "遊歷;漂泊"], "peregrine": ["Foreign or traveling from abroad; a type of falcon known for migration.", "外來的;遊隼"], "perendinate": ["To postpone or defer until the day after tomorrow.", "延至後天;拖延"], "periapt": ["An amulet or charm worn for protection.", "護身符"], "perk": ["A benefit given in addition to a salary; to become more lively.", "額外福利;振作起來"], "permeable": ["Allowing liquids or gases to pass through.", "可滲透的"], "permeated": ["Spread throughout or saturated something.", "滲透的;瀰漫的"], "perorate": ["To conclude a speech with a formal summary; to speak at length.", "作結語演說;滔滔不絕地演說"], "peroration": ["The concluding part of a speech, typically summarizing its main points.", "演說結語"], "persevering": ["Continuing steadily in a course of action despite difficulty.", "堅持不懈的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"paternity": ["The state of being a father; fatherhood.", "父親身分；父權"], "patois": ["A regional dialect of a language, especially one considered nonstandard.", "地方方言；土話"], "patrimony": ["Property or inheritance received from one's father or ancestors.", "父系遺產；世襲財產"], "patronymic": ["A name derived from the name of one's father.", "父稱；父系姓氏"], "paucity": ["Scarcity:privation,indigence.", "缺乏"], "pavonine": ["Resembling a peacock, especially in coloring or display.", "如孔雀般的；絢麗炫耀的"], "peaceable": ["Inclined to avoid conflict; peaceful.", "愛好和平的；平和的"], "peak": ["The highest point of something; to reach the highest level.", "頂峰；達到高峰"], "peccable": ["Liable to sin; capable of wrongdoing.", "易犯錯的；可能犯罪的"], "peccadillo": ["A minor or trivial sin or offense.", "小過失；輕微罪過"], "peccant": ["Sinning; violating a rule or principle.", "犯罪的；違規的"], "peculate": ["To embezzle money, especially public funds.", "侵吞公款"], "peculation": ["The act of embezzling money, especially from public funds.", "侵吞公款"], "pecuniary": ["Financial.", "金錢的；金錢上的"], "pedagogic": ["Relating to teaching or education.", "教學法的；教育學的"], "pedagogue": ["Teacher.", "教師；教育者"], "pediatrician": ["A doctor specializing in the medical care of children.", "小兒科醫師"], "pedodontist": ["A dentist who specializes in children's dental care.", "小兒牙科醫師"], "peer": ["A person of the same age, rank, or status as oneself.", "同儕；同輩"], "peerless": ["Unequaled or unmatched.", "無與倫比的"], "peevish": ["Easily irritated, especially over trivial matters.", "易怒的；暴躁的"], "pejorate": ["To make or become worse.", "使惡化；貶低"], "pejoration": ["The process by which a word's meaning becomes more negative over time.", "詞義貶降；惡化"], "pejorative": ["Derogatory, uncomplimentary.", "貶抑的；輕蔑的"], "penal": ["Relating to punishment, especially by law.", "刑罰的；懲罰性的"], "penalty": ["A punishment imposed for breaking a law or rule.", "罰款；懲罰"], "penance": ["Atonement for sin.", "懺悔；贖罪"], "penetrable": ["Capable of being penetrated or pierced.", "可穿透的；可滲入的"], "penitence": ["Sincere regret or remorse for wrongdoing.", "懺悔；悔悟"], "penitent": ["Regretful, confessing guilt.", "懺悔的"], "penne": ["Pasta shaped in short tubes with angled ends.", "筆管麵"], "penny-pinching": ["Extremely careful and reluctant with spending money.", "斤斤計較的；吝嗇的"], "pentagon": ["A geometric figure with five straight sides and angles.", "五邊形"], "penult": ["The second-to-last syllable of a word.", "倒數第二音節"], "penultimate": ["Next to last.", "倒數第二的"], "penurious": ["Stingy; relating to great poverty, destitution.", "吝嗇的；貧困的"], "penuriousness": ["Extreme poverty or stinginess.", "貧困；吝嗇"], "penury": ["Poverty.", "貧困；拮据"], "peon": ["A person who does menial or unskilled work; a laborer bound in servitude.", "苦力；低下勞工"], "peonage": ["A system of forced labor to pay off a debt.", "抵債勞役制度"], "peregrinate": ["To travel or wander from place to place.", "遊歷；漂泊"], "peregrine": ["Foreign or traveling from abroad; a type of falcon known for migration.", "外來的；遊隼"], "perendinate": ["To postpone or defer until the day after tomorrow.", "延至後天；拖延"], "periapt": ["An amulet or charm worn for protection.", "護身符"], "perk": ["A benefit given in addition to a salary; to become more lively.", "額外福利；振作起來"], "permeable": ["Allowing liquids or gases to pass through.", "可滲透的"], "permeated": ["Spread throughout or saturated something.", "滲透的；瀰漫的"], "perorate": ["To conclude a speech with a formal summary; to speak at length.", "作結語演說；滔滔不絕地演說"], "peroration": ["The concluding part of a speech, typically summarizing its main points.", "演說結語"], "persevering": ["Continuing steadily in a course of action despite difficulty.", "堅持不懈的"]});

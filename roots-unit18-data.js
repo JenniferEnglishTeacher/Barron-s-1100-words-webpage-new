@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "debased",
     "pos": "adj.",
     "definition": "Reduced in quality or value; degraded.",
-    "chinese": "貶低的;劣化的",
+    "chinese": "貶低的；劣化的",
     "synonyms": "",
     "root": "de- (down) + base, from Latin bassus",
     "group": "de = 去除；下降",
@@ -75,14 +75,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Reduced in quality or value; degraded.",
-     "chinese": "貶低的;劣化的"
+     "chinese": "貶低的；劣化的"
     }
    },
    {
     "word": "debauched",
     "pos": "adj.",
     "definition": "Indulging excessively in sensual pleasures.",
-    "chinese": "放蕩的;墮落的",
+    "chinese": "放蕩的；墮落的",
     "synonyms": "",
     "root": "de- (away) + bauche (beam), from Old French",
     "group": "de = 去除；下降",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Indulging excessively in sensual pleasures.",
-     "chinese": "放蕩的;墮落的"
+     "chinese": "放蕩的；墮落的"
     }
    },
    {
     "word": "debauchee",
     "pos": "n.",
     "definition": "A person who indulges excessively in sensual pleasures.",
-    "chinese": "放蕩者;酒色之徒",
+    "chinese": "放蕩者；酒色之徒",
     "synonyms": "",
     "root": "de- (away) + bauche (beam), from Old French",
     "group": "de = 去除；下降",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who indulges excessively in sensual pleasures.",
-     "chinese": "放蕩者;酒色之徒"
+     "chinese": "放蕩者；酒色之徒"
     }
    },
    {
     "word": "debauchery",
     "pos": "n.",
     "definition": "Excessive indulgence in sensual pleasures.",
-    "chinese": "放蕩;荒淫",
+    "chinese": "放蕩；荒淫",
     "synonyms": "",
     "root": "de- (away) + bauche (beam), from Old French",
     "group": "de = 去除；下降",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Excessive indulgence in sensual pleasures.",
-     "chinese": "放蕩;荒淫"
+     "chinese": "放蕩；荒淫"
     }
    },
    {
@@ -160,7 +160,7 @@ window.FLASHCARD_UNITS = {
     "word": "debouch",
     "pos": "v.",
     "definition": "To emerge from a confined space into a wide, open area.",
-    "chinese": "湧出;開闊地帶出現",
+    "chinese": "湧出；開闊地帶出現",
     "synonyms": "",
     "root": "de- (out of) + bouche (mouth), from French",
     "group": "de = 去除；下降",
@@ -175,7 +175,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To emerge from a confined space into a wide, open area.",
-     "chinese": "湧出;開闊地帶出現"
+     "chinese": "湧出；開闊地帶出現"
     }
    },
    {
@@ -414,7 +414,7 @@ window.FLASHCARD_UNITS = {
     "word": "declare",
     "pos": "v.",
     "definition": "To state something emphatically or officially.",
-    "chinese": "宣布;聲明",
+    "chinese": "宣布；聲明",
     "synonyms": "",
     "root": "de- (thoroughly) + clarare (to make clear), from Latin",
     "group": "de = 去除；下降",
@@ -428,14 +428,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To state something emphatically or officially.",
-     "chinese": "宣布;聲明"
+     "chinese": "宣布；聲明"
     }
    },
    {
     "word": "decline",
     "pos": "v./n.",
     "definition": "To refuse politely; to gradually decrease.",
-    "chinese": "婉拒;衰退",
+    "chinese": "婉拒；衰退",
     "synonyms": "",
     "root": "de- (down) + clinare (to bend), from Latin",
     "group": "de = 去除；下降",
@@ -447,7 +447,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To refuse politely; to gradually decrease.",
-     "chinese": "婉拒;衰退"
+     "chinese": "婉拒；衰退"
     }
    },
    {
@@ -473,7 +473,7 @@ window.FLASHCARD_UNITS = {
     "word": "decree",
     "pos": "n./v.",
     "definition": "An official order issued by a legal authority.",
-    "chinese": "法令;判決",
+    "chinese": "法令；判決",
     "synonyms": "",
     "root": "de- (down) + cernere (to decide), from Latin",
     "group": "de = 去除；下降",
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An official order issued by a legal authority.",
-     "chinese": "法令;判決"
+     "chinese": "法令；判決"
     }
    },
    {
@@ -614,7 +614,7 @@ window.FLASHCARD_UNITS = {
     "word": "defame",
     "pos": "v.",
     "definition": "To damage the reputation of someone through false statements.",
-    "chinese": "誹謗;中傷",
+    "chinese": "誹謗；中傷",
     "synonyms": "",
     "root": "de- (down) + fama (reputation), from Latin",
     "group": "de = 去除；下降",
@@ -626,14 +626,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To damage the reputation of someone through false statements.",
-     "chinese": "誹謗;中傷"
+     "chinese": "誹謗；中傷"
     }
    },
    {
     "word": "defatigable",
     "pos": "adj.",
     "definition": "Capable of being tired out.",
-    "chinese": "會疲勞的;易感疲倦的",
+    "chinese": "會疲勞的；易感疲倦的",
     "synonyms": "",
     "root": "de- (thoroughly) + fatigare (to tire), from Latin",
     "group": "de = 去除；下降",
@@ -645,14 +645,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Capable of being tired out.",
-     "chinese": "會疲勞的;易感疲倦的"
+     "chinese": "會疲勞的；易感疲倦的"
     }
    },
    {
     "word": "defeat",
     "pos": "n./v.",
     "definition": "A loss in a battle or contest; to overcome.",
-    "chinese": "失敗;擊敗",
+    "chinese": "失敗；擊敗",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "de = 去除；下降",
@@ -664,14 +664,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A loss in a battle or contest; to overcome.",
-     "chinese": "失敗;擊敗"
+     "chinese": "失敗；擊敗"
     }
    },
    {
     "word": "defection",
     "pos": "n.",
     "definition": "The abandonment of one's allegiance, especially to another cause.",
-    "chinese": "叛逃;變節",
+    "chinese": "叛逃；變節",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "de = 去除；下降",
@@ -685,7 +685,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "The abandonment of one's allegiance, especially to another cause.",
-     "chinese": "叛逃;變節"
+     "chinese": "叛逃；變節"
     }
    },
    {
@@ -713,7 +713,7 @@ window.FLASHCARD_UNITS = {
     "word": "defenestration",
     "pos": "n.",
     "definition": "The act of throwing someone or something out of a window.",
-    "chinese": "拋出窗外;(政治上)驅逐",
+    "chinese": "拋出窗外；(政治上)驅逐",
     "synonyms": "",
     "root": "de- (out of) + fenestra (window), from Latin",
     "group": "de = 去除；下降",
@@ -725,7 +725,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of throwing someone or something out of a window.",
-     "chinese": "拋出窗外;(政治上)驅逐"
+     "chinese": "拋出窗外；(政治上)驅逐"
     }
    },
    {
@@ -751,7 +751,7 @@ window.FLASHCARD_UNITS = {
     "word": "deference",
     "pos": "n.",
     "definition": "Respectful submission to another's wishes or judgment.",
-    "chinese": "順從;敬重",
+    "chinese": "順從；敬重",
     "synonyms": "",
     "root": "de- (down) + ferre (to carry), from Latin",
     "group": "de = 去除；下降",
@@ -763,7 +763,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Respectful submission to another's wishes or judgment.",
-     "chinese": "順從;敬重"
+     "chinese": "順從；敬重"
     }
    },
    {
@@ -789,7 +789,7 @@ window.FLASHCARD_UNITS = {
     "word": "defiant",
     "pos": "adj.",
     "definition": "Boldly resistant or challenging.",
-    "chinese": "反抗的;挑釁的",
+    "chinese": "反抗的；挑釁的",
     "synonyms": "",
     "root": "de- (away) + fidus (faithful), from Latin",
     "group": "de = 去除；下降",
@@ -801,14 +801,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Boldly resistant or challenging.",
-     "chinese": "反抗的;挑釁的"
+     "chinese": "反抗的；挑釁的"
     }
    },
    {
     "word": "deficiency",
     "pos": "n.",
     "definition": "A lack or shortage of something needed.",
-    "chinese": "缺乏;不足",
+    "chinese": "缺乏；不足",
     "synonyms": "",
     "root": "de- (away) + facere (to make/do), from Latin",
     "group": "de = 去除；下降",
@@ -822,7 +822,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A lack or shortage of something needed.",
-     "chinese": "缺乏;不足"
+     "chinese": "缺乏；不足"
     }
    },
    {
@@ -848,7 +848,7 @@ window.FLASHCARD_UNITS = {
     "word": "definite",
     "pos": "adj.",
     "definition": "Clearly stated or decided; certain.",
-    "chinese": "明確的;確定的",
+    "chinese": "明確的；確定的",
     "synonyms": "",
     "root": "de- (thoroughly) + finire (to limit, end), from Latin",
     "group": "de = 去除；下降",
@@ -860,7 +860,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Clearly stated or decided; certain.",
-     "chinese": "明確的;確定的"
+     "chinese": "明確的；確定的"
     }
    },
    {
@@ -886,7 +886,7 @@ window.FLASHCARD_UNITS = {
     "word": "deflate",
     "pos": "v.",
     "definition": "To release air from something; to reduce confidence or importance.",
-    "chinese": "洩氣;貶低",
+    "chinese": "洩氣；貶低",
     "synonyms": "",
     "root": "de- (down) + flare (to blow), from Latin",
     "group": "de = 去除；下降",
@@ -898,7 +898,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To release air from something; to reduce confidence or importance.",
-     "chinese": "洩氣;貶低"
+     "chinese": "洩氣；貶低"
     }
    },
    {
@@ -943,7 +943,7 @@ window.FLASHCARD_UNITS = {
     "word": "defuse",
     "pos": "v.",
     "definition": "To remove the fuse from a bomb; to reduce tension.",
-    "chinese": "拆除引信;緩和(局勢)",
+    "chinese": "拆除引信；緩和(局勢)",
     "synonyms": "",
     "root": "de- (removal of) + fuse, from Latin fusus",
     "group": "de = 去除；下降",
@@ -955,14 +955,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To remove the fuse from a bomb; to reduce tension.",
-     "chinese": "拆除引信;緩和(局勢)"
+     "chinese": "拆除引信；緩和(局勢)"
     }
    },
    {
     "word": "degeneracy",
     "pos": "n.",
     "definition": "The state of having declined in moral or physical standards.",
-    "chinese": "墮落;退化",
+    "chinese": "墮落；退化",
     "synonyms": "",
     "root": "de- (down) + genus (birth, kind), from Latin",
     "group": "de = 去除；下降",
@@ -974,7 +974,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The state of having declined in moral or physical standards.",
-     "chinese": "墮落;退化"
+     "chinese": "墮落；退化"
     }
    }
   ],
@@ -2183,4 +2183,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"condescending": ["Characteristic of those who treat others with arrogance.", "居高臨下的；傲慢的"], "debacle": ["Fiasco, catastrophe.", "慘敗；崩潰"], "debase": ["To lower the quality or esteem of something.", "貶低；降低價值"], "debased": ["Reduced in quality or value; degraded.", "貶低的;劣化的"], "debauched": ["Indulging excessively in sensual pleasures.", "放蕩的;墮落的"], "debauchee": ["A person who indulges excessively in sensual pleasures.", "放蕩者;酒色之徒"], "debauchery": ["Excessive indulgence in sensual pleasures.", "放蕩;荒淫"], "debilitate": ["To weaken.", "使衰弱"], "debouch": ["To emerge from a confined space into a wide, open area.", "湧出;開闊地帶出現"], "debride": ["To remove damaged tissue from a wound.", "清創(移除壞死組織)"], "debridement": ["The surgical removal of dead tissue from a wound.", "清創術"], "debris": ["Ruins, fragments.", "碎片；殘骸"], "debunk": ["To prove wrong or false.", "揭穿"], "decadence": ["Self-indulgence.", "墮落；衰退"], "decadent": ["Relating to indulgence in something pleasurable.", "頹廢的；奢靡享樂的"], "decapitate": ["To behead.", "斬首"], "deceptive": ["Misleading or giving a false impression.", "有欺騙性的；誤導性的"], "deciding": ["Determining or influencing an outcome.", "決定性的"], "deciduous": ["Shedding foliage at the end of the growing season.", "落葉性的"], "decisive": ["Conclusive or firm.", "果斷的；決定性的"], "declaim": ["To speak pompously.", "慷慨陳詞；演說"], "declare": ["To state something emphatically or officially.", "宣布;聲明"], "decline": ["To refuse politely; to gradually decrease.", "婉拒;衰退"], "decrease": ["To become or make smaller in size or amount.", "減少"], "decree": ["An official order issued by a legal authority.", "法令;判決"], "decrepit": ["Broken down, worn out.", "衰老的；破舊的"], "decry": ["To criticize openly.", "公開譴責；抨擊"], "deface": ["To ruin or injure something's appearance.", "毀損外觀；塗污"], "defalcate": ["To misappropriate funds entrusted to one's care.", "挪用公款"], "defamation": ["The act of damaging someone's reputation through false statements.", "誹謗"], "defamatory": ["Damaging character by false reports.", "誹謗的；破壞名譽的"], "defame": ["To damage the reputation of someone through false statements.", "誹謗;中傷"], "defatigable": ["Capable of being tired out.", "會疲勞的;易感疲倦的"], "defeat": ["A loss in a battle or contest; to overcome.", "失敗;擊敗"], "defection": ["The abandonment of one's allegiance, especially to another cause.", "叛逃;變節"], "defenestrate": ["To throw someone or something out of a window.", "從窗口扔出去"], "defenestration": ["The act of throwing someone or something out of a window.", "拋出窗外;(政治上)驅逐"], "defer": ["To postpone something; to yield to another's wisdom.", "延遲；順從"], "deference": ["Respectful submission to another's wishes or judgment.", "順從;敬重"], "deferential": ["Showing respect for another's authority.", "恭敬的；順從的"], "defiant": ["Boldly resistant or challenging.", "反抗的;挑釁的"], "deficiency": ["A lack or shortage of something needed.", "缺乏;不足"], "deficient": ["Not enough in degree or amount.", "不足的；缺乏的"], "definite": ["Clearly stated or decided; certain.", "明確的;確定的"], "definitive": ["Conclusive and authoritative; final.", "決定性的；權威的"], "deflate": ["To release air from something; to reduce confidence or importance.", "洩氣;貶低"], "defraud": ["To illegally obtain money from someone by deception.", "詐騙"], "defunct": ["No longer existing or functional.", "不復存在的；已廢棄的"], "defuse": ["To remove the fuse from a bomb; to reduce tension.", "拆除引信;緩和(局勢)"], "degeneracy": ["The state of having declined in moral or physical standards.", "墮落;退化"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"condescending": ["Characteristic of those who treat others with arrogance.", "居高臨下的；傲慢的"], "debacle": ["Fiasco, catastrophe.", "慘敗；崩潰"], "debase": ["To lower the quality or esteem of something.", "貶低；降低價值"], "debased": ["Reduced in quality or value; degraded.", "貶低的；劣化的"], "debauched": ["Indulging excessively in sensual pleasures.", "放蕩的；墮落的"], "debauchee": ["A person who indulges excessively in sensual pleasures.", "放蕩者；酒色之徒"], "debauchery": ["Excessive indulgence in sensual pleasures.", "放蕩；荒淫"], "debilitate": ["To weaken.", "使衰弱"], "debouch": ["To emerge from a confined space into a wide, open area.", "湧出；開闊地帶出現"], "debride": ["To remove damaged tissue from a wound.", "清創(移除壞死組織)"], "debridement": ["The surgical removal of dead tissue from a wound.", "清創術"], "debris": ["Ruins, fragments.", "碎片；殘骸"], "debunk": ["To prove wrong or false.", "揭穿"], "decadence": ["Self-indulgence.", "墮落；衰退"], "decadent": ["Relating to indulgence in something pleasurable.", "頹廢的；奢靡享樂的"], "decapitate": ["To behead.", "斬首"], "deceptive": ["Misleading or giving a false impression.", "有欺騙性的；誤導性的"], "deciding": ["Determining or influencing an outcome.", "決定性的"], "deciduous": ["Shedding foliage at the end of the growing season.", "落葉性的"], "decisive": ["Conclusive or firm.", "果斷的；決定性的"], "declaim": ["To speak pompously.", "慷慨陳詞；演說"], "declare": ["To state something emphatically or officially.", "宣布；聲明"], "decline": ["To refuse politely; to gradually decrease.", "婉拒；衰退"], "decrease": ["To become or make smaller in size or amount.", "減少"], "decree": ["An official order issued by a legal authority.", "法令；判決"], "decrepit": ["Broken down, worn out.", "衰老的；破舊的"], "decry": ["To criticize openly.", "公開譴責；抨擊"], "deface": ["To ruin or injure something's appearance.", "毀損外觀；塗污"], "defalcate": ["To misappropriate funds entrusted to one's care.", "挪用公款"], "defamation": ["The act of damaging someone's reputation through false statements.", "誹謗"], "defamatory": ["Damaging character by false reports.", "誹謗的；破壞名譽的"], "defame": ["To damage the reputation of someone through false statements.", "誹謗；中傷"], "defatigable": ["Capable of being tired out.", "會疲勞的；易感疲倦的"], "defeat": ["A loss in a battle or contest; to overcome.", "失敗；擊敗"], "defection": ["The abandonment of one's allegiance, especially to another cause.", "叛逃；變節"], "defenestrate": ["To throw someone or something out of a window.", "從窗口扔出去"], "defenestration": ["The act of throwing someone or something out of a window.", "拋出窗外；(政治上)驅逐"], "defer": ["To postpone something; to yield to another's wisdom.", "延遲；順從"], "deference": ["Respectful submission to another's wishes or judgment.", "順從；敬重"], "deferential": ["Showing respect for another's authority.", "恭敬的；順從的"], "defiant": ["Boldly resistant or challenging.", "反抗的；挑釁的"], "deficiency": ["A lack or shortage of something needed.", "缺乏；不足"], "deficient": ["Not enough in degree or amount.", "不足的；缺乏的"], "definite": ["Clearly stated or decided; certain.", "明確的；確定的"], "definitive": ["Conclusive and authoritative; final.", "決定性的；權威的"], "deflate": ["To release air from something; to reduce confidence or importance.", "洩氣；貶低"], "defraud": ["To illegally obtain money from someone by deception.", "詐騙"], "defunct": ["No longer existing or functional.", "不復存在的；已廢棄的"], "defuse": ["To remove the fuse from a bomb; to reduce tension.", "拆除引信；緩和(局勢)"], "degeneracy": ["The state of having declined in moral or physical standards.", "墮落；退化"]});

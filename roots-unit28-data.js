@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "execrate",
     "pos": "v.",
     "definition": "To feel or express great loathing for.",
-    "chinese": "痛恨;咒罵",
+    "chinese": "痛恨；咒罵",
     "synonyms": "",
     "root": "ex- (out) + sacrare (to make sacred, curse), from Latin",
     "group": "ex = 向外",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To feel or express great loathing for.",
-     "chinese": "痛恨;咒罵"
+     "chinese": "痛恨；咒罵"
     }
    },
    {
     "word": "execration",
     "pos": "n.",
     "definition": "A feeling or expression of great loathing.",
-    "chinese": "憎惡;詛咒",
+    "chinese": "憎惡；詛咒",
     "synonyms": "",
     "root": "ex- (out) + sacrare (to make sacred, curse), from Latin",
     "group": "ex = 向外",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling or expression of great loathing.",
-     "chinese": "憎惡;詛咒"
+     "chinese": "憎惡；詛咒"
     }
    },
    {
     "word": "exegesis",
     "pos": "n.",
     "definition": "A critical interpretation or explanation of a text, especially scripture.",
-    "chinese": "註釋;闡釋",
+    "chinese": "註釋；闡釋",
     "synonyms": "",
     "root": "ex- (out) + hegeisthai (to lead), from Greek",
     "group": "ex = 向外",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A critical interpretation or explanation of a text, especially scripture.",
-     "chinese": "註釋;闡釋"
+     "chinese": "註釋；闡釋"
     }
    },
    {
     "word": "exegete",
     "pos": "n.",
     "definition": "A person who interprets and explains a text, especially scripture.",
-    "chinese": "註釋者;闡釋者",
+    "chinese": "註釋者；闡釋者",
     "synonyms": "",
     "root": "ex- (out) + hegeisthai (to lead), from Greek",
     "group": "ex = 向外",
@@ -151,14 +151,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who interprets and explains a text, especially scripture.",
-     "chinese": "註釋者;闡釋者"
+     "chinese": "註釋者；闡釋者"
     }
    },
    {
     "word": "exegetic",
     "pos": "adj.",
     "definition": "Relating to critical interpretation of a text.",
-    "chinese": "註釋的;闡釋性的",
+    "chinese": "註釋的；闡釋性的",
     "synonyms": "",
     "root": "ex- (out) + hegeisthai (to lead), from Greek",
     "group": "ex = 向外",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to critical interpretation of a text.",
-     "chinese": "註釋的;闡釋性的"
+     "chinese": "註釋的；闡釋性的"
     }
    },
    {
     "word": "exhaust",
     "pos": "v./n.",
     "definition": "To use up completely; the fumes from an engine.",
-    "chinese": "耗盡;排氣",
+    "chinese": "耗盡；排氣",
     "synonyms": "",
     "root": "ex- (out) + haurire (to draw), from Latin",
     "group": "ex = 向外",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To use up completely; the fumes from an engine.",
-     "chinese": "耗盡;排氣"
+     "chinese": "耗盡；排氣"
     }
    },
    {
@@ -236,7 +236,7 @@ window.FLASHCARD_UNITS = {
     "word": "exhilarating",
     "pos": "adj.",
     "definition": "Making one feel very happy, animated, or elated.",
-    "chinese": "令人振奮的;使人興奮的",
+    "chinese": "令人振奮的；使人興奮的",
     "synonyms": "",
     "root": "ex- (thoroughly) + hilaris (cheerful), from Latin",
     "group": "ex = 向外",
@@ -248,14 +248,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making one feel very happy, animated, or elated.",
-     "chinese": "令人振奮的;使人興奮的"
+     "chinese": "令人振奮的；使人興奮的"
     }
    },
    {
     "word": "exhilaration",
     "pos": "n.",
     "definition": "A feeling of great happiness, excitement, or elation.",
-    "chinese": "興奮;振奮",
+    "chinese": "興奮；振奮",
     "synonyms": "",
     "root": "ex- (thoroughly) + hilaris (cheerful), from Latin",
     "group": "ex = 向外",
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A feeling of great happiness, excitement, or elation.",
-     "chinese": "興奮;振奮"
+     "chinese": "興奮；振奮"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "exhortation",
     "pos": "n.",
     "definition": "A speech or statement that strongly urges someone to do something.",
-    "chinese": "勸誡;鼓勵之言",
+    "chinese": "勸誡；鼓勵之言",
     "synonyms": "",
     "root": "ex- (thoroughly) + hortari (to encourage), from Latin",
     "group": "ex = 向外",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A speech or statement that strongly urges someone to do something.",
-     "chinese": "勸誡;鼓勵之言"
+     "chinese": "勸誡；鼓勵之言"
     }
    },
    {
@@ -430,7 +430,7 @@ window.FLASHCARD_UNITS = {
     "word": "expatiate",
     "pos": "v.",
     "definition": "To speak or write at length about a subject.",
-    "chinese": "詳述;暢談",
+    "chinese": "詳述；暢談",
     "synonyms": "",
     "root": "ex- (out) + spatiari (to walk about), from Latin",
     "group": "ex = 向外",
@@ -442,14 +442,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To speak or write at length about a subject.",
-     "chinese": "詳述;暢談"
+     "chinese": "詳述；暢談"
     }
    },
    {
     "word": "expatiation",
     "pos": "n.",
     "definition": "A lengthy discussion or elaboration of a subject.",
-    "chinese": "詳述;長篇闡述",
+    "chinese": "詳述；長篇闡述",
     "synonyms": "",
     "root": "ex- (out) + spatiari (to walk about), from Latin",
     "group": "ex = 向外",
@@ -461,7 +461,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A lengthy discussion or elaboration of a subject.",
-     "chinese": "詳述;長篇闡述"
+     "chinese": "詳述；長篇闡述"
     }
    },
    {
@@ -489,7 +489,7 @@ window.FLASHCARD_UNITS = {
     "word": "expectoration",
     "pos": "n.",
     "definition": "The act of coughing up and spitting out phlegm from the throat or lungs.",
-    "chinese": "咳痰;吐痰",
+    "chinese": "咳痰；吐痰",
     "synonyms": "",
     "root": "ex- (out) + pectus (chest), from Latin",
     "group": "ex = 向外",
@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of coughing up and spitting out phlegm from the throat or lungs.",
-     "chinese": "咳痰;吐痰"
+     "chinese": "咳痰；吐痰"
     }
    },
    {
@@ -622,7 +622,7 @@ window.FLASHCARD_UNITS = {
     "word": "expiation",
     "pos": "n.",
     "definition": "The act of making amends for wrongdoing.",
-    "chinese": "贖罪;彌補",
+    "chinese": "贖罪；彌補",
     "synonyms": "",
     "root": "ex- (thoroughly) + piare (to appease), from Latin",
     "group": "ex = 向外",
@@ -634,14 +634,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The act of making amends for wrongdoing.",
-     "chinese": "贖罪;彌補"
+     "chinese": "贖罪；彌補"
     }
    },
    {
     "word": "explain",
     "pos": "v.",
     "definition": "To make something clear by describing it in detail.",
-    "chinese": "解釋;說明",
+    "chinese": "解釋；說明",
     "synonyms": "",
     "root": "ex- (out) + planus (flat, clear), from Latin",
     "group": "ex = 向外",
@@ -653,14 +653,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make something clear by describing it in detail.",
-     "chinese": "解釋;說明"
+     "chinese": "解釋；說明"
     }
    },
    {
     "word": "explanation",
     "pos": "n.",
     "definition": "A statement that makes something clear.",
-    "chinese": "解釋;說明",
+    "chinese": "解釋；說明",
     "synonyms": "",
     "root": "ex- (out) + planus (flat, clear), from Latin",
     "group": "ex = 向外",
@@ -672,7 +672,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A statement that makes something clear.",
-     "chinese": "解釋;說明"
+     "chinese": "解釋；說明"
     }
    },
    {
@@ -698,7 +698,7 @@ window.FLASHCARD_UNITS = {
     "word": "explicate",
     "pos": "v.",
     "definition": "To analyze and explain in detail.",
-    "chinese": "詳細解說;闡明",
+    "chinese": "詳細解說；闡明",
     "synonyms": "",
     "root": "ex- (out) + plicare (to fold), from Latin",
     "group": "ex = 向外",
@@ -710,14 +710,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To analyze and explain in detail.",
-     "chinese": "詳細解說;闡明"
+     "chinese": "詳細解說；闡明"
     }
    },
    {
     "word": "explication",
     "pos": "n.",
     "definition": "A detailed explanation or analysis.",
-    "chinese": "詳細解說;闡述",
+    "chinese": "詳細解說；闡述",
     "synonyms": "",
     "root": "ex- (out) + plicare (to fold), from Latin",
     "group": "ex = 向外",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A detailed explanation or analysis.",
-     "chinese": "詳細解說;闡述"
+     "chinese": "詳細解說；闡述"
     }
    },
    {
@@ -755,7 +755,7 @@ window.FLASHCARD_UNITS = {
     "word": "exponent",
     "pos": "n.",
     "definition": "A person who advocates for a theory or belief; a mathematical index.",
-    "chinese": "倡導者;指數",
+    "chinese": "倡導者；指數",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "ex = 向外",
@@ -767,14 +767,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who advocates for a theory or belief; a mathematical index.",
-     "chinese": "倡導者;指數"
+     "chinese": "倡導者；指數"
     }
    },
    {
     "word": "export",
     "pos": "v./n.",
     "definition": "To send goods to another country for sale.",
-    "chinese": "出口;輸出",
+    "chinese": "出口；輸出",
     "synonyms": "",
     "root": "ex- (out) + portare (to carry), from Latin",
     "group": "ex = 向外",
@@ -786,14 +786,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To send goods to another country for sale.",
-     "chinese": "出口;輸出"
+     "chinese": "出口；輸出"
     }
    },
    {
     "word": "expose",
     "pos": "v.",
     "definition": "To reveal or make visible; to uncover wrongdoing.",
-    "chinese": "揭露;暴露",
+    "chinese": "揭露；暴露",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "ex = 向外",
@@ -805,14 +805,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To reveal or make visible; to uncover wrongdoing.",
-     "chinese": "揭露;暴露"
+     "chinese": "揭露；暴露"
     }
    },
    {
     "word": "expository",
     "pos": "adj.",
     "definition": "Intended to explain or describe something.",
-    "chinese": "說明性的;解說的",
+    "chinese": "說明性的；解說的",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "ex = 向外",
@@ -824,14 +824,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Intended to explain or describe something.",
-     "chinese": "說明性的;解說的"
+     "chinese": "說明性的；解說的"
     }
    },
    {
     "word": "expostulate",
     "pos": "v.",
     "definition": "To express strong disagreement or disapproval.",
-    "chinese": "抗議;力陳異議",
+    "chinese": "抗議；力陳異議",
     "synonyms": "",
     "root": "ex- (thoroughly) + postulare (to demand), from Latin",
     "group": "ex = 向外",
@@ -843,14 +843,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To express strong disagreement or disapproval.",
-     "chinese": "抗議;力陳異議"
+     "chinese": "抗議；力陳異議"
     }
    },
    {
     "word": "expound",
     "pos": "v.",
     "definition": "To explain a theory or idea in detail.",
-    "chinese": "詳細闡述;講解",
+    "chinese": "詳細闡述；講解",
     "synonyms": "",
     "root": "ex- (out) + ponere (to place), from Latin",
     "group": "ex = 向外",
@@ -862,7 +862,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To explain a theory or idea in detail.",
-     "chinese": "詳細闡述;講解"
+     "chinese": "詳細闡述；講解"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "exquisite",
     "pos": "adj.",
     "definition": "Extremely beautiful or finely made.",
-    "chinese": "精緻的;絕美的",
+    "chinese": "精緻的；絕美的",
     "synonyms": "",
     "root": "ex- (out) + quaerere (to seek), from Latin",
     "group": "ex = 向外",
@@ -940,7 +940,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Extremely beautiful or finely made.",
-     "chinese": "精緻的;絕美的"
+     "chinese": "精緻的；絕美的"
     }
    },
    {
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"excruciating": ["Agonizing, torturous.", "極痛苦的"], "exculpate": ["To free from guilt or blame, exonerate.", "免罪；開脫"], "excursion": ["A trip or outing.", "遠足；短程旅行"], "execrable": ["Loathsome, detestable.", "可憎的；糟糕透頂的"], "execrate": ["To feel or express great loathing for.", "痛恨;咒罵"], "execration": ["A feeling or expression of great loathing.", "憎惡;詛咒"], "exegesis": ["A critical interpretation or explanation of a text, especially scripture.", "註釋;闡釋"], "exegete": ["A person who interprets and explains a text, especially scripture.", "註釋者;闡釋者"], "exegetic": ["Relating to critical interpretation of a text.", "註釋的;闡釋性的"], "exhaust": ["To use up completely; the fumes from an engine.", "耗盡;排氣"], "exhaustive": ["Thorough and complete.", "詳盡的；徹底的"], "exhilarated": ["Filled with joy or excitement.", "興奮的；振奮的"], "exhilarating": ["Making one feel very happy, animated, or elated.", "令人振奮的;使人興奮的"], "exhilaration": ["A feeling of great happiness, excitement, or elation.", "興奮;振奮"], "exhort": ["To urge strongly, advise.", "敦促；告誡"], "exhortation": ["A speech or statement that strongly urges someone to do something.", "勸誡;鼓勵之言"], "exigent": ["Urgent, critical.", "緊急的；迫切的"], "exodontics": ["The branch of dentistry dealing with extraction of teeth.", "拔牙學"], "exodontist": ["A dentist who specializes in extracting teeth.", "拔牙醫師"], "exonerate": ["To free from guilt.", "免除責任；宣佈無罪"], "exorbitant": ["Excessive.", "過度的；離譜的"], "expansion": ["The act of increasing in size or scope.", "擴張；擴展"], "expatiate": ["To speak or write at length about a subject.", "詳述;暢談"], "expatiation": ["A lengthy discussion or elaboration of a subject.", "詳述;長篇闡述"], "expatriate": ["An exile.", "移居國外者；流放者"], "expectoration": ["The act of coughing up and spitting out phlegm from the throat or lungs.", "咳痰;吐痰"], "expedient": ["Convenient, opportunistic.", "權宜的；方便的"], "expedite": ["To carry out promptly.", "加速；促進"], "expend": ["Use up or consume fully.", "耗費；花費"], "expensive": ["Costing a lot of money.", "昂貴的"], "experiment": ["A test to discover something new.", "實驗"], "expiate": ["To make amends for, atone.", "贖罪；彌補"], "expiation": ["The act of making amends for wrongdoing.", "贖罪;彌補"], "explain": ["To make something clear by describing it in detail.", "解釋;說明"], "explanation": ["A statement that makes something clear.", "解釋;說明"], "explicable": ["Able to be explained.", "可解釋的"], "explicate": ["To analyze and explain in detail.", "詳細解說;闡明"], "explication": ["A detailed explanation or analysis.", "詳細解說;闡述"], "exploit": ["To profit by, utilize.", "開發；剝削"], "exponent": ["A person who advocates for a theory or belief; a mathematical index.", "倡導者;指數"], "export": ["To send goods to another country for sale.", "出口;輸出"], "expose": ["To reveal or make visible; to uncover wrongdoing.", "揭露;暴露"], "expository": ["Intended to explain or describe something.", "說明性的;解說的"], "expostulate": ["To express strong disagreement or disapproval.", "抗議;力陳異議"], "expound": ["To explain a theory or idea in detail.", "詳細闡述;講解"], "expressionless": ["Showing no emotion in one's face.", "面無表情的"], "expunge": ["To erase.", "抹去；刪除"], "expurgate": ["To remove objectionable parts or passages.", "刪去(不當處)"], "exquisite": ["Extremely beautiful or finely made.", "精緻的;絕美的"], "extant": ["Still existing.", "現存的；尚存的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"excruciating": ["Agonizing, torturous.", "極痛苦的"], "exculpate": ["To free from guilt or blame, exonerate.", "免罪；開脫"], "excursion": ["A trip or outing.", "遠足；短程旅行"], "execrable": ["Loathsome, detestable.", "可憎的；糟糕透頂的"], "execrate": ["To feel or express great loathing for.", "痛恨；咒罵"], "execration": ["A feeling or expression of great loathing.", "憎惡；詛咒"], "exegesis": ["A critical interpretation or explanation of a text, especially scripture.", "註釋；闡釋"], "exegete": ["A person who interprets and explains a text, especially scripture.", "註釋者；闡釋者"], "exegetic": ["Relating to critical interpretation of a text.", "註釋的；闡釋性的"], "exhaust": ["To use up completely; the fumes from an engine.", "耗盡；排氣"], "exhaustive": ["Thorough and complete.", "詳盡的；徹底的"], "exhilarated": ["Filled with joy or excitement.", "興奮的；振奮的"], "exhilarating": ["Making one feel very happy, animated, or elated.", "令人振奮的；使人興奮的"], "exhilaration": ["A feeling of great happiness, excitement, or elation.", "興奮；振奮"], "exhort": ["To urge strongly, advise.", "敦促；告誡"], "exhortation": ["A speech or statement that strongly urges someone to do something.", "勸誡；鼓勵之言"], "exigent": ["Urgent, critical.", "緊急的；迫切的"], "exodontics": ["The branch of dentistry dealing with extraction of teeth.", "拔牙學"], "exodontist": ["A dentist who specializes in extracting teeth.", "拔牙醫師"], "exonerate": ["To free from guilt.", "免除責任；宣佈無罪"], "exorbitant": ["Excessive.", "過度的；離譜的"], "expansion": ["The act of increasing in size or scope.", "擴張；擴展"], "expatiate": ["To speak or write at length about a subject.", "詳述；暢談"], "expatiation": ["A lengthy discussion or elaboration of a subject.", "詳述；長篇闡述"], "expatriate": ["An exile.", "移居國外者；流放者"], "expectoration": ["The act of coughing up and spitting out phlegm from the throat or lungs.", "咳痰；吐痰"], "expedient": ["Convenient, opportunistic.", "權宜的；方便的"], "expedite": ["To carry out promptly.", "加速；促進"], "expend": ["Use up or consume fully.", "耗費；花費"], "expensive": ["Costing a lot of money.", "昂貴的"], "experiment": ["A test to discover something new.", "實驗"], "expiate": ["To make amends for, atone.", "贖罪；彌補"], "expiation": ["The act of making amends for wrongdoing.", "贖罪；彌補"], "explain": ["To make something clear by describing it in detail.", "解釋；說明"], "explanation": ["A statement that makes something clear.", "解釋；說明"], "explicable": ["Able to be explained.", "可解釋的"], "explicate": ["To analyze and explain in detail.", "詳細解說；闡明"], "explication": ["A detailed explanation or analysis.", "詳細解說；闡述"], "exploit": ["To profit by, utilize.", "開發；剝削"], "exponent": ["A person who advocates for a theory or belief; a mathematical index.", "倡導者；指數"], "export": ["To send goods to another country for sale.", "出口；輸出"], "expose": ["To reveal or make visible; to uncover wrongdoing.", "揭露；暴露"], "expository": ["Intended to explain or describe something.", "說明性的；解說的"], "expostulate": ["To express strong disagreement or disapproval.", "抗議；力陳異議"], "expound": ["To explain a theory or idea in detail.", "詳細闡述；講解"], "expressionless": ["Showing no emotion in one's face.", "面無表情的"], "expunge": ["To erase.", "抹去；刪除"], "expurgate": ["To remove objectionable parts or passages.", "刪去(不當處)"], "exquisite": ["Extremely beautiful or finely made.", "精緻的；絕美的"], "extant": ["Still existing.", "現存的；尚存的"]});

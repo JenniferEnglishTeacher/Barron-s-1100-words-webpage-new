@@ -82,7 +82,7 @@ window.FLASHCARD_UNITS = {
     "word": "circumlocutory",
     "pos": "adj.",
     "definition": "Using an indirect and wordy way of speaking, avoiding directness.",
-    "chinese": "拐彎抹角的;迂迴的",
+    "chinese": "拐彎抹角的；迂迴的",
     "synonyms": "",
     "root": "circum- (around) + loqui (to speak), from Latin",
     "group": "circum = 周圍；環繞",
@@ -94,14 +94,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Using an indirect and wordy way of speaking, avoiding directness.",
-     "chinese": "拐彎抹角的;迂迴的"
+     "chinese": "拐彎抹角的；迂迴的"
     }
    },
    {
     "word": "circumnavigate",
     "pos": "v.",
     "definition": "To sail or travel all the way around something, especially the globe.",
-    "chinese": "環航;環繞航行",
+    "chinese": "環航；環繞航行",
     "synonyms": "",
     "root": "circum- (around) + navigare (to sail), from Latin",
     "group": "circum = 周圍；環繞",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To sail or travel all the way around something, especially the globe.",
-     "chinese": "環航;環繞航行"
+     "chinese": "環航；環繞航行"
     }
    },
    {
     "word": "circumscribe",
     "pos": "v.",
     "definition": "To restrict within limits; to draw a line around.",
-    "chinese": "限制;劃定界限",
+    "chinese": "限制；劃定界限",
     "synonyms": "",
     "root": "circum- (around) + scribere (to write), from Latin",
     "group": "circum = 周圍；環繞",
@@ -132,14 +132,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To restrict within limits; to draw a line around.",
-     "chinese": "限制;劃定界限"
+     "chinese": "限制；劃定界限"
     }
    },
    {
     "word": "circumstance",
     "pos": "n.",
     "definition": "A fact or condition connected with an event or situation.",
-    "chinese": "情況;境遇",
+    "chinese": "情況；境遇",
     "synonyms": "",
     "root": "circum- (around) + stare (to stand), from Latin",
     "group": "circum = 周圍；環繞",
@@ -151,7 +151,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A fact or condition connected with an event or situation.",
-     "chinese": "情況;境遇"
+     "chinese": "情況；境遇"
     }
    },
    {
@@ -395,4 +395,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"circumlocution": ["Speaking in circles; roundabout speech.", "迂迴累贅的說法"], "circumspect": ["Careful and cautious before acting.", "謹慎周到的"], "circumcision": ["The surgical removal of the foreskin; a religious ritual marking this.", "割禮"], "circumflex": ["A diacritical mark (ˆ) placed over a vowel, as in the French \"château\".", "揚抑符號(ˆ)"], "circumlocutory": ["Using an indirect and wordy way of speaking, avoiding directness.", "拐彎抹角的;迂迴的"], "circumnavigate": ["To sail or travel all the way around something, especially the globe.", "環航;環繞航行"], "circumscribe": ["To restrict within limits; to draw a line around.", "限制;劃定界限"], "circumstance": ["A fact or condition connected with an event or situation.", "情況;境遇"], "circumvent": ["To find a way around an obstacle or restriction; to avoid by cleverness.", "規避；繞過"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"circumlocution": ["Speaking in circles; roundabout speech.", "迂迴累贅的說法"], "circumspect": ["Careful and cautious before acting.", "謹慎周到的"], "circumcision": ["The surgical removal of the foreskin; a religious ritual marking this.", "割禮"], "circumflex": ["A diacritical mark (ˆ) placed over a vowel, as in the French \"château\".", "揚抑符號(ˆ)"], "circumlocutory": ["Using an indirect and wordy way of speaking, avoiding directness.", "拐彎抹角的；迂迴的"], "circumnavigate": ["To sail or travel all the way around something, especially the globe.", "環航；環繞航行"], "circumscribe": ["To restrict within limits; to draw a line around.", "限制；劃定界限"], "circumstance": ["A fact or condition connected with an event or situation.", "情況；境遇"], "circumvent": ["To find a way around an obstacle or restriction; to avoid by cleverness.", "規避；繞過"]});

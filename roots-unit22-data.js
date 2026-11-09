@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
     "word": "descant",
     "pos": "n./v.",
     "definition": "A melody sung above the main tune; to discuss at length.",
-    "chinese": "高音部旋律;詳談",
+    "chinese": "高音部旋律；詳談",
     "synonyms": "",
     "root": "dis- (apart) + cantus (song), from Latin",
     "group": "dis = 相反的",
@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A melody sung above the main tune; to discuss at length.",
-     "chinese": "高音部旋律;詳談"
+     "chinese": "高音部旋律；詳談"
     }
    },
    {
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
     "word": "diffidence",
     "pos": "n.",
     "definition": "Modesty or shyness resulting from a lack of self-confidence.",
-    "chinese": "缺乏自信;羞怯",
+    "chinese": "缺乏自信；羞怯",
     "synonyms": "",
     "root": "dis- (not) + fidere (to trust), from Latin",
     "group": "dis = 相反的",
@@ -96,7 +96,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Modesty or shyness resulting from a lack of self-confidence.",
-     "chinese": "缺乏自信;羞怯"
+     "chinese": "缺乏自信；羞怯"
     }
    },
    {
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "word": "digression",
     "pos": "n.",
     "definition": "A departure from the main subject in speech or writing.",
-    "chinese": "離題;岔題",
+    "chinese": "離題；岔題",
     "synonyms": "",
     "root": "dis- (apart) + gradi (to step), from Latin",
     "group": "dis = 相反的",
@@ -153,7 +153,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A departure from the main subject in speech or writing.",
-     "chinese": "離題;岔題"
+     "chinese": "離題；岔題"
     }
    },
    {
@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "dilapidated",
     "pos": "adj.",
     "definition": "In a state of disrepair due to age or neglect.",
-    "chinese": "破舊的;失修的",
+    "chinese": "破舊的；失修的",
     "synonyms": "",
     "root": "dis- (apart) + lapis (stone), from Latin",
     "group": "dis = 相反的",
@@ -191,7 +191,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "In a state of disrepair due to age or neglect.",
-     "chinese": "破舊的;失修的"
+     "chinese": "破舊的；失修的"
     }
    },
    {
@@ -217,7 +217,7 @@ window.FLASHCARD_UNITS = {
     "word": "direct",
     "pos": "adj./v.",
     "definition": "Going in a straight line; to guide or manage.",
-    "chinese": "直接的;指導",
+    "chinese": "直接的；指導",
     "synonyms": "",
     "root": "dis- (apart) + regere (to guide), from Latin",
     "group": "dis = 相反的",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Going in a straight line; to guide or manage.",
-     "chinese": "直接的;指導"
+     "chinese": "直接的；指導"
     }
    },
    {
@@ -255,7 +255,7 @@ window.FLASHCARD_UNITS = {
     "word": "disabuse",
     "pos": "v.",
     "definition": "To correct a mistaken belief in someone.",
-    "chinese": "使醒悟;糾正錯誤觀念",
+    "chinese": "使醒悟；糾正錯誤觀念",
     "synonyms": "",
     "root": "dis- (reverse) + abuser (to abuse), from French",
     "group": "dis = 相反的",
@@ -269,14 +269,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To correct a mistaken belief in someone.",
-     "chinese": "使醒悟;糾正錯誤觀念"
+     "chinese": "使醒悟；糾正錯誤觀念"
     }
    },
    {
     "word": "disaffect",
     "pos": "v.",
     "definition": "To cause someone to lose affection or loyalty toward.",
-    "chinese": "使疏離;使不滿",
+    "chinese": "使疏離；使不滿",
     "synonyms": "",
     "root": "dis- (not) + afficere (to affect), from Latin",
     "group": "dis = 相反的",
@@ -290,7 +290,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To cause someone to lose affection or loyalty toward.",
-     "chinese": "使疏離;使不滿"
+     "chinese": "使疏離；使不滿"
     }
    },
    {
@@ -316,7 +316,7 @@ window.FLASHCARD_UNITS = {
     "word": "disagree",
     "pos": "v.",
     "definition": "To hold a different opinion.",
-    "chinese": "不同意;意見不合",
+    "chinese": "不同意；意見不合",
     "synonyms": "",
     "root": "dis- (not) + agreer (to agree), from French",
     "group": "dis = 相反的",
@@ -328,14 +328,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To hold a different opinion.",
-     "chinese": "不同意;意見不合"
+     "chinese": "不同意；意見不合"
     }
    },
    {
     "word": "disagreeable",
     "pos": "adj.",
     "definition": "Unpleasant; unfriendly.",
-    "chinese": "令人不快的;不友善的",
+    "chinese": "令人不快的；不友善的",
     "synonyms": "",
     "root": "dis- (not) + agreer (to agree), from French",
     "group": "dis = 相反的",
@@ -347,7 +347,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unpleasant; unfriendly.",
-     "chinese": "令人不快的;不友善的"
+     "chinese": "令人不快的；不友善的"
     }
    },
    {
@@ -373,7 +373,7 @@ window.FLASHCARD_UNITS = {
     "word": "disallow",
     "pos": "v.",
     "definition": "To refuse to allow or accept something as valid.",
-    "chinese": "不准許;駁回",
+    "chinese": "不准許；駁回",
     "synonyms": "",
     "root": "dis- (not) + allouer (to allow), from Old French",
     "group": "dis = 相反的",
@@ -387,14 +387,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To refuse to allow or accept something as valid.",
-     "chinese": "不准許;駁回"
+     "chinese": "不准許；駁回"
     }
    },
    {
     "word": "disapprobation",
     "pos": "n.",
     "definition": "Strong disapproval; condemnation.",
-    "chinese": "強烈反對;譴責",
+    "chinese": "強烈反對；譴責",
     "synonyms": "",
     "root": "dis- (not) + approbare (to approve), from Latin",
     "group": "dis = 相反的",
@@ -406,7 +406,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Strong disapproval; condemnation.",
-     "chinese": "強烈反對;譴責"
+     "chinese": "強烈反對；譴責"
     }
    },
    {
@@ -472,7 +472,7 @@ window.FLASHCARD_UNITS = {
     "word": "disavowal",
     "pos": "n.",
     "definition": "A formal denial of responsibility or connection.",
-    "chinese": "否認;拒絕承認",
+    "chinese": "否認；拒絕承認",
     "synonyms": "",
     "root": "dis- (not) + avouer (to avow), from Old French",
     "group": "dis = 相反的",
@@ -484,7 +484,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal denial of responsibility or connection.",
-     "chinese": "否認;拒絕承認"
+     "chinese": "否認；拒絕承認"
     }
    },
    {
@@ -529,7 +529,7 @@ window.FLASHCARD_UNITS = {
     "word": "discernible",
     "pos": "adj.",
     "definition": "Able to be perceived clearly.",
-    "chinese": "可辨別的;可察覺的",
+    "chinese": "可辨別的；可察覺的",
     "synonyms": "",
     "root": "dis- (apart) + cernere (to sift, discern), from Latin",
     "group": "dis = 相反的",
@@ -541,7 +541,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Able to be perceived clearly.",
-     "chinese": "可辨別的;可察覺的"
+     "chinese": "可辨別的；可察覺的"
     }
    },
    {
@@ -567,7 +567,7 @@ window.FLASHCARD_UNITS = {
     "word": "discernment",
     "pos": "n.",
     "definition": "The ability to judge well.",
-    "chinese": "洞察力;辨別力",
+    "chinese": "洞察力；辨別力",
     "synonyms": "",
     "root": "dis- (apart) + cernere (to sift, discern), from Latin",
     "group": "dis = 相反的",
@@ -579,7 +579,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The ability to judge well.",
-     "chinese": "洞察力;辨別力"
+     "chinese": "洞察力；辨別力"
     }
    },
    {
@@ -624,7 +624,7 @@ window.FLASHCARD_UNITS = {
     "word": "discompose",
     "pos": "v.",
     "definition": "To disturb the composure of; to unsettle.",
-    "chinese": "使不安;擾亂",
+    "chinese": "使不安；擾亂",
     "synonyms": "",
     "root": "dis- (not) + componere (to compose), from Latin",
     "group": "dis = 相反的",
@@ -638,14 +638,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To disturb the composure of; to unsettle.",
-     "chinese": "使不安;擾亂"
+     "chinese": "使不安；擾亂"
     }
    },
    {
     "word": "discomposure",
     "pos": "n.",
     "definition": "A state of agitation or unease.",
-    "chinese": "不安;心神不寧",
+    "chinese": "不安；心神不寧",
     "synonyms": "",
     "root": "dis- (not) + componere (to compose), from Latin",
     "group": "dis = 相反的",
@@ -657,14 +657,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of agitation or unease.",
-     "chinese": "不安;心神不寧"
+     "chinese": "不安；心神不寧"
     }
    },
    {
     "word": "disconcert",
     "pos": "v.",
     "definition": "To disturb the composure of; to unsettle.",
-    "chinese": "使不安;使困惑",
+    "chinese": "使不安；使困惑",
     "synonyms": "",
     "root": "dis- (not) + concertare (to arrange together), from Latin",
     "group": "dis = 相反的",
@@ -678,14 +678,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To disturb the composure of; to unsettle.",
-     "chinese": "使不安;使困惑"
+     "chinese": "使不安；使困惑"
     }
    },
    {
     "word": "disconcerted",
     "pos": "adj.",
     "definition": "Unsettled or thrown into confusion.",
-    "chinese": "不安的;困惑的",
+    "chinese": "不安的；困惑的",
     "synonyms": "",
     "root": "dis- (not) + concertare (to arrange together), from Latin",
     "group": "dis = 相反的",
@@ -697,7 +697,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unsettled or thrown into confusion.",
-     "chinese": "不安的;困惑的"
+     "chinese": "不安的；困惑的"
     }
    },
    {
@@ -723,7 +723,7 @@ window.FLASHCARD_UNITS = {
     "word": "disconsolate",
     "pos": "adj.",
     "definition": "Unable to be comforted; deeply unhappy.",
-    "chinese": "無法安慰的;悲傷絕望的",
+    "chinese": "無法安慰的；悲傷絕望的",
     "synonyms": "",
     "root": "dis- (not) + consolari (to console), from Latin",
     "group": "dis = 相反的",
@@ -735,7 +735,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unable to be comforted; deeply unhappy.",
-     "chinese": "無法安慰的;悲傷絕望的"
+     "chinese": "無法安慰的；悲傷絕望的"
     }
    },
    {
@@ -799,7 +799,7 @@ window.FLASHCARD_UNITS = {
     "word": "discourse",
     "pos": "n./v.",
     "definition": "Written or spoken communication; to converse formally.",
-    "chinese": "話語;論述;交談",
+    "chinese": "話語；論述；交談",
     "synonyms": "",
     "root": "dis- (apart) + currere (to run), from Latin",
     "group": "dis = 相反的",
@@ -813,14 +813,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "Written or spoken communication; to converse formally.",
-     "chinese": "話語;論述;交談"
+     "chinese": "話語；論述；交談"
     }
    },
    {
     "word": "discredit",
     "pos": "v./n.",
     "definition": "To damage the reputation of; disbelief.",
-    "chinese": "使名譽受損;懷疑",
+    "chinese": "使名譽受損；懷疑",
     "synonyms": "",
     "root": "dis- (not) + credere (to believe), from Latin",
     "group": "dis = 相反的",
@@ -832,7 +832,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To damage the reputation of; disbelief.",
-     "chinese": "使名譽受損;懷疑"
+     "chinese": "使名譽受損；懷疑"
     }
    },
    {
@@ -877,7 +877,7 @@ window.FLASHCARD_UNITS = {
     "word": "discrete",
     "pos": "adj.",
     "definition": "Individually separate and distinct.",
-    "chinese": "分離的;獨立的",
+    "chinese": "分離的；獨立的",
     "synonyms": "",
     "root": "dis- (apart) + cernere (to sift, discern), from Latin",
     "group": "dis = 相反的",
@@ -889,7 +889,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Individually separate and distinct.",
-     "chinese": "分離的;獨立的"
+     "chinese": "分離的；獨立的"
     }
    },
    {
@@ -2174,4 +2174,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"deluge": ["To flood.", "淹沒；泛濫"], "deploy": ["To position forces according to a plan.", "部署；展開"], "descant": ["A melody sung above the main tune; to discuss at length.", "高音部旋律;詳談"], "difficult": ["Needing much effort or skill to accomplish.", "困難的"], "diffidence": ["Modesty or shyness resulting from a lack of self-confidence.", "缺乏自信;羞怯"], "diffident": ["Shy, quiet, modest.", "缺乏自信的；靦腆的"], "diffuse": ["Spread out, not concise; wordy.", "冗長散漫的；擴散的"], "digression": ["A departure from the main subject in speech or writing.", "離題;岔題"], "digressive": ["Departing from the main subject.", "離題的"], "dilapidated": ["In a state of disrepair due to age or neglect.", "破舊的;失修的"], "dilatory": ["Tending to delay, causing delay.", "拖延的；延誤的"], "direct": ["Going in a straight line; to guide or manage.", "直接的;指導"], "directed": ["Managed or guided.", "執導的；指導的"], "disabuse": ["To correct a mistaken belief in someone.", "使醒悟;糾正錯誤觀念"], "disaffect": ["To cause someone to lose affection or loyalty toward.", "使疏離;使不滿"], "disaffected": ["Rebellious, resentful of authority.", "心懷不滿的；叛逆的"], "disagree": ["To hold a different opinion.", "不同意;意見不合"], "disagreeable": ["Unpleasant; unfriendly.", "令人不快的;不友善的"], "disagreement": ["A difference of opinion.", "意見分歧"], "disallow": ["To refuse to allow or accept something as valid.", "不准許;駁回"], "disapprobation": ["Strong disapproval; condemnation.", "強烈反對;譴責"], "disaster": ["A sudden event causing great damage or suffering.", "災難"], "disastrous": ["Causing great harm or failure.", "災難性的"], "disavow": ["To deny knowledge of or responsibility for.", "否認；斷絕關係"], "disavowal": ["A formal denial of responsibility or connection.", "否認;拒絕承認"], "discalced": ["Barefoot or wearing only sandals, especially of certain religious orders.", "赤足的(尤指修會)"], "discern": ["To perceive and recognize (reason).", "辨別"], "discernible": ["Able to be perceived clearly.", "可辨別的;可察覺的"], "discerning": ["Able to judge people and situations clearly.", "有識別力的"], "discernment": ["The ability to judge well.", "洞察力;辨別力"], "disclose": ["To reveal, make public.", "揭露；公開"], "discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "discompose": ["To disturb the composure of; to unsettle.", "使不安;擾亂"], "discomposure": ["A state of agitation or unease.", "不安;心神不寧"], "disconcert": ["To disturb the composure of; to unsettle.", "使不安;使困惑"], "disconcerted": ["Unsettled or thrown into confusion.", "不安的;困惑的"], "disconcerting": ["Causing discomfort or confusion; unsettling.", "令人不安的"], "disconsolate": ["Unable to be comforted; deeply unhappy.", "無法安慰的;悲傷絕望的"], "discord": ["Disagreement.", "不和；紛爭"], "discordant": ["Lacking harmony or agreement.", "不和諧的"], "discourage": ["To dissuade or deter.", "使氣餒；勸阻"], "discourse": ["Written or spoken communication; to converse formally.", "話語;論述;交談"], "discredit": ["To damage the reputation of; disbelief.", "使名譽受損;懷疑"], "discreet": ["Careful, cautious, prudent.", "謹慎的"], "discrepancy": ["A difference.", "差異"], "discrete": ["Individually separate and distinct.", "分離的;獨立的"], "discretion": ["The ability to make responsible choices.", "謹慎；判斷力"], "discursive": ["Rambling, lacking order.", "散漫的；離題的"], "disdain": ["Contempt.", "蔑視"], "disdainful": ["Full of bitter scorn and pride; aloof.", "輕蔑的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"deluge": ["To flood.", "淹沒；泛濫"], "deploy": ["To position forces according to a plan.", "部署；展開"], "descant": ["A melody sung above the main tune; to discuss at length.", "高音部旋律；詳談"], "difficult": ["Needing much effort or skill to accomplish.", "困難的"], "diffidence": ["Modesty or shyness resulting from a lack of self-confidence.", "缺乏自信；羞怯"], "diffident": ["Shy, quiet, modest.", "缺乏自信的；靦腆的"], "diffuse": ["Spread out, not concise; wordy.", "冗長散漫的；擴散的"], "digression": ["A departure from the main subject in speech or writing.", "離題；岔題"], "digressive": ["Departing from the main subject.", "離題的"], "dilapidated": ["In a state of disrepair due to age or neglect.", "破舊的；失修的"], "dilatory": ["Tending to delay, causing delay.", "拖延的；延誤的"], "direct": ["Going in a straight line; to guide or manage.", "直接的；指導"], "directed": ["Managed or guided.", "執導的；指導的"], "disabuse": ["To correct a mistaken belief in someone.", "使醒悟；糾正錯誤觀念"], "disaffect": ["To cause someone to lose affection or loyalty toward.", "使疏離；使不滿"], "disaffected": ["Rebellious, resentful of authority.", "心懷不滿的；叛逆的"], "disagree": ["To hold a different opinion.", "不同意；意見不合"], "disagreeable": ["Unpleasant; unfriendly.", "令人不快的；不友善的"], "disagreement": ["A difference of opinion.", "意見分歧"], "disallow": ["To refuse to allow or accept something as valid.", "不准許；駁回"], "disapprobation": ["Strong disapproval; condemnation.", "強烈反對；譴責"], "disaster": ["A sudden event causing great damage or suffering.", "災難"], "disastrous": ["Causing great harm or failure.", "災難性的"], "disavow": ["To deny knowledge of or responsibility for.", "否認；斷絕關係"], "disavowal": ["A formal denial of responsibility or connection.", "否認；拒絕承認"], "discalced": ["Barefoot or wearing only sandals, especially of certain religious orders.", "赤足的(尤指修會)"], "discern": ["To perceive and recognize (reason).", "辨別"], "discernible": ["Able to be perceived clearly.", "可辨別的；可察覺的"], "discerning": ["Able to judge people and situations clearly.", "有識別力的"], "discernment": ["The ability to judge well.", "洞察力；辨別力"], "disclose": ["To reveal, make public.", "揭露；公開"], "discomfit": ["To thwart, baffle.", "使困惑；挫敗"], "discompose": ["To disturb the composure of; to unsettle.", "使不安；擾亂"], "discomposure": ["A state of agitation or unease.", "不安；心神不寧"], "disconcert": ["To disturb the composure of; to unsettle.", "使不安；使困惑"], "disconcerted": ["Unsettled or thrown into confusion.", "不安的；困惑的"], "disconcerting": ["Causing discomfort or confusion; unsettling.", "令人不安的"], "disconsolate": ["Unable to be comforted; deeply unhappy.", "無法安慰的；悲傷絕望的"], "discord": ["Disagreement.", "不和；紛爭"], "discordant": ["Lacking harmony or agreement.", "不和諧的"], "discourage": ["To dissuade or deter.", "使氣餒；勸阻"], "discourse": ["Written or spoken communication; to converse formally.", "話語；論述；交談"], "discredit": ["To damage the reputation of; disbelief.", "使名譽受損；懷疑"], "discreet": ["Careful, cautious, prudent.", "謹慎的"], "discrepancy": ["A difference.", "差異"], "discrete": ["Individually separate and distinct.", "分離的；獨立的"], "discretion": ["The ability to make responsible choices.", "謹慎；判斷力"], "discursive": ["Rambling, lacking order.", "散漫的；離題的"], "disdain": ["Contempt.", "蔑視"], "disdainful": ["Full of bitter scorn and pride; aloof.", "輕蔑的"]});

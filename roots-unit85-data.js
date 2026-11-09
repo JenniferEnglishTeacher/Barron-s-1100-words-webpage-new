@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "word": "agenda",
     "pos": "n.",
     "definition": "A list of items to be discussed at a meeting; an underlying plan.",
-    "chinese": "議程;議事日程",
+    "chinese": "議程；議事日程",
     "synonyms": "",
     "root": "agere (to do, from Latin)",
     "group": "act；ag = 做；動",
@@ -191,14 +191,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A list of items to be discussed at a meeting; an underlying plan.",
-     "chinese": "議程;議事日程"
+     "chinese": "議程；議事日程"
     }
    },
    {
     "word": "agent",
     "pos": "n.",
     "definition": "A person who acts on behalf of another; a substance causing an effect.",
-    "chinese": "代理人;媒介",
+    "chinese": "代理人；媒介",
     "synonyms": "",
     "root": "agere (to do, from Latin)",
     "group": "act；ag = 做；動",
@@ -210,14 +210,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who acts on behalf of another; a substance causing an effect.",
-     "chinese": "代理人;媒介"
+     "chinese": "代理人；媒介"
     }
    },
    {
     "word": "agent provocateur",
     "pos": "n.",
     "definition": "A person who secretly incites others to commit illegal acts in order to have them arrested.",
-    "chinese": "臥底煽動者;誘導犯罪者",
+    "chinese": "臥底煽動者；誘導犯罪者",
     "synonyms": "",
     "root": "agent (one who acts) + provocateur (provoker, from French)",
     "group": "act；ag = 做；動",
@@ -229,7 +229,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who secretly incites others to commit illegal acts in order to have them arrested.",
-     "chinese": "臥底煽動者;誘導犯罪者"
+     "chinese": "臥底煽動者；誘導犯罪者"
     }
    },
    {
@@ -295,7 +295,7 @@ window.FLASHCARD_UNITS = {
     "word": "agitation",
     "pos": "n.",
     "definition": "A state of anxiety or nervous excitement; vigorous public discussion or protest for a cause.",
-    "chinese": "焦慮;鼓動",
+    "chinese": "焦慮；鼓動",
     "synonyms": "",
     "root": "agitare (to drive, disturb, from Latin)",
     "group": "act；ag = 做；動",
@@ -307,7 +307,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of anxiety or nervous excitement; vigorous public discussion or protest for a cause.",
-     "chinese": "焦慮;鼓動"
+     "chinese": "焦慮；鼓動"
     }
    },
    {
@@ -333,7 +333,7 @@ window.FLASHCARD_UNITS = {
     "word": "agronomy",
     "pos": "n.",
     "definition": "The science of soil management and crop production.",
-    "chinese": "農學;農藝學",
+    "chinese": "農學；農藝學",
     "synonyms": "",
     "root": "agros (field) + nomos (law), from Greek",
     "group": "act；ag = 做；動",
@@ -345,7 +345,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The science of soil management and crop production.",
-     "chinese": "農學;農藝學"
+     "chinese": "農學；農藝學"
     }
    },
    {
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
     "word": "antagonize",
     "pos": "v.",
     "definition": "To provoke hostility in someone.",
-    "chinese": "激怒;使敵對",
+    "chinese": "激怒；使敵對",
     "synonyms": "",
     "root": "anti- (against) + agonizesthai (to contend), from Greek",
     "group": "act；ag = 做；動",
@@ -402,7 +402,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To provoke hostility in someone.",
-     "chinese": "激怒;使敵對"
+     "chinese": "激怒；使敵對"
     }
    },
    {
@@ -485,7 +485,7 @@ window.FLASHCARD_UNITS = {
     "word": "disagree",
     "pos": "v.",
     "definition": "To hold a different opinion.",
-    "chinese": "不同意;意見不合",
+    "chinese": "不同意；意見不合",
     "synonyms": "",
     "root": "dis- (not) + agreer (to agree), from French",
     "group": "act；ag = 做；動",
@@ -497,14 +497,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To hold a different opinion.",
-     "chinese": "不同意;意見不合"
+     "chinese": "不同意；意見不合"
     }
    },
    {
     "word": "disagreeable",
     "pos": "adj.",
     "definition": "Unpleasant; unfriendly.",
-    "chinese": "令人不快的;不友善的",
+    "chinese": "令人不快的；不友善的",
     "synonyms": "",
     "root": "dis- (not) + agreer (to agree), from French",
     "group": "act；ag = 做；動",
@@ -516,7 +516,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Unpleasant; unfriendly.",
-     "chinese": "令人不快的;不友善的"
+     "chinese": "令人不快的；不友善的"
     }
    },
    {
@@ -639,7 +639,7 @@ window.FLASHCARD_UNITS = {
     "word": "nonage",
     "pos": "n.",
     "definition": "The period of being under legal age; immaturity.",
-    "chinese": "未成年期;未成熟階段",
+    "chinese": "未成年期；未成熟階段",
     "synonyms": "",
     "root": "non- (not) + age, from Old French aage",
     "group": "act；ag = 做；動",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The period of being under legal age; immaturity.",
-     "chinese": "未成年期;未成熟階段"
+     "chinese": "未成年期；未成熟階段"
     }
    },
    {
     "word": "panegyric",
     "pos": "n.",
     "definition": "A formal public speech or writing praising someone or something.",
-    "chinese": "頌詞;讚美文章",
+    "chinese": "頌詞；讚美文章",
     "synonyms": "",
     "root": "panegyrikos (of a public assembly), from Greek pan- (all) + agora (assembly)",
     "group": "act；ag = 做；動",
@@ -670,7 +670,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A formal public speech or writing praising someone or something.",
-     "chinese": "頌詞;讚美文章"
+     "chinese": "頌詞；讚美文章"
     }
    },
    {
@@ -715,7 +715,7 @@ window.FLASHCARD_UNITS = {
     "word": "redact",
     "pos": "v.",
     "definition": "To edit or censor text, especially by removing sensitive information.",
-    "chinese": "編輯;刪除機密內容",
+    "chinese": "編輯；刪除機密內容",
     "synonyms": "",
     "root": "redigere (to bring back), from Latin re- (back) + agere (to drive)",
     "group": "act；ag = 做；動",
@@ -727,14 +727,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To edit or censor text, especially by removing sensitive information.",
-     "chinese": "編輯;刪除機密內容"
+     "chinese": "編輯；刪除機密內容"
     }
    },
    {
     "word": "redaction",
     "pos": "n.",
     "definition": "The editing or censoring of a text, especially by removing sensitive content.",
-    "chinese": "刪節;編輯處理",
+    "chinese": "刪節；編輯處理",
     "synonyms": "",
     "root": "redigere (to bring back), from Latin re- (back) + agere (to drive)",
     "group": "act；ag = 做；動",
@@ -746,7 +746,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The editing or censoring of a text, especially by removing sensitive content.",
-     "chinese": "刪節;編輯處理"
+     "chinese": "刪節；編輯處理"
     }
    },
    {
@@ -1734,4 +1734,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"castigate": ["To correct by punishing.", "嚴懲；苛評"], "cogent": ["Forceful, convincing, persuasive.", "令人信服的"], "ambiguous": ["Vague, undefined, not specific.", "模稜兩可的"], "activism": ["Rigorous campaigning, advocacy.", "行動主義；激進主義"], "mitigate": ["To make or become less severe; to lessen pain or damage.", "使緩和"], "antagonism": ["Hatred or hostility.", "敵對；對抗"], "prodigal": ["Wasteful; lavish.", "揮霍的"], "panegyrize": ["To praise a person or event in a formal speech or in writing.", "公開讚頌"], "exacting": ["Requiring a great deal of care or effort; painstaking.", "嚴格要求的"], "agenda": ["A list of items to be discussed at a meeting; an underlying plan.", "議程;議事日程"], "agent": ["A person who acts on behalf of another; a substance causing an effect.", "代理人;媒介"], "agent provocateur": ["A person who secretly incites others to commit illegal acts in order to have them arrested.", "臥底煽動者;誘導犯罪者"], "agile": ["Quick, nimble.", "敏捷的"], "agitate": ["To stir or disturb emotionally or physically.", "攪動；使不安"], "agitated": ["Troubled or nervous; feeling or showing anxiety.", "焦躁不安的"], "agitation": ["A state of anxiety or nervous excitement; vigorous public discussion or protest for a cause.", "焦慮;鼓動"], "agoraphobia": ["An extreme fear of open or crowded public spaces.", "廣場恐懼症"], "agronomy": ["The science of soil management and crop production.", "農學;農藝學"], "ambiguity": ["Uncertainty or multiple interpretations.", "模糊性；含糊不清"], "antagonistic": ["Showing hostility or opposition.", "敵對的；對抗性的"], "antagonize": ["To provoke hostility in someone.", "激怒;使敵對"], "coagulate": ["To thicken, clot.", "凝結；凝固"], "counteract": ["To work in opposition to.", "抵消；抵銷"], "demagogue": ["A leader who appeals to a people's prejudices.", "煽動政客；群眾煽動者"], "demagogy": ["Impassioned appeals to the prejudices and emotions of the populace.", "煽動政治；蠱惑人心"], "disagree": ["To hold a different opinion.", "不同意;意見不合"], "disagreeable": ["Unpleasant; unfriendly.", "令人不快的;不友善的"], "exactitude": ["The quality of being precise or accurate.", "精確性"], "exaggerate": ["To overstate or magnify beyond the truth.", "誇大"], "exigent": ["Urgent, critical.", "緊急的；迫切的"], "inactive": ["Not engaged in movement or activity.", "不活躍的；靜止的"], "intransigent": ["Refusing to compromise, often on an extreme opinion.", "不妥協的；頑固的"], "litigant": ["Someone engaged in a lawsuit.", "訴訟當事人"], "nonage": ["The period of being under legal age; immaturity.", "未成年期;未成熟階段"], "panegyric": ["A formal public speech or writing praising someone or something.", "頌詞;讚美文章"], "pedagogy": ["The profession of a teacher.", "教育學；教學法"], "proactive": ["Acting in anticipation of future problems rather than reacting to them.", "積極主動的"], "redact": ["To edit or censor text, especially by removing sensitive information.", "編輯;刪除機密內容"], "redaction": ["The editing or censoring of a text, especially by removing sensitive content.", "刪節;編輯處理"], "variegated": ["Diversified, distinctly marked.", "斑駁的；雜色的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"castigate": ["To correct by punishing.", "嚴懲；苛評"], "cogent": ["Forceful, convincing, persuasive.", "令人信服的"], "ambiguous": ["Vague, undefined, not specific.", "模稜兩可的"], "activism": ["Rigorous campaigning, advocacy.", "行動主義；激進主義"], "mitigate": ["To make or become less severe; to lessen pain or damage.", "使緩和"], "antagonism": ["Hatred or hostility.", "敵對；對抗"], "prodigal": ["Wasteful; lavish.", "揮霍的"], "panegyrize": ["To praise a person or event in a formal speech or in writing.", "公開讚頌"], "exacting": ["Requiring a great deal of care or effort; painstaking.", "嚴格要求的"], "agenda": ["A list of items to be discussed at a meeting; an underlying plan.", "議程；議事日程"], "agent": ["A person who acts on behalf of another; a substance causing an effect.", "代理人；媒介"], "agent provocateur": ["A person who secretly incites others to commit illegal acts in order to have them arrested.", "臥底煽動者；誘導犯罪者"], "agile": ["Quick, nimble.", "敏捷的"], "agitate": ["To stir or disturb emotionally or physically.", "攪動；使不安"], "agitated": ["Troubled or nervous; feeling or showing anxiety.", "焦躁不安的"], "agitation": ["A state of anxiety or nervous excitement; vigorous public discussion or protest for a cause.", "焦慮；鼓動"], "agoraphobia": ["An extreme fear of open or crowded public spaces.", "廣場恐懼症"], "agronomy": ["The science of soil management and crop production.", "農學；農藝學"], "ambiguity": ["Uncertainty or multiple interpretations.", "模糊性；含糊不清"], "antagonistic": ["Showing hostility or opposition.", "敵對的；對抗性的"], "antagonize": ["To provoke hostility in someone.", "激怒；使敵對"], "coagulate": ["To thicken, clot.", "凝結；凝固"], "counteract": ["To work in opposition to.", "抵消；抵銷"], "demagogue": ["A leader who appeals to a people's prejudices.", "煽動政客；群眾煽動者"], "demagogy": ["Impassioned appeals to the prejudices and emotions of the populace.", "煽動政治；蠱惑人心"], "disagree": ["To hold a different opinion.", "不同意；意見不合"], "disagreeable": ["Unpleasant; unfriendly.", "令人不快的；不友善的"], "exactitude": ["The quality of being precise or accurate.", "精確性"], "exaggerate": ["To overstate or magnify beyond the truth.", "誇大"], "exigent": ["Urgent, critical.", "緊急的；迫切的"], "inactive": ["Not engaged in movement or activity.", "不活躍的；靜止的"], "intransigent": ["Refusing to compromise, often on an extreme opinion.", "不妥協的；頑固的"], "litigant": ["Someone engaged in a lawsuit.", "訴訟當事人"], "nonage": ["The period of being under legal age; immaturity.", "未成年期；未成熟階段"], "panegyric": ["A formal public speech or writing praising someone or something.", "頌詞；讚美文章"], "pedagogy": ["The profession of a teacher.", "教育學；教學法"], "proactive": ["Acting in anticipation of future problems rather than reacting to them.", "積極主動的"], "redact": ["To edit or censor text, especially by removing sensitive information.", "編輯；刪除機密內容"], "redaction": ["The editing or censoring of a text, especially by removing sensitive content.", "刪節；編輯處理"], "variegated": ["Diversified, distinctly marked.", "斑駁的；雜色的"]});

@@ -63,7 +63,7 @@ window.FLASHCARD_UNITS = {
     "word": "caliginous",
     "pos": "adj.",
     "definition": "Misty, dim, or obscure.",
-    "chinese": "朦朧的;昏暗的",
+    "chinese": "朦朧的；昏暗的",
     "synonyms": "",
     "root": "caligo (mist, darkness, from Latin)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Misty, dim, or obscure.",
-     "chinese": "朦朧的;昏暗的"
+     "chinese": "朦朧的；昏暗的"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "calling",
     "pos": "n.",
     "definition": "A strong urge toward a particular profession or way of life.",
-    "chinese": "天職;使命感",
+    "chinese": "天職；使命感",
     "synonyms": "",
     "root": "callian (to call, from Old English)",
     "group": "",
@@ -113,7 +113,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A strong urge toward a particular profession or way of life.",
-     "chinese": "天職;使命感"
+     "chinese": "天職；使命感"
     }
    },
    {
@@ -177,7 +177,7 @@ window.FLASHCARD_UNITS = {
     "word": "calm",
     "pos": "adj./n.",
     "definition": "Not showing or feeling nervousness or excitement; a state of peace.",
-    "chinese": "冷靜的;平靜",
+    "chinese": "冷靜的；平靜",
     "synonyms": "",
     "root": "cauma (heat of the day, from Greek)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Not showing or feeling nervousness or excitement; a state of peace.",
-     "chinese": "冷靜的;平靜"
+     "chinese": "冷靜的；平靜"
     }
    },
    {
     "word": "calotte",
     "pos": "n.",
     "definition": "A small, close-fitting skullcap.",
-    "chinese": "無邊便帽;小圓帽",
+    "chinese": "無邊便帽；小圓帽",
     "synonyms": "",
     "root": "calotte (skullcap, from French)",
     "group": "",
@@ -208,14 +208,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A small, close-fitting skullcap.",
-     "chinese": "無邊便帽;小圓帽"
+     "chinese": "無邊便帽；小圓帽"
     }
    },
    {
     "word": "calumniate",
     "pos": "v.",
     "definition": "To make false and defamatory statements about someone.",
-    "chinese": "誹謗;中傷",
+    "chinese": "誹謗；中傷",
     "synonyms": "",
     "root": "calumniari (to accuse falsely, from Latin)",
     "group": "",
@@ -227,14 +227,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To make false and defamatory statements about someone.",
-     "chinese": "誹謗;中傷"
+     "chinese": "誹謗；中傷"
     }
    },
    {
     "word": "calumnious",
     "pos": "adj.",
     "definition": "Making false and defamatory statements.",
-    "chinese": "誹謗性的;中傷的",
+    "chinese": "誹謗性的；中傷的",
     "synonyms": "",
     "root": "calumniari (to accuse falsely, from Latin)",
     "group": "",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Making false and defamatory statements.",
-     "chinese": "誹謗性的;中傷的"
+     "chinese": "誹謗性的；中傷的"
     }
    },
    {
@@ -428,7 +428,7 @@ window.FLASHCARD_UNITS = {
     "word": "cannibal",
     "pos": "n.",
     "definition": "A person or animal that eats the flesh of its own species.",
-    "chinese": "食人者;同類相食的動物",
+    "chinese": "食人者；同類相食的動物",
     "synonyms": "",
     "root": "Caníbales (name given by Columbus to the Carib people)",
     "group": "",
@@ -442,7 +442,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A person or animal that eats the flesh of its own species.",
-     "chinese": "食人者;同類相食的動物"
+     "chinese": "食人者；同類相食的動物"
     }
    },
    {
@@ -679,7 +679,7 @@ window.FLASHCARD_UNITS = {
     "word": "careful",
     "pos": "adj.",
     "definition": "Taking care to avoid harm or mistakes.",
-    "chinese": "小心的;謹慎的",
+    "chinese": "小心的；謹慎的",
     "synonyms": "",
     "root": "care + -ful",
     "group": "",
@@ -691,7 +691,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Taking care to avoid harm or mistakes.",
-     "chinese": "小心的;謹慎的"
+     "chinese": "小心的；謹慎的"
     }
    },
    {
@@ -717,7 +717,7 @@ window.FLASHCARD_UNITS = {
     "word": "caricature",
     "pos": "n./v.",
     "definition": "An exaggerated portrayal of someone's distinctive features, usually for comic effect.",
-    "chinese": "漫畫;誇張描繪",
+    "chinese": "漫畫；誇張描繪",
     "synonyms": "",
     "root": "caricare (to load, exaggerate, from Italian)",
     "group": "",
@@ -729,7 +729,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An exaggerated portrayal of someone's distinctive features, usually for comic effect.",
-     "chinese": "漫畫;誇張描繪"
+     "chinese": "漫畫；誇張描繪"
     }
    },
    {
@@ -774,7 +774,7 @@ window.FLASHCARD_UNITS = {
     "word": "carnal",
     "pos": "adj.",
     "definition": "Relating to physical, especially sexual, desires.",
-    "chinese": "肉體的;肉慾的",
+    "chinese": "肉體的；肉慾的",
     "synonyms": "",
     "root": "caro (flesh, from Latin)",
     "group": "",
@@ -786,7 +786,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to physical, especially sexual, desires.",
-     "chinese": "肉體的;肉慾的"
+     "chinese": "肉體的；肉慾的"
     }
    },
    {
@@ -892,7 +892,7 @@ window.FLASHCARD_UNITS = {
     "word": "carping",
     "pos": "adj./n.",
     "definition": "Constantly complaining or finding fault in a petty way.",
-    "chinese": "吹毛求疵的;嘮叨抱怨",
+    "chinese": "吹毛求疵的；嘮叨抱怨",
     "synonyms": "",
     "root": "carpere (to pluck, slander), from Latin",
     "group": "",
@@ -904,7 +904,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Constantly complaining or finding fault in a petty way.",
-     "chinese": "吹毛求疵的;嘮叨抱怨"
+     "chinese": "吹毛求疵的；嘮叨抱怨"
     }
    },
    {
@@ -949,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "word": "cataclysm",
     "pos": "n.",
     "definition": "A large-scale, violent event causing great change or destruction.",
-    "chinese": "大災變;劇變",
+    "chinese": "大災變；劇變",
     "synonyms": "",
     "root": "kata- (down) + klyzein (to wash), from Greek",
     "group": "",
@@ -963,7 +963,7 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A large-scale, violent event causing great change or destruction.",
-     "chinese": "大災變;劇變"
+     "chinese": "大災變；劇變"
     }
    }
   ],
@@ -2172,4 +2172,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"calamity": ["An event with disastrous consequences.", "災難；大禍"], "calced": ["Wearing shoes (as opposed to a barefoot religious order).", "穿鞋的(修會用語)"], "calibrate": ["To adjust for precision.", "校準"], "caliginous": ["Misty, dim, or obscure.", "朦朧的;昏暗的"], "calligraphy": ["The art of decorative, elegant handwriting.", "書法"], "calling": ["A strong urge toward a particular profession or way of life.", "天職;使命感"], "callous": ["Hardened, unfeeling.", "無情的；麻木的"], "callow": ["Inexperienced, youthful.", "缺乏經驗的；不諳世事的"], "calm": ["Not showing or feeling nervousness or excitement; a state of peace.", "冷靜的;平靜"], "calotte": ["A small, close-fitting skullcap.", "無邊便帽;小圓帽"], "calumniate": ["To make false and defamatory statements about someone.", "誹謗;中傷"], "calumnious": ["Making false and defamatory statements.", "誹謗性的;中傷的"], "calumny": ["False accusation, slander.", "誹謗；中傷"], "camaraderie": ["Brotherhood, jovial unity.", "同志情誼；友愛"], "camcorder": ["A portable video camera that also records sound.", "攝錄影機"], "camouflage": ["Concealment by disguising appearance; to disguise in this way.", "偽裝"], "canard": ["Made-up sensational story.", "謠言；假新聞"], "cancel": ["To decide that a planned event will not take place.", "取消"], "candid": ["Frank, open, honest.", "坦白的；直率的"], "candor": ["Frankness, honesty.", "坦率；真誠"], "canine": ["A dog, wolf, jackal, or other closely related mammal.", "犬科動物"], "cannibal": ["A person or animal that eats the flesh of its own species.", "食人者;同類相食的動物"], "canny": ["Shrewd, careful.", "精明的；謹慎的"], "canonization": ["The official declaration of a deceased person as a saint.", "封聖"], "cant": ["Insincere or almost meaningless talk.", "偽善之言；黑話"], "cantankerous": ["Bad-tempered; quarrelsome.", "脾氣暴躁的"], "canvas": ["A piece of cloth on which an artist paints.", "帆布；畫布"], "capital": ["A center that is associated with some activity or product.", "首都；中心"], "capitulate": ["To surrender, make terms.", "投降；屈服"], "capitulum": ["An arrangement of leafy branches forming the top or head of a tree.", "頭狀花序；樹冠"], "capricious": ["Unpredictable, careless.", "反覆無常的"], "captain": ["The leader of a group of people.", "隊長；船長"], "cardiogram": ["A graphical recording of the cardiac cycle produced by an electrocardiograph.", "心電圖"], "cardiograph": ["A medical instrument that measures the mechanical force of cardiac contractions.", "心動描記器"], "careful": ["Taking care to avoid harm or mistakes.", "小心的;謹慎的"], "carelessly": ["Without caution.", "粗心地；不小心地"], "caricature": ["An exaggerated portrayal of someone's distinctive features, usually for comic effect.", "漫畫;誇張描繪"], "carillonneur": ["A person who plays a carillon (a set of bells).", "鐘琴演奏家"], "carnage": ["Slaughter, devastation.", "大屠殺"], "carnal": ["Relating to physical, especially sexual, desires.", "肉體的;肉慾的"], "carnality": ["Feeling morbid sexual desire or a propensity to lewdness.", "肉慾；情慾"], "carnelian": ["A translucent red or orange variety of chalcedony.", "肉紅玉髓"], "carnivorous": ["Relating to flesh-eating animals.", "食肉的"], "carouse": ["To party, celebrate.", "狂歡暢飲"], "carp": ["To annoy, pester.", "抱怨；挑剔"], "carping": ["Constantly complaining or finding fault in a petty way.", "吹毛求疵的;嘮叨抱怨"], "cartomancy": ["Fortune-telling using playing cards or tarot cards.", "紙牌占卜術"], "catachresis": ["The incorrect or unconventional use of a word.", "詞語誤用"], "cataclysm": ["A large-scale, violent event causing great change or destruction.", "大災變;劇變"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"calamity": ["An event with disastrous consequences.", "災難；大禍"], "calced": ["Wearing shoes (as opposed to a barefoot religious order).", "穿鞋的(修會用語)"], "calibrate": ["To adjust for precision.", "校準"], "caliginous": ["Misty, dim, or obscure.", "朦朧的；昏暗的"], "calligraphy": ["The art of decorative, elegant handwriting.", "書法"], "calling": ["A strong urge toward a particular profession or way of life.", "天職；使命感"], "callous": ["Hardened, unfeeling.", "無情的；麻木的"], "callow": ["Inexperienced, youthful.", "缺乏經驗的；不諳世事的"], "calm": ["Not showing or feeling nervousness or excitement; a state of peace.", "冷靜的；平靜"], "calotte": ["A small, close-fitting skullcap.", "無邊便帽；小圓帽"], "calumniate": ["To make false and defamatory statements about someone.", "誹謗；中傷"], "calumnious": ["Making false and defamatory statements.", "誹謗性的；中傷的"], "calumny": ["False accusation, slander.", "誹謗；中傷"], "camaraderie": ["Brotherhood, jovial unity.", "同志情誼；友愛"], "camcorder": ["A portable video camera that also records sound.", "攝錄影機"], "camouflage": ["Concealment by disguising appearance; to disguise in this way.", "偽裝"], "canard": ["Made-up sensational story.", "謠言；假新聞"], "cancel": ["To decide that a planned event will not take place.", "取消"], "candid": ["Frank, open, honest.", "坦白的；直率的"], "candor": ["Frankness, honesty.", "坦率；真誠"], "canine": ["A dog, wolf, jackal, or other closely related mammal.", "犬科動物"], "cannibal": ["A person or animal that eats the flesh of its own species.", "食人者；同類相食的動物"], "canny": ["Shrewd, careful.", "精明的；謹慎的"], "canonization": ["The official declaration of a deceased person as a saint.", "封聖"], "cant": ["Insincere or almost meaningless talk.", "偽善之言；黑話"], "cantankerous": ["Bad-tempered; quarrelsome.", "脾氣暴躁的"], "canvas": ["A piece of cloth on which an artist paints.", "帆布；畫布"], "capital": ["A center that is associated with some activity or product.", "首都；中心"], "capitulate": ["To surrender, make terms.", "投降；屈服"], "capitulum": ["An arrangement of leafy branches forming the top or head of a tree.", "頭狀花序；樹冠"], "capricious": ["Unpredictable, careless.", "反覆無常的"], "captain": ["The leader of a group of people.", "隊長；船長"], "cardiogram": ["A graphical recording of the cardiac cycle produced by an electrocardiograph.", "心電圖"], "cardiograph": ["A medical instrument that measures the mechanical force of cardiac contractions.", "心動描記器"], "careful": ["Taking care to avoid harm or mistakes.", "小心的；謹慎的"], "carelessly": ["Without caution.", "粗心地；不小心地"], "caricature": ["An exaggerated portrayal of someone's distinctive features, usually for comic effect.", "漫畫；誇張描繪"], "carillonneur": ["A person who plays a carillon (a set of bells).", "鐘琴演奏家"], "carnage": ["Slaughter, devastation.", "大屠殺"], "carnal": ["Relating to physical, especially sexual, desires.", "肉體的；肉慾的"], "carnality": ["Feeling morbid sexual desire or a propensity to lewdness.", "肉慾；情慾"], "carnelian": ["A translucent red or orange variety of chalcedony.", "肉紅玉髓"], "carnivorous": ["Relating to flesh-eating animals.", "食肉的"], "carouse": ["To party, celebrate.", "狂歡暢飲"], "carp": ["To annoy, pester.", "抱怨；挑剔"], "carping": ["Constantly complaining or finding fault in a petty way.", "吹毛求疵的；嘮叨抱怨"], "cartomancy": ["Fortune-telling using playing cards or tarot cards.", "紙牌占卜術"], "catachresis": ["The incorrect or unconventional use of a word.", "詞語誤用"], "cataclysm": ["A large-scale, violent event causing great change or destruction.", "大災變；劇變"]});

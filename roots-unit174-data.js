@@ -25,7 +25,7 @@ window.FLASHCARD_UNITS = {
     "word": "comity",
     "pos": "n.",
     "definition": "An atmosphere of mutual respect and courtesy, especially between nations.",
-    "chinese": "禮讓;友好關係",
+    "chinese": "禮讓；友好關係",
     "synonyms": "",
     "root": "comitas (courtesy, from Latin)",
     "group": "",
@@ -37,14 +37,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An atmosphere of mutual respect and courtesy, especially between nations.",
-     "chinese": "禮讓;友好關係"
+     "chinese": "禮讓；友好關係"
     }
    },
    {
     "word": "commentariat",
     "pos": "n.",
     "definition": "Journalists and commentators regarded collectively as an influential group.",
-    "chinese": "評論家群體;輿論界",
+    "chinese": "評論家群體；輿論界",
     "synonyms": "",
     "root": "commentary + -ariat (as in proletariat)",
     "group": "",
@@ -56,14 +56,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Journalists and commentators regarded collectively as an influential group.",
-     "chinese": "評論家群體;輿論界"
+     "chinese": "評論家群體；輿論界"
     }
    },
    {
     "word": "commode",
     "pos": "n.",
     "definition": "A chest of drawers; a toilet, especially a portable one.",
-    "chinese": "五斗櫃;便桶",
+    "chinese": "五斗櫃；便桶",
     "synonyms": "",
     "root": "commodus (convenient, from Latin)",
     "group": "",
@@ -75,7 +75,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A chest of drawers; a toilet, especially a portable one.",
-     "chinese": "五斗櫃;便桶"
+     "chinese": "五斗櫃；便桶"
     }
    },
    {
@@ -101,7 +101,7 @@ window.FLASHCARD_UNITS = {
     "word": "commonplace",
     "pos": "adj./n.",
     "definition": "Ordinary and unremarkable; a common occurrence or saying.",
-    "chinese": "平凡的;常見的事",
+    "chinese": "平凡的；常見的事",
     "synonyms": "",
     "root": "commun (common) + place, from Latin",
     "group": "",
@@ -113,14 +113,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Ordinary and unremarkable; a common occurrence or saying.",
-     "chinese": "平凡的;常見的事"
+     "chinese": "平凡的；常見的事"
     }
    },
    {
     "word": "communiqué",
     "pos": "n.",
     "definition": "An official announcement or statement, especially issued to the press.",
-    "chinese": "公報;官方聲明",
+    "chinese": "公報；官方聲明",
     "synonyms": "",
     "root": "communiquer (to communicate, from French)",
     "group": "",
@@ -132,7 +132,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An official announcement or statement, especially issued to the press.",
-     "chinese": "公報;官方聲明"
+     "chinese": "公報；官方聲明"
     }
    },
    {
@@ -158,7 +158,7 @@ window.FLASHCARD_UNITS = {
     "word": "complaisant",
     "pos": "adj.",
     "definition": "Willing to please others; agreeable.",
-    "chinese": "順從的;願意討好的",
+    "chinese": "順從的；願意討好的",
     "synonyms": "",
     "root": "complacere (to please, from Latin)",
     "group": "",
@@ -170,14 +170,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Willing to please others; agreeable.",
-     "chinese": "順從的;願意討好的"
+     "chinese": "順從的；願意討好的"
     }
    },
    {
     "word": "comply",
     "pos": "v.",
     "definition": "To act in accordance with a rule or request.",
-    "chinese": "遵守;服從",
+    "chinese": "遵守；服從",
     "synonyms": "",
     "root": "complere (to fulfill, from Latin)",
     "group": "",
@@ -189,14 +189,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To act in accordance with a rule or request.",
-     "chinese": "遵守;服從"
+     "chinese": "遵守；服從"
     }
    },
    {
     "word": "computerese",
     "pos": "n.",
     "definition": "The specialized jargon of computer programmers and technicians.",
-    "chinese": "電腦術語;電腦行話",
+    "chinese": "電腦術語；電腦行話",
     "synonyms": "",
     "root": "computer + -ese (language style)",
     "group": "",
@@ -208,7 +208,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The specialized jargon of computer programmers and technicians.",
-     "chinese": "電腦術語;電腦行話"
+     "chinese": "電腦術語；電腦行話"
     }
    },
    {
@@ -234,7 +234,7 @@ window.FLASHCARD_UNITS = {
     "word": "connivance",
     "pos": "n.",
     "definition": "Secret cooperation in wrongdoing; tacit approval of an offense.",
-    "chinese": "默許;縱容",
+    "chinese": "默許；縱容",
     "synonyms": "",
     "root": "connivere (to wink at, from Latin)",
     "group": "",
@@ -246,7 +246,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Secret cooperation in wrongdoing; tacit approval of an offense.",
-     "chinese": "默許;縱容"
+     "chinese": "默許；縱容"
     }
    },
    {
@@ -312,7 +312,7 @@ window.FLASHCARD_UNITS = {
     "word": "consummation",
     "pos": "n.",
     "definition": "The completion or ultimate fulfillment of something.",
-    "chinese": "完成;圓滿實現",
+    "chinese": "完成；圓滿實現",
     "synonyms": "",
     "root": "summus (highest), from Latin",
     "group": "",
@@ -324,7 +324,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "The completion or ultimate fulfillment of something.",
-     "chinese": "完成;圓滿實現"
+     "chinese": "完成；圓滿實現"
     }
    },
    {
@@ -350,7 +350,7 @@ window.FLASHCARD_UNITS = {
     "word": "contrarian",
     "pos": "n./adj.",
     "definition": "A person who opposes popular opinion; taking an opposing view.",
-    "chinese": "唱反調者;逆勢而行的",
+    "chinese": "唱反調者；逆勢而行的",
     "synonyms": "",
     "root": "contrarius (opposite, from Latin)",
     "group": "",
@@ -362,14 +362,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A person who opposes popular opinion; taking an opposing view.",
-     "chinese": "唱反調者;逆勢而行的"
+     "chinese": "唱反調者；逆勢而行的"
     }
    },
    {
     "word": "contrary",
     "pos": "adj.",
     "definition": "Opposite in nature or direction; stubbornly opposed.",
-    "chinese": "相反的;固執己見的",
+    "chinese": "相反的；固執己見的",
     "synonyms": "",
     "root": "contra (against)",
     "group": "",
@@ -381,14 +381,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Opposite in nature or direction; stubbornly opposed.",
-     "chinese": "相反的;固執己見的"
+     "chinese": "相反的；固執己見的"
     }
    },
    {
     "word": "contretemps",
     "pos": "n.",
     "definition": "An unexpected and embarrassing mishap or minor disagreement.",
-    "chinese": "意外的尷尬事件;小爭執",
+    "chinese": "意外的尷尬事件；小爭執",
     "synonyms": "",
     "root": "French contre- (against) + temps (time)",
     "group": "",
@@ -400,7 +400,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An unexpected and embarrassing mishap or minor disagreement.",
-     "chinese": "意外的尷尬事件;小爭執"
+     "chinese": "意外的尷尬事件；小爭執"
     }
    },
    {
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "word": "cope",
     "pos": "v.",
     "definition": "To deal effectively with something difficult.",
-    "chinese": "應付;應對",
+    "chinese": "應付；應對",
     "synonyms": "",
     "root": "from Old French couper (to strike)",
     "group": "",
@@ -438,7 +438,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "To deal effectively with something difficult.",
-     "chinese": "應付;應對"
+     "chinese": "應付；應對"
     }
    },
    {
@@ -502,7 +502,7 @@ window.FLASHCARD_UNITS = {
     "word": "corbel",
     "pos": "n.",
     "definition": "A projecting stone or timber support for a structure above it.",
-    "chinese": "托座;懸臂托架",
+    "chinese": "托座；懸臂托架",
     "synonyms": "",
     "root": "from Old French corbel (raven, diminutive), from Latin corvus",
     "group": "",
@@ -516,14 +516,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A projecting stone or timber support for a structure above it.",
-     "chinese": "托座;懸臂托架"
+     "chinese": "托座；懸臂托架"
     }
    },
    {
     "word": "cornucopia",
     "pos": "n.",
     "definition": "An abundant supply of good things.",
-    "chinese": "豐饒之角;豐富多樣",
+    "chinese": "豐饒之角；豐富多樣",
     "synonyms": "",
     "root": "cornu (horn) + copia (abundance), from Latin",
     "group": "",
@@ -535,7 +535,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An abundant supply of good things.",
-     "chinese": "豐饒之角;豐富多樣"
+     "chinese": "豐饒之角；豐富多樣"
     }
    },
    {
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
     "word": "corporeal",
     "pos": "adj.",
     "definition": "Relating to the physical body rather than the spirit.",
-    "chinese": "肉體的;有形的",
+    "chinese": "肉體的；有形的",
     "synonyms": "",
     "root": "corpus (body), from Latin",
     "group": "",
@@ -573,7 +573,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Relating to the physical body rather than the spirit.",
-     "chinese": "肉體的;有形的"
+     "chinese": "肉體的；有形的"
     }
    },
    {
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "word": "corpus",
     "pos": "n.",
     "definition": "A collection of written texts, especially for linguistic study.",
-    "chinese": "文集;語料庫",
+    "chinese": "文集；語料庫",
     "synonyms": "",
     "root": "corpus (body), from Latin",
     "group": "",
@@ -649,14 +649,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A collection of written texts, especially for linguistic study.",
-     "chinese": "文集;語料庫"
+     "chinese": "文集；語料庫"
     }
    },
    {
     "word": "corpuscle",
     "pos": "n.",
     "definition": "A small particle, especially a blood cell.",
-    "chinese": "血球;微粒",
+    "chinese": "血球；微粒",
     "synonyms": "",
     "root": "corpus (body) + -culum (diminutive), from Latin",
     "group": "",
@@ -670,14 +670,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "A small particle, especially a blood cell.",
-     "chinese": "血球;微粒"
+     "chinese": "血球；微粒"
     }
    },
    {
     "word": "corrigendum",
     "pos": "n.",
     "definition": "An error to be corrected, especially in a printed book.",
-    "chinese": "勘誤;更正表",
+    "chinese": "勘誤；更正表",
     "synonyms": "",
     "root": "corrigere (to correct), from Latin",
     "group": "",
@@ -689,14 +689,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "An error to be corrected, especially in a printed book.",
-     "chinese": "勘誤;更正表"
+     "chinese": "勘誤；更正表"
     }
    },
    {
     "word": "coruscating",
     "pos": "adj.",
     "definition": "Flashing brilliantly; sharply critical.",
-    "chinese": "閃耀的;犀利的",
+    "chinese": "閃耀的；犀利的",
     "synonyms": "",
     "root": "coruscare (to flash), from Latin",
     "group": "",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Flashing brilliantly; sharply critical.",
-     "chinese": "閃耀的;犀利的"
+     "chinese": "閃耀的；犀利的"
     }
    },
    {
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
     "word": "corybant",
     "pos": "n.",
     "definition": "An ecstatic or frenzied reveler, from the priests of Cybele.",
-    "chinese": "狂熱的祭司;狂歡者",
+    "chinese": "狂熱的祭司；狂歡者",
     "synonyms": "",
     "root": "Korybas, from Greek mythology",
     "group": "",
@@ -748,14 +748,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "An ecstatic or frenzied reveler, from the priests of Cybele.",
-     "chinese": "狂熱的祭司;狂歡者"
+     "chinese": "狂熱的祭司；狂歡者"
     }
    },
    {
     "word": "corybantic",
     "pos": "adj.",
     "definition": "Wildly excited or frenzied.",
-    "chinese": "狂熱的;瘋狂亢奮的",
+    "chinese": "狂熱的；瘋狂亢奮的",
     "synonyms": "",
     "root": "Korybas, from Greek mythology",
     "group": "",
@@ -767,14 +767,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Wildly excited or frenzied.",
-     "chinese": "狂熱的;瘋狂亢奮的"
+     "chinese": "狂熱的；瘋狂亢奮的"
     }
    },
    {
     "word": "corybantism",
     "pos": "n.",
     "definition": "A state of frenzied excitement or mania.",
-    "chinese": "狂熱狀態;瘋狂亢奮",
+    "chinese": "狂熱狀態；瘋狂亢奮",
     "synonyms": "",
     "root": "Korybas, from Greek mythology",
     "group": "",
@@ -786,7 +786,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "A state of frenzied excitement or mania.",
-     "chinese": "狂熱狀態;瘋狂亢奮"
+     "chinese": "狂熱狀態；瘋狂亢奮"
     }
    },
    {
@@ -831,7 +831,7 @@ window.FLASHCARD_UNITS = {
     "word": "cosset",
     "pos": "v.",
     "definition": "To pamper or treat with excessive indulgence.",
-    "chinese": "溺愛;嬌寵",
+    "chinese": "溺愛；嬌寵",
     "synonyms": "",
     "root": "possibly from Old French, related to cot (cottage lamb)",
     "group": "",
@@ -845,14 +845,14 @@ window.FLASHCARD_UNITS = {
     ],
     "lookup": {
      "english": "To pamper or treat with excessive indulgence.",
-     "chinese": "溺愛;嬌寵"
+     "chinese": "溺愛；嬌寵"
     }
    },
    {
     "word": "cosseted",
     "pos": "adj.",
     "definition": "Pampered; protected from difficulty.",
-    "chinese": "被溺愛的;受呵護的",
+    "chinese": "被溺愛的；受呵護的",
     "synonyms": "",
     "root": "possibly from Old French, related to cot (cottage lamb)",
     "group": "",
@@ -864,14 +864,14 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Pampered; protected from difficulty.",
-     "chinese": "被溺愛的;受呵護的"
+     "chinese": "被溺愛的；受呵護的"
     }
    },
    {
     "word": "costive",
     "pos": "adj.",
     "definition": "Slow to act or speak; constipated.",
-    "chinese": "遲緩的;吝嗇的;便秘的",
+    "chinese": "遲緩的；吝嗇的；便秘的",
     "synonyms": "",
     "root": "constipare (to press together), from Latin",
     "group": "",
@@ -883,7 +883,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Slow to act or speak; constipated.",
-     "chinese": "遲緩的;吝嗇的;便秘的"
+     "chinese": "遲緩的；吝嗇的；便秘的"
     }
    },
    {
@@ -928,7 +928,7 @@ window.FLASHCARD_UNITS = {
     "word": "counsel",
     "pos": "n./v.",
     "definition": "Advice; a lawyer; to give advice.",
-    "chinese": "忠告;律師;勸告",
+    "chinese": "忠告；律師；勸告",
     "synonyms": "",
     "root": "consulere (to consult), from Latin",
     "group": "",
@@ -940,7 +940,7 @@ window.FLASHCARD_UNITS = {
     "forms": [],
     "lookup": {
      "english": "Advice; a lawyer; to give advice.",
-     "chinese": "忠告;律師;勸告"
+     "chinese": "忠告；律師；勸告"
     }
    },
    {
@@ -2168,4 +2168,4 @@ window.FLASHCARD_UNITS = {
  }
 };
 
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"comely": ["Beautiful, handsome.", "清秀的；標緻的"], "comity": ["An atmosphere of mutual respect and courtesy, especially between nations.", "禮讓;友好關係"], "commentariat": ["Journalists and commentators regarded collectively as an influential group.", "評論家群體;輿論界"], "commode": ["A chest of drawers; a toilet, especially a portable one.", "五斗櫃;便桶"], "common": ["Occurring frequently or shared.", "常見的"], "commonplace": ["Ordinary and unremarkable; a common occurrence or saying.", "平凡的;常見的事"], "communiqué": ["An official announcement or statement, especially issued to the press.", "公報;官方聲明"], "compensate": ["To make an appropriate payment for something.", "補償；賠償"], "complaisant": ["Willing to please others; agreeable.", "順從的;願意討好的"], "comply": ["To act in accordance with a rule or request.", "遵守;服從"], "computerese": ["The specialized jargon of computer programmers and technicians.", "電腦術語;電腦行話"], "comstockery": ["Overzealous censorship of literature or art considered immoral.", "過度道德審查(反淫穢主義)"], "connivance": ["Secret cooperation in wrongdoing; tacit approval of an offense.", "默許;縱容"], "consul": ["An official appointed to represent a country's interests in a foreign city.", "領事"], "consulate": ["The official premises of a consul.", "領事館"], "consult": ["To seek advice or information from someone or something.", "諮詢"], "consummation": ["The completion or ultimate fulfillment of something.", "完成;圓滿實現"], "contoured": ["Shaped or formed into a particular outline, especially one that is smooth or curved.", "具輪廓的；曲線形的"], "contrarian": ["A person who opposes popular opinion; taking an opposing view.", "唱反調者;逆勢而行的"], "contrary": ["Opposite in nature or direction; stubbornly opposed.", "相反的;固執己見的"], "contretemps": ["An unexpected and embarrassing mishap or minor disagreement.", "意外的尷尬事件;小爭執"], "conundrum": ["Puzzle, problem.", "難題；謎題"], "cope": ["To deal effectively with something difficult.", "應付;應對"], "cope with": ["To deal with effectively.", "應付；處理"], "copious": ["Ample, abundant, plentiful.", "豐富的；大量的"], "coquette": ["A woman who flirts frivolously with men.", "賣弄風情的女子"], "corbel": ["A projecting stone or timber support for a structure above it.", "托座;懸臂托架"], "cornucopia": ["An abundant supply of good things.", "豐饒之角;豐富多樣"], "coronation": ["The act of crowning.", "加冕典禮"], "corporeal": ["Relating to the physical body rather than the spirit.", "肉體的;有形的"], "corpse": ["A dead body, especially of a human.", "屍體"], "corpulence": ["Extreme fatness.", "肥胖"], "corpulent": ["Fleshy, burly, fat.", "肥胖的"], "corpus": ["A collection of written texts, especially for linguistic study.", "文集;語料庫"], "corpuscle": ["A small particle, especially a blood cell.", "血球;微粒"], "corrigendum": ["An error to be corrected, especially in a printed book.", "勘誤;更正表"], "coruscating": ["Flashing brilliantly; sharply critical.", "閃耀的;犀利的"], "corvine": ["Relating to or resembling crows or ravens.", "似烏鴉的"], "corybant": ["An ecstatic or frenzied reveler, from the priests of Cybele.", "狂熱的祭司;狂歡者"], "corybantic": ["Wildly excited or frenzied.", "狂熱的;瘋狂亢奮的"], "corybantism": ["A state of frenzied excitement or mania.", "狂熱狀態;瘋狂亢奮"], "cosmonaut": ["A Russian or Soviet astronaut.", "蘇聯太空人"], "cosmopolitan": ["Sophisticated, worldly.", "世界性的；見多識廣的"], "cosset": ["To pamper or treat with excessive indulgence.", "溺愛;嬌寵"], "cosseted": ["Pampered; protected from difficulty.", "被溺愛的;受呵護的"], "costive": ["Slow to act or speak; constipated.", "遲緩的;吝嗇的;便秘的"], "costly": ["Expensive or requiring sacrifice.", "昂貴的；代價高的"], "coterie": ["Small group having something in common.", "小圈子；同夥"], "counsel": ["Advice; a lawyer; to give advice.", "忠告;律師;勸告"], "coup": ["Revolution.", "政變；出乎意料的成功"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"comely": ["Beautiful, handsome.", "清秀的；標緻的"], "comity": ["An atmosphere of mutual respect and courtesy, especially between nations.", "禮讓；友好關係"], "commentariat": ["Journalists and commentators regarded collectively as an influential group.", "評論家群體；輿論界"], "commode": ["A chest of drawers; a toilet, especially a portable one.", "五斗櫃；便桶"], "common": ["Occurring frequently or shared.", "常見的"], "commonplace": ["Ordinary and unremarkable; a common occurrence or saying.", "平凡的；常見的事"], "communiqué": ["An official announcement or statement, especially issued to the press.", "公報；官方聲明"], "compensate": ["To make an appropriate payment for something.", "補償；賠償"], "complaisant": ["Willing to please others; agreeable.", "順從的；願意討好的"], "comply": ["To act in accordance with a rule or request.", "遵守；服從"], "computerese": ["The specialized jargon of computer programmers and technicians.", "電腦術語；電腦行話"], "comstockery": ["Overzealous censorship of literature or art considered immoral.", "過度道德審查(反淫穢主義)"], "connivance": ["Secret cooperation in wrongdoing; tacit approval of an offense.", "默許；縱容"], "consul": ["An official appointed to represent a country's interests in a foreign city.", "領事"], "consulate": ["The official premises of a consul.", "領事館"], "consult": ["To seek advice or information from someone or something.", "諮詢"], "consummation": ["The completion or ultimate fulfillment of something.", "完成；圓滿實現"], "contoured": ["Shaped or formed into a particular outline, especially one that is smooth or curved.", "具輪廓的；曲線形的"], "contrarian": ["A person who opposes popular opinion; taking an opposing view.", "唱反調者；逆勢而行的"], "contrary": ["Opposite in nature or direction; stubbornly opposed.", "相反的；固執己見的"], "contretemps": ["An unexpected and embarrassing mishap or minor disagreement.", "意外的尷尬事件；小爭執"], "conundrum": ["Puzzle, problem.", "難題；謎題"], "cope": ["To deal effectively with something difficult.", "應付；應對"], "cope with": ["To deal with effectively.", "應付；處理"], "copious": ["Ample, abundant, plentiful.", "豐富的；大量的"], "coquette": ["A woman who flirts frivolously with men.", "賣弄風情的女子"], "corbel": ["A projecting stone or timber support for a structure above it.", "托座；懸臂托架"], "cornucopia": ["An abundant supply of good things.", "豐饒之角；豐富多樣"], "coronation": ["The act of crowning.", "加冕典禮"], "corporeal": ["Relating to the physical body rather than the spirit.", "肉體的；有形的"], "corpse": ["A dead body, especially of a human.", "屍體"], "corpulence": ["Extreme fatness.", "肥胖"], "corpulent": ["Fleshy, burly, fat.", "肥胖的"], "corpus": ["A collection of written texts, especially for linguistic study.", "文集；語料庫"], "corpuscle": ["A small particle, especially a blood cell.", "血球；微粒"], "corrigendum": ["An error to be corrected, especially in a printed book.", "勘誤；更正表"], "coruscating": ["Flashing brilliantly; sharply critical.", "閃耀的；犀利的"], "corvine": ["Relating to or resembling crows or ravens.", "似烏鴉的"], "corybant": ["An ecstatic or frenzied reveler, from the priests of Cybele.", "狂熱的祭司；狂歡者"], "corybantic": ["Wildly excited or frenzied.", "狂熱的；瘋狂亢奮的"], "corybantism": ["A state of frenzied excitement or mania.", "狂熱狀態；瘋狂亢奮"], "cosmonaut": ["A Russian or Soviet astronaut.", "蘇聯太空人"], "cosmopolitan": ["Sophisticated, worldly.", "世界性的；見多識廣的"], "cosset": ["To pamper or treat with excessive indulgence.", "溺愛；嬌寵"], "cosseted": ["Pampered; protected from difficulty.", "被溺愛的；受呵護的"], "costive": ["Slow to act or speak; constipated.", "遲緩的；吝嗇的；便秘的"], "costly": ["Expensive or requiring sacrifice.", "昂貴的；代價高的"], "coterie": ["Small group having something in common.", "小圈子；同夥"], "counsel": ["Advice; a lawyer; to give advice.", "忠告；律師；勸告"], "coup": ["Revolution.", "政變；出乎意料的成功"]});
