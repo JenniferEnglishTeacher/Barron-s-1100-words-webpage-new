@@ -3,16 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Barron's 1100 Words Unit Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261109d">
+  <title>SAT Vocabulary Board</title>
+  <link rel="stylesheet" href="styles.css?v=20261109h">
 </head>
 <body>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow">Barron's 1100 Words</p>
-      <h1>Flashcard Unit Board</h1>
+      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首</p>
+      <h1>SAT Vocabulary Board</h1>
       <p class="board-intro">Hover over any word to hear it and see its meaning. Click a word you find difficult: it turns <b class="red-text">red</b> and goes on your review list. Click a red word again to remove it. Use <b>Show list</b> to open a word's flashcard, and <b>Download Excel</b> to save your list.<br>滑鼠移到單字上可聽發音並看到中英文解釋；點選不熟的單字會變紅色並加入複習清單，再點一次可移除。按「Show list」可開啟字卡，按「Download Excel」可下載清單。</p>
     </header>
+
+    <nav class="zone-tabs" role="tablist" aria-label="Word collections">
+      <button class="zone-tab zone-barrons" type="button" role="tab" data-zone="barrons" aria-controls="zone-barrons">
+        <span class="zone-num">1</span>
+        <span class="zone-text"><strong>Barron's 1100 Words</strong><small id="barronsCount">46 units</small></span>
+      </button>
+      <button class="zone-tab zone-hot" type="button" role="tab" data-zone="hot" aria-controls="zone-hot">
+        <span class="zone-num">2</span>
+        <span class="zone-text"><strong>Hot Words for the SAT</strong><small id="hotCount">35 lessons</small></span>
+      </button>
+      <button class="zone-tab zone-roots" type="button" role="tab" data-zone="roots" aria-controls="zone-roots">
+        <span class="zone-num">3</span>
+        <span class="zone-text"><strong>字根 / 字首 / 無法歸類</strong><small>Roots · Prefixes · Unclassified</small></span>
+      </button>
+    </nav>
 
     <div class="review-bar" id="reviewBar">
       <div class="review-count"><span id="reviewCount">0</span> word(s) on my review list <span class="zh">我的複習清單</span></div>
@@ -25,10 +40,39 @@
       <div class="review-preview" id="reviewPreview" hidden></div>
     </div>
 
-    <section class="unit-board" id="unitBoard" aria-label="All units and words"></section>
+    <section class="zone-panel" id="zone-barrons" role="tabpanel" aria-label="Barron's 1100 Words">
+      <div class="zone-head">
+        <h2>Barron's 1100 Words <span>46 units × 20 words</span></h2>
+        <p>Click a unit name to open its flashcards; 📝 Quiz opens the unit's online quiz.</p>
+      </div>
+      <div class="unit-board" id="board-barrons"></div>
+    </section>
+
+    <section class="zone-panel" id="zone-hot" role="tabpanel" aria-label="Hot Words for the SAT" hidden>
+      <div class="zone-head">
+        <h2>Hot Words for the SAT <span>by lesson theme</span></h2>
+        <p>Click a lesson name to open its flashcards; 📝 MCQ jumps to the lesson's practice test. 點選課名開啟字卡，📝 MCQ 直接進入該課練習題。</p>
+      </div>
+      <div class="unit-board" id="board-hot"></div>
+    </section>
+
+    <section class="zone-panel" id="zone-roots" role="tabpanel" aria-label="Roots, prefixes and unclassified words" hidden>
+      <div class="roots-hero">
+        <div>
+          <h2>字根 / 字首 / 無法歸類</h2>
+          <p>All combined-source SAT words grouped by Latin/Greek prefix (字首) and root (字根), plus the words that fit no category (未歸類). Each batch has <b>Learn &amp; match</b>, <b>Test memory</b> and a <b>Complete list</b>. Use <b>Find</b> above to see which batch a word is in.<br>依字首、字根分類的 SAT 單字；每組皆有學習配對、記憶測驗與完整清單。可用上方「Find」查單字在哪一組。</p>
+          <p class="roots-total" id="rootsTotal"></p>
+        </div>
+        <a class="primary-button roots-open" href="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/index.html" target="_blank" rel="noopener">Open SAT Vocabulary Studio ↗</a>
+      </div>
+      <p class="roots-status" id="rootsStatus">Loading batches… 載入中…</p>
+      <p class="roots-search-note" id="rootsSearchNote" aria-live="polite"></p>
+      <div class="roots-groups" id="rootsGroups"></div>
+    </section>
   </main>
   <script src="dashboard-data.js?v=20261109d"></script>
+  <script src="hot-dashboard-data.js?v=20261109h"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261109d"></script>
+  <script src="dashboard.js?v=20261109h"></script>
 </body>
 </html>

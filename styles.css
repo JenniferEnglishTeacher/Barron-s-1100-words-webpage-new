@@ -837,3 +837,133 @@ select {
 .tip-hint { margin: 0; border-top: 1px solid var(--line); padding-top: 6px; color: var(--muted); font-size: 12px; }
 .word-tip.is-marked { border-color: #c62828; }
 .word-tip.is-marked .tip-hint { color: #c62828; }
+
+/* ---------- 2026-11-09: three-zone board (Barron's / Hot Words / 字根字首) ---------- */
+:root { --hot: #b8541a; --hot-dark: #8f3f10; --hot-soft: #fdf0e6; --roots: #3f7d4a; --roots-dark: #2e5f37; }
+
+.zone-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0 0 16px;
+}
+.zone-tab {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  border: 2px solid var(--line);
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: #ffffff;
+  color: var(--ink);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color .15s, box-shadow .15s, transform .15s;
+}
+.zone-tab:hover { transform: translateY(-1px); box-shadow: 0 8px 20px rgba(24, 43, 61, 0.10); }
+.zone-num {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--soft);
+  font-weight: 800;
+  font-size: 18px;
+}
+.zone-text { display: flex; flex-direction: column; min-width: 0; }
+.zone-text strong { font-size: 17px; line-height: 1.25; }
+.zone-text small { color: var(--muted); font-size: 13px; font-weight: 600; }
+.zone-barrons .zone-num { color: var(--teal-dark); }
+.zone-hot .zone-num { color: var(--hot-dark); }
+.zone-roots .zone-num { color: var(--roots-dark); }
+.zone-barrons.active { border-color: var(--teal); background: #eaf6f7; }
+.zone-barrons.active .zone-num { background: var(--teal); color: #fff; }
+.zone-hot.active { border-color: var(--hot); background: var(--hot-soft); }
+.zone-hot.active .zone-num { background: var(--hot); color: #fff; }
+.zone-roots.active { border-color: var(--roots); background: #edf6ee; }
+.zone-roots.active .zone-num { background: var(--roots); color: #fff; }
+
+.zone-panel[hidden] { display: none; }
+.zone-head { margin: 4px 0 12px; }
+.zone-head h2 { margin: 0; font-size: 24px; }
+.zone-head h2 span { margin-left: 6px; color: var(--muted); font-size: 15px; font-weight: 600; }
+.zone-head p { margin: 4px 0 0; color: var(--muted); }
+
+.unit-title { min-width: 0; }
+.unit-theme { margin: 2px 0 0; color: var(--muted); font-size: 13px; font-weight: 600; line-height: 1.3; }
+.unit-block-head { align-items: flex-start; gap: 8px; }
+.unit-block-head .mini-quiz { flex: none; }
+
+/* Hot Words lessons: warm accent instead of teal */
+.hot-block { border-color: rgba(184, 84, 26, 0.30); background: linear-gradient(145deg, #ffffff 0%, var(--hot-soft) 100%); }
+.hot-block .unit-number { color: var(--hot-dark); }
+.hot-block .mini-quiz { background: var(--hot); }
+.hot-block .board-word:hover { border-color: var(--hot); background: #fbe2d0; color: var(--hot-dark); }
+.hot-block .board-word.marked, .hot-block .board-word.marked:hover { border-color: #c62828; background: #c62828; color: #fff; }
+.word-tip.is-hot { border-color: rgba(184, 84, 26, 0.45); }
+.word-tip.is-hot .tip-head strong { color: var(--hot-dark); }
+.preview-chip.hot small { color: var(--hot-dark); }
+
+/* Zone 3: roots / prefixes / unclassified */
+.roots-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+  border: 1px solid rgba(63, 125, 74, 0.35);
+  border-radius: 10px;
+  padding: 18px 20px;
+  background: linear-gradient(145deg, #ffffff 0%, #edf6ee 100%);
+}
+.roots-hero > div { flex: 1 1 420px; }
+.roots-hero h2 { margin: 0 0 6px; color: var(--roots-dark); font-size: 26px; }
+.roots-hero p { margin: 0; color: var(--ink); line-height: 1.55; }
+.roots-hero .roots-total { margin-top: 8px; color: var(--roots-dark); font-weight: 800; }
+.roots-open { background: var(--roots); text-decoration: none; white-space: nowrap; }
+.roots-open:hover { background: var(--roots-dark); }
+.roots-status, .roots-search-note { margin: 6px 0; color: var(--muted); font-weight: 600; }
+.roots-status[hidden] { display: none; }
+.roots-groups { display: grid; gap: 14px; }
+.roots-group { border: 1px solid var(--line); border-radius: 10px; padding: 14px; background: #fff; }
+.roots-group-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; margin-bottom: 10px; }
+.roots-group-head h3 { margin: 0; color: var(--roots-dark); font-size: 20px; }
+.roots-group-head h3 span { margin-left: 4px; color: var(--muted); font-size: 14px; font-weight: 600; }
+.roots-group-head p { margin: 0; color: var(--muted); font-size: 14px; font-weight: 700; }
+.roots-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.roots-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 5px 9px;
+  background: #fbfdfb;
+  color: var(--ink);
+  font-size: 15px;
+  text-decoration: none;
+}
+.roots-chip strong { color: var(--roots-dark); }
+.roots-chip span { color: var(--muted); font-size: 13px; }
+.roots-chip small { color: var(--muted); font-size: 11px; font-weight: 700; }
+.roots-chip:hover { border-color: var(--roots); background: #e3f1e5; }
+.roots-chip.dim { opacity: 0.25; }
+.roots-chip.hit { outline: 3px solid var(--gold); }
+
+/* Flashcard pages: Hot Words highlighted in sentences */
+.sentence button.barrons-word.hot-word { background: var(--hot-soft); color: var(--hot-dark); box-shadow: inset 0 -2px 0 var(--hot); }
+.sentence button.barrons-word.hot-word:hover { background: #fbe2d0; }
+.sentence button.barrons-word.hot-word.target { background: #fff1bb; color: var(--ink); box-shadow: inset 0 -2px 0 var(--gold); }
+.unit-badge.hot-badge { color: var(--hot); }
+body[data-set="hot"] .meter span { background: linear-gradient(90deg, var(--hot), var(--gold)); }
+body[data-set="hot"] .eyebrow, body[data-set="hot"] #unitTitle { color: var(--hot-dark); }
+
+@media (max-width: 760px) {
+  .zone-tabs { grid-template-columns: 1fr; gap: 8px; }
+  .zone-tab { padding: 10px 12px; }
+}

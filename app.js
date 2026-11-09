@@ -1,6 +1,14 @@
 const units = window.FLASHCARD_UNITS;
 const localLookup = window.LOCAL_LOOKUP;
 
+// Which word set this page belongs to: Barron's 1100 (unitN.html) or Hot Words for the SAT (hot-unitN.html).
+const SET = document.body.dataset.set === "hot" ? "hot" : "barrons";
+const SETS = {
+  barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
+  hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} }
+};
+const SETCFG = SETS[SET];
+
 const state = {
   unit: Object.keys(units)[0],
   order: [],
@@ -52,12 +60,16 @@ function currentCard() {
 }
 
 function init() {
-  Object.entries(units).forEach(([unit, data]) => {
+  for (let n = 1; n <= SETCFG.count; n += 1) {
     const option = document.createElement("option");
-    option.value = unit;
-    option.textContent = `Unit ${unit}`;
+    option.value = String(n);
+    option.textContent = `${SETCFG.unitName} ${n}`;
     els.unitSelect.append(option);
-  });
+  }
+  const selectLabel = document.querySelector('label[for="unitSelect"]');
+  if (selectLabel) selectLabel.textContent = SETCFG.unitName;
+  const backLink = document.querySelector(".back-link");
+  if (backLink) backLink.href = SETCFG.board;
   resetOrder();
   bindEvents();
   createMemoryChant();
@@ -90,6 +102,19 @@ function createQuizLinks() {
 function renderQuizLinks() {
   if (!els.quizLinks) return;
   const unit = state.unit;
+  if (SET === "hot") {
+    // Hot Words lessons have no separate online quiz page: jump to this lesson's MCQ practice below the cards.
+    const a = document.createElement("a");
+    a.className = "quiz-link";
+    a.href = "#quizSection";
+    a.textContent = `📝 Lesson ${unit} MCQ Practice`;
+    a.addEventListener("click", event => {
+      event.preventDefault();
+      els.quizSection?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    els.quizLinks.replaceChildren(a);
+    return;
+  }
   const links = [{ label: `Unit ${unit} Online Quiz`, file: `Week${String(unit).padStart(2, "0")}_Quiz_Barrons1100.html` }];
   if (REVIEW_QUIZZES[unit]) links.push(REVIEW_QUIZZES[unit]);
   els.quizLinks.replaceChildren(...links.map((link, i) => {
@@ -105,6 +130,10 @@ function renderQuizLinks() {
 
 // ---------- Jump to a card from a link like unit7.html#w=deplore ----------
 function applyHashTarget() {
+  if (location.hash === "#quiz") {
+    setTimeout(() => els.quizSection?.scrollIntoView({ behavior: "smooth", block: "start" }), 200);
+    return;
+  }
   const match = location.hash.match(/^#w=(.+)$/);
   if (!match) return;
   const target = decodeURIComponent(match[1]).toLowerCase();
@@ -132,6 +161,10 @@ function resetOrder() {
 
 function bindEvents() {
   els.unitSelect.addEventListener("change", () => {
+    if (!units[els.unitSelect.value]) {
+      location.href = SETCFG.page(els.unitSelect.value);
+      return;
+    }
     state.unit = els.unitSelect.value;
     resetOrder();
     render();
@@ -369,20 +402,20 @@ function renderQuiz() {
   els.quizScore.textContent = `${correctCount} / ${quiz.length}`;
 }
 
-// ---------- Barron's words inside sample sentences ----------
-// Maps every inflected form (abounds, abounded, abounding, ...) to its Barron's headword.
-let barronsForms = null;
+// ---------- Barron's / Hot Words inside sample sentences ----------
+// Maps every inflected form (abounds, abounded, abounding, ...) to its headword, per word set.
+// The page's own set is checked first, so a word in both books links within the current book.
+let wordForms = null;   // { barrons: Map, hot: Map }
 let barronsPhrases = [];
 
-function buildBarronsForms() {
-  const index = window.BARRONS_INDEX || {};
+function buildForms(index) {
   const forms = new Map();
   const add = (form, head) => { if (form.length > 2 && !forms.has(form)) forms.set(form, head); };
   const heads = Object.keys(index);
   heads.forEach(head => add(head, head)); // exact headwords win over generated forms
   // Words ending in -e claim shared forms first (waning -> wane, not wan; loathing -> loathe, not loath).
   [...heads].sort((a, b) => Number(b.endsWith("e")) - Number(a.endsWith("e"))).forEach(head => {
-    if (/\s/.test(head)) { barronsPhrases.push(head); return; }
+    if (/\s/.test(head)) { if (!barronsPhrases.includes(head)) barronsPhrases.push(head); return; }
     const w = head;
     ["s", "es", "d", "ed", "ing", "ly", "ness", "ment"].forEach(suf => add(w + suf, head));
     if (w.endsWith("e")) {
@@ -401,22 +434,34 @@ function buildBarronsForms() {
       ["ed", "ing"].forEach(suf => add(w + last + suf, head));
     }
   });
-  barronsPhrases.sort((a, b) => b.length - a.length);
-  barronsForms = forms;
+  return forms;
 }
 
-// Generated forms that look like a Barron's word but mean something else.
-const NOT_BARRONS = new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]);
+function buildBarronsForms() {
+  wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()) };
+  barronsPhrases.sort((a, b) => b.length - a.length);
+}
+
+// Generated forms that look like a headword but mean something else.
+const NOT_WORD = {
+  barrons: new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]),
+  hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"])
+};
+const SET_ORDER = SET === "hot" ? ["hot", "barrons"] : ["barrons", "hot"];
 
 function findBarrons(token) {
-  if (!barronsForms) buildBarronsForms();
+  if (!wordForms) buildBarronsForms();
   const key = token.toLowerCase();
-  if (NOT_BARRONS.has(key)) return null;
-  return barronsForms.get(key) || null;
+  for (const set of SET_ORDER) {
+    if (NOT_WORD[set].has(key)) continue;
+    const head = wordForms[set].get(key);
+    if (head) return { set, head };
+  }
+  return null;
 }
 
 function makeSentenceNodes(card, text) {
-  if (!barronsForms) buildBarronsForms();
+  if (!wordForms) buildBarronsForms();
   const sentence = text == null ? fillSentence(card) : text;
   const phrasePart = barronsPhrases.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
   const wordPart = "[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'-]*";
@@ -431,12 +476,12 @@ function makeSentenceNodes(card, text) {
 
   return pieces.map(part => {
     if (!part || !/^[A-Za-zÀ-ÿ]/.test(part)) return document.createTextNode(part || "");
-    const head = findBarrons(part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, ""));
+    const found = findBarrons(part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, ""));
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = part;
 
-    if (!head) {
+    if (!found) {
       button.addEventListener("click", event => {
         event.stopPropagation();
         lookupWord(part, card);
@@ -444,16 +489,17 @@ function makeSentenceNodes(card, text) {
       return button;
     }
 
-    const [unit, cardIndex, definition, chinese] = window.BARRONS_INDEX[head];
-    const isTarget = head === ownWord;
-    button.className = isTarget ? "barrons-word target" : "barrons-word";
+    const { set, head } = found;
+    const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
+    const isTarget = set === SET && head === ownWord;
+    button.className = `barrons-word${set === "hot" ? " hot-word" : ""}${isTarget ? " target" : ""}`;
     button.title = isTarget
       ? `This card's word: ${head}`
-      : `Barron's 1100 — Unit ${unit}: ${head}. Click to open its flashcard.`;
+      : `${SETS[set].label(unit)}: ${head}. Click to open its flashcard.`;
     if (!isTarget) {
       const badge = document.createElement("sup");
-      badge.className = "unit-badge";
-      badge.textContent = `U${unit}`;
+      badge.className = set === "hot" ? "unit-badge hot-badge" : "unit-badge";
+      badge.textContent = SETS[set].badge(unit);
       button.append(badge);
     }
     button.addEventListener("pointerenter", event => {
@@ -466,7 +512,7 @@ function makeSentenceNodes(card, text) {
     button.addEventListener("click", event => {
       event.stopPropagation();
       if (isTarget) { speak(head); return; }
-      openBarronsCard(head, unit, cardIndex);
+      openBarronsCard(head, unit, cardIndex, set);
     });
     return button;
   });
@@ -479,7 +525,7 @@ function renderAdvanced(card) {
     block = document.createElement("div");
     block.className = "sentence-block advanced-block";
     block.id = "advancedBlock";
-    block.innerHTML = `<div class="sentence-heading"><span>Advanced Sentence <small>★ review words from other units</small></span><button class="speak-button" id="speakAdvanced" type="button">Sentence</button></div><p class="sentence" id="advSentence"></p><p class="translation" id="advTranslation"></p>`;
+    block.innerHTML = `<div class="sentence-heading"><span>Advanced Sentence <small>★ review words from other ${SET === "hot" ? "lessons" : "units"}</small></span><button class="speak-button" id="speakAdvanced" type="button">Sentence</button></div><p class="sentence" id="advSentence"></p><p class="translation" id="advTranslation"></p>`;
     els.translation.closest(".sentence-block").insertAdjacentElement("afterend", block);
     block.querySelector("#speakAdvanced").addEventListener("click", event => {
       event.stopPropagation();
@@ -493,8 +539,8 @@ function renderAdvanced(card) {
   block.querySelector("#advTranslation").textContent = card.advTranslation || "";
 }
 
-function openBarronsCard(head, unit, cardIndex) {
-  if (String(unit) === String(state.unit)) {
+function openBarronsCard(head, unit, cardIndex, set = SET) {
+  if (set === SET && String(unit) === String(state.unit)) {
     state.index = state.order.indexOf(cardIndex);
     state.flipped = true;
     render();
@@ -502,7 +548,7 @@ function openBarronsCard(head, unit, cardIndex) {
     els.flashcard.scrollIntoView({ behavior: "smooth", block: "center" });
     return;
   }
-  location.href = `unit${unit}.html#w=${encodeURIComponent(head)}`;
+  location.href = `${SETS[set].page(unit)}#w=${encodeURIComponent(head)}`;
 }
 
 function fillSentence(card) {

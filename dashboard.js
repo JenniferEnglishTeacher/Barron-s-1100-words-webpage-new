@@ -1,19 +1,32 @@
-// Unit Board: every word, hover = speak, click = mark red + open flashcard, download marked words as Excel.
-const UNITS = window.DASHBOARD_UNITS || [];
-const STORE_KEY = "barrons1100-review-list";
+// SAT Vocabulary Board — three zones:
+//   1. Barron's 1100 Words (46 units)   2. Hot Words for the SAT (35 lessons)   3. 字根/字首/未歸類 (linked site)
+// Zones 1–2: hover = speak + definition card, click = mark red for review, download marked words as Excel.
+const BARRONS = window.DASHBOARD_UNITS || [];
+const HOT = window.HOT_DASHBOARD_UNITS || [];
+const STORE_KEY = "barrons1100-review-list"; // kept from the Barron's-only board so existing lists survive
 const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
+const ROOTS_SITE = "https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/";
 
-const board = document.querySelector("#unitBoard");
+// Each book: how its units are named, linked and keyed in the review list.
+// Barron's keys stay "unit:index" (as before); Hot Words keys are "h<lesson>:index".
+const BOOKS = {
+  barrons: { name: "Barron's 1100", unitName: "Unit", short: "U", units: BARRONS, key: (u, i) => `${u}:${i}`, page: u => `unit${u}.html` },
+  hot: { name: "Hot Words for the SAT", unitName: "Lesson", short: "H", units: HOT, key: (u, i) => `h${u}:${i}`, page: u => `hot-unit${u}.html` }
+};
+
 const countEl = document.querySelector("#reviewCount");
 const downloadBtn = document.querySelector("#downloadReview");
 const showBtn = document.querySelector("#showReview");
 const clearBtn = document.querySelector("#clearReview");
 const preview = document.querySelector("#reviewPreview");
 const search = document.querySelector("#wordSearch");
+const reviewBar = document.querySelector("#reviewBar");
 
-// key "unit:index" -> card info
+// key -> card info
 const lookup = new Map();
-UNITS.forEach(u => u.cards.forEach((card, i) => lookup.set(`${u.unit}:${i}`, { unit: u.unit, index: i, ...card })));
+Object.entries(BOOKS).forEach(([book, cfg]) => cfg.units.forEach(u => u.cards.forEach((card, i) => {
+  lookup.set(cfg.key(u.unit, i), { book, unit: u.unit, index: i, ...card });
+})));
 
 let marked = loadMarked();
 let hoverTimer = null;
@@ -40,20 +53,54 @@ function speak(text) {
   window.speechSynthesis.speak(utterance);
 }
 
-function buildBoard() {
+// ---------- Zones ----------
+const ZONES = ["barrons", "hot", "roots"];
+let zone = "barrons";
+
+function setZone(next, push = true) {
+  zone = ZONES.includes(next) ? next : "barrons";
+  ZONES.forEach(z => {
+    document.querySelector(`#zone-${z}`).hidden = z !== zone;
+    const tab = document.querySelector(`.zone-tab[data-zone="${z}"]`);
+    tab.classList.toggle("active", z === zone);
+    tab.setAttribute("aria-selected", String(z === zone));
+  });
+  search.placeholder = zone === "roots" ? "Search a word, root or prefix…" : "Search a word…";
+  if (push) history.replaceState(null, "", `#${zone}`);
+  hideTip();
+  applySearch(false);
+}
+
+document.querySelectorAll(".zone-tab").forEach(tab => tab.addEventListener("click", () => setZone(tab.dataset.zone)));
+window.addEventListener("hashchange", () => setZone(location.hash.slice(1), false));
+
+// ---------- Word boards (zones 1 and 2) ----------
+function buildBoard(book) {
+  const cfg = BOOKS[book];
+  const board = document.querySelector(`#board-${book}`);
   const frag = document.createDocumentFragment();
-  UNITS.forEach(u => {
+  cfg.units.forEach(u => {
     const section = document.createElement("section");
-    section.className = "unit-block";
+    section.className = `unit-block ${book}-block`;
+    const quizHref = book === "barrons"
+      ? `${QUIZ_BASE}Week${String(u.unit).padStart(2, "0")}_Quiz_Barrons1100.html`
+      : `${cfg.page(u.unit)}#quiz`;
+    const quizAttrs = book === "barrons" ? ' target="_blank" rel="noopener"' : "";
     section.innerHTML = `
       <div class="unit-block-head">
-        <a class="unit-number" href="unit${u.unit}.html">Unit ${u.unit}</a>
-        <a class="mini-quiz" href="${QUIZ_BASE}Week${String(u.unit).padStart(2, "0")}_Quiz_Barrons1100.html" target="_blank" rel="noopener">📝 Quiz</a>
+        <div class="unit-title"><a class="unit-number" href="${cfg.page(u.unit)}">${cfg.unitName} ${u.unit}</a></div>
+        <a class="mini-quiz" href="${quizHref}"${quizAttrs}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
       </div>`;
+    if (u.theme) {
+      const theme = document.createElement("p");
+      theme.className = "unit-theme";
+      theme.textContent = `${u.theme}${u.themeZh ? ` · ${u.themeZh}` : ""}`;
+      section.querySelector(".unit-title").append(theme);
+    }
     const words = document.createElement("div");
     words.className = "board-words";
     u.cards.forEach((card, i) => {
-      const key = `${u.unit}:${i}`;
+      const key = cfg.key(u.unit, i);
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "board-word";
@@ -89,6 +136,7 @@ document.body.append(tip);
 
 function showTip(btn, key) {
   const card = lookup.get(key);
+  const cfg = BOOKS[card.book];
   const isMarked = marked.includes(key);
   tip.innerHTML = `
     <div class="tip-head"><strong></strong><span class="tip-pos"></span><span class="tip-unit"></span></div>
@@ -97,13 +145,14 @@ function showTip(btn, key) {
     <p class="tip-hint"></p>`;
   tip.querySelector("strong").textContent = card.w;
   tip.querySelector(".tip-pos").textContent = card.p;
-  tip.querySelector(".tip-unit").textContent = `Unit ${card.unit}`;
+  tip.querySelector(".tip-unit").textContent = `${card.book === "hot" ? "Hot Words · " : ""}${cfg.unitName} ${card.unit}`;
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
     ? "Click to remove from review list 再點一次移除"
     : "Click to add to review list 點選加入複習清單";
   tip.classList.toggle("is-marked", isMarked);
+  tip.classList.toggle("is-hot", card.book === "hot");
   tip.hidden = false;
 
   const r = btn.getBoundingClientRect();
@@ -134,13 +183,13 @@ function toggleWord(key) {
   }
   saveMarked();
   refresh();
-  const btn = board.querySelector(`.board-word[data-key="${key}"]`);
+  const btn = document.querySelector(`.board-word[data-key="${key}"]`);
   if (!tip.hidden && btn) showTip(btn, key);
 }
 
 function refresh() {
   const set = new Set(marked);
-  board.querySelectorAll(".board-word").forEach(btn => btn.classList.toggle("marked", set.has(btn.dataset.key)));
+  document.querySelectorAll(".board-word").forEach(btn => btn.classList.toggle("marked", set.has(btn.dataset.key)));
   countEl.textContent = marked.length;
   [downloadBtn, showBtn, clearBtn].forEach(btn => { btn.disabled = marked.length === 0; });
   if (!marked.length) preview.hidden = true;
@@ -150,9 +199,10 @@ function refresh() {
 function renderPreview() {
   preview.replaceChildren(...marked.map(key => {
     const card = lookup.get(key);
+    const cfg = BOOKS[card.book];
     const chip = document.createElement("span");
-    chip.className = "preview-chip";
-    chip.innerHTML = `<a href="unit${card.unit}.html#w=${encodeURIComponent(card.w)}" target="_blank" rel="noopener"></a><small>U${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
+    chip.className = `preview-chip${card.book === "hot" ? " hot" : ""}`;
+    chip.innerHTML = `<a href="${cfg.page(card.unit)}#w=${encodeURIComponent(card.w)}" target="_blank" rel="noopener"></a><small>${cfg.short}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
     chip.querySelector("a").textContent = card.w;
     chip.querySelector("button").addEventListener("click", () => toggleWord(key));
     return chip;
@@ -160,10 +210,11 @@ function renderPreview() {
 }
 
 function rows() {
-  const header = ["No.", "Unit", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation", "Advanced Sentence", "Advanced Translation"];
+  const header = ["No.", "Book", "Unit / Lesson", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation", "Advanced Sentence", "Advanced Translation"];
   const body = marked.map((key, i) => {
     const c = lookup.get(key);
-    return [i + 1, c.unit, c.w, c.p, c.d, c.c, c.s, c.t, c.as || "", c.at || ""];
+    const cfg = BOOKS[c.book];
+    return [i + 1, cfg.name, `${cfg.unitName} ${c.unit}`, c.w, c.p, c.d, c.c, c.s, c.t, c.as || "", c.at || ""];
   });
   return [header, ...body];
 }
@@ -178,11 +229,11 @@ function download() {
   const data = rows();
   if (window.XLSX) {
     const sheet = XLSX.utils.aoa_to_sheet(data);
-    sheet["!cols"] = [5, 6, 18, 7, 40, 24, 70, 50, 70, 50].map(wch => ({ wch }));
-    sheet["!autofilter"] = { ref: `A1:J${data.length}` };
+    sheet["!cols"] = [5, 20, 12, 18, 7, 40, 24, 70, 50, 70, 50].map(wch => ({ wch }));
+    sheet["!autofilter"] = { ref: `A1:K${data.length}` };
     const book = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(book, sheet, "Review Words");
-    XLSX.writeFile(book, `Barrons1100_Review_${stamp()}.xlsx`);
+    XLSX.writeFile(book, `SAT_Vocab_Review_${stamp()}.xlsx`);
     return;
   }
   // Fallback if the Excel library could not load: CSV (opens in Excel, Chinese kept via BOM).
@@ -190,7 +241,7 @@ function download() {
   const blob = new Blob(["﻿" + csv], { type: "text/csv;charset=utf-8" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
-  a.download = `Barrons1100_Review_${stamp()}.csv`;
+  a.download = `SAT_Vocab_Review_${stamp()}.csv`;
   a.click();
   URL.revokeObjectURL(a.href);
 }
@@ -207,19 +258,102 @@ clearBtn.addEventListener("click", () => {
   saveMarked();
   refresh();
 });
-search.addEventListener("input", () => {
+
+// ---------- Search (works in whichever zone is open) ----------
+function applySearch(scroll = true) {
   const q = search.value.trim().toLowerCase();
-  board.querySelectorAll(".board-word").forEach(btn => {
+  if (zone === "roots") { filterBatches(q); return; }
+  const panel = document.querySelector(`#zone-${zone}`);
+  panel.querySelectorAll(".board-word").forEach(btn => {
     btn.classList.toggle("dim", Boolean(q) && !btn.textContent.toLowerCase().includes(q));
     btn.classList.toggle("hit", Boolean(q) && btn.textContent.toLowerCase().startsWith(q));
   });
-  const first = board.querySelector(".board-word.hit");
-  if (first) first.scrollIntoView({ block: "center", behavior: "smooth" });
-});
+  const first = panel.querySelector(".board-word.hit");
+  if (scroll && first) first.scrollIntoView({ block: "center", behavior: "smooth" });
+}
+search.addEventListener("input", () => applySearch(true));
+
 // Marks made in another tab (e.g. a student opens several cards) stay in sync.
 window.addEventListener("storage", event => {
   if (event.key === STORE_KEY) { marked = loadMarked(); refresh(); }
 });
 
-buildBoard();
+// ---------- Zone 3: 字根 / 字首 / 未歸類 (live course map from the combined-sources site) ----------
+const PARTS = [
+  ["part1", "Part 1 字首篇", "Prefixes"],
+  ["part2", "Part 2 字根篇", "Roots"],
+  ["unclassified", "未歸類", "Unclassified"]
+];
+let batches = [];
+
+async function loadBatches() {
+  const status = document.querySelector("#rootsStatus");
+  try {
+    const res = await fetch(`${ROOTS_SITE}data/batches-index.json`, { signal: AbortSignal.timeout(8000) });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    batches = data.batches || [];
+    const total = data.summary?.total_words || batches.reduce((n, b) => n + (b.count || 0), 0);
+    document.querySelector("#rootsTotal").textContent = `${total.toLocaleString()} words · ${batches.length} batches`;
+    status.hidden = true;
+    renderBatches();
+  } catch (error) {
+    status.textContent = "The course map could not load right now — use the button above to open the site. 目前無法載入分類清單，請直接點上方按鈕開啟網站。";
+  }
+}
+
+function renderBatches() {
+  const wrap = document.querySelector("#rootsGroups");
+  wrap.replaceChildren(...PARTS.map(([key, zh, en]) => {
+    const items = batches.filter(b => b.part === key);
+    const words = items.reduce((n, b) => n + (b.count || 0), 0);
+    const group = document.createElement("section");
+    group.className = `roots-group roots-${key}`;
+    group.innerHTML = `
+      <div class="roots-group-head">
+        <h3>${zh} <span>${en}</span></h3>
+        <p>${items.length} batches · ${words.toLocaleString()} words</p>
+      </div>
+      <div class="roots-chips"></div>`;
+    const chips = group.querySelector(".roots-chips");
+    items.forEach(b => {
+      const a = document.createElement("a");
+      a.className = "roots-chip";
+      a.href = `${ROOTS_SITE}batch.html?batch=${encodeURIComponent(b.id)}&mode=learn`;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.dataset.terms = `${b.name} ${b.subtitle} ${b.search_terms || ""}`.toLowerCase();
+      a.innerHTML = `<strong></strong><span></span><small></small>`;
+      a.querySelector("strong").textContent = key === "unclassified" ? b.name.replace(/^Unclassified\s*/, "") : b.name;
+      a.querySelector("span").textContent = key === "unclassified" ? "" : b.subtitle;
+      a.querySelector("small").textContent = `${b.count}`;
+      a.title = `${b.part_label}: ${b.name} — ${b.subtitle} (${b.count} words). Opens Part 1: Learn & match.`;
+      chips.append(a);
+    });
+    return group;
+  }));
+  filterBatches(search.value.trim().toLowerCase());
+}
+
+function filterBatches(q) {
+  const chips = document.querySelectorAll(".roots-chip");
+  let hits = 0;
+  chips.forEach(chip => {
+    const terms = chip.dataset.terms;
+    const match = !q || terms.includes(q) || terms.split(/\s+/).includes(q);
+    chip.classList.toggle("dim", Boolean(q) && !match);
+    chip.classList.toggle("hit", Boolean(q) && match);
+    if (q && match) hits += 1;
+  });
+  const note = document.querySelector("#rootsSearchNote");
+  note.textContent = q ? `${hits} batch(es) contain “${q}” 個分類含有此字` : "";
+}
+
+// ---------- Start ----------
+document.querySelector("#barronsCount").textContent = `${BARRONS.length} units · ${BARRONS.reduce((n, u) => n + u.cards.length, 0)} words`;
+document.querySelector("#hotCount").textContent = `${HOT.length} lessons · ${HOT.reduce((n, u) => n + u.cards.length, 0)} words`;
+buildBoard("barrons");
+buildBoard("hot");
 refresh();
+setZone(location.hash.slice(1) || "barrons", false);
+loadBatches();
