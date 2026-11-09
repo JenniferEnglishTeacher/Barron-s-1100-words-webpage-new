@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261110v">
+  <link rel="stylesheet" href="styles.css?v=20261110ra">
 </head>
 <body>
   <main class="app-shell board-shell">
@@ -41,6 +41,7 @@
       <div class="review-count"><span id="reviewCount">0</span> word(s) on my review list <span class="zh">我的複習清單</span></div>
       <div class="review-actions">
         <label class="search-box"><span>Find</span><input id="wordSearch" type="search" placeholder="Search a word…" autocomplete="off"></label>
+        <button class="primary-button arcade-button" id="arcadeReview" type="button" disabled title="Quiz yourself on your review list — a mini-game every 10 correct answers 用複習清單出題，每答對 10 題玩小遊戲">🎮 Test my words 闖關測驗</button>
         <button class="primary-button" id="downloadReview" type="button" disabled>⬇ Download Excel</button>
         <button class="secondary-button" id="showReview" type="button" disabled>Show list</button>
         <button class="secondary-button" id="clearReview" type="button" disabled>Clear</button>
@@ -99,6 +100,6 @@
   <script src="va2-dashboard-data.js?v=20261109vb"></script>
   <script src="roots-sets.js?v=20261110s"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261110s"></script>
+  <script src="dashboard.js?v=20261110ra"></script>
 </body>
 </html>

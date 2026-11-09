@@ -24,6 +24,7 @@ const BOOKS = {
 
 const countEl = document.querySelector("#reviewCount");
 const downloadBtn = document.querySelector("#downloadReview");
+const arcadeBtn = document.querySelector("#arcadeReview");
 const showBtn = document.querySelector("#showReview");
 const clearBtn = document.querySelector("#clearReview");
 const preview = document.querySelector("#reviewPreview");
@@ -255,7 +256,7 @@ function refresh() {
     chip.classList.toggle("has-saved", n > 0);
     chip.querySelector(".chip-saved").textContent = n ? `★${n}` : "";
   });
-  [downloadBtn, showBtn, clearBtn].forEach(btn => { btn.disabled = marked.length === 0; });
+  [downloadBtn, showBtn, clearBtn, arcadeBtn].forEach(btn => { if (btn) btn.disabled = marked.length === 0; });
   if (!marked.length) preview.hidden = true;
   if (!preview.hidden) renderPreview();
 }
@@ -311,6 +312,7 @@ function download() {
 }
 
 downloadBtn.addEventListener("click", download);
+if (arcadeBtn) arcadeBtn.addEventListener("click", () => { location.href = "review-arcade.html"; });
 showBtn.addEventListener("click", () => {
   preview.hidden = !preview.hidden;
   showBtn.textContent = preview.hidden ? "Show list" : "Hide list";

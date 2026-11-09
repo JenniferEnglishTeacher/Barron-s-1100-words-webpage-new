@@ -328,7 +328,7 @@ function renderRootsWordList() {
   if (!els.wordList.querySelector(".roots-list-head")) {
     const head = document.createElement("div");
     head.className = "roots-list-head";
-    head.innerHTML = `<span>Click ☆ to save a word to your review list 點 ☆ 存入複習清單</span><a href="${boardLink()}"><b id="rootsSavedCount">0</b> saved · Download Excel on the board ↗</a>`;
+    head.innerHTML = `<span>Click ☆ to save a word to your review list 點 ☆ 存入複習清單</span><a href="${boardLink()}"><b id="rootsSavedCount">0</b> saved · Download Excel on the board ↗</a><a class="arcade-link" href="review-arcade.html">🎮 Test my saved words 闖關測驗 →</a>`;
     const rows = list.map((card, realIndex) => {
       const row = document.createElement("div");
       row.className = "word-row";
