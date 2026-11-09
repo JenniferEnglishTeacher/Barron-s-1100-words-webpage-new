@@ -177,8 +177,17 @@ function bindEvents() {
     render();
   });
 
-  els.prevCard.addEventListener("click", () => moveCard(-1));
-  els.nextCard.addEventListener("click", () => moveCard(1));
+  if (els.prevCard) els.prevCard.addEventListener("click", () => moveCard(-1));
+  if (els.nextCard) els.nextCard.addEventListener("click", () => moveCard(1));
+  // ← / → keys move between cards (the arrow bar above the card was removed so the picture sits higher).
+  document.addEventListener("keydown", event => {
+    if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") return;
+    if (event.altKey || event.ctrlKey || event.metaKey) return;
+    if (event.target.closest && event.target.closest("input, textarea, select, [contenteditable]")) return;
+    if (document.querySelector("#photoZoom.open")) return;
+    event.preventDefault();
+    moveCard(event.key === "ArrowRight" ? 1 : -1);
+  });
   els.flipCard.addEventListener("click", flipCard);
   els.flashcard.addEventListener("click", event => {
     if (event.target === els.cardImage && els.flashcard.classList.contains("has-photo") && state.flipped) {
@@ -267,8 +276,8 @@ function render() {
   preloadNextPhoto();
   els.sentence.replaceChildren(...makeSentenceNodes(card));
   renderAdvanced(card);
-  els.cardCounter.textContent = `${state.index + 1} / ${state.order.length}`;
-  els.meterFill.style.width = `${((state.index + 1) / state.order.length) * 100}%`;
+  if (els.cardCounter) els.cardCounter.textContent = `${state.index + 1} / ${state.order.length}`;
+  if (els.meterFill) els.meterFill.style.width = `${((state.index + 1) / state.order.length) * 100}%`;
   renderWordList();
   setLookup(card.word, card.lookup.english, card.lookup.chinese);
   renderQuiz();
