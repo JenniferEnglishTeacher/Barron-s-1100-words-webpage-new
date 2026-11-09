@@ -1,5 +1,6 @@
 // SAT Vocabulary Board — four zones:
-//   1. Barron's 1100 Words (46 units)   2. Hot Words for the SAT (35 lessons)   3. 字根/字首/未歸類 (linked site)
+//   1. Barron's 1100 Words (46 units)   2. Hot Words for the SAT (35 lessons)
+//   3. 字根/字首/未歸類 — a map of 236 sets (prefix / root / unclassified); each set opens roots-unitN.html (cards + MCQ)
 //   4. Verbal Advantage Lv.1–5 / 字彙的力量1 (units 1–25)   5. Verbal Advantage Lv.6–10 / 字彙的力量2 (units 26–50)
 // Word zones (1, 2, 4, 5): hover = speak + definition card, click = mark red for review, download marked words as Excel.
 const BARRONS = window.DASHBOARD_UNITS || [];
@@ -8,7 +9,7 @@ const VA = window.VA_DASHBOARD_UNITS || [];
 const VA2 = window.VA2_DASHBOARD_UNITS || [];
 const STORE_KEY = "barrons1100-review-list"; // kept from the Barron's-only board so existing lists survive
 const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
-const ROOTS_SITE = "https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/";
+const ROOTS_SETS = window.ROOTS_SETS || []; // built locally from the combined-sources data; no live fetch
 
 // Each book: how its units are named, linked and keyed in the review list.
 // Barron's keys stay "unit:index" (as before); Hot Words keys are "h<lesson>:index"; Verbal Advantage keys are "v<unit>:index".
@@ -319,7 +320,7 @@ window.addEventListener("storage", event => {
   if (event.key === STORE_KEY) { marked = loadMarked(); refresh(); }
 });
 
-// ---------- Zone 3: 字根 / 字首 / 未歸類 (live course map from the combined-sources site) ----------
+// ---------- Zone 3: 字根 / 字首 / 未歸類 (map of sets → each opens its own flashcard page) ----------
 const PARTS = [
   ["part1", "Part 1 字首篇", "Prefixes"],
   ["part2", "Part 2 字根篇", "Roots"],
@@ -327,20 +328,12 @@ const PARTS = [
 ];
 let batches = [];
 
-async function loadBatches() {
-  const status = document.querySelector("#rootsStatus");
-  try {
-    const res = await fetch(`${ROOTS_SITE}data/batches-index.json`, { signal: AbortSignal.timeout(8000) });
-    if (!res.ok) throw new Error(res.status);
-    const data = await res.json();
-    batches = data.batches || [];
-    const total = data.summary?.total_words || batches.reduce((n, b) => n + (b.count || 0), 0);
-    document.querySelector("#rootsTotal").textContent = `${total.toLocaleString()} words · ${batches.length} batches`;
-    status.hidden = true;
-    renderBatches();
-  } catch (error) {
-    status.textContent = "The course map could not load right now — use the button above to open the site. 目前無法載入分類清單，請直接點上方按鈕開啟網站。";
-  }
+function loadBatches() {
+  batches = ROOTS_SETS;
+  const total = batches.reduce((n, b) => n + (b.count || 0), 0);
+  document.querySelector("#rootsTotal").textContent = `${total.toLocaleString()} words · ${batches.length} sets`;
+  document.querySelector("#rootsStatus").hidden = true;
+  renderBatches();
 }
 
 function renderBatches() {
@@ -353,22 +346,20 @@ function renderBatches() {
     group.innerHTML = `
       <div class="roots-group-head">
         <h3>${zh} <span>${en}</span></h3>
-        <p>${items.length} batches · ${words.toLocaleString()} words</p>
+        <p>${items.length} sets · ${words.toLocaleString()} words</p>
       </div>
       <div class="roots-chips"></div>`;
     const chips = group.querySelector(".roots-chips");
     items.forEach(b => {
       const a = document.createElement("a");
       a.className = "roots-chip";
-      a.href = `${ROOTS_SITE}batch.html?batch=${encodeURIComponent(b.id)}&mode=learn`;
-      a.target = "_blank";
-      a.rel = "noopener";
+      a.href = `roots-unit${b.unit}.html`;
       a.dataset.terms = `${b.name} ${b.subtitle} ${b.search_terms || ""}`.toLowerCase();
       a.innerHTML = `<strong></strong><span></span><small></small>`;
       a.querySelector("strong").textContent = key === "unclassified" ? b.name.replace(/^Unclassified\s*/, "") : b.name;
       a.querySelector("span").textContent = key === "unclassified" ? "" : b.subtitle;
       a.querySelector("small").textContent = `${b.count}`;
-      a.title = `${b.part_label}: ${b.name} — ${b.subtitle} (${b.count} words). Opens Part 1: Learn & match.`;
+      a.title = `${b.part_label}: ${b.name}${b.subtitle ? ` — ${b.subtitle}` : ""} (${b.count} words). Opens the set's flashcards and MCQ.`;
       chips.append(a);
     });
     return group;
@@ -387,7 +378,7 @@ function filterBatches(q) {
     if (q && match) hits += 1;
   });
   const note = document.querySelector("#rootsSearchNote");
-  note.textContent = q ? `${hits} batch(es) contain “${q}” 個分類含有此字` : "";
+  note.textContent = q ? `${hits} set(s) contain “${q}” 個分類含有此字` : "";
 }
 
 // ---------- Start ----------

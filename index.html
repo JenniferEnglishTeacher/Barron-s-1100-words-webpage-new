@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261109vb">
+  <link rel="stylesheet" href="styles.css?v=20261110r">
 </head>
 <body>
   <main class="app-shell board-shell">
@@ -84,12 +84,11 @@
       <div class="roots-hero">
         <div>
           <h2>字根 / 字首 / 無法歸類</h2>
-          <p>All combined-source SAT words grouped by Latin/Greek prefix (字首) and root (字根), plus the words that fit no category (未歸類). Each batch has <b>Learn &amp; match</b>, <b>Test memory</b> and a <b>Complete list</b>. Use <b>Find</b> above to see which batch a word is in.<br>依字首、字根分類的 SAT 單字；每組皆有學習配對、記憶測驗與完整清單。可用上方「Find」查單字在哪一組。</p>
+          <p>SAT words grouped by Latin/Greek prefix (字首) and root (字根), plus the words that fit no category (未歸類). Click a set to open its <b>flashcards</b> (word parts, meaning, two example sentences) and <b>MCQ practice</b>. Use <b>Find</b> above to see which set a word is in.<br>依字首、字根分類的 SAT 單字；點一組進入字卡（字源、字義、兩個例句）與選擇題練習。可用上方「Find」查單字在哪一組。</p>
           <p class="roots-total" id="rootsTotal"></p>
         </div>
-        <a class="primary-button roots-open" href="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/index.html" target="_blank" rel="noopener">Open SAT Vocabulary Studio ↗</a>
       </div>
-      <p class="roots-status" id="rootsStatus">Loading batches… 載入中…</p>
+      <p class="roots-status" id="rootsStatus">Loading sets… 載入中…</p>
       <p class="roots-search-note" id="rootsSearchNote" aria-live="polite"></p>
       <div class="roots-groups" id="rootsGroups"></div>
     </section>
@@ -98,7 +97,8 @@
   <script src="hot-dashboard-data.js?v=20261109h"></script>
   <script src="va-dashboard-data.js?v=20261109vb"></script>
   <script src="va2-dashboard-data.js?v=20261109vb"></script>
+  <script src="roots-sets.js?v=20261110r"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261109vb"></script>
+  <script src="dashboard.js?v=20261110r"></script>
 </body>
 </html>

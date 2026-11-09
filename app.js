@@ -2,12 +2,14 @@ const units = window.FLASHCARD_UNITS;
 const localLookup = window.LOCAL_LOOKUP;
 
 // Which word set this page belongs to: Barron's 1100 (unitN.html), Hot Words for the SAT (hot-unitN.html)
-// or Verbal Advantage Lv.1–5 / 字彙的力量1 (va-unitN.html).
-const SET = ["hot", "va"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
+// Verbal Advantage Lv.1–10 / 字彙的力量1–2 (va-unitN.html) or 字根/字首/未歸類 sets (roots-unitN.html).
+const SET = ["hot", "va", "roots"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
 const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
   hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
-  va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} }
+  va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} },
+  // Roots words are not linked inside other books' sentences (thousands of everyday words would light up), so its index is empty.
+  roots: { page: u => `roots-unit${u}.html`, badge: u => `R${u}`, label: u => `字根字首 — Set ${u}`, unitName: "Set", count: 236, board: "index.html#roots", index: () => ({}) }
 };
 const SETCFG = SETS[SET];
 
@@ -65,7 +67,9 @@ function init() {
   for (let n = 1; n <= SETCFG.count; n += 1) {
     const option = document.createElement("option");
     option.value = String(n);
-    option.textContent = SET === "va" ? `${SETCFG.unitName} ${n} (Lv.${Math.ceil(n / 5)})` : `${SETCFG.unitName} ${n}`;
+    option.textContent = SET === "va" ? `${SETCFG.unitName} ${n} (Lv.${Math.ceil(n / 5)})`
+      : SET === "roots" && window.ROOTS_UNIT_NAMES ? `${n}. ${window.ROOTS_UNIT_NAMES[n - 1]}`
+      : `${SETCFG.unitName} ${n}`;
     els.unitSelect.append(option);
   }
   const selectLabel = document.querySelector('label[for="unitSelect"]');
@@ -105,7 +109,7 @@ function createQuizLinks() {
 function renderQuizLinks() {
   if (!els.quizLinks) return;
   const unit = state.unit;
-  if (SET === "hot" || SET === "va") {
+  if (SET === "hot" || SET === "va" || SET === "roots") {
     // Hot Words / Verbal Advantage units have no separate online quiz page: jump to the MCQ practice below the cards.
     const a = document.createElement("a");
     a.className = "quiz-link";
@@ -295,6 +299,7 @@ function renderWordList() {
 const CAMBRIDGE = "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/";
 
 function renderSynonyms(card) {
+  if (SET === "roots") { renderWordParts(card); return; }
   const words = String(card.synonyms || "").split(/\s*[,;]\s*/).map(w => w.trim()).filter(Boolean);
   const label = document.createElement("span");
   label.className = "syn-label";
@@ -328,6 +333,34 @@ function renderSynonyms(card) {
     return chip;
   });
   els.synonyms.replaceChildren(label, ...chips);
+}
+
+// Roots sets: show the word's etymology note and its prefix/root group where other books show synonyms.
+function renderWordParts(card) {
+  const label = document.createElement("span");
+  label.className = "syn-label";
+  label.textContent = "Word parts 字源: ";
+  const parts = [];
+  if (card.root) {
+    const note = document.createElement("span");
+    note.className = "syn-chip root-note";
+    note.textContent = card.root;
+    parts.push(note);
+  }
+  if (card.group) {
+    const group = document.createElement("span");
+    group.className = "syn-chip root-group";
+    group.textContent = card.group;
+    parts.push(group);
+  }
+  if (card.synonyms) {
+    const syn = document.createElement("span");
+    syn.className = "syn-chip";
+    syn.textContent = `≈ ${card.synonyms}`;
+    parts.push(syn);
+  }
+  els.synonyms.replaceChildren(label, ...parts);
+  els.synonyms.hidden = !parts.length;
 }
 
 function createQuizSection() {
@@ -449,9 +482,18 @@ function buildBarronsForms() {
 const NOT_WORD = {
   barrons: new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]),
   hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"]),
-  va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"])
+  va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"]),
+  roots: new Set()
 };
 const SET_ORDER = SET === "hot" ? ["hot", "barrons", "va"] : SET === "va" ? ["va", "barrons", "hot"] : ["barrons", "hot", "va"];
+
+// Roots pages: the card's own word (and simple inflections) is highlighted as the target even when no other book has it.
+function isOwnWordForm(token, word, forms = []) {
+  const t = token.toLowerCase(), w = word.toLowerCase();
+  if (t === w || forms.some(f => f.toLowerCase().split(/\s+/).includes(t))) return true;
+  const stem = w.replace(/e$/, "");
+  return [w + "s", w + "es", w + "d", w + "ed", stem + "ing", stem + "ed", w.replace(/y$/, "ies"), w.replace(/y$/, "ied")].includes(t);
+}
 
 function findBarrons(token) {
   if (!wordForms) buildBarronsForms();
@@ -484,6 +526,17 @@ function makeSentenceNodes(card, text) {
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = part;
+
+    if (SET === "roots" && isOwnWordForm(part.replace(/^['-]+|['-]+$/g, ""), card.word, card.forms)) {
+      button.className = "barrons-word roots-word target";
+      button.title = `This card's word: ${card.word}`;
+      button.addEventListener("pointerenter", event => {
+        if (event.pointerType !== "mouse") return;
+        setLookup(card.word, card.lookup.english, card.lookup.chinese);
+      });
+      button.addEventListener("click", event => { event.stopPropagation(); speak(card.word); });
+      return button;
+    }
 
     if (!found) {
       button.addEventListener("click", event => {
@@ -529,7 +582,7 @@ function renderAdvanced(card) {
     block = document.createElement("div");
     block.className = "sentence-block advanced-block";
     block.id = "advancedBlock";
-    block.innerHTML = `<div class="sentence-heading"><span>Advanced Sentence <small>★ review words from other ${SET === "hot" ? "lessons" : "units"}</small></span><button class="speak-button" id="speakAdvanced" type="button">Sentence</button></div><p class="sentence" id="advSentence"></p><p class="translation" id="advTranslation"></p>`;
+    block.innerHTML = `<div class="sentence-heading"><span>${SET === "roots" ? "Another Example <small>另一個例句</small>" : `Advanced Sentence <small>★ review words from other ${SET === "hot" ? "lessons" : "units"}</small>`}</span><button class="speak-button" id="speakAdvanced" type="button">Sentence</button></div><p class="sentence" id="advSentence"></p><p class="translation" id="advTranslation"></p>`;
     els.translation.closest(".sentence-block").insertAdjacentElement("afterend", block);
     block.querySelector("#speakAdvanced").addEventListener("click", event => {
       event.stopPropagation();
@@ -635,7 +688,33 @@ function shuffle(items) {
   return items;
 }
 
+// Roots sets: a word-part tile (prefix/root group, its meaning and the word's etymology) instead of a picture.
+function makeRootsIllustration(card) {
+  const ink = "#17202a", teal = "#087f8c", coral = "#c6533e", green = "#3f7d4a", cream = "#fff5d6";
+  const [spelling, meaning] = String(card.group || "").split(" = ");
+  const wrap = (text, max) => {
+    const words = String(text || "").split(/\s+/), lines = [""];
+    words.forEach(w => { if ((lines[lines.length - 1] + " " + w).trim().length > max) lines.push(w); else lines[lines.length - 1] = (lines[lines.length - 1] + " " + w).trim(); });
+    return lines.filter(Boolean).slice(0, 3);
+  };
+  const rootLines = wrap(card.root || "", 30);
+  const head = spelling
+    ? `<text x="210" y="160" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="${spelling.length > 14 ? 30 : 44}" font-weight="900" fill="${green}">${escapeXml(spelling)}</text>
+       <text x="210" y="200" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="22" font-weight="700" fill="${coral}">${escapeXml(truncateText(meaning || "", 16))}</text>`
+    : `<text x="210" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="900" fill="${green}">${escapeXml(card.word.charAt(0).toUpperCase())}</text>`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="${escapeXml(card.word)}">
+    <rect width="420" height="420" rx="30" fill="#f7fafc"/>
+    <rect x="40" y="96" width="340" height="130" rx="22" fill="${cream}" stroke="${green}" stroke-width="6"/>
+    <text x="210" y="76" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" font-weight="700" fill="${teal}">${spelling ? "word part 字首／字根" : "first letter 字母"}</text>
+    ${head}
+    ${rootLines.map((line, i) => `<text x="210" y="${270 + i * 26}" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="${ink}">${escapeXml(line)}</text>`).join("")}
+    <text x="210" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="${ink}">${escapeXml(card.word)}</text>
+  </svg>`;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
+}
+
 function makeIllustration(card) {
+  if (SET === "roots") return makeRootsIllustration(card);
   const ink = "#17202a";
   const teal = "#087f8c";
   const gold = "#d89a27";
