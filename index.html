@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261109h">
+  <link rel="stylesheet" href="styles.css?v=20261109j">
 </head>
 <body>
   <main class="app-shell board-shell">
     <header class="board-hero">
       <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首</p>
       <h1>SAT Vocabulary Board</h1>
-      <p class="board-intro">Hover over any word to hear it and see its meaning. Click a word you find difficult: it turns <b class="red-text">red</b> and goes on your review list. Click a red word again to remove it. Use <b>Show list</b> to open a word's flashcard, and <b>Download Excel</b> to save your list.<br>滑鼠移到單字上可聽發音並看到中英文解釋；點選不熟的單字會變紅色並加入複習清單，再點一次可移除。按「Show list」可開啟字卡，按「Download Excel」可下載清單。</p>
+      <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a unit's flashcards (sample sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>按「🗂 Flashcards」進入該單元字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
     </header>
 
     <nav class="zone-tabs" role="tablist" aria-label="Word collections">
@@ -43,7 +43,7 @@
     <section class="zone-panel" id="zone-barrons" role="tabpanel" aria-label="Barron's 1100 Words">
       <div class="zone-head">
         <h2>Barron's 1100 Words <span>46 units × 20 words</span></h2>
-        <p>Click a unit name to open its flashcards; 📝 Quiz opens the unit's online quiz.</p>
+        <p><b>🗂 Flashcards</b> (or the unit name) opens the unit's flashcards; double-click a word to open its card; 📝 Quiz opens the online quiz. 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡。</p>
       </div>
       <div class="unit-board" id="board-barrons"></div>
     </section>
@@ -51,7 +51,7 @@
     <section class="zone-panel" id="zone-hot" role="tabpanel" aria-label="Hot Words for the SAT" hidden>
       <div class="zone-head">
         <h2>Hot Words for the SAT <span>by lesson theme</span></h2>
-        <p>Click a lesson name to open its flashcards; 📝 MCQ jumps to the lesson's practice test. 點選課名開啟字卡，📝 MCQ 直接進入該課練習題。</p>
+        <p><b>🗂 Flashcards</b> (or the lesson name) opens the lesson's flashcards; double-click a word to open its card; 📝 MCQ jumps to the practice test. 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡，📝 MCQ 進入練習題。</p>
       </div>
       <div class="unit-board" id="board-hot"></div>
     </section>
@@ -73,6 +73,6 @@
   <script src="dashboard-data.js?v=20261109d"></script>
   <script src="hot-dashboard-data.js?v=20261109h"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261109h"></script>
+  <script src="dashboard.js?v=20261109j"></script>
 </body>
 </html>

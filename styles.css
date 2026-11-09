@@ -967,3 +967,18 @@ body[data-set="hot"] .eyebrow, body[data-set="hot"] #unitTitle { color: var(--ho
   .zone-tabs { grid-template-columns: 1fr; gap: 8px; }
   .zone-tab { padding: 10px 12px; }
 }
+
+/* 2026-11-09 fix: obvious way into the flashcards from the board */
+.unit-actions { display: flex; flex: none; gap: 6px; }
+.mini-cards {
+  border-radius: 6px;
+  padding: 5px 10px;
+  background: var(--teal);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration: none;
+}
+.mini-cards:hover, .mini-quiz:hover { filter: brightness(1.08); text-decoration: underline; }
+.hot-block .mini-cards { background: var(--hot-dark); }
+.board-word { user-select: none; }

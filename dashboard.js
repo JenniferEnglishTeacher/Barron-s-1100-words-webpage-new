@@ -89,7 +89,10 @@ function buildBoard(book) {
     section.innerHTML = `
       <div class="unit-block-head">
         <div class="unit-title"><a class="unit-number" href="${cfg.page(u.unit)}">${cfg.unitName} ${u.unit}</a></div>
-        <a class="mini-quiz" href="${quizHref}"${quizAttrs}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
+        <div class="unit-actions">
+          <a class="mini-cards" href="${cfg.page(u.unit)}">🗂 Flashcards</a>
+          <a class="mini-quiz" href="${quizHref}"${quizAttrs}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
+        </div>
       </div>`;
     if (u.theme) {
       const theme = document.createElement("p");
@@ -118,7 +121,18 @@ function buildBoard(book) {
       });
       btn.addEventListener("focus", () => showTip(btn, key));
       btn.addEventListener("blur", hideTip);
-      btn.addEventListener("click", () => toggleWord(key));
+      // Single click = mark/unmark for review (short delay so a double-click can cancel it);
+      // double-click = open this word's flashcard (sample sentence) in a new tab.
+      let clickTimer = null;
+      btn.addEventListener("click", () => {
+        clearTimeout(clickTimer);
+        clickTimer = setTimeout(() => toggleWord(key), 250);
+      });
+      btn.addEventListener("dblclick", event => {
+        event.preventDefault();
+        clearTimeout(clickTimer);
+        openCard(cfg, u.unit, card.w);
+      });
       words.append(btn);
     });
     section.append(words);
@@ -149,8 +163,8 @@ function showTip(btn, key) {
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
-    ? "Click to remove from review list 再點一次移除"
-    : "Click to add to review list 點選加入複習清單";
+    ? "Click: remove from review list 點一下移除 · Double-click: open flashcard 點兩下開字卡"
+    : "Click: add to review list 點一下加入複習 · Double-click: open flashcard 點兩下開字卡";
   tip.classList.toggle("is-marked", isMarked);
   tip.classList.toggle("is-hot", card.book === "hot");
   tip.hidden = false;
@@ -164,6 +178,15 @@ function showTip(btn, key) {
   if (top + th > window.innerHeight - 8) top = r.top - th - 8;
   tip.style.left = `${left}px`;
   tip.style.top = `${top}px`;
+}
+
+function cardUrl(cfg, unit, word) {
+  return `${cfg.page(unit)}#w=${encodeURIComponent(word)}`;
+}
+
+function openCard(cfg, unit, word) {
+  hideTip();
+  window.open(cardUrl(cfg, unit, word), "_blank", "noopener");
 }
 
 function hideTip() {
@@ -202,7 +225,7 @@ function renderPreview() {
     const cfg = BOOKS[card.book];
     const chip = document.createElement("span");
     chip.className = `preview-chip${card.book === "hot" ? " hot" : ""}`;
-    chip.innerHTML = `<a href="${cfg.page(card.unit)}#w=${encodeURIComponent(card.w)}" target="_blank" rel="noopener"></a><small>${cfg.short}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
+    chip.innerHTML = `<a href="${cardUrl(cfg, card.unit, card.w)}" target="_blank" rel="noopener"></a><small>${cfg.short}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
     chip.querySelector("a").textContent = card.w;
     chip.querySelector("button").addEventListener("click", () => toggleWord(key));
     return chip;
