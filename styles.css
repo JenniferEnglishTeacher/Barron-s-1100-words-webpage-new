@@ -1056,3 +1056,73 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .roots-chip.has-saved { border-color: rgba(198, 40, 40, 0.45); }
 @media (max-width: 1300px) { .study-area { grid-template-columns: 330px minmax(0, 1fr); } .lookup-panel { grid-column: 1 / -1; } }
 @media (max-width: 1100px) { .study-area { grid-template-columns: 1fr; } .word-list { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-height: 420px; } .roots-list-head { grid-column: 1 / -1; } }
+
+/* ---------- Picture cards (Barron's Units 1–20): full-width illustrated card on top, details below ---------- */
+.flashcard.has-photo { min-height: 1000px; }
+/* Picture units: give the card the middle + right columns; Word Lookup moves under it. */
+@media (min-width: 1101px) {
+  body.photo-unit .study-area { grid-template-columns: 330px minmax(0, 1fr); }
+  body.photo-unit .lookup-panel { grid-column: 2; min-height: 0; }
+}
+.flashcard.has-photo .card-back {
+  grid-template-columns: 1fr;
+  grid-template-rows: auto minmax(0, 1fr);
+}
+.flashcard.has-photo .visual-wrap {
+  min-height: 0;
+  padding: 14px 14px 0;
+  background: #fbf6ea;
+}
+.flashcard.has-photo .visual-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 600px;
+  object-fit: contain;
+  border-radius: 6px;
+  cursor: zoom-in;
+  box-shadow: 0 6px 18px rgba(24, 43, 61, 0.12);
+  background: #fff;
+}
+.flashcard.has-photo .card-details { padding: 20px 28px 26px; }
+.flashcard.has-photo .card-details h2 { font-size: clamp(30px, 3.4vw, 44px); }
+.flashcard.has-photo .definition { margin: 14px 0 8px; font-size: 20px; }
+
+.photo-zoom {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  place-items: center;
+  padding: 24px;
+  background: rgba(10, 16, 24, 0.86);
+  cursor: zoom-out;
+}
+.photo-zoom.open { display: grid; }
+.photo-zoom img {
+  max-width: min(1700px, 100%);
+  max-height: calc(100vh - 48px);
+  border-radius: 8px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  background: #fff;
+}
+.photo-zoom-close {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+  font-size: 22px;
+  cursor: pointer;
+}
+
+@media (max-width: 760px) {
+  .flashcard.has-photo { min-height: 980px; }
+  .flashcard.has-photo .card-back { grid-template-rows: auto minmax(0, 1fr); }
+  .flashcard.has-photo .visual-wrap { padding: 10px 10px 0; }
+  .flashcard.has-photo .card-details { padding: 16px 18px 20px; }
+}

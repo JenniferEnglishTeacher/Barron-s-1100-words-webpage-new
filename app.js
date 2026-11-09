@@ -181,6 +181,10 @@ function bindEvents() {
   els.nextCard.addEventListener("click", () => moveCard(1));
   els.flipCard.addEventListener("click", flipCard);
   els.flashcard.addEventListener("click", event => {
+    if (event.target === els.cardImage && els.flashcard.classList.contains("has-photo") && state.flipped) {
+      openPhotoZoom(els.cardImage.src, els.cardImage.alt);
+      return;
+    }
     if (!event.target.closest("button, a")) flipCard();
   });
   els.flashcard.addEventListener("keydown", event => {
@@ -247,8 +251,18 @@ function render() {
   renderSynonyms(card);
   renderQuizLinks();
   els.translation.textContent = card.translation;
-  els.cardImage.src = makeIllustration(card);
-  els.cardImage.alt = `${card.word} illustration`;
+  const photo = photoFor(card);
+  els.flashcard.classList.toggle("has-photo", Boolean(photo));
+  document.body.classList.toggle("photo-unit", Boolean(photo));
+  els.cardImage.onerror = photo ? () => {
+    els.cardImage.onerror = null;
+    els.flashcard.classList.remove("has-photo");
+    els.cardImage.src = makeIllustration(card);
+  } : null;
+  els.cardImage.src = photo || makeIllustration(card);
+  els.cardImage.alt = photo ? `${card.word} — picture card (click to enlarge)` : `${card.word} illustration`;
+  els.cardImage.title = photo ? "Click to enlarge 點圖放大" : "";
+  preloadNextPhoto();
   els.sentence.replaceChildren(...makeSentenceNodes(card));
   renderAdvanced(card);
   els.cardCounter.textContent = `${state.index + 1} / ${state.order.length}`;
@@ -829,6 +843,48 @@ function makeRootsIllustration(card) {
     <text x="210" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="${ink}">${escapeXml(card.word)}</text>
   </svg>`;
   return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
+}
+
+// ---------- Picture cards (Barron's Units 1–PHOTO_MAX_UNIT): Jennifer's own illustrated word cards ----------
+// Files live at images/uNN/<word letters only>.webp. Any card without a file falls back to the drawn SVG.
+const PHOTO_MAX_UNIT = 20;
+const PHOTO_VERSION = "20261110";
+
+function photoFor(card) {
+  if (SET !== "barrons" || !card) return "";
+  const unit = Number(state.unit);
+  if (!(unit >= 1 && unit <= PHOTO_MAX_UNIT)) return "";
+  const slug = String(card.word).toLowerCase().replace(/[^a-z]/g, "");
+  return `images/u${String(unit).padStart(2, "0")}/${slug}.webp?v=${PHOTO_VERSION}`;
+}
+
+function preloadNextPhoto() {
+  const list = cards();
+  if (!state.order || state.order.length < 2) return;
+  const next = list[state.order[(state.index + 1) % state.order.length]];
+  const src = photoFor(next);
+  if (src) { const img = new Image(); img.src = src; }
+}
+
+function openPhotoZoom(src, alt) {
+  let box = document.querySelector("#photoZoom");
+  if (!box) {
+    box = document.createElement("div");
+    box.id = "photoZoom";
+    box.className = "photo-zoom";
+    box.setAttribute("role", "dialog");
+    box.setAttribute("aria-modal", "true");
+    box.innerHTML = `<button class="photo-zoom-close" type="button" aria-label="Close">✕</button><img alt="">`;
+    box.addEventListener("click", () => box.classList.remove("open"));
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape") box.classList.remove("open");
+    });
+    document.body.appendChild(box);
+  }
+  const img = box.querySelector("img");
+  img.src = src;
+  img.alt = alt || "";
+  box.classList.add("open");
 }
 
 function makeIllustration(card) {
