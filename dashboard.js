@@ -106,7 +106,7 @@ function buildBoard(book) {
     if (u.level) {
       const lv = document.createElement("p");
       lv.className = "unit-theme";
-      lv.textContent = `Level ${u.level} · 字彙的力量1`;
+      lv.textContent = `Level ${u.level}`;
       section.querySelector(".unit-title").append(lv);
     }
     if (u.theme) {

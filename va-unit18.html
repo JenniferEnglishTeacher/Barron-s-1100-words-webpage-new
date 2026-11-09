@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Verbal Advantage Unit 18 Flashcards</title>
+  <link rel="stylesheet" href="styles.css?v=20261109va">
+</head>
+<body data-set="va">
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow"><a class="back-link" href="index.html#va">Unit Board · Verbal Advantage</a></p>
+        <h1 id="unitTitle">Verbal Advantage Unit 18 (Level 4)</h1>
+      </div>
+      <div class="unit-controls">
+        <label for="unitSelect">Unit</label>
+        <select id="unitSelect"></select>
+      </div>
+    </header>
+
+    <section class="study-area" aria-live="polite">
+      <aside class="word-list" id="wordList" aria-label="Vocabulary list"></aside>
+      <section class="card-stage">
+        <div class="progress-row"><button class="icon-button" id="prevCard" type="button" aria-label="Previous card" title="Previous card">&#8592;</button><div class="progress"><span id="cardCounter">1 / 20</span><div class="meter"><span id="meterFill"></span></div></div><button class="icon-button" id="nextCard" type="button" aria-label="Next card" title="Next card">&#8594;</button></div>
+        <article class="flashcard" id="flashcard" tabindex="0" aria-label="Flashcard">
+          <div class="card-face card-front"><p class="front-label">Vocabulary</p><h2 id="frontWord"></h2><button class="speak-button" id="speakWordFront" type="button">Listen</button></div>
+          <div class="card-face card-back"><div class="visual-wrap"><img id="cardImage" alt=""></div><div class="card-details"><div class="detail-heading"><div><p id="posTag"></p><h2 id="backWord"></h2></div><button class="speak-button" id="speakWordBack" type="button">Word</button></div><p class="definition" id="definition"></p><p class="synonyms" id="synonyms"></p><div class="sentence-block"><div class="sentence-heading"><span>dSAT Sentence</span><button class="speak-button" id="speakSentence" type="button">Sentence</button></div><p class="sentence" id="sentence"></p><p class="translation" id="translation"></p></div></div></div>
+        </article>
+        <div class="mode-row"><button class="primary-button" id="flipCard" type="button">Flip</button><button class="secondary-button" id="shuffleCards" type="button">Shuffle</button><button class="secondary-button" id="resetCards" type="button">Reset</button></div>
+      </section>
+      <aside class="lookup-panel" id="lookupPanel" aria-live="polite"><p class="lookup-label">Word Lookup</p><h3 id="lookupWord">Select a word</h3><p id="lookupEnglish">English meaning will appear here.</p><p id="lookupChinese">中文意思會顯示在這裡。</p><button class="speak-button" id="speakLookup" type="button">Listen</button></aside>
+    </section>
+  </main>
+  <script src="va-unit18-data.js?v=20261109va"></script>
+  <script src="all-words.js?v=20261109b"></script>
+  <script src="hot-words.js?v=20261109h"></script>
+  <script src="va-words.js?v=20261109va"></script>
+  <script src="app.js?v=20261109va"></script>
+</body>
+</html>
