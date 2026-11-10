@@ -115,6 +115,14 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
 .wrong-list{display:flex;flex-direction:column;gap:8px;margin-top:8px}
 .wrong-item{border-left:4px solid var(--coral);background:#fff;border-radius:8px;padding:9px 12px;font-size:15px}
 .wrong-item b{color:var(--mint)}
+.wrong-item .wi-head{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline}
+.wrong-item .wi-w{font-size:19px;font-weight:900;color:var(--felt)}
+.wrong-item .wi-p{color:var(--muted);font-weight:800}
+.wrong-item .wi-zh{color:#b5432f;font-weight:900}
+.wrong-item .wi-def{margin-top:3px;font-weight:600}
+.wrong-item .wi-ex{margin-top:3px;color:var(--muted);font-weight:600;font-style:italic}
+.wrong-item .wi-ans{margin-top:4px;font-size:14px;color:var(--muted);font-weight:700}
+.wrong-item .wi-ans s{color:var(--coral)}
 /* overlay mini-games */
 .overlay{position:fixed;inset:0;z-index:50;background:rgba(6,32,26,.82);display:grid;place-items:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));overflow:auto}
 .arena{width:min(800px,100%);background:radial-gradient(130% 120% at 50% 0%,#17725d,var(--felt-deep));border:3px solid var(--gold);border-radius:22px;color:#fff;padding:20px;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,.4)}
@@ -240,10 +248,12 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
       <div class="stat"><b id="sWrong">0</b><span>錯題數</span></div>
       <div class="stat"><b id="sScore">0</b><span>總分（含小遊戲）</span></div>
     </div>
+    <h2 id="wrongTitle" style="margin-top:14px;font-size:17px">我的錯題 My Mistakes <em id="wrongCount"></em></h2>
     <div id="wrongList" class="wrong-list"></div>
     <div class="row" style="margin-top:16px">
       <button class="btn go" id="againBtn" type="button">重新選題</button>
       <button class="btn dark hidden" id="retryWrongBtn" type="button">再做一次錯題</button>
+      <button class="btn dark hidden" id="dlWrongBtn" type="button">⬇ 下載錯題 Download my mistakes</button>
       <a class="btn" href="index.html">回到 Board</a>
     </div>
   </section>
@@ -253,6 +263,7 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
   <div class="arena" id="arena"></div>
 </div>
 
+<script src="vendor/xlsx.full.min.js"></script>
 <script src="dashboard-data.js?v=20261109d"></script>
 <script src="hot-dashboard-data.js?v=20261109h"></script>
 <script src="va-dashboard-data.js?v=20261109vb"></script>
@@ -477,7 +488,7 @@ function answer(o,btn){
   $('#qFeedback').querySelectorAll('[data-say]').forEach(b=>b.onclick=()=>speak(b.dataset.say==='w'?c.w:c.s,b.dataset.say==='w'?.85:.95));
   const drop=$('#qFeedback').querySelector('[data-drop]');
   if(drop)drop.onclick=()=>{try{localStorage.setItem(STORE_KEY,JSON.stringify(readStore(STORE_KEY,[]).filter(k=>k!==c.key)));}catch(e){}drop.textContent='已移出清單（下次闖關就不會再考）';drop.disabled=true;};
-  state.log.push({n:state.n,cat:q.cat,word:c.w,prompt:q.listen?'🔊 '+c.w:(q.text||'').replace('___','( '+(q.form||c.w)+' )'),student:o.label,correct:q.field==='c'?c.c:c.w,ok});
+  state.log.push({n:state.n,card:c,cat:q.cat,word:c.w,prompt:q.listen?'🔊 '+c.w:(q.text||'').replace('___','( '+(q.form||c.w)+' )'),student:o.label,correct:q.field==='c'?c.c:c.w,ok});
   speak(c.w,.85);
   renderPips();
   const nb=$('#nextBtn');nb.classList.remove('hidden');
@@ -492,6 +503,21 @@ $('#endBtn').onclick=()=>{if(!state.answered)state.n--;finish();};
 $('#startBtn').onclick=()=>start();
 $('#againBtn').onclick=()=>{$('#summary').classList.add('hidden');$('#setup').classList.remove('hidden');state.books=new Set();buildSetup();Object.assign(state,{score:0,right:0,streak:0,toGame:0});renderPips();window.scrollTo({top:0,behavior:'smooth'});};
 $('#retryWrongBtn').onclick=()=>start(state.wrongQs.slice());
+function stamp(){const d=new Date(),z=n=>String(n).padStart(2,'0');return `${d.getFullYear()}${z(d.getMonth()+1)}${z(d.getDate())}_${z(d.getHours())}${z(d.getMinutes())}`;}
+function downloadWrong(){
+  const rows=[['#','Word','POS','Chinese 中文','Definition 英文解釋','Example 例句','例句中文','Book','Unit','Question type 題型','Your answer 你的答案','Correct 正確答案']];
+  state.log.filter(r=>!r.ok).forEach((r,i)=>{const c=r.card,cfg=BOOKS[c.book];rows.push([i+1,c.w,c.p||'',c.c||'',c.d||'',c.s||'',c.t||'',cfg.name,c.unit,r.cat,r.student,r.correct]);});
+  if(window.XLSX){
+    const sheet=XLSX.utils.aoa_to_sheet(rows);
+    sheet['!cols']=[{wch:4},{wch:16},{wch:6},{wch:22},{wch:40},{wch:50},{wch:40},{wch:20},{wch:6},{wch:16},{wch:18},{wch:18}];
+    const book=XLSX.utils.book_new();XLSX.utils.book_append_sheet(book,sheet,'My Mistakes');
+    XLSX.writeFile(book,`Review_Arcade_Mistakes_${stamp()}.xlsx`);
+  }else{
+    const csv='\ufeff'+rows.map(r=>r.map(v=>`"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
+    const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));a.download=`Review_Arcade_Mistakes_${stamp()}.csv`;a.click();
+  }
+}
+$('#dlWrongBtn').onclick=downloadWrong;
 document.addEventListener('keydown',e=>{
   if(!$('#overlay').classList.contains('hidden'))return;
   if($('#quiz').classList.contains('hidden'))return;
@@ -502,8 +528,15 @@ function finish(){
   closeGame();
   $('#quiz').classList.add('hidden');$('#summary').classList.remove('hidden');
   $('#sTotal').textContent=state.log.length;$('#sRight').textContent=state.right;$('#sWrong').textContent=state.wrong;$('#sScore').textContent=state.score;
-  $('#wrongList').innerHTML=state.wrong?state.log.filter(r=>!r.ok).map(r=>`<div class="wrong-item">第 ${r.n} 題｜${esc(r.cat)}｜<b>${esc(r.word)}</b><br>${esc(r.prompt)}<br>你的答案：${esc(r.student)}　正確：<b>${esc(r.correct)}</b></div>`).join(''):(state.log.length?'<div class="wrong-item" style="border-color:var(--mint)">全部答對，太厲害了！</div>':'');
+  const wrongs=state.log.filter(r=>!r.ok);
+  $('#wrongCount').textContent=state.wrong?`${state.wrong} 個字`:'';
+  $('#wrongList').innerHTML=wrongs.length?wrongs.map(r=>{const c=r.card,cfg=BOOKS[c.book];return `<div class="wrong-item">
+    <div class="wi-head"><span class="wi-w">${esc(c.w)}</span><span class="wi-p">${esc(c.p||'')}</span><span class="wi-zh">${esc(c.c||'')}</span><span class="wi-p">${esc(cfg.name)} · ${esc(cfg.unit)} ${esc(c.unit)}</span></div>
+    ${c.d?`<div class="wi-def">${esc(c.d)}</div>`:''}
+    ${c.s?`<div class="wi-ex">${esc(c.s)}</div>`:''}
+    <div class="wi-ans">第 ${r.n} 題（${esc(r.cat)}）｜你的答案：<s>${esc(r.student)}</s>　正確：<b>${esc(r.correct)}</b></div></div>`;}).join(''):(state.log.length?'<div class="wrong-item" style="border-color:var(--mint)">全部答對，太厲害了！</div>':'');
   $('#retryWrongBtn').classList.toggle('hidden',!state.wrong);
+  $('#dlWrongBtn').classList.toggle('hidden',!state.wrong);
   window.scrollTo({top:0,behavior:'smooth'});
 }
 
