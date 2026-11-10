@@ -196,7 +196,7 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
     <h2 style="margin-top:22px"><span class="step">2</span>小遊戲類別 <em>可複選，每答對 10 題隨機抽一個</em></h2>
     <div class="chips games" id="gameChips"></div>
 
-    <h2 style="margin-top:22px"><span class="step">3</span>題型 <em>可複選，混合出題</em></h2>
+    <h2 style="margin-top:22px"><span class="step">3</span>題型 <em>預設只考英文（英文解釋、例句填空）；可複選，混合出題</em></h2>
     <div class="chips types" id="typeChips"></div>
 
     <h2 style="margin-top:22px"><span class="step">4</span>題數</h2>
@@ -296,9 +296,9 @@ const GAMES=[
 ];
 const TYPES=[
   {id:'def',name:'看英文解釋選單字',ex:'Desiring or consuming great quantities. → voracious'},
+  {id:'sent',name:'英文例句填空',ex:'The ____ reader consumed three novels in a single weekend…'},
   {id:'zh2w',name:'看中文選單字',ex:'貪婪的；貪得無厭的 → voracious'},
   {id:'w2zh',name:'看單字選中文',ex:'voracious → 貪婪的；貪得無厭的'},
-  {id:'sent',name:'例句填空',ex:'The ____ reader consumed three novels in a single weekend…'},
   {id:'listen',name:'聽發音選中文',ex:'🔊 → 貪婪的；貪得無厭的'}
 ];
 const R=a=>a[Math.floor(Math.random()*a.length)];
@@ -360,7 +360,7 @@ function makeQuestion(card,type){
    ========================================================= */
 const $=s=>document.querySelector(s);
 const GAME_EVERY=10;
-const state={books:new Set(),games:new Set(GAMES.map(g=>g.id)),types:new Set(['def','zh2w','w2zh','sent']),count:-1,
+const state={books:new Set(),games:new Set(GAMES.map(g=>g.id)),types:new Set(['def','sent']),count:-1,
   all:[],words:[],queue:[],score:0,right:0,wrong:0,streak:0,toGame:0,n:0,total:0,q:null,answered:false,log:[],wrongQs:[],lastGame:'',lastWord:'',retryQueue:null};
 
 function esc(t){return String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
