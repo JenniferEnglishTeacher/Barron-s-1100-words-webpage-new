@@ -6,14 +6,14 @@ window.FLASHCARD_UNITS = {
         "word": "aegis",
         "pos": "n.",
         "definition": "Protection or support from a powerful source.",
-        "chinese": "",
+        "chinese": "庇護；贊助",
         "synonyms": "protection, sponsorship, auspices",
         "image": "shield",
         "sentence": "The research programme operated under the __________ of a prestigious international foundation whose patronage lent the project both the financial security and the institutional credibility needed to attract the most eminent scientists in the field to participate in its ambitious agenda.",
-        "translation": "",
+        "translation": "這項研究計畫在一個聲譽卓著的國際基金會贊助下運作，其支持為計畫帶來財務保障與機構公信力，使其得以吸引該領域最傑出的科學家參與這項雄心勃勃的研究議程。",
         "lookup": {
           "english": "Protection or support from a powerful source.",
-          "chinese": ""
+          "chinese": "庇護；贊助"
         },
         "advSentence": "Under the aegis of the World Health Organization, a global vaccination campaign eventually wiped out smallpox, a virulent disease that had afflicted humanity for thousands of years and whose mortality rate was once appallingly high.",
         "advTranslation": "在世界衛生組織的支持與主導下，一場全球疫苗接種運動最終根除了天花——這種猛烈的疾病已折磨人類數千年，死亡率一度高得驚人。"
@@ -22,14 +22,14 @@ window.FLASHCARD_UNITS = {
         "word": "awesome",
         "pos": "adj.",
         "definition": "Inspiring great admiration or fear.",
-        "chinese": "",
+        "chinese": "令人敬畏的",
         "synonyms": "impressive, magnificent, formidable",
         "image": "mountain",
         "sentence": "The __________ scale of the natural catastrophe — entire towns obliterated, the gamut of critical infrastructure destroyed, and the cumulative displacement of nearly a million people — rendered even the most cogent policy responses inadequate to the immediate humanitarian imperative.",
-        "translation": "",
+        "translation": "這場天災令人震懾的規模——整座城鎮被夷為平地、各類關鍵基礎設施盡遭摧毀，累計近百萬人流離失所——讓即使是最有說服力的政策回應，也不足以應付迫在眉睫的人道需求。",
         "lookup": {
           "english": "Inspiring great admiration or fear.",
-          "chinese": ""
+          "chinese": "令人敬畏的"
         },
         "advSentence": "Astronauts often describe the sight of Earth from orbit as awesome, and many report that this vista induces an introspective mood, prompting them to ponder how petty the skirmishes between nations appear against the vastness of space.",
         "advTranslation": "太空人常形容從軌道上俯瞰地球的景象令人震撼敬畏，許多人表示，這番景致使他們變得內省，思索在浩瀚宇宙的映襯下，國與國之間的衝突顯得多麼微不足道。"
@@ -38,14 +38,14 @@ window.FLASHCARD_UNITS = {
         "word": "conflagration",
         "pos": "n.",
         "definition": "An extensive destructive fire.",
-        "chinese": "",
+        "chinese": "大火災",
         "synonyms": "fire, blaze, inferno",
         "image": "fire",
         "sentence": "The __________ that consumed the historic library had been preceded by sporadic warnings about inadequate fire suppression systems that the building's management had treated with precisely the lax indifference that the subsequent inquiry characterised as the proximate cause of an entirely preventable catastrophe.",
-        "translation": "",
+        "translation": "吞噬這座歷史圖書館的大火發生之前，曾有零星警告指出消防系統不足，但大樓管理單位卻以極度鬆懈的態度漠然處之，事後調查認定這正是這場完全可以避免的災難之直接原因。",
         "lookup": {
           "english": "An extensive destructive fire.",
-          "chinese": ""
+          "chinese": "大火災"
         },
         "advSentence": "The Great Fire of London in 1666 was a conflagration that razed thousands of houses and the medieval edifice of St Paul's Cathedral, yet it spurred officials to promulgate stricter building codes requiring brick and stone.",
         "advTranslation": "一六六六年的倫敦大火是一場燒毀數千棟房屋及中世紀聖保羅大教堂建築的大火災，然而它也促使官員頒布更嚴格的建築規範，規定房屋須以磚石建造。"
@@ -54,14 +54,14 @@ window.FLASHCARD_UNITS = {
         "word": "congenial",
         "pos": "adj.",
         "definition": "Pleasant because suited to one's character.",
-        "chinese": "",
+        "chinese": "意氣相投的",
         "synonyms": "agreeable, pleasant, compatible",
         "image": "table",
         "sentence": "The collaborative atmosphere at the research station proved deeply __________ to her particular style of working — the absence of hierarchical inhibitions allowing the sort of spontaneous intellectual cross-pollination between disciplines that the more sedentary academic environment of her previous institution had consistently prevented.",
-        "translation": "",
+        "translation": "研究站的合作氛圍與她獨特的工作風格十分相投——沒有階級束縛，讓各學科之間得以自然地激盪出知識火花，而這正是她先前任職機構那種較停滯的學術環境一直阻礙的。",
         "lookup": {
           "english": "Pleasant because suited to one's character.",
-          "chinese": ""
+          "chinese": "意氣相投的"
         },
         "advSentence": "The novelist found the quiet seaside village a congenial place to write, because its unhurried pace and gregarious neighbors offered a welcome respite from the frantic literary circles of the capital, where she had felt besieged by critics and publishers.",
         "advTranslation": "這位小說家發現那座寧靜的海邊村莊是個很適合她寫作的地方，因為那裡悠閒的步調和熱情友善的鄰居，讓她得以暫時擺脫首都那個忙亂的文壇——在那裡，她曾覺得飽受評論家和出版商的圍攻。"
@@ -70,14 +70,14 @@ window.FLASHCARD_UNITS = {
         "word": "debris",
         "pos": "n.",
         "definition": "Scattered pieces of rubbish or remains.",
-        "chinese": "",
+        "chinese": "碎片；殘骸",
         "synonyms": "rubble, wreckage, fragments",
         "image": "scatter",
         "sentence": "The investigative team painstakingly catalogued the __________ from the collapsed structure, each fragment potentially an artifact that could corroborate or refute the competing theories about whether the failure had been catastrophic and sudden or the cumulative result of years of neglect.",
-        "translation": "",
+        "translation": "調查小組費盡心力將倒塌建築的殘骸逐一編目，每塊碎片都可能是一件證物，可以證實或推翻相互競爭的理論：這次倒塌究竟是突發性的災難，還是多年疏於維護累積的結果。",
         "lookup": {
           "english": "Scattered pieces of rubbish or remains.",
-          "chinese": ""
+          "chinese": "碎片；殘骸"
         },
         "advSentence": "Orbital debris, composed of defunct satellites and fragments from earlier collisions, now abounds in low Earth orbit, and engineers warn that even a tiny shard traveling at tremendous speed could inflict lethal damage on astronauts or thwart an entire mission.",
         "advTranslation": "太空碎片由失效的衛星和過往碰撞產生的碎片組成，如今在近地軌道上大量存在；工程師警告，即使是一片以極高速度飛行的微小碎片，也可能對太空人造成致命傷害，或使整個任務功虧一簣。"
@@ -86,14 +86,14 @@ window.FLASHCARD_UNITS = {
         "word": "deplorable",
         "pos": "adj.",
         "definition": "Deserving strong condemnation.",
-        "chinese": "",
+        "chinese": "可悲的；應受譴責的",
         "synonyms": "disgraceful, shameful, appalling",
         "image": "warning",
         "sentence": "The __________ conditions in which migrant workers were being housed represented not merely a humanitarian failure but a blatant violation of the legal standards that every employer in the sector was inviolably obligated to maintain — a finding the inspectors characterised as among the most egregious they had documented.",
-        "translation": "",
+        "translation": "移工被安置的居住環境惡劣得令人痛心，這不僅是人道上的失敗，更公然違反了該產業每位雇主都必須嚴格遵守的法定標準——檢查人員形容這是他們記錄過最嚴重的案例之一。",
         "lookup": {
           "english": "Deserving strong condemnation.",
-          "chinese": ""
+          "chinese": "可悲的；應受譴責的"
         },
         "advSentence": "Charles Dickens's novels exposed the deplorable conditions of Victorian workhouses, where indigent children endured malnutrition and harsh reprimands, and his poignant portrayals helped spur advocates of social reform to demand better treatment for the poor.",
         "advTranslation": "狄更斯的小說揭露了維多利亞時代濟貧院令人痛心的惡劣環境——貧困的孩子在那裡忍受營養不良和嚴厲斥責，而他動人的描寫也激勵了社會改革的倡議者，要求改善窮人的待遇。"
@@ -102,14 +102,14 @@ window.FLASHCARD_UNITS = {
         "word": "detriment",
         "pos": "n.",
         "definition": "A cause of harm or damage.",
-        "chinese": "",
+        "chinese": "損害；危害",
         "synonyms": "harm, damage, disadvantage",
         "image": "crack",
         "sentence": "The policy change was implemented without any rigorous assessment of its potential __________ to the most vulnerable populations — an imprudent omission that the subsequent independent review characterised as symptomatic of the fallacious assumption that economic efficiency and social equity were invariably complementary rather than potentially competing objectives.",
-        "translation": "",
+        "translation": "這項政策變更在實施前，完全沒有嚴謹評估它可能對最弱勢族群造成的損害——事後的獨立審查指出，這種輕率的疏忽反映出一個錯誤的假設：經濟效率與社會公平總是相輔相成，而非可能彼此衝突的目標。",
         "lookup": {
           "english": "A cause of harm or damage.",
-          "chinese": ""
+          "chinese": "損害；危害"
         },
         "advSentence": "Nutritionists warn that a diet replete with processed sugar is a serious detriment to long-term health, noting that obesity and diabetes have become rife even among children, partly because of the ubiquitous marketing of sugary drinks.",
         "advTranslation": "營養學家警告，充斥加工糖的飲食會嚴重損害長期健康，並指出肥胖和糖尿病如今甚至在兒童中也十分普遍，部分原因在於含糖飲料的廣告無所不在。"
@@ -118,14 +118,14 @@ window.FLASHCARD_UNITS = {
         "word": "dispersed",
         "pos": "adj.",
         "definition": "Scattered over a wide area.",
-        "chinese": "",
+        "chinese": "被驅散的",
         "synonyms": "scattered, spread out, diffused",
         "image": "scatter",
         "sentence": "The previously cohesive community had become __________ over two decades of economic migration, its members now __________ across seventeen countries yet maintaining a remarkable cultural coherence through the digital channels that had become the primary medium for transmitting the traditions and language of the homeland.",
-        "translation": "",
+        "translation": "這個原本凝聚的社群，在二十年的經濟移民潮中四散各地，成員如今分散於十七個國家，卻透過已成為傳承家鄉傳統與語言主要媒介的數位管道，維持著驚人的文化凝聚力。",
         "lookup": {
           "english": "Scattered over a wide area.",
-          "chinese": ""
+          "chinese": "被驅散的"
         },
         "advSentence": "Because the indigenous community's members are dispersed across remote mountain villages, efforts to preserve their endangered language have been sporadic, and elders worry that their oral tradition may not survive another generation.",
         "advTranslation": "由於這個原住民族群的成員散居在偏遠的山村，保存其瀕危語言的努力一直斷斷續續，長者們擔心他們的口傳傳統可能無法延續到下一代。"
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
         "word": "doddering",
         "pos": "adj.",
         "definition": "Trembling or tottering due to old age.",
-        "chinese": "",
+        "chinese": "蹣跚的；老態龍鍾的",
         "synonyms": "frail, shaky, infirm",
         "image": "cane",
         "sentence": "The __________ emeritus professor confounded those who had dismissed him as intellectually diminished by delivering one of the most incisive analyses of the decade — a reminder that the superficial veneer of physical frailty could be profoundly misleading as an indicator of cognitive capability.",
-        "translation": "",
+        "translation": "這位步履蹣跚的榮譽教授，讓那些認為他智力已衰退的人大感意外，因為他發表了十年來最犀利的分析之一——這提醒世人，身體虛弱的表象作為判斷認知能力的指標，可能極具誤導性。",
         "lookup": {
           "english": "Trembling or tottering due to old age.",
-          "chinese": ""
+          "chinese": "蹣跚的；老態龍鍾的"
         },
         "advSentence": "The doddering old monarch, who could scarcely ascend the palace stairs without assistance, remained the nominal ruler of the kingdom, but real power had long since passed to his ambitious entourage of advisers.",
         "advTranslation": "這位步履蹣跚的老國王沒人攙扶幾乎爬不上宮殿的階梯，他雖仍是王國名義上的統治者，實權卻早已落入他身邊那群野心勃勃的謀臣手中。"
@@ -150,14 +150,14 @@ window.FLASHCARD_UNITS = {
         "word": "eruption",
         "pos": "n.",
         "definition": "A sudden violent outburst.",
-        "chinese": "",
+        "chinese": "爆發",
         "synonyms": "explosion, outbreak, burst",
         "image": "burst",
         "sentence": "The political __________ that followed the revelation of the nefarious financial scheme had been neither unpredictable nor unforewarned — it was the inevitable consequence of years of accumulated grievances that even the most phlegmatic observers had recognised as primed for precisely this kind of turbulent catalysis.",
-        "translation": "",
+        "translation": "揭露那起邪惡的金融陰謀之後所爆發的政治風暴，既非無法預料，也並非毫無預警——這是多年積怨的必然結果，就連最冷靜的觀察者也看得出，局勢早已一觸即發，只待這樣的動盪催化。",
         "lookup": {
           "english": "A sudden violent outburst.",
-          "chinese": ""
+          "chinese": "爆發"
         },
         "advSentence": "The eruption of Mount Vesuvius in 79 CE buried Pompeii beneath a thick layer of ash, which, though deadly to many of the town's inhabitants, created an extant record of Roman daily life that archaeologists still scrutinize with meticulous care.",
         "advTranslation": "西元七九年維蘇威火山爆發，以厚厚的火山灰掩埋了龐貝城；這些火山灰雖奪去了許多居民的性命，卻留下一份留存至今的羅馬日常生活紀錄，考古學家至今仍一絲不苟地仔細研究。"
@@ -166,14 +166,14 @@ window.FLASHCARD_UNITS = {
         "word": "hoard",
         "pos": "v.",
         "definition": "To accumulate and store secretly.",
-        "chinese": "",
+        "chinese": "囤積；貯藏",
         "synonyms": "stockpile, accumulate, amass",
         "image": "chest",
         "sentence": "The investigation revealed that several officials had been __________ ing public funds in undisclosed accounts — a nefarious scheme whose cumulative scale proved awesome, the total amount eventually identified exceeding what the entire department had legitimately spent on its core public mandate during the same period.",
-        "translation": "",
+        "translation": "調查發現，數名官員一直把公款私藏在未申報的帳戶中——這起邪惡陰謀的累積規模令人咋舌，最終查出的總額，竟超過整個部門在同期間用於其核心公共職責的合法支出。",
         "lookup": {
           "english": "To accumulate and store secretly.",
-          "chinese": ""
+          "chinese": "囤積；貯藏"
         },
         "advSentence": "During periods of hyperinflation, frightened citizens often hoard food and fuel, a reaction that, while understandable, can exacerbate shortages and precipitate a frenzy of panic buying that leaves the poorest families with nothing.",
         "advTranslation": "在惡性通膨時期，驚恐的民眾常會囤積食物和燃料；這種反應雖可理解，卻可能加劇物資短缺，並引發一陣搶購狂潮，使最貧困的家庭一無所有。"
@@ -182,14 +182,14 @@ window.FLASHCARD_UNITS = {
         "word": "imbibe",
         "pos": "v.",
         "definition": "To drink or absorb.",
-        "chinese": "",
+        "chinese": "飲；吸收",
         "synonyms": "drink, absorb, take in",
         "image": "cup",
         "sentence": "Young scholars who __________ d the intellectual traditions of their discipline through extended apprenticeship with a distinguished mentor tended, studies suggested, to develop a more nuanced mastery than those who had acquired the same factual knowledge through purely formal academic instruction.",
-        "translation": "",
+        "translation": "研究顯示，透過長期追隨傑出導師學習、吸收本學科知識傳統的年輕學者，往往比只透過正規學術教學獲得同樣知識的人，發展出更細膩的專精。",
         "lookup": {
           "english": "To drink or absorb.",
-          "chinese": ""
+          "chinese": "飲；吸收"
         },
         "advSentence": "As an apprentice in Verrocchio's Florentine workshop, the young Leonardo imbibed a gamut of skills ranging from sculpture to painting, and his precocious talent soon rivaled that of his eminent teacher.",
         "advTranslation": "年輕的達文西在佛羅倫斯維洛及奧的工作坊當學徒時，吸收了從雕塑到繪畫的各種技藝，他早慧的天分很快便足以與他那位聲名卓著的老師匹敵。"
@@ -198,14 +198,14 @@ window.FLASHCARD_UNITS = {
         "word": "initiate",
         "pos": "v.",
         "definition": "To cause something to begin.",
-        "chinese": "",
+        "chinese": "開始；發起",
         "synonyms": "begin, start, launch",
         "image": "flag",
         "sentence": "The decision to __________ formal proceedings was not taken lightly — the legal team had scrutinised the available evidence with meticulous care over several months before concluding that the incontrovertible nature of the documentary record justified the reputational and financial risks that litigation inevitably entailed.",
-        "translation": "",
+        "translation": "啟動正式訴訟程序的決定並非草率做出——法律團隊花了數個月仔細審查現有證據，最後才認定書面紀錄無可辯駁，足以承擔訴訟必然帶來的聲譽與財務風險。",
         "lookup": {
           "english": "To cause something to begin.",
-          "chinese": ""
+          "chinese": "開始；發起"
         },
         "advSentence": "To revive the sluggish economy, the new administration initiated sweeping reforms to dismantle state monopolies, yet entrenched bureaucrats, fearing the loss of their comfortable sinecures, sought to stymie every proposal.",
         "advTranslation": "為了振興停滯的經濟，新政府推動了全面改革以拆解國營壟斷事業，然而根深蒂固的官僚因害怕失去他們輕鬆的閒差，試圖阻撓每一項提案。"
@@ -214,14 +214,14 @@ window.FLASHCARD_UNITS = {
         "word": "longevity",
         "pos": "n.",
         "definition": "Long life; the fact of lasting for a long time.",
-        "chinese": "",
+        "chinese": "長壽",
         "synonyms": "long life, durability, endurance",
         "image": "rings",
         "sentence": "The __________ of the institution's reputation rested not on the flamboyant achievements of any single decade but on the cumulative credibility built through a century of assiduous, methodical, and largely unheralded scholarly work that had gradually made its imprimatur a reliable indicator of genuine quality.",
-        "translation": "",
+        "translation": "這個機構的聲譽之所以歷久不衰，靠的不是任何單一年代的耀眼成就，而是一個世紀以來勤懇、有條理且大多默默無聞的學術工作所累積的公信力，使其認可逐漸成為真正品質的可靠指標。",
         "lookup": {
           "english": "Long life; the fact of lasting for a long time.",
-          "chinese": ""
+          "chinese": "長壽"
         },
         "advSentence": "Researchers studying the remarkable longevity of residents on the Japanese island of Okinawa attribute it to a combination of factors, including a frugal diet rich in vegetables, an active rather than sedentary lifestyle, and close coteries of lifelong friends.",
         "advTranslation": "研究沖繩居民驚人長壽現象的學者，將其歸因於多種因素的結合，包括富含蔬菜的簡樸飲食、活躍而非久坐的生活方式，以及由終身好友組成的緊密小圈子。"
@@ -230,14 +230,14 @@ window.FLASHCARD_UNITS = {
         "word": "obliterate",
         "pos": "v.",
         "definition": "To destroy utterly, wipe out.",
-        "chinese": "",
+        "chinese": "抹去；清除",
         "synonyms": "destroy, erase, annihilate",
         "image": "crack",
         "sentence": "The conflagration had effectively __________ d three decades of accumulated archival material in a matter of hours — an awesome destruction that rendered many historical questions permanently insoluble and deprived future generations of evidence whose significance the previous generation had not fully appreciated.",
-        "translation": "",
+        "translation": "這場大火在短短幾小時內，就徹底摧毀了三十年來累積的檔案資料——如此驚人的毀滅，使許多歷史問題永遠無解，也讓後代失去了上一代未能充分體認其重要性的證據。",
         "lookup": {
           "english": "To destroy utterly, wipe out.",
-          "chinese": ""
+          "chinese": "抹去；清除"
         },
         "advSentence": "The asteroid that struck the Yucatán Peninsula some sixty-six million years ago is widely believed to have obliterated most dinosaur species, plunging the planet into a prolonged darkness so inclement that only small, omnivorous creatures could survive the ensuing privation.",
         "advTranslation": "大約六千六百萬年前撞擊猶加敦半島的小行星，一般認為消滅了大多數恐龍物種，使地球陷入漫長而嚴酷的黑暗，只有體型小、雜食性的生物才熬得過隨之而來的匱乏。"
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
         "word": "puny",
         "pos": "adj.",
         "definition": "Small and weak.",
-        "chinese": "",
+        "chinese": "微小的；弱小的",
         "synonyms": "weak, feeble, insignificant",
         "image": "crack",
         "sentence": "The __________ protest that gathered outside the ministry seemed to confirm the government's dismissive assessment — until a fortuitous convergence of media attention and a spontaneous surge in public outrage transformed what had begun as a desultory gathering of fewer than fifty into a nationwide movement within a single week.",
-        "translation": "",
+        "translation": "聚集在部會外那場人數寥寥的抗議，似乎印證了政府輕蔑的判斷——直到媒體關注與民眾怒火自發高漲意外地同時出現，原本不到五十人的零散集會，在短短一週內便發展成一場全國性運動。",
         "lookup": {
           "english": "Small and weak.",
-          "chinese": ""
+          "chinese": "微小的；弱小的"
         },
         "advSentence": "The puny defenses of the medieval village, consisting of a shallow ditch and a flimsy wooden fence, were no match for the mammoth siege engines the invaders deployed, and despite the valor of its defenders the settlement fell within hours.",
         "advTranslation": "這座中世紀村莊的防禦工事十分薄弱，只有一道淺溝和一圈脆弱的木柵，根本抵擋不了入侵者部署的龐大攻城器械；儘管守軍英勇奮戰，村莊仍在數小時內淪陷。"
@@ -262,14 +262,14 @@ window.FLASHCARD_UNITS = {
         "word": "rue",
         "pos": "v.",
         "definition": "To bitterly regret.",
-        "chinese": "",
+        "chinese": "後悔；悲傷",
         "synonyms": "regret, lament, repent",
         "image": "warning",
         "sentence": "She would __________ the imprudent decision for years — not primarily for its direct consequences, which had been manageable, but for the precedent it had set, establishing in her own mind and in the minds of colleagues a template for the kind of desultory risk assessment she had previously prided herself on never committing.",
-        "translation": "",
+        "translation": "她將為那個輕率的決定後悔多年——主要不是因為其直接後果，那些尚可應付，而是因為它開了先例，在她自己和同事心中樹立了一種敷衍的風險評估模式，而她過去一向以從不犯這種錯為傲。",
         "lookup": {
           "english": "To bitterly regret.",
-          "chinese": ""
+          "chinese": "後悔；悲傷"
         },
         "advSentence": "The general would later rue his decision to ignore the scouts' ominous warnings, for his rash advance into the narrow mountain pass allowed the enemy to encircle his troops, resulting in a fiasco that ended his once illustrious career.",
         "advTranslation": "這位將軍日後對自己忽視斥候不祥警告的決定悔恨不已，因為他草率地挺進狹窄的山隘，讓敵軍得以包圍他的部隊，釀成一場終結他昔日輝煌生涯的慘敗。"
@@ -278,14 +278,14 @@ window.FLASHCARD_UNITS = {
         "word": "sage",
         "pos": "adj.",
         "definition": "Having profound wisdom.",
-        "chinese": "",
+        "chinese": "睿智的；聖人",
         "synonyms": "wise, prudent, judicious",
         "image": "cane",
         "sentence": "The __________ counsel offered by the retiring director — to prioritise the long-term credibility of the institution over any short-term reputational management — proved prophetic, as the organisations that had heeded her advice consistently weathered the subsequent crises more effectively than those that had not.",
-        "translation": "",
+        "translation": "即將退休的主任所給予的睿智建議——將機構的長期公信力置於任何短期的聲譽管理之上——結果證明極具先見之明，因為聽從她建議的組織，在後來的危機中一貫比沒有聽從的組織應對得更好。",
         "lookup": {
           "english": "Having profound wisdom.",
-          "chinese": ""
+          "chinese": "睿智的；聖人"
         },
         "advSentence": "Seeking sage advice on how to end the famine ravaging his provinces, the young emperor summoned the elderly philosopher, whose laconic yet incisive observations about governance had earned him renown throughout the realm.",
         "advTranslation": "為了尋求如何終結肆虐各省之饑荒的睿智建言，年輕的皇帝召見了那位年邁的哲學家；他對治國之道的見解言簡意賅卻一針見血，因而名聞全國。"
@@ -294,14 +294,14 @@ window.FLASHCARD_UNITS = {
         "word": "senile",
         "pos": "adj.",
         "definition": "Having or showing the weakness of old age.",
-        "chinese": "",
+        "chinese": "衰老的；老態龍鍾的",
         "synonyms": "frail, decrepit, infirm",
         "image": "crack",
         "sentence": "His opponents' whisper campaign suggesting he had become __________ was comprehensively refuted by the trenchant precision of his parliamentary interventions — each contribution demonstrating an acuity of analysis and a command of detail that put younger colleagues to shame.",
-        "translation": "",
+        "translation": "他的對手私下散布他已年老昏聵的耳語，但他在議會中發言時的犀利精準，徹底駁斥了這種說法——每一次發言都展現出敏銳的分析能力與對細節的掌握，讓年輕的同僚自嘆不如。",
         "lookup": {
           "english": "Having or showing the weakness of old age.",
-          "chinese": ""
+          "chinese": "衰老的；老態龍鍾的"
         },
         "advSentence": "As the aging tycoon became increasingly senile, his relatives began to jostle over his fortune, and a protracted, acrimonious legal battle ensued when one heir claimed that the others had coerced the confused old man into rewriting his will.",
         "advTranslation": "隨著這位年邁的大亨日益衰老糊塗，他的親屬開始爭奪他的財產；其中一名繼承人聲稱其他人脅迫這位神智不清的老人改寫遺囑，一場曠日持久、劍拔弩張的官司隨之展開。"
@@ -310,14 +310,14 @@ window.FLASHCARD_UNITS = {
         "word": "virile",
         "pos": "adj.",
         "definition": "Having strength and energy, manly.",
-        "chinese": "",
+        "chinese": "有男子氣概的",
         "synonyms": "strong, powerful, vigorous",
         "image": "energy",
         "sentence": "The __________ energy with which the young conductor approached the most demanding orchestral repertoire — his physical commitment to the music and his ability to sustain intense concentration across four-hour rehearsals — made an immediate impression on musicians accustomed to the more sedentary podium manner of his predecessors.",
-        "translation": "",
+        "translation": "這位年輕指揮家以充滿陽剛活力的方式詮釋最艱難的管弦樂曲目——他全身心投入音樂，並能在長達四小時的排練中保持高度專注——讓習慣了前任指揮較靜態台風的樂手們立刻留下深刻印象。",
         "lookup": {
           "english": "Having strength and energy, manly.",
-          "chinese": ""
+          "chinese": "有男子氣概的"
         },
         "advSentence": "Classical Greek sculptors often portrayed Heracles as a virile, muscular hero whose intrepid spirit was the antithesis of cowardice, and these statues became a paragon of physical perfection that Renaissance artists later strove to imitate.",
         "advTranslation": "古典希臘雕塑家常把海克力斯塑造成一位雄健壯碩的英雄，其無畏的精神正是怯懦的對立面；這些雕像成為體態完美的典範，後來文藝復興時期的藝術家也努力仿效。"
@@ -810,82 +810,82 @@ window.FLASHCARD_UNITS = {
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "aegis": [
     "Protection or support from a powerful source.",
-    ""
+    "庇護；贊助"
   ],
   "awesome": [
     "Inspiring great admiration or fear.",
-    ""
+    "令人敬畏的"
   ],
   "conflagration": [
     "An extensive destructive fire.",
-    ""
+    "大火災"
   ],
   "congenial": [
     "Pleasant because suited to one's character.",
-    ""
+    "意氣相投的"
   ],
   "debris": [
     "Scattered pieces of rubbish or remains.",
-    ""
+    "碎片；殘骸"
   ],
   "deplorable": [
     "Deserving strong condemnation.",
-    ""
+    "可悲的；應受譴責的"
   ],
   "detriment": [
     "A cause of harm or damage.",
-    ""
+    "損害；危害"
   ],
   "dispersed": [
     "Scattered over a wide area.",
-    ""
+    "被驅散的"
   ],
   "doddering": [
     "Trembling or tottering due to old age.",
-    ""
+    "蹣跚的；老態龍鍾的"
   ],
   "eruption": [
     "A sudden violent outburst.",
-    ""
+    "爆發"
   ],
   "hoard": [
     "To accumulate and store secretly.",
-    ""
+    "囤積；貯藏"
   ],
   "imbibe": [
     "To drink or absorb.",
-    ""
+    "飲；吸收"
   ],
   "initiate": [
     "To cause something to begin.",
-    ""
+    "開始；發起"
   ],
   "longevity": [
     "Long life; the fact of lasting for a long time.",
-    ""
+    "長壽"
   ],
   "obliterate": [
     "To destroy utterly, wipe out.",
-    ""
+    "抹去；清除"
   ],
   "puny": [
     "Small and weak.",
-    ""
+    "微小的；弱小的"
   ],
   "rue": [
     "To bitterly regret.",
-    ""
+    "後悔；悲傷"
   ],
   "sage": [
     "Having profound wisdom.",
-    ""
+    "睿智的；聖人"
   ],
   "senile": [
     "Having or showing the weakness of old age.",
-    ""
+    "衰老的；老態龍鍾的"
   ],
   "virile": [
     "Having strength and energy, manly.",
-    ""
+    "有男子氣概的"
   ]
 });

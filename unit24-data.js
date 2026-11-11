@@ -6,14 +6,14 @@ window.FLASHCARD_UNITS = {
         "word": "abhorrent",
         "pos": "adj.",
         "definition": "Inspiring disgust and loathing.",
-        "chinese": "",
+        "chinese": "令人厭惡的",
         "synonyms": "detestable, repugnant, revolting",
         "image": "warning",
         "sentence": "The practice was considered so __________ by the indigenous population that even decades of colonial indoctrination had failed to normalise it — an incontrovertible demonstration that some cultural values possess a tenacity that external mandate and institutional pressure cannot simply override.",
-        "translation": "",
+        "translation": "原住民認為這種做法令人極度厭惡，以至於數十年的殖民灌輸都無法使其成為常態——這無可辯駁地證明，某些文化價值具有強韌的生命力，不是外來命令與制度壓力就能輕易推翻的。",
         "lookup": {
           "english": "Inspiring disgust and loathing.",
-          "chinese": ""
+          "chinese": "令人厭惡的"
         },
         "advSentence": "Most modern societies regard slavery as abhorrent, yet for centuries the practice was tolerated, and even defended, by eminent thinkers who justified it with fallacious arguments about a supposedly natural hierarchy among human beings.",
         "advTranslation": "大多數現代社會認為奴隸制度令人憎惡，然而數百年來，它卻被容忍、甚至被一些傑出思想家辯護，他們以人類之間存在所謂天生階級的謬誤論點為其找理由。"
@@ -22,14 +22,14 @@ window.FLASHCARD_UNITS = {
         "word": "absurd",
         "pos": "adj.",
         "definition": "Wildly unreasonable, illogical.",
-        "chinese": "",
+        "chinese": "荒謬的",
         "synonyms": "ridiculous, ludicrous, preposterous",
         "image": "mountain",
         "sentence": "It struck the more perspicacious analysts as frankly __________ that the regime's mendacious propaganda was being accepted as bona fide information by so significant a proportion of the population — a phenomenon that social psychologists attributed to decades of systematic indoctrination rather than any deficiency of critical intelligence.",
-        "translation": "",
+        "translation": "在較有洞察力的分析師看來，這個政權的虛假宣傳竟被如此大比例的民眾當成真實資訊接受，實在荒謬——社會心理學家將此現象歸因於數十年有系統的灌輸，而非民眾缺乏批判思考能力。",
         "lookup": {
           "english": "Wildly unreasonable, illogical.",
-          "chinese": ""
+          "chinese": "荒謬的"
         },
         "advSentence": "Although the claim that the Earth is flat seems absurd to most people today, a surprising number of online communities perpetuate the notion, dismissing incontrovertible photographic evidence as an elaborate hoax concocted by governments.",
         "advTranslation": "雖然地球是平的這種說法在今天大多數人看來荒謬可笑，卻有數量驚人的網路社群延續這個觀念，把無可辯駁的照片證據斥為政府捏造的精心騙局。"
@@ -38,14 +38,14 @@ window.FLASHCARD_UNITS = {
         "word": "anthropologist",
         "pos": "n.",
         "definition": "An expert in the study of human societies.",
-        "chinese": "",
+        "chinese": "人類學家",
         "synonyms": "ethnographer, scholar, researcher",
         "image": "rings",
         "sentence": "The __________ observed that the taboo surrounding discussion of mortality in this particular culture was not a desultory cultural artefact but an integral component of an elaborate cosmological framework that structured every aspect of social life from birth rituals to funeral practices.",
-        "translation": "",
+        "translation": "這位人類學家觀察到，在這個文化中，談論死亡的禁忌並非可有可無的文化遺留，而是一套精密宇宙觀不可或缺的一部分，從出生儀式到喪葬習俗，這套框架構築了社會生活的每個面向。",
         "lookup": {
           "english": "An expert in the study of human societies.",
-          "chinese": ""
+          "chinese": "人類學家"
         },
         "advSentence": "The anthropologist spent several years living among a nomadic people of the Sahara, meticulously documenting kinship rituals that she argued were integral to the group's survival in such a harsh and unforgiving environment.",
         "advTranslation": "這位人類學家花了數年時間與撒哈拉的一支游牧民族共同生活，一絲不苟地記錄他們的親屬儀式，並主張這些儀式對該族群在如此嚴酷無情的環境中生存不可或缺。"
@@ -54,14 +54,14 @@ window.FLASHCARD_UNITS = {
         "word": "artifact",
         "pos": "n.",
         "definition": "An object made by human craft.",
-        "chinese": "",
+        "chinese": "人工製品",
         "synonyms": "object, relic, creation",
         "image": "crack",
         "sentence": "Each __________ recovered from the excavation site was treated with the meticulous care appropriate to its bona fide historical significance — documented, photographed, and catalogued before removal, a process whose assiduous thoroughness reflected the lead archaeologist's conviction that context was as informative as the objects themselves.",
-        "translation": "",
+        "translation": "從挖掘現場出土的每件文物，都依其真正的歷史價值受到審慎對待——在移出前先記錄、拍照並編目，這個過程的一絲不苟反映出首席考古學家的信念：出土脈絡與文物本身同樣富含資訊。",
         "lookup": {
           "english": "An object made by human craft.",
-          "chinese": ""
+          "chinese": "人工製品"
         },
         "advSentence": "Archaeologists unearthed a cache of bronze artifacts in a subterranean chamber, and the remarkable condition of these objects led scholars to surmise that the tomb had escaped the attention of looters for thousands of years.",
         "advTranslation": "考古學家在一處地下墓室中挖出一批青銅器物，這些器物保存得極為完好，使學者推測該墓穴數千年來都未曾遭到盜墓者覬覦。"
@@ -70,14 +70,14 @@ window.FLASHCARD_UNITS = {
         "word": "bizarre",
         "pos": "adj.",
         "definition": "Very strange or unusual.",
-        "chinese": "",
+        "chinese": "奇異的",
         "synonyms": "strange, peculiar, extraordinary",
         "image": "cup",
         "sentence": "The most __________ aspect of the whole affair was not the deception itself but the chimerical confidence with which it had been perpetrated — the charlatan apparently __________ in the belief that his transparent fabrications could indefinitely palliate the scrutiny of investigators who had already corroborated the contradictions in his account.",
-        "translation": "",
+        "translation": "整起事件最離奇的不是騙局本身，而是行騙者那份不切實際的自信——這個騙子顯然深信，他漏洞百出的捏造能無限期地應付調查人員的審查，而調查人員早已證實他說詞中的矛盾。",
         "lookup": {
           "english": "Very strange or unusual.",
-          "chinese": ""
+          "chinese": "奇異的"
         },
         "advSentence": "The deep-sea anglerfish, with its bizarre glowing lure dangling above a mouth full of needle-like teeth, has adapted to the murky depths of its habitat by using this appendage to dupe unwary prey.",
         "advTranslation": "深海鮟鱇魚頭上懸著一個怪異的發光誘餌，下方是一張布滿針狀利齒的大嘴；牠適應了棲息地幽暗的深海環境，利用這個構造誘騙毫無戒心的獵物。"
@@ -86,14 +86,14 @@ window.FLASHCARD_UNITS = {
         "word": "contemptuous",
         "pos": "adj.",
         "definition": "Showing contempt, scornful.",
-        "chinese": "",
+        "chinese": "蔑視的",
         "synonyms": "scornful, disdainful, dismissive",
         "image": "eraser",
         "sentence": "Her __________ dismissal of the committee's concerns struck observers as counterproductive — the disdain she directed at the most perspicacious questioners generating precisely the antagonism that a more urbane and diplomatically adroit response might have defused.",
-        "translation": "",
+        "translation": "她以輕蔑的態度駁回委員會的疑慮，旁觀者認為這只會適得其反——她對最具洞察力的提問者所表現的鄙視，正好引發了一個較圓融、較有外交手腕的回應原本可以化解的敵意。",
         "lookup": {
           "english": "Showing contempt, scornful.",
-          "chinese": ""
+          "chinese": "蔑視的"
         },
         "advSentence": "The aristocrat was openly contemptuous of newly wealthy industrialists, deriding their ostentatious mansions and lavish parties as vulgar displays of new money, even as his own family's fortune steadily dwindled through years of profligate spending.",
         "advTranslation": "這位貴族公開輕蔑那些新近致富的實業家，嘲笑他們炫耀的豪宅與奢華派對是暴發戶的俗氣排場，然而他自家的財富卻正因多年揮霍無度而逐漸縮水。"
@@ -102,14 +102,14 @@ window.FLASHCARD_UNITS = {
         "word": "entreaty",
         "pos": "n.",
         "definition": "An earnest or humble request.",
-        "chinese": "",
+        "chinese": "懇求；乞求",
         "synonyms": "plea, appeal, supplication",
         "image": "regret",
         "sentence": "Every __________ from the displaced community had been met with bureaucratic indifference — a desultory acknowledgement of receipt followed by months of silence that compounded the original destitution with the additional burden of administrative abandonment.",
-        "translation": "",
+        "translation": "流離失所的社區每一次懇求，都只換來官僚的冷漠——敷衍地確認收件後便是數月的沉默，使原本的貧困之外，又多了一層被行政體系拋棄的負擔。",
         "lookup": {
           "english": "An earnest or humble request.",
-          "chinese": ""
+          "chinese": "懇求；乞求"
         },
         "advSentence": "Ignoring the tearful entreaty of her parents, the young physician resolved to volunteer in a region besieged by famine, where malnutrition and cholera were rife and the few local clinics lacked even rudimentary supplies.",
         "advTranslation": "這位年輕醫師不顧父母含淚的懇求，決心前往一個飽受饑荒圍困的地區當志工，那裡營養不良與霍亂肆虐，少數幾間當地診所連最基本的物資都缺乏。"
@@ -118,14 +118,14 @@ window.FLASHCARD_UNITS = {
         "word": "fetish",
         "pos": "n.",
         "definition": "An object believed to have magical powers; an obsessive fixation.",
-        "chinese": "",
+        "chinese": "迷信物；戀物",
         "synonyms": "obsession, fixation, superstition",
         "image": "table",
         "sentence": "The anthropologist documented how the community's __________ objects had evolved over generations from genuine sacred artefacts with specific ritual functions into more diffuse cultural symbols whose precise meaning had become so recondite that even most community members could offer only a desultory account of their original significance.",
-        "translation": "",
+        "translation": "這位人類學家記錄了該社區的崇拜物如何在數代之間演變：從具有特定儀式功能的真正聖物，轉變為意義較模糊的文化象徵，其確切含義已變得如此深奧，連多數社區成員對其原始意義也只能說出零星片段。",
         "lookup": {
           "english": "An object believed to have magical powers; an obsessive fixation.",
-          "chinese": ""
+          "chinese": "迷信物；戀物"
         },
         "advSentence": "Some economists warn that policymakers have made a fetish of economic growth, pursuing ever-higher output with zealous intensity while ignoring the havoc that unchecked expansion can wreak on fragile ecosystems and the cumulative toll it takes on workers.",
         "advTranslation": "一些經濟學家警告，政策制定者已把經濟成長當成盲目崇拜的對象，以狂熱的態度追求不斷提高的產出，卻忽視了無節制的擴張對脆弱生態系造成的破壞，以及對勞工造成的累積代價。"
@@ -134,14 +134,14 @@ window.FLASHCARD_UNITS = {
         "word": "imperative",
         "pos": "adj.",
         "definition": "Of vital importance, essential.",
-        "chinese": "",
+        "chinese": "必要的；命令的",
         "synonyms": "essential, critical, urgent",
         "image": "clock",
         "sentence": "It was __________ that the team receive the incontrovertible forensic results before any public statement was issued, since premature disclosure of uncertain findings would palliate neither the community's anxiety nor the institution's credibility, and might instead compound the reputational damage the investigation had been commissioned to repair.",
-        "translation": "",
+        "translation": "在發布任何公開聲明之前，團隊務必先取得無可辯駁的鑑識結果，因為過早公布不確定的發現，既無法緩解社區的焦慮，也無法維護機構的公信力，反而可能加深這次調查原本要修補的聲譽損害。",
         "lookup": {
           "english": "Of vital importance, essential.",
-          "chinese": ""
+          "chinese": "必要的；命令的"
         },
         "advSentence": "With sea levels rising steadily, scientists insist it is imperative that coastal cities strengthen their bulwarks against storm surges, warning that further delay could precipitate catastrophic flooding in low-lying neighborhoods.",
         "advTranslation": "隨著海平面持續上升，科學家堅稱沿海城市必須強化抵禦暴潮的屏障，並警告再拖延下去可能在低窪社區引發災難性洪水。"
@@ -150,14 +150,14 @@ window.FLASHCARD_UNITS = {
         "word": "imprudent",
         "pos": "adj.",
         "definition": "Not showing care, unwise.",
-        "chinese": "",
+        "chinese": "輕率的；不智的",
         "synonyms": "unwise, reckless, careless",
         "image": "warning",
         "sentence": "The __________ acquisition of the struggling competitor without adequate scrutiny of its latent liabilities proved catastrophic — a desultory due diligence process that the board's subsequent post-mortem characterised as the single most egregious governance failure in the company's history.",
-        "translation": "",
+        "translation": "在未充分審查潛在負債的情況下輕率收購這家陷入困境的競爭對手，結果證明是一場災難——董事會事後檢討時，把這次敷衍的盡職調查形容為公司史上最嚴重的治理失敗。",
         "lookup": {
           "english": "Not showing care, unwise.",
-          "chinese": ""
+          "chinese": "輕率的；不智的"
         },
         "advSentence": "It would be imprudent for a novice investor to stake her entire savings on an unstable cryptocurrency, especially when its alleged returns are attested only by anonymous testimonials of dubious credibility.",
         "advTranslation": "對新手投資人來說，把全部積蓄押在一種極不穩定的加密貨幣上是不明智的，尤其當其所謂的報酬只有來路可疑的匿名見證可以佐證時。"
@@ -166,14 +166,14 @@ window.FLASHCARD_UNITS = {
         "word": "inanimate",
         "pos": "adj.",
         "definition": "Not alive, lacking consciousness.",
-        "chinese": "",
+        "chinese": "無生命的",
         "synonyms": "lifeless, inert, dead",
         "image": "chest",
         "sentence": "The forensic anthropologist explained that even __________ materials could preserve biological signatures for millennia under the right conditions — a phenomenon that had rendered several previously insoluble historical mysteries susceptible to resolution through the application of modern analytical techniques.",
-        "translation": "",
+        "translation": "這位法醫人類學家解釋，在適當條件下，即使是無生命的物質也能保存生物跡證長達數千年——這個現象使得幾個原本無解的歷史謎團，得以透過現代分析技術找到答案。",
         "lookup": {
           "english": "Not alive, lacking consciousness.",
-          "chinese": ""
+          "chinese": "無生命的"
         },
         "advSentence": "Young children often attribute feelings to inanimate objects, scolding a table they have bumped into, a phenomenon that developmental psychologists construe as an innate stage of cognitive growth rather than a sign of confusion.",
         "advTranslation": "年幼的孩子常把情感投射到無生命的物體上，例如責罵自己撞到的桌子；發展心理學家將這種現象解讀為認知發展中與生俱來的一個階段，而非思緒混亂的徵兆。"
@@ -182,14 +182,14 @@ window.FLASHCARD_UNITS = {
         "word": "inviolable",
         "pos": "adj.",
         "definition": "Never to be broken or dishonoured.",
-        "chinese": "",
+        "chinese": "不可侵犯的",
         "synonyms": "sacred, absolute, untouchable",
         "image": "mountain",
         "sentence": "The treaty's __________ provisions had been treated as such for over a century before a newly elected administration chose to abrogate them unilaterally, the belligerent act generating international condemnation and precipitating the acrimonious diplomatic crisis that dominated the subsequent decade.",
-        "translation": "",
+        "translation": "這份條約中不可侵犯的條款被如此看待了一個多世紀，直到新當選的政府選擇單方面予以廢除；這項好戰之舉招致國際譴責，並引發了主導其後十年的激烈外交危機。",
         "lookup": {
           "english": "Never to be broken or dishonoured.",
-          "chinese": ""
+          "chinese": "不可侵犯的"
         },
         "advSentence": "In many democracies, freedom of the press is regarded as an inviolable principle, and any government attempt to curtail it, however nominal, tends to elicit fierce protests from journalists and civic organizations alike.",
         "advTranslation": "在許多民主國家，新聞自由被視為不可侵犯的原則，政府任何削弱它的企圖，不論多麼微小，往往都會招致記者與公民團體的強烈抗議。"
@@ -198,14 +198,14 @@ window.FLASHCARD_UNITS = {
         "word": "originate",
         "pos": "v.",
         "definition": "To have a beginning, arise from.",
-        "chinese": "",
+        "chinese": "發源；創立",
         "synonyms": "begin, arise, start",
         "image": "flag",
         "sentence": "The tradition was believed to __________ in a spontaneous communal celebration following an unexpected deliverance from disaster — a bona fide historical event whose precise details had become so enveloped in mythology over successive generations that the anthropologist found it difficult to separate the verifiable core from accumulated legend.",
-        "translation": "",
+        "translation": "這項傳統據信起源於一場自發的集體慶祝，慶祝人們意外逃過一場災難——這是一個真實的歷史事件，但其確切細節歷經世代已被神話層層包覆，讓人類學家難以將可查證的核心與累積的傳說分開。",
         "lookup": {
           "english": "To have a beginning, arise from.",
-          "chinese": ""
+          "chinese": "發源；創立"
         },
         "advSentence": "Many linguists believe that the Austronesian languages originated in Taiwan, from which intrepid seafarers ventured across the Pacific over thousands of years, carrying their crops, customs, and words to islands as remote as Hawaii and New Zealand, a feat of navigation that scholars deem remarkable.",
         "advTranslation": "許多語言學家認為南島語系起源於台灣，數千年來，無畏的航海者從這裡出發橫渡太平洋，將他們的作物、習俗和詞彙帶到遠至夏威夷和紐西蘭的島嶼，學者認為這是了不起的航海壯舉。"
@@ -214,14 +214,14 @@ window.FLASHCARD_UNITS = {
         "word": "prohibition",
         "pos": "n.",
         "definition": "The act of forbidding something.",
-        "chinese": "",
+        "chinese": "禁止",
         "synonyms": "ban, restriction, interdiction",
         "image": "cup",
         "sentence": "The __________ of certain traditional practices by the colonial administration had been framed as a civilising measure but was experienced by indigenous communities as a pernicious assault on the cultural foundations of their collective identity — an abhorrent suppression whose legacies continued to reverberate generations later.",
-        "translation": "",
+        "translation": "殖民政府對某些傳統習俗的禁止，被包裝成一項教化措施，但原住民社區卻感受到這是對其集體認同文化根基的有害攻擊——這種令人憎惡的壓迫，其影響在數代之後仍持續迴盪。",
         "lookup": {
           "english": "The act of forbidding something.",
-          "chinese": ""
+          "chinese": "禁止"
         },
         "advSentence": "The prohibition of alcohol in the United States during the 1920s proved largely ineffectual, as clandestine bars flourished in nearly every city and bootleggers amassed enormous fortunes with apparent impunity.",
         "advTranslation": "美國在一九二〇年代實施的禁酒令大致上成效不彰，因為祕密酒吧幾乎在每座城市大行其道，私酒販子更是看似肆無忌憚地累積龐大財富。"
@@ -230,14 +230,14 @@ window.FLASHCARD_UNITS = {
         "word": "superstition",
         "pos": "n.",
         "definition": "A belief not based on reason or knowledge.",
-        "chinese": "",
+        "chinese": "迷信",
         "synonyms": "irrational belief, myth, fallacy",
         "image": "lamp",
         "sentence": "The community's elaborate system of __________ around the eclipse was not, the anthropologist argued, mere irrationality — it represented a coherent cosmological framework through which phenomena that could not otherwise be explained were rendered comprehensible and robbed of their capacity to induce paralysing anxiety.",
-        "translation": "",
+        "translation": "這位人類學家認為，該社區圍繞日食所發展出的一整套迷信並非單純的不理性——它代表一個連貫的宇宙觀框架，讓原本無法解釋的現象變得可以理解，也使這些現象不再能引發令人癱瘓的焦慮。",
         "lookup": {
           "english": "A belief not based on reason or knowledge.",
-          "chinese": ""
+          "chinese": "迷信"
         },
         "advSentence": "Despite advances in science, the superstition that the number four brings misfortune still permeates East Asian culture, so many buildings omit a fourth floor, a practice that practical-minded architects find vexatious yet are loath to abandon.",
         "advTranslation": "儘管科學進步，數字四會帶來厄運的迷信仍深植於東亞文化，許多建築因此省略四樓；務實的建築師雖覺得這種做法令人困擾，卻也不願放棄。"
@@ -246,14 +246,14 @@ window.FLASHCARD_UNITS = {
         "word": "taboo",
         "pos": "n.",
         "definition": "A social or religious custom prohibiting action.",
-        "chinese": "",
+        "chinese": "禁忌",
         "synonyms": "prohibition, ban, proscription",
         "image": "rings",
         "sentence": "Discussing financial failure remained the last real __________ in the otherwise candid startup culture — a superstition born of the well-founded conviction that admitting vulnerability would precipitate the very outcome it feared, jeopardising funding relationships that continued investment required.",
-        "translation": "",
+        "translation": "在原本坦率直言的新創文化中，談論財務失敗仍是最後一個真正的禁忌——這種迷信源自一個有根據的信念：承認自己的弱點會招致所擔心的結果，危及持續投資所需的資金關係。",
         "lookup": {
           "english": "A social or religious custom prohibiting action.",
-          "chinese": ""
+          "chinese": "禁忌"
         },
         "advSentence": "In many cultures, discussing mental illness remains a taboo, so sufferers often repress their symptoms rather than risk the disdain of neighbors, a silence that can turn a treatable malady into a lifelong burden.",
         "advTranslation": "在許多文化中，談論精神疾病仍是一種禁忌，因此患者往往壓抑自己的症狀，而不願冒著遭鄰居鄙視的風險；這種沉默可能使原本可治療的疾病變成終身的負擔。"
@@ -262,14 +262,14 @@ window.FLASHCARD_UNITS = {
         "word": "taint",
         "pos": "n.",
         "definition": "A trace of a bad quality or substance.",
-        "chinese": "",
+        "chinese": "污點；感染",
         "synonyms": "contamination, blemish, stain",
         "image": "rubble",
         "sentence": "The __________ of historical association with the disgraced institution proved surprisingly persistent — long after the original abhorrent practices had been abolished and personnel entirely replaced, the organisation's reputation continued to carry a reputational blemish that no amount of subsequent exemplary conduct entirely erased.",
-        "translation": "",
+        "translation": "與這個聲名狼藉的機構有過歷史關聯的污點，持續得出人意料——即使原本令人憎惡的做法早已廢除、人員也全部更換，這個組織的名聲仍背負著污名，後來再多的模範表現都無法完全抹去。",
         "lookup": {
           "english": "A trace of a bad quality or substance.",
-          "chinese": ""
+          "chinese": "污點；感染"
         },
         "advSentence": "Although the senator was eventually exonerated, the taint of the bribery scandal lingered, and his opponents continued to disparage him as a culprit who had escaped justice through legal subterfuge.",
         "advTranslation": "儘管這位參議員最終獲判無罪，賄賂醜聞留下的污點卻揮之不去，對手仍持續貶低他，說他是靠法律伎倆逃過制裁的罪魁禍首。"
@@ -278,14 +278,14 @@ window.FLASHCARD_UNITS = {
         "word": "tradition",
         "pos": "n.",
         "definition": "A long-established custom or belief.",
-        "chinese": "",
+        "chinese": "傳統",
         "synonyms": "custom, heritage, practice",
         "image": "rings",
         "sentence": "The __________ of passing the skill from master to disciple through direct apprenticeship rather than formal instruction was so integral to the craft that practitioners who had trained through institutional programmes were considered, however unfairly, as somewhat less bona fide than those who had learned through the established lineage.",
-        "translation": "",
+        "translation": "透過直接拜師學藝、而非正式教學將技藝由師父傳給徒弟的傳統，對這門手藝來說是如此不可或缺，以至於透過機構課程受訓的從業者，無論多麼不公平，都被認為不如出身正統師承者來得道地。",
         "lookup": {
           "english": "A long-established custom or belief.",
-          "chinese": ""
+          "chinese": "傳統"
         },
         "advSentence": "The annual Mazu pilgrimage, a tradition that draws throngs of devotees through central Taiwan each spring, has endured for generations, adapting to the vicissitudes of modern life while still offering participants solace and a sense of community.",
         "advTranslation": "每年春天的媽祖遶境是吸引大批信眾走過台灣中部的傳統，已延續好幾代人；它隨著現代生活的變遷而調整，卻依然為參與者帶來慰藉與歸屬感。"
@@ -294,14 +294,14 @@ window.FLASHCARD_UNITS = {
         "word": "universal",
         "pos": "adj.",
         "definition": "Applicable to all cases, general.",
-        "chinese": "",
+        "chinese": "普遍的；宇宙的",
         "synonyms": "general, widespread, all-embracing",
         "image": "warning",
         "sentence": "Whether altruism was a __________ human capacity or a culturally specific phenomenon remained an open and genuinely fascinating question — one that the most perspicacious evolutionary psychologists approached with a nuance that resisted the simplistic certainties that had dominated earlier theoretical frameworks.",
-        "translation": "",
+        "translation": "利他精神究竟是人類普遍具有的能力，還是特定文化的現象，仍是一個懸而未決且引人入勝的問題——最有洞察力的演化心理學家以細膩的態度探討它，拒絕接受早期理論框架中那些過於簡化的定論。",
         "lookup": {
           "english": "Applicable to all cases, general.",
-          "chinese": ""
+          "chinese": "普遍的；宇宙的"
         },
         "advSentence": "Although cross-cultural studies corroborate that facial expressions of joy and fear are nearly universal, researchers caution that the norms dictating when such emotions may be displayed are far from monolithic, varying markedly among heterogeneous societies.",
         "advTranslation": "雖然跨文化研究證實，喜悅與恐懼的臉部表情幾乎是普世共通的，研究人員仍提醒，規範何時可以表露這些情緒的準則絕非一成不變，而是在各種不同的社會之間差異顯著。"
@@ -310,14 +310,14 @@ window.FLASHCARD_UNITS = {
         "word": "vulnerable",
         "pos": "adj.",
         "definition": "Susceptible to physical or emotional attack.",
-        "chinese": "",
+        "chinese": "脆弱的；易受傷的",
         "synonyms": "susceptible, exposed, defenceless",
         "image": "warning",
         "sentence": "The most __________ populations were invariably those caught at the intersection of multiple simultaneous adversities — economic destitution, political marginalisation, and social isolation compounding each other's effects in ways that made the sum of their plight considerably greater than its individual components would suggest.",
-        "translation": "",
+        "translation": "最脆弱的族群總是那些同時陷入多重困境交會處的人——經濟貧困、政治邊緣化與社會孤立彼此加乘，使他們所受的困苦遠比各個因素單獨相加還要嚴重得多。",
         "lookup": {
           "english": "Susceptible to physical or emotional attack.",
-          "chinese": ""
+          "chinese": "脆弱的；易受傷的"
         },
         "advSentence": "Coral reefs are particularly vulnerable to rising ocean temperatures, which cause corals to expel the algae on which they depend, and scientists fear that if such bleaching recurs too often, entire reefs could succumb, leaving the myriad species that inhabit them without sanctuary.",
         "advTranslation": "珊瑚礁特別容易受到海水溫度上升的影響，高溫會使珊瑚排出賴以維生的藻類；科學家擔心，若這種白化現象太常發生，整片珊瑚礁可能死亡，使棲息其中的無數物種失去庇護所。"
@@ -810,82 +810,82 @@ window.FLASHCARD_UNITS = {
 window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abhorrent": [
     "Inspiring disgust and loathing.",
-    ""
+    "令人厭惡的"
   ],
   "absurd": [
     "Wildly unreasonable, illogical.",
-    ""
+    "荒謬的"
   ],
   "anthropologist": [
     "An expert in the study of human societies.",
-    ""
+    "人類學家"
   ],
   "artifact": [
     "An object made by human craft.",
-    ""
+    "人工製品"
   ],
   "bizarre": [
     "Very strange or unusual.",
-    ""
+    "奇異的"
   ],
   "contemptuous": [
     "Showing contempt, scornful.",
-    ""
+    "蔑視的"
   ],
   "entreaty": [
     "An earnest or humble request.",
-    ""
+    "懇求；乞求"
   ],
   "fetish": [
     "An object believed to have magical powers; an obsessive fixation.",
-    ""
+    "迷信物；戀物"
   ],
   "imperative": [
     "Of vital importance, essential.",
-    ""
+    "必要的；命令的"
   ],
   "imprudent": [
     "Not showing care, unwise.",
-    ""
+    "輕率的；不智的"
   ],
   "inanimate": [
     "Not alive, lacking consciousness.",
-    ""
+    "無生命的"
   ],
   "inviolable": [
     "Never to be broken or dishonoured.",
-    ""
+    "不可侵犯的"
   ],
   "originate": [
     "To have a beginning, arise from.",
-    ""
+    "發源；創立"
   ],
   "prohibition": [
     "The act of forbidding something.",
-    ""
+    "禁止"
   ],
   "superstition": [
     "A belief not based on reason or knowledge.",
-    ""
+    "迷信"
   ],
   "taboo": [
     "A social or religious custom prohibiting action.",
-    ""
+    "禁忌"
   ],
   "taint": [
     "A trace of a bad quality or substance.",
-    ""
+    "污點；感染"
   ],
   "tradition": [
     "A long-established custom or belief.",
-    ""
+    "傳統"
   ],
   "universal": [
     "Applicable to all cases, general.",
-    ""
+    "普遍的；宇宙的"
   ],
   "vulnerable": [
     "Susceptible to physical or emotional attack.",
-    ""
+    "脆弱的；易受傷的"
   ]
 });
