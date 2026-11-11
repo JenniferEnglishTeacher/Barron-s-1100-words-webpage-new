@@ -82,6 +82,7 @@ function init() {
   createMemoryChant();
   createQuizSection();
   createQuizLinks();
+  if (SET === "roots") renderSetSentence();
   applyHashTarget();
   render();
   window.addEventListener("hashchange", () => {
@@ -737,6 +738,180 @@ function renderAdvanced(card) {
   if (!card.advSentence) return;
   block.querySelector("#advSentence").replaceChildren(...makeSentenceNodes(card, card.advSentence));
   block.querySelector("#advTranslation").textContent = card.advTranslation || "";
+}
+
+// ---------- Set challenge sentence (roots sets only): one sentence using ≥4 words of this set ----------
+// Data: roots-set-sentences.js (window.ROOTS_SET_SENTENCES = { "<set>": { en, zh } }).
+// Highlighted words: mouse hover = speak + pop-up with POS / English / 中文; tap (touch) does the same.
+let wordPop = null;
+let popHideTimer = null;
+let popSpeakTimer = null;
+
+function setWordForCard(token, list) {
+  const clean = token.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
+  if (!clean) return null;
+  for (let i = 0; i < list.length; i += 1) {
+    const head = list[i].word.replace(/\s*\(.*?\)\s*/g, "").trim();
+    if (head.includes(" ")) continue;
+    if (isOwnWordForm(clean, head, list[i].forms)) return i;
+  }
+  return null;
+}
+
+function ensureWordPop() {
+  if (wordPop) return wordPop;
+  wordPop = document.createElement("div");
+  wordPop.className = "word-pop";
+  wordPop.hidden = true;
+  wordPop.setAttribute("role", "tooltip");
+  wordPop.innerHTML = `<div class="word-pop-head"><button type="button" class="word-pop-say" aria-label="Listen">🔊</button><b class="word-pop-word"></b><span class="word-pop-pos"></span></div><p class="word-pop-en"></p><p class="word-pop-zh"></p><button type="button" class="word-pop-open"></button>`;
+  document.body.append(wordPop);
+  wordPop.addEventListener("pointerenter", () => clearTimeout(popHideTimer));
+  wordPop.addEventListener("pointerleave", event => { if (event.pointerType === "mouse") hideWordPop(250); });
+  wordPop.querySelector(".word-pop-say").addEventListener("click", event => { event.stopPropagation(); speak(wordPop.dataset.say || ""); });
+  document.addEventListener("pointerdown", event => {
+    if (!wordPop.hidden && !wordPop.contains(event.target) && !event.target.closest(".set-word")) hideWordPop(0);
+  });
+  window.addEventListener("scroll", () => hideWordPop(0), { passive: true });
+  document.addEventListener("keydown", event => { if (event.key === "Escape") hideWordPop(0); });
+  return wordPop;
+}
+
+function showWordPop(anchor, info) {
+  const pop = ensureWordPop();
+  clearTimeout(popHideTimer);
+  pop.dataset.say = info.say;
+  pop.querySelector(".word-pop-word").textContent = info.word;
+  pop.querySelector(".word-pop-pos").textContent = info.pos || "";
+  pop.querySelector(".word-pop-en").textContent = info.english || "";
+  pop.querySelector(".word-pop-zh").textContent = info.chinese || "";
+  const open = pop.querySelector(".word-pop-open");
+  open.hidden = !info.open;
+  open.textContent = info.openLabel || "";
+  open.onclick = info.open ? event => { event.stopPropagation(); hideWordPop(0); info.open(); } : null;
+  pop.hidden = false;
+  const r = anchor.getBoundingClientRect();
+  const w = pop.offsetWidth, h = pop.offsetHeight;
+  let left = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), window.innerWidth - w - 8);
+  let top = r.bottom + 8;
+  if (top + h > window.innerHeight - 8) top = Math.max(8, r.top - h - 8);
+  pop.style.left = `${left}px`;
+  pop.style.top = `${top}px`;
+  document.querySelectorAll(".set-word.active").forEach(el => el.classList.remove("active"));
+  anchor.classList.add("active");
+}
+
+function hideWordPop(delay = 200) {
+  clearTimeout(popHideTimer);
+  popHideTimer = setTimeout(() => {
+    if (wordPop) wordPop.hidden = true;
+    document.querySelectorAll(".set-word.active").forEach(el => el.classList.remove("active"));
+  }, delay);
+}
+
+function bindPopWord(button, info) {
+  button.addEventListener("pointerenter", event => {
+    if (event.pointerType !== "mouse") return;
+    showWordPop(button, info);
+    clearTimeout(popSpeakTimer);
+    popSpeakTimer = setTimeout(() => speak(info.say), 180);
+  });
+  button.addEventListener("pointerleave", event => {
+    if (event.pointerType !== "mouse") return;
+    clearTimeout(popSpeakTimer);
+    hideWordPop(250);
+  });
+  button.addEventListener("click", event => {
+    event.stopPropagation();
+    showWordPop(button, info);
+    speak(info.say);
+  });
+}
+
+function makeSetSentenceNodes(text, list) {
+  if (!wordForms) buildBarronsForms();
+  const parts = text.split(/([A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'-]*)/);
+  return parts.map(part => {
+    if (!part || !/^[A-Za-zÀ-ÿ]/.test(part)) return document.createTextNode(part || "");
+    const idx = setWordForCard(part, list);
+    const clean = part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
+    if (idx != null) {
+      const card = list[idx];
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "set-word";
+      button.textContent = part;
+      bindPopWord(button, {
+        word: card.word, pos: card.pos, english: card.definition, chinese: card.chinese, say: clean,
+        openLabel: "Open this card 看字卡 →",
+        open: () => {
+          state.index = state.order.indexOf(idx);
+          if (state.index < 0) { resetOrder(); state.index = idx; }
+          render();
+          speak(card.word);
+          els.flashcard.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+      });
+      return button;
+    }
+    const found = findBarrons(clean);
+    if (found) {
+      const { set, head } = found;
+      const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "set-word other-book";
+      button.textContent = part;
+      bindPopWord(button, {
+        word: head, pos: SETS[set].label(unit), english: definition, chinese, say: clean,
+        openLabel: "Open its flashcard 開啟字卡 →",
+        open: () => openBarronsCard(head, unit, cardIndex, set)
+      });
+      return button;
+    }
+    return document.createTextNode(part);
+  });
+}
+
+function renderSetSentence() {
+  const data = (window.ROOTS_SET_SENTENCES || {})[String(state.unit)];
+  const studyArea = document.querySelector(".study-area");
+  if (!data || !studyArea) return;
+  const list = cards();
+  const section = document.createElement("section");
+  section.className = "set-sentence";
+  section.id = "setSentence";
+  section.innerHTML = `
+    <div class="set-sentence-head">
+      <div>
+        <p class="eyebrow">Set Challenge Sentence · 本組進階例句</p>
+        <p class="set-sentence-hint">Hover a highlighted word to hear it and see its meaning (tap on phones). 滑過螢光字：聽發音、看英英／中文解釋。</p>
+      </div>
+      <div class="set-sentence-actions">
+        <span class="set-sentence-count"></span>
+        <button class="speak-button" type="button" id="speakSetSentence">Listen</button>
+        <button class="secondary-button set-zh-toggle" type="button" aria-pressed="true">中文</button>
+      </div>
+    </div>
+    <p class="set-sentence-en"></p>
+    <p class="set-sentence-zh"></p>`;
+  const nodes = makeSetSentenceNodes(data.en, list);
+  section.querySelector(".set-sentence-en").replaceChildren(...nodes);
+  const used = new Set([...section.querySelectorAll(".set-word:not(.other-book)")].map(b => setWordForCard(b.textContent, list)));
+  section.querySelector(".set-sentence-count").textContent = `${used.size} words from this set`;
+  section.querySelector(".set-sentence-zh").textContent = data.zh;
+  section.querySelector("#speakSetSentence").addEventListener("click", () => speak(data.en, 0.86));
+  const toggle = section.querySelector(".set-zh-toggle");
+  const zh = section.querySelector(".set-sentence-zh");
+  let showZh = true;
+  try { showZh = localStorage.getItem("rootsSetSentenceZh") !== "0"; } catch (error) { /* storage blocked */ }
+  const applyZh = () => { zh.hidden = !showZh; toggle.setAttribute("aria-pressed", String(showZh)); toggle.textContent = showZh ? "Hide 中文" : "Show 中文"; };
+  applyZh();
+  toggle.addEventListener("click", () => {
+    showZh = !showZh; applyZh();
+    try { localStorage.setItem("rootsSetSentenceZh", showZh ? "1" : "0"); } catch (error) { /* storage blocked */ }
+  });
+  studyArea.insertAdjacentElement("beforebegin", section);
 }
 
 function openBarronsCard(head, unit, cardIndex, set = SET) {
