@@ -1033,8 +1033,8 @@ function makeRootsIllustration(card) {
 
 // ---------- Picture cards (Barron's Units 1–PHOTO_MAX_UNIT): Jennifer's own illustrated word cards ----------
 // Files live at images/uNN/<word letters only>.webp. Any card without a file falls back to the drawn SVG.
-const PHOTO_MAX_UNIT = 24;
-const PHOTO_VERSION = "20261112d";
+const PHOTO_MAX_UNIT = 46;
+const PHOTO_VERSION = "20261115a";
 
 function photoFor(card) {
   if (SET !== "barrons" || !card) return "";
