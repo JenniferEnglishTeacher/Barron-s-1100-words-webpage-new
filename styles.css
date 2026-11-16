@@ -1193,3 +1193,8 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
   .set-sentence { padding: 14px 16px; }
   .set-sentence-en { font-size: 18px; }
 }
+
+/* Hover-to-listen sentences + pop-up on highlighted words */
+.sentence.hover-speak, .set-sentence-en.hover-speak { cursor: default; }
+.sentence.hover-speak:hover { background: rgba(201, 235, 231, 0.18); border-radius: 8px; }
+.sentence button.barrons-word.active { filter: brightness(0.95); outline: 2px solid rgba(0,0,0,0.12); }

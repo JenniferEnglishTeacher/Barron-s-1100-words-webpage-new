@@ -231,6 +231,7 @@ function bindEvents() {
   els.speakLookup.addEventListener("click", () => {
     if (state.lookupText) speak(state.lookupText);
   });
+  bindSentenceHover(els.sentence, () => fillSentence(currentCard()));
 }
 
 function moveCard(direction) {
@@ -629,7 +630,8 @@ const NOT_WORD = {
   va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"]),
   roots: new Set()
 };
-const SET_ORDER = SET === "hot" ? ["hot", "barrons", "va"] : SET === "va" ? ["va", "barrons", "hot"] : ["barrons", "hot", "va"];
+// A word found in several books links to this page's own book first; otherwise Hot Words, then Verbal Advantage, then Barron's.
+const SET_ORDER = [SET, "hot", "va", "barrons"].filter((set, i, all) => set !== "roots" && all.indexOf(set) === i);
 
 // Roots pages: the card's own word (and simple inflections) is highlighted as the target even when no other book has it.
 function isOwnWordForm(token, word, forms = []) {
@@ -673,12 +675,11 @@ function makeSentenceNodes(card, text) {
 
     if (SET === "roots" && isOwnWordForm(part.replace(/^['-]+|['-]+$/g, ""), card.word, card.forms)) {
       button.className = "barrons-word roots-word target";
-      button.title = `This card's word: ${card.word}`;
-      button.addEventListener("pointerenter", event => {
-        if (event.pointerType !== "mouse") return;
-        setLookup(card.word, card.lookup.english, card.lookup.chinese);
-      });
-      button.addEventListener("click", event => { event.stopPropagation(); speak(card.word); });
+      const clean = part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
+      bindPopWord(button, {
+        word: card.word, pos: card.pos ? `${card.pos} · this card 本字卡` : "this card 本字卡",
+        english: card.definition || card.lookup.english, chinese: card.chinese || card.lookup.chinese, say: clean
+      }, { onHover: () => setLookup(card.word, card.lookup.english, card.lookup.chinese) });
       return button;
     }
 
@@ -694,27 +695,21 @@ function makeSentenceNodes(card, text) {
     const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
     const isTarget = set === SET && head === ownWord;
     button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : ""}${isTarget ? " target" : ""}`;
-    button.title = isTarget
-      ? `This card's word: ${head}`
-      : `${SETS[set].label(unit)}: ${head}. Click to open its flashcard.`;
     if (!isTarget) {
       const badge = document.createElement("sup");
       badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : "unit-badge";
       badge.textContent = SETS[set].badge(unit);
       button.append(badge);
     }
-    button.addEventListener("pointerenter", event => {
-      if (event.pointerType !== "mouse") return;
-      setLookup(head, definition, chinese);
-      clearTimeout(hoverTimer);
-      hoverTimer = setTimeout(() => speak(part.replace(/'s$/i, "")), 180);
-    });
-    button.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
-    button.addEventListener("click", event => {
-      event.stopPropagation();
-      if (isTarget) { speak(head); return; }
-      openBarronsCard(head, unit, cardIndex, set);
-    });
+    const say = part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
+    bindPopWord(button, isTarget ? {
+      word: head, pos: card.pos ? `${card.pos} · this card 本字卡` : "this card 本字卡",
+      english: card.definition || definition, chinese: card.chinese || chinese, say
+    } : {
+      word: head, pos: SETS[set].label(unit), english: definition, chinese, say,
+      openLabel: "Open its flashcard 開啟字卡 →",
+      open: () => openBarronsCard(head, unit, cardIndex, set)
+    }, { clickOpens: !isTarget, onHover: () => setLookup(head, definition, chinese) });
     return button;
   });
 }
@@ -733,6 +728,7 @@ function renderAdvanced(card) {
       const current = currentCard();
       if (current.advSentence) speak(current.advSentence, 0.86);
     });
+    bindSentenceHover(block.querySelector("#advSentence"), () => currentCard().advSentence);
   }
   block.hidden = !card.advSentence;
   if (!card.advSentence) return;
@@ -746,6 +742,21 @@ function renderAdvanced(card) {
 let wordPop = null;
 let popHideTimer = null;
 let popSpeakTimer = null;
+let sentenceTimer = null;
+
+// Sentences: mouse hover = read the whole sentence aloud (short delay so passing over it stays quiet).
+// Hovering a highlighted word inside it reads just that word instead.
+function bindSentenceHover(el, getText) {
+  if (!el || el.dataset.hoverSpeak) return;
+  el.dataset.hoverSpeak = "1";
+  el.classList.add("hover-speak");
+  el.addEventListener("pointerenter", event => {
+    if (event.pointerType !== "mouse") return;
+    clearTimeout(sentenceTimer);
+    sentenceTimer = setTimeout(() => { const text = getText(); if (text) speak(text, 0.86); }, 350);
+  });
+  el.addEventListener("pointerleave", event => { if (event.pointerType === "mouse") clearTimeout(sentenceTimer); });
+}
 
 function setWordForCard(token, list) {
   const clean = token.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
@@ -770,7 +781,7 @@ function ensureWordPop() {
   wordPop.addEventListener("pointerleave", event => { if (event.pointerType === "mouse") hideWordPop(250); });
   wordPop.querySelector(".word-pop-say").addEventListener("click", event => { event.stopPropagation(); speak(wordPop.dataset.say || ""); });
   document.addEventListener("pointerdown", event => {
-    if (!wordPop.hidden && !wordPop.contains(event.target) && !event.target.closest(".set-word")) hideWordPop(0);
+    if (!wordPop.hidden && !wordPop.contains(event.target) && !event.target.closest(".pop-word")) hideWordPop(0);
   });
   window.addEventListener("scroll", () => hideWordPop(0), { passive: true });
   document.addEventListener("keydown", event => { if (event.key === "Escape") hideWordPop(0); });
@@ -797,7 +808,7 @@ function showWordPop(anchor, info) {
   if (top + h > window.innerHeight - 8) top = Math.max(8, r.top - h - 8);
   pop.style.left = `${left}px`;
   pop.style.top = `${top}px`;
-  document.querySelectorAll(".set-word.active").forEach(el => el.classList.remove("active"));
+  document.querySelectorAll(".pop-word.active").forEach(el => el.classList.remove("active"));
   anchor.classList.add("active");
 }
 
@@ -805,13 +816,21 @@ function hideWordPop(delay = 200) {
   clearTimeout(popHideTimer);
   popHideTimer = setTimeout(() => {
     if (wordPop) wordPop.hidden = true;
-    document.querySelectorAll(".set-word.active").forEach(el => el.classList.remove("active"));
+    document.querySelectorAll(".pop-word.active").forEach(el => el.classList.remove("active"));
   }, delay);
 }
 
-function bindPopWord(button, info) {
+// opts.clickOpens: a mouse click goes straight to the word's flashcard (a tap still shows the pop-up first).
+// opts.onHover: also update the side Word Lookup panel.
+function bindPopWord(button, info, opts = {}) {
+  let lastPointer = "mouse";
+  button.classList.add("pop-word");
+  button.removeAttribute("title");
+  button.addEventListener("pointerdown", event => { lastPointer = event.pointerType; });
   button.addEventListener("pointerenter", event => {
     if (event.pointerType !== "mouse") return;
+    clearTimeout(sentenceTimer);
+    if (opts.onHover) opts.onHover();
     showWordPop(button, info);
     clearTimeout(popSpeakTimer);
     popSpeakTimer = setTimeout(() => speak(info.say), 180);
@@ -823,6 +842,7 @@ function bindPopWord(button, info) {
   });
   button.addEventListener("click", event => {
     event.stopPropagation();
+    if (opts.clickOpens && info.open && lastPointer === "mouse") { hideWordPop(0); info.open(); return; }
     showWordPop(button, info);
     speak(info.say);
   });
@@ -901,6 +921,7 @@ function renderSetSentence() {
   section.querySelector(".set-sentence-count").textContent = `${used.size} words from this set`;
   section.querySelector(".set-sentence-zh").textContent = data.zh;
   section.querySelector("#speakSetSentence").addEventListener("click", () => speak(data.en, 0.86));
+  bindSentenceHover(section.querySelector(".set-sentence-en"), () => data.en);
   const toggle = section.querySelector(".set-zh-toggle");
   const zh = section.querySelector(".set-sentence-zh");
   let showZh = true;
