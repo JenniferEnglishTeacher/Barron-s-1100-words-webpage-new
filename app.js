@@ -1034,14 +1034,18 @@ function makeRootsIllustration(card) {
 // ---------- Picture cards (Barron's Units 1–PHOTO_MAX_UNIT): Jennifer's own illustrated word cards ----------
 // Files live at images/uNN/<word letters only>.webp. Any card without a file falls back to the drawn SVG.
 const PHOTO_MAX_UNIT = 46;
-const PHOTO_VERSION = "20261115a";
+const PHOTO_VERSION = "20261116a";
+
+const HOT_PHOTO_MAX_UNIT = 35;
 
 function photoFor(card) {
-  if (SET !== "barrons" || !card) return "";
+  if (!card || (SET !== "barrons" && SET !== "hot")) return "";
   const unit = Number(state.unit);
-  if (!(unit >= 1 && unit <= PHOTO_MAX_UNIT)) return "";
+  const max = SET === "hot" ? HOT_PHOTO_MAX_UNIT : PHOTO_MAX_UNIT;
+  if (!(unit >= 1 && unit <= max)) return "";
   const slug = String(card.word).toLowerCase().replace(/[^a-z]/g, "");
-  return `images/u${String(unit).padStart(2, "0")}/${slug}.webp?v=${PHOTO_VERSION}`;
+  const dir = SET === "hot" ? "h" : "u";
+  return `images/${dir}${String(unit).padStart(2, "0")}/${slug}.webp?v=${PHOTO_VERSION}`;
 }
 
 function preloadNextPhoto() {
