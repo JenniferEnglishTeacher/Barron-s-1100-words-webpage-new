@@ -1198,3 +1198,6 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .sentence.hover-speak, .set-sentence-en.hover-speak { cursor: default; }
 .sentence.hover-speak:hover { background: rgba(201, 235, 231, 0.18); border-radius: 8px; }
 .sentence button.barrons-word.active { filter: brightness(0.95); outline: 2px solid rgba(0,0,0,0.12); }
+.sentence button.barrons-word.roots-link { background: #e6f2e8; color: var(--roots-dark); box-shadow: inset 0 -2px 0 var(--roots); }
+.sentence button.barrons-word.roots-link:hover { background: #cfe6d3; }
+.unit-badge.roots-badge { color: var(--roots); }

@@ -8,8 +8,8 @@ const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
   hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
   va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} },
-  // Roots words are not linked inside other books' sentences (thousands of everyday words would light up), so its index is empty.
-  roots: { page: u => `roots-unit${u}.html`, badge: u => `R${u}`, label: u => `字根字首 — Set ${u}`, unitName: "Set", count: 236, board: "index.html#roots", index: () => ({}) }
+  // Roots words link only on roots pages (roots-words.js is loaded there; everyday words are left out of it).
+  roots: { page: u => `roots-unit${u}.html`, badge: u => `R${u}`, label: u => `字根字首 — Set ${u}`, unitName: "Set", count: 236, board: "index.html#roots", index: () => window.ROOTS_INDEX || {} }
 };
 const SETCFG = SETS[SET];
 
@@ -619,7 +619,8 @@ function buildForms(index) {
 }
 
 function buildBarronsForms() {
-  wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()), va: buildForms(SETS.va.index()) };
+  wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()), va: buildForms(SETS.va.index()),
+    roots: SET === "roots" ? buildForms(SETS.roots.index()) : new Map() };
   barronsPhrases.sort((a, b) => b.length - a.length);
 }
 
@@ -628,10 +629,26 @@ const NOT_WORD = {
   barrons: new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]),
   hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"]),
   va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"]),
-  roots: new Set()
+  roots: new Set(window.ROOTS_COMMON || [])
 };
 // A word found in several books links to this page's own book first; otherwise Hot Words, then Verbal Advantage, then Barron's.
-const SET_ORDER = [SET, "hot", "va", "barrons"].filter((set, i, all) => set !== "roots" && all.indexOf(set) === i);
+const SET_ORDER = [SET, "hot", "va", "barrons"].filter((set, i, all) => all.indexOf(set) === i);
+
+// Roots pages: words of the set on screen link to their card here first, even if they also sit in another set.
+let localRoots = { unit: null, forms: new Map(), entries: {} };
+function localRootsFind(key) {
+  if (SET !== "roots") return null;
+  if (localRoots.unit !== state.unit) {
+    const entries = {};
+    cards().forEach((c, i) => {
+      const head = c.word.replace(/\s*\(.*?\)\s*/g, " ").trim().toLowerCase();
+      if (head.length > 2 && !entries[head]) entries[head] = [Number(state.unit), i, c.definition || c.lookup.english, c.chinese || c.lookup.chinese];
+    });
+    localRoots = { unit: state.unit, forms: buildForms(entries), entries };
+  }
+  const head = localRoots.forms.get(key);
+  return head ? { set: "roots", head, entry: localRoots.entries[head] } : null;
+}
 
 // Roots pages: the card's own word (and simple inflections) is highlighted as the target even when no other book has it.
 function isOwnWordForm(token, word, forms = []) {
@@ -644,10 +661,12 @@ function isOwnWordForm(token, word, forms = []) {
 function findBarrons(token) {
   if (!wordForms) buildBarronsForms();
   const key = token.toLowerCase();
+  const local = localRootsFind(key);
+  if (local) return local;
   for (const set of SET_ORDER) {
     if (NOT_WORD[set].has(key)) continue;
     const head = wordForms[set].get(key);
-    if (head) return { set, head };
+    if (head) return { set, head, entry: SETS[set].index()[head] };
   }
   return null;
 }
@@ -692,12 +711,12 @@ function makeSentenceNodes(card, text) {
     }
 
     const { set, head } = found;
-    const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
+    const [unit, cardIndex, definition, chinese] = found.entry;
     const isTarget = set === SET && head === ownWord;
-    button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : ""}${isTarget ? " target" : ""}`;
+    button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : set === "roots" ? " roots-link" : ""}${isTarget ? " target" : ""}`;
     if (!isTarget) {
       const badge = document.createElement("sup");
-      badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : "unit-badge";
+      badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : set === "roots" ? "unit-badge roots-badge" : "unit-badge";
       badge.textContent = SETS[set].badge(unit);
       button.append(badge);
     }
@@ -877,7 +896,7 @@ function makeSetSentenceNodes(text, list) {
     const found = findBarrons(clean);
     if (found) {
       const { set, head } = found;
-      const [unit, cardIndex, definition, chinese] = SETS[set].index()[head];
+      const [unit, cardIndex, definition, chinese] = found.entry;
       const button = document.createElement("button");
       button.type = "button";
       button.className = "set-word other-book";
