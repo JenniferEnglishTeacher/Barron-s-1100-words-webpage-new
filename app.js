@@ -1037,14 +1037,15 @@ const PHOTO_MAX_UNIT = 46;
 const PHOTO_VERSION = "20261116a";
 
 const HOT_PHOTO_MAX_UNIT = 35;
+const VA_PHOTO_MAX_UNIT = 25; // Verbal Advantage Lv.1–5 picture cards live at images/vNN/
 
 function photoFor(card) {
-  if (!card || (SET !== "barrons" && SET !== "hot")) return "";
+  if (!card || (SET !== "barrons" && SET !== "hot" && SET !== "va")) return "";
   const unit = Number(state.unit);
-  const max = SET === "hot" ? HOT_PHOTO_MAX_UNIT : PHOTO_MAX_UNIT;
+  const max = SET === "hot" ? HOT_PHOTO_MAX_UNIT : SET === "va" ? VA_PHOTO_MAX_UNIT : PHOTO_MAX_UNIT;
   if (!(unit >= 1 && unit <= max)) return "";
   const slug = String(card.word).toLowerCase().replace(/[^a-z]/g, "");
-  const dir = SET === "hot" ? "h" : "u";
+  const dir = SET === "hot" ? "h" : SET === "va" ? "v" : "u";
   return `images/${dir}${String(unit).padStart(2, "0")}/${slug}.webp?v=${PHOTO_VERSION}`;
 }
 
