@@ -1080,7 +1080,14 @@ const HOT_PHOTO_MAX_UNIT = 35;
 const VA_PHOTO_MAX_UNIT = 25; // Verbal Advantage Lv.1–5 picture cards live at images/vNN/
 
 function photoFor(card) {
-  if (!card || (SET !== "barrons" && SET !== "hot" && SET !== "va")) return "";
+  if (!card) return "";
+  // Roots sets: a word that is also a Barron's 1100 / Hot Words for the SAT word reuses that picture card.
+  if (SET === "roots") {
+    const head = String(card.word).replace(/\s*\(.*?\)\s*/g, " ").trim().toLowerCase();
+    const file = (window.ROOTS_PHOTOS || {})[head];
+    return file ? `images/${file}.webp?v=${PHOTO_VERSION}` : "";
+  }
+  if (SET !== "barrons" && SET !== "hot" && SET !== "va") return "";
   const unit = Number(state.unit);
   const max = SET === "hot" ? HOT_PHOTO_MAX_UNIT : SET === "va" ? VA_PHOTO_MAX_UNIT : PHOTO_MAX_UNIT;
   if (!(unit >= 1 && unit <= max)) return "";
