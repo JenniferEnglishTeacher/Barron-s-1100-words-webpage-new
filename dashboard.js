@@ -7,6 +7,7 @@ const BARRONS = window.DASHBOARD_UNITS || [];
 const HOT = window.HOT_DASHBOARD_UNITS || [];
 const VA = window.VA_DASHBOARD_UNITS || [];
 const VA2 = window.VA2_DASHBOARD_UNITS || [];
+const MK = window.MK_DASHBOARD_UNITS || []; // Zone 6: SAT Must-Know 306 + 386 (keys "m<unit>:index")
 const STORE_KEY = "barrons1100-review-list"; // kept from the Barron's-only board so existing lists survive
 const QUIZ_BASE = "https://jenniferenglishteacher.github.io/sat-vocab/";
 const ROOTS_SETS = window.ROOTS_SETS || []; // built locally from the combined-sources data; no live fetch
@@ -19,6 +20,7 @@ const BOOKS = {
   hot: { name: "Hot Words for the SAT", unitName: "Lesson", short: "H", units: HOT, key: (u, i) => `h${u}:${i}`, page: u => `hot-unit${u}.html` },
   va: { name: "Verbal Advantage Lv.1–5", unitName: "Unit", short: "V", units: VA, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` },
   va2: { name: "Verbal Advantage Lv.6–10", unitName: "Unit", short: "V", units: VA2, key: (u, i) => `v${u}:${i}`, page: u => `va-unit${u}.html` },
+  mk: { name: "SAT Must-Know 306 + 386", unitName: "Unit", short: "M", units: MK, key: (u, i) => `m${u}:${i}`, page: u => `mk-unit${u}.html` },
   roots: { name: "字根 / 字首 / 未歸類", unitName: "Set", short: "R", units: [], key: (u, i) => `r${u}:${i}`, page: u => `roots-unit${u}.html` }
 };
 
@@ -75,7 +77,7 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-const ZONES = ["barrons", "hot", "va", "va2", "roots"];
+const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots"];
 let zone = "barrons";
 
 function setZone(next, push = true) {
@@ -192,7 +194,7 @@ function showTip(btn, key) {
     <p class="tip-hint"></p>`;
   tip.querySelector("strong").textContent = card.w;
   tip.querySelector(".tip-pos").textContent = card.p;
-  tip.querySelector(".tip-unit").textContent = `${card.book === "hot" ? "Hot Words · " : card.book.startsWith("va") ? "Verbal Advantage · " : ""}${cfg.unitName} ${card.unit}`;
+  tip.querySelector(".tip-unit").textContent = `${card.book === "hot" ? "Hot Words · " : card.book.startsWith("va") ? "Verbal Advantage · " : card.book === "mk" ? `Must-Know ${card.src || ""} · ` : ""}${cfg.unitName} ${card.unit}`;
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
@@ -201,6 +203,7 @@ function showTip(btn, key) {
   tip.classList.toggle("is-marked", isMarked);
   tip.classList.toggle("is-hot", card.book === "hot");
   tip.classList.toggle("is-va", card.book.startsWith("va"));
+  tip.classList.toggle("is-mk", card.book === "mk");
   tip.hidden = false;
 
   const r = btn.getBoundingClientRect();
@@ -411,11 +414,13 @@ function filterBatches(q) {
 document.querySelector("#barronsCount").textContent = `${BARRONS.length} units · ${BARRONS.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#hotCount").textContent = `${HOT.length} lessons · ${HOT.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#va2Count").textContent = `${VA2.length} units · ${VA2.reduce((n, u) => n + u.cards.length, 0)} words`;
+document.querySelector("#mkCount").textContent = `${MK.length} units · ${MK.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#vaCount").textContent = `${VA.length} units · ${VA.reduce((n, u) => n + u.cards.length, 0)} words`;
 buildBoard("barrons");
 buildBoard("hot");
 buildBoard("va");
 buildBoard("va2");
+buildBoard("mk");
 refresh();
 setZone(location.hash.slice(1) || "barrons", false);
 loadBatches();

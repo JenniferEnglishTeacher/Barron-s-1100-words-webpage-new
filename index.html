@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261110ra">
+  <link rel="stylesheet" href="styles.css?v=20261117mk">
 </head>
 <body>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首 · Verbal Advantage Lv.1–10</p>
+      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首 · Verbal Advantage Lv.1–10 · SAT Must-Know 306 + 386</p>
       <h1>SAT Vocabulary Board</h1>
       <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a unit's flashcards (sample sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>按「🗂 Flashcards」進入該單元字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
     </header>
@@ -34,6 +34,10 @@
       <button class="zone-tab zone-va zone-va2" type="button" role="tab" data-zone="va2" aria-controls="zone-va2">
         <span class="zone-num">5</span>
         <span class="zone-text"><strong>Verbal Advantage Lv.6–10</strong><small id="va2Count">字彙的力量2 · 25 units</small></span>
+      </button>
+      <button class="zone-tab zone-mk" type="button" role="tab" data-zone="mk" aria-controls="zone-mk">
+        <span class="zone-num">6</span>
+        <span class="zone-text"><strong>SAT Must-Know 306 + 386</strong><small id="mkCount">30 units · 587 words</small></span>
       </button>
     </nav>
 
@@ -81,6 +85,14 @@
       <div class="unit-board" id="board-va2"></div>
     </section>
 
+    <section class="zone-panel" id="zone-mk" role="tabpanel" aria-label="SAT Must-Know 306 plus 386 words" hidden>
+      <div class="zone-head">
+        <h2>SAT Must-Know 306 + 386 <span>587 words · 30 units (A–Z)</span></h2>
+        <p>The 306 and 386 must-know SAT word lists combined. <b>🗂 Flashcards</b> (or the unit name) opens the unit's flashcards (picture card, word parts, synonyms, sample sentence); double-click a word to open its card; 📝 MCQ jumps to the unit's practice test. 合併 306 與 386 必背 SAT 單字；點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡，📝 MCQ 進入練習題。</p>
+      </div>
+      <div class="unit-board" id="board-mk"></div>
+    </section>
+
     <section class="zone-panel" id="zone-roots" role="tabpanel" aria-label="Roots, prefixes and unclassified words" hidden>
       <div class="roots-hero">
         <div>
@@ -98,8 +110,9 @@
   <script src="hot-dashboard-data.js?v=20261109h"></script>
   <script src="va-dashboard-data.js?v=20261109vb"></script>
   <script src="va2-dashboard-data.js?v=20261109vb"></script>
+  <script src="mk-dashboard-data.js?v=20261117mk"></script>
   <script src="roots-sets.js?v=20261110s"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261110ra"></script>
+  <script src="dashboard.js?v=20261117mk"></script>
 </body>
 </html>

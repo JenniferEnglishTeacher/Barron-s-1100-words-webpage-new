@@ -268,6 +268,7 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
 <script src="hot-dashboard-data.js?v=20261109h"></script>
 <script src="va-dashboard-data.js?v=20261109vb"></script>
 <script src="va2-dashboard-data.js?v=20261109vb"></script>
+<script src="mk-dashboard-data.js?v=20261117mk"></script>
 <script>
 /* =========================================================
    DATA — the board's review list (localStorage), any zone
@@ -280,7 +281,8 @@ const BOOKS={
   hot:{name:'Hot Words for the SAT',unit:'Lesson',units:window.HOT_DASHBOARD_UNITS||[],key:(u,i)=>`h${u}:${i}`,page:u=>`hot-unit${u}.html`},
   roots:{name:'字根 / 字首 / 未歸類',unit:'Set',units:[],key:(u,i)=>`r${u}:${i}`,page:u=>`roots-unit${u}.html`},
   va:{name:'Verbal Advantage Lv.1–5',unit:'Unit',units:window.VA_DASHBOARD_UNITS||[],key:(u,i)=>`v${u}:${i}`,page:u=>`va-unit${u}.html`},
-  va2:{name:'Verbal Advantage Lv.6–10',unit:'Unit',units:window.VA2_DASHBOARD_UNITS||[],key:(u,i)=>`v${u}:${i}`,page:u=>`va-unit${u}.html`}
+  va2:{name:'Verbal Advantage Lv.6–10',unit:'Unit',units:window.VA2_DASHBOARD_UNITS||[],key:(u,i)=>`v${u}:${i}`,page:u=>`va-unit${u}.html`},
+  mk:{name:'SAT Must-Know 306 + 386',unit:'Unit',units:window.MK_DASHBOARD_UNITS||[],key:(u,i)=>`m${u}:${i}`,page:u=>`mk-unit${u}.html`}
 };
 const readStore=(k,f)=>{try{return JSON.parse(localStorage.getItem(k)||'')||f;}catch(e){return f;}};
 const lookup=new Map();

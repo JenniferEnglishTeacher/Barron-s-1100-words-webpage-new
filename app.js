@@ -3,12 +3,13 @@ const localLookup = window.LOCAL_LOOKUP;
 
 // Which word set this page belongs to: Barron's 1100 (unitN.html), Hot Words for the SAT (hot-unitN.html)
 // Verbal Advantage Lv.1–10 / 字彙的力量1–2 (va-unitN.html) or 字根/字首/未歸類 sets (roots-unitN.html).
-const SET = ["hot", "va", "roots"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
+const SET = ["hot", "va", "roots", "mk"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
 const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
   hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
   va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} },
   // Roots words link only on roots pages (roots-words.js is loaded there; everyday words are left out of it).
+  mk: { page: u => `mk-unit${u}.html`, badge: u => `M${u}`, label: u => `SAT Must-Know — Unit ${u}`, unitName: "Unit", count: 30, board: "index.html#mk", index: () => window.MK_INDEX || {} },
   roots: { page: u => `roots-unit${u}.html`, badge: u => `R${u}`, label: u => `字根字首 — Set ${u}`, unitName: "Set", count: 236, board: "index.html#roots", index: () => window.ROOTS_INDEX || {} }
 };
 const SETCFG = SETS[SET];
@@ -110,7 +111,7 @@ function createQuizLinks() {
 function renderQuizLinks() {
   if (!els.quizLinks) return;
   const unit = state.unit;
-  if (SET === "hot" || SET === "va" || SET === "roots") {
+  if (SET === "hot" || SET === "va" || SET === "roots" || SET === "mk") {
     // Hot Words / Verbal Advantage units have no separate online quiz page: jump to the MCQ practice below the cards.
     const a = document.createElement("a");
     a.className = "quiz-link";
@@ -300,7 +301,7 @@ function readStore(key, fallback) {
   try { return JSON.parse(localStorage.getItem(key) || "") || fallback; } catch (error) { return fallback; }
 }
 
-const KEY_PREFIX = { barrons: "", hot: "h", va: "v", roots: "r" }[SET];
+const KEY_PREFIX = { barrons: "", hot: "h", va: "v", roots: "r", mk: "m" }[SET];
 
 function rootsKey(realIndex) {
   return `${KEY_PREFIX}${state.unit}:${realIndex}`;
@@ -478,6 +479,23 @@ function renderSynonyms(card) {
     return chip;
   });
   els.synonyms.replaceChildren(label, ...chips);
+  if (SET === "mk") {
+    // SAT Must-Know: prefix/root note and which list (306 / 386) the word comes from, after the synonyms.
+    const extra = [];
+    if (card.root) {
+      const note = document.createElement("span");
+      note.className = "syn-chip root-note";
+      note.textContent = `字源 ${card.root}`;
+      extra.push(note);
+    }
+    if (card.source) {
+      const src = document.createElement("span");
+      src.className = "syn-chip root-group";
+      src.textContent = `List ${card.source}`;
+      extra.push(src);
+    }
+    els.synonyms.append(...extra);
+  }
 }
 
 // Roots sets: show the word's etymology note and its prefix/root group where other books show synonyms.
@@ -620,7 +638,7 @@ function buildForms(index) {
 
 function buildBarronsForms() {
   wordForms = { barrons: buildForms(SETS.barrons.index()), hot: buildForms(SETS.hot.index()), va: buildForms(SETS.va.index()),
-    roots: SET === "roots" ? buildForms(SETS.roots.index()) : new Map() };
+    roots: SET === "roots" ? buildForms(SETS.roots.index()) : new Map(), mk: SET === "mk" ? buildForms(SETS.mk.index()) : new Map() };
   barronsPhrases.sort((a, b) => b.length - a.length);
 }
 
@@ -629,7 +647,8 @@ const NOT_WORD = {
   barrons: new Set(["railing", "railings", "precipitation", "expedition", "expeditions", "expedition's"]),
   hot: new Set(["dined", "dining", "dines", "dinner", "novels", "remotely", "petting"]),
   va: new Set(["warranty", "warranties", "delegation", "delegations", "creeds", "abetting", "recurring", "remotely", "petting", "cullings", "dearly"]),
-  roots: new Set(window.ROOTS_COMMON || [])
+  roots: new Set(window.ROOTS_COMMON || []),
+  mk: new Set(["novels", "remotely", "petting", "warranty", "warranties", "commonly", "costs", "spans"])
 };
 // A word found in several books links to this page's own book first; otherwise Hot Words, then Verbal Advantage, then Barron's.
 const SET_ORDER = [SET, "hot", "va", "barrons"].filter((set, i, all) => all.indexOf(set) === i);
@@ -692,7 +711,7 @@ function makeSentenceNodes(card, text) {
     button.type = "button";
     button.textContent = part;
 
-    if (SET === "roots" && isOwnWordForm(part.replace(/^['-]+|['-]+$/g, ""), card.word, card.forms)) {
+    if ((SET === "roots" || SET === "mk") && isOwnWordForm(part.replace(/^['-]+|['-]+$/g, ""), card.word, card.forms)) {
       button.className = "barrons-word roots-word target";
       const clean = part.replace(/^['-]+|['-]+$/g, "").replace(/'s$/i, "");
       bindPopWord(button, {
@@ -713,10 +732,10 @@ function makeSentenceNodes(card, text) {
     const { set, head } = found;
     const [unit, cardIndex, definition, chinese] = found.entry;
     const isTarget = set === SET && head === ownWord;
-    button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : set === "roots" ? " roots-link" : ""}${isTarget ? " target" : ""}`;
+    button.className = `barrons-word${set === "hot" ? " hot-word" : set === "va" ? " va-word" : set === "roots" ? " roots-link" : set === "mk" ? " mk-word" : ""}${isTarget ? " target" : ""}`;
     if (!isTarget) {
       const badge = document.createElement("sup");
-      badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : set === "roots" ? "unit-badge roots-badge" : "unit-badge";
+      badge.className = set === "hot" ? "unit-badge hot-badge" : set === "va" ? "unit-badge va-badge" : set === "roots" ? "unit-badge roots-badge" : set === "mk" ? "unit-badge mk-badge" : "unit-badge";
       badge.textContent = SETS[set].badge(unit);
       button.append(badge);
     }
@@ -1087,6 +1106,8 @@ function photoFor(card) {
     const file = (window.ROOTS_PHOTOS || {})[head];
     return file ? `images/${file}.webp?v=${PHOTO_VERSION}` : "";
   }
+  // SAT Must-Know: picture cards (from Jennifer's Drive folder) live at images/mk/<word>.webp; card.photo marks the words that have one.
+  if (SET === "mk") return card.photo ? `images/${card.photo}.webp?v=${PHOTO_VERSION}` : "";
   if (SET !== "barrons" && SET !== "hot" && SET !== "va") return "";
   const unit = Number(state.unit);
   const max = SET === "hot" ? HOT_PHOTO_MAX_UNIT : SET === "va" ? VA_PHOTO_MAX_UNIT : PHOTO_MAX_UNIT;
@@ -1126,7 +1147,7 @@ function openPhotoZoom(src, alt) {
 }
 
 function makeIllustration(card) {
-  if (SET === "roots") return makeRootsIllustration(card);
+  if (SET === "roots" || SET === "mk") return makeRootsIllustration(card);
   const ink = "#17202a";
   const teal = "#087f8c";
   const gold = "#d89a27";

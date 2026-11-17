@@ -1201,3 +1201,26 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .sentence button.barrons-word.roots-link { background: #e6f2e8; color: var(--roots-dark); box-shadow: inset 0 -2px 0 var(--roots); }
 .sentence button.barrons-word.roots-link:hover { background: #cfe6d3; }
 .unit-badge.roots-badge { color: var(--roots); }
+
+/* ---------- Zone 6: SAT Must-Know 306 + 386 (blue-green) ---------- */
+:root { --mk: #1f7a6d; --mk-dark: #145a50; --mk-soft: #e8f6f2; }
+.zone-mk .zone-num { color: var(--mk-dark); }
+.zone-mk.active { border-color: var(--mk); background: var(--mk-soft); }
+.zone-mk.active .zone-num { background: var(--mk); color: #fff; }
+.mk-block { border-color: rgba(31, 122, 109, 0.30); background: linear-gradient(145deg, #ffffff 0%, var(--mk-soft) 100%); }
+.mk-block .unit-number { color: var(--mk-dark); }
+.mk-block .mini-quiz { background: var(--mk); }
+.mk-block .mini-cards { background: var(--mk-dark); }
+.mk-block .board-word:hover { border-color: var(--mk); background: #d3eee7; color: var(--mk-dark); }
+.mk-block .board-word.marked, .mk-block .board-word.marked:hover { border-color: #c62828; background: #c62828; color: #fff; }
+.word-tip.is-mk { border-color: rgba(31, 122, 109, 0.45); }
+.word-tip.is-mk .tip-head strong { color: var(--mk-dark); }
+.preview-chip.mk small { color: var(--mk-dark); }
+.sentence button.barrons-word.mk-word { background: var(--mk-soft); color: var(--mk-dark); box-shadow: inset 0 -2px 0 var(--mk); }
+.unit-badge.mk-badge { color: var(--mk); }
+body[data-set="mk"] .meter span { background: linear-gradient(90deg, var(--mk), var(--gold)); }
+body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-dark); }
+.zone-tabs { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+@media (max-width: 1600px) { .zone-tabs { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }
