@@ -479,6 +479,18 @@ function renderSynonyms(card) {
     return chip;
   });
   els.synonyms.replaceChildren(label, ...chips);
+  if (SET === "hot" && Number(state.unit) <= 28) {
+    // Hot Words lessons 1–28 are synonym sets: link to the expanded group (more SAT synonyms + the antonym group).
+    const more = document.createElement("a");
+    more.className = "syn-chip syn-more";
+    more.href = `https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/synonym-groups.html#hot-${String(state.unit).padStart(2, "0")}`;
+    more.target = "_blank";
+    more.rel = "noopener";
+    more.textContent = "📚 更多 SAT 同義字 / 反義字組 →";
+    more.title = "Open this lesson's expanded synonym group and its antonym group (SAT Vocabulary Studio)";
+    more.addEventListener("click", event => event.stopPropagation());
+    els.synonyms.append(more);
+  }
   if (SET === "mk") {
     // SAT Must-Know: prefix/root note and which list (306 / 386) the word comes from, after the synonyms.
     const extra = [];
