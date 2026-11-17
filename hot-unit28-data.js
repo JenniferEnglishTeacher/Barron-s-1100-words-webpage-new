@@ -195,6 +195,168 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The shrewd negotiator recognized that the mercenary contractors were motivated by avarice alone, so he offered a modest bonus that proved enough to mollify them and avert a costly debacle.",
         "advTranslation": "這位精明的談判者看出那些唯利是圖的承包商只受貪婪驅使，於是提供了一筆不多的獎金，結果足以安撫他們，避免了一場代價高昂的慘敗。"
+      },
+      {
+        "word": "perceptive",
+        "pos": "adj.",
+        "definition": "Having insight or good understanding.",
+        "chinese": "有洞察力的；敏銳的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "She is incredibly __________ and notices even the smallest changes in people's emotions.",
+        "translation": "她非常敏銳，連人們情緒最細微的變化都能察覺。",
+        "lookup": {
+          "english": "Having insight or good understanding.",
+          "chinese": "有洞察力的；敏銳的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "insightful",
+        "pos": "adj.",
+        "definition": "Having or showing deep understanding.",
+        "chinese": "有洞察力的;深刻的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "Her __________ comments helped the team see the problem differently.",
+        "translation": "她深刻的見解幫助團隊以不同的角度看待這個問題。",
+        "lookup": {
+          "english": "Having or showing deep understanding.",
+          "chinese": "有洞察力的;深刻的"
+        },
+        "advSentence": "The book offers insightful analysis of modern economics.",
+        "advTranslation": "這本書提供了對現代經濟學深刻的分析。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "trenchant",
+        "pos": "adj.",
+        "definition": "Keen, incisive.",
+        "chinese": "銳利的/一針見血的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "Her __________ critique of the policy left the officials with no response.",
+        "translation": "她對這項政策一針見血的批評讓官員們啞口無言。",
+        "lookup": {
+          "english": "Keen, incisive.",
+          "chinese": "銳利的/一針見血的"
+        },
+        "advSentence": "The columnist is famous for his trenchant wit and sharp observations.",
+        "advTranslation": "這位專欄作家以他犀利的機智與敏銳的觀察聞名。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "sapient",
+        "pos": "adj.",
+        "definition": "Wise or having great learning.",
+        "chinese": "有智慧的;博學的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "The council sought advice from their most __________ members.",
+        "translation": "這個議會向最有智慧的成員尋求建議。",
+        "lookup": {
+          "english": "Wise or having great learning.",
+          "chinese": "有智慧的;博學的"
+        },
+        "advSentence": "His sapient observations often revealed insights others missed.",
+        "advTranslation": "他富有智慧的觀察經常揭示出其他人忽略的洞見。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "canny",
+        "pos": "adj.",
+        "definition": "Shrewd, careful.",
+        "chinese": "精明的/謹慎的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "The __________ investor sold her stocks just before the market crashed.",
+        "translation": "這位精明的投資人在市場崩盤前就賣掉了她的股票。",
+        "lookup": {
+          "english": "Shrewd, careful.",
+          "chinese": "精明的/謹慎的"
+        },
+        "advSentence": "A canny negotiator, he always knew when to walk away from the table.",
+        "advTranslation": "身為一位精明的談判者,他總是知道何時該離開談判桌。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "clever",
+        "pos": "adj.",
+        "definition": "Quick to understand or devise ingenious solutions.",
+        "chinese": "聰明的;機智的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "Her __________ solution saved the company thousands of dollars.",
+        "translation": "她機智的解決方案,為公司省下了數千美元。",
+        "lookup": {
+          "english": "Quick to understand or devise ingenious solutions.",
+          "chinese": "聰明的;機智的"
+        },
+        "advSentence": "The fox in the fable is portrayed as clever but untrustworthy.",
+        "advTranslation": "寓言中的狐狸被描繪成聰明卻不可信賴的角色。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "keen",
+        "pos": "adj.",
+        "definition": "Having or showing eagerness or enthusiasm.",
+        "chinese": "熱切的/敏銳的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "She was __________ to learn everything about the new software program.",
+        "translation": "她非常熱切地想要學習關於這套新軟體程式的一切。",
+        "lookup": {
+          "english": "Having or showing eagerness or enthusiasm.",
+          "chinese": "熱切的/敏銳的"
+        },
+        "advSentence": "He has a keen eye for spotting fake antiques.",
+        "advTranslation": "他有著敏銳的眼光,能辨識出仿冒的古董。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "percipient",
+        "pos": "adj./n.",
+        "definition": "Having or showing keen perception or insight.",
+        "chinese": "有感知力的;有洞察力的人",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "A __________ observer would have noticed the subtle discrepancy immediately.",
+        "translation": "一位敏銳的觀察者會立刻注意到這個細微的差異。",
+        "lookup": {
+          "english": "Having or showing keen perception or insight.",
+          "chinese": "有感知力的;有洞察力的人"
+        },
+        "advSentence": "The witness proved unusually percipient under cross-examination.",
+        "advTranslation": "這位證人在交叉詰問下展現出異常敏銳的觀察力。",
+        "added": true,
+        "group": "hot-28"
+      },
+      {
+        "word": "sophisticated",
+        "pos": "adj.",
+        "definition": "Developed to a high degree of complexity and refinement.",
+        "chinese": "先進的；精密的；世故的",
+        "synonyms": "discerning, erudite, incisive",
+        "image": "shield",
+        "sentence": "Modern weather forecasting relies on __________ satellite systems and supercomputers to project storm paths.",
+        "translation": "現代天氣預報依賴「先進的（精密的）」衛星系統和超級電腦來預測風暴路徑。",
+        "lookup": {
+          "english": "Developed to a high degree of complexity and refinement.",
+          "chinese": "先進的；精密的；世故的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-28"
       }
     ],
     "quiz": [
@@ -486,6 +648,10 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "shrewd"
       }
+    ],
+    "group": "hot-28",
+    "antonymLessons": [
+      4
     ]
   }
 };
@@ -538,5 +704,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "shrewd": [
     "Having sharp practical judgment; clever in a practical way.",
     "精明的；機靈的"
+  ],
+  "perceptive": [
+    "Having insight or good understanding.",
+    "有洞察力的；敏銳的"
+  ],
+  "insightful": [
+    "Having or showing deep understanding.",
+    "有洞察力的;深刻的"
+  ],
+  "trenchant": [
+    "Keen, incisive.",
+    "銳利的/一針見血的"
+  ],
+  "sapient": [
+    "Wise or having great learning.",
+    "有智慧的;博學的"
+  ],
+  "canny": [
+    "Shrewd, careful.",
+    "精明的/謹慎的"
+  ],
+  "clever": [
+    "Quick to understand or devise ingenious solutions.",
+    "聰明的;機智的"
+  ],
+  "keen": [
+    "Having or showing eagerness or enthusiasm.",
+    "熱切的/敏銳的"
+  ],
+  "percipient": [
+    "Having or showing keen perception or insight.",
+    "有感知力的;有洞察力的人"
+  ],
+  "sophisticated": [
+    "Developed to a high degree of complexity and refinement.",
+    "先進的；精密的；世故的"
   ]
 });

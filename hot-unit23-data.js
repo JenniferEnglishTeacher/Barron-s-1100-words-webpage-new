@@ -147,6 +147,96 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The volatile political climate, inflamed by belligerent rhetoric and rancorous partisanship on both sides, left moderate legislators in a quandary about whether to mediate between the warring factions or simply stay silent until the election.",
         "advTranslation": "在雙方好戰的言論與充滿怨恨的黨派對立煽動下，這種動盪多變的政治氣候讓溫和派議員陷入兩難：究竟該在交戰的派系之間居中調停，還是乾脆保持沉默直到選舉結束。"
+      },
+      {
+        "word": "fugacious",
+        "pos": "adj.",
+        "definition": "Tending to disappear quickly; fleeting.",
+        "chinese": "短暫的;易逝的",
+        "synonyms": "evanescent, transient, transitory",
+        "image": "shield",
+        "sentence": "Youth is __________ , fading faster than we expect.",
+        "translation": "青春是短暫易逝的,消逝的速度比我們預期的還快。",
+        "lookup": {
+          "english": "Tending to disappear quickly; fleeting.",
+          "chinese": "短暫的;易逝的"
+        },
+        "advSentence": "The flower's fugacious blossom lasts only a single day.",
+        "advTranslation": "這種花朵短暫的花期只維持一天。",
+        "added": true,
+        "group": "hot-23"
+      },
+      {
+        "word": "vagrant",
+        "pos": "n./adj.",
+        "definition": "A person without a settled home or job; wandering.",
+        "chinese": "流浪者;漂泊的",
+        "synonyms": "evanescent, transient, transitory",
+        "image": "shield",
+        "sentence": "Local police were tasked with relocating the __________ s from the park.",
+        "translation": "當地警方被指派將這些流浪者從這座公園遷離。",
+        "lookup": {
+          "english": "A person without a settled home or job; wandering.",
+          "chinese": "流浪者;漂泊的"
+        },
+        "advSentence": "He led a vagrant life, moving from city to city without roots.",
+        "advTranslation": "他過著漂泊不定的生活,從一座城市輾轉到另一座城市,沒有根。",
+        "added": true,
+        "group": "hot-23"
+      },
+      {
+        "word": "vagabond",
+        "pos": "n./adj.",
+        "definition": "A person who wanders without a fixed home; wandering.",
+        "chinese": "流浪漢;流浪的",
+        "synonyms": "evanescent, transient, transitory",
+        "image": "shield",
+        "sentence": "The old __________ traveled from town to town, telling stories for food.",
+        "translation": "這位老流浪漢從一個城鎮輾轉到另一個城鎮,靠說故事換取食物。",
+        "lookup": {
+          "english": "A person who wanders without a fixed home; wandering.",
+          "chinese": "流浪漢;流浪的"
+        },
+        "advSentence": "He led a vagabond existence for years before finally settling down.",
+        "advTranslation": "他過了好幾年流浪的生活,最終才安定下來。",
+        "added": true,
+        "group": "hot-23"
+      },
+      {
+        "word": "migratory",
+        "pos": "adj.",
+        "definition": "Relating to seasonal movement from one region to another.",
+        "chinese": "遷徙的;候鳥性的",
+        "synonyms": "evanescent, transient, transitory",
+        "image": "shield",
+        "sentence": "The wetland provides critical habitat for __________ birds.",
+        "translation": "這片濕地為候鳥提供了關鍵的棲息地。",
+        "lookup": {
+          "english": "Relating to seasonal movement from one region to another.",
+          "chinese": "遷徙的;候鳥性的"
+        },
+        "advSentence": "Many migratory workers followed the harvest seasons across the region.",
+        "advTranslation": "許多流動遷徙的工人跟隨這個地區的收成季節四處遷移。",
+        "added": true,
+        "group": "hot-23"
+      },
+      {
+        "word": "mutable",
+        "pos": "adj.",
+        "definition": "Able to change.",
+        "chinese": "可變的/易變的",
+        "synonyms": "evanescent, transient, transitory",
+        "image": "shield",
+        "sentence": "Human memory is far more __________ than most people realize.",
+        "translation": "人類的記憶遠比大多數人所意識到的更容易改變。",
+        "lookup": {
+          "english": "Able to change.",
+          "chinese": "可變的/易變的"
+        },
+        "advSentence": "Laws are mutable, adapting over time to reflect society's changing values.",
+        "advTranslation": "法律是可變的,隨著時間演變以反映社會不斷變化的價值觀。",
+        "added": true,
+        "group": "hot-23"
       }
     ],
     "quiz": [
@@ -366,6 +456,11 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "volatile"
       }
+    ],
+    "group": "hot-23",
+    "antonymLessons": [
+      24,
+      60
     ]
   }
 };
@@ -406,5 +501,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "volatile": [
     "Liable to change rapidly and unpredictably.",
     "易變的；不穩定的；揮發性的"
+  ],
+  "fugacious": [
+    "Tending to disappear quickly; fleeting.",
+    "短暫的;易逝的"
+  ],
+  "vagrant": [
+    "A person without a settled home or job; wandering.",
+    "流浪者;漂泊的"
+  ],
+  "vagabond": [
+    "A person who wanders without a fixed home; wandering.",
+    "流浪漢;流浪的"
+  ],
+  "migratory": [
+    "Relating to seasonal movement from one region to another.",
+    "遷徙的;候鳥性的"
+  ],
+  "mutable": [
+    "Able to change.",
+    "可變的/易變的"
   ]
 });

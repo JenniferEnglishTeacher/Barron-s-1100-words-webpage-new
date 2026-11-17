@@ -195,6 +195,258 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Once the budget talks collapsed over the contentious issue of taxation, the rancorous debate between the two parties degenerated into a polemical shouting match, and the negotiator, normally affable and patient, finally abandoned his efforts to appease either side.",
         "advTranslation": "預算協商因具爭議性的稅收問題破裂後，兩黨之間積怨已深的辯論淪為一場充滿論戰火藥味的叫罵，而那位平時和藹又有耐心的協調者，最終也放棄了安撫任何一方的努力。"
+      },
+      {
+        "word": "vicious",
+        "pos": "adj.",
+        "definition": "Deliberately cruel or violent.",
+        "chinese": "凶惡的;惡毒的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The dog was labeled __________ after several unprovoked attacks.",
+        "translation": "這隻狗在數次無端攻擊事件後被貼上了凶惡的標籤。",
+        "lookup": {
+          "english": "Deliberately cruel or violent.",
+          "chinese": "凶惡的;惡毒的"
+        },
+        "advSentence": "She endured a vicious smear campaign during the election.",
+        "advTranslation": "她在這場選舉中承受了一場惡毒的抹黑行動。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "noxious",
+        "pos": "adj.",
+        "definition": "Harmful, poisonous, or very unpleasant.",
+        "chinese": "有害的/有毒的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The __________ fumes from the factory polluted the air in the nearby town.",
+        "translation": "這座工廠排放的有毒煙霧污染了附近城鎮的空氣。",
+        "lookup": {
+          "english": "Harmful, poisonous, or very unpleasant.",
+          "chinese": "有害的/有毒的"
+        },
+        "advSentence": "Workers wore masks to avoid inhaling the noxious gas.",
+        "advTranslation": "工人們戴上口罩,以避免吸入這種有害氣體。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "baleful",
+        "pos": "adj.",
+        "definition": "Threatening harm; menacing.",
+        "chinese": "凶惡的;不祥的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The old house had a __________ presence that kept trick-or-treaters away.",
+        "translation": "這棟老房子散發著一股不祥的氣息,讓萬聖節討糖的孩子都不敢靠近。",
+        "lookup": {
+          "english": "Threatening harm; menacing.",
+          "chinese": "凶惡的;不祥的"
+        },
+        "advSentence": "He shot a baleful glance at the man who had crossed him.",
+        "advTranslation": "他朝那個冒犯他的人投以凶狠的一瞥。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "malevolent",
+        "pos": "adj.",
+        "definition": "Having or showing a desire to cause evil or harm.",
+        "chinese": "惡意的；狠毒的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "A __________ spirit haunted the old manor and terrified every visitor.",
+        "translation": "一個惡毒的靈體出沒於老莊園，驚嚇每位訪客。",
+        "lookup": {
+          "english": "Having or showing a desire to cause evil or harm.",
+          "chinese": "惡意的；狠毒的"
+        },
+        "advSentence": "Rival executives organized a malevolent campaign to destroy the CEO's reputation.",
+        "advTranslation": "競爭對手高層策劃惡意行動，企圖毀掉執行長的名譽。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "malignant",
+        "pos": "adj.",
+        "definition": "Dangerous, deadly, or likely to invade healthy tissue and spread uncontrollably.",
+        "chinese": "惡性的；致命的；極具危害的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The biopsy confirmed that the tumor was __________ and required immediate treatment.",
+        "translation": "活體檢查證實腫瘤為惡性，需要立即治療。",
+        "lookup": {
+          "english": "Dangerous, deadly, or likely to invade healthy tissue and spread uncontrollably.",
+          "chinese": "惡性的；致命的；極具危害的"
+        },
+        "advSentence": "The dictator's malignant ideology destroyed individual freedom and fueled unrest.",
+        "advTranslation": "獨裁者極具危害的思想毀掉個人自由並引發動盪。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "sinister",
+        "pos": "adj.",
+        "definition": "Evil, ominous.",
+        "chinese": "邪惡的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "There was something __________ about the way he smiled before leaving the room.",
+        "translation": "他離開房間前的那個笑容帶著一絲邪惡的意味。",
+        "lookup": {
+          "english": "Evil, ominous.",
+          "chinese": "邪惡的"
+        },
+        "advSentence": "The old mansion had a sinister reputation among the townspeople.",
+        "advTranslation": "這座古老的宅邸在鎮民間有著邪惡不祥的名聲。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "lethal",
+        "pos": "adj.",
+        "definition": "Deadly.",
+        "chinese": "致命的/致死的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The snake's bite delivers a __________ dose of venom within seconds.",
+        "translation": "這種蛇的咬傷會在幾秒內注入致命劑量的毒液。",
+        "lookup": {
+          "english": "Deadly.",
+          "chinese": "致命的/致死的"
+        },
+        "advSentence": "Police recovered a lethal weapon at the crime scene.",
+        "advTranslation": "警方在犯罪現場找到了一件致命的武器。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "toxic",
+        "pos": "adj.",
+        "definition": "Poisonous; harmful.",
+        "chinese": "有毒的;有害的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The factory was fined for dumping __________ waste into the river.",
+        "translation": "這家工廠因將有毒廢棄物傾倒入這條河流而遭到罰款。",
+        "lookup": {
+          "english": "Poisonous; harmful.",
+          "chinese": "有毒的;有害的"
+        },
+        "advSentence": "The workplace became increasingly toxic under the new management.",
+        "advTranslation": "在新任管理層領導下,這個職場環境變得越來越有害。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "insidious",
+        "pos": "adj.",
+        "definition": "Sly, seductive, treacherous.",
+        "chinese": "陰險的/潛伏的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The disease's __________ symptoms went unnoticed for years.",
+        "translation": "這種疾病潛伏隱匿的症狀多年來都未被察覺。",
+        "lookup": {
+          "english": "Sly, seductive, treacherous.",
+          "chinese": "陰險的/潛伏的"
+        },
+        "advSentence": "Corruption can spread through an organization in insidious ways.",
+        "advTranslation": "貪腐可能會以陰險潛伏的方式蔓延整個組織。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "maleficent",
+        "pos": "adj.",
+        "definition": "Causing harm or evil.",
+        "chinese": "有害的;邪惡的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The story's __________ sorceress cursed the entire kingdom.",
+        "translation": "這個故事裡邪惡的女巫詛咒了整個王國。",
+        "lookup": {
+          "english": "Causing harm or evil.",
+          "chinese": "有害的;邪惡的"
+        },
+        "advSentence": "They blamed the maleficent spirit for the string of misfortunes.",
+        "advTranslation": "他們將這一連串的厄運歸咎於這個邪惡的靈體。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "malefactor",
+        "pos": "n.",
+        "definition": "A person who commits a crime or other wrong; an evildoer.",
+        "chinese": "罪犯；作惡者；歹徒",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The detective gathered every guest to expose the hidden __________.",
+        "translation": "偵探召集所有賓客，揭露隱藏的作惡者。",
+        "lookup": {
+          "english": "A person who commits a crime or other wrong; an evildoer.",
+          "chinese": "罪犯；作惡者；歹徒"
+        },
+        "advSentence": "The names of notorious malefactor were posted at the village gate.",
+        "advTranslation": "臭名昭彰的罪犯姓名被張貼在村莊大門。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "depraved",
+        "pos": "adj.",
+        "definition": "Morally corrupt; wicked.",
+        "chinese": "墮落的;邪惡的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The novel's __________ villain shows no remorse.",
+        "translation": "這本小說裡墮落邪惡的反派毫無悔意。",
+        "lookup": {
+          "english": "Morally corrupt; wicked.",
+          "chinese": "墮落的;邪惡的"
+        },
+        "advSentence": "The court called his crimes shockingly depraved .",
+        "advTranslation": "法庭稱他的罪行極其邪惡令人震驚。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "heinous",
+        "pos": "adj.",
+        "definition": "Hatefully evil.",
+        "chinese": "十惡不赦的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The court sentenced him for committing a __________ crime.",
+        "translation": "法院因他犯下十惡不赦的罪行而判他入獄。",
+        "lookup": {
+          "english": "Hatefully evil.",
+          "chinese": "十惡不赦的"
+        },
+        "advSentence": "It was a heinous act of betrayal that no one could forgive.",
+        "advTranslation": "那是一次令人髮指的背叛行為,沒有人能夠原諒。",
+        "added": true,
+        "group": "hot-11"
+      },
+      {
+        "word": "flagitious",
+        "pos": "adj.",
+        "definition": "Criminal, villainous, or shockingly wicked.",
+        "chinese": "窮凶極惡的;十惡不赦的",
+        "synonyms": "detrimental, devious, iniquitous",
+        "image": "shield",
+        "sentence": "The tyrant's __________ crimes shocked the entire world.",
+        "translation": "這位暴君窮凶極惡的罪行震驚了全世界。",
+        "lookup": {
+          "english": "Criminal, villainous, or shockingly wicked.",
+          "chinese": "窮凶極惡的;十惡不赦的"
+        },
+        "advSentence": "Historians documented the regime's flagitious abuses of power.",
+        "advTranslation": "歷史學家記錄了這個政權十惡不赦的權力濫用。",
+        "added": true,
+        "group": "hot-11"
       }
     ],
     "quiz": [
@@ -486,6 +738,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "rancorous"
       }
+    ],
+    "group": "hot-11",
+    "antonymLessons": [
+      5
     ]
   }
 };
@@ -538,5 +794,61 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "rancorous": [
     "Marked by deep, long-lasting bitterness and resentment.",
     "積怨很深的；充滿怨恨的"
+  ],
+  "vicious": [
+    "Deliberately cruel or violent.",
+    "凶惡的;惡毒的"
+  ],
+  "noxious": [
+    "Harmful, poisonous, or very unpleasant.",
+    "有害的/有毒的"
+  ],
+  "baleful": [
+    "Threatening harm; menacing.",
+    "凶惡的;不祥的"
+  ],
+  "malevolent": [
+    "Having or showing a desire to cause evil or harm.",
+    "惡意的；狠毒的"
+  ],
+  "malignant": [
+    "Dangerous, deadly, or likely to invade healthy tissue and spread uncontrollably.",
+    "惡性的；致命的；極具危害的"
+  ],
+  "sinister": [
+    "Evil, ominous.",
+    "邪惡的"
+  ],
+  "lethal": [
+    "Deadly.",
+    "致命的/致死的"
+  ],
+  "toxic": [
+    "Poisonous; harmful.",
+    "有毒的;有害的"
+  ],
+  "insidious": [
+    "Sly, seductive, treacherous.",
+    "陰險的/潛伏的"
+  ],
+  "maleficent": [
+    "Causing harm or evil.",
+    "有害的;邪惡的"
+  ],
+  "malefactor": [
+    "A person who commits a crime or other wrong; an evildoer.",
+    "罪犯；作惡者；歹徒"
+  ],
+  "depraved": [
+    "Morally corrupt; wicked.",
+    "墮落的;邪惡的"
+  ],
+  "heinous": [
+    "Hatefully evil.",
+    "十惡不赦的"
+  ],
+  "flagitious": [
+    "Criminal, villainous, or shockingly wicked.",
+    "窮凶極惡的;十惡不赦的"
   ]
 });

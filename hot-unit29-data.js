@@ -446,7 +446,9 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "atheistic"
       }
-    ]
+    ],
+    "group": "hot-29",
+    "antonymLessons": []
   }
 };
 

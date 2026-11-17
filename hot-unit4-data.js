@@ -179,6 +179,222 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The teacher praised the student's essay for avoiding trite conclusions, noting that its incisive analysis, astute observations, and judicious use of evidence made it far more compelling than the banal summaries most classmates submitted.",
         "advTranslation": "老師稱讚這名學生的文章避開了老套的結論，指出它犀利的分析、精闢的觀察和對證據明智的運用，使它遠比大多數同學交出的平庸摘要更具說服力。"
+      },
+      {
+        "word": "commonplace",
+        "pos": "adj./n.",
+        "definition": "Ordinary and unremarkable; a common occurrence or saying.",
+        "chinese": "平凡的;常見的事",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "Smartphones have become so __________ that few people remember life without them.",
+        "translation": "智慧型手機已變得如此普遍,少有人還記得沒有它的生活。",
+        "lookup": {
+          "english": "Ordinary and unremarkable; a common occurrence or saying.",
+          "chinese": "平凡的;常見的事"
+        },
+        "advSentence": "\"Practice makes perfect\" has become something of a commonplace phrase.",
+        "advTranslation": "「熟能生巧」已經成了一句相當常見的說法。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "humdrum",
+        "pos": "adj.",
+        "definition": "Lacking excitement or variety; dull.",
+        "chinese": "單調乏味的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "She grew tired of her __________ daily routine.",
+        "translation": "她對自己單調乏味的日常生活感到厭倦。",
+        "lookup": {
+          "english": "Lacking excitement or variety; dull.",
+          "chinese": "單調乏味的"
+        },
+        "advSentence": "The film turned an otherwise humdrum story into something magical.",
+        "advTranslation": "這部電影將一個原本平淡無奇的故事轉化成充滿魔力的作品。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n.",
+        "definition": "A person who travels by foot.",
+        "chinese": "行人",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The new crosswalk was installed to improve safety for __________s.",
+        "translation": "這座新的斑馬線是為了提升行人的安全而設置的。",
+        "lookup": {
+          "english": "A person who travels by foot.",
+          "chinese": "行人"
+        },
+        "advSentence": "Drivers must always yield to pedestrians at marked crossings.",
+        "advTranslation": "駕駛人在標示的行人穿越道上必須永遠禮讓行人。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "bland",
+        "pos": "adj.",
+        "definition": "Lacking strong flavor, interest, or character.",
+        "chinese": "乏味的;平淡的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The hospital cafeteria served the same __________ menu every single day.",
+        "translation": "醫院的自助餐廳每天都供應同樣乏味的菜單。",
+        "lookup": {
+          "english": "Lacking strong flavor, interest, or character.",
+          "chinese": "乏味的;平淡的"
+        },
+        "advSentence": "Critics called the sequel a bland imitation of the original film.",
+        "advTranslation": "評論家批評這部續集是原版電影平淡無味的模仿。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "tedious",
+        "pos": "adj.",
+        "definition": "Too long, slow, or dull; tiresome and monotonous.",
+        "chinese": "冗長乏味的；單調沉悶的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "Entering handwritten financial records into the electronic database turned out to be a extremely __________ task.",
+        "translation": "將手寫的財務記錄輸入電子資料庫，結果證明是一項極其「冗長乏味的（單調沉悶的）」工作。",
+        "lookup": {
+          "english": "Too long, slow, or dull; tiresome and monotonous.",
+          "chinese": "冗長乏味的；單調沉悶的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "monotonous",
+        "pos": "adj.",
+        "definition": "Dull, repetitive, and lacking variety.",
+        "chinese": "單調的;乏味的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The factory job quickly became __________ and exhausting.",
+        "translation": "這份工廠工作很快就變得單調又疲累。",
+        "lookup": {
+          "english": "Dull, repetitive, and lacking variety.",
+          "chinese": "單調的;乏味的"
+        },
+        "advSentence": "His monotonous lecture put half the class to sleep.",
+        "advTranslation": "他單調乏味的講課讓班上一半的學生都睡著了。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "stale",
+        "pos": "adj.",
+        "definition": "No longer fresh; overused and uninteresting.",
+        "chinese": "不新鮮的;陳腐的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The bread had gone __________ after sitting out overnight.",
+        "translation": "這條麵包放了一整夜後已經不新鮮了。",
+        "lookup": {
+          "english": "No longer fresh; overused and uninteresting.",
+          "chinese": "不新鮮的;陳腐的"
+        },
+        "advSentence": "Critics found the sequel's jokes stale and repetitive.",
+        "advTranslation": "評論家認為這部續集的笑話陳腐又重複。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "stereotyped",
+        "pos": "adj.",
+        "definition": "Conforming to an oversimplified, standardized conception.",
+        "chinese": "刻板印象化的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The film was criticized for its __________ portrayal of the characters.",
+        "translation": "這部電影因對角色進行刻板印象化的描繪而受到批評。",
+        "lookup": {
+          "english": "Conforming to an oversimplified, standardized conception.",
+          "chinese": "刻板印象化的"
+        },
+        "advSentence": "She refused to accept stereotyped notions about her generation.",
+        "advTranslation": "她拒絕接受對她這一代人刻板印象化的觀念。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "threadbare",
+        "pos": "adj.",
+        "definition": "Worn thin from use; overused and unconvincing.",
+        "chinese": "破舊的;老套的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "He wore a __________ sweater that had seen better days.",
+        "translation": "他穿著一件已經破舊不堪、曾經風光一時的毛衣。",
+        "lookup": {
+          "english": "Worn thin from use; overused and unconvincing.",
+          "chinese": "破舊的;老套的"
+        },
+        "advSentence": "The defense lawyer's threadbare argument failed to sway the jury.",
+        "advTranslation": "這位辯護律師老套的論點未能說服陪審團。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "bromide",
+        "pos": "n.",
+        "definition": "A trite or obvious remark.",
+        "chinese": "陳腔濫調",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "The politician's speech was full of tired __________s about hard work and family values.",
+        "translation": "這位政治人物的演說充滿了關於努力工作和家庭價值的陳腔濫調。",
+        "lookup": {
+          "english": "A trite or obvious remark.",
+          "chinese": "陳腔濫調"
+        },
+        "advSentence": "Instead of real advice, he offered only empty bromides.",
+        "advTranslation": "他沒有提供真正的建議,只給了些空洞的陳腔濫調。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "jejune",
+        "pos": "adj.",
+        "definition": "Naive, simplistic, or superficial; lacking nutritional value.",
+        "chinese": "幼稚的;貧乏的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "Critics dismissed the script as __________ and predictable.",
+        "translation": "評論家批評這份劇本幼稚且老套。",
+        "lookup": {
+          "english": "Naive, simplistic, or superficial; lacking nutritional value.",
+          "chinese": "幼稚的;貧乏的"
+        },
+        "advSentence": "His jejune understanding of economics led to poor decisions.",
+        "advTranslation": "他對經濟學貧乏膚淺的理解導致了糟糕的決策。",
+        "added": true,
+        "group": "hot-04"
+      },
+      {
+        "word": "uninspired",
+        "pos": "adj.",
+        "definition": "Lacking creativity, originality, or enthusiasm.",
+        "chinese": "缺乏靈感的;平庸的",
+        "synonyms": "derivative, insipid, lackluster",
+        "image": "shield",
+        "sentence": "Critics called the sequel __________ and derivative of the original.",
+        "translation": "評論家認為這部續集缺乏靈感,只是原作的翻版。",
+        "lookup": {
+          "english": "Lacking creativity, originality, or enthusiasm.",
+          "chinese": "缺乏靈感的;平庸的"
+        },
+        "advSentence": "The team delivered an uninspired performance in the second half.",
+        "advTranslation": "這支隊伍在下半場的表現顯得平庸乏味。",
+        "added": true,
+        "group": "hot-04"
       }
     ],
     "quiz": [
@@ -446,6 +662,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "trite"
       }
+    ],
+    "group": "hot-04",
+    "antonymLessons": [
+      28
     ]
   }
 };
@@ -494,5 +714,53 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "trite": [
     "Overused and consequently of little importance; stale.",
     "陳腐的；老套的"
+  ],
+  "commonplace": [
+    "Ordinary and unremarkable; a common occurrence or saying.",
+    "平凡的;常見的事"
+  ],
+  "humdrum": [
+    "Lacking excitement or variety; dull.",
+    "單調乏味的"
+  ],
+  "pedestrian": [
+    "A person who travels by foot.",
+    "行人"
+  ],
+  "bland": [
+    "Lacking strong flavor, interest, or character.",
+    "乏味的;平淡的"
+  ],
+  "tedious": [
+    "Too long, slow, or dull; tiresome and monotonous.",
+    "冗長乏味的；單調沉悶的"
+  ],
+  "monotonous": [
+    "Dull, repetitive, and lacking variety.",
+    "單調的;乏味的"
+  ],
+  "stale": [
+    "No longer fresh; overused and uninteresting.",
+    "不新鮮的;陳腐的"
+  ],
+  "stereotyped": [
+    "Conforming to an oversimplified, standardized conception.",
+    "刻板印象化的"
+  ],
+  "threadbare": [
+    "Worn thin from use; overused and unconvincing.",
+    "破舊的;老套的"
+  ],
+  "bromide": [
+    "A trite or obvious remark.",
+    "陳腔濫調"
+  ],
+  "jejune": [
+    "Naive, simplistic, or superficial; lacking nutritional value.",
+    "幼稚的;貧乏的"
+  ],
+  "uninspired": [
+    "Lacking creativity, originality, or enthusiasm.",
+    "缺乏靈感的;平庸的"
   ]
 });

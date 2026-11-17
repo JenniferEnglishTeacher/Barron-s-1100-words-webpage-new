@@ -179,6 +179,132 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Amid the turmoil of the election, the candidate tried to pacify voters with mundane promises about road repairs, but his rivals' pugnacious attacks and the voluble protests in the streets drowned out his message.",
         "advTranslation": "在選舉的一片混亂中，這位候選人試圖用修路之類平凡無奇的承諾來安撫選民，但對手好鬥的攻擊以及街頭喧嚷不休的抗議聲，完全淹沒了他的訴求。"
+      },
+      {
+        "word": "dilemma",
+        "pos": "n.",
+        "definition": "A situation requiring a choice between equally undesirable options.",
+        "chinese": "困境;兩難",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "She faced a moral __________ over whether to report her friend.",
+        "translation": "她面臨一個道德困境,不知該不該舉報她的朋友。",
+        "lookup": {
+          "english": "A situation requiring a choice between equally undesirable options.",
+          "chinese": "困境;兩難"
+        },
+        "advSentence": "The company's dilemma was choosing between profit and ethics.",
+        "advTranslation": "這家公司陷入了在利潤與道德之間抉擇的兩難。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "plight",
+        "pos": "n.",
+        "definition": "Predicament, dangerous situation.",
+        "chinese": "困境/苦境",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "The documentary raises awareness about the __________ of refugees worldwide.",
+        "translation": "這部紀錄片提高了大眾對全球難民困境的關注。",
+        "lookup": {
+          "english": "Predicament, dangerous situation.",
+          "chinese": "困境/苦境"
+        },
+        "advSentence": "Local farmers described their plight after years of drought.",
+        "advTranslation": "當地農民描述了他們在多年乾旱後所面臨的困境。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "predicament",
+        "pos": "n.",
+        "definition": "A difficult, unpleasant, or embarrassing situation.",
+        "chinese": "困境;窘境",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "He found himself in quite a __________ after losing his passport abroad.",
+        "translation": "他在國外弄丟護照後陷入了相當棘手的困境。",
+        "lookup": {
+          "english": "A difficult, unpleasant, or embarrassing situation.",
+          "chinese": "困境;窘境"
+        },
+        "advSentence": "The team faced a serious predicament with only one player left uninjured.",
+        "advTranslation": "這支隊伍面臨嚴重的困境,只剩下一名球員未受傷。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "maelstrom",
+        "pos": "n.",
+        "definition": "A destructive whirlpool which rapidly sucks in objects.",
+        "chinese": "大漩渦/混亂局面",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "The sailors steered desperately to avoid the deadly __________.",
+        "translation": "水手們拼命操舵,試圖躲避這個致命的大漩渦。",
+        "lookup": {
+          "english": "A destructive whirlpool which rapidly sucks in objects.",
+          "chinese": "大漩渦/混亂局面"
+        },
+        "advSentence": "The scandal plunged the entire administration into a political maelstrom.",
+        "advTranslation": "這起醜聞讓整個政府陷入一場政治風暴的漩渦之中。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "chaos",
+        "pos": "n.",
+        "definition": "Absolute disorder.",
+        "chinese": "混亂/混沌",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "The power outage plunged the entire office into __________.",
+        "translation": "這場停電讓整間辦公室陷入一片混亂。",
+        "lookup": {
+          "english": "Absolute disorder.",
+          "chinese": "混亂/混沌"
+        },
+        "advSentence": "Without a clear leader, the meeting quickly descended into chaos.",
+        "advTranslation": "由於沒有明確的主持人,這場會議很快就陷入混亂。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "morass",
+        "pos": "n.",
+        "definition": "A wet swampy bog; something that traps and confuses.",
+        "chinese": "沼澤/困境",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "The soldiers became stuck in a __________ during the retreat.",
+        "translation": "士兵們在撤退途中陷入了一片沼澤地。",
+        "lookup": {
+          "english": "A wet swampy bog; something that traps and confuses.",
+          "chinese": "沼澤/困境"
+        },
+        "advSentence": "The company found itself in a legal morass after the merger fell through.",
+        "advTranslation": "這場併購案破局後,這家公司陷入了一場法律糾紛的泥沼。",
+        "added": true,
+        "group": "hot-10"
+      },
+      {
+        "word": "imbroglio",
+        "pos": "n.",
+        "definition": "A confusing and complicated situation.",
+        "chinese": "糾紛;複雜局面",
+        "synonyms": "adversity, conflagration, confounding",
+        "image": "shield",
+        "sentence": "The company was caught in a legal __________ over patent rights.",
+        "translation": "這家公司陷入了一場關於專利權的法律糾紛。",
+        "lookup": {
+          "english": "A confusing and complicated situation.",
+          "chinese": "糾紛;複雜局面"
+        },
+        "advSentence": "Their romantic imbroglio became the talk of the town.",
+        "advTranslation": "他們複雜的感情糾紛成了鎮上熱議的話題。",
+        "added": true,
+        "group": "hot-10"
       }
     ],
     "quiz": [
@@ -446,7 +572,9 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "turmoil"
       }
-    ]
+    ],
+    "group": "hot-10",
+    "antonymLessons": []
   }
 };
 
@@ -494,5 +622,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "turmoil": [
     "A state of great confusion, disturbance, or uncertainty.",
     "混亂；騷動"
+  ],
+  "dilemma": [
+    "A situation requiring a choice between equally undesirable options.",
+    "困境;兩難"
+  ],
+  "plight": [
+    "Predicament, dangerous situation.",
+    "困境/苦境"
+  ],
+  "predicament": [
+    "A difficult, unpleasant, or embarrassing situation.",
+    "困境;窘境"
+  ],
+  "maelstrom": [
+    "A destructive whirlpool which rapidly sucks in objects.",
+    "大漩渦/混亂局面"
+  ],
+  "chaos": [
+    "Absolute disorder.",
+    "混亂/混沌"
+  ],
+  "morass": [
+    "A wet swampy bog; something that traps and confuses.",
+    "沼澤/困境"
+  ],
+  "imbroglio": [
+    "A confusing and complicated situation.",
+    "糾紛;複雜局面"
   ]
 });

@@ -446,6 +446,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "antiquity"
       }
+    ],
+    "group": "hot-24",
+    "antonymLessons": [
+      23
     ]
   }
 };

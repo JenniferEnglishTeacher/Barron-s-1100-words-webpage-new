@@ -99,6 +99,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Even with ample and reliable funding from private donors, the project faltered under an apathetic manager whose lethargic leadership and indifferent attitude toward deadlines turned a promising initiative into a debacle.",
         "advTranslation": "即使有私人捐款者提供的充裕資金，這項計畫仍在一位冷漠的經理手下停滯不前；他萎靡的領導和對期限漠不關心的態度，讓一個前景看好的計畫淪為一場慘敗。"
+      },
+      {
+        "word": "teeming",
+        "pos": "adj.",
+        "definition": "Full of or swarming with something.",
+        "chinese": "充滿的;熙攘的",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The market was __________ with vendors selling fresh produce.",
+        "translation": "這座市場擠滿了販售新鮮農產品的攤商。",
+        "lookup": {
+          "english": "Full of or swarming with something.",
+          "chinese": "充滿的;熙攘的"
+        },
+        "advSentence": "The coral reef was teeming with colorful fish.",
+        "advTranslation": "這片珊瑚礁裡充滿了色彩繽紛的魚群。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "prolific",
+        "pos": "adj.",
+        "definition": "Producing abundantly.",
+        "chinese": "多產的/多產作家的",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The author was remarkably __________, publishing nearly a book a year.",
+        "translation": "這位作家異常多產,幾乎每年都出版一本書。",
+        "lookup": {
+          "english": "Producing abundantly.",
+          "chinese": "多產的/多產作家的"
+        },
+        "advSentence": "This variety of apple tree is especially prolific, yielding hundreds of fruits each season.",
+        "advTranslation": "這種蘋果樹品種格外多產,每季能結出數百顆果實。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "abounding",
+        "pos": "adj.",
+        "definition": "Existing in large numbers or amounts.",
+        "chinese": "大量存在的;豐富的",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The garden, __________ with roses, filled the whole street with fragrance.",
+        "translation": "這座玫瑰盛開的花園,讓整條街都瀰漫著香氣。",
+        "lookup": {
+          "english": "Existing in large numbers or amounts.",
+          "chinese": "大量存在的;豐富的"
+        },
+        "advSentence": "Opportunities were abounding for graduates with strong data skills.",
+        "advTranslation": "對具備優秀數據能力的畢業生來說,機會俯拾皆是。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "superabundance",
+        "pos": "n.",
+        "definition": "An excessive amount of something.",
+        "chinese": "過剩;過量",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The harvest produced a __________ of fresh vegetables that year.",
+        "translation": "那一年的收成產出了過剩的新鮮蔬菜。",
+        "lookup": {
+          "english": "An excessive amount of something.",
+          "chinese": "過剩;過量"
+        },
+        "advSentence": "A superabundance of choices left the shopper feeling overwhelmed.",
+        "advTranslation": "過量的選擇讓這位購物者感到不知所措。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "plenitude",
+        "pos": "n.",
+        "definition": "An abundance.",
+        "chinese": "豐富/充裕",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The harvest festival celebrated the __________ of the autumn crops.",
+        "translation": "這場豐收節慶祝著秋季作物的豐盛。",
+        "lookup": {
+          "english": "An abundance.",
+          "chinese": "豐富/充裕"
+        },
+        "advSentence": "He spoke with the wisdom that comes from a plenitude of life experience.",
+        "advTranslation": "他說話帶著源自豐富人生閱歷的智慧。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "exorbitant",
+        "pos": "adj.",
+        "definition": "Excessive.",
+        "chinese": "過度的/離譜的",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "Tourists were shocked by the __________ prices charged near the landmark.",
+        "translation": "遊客對這座地標附近離譜的高價感到震驚。",
+        "lookup": {
+          "english": "Excessive.",
+          "chinese": "過度的/離譜的"
+        },
+        "advSentence": "The lawyer's exorbitant fees forced the family to seek a different attorney.",
+        "advTranslation": "這位律師收費過高,迫使這個家庭尋找另一位律師。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "glut",
+        "pos": "n./v.",
+        "definition": "An excessive supply of something; to fill to excess.",
+        "chinese": "供過於求;塞滿",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "A __________ of oil on the market caused prices to fall.",
+        "translation": "市場上石油供過於求導致價格下跌。",
+        "lookup": {
+          "english": "An excessive supply of something; to fill to excess.",
+          "chinese": "供過於求;塞滿"
+        },
+        "advSentence": "He would glut himself on desserts every holiday.",
+        "advTranslation": "他每逢節日都會大吃甜點吃到撐。",
+        "added": true,
+        "group": "hot-20"
+      },
+      {
+        "word": "cornucopia",
+        "pos": "n.",
+        "definition": "An abundant supply of good things.",
+        "chinese": "豐饒之角;豐富多樣",
+        "synonyms": "surfeit, profuse, plethora",
+        "image": "shield",
+        "sentence": "The market offered a __________ of fresh fruits and vegetables.",
+        "translation": "這座市場提供了豐富多樣的新鮮蔬果。",
+        "lookup": {
+          "english": "An abundant supply of good things.",
+          "chinese": "豐饒之角;豐富多樣"
+        },
+        "advSentence": "Her bookshelf was a cornucopia of rare first editions.",
+        "advTranslation": "她的書架上擺滿了各式珍貴的初版書。",
+        "added": true,
+        "group": "hot-20"
       }
     ],
     "quiz": [
@@ -246,6 +390,10 @@ window.FLASHCARD_UNITS = {
         "answer": "B",
         "answerWord": "ample"
       }
+    ],
+    "group": "hot-20",
+    "antonymLessons": [
+      9
     ]
   }
 };
@@ -274,5 +422,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ample": [
     "Enough or more than enough; plentiful.",
     "充裕的；足夠的"
+  ],
+  "teeming": [
+    "Full of or swarming with something.",
+    "充滿的;熙攘的"
+  ],
+  "prolific": [
+    "Producing abundantly.",
+    "多產的/多產作家的"
+  ],
+  "abounding": [
+    "Existing in large numbers or amounts.",
+    "大量存在的;豐富的"
+  ],
+  "superabundance": [
+    "An excessive amount of something.",
+    "過剩;過量"
+  ],
+  "plenitude": [
+    "An abundance.",
+    "豐富/充裕"
+  ],
+  "exorbitant": [
+    "Excessive.",
+    "過度的/離譜的"
+  ],
+  "glut": [
+    "An excessive supply of something; to fill to excess.",
+    "供過於求;塞滿"
+  ],
+  "cornucopia": [
+    "An abundant supply of good things.",
+    "豐饒之角;豐富多樣"
   ]
 });

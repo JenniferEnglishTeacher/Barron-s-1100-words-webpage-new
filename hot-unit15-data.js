@@ -163,6 +163,114 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The satirist mocked the minister as a toady to wealthy donors, a pretentious figure whose grandiloquent speeches about public service could not disguise his mercenary eagerness to reward those who funded his campaigns.",
         "advTranslation": "這位諷刺作家嘲諷該部長是富裕捐款人的馬屁精，一個裝腔作勢的人物，他那些關於公共服務的浮誇演說，掩蓋不了他急於回報金主的唯利是圖。"
+      },
+      {
+        "word": "obedient",
+        "pos": "adj.",
+        "definition": "Willing to comply with orders or requests.",
+        "chinese": "順從的;聽話的",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "The well-trained dog remained __________ even amid the chaos.",
+        "translation": "這隻訓練有素的狗即使身處混亂之中依然聽話順從。",
+        "lookup": {
+          "english": "Willing to comply with orders or requests.",
+          "chinese": "順從的;聽話的"
+        },
+        "advSentence": "She raised her children to be respectful and obedient .",
+        "advTranslation": "她把孩子教養得既懂得尊重又聽話順從。",
+        "added": true,
+        "group": "hot-15"
+      },
+      {
+        "word": "deferential",
+        "pos": "adj.",
+        "definition": "Showing respect for another's authority.",
+        "chinese": "恭敬的/順從的",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "The young intern remained __________ toward the senior staff at all times.",
+        "translation": "這位年輕實習生始終對資深員工保持恭敬的態度。",
+        "lookup": {
+          "english": "Showing respect for another's authority.",
+          "chinese": "恭敬的/順從的"
+        },
+        "advSentence": "He spoke in a deferential tone whenever addressing his professor.",
+        "advTranslation": "每次和教授說話時,他都用一種恭敬的語氣。",
+        "added": true,
+        "group": "hot-15"
+      },
+      {
+        "word": "groveling",
+        "pos": "adj.",
+        "definition": "Behaving with excessive humility; abject.",
+        "chinese": "卑躬屈膝的",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "His __________ apology fooled no one in the room.",
+        "translation": "他卑躬屈膝的道歉沒有騙過房裡任何一個人。",
+        "lookup": {
+          "english": "Behaving with excessive humility; abject.",
+          "chinese": "卑躬屈膝的"
+        },
+        "advSentence": "She despised his groveling attempts to win favor.",
+        "advTranslation": "她鄙視他卑躬屈膝討好人的企圖。",
+        "added": true,
+        "group": "hot-15"
+      },
+      {
+        "word": "ingratiating",
+        "pos": "adj.",
+        "definition": "Capable of winning favor.",
+        "chinese": "討好的/諂媚的",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "His __________ smile made the customers feel instantly comfortable.",
+        "translation": "他討喜的笑容讓顧客們立刻感到自在。",
+        "lookup": {
+          "english": "Capable of winning favor.",
+          "chinese": "討好的/諂媚的"
+        },
+        "advSentence": "She found his ingratiating compliments a little too obvious to be sincere.",
+        "advTranslation": "她覺得他那些討好的讚美顯得太過刻意,不像是真心的。",
+        "added": true,
+        "group": "hot-15"
+      },
+      {
+        "word": "lackey",
+        "pos": "n.",
+        "definition": "A servile follower or servant.",
+        "chinese": "跟班;走狗",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "The dictator surrounded himself with loyal __________ s.",
+        "translation": "這位獨裁者身邊圍繞著忠心的跟班走狗。",
+        "lookup": {
+          "english": "A servile follower or servant.",
+          "chinese": "跟班;走狗"
+        },
+        "advSentence": "He was mocked for being a corporate lackey with no independent thought.",
+        "advTranslation": "他因毫無獨立思考、只是企業的應聲蟲而遭到嘲笑。",
+        "added": true,
+        "group": "hot-15"
+      },
+      {
+        "word": "minion",
+        "pos": "n.",
+        "definition": "A servile follower or subordinate.",
+        "chinese": "走狗;下屬",
+        "synonyms": "compliant, subservient, submissive",
+        "image": "shield",
+        "sentence": "The villain ordered his __________ s to capture the hero.",
+        "translation": "這位反派命令他的走狗們去抓住這位英雄。",
+        "lookup": {
+          "english": "A servile follower or subordinate.",
+          "chinese": "走狗;下屬"
+        },
+        "advSentence": "He surrounded himself with loyal minion s who never questioned him.",
+        "advTranslation": "他身邊圍繞著從不質疑他的忠實部下。",
+        "added": true,
+        "group": "hot-15"
       }
     ],
     "quiz": [
@@ -406,6 +514,12 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "toady"
       }
+    ],
+    "group": "hot-15",
+    "antonymLessons": [
+      3,
+      17,
+      61
     ]
   }
 };
@@ -450,5 +564,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "toady": [
     "A person who flatters or obeys others to win favor.",
     "馬屁精；奉承者"
+  ],
+  "obedient": [
+    "Willing to comply with orders or requests.",
+    "順從的;聽話的"
+  ],
+  "deferential": [
+    "Showing respect for another's authority.",
+    "恭敬的/順從的"
+  ],
+  "groveling": [
+    "Behaving with excessive humility; abject.",
+    "卑躬屈膝的"
+  ],
+  "ingratiating": [
+    "Capable of winning favor.",
+    "討好的/諂媚的"
+  ],
+  "lackey": [
+    "A servile follower or servant.",
+    "跟班;走狗"
+  ],
+  "minion": [
+    "A servile follower or subordinate.",
+    "走狗;下屬"
   ]
 });

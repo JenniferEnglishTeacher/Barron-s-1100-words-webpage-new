@@ -227,6 +227,204 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The champion swaggered onto the stage with exuberant confidence, but the audience found his vociferous boasts about defeating every adversary rather hackneyed.",
         "advTranslation": "這位冠軍帶著洋溢的自信大搖大擺地走上舞台，但觀眾覺得他大聲誇口打敗所有對手的說法相當陳腐。"
+      },
+      {
+        "word": "overbearing",
+        "pos": "adj.",
+        "definition": "Domineering and unpleasantly controlling.",
+        "chinese": "專橫的;高壓的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "Her __________ mother controlled every decision in her life.",
+        "translation": "她那專橫的母親掌控著她生活中的每一個決定。",
+        "lookup": {
+          "english": "Domineering and unpleasantly controlling.",
+          "chinese": "專橫的;高壓的"
+        },
+        "advSentence": "The team resented their overbearing new manager.",
+        "advTranslation": "這支團隊對他們新來的專橫經理感到不滿。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "snobbish",
+        "pos": "adj.",
+        "definition": "Tending to associate only with people of a similar background.",
+        "chinese": "勢利的/自命清高的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "Her __________ attitude made it hard for her to make friends at the new school.",
+        "translation": "她那勢利的態度讓她在新學校很難交到朋友。",
+        "lookup": {
+          "english": "Tending to associate only with people of a similar background.",
+          "chinese": "勢利的/自命清高的"
+        },
+        "advSentence": "The club had a reputation for being snobbish and exclusive.",
+        "advTranslation": "這間俱樂部以勢利排外而聞名。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "vain",
+        "pos": "adj.",
+        "definition": "Having excessive pride in one's appearance; producing no result.",
+        "chinese": "虛榮的;徒勞的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "He was too __________ to be seen wearing an unfashionable outfit.",
+        "translation": "他太過虛榮,不願被看到穿著不時髦的服裝。",
+        "lookup": {
+          "english": "Having excessive pride in one's appearance; producing no result.",
+          "chinese": "虛榮的;徒勞的"
+        },
+        "advSentence": "Their efforts to save the failing company proved vain .",
+        "advTranslation": "他們試圖挽救這家瀕臨倒閉公司的努力最終證實是徒勞的。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "vainglorious",
+        "pos": "adj.",
+        "definition": "Excessively proud of oneself; boastful.",
+        "chinese": "自負的;自誇的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "The __________ general took credit for victories he barely contributed to.",
+        "translation": "這位自負的將軍把功勞攬在自己身上,儘管他幾乎沒有貢獻。",
+        "lookup": {
+          "english": "Excessively proud of oneself; boastful.",
+          "chinese": "自負的;自誇的"
+        },
+        "advSentence": "Her vainglorious speech alienated many of her former supporters.",
+        "advTranslation": "她那自誇的演說疏遠了她許多昔日的支持者。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "overweening",
+        "pos": "adj.",
+        "definition": "Showing excessive confidence or pride.",
+        "chinese": "自負的;狂妄的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "His __________ ambition alienated even his closest allies.",
+        "translation": "他狂妄的野心甚至疏遠了他最親近的盟友。",
+        "lookup": {
+          "english": "Showing excessive confidence or pride.",
+          "chinese": "自負的;狂妄的"
+        },
+        "advSentence": "The critic mocked the director's overweening self-regard.",
+        "advTranslation": "這位評論家嘲諷這位導演狂妄自負的自我評價。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "pompous",
+        "pos": "adj.",
+        "definition": "Self-important and grandiose in manner.",
+        "chinese": "自負的;浮誇的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "The __________ professor rarely acknowledged any idea but his own.",
+        "translation": "這位自負的教授很少承認除了自己以外的任何想法。",
+        "lookup": {
+          "english": "Self-important and grandiose in manner.",
+          "chinese": "自負的;浮誇的"
+        },
+        "advSentence": "His pompous tone alienated much of the audience.",
+        "advTranslation": "他浮誇的語氣讓大部分的觀眾感到疏離。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "imperious",
+        "pos": "adj.",
+        "definition": "Pressing authority upon others; bossy, commanding, and acting like an absolute ruler (Commanding upon).",
+        "chinese": "專橫的、傲慢的、頤指氣使的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "The staff resented the manager's __________ tone, as she frequently barked commands without offering any explanation.",
+        "translation": "員工們很反感經理那頤指氣使的語氣，因為她經常在不提供任何解釋的情況下大聲發號施令。",
+        "lookup": {
+          "english": "Pressing authority upon others; bossy, commanding, and acting like an absolute ruler (Commanding upon).",
+          "chinese": "專橫的、傲慢的、頤指氣使的"
+        },
+        "advSentence": "With an imperious wave of his hand, the king ordered the guards to remove the protesting diplomats from the room.",
+        "advTranslation": "國王專橫地一揮手，命令警衛將抗議的外交官帶出房間。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "hubris",
+        "pos": "n.",
+        "definition": "Excessive pride or self-confidence.",
+        "chinese": "傲慢;狂妄自大",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "His __________ led him to underestimate his opponents.",
+        "translation": "他的狂妄自大讓他低估了對手。",
+        "lookup": {
+          "english": "Excessive pride or self-confidence.",
+          "chinese": "傲慢;狂妄自大"
+        },
+        "advSentence": "The tragedy explores the fatal consequences of hubris .",
+        "advTranslation": "這齣悲劇探討了傲慢帶來的致命後果。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "condescending",
+        "pos": "adj.",
+        "definition": "Characteristic of those who treat others with arrogance.",
+        "chinese": "居高臨下的/傲慢的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "His __________ tone made the new employees feel unwelcome.",
+        "translation": "他居高臨下的語氣讓新進員工感到不受歡迎。",
+        "lookup": {
+          "english": "Characteristic of those who treat others with arrogance.",
+          "chinese": "居高臨下的/傲慢的"
+        },
+        "advSentence": "She hated being spoken to in such a condescending manner.",
+        "advTranslation": "她很討厭被人用這種高高在上的方式對待。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "grandiose",
+        "pos": "adj.",
+        "definition": "On a magnificent or exaggerated scale.",
+        "chinese": "宏偉的/誇大的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "His __________ plans for the company left investors skeptical.",
+        "translation": "他對公司提出的宏大計畫讓投資人心存懷疑。",
+        "lookup": {
+          "english": "On a magnificent or exaggerated scale.",
+          "chinese": "宏偉的/誇大的"
+        },
+        "advSentence": "The palace's grandiose architecture was designed to impress visiting dignitaries.",
+        "advTranslation": "這座宮殿宏偉的建築設計旨在讓來訪的顯要人物印象深刻。",
+        "added": true,
+        "group": "hot-03"
+      },
+      {
+        "word": "narcissistic",
+        "pos": "adj.",
+        "definition": "Having an excessive interest in or admiration of oneself.",
+        "chinese": "自戀的",
+        "synonyms": "arrogant, contemptuous, complacent",
+        "image": "shield",
+        "sentence": "The __________ actor demanded constant attention from the crew.",
+        "translation": "這位自戀的演員要求劇組工作人員時時刻刻關注他。",
+        "lookup": {
+          "english": "Having an excessive interest in or admiration of oneself.",
+          "chinese": "自戀的"
+        },
+        "advSentence": "Her narcissistic boss took credit for everyone else's work.",
+        "advTranslation": "她那自戀的老闆把每個人的功勞都據為己有。",
+        "added": true,
+        "group": "hot-03"
       }
     ],
     "quiz": [
@@ -566,6 +764,11 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "swagger"
       }
+    ],
+    "group": "hot-03",
+    "antonymLessons": [
+      15,
+      71
     ]
   }
 };
@@ -626,5 +829,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "swagger": [
     "To walk or behave in a boastful, arrogant way.",
     "大搖大擺地走；神氣十足"
+  ],
+  "overbearing": [
+    "Domineering and unpleasantly controlling.",
+    "專橫的;高壓的"
+  ],
+  "snobbish": [
+    "Tending to associate only with people of a similar background.",
+    "勢利的/自命清高的"
+  ],
+  "vain": [
+    "Having excessive pride in one's appearance; producing no result.",
+    "虛榮的;徒勞的"
+  ],
+  "vainglorious": [
+    "Excessively proud of oneself; boastful.",
+    "自負的;自誇的"
+  ],
+  "overweening": [
+    "Showing excessive confidence or pride.",
+    "自負的;狂妄的"
+  ],
+  "pompous": [
+    "Self-important and grandiose in manner.",
+    "自負的;浮誇的"
+  ],
+  "imperious": [
+    "Pressing authority upon others; bossy, commanding, and acting like an absolute ruler (Commanding upon).",
+    "專橫的、傲慢的、頤指氣使的"
+  ],
+  "hubris": [
+    "Excessive pride or self-confidence.",
+    "傲慢;狂妄自大"
+  ],
+  "condescending": [
+    "Characteristic of those who treat others with arrogance.",
+    "居高臨下的/傲慢的"
+  ],
+  "grandiose": [
+    "On a magnificent or exaggerated scale.",
+    "宏偉的/誇大的"
+  ],
+  "narcissistic": [
+    "Having an excessive interest in or admiration of oneself.",
+    "自戀的"
   ]
 });

@@ -147,6 +147,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The taciturn Danish sculptor rarely discussed her work in interviews, yet critics found her aloof demeanor oddly compelling, and her eclectic installations, assembled from obsolete factory machinery, received widespread critical acclaim.",
         "advTranslation": "這位沉默寡言的丹麥雕塑家很少在受訪時談論自己的作品，但評論家覺得她冷漠疏離的態度別具魅力，而她以廢棄工廠機械組裝而成、風格多元的裝置藝術，也廣受評論界讚譽。"
+      },
+      {
+        "word": "curt",
+        "pos": "adj.",
+        "definition": "Abruptly and rudely short.",
+        "chinese": "簡短無禮的/唐突的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "His __________ reply left little room for further discussion.",
+        "translation": "他簡短無禮的回應幾乎不留任何討論的空間。",
+        "lookup": {
+          "english": "Abruptly and rudely short.",
+          "chinese": "簡短無禮的/唐突的"
+        },
+        "advSentence": "She gave a curt nod and walked away without another word.",
+        "advTranslation": "她冷淡地點了點頭,便一言不發地走開了。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "compendious",
+        "pos": "adj.",
+        "definition": "Giving a lot of information in a concise, well-organized way.",
+        "chinese": "簡明扼要的;概括性的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "Her __________ summary covered the entire semester's material in just four pages.",
+        "translation": "她簡明扼要的摘要,只用四頁就涵蓋了整個學期的內容。",
+        "lookup": {
+          "english": "Giving a lot of information in a concise, well-organized way.",
+          "chinese": "簡明扼要的;概括性的"
+        },
+        "advSentence": "The professor recommended a compendious history text rather than the full multivolume set.",
+        "advTranslation": "教授推薦一本簡明的歷史教材,而非整套多冊的巨著。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "aphoristic",
+        "pos": "adj.",
+        "definition": "Expressed in short, memorable phrases.",
+        "chinese": "格言式的;警句般的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "The professor's __________ style made his lectures easy to quote and remember.",
+        "translation": "這位教授格言式的講課風格,讓人容易引用也容易記住。",
+        "lookup": {
+          "english": "Expressed in short, memorable phrases.",
+          "chinese": "格言式的;警句般的"
+        },
+        "advSentence": "Her writing is famously aphoristic , packing whole arguments into single sentences.",
+        "advTranslation": "她的文筆以格言般著稱,能把整個論點濃縮進一句話裡。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "sententious",
+        "pos": "adj.",
+        "definition": "Expressing opinions in a moralizing, pompous, or overly preachy way.",
+        "chinese": "愛說教的；道貌岸然的；誇飾說教的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "The principal's __________ speech offered proverbs instead of practical advice.",
+        "translation": "校長愛說教的演講只有箴言，沒有實用建議。",
+        "lookup": {
+          "english": "Expressing opinions in a moralizing, pompous, or overly preachy way.",
+          "chinese": "愛說教的；道貌岸然的；誇飾說教的"
+        },
+        "advSentence": "I grew tired of the villain's sententious remarks about human nature.",
+        "advTranslation": "我厭倦了反派對人性所發表的道貌岸然說教。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "epigrammatic",
+        "pos": "adj.",
+        "definition": "Concise and witty, in the manner of an epigram.",
+        "chinese": "警句式的;簡潔機智的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "Her __________ style made even complex ideas easy to remember.",
+        "translation": "她簡潔機智的風格讓即使是複雜的想法也容易記住。",
+        "lookup": {
+          "english": "Concise and witty, in the manner of an epigram.",
+          "chinese": "警句式的;簡潔機智的"
+        },
+        "advSentence": "The playwright's dialogue is sharp and epigrammatic .",
+        "advTranslation": "這位劇作家的對白既尖銳又充滿警句式的機智。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "brusque",
+        "pos": "adj.",
+        "definition": "Short, abrupt, dismissive.",
+        "chinese": "唐突的/生硬的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "The manager's __________ reply left the new intern feeling unwelcome.",
+        "translation": "經理生硬的回覆讓這位新實習生感覺不受歡迎。",
+        "lookup": {
+          "english": "Short, abrupt, dismissive.",
+          "chinese": "唐突的/生硬的"
+        },
+        "advSentence": "Despite his brusque manner, he is known to be fiercely loyal to his friends.",
+        "advTranslation": "儘管他態度唐突,大家都知道他對朋友極為忠誠。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "truncated",
+        "pos": "adj.",
+        "definition": "Cut short.",
+        "chinese": "截短的/縮短的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "Due to time constraints, the speaker gave a __________ version of his usual lecture.",
+        "translation": "由於時間限制,講者發表了一場截短版的演講。",
+        "lookup": {
+          "english": "Cut short.",
+          "chinese": "截短的/縮短的"
+        },
+        "advSentence": "The magazine printed a truncated excerpt of the full novel.",
+        "advTranslation": "這本雜誌刊登了整部小說的一段節錄縮短版。",
+        "added": true,
+        "group": "hot-01"
+      },
+      {
+        "word": "elliptical",
+        "pos": "adj.",
+        "definition": "Having the shape of an ellipse; using deliberately brief or indirect expression.",
+        "chinese": "橢圓形的;省略的",
+        "synonyms": "concise, reticent, succinct",
+        "image": "shield",
+        "sentence": "Planets travel in __________ orbits around the sun.",
+        "translation": "行星以橢圓形軌道繞著太陽運行。",
+        "lookup": {
+          "english": "Having the shape of an ellipse; using deliberately brief or indirect expression.",
+          "chinese": "橢圓形的;省略的"
+        },
+        "advSentence": "His elliptical answer left the reporters more confused.",
+        "advTranslation": "他省略含糊的回答讓記者們更加困惑。",
+        "added": true,
+        "group": "hot-01"
       }
     ],
     "quiz": [
@@ -366,6 +510,10 @@ window.FLASHCARD_UNITS = {
         "answer": "B",
         "answerWord": "taciturn"
       }
+    ],
+    "group": "hot-01",
+    "antonymLessons": [
+      2
     ]
   }
 };
@@ -406,5 +554,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "taciturn": [
     "Habitually silent and reserved in speech.",
     "沉默寡言的"
+  ],
+  "curt": [
+    "Abruptly and rudely short.",
+    "簡短無禮的/唐突的"
+  ],
+  "compendious": [
+    "Giving a lot of information in a concise, well-organized way.",
+    "簡明扼要的;概括性的"
+  ],
+  "aphoristic": [
+    "Expressed in short, memorable phrases.",
+    "格言式的;警句般的"
+  ],
+  "sententious": [
+    "Expressing opinions in a moralizing, pompous, or overly preachy way.",
+    "愛說教的；道貌岸然的；誇飾說教的"
+  ],
+  "epigrammatic": [
+    "Concise and witty, in the manner of an epigram.",
+    "警句式的;簡潔機智的"
+  ],
+  "brusque": [
+    "Short, abrupt, dismissive.",
+    "唐突的/生硬的"
+  ],
+  "truncated": [
+    "Cut short.",
+    "截短的/縮短的"
+  ],
+  "elliptical": [
+    "Having the shape of an ellipse; using deliberately brief or indirect expression.",
+    "橢圓形的;省略的"
   ]
 });

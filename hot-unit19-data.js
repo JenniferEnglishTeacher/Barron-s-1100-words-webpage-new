@@ -163,6 +163,204 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Generations of European scholars venerated the ancient philosopher, though modern critics argue that such reverence made academics complacent and strangely indifferent to the banal platitudes buried in his later writings.",
         "advTranslation": "一代又一代的歐洲學者崇敬這位古代哲學家，但現代評論家認為，這樣的崇敬讓學者們變得自滿，對他晚期著作中那些陳腐的老生常談出奇地漠不關心。"
+      },
+      {
+        "word": "glorify",
+        "pos": "v.",
+        "definition": "To praise or honor highly.",
+        "chinese": "讚揚/美化",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The team was __________ for their historic championship win.",
+        "translation": "這支球隊因贏得歷史性的冠軍而備受讚揚。",
+        "lookup": {
+          "english": "To praise or honor highly.",
+          "chinese": "讚揚/美化"
+        },
+        "advSentence": "The film has been criticized for seeming to glorify violence.",
+        "advTranslation": "這部電影因似乎美化暴力行為而受到批評。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "commend",
+        "pos": "v.",
+        "definition": "To praise formally or officially; to recommend.",
+        "chinese": "稱讚;推薦",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The principal __________ed the students for their perfect attendance record.",
+        "translation": "校長表揚了這些出席率完美的學生。",
+        "lookup": {
+          "english": "To praise formally or officially; to recommend.",
+          "chinese": "稱讚;推薦"
+        },
+        "advSentence": "I can commend this restaurant without hesitation to anyone visiting the city.",
+        "advTranslation": "我毫不猶豫地推薦這家餐廳給任何造訪這座城市的人。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "lionize",
+        "pos": "v.",
+        "definition": "To treat someone as a celebrity or an object of great interest.",
+        "chinese": "把……捧為名人",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The press began to __________ the young scientist after her discovery.",
+        "translation": "在這位年輕科學家做出這項發現後,媒體開始把她捧成名人。",
+        "lookup": {
+          "english": "To treat someone as a celebrity or an object of great interest.",
+          "chinese": "把……捧為名人"
+        },
+        "advSentence": "Society tends to lionize athletes while ignoring quieter achievements.",
+        "advTranslation": "社會往往把運動員捧為名人,卻忽略了較低調的成就。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "deify",
+        "pos": "v.",
+        "definition": "To worship or regard as a god.",
+        "chinese": "神化;奉為神明",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "Ancient civilizations often __________ ied their rulers.",
+        "translation": "古代文明常常將他們的統治者神化。",
+        "lookup": {
+          "english": "To worship or regard as a god.",
+          "chinese": "神化;奉為神明"
+        },
+        "advSentence": "The media tends to deify celebrities beyond their true achievements.",
+        "advTranslation": "媒體往往把名人的成就過度神化。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "applaud",
+        "pos": "v.",
+        "definition": "To show approval by clapping; to praise.",
+        "chinese": "鼓掌;讚揚",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The audience stood to __________ the orchestra's flawless performance.",
+        "translation": "觀眾起立鼓掌,讚賞管弦樂團完美無瑕的演出。",
+        "lookup": {
+          "english": "To show approval by clapping; to praise.",
+          "chinese": "鼓掌;讚揚"
+        },
+        "advSentence": "Critics applaud the film's bold approach to a difficult subject.",
+        "advTranslation": "評論家讚揚這部電影對這個艱難主題的大膽處理方式。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "exult",
+        "pos": "v.",
+        "definition": "To rejoice greatly.",
+        "chinese": "歡欣鼓舞/狂喜",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "Fans began to __________ as their team scored the winning goal.",
+        "translation": "當球隊踢進致勝一球時,球迷們開始歡欣鼓舞。",
+        "lookup": {
+          "english": "To rejoice greatly.",
+          "chinese": "歡欣鼓舞/狂喜"
+        },
+        "advSentence": "She could not help but exult over her daughter's acceptance to medical school.",
+        "advTranslation": "她忍不住為女兒被醫學院錄取而欣喜若狂。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "tribute",
+        "pos": "n.",
+        "definition": "An act or statement of respect or gratitude; payment made to acknowledge submission.",
+        "chinese": "致敬;貢品",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The concert served as a moving __________ to the late musician.",
+        "translation": "這場演唱會成為向這位已故音樂家致敬的動人時刻。",
+        "lookup": {
+          "english": "An act or statement of respect or gratitude; payment made to acknowledge submission.",
+          "chinese": "致敬;貢品"
+        },
+        "advSentence": "Conquered kingdoms were often forced to pay tribute to the empire.",
+        "advTranslation": "被征服的王國經常被迫向這個帝國進貢。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "accolade",
+        "pos": "n.",
+        "definition": "High praise, special distinction.",
+        "chinese": "讚譽/殊榮",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The young chef received numerous __________s for her innovative menu.",
+        "translation": "這位年輕主廚因她創新的菜單而獲得無數讚譽。",
+        "lookup": {
+          "english": "High praise, special distinction.",
+          "chinese": "讚譽/殊榮"
+        },
+        "advSentence": "Winning the award was the greatest accolade of his career.",
+        "advTranslation": "贏得這項獎項是他職業生涯中最大的殊榮。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "kudos",
+        "pos": "n.",
+        "definition": "Praise for an achievement.",
+        "chinese": "讚譽/榮耀",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The team received __________ from critics for their innovative design.",
+        "translation": "這支團隊因其創新的設計獲得評論家的讚譽。",
+        "lookup": {
+          "english": "Praise for an achievement.",
+          "chinese": "讚譽/榮耀"
+        },
+        "advSentence": "She deserves kudos for organizing the entire charity event by herself.",
+        "advTranslation": "她獨自籌辦了整場慈善活動,值得所有的讚譽。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "encomium",
+        "pos": "n.",
+        "definition": "High praise.",
+        "chinese": "讚美/頌詞",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The retiring teacher received a heartfelt __________ from her former students.",
+        "translation": "這位即將退休的老師收到了學生們發自內心的頌詞讚美。",
+        "lookup": {
+          "english": "High praise.",
+          "chinese": "讚美/頌詞"
+        },
+        "advSentence": "The biography reads more like an encomium than an honest account.",
+        "advTranslation": "這本傳記讀起來更像是一篇讚頌之詞,而非誠實的記述。",
+        "added": true,
+        "group": "hot-19"
+      },
+      {
+        "word": "hallow",
+        "pos": "v.",
+        "definition": "To honor as holy; to consecrate.",
+        "chinese": "使神聖化;尊崇",
+        "synonyms": "acclaim, extol, esteem",
+        "image": "shield",
+        "sentence": "The ground was __________ ed as a memorial to the fallen soldiers.",
+        "translation": "這片土地被奉為紀念陣亡將士的聖地。",
+        "lookup": {
+          "english": "To honor as holy; to consecrate.",
+          "chinese": "使神聖化;尊崇"
+        },
+        "advSentence": "They gathered to hallow the memory of their founder.",
+        "advTranslation": "他們聚集在一起緬懷他們創辦人的紀念。",
+        "added": true,
+        "group": "hot-19"
       }
     ],
     "quiz": [
@@ -406,6 +604,10 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "venerate"
       }
+    ],
+    "group": "hot-19",
+    "antonymLessons": [
+      12
     ]
   }
 };
@@ -450,5 +652,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "venerate": [
     "To regard with deep, often religious, respect.",
     "崇敬；尊崇"
+  ],
+  "glorify": [
+    "To praise or honor highly.",
+    "讚揚/美化"
+  ],
+  "commend": [
+    "To praise formally or officially; to recommend.",
+    "稱讚;推薦"
+  ],
+  "lionize": [
+    "To treat someone as a celebrity or an object of great interest.",
+    "把……捧為名人"
+  ],
+  "deify": [
+    "To worship or regard as a god.",
+    "神化;奉為神明"
+  ],
+  "applaud": [
+    "To show approval by clapping; to praise.",
+    "鼓掌;讚揚"
+  ],
+  "exult": [
+    "To rejoice greatly.",
+    "歡欣鼓舞/狂喜"
+  ],
+  "tribute": [
+    "An act or statement of respect or gratitude; payment made to acknowledge submission.",
+    "致敬;貢品"
+  ],
+  "accolade": [
+    "High praise, special distinction.",
+    "讚譽/殊榮"
+  ],
+  "kudos": [
+    "Praise for an achievement.",
+    "讚譽/榮耀"
+  ],
+  "encomium": [
+    "High praise.",
+    "讚美/頌詞"
+  ],
+  "hallow": [
+    "To honor as holy; to consecrate.",
+    "使神聖化;尊崇"
   ]
 });

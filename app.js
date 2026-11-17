@@ -6,7 +6,7 @@ const localLookup = window.LOCAL_LOOKUP;
 const SET = ["hot", "va", "roots", "mk"].includes(document.body.dataset.set) ? document.body.dataset.set : "barrons";
 const SETS = {
   barrons: { page: u => `unit${u}.html`, badge: u => `U${u}`, label: u => `Barron's 1100 — Unit ${u}`, unitName: "Unit", count: 46, board: "index.html#barrons", index: () => window.BARRONS_INDEX || {} },
-  hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
+  hot: { page: u => `hot-unit${u}.html`, badge: u => `H${u}`, label: u => `Hot Words — Lesson ${u}`, unitName: "Lesson", count: window.HOT_LESSON_COUNT || 35, board: "index.html#hot", index: () => window.HOT_INDEX || {} },
   va: { page: u => `va-unit${u}.html`, badge: u => `V${u}`, label: u => `Verbal Advantage — Unit ${u}`, unitName: "Unit", count: 50, board: "index.html#va", index: () => window.VA_INDEX || {} },
   // Roots words link only on roots pages (roots-words.js is loaded there; everyday words are left out of it).
   mk: { page: u => `mk-unit${u}.html`, badge: u => `M${u}`, label: u => `SAT Must-Know — Unit ${u}`, unitName: "Unit", count: 30, board: "index.html#mk", index: () => window.MK_INDEX || {} },
@@ -70,6 +70,7 @@ function init() {
     option.value = String(n);
     option.textContent = SET === "va" ? `${SETCFG.unitName} ${n} (Lv.${Math.ceil(n / 5)})`
       : SET === "roots" && window.ROOTS_UNIT_NAMES ? `${n}. ${window.ROOTS_UNIT_NAMES[n - 1]}`
+      : SET === "hot" && window.HOT_LESSON_META?.[n]?.theme ? `${n}. ${window.HOT_LESSON_META[n].theme}${window.HOT_LESSON_META[n].new ? " ★" : ""}`
       : `${SETCFG.unitName} ${n}`;
     els.unitSelect.append(option);
   }
@@ -350,6 +351,7 @@ function renderRootsWordList() {
       tab.className = "word-tab";
       tab.innerHTML = `<span class="wt-num"></span><span class="wt-word"></span><span class="wt-pos"></span><span class="wt-zh"></span>`;
       tab.querySelector(".wt-word").textContent = card.word;
+      if (SET === "hot" && card.added) { const star = document.createElement("i"); star.className = "wt-added"; star.title = "Added SAT synonym 新增同義字"; star.textContent = "★"; tab.querySelector(".wt-word").prepend(star); }
       tab.querySelector(".wt-pos").textContent = card.pos;
       tab.querySelector(".wt-zh").textContent = card.chinese;
       tab.addEventListener("click", () => {
@@ -444,6 +446,80 @@ function renderPlainWordList() { // previous list (word only); kept for referenc
 // Synonyms: each word -> hover/🔊 to hear it, click to open Cambridge English–Chinese (Traditional).
 const CAMBRIDGE = "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/";
 
+// Hot Words synonym groups: every other card in this lesson is a SAT synonym; cards in the antonym lesson(s) are SAT antonyms.
+// Chips open the word's own flashcard (same page: #w=word; other lesson: hot-unitN.html#w=word).
+function hotWordChip(word, zh, lesson, extraClass = "") {
+  const a = document.createElement("a");
+  a.className = `syn-chip hot-link ${extraClass}`.trim();
+  const same = Number(lesson) === Number(state.unit);
+  a.href = same ? `#w=${encodeURIComponent(word)}` : `hot-unit${lesson}.html#w=${encodeURIComponent(word)}`;
+  a.innerHTML = `<b></b><small></small>`;
+  a.querySelector("b").textContent = word;
+  a.querySelector("small").textContent = zh ? String(zh).split(/[；;/]/)[0] : "";
+  a.title = `${word} · ${zh || ""} — open the flashcard${same ? "" : ` (Lesson ${lesson})`}`;
+  a.addEventListener("pointerenter", event => {
+    if (event.pointerType !== "mouse") return;
+    clearTimeout(hoverTimer);
+    hoverTimer = setTimeout(() => speak(word), 180);
+  });
+  a.addEventListener("pointerleave", () => clearTimeout(hoverTimer));
+  a.addEventListener("click", event => {
+    event.stopPropagation();
+    if (!same) return;
+    event.preventDefault();
+    const realIndex = cards().findIndex(c => c.word.toLowerCase() === word.toLowerCase());
+    if (realIndex < 0) return;
+    state.index = state.order.indexOf(realIndex);
+    state.flipped = true;
+    render();
+    speak(word);
+  });
+  return a;
+}
+
+function renderHotGroup(card) {
+  const meta = window.HOT_LESSON_META?.[state.unit];
+  const index = window.HOT_INDEX || {};
+  if (!meta || !meta.group) return;
+  const own = card.word.toLowerCase();
+  const rows = [];
+  const syn = cards().filter(c => c.word.toLowerCase() !== own);
+  if (syn.length) {
+    const row = document.createElement("span");
+    row.className = "hot-group-row";
+    const label = document.createElement("span");
+    label.className = "syn-label hot-syn-label";
+    label.textContent = `SAT 同義字 Synonyms · ${meta.theme}: `;
+    row.append(label, ...syn.map(c => hotWordChip(c.word, c.chinese, state.unit, c.added ? "added" : "")));
+    rows.push(row);
+  }
+  (meta.antonymLessons || []).forEach(L => {
+    const antMeta = window.HOT_LESSON_META?.[L] || {};
+    const list = antMeta.words || [];
+    if (!list.length) return;
+    const row = document.createElement("span");
+    row.className = "hot-group-row ant";
+    const label = document.createElement("a");
+    label.className = "syn-label hot-ant-label";
+    label.href = `hot-unit${L}.html`;
+    label.textContent = `SAT 反義字 Antonyms · Lesson ${L} ${antMeta.theme || ""}${antMeta.themeZh ? ` ${antMeta.themeZh}` : ""} → `;
+    label.addEventListener("click", event => event.stopPropagation());
+    row.append(label, ...list.slice(0, 12).map(([w, zh]) => hotWordChip(w, zh, L, "ant")));
+    if (list.length > 12) { const more = document.createElement("a"); more.className = "syn-chip hot-more"; more.href = `hot-unit${L}.html`; more.textContent = `+${list.length - 12} more`; more.addEventListener("click", e => e.stopPropagation()); row.append(more); }
+    rows.push(row);
+  });
+  const home = index[own];
+  if (home && Number(home[0]) !== Number(state.unit)) {
+    const note = document.createElement("a");
+    note.className = "syn-chip hot-also";
+    note.href = `hot-unit${home[0]}.html#w=${encodeURIComponent(card.word)}`;
+    note.textContent = `also in Lesson ${home[0]} ${window.HOT_LESSON_META?.[home[0]]?.theme || ""}`;
+    note.addEventListener("click", event => event.stopPropagation());
+    rows.push(note);
+  }
+  els.synonyms.append(...rows);
+}
+
 function renderSynonyms(card) {
   if (SET === "roots") { renderWordParts(card); return; }
   const words = String(card.synonyms || "").split(/\s*[,;]\s*/).map(w => w.trim()).filter(Boolean);
@@ -479,18 +555,7 @@ function renderSynonyms(card) {
     return chip;
   });
   els.synonyms.replaceChildren(label, ...chips);
-  if (SET === "hot" && Number(state.unit) <= 28) {
-    // Hot Words lessons 1–28 are synonym sets: link to the expanded group (more SAT synonyms + the antonym group).
-    const more = document.createElement("a");
-    more.className = "syn-chip syn-more";
-    more.href = `https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/synonym-groups.html#hot-${String(state.unit).padStart(2, "0")}`;
-    more.target = "_blank";
-    more.rel = "noopener";
-    more.textContent = "📚 更多 SAT 同義字 / 反義字組 →";
-    more.title = "Open this lesson's expanded synonym group and its antonym group (SAT Vocabulary Studio)";
-    more.addEventListener("click", event => event.stopPropagation());
-    els.synonyms.append(more);
-  }
+  if (SET === "hot") renderHotGroup(card);
   if (SET === "mk") {
     // SAT Must-Know: prefix/root note and which list (306 / 386) the word comes from, after the synonyms.
     const extra = [];

@@ -211,6 +211,168 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The voluble salesman's charm concealed a devious scheme: his glib assurances persuaded gullible investors to squander their savings on a fraudulent company run by a notorious charlatan.",
         "advTranslation": "這位能言善道的推銷員的魅力背後藏著一個狡詐的詭計：他油嘴滑舌的保證說服了容易受騙的投資人，把積蓄揮霍在一家由惡名昭彰的騙子經營的詐騙公司上。"
+      },
+      {
+        "word": "prolix",
+        "pos": "adj.",
+        "definition": "Tediously lengthy in speech or writing.",
+        "chinese": "冗長囉唆的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "His __________ report buried the key findings in pages of filler.",
+        "translation": "他冗長囉唆的報告把關鍵發現埋沒在大量的贅述中。",
+        "lookup": {
+          "english": "Tediously lengthy in speech or writing.",
+          "chinese": "冗長囉唆的"
+        },
+        "advSentence": "The professor's prolix lectures often ran well past the allotted time.",
+        "advTranslation": "這位教授冗長的講課經常大幅超出規定的時間。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "effusive",
+        "pos": "adj.",
+        "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
+        "chinese": "熱情洋溢的;過分熱情的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "He gave an __________ thank-you speech at the award ceremony.",
+        "translation": "他在頒獎典禮上發表了一段熱情洋溢的感謝致詞。",
+        "lookup": {
+          "english": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
+          "chinese": "熱情洋溢的;過分熱情的"
+        },
+        "advSentence": "Her effusive praise embarrassed the shy student.",
+        "advTranslation": "她過分熱情的讚美讓這位害羞的學生感到尷尬。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "bombastic",
+        "pos": "adj.",
+        "definition": "High-sounding but with little meaning; inflated.",
+        "chinese": "誇誇其談的/浮誇的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "His __________ speech failed to convey a clear message.",
+        "translation": "他那浮誇的演說未能傳達出清楚的訊息。",
+        "lookup": {
+          "english": "High-sounding but with little meaning; inflated.",
+          "chinese": "誇誇其談的/浮誇的"
+        },
+        "advSentence": "Critics mocked the politician's bombastic promises during the campaign.",
+        "advTranslation": "評論家嘲笑這位政治人物在競選期間誇大不實的承諾。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "long-winded",
+        "pos": "adj.",
+        "definition": "Tediously lengthy in speech or writing.",
+        "chinese": "冗長的;囉唆的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "His __________ speech caused half the audience to check their phones.",
+        "translation": "他冗長的演講讓半數聽眾都開始滑起了手機。",
+        "lookup": {
+          "english": "Tediously lengthy in speech or writing.",
+          "chinese": "冗長的;囉唆的"
+        },
+        "advSentence": "The report was so long-winded that few colleagues finished reading it.",
+        "advTranslation": "這份報告如此冗長,以至於很少有同事讀完它。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "magniloquent",
+        "pos": "adj.",
+        "definition": "Lofty in style.",
+        "chinese": "誇張的/華麗辭藻的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "The general's __________ speech promised victory in grandiose terms.",
+        "translation": "這位將軍誇張浮華的演說以宏大的詞藻許諾勝利。",
+        "lookup": {
+          "english": "Lofty in style.",
+          "chinese": "誇張的/華麗辭藻的"
+        },
+        "advSentence": "Her magniloquent writing style impressed some critics but exhausted others.",
+        "advTranslation": "她華麗誇張的寫作風格讓一些評論家印象深刻,卻讓另一些人感到疲乏。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "ramble",
+        "pos": "v./n.",
+        "definition": "To talk or write at length without a clear purpose; a leisurely walk.",
+        "chinese": "漫談;閒逛",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "He tends to __________ whenever he talks about his college years.",
+        "translation": "每當他談起大學時光,總是傾向漫無邊際地閒扯。",
+        "lookup": {
+          "english": "To talk or write at length without a clear purpose; a leisurely walk.",
+          "chinese": "漫談;閒逛"
+        },
+        "advSentence": "They took a pleasant ramble through the countryside on Sunday.",
+        "advTranslation": "他們在週日於鄉間享受了一段愜意的漫步閒逛。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "turgid",
+        "pos": "adj.",
+        "definition": "Swollen, excessively embellished in style or language.",
+        "chinese": "腫脹的/浮誇的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "The professor's __________ prose made his lectures a chore to follow.",
+        "translation": "這位教授浮誇艱澀的文風讓他的講課變得難以跟上。",
+        "lookup": {
+          "english": "Swollen, excessively embellished in style or language.",
+          "chinese": "腫脹的/浮誇的"
+        },
+        "advSentence": "The river grew turgid after days of continuous rain.",
+        "advTranslation": "在連日不斷的降雨後,這條河流變得高漲腫脹。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "pleonastic",
+        "pos": "adj.",
+        "definition": "Using more words than necessary; redundant.",
+        "chinese": "冗贅的;贅述的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "The editor cut several __________ phrases from the manuscript.",
+        "translation": "這位編輯從這份手稿中刪除了好幾處冗贅的措辭。",
+        "lookup": {
+          "english": "Using more words than necessary; redundant.",
+          "chinese": "冗贅的;贅述的"
+        },
+        "advSentence": "His pleonastic writing style frustrated readers seeking concise information.",
+        "advTranslation": "他冗贅的寫作風格讓尋求簡潔資訊的讀者感到挫折。",
+        "added": true,
+        "group": "hot-02"
+      },
+      {
+        "word": "discursive",
+        "pos": "adj.",
+        "definition": "Rambling, lacking order.",
+        "chinese": "散漫的/離題的",
+        "synonyms": "circumlocution, colloquial, digress",
+        "image": "shield",
+        "sentence": "His __________ lecture wandered from topic to topic without a clear point.",
+        "translation": "他這場散漫的講座東拉西扯,毫無明確重點。",
+        "lookup": {
+          "english": "Rambling, lacking order.",
+          "chinese": "散漫的/離題的"
+        },
+        "advSentence": "The professor's discursive writing style makes his essays difficult to follow.",
+        "advTranslation": "這位教授散漫的寫作風格讓他的文章難以理解。",
+        "added": true,
+        "group": "hot-02"
       }
     ],
     "quiz": [
@@ -526,6 +688,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "voluble"
       }
+    ],
+    "group": "hot-02",
+    "antonymLessons": [
+      1
     ]
   }
 };
@@ -582,5 +748,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "voluble": [
     "Speaking fluently, readily, and at length.",
     "健談的；口若懸河的"
+  ],
+  "prolix": [
+    "Tediously lengthy in speech or writing.",
+    "冗長囉唆的"
+  ],
+  "effusive": [
+    "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
+    "熱情洋溢的;過分熱情的"
+  ],
+  "bombastic": [
+    "High-sounding but with little meaning; inflated.",
+    "誇誇其談的/浮誇的"
+  ],
+  "long-winded": [
+    "Tediously lengthy in speech or writing.",
+    "冗長的;囉唆的"
+  ],
+  "magniloquent": [
+    "Lofty in style.",
+    "誇張的/華麗辭藻的"
+  ],
+  "ramble": [
+    "To talk or write at length without a clear purpose; a leisurely walk.",
+    "漫談;閒逛"
+  ],
+  "turgid": [
+    "Swollen, excessively embellished in style or language.",
+    "腫脹的/浮誇的"
+  ],
+  "pleonastic": [
+    "Using more words than necessary; redundant.",
+    "冗贅的;贅述的"
+  ],
+  "discursive": [
+    "Rambling, lacking order.",
+    "散漫的/離題的"
   ]
 });

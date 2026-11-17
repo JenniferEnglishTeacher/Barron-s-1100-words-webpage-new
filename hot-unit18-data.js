@@ -163,6 +163,186 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The diplomat's mellifluous voice and affable manner charmed his hosts at the summit, though skeptics noted that his eloquence often masked evasive answers and that his speeches were laced with banal platitudes.",
         "advTranslation": "這位外交官悅耳的嗓音與和藹的舉止讓高峰會的東道主為之著迷，但懷疑者指出，他的雄辯往往掩飾了閃爍的答覆，而他的演講也充斥著陳腔濫調。"
+      },
+      {
+        "word": "dissonant",
+        "pos": "adj.",
+        "definition": "Lacking harmony; discordant.",
+        "chinese": "不和諧的;刺耳的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The composer used __________ chords to create tension.",
+        "translation": "這位作曲家使用不和諧的和弦來營造張力。",
+        "lookup": {
+          "english": "Lacking harmony; discordant.",
+          "chinese": "不和諧的;刺耳的"
+        },
+        "advSentence": "Their dissonant opinions made compromise difficult.",
+        "advTranslation": "他們不和諧的意見讓妥協變得困難。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "clamorous",
+        "pos": "adj.",
+        "definition": "Making a loud and confused noise; demanding attention noisily.",
+        "chinese": "喧鬧的;吵嚷的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The __________ crowd outside the courthouse demanded to hear the verdict immediately.",
+        "translation": "法院外喧鬧的群眾,要求立刻聽到判決結果。",
+        "lookup": {
+          "english": "Making a loud and confused noise; demanding attention noisily.",
+          "chinese": "喧鬧的;吵嚷的"
+        },
+        "advSentence": "A clamorous flock of geese passed overhead just before sunset.",
+        "advTranslation": "日落前,一群喧鬧的雁群從空中飛過。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "boisterous",
+        "pos": "adj.",
+        "definition": "Loud and full of energy.",
+        "chinese": "喧鬧的/精力旺盛的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The __________ children ran wild through the playground.",
+        "translation": "這群精力旺盛的孩子們在遊樂場裡橫衝直撞。",
+        "lookup": {
+          "english": "Loud and full of energy.",
+          "chinese": "喧鬧的/精力旺盛的"
+        },
+        "advSentence": "A boisterous cheer erupted from the crowd when the home team scored.",
+        "advTranslation": "當地主隊得分時,群眾中爆出一陣喧鬧的歡呼聲。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "cacophonous",
+        "pos": "adj.",
+        "definition": "Having an unpleasant sound.",
+        "chinese": "刺耳的/不和諧的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The construction site produced a __________ mix of drills and hammers all morning.",
+        "translation": "整個早上,這處工地發出電鑽和鐵鎚交雜的刺耳噪音。",
+        "lookup": {
+          "english": "Having an unpleasant sound.",
+          "chinese": "刺耳的/不和諧的"
+        },
+        "advSentence": "The band's first rehearsal was a cacophonous mess of mismatched instruments.",
+        "advTranslation": "這個樂團第一次排練時,各種樂器不協調地發出刺耳的噪音。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "obstreperous",
+        "pos": "adj.",
+        "definition": "Noisy, unruly.",
+        "chinese": "喧鬧的/難以駕馭的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The teacher struggled to control the __________ classroom before the holiday.",
+        "translation": "假期前,這位老師難以控制這間喧鬧不已的教室。",
+        "lookup": {
+          "english": "Noisy, unruly.",
+          "chinese": "喧鬧的/難以駕馭的"
+        },
+        "advSentence": "The obstreperous crowd had to be calmed down by security before the show could continue.",
+        "advTranslation": "這場表演必須先由保全人員安撫這群喧鬧的群眾,才能繼續進行。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "sonorous",
+        "pos": "adj.",
+        "definition": "Producing a deep, rich, and impressively loud sound.",
+        "chinese": "洪亮的；渾厚的；響亮的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The cathedral's __________ brass bells rang across the valley, their deep, echoing tones signaling the beginning of the morning ceremony.",
+        "translation": "大教堂洪亮的黃銅鐘聲傳遍山谷，其深沉迴盪的音調宣告晨禮開始。",
+        "lookup": {
+          "english": "Producing a deep, rich, and impressively loud sound.",
+          "chinese": "洪亮的；渾厚的；響亮的"
+        },
+        "advSentence": "The actor used his powerful, sonorous voice to command the outdoor amphitheater, ensuring that every line reached the audience without amplification.",
+        "advTranslation": "演員以強而有力且渾厚洪亮的嗓音吸引整座戶外圓形劇場的注意，使每句台詞不用擴音也能傳到觀眾耳中。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "stentorian",
+        "pos": "adj.",
+        "definition": "Loud.",
+        "chinese": "聲音洪亮的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The coach's __________ voice could be heard across the entire field.",
+        "translation": "教練那洪亮的聲音整個球場都聽得到。",
+        "lookup": {
+          "english": "Loud.",
+          "chinese": "聲音洪亮的"
+        },
+        "advSentence": "He announced the winner in a stentorian tone that filled the auditorium.",
+        "advTranslation": "他用洪亮的聲調宣布獲勝者,聲音傳遍整個禮堂。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "grating",
+        "pos": "adj.",
+        "definition": "Unpleasantly harsh in sound.",
+        "chinese": "刺耳的/惱人的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The __________ sound of chalk on the blackboard made students wince.",
+        "translation": "粉筆刮過黑板發出的刺耳聲讓學生們皺起眉頭。",
+        "lookup": {
+          "english": "Unpleasantly harsh in sound.",
+          "chinese": "刺耳的/惱人的"
+        },
+        "advSentence": "His grating laugh could be heard throughout the entire office.",
+        "advTranslation": "他刺耳的笑聲響徹整間辦公室。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "harmonious",
+        "pos": "adj.",
+        "definition": "Forming a pleasing or consistent whole; free from conflict.",
+        "chinese": "和諧的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "The two nations enjoyed a __________ relationship for decades.",
+        "translation": "這兩個國家數十年來享有和諧的關係。",
+        "lookup": {
+          "english": "Forming a pleasing or consistent whole; free from conflict.",
+          "chinese": "和諧的"
+        },
+        "advSentence": "The colors in the painting created a harmonious effect.",
+        "advTranslation": "這幅畫中的色彩營造出一種和諧的效果。",
+        "added": true,
+        "group": "hot-18"
+      },
+      {
+        "word": "melodious",
+        "pos": "adj.",
+        "definition": "Pleasant to hear, like music.",
+        "chinese": "悅耳的;旋律優美的",
+        "synonyms": "discordant, euphony, cacophony",
+        "image": "shield",
+        "sentence": "Her __________ voice captivated the entire audience.",
+        "translation": "她悅耳動聽的嗓音迷住了全場觀眾。",
+        "lookup": {
+          "english": "Pleasant to hear, like music.",
+          "chinese": "悅耳的;旋律優美的"
+        },
+        "advSentence": "The birds' melodious song filled the morning air.",
+        "advTranslation": "鳥兒悅耳的鳴唱聲充滿了清晨的空氣。",
+        "added": true,
+        "group": "hot-18"
       }
     ],
     "quiz": [
@@ -406,6 +586,10 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "mellifluous"
       }
+    ],
+    "group": "hot-18",
+    "antonymLessons": [
+      25
     ]
   }
 };
@@ -450,5 +634,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "mellifluous": [
     "Sweet, smooth, and pleasing to hear.",
     "悅耳流暢的；甜美的"
+  ],
+  "dissonant": [
+    "Lacking harmony; discordant.",
+    "不和諧的;刺耳的"
+  ],
+  "clamorous": [
+    "Making a loud and confused noise; demanding attention noisily.",
+    "喧鬧的;吵嚷的"
+  ],
+  "boisterous": [
+    "Loud and full of energy.",
+    "喧鬧的/精力旺盛的"
+  ],
+  "cacophonous": [
+    "Having an unpleasant sound.",
+    "刺耳的/不和諧的"
+  ],
+  "obstreperous": [
+    "Noisy, unruly.",
+    "喧鬧的/難以駕馭的"
+  ],
+  "sonorous": [
+    "Producing a deep, rich, and impressively loud sound.",
+    "洪亮的；渾厚的；響亮的"
+  ],
+  "stentorian": [
+    "Loud.",
+    "聲音洪亮的"
+  ],
+  "grating": [
+    "Unpleasantly harsh in sound.",
+    "刺耳的/惱人的"
+  ],
+  "harmonious": [
+    "Forming a pleasing or consistent whole; free from conflict.",
+    "和諧的"
+  ],
+  "melodious": [
+    "Pleasant to hear, like music.",
+    "悅耳的;旋律優美的"
   ]
 });

@@ -131,6 +131,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The thrifty couple avoided the ostentatious weddings fashionable among their friends, preferring a convivial dinner for a few relatives, and they politely ignored the haughty remarks of guests who considered such simplicity a sign of poverty.",
         "advTranslation": "這對節儉的夫妻避開了朋友間流行的鋪張婚禮，寧可為幾位親戚辦一場歡樂溫馨的晚宴；對於那些把這種簡樸視為窮酸象徵的賓客所發表的傲慢言論，他們也禮貌地置之不理。"
+      },
+      {
+        "word": "stingy",
+        "pos": "adj.",
+        "definition": "Not generous, not inclined to spend or give.",
+        "chinese": "小氣的/吝嗇的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "He had a reputation for being __________ even with his closest friends.",
+        "translation": "他以對即使是最親近的朋友也很小氣而聞名。",
+        "lookup": {
+          "english": "Not generous, not inclined to spend or give.",
+          "chinese": "小氣的/吝嗇的"
+        },
+        "advSentence": "The restaurant's stingy portions left many customers still hungry.",
+        "advTranslation": "這間餐廳吝嗇的份量讓許多顧客吃完仍覺得餓。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "niggardly",
+        "pos": "adj.",
+        "definition": "Petty or reluctant in giving or spending.",
+        "chinese": "吝嗇的/小氣的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "His __________ tips left the waitstaff visibly annoyed.",
+        "translation": "他給的小費少得可憐,讓服務生們明顯感到不悅。",
+        "lookup": {
+          "english": "Petty or reluctant in giving or spending.",
+          "chinese": "吝嗇的/小氣的"
+        },
+        "advSentence": "The company's niggardly raises failed to keep pace with inflation.",
+        "advTranslation": "這家公司吝嗇的加薪幅度遠遠跟不上通貨膨脹的速度。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "penny-pinching",
+        "pos": "adj.",
+        "definition": "Extremely careful and reluctant with spending money.",
+        "chinese": "斤斤計較的;吝嗇的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "His __________ habits allowed him to retire early with substantial savings.",
+        "translation": "他斤斤計較的習慣讓他能夠帶著豐厚的存款提早退休。",
+        "lookup": {
+          "english": "Extremely careful and reluctant with spending money.",
+          "chinese": "斤斤計較的;吝嗇的"
+        },
+        "advSentence": "The company's penny-pinching approach to salaries drove away talented employees.",
+        "advTranslation": "這家公司對薪資斤斤計較的做法讓有才華的員工紛紛離職。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "economical",
+        "pos": "adj.",
+        "definition": "Using money or resources carefully and without waste.",
+        "chinese": "節約的;經濟實惠的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "Buying in bulk is more __________ in the long run.",
+        "translation": "長遠來看,大量採購更為經濟實惠。",
+        "lookup": {
+          "english": "Using money or resources carefully and without waste.",
+          "chinese": "節約的;經濟實惠的"
+        },
+        "advSentence": "She lived a simple, economical lifestyle.",
+        "advTranslation": "她過著簡樸節約的生活方式。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "covetous",
+        "pos": "adj.",
+        "definition": "Having a strong desire for something belonging to another.",
+        "chinese": "貪婪的;垂涎的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "He cast a __________ glance at his neighbor's new car.",
+        "translation": "他對鄰居的新車投以貪婪的一瞥。",
+        "lookup": {
+          "english": "Having a strong desire for something belonging to another.",
+          "chinese": "貪婪的;垂涎的"
+        },
+        "advSentence": "Her covetous eyes settled on the diamond necklace.",
+        "advTranslation": "她貪婪的目光落在那條鑽石項鍊上。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "grasping",
+        "pos": "adj.",
+        "definition": "Greedy for money or possessions.",
+        "chinese": "貪婪的;愛佔便宜的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "The __________ landlord raised rent every year without warning.",
+        "translation": "這位貪婪的房東每年都毫無預警地漲租。",
+        "lookup": {
+          "english": "Greedy for money or possessions.",
+          "chinese": "貪婪的;愛佔便宜的"
+        },
+        "advSentence": "He was portrayed as a grasping businessman in the documentary.",
+        "advTranslation": "這部紀錄片將他描繪成一個貪婪的商人。",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "hoard",
+        "pos": "v.",
+        "definition": "To accumulate and store items secretly or excessively.",
+        "chinese": "囤積；密藏",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "Panicked consumers began to __________ non-perishable groceries during rumors of upcoming supply chain transportation disruptions.",
+        "translation": "在傳出供應鏈運輸即將中斷的謠言期間，恐慌的消費者開始「囤積」不易腐爛的食品。",
+        "lookup": {
+          "english": "To accumulate and store items secretly or excessively.",
+          "chinese": "囤積；密藏"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-09"
+      },
+      {
+        "word": "provident",
+        "pos": "adj.",
+        "definition": "Making prudent provision for the future.",
+        "chinese": "有遠見的;節儉的",
+        "synonyms": "frugal, parsimonious, avarice",
+        "image": "shield",
+        "sentence": "Her __________ habits of saving allowed her to retire comfortably.",
+        "translation": "她節儉有遠見的儲蓄習慣讓她能夠舒適地退休。",
+        "lookup": {
+          "english": "Making prudent provision for the future.",
+          "chinese": "有遠見的;節儉的"
+        },
+        "advSentence": "The provident farmer stored extra grain in case of a poor harvest.",
+        "advTranslation": "這位有遠見的農夫儲存了額外的穀物,以防收成不佳。",
+        "added": true,
+        "group": "hot-09"
       }
     ],
     "quiz": [
@@ -326,6 +470,11 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "thrifty"
       }
+    ],
+    "group": "hot-09",
+    "antonymLessons": [
+      8,
+      20
     ]
   }
 };
@@ -362,5 +511,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "thrifty": [
     "Using money and resources carefully and without waste.",
     "節儉的；精打細算的"
+  ],
+  "stingy": [
+    "Not generous, not inclined to spend or give.",
+    "小氣的/吝嗇的"
+  ],
+  "niggardly": [
+    "Petty or reluctant in giving or spending.",
+    "吝嗇的/小氣的"
+  ],
+  "penny-pinching": [
+    "Extremely careful and reluctant with spending money.",
+    "斤斤計較的;吝嗇的"
+  ],
+  "economical": [
+    "Using money or resources carefully and without waste.",
+    "節約的;經濟實惠的"
+  ],
+  "covetous": [
+    "Having a strong desire for something belonging to another.",
+    "貪婪的;垂涎的"
+  ],
+  "grasping": [
+    "Greedy for money or possessions.",
+    "貪婪的;愛佔便宜的"
+  ],
+  "hoard": [
+    "To accumulate and store items secretly or excessively.",
+    "囤積；密藏"
+  ],
+  "provident": [
+    "Making prudent provision for the future.",
+    "有遠見的;節儉的"
   ]
 });

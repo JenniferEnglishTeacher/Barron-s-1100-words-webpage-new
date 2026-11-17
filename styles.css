@@ -1225,5 +1225,18 @@ body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-d
 @media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }
 
-.syn-chip.syn-more { color: #4b5e2a; background: #eef4e4; border-color: #c5d6a8; font-weight: 700; padding: 3px 10px; text-decoration: none; }
-.syn-chip.syn-more:hover { background: #4b5e2a; color: #fff; }
+/* Hot Words synonym groups on the card back */
+.hot-group-row { display: flex; flex-wrap: wrap; gap: 4px 5px; align-items: center; width: 100%; margin-top: 7px; padding-top: 6px; border-top: 1px dashed #dcd5c8; }
+.hot-syn-label, .hot-ant-label { flex-basis: 100%; font-size: 11.5px; font-weight: 800; letter-spacing: .02em; color: #153a4a; text-decoration: none; }
+.hot-ant-label { color: #8a3b2d; }
+.hot-ant-label:hover { text-decoration: underline; }
+.syn-chip.hot-link { display: inline-flex; align-items: baseline; gap: 4px; padding: 2px 9px; text-decoration: none; color: #0f4c63; background: #eef6f9; border-color: #b9d3dc; }
+.syn-chip.hot-link b { font-weight: 800; }
+.syn-chip.hot-link small { font-size: 10.5px; color: #5d7580; font-weight: 500; }
+.syn-chip.hot-link:hover { background: #153a4a; border-color: #153a4a; color: #fff; }
+.syn-chip.hot-link:hover small { color: #cfe3ea; }
+.syn-chip.hot-link.added b::before { content: "★"; font-size: 9px; color: #d7a936; margin-right: 2px; vertical-align: .15em; }
+.syn-chip.hot-link.ant { color: #8a3b2d; background: #fbeeea; border-color: #e3c0b7; }
+.syn-chip.hot-link.ant:hover { background: #8a3b2d; border-color: #8a3b2d; color: #fff; }
+.syn-chip.hot-more, .syn-chip.hot-also { text-decoration: none; color: #4b5e2a; background: #eef4e4; border-color: #c5d6a8; font-weight: 700; padding: 2px 9px; }
+.wt-added { font-style: normal; font-size: 9px; color: #d7a936; margin-right: 3px; vertical-align: .2em; }

@@ -163,6 +163,132 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The miserly landlord would berate tenants over trifling damages such as a scuffed doorframe, yet he remained apathetic and indifferent when they reported the deleterious mold spreading through the building.",
         "advTranslation": "這位吝嗇的房東會因為門框刮痕這類微不足道的損壞而痛斥房客，但當房客回報大樓裡蔓延的有害黴菌時，他卻始終冷漠、漠不關心。"
+      },
+      {
+        "word": "insignificant",
+        "pos": "adj.",
+        "definition": "Too small or unimportant to matter.",
+        "chinese": "微不足道的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "The difference in price between the two ice creams was __________.",
+        "translation": "這兩種冰淇淋的價差微不足道。",
+        "lookup": {
+          "english": "Too small or unimportant to matter.",
+          "chinese": "微不足道的"
+        },
+        "advSentence": "He felt insignificant compared to the other, more experienced employees.",
+        "advTranslation": "與其他更資深的員工相比,他覺得自己微不足道。",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "immaterial",
+        "pos": "adj.",
+        "definition": "Unimportant under the circumstances; irrelevant to a subject (Not material/not relevant).",
+        "chinese": "不重要的、無關緊要的、非物質的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "The judge sustained the objection, ruling that the witness's personal hobbies were entirely __________ to the criminal case.",
+        "translation": "法官確認反對有效，裁定證人的個人愛好與這起刑事案件完全無關（不重要）。",
+        "lookup": {
+          "english": "Unimportant under the circumstances; irrelevant to a subject (Not material/not relevant).",
+          "chinese": "不重要的、無關緊要的、非物質的"
+        },
+        "advSentence": "Whether the office supplies cost a few dollars more or less is immaterial given our multimillion-dollar corporate revenue.",
+        "advTranslation": "鑑於我們數百萬美元的公司營收，辦公用品的成本多幾美元或少幾美元都是微不足道的。",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "nugatory",
+        "pos": "adj.",
+        "definition": "Having no value or importance; invalid.",
+        "chinese": "無價值的;無效的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "The court ruled the outdated clause __________ and unenforceable.",
+        "translation": "法院裁定這項過時的條款無效且無法執行。",
+        "lookup": {
+          "english": "Having no value or importance; invalid.",
+          "chinese": "無價值的;無效的"
+        },
+        "advSentence": "His objections proved nugatory once the new evidence emerged.",
+        "advTranslation": "一旦新的證據出現,他的異議便被證明毫無價值。",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "paltry",
+        "pos": "adj.",
+        "definition": "Petty, worthless.",
+        "chinese": "微不足道的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "He was offered a __________ sum for his years of hard work.",
+        "translation": "他多年來的辛勞只換得一筆微不足道的酬勞。",
+        "lookup": {
+          "english": "Petty, worthless.",
+          "chinese": "微不足道的"
+        },
+        "advSentence": "The company's donation seemed paltry compared to its massive profits.",
+        "advTranslation": "與這家公司龐大的利潤相比,它的捐款顯得微不足道。",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "marginal",
+        "pos": "adj.",
+        "definition": "Relating to or at the edge or margin; minor; not central.",
+        "chinese": "邊緣的；次要的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "The scribes wrote comments in the __________ space of the manuscript, adding notes and explanations around the main text without altering the original author's words.",
+        "translation": "抄寫員在手稿的邊緣空白處寫下評論，在正文周圍添加注釋和解釋，而沒有改動原作者的文字。",
+        "lookup": {
+          "english": "Relating to or at the edge or margin; minor; not central.",
+          "chinese": "邊緣的；次要的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "tangential",
+        "pos": "adj.",
+        "definition": "Incidental, peripheral, divergent.",
+        "chinese": "離題的/邊緣的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "His comment was only __________ to the main topic of the meeting.",
+        "translation": "他的評論只是與這場會議的主題稍微沾邊而已。",
+        "lookup": {
+          "english": "Incidental, peripheral, divergent.",
+          "chinese": "離題的/邊緣的"
+        },
+        "advSentence": "The professor often goes off on tangential stories before returning to the lecture.",
+        "advTranslation": "這位教授經常先扯些離題的故事,再回到正題繼續講課。",
+        "added": true,
+        "group": "hot-27"
+      },
+      {
+        "word": "superficial",
+        "pos": "adj.",
+        "definition": "On the surface, slight.",
+        "chinese": "表面的/膚淺的",
+        "synonyms": "inconsequential, extraneous, irrelevant",
+        "image": "shield",
+        "sentence": "Her knowledge of the subject turned out to be quite __________.",
+        "translation": "她對這個主題的了解其實相當膚淺。",
+        "lookup": {
+          "english": "On the surface, slight.",
+          "chinese": "表面的/膚淺的"
+        },
+        "advSentence": "The wound was only superficial and healed within a few days.",
+        "advTranslation": "這道傷口只是表皮的,幾天內就痊癒了。",
+        "added": true,
+        "group": "hot-27"
       }
     ],
     "quiz": [
@@ -406,7 +532,9 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "trifling"
       }
-    ]
+    ],
+    "group": "hot-27",
+    "antonymLessons": []
   }
 };
 
@@ -450,5 +578,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "trifling": [
     "Trivial; of little value or importance.",
     "瑣碎的；微不足道的"
+  ],
+  "insignificant": [
+    "Too small or unimportant to matter.",
+    "微不足道的"
+  ],
+  "immaterial": [
+    "Unimportant under the circumstances; irrelevant to a subject (Not material/not relevant).",
+    "不重要的、無關緊要的、非物質的"
+  ],
+  "nugatory": [
+    "Having no value or importance; invalid.",
+    "無價值的;無效的"
+  ],
+  "paltry": [
+    "Petty, worthless.",
+    "微不足道的"
+  ],
+  "marginal": [
+    "Relating to or at the edge or margin; minor; not central.",
+    "邊緣的；次要的"
+  ],
+  "tangential": [
+    "Incidental, peripheral, divergent.",
+    "離題的/邊緣的"
+  ],
+  "superficial": [
+    "On the surface, slight.",
+    "表面的/膚淺的"
   ]
 });

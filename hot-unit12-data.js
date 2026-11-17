@@ -163,6 +163,204 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Rather than placate the protesters, the governor chose to upbraid them as insolent troublemakers, a bellicose response that only intensified their animosity and turned a peaceful demonstration into prolonged turmoil.",
         "advTranslation": "州長沒有安撫抗議群眾，反而嚴厲斥責他們是無禮的滋事分子；這種好鬥的回應只加深了他們的敵意，使一場和平的示威演變成長期的動盪。"
+      },
+      {
+        "word": "reprimand",
+        "pos": "v.",
+        "definition": "To show sharp disapproval.",
+        "chinese": "譴責",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The teacher __________ed the students for talking during the exam.",
+        "translation": "老師譴責了在考試中講話的學生。",
+        "lookup": {
+          "english": "To show sharp disapproval.",
+          "chinese": "譴責"
+        },
+        "advSentence": "He received a formal reprimand from his boss for arriving late every day.",
+        "advTranslation": "他因為每天遲到而受到上司正式的譴責。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "chide",
+        "pos": "v.",
+        "definition": "To voice disapproval.",
+        "chinese": "斥責/責備",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The coach began to __________ the players for their lack of effort.",
+        "translation": "教練開始斥責球員們不夠努力。",
+        "lookup": {
+          "english": "To voice disapproval.",
+          "chinese": "斥責/責備"
+        },
+        "advSentence": "Her mother would gently chide her for staying up too late.",
+        "advTranslation": "她的媽媽總是溫和地責備她熬夜太晚。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "admonish",
+        "pos": "v.",
+        "definition": "To warn, reprove.",
+        "chinese": "警告",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The teacher __________ed the students to finish their homework before playing games.",
+        "translation": "老師告誡學生們要先寫完作業才能玩遊戲。",
+        "lookup": {
+          "english": "To warn, reprove.",
+          "chinese": "警告"
+        },
+        "advSentence": "The coach admonished the players for skipping practice.",
+        "advTranslation": "教練告誡那些缺席練習的球員。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "reproach",
+        "pos": "v.",
+        "definition": "To rebuke, reprimand.",
+        "chinese": "責備/斥責",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "Her mother's silent __________ hurt more than any harsh words.",
+        "translation": "母親無聲的責備比任何嚴厲的話語都更讓她難受。",
+        "lookup": {
+          "english": "To rebuke, reprimand.",
+          "chinese": "責備/斥責"
+        },
+        "advSentence": "He couldn't bear the reproach in his coach's eyes after the loss.",
+        "advTranslation": "落敗之後,他無法承受教練眼中流露出的責備。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "vituperate",
+        "pos": "v.",
+        "definition": "To berate.",
+        "chinese": "痛罵/斥責",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The coach began to __________ the referee over the controversial call.",
+        "translation": "教練開始對這項有爭議的判決大肆斥責裁判。",
+        "lookup": {
+          "english": "To berate.",
+          "chinese": "痛罵/斥責"
+        },
+        "advSentence": "She refused to vituperate her employees in front of clients, no matter the mistake.",
+        "advTranslation": "無論犯了什麼錯,她都拒絕在客戶面前痛罵員工。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "objurgate",
+        "pos": "v.",
+        "definition": "To scold or rebuke harshly.",
+        "chinese": "嚴厲斥責",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The coach began to __________ the team for their careless mistakes.",
+        "translation": "教練開始嚴厲斥責這支隊伍粗心大意的失誤。",
+        "lookup": {
+          "english": "To scold or rebuke harshly.",
+          "chinese": "嚴厲斥責"
+        },
+        "advSentence": "She was harshly objurgated by her supervisor for missing the deadline.",
+        "advTranslation": "她因錯過截止期限而遭到主管嚴厲的斥責。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "condemn",
+        "pos": "v.",
+        "definition": "To express strong disapproval of; to sentence to punishment.",
+        "chinese": "譴責;判刑",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "World leaders quickly moved to __________ the attack on civilians.",
+        "translation": "各國領袖迅速對這起攻擊平民的事件表達譴責。",
+        "lookup": {
+          "english": "To express strong disapproval of; to sentence to punishment.",
+          "chinese": "譴責;判刑"
+        },
+        "advSentence": "The judge chose to condemn him to community service rather than jail time.",
+        "advTranslation": "法官選擇判處他社區服務,而非監禁。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "excoriate",
+        "pos": "v.",
+        "definition": "To criticize severely.",
+        "chinese": "嚴厲批評/痛斥",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The critic __________d the director for the film's clumsy pacing.",
+        "translation": "這位評論家嚴厲抨擊導演讓這部電影的節奏顯得笨拙。",
+        "lookup": {
+          "english": "To criticize severely.",
+          "chinese": "嚴厲批評/痛斥"
+        },
+        "advSentence": "The senator was excoriated in the press for his controversial remarks.",
+        "advTranslation": "這位參議員因發表爭議言論而在媒體上遭到猛烈抨擊。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "reprehend",
+        "pos": "v.",
+        "definition": "To rebuke or criticize someone sharply.",
+        "chinese": "斥責;嚴厲批評",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "The teacher chose to __________ the students for their careless mistake.",
+        "translation": "這位老師選擇嚴厲斥責學生粗心大意的錯誤。",
+        "lookup": {
+          "english": "To rebuke or criticize someone sharply.",
+          "chinese": "斥責;嚴厲批評"
+        },
+        "advSentence": "Editorial writers began to reprehend the mayor's handling of the crisis.",
+        "advTranslation": "社論作家開始嚴厲批評市長對這場危機的處理方式。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "denounce",
+        "pos": "v.",
+        "definition": "To criticize publicly.",
+        "chinese": "公開譴責/揭發",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "World leaders quickly moved to __________ the attack.",
+        "translation": "各國領袖迅速採取行動,公開譴責這起攻擊事件。",
+        "lookup": {
+          "english": "To criticize publicly.",
+          "chinese": "公開譴責/揭發"
+        },
+        "advSentence": "She stood up in the meeting to denounce the unfair treatment of new hires.",
+        "advTranslation": "她在會議中站起來公開譴責新進員工受到的不公平待遇。",
+        "added": true,
+        "group": "hot-12"
+      },
+      {
+        "word": "remonstrate",
+        "pos": "v.",
+        "definition": "To make a forceful protest or objection.",
+        "chinese": "抗議;力爭",
+        "synonyms": "deprecate, impugn, rebuke",
+        "image": "shield",
+        "sentence": "Residents began to __________ against the proposed factory closure.",
+        "translation": "居民開始針對這項擬議的工廠關閉展開抗議。",
+        "lookup": {
+          "english": "To make a forceful protest or objection.",
+          "chinese": "抗議;力爭"
+        },
+        "advSentence": "She chose to remonstrate with her manager over the unfair policy.",
+        "advTranslation": "她選擇就這項不公平的政策向她的經理力爭。",
+        "added": true,
+        "group": "hot-12"
       }
     ],
     "quiz": [
@@ -406,6 +604,10 @@ window.FLASHCARD_UNITS = {
         "answer": "B",
         "answerWord": "upbraid"
       }
+    ],
+    "group": "hot-12",
+    "antonymLessons": [
+      19
     ]
   }
 };
@@ -450,5 +652,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "upbraid": [
     "To scold or criticize someone sharply and bitterly.",
     "嚴厲責罵；申斥"
+  ],
+  "reprimand": [
+    "To show sharp disapproval.",
+    "譴責"
+  ],
+  "chide": [
+    "To voice disapproval.",
+    "斥責/責備"
+  ],
+  "admonish": [
+    "To warn, reprove.",
+    "警告"
+  ],
+  "reproach": [
+    "To rebuke, reprimand.",
+    "責備/斥責"
+  ],
+  "vituperate": [
+    "To berate.",
+    "痛罵/斥責"
+  ],
+  "objurgate": [
+    "To scold or rebuke harshly.",
+    "嚴厲斥責"
+  ],
+  "condemn": [
+    "To express strong disapproval of; to sentence to punishment.",
+    "譴責;判刑"
+  ],
+  "excoriate": [
+    "To criticize severely.",
+    "嚴厲批評/痛斥"
+  ],
+  "reprehend": [
+    "To rebuke or criticize someone sharply.",
+    "斥責;嚴厲批評"
+  ],
+  "denounce": [
+    "To criticize publicly.",
+    "公開譴責/揭發"
+  ],
+  "remonstrate": [
+    "To make a forceful protest or objection.",
+    "抗議;力爭"
   ]
 });

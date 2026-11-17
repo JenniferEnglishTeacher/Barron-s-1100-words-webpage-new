@@ -163,6 +163,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Once stagnant and sluggish, the port city's economy has become vibrant again, though critics warn that the lavish spending fueling its revival could prove detrimental if interest rates rise sharply.",
         "advTranslation": "這座港口城市的經濟曾經停滯不前、萎靡不振，如今再度充滿活力；不過批評者警告，若利率急遽上升，推動其復甦的大手筆支出可能會帶來不利影響。"
+      },
+      {
+        "word": "fervid",
+        "pos": "adj.",
+        "definition": "Intense, enthusiastic, passionate.",
+        "chinese": "熱情的/熱烈的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "The senator delivered a __________ speech about the need for reform.",
+        "translation": "這位參議員發表了一場關於改革必要性的熱情激昂演說。",
+        "lookup": {
+          "english": "Intense, enthusiastic, passionate.",
+          "chinese": "熱情的/熱烈的"
+        },
+        "advSentence": "Her fervidedevotion to the cause inspired everyone around her.",
+        "advTranslation": "她對這項理念的熱切奉獻精神激勵了周遭的每一個人。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "passionate",
+        "pos": "adj.",
+        "definition": "Showing strong feelings or enthusiasm.",
+        "chinese": "熱情的;充滿激情的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "She has always been __________ about protecting endangered species.",
+        "translation": "她一直對保護瀕危物種充滿熱情。",
+        "lookup": {
+          "english": "Showing strong feelings or enthusiasm.",
+          "chinese": "熱情的;充滿激情的"
+        },
+        "advSentence": "His passionate speech moved the entire audience to tears.",
+        "advTranslation": "他充滿激情的演講讓全場觀眾都感動落淚。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "perfervid",
+        "pos": "adj.",
+        "definition": "Showing intense and passionate feeling.",
+        "chinese": "極度熱情的;狂熱的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "His __________ speech energized the crowd of supporters.",
+        "translation": "他狂熱的演講讓這群支持者的情緒沸騰起來。",
+        "lookup": {
+          "english": "Showing intense and passionate feeling.",
+          "chinese": "極度熱情的;狂熱的"
+        },
+        "advSentence": "The novel's perfervid romance felt exaggerated to some readers.",
+        "advTranslation": "這本小說熾熱狂放的愛情故事讓一些讀者覺得有些誇張。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "energetic",
+        "pos": "adj.",
+        "definition": "Showing or involving great activity or vitality.",
+        "chinese": "精力充沛的;充滿活力的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "The __________ puppy ran circles around the yard.",
+        "translation": "這隻精力充沛的小狗在院子裡繞圈奔跑。",
+        "lookup": {
+          "english": "Showing or involving great activity or vitality.",
+          "chinese": "精力充沛的;充滿活力的"
+        },
+        "advSentence": "Her energetic leadership revitalized the struggling team.",
+        "advTranslation": "她充滿活力的領導讓這支陷入困境的隊伍重新振作。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "exhilarated",
+        "pos": "adj.",
+        "definition": "Filled with joy or excitement.",
+        "chinese": "興奮的/振奮的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "She felt __________ after completing her first marathon.",
+        "translation": "完成她的第一場馬拉松後,她感到振奮不已。",
+        "lookup": {
+          "english": "Filled with joy or excitement.",
+          "chinese": "興奮的/振奮的"
+        },
+        "advSentence": "The children were exhilarated by their first roller coaster ride.",
+        "advTranslation": "孩子們因第一次搭乘雲霄飛車而興奮不已。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "gusto",
+        "pos": "n.",
+        "definition": "Enthusiasm, enjoyment, zest.",
+        "chinese": "熱情/津津有味",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "He dug into the meal with great __________.",
+        "translation": "他津津有味地大快朵頤這頓飯。",
+        "lookup": {
+          "english": "Enthusiasm, enjoyment, zest.",
+          "chinese": "熱情/津津有味"
+        },
+        "advSentence": "She sang the old folk song with tremendous gusto.",
+        "advTranslation": "她以無比的熱情演唱了這首古老的民謠。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "zeal",
+        "pos": "n.",
+        "definition": "Great energy or enthusiasm in pursuit of a cause or goal.",
+        "chinese": "熱忱;熱情",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "She pursued her research with remarkable __________ .",
+        "translation": "她以驚人的熱忱投入她的研究。",
+        "lookup": {
+          "english": "Great energy or enthusiasm in pursuit of a cause or goal.",
+          "chinese": "熱忱;熱情"
+        },
+        "advSentence": "His zeal for the cause inspired an entire generation of activists.",
+        "advTranslation": "他對這項理念的熱忱激勵了整整一代的社運人士。",
+        "added": true,
+        "group": "hot-16"
+      },
+      {
+        "word": "rapturous",
+        "pos": "adj.",
+        "definition": "Characterized by intense pleasure or enthusiasm.",
+        "chinese": "狂喜的;興高采烈的",
+        "synonyms": "ebullient, effervescent, exuberant",
+        "image": "shield",
+        "sentence": "The performance received a __________ standing ovation from the crowd.",
+        "translation": "這場表演贏得了觀眾狂喜的起立喝彩。",
+        "lookup": {
+          "english": "Characterized by intense pleasure or enthusiasm.",
+          "chinese": "狂喜的;興高采烈的"
+        },
+        "advSentence": "Her rapturousedescription of the vacation made everyone want to visit.",
+        "advTranslation": "她對這趟假期興高采烈的描述讓每個人都想去那裡看看。",
+        "added": true,
+        "group": "hot-16"
       }
     ],
     "quiz": [
@@ -406,6 +550,11 @@ window.FLASHCARD_UNITS = {
         "answer": "B",
         "answerWord": "vibrant"
       }
+    ],
+    "group": "hot-16",
+    "antonymLessons": [
+      13,
+      14
     ]
   }
 };
@@ -450,5 +599,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "vibrant": [
     "Full of energy, life, and activity.",
     "充滿活力的；生氣勃勃的"
+  ],
+  "fervid": [
+    "Intense, enthusiastic, passionate.",
+    "熱情的/熱烈的"
+  ],
+  "passionate": [
+    "Showing strong feelings or enthusiasm.",
+    "熱情的;充滿激情的"
+  ],
+  "perfervid": [
+    "Showing intense and passionate feeling.",
+    "極度熱情的;狂熱的"
+  ],
+  "energetic": [
+    "Showing or involving great activity or vitality.",
+    "精力充沛的;充滿活力的"
+  ],
+  "exhilarated": [
+    "Filled with joy or excitement.",
+    "興奮的/振奮的"
+  ],
+  "gusto": [
+    "Enthusiasm, enjoyment, zest.",
+    "熱情/津津有味"
+  ],
+  "zeal": [
+    "Great energy or enthusiasm in pursuit of a cause or goal.",
+    "熱忱;熱情"
+  ],
+  "rapturous": [
+    "Characterized by intense pleasure or enthusiasm.",
+    "狂喜的;興高采烈的"
   ]
 });

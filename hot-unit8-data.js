@@ -147,6 +147,132 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The team squandered a twenty-point lead, and the coach's terse postgame comments did little to assuage angry fans, who found his platitudes about 'learning from adversity' as insipid as the team's second-half performance.",
         "advTranslation": "球隊揮霍掉二十分的領先優勢，而教練賽後簡短生硬的評論也幾乎無法平息球迷的怒氣；球迷覺得他那些「從逆境中學習」的陳腔濫調，就跟球隊下半場的表現一樣乏味。"
+      },
+      {
+        "word": "bountiful",
+        "pos": "adj.",
+        "definition": "Abundant; giving generously.",
+        "chinese": "豐盛的;慷慨的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "The farmers celebrated an unusually __________ harvest this year.",
+        "translation": "農民們慶祝今年異常豐盛的收成。",
+        "lookup": {
+          "english": "Abundant; giving generously.",
+          "chinese": "豐盛的;慷慨的"
+        },
+        "advSentence": "Their host was bountiful with both food and hospitality.",
+        "advTranslation": "他們的主人在食物和待客之道上都十分大方。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "beneficent",
+        "pos": "adj.",
+        "definition": "Doing good or actively helping others.",
+        "chinese": "行善的；有慈善心的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "The organization is recognized worldwide for its __________ efforts to provide clean water to remote villages.",
+        "translation": "該組織因其在向偏遠村莊提供乾淨飲用水方面的行善努力，而獲得全球認可。",
+        "lookup": {
+          "english": "Doing good or actively helping others.",
+          "chinese": "行善的；有慈善心的"
+        },
+        "advSentence": "She dedicated her retirement years to beneficent work, volunteering at the local animal shelter every day.",
+        "advTranslation": "她將退休後的歲月投入到行善工作中，每天都在當地的動物收容所當志工。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "profligate",
+        "pos": "adj.",
+        "definition": "Wasteful: (anti:frugal=economical=stingy).",
+        "chinese": "揮霍的/放蕩的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "His __________ spending habits left him deeply in debt within a few years.",
+        "translation": "他揮霍無度的消費習慣讓他在幾年內就債台高築。",
+        "lookup": {
+          "english": "Wasteful: (anti:frugal=economical=stingy).",
+          "chinese": "揮霍的/放蕩的"
+        },
+        "advSentence": "The company was criticized for its profligate use of shareholder funds.",
+        "advTranslation": "這家公司因揮霍股東資金而受到批評。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "spendthrift",
+        "pos": "n./adj.",
+        "definition": "A person who spends money extravagantly or wastefully.",
+        "chinese": "揮霍者;揮霍無度的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "His family worried he was becoming a __________ after the inheritance.",
+        "translation": "他的家人擔心他繼承這筆遺產後會變成一個揮霍者。",
+        "lookup": {
+          "english": "A person who spends money extravagantly or wastefully.",
+          "chinese": "揮霍者;揮霍無度的"
+        },
+        "advSentence": "The spendthrift habits of the previous manager left the department in debt.",
+        "advTranslation": "前任經理揮霍無度的習慣讓這個部門陷入了債務。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "extravagant",
+        "pos": "adj.",
+        "definition": "Spending or using much more than is necessary, reasonable, or affordable.",
+        "chinese": "奢侈的；鋪張的；過度的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "The billionaire's __________ lifestyle eventually drove him into bankruptcy.",
+        "translation": "這位億萬富翁奢侈的生活方式最終使他破產。",
+        "lookup": {
+          "english": "Spending or using much more than is necessary, reasonable, or affordable.",
+          "chinese": "奢侈的；鋪張的；過度的"
+        },
+        "advSentence": "The critic called the film's costly effects an extravagant waste of the studio's budget.",
+        "advTranslation": "影評人稱電影昂貴的特效是對製片廠預算的過度浪費。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "liberal",
+        "pos": "adj./n.",
+        "definition": "Open to new behavior or opinions; generous.",
+        "chinese": "自由派的;慷慨的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "The university encouraged __________ debate on controversial topics.",
+        "translation": "這所大學鼓勵學生針對爭議話題進行自由開放的辯論。",
+        "lookup": {
+          "english": "Open to new behavior or opinions; generous.",
+          "chinese": "自由派的;慷慨的"
+        },
+        "advSentence": "He was known for his liberaledonations to local charities.",
+        "advTranslation": "他以慷慨捐助當地慈善機構聞名。",
+        "added": true,
+        "group": "hot-08"
+      },
+      {
+        "word": "generous",
+        "pos": "adj.",
+        "definition": "Showing readiness to give freely; ample.",
+        "chinese": "慷慨的;豐厚的",
+        "synonyms": "prodigal, altruistic, magnanimous",
+        "image": "shield",
+        "sentence": "Her __________ donation funded the entire scholarship program.",
+        "translation": "她慷慨的捐款資助了整個獎學金計畫。",
+        "lookup": {
+          "english": "Showing readiness to give freely; ample.",
+          "chinese": "慷慨的;豐厚的"
+        },
+        "advSentence": "The restaurant serves generous portions at every meal.",
+        "advTranslation": "這家餐廳每一餐都提供豐盛的份量。",
+        "added": true,
+        "group": "hot-08"
       }
     ],
     "quiz": [
@@ -366,6 +492,10 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "squander"
       }
+    ],
+    "group": "hot-08",
+    "antonymLessons": [
+      9
     ]
   }
 };
@@ -406,5 +536,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "squander": [
     "To waste money, time, or opportunities carelessly.",
     "揮霍；浪費"
+  ],
+  "bountiful": [
+    "Abundant; giving generously.",
+    "豐盛的;慷慨的"
+  ],
+  "beneficent": [
+    "Doing good or actively helping others.",
+    "行善的；有慈善心的"
+  ],
+  "profligate": [
+    "Wasteful: (anti:frugal=economical=stingy).",
+    "揮霍的/放蕩的"
+  ],
+  "spendthrift": [
+    "A person who spends money extravagantly or wastefully.",
+    "揮霍者;揮霍無度的"
+  ],
+  "extravagant": [
+    "Spending or using much more than is necessary, reasonable, or affordable.",
+    "奢侈的；鋪張的；過度的"
+  ],
+  "liberal": [
+    "Open to new behavior or opinions; generous.",
+    "自由派的;慷慨的"
+  ],
+  "generous": [
+    "Showing readiness to give freely; ample.",
+    "慷慨的;豐厚的"
   ]
 });

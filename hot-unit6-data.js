@@ -147,6 +147,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The professor's jocular asides kept his lectures lively, but students noticed that his humor never caused him to digress: each joke was succinct, pointed, and designed to make an otherwise prosaic concept in thermodynamics memorable.",
         "advTranslation": "這位教授詼諧的插話讓他的課生動活潑，但學生注意到他的幽默從不使他離題：每個笑話都簡潔扼要、一針見血，目的是讓熱力學中原本平淡無奇的概念令人印象深刻。"
+      },
+      {
+        "word": "genial",
+        "pos": "adj.",
+        "definition": "Friendly, affable.",
+        "chinese": "和藹的/親切的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "The __________ host made every guest feel instantly welcome.",
+        "translation": "這位和藹可親的主人讓每位賓客都立刻感到賓至如歸。",
+        "lookup": {
+          "english": "Friendly, affable.",
+          "chinese": "和藹的/親切的"
+        },
+        "advSentence": "Despite his intimidating size, he had a genial smile that put people at ease.",
+        "advTranslation": "儘管體型嚇人,他親切的笑容卻讓人感到放鬆。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "companionable",
+        "pos": "adj.",
+        "definition": "Friendly and sociable; pleasant to be with.",
+        "chinese": "友好隨和的;易相處的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "Their __________ silence during the long drive was more comfortable than conversation.",
+        "translation": "他們在漫長車程中友好而自在的沉默,比交談更讓人感到自在。",
+        "lookup": {
+          "english": "Friendly and sociable; pleasant to be with.",
+          "chinese": "友好隨和的;易相處的"
+        },
+        "advSentence": "The old dog was companionable and gentle with every visitor.",
+        "advTranslation": "這隻老狗對每位訪客都溫和又易相處。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "gracious",
+        "pos": "adj.",
+        "definition": "Courteous, kind, and pleasant, especially to a subordinate.",
+        "chinese": "親切的;有禮的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "Our __________ host made sure every guest felt welcome.",
+        "translation": "我們親切的主人確保每位賓客都感到賓至如歸。",
+        "lookup": {
+          "english": "Courteous, kind, and pleasant, especially to a subordinate.",
+          "chinese": "親切的;有禮的"
+        },
+        "advSentence": "She gave a gracious acceptance speech after winning the award.",
+        "advTranslation": "她在獲獎後發表了一段有禮得體的獲獎感言。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "hospitable",
+        "pos": "adj.",
+        "definition": "Friendly and welcoming to guests or strangers.",
+        "chinese": "好客的;殷勤的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "The small village was known for being remarkably __________ .",
+        "translation": "這座小村莊以出奇的好客聞名。",
+        "lookup": {
+          "english": "Friendly and welcoming to guests or strangers.",
+          "chinese": "好客的;殷勤的"
+        },
+        "advSentence": "Their hospitable home always had room for one more guest.",
+        "advTranslation": "他們好客的家總是有多餘的空間招待客人。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "courteous",
+        "pos": "adj.",
+        "definition": "Polite and considerate in manner.",
+        "chinese": "有禮貌的;謙恭的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "The __________ waiter refilled our water without being asked.",
+        "translation": "這位有禮貌的服務生沒等我們開口就幫忙加水。",
+        "lookup": {
+          "english": "Polite and considerate in manner.",
+          "chinese": "有禮貌的;謙恭的"
+        },
+        "advSentence": "She remained courteous even when the customer was rude.",
+        "advTranslation": "即使顧客很無禮,她仍保持謙恭有禮。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "urbane",
+        "pos": "adj.",
+        "definition": "Polished, witty: (anti: diatribe).",
+        "chinese": "溫文爾雅的/都市化的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "The host greeted every guest with an __________ smile and a witty remark.",
+        "translation": "主人以溫文爾雅的微笑和機智的言談迎接每一位賓客。",
+        "lookup": {
+          "english": "Polished, witty: (anti: diatribe).",
+          "chinese": "溫文爾雅的/都市化的"
+        },
+        "advSentence": "His urbane manner made him popular at every diplomatic event.",
+        "advTranslation": "他溫文有禮的舉止讓他在每場外交場合都廣受歡迎。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "sociable",
+        "pos": "adj.",
+        "definition": "Friendly and enjoying the company of others.",
+        "chinese": "善於社交的;親切的",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "He was __________ and quickly made friends at the new office.",
+        "translation": "他善於社交,很快就在新辦公室裡交到了朋友。",
+        "lookup": {
+          "english": "Friendly and enjoying the company of others.",
+          "chinese": "善於社交的;親切的"
+        },
+        "advSentence": "The retreat encouraged sociable activities like group hikes.",
+        "advTranslation": "這場靜修活動鼓勵團體健行等社交活動。",
+        "added": true,
+        "group": "hot-06"
+      },
+      {
+        "word": "camaraderie",
+        "pos": "n.",
+        "definition": "Brotherhood, jovial unity.",
+        "chinese": "同志情誼/友愛",
+        "synonyms": "affable, congenial, convivial",
+        "image": "shield",
+        "sentence": "The long road trip built a strong sense of __________ among the teammates.",
+        "translation": "這趟長途旅行讓隊友之間培養出深厚的同志情誼。",
+        "lookup": {
+          "english": "Brotherhood, jovial unity.",
+          "chinese": "同志情誼/友愛"
+        },
+        "advSentence": "There was a real camaraderie among the soldiers who had served together for years.",
+        "advTranslation": "這些一起服役多年的士兵之間有著真摯的袍澤情誼。",
+        "added": true,
+        "group": "hot-06"
       }
     ],
     "quiz": [
@@ -366,6 +510,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "jocular"
       }
+    ],
+    "group": "hot-06",
+    "antonymLessons": [
+      7
     ]
   }
 };
@@ -406,5 +554,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "jocular": [
     "Fond of joking; humorous or playful in manner.",
     "詼諧的；愛開玩笑的"
+  ],
+  "genial": [
+    "Friendly, affable.",
+    "和藹的/親切的"
+  ],
+  "companionable": [
+    "Friendly and sociable; pleasant to be with.",
+    "友好隨和的;易相處的"
+  ],
+  "gracious": [
+    "Courteous, kind, and pleasant, especially to a subordinate.",
+    "親切的;有禮的"
+  ],
+  "hospitable": [
+    "Friendly and welcoming to guests or strangers.",
+    "好客的;殷勤的"
+  ],
+  "courteous": [
+    "Polite and considerate in manner.",
+    "有禮貌的;謙恭的"
+  ],
+  "urbane": [
+    "Polished, witty: (anti: diatribe).",
+    "溫文爾雅的/都市化的"
+  ],
+  "sociable": [
+    "Friendly and enjoying the company of others.",
+    "善於社交的;親切的"
+  ],
+  "camaraderie": [
+    "Brotherhood, jovial unity.",
+    "同志情誼/友愛"
   ]
 });

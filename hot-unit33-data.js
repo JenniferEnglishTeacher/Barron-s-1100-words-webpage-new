@@ -486,7 +486,9 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "uniformity"
       }
-    ]
+    ],
+    "group": "hot-33",
+    "antonymLessons": []
   }
 };
 

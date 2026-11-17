@@ -131,6 +131,150 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The stealthy predator crept through the tall grass toward the gazelles, and its patience contrasted sharply with the raucous, impetuous young lions whose clamor alerted the entire herd and ruined the hunt.",
         "advTranslation": "這隻悄無聲息的掠食者穿過高草叢，悄悄逼近瞪羚；牠的耐心與那些吵鬧、魯莽的年輕獅子形成強烈對比，後者的喧鬧聲驚動了整個羚群，壞了這場狩獵。"
+      },
+      {
+        "word": "sneaky",
+        "pos": "adj.",
+        "definition": "Marked by quiet and caution and secrecy.",
+        "chinese": "偷偷摸摸的/鬼鬼祟祟的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The cat took a __________ path along the fence to avoid the dog.",
+        "translation": "這隻貓沿著圍籬走了一條偷偷摸摸的路線,以避開那隻狗。",
+        "lookup": {
+          "english": "Marked by quiet and caution and secrecy.",
+          "chinese": "偷偷摸摸的/鬼鬼祟祟的"
+        },
+        "advSentence": "She caught him in the sneaky act of reading her diary.",
+        "advTranslation": "她當場抓到他鬼鬼祟祟地在看她的日記。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "wily",
+        "pos": "adj.",
+        "definition": "Crafty, sly.",
+        "chinese": "狡猾的/機靈的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The __________ fox managed to slip past the guard dogs once again.",
+        "translation": "這隻狡猾的狐狸再次成功溜過了看門狗的追捕。",
+        "lookup": {
+          "english": "Crafty, sly.",
+          "chinese": "狡猾的/機靈的"
+        },
+        "advSentence": "Her wily negotiating tactics won her a much better contract.",
+        "advTranslation": "她狡黠的談判手腕讓她爭取到一份好上許多的合約。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "guileful",
+        "pos": "adj.",
+        "definition": "Cunning and deceptive.",
+        "chinese": "狡詐的;奸詐的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The novel's __________ villain manipulates everyone around him.",
+        "translation": "這本小說裡狡詐的反派操縱著周圍的每一個人。",
+        "lookup": {
+          "english": "Cunning and deceptive.",
+          "chinese": "狡詐的;奸詐的"
+        },
+        "advSentence": "Her guileful scheme nearly succeeded before it unraveled.",
+        "advTranslation": "她狡詐的計謀在被拆穿之前差點就成功了。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "cunning",
+        "pos": "adj.",
+        "definition": "Sly, clever at being deceitful.",
+        "chinese": "狡猾的/精明的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The __________ fox managed to escape the trap once again.",
+        "translation": "這隻狡猾的狐狸再度成功躲過了陷阱。",
+        "lookup": {
+          "english": "Sly, clever at being deceitful.",
+          "chinese": "狡猾的/精明的"
+        },
+        "advSentence": "Her cunning plan fooled even her closest friends.",
+        "advTranslation": "她狡猾的計畫甚至騙過了她最親近的朋友。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "crafty",
+        "pos": "adj.",
+        "definition": "Cleverly cunning or deceitful.",
+        "chinese": "狡猾的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The __________ fox slipped past the sleeping guard dog.",
+        "translation": "這隻狡猾的狐狸悄悄溜過了熟睡的看門狗。",
+        "lookup": {
+          "english": "Cleverly cunning or deceitful.",
+          "chinese": "狡猾的"
+        },
+        "advSentence": "Her crafty plan fooled even her closest friends.",
+        "advTranslation": "她狡猾的計畫連最親近的朋友都被騙了。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "artful",
+        "pos": "adj.",
+        "definition": "Clever or skillful, especially in a cunning way.",
+        "chinese": "巧妙的;狡猾的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The negotiator's __________ compromise satisfied both sides without either feeling defeated.",
+        "translation": "這位談判專家巧妙的折衷方案,讓雙方都感到滿意,不覺得自己輸了。",
+        "lookup": {
+          "english": "Clever or skillful, especially in a cunning way.",
+          "chinese": "巧妙的;狡猾的"
+        },
+        "advSentence": "The con artist was known for his artful schemes targeting elderly investors.",
+        "advTranslation": "這名詐騙犯以針對年長投資人的狡猾騙局而惡名昭彰。",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "latent",
+        "pos": "adj.",
+        "definition": "(of a quality or state) existing but not yet developed or manifest; hidden=potential; concealed.",
+        "chinese": "潛在的；潛伏的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "The teacher recognized the __________ talent in the shy student, realizing that although he rarely spoke in class, his written essays demonstrated a profound understanding of literature that just needed encouragement to bloom.",
+        "translation": "老師認出了這位害羞學生身上潛伏的天賦，意識到雖然他很少在課堂上發言，但他的書面文章表現出對文學的深刻理解，只需要鼓勵就能綻放。",
+        "lookup": {
+          "english": "(of a quality or state) existing but not yet developed or manifest; hidden=potential; concealed.",
+          "chinese": "潛在的；潛伏的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-25"
+      },
+      {
+        "word": "concealed",
+        "pos": "adj.",
+        "definition": "Kept hidden or out of sight.",
+        "chinese": "隱藏的;隱蔽的",
+        "synonyms": "inconspicuous, surreptitious, unobtrusive",
+        "image": "shield",
+        "sentence": "Security guards discovered a __________ weapon during the routine search.",
+        "translation": "保全人員在例行搜查中發現了一件隱藏的武器。",
+        "lookup": {
+          "english": "Kept hidden or out of sight.",
+          "chinese": "隱藏的;隱蔽的"
+        },
+        "advSentence": "Her concealed resentment finally surfaced during the family dinner.",
+        "advTranslation": "她隱藏的怨氣終於在這場家庭晚餐上爆發了出來。",
+        "added": true,
+        "group": "hot-25"
       }
     ],
     "quiz": [
@@ -326,6 +470,11 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "stealthy"
       }
+    ],
+    "group": "hot-25",
+    "antonymLessons": [
+      18,
+      90
     ]
   }
 };
@@ -362,5 +511,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "stealthy": [
     "Moving or acting quietly and carefully to avoid notice.",
     "偷偷摸摸的；悄悄的；隱密的"
+  ],
+  "sneaky": [
+    "Marked by quiet and caution and secrecy.",
+    "偷偷摸摸的/鬼鬼祟祟的"
+  ],
+  "wily": [
+    "Crafty, sly.",
+    "狡猾的/機靈的"
+  ],
+  "guileful": [
+    "Cunning and deceptive.",
+    "狡詐的;奸詐的"
+  ],
+  "cunning": [
+    "Sly, clever at being deceitful.",
+    "狡猾的/精明的"
+  ],
+  "crafty": [
+    "Cleverly cunning or deceitful.",
+    "狡猾的"
+  ],
+  "artful": [
+    "Clever or skillful, especially in a cunning way.",
+    "巧妙的;狡猾的"
+  ],
+  "latent": [
+    "(of a quality or state) existing but not yet developed or manifest; hidden=potential; concealed.",
+    "潛在的；潛伏的"
+  ],
+  "concealed": [
+    "Kept hidden or out of sight.",
+    "隱藏的;隱蔽的"
   ]
 });

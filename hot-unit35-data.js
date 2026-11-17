@@ -366,7 +366,9 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "vaporize"
       }
-    ]
+    ],
+    "group": "hot-35",
+    "antonymLessons": []
   }
 };
 

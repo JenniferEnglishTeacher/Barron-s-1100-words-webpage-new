@@ -195,6 +195,78 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Attempting to placate the indignant villagers, the mining company offered a lavish compensation package, but residents remained wary, suspecting the offer was a devious ploy to silence their complaints about polluted water.",
         "advTranslation": "為了安撫憤慨的村民，這家礦業公司提出一份優渥的賠償方案，但居民仍保持警惕，懷疑這項提議是一個狡猾的計謀，目的是讓他們對水源污染的抱怨噤聲。"
+      },
+      {
+        "word": "soothe",
+        "pos": "v.",
+        "definition": "To gently calm or comfort.",
+        "chinese": "安撫;撫慰",
+        "synonyms": "alleviate, ameliorate, appease",
+        "image": "shield",
+        "sentence": "She sang softly to __________ the crying infant.",
+        "translation": "她輕聲唱歌來安撫這個哭泣的嬰兒。",
+        "lookup": {
+          "english": "To gently calm or comfort.",
+          "chinese": "安撫;撫慰"
+        },
+        "advSentence": "The warm bath helped soothe his sore muscles.",
+        "advTranslation": "這場溫水浴有助於舒緩他痠痛的肌肉。",
+        "added": true,
+        "group": "hot-05"
+      },
+      {
+        "word": "palliate",
+        "pos": "v.",
+        "definition": "To alleviate, relieve without curing.",
+        "chinese": "減輕/掩飾",
+        "synonyms": "alleviate, ameliorate, appease",
+        "image": "shield",
+        "sentence": "The medication can __________ the pain but cannot cure the underlying disease.",
+        "translation": "這種藥物能減輕疼痛,但無法治癒潛在的疾病。",
+        "lookup": {
+          "english": "To alleviate, relieve without curing.",
+          "chinese": "減輕/掩飾"
+        },
+        "advSentence": "The company's apology did little to palliate the customers' anger.",
+        "advTranslation": "這家公司的道歉幾乎無法平息顧客的怒氣。",
+        "added": true,
+        "group": "hot-05"
+      },
+      {
+        "word": "propitiate",
+        "pos": "v.",
+        "definition": "To win favor or appease someone by doing something pleasing.",
+        "chinese": "安撫;討好",
+        "synonyms": "alleviate, ameliorate, appease",
+        "image": "shield",
+        "sentence": "Ancient peoples made offerings to __________ their gods.",
+        "translation": "古代的人們獻上祭品以討好他們的神祇。",
+        "lookup": {
+          "english": "To win favor or appease someone by doing something pleasing.",
+          "chinese": "安撫;討好"
+        },
+        "advSentence": "He brought flowers to try to propitiate his angry wife.",
+        "advTranslation": "他帶著花試圖安撫他生氣的妻子。",
+        "added": true,
+        "group": "hot-05"
+      },
+      {
+        "word": "calm",
+        "pos": "adj./n.",
+        "definition": "Not showing or feeling nervousness or excitement; a state of peace.",
+        "chinese": "冷靜的;平靜",
+        "synonyms": "alleviate, ameliorate, appease",
+        "image": "shield",
+        "sentence": "She remained remarkably __________ throughout the entire emergency.",
+        "translation": "在整場緊急事件中,她始終保持出奇的冷靜。",
+        "lookup": {
+          "english": "Not showing or feeling nervousness or excitement; a state of peace.",
+          "chinese": "冷靜的;平靜"
+        },
+        "advSentence": "A sense of calm settled over the village once the storm had passed.",
+        "advTranslation": "暴風雨過後,一股平靜的氛圍籠罩了整個村莊。",
+        "added": true,
+        "group": "hot-05"
       }
     ],
     "quiz": [
@@ -486,6 +558,11 @@ window.FLASHCARD_UNITS = {
         "answer": "A",
         "answerWord": "placate"
       }
+    ],
+    "group": "hot-05",
+    "antonymLessons": [
+      7,
+      11
     ]
   }
 };
@@ -538,5 +615,21 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "placate": [
     "To make someone less angry or hostile.",
     "安撫；使息怒"
+  ],
+  "soothe": [
+    "To gently calm or comfort.",
+    "安撫;撫慰"
+  ],
+  "palliate": [
+    "To alleviate, relieve without curing.",
+    "減輕/掩飾"
+  ],
+  "propitiate": [
+    "To win favor or appease someone by doing something pleasing.",
+    "安撫;討好"
+  ],
+  "calm": [
+    "Not showing or feeling nervousness or excitement; a state of peace.",
+    "冷靜的;平靜"
   ]
 });

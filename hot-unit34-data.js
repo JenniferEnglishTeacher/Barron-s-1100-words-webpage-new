@@ -366,7 +366,9 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "glacial"
       }
-    ]
+    ],
+    "group": "hot-34",
+    "antonymLessons": []
   }
 };
 

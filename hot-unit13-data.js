@@ -163,6 +163,186 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The stoical explorer endured the austere conditions of the Antarctic winter without complaint, rationing supplies in frugal portions and refusing to let the turmoil of the storms disrupt the expedition's careful scientific work.",
         "advTranslation": "這位堅忍的探險家毫無怨言地忍受南極冬季的嚴酷環境，以節儉的份量配給物資，並拒絕讓暴風雪帶來的混亂打亂探險隊嚴謹的科學工作。"
+      },
+      {
+        "word": "stoic",
+        "pos": "adj.",
+        "definition": "Unaffected by passion or feeling.",
+        "chinese": "堅忍的/淡然的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "She remained __________ even as the doctor delivered the difficult diagnosis.",
+        "translation": "即使醫生宣布這個艱難的診斷結果,她依然表現得十分淡然堅忍。",
+        "lookup": {
+          "english": "Unaffected by passion or feeling.",
+          "chinese": "堅忍的/淡然的"
+        },
+        "advSentence": "His stoic expression gave no hint of the grief he felt inside.",
+        "advTranslation": "他那淡然的表情絲毫沒有透露出內心的悲痛。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "stolid",
+        "pos": "adj.",
+        "definition": "Expressing little sensibility, unemotional.",
+        "chinese": "遲鈍的/麻木的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "The __________ guard showed no reaction to the crowd's shouting.",
+        "translation": "這位面無表情的守衛對群眾的吶喊毫無反應。",
+        "lookup": {
+          "english": "Expressing little sensibility, unemotional.",
+          "chinese": "遲鈍的/麻木的"
+        },
+        "advSentence": "Despite the chaos around him, he remained stolid and unmoved.",
+        "advTranslation": "儘管周遭一片混亂,他仍舊麻木不為所動。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "dispassionate",
+        "pos": "adj.",
+        "definition": "Not influenced by strong emotion; impartial.",
+        "chinese": "冷靜客觀的;不帶感情的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "The judge gave a __________ assessment of the evidence.",
+        "translation": "法官對證據給出了冷靜客觀的評估。",
+        "lookup": {
+          "english": "Not influenced by strong emotion; impartial.",
+          "chinese": "冷靜客觀的;不帶感情的"
+        },
+        "advSentence": "She remained dispassionate even while discussing her own case.",
+        "advTranslation": "即使在討論自己的案件時,她仍保持不帶感情的態度。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "unemotional",
+        "pos": "adj.",
+        "definition": "Not showing or influenced by emotion.",
+        "chinese": "不動感情的;冷靜的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "The judge remained __________ while delivering the difficult verdict.",
+        "translation": "這位法官在宣布這項艱難的判決時始終不動聲色。",
+        "lookup": {
+          "english": "Not showing or influenced by emotion.",
+          "chinese": "不動感情的;冷靜的"
+        },
+        "advSentence": "His unemotional response to the tragedy surprised his friends.",
+        "advTranslation": "他對這場悲劇不帶感情的反應讓他的朋友們感到驚訝。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "insouciant",
+        "pos": "adj.",
+        "definition": "Casually indifferent; carefree.",
+        "chinese": "漫不經心的;無憂無慮的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "His __________ attitude toward deadlines worried his supervisor.",
+        "translation": "他對截止日期漫不經心的態度讓主管感到擔憂。",
+        "lookup": {
+          "english": "Casually indifferent; carefree.",
+          "chinese": "漫不經心的;無憂無慮的"
+        },
+        "advSentence": "She strolled in with an insouciant smile, unbothered by the chaos.",
+        "advTranslation": "她帶著漫不經心的微笑走進來,絲毫不受這片混亂影響。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "lukewarm",
+        "pos": "adj.",
+        "definition": "Moderately warm; showing little enthusiasm.",
+        "chinese": "溫的;不太熱情的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "He complained that the soup had gone __________ by the time it arrived.",
+        "translation": "他抱怨這碗湯送到時已經變得不冷不熱了。",
+        "lookup": {
+          "english": "Moderately warm; showing little enthusiasm.",
+          "chinese": "溫的;不太熱情的"
+        },
+        "advSentence": "The audience gave the performance only a lukewarm reception.",
+        "advTranslation": "觀眾對這場表演的反應只是不太熱情。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "perfunctory",
+        "pos": "adj.",
+        "definition": "Done without care, superficial.",
+        "chinese": "敷衍的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "He gave a __________ apology that didn't seem sincere at all.",
+        "translation": "他做出了一個敷衍的道歉,聽起來一點也不真誠。",
+        "lookup": {
+          "english": "Done without care, superficial.",
+          "chinese": "敷衍的"
+        },
+        "advSentence": "The security guard did only a perfunctory check of everyone's bags.",
+        "advTranslation": "警衛只對每個人的包包做了敷衍了事的檢查。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "blasé",
+        "pos": "adj.",
+        "definition": "Indifferent, not responsive to excitement.",
+        "chinese": "玩世不恭的/厭倦的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "After years in the industry, she had grown __________ about celebrity encounters.",
+        "translation": "在這個產業待了多年之後,她對遇到名人已經變得不當一回事。",
+        "lookup": {
+          "english": "Indifferent, not responsive to excitement.",
+          "chinese": "玩世不恭的/厭倦的"
+        },
+        "advSentence": "He seemed strangely blasé about losing his job.",
+        "advTranslation": "他對於丟掉工作這件事顯得出奇地無動於衷。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "disinterested",
+        "pos": "adj.",
+        "definition": "Not influenced by personal interest; impartial.",
+        "chinese": "公正無私的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "A __________ mediator helped the two sides reach an agreement.",
+        "translation": "一位公正無私的調解人幫助雙方達成協議。",
+        "lookup": {
+          "english": "Not influenced by personal interest; impartial.",
+          "chinese": "公正無私的"
+        },
+        "advSentence": "Judges must remain disinterested regardless of public opinion.",
+        "advTranslation": "法官無論輿論如何都必須保持公正無私。",
+        "added": true,
+        "group": "hot-13"
+      },
+      {
+        "word": "callous",
+        "pos": "adj.",
+        "definition": "Unfeeling.",
+        "chinese": "冷酷無情的",
+        "synonyms": "detached, impassive, indifferent",
+        "image": "shield",
+        "sentence": "His __________ remarks about the tragedy shocked everyone in the room.",
+        "translation": "他對這場悲劇冷酷無情的評論震驚了在場所有人。",
+        "lookup": {
+          "english": "Unfeeling.",
+          "chinese": "冷酷無情的"
+        },
+        "advSentence": "Years of hardship had left her feeling callous toward others' complaints.",
+        "advTranslation": "多年的艱苦生活讓她對別人的抱怨變得冷漠無情。",
+        "added": true,
+        "group": "hot-13"
       }
     ],
     "quiz": [
@@ -406,6 +586,10 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "stoical"
       }
+    ],
+    "group": "hot-13",
+    "antonymLessons": [
+      16
     ]
   }
 };
@@ -450,5 +634,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "stoical": [
     "Enduring pain or hardship without complaint or visible emotion.",
     "堅忍的；不動聲色的"
+  ],
+  "stoic": [
+    "Unaffected by passion or feeling.",
+    "堅忍的/淡然的"
+  ],
+  "stolid": [
+    "Expressing little sensibility, unemotional.",
+    "遲鈍的/麻木的"
+  ],
+  "dispassionate": [
+    "Not influenced by strong emotion; impartial.",
+    "冷靜客觀的;不帶感情的"
+  ],
+  "unemotional": [
+    "Not showing or influenced by emotion.",
+    "不動感情的;冷靜的"
+  ],
+  "insouciant": [
+    "Casually indifferent; carefree.",
+    "漫不經心的;無憂無慮的"
+  ],
+  "lukewarm": [
+    "Moderately warm; showing little enthusiasm.",
+    "溫的;不太熱情的"
+  ],
+  "perfunctory": [
+    "Done without care, superficial.",
+    "敷衍的"
+  ],
+  "blasé": [
+    "Indifferent, not responsive to excitement.",
+    "玩世不恭的/厭倦的"
+  ],
+  "disinterested": [
+    "Not influenced by personal interest; impartial.",
+    "公正無私的"
+  ],
+  "callous": [
+    "Unfeeling.",
+    "冷酷無情的"
   ]
 });

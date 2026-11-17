@@ -179,6 +179,168 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The willful heiress rebuffed every warning from the family's trustees, squandering her inheritance on ostentatious mansions and reacting with insolent contempt whenever advisers urged her to adopt a more frugal lifestyle.",
         "advTranslation": "那位任性的女繼承人斷然拒絕家族信託人的每一次警告，把遺產揮霍在浮誇的豪宅上，每當顧問勸她改採較節儉的生活方式時，她都以傲慢無禮的輕蔑回應。"
+      },
+      {
+        "word": "stubborn",
+        "pos": "adj.",
+        "definition": "Refusing to change one's mind or course of action.",
+        "chinese": "頑固的;固執的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "He remained __________ despite everyone's advice to reconsider.",
+        "translation": "儘管大家都建議他重新考慮,他仍然十分固執。",
+        "lookup": {
+          "english": "Refusing to change one's mind or course of action.",
+          "chinese": "頑固的;固執的"
+        },
+        "advSentence": "The stubborn stain refused to come out even after several washes.",
+        "advTranslation": "這個頑固的污漬即使洗了好幾次也依然去不掉。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "tenacious",
+        "pos": "adj.",
+        "definition": "Tending to keep a firm hold of something; persistent.",
+        "chinese": "堅韌不拔的；頑強的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "Thanks to her __________ efforts, the investigative journalist uncovered the corporate fraud that others ignored.",
+        "translation": "多虧了她「堅韌不拔的（頑強的）」努力，這位調查記者揭露了其他人忽略的企業詐欺行為。",
+        "lookup": {
+          "english": "Tending to keep a firm hold of something; persistent.",
+          "chinese": "堅韌不拔的；頑強的"
+        },
+        "advSentence": "",
+        "advTranslation": "",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "pertinacious",
+        "pos": "adj.",
+        "definition": "Stubbornly persistent.",
+        "chinese": "頑強的/固執的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "The __________ reporter refused to stop asking questions until she got a real answer.",
+        "translation": "這位固執的記者不肯罷休,直到得到一個真正的答案為止。",
+        "lookup": {
+          "english": "Stubbornly persistent.",
+          "chinese": "頑強的/固執的"
+        },
+        "advSentence": "His pertinacious pursuit of the patent eventually paid off after years of rejection.",
+        "advTranslation": "他頑強地追求這項專利,在多年遭拒後終於獲得了回報。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "relentless",
+        "pos": "adj.",
+        "definition": "Continuing without pause or weakening; persistent.",
+        "chinese": "無情的;不懈的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "The __________ rain flooded streets throughout the entire city.",
+        "translation": "這場無情的大雨淹沒了整座城市的街道。",
+        "lookup": {
+          "english": "Continuing without pause or weakening; persistent.",
+          "chinese": "無情的;不懈的"
+        },
+        "advSentence": "Her relentless pursuit of justice eventually exposed the fraud.",
+        "advTranslation": "她不懈的追求正義最終揭露了這起詐欺案。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "inexorable",
+        "pos": "adj.",
+        "definition": "Inflexible, unrelenting.",
+        "chinese": "無情的/不可阻擋的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "The __________ march of time cannot be stopped by anyone.",
+        "translation": "時間無情的腳步無人能夠阻擋。",
+        "lookup": {
+          "english": "Inflexible, unrelenting.",
+          "chinese": "無情的/不可阻擋的"
+        },
+        "advSentence": "Despite their efforts, the inexorable rise in prices continued.",
+        "advTranslation": "儘管他們努力設法,物價無情的上漲仍舊持續。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "indomitable",
+        "pos": "adj.",
+        "definition": "Not capable of being conquered.",
+        "chinese": "不屈不撓的/難以征服的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "Her __________ spirit carried her through years of hardship.",
+        "translation": "她不屈不撓的精神支撐她度過了多年的艱難歲月。",
+        "lookup": {
+          "english": "Not capable of being conquered.",
+          "chinese": "不屈不撓的/難以征服的"
+        },
+        "advSentence": "The small nation's indomitable resistance surprised the invading army.",
+        "advTranslation": "這個小國不屈不撓的抵抗讓入侵的軍隊大感意外。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "headstrong",
+        "pos": "adj.",
+        "definition": "Stubbornly determined to have one's own way.",
+        "chinese": "固執的;任性的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "The __________ teenager refused to listen to any advice.",
+        "translation": "這位固執的青少年拒絕聽取任何建議。",
+        "lookup": {
+          "english": "Stubbornly determined to have one's own way.",
+          "chinese": "固執的;任性的"
+        },
+        "advSentence": "Her headstrong nature made negotiation difficult.",
+        "advTranslation": "她任性固執的性格讓談判變得困難。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "intransigent",
+        "pos": "adj.",
+        "definition": "Refusing to compromise, often on an extreme opinion.",
+        "chinese": "不妥協的/頑固的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "Negotiations stalled because both sides remained completely __________.",
+        "translation": "由於雙方都堅持不肯妥協,談判陷入了僵局。",
+        "lookup": {
+          "english": "Refusing to compromise, often on an extreme opinion.",
+          "chinese": "不妥協的/頑固的"
+        },
+        "advSentence": "Her intransigent stance on the issue frustrated even her closest allies.",
+        "advTranslation": "她在這個議題上不肯讓步的立場,讓連她最親近的盟友都感到沮喪。",
+        "added": true,
+        "group": "hot-17"
+      },
+      {
+        "word": "resolute",
+        "pos": "adj.",
+        "definition": "Firm, determined.",
+        "chinese": "堅定的/果決的",
+        "synonyms": "intractable, recalcitrant, resolve",
+        "image": "shield",
+        "sentence": "She remained __________ in her decision despite pressure from her family.",
+        "translation": "儘管家人施壓,她仍對自己的決定堅定不移。",
+        "lookup": {
+          "english": "Firm, determined.",
+          "chinese": "堅定的/果決的"
+        },
+        "advSentence": "His resolute leadership helped the team through its most difficult season.",
+        "advTranslation": "他堅定果決的領導,帶領球隊度過了最艱難的一個賽季。",
+        "added": true,
+        "group": "hot-17"
       }
     ],
     "quiz": [
@@ -446,6 +608,11 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "willful"
       }
+    ],
+    "group": "hot-17",
+    "antonymLessons": [
+      15,
+      88
     ]
   }
 };
@@ -494,5 +661,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "willful": [
     "Stubbornly determined to do as one wishes, ignoring others.",
     "任性的；固執己見的"
+  ],
+  "stubborn": [
+    "Refusing to change one's mind or course of action.",
+    "頑固的;固執的"
+  ],
+  "tenacious": [
+    "Tending to keep a firm hold of something; persistent.",
+    "堅韌不拔的；頑強的"
+  ],
+  "pertinacious": [
+    "Stubbornly persistent.",
+    "頑強的/固執的"
+  ],
+  "relentless": [
+    "Continuing without pause or weakening; persistent.",
+    "無情的;不懈的"
+  ],
+  "inexorable": [
+    "Inflexible, unrelenting.",
+    "無情的/不可阻擋的"
+  ],
+  "indomitable": [
+    "Not capable of being conquered.",
+    "不屈不撓的/難以征服的"
+  ],
+  "headstrong": [
+    "Stubbornly determined to have one's own way.",
+    "固執的;任性的"
+  ],
+  "intransigent": [
+    "Refusing to compromise, often on an extreme opinion.",
+    "不妥協的/頑固的"
+  ],
+  "resolute": [
+    "Firm, determined.",
+    "堅定的/果決的"
   ]
 });

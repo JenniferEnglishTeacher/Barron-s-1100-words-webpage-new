@@ -163,6 +163,96 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "A scrupulous judge, she refused even modest gifts from litigants, and her unwavering integrity stood in stark contrast to the mercenary conduct of colleagues who had been censured for accepting bribes.",
         "advTranslation": "她是一位正直嚴謹的法官，連訴訟當事人送的小禮物都一概拒絕；她堅定不移的操守，與那些因收受賄賂而遭到譴責、唯利是圖的同僚形成強烈對比。"
+      },
+      {
+        "word": "cautious",
+        "pos": "adj.",
+        "definition": "Careful to avoid danger or mistakes.",
+        "chinese": "謹慎的;小心的",
+        "synonyms": "circumspect, conscientious, exacting",
+        "image": "shield",
+        "sentence": "Investors remained __________ despite the market's recent gains.",
+        "translation": "儘管市場近期上漲,投資人仍保持謹慎。",
+        "lookup": {
+          "english": "Careful to avoid danger or mistakes.",
+          "chinese": "謹慎的;小心的"
+        },
+        "advSentence": "She took a cautious approach, testing the product on a small group first.",
+        "advTranslation": "她採取謹慎的做法,先在小範圍測試這項產品。",
+        "added": true,
+        "group": "hot-22"
+      },
+      {
+        "word": "punctilious",
+        "pos": "adj.",
+        "definition": "Eager to follow rules or conventions.",
+        "chinese": "一絲不苟的/拘泥細節的",
+        "synonyms": "circumspect, conscientious, exacting",
+        "image": "shield",
+        "sentence": "The __________ accountant double-checked every figure before submitting the report.",
+        "translation": "這位一絲不苟的會計在提交報告前,反覆核對了每一個數字。",
+        "lookup": {
+          "english": "Eager to follow rules or conventions.",
+          "chinese": "一絲不苟的/拘泥細節的"
+        },
+        "advSentence": "His punctilious attention to etiquette impressed the visiting dignitaries.",
+        "advTranslation": "他對禮儀一絲不苟的講究,讓來訪的貴賓印象深刻。",
+        "added": true,
+        "group": "hot-22"
+      },
+      {
+        "word": "discreet",
+        "pos": "adj.",
+        "definition": "Careful, cautious, prudent.",
+        "chinese": "謹慎的",
+        "synonyms": "circumspect, conscientious, exacting",
+        "image": "shield",
+        "sentence": "She made a __________ inquiry about the salary before accepting the offer.",
+        "translation": "在接受這份工作邀約前,她謹慎地詢問了薪資。",
+        "lookup": {
+          "english": "Careful, cautious, prudent.",
+          "chinese": "謹慎的"
+        },
+        "advSentence": "He was discreet about his relationship, telling only close friends.",
+        "advTranslation": "他對這段感情十分謹慎,只告訴了幾位親近的朋友。",
+        "added": true,
+        "group": "hot-22"
+      },
+      {
+        "word": "careful",
+        "pos": "adj.",
+        "definition": "Taking care to avoid harm or mistakes.",
+        "chinese": "小心的;謹慎的",
+        "synonyms": "circumspect, conscientious, exacting",
+        "image": "shield",
+        "sentence": "Be __________ when crossing the busy intersection near the school.",
+        "translation": "經過學校附近繁忙的十字路口時要小心。",
+        "lookup": {
+          "english": "Taking care to avoid harm or mistakes.",
+          "chinese": "小心的;謹慎的"
+        },
+        "advSentence": "A careful review of the contract revealed a hidden fee.",
+        "advTranslation": "仔細審閱這份合約後,發現了一項隱藏的費用。",
+        "added": true,
+        "group": "hot-22"
+      },
+      {
+        "word": "deliberate",
+        "pos": "adj.",
+        "definition": "Done consciously and intentionally.",
+        "chinese": "故意的/深思熟慮的",
+        "synonyms": "circumspect, conscientious, exacting",
+        "image": "shield",
+        "sentence": "The __________ actions of the protestors drew widespread attention.",
+        "translation": "抗議者刻意為之的行動引起了廣泛關注。",
+        "lookup": {
+          "english": "Done consciously and intentionally.",
+          "chinese": "故意的/深思熟慮的"
+        },
+        "advSentence": "His silence was entirely deliberate, meant to make her uncomfortable.",
+        "advTranslation": "他的沉默完全是故意的,目的是要讓她感到不自在。",
+        "added": true,
+        "group": "hot-22"
       }
     ],
     "quiz": [
@@ -406,6 +496,10 @@ window.FLASHCARD_UNITS = {
         "answer": "D",
         "answerWord": "scrupulous"
       }
+    ],
+    "group": "hot-22",
+    "antonymLessons": [
+      14
     ]
   }
 };
@@ -450,5 +544,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "scrupulous": [
     "Extremely careful, thorough, and honest about doing what is right.",
     "一絲不苟的；嚴謹的；正直的"
+  ],
+  "cautious": [
+    "Careful to avoid danger or mistakes.",
+    "謹慎的;小心的"
+  ],
+  "punctilious": [
+    "Eager to follow rules or conventions.",
+    "一絲不苟的/拘泥細節的"
+  ],
+  "discreet": [
+    "Careful, cautious, prudent.",
+    "謹慎的"
+  ],
+  "careful": [
+    "Taking care to avoid harm or mistakes.",
+    "小心的;謹慎的"
+  ],
+  "deliberate": [
+    "Done consciously and intentionally.",
+    "故意的/深思熟慮的"
   ]
 });

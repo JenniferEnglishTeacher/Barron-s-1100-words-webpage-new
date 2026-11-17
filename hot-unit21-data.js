@@ -406,7 +406,9 @@ window.FLASHCARD_UNITS = {
         "answer": "C",
         "answerWord": "savory"
       }
-    ]
+    ],
+    "group": "hot-21",
+    "antonymLessons": []
   }
 };
 

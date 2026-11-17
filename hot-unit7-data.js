@@ -179,6 +179,132 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Her polemical essay attacked the complacent assumptions of mainstream economists, but critics argued that its sweeping claims were too diffuse to persuade anyone not already inclined to agree, and that its rhetorical flourishes obscured her evidence.",
         "advTranslation": "她那篇論戰性的文章抨擊主流經濟學家自滿的假設，但批評者認為，文中籠統的主張太過散漫，無法說服原本就不傾向認同的人，而且修辭上的華麗詞藻也掩蓋了她的論證依據。"
+      },
+      {
+        "word": "truculent",
+        "pos": "adj.",
+        "definition": "Ready to fight, cruel.",
+        "chinese": "好鬥的/兇暴的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The __________ customer began shouting at the staff over a minor mistake.",
+        "translation": "這位好鬥的顧客因為一個小失誤而對員工大聲咆哮。",
+        "lookup": {
+          "english": "Ready to fight, cruel.",
+          "chinese": "好鬥的/兇暴的"
+        },
+        "advSentence": "His truculent tone made it clear he was ready for a confrontation.",
+        "advTranslation": "他兇狠的語氣清楚表明他已準備好要對抗到底。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "antagonistic",
+        "pos": "adj.",
+        "definition": "Showing hostility or opposition.",
+        "chinese": "敵對的/對抗性的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "His __________ behavior created tension at work.",
+        "translation": "他充滿敵意的行為在職場上造成了緊張氣氛。",
+        "lookup": {
+          "english": "Showing hostility or opposition.",
+          "chinese": "敵對的/對抗性的"
+        },
+        "advSentence": "The two rival companies have maintained an antagonistic relationship for years.",
+        "advTranslation": "這兩家競爭公司多年來一直維持著敵對的關係。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "militant",
+        "pos": "adj./n.",
+        "definition": "Combative and aggressive in support of a cause.",
+        "chinese": "好戰的;激進分子",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The group's __________ tactics alarmed even its own supporters.",
+        "translation": "這個團體激進好戰的策略甚至讓自己的支持者也感到不安。",
+        "lookup": {
+          "english": "Combative and aggressive in support of a cause.",
+          "chinese": "好戰的;激進分子"
+        },
+        "advSentence": "A militant faction broke away to pursue more aggressive protests.",
+        "advTranslation": "一個激進派系分裂出去,追求更為激烈的抗爭手段。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "acrimonious",
+        "pos": "adj.",
+        "definition": "Bitter.",
+        "chinese": "嚴厲的/辛辣的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The couple went through an __________ divorce that lasted nearly two years.",
+        "translation": "這對夫妻經歷了一場長達近兩年、爭執激烈的離婚訴訟。",
+        "lookup": {
+          "english": "Bitter.",
+          "chinese": "嚴厲的/辛辣的"
+        },
+        "advSentence": "The meeting became acrimonious when the two managers began shouting at each other.",
+        "advTranslation": "當兩位經理開始互相大吼時,這場會議變得劍拔弩張。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "fractious",
+        "pos": "adj.",
+        "definition": "Quarrelsome.",
+        "chinese": "易怒的/好爭吵的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The __________ committee could not agree on even the simplest issues.",
+        "translation": "這個易於爭吵的委員會連最簡單的議題都無法達成共識。",
+        "lookup": {
+          "english": "Quarrelsome.",
+          "chinese": "易怒的/好爭吵的"
+        },
+        "advSentence": "The toddler grew fractious after missing his afternoon nap.",
+        "advTranslation": "這個小孩因為錯過午睡而變得易怒難纏。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "inimical",
+        "pos": "adj.",
+        "definition": "Hostile, enemylike.",
+        "chinese": "敵對的/有害的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The harsh climate proved __________ to most forms of plant life.",
+        "translation": "這種嚴酷的氣候對大多數植物來說都相當不利。",
+        "lookup": {
+          "english": "Hostile, enemylike.",
+          "chinese": "敵對的/有害的"
+        },
+        "advSentence": "The two rival companies remained inimical toward each other for years.",
+        "advTranslation": "這兩家對立的公司多年來始終彼此敵對。",
+        "added": true,
+        "group": "hot-07"
+      },
+      {
+        "word": "vitriolic",
+        "pos": "adj.",
+        "definition": "Biting, burning.",
+        "chinese": "刻薄的/惡意的",
+        "synonyms": "antagonism, contentious, disputatious",
+        "image": "shield",
+        "sentence": "The critic wrote a __________ review that devastated the young author.",
+        "translation": "這位評論家寫了一篇尖酸刻薄的評論,讓這位年輕作家深受打擊。",
+        "lookup": {
+          "english": "Biting, burning.",
+          "chinese": "刻薄的/惡意的"
+        },
+        "advSentence": "Her vitriolic comments online sparked a heated backlash.",
+        "advTranslation": "她在網路上刻薄的言論引發了強烈的反彈。",
+        "added": true,
+        "group": "hot-07"
       }
     ],
     "quiz": [
@@ -446,6 +572,11 @@ window.FLASHCARD_UNITS = {
         "answer": "B",
         "answerWord": "polemical"
       }
+    ],
+    "group": "hot-07",
+    "antonymLessons": [
+      5,
+      6
     ]
   }
 };
@@ -494,5 +625,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "polemical": [
     "Strongly critical or argumentative in writing or speech.",
     "論戰的；爭論性的"
+  ],
+  "truculent": [
+    "Ready to fight, cruel.",
+    "好鬥的/兇暴的"
+  ],
+  "antagonistic": [
+    "Showing hostility or opposition.",
+    "敵對的/對抗性的"
+  ],
+  "militant": [
+    "Combative and aggressive in support of a cause.",
+    "好戰的;激進分子"
+  ],
+  "acrimonious": [
+    "Bitter.",
+    "嚴厲的/辛辣的"
+  ],
+  "fractious": [
+    "Quarrelsome.",
+    "易怒的/好爭吵的"
+  ],
+  "inimical": [
+    "Hostile, enemylike.",
+    "敵對的/有害的"
+  ],
+  "vitriolic": [
+    "Biting, burning.",
+    "刻薄的/惡意的"
   ]
 });
