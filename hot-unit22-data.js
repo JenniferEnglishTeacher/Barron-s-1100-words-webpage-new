@@ -499,7 +499,7 @@ window.FLASHCARD_UNITS = {
     ],
     "group": "hot-22",
     "antonymLessons": [
-      14
+      57
     ]
   }
 };

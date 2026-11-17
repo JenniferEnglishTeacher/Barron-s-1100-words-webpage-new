@@ -588,9 +588,7 @@ window.FLASHCARD_UNITS = {
       }
     ],
     "group": "hot-18",
-    "antonymLessons": [
-      25
-    ]
+    "antonymLessons": []
   }
 };
 

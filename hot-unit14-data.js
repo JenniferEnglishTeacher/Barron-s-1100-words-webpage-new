@@ -532,7 +532,6 @@ window.FLASHCARD_UNITS = {
     "group": "hot-14",
     "antonymLessons": [
       16,
-      22,
       70
     ]
   }

@@ -100,6 +100,8 @@ for g in groups:
             c['added'] = not wr['seed']
             unit['cards'].append(c)
         lessons[L] = unit
+    MISC = {21, 24, 26, 29, 30, 31, 32, 33, 34, 35}
+    if L in MISC: unit['antonymLessons'] = []; meta[L] = {'theme': g['theme'], 'themeZh': g['themeZh'], 'antonymLessons': [], 'group': None, 'new': False}; continue
     unit['group'] = g['id']; unit['antonymLessons'] = opp
     meta[L] = {'theme': g['theme'], 'themeZh': g['themeZh'], 'antonymLessons': opp, 'group': g['id'], 'new': L >= FIRST_NEW, 'words': [[c['word'], c['chinese']] for c in unit['cards']]}
 for L in lessons:

@@ -240,7 +240,9 @@ window.FLASHCARD_UNITS = {
       }
     ],
     "group": "sat-kind",
-    "antonymLessons": []
+    "antonymLessons": [
+      11
+    ]
   }
 };
 

@@ -223,7 +223,8 @@ window.FLASHCARD_UNITS = {
     ],
     "group": "sat-lazy2",
     "antonymLessons": [
-      56
+      56,
+      22
     ]
   }
 };

@@ -449,14 +449,19 @@ const CAMBRIDGE = "https://dictionary.cambridge.org/dictionary/english-chinese-t
 // Hot Words synonym groups: every other card in this lesson is a SAT synonym; cards in the antonym lesson(s) are SAT antonyms.
 // Chips open the word's own flashcard (same page: #w=word; other lesson: hot-unitN.html#w=word).
 function hotWordChip(word, zh, lesson, extraClass = "") {
+  const same = Number(lesson) === Number(state.unit) && SET === "hot";
+  return satChip(word, zh, same ? `#w=${encodeURIComponent(word)}` : `hot-unit${lesson}.html#w=${encodeURIComponent(word)}`, same, extraClass, `Lesson ${lesson}`);
+}
+
+// One clickable word chip: hover = hear it, click = open that word's own flashcard (same page jumps in place).
+function satChip(word, zh, href, same, extraClass = "", where = "") {
   const a = document.createElement("a");
   a.className = `syn-chip hot-link ${extraClass}`.trim();
-  const same = Number(lesson) === Number(state.unit);
-  a.href = same ? `#w=${encodeURIComponent(word)}` : `hot-unit${lesson}.html#w=${encodeURIComponent(word)}`;
+  a.href = href;
   a.innerHTML = `<b></b><small></small>`;
   a.querySelector("b").textContent = word;
-  a.querySelector("small").textContent = zh ? String(zh).split(/[；;/]/)[0] : "";
-  a.title = `${word} · ${zh || ""} — open the flashcard${same ? "" : ` (Lesson ${lesson})`}`;
+  a.querySelector("small").textContent = zh ? String(zh).split(/[；;/,，]/)[0] : "";
+  a.title = `${word} · ${zh || ""} — open the flashcard${same ? "" : where ? ` (${where})` : ""}`;
   a.addEventListener("pointerenter", event => {
     if (event.pointerType !== "mouse") return;
     clearTimeout(hoverTimer);
@@ -520,8 +525,49 @@ function renderHotGroup(card) {
   els.synonyms.append(...rows);
 }
 
+// ---------- SAT synonyms / antonyms for every card (sat-relations.js) ----------
+// Target card priority: this page → Barron's 1100 → Hot Words → Verbal Advantage → Must-Know → 字根字首.
+const SAT_BOOKS = [
+  ["barrons", () => window.BARRONS_INDEX, u => `unit${u}.html`, u => `Barron's U${u}`],
+  ["hot", () => window.HOT_INDEX, u => `hot-unit${u}.html`, u => `Hot Words L${u}`],
+  ["va", () => window.VA_INDEX, u => `va-unit${u}.html`, u => `Verbal Advantage U${u}`],
+  ["mk", () => window.MK_INDEX, u => `mk-unit${u}.html`, u => `Must-Know U${u}`]
+];
+function satTarget(word) {
+  const k = String(word).toLowerCase();
+  const local = cards().find(c => c.word.toLowerCase() === k);
+  if (local) return { href: `#w=${encodeURIComponent(local.word)}`, same: true, zh: local.chinese, where: "" };
+  for (const [, idx, page, label] of SAT_BOOKS) {
+    const e = (idx() || {})[k];
+    if (e) return { href: `${page(e[0])}#w=${encodeURIComponent(k)}`, same: false, zh: e[3], where: label(e[0]) };
+  }
+  const r = (window.ROOTS_INDEX || {})[k];
+  if (r) return { href: `roots-unit${r[0]}.html#w=${encodeURIComponent(k)}`, same: false, zh: r[3], where: `字根字首 Set ${r[0]}` };
+  const f = (window.SAT_ROOTS || {})[k];
+  if (f) return { href: `roots-unit${f[0]}.html#w=${encodeURIComponent(k)}`, same: false, zh: f[1], where: `字根字首 Set ${f[0]}` };
+  return null;
+}
+function renderSatRelations(card) {
+  const rel = (window.SAT_REL || {})[String(card.word).toLowerCase().replace(/\s*\(.*?\)\s*/g, " ").replace(/\^/g, "").trim()];
+  if (!rel) return;
+  const [syn, ant] = rel;
+  const row = (label, words, cls) => {
+    const chips = words.map(w => [w, satTarget(w)]).filter(([, t]) => t).map(([w, t]) => satChip(w, t.zh, t.href, t.same, cls, t.where));
+    if (!chips.length) return null;
+    const wrap = document.createElement("span");
+    wrap.className = `hot-group-row${cls ? " " + cls : ""}`;
+    const head = document.createElement("span");
+    head.className = `syn-label ${cls ? "hot-ant-label" : "hot-syn-label"}`;
+    head.textContent = label;
+    wrap.append(head, ...chips);
+    return wrap;
+  };
+  const rows = [row("SAT 同義字 Synonyms · click to open the card:", syn, ""), row("SAT 反義字 Antonyms:", ant, "ant")].filter(Boolean);
+  if (rows.length) els.synonyms.append(...rows);
+}
+
 function renderSynonyms(card) {
-  if (SET === "roots") { renderWordParts(card); return; }
+  if (SET === "roots") { renderWordParts(card); renderSatRelations(card); if (els.synonyms.children.length > 1) els.synonyms.hidden = false; return; }
   const words = String(card.synonyms || "").split(/\s*[,;]\s*/).map(w => w.trim()).filter(Boolean);
   const label = document.createElement("span");
   label.className = "syn-label";
@@ -555,7 +601,6 @@ function renderSynonyms(card) {
     return chip;
   });
   els.synonyms.replaceChildren(label, ...chips);
-  if (SET === "hot") renderHotGroup(card);
   if (SET === "mk") {
     // SAT Must-Know: prefix/root note and which list (306 / 386) the word comes from, after the synonyms.
     const extra = [];
@@ -573,6 +618,8 @@ function renderSynonyms(card) {
     }
     els.synonyms.append(...extra);
   }
+  if (SET === "hot" && window.HOT_LESSON_META?.[state.unit]?.group) renderHotGroup(card);
+  else renderSatRelations(card);
 }
 
 // Roots sets: show the word's etymology note and its prefix/root group where other books show synonyms.

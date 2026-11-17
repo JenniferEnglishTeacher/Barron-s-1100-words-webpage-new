@@ -241,7 +241,8 @@ window.FLASHCARD_UNITS = {
     ],
     "group": "sat-rare",
     "antonymLessons": [
-      91
+      91,
+      20
     ]
   }
 };
