@@ -33,7 +33,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unable to rest or relax; constantly moving or active due to anxiety or agitation.",
      "chinese": "不安分的；坐立不安的"
-    }
+    },
+    "photo": "mk/restless"
    },
    {
     "word": "restore",
@@ -81,7 +82,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Controlled, limited, or held back; not excessive or extreme in expression.",
      "chinese": "克制的；含蓄的"
-    }
+    },
+    "photo": "mk/restrained"
    },
    {
     "word": "retain",
@@ -129,7 +131,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not revealing one’s thoughts or feelings readily; reserved.",
      "chinese": "沉默寡言的；保守的"
-    }
+    },
+    "photo": "mk/reticent"
    },
    {
     "word": "revere",
@@ -145,7 +148,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To feel deep respect or admiration for something or someone.",
      "chinese": "尊崇；敬畏"
-    }
+    },
+    "photo": "mk/revere"
    },
    {
     "word": "rigorous",
@@ -161,7 +165,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Strict and demanding, requiring a high level of effort and precision.",
      "chinese": "嚴格的；嚴謹的"
-    }
+    },
+    "photo": "mk/rigorous"
    },
    {
     "word": "rousing",
@@ -193,7 +198,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Involving or limited to basic principles; simple or primitive.",
      "chinese": "基本的；初步的"
-    }
+    },
+    "photo": "mk/rudimentary"
    },
    {
     "word": "sagacious",
@@ -209,7 +215,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having or showing keen mental discernment and good judgment.",
      "chinese": "睿智的；有遠見的"
-    }
+    },
+    "photo": "mk/sagacious"
    },
    {
     "word": "salient",
@@ -225,7 +232,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Most noticeable or important; prominent.",
      "chinese": "顯著的；突出的"
-    }
+    },
+    "photo": "mk/salient"
    },
    {
     "word": "sanction",
@@ -305,7 +313,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Diligent, thorough, and extremely attentive to details, often because of a strong moral code.",
      "chinese": "一絲不苟的；嚴謹的；正直的"
-    }
+    },
+    "photo": "mk/scrupulous"
    }
   ],
   "quiz": [

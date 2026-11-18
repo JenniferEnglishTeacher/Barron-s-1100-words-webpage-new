@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing luminous colors that seem to change when seen from different angles.",
      "chinese": "色彩斑斕的；五彩的"
-    }
+    },
+    "photo": "mk/iridescent"
    },
    {
     "word": "irrelevant",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not related or applicable.",
      "chinese": "不相關的；不切題的"
-    }
+    },
+    "photo": "mk/irrelevant"
    },
    {
     "word": "isolate",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To separate from others.",
      "chinese": "隔離；孤立"
-    }
+    },
+    "photo": "mk/isolate"
    },
    {
     "word": "jubilant",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Feeling or expressing great happiness or triumph.",
      "chinese": "歡呼的；喜悅的"
-    }
+    },
+    "photo": "mk/jubilant"
    },
    {
     "word": "juxtapose",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To place or deal with close together for contrasting effect.",
      "chinese": "並列"
-    }
+    },
+    "photo": "mk/juxtapose"
    },
    {
     "word": "keen",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having or showing eagerness or enthusiasm.",
      "chinese": "熱切的；敏銳的"
-    }
+    },
+    "photo": "mk/keen"
    },
    {
     "word": "kindle",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To start a fire or ignite excitement or interest.",
      "chinese": "點燃；激起"
-    }
+    },
+    "photo": "mk/kindle"
    },
    {
     "word": "labyrinthine",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Complicated and highly intricate.",
      "chinese": "錯綜複雜如迷宮的"
-    }
+    },
+    "photo": "mk/labyrinthine"
    },
    {
     "word": "lacking",
@@ -161,7 +169,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Using very few words.",
      "chinese": "簡潔的；言簡意賅的"
-    }
+    },
+    "photo": "mk/laconic"
    },
    {
     "word": "lament",
@@ -177,7 +186,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To express grief or sorrow.",
      "chinese": "悲嘆；哀悼；抱怨；輓歌"
-    }
+    },
+    "photo": "mk/lament"
    },
    {
     "word": "latent",
@@ -193,7 +203,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Existing but not yet developed or visible; hidden or dormant.",
      "chinese": "潛在的；隱伏的"
-    }
+    },
+    "photo": "mk/latent"
    },
    {
     "word": "laud",
@@ -209,7 +220,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To praise highly, especially in public.",
      "chinese": "稱讚；讚美"
-    }
+    },
+    "photo": "mk/laud"
    },
    {
     "word": "laudable",
@@ -225,7 +237,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Deserving praise or commendation.",
      "chinese": "值得讚賞的；可嘉的"
-    }
+    },
+    "photo": "mk/laudable"
    },
    {
     "word": "lavish",
@@ -241,7 +254,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Sumptuously rich, elaborate, or luxurious.",
      "chinese": "慷慨的；奢華的"
-    }
+    },
+    "photo": "mk/lavish"
    },
    {
     "word": "legitimate",
@@ -257,7 +271,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Conforming to the law or rules; valid or justifiable.",
      "chinese": "合法的；正當的"
-    }
+    },
+    "photo": "mk/legitimate"
    },
    {
     "word": "lenient",
@@ -273,7 +288,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Permissive, merciful, or tolerant.",
      "chinese": "寬容的；仁慈的"
-    }
+    },
+    "photo": "mk/lenient"
    },
    {
     "word": "lethargic",
@@ -289,7 +305,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Sluggish and apathetic.",
      "chinese": "昏睡的；遲鈍的"
-    }
+    },
+    "photo": "mk/lethargic"
    },
    {
     "word": "localized",
@@ -305,7 +322,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Restricted to a specific area or part.",
      "chinese": "局部的；地方性的"
-    }
+    },
+    "photo": "mk/localized"
    },
    {
     "word": "magnanimous",
@@ -321,7 +339,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Generous or forgiving, especially toward a rival or less powerful person.",
      "chinese": "寬宏大量的"
-    }
+    },
+    "photo": "mk/magnanimous"
    }
   ],
   "quiz": [

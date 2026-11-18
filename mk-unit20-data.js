@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Wealthy, luxurious, or lavish.",
      "chinese": "奢華的；富麗堂皇的"
-    }
+    },
+    "photo": "mk/opulent"
    },
    {
     "word": "originate",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To begin or come into existence; to create or start something.",
      "chinese": "發源；創立"
-    }
+    },
+    "photo": "mk/originate"
    },
    {
     "word": "ornamental",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Serving as decoration rather than for a practical purpose.",
      "chinese": "裝飾性的"
-    }
+    },
+    "photo": "mk/ornamental"
    },
    {
     "word": "oscillate",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To move or swing back and forth in a regular rhythm.",
      "chinese": "擺動；搖擺"
-    }
+    },
+    "photo": "mk/oscillate"
    },
    {
     "word": "oust",
@@ -177,7 +181,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done or shown openly; plainly apparent.",
      "chinese": "公開的；明顯的"
-    }
+    },
+    "photo": "mk/overt"
    },
    {
     "word": "overtly",
@@ -225,7 +230,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be touched or felt; tangible; clear to the mind or senses.",
      "chinese": "明顯的；可感知的"
-    }
+    },
+    "photo": "mk/palpable"
    },
    {
     "word": "paramount",
@@ -257,7 +263,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The presence of something in small amounts or numbers; scarcity.",
      "chinese": "缺乏；不足"
-    }
+    },
+    "photo": "mk/paucity"
    },
    {
     "word": "perceive",
@@ -289,7 +296,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Related to or located on the edge of something; secondary or less important.",
      "chinese": "邊緣的；次要的"
-    }
+    },
+    "photo": "mk/peripheral"
    },
    {
     "word": "permanent",

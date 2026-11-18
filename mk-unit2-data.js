@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having sufficient qualifications to meet a specific task or purpose.",
      "chinese": "足夠的；適當的"
-    }
+    },
+    "photo": "mk/adequate"
    },
    {
     "word": "adhere",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To modify or change slightly.",
      "chinese": "調整"
-    }
+    },
+    "photo": "mk/adjust"
    },
    {
     "word": "admire",
@@ -83,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To respect or look up to.",
      "chinese": "欽佩；仰慕"
-    }
+    },
+    "photo": "mk/admire"
    },
    {
     "word": "admonish",
@@ -116,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Beneficial or useful.",
      "chinese": "有利的"
-    }
+    },
+    "photo": "mk/advantageous"
    },
    {
     "word": "advent",
@@ -132,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The arrival or creation of something.",
      "chinese": "到來；出現"
-    }
+    },
+    "photo": "mk/advent"
    },
    {
     "word": "advise",
@@ -148,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To recommend or give guidance.",
      "chinese": "建議；勸告"
-    }
+    },
+    "photo": "mk/advise"
    },
    {
     "word": "affable",
@@ -198,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To worsen or intensify.",
      "chinese": "使惡化；加重"
-    }
+    },
+    "photo": "mk/aggravate"
    },
    {
     "word": "aggressive",
@@ -214,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Forceful or overly assertive.",
      "chinese": "好鬥的；積極進取的"
-    }
+    },
+    "photo": "mk/aggressive"
    },
    {
     "word": "agitate",
@@ -247,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make a secretive mention of something.",
      "chinese": "暗示；間接提及"
-    }
+    },
+    "photo": "mk/allude"
    },
    {
     "word": "alternating",
@@ -280,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Uncertainty or multiple interpretations.",
      "chinese": "模糊性；含糊不清"
-    }
+    },
+    "photo": "mk/ambiguity"
    },
    {
     "word": "ambiguous",
@@ -313,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Mixed or conflicting feelings.",
      "chinese": "矛盾情感；猶豫不決"
-    }
+    },
+    "photo": "mk/ambivalence"
    },
    {
     "word": "ambivalent",

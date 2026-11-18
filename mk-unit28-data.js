@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Relating to or involving the sense of touch.",
      "chinese": "觸覺的"
-    }
+    },
+    "photo": "mk/tactile"
    },
    {
     "word": "tangible",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Perceptible by touch; capable of being touched or felt.",
      "chinese": "有形的；實體的；可感知的"
-    }
+    },
+    "photo": "mk/tangible"
    },
    {
     "word": "tedious",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Too long, slow, or dull; tiresome and repetitive.",
      "chinese": "冗長乏味的"
-    }
+    },
+    "photo": "mk/tedious"
    },
    {
     "word": "temerity",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Excessive confidence or boldness, often causing rash actions.",
      "chinese": "魯莽；冒失"
-    }
+    },
+    "photo": "mk/temerity"
    },
    {
     "word": "tenacious",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Holding firm to a belief, goal, or course of action; persistent.",
      "chinese": "頑強的；堅持不懈的"
-    }
+    },
+    "photo": "mk/tenacious"
    },
    {
     "word": "tentative",
@@ -113,7 +118,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Very weak or slight; lacking substance or strength.",
      "chinese": "脆弱的；薄弱的"
-    }
+    },
+    "photo": "mk/tenuous"
    },
    {
     "word": "terse",
@@ -129,7 +135,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Concise and to the point, often to the point of rudeness.",
      "chinese": "簡潔的；扼要的"
-    }
+    },
+    "photo": "mk/terse"
    },
    {
     "word": "theoretical",
@@ -193,7 +200,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To prevent someone from accomplishing something; to obstruct.",
      "chinese": "阻撓；妨礙"
-    }
+    },
+    "photo": "mk/thwart"
    },
    {
     "word": "tranquil",
@@ -209,7 +217,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Free from disturbance; calm and peaceful.",
      "chinese": "寧靜的；平靜的"
-    }
+    },
+    "photo": "mk/tranquil"
    },
    {
     "word": "transcend",
@@ -225,7 +234,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To rise above or go beyond the limits of something, often in a spiritual or abstract way.",
      "chinese": "超越；勝過"
-    }
+    },
+    "photo": "mk/transcend"
    },
    {
     "word": "transform",
@@ -257,7 +267,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A feeling of fear or anxiety about something that may happen.",
      "chinese": "恐懼；憂慮"
-    }
+    },
+    "photo": "mk/trepidation"
    },
    {
     "word": "trite",
@@ -273,7 +284,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking originality or freshness; overused and uninteresting.",
      "chinese": "陳腐的；老套的"
-    }
+    },
+    "photo": "mk/trite"
    },
    {
     "word": "ubiquitous",
@@ -289,7 +301,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Present, appearing, or found everywhere.",
      "chinese": "無所不在的；普遍的"
-    }
+    },
+    "photo": "mk/ubiquitous"
    },
    {
     "word": "unanimous",
@@ -305,7 +318,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Fully in agreement, especially by all members of a group.",
      "chinese": "一致同意的"
-    }
+    },
+    "photo": "mk/unanimous"
    }
   ],
   "quiz": [

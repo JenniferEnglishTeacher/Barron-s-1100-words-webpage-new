@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To encourage or provoke a response or activity; to make something more active or intense.",
      "chinese": "刺激；激勵"
-    }
+    },
+    "photo": "mk/stimulate"
    },
    {
     "word": "strenuously",
@@ -81,7 +82,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To bring under domination or control, often by force.",
      "chinese": "征服；降伏"
-    }
+    },
+    "photo": "mk/subjugate"
    },
    {
     "word": "substantial",
@@ -97,7 +99,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Of considerable importance, size, or worth; significant.",
      "chinese": "相當大的；重要的"
-    }
+    },
+    "photo": "mk/substantial"
    },
    {
     "word": "subtle",
@@ -113,7 +116,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Delicate or precise, difficult to perceive or understand; understated.",
      "chinese": "微妙的；精細的"
-    }
+    },
+    "photo": "mk/subtle"
    },
    {
     "word": "succinct",
@@ -129,7 +133,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Briefly and clearly expressed; concise.",
      "chinese": "簡明的；簡潔的"
-    }
+    },
+    "photo": "mk/succinct"
    },
    {
     "word": "succumb",
@@ -145,7 +150,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To yield or give in to something, such as a temptation or pressure; to die from an illness or injury.",
      "chinese": "屈服；死於"
-    }
+    },
+    "photo": "mk/succumb"
    },
    {
     "word": "superficial",
@@ -161,7 +167,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Existing or occurring at or on the surface; lacking depth or substance.",
      "chinese": "表面的；膚淺的"
-    }
+    },
+    "photo": "mk/superficial"
    },
    {
     "word": "supplement",
@@ -177,7 +184,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To add something extra to complete or enhance something else.",
      "chinese": "補充；補充品"
-    }
+    },
+    "photo": "mk/supplement"
    },
    {
     "word": "surmise",
@@ -193,7 +201,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To suppose or guess something without sufficient evidence; to make an assumption.",
      "chinese": "猜測；臆測"
-    }
+    },
+    "photo": "mk/surmise"
    },
    {
     "word": "surpass",
@@ -209,7 +218,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To exceed or go beyond something in quality, achievement, or degree.",
      "chinese": "超越；勝過"
-    }
+    },
+    "photo": "mk/surpass"
    },
    {
     "word": "surreal",
@@ -225,7 +235,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having the qualities of a dream or fantasy; strange or unreal in a way that is disorienting.",
      "chinese": "超現實的；夢幻般的；離奇的"
-    }
+    },
+    "photo": "mk/surreal"
    },
    {
     "word": "surrender",
@@ -257,7 +268,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Kept secret, especially because it would not be approved of.",
      "chinese": "鬼鬼祟祟的；暗中的"
-    }
+    },
+    "photo": "mk/surreptitious"
    },
    {
     "word": "susceptible",
@@ -305,7 +317,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To cause things to happen or operate at the same time or rate.",
      "chinese": "使同步；使同時發生"
-    }
+    },
+    "photo": "mk/synchronize"
    }
   ],
   "quiz": [

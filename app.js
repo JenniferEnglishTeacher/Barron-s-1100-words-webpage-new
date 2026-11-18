@@ -1217,13 +1217,26 @@ function makeRootsIllustration(card) {
 // ---------- Picture cards (Barron's Units 1–PHOTO_MAX_UNIT): Jennifer's own illustrated word cards ----------
 // Files live at images/uNN/<word letters only>.webp. Any card without a file falls back to the drawn SVG.
 const PHOTO_MAX_UNIT = 46;
-const PHOTO_VERSION = "20261116a";
+const PHOTO_VERSION = "20261118a";
 
-const HOT_PHOTO_MAX_UNIT = 35;
+const HOT_PHOTO_MAX_UNIT = 35; // lessons 36+ and added ★ cards borrow other zones' pictures via photo-index.js
 const VA_PHOTO_MAX_UNIT = 25; // Verbal Advantage Lv.1–5 picture cards live at images/vNN/
 
 function photoFor(card) {
   if (!card) return "";
+  const own = ownPhotoFor(card);
+  const index = window.PHOTO_INDEX;
+  if (!index) return own;
+  // Use the card's own picture when that file exists; otherwise borrow the same word's picture from another zone.
+  const slug = String(card.word).replace(/\s*\(.*?\)\s*/g, " ").toLowerCase().replace(/[^a-z]/g, "");
+  const list = index[slug] || [];
+  const ownKey = own ? own.replace(/^images\//, "").replace(/\.webp.*$/, "") : "";
+  if (ownKey && list.includes(ownKey)) return own;
+  if (own && SET === "roots") return own;
+  return list.length ? `images/${list[0]}.webp?v=${PHOTO_VERSION}` : "";
+}
+
+function ownPhotoFor(card) {
   // Roots sets: a word that is also a Barron's 1100 / Hot Words for the SAT word reuses that picture card.
   if (SET === "roots") {
     const head = String(card.word).replace(/\s*\(.*?\)\s*/g, " ").trim().toLowerCase();

@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To be in contrast with.",
      "chinese": "反駁；矛盾"
-    }
+    },
+    "photo": "mk/contradict"
    },
    {
     "word": "contrive",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Artificial or overly planned.",
      "chinese": "做作的；牽強的"
-    }
+    },
+    "photo": "mk/contrived"
    },
    {
     "word": "controversial",
@@ -83,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing public disagreement.",
      "chinese": "有爭議的"
-    }
+    },
+    "photo": "mk/controversial"
    },
    {
     "word": "convert",
@@ -167,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "In a warm or friendly manner.",
      "chinese": "誠摯地；友好地"
-    }
+    },
+    "photo": "mk/cordially"
    },
    {
     "word": "correlates",
@@ -200,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To provide evidence for; to back up (a claim).",
      "chinese": "證實；確證"
-    }
+    },
+    "photo": "mk/corroborate"
    },
    {
     "word": "corrosive",
@@ -216,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Gradually destructive or harmful.",
      "chinese": "腐蝕性的"
-    }
+    },
+    "photo": "mk/corrosive"
    },
    {
     "word": "costly",
@@ -232,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Expensive or requiring sacrifice.",
      "chinese": "昂貴的；代價高的"
-    }
+    },
+    "photo": "mk/costly"
    },
    {
     "word": "counteract",
@@ -248,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To work in opposition to.",
      "chinese": "抵消；抵銷"
-    }
+    },
+    "photo": "mk/counteract"
    },
    {
     "word": "critical",
@@ -281,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To express disapproval.",
      "chinese": "批評"
-    }
+    },
+    "photo": "mk/criticize"
    },
    {
     "word": "cultivate",

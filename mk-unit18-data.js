@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Intended to harm or hurt.",
      "chinese": "惡意的；存心不良的"
-    }
+    },
+    "photo": "mk/malicious"
    },
    {
     "word": "manageable",
@@ -65,7 +66,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To control or influence (someone or something) cleverly or unscrupulously.",
      "chinese": "操控；操縱"
-    }
+    },
+    "photo": "mk/manipulate"
    },
    {
     "word": "melancholy",
@@ -81,7 +83,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A deep, persistent sadness or sorrow.",
      "chinese": "憂鬱的；悲傷的"
-    }
+    },
+    "photo": "mk/melancholy"
    },
    {
     "word": "meticulous",
@@ -97,7 +100,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing great attention to detail; very careful and precise.",
      "chinese": "一絲不苟的；細心的"
-    }
+    },
+    "photo": "mk/meticulous"
    },
    {
     "word": "mimic",
@@ -113,7 +117,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To imitate or copy something or someone, often to entertain or mock.",
      "chinese": "模仿"
-    }
+    },
+    "photo": "mk/mimic"
    },
    {
     "word": "misanthropic",
@@ -161,7 +166,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make less severe, serious, or painful.",
      "chinese": "減輕；緩和"
-    }
+    },
+    "photo": "mk/mitigate"
    },
    {
     "word": "moderate",
@@ -177,7 +183,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make something less extreme or intense; average in amount or degree.",
      "chinese": "使溫和；適度的"
-    }
+    },
+    "photo": "mk/moderate"
    },
    {
     "word": "modest",
@@ -193,7 +200,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unassuming or humble in the estimation of one’s abilities or achievements.",
      "chinese": "謙虛的；樸實的"
-    }
+    },
+    "photo": "mk/modest"
    },
    {
     "word": "multifaceted",
@@ -225,7 +233,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking interest or excitement; dull.",
      "chinese": "平凡的；世俗的"
-    }
+    },
+    "photo": "mk/mundane"
    },
    {
     "word": "mystifying",
@@ -241,7 +250,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Extremely confusing or difficult to understand; baffling.",
      "chinese": "令人困惑的"
-    }
+    },
+    "photo": "mk/mystifying"
    },
    {
     "word": "nebulous",
@@ -257,7 +267,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "In the form of a cloud or haze; hazy, unclear or vague.",
      "chinese": "朦朧的；模糊的"
-    }
+    },
+    "photo": "mk/nebulous"
    },
    {
     "word": "neglect",
@@ -289,7 +300,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "So small or unimportant as to be not worth considering.",
      "chinese": "微不足道的；可忽略的"
-    }
+    },
+    "photo": "mk/negligible"
    },
    {
     "word": "neutrality",

@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To change or differ in some way; to alter or modify.",
      "chinese": "改變；不同"
-    }
+    },
+    "photo": "mk/vary"
    },
    {
     "word": "vehement",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing strong feeling or passion; forceful or intense.",
      "chinese": "強烈的；激烈的"
-    }
+    },
+    "photo": "mk/vehement"
    },
    {
     "word": "verisimilitude",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The appearance or quality of being real or true; the resemblance to reality.",
      "chinese": "逼真；擬真性"
-    }
+    },
+    "photo": "mk/verisimilitude"
    },
    {
     "word": "veritable",
@@ -81,7 +84,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To annoy or worry someone; to cause distress.",
      "chinese": "使煩惱；使苦惱"
-    }
+    },
+    "photo": "mk/vex"
    },
    {
     "word": "vigilance",
@@ -113,7 +117,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To clear someone of blame or suspicion; to justify or prove something right.",
      "chinese": "證明清白；證明…正確"
-    }
+    },
+    "photo": "mk/vindicate"
    },
    {
     "word": "virtuous",
@@ -129,7 +134,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having high moral standards; righteous.",
      "chinese": "有美德的；正直的"
-    }
+    },
+    "photo": "mk/virtuous"
    },
    {
     "word": "vital",
@@ -161,7 +167,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Liable to change rapidly and unpredictably, especially for the worse; highly unstable.",
      "chinese": "易變的；不穩定的；揮發性的"
-    }
+    },
+    "photo": "mk/volatile"
    },
    {
     "word": "waive",
@@ -177,7 +184,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To voluntarily give up or relinquish a right or claim.",
      "chinese": "放棄(權利)"
-    }
+    },
+    "photo": "mk/waive"
    },
    {
     "word": "warranted",
@@ -193,7 +201,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Justified or deserved; reasonable.",
      "chinese": "有正當理由的；合理的"
-    }
+    },
+    "photo": "mk/warranted"
    },
    {
     "word": "wayward",
@@ -209,7 +218,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Difficult to control or predict, especially due to unusual or unpredictable behavior.",
      "chinese": "任性的；難以駕馭的"
-    }
+    },
+    "photo": "mk/wayward"
    },
    {
     "word": "widespread",
@@ -241,7 +251,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Attractive or appealing in a charming or pleasing way.",
      "chinese": "迷人的；討人喜歡的"
-    }
+    },
+    "photo": "mk/winsome"
    },
    {
     "word": "wistful",
@@ -257,7 +268,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Longing or yearning for something that may never be attained; melancholic.",
      "chinese": "渴望的；惆悵的"
-    }
+    },
+    "photo": "mk/wistful"
    },
    {
     "word": "withdraw",
@@ -289,7 +301,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing great energy or enthusiasm in pursuit of a cause or objective.",
      "chinese": "熱心的；狂熱的"
-    }
+    },
+    "photo": "mk/zealous"
    },
    {
     "word": "zenith",
@@ -305,7 +318,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The highest point or peak; the culmination.",
      "chinese": "頂點；鼎盛時期"
-    }
+    },
+    "photo": "mk/zenith"
    }
   ],
   "quiz": [

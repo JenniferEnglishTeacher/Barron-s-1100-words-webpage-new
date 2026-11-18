@@ -49,7 +49,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "New and different from anything seen or experienced before; original.",
      "chinese": "新穎的；新奇的"
-    }
+    },
+    "photo": "mk/novel"
    },
    {
     "word": "noxious",
@@ -65,7 +66,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Harmful, poisonous, or very unpleasant.",
      "chinese": "有害的；有毒的"
-    }
+    },
+    "photo": "mk/noxious"
    },
    {
     "word": "nuanced",
@@ -81,7 +83,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing subtle distinctions or variations in meaning, expression, or feeling.",
      "chinese": "細膩的；微妙的"
-    }
+    },
+    "photo": "mk/nuanced"
    },
    {
     "word": "obfuscate",
@@ -97,7 +100,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To confuse, bewilder, or make unclear.",
      "chinese": "使模糊；使困惑"
-    }
+    },
+    "photo": "mk/obfuscate"
    },
    {
     "word": "obligate",
@@ -129,7 +133,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not well-known or understood; unclear; to make something unclear.",
      "chinese": "模糊的；默默無聞的"
-    }
+    },
+    "photo": "mk/obscure"
    },
    {
     "word": "observable",
@@ -161,7 +166,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Quick to notice or perceive things; paying careful attention to details.",
      "chinese": "善於觀察的；敏銳的"
-    }
+    },
+    "photo": "mk/observant"
    },
    {
     "word": "obsolete",
@@ -177,7 +183,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "No longer produced or used; out of date.",
      "chinese": "過時的；淘汰的；廢棄的"
-    }
+    },
+    "photo": "mk/obsolete"
    },
    {
     "word": "obstructed",
@@ -241,7 +248,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done or said without preparation or thought; casual.",
      "chinese": "隨口的；漫不經心的"
-    }
+    },
+    "photo": "mk/offhand"
    },
    {
     "word": "ominous",
@@ -257,7 +265,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Giving the impression that something bad or unpleasant is going to happen.",
      "chinese": "不祥的；凶兆的"
-    }
+    },
+    "photo": "mk/ominous"
    },
    {
     "word": "omnipotent",
@@ -305,7 +314,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "In operation or use; a person actively involved in an activity or operation.",
      "chinese": "運作中的；特工"
-    }
+    },
+    "photo": "mk/operative"
    }
   ],
   "quiz": [

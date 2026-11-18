@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Resistant to disease or harm.",
      "chinese": "免疫的；不受影響的"
-    }
+    },
+    "photo": "mk/immune"
    },
    {
     "word": "impart",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make information known or to give something.",
      "chinese": "傳授；賦予"
-    }
+    },
+    "photo": "mk/impart"
    },
    {
     "word": "impartial",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not biased or prejudiced; treating all sides equally.",
      "chinese": "公正的；不偏不倚的"
-    }
+    },
+    "photo": "mk/impartial"
    },
    {
     "word": "impede",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To hinder or obstruct the progress of.",
      "chinese": "阻礙；妨礙"
-    }
+    },
+    "photo": "mk/impede"
    },
    {
     "word": "impending",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Approaching or about to happen.",
      "chinese": "即將發生的；迫近的"
-    }
+    },
+    "photo": "mk/impending"
    },
    {
     "word": "impenetrable",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Impossible to pass through.",
      "chinese": "無法穿透的"
-    }
+    },
+    "photo": "mk/impenetrable"
    },
    {
     "word": "imperceptible",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Impossible to perceive or detect; so slight that it cannot be noticed.",
      "chinese": "難以察覺的；極細微的"
-    }
+    },
+    "photo": "mk/imperceptible"
    },
    {
     "word": "impervious",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not affected or influenced by something.",
      "chinese": "不受影響的；不透水的"
-    }
+    },
+    "photo": "mk/impervious"
    },
    {
     "word": "impetuous",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Acting or done quickly without thought or care.",
      "chinese": "衝動的；魯莽的"
-    }
+    },
+    "photo": "mk/impetuous"
    },
    {
     "word": "implement",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To put a plan or decision into action; to carry out.",
      "chinese": "實施；執行"
-    }
+    },
+    "photo": "mk/implement"
    },
    {
     "word": "implication",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A possible consequence or meaning.",
      "chinese": "含意；影響"
-    }
+    },
+    "photo": "mk/implication"
    },
    {
     "word": "implicit",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Implied rather than stated directly.",
      "chinese": "含蓄的；暗示的"
-    }
+    },
+    "photo": "mk/implicit"
    },
    {
     "word": "implore",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To beg earnestly or desperately.",
      "chinese": "懇求；哀求；乞求"
-    }
+    },
+    "photo": "mk/implore"
    },
    {
     "word": "impractical",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not sensible or realistic; not suited to the situation or purpose.",
      "chinese": "不切實際的"
-    }
+    },
+    "photo": "mk/impractical"
    },
    {
     "word": "improvise",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To create or perform something without preparation or planning, often with available materials.",
      "chinese": "即興創作；臨場發揮"
-    }
+    },
+    "photo": "mk/improvise"
    },
    {
     "word": "imprudent",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not showing care for the consequences of an action.",
      "chinese": "輕率的；不明智的"
-    }
+    },
+    "photo": "mk/imprudent"
    },
    {
     "word": "inactive",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not engaged in movement or activity.",
      "chinese": "不活躍的；靜止的"
-    }
+    },
+    "photo": "mk/inactive"
    },
    {
     "word": "inadequate",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not sufficient or suitable for the intended purpose; lacking in quality or quantity.",
      "chinese": "不足的；不適當的"
-    }
+    },
+    "photo": "mk/inadequate"
    },
    {
     "word": "inadvertent",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Occurring by chance or without intention; unintentional.",
      "chinese": "無意的；非故意的"
-    }
+    },
+    "photo": "mk/inadvertent"
    },
    {
     "word": "inadvertently",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unintentionally or by accident.",
      "chinese": "無意間；不小心地"
-    }
+    },
+    "photo": "mk/inadvertently"
    }
   ],
   "quiz": [

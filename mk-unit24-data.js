@@ -65,7 +65,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make something or someone look or feel younger, fresher, or more lively.",
      "chinese": "使恢復活力；使年輕化"
-    }
+    },
+    "photo": "mk/rejuvenate"
    },
    {
     "word": "relevant",
@@ -81,7 +82,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Closely connected or appropriate to the matter at hand; important.",
      "chinese": "相關的"
-    }
+    },
+    "photo": "mk/relevant"
    },
    {
     "word": "relinquish",
@@ -97,7 +99,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To voluntarily give up or let go of something.",
      "chinese": "放棄；交出"
-    }
+    },
+    "photo": "mk/relinquish"
    },
    {
     "word": "relocate",
@@ -129,7 +132,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Deep regret or guilt for a wrong committed.",
      "chinese": "懊悔；悔恨"
-    }
+    },
+    "photo": "mk/remorse"
    },
    {
     "word": "renounce",
@@ -145,7 +149,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To formally give up or reject a belief, cause, or claim.",
      "chinese": "放棄；宣布放棄"
-    }
+    },
+    "photo": "mk/renounce"
    },
    {
     "word": "repercussion",
@@ -161,7 +166,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "An unintended consequence or effect, often negative.",
      "chinese": "後果；餘波"
-    }
+    },
+    "photo": "mk/repercussion"
    },
    {
     "word": "replenish",
@@ -193,7 +199,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Capable of being reproduced or repeated.",
      "chinese": "可複製的；可重複的"
-    }
+    },
+    "photo": "mk/replicable"
    },
    {
     "word": "representative",
@@ -257,7 +264,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To reject, deny, or disown something, especially a belief or opinion.",
      "chinese": "拒絕；否認；與…斷絕關係"
-    }
+    },
+    "photo": "mk/repudiate"
    },
    {
     "word": "rescind",
@@ -273,7 +281,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To revoke, cancel, or repeal a law, order, or agreement.",
      "chinese": "撤銷；廢除"
-    }
+    },
+    "photo": "mk/rescind"
    },
    {
     "word": "resilient",
@@ -289,7 +298,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to recover quickly from difficulties; tough and adaptable.",
      "chinese": "有韌性的；能迅速恢復的"
-    }
+    },
+    "photo": "mk/resilient"
    },
    {
     "word": "resolve",

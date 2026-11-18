@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking organization or planning.",
      "chinese": "雜亂無章的；隨意的"
-    }
+    },
+    "photo": "mk/haphazard"
    },
    {
     "word": "hasten",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To move or act quickly.",
      "chinese": "加速；趕緊"
-    }
+    },
+    "photo": "mk/hasten"
    },
    {
     "word": "haughty",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Arrogantly superior and disdainful.",
      "chinese": "高傲的；傲慢的"
-    }
+    },
+    "photo": "mk/haughty"
    },
    {
     "word": "heed",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To pay attention to or take notice of.",
      "chinese": "注意；聽從"
-    }
+    },
+    "photo": "mk/heed"
    },
    {
     "word": "hibernate",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To spend a long period of time in a dormant or inactive state, especially during the winter.",
      "chinese": "冬眠"
-    }
+    },
+    "photo": "mk/hibernate"
    },
    {
     "word": "hibernation",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A state of dormancy or deep sleep.",
      "chinese": "冬眠(狀態)"
-    }
+    },
+    "photo": "mk/hibernation"
    },
    {
     "word": "highlight",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To emphasize or make noticeable.",
      "chinese": "強調；凸顯"
-    }
+    },
+    "photo": "mk/highlight"
    },
    {
     "word": "hinder",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To obstruct or slow progress.",
      "chinese": "阻礙"
-    }
+    },
+    "photo": "mk/hinder"
    },
    {
     "word": "hoard",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To accumulate and hide or store away.",
      "chinese": "囤積；貯藏"
-    }
+    },
+    "photo": "mk/hoard"
    },
    {
     "word": "homogeneous",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Of the same kind; alike.",
      "chinese": "同質的；均勻的"
-    }
+    },
+    "photo": "mk/homogeneous"
    },
    {
     "word": "humble",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Modest or low estimate of one’s importance.",
      "chinese": "謙遜的"
-    }
+    },
+    "photo": "mk/humble"
    },
    {
     "word": "hypothesize",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To form a theory or assumption.",
      "chinese": "假設；推測"
-    }
+    },
+    "photo": "mk/hypothesize"
    },
    {
     "word": "hypothetical",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Based on an assumption or theory.",
      "chinese": "假設的；虛擬的"
-    }
+    },
+    "photo": "mk/hypothetical"
    },
    {
     "word": "illogical",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking sense or clear, sound reasoning.",
      "chinese": "不合邏輯的"
-    }
+    },
+    "photo": "mk/illogical"
    },
    {
     "word": "illuminate",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To light up or clarify.",
      "chinese": "照亮；闡明"
-    }
+    },
+    "photo": "mk/illuminate"
    },
    {
     "word": "illustrious",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Well-known, respected, and admired for achievements.",
      "chinese": "卓越的；著名的"
-    }
+    },
+    "photo": "mk/illustrious"
    },
    {
     "word": "imaginative",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Creative and full of new ideas.",
      "chinese": "富有想像力的"
-    }
+    },
+    "photo": "mk/imaginative"
    },
    {
     "word": "imitation",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A copy or replica of something.",
      "chinese": "模仿；仿製品"
-    }
+    },
+    "photo": "mk/imitation"
    },
    {
     "word": "immaculate",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Perfectly clean or free from flaws.",
      "chinese": "一塵不染的；完美無瑕的"
-    }
+    },
+    "photo": "mk/immaculate"
    },
    {
     "word": "imminent",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "About to happen; impending.",
      "chinese": "迫近的；即將發生的"
-    }
+    },
+    "photo": "mk/imminent"
    }
   ],
   "quiz": [

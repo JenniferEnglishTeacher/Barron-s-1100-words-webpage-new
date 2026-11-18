@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Introducing or using new methods, ideas, or products; original and creative.",
      "chinese": "創新的"
-    }
+    },
+    "photo": "mk/innovative"
    },
    {
     "word": "insensible",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unaware or indifferent.",
      "chinese": "無知覺的；麻木的"
-    }
+    },
+    "photo": "mk/insensible"
    },
    {
     "word": "insignificant",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Too small or unimportant to matter.",
      "chinese": "微不足道的"
-    }
+    },
+    "photo": "mk/insignificant"
    },
    {
     "word": "inspect",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To examine closely.",
      "chinese": "檢查"
-    }
+    },
+    "photo": "mk/inspect"
    },
    {
     "word": "inspirational",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Providing motivation or encouragement.",
      "chinese": "激勵人心的"
-    }
+    },
+    "photo": "mk/inspirational"
    },
    {
     "word": "intangible",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not able to be touched or measured.",
      "chinese": "無形的"
-    }
+    },
+    "photo": "mk/intangible"
    },
    {
     "word": "intentional",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done on purpose.",
      "chinese": "故意的"
-    }
+    },
+    "photo": "mk/intentional"
    },
    {
     "word": "interchangeable",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be exchanged or replaced with another item without significant difference.",
      "chinese": "可互換的"
-    }
+    },
+    "photo": "mk/interchangeable"
    },
    {
     "word": "interject",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To say something abruptly, especially during a conversation.",
      "chinese": "插嘴；打斷"
-    }
+    },
+    "photo": "mk/interject"
    },
    {
     "word": "interpret",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To explain the meaning of something.",
      "chinese": "解釋；詮釋"
-    }
+    },
+    "photo": "mk/interpret"
    },
    {
     "word": "intersect",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To cross or meet at a point.",
      "chinese": "相交；交叉"
-    }
+    },
+    "photo": "mk/intersect"
    },
    {
     "word": "intrepid",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Fearless, adventurous.",
      "chinese": "無畏的；勇敢的"
-    }
+    },
+    "photo": "mk/intrepid"
    },
    {
     "word": "intricate",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Very detailed or complex; complicated in design or structure.",
      "chinese": "錯綜複雜的；精細的"
-    }
+    },
+    "photo": "mk/intricate"
    },
    {
     "word": "intriguing",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Arousing curiosity or interest.",
      "chinese": "引人入勝的；耐人尋味的"
-    }
+    },
+    "photo": "mk/intriguing"
    },
    {
     "word": "invalidate",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make something invalid or void; to render something without legal or logical value.",
      "chinese": "使無效；使作廢"
-    }
+    },
+    "photo": "mk/invalidate"
    },
    {
     "word": "invasive",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Tending to intrude on or interfere with something, often in an unwelcome or harmful way.",
      "chinese": "侵入性的"
-    }
+    },
+    "photo": "mk/invasive"
    },
    {
     "word": "invent",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To create something new.",
      "chinese": "發明"
-    }
+    },
+    "photo": "mk/invent"
    },
    {
     "word": "inventive",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having the ability to create new things or ideas; creative and original.",
      "chinese": "有創造力的；善於創新的"
-    }
+    },
+    "photo": "mk/inventive"
    },
    {
     "word": "investigation",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Systematic inquiries to uncover facts.",
      "chinese": "調查"
-    }
+    },
+    "photo": "mk/investigation"
    },
    {
     "word": "involuntarily",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done without conscious control.",
      "chinese": "不由自主地"
-    }
+    },
+    "photo": "mk/involuntarily"
    }
   ],
   "quiz": [

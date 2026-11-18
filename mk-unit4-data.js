@@ -51,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To gather or put together.",
      "chinese": "集合；組裝"
-    }
+    },
+    "photo": "mk/assemble"
    },
    {
     "word": "assert",
@@ -152,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To stay away from or prevent.",
      "chinese": "避免；躲避"
-    }
+    },
+    "photo": "mk/avoid"
    },
    {
     "word": "beneficial",
@@ -168,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Producing good results.",
      "chinese": "有益的；有利的"
-    }
+    },
+    "photo": "mk/beneficial"
    },
    {
     "word": "benevolent",
@@ -201,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Courageous or striking.",
      "chinese": "大膽的"
-    }
+    },
+    "photo": "mk/bold"
    },
    {
     "word": "bolster",
@@ -251,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To take temporarily.",
      "chinese": "借"
-    }
+    },
+    "photo": "mk/borrow"
    },
    {
     "word": "brash",
@@ -301,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To go around or avoid.",
      "chinese": "繞過；避開；旁路"
-    }
+    },
+    "photo": "mk/bypass"
    },
    {
     "word": "calibrate",
@@ -317,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To adjust for precision.",
      "chinese": "校準"
-    }
+    },
+    "photo": "mk/calibrate"
    },
    {
     "word": "candid",

@@ -33,7 +33,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To continue in a course of action even in the face of difficulty or opposition.",
      "chinese": "堅持不懈；不屈不撓"
-    }
+    },
+    "photo": "mk/persevere"
    },
    {
     "word": "persistent",
@@ -49,7 +50,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Continuing firmly or steadily in a course of action despite difficulties or opposition.",
      "chinese": "堅持不懈的；持續的"
-    }
+    },
+    "photo": "mk/persistent"
    },
    {
     "word": "pervasive",
@@ -65,7 +67,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Spreading widely throughout an area or a group of people.",
      "chinese": "瀰漫的；普遍存在的"
-    }
+    },
+    "photo": "mk/pervasive"
    },
    {
     "word": "polarized",
@@ -81,7 +84,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Divided sharply into opposing groups or views.",
      "chinese": "兩極化的"
-    }
+    },
+    "photo": "mk/polarized"
    },
    {
     "word": "popularize",
@@ -129,7 +133,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Dealing with things sensibly and realistically based on practical considerations.",
      "chinese": "務實的；實用主義的"
-    }
+    },
+    "photo": "mk/pragmatic"
    },
    {
     "word": "praise",
@@ -193,7 +198,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing unusually early development, especially mental or intellectual.",
      "chinese": "早熟的"
-    }
+    },
+    "photo": "mk/precocious"
    },
    {
     "word": "predatory",
@@ -209,7 +215,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Seeking to exploit or harm others, often for personal gain; related to predators.",
      "chinese": "掠奪性的；捕食性的"
-    }
+    },
+    "photo": "mk/predatory"
    },
    {
     "word": "predetermine",
@@ -225,7 +232,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To decide or determine in advance, especially by fate or a higher power.",
      "chinese": "預先決定"
-    }
+    },
+    "photo": "mk/predetermine"
    },
    {
     "word": "predetermined",
@@ -289,7 +297,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To recommend or authorize the use of something, especially a treatment or remedy.",
      "chinese": "開處方；規定"
-    }
+    },
+    "photo": "mk/prescribe"
    },
    {
     "word": "preserve",

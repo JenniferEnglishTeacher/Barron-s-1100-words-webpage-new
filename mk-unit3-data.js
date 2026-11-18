@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To improve or make better.",
      "chinese": "改善；減輕"
-    }
+    },
+    "photo": "mk/ameliorate"
    },
    {
     "word": "amiable",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Entertaining or humorous.",
      "chinese": "有趣的；好笑的"
-    }
+    },
+    "photo": "mk/amusing"
    },
    {
     "word": "analogous",
@@ -83,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Similar but not identical.",
      "chinese": "類似的；可類比的"
-    }
+    },
+    "photo": "mk/analogous"
    },
    {
     "word": "animosity",
@@ -133,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make a public statement.",
      "chinese": "宣布；公告"
-    }
+    },
+    "photo": "mk/announce"
    },
    {
     "word": "anomaly",
@@ -149,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Something different from the norm.",
      "chinese": "異常；反常"
-    }
+    },
+    "photo": "mk/anomaly"
    },
    {
     "word": "antagonistic",
@@ -165,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing hostility or opposition.",
      "chinese": "敵對的；對抗性的"
-    }
+    },
+    "photo": "mk/antagonistic"
    },
    {
     "word": "antecedent",
@@ -181,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A preceding event or condition.",
      "chinese": "前因；先例"
-    }
+    },
+    "photo": "mk/antecedent"
    },
    {
     "word": "anticipate",
@@ -197,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To expect or predict.",
      "chinese": "預期；期待"
-    }
+    },
+    "photo": "mk/anticipate"
    },
    {
     "word": "antipathy",
@@ -213,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A strong feeling of dislike.",
      "chinese": "反感；厭惡"
-    }
+    },
+    "photo": "mk/antipathy"
    },
    {
     "word": "apex",
@@ -229,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The highest point of something.",
      "chinese": "頂點；最高點；巔峰"
-    }
+    },
+    "photo": "mk/apex"
    },
    {
     "word": "appropriate",
@@ -245,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Suitable for a specific situation.",
      "chinese": "適當的；合宜的"
-    }
+    },
+    "photo": "mk/appropriate"
    },
    {
     "word": "approximate",
@@ -278,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Mysterious or known by few.",
      "chinese": "神秘的；隱奧的"
-    }
+    },
+    "photo": "mk/arcane"
    },
    {
     "word": "ardent",
@@ -311,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Difficult and requiring effort.",
      "chinese": "艱辛的；費力的"
-    }
+    },
+    "photo": "mk/arduous"
    },
    {
     "word": "arouse",

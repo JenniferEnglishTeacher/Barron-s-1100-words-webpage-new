@@ -33,7 +33,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To burn or scorch the surface of something with intense heat.",
      "chinese": "燒灼；煎烤"
-    }
+    },
+    "photo": "mk/sear"
    },
    {
     "word": "secretive",
@@ -81,7 +82,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To isolate or hide away (someone or something).",
      "chinese": "使隔離；隔絕；扣押"
-    }
+    },
+    "photo": "mk/sequester"
    },
    {
     "word": "serene",
@@ -97,7 +99,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Calm, peaceful, and untroubled.",
      "chinese": "寧靜的；安詳的"
-    }
+    },
+    "photo": "mk/serene"
    },
    {
     "word": "shrewd",
@@ -113,7 +116,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having or showing sharp judgment and common sense.",
      "chinese": "精明的；機靈的"
-    }
+    },
+    "photo": "mk/shrewd"
    },
    {
     "word": "simulate",
@@ -129,7 +133,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To imitate the appearance or character of something, typically for training or research purposes.",
      "chinese": "模擬"
-    }
+    },
+    "photo": "mk/simulate"
    },
    {
     "word": "sincerity",
@@ -161,7 +166,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having many curves and turns; winding.",
      "chinese": "蜿蜒的；曲折的"
-    }
+    },
+    "photo": "mk/sinuous"
    },
    {
     "word": "skeptical",
@@ -177,7 +183,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Doubtful or inclined to question accepted beliefs or statements.",
      "chinese": "懷疑的"
-    }
+    },
+    "photo": "mk/skeptical"
    },
    {
     "word": "sophisticated",
@@ -209,7 +216,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Tending to induce sleep or drowsiness.",
      "chinese": "催眠的；令人昏昏欲睡的"
-    }
+    },
+    "photo": "mk/soporific"
    },
    {
     "word": "span",
@@ -257,7 +265,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To form a theory or conjecture without sufficient evidence; to guess.",
      "chinese": "推測；臆測"
-    }
+    },
+    "photo": "mk/speculate"
    },
    {
     "word": "spurious",
@@ -273,7 +282,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not being what it purports to be; false or fake.",
      "chinese": "虛假的；偽造的"
-    }
+    },
+    "photo": "mk/spurious"
    },
    {
     "word": "stagnant",
@@ -289,7 +299,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing no activity or change; dull and inactive.",
      "chinese": "停滯的；不流動的"
-    }
+    },
+    "photo": "mk/stagnant"
    },
    {
     "word": "stark",

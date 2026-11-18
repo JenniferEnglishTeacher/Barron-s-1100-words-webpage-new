@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To understand or comprehend something deeply.",
      "chinese": "理解；領悟"
-    }
+    },
+    "photo": "mk/fathom"
    },
    {
     "word": "favorable",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing approval or support; likely to lead to success or good results.",
      "chinese": "有利的；贊同的"
-    }
+    },
+    "photo": "mk/favorable"
    },
    {
     "word": "fervent",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Displaying passionate intensity.",
      "chinese": "熱切的；熱誠的"
-    }
+    },
+    "photo": "mk/fervent"
    },
    {
     "word": "flamboyant",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Tending to attract attention because of exuberance, confidence, or stylishness.",
      "chinese": "艷麗的；炫耀的"
-    }
+    },
+    "photo": "mk/flamboyant"
    },
    {
     "word": "fluctuate",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To vary or change frequently, often in an irregular or unpredictable way.",
      "chinese": "波動；起伏"
-    }
+    },
+    "photo": "mk/fluctuate"
    },
    {
     "word": "foretell",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To predict or estimate something that will happen in the future.",
      "chinese": "預言；預示"
-    }
+    },
+    "photo": "mk/foretell"
    },
    {
     "word": "forge",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To create or form something through effort or through heating and shaping, especially metal.",
      "chinese": "鍛造；締造"
-    }
+    },
+    "photo": "mk/forge"
    },
    {
     "word": "fortuitous",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Happening by chance or accident.",
      "chinese": "偶然的；幸運的"
-    }
+    },
+    "photo": "mk/fortuitous"
    },
    {
     "word": "foster",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To encourage or promote development.",
      "chinese": "培養；促進"
-    }
+    },
+    "photo": "mk/foster"
    },
    {
     "word": "fragile",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily broken or delicate.",
      "chinese": "脆弱的；易碎的"
-    }
+    },
+    "photo": "mk/fragile"
    },
    {
     "word": "fruitless",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Failing to achieve desired results.",
      "chinese": "徒勞的；無結果的"
-    }
+    },
+    "photo": "mk/fruitless"
    },
    {
     "word": "gallant",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Brave, heroic, or exceptionally polite and attentive.",
      "chinese": "英勇的；殷勤的"
-    }
+    },
+    "photo": "mk/gallant"
    },
    {
     "word": "garner",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To collect or gather, especially information or approval.",
      "chinese": "蒐集；獲得"
-    }
+    },
+    "photo": "mk/garner"
    },
    {
     "word": "genuine",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Authentic or real.",
      "chinese": "真誠的；真正的"
-    }
+    },
+    "photo": "mk/genuine"
    },
    {
     "word": "glaring",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Extremely obvious or conspicuous.",
      "chinese": "顯而易見的；刺眼的"
-    }
+    },
+    "photo": "mk/glaring"
    },
    {
     "word": "glorify",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To praise or honor highly.",
      "chinese": "讚揚；美化"
-    }
+    },
+    "photo": "mk/glorify"
    },
    {
     "word": "grapple",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To struggle or wrestle with something.",
      "chinese": "搏鬥；努力應付"
-    }
+    },
+    "photo": "mk/grapple"
    },
    {
     "word": "gregarious",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Fond of company; sociable.",
      "chinese": "群居的；社交的"
-    }
+    },
+    "photo": "mk/gregarious"
    },
    {
     "word": "gullible",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily deceived or tricked.",
      "chinese": "易受騙的；輕信的"
-    }
+    },
+    "photo": "mk/gullible"
    },
    {
     "word": "habitual",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done regularly or repeatedly.",
      "chinese": "習慣性的"
-    }
+    },
+    "photo": "mk/habitual"
    }
   ],
   "quiz": [

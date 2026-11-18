@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To put an end to something, usually by force.",
      "chinese": "平息；鎮壓"
-    }
+    },
+    "photo": "mk/quell"
    },
    {
     "word": "questionable",
@@ -49,7 +50,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Extremely idealistic; unrealistic and impractical.",
      "chinese": "不切實際的；唐吉訶德式的"
-    }
+    },
+    "photo": "mk/quixotic"
    },
    {
     "word": "ramify",
@@ -129,7 +131,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Stubbornly resistant to authority or control.",
      "chinese": "桀驁不馴的；頑抗的"
-    }
+    },
+    "photo": "mk/recalcitrant"
    },
    {
     "word": "recant",
@@ -145,7 +148,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To withdraw or retract a statement or belief, especially formally.",
      "chinese": "撤回(聲明)；放棄(信仰)"
-    }
+    },
+    "photo": "mk/recant"
    },
    {
     "word": "receptive",
@@ -177,7 +181,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To respond to a gesture or action by making a corresponding one; to give and receive in return.",
      "chinese": "回報；互惠"
-    }
+    },
+    "photo": "mk/reciprocate"
    },
    {
     "word": "recognizable",
@@ -209,7 +214,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Little known; obscure, difficult to understand.",
      "chinese": "深奧的；隱蔽的"
-    }
+    },
+    "photo": "mk/recondite"
    },
    {
     "word": "rectify",
@@ -305,7 +311,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To prove something to be false or incorrect by providing evidence or argument.",
      "chinese": "駁斥；反駁"
-    }
+    },
+    "photo": "mk/refute"
    }
   ],
   "quiz": [

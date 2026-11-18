@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Continuing without pause or interruption.",
      "chinese": "不停的；持續不斷的"
-    }
+    },
+    "photo": "mk/incessant"
    },
    {
     "word": "incite",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To encourage or stir up (violent or unlawful behavior).",
      "chinese": "煽動；激起"
-    }
+    },
+    "photo": "mk/incite"
    },
    {
     "word": "inconclusive",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not leading to a clear or definite conclusion; ambiguous.",
      "chinese": "不確定的；未有定論的"
-    }
+    },
+    "photo": "mk/inconclusive"
    },
    {
     "word": "inconspicuous",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not being easily seen or noticed.",
      "chinese": "不顯眼的；不引人注意的"
-    }
+    },
+    "photo": "mk/inconspicuous"
    },
    {
     "word": "indecipherable",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Impossible to read, interpret, or understand due to lack of clarity or complexity.",
      "chinese": "難以辨認的；無法解讀的"
-    }
+    },
+    "photo": "mk/indecipherable"
    },
    {
     "word": "indicate",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To point out or show.",
      "chinese": "指出；顯示"
-    }
+    },
+    "photo": "mk/indicate"
    },
    {
     "word": "indifference",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lack of interest or concern.",
      "chinese": "漠不關心"
-    }
+    },
+    "photo": "mk/indifference"
    },
    {
     "word": "indisputable",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unable to be challenged or denied.",
      "chinese": "無可爭議的"
-    }
+    },
+    "photo": "mk/indisputable"
    },
    {
     "word": "indistinct",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not clear or sharply defined.",
      "chinese": "模糊不清的"
-    }
+    },
+    "photo": "mk/indistinct"
    },
    {
     "word": "indulge",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To allow oneself to enjoy.",
      "chinese": "縱容；沉溺"
-    }
+    },
+    "photo": "mk/indulge"
    },
    {
     "word": "ineffectual",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not producing the desired effect.",
      "chinese": "無效的；軟弱無能的"
-    }
+    },
+    "photo": "mk/ineffectual"
    },
    {
     "word": "inept",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having or showing no skill; clumsy.",
      "chinese": "笨拙的；不稱職的"
-    }
+    },
+    "photo": "mk/inept"
    },
    {
     "word": "inevitable",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Certain to happen; unavoidable.",
      "chinese": "不可避免的"
-    }
+    },
+    "photo": "mk/inevitable"
    },
    {
     "word": "inexpensive",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not costly.",
      "chinese": "不昂貴的；便宜的"
-    }
+    },
+    "photo": "mk/inexpensive"
    },
    {
     "word": "inexplicable",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unable to be explained or understood; baffling.",
      "chinese": "無法解釋的"
-    }
+    },
+    "photo": "mk/inexplicable"
    },
    {
     "word": "infallible",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Incapable of making mistakes or being wrong; flawless.",
      "chinese": "絕對正確的"
-    }
+    },
+    "photo": "mk/infallible"
    },
    {
     "word": "influence",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The power to affect others.",
      "chinese": "影響力"
-    }
+    },
+    "photo": "mk/influence"
    },
    {
     "word": "infrequent",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not occurring often.",
      "chinese": "罕見的；不常發生的"
-    }
+    },
+    "photo": "mk/infrequent"
    },
    {
     "word": "inhibit",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To hinder or restrain.",
      "chinese": "抑制；阻礙"
-    }
+    },
+    "photo": "mk/inhibit"
    },
    {
     "word": "innocuous",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Harmless or not likely to offend or cause injury.",
      "chinese": "無害的"
-    }
+    },
+    "photo": "mk/innocuous"
    }
   ],
   "quiz": [

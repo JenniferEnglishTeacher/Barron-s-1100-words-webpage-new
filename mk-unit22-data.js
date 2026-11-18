@@ -33,7 +33,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To prove more powerful or superior; to win or succeed after a struggle.",
      "chinese": "獲勝；盛行"
-    }
+    },
+    "photo": "mk/prevail"
    },
    {
     "word": "preventable",
@@ -81,7 +82,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To announce officially or publicly.",
      "chinese": "宣告；宣布"
-    }
+    },
+    "photo": "mk/proclaim"
    },
    {
     "word": "prodigal",
@@ -97,7 +99,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Spending money or resources freely and recklessly; wasteful.",
      "chinese": "揮霍的；浪費的"
-    }
+    },
+    "photo": "mk/prodigal"
    },
    {
     "word": "produce",
@@ -145,7 +148,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Producing a large amount of something.",
      "chinese": "多產的；高產的"
-    }
+    },
+    "photo": "mk/prolific"
    },
    {
     "word": "prolong",
@@ -193,7 +197,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To breed or spread something, especially ideas or knowledge.",
      "chinese": "傳播；繁殖"
-    }
+    },
+    "photo": "mk/propagate"
    },
    {
     "word": "proponent",
@@ -209,7 +214,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A person who advocates or supports a cause or idea.",
      "chinese": "支持者；提倡者"
-    }
+    },
+    "photo": "mk/proponent"
    },
    {
     "word": "prosaic",
@@ -225,7 +231,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking poetic beauty; dull or ordinary.",
      "chinese": "平淡無奇的；乏味的"
-    }
+    },
+    "photo": "mk/prosaic"
    },
    {
     "word": "proscribe",
@@ -241,7 +248,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To forbid, especially by law; to condemn or outlaw.",
      "chinese": "禁止；取締"
-    }
+    },
+    "photo": "mk/proscribe"
    },
    {
     "word": "provoke",

@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To become less active, less intense, or less in amount.",
      "chinese": "減弱；緩和"
-    }
+    },
+    "photo": "mk/abate"
    },
    {
     "word": "abhor",
@@ -118,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Existing purely in the mind; not representing actual reality.",
      "chinese": "抽象的"
-    }
+    },
+    "photo": "mk/abstract"
    },
    {
     "word": "abundance",
@@ -168,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Extremely bad.",
      "chinese": "糟糕透頂的"
-    }
+    },
+    "photo": "mk/abysmal"
    },
    {
     "word": "accentuate",
@@ -201,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Satisfactory or permissible.",
      "chinese": "可接受的"
-    }
+    },
+    "photo": "mk/acceptable"
    },
    {
     "word": "accessible",
@@ -234,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Happening by chance.",
      "chinese": "意外的；偶然的"
-    }
+    },
+    "photo": "mk/accidental"
    },
    {
     "word": "accommodate",
@@ -250,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To provide space or make adjustments.",
      "chinese": "容納；適應"
-    }
+    },
+    "photo": "mk/accommodate"
    },
    {
     "word": "accuracy",
@@ -266,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The quality of being correct or precise.",
      "chinese": "準確性"
-    }
+    },
+    "photo": "mk/accuracy"
    },
    {
     "word": "acknowledge",
@@ -282,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To recognize or admit the truth.",
      "chinese": "承認；答謝"
-    }
+    },
+    "photo": "mk/acknowledge"
    },
    {
     "word": "acquired",
@@ -298,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Gained through effort or experience.",
      "chinese": "習得的；後天獲得的"
-    }
+    },
+    "photo": "mk/acquired"
    },
    {
     "word": "adamant",
@@ -331,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To adjust to new conditions.",
      "chinese": "適應"
-    }
+    },
+    "photo": "mk/adapt"
    }
   ],
   "quiz": [

@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Determining or influencing an outcome.",
      "chinese": "決定性的"
-    }
+    },
+    "photo": "mk/deciding"
    },
    {
     "word": "decisive",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Conclusive or firm.",
      "chinese": "果斷的；決定性的"
-    }
+    },
+    "photo": "mk/decisive"
    },
    {
     "word": "deficient",
@@ -66,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not enough in degree or amount.",
      "chinese": "不足的；缺乏的"
-    }
+    },
+    "photo": "mk/deficient"
    },
    {
     "word": "definitive",
@@ -116,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "No longer existing or functional.",
      "chinese": "不復存在的；已廢棄的"
-    }
+    },
+    "photo": "mk/defunct"
    },
    {
     "word": "delegate",
@@ -149,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Done consciously and intentionally.",
      "chinese": "故意的；深思熟慮的"
-    }
+    },
+    "photo": "mk/deliberate"
    },
    {
     "word": "deliberation",
@@ -165,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Careful consideration or discussion.",
      "chinese": "深思熟慮；商議"
-    }
+    },
+    "photo": "mk/deliberation"
    },
    {
     "word": "delicate",
@@ -181,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Fragile or requiring careful handling.",
      "chinese": "脆弱的；精緻的"
-    }
+    },
+    "photo": "mk/delicate"
    },
    {
     "word": "demarcate",
@@ -197,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To set boundaries or distinguish.",
      "chinese": "劃定界線；區分"
-    }
+    },
+    "photo": "mk/demarcate"
    },
    {
     "word": "depict",
@@ -213,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To represent or portray something through words, pictures, or other forms.",
      "chinese": "描繪；描述"
-    }
+    },
+    "photo": "mk/depict"
    },
    {
     "word": "derived",
@@ -229,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Obtained or developed from a source.",
      "chinese": "衍生出的；源自的"
-    }
+    },
+    "photo": "mk/derived"
    },
    {
     "word": "descend",
@@ -245,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To move downward; to slope or fall to a lower position.",
      "chinese": "下降；降落"
-    }
+    },
+    "photo": "mk/descend"
    },
    {
     "word": "despise",
@@ -261,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To strongly dislike or look down upon.",
      "chinese": "鄙視；厭惡"
-    }
+    },
+    "photo": "mk/despise"
    },
    {
     "word": "desultory",
@@ -277,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking a clear plan or enthusiasm.",
      "chinese": "散漫的；斷斷續續的"
-    }
+    },
+    "photo": "mk/desultory"
    },
    {
     "word": "determine",
@@ -293,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To establish or decide.",
      "chinese": "決定；確定"
-    }
+    },
+    "photo": "mk/determine"
    },
    {
     "word": "deviate",
@@ -309,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To move away from a set path or norm.",
      "chinese": "偏離"
-    }
+    },
+    "photo": "mk/deviate"
    },
    {
     "word": "devise",
@@ -325,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To come up with (a plan).",
      "chinese": "設計；想出"
-    }
+    },
+    "photo": "mk/devise"
    }
   ],
   "quiz": [

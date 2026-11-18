@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To intensify or combine.",
      "chinese": "使增加；加重；混合"
-    }
+    },
+    "photo": "mk/compound"
    },
    {
     "word": "comprise",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To consist of or include.",
      "chinese": "由...組成；包含"
-    }
+    },
+    "photo": "mk/comprise"
    },
    {
     "word": "conceal",
@@ -100,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing worry or distress.",
      "chinese": "令人擔憂的"
-    }
+    },
+    "photo": "mk/concerning"
    },
    {
     "word": "concise",
@@ -133,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The state of something.",
      "chinese": "狀態；情況"
-    }
+    },
+    "photo": "mk/condition"
    },
    {
     "word": "confident",
@@ -149,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Feeling sure or self-assured.",
      "chinese": "有信心的"
-    }
+    },
+    "photo": "mk/confident"
    },
    {
     "word": "configure",
@@ -182,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Combined in a misleading way.",
      "chinese": "混淆合併的"
-    }
+    },
+    "photo": "mk/conflated"
    },
    {
     "word": "conform",
@@ -198,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To comply with rules or expectations.",
      "chinese": "順從；遵從"
-    }
+    },
+    "photo": "mk/conform"
    },
    {
     "word": "consensus",
@@ -214,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "General agreement.",
      "chinese": "共識"
-    }
+    },
+    "photo": "mk/consensus"
    },
    {
     "word": "consistent",
@@ -230,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Acting in the same way over time.",
      "chinese": "一致的；前後一致的"
-    }
+    },
+    "photo": "mk/consistent"
    },
    {
     "word": "conspicuous",
@@ -246,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily noticed or standing out.",
      "chinese": "顯眼的；引人注目的"
-    }
+    },
+    "photo": "mk/conspicuous"
    },
    {
     "word": "constant",
@@ -262,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Occurring continuously.",
      "chinese": "持續不斷的"
-    }
+    },
+    "photo": "mk/constant"
    },
    {
     "word": "consult",
@@ -312,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing disagreement or debate.",
      "chinese": "引起爭議的；好爭論的"
-    }
+    },
+    "photo": "mk/contentious"
    },
    {
     "word": "contingent",
@@ -328,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Dependent on something else.",
      "chinese": "視情況而定的；偶然的"
-    }
+    },
+    "photo": "mk/contingent"
    }
   ],
   "quiz": [

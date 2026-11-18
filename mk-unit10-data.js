@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To divert attention.",
      "chinese": "使分心"
-    }
+    },
+    "photo": "mk/distract"
    },
    {
     "word": "distressed",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Suffering from anxiety or pain.",
      "chinese": "苦惱的；憂傷的"
-    }
+    },
+    "photo": "mk/distressed"
    },
    {
     "word": "diverge",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To separate or move in different directions from a common point.",
      "chinese": "分歧；分岔"
-    }
+    },
+    "photo": "mk/diverge"
    },
    {
     "word": "diverse",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing a great deal of variety; very different from one another.",
      "chinese": "多樣的；各異的"
-    }
+    },
+    "photo": "mk/diverse"
    },
    {
     "word": "docile",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Ready to accept control or instruction; submissive.",
      "chinese": "溫馴的；順從的"
-    }
+    },
+    "photo": "mk/docile"
    },
    {
     "word": "domesticate",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To tame or train an animal or plant to live and reproduce in a human-controlled environment.",
      "chinese": "馴養；馴化"
-    }
+    },
+    "photo": "mk/domesticate"
    },
    {
     "word": "dominance",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The state of being in control or superior.",
      "chinese": "支配地位；優勢"
-    }
+    },
+    "photo": "mk/dominance"
    },
    {
     "word": "dormant",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Inactive but capable of becoming active.",
      "chinese": "休眠的；靜止的"
-    }
+    },
+    "photo": "mk/dormant"
    },
    {
     "word": "dynamic",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Constantly changing or energetic.",
      "chinese": "充滿活力的；動態的；不斷變化的"
-    }
+    },
+    "photo": "mk/dynamic"
    },
    {
     "word": "earnest",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Serious and sincere.",
      "chinese": "誠摯的；認真的"
-    }
+    },
+    "photo": "mk/earnest"
    },
    {
     "word": "eclipse",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To overshadow or surpass.",
      "chinese": "使黯然失色；掩蓋"
-    }
+    },
+    "photo": "mk/eclipse"
    },
    {
     "word": "elaborate",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To develop or present something in great detail; involving many careful parts.",
      "chinese": "詳細闡述；精心製作的"
-    }
+    },
+    "photo": "mk/elaborate"
    },
    {
     "word": "eloquent",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Fluent or persuasive in speaking or writing.",
      "chinese": "雄辯的；口才流利的"
-    }
+    },
+    "photo": "mk/eloquent"
    },
    {
     "word": "elusive",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Difficult to find, catch, or achieve; hard to define or understand.",
      "chinese": "難以捉摸的；難以獲得的"
-    }
+    },
+    "photo": "mk/elusive"
    },
    {
     "word": "emphasize",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To give special importance or attention to something.",
      "chinese": "強調"
-    }
+    },
+    "photo": "mk/emphasize"
    },
    {
     "word": "encompass",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To include or surround.",
      "chinese": "包含；涵蓋"
-    }
+    },
+    "photo": "mk/encompass"
    },
    {
     "word": "encounter",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To meet or face unexpectedly.",
      "chinese": "邂逅；遭遇"
-    }
+    },
+    "photo": "mk/encounter"
    },
    {
     "word": "encourage",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To support or inspire.",
      "chinese": "鼓勵"
-    }
+    },
+    "photo": "mk/encourage"
    },
    {
     "word": "enduring",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lasting over time.",
      "chinese": "持久的；歷久不衰的"
-    }
+    },
+    "photo": "mk/enduring"
    },
    {
     "word": "engaging",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Attractive or charming; capable of holding one’s attention.",
      "chinese": "引人入勝的；有魅力的"
-    }
+    },
+    "photo": "mk/engaging"
    }
   ],
   "quiz": [

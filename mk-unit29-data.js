@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Strange or mysterious, often in a way that causes unease.",
      "chinese": "離奇的；詭異的"
-    }
+    },
+    "photo": "mk/uncanny"
    },
    {
     "word": "uncontroversial",
@@ -49,7 +50,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Excessively flattering or ingratiating, often insincerely so.",
      "chinese": "諂媚的；油腔滑調的"
-    }
+    },
+    "photo": "mk/unctuous"
    },
    {
     "word": "undeniable",
@@ -81,7 +83,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To weaken or damage something gradually or covertly.",
      "chinese": "逐漸削弱；暗中破壞"
-    }
+    },
+    "photo": "mk/undermine"
    },
    {
     "word": "underscore",
@@ -97,7 +100,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To emphasize or highlight something, usually to draw attention to its importance.",
      "chinese": "強調"
-    }
+    },
+    "photo": "mk/underscore"
    },
    {
     "word": "unequivocal",
@@ -113,7 +117,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Leaving no doubt; clear and unambiguous.",
      "chinese": "明確的；毫不含糊的"
-    }
+    },
+    "photo": "mk/unequivocal"
    },
    {
     "word": "unimportant",
@@ -193,7 +198,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not conspicuous or attracting attention; not noticeable.",
      "chinese": "不張揚的；不顯眼的；不引人注目的"
-    }
+    },
+    "photo": "mk/unobtrusive"
    },
    {
     "word": "unoriginal",
@@ -241,7 +247,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Characterized by loud noise or laughter; very funny.",
      "chinese": "喧鬧的；爆笑的"
-    }
+    },
+    "photo": "mk/uproarious"
    },
    {
     "word": "vacillate",
@@ -257,7 +264,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To waver between different opinions or actions; to be indecisive.",
      "chinese": "猶豫不決；搖擺"
-    }
+    },
+    "photo": "mk/vacillate"
    },
    {
     "word": "vague",
@@ -273,7 +281,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not clear in meaning or expression; indefinite.",
      "chinese": "模糊的；含糊的"
-    }
+    },
+    "photo": "mk/vague"
    },
    {
     "word": "validate",
@@ -289,7 +298,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To confirm or verify as being true, accurate, or acceptable.",
      "chinese": "證實；驗證"
-    }
+    },
+    "photo": "mk/validate"
    },
    {
     "word": "variable",

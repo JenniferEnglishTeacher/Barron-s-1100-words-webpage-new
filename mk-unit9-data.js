@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing care and effort in one’s work or duties.",
      "chinese": "勤勉的；勤奮的"
-    }
+    },
+    "photo": "mk/diligent"
    },
    {
     "word": "diminish",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To decrease in size or importance.",
      "chinese": "減少；削弱"
-    }
+    },
+    "photo": "mk/diminish"
    },
    {
     "word": "directed",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Managed or guided.",
      "chinese": "執導的；指導的"
-    }
+    },
+    "photo": "mk/directed"
    },
    {
     "word": "disagreement",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A difference of opinion.",
      "chinese": "意見分歧"
-    }
+    },
+    "photo": "mk/disagreement"
    },
    {
     "word": "disastrous",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing great harm or failure.",
      "chinese": "災難性的"
-    }
+    },
+    "photo": "mk/disastrous"
    },
    {
     "word": "discern",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To recognize or perceive something clearly, especially with effort.",
      "chinese": "辨別；識別"
-    }
+    },
+    "photo": "mk/discern"
    },
    {
     "word": "disconcerting",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing discomfort or confusion; unsettling.",
      "chinese": "令人不安的"
-    }
+    },
+    "photo": "mk/disconcerting"
    },
    {
     "word": "discord",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Disagreement.",
      "chinese": "不和；紛爭"
-    }
+    },
+    "photo": "mk/discord"
    },
    {
     "word": "discount",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To disregard or reduce in value.",
      "chinese": "忽視；打折"
-    }
+    },
+    "photo": "mk/discount"
    },
    {
     "word": "discourage",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To dissuade or deter.",
      "chinese": "使氣餒；勸阻"
-    }
+    },
+    "photo": "mk/discourage"
    },
    {
     "word": "discreet",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Careful in one’s speech or actions to avoid causing offense or revealing private information.",
      "chinese": "謹慎的；言行慎重的"
-    }
+    },
+    "photo": "mk/discreet"
    },
    {
     "word": "discretion",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The ability to make responsible choices.",
      "chinese": "謹慎；判斷力"
-    }
+    },
+    "photo": "mk/discretion"
    },
    {
     "word": "disengage",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To separate or detach something from a connection or attachment.",
      "chinese": "使脫離；使分離"
-    }
+    },
+    "photo": "mk/disengage"
    },
    {
     "word": "dismiss",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To reject or send away.",
      "chinese": "駁回；解散"
-    }
+    },
+    "photo": "mk/dismiss"
    },
    {
     "word": "dismissive",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Showing disregard or lack of interest; treating something as unworthy of attention.",
      "chinese": "輕蔑的；不屑一顧的"
-    }
+    },
+    "photo": "mk/dismissive"
    },
    {
     "word": "disorienting",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing confusion or loss of direction, especially in space or time.",
      "chinese": "使人迷失方向的；令人困惑的"
-    }
+    },
+    "photo": "mk/disorienting"
    },
    {
     "word": "disparage",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To belittle or speak negatively about.",
      "chinese": "貶低；詆毀"
-    }
+    },
+    "photo": "mk/disparage"
    },
    {
     "word": "disparate",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Essentially different or dissimilar in kind or quality.",
      "chinese": "迥然不同的；無法比較的"
-    }
+    },
+    "photo": "mk/disparate"
    },
    {
     "word": "dispute",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To argue about something; a disagreement or conflict.",
      "chinese": "爭論；爭執"
-    }
+    },
+    "photo": "mk/dispute"
    },
    {
     "word": "distinct",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Clearly different or separate.",
      "chinese": "截然不同的；獨特的"
-    }
+    },
+    "photo": "mk/distinct"
    }
   ],
   "quiz": [

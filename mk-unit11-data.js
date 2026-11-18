@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To improve the quality or value of something.",
      "chinese": "提高；增強；改善"
-    }
+    },
+    "photo": "mk/enhance"
    },
    {
     "word": "ephemeral",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lasting for a very short time.",
      "chinese": "短暫的；朝生暮死的"
-    }
+    },
+    "photo": "mk/ephemeral"
    },
    {
     "word": "evidence",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Information that supports a conclusion.",
      "chinese": "證據"
-    }
+    },
+    "photo": "mk/evidence"
    },
    {
     "word": "evoke",
@@ -65,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To draw forth or call up.",
      "chinese": "喚起；引起"
-    }
+    },
+    "photo": "mk/evoke"
    },
    {
     "word": "exacerbate",
@@ -81,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make a problem worse.",
      "chinese": "惡化；激怒"
-    }
+    },
+    "photo": "mk/exacerbate"
    },
    {
     "word": "exactitude",
@@ -97,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The quality of being precise or accurate.",
      "chinese": "精確性"
-    }
+    },
+    "photo": "mk/exactitude"
    },
    {
     "word": "exaggerate",
@@ -113,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To overstate or magnify beyond the truth.",
      "chinese": "誇大"
-    }
+    },
+    "photo": "mk/exaggerate"
    },
    {
     "word": "exceed",
@@ -129,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To go beyond a limit.",
      "chinese": "超過；超越"
-    }
+    },
+    "photo": "mk/exceed"
    },
    {
     "word": "exemplify",
@@ -145,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To illustrate or clarify by giving an example.",
      "chinese": "舉例說明；是...的典範"
-    }
+    },
+    "photo": "mk/exemplify"
    },
    {
     "word": "exhaustive",
@@ -161,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Thorough and complete.",
      "chinese": "詳盡的；徹底的"
-    }
+    },
+    "photo": "mk/exhaustive"
    },
    {
     "word": "expansion",
@@ -177,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The act of increasing in size or scope.",
      "chinese": "擴張；擴展"
-    }
+    },
+    "photo": "mk/expansion"
    },
    {
     "word": "expensive",
@@ -193,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Costing a lot of money.",
      "chinese": "昂貴的"
-    }
+    },
+    "photo": "mk/expensive"
    },
    {
     "word": "experiment",
@@ -209,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A test to discover something new.",
      "chinese": "實驗"
-    }
+    },
+    "photo": "mk/experiment"
    },
    {
     "word": "explicable",
@@ -225,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be explained.",
      "chinese": "可解釋的"
-    }
+    },
+    "photo": "mk/explicable"
    },
    {
     "word": "exploit",
@@ -241,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To take advantage of something unfairly.",
      "chinese": "開發；剝削"
-    }
+    },
+    "photo": "mk/exploit"
    },
    {
     "word": "extensive",
@@ -257,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Covering a large area or scope.",
      "chinese": "廣泛的"
-    }
+    },
+    "photo": "mk/extensive"
    },
    {
     "word": "extraneous",
@@ -273,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Unrelated or unnecessary.",
      "chinese": "無關的；外來的"
-    }
+    },
+    "photo": "mk/extraneous"
    },
    {
     "word": "fabricate",
@@ -289,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To invent or make something; to invent or concoct something, usually with the intention to deceive.",
      "chinese": "捏造；製造"
-    }
+    },
+    "photo": "mk/fabricate"
    },
    {
     "word": "facetious",
@@ -305,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Treating serious issues with deliberately inappropriate humor.",
      "chinese": "愛開玩笑的；不正經的"
-    }
+    },
+    "photo": "mk/facetious"
    },
    {
     "word": "fallacious",
@@ -321,7 +340,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Based on a mistaken belief or unsound reasoning.",
      "chinese": "謬誤的；欺騙性的"
-    }
+    },
+    "photo": "mk/fallacious"
    }
   ],
   "quiz": [

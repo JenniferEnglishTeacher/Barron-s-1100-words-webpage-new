@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Without caution.",
      "chinese": "粗心地；不小心地"
-    }
+    },
+    "photo": "mk/carelessly"
    },
    {
     "word": "catastrophic",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A reason for an action or event.",
      "chinese": "原因"
-    }
+    },
+    "photo": "mk/cause"
    },
    {
     "word": "characterization",
@@ -83,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The way a character is described.",
      "chinese": "人物刻畫；描述"
-    }
+    },
+    "photo": "mk/characterization"
    },
    {
     "word": "circumvent",
@@ -167,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A surprising and unexpected event.",
      "chinese": "巧合"
-    }
+    },
+    "photo": "mk/coincidence"
    },
    {
     "word": "collaboration",
@@ -183,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Working together on a task.",
      "chinese": "合作"
-    }
+    },
+    "photo": "mk/collaboration"
    },
    {
     "word": "commercialization",
@@ -199,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The process of making something a business.",
      "chinese": "商業化"
-    }
+    },
+    "photo": "mk/commercialization"
    },
    {
     "word": "commercialize",
@@ -232,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Dedicated to a cause or task.",
      "chinese": "投入的；忠誠的"
-    }
+    },
+    "photo": "mk/committed"
    },
    {
     "word": "common",
@@ -248,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Occurring frequently or shared.",
      "chinese": "常見的"
-    }
+    },
+    "photo": "mk/common"
    },
    {
     "word": "compelling",
@@ -264,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Captivating or persuasive.",
      "chinese": "引人入勝的；有說服力的"
-    }
+    },
+    "photo": "mk/compelling"
    },
    {
     "word": "competent",
@@ -280,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having the necessary ability or skill.",
      "chinese": "有能力的；勝任的"
-    }
+    },
+    "photo": "mk/competent"
    },
    {
     "word": "complementary",
@@ -313,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The state of being intricate or complicated.",
      "chinese": "複雜性"
-    }
+    },
+    "photo": "mk/complexity"
    },
    {
     "word": "compose",
