@@ -6,3 +6,4 @@ Output: images/vNN/<word letters only>.webp (1200px wide) + Drive folder 1Rld7e3
 - Canva generate-image (LANDSCAPE_4_3) per prompt, poll get-generate-image-job -> media id; record in media.json as "vNN_word": id.
 - grabZip.js in Chrome on a canva.com/M/<id> page -> zip in Downloads -> device_stage_files -> unzip -> repo images/vNN + Drive upload -> commit/push main.
 - Done list: a card is done when images/vNN/<slug>.webp exists in the repo.
+- Drive upload: use the repo file path in the sha256 file reference (copies in /mnt/user-data/outputs get altered and fail the hash). Canva generate-image may hit "quota_cooldown" (~1 image per 5–10 min); generate one at a time and retry after waits.
