@@ -95,24 +95,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-weaken"
       },
       {
-        "word": "vitiate",
-        "pos": "v.",
-        "definition": "To destroy the use or value.",
-        "chinese": "損害/使無效",
-        "synonyms": "undermine, enervate, debilitate",
-        "image": "shield",
-        "sentence": "A single error could __________ the entire scientific study.",
-        "translation": "一個小小的錯誤就可能使整個科學研究失去效力。",
-        "lookup": {
-          "english": "To destroy the use or value.",
-          "chinese": "損害/使無效"
-        },
-        "advSentence": "The contract was vitiated by the fact that one party lied about the terms.",
-        "advTranslation": "由於其中一方就條款說了謊,這份合約已被視為無效。",
-        "added": false,
-        "group": "sat-weaken"
-      },
-      {
         "word": "impair",
         "pos": "v.",
         "definition": "To weaken or damage the function of something.",
@@ -146,24 +128,6 @@ window.FLASHCARD_UNITS = {
         "advSentence": "Critics argued the policy would subvert the very rights it claimed to protect.",
         "advTranslation": "評論家主張這項政策會破壞它聲稱要保護的權利本身。",
         "added": false,
-        "group": "sat-weaken"
-      },
-      {
-        "word": "devitalize",
-        "pos": "v.",
-        "definition": "To deprive of vitality or force.",
-        "chinese": "使失去活力",
-        "synonyms": "undermine, enervate, debilitate",
-        "image": "shield",
-        "sentence": "Years of bureaucracy began to __________ the once-innovative agency.",
-        "translation": "多年的官僚作風開始使這個曾經創新的機構失去活力。",
-        "lookup": {
-          "english": "To deprive of vitality or force.",
-          "chinese": "使失去活力"
-        },
-        "advSentence": "Overwatering can devitalize even the hardiest plants.",
-        "advTranslation": "過度澆水會使即使是最強韌的植物也失去活力。",
-        "added": true,
         "group": "sat-weaken"
       },
       {
@@ -231,10 +195,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To make weak or feeble.",
     "使衰弱;削弱"
   ],
-  "vitiate": [
-    "To destroy the use or value.",
-    "損害/使無效"
-  ],
   "impair": [
     "To weaken or damage the function of something.",
     "損害;削弱"
@@ -242,10 +202,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "subvert": [
     "To undermine or overthrow the power or authority of.",
     "顛覆;破壞"
-  ],
-  "devitalize": [
-    "To deprive of vitality or force.",
-    "使失去活力"
   ],
   "mar": [
     "To damage or spoil the appearance or perfection of.",

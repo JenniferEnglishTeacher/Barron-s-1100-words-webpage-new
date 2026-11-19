@@ -213,24 +213,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這位能言善道的推銷員的魅力背後藏著一個狡詐的詭計：他油嘴滑舌的保證說服了容易受騙的投資人，把積蓄揮霍在一家由惡名昭彰的騙子經營的詐騙公司上。"
       },
       {
-        "word": "prolix",
-        "pos": "adj.",
-        "definition": "Tediously lengthy in speech or writing.",
-        "chinese": "冗長囉唆的",
-        "synonyms": "circumlocution, colloquial, digress",
-        "image": "shield",
-        "sentence": "His __________ report buried the key findings in pages of filler.",
-        "translation": "他冗長囉唆的報告把關鍵發現埋沒在大量的贅述中。",
-        "lookup": {
-          "english": "Tediously lengthy in speech or writing.",
-          "chinese": "冗長囉唆的"
-        },
-        "advSentence": "The professor's prolix lectures often ran well past the allotted time.",
-        "advTranslation": "這位教授冗長的講課經常大幅超出規定的時間。",
-        "added": true,
-        "group": "hot-02"
-      },
-      {
         "word": "effusive",
         "pos": "adj.",
         "definition": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
@@ -285,24 +267,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-02"
       },
       {
-        "word": "magniloquent",
-        "pos": "adj.",
-        "definition": "Lofty in style.",
-        "chinese": "誇張的/華麗辭藻的",
-        "synonyms": "circumlocution, colloquial, digress",
-        "image": "shield",
-        "sentence": "The general's __________ speech promised victory in grandiose terms.",
-        "translation": "這位將軍誇張浮華的演說以宏大的詞藻許諾勝利。",
-        "lookup": {
-          "english": "Lofty in style.",
-          "chinese": "誇張的/華麗辭藻的"
-        },
-        "advSentence": "Her magniloquent writing style impressed some critics but exhausted others.",
-        "advTranslation": "她華麗誇張的寫作風格讓一些評論家印象深刻,卻讓另一些人感到疲乏。",
-        "added": true,
-        "group": "hot-02"
-      },
-      {
         "word": "ramble",
         "pos": "v./n.",
         "definition": "To talk or write at length without a clear purpose; a leisurely walk.",
@@ -335,24 +299,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The river grew turgid after days of continuous rain.",
         "advTranslation": "在連日不斷的降雨後,這條河流變得高漲腫脹。",
-        "added": true,
-        "group": "hot-02"
-      },
-      {
-        "word": "pleonastic",
-        "pos": "adj.",
-        "definition": "Using more words than necessary; redundant.",
-        "chinese": "冗贅的;贅述的",
-        "synonyms": "circumlocution, colloquial, digress",
-        "image": "shield",
-        "sentence": "The editor cut several __________ phrases from the manuscript.",
-        "translation": "這位編輯從這份手稿中刪除了好幾處冗贅的措辭。",
-        "lookup": {
-          "english": "Using more words than necessary; redundant.",
-          "chinese": "冗贅的;贅述的"
-        },
-        "advSentence": "His pleonastic writing style frustrated readers seeking concise information.",
-        "advTranslation": "他冗贅的寫作風格讓尋求簡潔資訊的讀者感到挫折。",
         "added": true,
         "group": "hot-02"
       },
@@ -749,10 +695,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Speaking fluently, readily, and at length.",
     "健談的；口若懸河的"
   ],
-  "prolix": [
-    "Tediously lengthy in speech or writing.",
-    "冗長囉唆的"
-  ],
   "effusive": [
     "Expressing feelings of gratitude, pleasure, or approval in an unrestrained manner.",
     "熱情洋溢的;過分熱情的"
@@ -765,10 +707,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Tediously lengthy in speech or writing.",
     "冗長的;囉唆的"
   ],
-  "magniloquent": [
-    "Lofty in style.",
-    "誇張的/華麗辭藻的"
-  ],
   "ramble": [
     "To talk or write at length without a clear purpose; a leisurely walk.",
     "漫談;閒逛"
@@ -776,10 +714,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "turgid": [
     "Swollen, excessively embellished in style or language.",
     "腫脹的/浮誇的"
-  ],
-  "pleonastic": [
-    "Using more words than necessary; redundant.",
-    "冗贅的;贅述的"
   ],
   "discursive": [
     "Rambling, lacking order.",

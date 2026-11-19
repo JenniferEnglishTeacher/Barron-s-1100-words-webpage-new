@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-clumsy"
       },
       {
-        "word": "loutish",
-        "pos": "adj.",
-        "definition": "Rude, aggressive, and lacking manners.",
-        "chinese": "粗魯無禮的",
-        "synonyms": "inept, awkward, maladroit",
-        "image": "shield",
-        "sentence": "The bar had to eject a group of __________ patrons.",
-        "translation": "這間酒吧不得不驅逐一群粗魯無禮的顧客。",
-        "lookup": {
-          "english": "Rude, aggressive, and lacking manners.",
-          "chinese": "粗魯無禮的"
-        },
-        "advSentence": "His loutish behavior at the dinner embarrassed his family.",
-        "advTranslation": "他在晚餐上粗魯無禮的行為讓家人感到丟臉。",
-        "added": true,
-        "group": "sat-clumsy"
-      },
-      {
         "word": "boorish",
         "pos": "adj.",
         "definition": "Rude and ill-mannered.",
@@ -217,24 +199,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The character is portrayed as an uncouth outsider unfamiliar with city customs.",
         "advTranslation": "這個角色被描繪成一個對城市習俗一無所知、粗野的外來者。",
-        "added": true,
-        "group": "sat-clumsy"
-      },
-      {
-        "word": "lubberly",
-        "pos": "adj.",
-        "definition": "Clumsy and unskilled.",
-        "chinese": "笨拙的;不熟練的",
-        "synonyms": "inept, awkward, maladroit",
-        "image": "shield",
-        "sentence": "The new sailor's __________ attempts at knot-tying amused the crew.",
-        "translation": "這位新水手笨拙地嘗試打結,逗樂了全體船員。",
-        "lookup": {
-          "english": "Clumsy and unskilled.",
-          "chinese": "笨拙的;不熟練的"
-        },
-        "advSentence": "His lubberly handling of the tools slowed down the whole project.",
-        "advTranslation": "他笨拙地使用這些工具拖慢了整個專案的進度。",
         "added": true,
         "group": "sat-clumsy"
       },
@@ -301,10 +265,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Bulky, difficult to handle.",
     "笨重的/難處理的"
   ],
-  "loutish": [
-    "Rude, aggressive, and lacking manners.",
-    "粗魯無禮的"
-  ],
   "boorish": [
     "Rude and ill-mannered.",
     "粗魯的;無禮的"
@@ -312,10 +272,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "uncouth": [
     "Lacking good manners, refinement, or grace.",
     "粗野的;粗魯的"
-  ],
-  "lubberly": [
-    "Clumsy and unskilled.",
-    "笨拙的;不熟練的"
   ],
   "mediocre": [
     "Of only moderate quality; not very good.",

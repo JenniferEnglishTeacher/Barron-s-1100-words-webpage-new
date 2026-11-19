@@ -169,24 +169,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-25"
       },
       {
-        "word": "guileful",
-        "pos": "adj.",
-        "definition": "Cunning and deceptive.",
-        "chinese": "狡詐的;奸詐的",
-        "synonyms": "inconspicuous, surreptitious, unobtrusive",
-        "image": "shield",
-        "sentence": "The novel's __________ villain manipulates everyone around him.",
-        "translation": "這本小說裡狡詐的反派操縱著周圍的每一個人。",
-        "lookup": {
-          "english": "Cunning and deceptive.",
-          "chinese": "狡詐的;奸詐的"
-        },
-        "advSentence": "Her guileful scheme nearly succeeded before it unraveled.",
-        "advTranslation": "她狡詐的計謀在被拆穿之前差點就成功了。",
-        "added": true,
-        "group": "hot-25"
-      },
-      {
         "word": "cunning",
         "pos": "adj.",
         "definition": "Sly, clever at being deceitful.",
@@ -518,10 +500,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "wily": [
     "Crafty, sly.",
     "狡猾的/機靈的"
-  ],
-  "guileful": [
-    "Cunning and deceptive.",
-    "狡詐的;奸詐的"
   ],
   "cunning": [
     "Sly, clever at being deceitful.",

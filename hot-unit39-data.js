@@ -59,24 +59,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-cowardice"
       },
       {
-        "word": "pusillanimous",
-        "pos": "adj.",
-        "definition": "Showing a lack of courage or determination.",
-        "chinese": "怯懦的;膽小的",
-        "synonyms": "timid, timorous, craven",
-        "image": "shield",
-        "sentence": "His __________ response to the challenge disappointed his supporters.",
-        "translation": "他對這項挑戰怯懦的回應讓他的支持者感到失望。",
-        "lookup": {
-          "english": "Showing a lack of courage or determination.",
-          "chinese": "怯懦的;膽小的"
-        },
-        "advSentence": "The senator was accused of a pusillanimous refusal to take a clear stance.",
-        "advTranslation": "這位參議員被指控怯懦地拒絕表明清楚的立場。",
-        "added": false,
-        "group": "sat-cowardice"
-      },
-      {
         "word": "trepidation",
         "pos": "n.",
         "definition": "A feeling of fear or anxiety about something that may happen.",
@@ -222,10 +204,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "craven": [
     "Contemptibly cowardly.",
     "懦弱的;卑怯的"
-  ],
-  "pusillanimous": [
-    "Showing a lack of courage or determination.",
-    "怯懦的;膽小的"
   ],
   "trepidation": [
     "A feeling of fear or anxiety about something that may happen.",

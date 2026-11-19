@@ -113,24 +113,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-gloom"
       },
       {
-        "word": "lugubrious",
-        "pos": "adj.",
-        "definition": "Very sad:melancholy.",
-        "chinese": "悲哀的/令人傷心的",
-        "synonyms": "melancholy, morose, despondent",
-        "image": "shield",
-        "sentence": "The funeral procession moved slowly to the sound of __________ music.",
-        "translation": "送葬隊伍在悲哀的音樂聲中緩緩前行。",
-        "lookup": {
-          "english": "Very sad:melancholy.",
-          "chinese": "悲哀的/令人傷心的"
-        },
-        "advSentence": "His lugubrious expression made it clear that he had received bad news.",
-        "advTranslation": "他悲傷的表情清楚顯示他收到了壞消息。",
-        "added": false,
-        "group": "sat-gloom"
-      },
-      {
         "word": "somber",
         "pos": "adj.",
         "definition": "Gloomy, sad.",
@@ -199,24 +181,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Fans continue to lament the cancellation of their favorite show.",
         "advTranslation": "粉絲們仍持續為他們最愛的節目遭到取消而感到惋惜。",
-        "added": false,
-        "group": "sat-gloom"
-      },
-      {
-        "word": "dolorous",
-        "pos": "adj.",
-        "definition": "Showing sorrow.",
-        "chinese": "悲傷的/哀痛的",
-        "synonyms": "melancholy, morose, despondent",
-        "image": "shield",
-        "sentence": "The violin played a slow, __________ melody throughout the film.",
-        "translation": "小提琴在這部電影中演奏了一段緩慢哀傷的旋律。",
-        "lookup": {
-          "english": "Showing sorrow.",
-          "chinese": "悲傷的/哀痛的"
-        },
-        "advSentence": "Her dolorous expression revealed just how much she missed her homeland.",
-        "advTranslation": "她哀傷的神情透露出她有多麼想念自己的家鄉。",
         "added": false,
         "group": "sat-gloom"
       },
@@ -469,10 +433,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Sad, melancholy.",
     "悲哀的"
   ],
-  "lugubrious": [
-    "Very sad:melancholy.",
-    "悲哀的/令人傷心的"
-  ],
   "somber": [
     "Gloomy, sad.",
     "憂鬱的/昏暗的"
@@ -488,10 +448,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "lament": [
     "To express grief or sorrow.",
     "哀悼/悲嘆"
-  ],
-  "dolorous": [
-    "Showing sorrow.",
-    "悲傷的/哀痛的"
   ],
   "mournful": [
     "Feeling, expressing, or causing sorrow.",

@@ -131,24 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-anger"
       },
       {
-        "word": "choleric",
-        "pos": "adj.",
-        "definition": "Easily angered; bad-tempered.",
-        "chinese": "易怒的;暴躁的",
-        "synonyms": "irate, indignant, wrath",
-        "image": "shield",
-        "sentence": "The __________ chef was known for throwing pans when a dish came back to the kitchen.",
-        "translation": "這位暴躁的主廚以只要有菜被退回廚房就摔鍋子而聞名。",
-        "lookup": {
-          "english": "Easily angered; bad-tempered.",
-          "chinese": "易怒的;暴躁的"
-        },
-        "advSentence": "His choleric temper made him difficult to work with, despite his obvious talent.",
-        "advTranslation": "儘管才華洋溢,他暴躁的脾氣仍讓人難以與他共事。",
-        "added": false,
-        "group": "sat-anger"
-      },
-      {
         "word": "petulant",
         "pos": "adj.",
         "definition": "Easily irritated or annoyed.",
@@ -257,24 +239,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-anger"
       },
       {
-        "word": "waspish",
-        "pos": "adj.",
-        "definition": "Easily irritated and quick to make sharp remarks.",
-        "chinese": "易怒尖刻的;好挑剔的",
-        "synonyms": "irate, indignant, wrath",
-        "image": "shield",
-        "sentence": "Her __________ comments during the review left the junior staff shaken.",
-        "translation": "她在這場評鑑中尖酸刻薄的評論讓這些基層員工感到不安。",
-        "lookup": {
-          "english": "Easily irritated and quick to make sharp remarks.",
-          "chinese": "易怒尖刻的;好挑剔的"
-        },
-        "advSentence": "He grew waspish whenever anyone questioned his authority.",
-        "advTranslation": "每當有人質疑他的權威時,他就會變得尖酸易怒。",
-        "added": true,
-        "group": "sat-anger"
-      },
-      {
         "word": "grouchy",
         "pos": "adj.",
         "definition": "Irritable and bad-tempered.",
@@ -289,24 +253,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The grouchy old man yelled at the kids playing outside.",
         "advTranslation": "這位脾氣暴躁的老人對著在外面玩耍的孩子們大吼。",
-        "added": true,
-        "group": "sat-anger"
-      },
-      {
-        "word": "splenetic",
-        "pos": "adj.",
-        "definition": "Bad-tempered or spiteful.",
-        "chinese": "易怒的;脾氣暴躁的",
-        "synonyms": "irate, indignant, wrath",
-        "image": "shield",
-        "sentence": "The critic was known for his __________ reviews of new restaurants.",
-        "translation": "這位評論家以他對新餐廳脾氣暴躁的評論聞名。",
-        "lookup": {
-          "english": "Bad-tempered or spiteful.",
-          "chinese": "易怒的;脾氣暴躁的"
-        },
-        "advSentence": "His splenetic outburst startled everyone in the meeting.",
-        "advTranslation": "他脾氣暴躁的爆發嚇到了會議上的所有人。",
         "added": true,
         "group": "sat-anger"
       },
@@ -401,10 +347,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Irritable.",
     "易怒的"
   ],
-  "choleric": [
-    "Easily angered; bad-tempered.",
-    "易怒的;暴躁的"
-  ],
   "petulant": [
     "Easily irritated or annoyed.",
     "任性易怒的/暴躁的"
@@ -429,17 +371,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Easily irritated; impatient.",
     "易怒的;暴躁的"
   ],
-  "waspish": [
-    "Easily irritated and quick to make sharp remarks.",
-    "易怒尖刻的;好挑剔的"
-  ],
   "grouchy": [
     "Irritable and bad-tempered.",
     "脾氣暴躁的"
-  ],
-  "splenetic": [
-    "Bad-tempered or spiteful.",
-    "易怒的;脾氣暴躁的"
   ],
   "surly": [
     "Bad-tempered and unfriendly.",

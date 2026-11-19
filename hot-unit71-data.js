@@ -185,24 +185,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-shy"
       },
       {
-        "word": "unostentatious",
-        "pos": "adj.",
-        "definition": "Not showy or designed to attract attention.",
-        "chinese": "不張揚的;樸實的",
-        "synonyms": "bashful, demure, unassuming",
-        "image": "shield",
-        "sentence": "The billionaire lived in a surprisingly __________ house.",
-        "translation": "這位億萬富翁住在一棟出乎意料樸實不張揚的房子裡。",
-        "lookup": {
-          "english": "Not showy or designed to attract attention.",
-          "chinese": "不張揚的;樸實的"
-        },
-        "advSentence": "Her unostentatious generosity was known only to those closest to her.",
-        "advTranslation": "她那不張揚的慷慨只有最親近她的人知道。",
-        "added": true,
-        "group": "sat-shy"
-      },
-      {
         "word": "prim",
         "pos": "adj.",
         "definition": "Stiffly formal and correct; disapproving of impropriety.",
@@ -304,10 +286,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "standoffish": [
     "Reserved, cold, or distant in manner.",
     "冷淡的;疏遠的"
-  ],
-  "unostentatious": [
-    "Not showy or designed to attract attention.",
-    "不張揚的;樸實的"
   ],
   "prim": [
     "Stiffly formal and correct; disapproving of impropriety.",

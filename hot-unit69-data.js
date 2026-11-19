@@ -275,24 +275,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-disaster"
       },
       {
-        "word": "misadventure",
-        "pos": "n.",
-        "definition": "An unlucky mishap or accident.",
-        "chinese": "不幸事件;意外",
-        "synonyms": "calamity, catastrophe, cataclysm",
-        "image": "shield",
-        "sentence": "Their camping trip turned into a comedy of __________ s.",
-        "translation": "他們的露營之旅變成了一連串滑稽不幸事件的喜劇。",
-        "lookup": {
-          "english": "An unlucky mishap or accident.",
-          "chinese": "不幸事件;意外"
-        },
-        "advSentence": "The coroner ruled the death an accidental misadventure .",
-        "advTranslation": "驗屍官將這起死亡事件裁定為意外不幸事故。",
-        "added": true,
-        "group": "sat-disaster"
-      },
-      {
         "word": "woe",
         "pos": "n.",
         "definition": "Great sorrow or distress; trouble.",
@@ -396,10 +378,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "disastrous": [
     "Causing great damage, distress, or ruin; catastrophic.",
     "災難性的；慘重的"
-  ],
-  "misadventure": [
-    "An unlucky mishap or accident.",
-    "不幸事件;意外"
   ],
   "woe": [
     "Great sorrow or distress; trouble.",

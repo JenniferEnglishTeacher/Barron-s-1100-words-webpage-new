@@ -283,42 +283,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-03"
       },
       {
-        "word": "vainglorious",
-        "pos": "adj.",
-        "definition": "Excessively proud of oneself; boastful.",
-        "chinese": "自負的;自誇的",
-        "synonyms": "arrogant, contemptuous, complacent",
-        "image": "shield",
-        "sentence": "The __________ general took credit for victories he barely contributed to.",
-        "translation": "這位自負的將軍把功勞攬在自己身上,儘管他幾乎沒有貢獻。",
-        "lookup": {
-          "english": "Excessively proud of oneself; boastful.",
-          "chinese": "自負的;自誇的"
-        },
-        "advSentence": "Her vainglorious speech alienated many of her former supporters.",
-        "advTranslation": "她那自誇的演說疏遠了她許多昔日的支持者。",
-        "added": true,
-        "group": "hot-03"
-      },
-      {
-        "word": "overweening",
-        "pos": "adj.",
-        "definition": "Showing excessive confidence or pride.",
-        "chinese": "自負的;狂妄的",
-        "synonyms": "arrogant, contemptuous, complacent",
-        "image": "shield",
-        "sentence": "His __________ ambition alienated even his closest allies.",
-        "translation": "他狂妄的野心甚至疏遠了他最親近的盟友。",
-        "lookup": {
-          "english": "Showing excessive confidence or pride.",
-          "chinese": "自負的;狂妄的"
-        },
-        "advSentence": "The critic mocked the director's overweening self-regard.",
-        "advTranslation": "這位評論家嘲諷這位導演狂妄自負的自我評價。",
-        "added": true,
-        "group": "hot-03"
-      },
-      {
         "word": "pompous",
         "pos": "adj.",
         "definition": "Self-important and grandiose in manner.",
@@ -841,14 +805,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "vain": [
     "Having excessive pride in one's appearance; producing no result.",
     "虛榮的;徒勞的"
-  ],
-  "vainglorious": [
-    "Excessively proud of oneself; boastful.",
-    "自負的;自誇的"
-  ],
-  "overweening": [
-    "Showing excessive confidence or pride.",
-    "自負的;狂妄的"
   ],
   "pompous": [
     "Self-important and grandiose in manner.",

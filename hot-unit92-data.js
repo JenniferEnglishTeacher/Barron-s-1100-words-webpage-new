@@ -77,24 +77,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-rare"
       },
       {
-        "word": "exiguous",
-        "pos": "adj.",
-        "definition": "Extremely scanty or meager.",
-        "chinese": "稀少的;貧乏的",
-        "synonyms": "sparse, meager, paucity",
-        "image": "shield",
-        "sentence": "The refugees survived on an __________ supply of food and water.",
-        "translation": "難民們靠著貧乏的食物與飲水維生。",
-        "lookup": {
-          "english": "Extremely scanty or meager.",
-          "chinese": "稀少的;貧乏的"
-        },
-        "advSentence": "His exiguous salary barely covered rent.",
-        "advTranslation": "他微薄的薪水幾乎不夠支付房租。",
-        "added": false,
-        "group": "sat-rare"
-      },
-      {
         "word": "infrequent",
         "pos": "adj.",
         "definition": "Not occurring often.",
@@ -145,24 +127,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Hospitals faced a critical shortage of medical supplies during the outbreak.",
         "advTranslation": "醫院在這場疫情爆發期間面臨醫療用品的嚴重短缺。",
-        "added": true,
-        "group": "sat-rare"
-      },
-      {
-        "word": "exiguity",
-        "pos": "n.",
-        "definition": "Extreme scantiness or smallness.",
-        "chinese": "稀少;匱乏",
-        "synonyms": "sparse, meager, paucity",
-        "image": "shield",
-        "sentence": "The __________ of resources forced the team to improvise.",
-        "translation": "資源的稀少迫使這支團隊臨機應變。",
-        "lookup": {
-          "english": "Extreme scantiness or smallness.",
-          "chinese": "稀少;匱乏"
-        },
-        "advSentence": "Critics noted the exiguity of evidence supporting the claim.",
-        "advTranslation": "評論家指出支持這項說法的證據十分匱乏。",
         "added": true,
         "group": "sat-rare"
       },
@@ -264,10 +228,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Lack, scarcity.",
     "缺乏/稀少"
   ],
-  "exiguous": [
-    "Extremely scanty or meager.",
-    "稀少的;貧乏的"
-  ],
   "infrequent": [
     "Not occurring often.",
     "罕見的；不常發生的"
@@ -279,10 +239,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "shortage": [
     "A state in which something needed is not available in sufficient amounts.",
     "短缺;不足"
-  ],
-  "exiguity": [
-    "Extreme scantiness or smallness.",
-    "稀少;匱乏"
   ],
   "sporadic": [
     "Occasional.",

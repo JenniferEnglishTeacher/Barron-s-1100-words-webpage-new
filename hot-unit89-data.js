@@ -131,42 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-surprise"
       },
       {
-        "word": "nonplus",
-        "pos": "v.",
-        "definition": "To completely surprise or confuse someone.",
-        "chinese": "使困惑;使不知所措",
-        "synonyms": "astound, flabbergast, dumbfound",
-        "image": "shield",
-        "sentence": "The unexpected question seemed to __________ the usually confident speaker.",
-        "translation": "這個出乎意料的問題似乎讓這位平時自信滿滿的講者不知所措。",
-        "lookup": {
-          "english": "To completely surprise or confuse someone.",
-          "chinese": "使困惑;使不知所措"
-        },
-        "advSentence": "Her sudden resignation appeared to nonplus the entire board.",
-        "advTranslation": "她突如其來的辭職似乎讓整個董事會都感到困惑不已。",
-        "added": true,
-        "group": "sat-surprise"
-      },
-      {
-        "word": "flummox",
-        "pos": "v.",
-        "definition": "To bewilder or confuse someone completely.",
-        "chinese": "使困惑;使不知所措",
-        "synonyms": "astound, flabbergast, dumbfound",
-        "image": "shield",
-        "sentence": "The unexpected question __________ ed the candidate.",
-        "translation": "這個出乎意料的問題讓這位候選人不知所措。",
-        "lookup": {
-          "english": "To bewilder or confuse someone completely.",
-          "chinese": "使困惑;使不知所措"
-        },
-        "advSentence": "She was completely flummox ed by the complicated instructions.",
-        "advTranslation": "她完全被這些複雜的說明搞糊塗了。",
-        "added": true,
-        "group": "sat-surprise"
-      },
-      {
         "word": "baffle",
         "pos": "v.",
         "definition": "To completely confuse or perplex.",
@@ -217,24 +181,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Her blunt question disconcert ed the entire panel.",
         "advTranslation": "她直率的問題讓整個評審團感到困惑不安。",
-        "added": true,
-        "group": "sat-surprise"
-      },
-      {
-        "word": "discomfit",
-        "pos": "v.",
-        "definition": "To thwart, baffle.",
-        "chinese": "使困惑/挫敗",
-        "synonyms": "astound, flabbergast, dumbfound",
-        "image": "shield",
-        "sentence": "The unexpected question seemed to __________ the usually confident speaker.",
-        "translation": "這個突如其來的問題似乎讓這位平時自信滿滿的講者顯得手足無措。",
-        "lookup": {
-          "english": "To thwart, baffle.",
-          "chinese": "使困惑/挫敗"
-        },
-        "advSentence": "Her sharp reply managed to discomfit even her harshest critics.",
-        "advTranslation": "她犀利的回應成功讓連最嚴厲的批評者都感到挫敗。",
         "added": true,
         "group": "sat-surprise"
       },
@@ -291,14 +237,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To knock unconscious or daze; to astonish.",
     "使昏迷;使震驚"
   ],
-  "nonplus": [
-    "To completely surprise or confuse someone.",
-    "使困惑;使不知所措"
-  ],
-  "flummox": [
-    "To bewilder or confuse someone completely.",
-    "使困惑;使不知所措"
-  ],
   "baffle": [
     "To completely confuse or perplex.",
     "使困惑;難倒"
@@ -310,10 +248,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "disconcert": [
     "To disturb the composure of; to unsettle.",
     "使不安;使困惑"
-  ],
-  "discomfit": [
-    "To thwart, baffle.",
-    "使困惑/挫敗"
   ],
   "prodigy": [
     "Marvel, phenomenon.",

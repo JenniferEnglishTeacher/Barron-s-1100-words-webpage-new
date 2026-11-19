@@ -185,24 +185,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-lively"
       },
       {
-        "word": "frolicsome",
-        "pos": "adj.",
-        "definition": "Playful and full of high spirits.",
-        "chinese": "嬉戲的;活潑的",
-        "synonyms": "vivacious, animated, spirited",
-        "image": "shield",
-        "sentence": "The __________ puppy bounded across the lawn.",
-        "translation": "這隻活潑嬉戲的小狗在草坪上蹦蹦跳跳。",
-        "lookup": {
-          "english": "Playful and full of high spirits.",
-          "chinese": "嬉戲的;活潑的"
-        },
-        "advSentence": "Children spent a frolicsome afternoon at the water park.",
-        "advTranslation": "孩子們在水上樂園度過了一個嬉戲玩樂的下午。",
-        "added": true,
-        "group": "sat-lively"
-      },
-      {
         "word": "sparkling",
         "pos": "adj.",
         "definition": "Shining with flashes of light; lively and vivacious.",
@@ -286,10 +268,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "spry": [
     "Active and energetic, especially of an older person.",
     "矯健的;敏捷的"
-  ],
-  "frolicsome": [
-    "Playful and full of high spirits.",
-    "嬉戲的;活潑的"
   ],
   "sparkling": [
     "Shining with flashes of light; lively and vivacious.",

@@ -325,42 +325,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她獨自籌辦了整場慈善活動,值得所有的讚譽。",
         "added": true,
         "group": "hot-19"
-      },
-      {
-        "word": "encomium",
-        "pos": "n.",
-        "definition": "High praise.",
-        "chinese": "讚美/頌詞",
-        "synonyms": "acclaim, extol, esteem",
-        "image": "shield",
-        "sentence": "The retiring teacher received a heartfelt __________ from her former students.",
-        "translation": "這位即將退休的老師收到了學生們發自內心的頌詞讚美。",
-        "lookup": {
-          "english": "High praise.",
-          "chinese": "讚美/頌詞"
-        },
-        "advSentence": "The biography reads more like an encomium than an honest account.",
-        "advTranslation": "這本傳記讀起來更像是一篇讚頌之詞,而非誠實的記述。",
-        "added": true,
-        "group": "hot-19"
-      },
-      {
-        "word": "hallow",
-        "pos": "v.",
-        "definition": "To honor as holy; to consecrate.",
-        "chinese": "使神聖化;尊崇",
-        "synonyms": "acclaim, extol, esteem",
-        "image": "shield",
-        "sentence": "The ground was __________ ed as a memorial to the fallen soldiers.",
-        "translation": "這片土地被奉為紀念陣亡將士的聖地。",
-        "lookup": {
-          "english": "To honor as holy; to consecrate.",
-          "chinese": "使神聖化;尊崇"
-        },
-        "advSentence": "They gathered to hallow the memory of their founder.",
-        "advTranslation": "他們聚集在一起緬懷他們創辦人的紀念。",
-        "added": true,
-        "group": "hot-19"
       }
     ],
     "quiz": [
@@ -688,13 +652,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "kudos": [
     "Praise for an achievement.",
     "讚譽/榮耀"
-  ],
-  "encomium": [
-    "High praise.",
-    "讚美/頌詞"
-  ],
-  "hallow": [
-    "To honor as holy; to consecrate.",
-    "使神聖化;尊崇"
   ]
 });

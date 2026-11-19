@@ -185,24 +185,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-begin"
       },
       {
-        "word": "inchoate",
-        "pos": "adj.",
-        "definition": "In an early stage:incipient.",
-        "chinese": "早期的/未成形的",
-        "synonyms": "inception, genesis, nascent",
-        "image": "shield",
-        "sentence": "The plan was still __________, with many details left to be worked out.",
-        "translation": "這個計畫仍處於未成形的早期階段,還有許多細節有待確定。",
-        "lookup": {
-          "english": "In an early stage:incipient.",
-          "chinese": "早期的/未成形的"
-        },
-        "advSentence": "His inchoate ideas about the novel had not yet taken a clear shape.",
-        "advTranslation": "他對這部小說的構想仍處於早期未成形的階段。",
-        "added": true,
-        "group": "sat-begin"
-      },
-      {
         "word": "outset",
         "pos": "n.",
         "definition": "The start, beginning, or initial stage of an event or journey.",
@@ -217,24 +199,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "We encountered trouble at the outset of our trip when the car broke down outside the driveway.",
         "advTranslation": "旅程一開始我們就遇到麻煩，車子剛開出車道便故障了。",
-        "added": true,
-        "group": "sat-begin"
-      },
-      {
-        "word": "nascency",
-        "pos": "n.",
-        "definition": "The state of being born or just beginning to exist.",
-        "chinese": "誕生;萌芽狀態",
-        "synonyms": "inception, genesis, nascent",
-        "image": "shield",
-        "sentence": "The movement was still in its __________ when the founder passed away.",
-        "translation": "這場運動在創始人過世時仍處於萌芽階段。",
-        "lookup": {
-          "english": "The state of being born or just beginning to exist.",
-          "chinese": "誕生;萌芽狀態"
-        },
-        "advSentence": "Historians traced the nascency of the tradition to a small village festival.",
-        "advTranslation": "歷史學家將這項傳統的起源追溯到一個小村莊的節慶。",
         "added": true,
         "group": "sat-begin"
       },
@@ -341,17 +305,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Little-known, newly developed.",
     "無經驗的人/幼鳥"
   ],
-  "inchoate": [
-    "In an early stage:incipient.",
-    "早期的/未成形的"
-  ],
   "outset": [
     "The start, beginning, or initial stage of an event or journey.",
     "開始；開端"
-  ],
-  "nascency": [
-    "The state of being born or just beginning to exist.",
-    "誕生;萌芽狀態"
   ],
   "neophyte": [
     "Someone who is young or inexperienced.",

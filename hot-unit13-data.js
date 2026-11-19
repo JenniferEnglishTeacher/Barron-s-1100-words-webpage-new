@@ -237,24 +237,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-13"
       },
       {
-        "word": "insouciant",
-        "pos": "adj.",
-        "definition": "Casually indifferent; carefree.",
-        "chinese": "漫不經心的;無憂無慮的",
-        "synonyms": "detached, impassive, indifferent",
-        "image": "shield",
-        "sentence": "His __________ attitude toward deadlines worried his supervisor.",
-        "translation": "他對截止日期漫不經心的態度讓主管感到擔憂。",
-        "lookup": {
-          "english": "Casually indifferent; carefree.",
-          "chinese": "漫不經心的;無憂無慮的"
-        },
-        "advSentence": "She strolled in with an insouciant smile, unbothered by the chaos.",
-        "advTranslation": "她帶著漫不經心的微笑走進來,絲毫不受這片混亂影響。",
-        "added": true,
-        "group": "hot-13"
-      },
-      {
         "word": "lukewarm",
         "pos": "adj.",
         "definition": "Moderately warm; showing little enthusiasm.",
@@ -650,10 +632,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "unemotional": [
     "Not showing or influenced by emotion.",
     "不動感情的;冷靜的"
-  ],
-  "insouciant": [
-    "Casually indifferent; carefree.",
-    "漫不經心的;無憂無慮的"
   ],
   "lukewarm": [
     "Moderately warm; showing little enthusiasm.",

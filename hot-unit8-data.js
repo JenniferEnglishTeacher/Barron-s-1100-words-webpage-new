@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-08"
       },
       {
-        "word": "beneficent",
-        "pos": "adj.",
-        "definition": "Doing good or actively helping others.",
-        "chinese": "行善的；有慈善心的",
-        "synonyms": "prodigal, altruistic, magnanimous",
-        "image": "shield",
-        "sentence": "The organization is recognized worldwide for its __________ efforts to provide clean water to remote villages.",
-        "translation": "該組織因其在向偏遠村莊提供乾淨飲用水方面的行善努力，而獲得全球認可。",
-        "lookup": {
-          "english": "Doing good or actively helping others.",
-          "chinese": "行善的；有慈善心的"
-        },
-        "advSentence": "She dedicated her retirement years to beneficent work, volunteering at the local animal shelter every day.",
-        "advTranslation": "她將退休後的歲月投入到行善工作中，每天都在當地的動物收容所當志工。",
-        "added": true,
-        "group": "hot-08"
-      },
-      {
         "word": "profligate",
         "pos": "adj.",
         "definition": "Wasteful: (anti:frugal=economical=stingy).",
@@ -540,10 +522,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "bountiful": [
     "Abundant; giving generously.",
     "豐盛的;慷慨的"
-  ],
-  "beneficent": [
-    "Doing good or actively helping others.",
-    "行善的；有慈善心的"
   ],
   "profligate": [
     "Wasteful: (anti:frugal=economical=stingy).",

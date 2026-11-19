@@ -77,24 +77,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-honesty"
       },
       {
-        "word": "probity",
-        "pos": "n.",
-        "definition": "Virtue, integrity.",
-        "chinese": "正直/誠實",
-        "synonyms": "candid, frank, forthright",
-        "image": "shield",
-        "sentence": "The judge was widely respected for her unquestionable __________.",
-        "translation": "這位法官因其無可置疑的正直而備受尊敬。",
-        "lookup": {
-          "english": "Virtue, integrity.",
-          "chinese": "正直/誠實"
-        },
-        "advSentence": "His reputation for probity made him the obvious choice to audit the accounts.",
-        "advTranslation": "他以正直誠實聞名,使他成為審核帳目的不二人選。",
-        "added": false,
-        "group": "sat-honesty"
-      },
-      {
         "word": "integrity",
         "pos": "n.",
         "definition": "Holding firmly to values, such as honesty; completeness.",
@@ -293,24 +275,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-honesty"
       },
       {
-        "word": "aboveboard",
-        "pos": "adj./adv.",
-        "definition": "Honest and open; without any attempt at deception.",
-        "chinese": "光明正大的;誠實的",
-        "synonyms": "candid, frank, forthright",
-        "image": "shield",
-        "sentence": "The auditor confirmed that every transaction had been completely __________.",
-        "translation": "審計人員確認每一筆交易都完全光明正大。",
-        "lookup": {
-          "english": "Honest and open; without any attempt at deception.",
-          "chinese": "光明正大的;誠實的"
-        },
-        "advSentence": "She insisted on keeping the negotiations aboveboard , with no secret side deals.",
-        "advTranslation": "她堅持整個談判過程要光明正大,不搞任何私下的秘密協議。",
-        "added": true,
-        "group": "sat-honesty"
-      },
-      {
         "word": "truthful",
         "pos": "adj.",
         "definition": "Telling or expressing the truth; honest.",
@@ -371,10 +335,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Truthfulness, accuracy.",
     "真實性/誠實"
   ],
-  "probity": [
-    "Virtue, integrity.",
-    "正直/誠實"
-  ],
   "integrity": [
     "Holding firmly to values, such as honesty; completeness.",
     "正直；完整"
@@ -418,10 +378,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "honorable": [
     "Deserving respect for honesty and integrity.",
     "值得尊敬的;正直的"
-  ],
-  "aboveboard": [
-    "Honest and open; without any attempt at deception.",
-    "光明正大的;誠實的"
   ],
   "truthful": [
     "Telling or expressing the truth; honest.",

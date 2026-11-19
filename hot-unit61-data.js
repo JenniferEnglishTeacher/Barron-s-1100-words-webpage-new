@@ -131,42 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-rebel"
       },
       {
-        "word": "refractory",
-        "pos": "adj.",
-        "definition": "Stubborn or resistant to control; resistant to treatment.",
-        "chinese": "頑固的;難治的",
-        "synonyms": "insurgent, seditious, defiant",
-        "image": "shield",
-        "sentence": "The teacher struggled to manage the classroom's most __________ students.",
-        "translation": "這位老師努力管理班上最難駕馭的學生。",
-        "lookup": {
-          "english": "Stubborn or resistant to control; resistant to treatment.",
-          "chinese": "頑固的;難治的"
-        },
-        "advSentence": "Her illness proved refractory to every treatment they tried.",
-        "advTranslation": "她的疾病被證明對他們嘗試的每一種治療方式都難以起效。",
-        "added": false,
-        "group": "sat-rebel"
-      },
-      {
-        "word": "contumacious",
-        "pos": "adj.",
-        "definition": "Stubbornly disobedient to authority.",
-        "chinese": "頑抗的;不服從的",
-        "synonyms": "insurgent, seditious, defiant",
-        "image": "shield",
-        "sentence": "The __________ defendant refused to answer the judge's questions.",
-        "translation": "這名頑抗的被告拒絕回答法官的問題。",
-        "lookup": {
-          "english": "Stubbornly disobedient to authority.",
-          "chinese": "頑抗的;不服從的"
-        },
-        "advSentence": "His contumacious attitude toward the new rules got him suspended.",
-        "advTranslation": "他對新規定不服從的態度使他遭到停職。",
-        "added": false,
-        "group": "sat-rebel"
-      },
-      {
         "word": "rebellious",
         "pos": "adj.",
         "definition": "Resisting authority or control.",
@@ -400,14 +364,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "recalcitrant": [
     "Stubborn; disobedient; defiant.",
     "頑抗的"
-  ],
-  "refractory": [
-    "Stubborn or resistant to control; resistant to treatment.",
-    "頑固的;難治的"
-  ],
-  "contumacious": [
-    "Stubbornly disobedient to authority.",
-    "頑抗的;不服從的"
   ],
   "rebellious": [
     "Resisting authority or control.",

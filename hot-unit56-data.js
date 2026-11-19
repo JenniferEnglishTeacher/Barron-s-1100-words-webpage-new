@@ -41,24 +41,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-diligent"
       },
       {
-        "word": "sedulous",
-        "pos": "adj.",
-        "definition": "Showing dedication and persistent effort.",
-        "chinese": "勤勉的;孜孜不倦的",
-        "synonyms": "assiduous, industrious, diligent",
-        "image": "shield",
-        "sentence": "Her __________ preparation paid off during the final examination.",
-        "translation": "她孜孜不倦的準備在最後的考試中得到了回報。",
-        "lookup": {
-          "english": "Showing dedication and persistent effort.",
-          "chinese": "勤勉的;孜孜不倦的"
-        },
-        "advSentence": "He was known for his sedulous attention to even the smallest details.",
-        "advTranslation": "他以對即使最細微的細節也孜孜不倦的關注而聞名。",
-        "added": false,
-        "group": "sat-diligent"
-      },
-      {
         "word": "diligent",
         "pos": "adj.",
         "definition": "Showing care and effort in one's work or duties.",
@@ -218,10 +200,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "industrious": [
     "Diligent and hardworking.",
     "勤勉的;勤奮的"
-  ],
-  "sedulous": [
-    "Showing dedication and persistent effort.",
-    "勤勉的;孜孜不倦的"
   ],
   "diligent": [
     "Showing care and effort in one's work or duties.",

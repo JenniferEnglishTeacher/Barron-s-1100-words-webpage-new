@@ -237,42 +237,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-12"
       },
       {
-        "word": "vituperate",
-        "pos": "v.",
-        "definition": "To berate.",
-        "chinese": "痛罵/斥責",
-        "synonyms": "deprecate, impugn, rebuke",
-        "image": "shield",
-        "sentence": "The coach began to __________ the referee over the controversial call.",
-        "translation": "教練開始對這項有爭議的判決大肆斥責裁判。",
-        "lookup": {
-          "english": "To berate.",
-          "chinese": "痛罵/斥責"
-        },
-        "advSentence": "She refused to vituperate her employees in front of clients, no matter the mistake.",
-        "advTranslation": "無論犯了什麼錯,她都拒絕在客戶面前痛罵員工。",
-        "added": true,
-        "group": "hot-12"
-      },
-      {
-        "word": "objurgate",
-        "pos": "v.",
-        "definition": "To scold or rebuke harshly.",
-        "chinese": "嚴厲斥責",
-        "synonyms": "deprecate, impugn, rebuke",
-        "image": "shield",
-        "sentence": "The coach began to __________ the team for their careless mistakes.",
-        "translation": "教練開始嚴厲斥責這支隊伍粗心大意的失誤。",
-        "lookup": {
-          "english": "To scold or rebuke harshly.",
-          "chinese": "嚴厲斥責"
-        },
-        "advSentence": "She was harshly objurgated by her supervisor for missing the deadline.",
-        "advTranslation": "她因錯過截止期限而遭到主管嚴厲的斥責。",
-        "added": true,
-        "group": "hot-12"
-      },
-      {
         "word": "condemn",
         "pos": "v.",
         "definition": "To express strong disapproval of; to sentence to punishment.",
@@ -305,24 +269,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The senator was excoriated in the press for his controversial remarks.",
         "advTranslation": "這位參議員因發表爭議言論而在媒體上遭到猛烈抨擊。",
-        "added": true,
-        "group": "hot-12"
-      },
-      {
-        "word": "reprehend",
-        "pos": "v.",
-        "definition": "To rebuke or criticize someone sharply.",
-        "chinese": "斥責;嚴厲批評",
-        "synonyms": "deprecate, impugn, rebuke",
-        "image": "shield",
-        "sentence": "The teacher chose to __________ the students for their careless mistake.",
-        "translation": "這位老師選擇嚴厲斥責學生粗心大意的錯誤。",
-        "lookup": {
-          "english": "To rebuke or criticize someone sharply.",
-          "chinese": "斥責;嚴厲批評"
-        },
-        "advSentence": "Editorial writers began to reprehend the mayor's handling of the crisis.",
-        "advTranslation": "社論作家開始嚴厲批評市長對這場危機的處理方式。",
         "added": true,
         "group": "hot-12"
       },
@@ -669,14 +615,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To rebuke, reprimand.",
     "責備/斥責"
   ],
-  "vituperate": [
-    "To berate.",
-    "痛罵/斥責"
-  ],
-  "objurgate": [
-    "To scold or rebuke harshly.",
-    "嚴厲斥責"
-  ],
   "condemn": [
     "To express strong disapproval of; to sentence to punishment.",
     "譴責;判刑"
@@ -684,10 +622,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "excoriate": [
     "To criticize severely.",
     "嚴厲批評/痛斥"
-  ],
-  "reprehend": [
-    "To rebuke or criticize someone sharply.",
-    "斥責;嚴厲批評"
   ],
   "denounce": [
     "To criticize publicly.",

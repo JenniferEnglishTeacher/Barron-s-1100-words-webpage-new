@@ -271,24 +271,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-07"
       },
       {
-        "word": "inimical",
-        "pos": "adj.",
-        "definition": "Hostile, enemylike.",
-        "chinese": "敵對的/有害的",
-        "synonyms": "antagonism, contentious, disputatious",
-        "image": "shield",
-        "sentence": "The harsh climate proved __________ to most forms of plant life.",
-        "translation": "這種嚴酷的氣候對大多數植物來說都相當不利。",
-        "lookup": {
-          "english": "Hostile, enemylike.",
-          "chinese": "敵對的/有害的"
-        },
-        "advSentence": "The two rival companies remained inimical toward each other for years.",
-        "advTranslation": "這兩家對立的公司多年來始終彼此敵對。",
-        "added": true,
-        "group": "hot-07"
-      },
-      {
         "word": "vitriolic",
         "pos": "adj.",
         "definition": "Biting, burning.",
@@ -645,10 +627,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "fractious": [
     "Quarrelsome.",
     "易怒的/好爭吵的"
-  ],
-  "inimical": [
-    "Hostile, enemylike.",
-    "敵對的/有害的"
   ],
   "vitriolic": [
     "Biting, burning.",

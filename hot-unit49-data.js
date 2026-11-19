@@ -59,24 +59,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-vague"
       },
       {
-        "word": "recondite",
-        "pos": "adj.",
-        "definition": "Secret, hidden, obscure.",
-        "chinese": "深奧的/隱蔽的",
-        "synonyms": "ambiguous, nebulous, abstruse",
-        "image": "shield",
-        "sentence": "The professor's lecture was filled with __________ references few students understood.",
-        "translation": "這位教授的講座充滿了少數學生才能理解的深奧引述。",
-        "lookup": {
-          "english": "Secret, hidden, obscure.",
-          "chinese": "深奧的/隱蔽的"
-        },
-        "advSentence": "The ancient manuscript contained recondite knowledge lost to most scholars.",
-        "advTranslation": "這份古老的手稿蘊藏著大多數學者已失傳的深奧知識。",
-        "added": false,
-        "group": "sat-vague"
-      },
-      {
         "word": "arcane",
         "pos": "adj.",
         "definition": "Mysterious or known by few.",
@@ -311,24 +293,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-vague"
       },
       {
-        "word": "hermetic",
-        "pos": "adj.",
-        "definition": "Completely airtight or isolated from outside influence.",
-        "chinese": "密封的；氣密的；與世隔絕的",
-        "synonyms": "ambiguous, nebulous, abstruse",
-        "image": "shield",
-        "sentence": "Delicate silicon microchips must be manufactured and stored inside a __________ chamber that shuts out dust and moisture.",
-        "translation": "精密矽晶片必須在密封的氣密室中製造與儲存，以完全阻絕灰塵和濕氣。",
-        "lookup": {
-          "english": "Completely airtight or isolated from outside influence.",
-          "chinese": "密封的；氣密的；與世隔絕的"
-        },
-        "advSentence": "Living in an isolated aristocratic community, the poet developed a hermetic worldview detached from the struggles of ordinary citizens.",
-        "advTranslation": "生活在孤立的貴族社群中，這位詩人形成與世隔絕的世界觀，與一般民眾的社會與經濟困境脫節。",
-        "added": true,
-        "group": "sat-vague"
-      },
-      {
         "word": "indefinite",
         "pos": "adj.",
         "definition": "Not precisely determined; vague.",
@@ -347,24 +311,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-vague"
       },
       {
-        "word": "tenebrous",
-        "pos": "adj.",
-        "definition": "Dark, shadowy, or obscure.",
-        "chinese": "幽暗的;晦澀的",
-        "synonyms": "ambiguous, nebulous, abstruse",
-        "image": "shield",
-        "sentence": "The __________ forest seemed to swallow all sunlight beneath its canopy.",
-        "translation": "這片幽暗的森林在其樹冠下彷彿吞沒了所有的陽光。",
-        "lookup": {
-          "english": "Dark, shadowy, or obscure.",
-          "chinese": "幽暗的;晦澀的"
-        },
-        "advSentence": "Scholars debated the tenebrous meaning of the ancient text.",
-        "advTranslation": "學者們對這篇古文晦澀難解的含義爭論不休。",
-        "added": true,
-        "group": "sat-vague"
-      },
-      {
         "word": "mysterious",
         "pos": "adj.",
         "definition": "Difficult or impossible to understand or explain.",
@@ -379,24 +325,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "His mysterious absence puzzled everyone at the office.",
         "advTranslation": "他神秘的缺席讓辦公室裡的每個人都感到困惑。",
-        "added": true,
-        "group": "sat-vague"
-      },
-      {
-        "word": "turbid",
-        "pos": "adj.",
-        "definition": "Cloudy or muddy, as with sediment; confused.",
-        "chinese": "混濁的;混亂的",
-        "synonyms": "ambiguous, nebulous, abstruse",
-        "image": "shield",
-        "sentence": "The river turned __________ after heavy rains stirred up the sediment.",
-        "translation": "這條河流在豪雨攪動泥沙後變得混濁不清。",
-        "lookup": {
-          "english": "Cloudy or muddy, as with sediment; confused.",
-          "chinese": "混濁的;混亂的"
-        },
-        "advSentence": "His turbid thoughts made it difficult to reach a clear decision.",
-        "advTranslation": "他混亂的思緒讓他難以做出清楚的決定。",
         "added": true,
         "group": "sat-vague"
       }
@@ -420,10 +348,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abstruse": [
     "Difficult to understand because it is complex, obscure, or highly theoretical.",
     "深奧難懂的；晦澀的；玄奧的"
-  ],
-  "recondite": [
-    "Secret, hidden, obscure.",
-    "深奧的/隱蔽的"
   ],
   "arcane": [
     "Mysterious or known by few.",
@@ -477,24 +401,12 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Impossible to pass through.",
     "無法穿透的"
   ],
-  "hermetic": [
-    "Completely airtight or isolated from outside influence.",
-    "密封的；氣密的；與世隔絕的"
-  ],
   "indefinite": [
     "Not precisely determined; vague.",
     "不確定的;無限期的"
   ],
-  "tenebrous": [
-    "Dark, shadowy, or obscure.",
-    "幽暗的;晦澀的"
-  ],
   "mysterious": [
     "Difficult or impossible to understand or explain.",
     "神秘的;難以理解的"
-  ],
-  "turbid": [
-    "Cloudy or muddy, as with sediment; confused.",
-    "混濁的;混亂的"
   ]
 });

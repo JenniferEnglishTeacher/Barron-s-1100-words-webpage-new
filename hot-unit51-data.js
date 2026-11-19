@@ -167,42 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-criticize-sub"
       },
       {
-        "word": "calumny",
-        "pos": "n.",
-        "definition": "False accusation, slander.",
-        "chinese": "誹謗/中傷",
-        "synonyms": "disparage, belittle, denigrate",
-        "image": "shield",
-        "sentence": "The senator's career was nearly destroyed by baseless __________.",
-        "translation": "這位參議員的政治生涯幾乎因毫無根據的誹謗而毀於一旦。",
-        "lookup": {
-          "english": "False accusation, slander.",
-          "chinese": "誹謗/中傷"
-        },
-        "advSentence": "She fought back against the calumny spread by her rivals.",
-        "advTranslation": "她奮力反擊對手散布的誹謗中傷。",
-        "added": false,
-        "group": "sat-criticize-sub"
-      },
-      {
-        "word": "traduce",
-        "pos": "v.",
-        "definition": "To speak falsely or maliciously about someone; to slander.",
-        "chinese": "誹謗;詆毀",
-        "synonyms": "disparage, belittle, denigrate",
-        "image": "shield",
-        "sentence": "The tabloid attempted to __________ the actress with baseless rumors.",
-        "translation": "這家小報企圖用毫無根據的謠言詆毀這位女演員。",
-        "lookup": {
-          "english": "To speak falsely or maliciously about someone; to slander.",
-          "chinese": "誹謗;詆毀"
-        },
-        "advSentence": "He refused to traduce his former partner despite their bitter split.",
-        "advTranslation": "儘管兩人分手鬧得很不愉快,他仍拒絕詆毀他的前搭檔。",
-        "added": false,
-        "group": "sat-criticize-sub"
-      },
-      {
         "word": "derogatory",
         "pos": "adj.",
         "definition": "Belittling, disparaging.",
@@ -347,24 +311,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-criticize-sub"
       },
       {
-        "word": "besmirch",
-        "pos": "v.",
-        "definition": "To soil, stain, dim the reputation.",
-        "chinese": "玷污/毀謗",
-        "synonyms": "disparage, belittle, denigrate",
-        "image": "shield",
-        "sentence": "The scandal threatened to __________ his once spotless reputation.",
-        "translation": "這場醜聞可能會玷污他過去一塵不染的名聲。",
-        "lookup": {
-          "english": "To soil, stain, dim the reputation.",
-          "chinese": "玷污/毀謗"
-        },
-        "advSentence": "She accused the tabloid of trying to besmirch her career.",
-        "advTranslation": "她指控這家八卦小報試圖詆毀她的事業。",
-        "added": true,
-        "group": "sat-criticize-sub"
-      },
-      {
         "word": "tarnish",
         "pos": "v./n.",
         "definition": "To lose or cause to lose luster; to damage a reputation.",
@@ -415,24 +361,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The charity provides shelter for victims of domestic abuse.",
         "advTranslation": "這家慈善機構為家暴受害者提供庇護所。",
-        "added": true,
-        "group": "sat-criticize-sub"
-      },
-      {
-        "word": "scurrilous",
-        "pos": "adj.",
-        "definition": "Coarse.",
-        "chinese": "粗俗的/下流的",
-        "synonyms": "disparage, belittle, denigrate",
-        "image": "shield",
-        "sentence": "The tabloid published __________ rumors about the celebrity's private life.",
-        "translation": "這家小報刊登了關於這位名人私生活的粗俗謠言。",
-        "lookup": {
-          "english": "Coarse.",
-          "chinese": "粗俗的/下流的"
-        },
-        "advSentence": "He was sued for making scurrilous accusations against his former business partner.",
-        "advTranslation": "他因對前商業夥伴提出粗俗不實的指控而被告上法庭。",
         "added": true,
         "group": "sat-criticize-sub"
       },
@@ -535,14 +463,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To damage the reputation of someone through false statements.",
     "誹謗;中傷"
   ],
-  "calumny": [
-    "False accusation, slander.",
-    "誹謗/中傷"
-  ],
-  "traduce": [
-    "To speak falsely or maliciously about someone; to slander.",
-    "誹謗;詆毀"
-  ],
   "derogatory": [
     "Belittling, disparaging.",
     "貶低的/誹謗的"
@@ -575,10 +495,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To damage the purity or integrity of; to tarnish.",
     "玷污;敗壞"
   ],
-  "besmirch": [
-    "To soil, stain, dim the reputation.",
-    "玷污/毀謗"
-  ],
   "tarnish": [
     "To lose or cause to lose luster; to damage a reputation.",
     "失去光澤;玷污"
@@ -590,10 +506,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abuse": [
     "To use wrongly or harmfully; harmful or unfair treatment.",
     "濫用;虐待"
-  ],
-  "scurrilous": [
-    "Coarse.",
-    "粗俗的/下流的"
   ],
   "demean": [
     "To lower the status or stature of something.",

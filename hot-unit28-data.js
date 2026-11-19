@@ -251,24 +251,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-28"
       },
       {
-        "word": "sapient",
-        "pos": "adj.",
-        "definition": "Wise or having great learning.",
-        "chinese": "有智慧的;博學的",
-        "synonyms": "discerning, erudite, incisive",
-        "image": "shield",
-        "sentence": "The council sought advice from their most __________ members.",
-        "translation": "這個議會向最有智慧的成員尋求建議。",
-        "lookup": {
-          "english": "Wise or having great learning.",
-          "chinese": "有智慧的;博學的"
-        },
-        "advSentence": "His sapient observations often revealed insights others missed.",
-        "advTranslation": "他富有智慧的觀察經常揭示出其他人忽略的洞見。",
-        "added": true,
-        "group": "hot-28"
-      },
-      {
         "word": "canny",
         "pos": "adj.",
         "definition": "Shrewd, careful.",
@@ -319,24 +301,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "He has a keen eye for spotting fake antiques.",
         "advTranslation": "他有著敏銳的眼光,能辨識出仿冒的古董。",
-        "added": true,
-        "group": "hot-28"
-      },
-      {
-        "word": "percipient",
-        "pos": "adj./n.",
-        "definition": "Having or showing keen perception or insight.",
-        "chinese": "有感知力的;有洞察力的人",
-        "synonyms": "discerning, erudite, incisive",
-        "image": "shield",
-        "sentence": "A __________ observer would have noticed the subtle discrepancy immediately.",
-        "translation": "一位敏銳的觀察者會立刻注意到這個細微的差異。",
-        "lookup": {
-          "english": "Having or showing keen perception or insight.",
-          "chinese": "有感知力的;有洞察力的人"
-        },
-        "advSentence": "The witness proved unusually percipient under cross-examination.",
-        "advTranslation": "這位證人在交叉詰問下展現出異常敏銳的觀察力。",
         "added": true,
         "group": "hot-28"
       },
@@ -717,10 +681,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Keen, incisive.",
     "銳利的/一針見血的"
   ],
-  "sapient": [
-    "Wise or having great learning.",
-    "有智慧的;博學的"
-  ],
   "canny": [
     "Shrewd, careful.",
     "精明的/謹慎的"
@@ -732,10 +692,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "keen": [
     "Having or showing eagerness or enthusiasm.",
     "熱切的/敏銳的"
-  ],
-  "percipient": [
-    "Having or showing keen perception or insight.",
-    "有感知力的;有洞察力的人"
   ],
   "sophisticated": [
     "Developed to a high degree of complexity and refinement.",

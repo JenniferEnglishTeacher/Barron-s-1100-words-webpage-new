@@ -269,42 +269,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "由於沒有明確的主持人,這場會議很快就陷入混亂。",
         "added": true,
         "group": "hot-10"
-      },
-      {
-        "word": "morass",
-        "pos": "n.",
-        "definition": "A wet swampy bog; something that traps and confuses.",
-        "chinese": "沼澤/困境",
-        "synonyms": "adversity, conflagration, confounding",
-        "image": "shield",
-        "sentence": "The soldiers became stuck in a __________ during the retreat.",
-        "translation": "士兵們在撤退途中陷入了一片沼澤地。",
-        "lookup": {
-          "english": "A wet swampy bog; something that traps and confuses.",
-          "chinese": "沼澤/困境"
-        },
-        "advSentence": "The company found itself in a legal morass after the merger fell through.",
-        "advTranslation": "這場併購案破局後,這家公司陷入了一場法律糾紛的泥沼。",
-        "added": true,
-        "group": "hot-10"
-      },
-      {
-        "word": "imbroglio",
-        "pos": "n.",
-        "definition": "A confusing and complicated situation.",
-        "chinese": "糾紛;複雜局面",
-        "synonyms": "adversity, conflagration, confounding",
-        "image": "shield",
-        "sentence": "The company was caught in a legal __________ over patent rights.",
-        "translation": "這家公司陷入了一場關於專利權的法律糾紛。",
-        "lookup": {
-          "english": "A confusing and complicated situation.",
-          "chinese": "糾紛;複雜局面"
-        },
-        "advSentence": "Their romantic imbroglio became the talk of the town.",
-        "advTranslation": "他們複雜的感情糾紛成了鎮上熱議的話題。",
-        "added": true,
-        "group": "hot-10"
       }
     ],
     "quiz": [
@@ -642,13 +606,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "chaos": [
     "Absolute disorder.",
     "混亂/混沌"
-  ],
-  "morass": [
-    "A wet swampy bog; something that traps and confuses.",
-    "沼澤/困境"
-  ],
-  "imbroglio": [
-    "A confusing and complicated situation.",
-    "糾紛;複雜局面"
   ]
 });

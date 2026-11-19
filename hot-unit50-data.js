@@ -203,42 +203,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-praise-sub"
       },
       {
-        "word": "blandish",
-        "pos": "v.",
-        "definition": "To coax by using flattery.",
-        "chinese": "奉承/哄騙",
-        "synonyms": "adulation, flattery, fawn",
-        "image": "shield",
-        "sentence": "The salesman tried to __________ the customer into buying the more expensive model.",
-        "translation": "這名推銷員試圖用花言巧語哄騙顧客買下較貴的那款。",
-        "lookup": {
-          "english": "To coax by using flattery.",
-          "chinese": "奉承/哄騙"
-        },
-        "advSentence": "She refused to be blandished into changing her vote.",
-        "advTranslation": "她拒絕被人奉承哄騙而改變自己的投票立場。",
-        "added": true,
-        "group": "sat-praise-sub"
-      },
-      {
-        "word": "inveigle",
-        "pos": "v.",
-        "definition": "To persuade someone to do something through deception or flattery.",
-        "chinese": "誘騙;哄騙",
-        "synonyms": "adulation, flattery, fawn",
-        "image": "shield",
-        "sentence": "He tried to __________ his coworkers into covering his shift.",
-        "translation": "他試圖哄騙同事替他代班。",
-        "lookup": {
-          "english": "To persuade someone to do something through deception or flattery.",
-          "chinese": "誘騙;哄騙"
-        },
-        "advSentence": "The salesman managed to inveigle her into signing the contract.",
-        "advTranslation": "這位業務員設法誘騙她簽下了這份合約。",
-        "added": true,
-        "group": "sat-praise-sub"
-      },
-      {
         "word": "sycophancy",
         "pos": "n.",
         "definition": "Excessive flattery toward someone important to gain advantage.",
@@ -257,24 +221,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-praise-sub"
       },
       {
-        "word": "panegyric",
-        "pos": "n.",
-        "definition": "A formal public speech or writing praising someone or something.",
-        "chinese": "頌詞;讚美文章",
-        "synonyms": "adulation, flattery, fawn",
-        "image": "shield",
-        "sentence": "The eulogy became less a memorial and more a __________ .",
-        "translation": "這篇悼詞少了些追思,更像是一篇讚美文章。",
-        "lookup": {
-          "english": "A formal public speech or writing praising someone or something.",
-          "chinese": "頌詞;讚美文章"
-        },
-        "advSentence": "Critics dismissed the biography as an uncritical panegyric .",
-        "advTranslation": "評論家認為這本傳記不過是一篇缺乏批判性的頌詞。",
-        "added": true,
-        "group": "sat-praise-sub"
-      },
-      {
         "word": "ingratiate",
         "pos": "v.",
         "definition": "To win confidence, charm.",
@@ -289,42 +235,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "She worked hard to ingratiate herself with her in-laws.",
         "advTranslation": "她努力討好公婆,希望贏得他們的好感。",
-        "added": true,
-        "group": "sat-praise-sub"
-      },
-      {
-        "word": "curry",
-        "pos": "v.",
-        "definition": "To seek favor by flattery.",
-        "chinese": "拍馬屁/討好",
-        "synonyms": "adulation, flattery, fawn",
-        "image": "shield",
-        "sentence": "He tried to __________ favor with the boss by staying late every night.",
-        "translation": "他試圖靠每晚加班到很晚來討好老闆。",
-        "lookup": {
-          "english": "To seek favor by flattery.",
-          "chinese": "拍馬屁/討好"
-        },
-        "advSentence": "The candidate was accused of trying to curry favor with wealthy donors.",
-        "advTranslation": "這位候選人被指控試圖討好富有的捐款人。",
-        "added": true,
-        "group": "sat-praise-sub"
-      },
-      {
-        "word": "smarmy",
-        "pos": "adj.",
-        "definition": "Excessively flattering or ingratiating in an insincere way.",
-        "chinese": "諂媚的;虛偽討好的",
-        "synonyms": "adulation, flattery, fawn",
-        "image": "shield",
-        "sentence": "The salesman's __________ compliments made her uncomfortable.",
-        "translation": "這位業務員虛偽討好的讚美讓她感到不自在。",
-        "lookup": {
-          "english": "Excessively flattering or ingratiating in an insincere way.",
-          "chinese": "諂媚的;虛偽討好的"
-        },
-        "advSentence": "Viewers found the host's smarmy manner off-putting.",
-        "advTranslation": "觀眾們認為這位主持人諂媚的態度令人反感。",
         "added": true,
         "group": "sat-praise-sub"
       }
@@ -381,32 +291,12 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Excessive, insincere.",
     "過度誇張的/令人作嘔的"
   ],
-  "blandish": [
-    "To coax by using flattery.",
-    "奉承/哄騙"
-  ],
-  "inveigle": [
-    "To persuade someone to do something through deception or flattery.",
-    "誘騙;哄騙"
-  ],
   "sycophancy": [
     "Excessive flattery toward someone important to gain advantage.",
     "阿諛奉承;諂媚"
   ],
-  "panegyric": [
-    "A formal public speech or writing praising someone or something.",
-    "頌詞;讚美文章"
-  ],
   "ingratiate": [
     "To win confidence, charm.",
     "討好/迎合"
-  ],
-  "curry": [
-    "To seek favor by flattery.",
-    "拍馬屁/討好"
-  ],
-  "smarmy": [
-    "Excessively flattering or ingratiating in an insincere way.",
-    "諂媚的;虛偽討好的"
   ]
 });

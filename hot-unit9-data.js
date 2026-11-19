@@ -151,24 +151,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-09"
       },
       {
-        "word": "niggardly",
-        "pos": "adj.",
-        "definition": "Petty or reluctant in giving or spending.",
-        "chinese": "吝嗇的/小氣的",
-        "synonyms": "frugal, parsimonious, avarice",
-        "image": "shield",
-        "sentence": "His __________ tips left the waitstaff visibly annoyed.",
-        "translation": "他給的小費少得可憐,讓服務生們明顯感到不悅。",
-        "lookup": {
-          "english": "Petty or reluctant in giving or spending.",
-          "chinese": "吝嗇的/小氣的"
-        },
-        "advSentence": "The company's niggardly raises failed to keep pace with inflation.",
-        "advTranslation": "這家公司吝嗇的加薪幅度遠遠跟不上通貨膨脹的速度。",
-        "added": true,
-        "group": "hot-09"
-      },
-      {
         "word": "penny-pinching",
         "pos": "adj.",
         "definition": "Extremely careful and reluctant with spending money.",
@@ -514,10 +496,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "stingy": [
     "Not generous, not inclined to spend or give.",
     "小氣的/吝嗇的"
-  ],
-  "niggardly": [
-    "Petty or reluctant in giving or spending.",
-    "吝嗇的/小氣的"
   ],
   "penny-pinching": [
     "Extremely careful and reluctant with spending money.",

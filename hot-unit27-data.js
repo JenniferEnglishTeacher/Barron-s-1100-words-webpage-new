@@ -201,24 +201,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-27"
       },
       {
-        "word": "nugatory",
-        "pos": "adj.",
-        "definition": "Having no value or importance; invalid.",
-        "chinese": "無價值的;無效的",
-        "synonyms": "inconsequential, extraneous, irrelevant",
-        "image": "shield",
-        "sentence": "The court ruled the outdated clause __________ and unenforceable.",
-        "translation": "法院裁定這項過時的條款無效且無法執行。",
-        "lookup": {
-          "english": "Having no value or importance; invalid.",
-          "chinese": "無價值的;無效的"
-        },
-        "advSentence": "His objections proved nugatory once the new evidence emerged.",
-        "advTranslation": "一旦新的證據出現,他的異議便被證明毫無價值。",
-        "added": true,
-        "group": "hot-27"
-      },
-      {
         "word": "paltry",
         "pos": "adj.",
         "definition": "Petty, worthless.",
@@ -586,10 +568,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "immaterial": [
     "Unimportant under the circumstances; irrelevant to a subject (Not material/not relevant).",
     "不重要的、無關緊要的、非物質的"
-  ],
-  "nugatory": [
-    "Having no value or importance; invalid.",
-    "無價值的;無效的"
   ],
   "paltry": [
     "Petty, worthless.",

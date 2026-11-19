@@ -23,24 +23,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-deceit"
       },
       {
-        "word": "chicanery",
-        "pos": "n.",
-        "definition": "Trickery, underhandedness.",
-        "chinese": "詭計/欺騙",
-        "synonyms": "duplicity, guile, subterfuge",
-        "image": "shield",
-        "sentence": "The politician was accused of using legal __________ to avoid taxes.",
-        "translation": "這位政治人物被指控利用法律手段的詭計來逃稅。",
-        "lookup": {
-          "english": "Trickery, underhandedness.",
-          "chinese": "詭計/欺騙"
-        },
-        "advSentence": "Voters grew tired of the chicanery surrounding the election results.",
-        "advTranslation": "選民對圍繞在選舉結果周圍的種種詭計感到厭倦。",
-        "added": false,
-        "group": "sat-deceit"
-      },
-      {
         "word": "guile",
         "pos": "n.",
         "definition": "Deceitful, cunning, sly behavior.",
@@ -113,24 +95,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-deceit"
       },
       {
-        "word": "hoodwink",
-        "pos": "v.",
-        "definition": "To deceive or trick someone.",
-        "chinese": "矇騙;欺瞞",
-        "synonyms": "duplicity, chicanery, guile",
-        "image": "shield",
-        "sentence": "The scammer tried to __________ elderly customers with fake offers.",
-        "translation": "這名詐騙者試圖用假優惠矇騙年長的顧客。",
-        "lookup": {
-          "english": "To deceive or trick someone.",
-          "chinese": "矇騙;欺瞞"
-        },
-        "advSentence": "He felt hoodwink ed after discovering the contract's hidden fees.",
-        "advTranslation": "發現合約中隱藏的費用後,他感到自己被矇騙了。",
-        "added": false,
-        "group": "sat-deceit"
-      },
-      {
         "word": "swindle",
         "pos": "v./n.",
         "definition": "To cheat someone out of money or property.",
@@ -145,24 +109,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The pyramid scheme turned out to be an elaborate swindle .",
         "advTranslation": "這個老鼠會後來被發現是一場精心策劃的騙局。",
-        "added": false,
-        "group": "sat-deceit"
-      },
-      {
-        "word": "bamboozle",
-        "pos": "v.",
-        "definition": "To trick or deceive someone.",
-        "chinese": "欺騙;矇騙",
-        "synonyms": "duplicity, chicanery, guile",
-        "image": "shield",
-        "sentence": "The salesman tried to __________ customers with confusing warranty terms.",
-        "translation": "這位業務員試圖用令人困惑的保固條款來矇騙顧客。",
-        "lookup": {
-          "english": "To trick or deceive someone.",
-          "chinese": "欺騙;矇騙"
-        },
-        "advSentence": "She refused to be bamboozle by his flattering promises.",
-        "advTranslation": "她拒絕被他那些花言巧語的承諾所矇騙。",
         "added": false,
         "group": "sat-deceit"
       },
@@ -521,10 +467,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Cunning, trickery.",
     "表裡不一/欺騙"
   ],
-  "chicanery": [
-    "Trickery, underhandedness.",
-    "詭計/欺騙"
-  ],
   "guile": [
     "Deceitful, cunning, sly behavior.",
     "狡詐/詭計"
@@ -541,17 +483,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Person easily tricked.",
     "易受騙的人"
   ],
-  "hoodwink": [
-    "To deceive or trick someone.",
-    "矇騙;欺瞞"
-  ],
   "swindle": [
     "To cheat someone out of money or property.",
     "詐騙;騙局"
-  ],
-  "bamboozle": [
-    "To trick or deceive someone.",
-    "欺騙;矇騙"
   ],
   "feign": [
     "To pretend to feel or be affected by something.",

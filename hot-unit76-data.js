@@ -113,24 +113,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-end"
       },
       {
-        "word": "consummation",
-        "pos": "n.",
-        "definition": "The completion or ultimate fulfillment of something.",
-        "chinese": "完成;圓滿實現",
-        "synonyms": "terminate, culminate, cessation",
-        "image": "shield",
-        "sentence": "The merger marked the __________ of years of careful negotiation.",
-        "translation": "這場合併標誌著多年精心談判的圓滿實現。",
-        "lookup": {
-          "english": "The completion or ultimate fulfillment of something.",
-          "chinese": "完成;圓滿實現"
-        },
-        "advSentence": "Winning the championship was the consummation of the team's long journey.",
-        "advTranslation": "贏得這場冠軍賽是這支隊伍漫長旅程的圓滿完成。",
-        "added": true,
-        "group": "sat-end"
-      },
-      {
         "word": "culmination",
         "pos": "n.",
         "definition": "The climax toward which something progresses.",
@@ -198,10 +180,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "consummate": [
     "Complete, of the highest degree.",
     "圓滿的/技藝高超的"
-  ],
-  "consummation": [
-    "The completion or ultimate fulfillment of something.",
-    "完成;圓滿實現"
   ],
   "culmination": [
     "The climax toward which something progresses.",

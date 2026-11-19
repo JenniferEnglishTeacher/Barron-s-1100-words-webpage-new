@@ -221,24 +221,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-universal"
       },
       {
-        "word": "omnibus",
-        "pos": "n.",
-        "definition": "A vehicle carrying many passengers.",
-        "chinese": "公共汽車/合集",
-        "synonyms": "ubiquitous, pervasive, omnipresent",
-        "image": "shield",
-        "sentence": "Passengers crowded onto the horse-drawn __________ heading into the city.",
-        "translation": "乘客們擠上這輛駛往市區的馬拉公共汽車。",
-        "lookup": {
-          "english": "A vehicle carrying many passengers.",
-          "chinese": "公共汽車/合集"
-        },
-        "advSentence": "The publisher released an omnibus edition containing all three novels in one volume.",
-        "advTranslation": "出版社發行了一本合集版,將這三部小說收錄在同一冊之中。",
-        "added": true,
-        "group": "sat-universal"
-      },
-      {
         "word": "common",
         "pos": "adj.",
         "definition": "Occurring frequently or shared.",
@@ -330,10 +312,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ever-present": [
     "Constantly existing or occurring; always there.",
     "無所不在的;始終存在的"
-  ],
-  "omnibus": [
-    "A vehicle carrying many passengers.",
-    "公共汽車/合集"
   ],
   "common": [
     "Occurring frequently or shared.",

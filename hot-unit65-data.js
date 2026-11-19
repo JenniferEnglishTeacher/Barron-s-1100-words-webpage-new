@@ -149,42 +149,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-ignorance"
       },
       {
-        "word": "imbecile",
-        "pos": "n./adj.",
-        "definition": "A stupid person; extremely foolish.",
-        "chinese": "白痴;愚蠢的",
-        "synonyms": "benighted, obtuse, fatuous",
-        "image": "shield",
-        "sentence": "He called himself an __________ for forgetting the meeting.",
-        "translation": "他因忘記這場會議而自嘲是個白痴。",
-        "lookup": {
-          "english": "A stupid person; extremely foolish.",
-          "chinese": "白痴;愚蠢的"
-        },
-        "advSentence": "The plan was so poorly thought out it seemed imbecile .",
-        "advTranslation": "這項計畫考慮得如此不周,顯得十分愚蠢。",
-        "added": false,
-        "group": "sat-ignorance"
-      },
-      {
-        "word": "nescient",
-        "pos": "adj.",
-        "definition": "Lacking knowledge; ignorant.",
-        "chinese": "無知的;不知情的",
-        "synonyms": "benighted, obtuse, fatuous",
-        "image": "shield",
-        "sentence": "He remained __________ of the scandal brewing behind closed doors.",
-        "translation": "他對這場在幕後醞釀的醜聞始終一無所知。",
-        "lookup": {
-          "english": "Lacking knowledge; ignorant.",
-          "chinese": "無知的;不知情的"
-        },
-        "advSentence": "The report criticized officials as nescient of the community's real needs.",
-        "advTranslation": "這份報告批評官員對這個社區真正的需求一無所知。",
-        "added": false,
-        "group": "sat-ignorance"
-      },
-      {
         "word": "foolish",
         "pos": "adj.",
         "definition": "Lacking good sense; unwise.",
@@ -275,24 +239,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-ignorance"
       },
       {
-        "word": "moron",
-        "pos": "n.",
-        "definition": "A stupid person (informal, offensive).",
-        "chinese": "笨蛋(非正式,冒犯用語)",
-        "synonyms": "benighted, obtuse, fatuous",
-        "image": "shield",
-        "sentence": "He felt like a __________ after locking his keys inside the car.",
-        "translation": "他把鑰匙鎖在車裡後,覺得自己像個笨蛋。",
-        "lookup": {
-          "english": "A stupid person (informal, offensive).",
-          "chinese": "笨蛋(非正式,冒犯用語)"
-        },
-        "advSentence": "Calling someone a moron rarely helps resolve a disagreement.",
-        "advTranslation": "罵人是笨蛋很少能幫助解決爭執。",
-        "added": true,
-        "group": "sat-ignorance"
-      },
-      {
         "word": "senseless",
         "pos": "adj.",
         "definition": "Lacking meaning or purpose; unconscious.",
@@ -307,24 +253,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "He was knocked senseless by the unexpected blow.",
         "advTranslation": "這突如其來的一擊讓他失去了知覺。",
-        "added": true,
-        "group": "sat-ignorance"
-      },
-      {
-        "word": "dullard",
-        "pos": "n.",
-        "definition": "A slow-witted or stupid person.",
-        "chinese": "笨蛋;愚鈍之人",
-        "synonyms": "benighted, obtuse, fatuous",
-        "image": "shield",
-        "sentence": "He was unfairly dismissed as a __________ by his classmates.",
-        "translation": "他被同學不公平地視為愚鈍之人。",
-        "lookup": {
-          "english": "A slow-witted or stupid person.",
-          "chinese": "笨蛋;愚鈍之人"
-        },
-        "advSentence": "The novel's hero is mistaken for a dullard by everyone he meets.",
-        "advTranslation": "這本小說的主角被每個遇見他的人誤認為是個笨蛋。",
         "added": true,
         "group": "sat-ignorance"
       },
@@ -441,14 +369,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Stupid, silly.",
     "愚蠢的"
   ],
-  "imbecile": [
-    "A stupid person; extremely foolish.",
-    "白痴;愚蠢的"
-  ],
-  "nescient": [
-    "Lacking knowledge; ignorant.",
-    "無知的;不知情的"
-  ],
   "foolish": [
     "Lacking good sense; unwise.",
     "愚蠢的"
@@ -469,17 +389,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Lacking intelligence or good sense.",
     "愚蠢的;無知的"
   ],
-  "moron": [
-    "A stupid person (informal, offensive).",
-    "笨蛋(非正式,冒犯用語)"
-  ],
   "senseless": [
     "Lacking meaning or purpose; unconscious.",
     "無意義的;失去知覺的"
-  ],
-  "dullard": [
-    "A slow-witted or stupid person.",
-    "笨蛋;愚鈍之人"
   ],
   "naive": [
     "Unworldly, unsophisticated.",

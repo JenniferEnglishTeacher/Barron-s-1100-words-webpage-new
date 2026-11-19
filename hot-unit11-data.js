@@ -233,24 +233,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-11"
       },
       {
-        "word": "baleful",
-        "pos": "adj.",
-        "definition": "Threatening harm; menacing.",
-        "chinese": "凶惡的;不祥的",
-        "synonyms": "detrimental, devious, iniquitous",
-        "image": "shield",
-        "sentence": "The old house had a __________ presence that kept trick-or-treaters away.",
-        "translation": "這棟老房子散發著一股不祥的氣息,讓萬聖節討糖的孩子都不敢靠近。",
-        "lookup": {
-          "english": "Threatening harm; menacing.",
-          "chinese": "凶惡的;不祥的"
-        },
-        "advSentence": "He shot a baleful glance at the man who had crossed him.",
-        "advTranslation": "他朝那個冒犯他的人投以凶狠的一瞥。",
-        "added": true,
-        "group": "hot-11"
-      },
-      {
         "word": "malevolent",
         "pos": "adj.",
         "definition": "Having or showing a desire to cause evil or harm.",
@@ -359,24 +341,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-11"
       },
       {
-        "word": "maleficent",
-        "pos": "adj.",
-        "definition": "Causing harm or evil.",
-        "chinese": "有害的;邪惡的",
-        "synonyms": "detrimental, devious, iniquitous",
-        "image": "shield",
-        "sentence": "The story's __________ sorceress cursed the entire kingdom.",
-        "translation": "這個故事裡邪惡的女巫詛咒了整個王國。",
-        "lookup": {
-          "english": "Causing harm or evil.",
-          "chinese": "有害的;邪惡的"
-        },
-        "advSentence": "They blamed the maleficent spirit for the string of misfortunes.",
-        "advTranslation": "他們將這一連串的厄運歸咎於這個邪惡的靈體。",
-        "added": true,
-        "group": "hot-11"
-      },
-      {
         "word": "malefactor",
         "pos": "n.",
         "definition": "A person who commits a crime or other wrong; an evildoer.",
@@ -427,24 +391,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "It was a heinous act of betrayal that no one could forgive.",
         "advTranslation": "那是一次令人髮指的背叛行為,沒有人能夠原諒。",
-        "added": true,
-        "group": "hot-11"
-      },
-      {
-        "word": "flagitious",
-        "pos": "adj.",
-        "definition": "Criminal, villainous, or shockingly wicked.",
-        "chinese": "窮凶極惡的;十惡不赦的",
-        "synonyms": "detrimental, devious, iniquitous",
-        "image": "shield",
-        "sentence": "The tyrant's __________ crimes shocked the entire world.",
-        "translation": "這位暴君窮凶極惡的罪行震驚了全世界。",
-        "lookup": {
-          "english": "Criminal, villainous, or shockingly wicked.",
-          "chinese": "窮凶極惡的;十惡不赦的"
-        },
-        "advSentence": "Historians documented the regime's flagitious abuses of power.",
-        "advTranslation": "歷史學家記錄了這個政權十惡不赦的權力濫用。",
         "added": true,
         "group": "hot-11"
       }
@@ -803,10 +749,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Harmful, poisonous, or very unpleasant.",
     "有害的/有毒的"
   ],
-  "baleful": [
-    "Threatening harm; menacing.",
-    "凶惡的;不祥的"
-  ],
   "malevolent": [
     "Having or showing a desire to cause evil or harm.",
     "惡意的；狠毒的"
@@ -831,10 +773,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Sly, seductive, treacherous.",
     "陰險的/潛伏的"
   ],
-  "maleficent": [
-    "Causing harm or evil.",
-    "有害的;邪惡的"
-  ],
   "malefactor": [
     "A person who commits a crime or other wrong; an evildoer.",
     "罪犯；作惡者；歹徒"
@@ -846,9 +784,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "heinous": [
     "Hatefully evil.",
     "十惡不赦的"
-  ],
-  "flagitious": [
-    "Criminal, villainous, or shockingly wicked.",
-    "窮凶極惡的;十惡不赦的"
   ]
 });

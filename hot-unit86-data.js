@@ -275,24 +275,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-skill"
       },
       {
-        "word": "cognoscente",
-        "pos": "n.",
-        "definition": "A person with expert knowledge in a particular field, especially the arts.",
-        "chinese": "行家;鑑賞家",
-        "synonyms": "adept, adroit, deft",
-        "image": "shield",
-        "sentence": "Only a true wine __________ could detect such a subtle difference in vintage.",
-        "translation": "只有真正的葡萄酒行家,才能辨別出年份間如此細微的差異。",
-        "lookup": {
-          "english": "A person with expert knowledge in a particular field, especially the arts.",
-          "chinese": "行家;鑑賞家"
-        },
-        "advSentence": "The gallery opening drew a small crowd of art cognoscente.",
-        "advTranslation": "這場畫廊開幕吸引了一小群藝術鑑賞家前來。",
-        "added": true,
-        "group": "sat-skill"
-      },
-      {
         "word": "aficionado",
         "pos": "n.",
         "definition": "A person who is very knowledgeable and enthusiastic about an activity.",
@@ -414,10 +396,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "competent": [
     "Having the necessary ability or skill.",
     "有能力的/勝任的"
-  ],
-  "cognoscente": [
-    "A person with expert knowledge in a particular field, especially the arts.",
-    "行家;鑑賞家"
   ],
   "aficionado": [
     "A person who is very knowledgeable and enthusiastic about an activity.",

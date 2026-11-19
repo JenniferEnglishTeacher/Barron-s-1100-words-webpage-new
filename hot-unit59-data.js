@@ -41,24 +41,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-poverty"
       },
       {
-        "word": "impecunious",
-        "pos": "adj.",
-        "definition": "Having little or no money; chronically poor or penniless (Not having money).",
-        "chinese": "貧困的、沒錢的",
-        "synonyms": "destitute, indigent, penury",
-        "image": "shield",
-        "sentence": "During his early years as an __________ artist in Paris, he often skipped meals to afford oil paints.",
-        "translation": "在巴黎當貧困藝術家的早年歲月裡，他經常為了買得起油畫顏料而省去餐點。",
-        "lookup": {
-          "english": "Having little or no money; chronically poor or penniless (Not having money).",
-          "chinese": "貧困的、沒錢的"
-        },
-        "advSentence": "The novel centers on an impecunious aristocrat who must marry a wealthy merchant's daughter to save his family estate.",
-        "advTranslation": "這部小說圍繞著一位落魄（沒錢的）貴族展開，他必須娶一位富商的女兒以挽救家族莊園。",
-        "added": false,
-        "group": "sat-poverty"
-      },
-      {
         "word": "penury",
         "pos": "n.",
         "definition": "Poverty.",
@@ -167,24 +149,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-poverty"
       },
       {
-        "word": "mendicant",
-        "pos": "n./adj.",
-        "definition": "A beggar; relating to begging, especially a religious order that relies on alms.",
-        "chinese": "乞丐;托缽修道的",
-        "synonyms": "destitute, indigent, impecunious",
-        "image": "shield",
-        "sentence": "The __________ sat quietly outside the temple gates each morning.",
-        "translation": "這位乞丐每天早上都安靜地坐在寺廟大門外。",
-        "lookup": {
-          "english": "A beggar; relating to begging, especially a religious order that relies on alms.",
-          "chinese": "乞丐;托缽修道的"
-        },
-        "advSentence": "Franciscan friars belong to a mendicant religious order.",
-        "advTranslation": "方濟各會的修士屬於托缽修道的宗教修會。",
-        "added": true,
-        "group": "sat-poverty"
-      },
-      {
         "word": "squalid",
         "pos": "adj.",
         "definition": "Extremely dirty or unpleasant, especially due to poverty or neglect.",
@@ -219,10 +183,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Poor, needy.",
     "貧困的"
   ],
-  "impecunious": [
-    "Having little or no money; chronically poor or penniless (Not having money).",
-    "貧困的、沒錢的"
-  ],
   "penury": [
     "Poverty.",
     "貧困/拮据"
@@ -246,10 +206,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "destitution": [
     "Extreme poverty.",
     "貧困/赤貧"
-  ],
-  "mendicant": [
-    "A beggar; relating to begging, especially a religious order that relies on alms.",
-    "乞丐;托缽修道的"
   ],
   "squalid": [
     "Extremely dirty or unpleasant, especially due to poverty or neglect.",

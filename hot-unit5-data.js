@@ -215,42 +215,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-05"
       },
       {
-        "word": "palliate",
-        "pos": "v.",
-        "definition": "To alleviate, relieve without curing.",
-        "chinese": "減輕/掩飾",
-        "synonyms": "alleviate, ameliorate, appease",
-        "image": "shield",
-        "sentence": "The medication can __________ the pain but cannot cure the underlying disease.",
-        "translation": "這種藥物能減輕疼痛,但無法治癒潛在的疾病。",
-        "lookup": {
-          "english": "To alleviate, relieve without curing.",
-          "chinese": "減輕/掩飾"
-        },
-        "advSentence": "The company's apology did little to palliate the customers' anger.",
-        "advTranslation": "這家公司的道歉幾乎無法平息顧客的怒氣。",
-        "added": true,
-        "group": "hot-05"
-      },
-      {
-        "word": "propitiate",
-        "pos": "v.",
-        "definition": "To win favor or appease someone by doing something pleasing.",
-        "chinese": "安撫;討好",
-        "synonyms": "alleviate, ameliorate, appease",
-        "image": "shield",
-        "sentence": "Ancient peoples made offerings to __________ their gods.",
-        "translation": "古代的人們獻上祭品以討好他們的神祇。",
-        "lookup": {
-          "english": "To win favor or appease someone by doing something pleasing.",
-          "chinese": "安撫;討好"
-        },
-        "advSentence": "He brought flowers to try to propitiate his angry wife.",
-        "advTranslation": "他帶著花試圖安撫他生氣的妻子。",
-        "added": true,
-        "group": "hot-05"
-      },
-      {
         "word": "calm",
         "pos": "adj./n.",
         "definition": "Not showing or feeling nervousness or excitement; a state of peace.",
@@ -618,14 +582,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "soothe": [
     "To gently calm or comfort.",
     "安撫;撫慰"
-  ],
-  "palliate": [
-    "To alleviate, relieve without curing.",
-    "減輕/掩飾"
-  ],
-  "propitiate": [
-    "To win favor or appease someone by doing something pleasing.",
-    "安撫;討好"
   ],
   "calm": [
     "Not showing or feeling nervousness or excitement; a state of peace.",

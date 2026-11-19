@@ -183,24 +183,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-22"
       },
       {
-        "word": "punctilious",
-        "pos": "adj.",
-        "definition": "Eager to follow rules or conventions.",
-        "chinese": "一絲不苟的/拘泥細節的",
-        "synonyms": "circumspect, conscientious, exacting",
-        "image": "shield",
-        "sentence": "The __________ accountant double-checked every figure before submitting the report.",
-        "translation": "這位一絲不苟的會計在提交報告前,反覆核對了每一個數字。",
-        "lookup": {
-          "english": "Eager to follow rules or conventions.",
-          "chinese": "一絲不苟的/拘泥細節的"
-        },
-        "advSentence": "His punctilious attention to etiquette impressed the visiting dignitaries.",
-        "advTranslation": "他對禮儀一絲不苟的講究,讓來訪的貴賓印象深刻。",
-        "added": true,
-        "group": "hot-22"
-      },
-      {
         "word": "discreet",
         "pos": "adj.",
         "definition": "Careful, cautious, prudent.",
@@ -548,10 +530,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "cautious": [
     "Careful to avoid danger or mistakes.",
     "謹慎的;小心的"
-  ],
-  "punctilious": [
-    "Eager to follow rules or conventions.",
-    "一絲不苟的/拘泥細節的"
   ],
   "discreet": [
     "Careful, cautious, prudent.",

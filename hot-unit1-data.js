@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-01"
       },
       {
-        "word": "compendious",
-        "pos": "adj.",
-        "definition": "Giving a lot of information in a concise, well-organized way.",
-        "chinese": "簡明扼要的;概括性的",
-        "synonyms": "concise, reticent, succinct",
-        "image": "shield",
-        "sentence": "Her __________ summary covered the entire semester's material in just four pages.",
-        "translation": "她簡明扼要的摘要,只用四頁就涵蓋了整個學期的內容。",
-        "lookup": {
-          "english": "Giving a lot of information in a concise, well-organized way.",
-          "chinese": "簡明扼要的;概括性的"
-        },
-        "advSentence": "The professor recommended a compendious history text rather than the full multivolume set.",
-        "advTranslation": "教授推薦一本簡明的歷史教材,而非整套多冊的巨著。",
-        "added": true,
-        "group": "hot-01"
-      },
-      {
         "word": "aphoristic",
         "pos": "adj.",
         "definition": "Expressed in short, memorable phrases.",
@@ -199,42 +181,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Her writing is famously aphoristic , packing whole arguments into single sentences.",
         "advTranslation": "她的文筆以格言般著稱,能把整個論點濃縮進一句話裡。",
-        "added": true,
-        "group": "hot-01"
-      },
-      {
-        "word": "sententious",
-        "pos": "adj.",
-        "definition": "Expressing opinions in a moralizing, pompous, or overly preachy way.",
-        "chinese": "愛說教的；道貌岸然的；誇飾說教的",
-        "synonyms": "concise, reticent, succinct",
-        "image": "shield",
-        "sentence": "The principal's __________ speech offered proverbs instead of practical advice.",
-        "translation": "校長愛說教的演講只有箴言，沒有實用建議。",
-        "lookup": {
-          "english": "Expressing opinions in a moralizing, pompous, or overly preachy way.",
-          "chinese": "愛說教的；道貌岸然的；誇飾說教的"
-        },
-        "advSentence": "I grew tired of the villain's sententious remarks about human nature.",
-        "advTranslation": "我厭倦了反派對人性所發表的道貌岸然說教。",
-        "added": true,
-        "group": "hot-01"
-      },
-      {
-        "word": "epigrammatic",
-        "pos": "adj.",
-        "definition": "Concise and witty, in the manner of an epigram.",
-        "chinese": "警句式的;簡潔機智的",
-        "synonyms": "concise, reticent, succinct",
-        "image": "shield",
-        "sentence": "Her __________ style made even complex ideas easy to remember.",
-        "translation": "她簡潔機智的風格讓即使是複雜的想法也容易記住。",
-        "lookup": {
-          "english": "Concise and witty, in the manner of an epigram.",
-          "chinese": "警句式的;簡潔機智的"
-        },
-        "advSentence": "The playwright's dialogue is sharp and epigrammatic .",
-        "advTranslation": "這位劇作家的對白既尖銳又充滿警句式的機智。",
         "added": true,
         "group": "hot-01"
       },
@@ -559,21 +505,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Abruptly and rudely short.",
     "簡短無禮的/唐突的"
   ],
-  "compendious": [
-    "Giving a lot of information in a concise, well-organized way.",
-    "簡明扼要的;概括性的"
-  ],
   "aphoristic": [
     "Expressed in short, memorable phrases.",
     "格言式的;警句般的"
-  ],
-  "sententious": [
-    "Expressing opinions in a moralizing, pompous, or overly preachy way.",
-    "愛說教的；道貌岸然的；誇飾說教的"
-  ],
-  "epigrammatic": [
-    "Concise and witty, in the manner of an epigram.",
-    "警句式的;簡潔機智的"
   ],
   "brusque": [
     "Short, abrupt, dismissive.",

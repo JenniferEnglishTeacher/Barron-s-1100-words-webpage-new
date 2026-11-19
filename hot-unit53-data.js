@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-rigid"
       },
       {
-        "word": "straitlaced",
-        "pos": "adj.",
-        "definition": "Excessively strict or narrow in morals or conduct.",
-        "chinese": "拘謹的;古板嚴謹的",
-        "synonyms": "stringent, austere, rigorous",
-        "image": "shield",
-        "sentence": "Her __________ upbringing left little room for rebellion.",
-        "translation": "她那拘謹古板的成長環境幾乎沒有留下叛逆的空間。",
-        "lookup": {
-          "english": "Excessively strict or narrow in morals or conduct.",
-          "chinese": "拘謹的;古板嚴謹的"
-        },
-        "advSentence": "The straitlaced committee rejected the film for its bold themes.",
-        "advTranslation": "這個古板嚴謹的委員會因這部電影大膽的主題而拒絕了它。",
-        "added": true,
-        "group": "sat-rigid"
-      },
-      {
         "word": "implacable",
         "pos": "adj.",
         "definition": "Unable to be placated, calmed, or appeased; relentless and unstoppable in hostility (Not placable).",
@@ -264,10 +246,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "puritanical": [
     "Practicing or affecting strict moral or religious discipline.",
     "清教徒式的;拘謹嚴苛的"
-  ],
-  "straitlaced": [
-    "Excessively strict or narrow in morals or conduct.",
-    "拘謹的;古板嚴謹的"
   ],
   "implacable": [
     "Unable to be placated, calmed, or appeased; relentless and unstoppable in hostility (Not placable).",

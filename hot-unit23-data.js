@@ -149,24 +149,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "在雙方好戰的言論與充滿怨恨的黨派對立煽動下，這種動盪多變的政治氣候讓溫和派議員陷入兩難：究竟該在交戰的派系之間居中調停，還是乾脆保持沉默直到選舉結束。"
       },
       {
-        "word": "fugacious",
-        "pos": "adj.",
-        "definition": "Tending to disappear quickly; fleeting.",
-        "chinese": "短暫的;易逝的",
-        "synonyms": "evanescent, transient, transitory",
-        "image": "shield",
-        "sentence": "Youth is __________ , fading faster than we expect.",
-        "translation": "青春是短暫易逝的,消逝的速度比我們預期的還快。",
-        "lookup": {
-          "english": "Tending to disappear quickly; fleeting.",
-          "chinese": "短暫的;易逝的"
-        },
-        "advSentence": "The flower's fugacious blossom lasts only a single day.",
-        "advTranslation": "這種花朵短暫的花期只維持一天。",
-        "added": true,
-        "group": "hot-23"
-      },
-      {
         "word": "vagrant",
         "pos": "n./adj.",
         "definition": "A person without a settled home or job; wandering.",
@@ -500,10 +482,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "volatile": [
     "Liable to change rapidly and unpredictably.",
     "易變的；不穩定的；揮發性的"
-  ],
-  "fugacious": [
-    "Tending to disappear quickly; fleeting.",
-    "短暫的;易逝的"
   ],
   "vagrant": [
     "A person without a settled home or job; wandering.",

@@ -113,24 +113,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-clear"
       },
       {
-        "word": "perspicuous",
-        "pos": "adj.",
-        "definition": "Clearly expressed and easily understood.",
-        "chinese": "清晰明瞭的",
-        "synonyms": "lucid, manifest, patent",
-        "image": "shield",
-        "sentence": "The professor's __________ explanation finally clarified the confusing concept.",
-        "translation": "這位教授清晰明瞭的解釋終於釐清了這個令人困惑的概念。",
-        "lookup": {
-          "english": "Clearly expressed and easily understood.",
-          "chinese": "清晰明瞭的"
-        },
-        "advSentence": "Legal documents are rarely as perspicuous as they should be.",
-        "advTranslation": "法律文件很少能像它們應該做到的那樣清晰明瞭。",
-        "added": false,
-        "group": "sat-clear"
-      },
-      {
         "word": "evident",
         "pos": "adj.",
         "definition": "Clearly seen or understood; obvious.",
@@ -381,42 +363,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他對稅法的解釋出奇地易懂,即使對非專業人士來說也是如此。",
         "added": true,
         "group": "sat-clear"
-      },
-      {
-        "word": "limpid",
-        "pos": "adj.",
-        "definition": "Clear, transparent.",
-        "chinese": "清澈的/清晰的",
-        "synonyms": "lucid, manifest, patent",
-        "image": "shield",
-        "sentence": "The __________ waters of the lake revealed every stone on the bottom.",
-        "translation": "這座湖泊清澈的水面清楚映照出湖底的每一顆石頭。",
-        "lookup": {
-          "english": "Clear, transparent.",
-          "chinese": "清澈的/清晰的"
-        },
-        "advSentence": "Her limpid prose made even the most complex ideas easy to grasp.",
-        "advTranslation": "她清晰明快的文筆讓即使最複雜的概念也變得容易理解。",
-        "added": true,
-        "group": "sat-clear"
-      },
-      {
-        "word": "pellucid",
-        "pos": "adj.",
-        "definition": "Easily intelligible, clear.",
-        "chinese": "清澈易懂的/透明的",
-        "synonyms": "lucid, manifest, patent",
-        "image": "shield",
-        "sentence": "Her __________ writing style made the dense subject accessible to beginners.",
-        "translation": "她清晰易懂的寫作風格讓這個艱澀的主題也能讓初學者理解。",
-        "lookup": {
-          "english": "Easily intelligible, clear.",
-          "chinese": "清澈易懂的/透明的"
-        },
-        "advSentence": "The mountain lake was so pellucid that fish could be seen swimming far below.",
-        "advTranslation": "這座高山湖泊清澈見底,連遠處游動的魚都看得一清二楚。",
-        "added": true,
-        "group": "sat-clear"
       }
     ],
     "group": "sat-clear",
@@ -450,10 +396,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "unequivocal": [
     "Leaving no doubt; clear and unambiguous.",
     "明確的/毫不含糊的"
-  ],
-  "perspicuous": [
-    "Clearly expressed and easily understood.",
-    "清晰明瞭的"
   ],
   "evident": [
     "Clearly seen or understood; obvious.",
@@ -510,13 +452,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "comprehensible": [
     "Able to be understood.",
     "可理解的;易懂的"
-  ],
-  "limpid": [
-    "Clear, transparent.",
-    "清澈的/清晰的"
-  ],
-  "pellucid": [
-    "Easily intelligible, clear.",
-    "清澈易懂的/透明的"
   ]
 });

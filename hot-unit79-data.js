@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-respect"
       },
       {
-        "word": "obeisance",
-        "pos": "n.",
-        "definition": "Deferential respect; a gesture expressing such respect, like a bow.",
-        "chinese": "敬意;鞠躬致敬",
-        "synonyms": "revere, venerate, esteem",
-        "image": "shield",
-        "sentence": "The courtiers made a deep __________ before the queen entered.",
-        "translation": "在女王進場之前,朝臣們深深地鞠躬致敬。",
-        "lookup": {
-          "english": "Deferential respect; a gesture expressing such respect, like a bow.",
-          "chinese": "敬意;鞠躬致敬"
-        },
-        "advSentence": "He paid obeisance to the elders before beginning the ceremony.",
-        "advTranslation": "他在儀式開始前向長輩表達了敬意。",
-        "added": true,
-        "group": "sat-respect"
-      },
-      {
         "word": "adoration",
         "pos": "n.",
         "definition": "Deep love, respect, or worship.",
@@ -203,42 +185,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-respect"
       },
       {
-        "word": "deification",
-        "pos": "n.",
-        "definition": "The act of elevating someone to the status of a god.",
-        "chinese": "神化",
-        "synonyms": "revere, venerate, esteem",
-        "image": "shield",
-        "sentence": "The emperor's __________ was celebrated with grand temples.",
-        "translation": "這位皇帝的神化以宏偉的神廟來慶祝。",
-        "lookup": {
-          "english": "The act of elevating someone to the status of a god.",
-          "chinese": "神化"
-        },
-        "advSentence": "Fans' deification of the singer bordered on obsession.",
-        "advTranslation": "粉絲們對這位歌手的神化近乎癡迷。",
-        "added": true,
-        "group": "sat-respect"
-      },
-      {
-        "word": "apotheosis",
-        "pos": "n.",
-        "definition": "The highest point in the development of something; elevation to divine status.",
-        "chinese": "頂點;神化",
-        "synonyms": "revere, venerate, esteem",
-        "image": "shield",
-        "sentence": "Critics consider the final symphony the __________ of the composer's career.",
-        "translation": "評論家認為最後這首交響曲,是這位作曲家生涯的顛峰之作。",
-        "lookup": {
-          "english": "The highest point in the development of something; elevation to divine status.",
-          "chinese": "頂點;神化"
-        },
-        "advSentence": "Ancient Roman emperors were sometimes granted apotheosis after death.",
-        "advTranslation": "古羅馬皇帝有時在死後會被奉為神明。",
-        "added": true,
-        "group": "sat-respect"
-      },
-      {
         "word": "approbation",
         "pos": "n.",
         "definition": "Praise.",
@@ -253,24 +199,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The proposal received the committee's full approbation without a single objection.",
         "advTranslation": "這項提案獲得委員會全體一致的讚同,沒有任何異議。",
-        "added": true,
-        "group": "sat-respect"
-      },
-      {
-        "word": "genuflection",
-        "pos": "n.",
-        "definition": "The act of bending the knee, especially in worship.",
-        "chinese": "屈膝;下跪",
-        "synonyms": "revere, venerate, esteem",
-        "image": "shield",
-        "sentence": "The worshippers made a brief __________ before the altar.",
-        "translation": "信徒們在祭壇前做了一個簡短的屈膝禮。",
-        "lookup": {
-          "english": "The act of bending the knee, especially in worship.",
-          "chinese": "屈膝;下跪"
-        },
-        "advSentence": "A slight genuflection is customary upon entering the chapel.",
-        "advTranslation": "進入這座禮拜堂時,行個輕微的屈膝禮是習俗。",
         "added": true,
         "group": "sat-respect"
       },
@@ -337,29 +265,13 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Great respect or reverence.",
     "崇敬;敬仰"
   ],
-  "obeisance": [
-    "Deferential respect; a gesture expressing such respect, like a bow.",
-    "敬意;鞠躬致敬"
-  ],
   "adoration": [
     "Deep love, respect, or worship.",
     "崇拜;愛慕"
   ],
-  "deification": [
-    "The act of elevating someone to the status of a god.",
-    "神化"
-  ],
-  "apotheosis": [
-    "The highest point in the development of something; elevation to divine status.",
-    "頂點;神化"
-  ],
   "approbation": [
     "Praise.",
     "讚許/認可"
-  ],
-  "genuflection": [
-    "The act of bending the knee, especially in worship.",
-    "屈膝;下跪"
   ],
   "dignity": [
     "The state or quality of being worthy of honor or respect.",

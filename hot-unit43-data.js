@@ -185,24 +185,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-joy"
       },
       {
-        "word": "jocund",
-        "pos": "adj.",
-        "definition": "Cheerful and lighthearted.",
-        "chinese": "快活的;輕鬆愉快的",
-        "synonyms": "elated, jubilant, euphoric",
-        "image": "shield",
-        "sentence": "Her __________ mood was contagious at the party.",
-        "translation": "她愉快輕鬆的心情在派對上具有感染力。",
-        "lookup": {
-          "english": "Cheerful and lighthearted.",
-          "chinese": "快活的;輕鬆愉快的"
-        },
-        "advSentence": "The village celebrated the harvest with a jocund festival.",
-        "advTranslation": "這座村莊以一場快活的節慶來慶祝豐收。",
-        "added": false,
-        "group": "sat-joy"
-      },
-      {
         "word": "merry",
         "pos": "adj.",
         "definition": "Cheerful and lighthearted.",
@@ -394,10 +376,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ecstatic": [
     "Intensely and overpoweringly happy.",
     "狂喜的/欣喜若狂的"
-  ],
-  "jocund": [
-    "Cheerful and lighthearted.",
-    "快活的;輕鬆愉快的"
   ],
   "merry": [
     "Cheerful and lighthearted.",

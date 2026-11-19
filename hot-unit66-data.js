@@ -167,24 +167,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-doubt"
       },
       {
-        "word": "dubiety",
-        "pos": "n.",
-        "definition": "A feeling of doubt or uncertainty.",
-        "chinese": "疑惑;不確定",
-        "synonyms": "skeptical, dubious, incredulous",
-        "image": "shield",
-        "sentence": "A sense of __________ hung over the negotiations.",
-        "translation": "一種疑慮的氛圍籠罩著這場談判。",
-        "lookup": {
-          "english": "A feeling of doubt or uncertainty.",
-          "chinese": "疑惑;不確定"
-        },
-        "advSentence": "He answered with visible dubiety about the outcome.",
-        "advTranslation": "他回答時對結果明顯流露出不確定的神情。",
-        "added": true,
-        "group": "sat-doubt"
-      },
-      {
         "word": "agnostic",
         "pos": "adj.",
         "definition": "Believing that the existence of God cannot be proven or disproven.",
@@ -246,10 +228,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "irresolute": [
     "Showing uncertainty or indecisiveness.",
     "猶豫不決的"
-  ],
-  "dubiety": [
-    "A feeling of doubt or uncertainty.",
-    "疑惑;不確定"
   ],
   "agnostic": [
     "Believing that the existence of God cannot be proven or disproven.",

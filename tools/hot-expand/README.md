@@ -6,3 +6,8 @@ Rebuild: `python3 tools/hot-expand/build.py` (needs the sibling repo checked out
 hot-unit*.html / index.html / review-arcade.html. Lessons 21/24/26/29–35 are mixed lists and are not expanded.
 `hot-words.js` also exports HOT_LESSON_META (theme, antonymLessons, words) and HOT_LESSON_COUNT; app.js uses them for the
 lesson dropdown and the "SAT 同義字 / 反義字" chips on the card back.
+
+## Removed words (2026-11-20)
+`remove.json` lists words Jennifer dropped as too obscure ({lesson: [words]}). `python3 tools/hot-expand/prune.py` removes them from
+the lesson files and rewrites hot-words.js / hot-dashboard-data.js (both carry a one-time fix for saved review-list keys, see
+`prune-map.json`). Always run prune.py after build.py, then bump `?v=`.

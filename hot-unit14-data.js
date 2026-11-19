@@ -149,42 +149,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這個曾經充滿活力的辯論社在一位冷漠的指導老師帶領下變得死氣沉沉，社團聚會淪為平淡乏味的討論，直到一位新老師重新激起學生對修辭技巧的興趣。"
       },
       {
-        "word": "languorous",
-        "pos": "adj.",
-        "definition": "Having a pleasant feeling of weariness or laziness.",
-        "chinese": "慵懶的;倦怠的",
-        "synonyms": "indolent, soporific, sedentary",
-        "image": "shield",
-        "sentence": "They spent a __________ afternoon by the pool.",
-        "translation": "他們在泳池邊度過了一個慵懶的下午。",
-        "lookup": {
-          "english": "Having a pleasant feeling of weariness or laziness.",
-          "chinese": "慵懶的;倦怠的"
-        },
-        "advSentence": "The music had a languorous , dreamlike quality.",
-        "advTranslation": "這段音樂帶著一種慵懶、如夢似幻的特質。",
-        "added": true,
-        "group": "hot-14"
-      },
-      {
-        "word": "somnolent",
-        "pos": "adj.",
-        "definition": "Sleepy, drowsy.",
-        "chinese": "昏昏欲睡的/嗜睡的",
-        "synonyms": "indolent, soporific, sedentary",
-        "image": "shield",
-        "sentence": "The heavy lunch left everyone feeling __________ during the afternoon meeting.",
-        "translation": "豐盛的午餐讓每個人在下午的會議上都昏昏欲睡。",
-        "lookup": {
-          "english": "Sleepy, drowsy.",
-          "chinese": "昏昏欲睡的/嗜睡的"
-        },
-        "advSentence": "A somnolent silence settled over the village during the hottest hours of the day.",
-        "advTranslation": "在一天最炎熱的時段,一片昏昏欲睡的寂靜籠罩著整座村莊。",
-        "added": true,
-        "group": "hot-14"
-      },
-      {
         "word": "lethargy",
         "pos": "n.",
         "definition": "A lack of energy or enthusiasm.",
@@ -199,24 +163,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "He struggled with lethargy after the long illness.",
         "advTranslation": "在這場長期的疾病後,他一直與倦怠感搏鬥。",
-        "added": true,
-        "group": "hot-14"
-      },
-      {
-        "word": "listlessness",
-        "pos": "n.",
-        "definition": "A lack of energy or enthusiasm.",
-        "chinese": "無精打采;倦怠",
-        "synonyms": "indolent, soporific, sedentary",
-        "image": "shield",
-        "sentence": "The long illness left him in a state of chronic __________ .",
-        "translation": "這場長期的疾病讓他陷入長期的倦怠狀態。",
-        "lookup": {
-          "english": "A lack of energy or enthusiasm.",
-          "chinese": "無精打采;倦怠"
-        },
-        "advSentence": "A sense of listlessness settled over the office during the heatwave.",
-        "advTranslation": "在這波熱浪期間,一股無精打采的氣氛籠罩著辦公室。",
         "added": true,
         "group": "hot-14"
       },
@@ -289,24 +235,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Weeks of overwork left her completely enervated .",
         "advTranslation": "數週的過度工作讓她感到極度疲憊。",
-        "added": true,
-        "group": "hot-14"
-      },
-      {
-        "word": "otiose",
-        "pos": "adj.",
-        "definition": "Serving no practical purpose; futile.",
-        "chinese": "無用的;徒勞的",
-        "synonyms": "indolent, soporific, sedentary",
-        "image": "shield",
-        "sentence": "The committee dismissed the proposal as __________ and unnecessary.",
-        "translation": "委員會將這項提案視為無用且不必要而予以駁回。",
-        "lookup": {
-          "english": "Serving no practical purpose; futile.",
-          "chinese": "無用的;徒勞的"
-        },
-        "advSentence": "His lengthy footnotes seemed largely otiose to the main argument.",
-        "advTranslation": "他冗長的註腳對於主要論點來說似乎大多是徒勞無用的。",
         "added": true,
         "group": "hot-14"
       }
@@ -574,19 +502,7 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Mentally or physically inactive; dormant or numb.",
     "遲鈍的；麻木的；蟄伏的"
   ],
-  "languorous": [
-    "Having a pleasant feeling of weariness or laziness.",
-    "慵懶的;倦怠的"
-  ],
-  "somnolent": [
-    "Sleepy, drowsy.",
-    "昏昏欲睡的/嗜睡的"
-  ],
   "lethargy": [
-    "A lack of energy or enthusiasm.",
-    "無精打采;倦怠"
-  ],
-  "listlessness": [
     "A lack of energy or enthusiasm.",
     "無精打采;倦怠"
   ],
@@ -605,9 +521,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "enervated": [
     "Drained of energy or vitality.",
     "虛弱無力的;疲憊的"
-  ],
-  "otiose": [
-    "Serving no practical purpose; futile.",
-    "無用的;徒勞的"
   ]
 });

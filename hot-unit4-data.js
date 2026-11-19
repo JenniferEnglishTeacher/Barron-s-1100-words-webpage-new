@@ -343,42 +343,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-04"
       },
       {
-        "word": "bromide",
-        "pos": "n.",
-        "definition": "A trite or obvious remark.",
-        "chinese": "陳腔濫調",
-        "synonyms": "derivative, insipid, lackluster",
-        "image": "shield",
-        "sentence": "The politician's speech was full of tired __________s about hard work and family values.",
-        "translation": "這位政治人物的演說充滿了關於努力工作和家庭價值的陳腔濫調。",
-        "lookup": {
-          "english": "A trite or obvious remark.",
-          "chinese": "陳腔濫調"
-        },
-        "advSentence": "Instead of real advice, he offered only empty bromides.",
-        "advTranslation": "他沒有提供真正的建議,只給了些空洞的陳腔濫調。",
-        "added": true,
-        "group": "hot-04"
-      },
-      {
-        "word": "jejune",
-        "pos": "adj.",
-        "definition": "Naive, simplistic, or superficial; lacking nutritional value.",
-        "chinese": "幼稚的;貧乏的",
-        "synonyms": "derivative, insipid, lackluster",
-        "image": "shield",
-        "sentence": "Critics dismissed the script as __________ and predictable.",
-        "translation": "評論家批評這份劇本幼稚且老套。",
-        "lookup": {
-          "english": "Naive, simplistic, or superficial; lacking nutritional value.",
-          "chinese": "幼稚的;貧乏的"
-        },
-        "advSentence": "His jejune understanding of economics led to poor decisions.",
-        "advTranslation": "他對經濟學貧乏膚淺的理解導致了糟糕的決策。",
-        "added": true,
-        "group": "hot-04"
-      },
-      {
         "word": "uninspired",
         "pos": "adj.",
         "definition": "Lacking creativity, originality, or enthusiasm.",
@@ -750,14 +714,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "threadbare": [
     "Worn thin from use; overused and unconvincing.",
     "破舊的;老套的"
-  ],
-  "bromide": [
-    "A trite or obvious remark.",
-    "陳腔濫調"
-  ],
-  "jejune": [
-    "Naive, simplistic, or superficial; lacking nutritional value.",
-    "幼稚的;貧乏的"
   ],
   "uninspired": [
     "Lacking creativity, originality, or enthusiasm.",

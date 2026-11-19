@@ -59,24 +59,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-temporary2"
       },
       {
-        "word": "temporize",
-        "pos": "v.",
-        "definition": "To delay making a decision to gain time.",
-        "chinese": "拖延;敷衍",
-        "synonyms": "procrastinate, vacillate, dither",
-        "image": "shield",
-        "sentence": "The negotiator continued to __________ rather than commit to any terms.",
-        "translation": "這位談判代表持續拖延,而不肯承諾任何條件。",
-        "lookup": {
-          "english": "To delay making a decision to gain time.",
-          "chinese": "拖延;敷衍"
-        },
-        "advSentence": "Rather than answer directly, he chose to temporize with vague excuses.",
-        "advTranslation": "他沒有直接回答,而是選擇以含糊的藉口敷衍拖延。",
-        "added": false,
-        "group": "sat-temporary2"
-      },
-      {
         "word": "dilatory",
         "pos": "adj.",
         "definition": "Tending to delay, causing delay.",
@@ -127,24 +109,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "He liked to dally with several admirers at once.",
         "advTranslation": "他喜歡同時和好幾個仰慕者調情。",
-        "added": true,
-        "group": "sat-temporary2"
-      },
-      {
-        "word": "tergiversate",
-        "pos": "v.",
-        "definition": "To change one's loyalties or opinions repeatedly; to be evasive.",
-        "chinese": "反覆變節;支吾其詞",
-        "synonyms": "procrastinate, vacillate, dither",
-        "image": "shield",
-        "sentence": "The politician tended to __________ whenever a controversial topic arose.",
-        "translation": "每當出現有爭議的話題,這位政客總是傾向支吾其詞。",
-        "lookup": {
-          "english": "To change one's loyalties or opinions repeatedly; to be evasive.",
-          "chinese": "反覆變節;支吾其詞"
-        },
-        "advSentence": "He was criticized for continuing to tergiversate on such an important issue.",
-        "advTranslation": "他因在如此重要的議題上持續反覆變節而受到批評。",
         "added": true,
         "group": "sat-temporary2"
       },
@@ -205,10 +169,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "To be indecisive.",
     "猶豫不決"
   ],
-  "temporize": [
-    "To delay making a decision to gain time.",
-    "拖延;敷衍"
-  ],
   "dilatory": [
     "Tending to delay, causing delay.",
     "拖延的/延誤的"
@@ -220,10 +180,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "dally": [
     "To act playfully; to waste time.",
     "調情;閒混"
-  ],
-  "tergiversate": [
-    "To change one's loyalties or opinions repeatedly; to be evasive.",
-    "反覆變節;支吾其詞"
   ],
   "defer": [
     "To postpone something; to yield to another's wisdom.",

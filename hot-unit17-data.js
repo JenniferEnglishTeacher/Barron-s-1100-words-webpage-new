@@ -217,24 +217,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-17"
       },
       {
-        "word": "pertinacious",
-        "pos": "adj.",
-        "definition": "Stubbornly persistent.",
-        "chinese": "頑強的/固執的",
-        "synonyms": "intractable, recalcitrant, resolve",
-        "image": "shield",
-        "sentence": "The __________ reporter refused to stop asking questions until she got a real answer.",
-        "translation": "這位固執的記者不肯罷休,直到得到一個真正的答案為止。",
-        "lookup": {
-          "english": "Stubbornly persistent.",
-          "chinese": "頑強的/固執的"
-        },
-        "advSentence": "His pertinacious pursuit of the patent eventually paid off after years of rejection.",
-        "advTranslation": "他頑強地追求這項專利,在多年遭拒後終於獲得了回報。",
-        "added": true,
-        "group": "hot-17"
-      },
-      {
         "word": "relentless",
         "pos": "adj.",
         "definition": "Continuing without pause or weakening; persistent.",
@@ -669,10 +651,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "tenacious": [
     "Tending to keep a firm hold of something; persistent.",
     "堅韌不拔的；頑強的"
-  ],
-  "pertinacious": [
-    "Stubbornly persistent.",
-    "頑強的/固執的"
   ],
   "relentless": [
     "Continuing without pause or weakening; persistent.",

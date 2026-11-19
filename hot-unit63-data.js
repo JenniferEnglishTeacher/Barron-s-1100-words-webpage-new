@@ -149,42 +149,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-betray"
       },
       {
-        "word": "recreant",
-        "pos": "n./adj.",
-        "definition": "A coward or traitor; cowardly or disloyal.",
-        "chinese": "叛徒;懦弱的",
-        "synonyms": "perfidious, traitor, turncoat",
-        "image": "shield",
-        "sentence": "The knight was branded a __________ for fleeing the battlefield.",
-        "translation": "這位騎士因逃離戰場而被斥為懦弱的叛徒。",
-        "lookup": {
-          "english": "A coward or traitor; cowardly or disloyal.",
-          "chinese": "叛徒;懦弱的"
-        },
-        "advSentence": "His recreant behavior during the crisis cost him his reputation.",
-        "advTranslation": "他在這場危機中懦弱的表現讓他名譽掃地。",
-        "added": true,
-        "group": "sat-betray"
-      },
-      {
-        "word": "quisling",
-        "pos": "n.",
-        "definition": "A traitor who collaborates with an occupying enemy force.",
-        "chinese": "叛徒;通敵者",
-        "synonyms": "perfidious, traitor, turncoat",
-        "image": "shield",
-        "sentence": "The resistance fighters vowed to hunt down every __________ in the region.",
-        "translation": "這些反抗軍戰士誓言要在這個地區揪出每一個叛徵通敵者。",
-        "lookup": {
-          "english": "A traitor who collaborates with an occupying enemy force.",
-          "chinese": "叛徒;通敵者"
-        },
-        "advSentence": "History remembers him as a notorious quisling who betrayed his homeland.",
-        "advTranslation": "歷史記住了他這個背叛祖國、惡名昭彰的通敵叛徒。",
-        "added": true,
-        "group": "sat-betray"
-      },
-      {
         "word": "dishonorable",
         "pos": "adj.",
         "definition": "Bringing shame or disgrace.",
@@ -217,24 +181,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The novel follows a disaffected teenager who rejects his family's values.",
         "advTranslation": "這部小說描述一位叛逆的青少年拒絕接受家族的價值觀。",
-        "added": true,
-        "group": "sat-betray"
-      },
-      {
-        "word": "schismatic",
-        "pos": "adj./n.",
-        "definition": "Relating to or causing division, especially within a religious group.",
-        "chinese": "分裂的;分裂主義者",
-        "synonyms": "perfidious, traitor, turncoat",
-        "image": "shield",
-        "sentence": "The __________ movement eventually formed its own independent church.",
-        "translation": "這場分裂運動最終形成了自己獨立的教會。",
-        "lookup": {
-          "english": "Relating to or causing division, especially within a religious group.",
-          "chinese": "分裂的;分裂主義者"
-        },
-        "advSentence": "He was accused of schismatic tendencies for challenging church doctrine.",
-        "advTranslation": "他因挑戰教會教義而被指控帶有分裂主義傾向。",
         "added": true,
         "group": "sat-betray"
       }
@@ -279,14 +225,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Deliberate breach of faith or trust; treachery.",
     "背信;奸詐行為"
   ],
-  "recreant": [
-    "A coward or traitor; cowardly or disloyal.",
-    "叛徒;懦弱的"
-  ],
-  "quisling": [
-    "A traitor who collaborates with an occupying enemy force.",
-    "叛徒;通敵者"
-  ],
   "dishonorable": [
     "Bringing shame or disgrace.",
     "不名譽的;可恥的"
@@ -294,9 +232,5 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "disaffected": [
     "Rebellious, resentful of authority.",
     "心懷不滿的/叛逆的"
-  ],
-  "schismatic": [
-    "Relating to or causing division, especially within a religious group.",
-    "分裂的;分裂主義者"
   ]
 });

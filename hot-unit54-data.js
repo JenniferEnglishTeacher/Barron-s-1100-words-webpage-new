@@ -113,24 +113,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-fake"
       },
       {
-        "word": "factitious",
-        "pos": "adj.",
-        "definition": "Artificial, sham.",
-        "chinese": "人為的/虛假的",
-        "synonyms": "spurious, bogus, sham",
-        "image": "shield",
-        "sentence": "The company's __________ enthusiasm for the merger fooled no one.",
-        "translation": "這家公司對這次合併表現出的做作熱情騙不了任何人。",
-        "lookup": {
-          "english": "Artificial, sham.",
-          "chinese": "人為的/虛假的"
-        },
-        "advSentence": "Her factitious smile could not hide her true disappointment.",
-        "advTranslation": "她那強顏歡笑的微笑掩飾不了心中真正的失望。",
-        "added": true,
-        "group": "sat-fake"
-      },
-      {
         "word": "ostensible",
         "pos": "adj.",
         "definition": "Outward, seeming.",
@@ -145,24 +127,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The company's ostensible goal was efficiency, though layoffs were the real motive.",
         "advTranslation": "這家公司表面上的目標是效率,但真正的動機其實是裁員。",
-        "added": true,
-        "group": "sat-fake"
-      },
-      {
-        "word": "meretricious",
-        "pos": "adj.",
-        "definition": "Apparently attractive but having no real value.",
-        "chinese": "華而不實的;俗豔的",
-        "synonyms": "spurious, bogus, sham",
-        "image": "shield",
-        "sentence": "The critic dismissed the novel's plot as __________ and shallow.",
-        "translation": "這位評論家認為這本小說的情節華而不實、膚淺空洞。",
-        "lookup": {
-          "english": "Apparently attractive but having no real value.",
-          "chinese": "華而不實的;俗豔的"
-        },
-        "advSentence": "Her meretricious jewelry caught the eye but fooled no one.",
-        "advTranslation": "她那俗豔的珠寶雖然吸睛,卻騙不了任何人。",
         "added": true,
         "group": "sat-fake"
       },
@@ -217,17 +181,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Artificial or overly planned.",
     "做作的/牽強的"
   ],
-  "factitious": [
-    "Artificial, sham.",
-    "人為的/虛假的"
-  ],
   "ostensible": [
     "Outward, seeming.",
     "表面的/假裝的"
-  ],
-  "meretricious": [
-    "Apparently attractive but having no real value.",
-    "華而不實的;俗豔的"
   ],
   "imitation": [
     "A copy or replica of something.",

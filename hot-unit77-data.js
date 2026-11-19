@@ -257,24 +257,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-agree"
       },
       {
-        "word": "consonance",
-        "pos": "n.",
-        "definition": "Agreement or harmony between things; repetition of consonant sounds in poetry.",
-        "chinese": "和諧一致;子音韻",
-        "synonyms": "concord, accord, consensus",
-        "image": "shield",
-        "sentence": "The new policy was crafted in __________ with the company's stated values.",
-        "translation": "這項新政策是依循公司宣示的價值觀,協調一致地制定的。",
-        "lookup": {
-          "english": "Agreement or harmony between things; repetition of consonant sounds in poetry.",
-          "chinese": "和諧一致;子音韻"
-        },
-        "advSentence": "The poet used consonance , repeating the \"t\" sound, to create a clipped, tense rhythm.",
-        "advTranslation": "詩人運用子音韻,重複「t」音,營造出短促緊張的節奏。",
-        "added": true,
-        "group": "sat-agree"
-      },
-      {
         "word": "compatibility",
         "pos": "n.",
         "definition": "The state of being able to exist or work together harmoniously.",
@@ -289,24 +271,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Before buying the software, check its compatibility with your current operating system.",
         "advTranslation": "在購買這套軟體前,請確認它與你目前作業系統的相容性。",
-        "added": true,
-        "group": "sat-agree"
-      },
-      {
-        "word": "rapprochement",
-        "pos": "n.",
-        "definition": "The establishment or resumption of harmonious relations.",
-        "chinese": "和解;關係修復",
-        "synonyms": "concord, accord, consensus",
-        "image": "shield",
-        "sentence": "The two nations reached a historic __________ after decades of conflict.",
-        "translation": "這兩個國家在數十年的衝突之後達成了一項歷史性的和解。",
-        "lookup": {
-          "english": "The establishment or resumption of harmonious relations.",
-          "chinese": "和解;關係修復"
-        },
-        "advSentence": "Their gradual rapprochement surprised those who remembered their bitter feud.",
-        "advTranslation": "他們逐漸的關係修復讓那些記得這場激烈爭執的人感到訝異。",
         "added": true,
         "group": "sat-agree"
       },
@@ -411,17 +375,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "The quality of being in agreement.",
     "一致性/協調"
   ],
-  "consonance": [
-    "Agreement or harmony between things; repetition of consonant sounds in poetry.",
-    "和諧一致;子音韻"
-  ],
   "compatibility": [
     "The state of being able to exist or work together harmoniously.",
     "相容性;協調性"
-  ],
-  "rapprochement": [
-    "The establishment or resumption of harmonious relations.",
-    "和解;關係修復"
   ],
   "amity": [
     "Friendly relations, especially between nations.",

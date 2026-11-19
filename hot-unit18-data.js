@@ -237,24 +237,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-18"
       },
       {
-        "word": "obstreperous",
-        "pos": "adj.",
-        "definition": "Noisy, unruly.",
-        "chinese": "喧鬧的/難以駕馭的",
-        "synonyms": "discordant, euphony, cacophony",
-        "image": "shield",
-        "sentence": "The teacher struggled to control the __________ classroom before the holiday.",
-        "translation": "假期前,這位老師難以控制這間喧鬧不已的教室。",
-        "lookup": {
-          "english": "Noisy, unruly.",
-          "chinese": "喧鬧的/難以駕馭的"
-        },
-        "advSentence": "The obstreperous crowd had to be calmed down by security before the show could continue.",
-        "advTranslation": "這場表演必須先由保全人員安撫這群喧鬧的群眾,才能繼續進行。",
-        "added": true,
-        "group": "hot-18"
-      },
-      {
         "word": "sonorous",
         "pos": "adj.",
         "definition": "Producing a deep, rich, and impressively loud sound.",
@@ -269,24 +251,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The actor used his powerful, sonorous voice to command the outdoor amphitheater, ensuring that every line reached the audience without amplification.",
         "advTranslation": "演員以強而有力且渾厚洪亮的嗓音吸引整座戶外圓形劇場的注意，使每句台詞不用擴音也能傳到觀眾耳中。",
-        "added": true,
-        "group": "hot-18"
-      },
-      {
-        "word": "stentorian",
-        "pos": "adj.",
-        "definition": "Loud.",
-        "chinese": "聲音洪亮的",
-        "synonyms": "discordant, euphony, cacophony",
-        "image": "shield",
-        "sentence": "The coach's __________ voice could be heard across the entire field.",
-        "translation": "教練那洪亮的聲音整個球場都聽得到。",
-        "lookup": {
-          "english": "Loud.",
-          "chinese": "聲音洪亮的"
-        },
-        "advSentence": "He announced the winner in a stentorian tone that filled the auditorium.",
-        "advTranslation": "他用洪亮的聲調宣布獲勝者,聲音傳遍整個禮堂。",
         "added": true,
         "group": "hot-18"
       },
@@ -649,17 +613,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Having an unpleasant sound.",
     "刺耳的/不和諧的"
   ],
-  "obstreperous": [
-    "Noisy, unruly.",
-    "喧鬧的/難以駕馭的"
-  ],
   "sonorous": [
     "Producing a deep, rich, and impressively loud sound.",
     "洪亮的；渾厚的；響亮的"
-  ],
-  "stentorian": [
-    "Loud.",
-    "聲音洪亮的"
   ],
   "grating": [
     "Unpleasantly harsh in sound.",

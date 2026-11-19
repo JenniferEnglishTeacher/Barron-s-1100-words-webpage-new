@@ -237,24 +237,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-15"
       },
       {
-        "word": "lackey",
-        "pos": "n.",
-        "definition": "A servile follower or servant.",
-        "chinese": "跟班;走狗",
-        "synonyms": "compliant, subservient, submissive",
-        "image": "shield",
-        "sentence": "The dictator surrounded himself with loyal __________ s.",
-        "translation": "這位獨裁者身邊圍繞著忠心的跟班走狗。",
-        "lookup": {
-          "english": "A servile follower or servant.",
-          "chinese": "跟班;走狗"
-        },
-        "advSentence": "He was mocked for being a corporate lackey with no independent thought.",
-        "advTranslation": "他因毫無獨立思考、只是企業的應聲蟲而遭到嘲笑。",
-        "added": true,
-        "group": "hot-15"
-      },
-      {
         "word": "minion",
         "pos": "n.",
         "definition": "A servile follower or subordinate.",
@@ -580,10 +562,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ingratiating": [
     "Capable of winning favor.",
     "討好的/諂媚的"
-  ],
-  "lackey": [
-    "A servile follower or servant.",
-    "跟班;走狗"
   ],
   "minion": [
     "A servile follower or subordinate.",

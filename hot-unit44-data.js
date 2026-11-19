@@ -149,24 +149,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-increase"
       },
       {
-        "word": "aggrandize",
-        "pos": "v.",
-        "definition": "To increase or make greater.",
-        "chinese": "誇大/擴大權勢",
-        "synonyms": "augment, amplify, swell",
-        "image": "shield",
-        "sentence": "The general used the victory to __________ his own reputation.",
-        "translation": "這位將軍利用這場勝利來誇大自己的聲望。",
-        "lookup": {
-          "english": "To increase or make greater.",
-          "chinese": "誇大/擴大權勢"
-        },
-        "advSentence": "Critics accused the CEO of trying to aggrandize his own image at the company's expense.",
-        "advTranslation": "批評者指控這位執行長犧牲公司利益,只為抬高自己的形象。",
-        "added": true,
-        "group": "sat-increase"
-      },
-      {
         "word": "intensify",
         "pos": "v.",
         "definition": "To become or make more intense.",
@@ -314,10 +296,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "inflate": [
     "To fill with air or gas; to exaggerate.",
     "充氣;誇大"
-  ],
-  "aggrandize": [
-    "To increase or make greater.",
-    "誇大/擴大權勢"
   ],
   "intensify": [
     "To become or make more intense.",

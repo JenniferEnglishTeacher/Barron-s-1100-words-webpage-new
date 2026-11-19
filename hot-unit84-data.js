@@ -59,24 +59,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-old2"
       },
       {
-        "word": "antediluvian",
-        "pos": "adj.",
-        "definition": "Very, very old; antiquated.",
-        "chinese": "遠古的",
-        "synonyms": "archaic, antiquated, obsolete",
-        "image": "shield",
-        "sentence": "His __________ views on gender roles seemed out of place in the modern office.",
-        "translation": "他對性別角色那種老掉牙的觀念,在現代化的辦公室裡顯得格格不入。",
-        "lookup": {
-          "english": "Very, very old; antiquated.",
-          "chinese": "遠古的"
-        },
-        "advSentence": "The museum displayed antediluvian fossils millions of years old.",
-        "advTranslation": "這座博物館展示了數百萬年前的遠古化石。",
-        "added": false,
-        "group": "sat-old2"
-      },
-      {
         "word": "anachronistic",
         "pos": "adj.",
         "definition": "Being out of correct chronological order.",
@@ -164,42 +146,6 @@ window.FLASHCARD_UNITS = {
         "advSentence": "The temple is a venerable landmark visited by pilgrims for centuries.",
         "advTranslation": "這座寺廟是數百年來朝聖者前來參拜的莊嚴地標。",
         "added": false,
-        "group": "sat-old2"
-      },
-      {
-        "word": "outworn",
-        "pos": "adj.",
-        "definition": "No longer useful, valid, or fashionable.",
-        "chinese": "過時的;陳舊的",
-        "synonyms": "archaic, antiquated, obsolete",
-        "image": "shield",
-        "sentence": "The professor challenged several __________ assumptions in the field.",
-        "translation": "這位教授質疑了這個領域裡好幾個過時的假設。",
-        "lookup": {
-          "english": "No longer useful, valid, or fashionable.",
-          "chinese": "過時的;陳舊的"
-        },
-        "advSentence": "The company finally abandoned its outworn business model.",
-        "advTranslation": "這家公司終於捨棄了它那過時的商業模式。",
-        "added": true,
-        "group": "sat-old2"
-      },
-      {
-        "word": "superannuated",
-        "pos": "adj.",
-        "definition": "Retired due to age; obsolete.",
-        "chinese": "因年老而退休的;過時的",
-        "synonyms": "archaic, antiquated, obsolete",
-        "image": "shield",
-        "sentence": "The __________ professor still lectured occasionally as a guest speaker.",
-        "translation": "這位因年老退休的教授仍偶爾以客座講師的身分授課。",
-        "lookup": {
-          "english": "Retired due to age; obsolete.",
-          "chinese": "因年老而退休的;過時的"
-        },
-        "advSentence": "The factory finally replaced its superannuated machinery with modern equipment.",
-        "advTranslation": "這座工廠終於用現代設備汰換了他們過時的機械。",
-        "added": true,
         "group": "sat-old2"
       },
       {
@@ -331,10 +277,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Old; outdated, as in no longer in use.",
     "過時的"
   ],
-  "antediluvian": [
-    "Very, very old; antiquated.",
-    "遠古的"
-  ],
   "anachronistic": [
     "Being out of correct chronological order.",
     "時代錯置的"
@@ -354,14 +296,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "venerable": [
     "Respected, worshiped.",
     "值得尊敬的/莊嚴的"
-  ],
-  "outworn": [
-    "No longer useful, valid, or fashionable.",
-    "過時的;陳舊的"
-  ],
-  "superannuated": [
-    "Retired due to age; obsolete.",
-    "因年老而退休的;過時的"
   ],
   "ancient": [
     "Belonging to the very distant past; very old.",

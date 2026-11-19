@@ -95,24 +95,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-wealth"
       },
       {
-        "word": "plutocrat",
-        "pos": "n.",
-        "definition": "A person whose power derives from great wealth.",
-        "chinese": "富豪統治者",
-        "synonyms": "affluent, opulent, prosperous",
-        "image": "shield",
-        "sentence": "The novel satirizes a ruthless __________ who controls the city's politics.",
-        "translation": "這本小說諷刺了一位無情、掌控整座城市政治的富豪統治者。",
-        "lookup": {
-          "english": "A person whose power derives from great wealth.",
-          "chinese": "富豪統治者"
-        },
-        "advSentence": "Ordinary citizens felt powerless against the influence of local plutocrat s.",
-        "advTranslation": "普通市民面對當地富豪統治者的影響力感到無力。",
-        "added": false,
-        "group": "sat-wealth"
-      },
-      {
         "word": "posh",
         "pos": "adj.",
         "definition": "Elegant and fashionable, especially associated with the upper class.",
@@ -212,10 +194,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "sumptuous": [
     "Lavish:profligate=flamboyant=ostentatious.",
     "奢華的/豪華的"
-  ],
-  "plutocrat": [
-    "A person whose power derives from great wealth.",
-    "富豪統治者"
   ],
   "posh": [
     "Elegant and fashionable, especially associated with the upper class.",

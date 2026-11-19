@@ -165,24 +165,6 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座港口城市的經濟曾經停滯不前、萎靡不振，如今再度充滿活力；不過批評者警告，若利率急遽上升，推動其復甦的大手筆支出可能會帶來不利影響。"
       },
       {
-        "word": "fervid",
-        "pos": "adj.",
-        "definition": "Intense, enthusiastic, passionate.",
-        "chinese": "熱情的/熱烈的",
-        "synonyms": "ebullient, effervescent, exuberant",
-        "image": "shield",
-        "sentence": "The senator delivered a __________ speech about the need for reform.",
-        "translation": "這位參議員發表了一場關於改革必要性的熱情激昂演說。",
-        "lookup": {
-          "english": "Intense, enthusiastic, passionate.",
-          "chinese": "熱情的/熱烈的"
-        },
-        "advSentence": "Her fervidedevotion to the cause inspired everyone around her.",
-        "advTranslation": "她對這項理念的熱切奉獻精神激勵了周遭的每一個人。",
-        "added": true,
-        "group": "hot-16"
-      },
-      {
         "word": "passionate",
         "pos": "adj.",
         "definition": "Showing strong feelings or enthusiasm.",
@@ -197,24 +179,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "His passionate speech moved the entire audience to tears.",
         "advTranslation": "他充滿激情的演講讓全場觀眾都感動落淚。",
-        "added": true,
-        "group": "hot-16"
-      },
-      {
-        "word": "perfervid",
-        "pos": "adj.",
-        "definition": "Showing intense and passionate feeling.",
-        "chinese": "極度熱情的;狂熱的",
-        "synonyms": "ebullient, effervescent, exuberant",
-        "image": "shield",
-        "sentence": "His __________ speech energized the crowd of supporters.",
-        "translation": "他狂熱的演講讓這群支持者的情緒沸騰起來。",
-        "lookup": {
-          "english": "Showing intense and passionate feeling.",
-          "chinese": "極度熱情的;狂熱的"
-        },
-        "advSentence": "The novel's perfervid romance felt exaggerated to some readers.",
-        "advTranslation": "這本小說熾熱狂放的愛情故事讓一些讀者覺得有些誇張。",
         "added": true,
         "group": "hot-16"
       },
@@ -600,17 +564,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Full of energy, life, and activity.",
     "充滿活力的；生氣勃勃的"
   ],
-  "fervid": [
-    "Intense, enthusiastic, passionate.",
-    "熱情的/熱烈的"
-  ],
   "passionate": [
     "Showing strong feelings or enthusiasm.",
     "熱情的;充滿激情的"
-  ],
-  "perfervid": [
-    "Showing intense and passionate feeling.",
-    "極度熱情的;狂熱的"
   ],
   "energetic": [
     "Showing or involving great activity or vitality.",

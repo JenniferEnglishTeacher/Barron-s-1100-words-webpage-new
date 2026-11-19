@@ -95,24 +95,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-lazy2"
       },
       {
-        "word": "shiftless",
-        "pos": "adj.",
-        "definition": "Lacking ambition or motivation.",
-        "chinese": "懶散的;無進取心的",
-        "synonyms": "slothful, remiss, negligent",
-        "image": "shield",
-        "sentence": "His family worried he would remain __________ forever.",
-        "translation": "他的家人擔心他會一輩子這樣懶散無進取心。",
-        "lookup": {
-          "english": "Lacking ambition or motivation.",
-          "chinese": "懶散的;無進取心的"
-        },
-        "advSentence": "The novel's shiftless protagonist drifts from job to job.",
-        "advTranslation": "這本小說懶散無進取心的主角從一份工作漂泊到另一份工作。",
-        "added": false,
-        "group": "sat-lazy2"
-      },
-      {
         "word": "lackadaisical",
         "pos": "adj.",
         "definition": "Lacking enthusiasm or determination.",
@@ -146,24 +128,6 @@ window.FLASHCARD_UNITS = {
         "advSentence": "He made only desultory efforts to finish the project on time.",
         "advTranslation": "他只斷斷續續地努力,並未認真想準時完成這項計畫。",
         "added": false,
-        "group": "sat-lazy2"
-      },
-      {
-        "word": "fainéant",
-        "pos": "adj./n.",
-        "definition": "Habitually lazy or idle; an idle person.",
-        "chinese": "懶惰的;懶漢",
-        "synonyms": "slothful, remiss, negligent",
-        "image": "shield",
-        "sentence": "The __________ heir spent his days doing absolutely nothing.",
-        "translation": "這位懶惰的繼承人整天無所事事。",
-        "lookup": {
-          "english": "Habitually lazy or idle; an idle person.",
-          "chinese": "懶惰的;懶漢"
-        },
-        "advSentence": "Critics dismissed the minister as a fainéant figurehead.",
-        "advTranslation": "評論家批評這位部長只是個懶散無為的名義領袖。",
-        "added": true,
         "group": "sat-lazy2"
       },
       {
@@ -250,10 +214,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Tending to delay, causing delay.",
     "拖延的/延誤的"
   ],
-  "shiftless": [
-    "Lacking ambition or motivation.",
-    "懶散的;無進取心的"
-  ],
   "lackadaisical": [
     "Lacking enthusiasm or determination.",
     "懶散的;無精打采的"
@@ -261,10 +221,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "desultory": [
     "Occurring by chance, disconnected.",
     "散漫的/斷斷續續的"
-  ],
-  "fainéant": [
-    "Habitually lazy or idle; an idle person.",
-    "懶惰的;懶漢"
   ],
   "feckless": [
     "Lacking initiative or responsibility; ineffective.",

@@ -203,24 +203,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-contempt"
       },
       {
-        "word": "contemn",
-        "pos": "v.",
-        "definition": "To treat or regard with contempt.",
-        "chinese": "藐視;蔑視",
-        "synonyms": "scorn, disdain, derision",
-        "image": "shield",
-        "sentence": "He seemed to __________ anyone who disagreed with his political views.",
-        "translation": "他似乎藐視任何與他政治立場不同的人。",
-        "lookup": {
-          "english": "To treat or regard with contempt.",
-          "chinese": "藐視;蔑視"
-        },
-        "advSentence": "The philosopher openly contemned what he saw as shallow popular entertainment.",
-        "advTranslation": "這位哲學家公開藐視他眼中膚淺的大眾娛樂。",
-        "added": true,
-        "group": "sat-contempt"
-      },
-      {
         "word": "taunt",
         "pos": "v./n.",
         "definition": "To provoke or mock someone with insulting remarks.",
@@ -235,24 +217,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The crowd hurled taunt s at the losing team.",
         "advTranslation": "群眾對這支落敗的隊伍發出了陣陣奚落。",
-        "added": true,
-        "group": "sat-contempt"
-      },
-      {
-        "word": "gibe",
-        "pos": "n./v.",
-        "definition": "A mocking or insulting remark.",
-        "chinese": "嘲弄;譏笑",
-        "synonyms": "scorn, disdain, derision",
-        "image": "shield",
-        "sentence": "He ignored their __________ s about his old car.",
-        "translation": "他無視他們對他那輛舊車的嘲弄。",
-        "lookup": {
-          "english": "A mocking or insulting remark.",
-          "chinese": "嘲弄;譏笑"
-        },
-        "advSentence": "She would gibe at anyone who disagreed with her.",
-        "advTranslation": "她會嘲笑任何不同意她意見的人。",
         "added": true,
         "group": "sat-contempt"
       },
@@ -345,17 +309,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Mockery or derision; to make fun of someone.",
     "嘲笑;奚落"
   ],
-  "contemn": [
-    "To treat or regard with contempt.",
-    "藐視;蔑視"
-  ],
   "taunt": [
     "To provoke or mock someone with insulting remarks.",
     "嘲弄;奚落"
-  ],
-  "gibe": [
-    "A mocking or insulting remark.",
-    "嘲弄;譏笑"
   ],
   "repudiate": [
     "To reject, decline.",

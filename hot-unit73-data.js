@@ -41,42 +41,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-beauty"
       },
       {
-        "word": "comely",
-        "pos": "adj.",
-        "definition": "Beautiful, handsome.",
-        "chinese": "清秀的/標緻的",
-        "synonyms": "exquisite, resplendent, pulchritude",
-        "image": "shield",
-        "sentence": "The young prince was described in the tale as __________ and kind.",
-        "translation": "故事中,這位年輕王子被描述為容貌俊秀又善良。",
-        "lookup": {
-          "english": "Beautiful, handsome.",
-          "chinese": "清秀的/標緻的"
-        },
-        "advSentence": "She was known throughout the village for being comely and gracious.",
-        "advTranslation": "她因容貌清秀、待人優雅而聞名全村。",
-        "added": false,
-        "group": "sat-beauty"
-      },
-      {
-        "word": "pulchritude",
-        "pos": "n.",
-        "definition": "Physical beauty.",
-        "chinese": "美貌/姿色",
-        "synonyms": "exquisite, resplendent, comely",
-        "image": "shield",
-        "sentence": "The pageant judges scored contestants not only on __________ but also on poise.",
-        "translation": "選美評審不僅根據外貌評分,也考量參賽者的儀態。",
-        "lookup": {
-          "english": "Physical beauty.",
-          "chinese": "美貌/姿色"
-        },
-        "advSentence": "Ancient poets often praised the pulchritude of the goddess in their verses.",
-        "advTranslation": "古代詩人經常在詩句中頌揚這位女神的美貌。",
-        "added": false,
-        "group": "sat-beauty"
-      },
-      {
         "word": "elegant",
         "pos": "adj.",
         "definition": "Graceful and stylish in appearance or manner.",
@@ -167,24 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-beauty"
       },
       {
-        "word": "pulchritudinous",
-        "pos": "adj.",
-        "definition": "Physically beautiful; attractive.",
-        "chinese": "美麗的;姿色出眾的",
-        "synonyms": "exquisite, resplendent, comely",
-        "image": "shield",
-        "sentence": "The magazine featured a __________ actress on its cover.",
-        "translation": "這本雜誌的封面刊登了一位姿色出眾的女演員。",
-        "lookup": {
-          "english": "Physically beautiful; attractive.",
-          "chinese": "美麗的;姿色出眾的"
-        },
-        "advSentence": "Visitors marveled at the pulchritudinous landscape stretching before them.",
-        "advTranslation": "遊客們對眼前這片美麗的景觀讚嘆不已。",
-        "added": true,
-        "group": "sat-beauty"
-      },
-      {
         "word": "genteel",
         "pos": "adj.",
         "definition": "Polite, refined, or affectedly proper.",
@@ -255,14 +201,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Shiny, glowing.",
     "燦爛的/光輝奪目的"
   ],
-  "comely": [
-    "Beautiful, handsome.",
-    "清秀的/標緻的"
-  ],
-  "pulchritude": [
-    "Physical beauty.",
-    "美貌/姿色"
-  ],
   "elegant": [
     "Graceful and stylish in appearance or manner.",
     "優雅的;精緻的"
@@ -282,10 +220,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "refined": [
     "Elegant and cultured; free from impurities.",
     "精緻的;精煉的"
-  ],
-  "pulchritudinous": [
-    "Physically beautiful; attractive.",
-    "美麗的;姿色出眾的"
   ],
   "genteel": [
     "Polite, refined, or affectedly proper.",

@@ -131,24 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-knowledge"
       },
       {
-        "word": "lettered",
-        "pos": "adj.",
-        "definition": "Well-educated, especially in literature.",
-        "chinese": "有學問的;識字的",
-        "synonyms": "erudite, pedantic, learned",
-        "image": "shield",
-        "sentence": "She came from a __________ family of scholars and writers.",
-        "translation": "她出身於一個由學者與作家組成、有學問的家庭。",
-        "lookup": {
-          "english": "Well-educated, especially in literature.",
-          "chinese": "有學問的;識字的"
-        },
-        "advSentence": "The village had few lettered residents before the school opened.",
-        "advTranslation": "在這所學校開辦之前,這座村莊識字的居民寥寥無幾。",
-        "added": false,
-        "group": "sat-knowledge"
-      },
-      {
         "word": "educated",
         "pos": "adj.",
         "definition": "Having received formal instruction or training; informed.",
@@ -217,24 +199,6 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "He was praised as an enlightened leader ahead of his time.",
         "advTranslation": "他被讚揚為一位超前時代的開明領袖。",
-        "added": true,
-        "group": "sat-knowledge"
-      },
-      {
-        "word": "polymathic",
-        "pos": "adj.",
-        "definition": "Having or characterized by extensive knowledge across many fields.",
-        "chinese": "博學多才的",
-        "synonyms": "erudite, pedantic, learned",
-        "image": "shield",
-        "sentence": "Her __________ curiosity led her to study medicine, music, and mathematics.",
-        "translation": "她博學多才的好奇心讓她涉獵了醫學、音樂與數學。",
-        "lookup": {
-          "english": "Having or characterized by extensive knowledge across many fields.",
-          "chinese": "博學多才的"
-        },
-        "advSentence": "The scholar's polymathic interests spanned astronomy, poetry, and law.",
-        "advTranslation": "這位學者博學多才的興趣橫跨天文學、詩歌與法律。",
         "added": true,
         "group": "sat-knowledge"
       },
@@ -329,10 +293,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Aware.",
     "認識到的"
   ],
-  "lettered": [
-    "Well-educated, especially in literature.",
-    "有學問的;識字的"
-  ],
   "educated": [
     "Having received formal instruction or training; informed.",
     "受過教育的;有根據的"
@@ -348,10 +308,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "enlightened": [
     "Having or showing a rational, modern, and well-informed outlook.",
     "開明的;有見識的"
-  ],
-  "polymathic": [
-    "Having or characterized by extensive knowledge across many fields.",
-    "博學多才的"
   ],
   "pundit": [
     "An expert commentator, especially in politics or media.",

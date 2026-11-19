@@ -131,24 +131,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-calm"
       },
       {
-        "word": "halcyon",
-        "pos": "adj.",
-        "definition": "Idyllically peaceful, calm.",
-        "chinese": "寧靜的/平穩的",
-        "synonyms": "serene, placid, tranquil",
-        "image": "shield",
-        "sentence": "He often looked back fondly on the __________ days of his childhood.",
-        "translation": "他經常懷念地回想起童年時光那寧靜安詳的日子。",
-        "lookup": {
-          "english": "Idyllically peaceful, calm.",
-          "chinese": "寧靜的/平穩的"
-        },
-        "advSentence": "Those halcyon summers at the lake house felt like they would never end.",
-        "advTranslation": "在湖畔小屋度過的那些寧靜夏日,感覺彷彿永遠不會結束。",
-        "added": false,
-        "group": "sat-calm"
-      },
-      {
         "word": "unruffled",
         "pos": "adj.",
         "definition": "Not disturbed or agitated; calm.",
@@ -257,24 +239,6 @@ window.FLASHCARD_UNITS = {
         "group": "sat-calm"
       },
       {
-        "word": "equable",
-        "pos": "adj.",
-        "definition": "Calm and even-tempered; not varying much.",
-        "chinese": "穩定的;平和的",
-        "synonyms": "serene, placid, tranquil",
-        "image": "shield",
-        "sentence": "Her __________ temperament made her an excellent negotiator.",
-        "translation": "她平和的性情讓她成為一位出色的談判者。",
-        "lookup": {
-          "english": "Calm and even-tempered; not varying much.",
-          "chinese": "穩定的;平和的"
-        },
-        "advSentence": "The region enjoys an equable climate year-round.",
-        "advTranslation": "這個地區全年都享有穩定的氣候。",
-        "added": true,
-        "group": "sat-calm"
-      },
-      {
         "word": "repose",
         "pos": "n.",
         "definition": "State of rest.",
@@ -329,10 +293,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
     "Quiet, still, undisturbed, sober.",
     "安詳的/莊重的"
   ],
-  "halcyon": [
-    "Idyllically peaceful, calm.",
-    "寧靜的/平穩的"
-  ],
   "unruffled": [
     "Not disturbed or agitated; calm.",
     "不慌亂的;鎮靜的"
@@ -356,10 +316,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "self-possessed": [
     "Calm, confident, and in control of oneself.",
     "鎮定自若的;沉著的"
-  ],
-  "equable": [
-    "Calm and even-tempered; not varying much.",
-    "穩定的;平和的"
   ],
   "repose": [
     "State of rest.",

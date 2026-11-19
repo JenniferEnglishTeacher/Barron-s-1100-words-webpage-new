@@ -155,42 +155,6 @@ window.FLASHCARD_UNITS = {
         "group": "hot-20"
       },
       {
-        "word": "superabundance",
-        "pos": "n.",
-        "definition": "An excessive amount of something.",
-        "chinese": "過剩;過量",
-        "synonyms": "surfeit, profuse, plethora",
-        "image": "shield",
-        "sentence": "The harvest produced a __________ of fresh vegetables that year.",
-        "translation": "那一年的收成產出了過剩的新鮮蔬菜。",
-        "lookup": {
-          "english": "An excessive amount of something.",
-          "chinese": "過剩;過量"
-        },
-        "advSentence": "A superabundance of choices left the shopper feeling overwhelmed.",
-        "advTranslation": "過量的選擇讓這位購物者感到不知所措。",
-        "added": true,
-        "group": "hot-20"
-      },
-      {
-        "word": "plenitude",
-        "pos": "n.",
-        "definition": "An abundance.",
-        "chinese": "豐富/充裕",
-        "synonyms": "surfeit, profuse, plethora",
-        "image": "shield",
-        "sentence": "The harvest festival celebrated the __________ of the autumn crops.",
-        "translation": "這場豐收節慶祝著秋季作物的豐盛。",
-        "lookup": {
-          "english": "An abundance.",
-          "chinese": "豐富/充裕"
-        },
-        "advSentence": "He spoke with the wisdom that comes from a plenitude of life experience.",
-        "advTranslation": "他說話帶著源自豐富人生閱歷的智慧。",
-        "added": true,
-        "group": "hot-20"
-      },
-      {
         "word": "exorbitant",
         "pos": "adj.",
         "definition": "Excessive.",
@@ -434,14 +398,6 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "abounding": [
     "Existing in large numbers or amounts.",
     "大量存在的;豐富的"
-  ],
-  "superabundance": [
-    "An excessive amount of something.",
-    "過剩;過量"
-  ],
-  "plenitude": [
-    "An abundance.",
-    "豐富/充裕"
   ],
   "exorbitant": [
     "Excessive.",
