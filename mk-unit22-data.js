@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To assume something to be true.",
      "chinese": "假定；推測"
-    }
+    },
+    "photo": "mk/presume"
    },
    {
     "word": "prevail",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be avoided.",
      "chinese": "可預防的"
-    }
+    },
+    "photo": "mk/preventable"
    },
    {
     "word": "probability",
@@ -66,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Likelihood of something happening.",
      "chinese": "可能性"
-    }
+    },
+    "photo": "mk/probability"
    },
    {
     "word": "proclaim",
@@ -116,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To create or generate something.",
      "chinese": "生產；製造"
-    }
+    },
+    "photo": "mk/produce"
    },
    {
     "word": "profusion",
@@ -132,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A large quantity of something.",
      "chinese": "豐富；大量"
-    }
+    },
+    "photo": "mk/profusion"
    },
    {
     "word": "prolific",
@@ -165,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To extend in duration.",
      "chinese": "延長"
-    }
+    },
+    "photo": "mk/prolong"
    },
    {
     "word": "prominent",
@@ -181,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Important or well-known.",
      "chinese": "知名的；顯著的"
-    }
+    },
+    "photo": "mk/prominent"
    },
    {
     "word": "propagate",
@@ -265,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To stir up or incite.",
      "chinese": "激怒；激起"
-    }
+    },
+    "photo": "mk/provoke"
    },
    {
     "word": "prudently",
@@ -281,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "In a wise or careful manner.",
      "chinese": "謹慎地；明智地"
-    }
+    },
+    "photo": "mk/prudently"
    },
    {
     "word": "quantity",
@@ -297,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "An amount or number.",
      "chinese": "數量"
-    }
+    },
+    "photo": "mk/quantity"
    },
    {
     "word": "quarrel",
@@ -313,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "An angry argument or dispute.",
      "chinese": "爭吵"
-    }
+    },
+    "photo": "mk/quarrel"
    }
   ],
   "quiz": [

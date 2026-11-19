@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To examine closely.",
      "chinese": "仔細檢查；審查"
-    }
+    },
+    "photo": "mk/scrutinize"
    },
    {
     "word": "sear",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Keeping things hidden.",
      "chinese": "隱密的；守口如瓶的"
-    }
+    },
+    "photo": "mk/secretive"
    },
    {
     "word": "sensitive",
@@ -66,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily affected or aware.",
      "chinese": "敏感的"
-    }
+    },
+    "photo": "mk/sensitive"
    },
    {
     "word": "sequester",
@@ -150,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The quality of being genuine.",
      "chinese": "真誠"
-    }
+    },
+    "photo": "mk/sincerity"
    },
    {
     "word": "sinuous",
@@ -200,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Complex or refined.",
      "chinese": "複雜精密的；世故的"
-    }
+    },
+    "photo": "mk/sophisticated"
    },
    {
     "word": "soporific",
@@ -233,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The extent or length of something.",
      "chinese": "範圍；期間"
-    }
+    },
+    "photo": "mk/span"
    },
    {
     "word": "sparingly",
@@ -249,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Insufficiently, meagerly, or in a restricted manner.",
      "chinese": "節省地；少量地"
-    }
+    },
+    "photo": "mk/sparingly"
    },
    {
     "word": "speculate",
@@ -316,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Very plain; devoid of any details or features.",
      "chinese": "荒涼的；明顯的"
-    }
+    },
+    "photo": "mk/stark"
    }
   ],
   "quiz": [

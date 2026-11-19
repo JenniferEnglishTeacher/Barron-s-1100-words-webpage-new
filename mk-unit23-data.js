@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Doubtful or uncertain.",
      "chinese": "可疑的；有問題的"
-    }
+    },
+    "photo": "mk/questionable"
    },
    {
     "word": "quixotic",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To split into two or more branches.",
      "chinese": "分支；分岔"
-    }
+    },
+    "photo": "mk/ramify"
    },
    {
     "word": "rarely",
@@ -83,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Infrequently or seldom.",
      "chinese": "很少；罕見地"
-    }
+    },
+    "photo": "mk/rarely"
    },
    {
     "word": "rationalize",
@@ -99,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To justify an action with reasoning.",
      "chinese": "合理化；為…找藉口"
-    }
+    },
+    "photo": "mk/rationalize"
    },
    {
     "word": "rebellion",
@@ -115,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "An act of resistance against authority.",
      "chinese": "反叛；叛亂"
-    }
+    },
+    "photo": "mk/rebellion"
    },
    {
     "word": "recalcitrant",
@@ -165,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Open to new ideas.",
      "chinese": "樂於接受的"
-    }
+    },
+    "photo": "mk/receptive"
    },
    {
     "word": "reciprocate",
@@ -198,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily identified.",
      "chinese": "可辨識的；易識別的"
-    }
+    },
+    "photo": "mk/recognizable"
    },
    {
     "word": "recondite",
@@ -231,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To correct or fix something.",
      "chinese": "糾正；矯正"
-    }
+    },
+    "photo": "mk/rectify"
    },
    {
     "word": "redefine",
@@ -247,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To change the meaning of something.",
      "chinese": "重新定義"
-    }
+    },
+    "photo": "mk/redefine"
    },
    {
     "word": "redress",
@@ -263,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To set right or remedy.",
      "chinese": "糾正；補償"
-    }
+    },
+    "photo": "mk/redress"
    },
    {
     "word": "reform",
@@ -279,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To improve by making changes.",
      "chinese": "改革"
-    }
+    },
+    "photo": "mk/reform"
    },
    {
     "word": "refuse",
@@ -295,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To decline or reject.",
      "chinese": "拒絕"
-    }
+    },
+    "photo": "mk/refuse"
    },
    {
     "word": "refute",

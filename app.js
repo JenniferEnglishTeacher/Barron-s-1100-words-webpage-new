@@ -1217,7 +1217,7 @@ function makeRootsIllustration(card) {
 // ---------- Picture cards (Barron's Units 1–PHOTO_MAX_UNIT): Jennifer's own illustrated word cards ----------
 // Files live at images/uNN/<word letters only>.webp. Any card without a file falls back to the drawn SVG.
 const PHOTO_MAX_UNIT = 46;
-const PHOTO_VERSION = "20261118a";
+const PHOTO_VERSION = "20261119a";
 
 const HOT_PHOTO_MAX_UNIT = 35; // lessons 36+ and added ★ cards borrow other zones' pictures via photo-index.js
 const VA_PHOTO_MAX_UNIT = 25; // Verbal Advantage Lv.1–5 picture cards live at images/vNN/

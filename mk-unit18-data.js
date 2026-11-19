@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be controlled or handled.",
      "chinese": "可管理的；可應付的"
-    }
+    },
+    "photo": "mk/manageable"
    },
    {
     "word": "mandatory",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Required or obligatory.",
      "chinese": "強制性的；必須的"
-    }
+    },
+    "photo": "mk/mandatory"
    },
    {
     "word": "manipulate",
@@ -134,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Disliking people or society.",
      "chinese": "厭世的；憤世嫉俗的"
-    }
+    },
+    "photo": "mk/misanthropic"
    },
    {
     "word": "misrepresent",
@@ -150,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To give a false impression.",
      "chinese": "歪曲；誤傳"
-    }
+    },
+    "photo": "mk/misrepresent"
    },
    {
     "word": "mitigate",
@@ -217,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Having many aspects or features.",
      "chinese": "多面向的；多才多藝的"
-    }
+    },
+    "photo": "mk/multifaceted"
    },
    {
     "word": "mundane",
@@ -284,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To fail to care for properly.",
      "chinese": "忽視；疏忽"
-    }
+    },
+    "photo": "mk/neglect"
    },
    {
     "word": "negligible",
@@ -317,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The state of not taking sides.",
      "chinese": "中立"
-    }
+    },
+    "photo": "mk/neutrality"
    }
   ],
   "quiz": [

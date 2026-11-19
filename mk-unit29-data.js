@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not likely to cause disagreement.",
      "chinese": "無爭議的"
-    }
+    },
+    "photo": "mk/uncontroversial"
    },
    {
     "word": "unctuous",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Cannot be disputed.",
      "chinese": "不可否認的"
-    }
+    },
+    "photo": "mk/undeniable"
    },
    {
     "word": "undermine",
@@ -134,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not significant.",
      "chinese": "不重要的"
-    }
+    },
+    "photo": "mk/unimportant"
    },
    {
     "word": "unintended",
@@ -150,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not planned or meant.",
      "chinese": "非故意的；意外的"
-    }
+    },
+    "photo": "mk/unintended"
    },
    {
     "word": "universal",
@@ -166,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Common to all.",
      "chinese": "普遍的；全宇宙的；通用的"
-    }
+    },
+    "photo": "mk/universal"
    },
    {
     "word": "unmistakable",
@@ -182,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Clearly recognizable.",
      "chinese": "明確無誤的；顯而易見的"
-    }
+    },
+    "photo": "mk/unmistakable"
    },
    {
     "word": "unobtrusive",
@@ -215,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lacking originality.",
      "chinese": "缺乏創意的；老套的"
-    }
+    },
+    "photo": "mk/unoriginal"
    },
    {
     "word": "unpredictable",
@@ -231,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Difficult to foresee.",
      "chinese": "難以預測的"
-    }
+    },
+    "photo": "mk/unpredictable"
    },
    {
     "word": "uproarious",
@@ -315,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Likely to change.",
      "chinese": "多變的；易變的"
-    }
+    },
+    "photo": "mk/variable"
    }
   ],
   "quiz": [

@@ -68,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Used to emphasize truth.",
      "chinese": "名副其實的；真正的"
-    }
+    },
+    "photo": "mk/veritable"
    },
    {
     "word": "vex",
@@ -101,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The action of keeping careful watch.",
      "chinese": "警覺；警戒"
-    }
+    },
+    "photo": "mk/vigilance"
    },
    {
     "word": "vindicate",
@@ -151,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Urgently necessary.",
      "chinese": "至關重要的"
-    }
+    },
+    "photo": "mk/vital"
    },
    {
     "word": "volatile",
@@ -235,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Found or occurring over a large area.",
      "chinese": "普遍的；廣泛的"
-    }
+    },
+    "photo": "mk/widespread"
    },
    {
     "word": "winsome",
@@ -285,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To remove or retreat.",
      "chinese": "撤回；退出"
-    }
+    },
+    "photo": "mk/withdraw"
    },
    {
     "word": "zealous",

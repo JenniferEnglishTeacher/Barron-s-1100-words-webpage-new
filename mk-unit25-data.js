@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Reacting quickly or positively.",
      "chinese": "回應迅速的；反應靈敏的"
-    }
+    },
+    "photo": "mk/responsive"
    },
    {
     "word": "restless",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To bring back to original condition.",
      "chinese": "恢復；修復"
-    }
+    },
+    "photo": "mk/restore"
    },
    {
     "word": "restrain",
@@ -66,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To hold back or limit.",
      "chinese": "抑制；約束"
-    }
+    },
+    "photo": "mk/restrain"
    },
    {
     "word": "restrained",
@@ -99,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To keep or hold onto.",
      "chinese": "保留；保持"
-    }
+    },
+    "photo": "mk/retain"
    },
    {
     "word": "retaliate",
@@ -115,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To respond to an attack.",
      "chinese": "報復"
-    }
+    },
+    "photo": "mk/retaliate"
    },
    {
     "word": "reticent",
@@ -182,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Exciting or stirring.",
      "chinese": "振奮人心的"
-    }
+    },
+    "photo": "mk/rousing"
    },
    {
     "word": "rudimentary",
@@ -249,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To authorize or approve.",
      "chinese": "批准；認可"
-    }
+    },
+    "photo": "mk/sanction"
    },
    {
     "word": "sanguine",
@@ -265,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Optimistic or hopeful.",
      "chinese": "樂觀的；充滿希望的"
-    }
+    },
+    "photo": "mk/sanguine"
    },
    {
     "word": "saturate",
@@ -281,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To soak or fill completely.",
      "chinese": "浸透；使飽和"
-    }
+    },
+    "photo": "mk/saturate"
    },
    {
     "word": "scorn",
@@ -297,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To look down on with disdain.",
      "chinese": "輕蔑；鄙視"
-    }
+    },
+    "photo": "mk/scorn"
    },
    {
     "word": "scrupulous",

@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Recently discovered or developed.",
      "chinese": "新發現的；新獲得的"
-    }
+    },
+    "photo": "mk/newfound"
    },
    {
     "word": "notional",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Existing only in theory.",
      "chinese": "概念上的；假設的"
-    }
+    },
+    "photo": "mk/notional"
    },
    {
     "word": "novel",
@@ -117,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To compel or require.",
      "chinese": "使負義務；迫使"
-    }
+    },
+    "photo": "mk/obligate"
    },
    {
     "word": "obscure",
@@ -150,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Able to be seen or noticed.",
      "chinese": "可觀察到的"
-    }
+    },
+    "photo": "mk/observable"
    },
    {
     "word": "observant",
@@ -200,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Blocked or hindered.",
      "chinese": "受阻的；被堵塞的"
-    }
+    },
+    "photo": "mk/obstructed"
    },
    {
     "word": "occupy",
@@ -216,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To take up space or time.",
      "chinese": "佔用；佔據"
-    }
+    },
+    "photo": "mk/occupy"
    },
    {
     "word": "oddity",
@@ -232,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Something unusual or strange.",
      "chinese": "怪事；奇特的東西"
-    }
+    },
+    "photo": "mk/oddity"
    },
    {
     "word": "offhand",
@@ -282,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Almighty and all powerful.",
      "chinese": "全能的"
-    }
+    },
+    "photo": "mk/omnipotent"
    },
    {
     "word": "onset",
@@ -298,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The beginning or early stages.",
      "chinese": "開始；發作"
-    }
+    },
+    "photo": "mk/onset"
    },
    {
     "word": "operative",

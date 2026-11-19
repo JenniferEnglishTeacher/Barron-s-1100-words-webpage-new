@@ -34,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "With great effort.",
      "chinese": "竭力地；激烈地"
-    }
+    },
+    "photo": "mk/strenuously"
    },
    {
     "word": "sturdily",
@@ -50,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Strongly or solidly.",
      "chinese": "堅固地；結實地"
-    }
+    },
+    "photo": "mk/sturdily"
    },
    {
     "word": "stymie",
@@ -66,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To hinder or block.",
      "chinese": "阻礙；妨礙"
-    }
+    },
+    "photo": "mk/stymie"
    },
    {
     "word": "subjugate",
@@ -252,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To give up or yield.",
      "chinese": "投降；放棄"
-    }
+    },
+    "photo": "mk/surrender"
    },
    {
     "word": "surreptitious",
@@ -285,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Easily influenced or affected.",
      "chinese": "易受影響的"
-    }
+    },
+    "photo": "mk/susceptible"
    },
    {
     "word": "synchronization",
@@ -301,7 +306,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "The process of coordinating events.",
      "chinese": "同步；同步化"
-    }
+    },
+    "photo": "mk/synchronization"
    },
    {
     "word": "synchronize",

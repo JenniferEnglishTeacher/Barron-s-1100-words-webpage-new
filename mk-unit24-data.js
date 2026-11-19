@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Causing sorrow or disappointment.",
      "chinese": "令人遺憾的"
-    }
+    },
+    "photo": "mk/regrettable"
    },
    {
     "word": "regulate",
@@ -33,7 +34,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To control or manage.",
      "chinese": "規範；管制"
-    }
+    },
+    "photo": "mk/regulate"
    },
    {
     "word": "reject",
@@ -49,7 +51,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To dismiss or refuse to accept.",
      "chinese": "拒絕；駁回"
-    }
+    },
+    "photo": "mk/reject"
    },
    {
     "word": "rejuvenate",
@@ -116,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To move to a new place.",
      "chinese": "搬遷"
-    }
+    },
+    "photo": "mk/relocate"
    },
    {
     "word": "remorse",
@@ -183,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To refill or restore.",
      "chinese": "補充；重新裝滿"
-    }
+    },
+    "photo": "mk/replenish"
    },
    {
     "word": "replicable",
@@ -216,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A person acting on behalf of others.",
      "chinese": "代表"
-    }
+    },
+    "photo": "mk/representative"
    },
    {
     "word": "repress",
@@ -232,7 +238,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To suppress or hold back.",
      "chinese": "壓抑；鎮壓"
-    }
+    },
+    "photo": "mk/repress"
    },
    {
     "word": "reprieve",
@@ -248,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A temporary relief or delay.",
      "chinese": "緩刑；暫緩"
-    }
+    },
+    "photo": "mk/reprieve"
    },
    {
     "word": "repudiate",
@@ -315,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To find a solution.",
      "chinese": "決心；堅定"
-    }
+    },
+    "photo": "mk/resolve"
    }
   ],
   "quiz": [

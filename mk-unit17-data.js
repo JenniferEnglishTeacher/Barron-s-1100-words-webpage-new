@@ -153,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Not having enough of something.",
      "chinese": "缺乏的"
-    }
+    },
+    "photo": "mk/lacking"
    },
    {
     "word": "laconic",

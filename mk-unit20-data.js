@@ -85,7 +85,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To remove or force out of (usu. a position or office).",
      "chinese": "驅逐；罷免"
-    }
+    },
+    "photo": "mk/oust"
    },
    {
     "word": "outstrip",
@@ -101,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To surpass or exceed.",
      "chinese": "超過；勝過；跑過"
-    }
+    },
+    "photo": "mk/outstrip"
    },
    {
     "word": "overcome",
@@ -117,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To succeed in dealing with a problem.",
      "chinese": "克服"
-    }
+    },
+    "photo": "mk/overcome"
    },
    {
     "word": "overlook",
@@ -133,7 +136,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To fail to notice or consider.",
      "chinese": "忽略"
-    }
+    },
+    "photo": "mk/overlook"
    },
    {
     "word": "overreact",
@@ -149,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To respond too strongly.",
      "chinese": "反應過度"
-    }
+    },
+    "photo": "mk/overreact"
    },
    {
     "word": "overshadow",
@@ -165,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To be more important than something else.",
      "chinese": "遮蔽；使相形失色；使黯然失色"
-    }
+    },
+    "photo": "mk/overshadow"
    },
    {
     "word": "overt",
@@ -198,7 +204,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Openly and clearly.",
      "chinese": "公開地；明顯地"
-    }
+    },
+    "photo": "mk/overtly"
    },
    {
     "word": "overwhelmed",
@@ -214,7 +221,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Feeling excessive stress or emotion.",
      "chinese": "不堪重負的；難以承受的"
-    }
+    },
+    "photo": "mk/overwhelmed"
    },
    {
     "word": "palpable",
@@ -247,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Predominant, superior, most important.",
      "chinese": "首要的；至高無上的"
-    }
+    },
+    "photo": "mk/paramount"
    },
    {
     "word": "paucity",
@@ -280,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To become aware of something.",
      "chinese": "察覺；感知；理解"
-    }
+    },
+    "photo": "mk/perceive"
    },
    {
     "word": "peripheral",
@@ -313,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Lasting indefinitely.",
      "chinese": "永久的"
-    }
+    },
+    "photo": "mk/permanent"
    }
   ],
   "quiz": [

@@ -102,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Uncertain or not fully decided.",
      "chinese": "試探性的；暫定的；猶豫的"
-    }
+    },
+    "photo": "mk/tentative"
    },
    {
     "word": "tenuous",
@@ -152,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Based on theory rather than practice.",
      "chinese": "理論上的"
-    }
+    },
+    "photo": "mk/theoretical"
    },
    {
     "word": "theory",
@@ -168,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "A system of ideas intended to explain something.",
      "chinese": "理論"
-    }
+    },
+    "photo": "mk/theory"
    },
    {
     "word": "thoughtfulness",
@@ -184,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Consideration for others.",
      "chinese": "體貼；周到"
-    }
+    },
+    "photo": "mk/thoughtfulness"
    },
    {
     "word": "thwart",
@@ -251,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To change in form or appearance.",
      "chinese": "改變；轉化；改造"
-    }
+    },
+    "photo": "mk/transform"
    },
    {
     "word": "trepidation",

@@ -17,7 +17,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Continuing forever or indefinitely.",
      "chinese": "永久的；不斷的"
-    }
+    },
+    "photo": "mk/perpetual"
    },
    {
     "word": "persevere",
@@ -101,7 +102,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To make widely known.",
      "chinese": "使普及；推廣"
-    }
+    },
+    "photo": "mk/popularize"
    },
    {
     "word": "postulate",
@@ -117,7 +119,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To assume or propose a theory.",
      "chinese": "假定；假設"
-    }
+    },
+    "photo": "mk/postulate"
    },
    {
     "word": "pragmatic",
@@ -150,7 +153,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To express approval or admiration.",
      "chinese": "讚美；稱讚"
-    }
+    },
+    "photo": "mk/praise"
    },
    {
     "word": "precarious",
@@ -166,7 +170,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Uncertain or unstable.",
      "chinese": "不穩定的；岌岌可危的"
-    }
+    },
+    "photo": "mk/precarious"
    },
    {
     "word": "preclude",
@@ -182,7 +187,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To prevent from happening.",
      "chinese": "排除；防止"
-    }
+    },
+    "photo": "mk/preclude"
    },
    {
     "word": "precocious",
@@ -249,7 +255,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Decided in advance.",
      "chinese": "預先決定的"
-    }
+    },
+    "photo": "mk/predetermined"
    },
    {
     "word": "predict",
@@ -265,7 +272,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To say what will happen in the future.",
      "chinese": "預測"
-    }
+    },
+    "photo": "mk/predict"
    },
    {
     "word": "premeditated",
@@ -281,7 +289,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "Planned beforehand.",
      "chinese": "預謀的"
-    }
+    },
+    "photo": "mk/premeditated"
    },
    {
     "word": "prescribe",
@@ -314,7 +323,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To keep something in its original state.",
      "chinese": "保存；維護"
-    }
+    },
+    "photo": "mk/preserve"
    }
   ],
   "quiz": [
