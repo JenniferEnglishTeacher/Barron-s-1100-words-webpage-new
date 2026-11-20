@@ -1,0 +1,9 @@
+{
+  "api": "https://script.google.com/macros/s/AKfycby5nC_pWTXO-siAuT9Q0dDoUQzZ6pMVT8NlmMdDqzr970Hmv6PJ1bxic3zZl4OrSVZ1/exec",
+  "sampleKey": "FXfMd3JK0UE+avKkY2OpgJmQHf61ks3LQXUNK9XS1AM=",
+  "samplePages": ["unit1.html", "unit2.html", "unit3.html", "hot-unit1.html", "hot-unit2.html", "hot-unit3.html"],
+  "sampleImageDirs": ["u01", "u02", "u03", "h01", "h02", "h03"],
+  "sampleLabel": "Barron's Unit 1–3 · Hot Words Lesson 1–3",
+  "plainFiles": ["styles.css"],
+  "plainDirs": ["vendor"]
+}
