@@ -1,0 +1,84 @@
+:root { --ink:#1f2933; --muted:#5b6770; --line:#d9dee3; --bg:#f6f7f9; --card:#fff; --accent:#1d4ed8; --sat:#fff1b8; --sat-line:#d99a00; --ok:#15803d; --ok-bg:#e7f6ec; --bad:#b91c1c; --bad-bg:#fdeaea; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.65 "Segoe UI","Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif; }
+#tk-root { max-width: 860px; margin: 0 auto; padding: 16px 14px 80px; }
+.tk-head h1 { font-size: 1.35rem; line-height: 1.35; margin: 8px 0 4px; }
+.tk-sub { margin: 0; font-weight: 600; }
+.tk-note { margin: 4px 0; color: var(--muted); font-size: .9rem; }
+.tk-src { font-size: .9rem; color: var(--accent); }
+.tk-bar { position: sticky; top: 0; z-index: 5; display:flex; flex-wrap:wrap; gap:8px; align-items:center; background:var(--bg); padding:10px 0; border-bottom:1px solid var(--line); margin-bottom:12px; }
+.tk-stat { font-weight:600; margin-right:auto; font-size:.95rem; }
+.tk-toggle { font-size:.9rem; white-space:nowrap; }
+.tk-btn { display:inline-block; padding:6px 12px; border:1px solid var(--line); border-radius:8px; background:var(--card); color:var(--ink); font:inherit; font-size:.9rem; text-decoration:none; cursor:pointer; }
+.tk-btn:hover { border-color: var(--accent); color: var(--accent); }
+.tk-section { font-size:1.1rem; margin:26px 0 10px; padding-left:10px; border-left:4px solid var(--accent); }
+.tk-group { margin-bottom: 18px; }
+.tk-passage { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 16px; margin-bottom:10px; }
+.tk-passage h3 { margin:4px 0 6px; font-size:1.05rem; }
+.tk-passage p { margin: 0 0 .7em; text-indent: 1.5em; }
+.tk-passage.is-poem p { text-indent:0; margin:0; }
+.tk-passage.is-poem p:last-child { margin-bottom:.7em; }
+.tk-range { text-indent:0 !important; color:var(--muted); font-size:.85rem; margin:0 0 6px; }
+.blank { display:inline-block; text-indent:0; min-width:4.5em; text-align:center; border-bottom:2px solid var(--ink); font-weight:600; padding:0 4px; }
+.blank.is-right { color:var(--ok); border-color:var(--ok); }
+.blank.is-wrong { color:var(--bad); border-color:var(--bad); }
+.tk-q { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin-bottom:10px; scroll-margin-top:70px; }
+.tk-q.is-right { border-color: var(--ok); }
+.tk-q.is-wrong { border-color: var(--bad); }
+.tk-stem { margin:0 0 8px; }
+.tk-num { font-weight:700; }
+.tk-cloze-label { color: var(--muted); }
+.tk-opts { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+.tk-opt { text-align:left; font:inherit; color:inherit; background:#fafbfc; border:1px solid var(--line); border-radius:8px; padding:8px 10px; cursor:pointer; }
+.tk-opts.is-bank { grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); }
+.tk-opts.is-bank .tk-opt { padding:5px 8px; font-size:.92rem; }
+.tk-opt:hover { border-color: var(--accent); }
+.tk-opt[aria-disabled="true"] { cursor: default; }
+.tk-opt[aria-disabled="true"]:hover { border-color: var(--line); }
+.tk-opt.is-answer { background:var(--ok-bg); border-color:var(--ok) !important; }
+.tk-opt.is-picked-wrong { background:var(--bad-bg); border-color:var(--bad) !important; }
+.tk-letter { font-weight:600; }
+.tk-fb { margin:8px 0 0; font-weight:600; font-size:.92rem; }
+.is-right .tk-fb { color: var(--ok); }
+.is-wrong .tk-fb { color: var(--bad); }
+.tk-row { display:flex; gap:8px; margin:0; }
+.tk-empty { color: var(--muted); }
+.sat { background:var(--sat); border-bottom:2px solid var(--sat-line); border-radius:3px; padding:0 2px; cursor:help; }
+.sat:focus { outline:2px solid var(--accent); }
+.sat.gl { background:#e8f1ff; border-bottom:2px dotted #3b6fd8; }
+.tk-tip.is-extra { border-color:#3b6fd8; }
+.no-sat .sat { background:none; border:0; padding:0; cursor:inherit; }
+.tk-tip { position:fixed; z-index:20; width:min(340px, calc(100vw - 16px)); background:#fff; border:1px solid var(--sat-line); border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,.18); padding:10px 12px; font-size:.92rem; line-height:1.5; }
+.tk-tip-head { display:flex; align-items:baseline; gap:8px; }
+.tk-tip-head strong { font-size:1.1rem; }
+.tk-tip-pos { color:var(--muted); font-style:italic; margin-right:auto; }
+.tk-tip p { margin:4px 0; }
+.tk-tip-zh { font-weight:600; }
+.tk-tip-links { display:flex; flex-direction:column; gap:4px; margin-top:6px; }
+.tk-tip-links a { color: var(--accent); }
+.tk-tip-btn { font:inherit; font-size:.85rem; border:1px solid var(--line); background:#fafbfc; border-radius:6px; padding:2px 8px; cursor:pointer; text-align:left; }
+.tk-tip-hint { color:var(--muted); font-size:.78rem; }
+.tk-exam { display:flex; flex-wrap:wrap; gap:6px 10px; align-items:center; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin-bottom:8px; color:inherit; text-decoration:none; }
+.tk-exam:hover { border-color: var(--accent); }
+.tk-tag { background:var(--accent); color:#fff; border-radius:6px; padding:0 8px; font-size:.8rem; }
+.tk-exam-meta { color:var(--muted); font-size:.85rem; width:100%; }
+@media (max-width: 560px) { body { font-size:16px; } .tk-opts { grid-template-columns:1fr; } }
+.tk-tabs { display:flex; gap:6px; margin:4px 0 8px; }
+.tk-tab { flex:1; font:inherit; font-weight:600; padding:10px; border:1px solid var(--line); border-radius:10px; background:var(--card); cursor:pointer; }
+.tk-tab.is-on { background:var(--accent); color:#fff; border-color:var(--accent); }
+/* ---- 申論題頁 ---- */
+.es-top { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:6px; }
+.es-score { color:var(--muted); font-size:.85rem; }
+.es-prompt p { margin:0 0 .6em; }
+.es-prompt h4, .es-body h4 { margin:.8em 0 .3em; font-size:1rem; }
+.es-item details { border-top:1px solid var(--line); margin-top:8px; padding-top:6px; }
+.es-item summary { cursor:pointer; font-weight:600; color:var(--accent); }
+.es-body { padding:6px 2px 2px; }
+.es-model .es-body p { margin:0 0 .8em; }
+.es-points li { margin-bottom:4px; }
+.es-pre { white-space:pre-wrap; font:inherit; background:var(--bg); padding:8px 10px; border-radius:8px; }
+.es-tablewrap { overflow-x:auto; margin:6px 0 10px; }
+.es-table { border-collapse:collapse; width:100%; font-size:.92rem; }
+.es-table th, .es-table td { border:1px solid var(--line); padding:6px 8px; vertical-align:top; text-align:left; }
+.es-table th { background:var(--bg); }
+blockquote { margin:6px 0; padding:4px 12px; border-left:3px solid var(--line); color:var(--muted); }
