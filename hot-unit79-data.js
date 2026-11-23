@@ -219,6 +219,158 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "",
         "added": true,
         "group": "sat-respect"
+      },
+      {
+        "word": "destigmatize",
+        "pos": "v.",
+        "definition": "To remove the shame or negative ideas connected with something.",
+        "chinese": "去污名化",
+        "synonyms": "normalize, accept, de-shame",
+        "image": "shield",
+        "sentence": "The campaign aims to __________ mental illness.",
+        "translation": "這項活動旨在消除對精神疾病的污名。",
+        "lookup": {
+          "english": "To remove the shame or negative ideas connected with something.",
+          "chinese": "去污名化"
+        },
+        "advSentence": "Celebrities who talk openly about therapy help destigmatize it.",
+        "advTranslation": "公開談論心理治療的名人有助於消除其污名。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "emeritus",
+        "pos": "adj.",
+        "definition": "Keeping a title of honor after retiring.",
+        "chinese": "榮譽退休的；名譽的",
+        "synonyms": "retired, honorary, former",
+        "image": "shield",
+        "sentence": "She is a professor __________ of history.",
+        "translation": "她是歷史系的名譽教授。",
+        "lookup": {
+          "english": "Keeping a title of honor after retiring.",
+          "chinese": "榮譽退休的；名譽的"
+        },
+        "advSentence": "The emeritus professor still visits the lab every week.",
+        "advTranslation": "那位榮譽退休教授仍每週到實驗室。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "induct",
+        "pos": "v.",
+        "definition": "To officially admit someone into a position or group.",
+        "chinese": "使正式就職；吸收入會",
+        "synonyms": "admit, install, initiate",
+        "image": "shield",
+        "sentence": "She was __________d into the Hall of Fame.",
+        "translation": "她被選入名人堂。",
+        "lookup": {
+          "english": "To officially admit someone into a position or group.",
+          "chinese": "使正式就職；吸收入會"
+        },
+        "advSentence": "New members will be inducted into the honor society next week.",
+        "advTranslation": "新成員將於下週正式加入榮譽學會。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh"
+        ]
+      },
+      {
+        "word": "regard",
+        "pos": "v./n.",
+        "definition": "To consider; respect.",
+        "chinese": "視為；尊重",
+        "synonyms": "consider, view, respect",
+        "image": "shield",
+        "sentence": "His opinions as __________s the measures taken to address the disaster have been misunderstood.",
+        "translation": "他對於處理這場災難所採取措施的看法被誤解了。",
+        "lookup": {
+          "english": "To consider; respect.",
+          "chinese": "視為；尊重"
+        },
+        "advSentence": "Many people regard the old banyan tree as sacred.",
+        "advTranslation": "許多人把那棵老榕樹視為神聖的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-kinmen-jh",
+          "104-ntpc-jh",
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "respectable",
+        "pos": "adj.",
+        "definition": "Seen as socially acceptable or good.",
+        "chinese": "體面的；值得尊重的",
+        "synonyms": "decent, reputable, honorable",
+        "image": "shield",
+        "sentence": "He comes from a __________ family.",
+        "translation": "他出身於體面的家庭。",
+        "lookup": {
+          "english": "Seen as socially acceptable or good.",
+          "chinese": "體面的；值得尊重的"
+        },
+        "advSentence": "She earned a respectable score on her first try.",
+        "advTranslation": "她第一次嘗試就得到相當不錯的分數。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh",
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "reverent",
+        "pos": "adj.",
+        "definition": "Showing deep respect.",
+        "chinese": "虔敬的；恭敬的",
+        "synonyms": "respectful, worshipful, devout",
+        "image": "shield",
+        "sentence": "They stood in __________ silence.",
+        "translation": "他們肅然起敬地靜默站立。",
+        "lookup": {
+          "english": "Showing deep respect.",
+          "chinese": "虔敬的；恭敬的"
+        },
+        "advSentence": "Visitors walk through the memorial hall with reverent steps.",
+        "advTranslation": "參觀者以恭敬的腳步走過紀念館。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh",
+          "115-hkhs-sh",
+          "115-nhsh115-2-sh"
+        ]
+      },
+      {
+        "word": "salute",
+        "pos": "v.",
+        "definition": "To show respect or praise.",
+        "chinese": "致敬；讚揚",
+        "synonyms": "honor, greet, pay tribute to",
+        "image": "shield",
+        "sentence": "We __________ the volunteers.",
+        "translation": "我們向志工們致敬。",
+        "lookup": {
+          "english": "To show respect or praise.",
+          "chinese": "致敬；讚揚"
+        },
+        "advSentence": "The soldiers saluted the flag as the anthem played.",
+        "advTranslation": "國歌響起時，士兵們向國旗敬禮。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-taipei-jh"
+        ]
       }
     ],
     "group": "sat-respect",
@@ -276,5 +428,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "dignity": [
     "The state or quality of being worthy of honor or respect.",
     "尊嚴；莊嚴"
+  ],
+  "destigmatize": [
+    "To remove the shame or negative ideas connected with something.",
+    "去污名化"
+  ],
+  "emeritus": [
+    "Keeping a title of honor after retiring.",
+    "榮譽退休的；名譽的"
+  ],
+  "induct": [
+    "To officially admit someone into a position or group.",
+    "使正式就職；吸收入會"
+  ],
+  "regard": [
+    "To consider; respect.",
+    "視為；尊重"
+  ],
+  "respectable": [
+    "Seen as socially acceptable or good.",
+    "體面的；值得尊重的"
+  ],
+  "reverent": [
+    "Showing deep respect.",
+    "虔敬的；恭敬的"
+  ],
+  "salute": [
+    "To show respect or praise.",
+    "致敬；讚揚"
   ]
 });

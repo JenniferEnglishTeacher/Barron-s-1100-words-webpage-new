@@ -201,6 +201,179 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這位騎士的俠義行為贏得了整個宮廷的敬佩。",
         "added": true,
         "group": "sat-courage"
+      },
+      {
+        "word": "adventurous",
+        "pos": "adj.",
+        "definition": "Willing to try new or exciting things.",
+        "chinese": "愛冒險的",
+        "synonyms": "daring, bold, venturesome",
+        "image": "shield",
+        "sentence": "My __________ sister has hiked across three continents.",
+        "translation": "我那愛冒險的姊姊已經徒步走過三大洲。",
+        "lookup": {
+          "english": "Willing to try new or exciting things.",
+          "chinese": "愛冒險的"
+        },
+        "advSentence": "Adventurous eaters can try stinky tofu at the night market.",
+        "advTranslation": "敢於嘗鮮的人可以在夜市試試臭豆腐。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "dare",
+        "pos": "v.",
+        "definition": "To be brave enough to do something.",
+        "chinese": "敢於；膽敢",
+        "synonyms": "venture, risk, challenge",
+        "image": "shield",
+        "sentence": "No one __________d to speak.",
+        "translation": "沒有人敢開口。",
+        "lookup": {
+          "english": "To be brave enough to do something.",
+          "chinese": "敢於；膽敢"
+        },
+        "advSentence": "Few students dare to question the professor in class.",
+        "advTranslation": "很少學生敢在課堂上質疑教授。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "dauntlessly",
+        "pos": "adv.",
+        "definition": "Bravely, without fear.",
+        "chinese": "無畏地",
+        "synonyms": "fearlessly, bravely, boldly",
+        "image": "shield",
+        "sentence": "The firefighters __________ entered the burning building.",
+        "translation": "消防員無畏地衝進燃燒的建築。",
+        "lookup": {
+          "english": "Bravely, without fear.",
+          "chinese": "無畏地"
+        },
+        "advSentence": "The young activist spoke dauntlessly before the hostile crowd.",
+        "advTranslation": "這位年輕的運動人士在充滿敵意的群眾面前無畏地發言。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-sh"
+        ]
+      },
+      {
+        "word": "doughty",
+        "pos": "adj.",
+        "definition": "Brave and determined.",
+        "chinese": "勇猛的；堅毅的",
+        "synonyms": "brave, valiant, intrepid",
+        "image": "shield",
+        "sentence": "The __________ explorer crossed the Arctic.",
+        "translation": "這位勇猛的探險家穿越了北極。",
+        "lookup": {
+          "english": "Brave and determined.",
+          "chinese": "勇猛的；堅毅的"
+        },
+        "advSentence": "The doughty grandmother still climbs the mountain behind her village every week.",
+        "advTranslation": "那位堅毅的奶奶仍然每週爬村子後面的山。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh"
+        ]
+      },
+      {
+        "word": "invincible",
+        "pos": "adj.",
+        "definition": "Too strong to be defeated.",
+        "chinese": "無敵的",
+        "synonyms": "unbeatable, invulnerable, indomitable",
+        "image": "shield",
+        "sentence": "Some analysts were saying Netscape had a(n) __________ lead in the browser business, even against Microsoft.",
+        "translation": "一些分析師曾說網景在瀏覽器市場擁有無人能敵的領先地位，甚至對微軟也是如此。",
+        "lookup": {
+          "english": "Too strong to be defeated.",
+          "chinese": "無敵的"
+        },
+        "advSentence": "After ten straight wins, the team began to feel invincible.",
+        "advTranslation": "連贏十場後，這支球隊開始覺得自己天下無敵。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh",
+          "103-ntpc-jh",
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "unabashed",
+        "pos": "adj.",
+        "definition": "Not embarrassed or ashamed.",
+        "chinese": "不害臊的；不掩飾的",
+        "synonyms": "shameless, unashamed, open",
+        "image": "shield",
+        "sentence": "He is an __________ fan of K-pop.",
+        "translation": "他是 K-pop 的忠實粉絲，毫不掩飾。",
+        "lookup": {
+          "english": "Not embarrassed or ashamed.",
+          "chinese": "不害臊的；不掩飾的"
+        },
+        "advSentence": "The singer spoke with unabashed pride about her hometown.",
+        "advTranslation": "那位歌手毫不掩飾地以家鄉為傲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "unabashedly",
+        "pos": "adv.",
+        "definition": "Openly and without embarrassment.",
+        "chinese": "毫不掩飾地",
+        "synonyms": "openly, shamelessly, boldly",
+        "image": "shield",
+        "sentence": "Mike is a very shy and quite staff in this international bank. Yet, it is amazing to observe that he __________ argued with two American customers for their bad debts.",
+        "translation": "Mike 在這家國際銀行是個非常害羞安靜的員工，但令人驚訝的是，他毫不退縮地與兩名美國客戶爭論壞帳問題。",
+        "lookup": {
+          "english": "Openly and without embarrassment.",
+          "chinese": "毫不掩飾地"
+        },
+        "advSentence": "The novel unabashedly celebrates small-town life.",
+        "advTranslation": "這部小說毫不掩飾地頌揚小鎮生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "venture",
+        "pos": "v./n.",
+        "definition": "To go somewhere risky; a risky business project.",
+        "chinese": "冒險；風險事業",
+        "synonyms": "dare, risk, enterprise",
+        "image": "shield",
+        "sentence": "They __________d into the forest.",
+        "translation": "他們冒險進入森林。",
+        "lookup": {
+          "english": "To go somewhere risky; a risky business project.",
+          "chinese": "冒險；風險事業"
+        },
+        "advSentence": "Few tourists venture beyond the main streets of the old city.",
+        "advTranslation": "很少遊客會冒險走出舊城區的主要街道。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "105-ntpc-jh"
+        ]
       }
     ],
     "group": "sat-courage",
@@ -254,5 +427,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "chivalrous": [
     "Attentive and honorable like an ideal knight.",
     "騎士風度的/俠義的"
+  ],
+  "adventurous": [
+    "Willing to try new or exciting things.",
+    "愛冒險的"
+  ],
+  "dare": [
+    "To be brave enough to do something.",
+    "敢於；膽敢"
+  ],
+  "dauntlessly": [
+    "Bravely, without fear.",
+    "無畏地"
+  ],
+  "doughty": [
+    "Brave and determined.",
+    "勇猛的；堅毅的"
+  ],
+  "invincible": [
+    "Too strong to be defeated.",
+    "無敵的"
+  ],
+  "unabashed": [
+    "Not embarrassed or ashamed.",
+    "不害臊的；不掩飾的"
+  ],
+  "unabashedly": [
+    "Openly and without embarrassment.",
+    "毫不掩飾地"
+  ],
+  "venture": [
+    "To go somewhere risky; a risky business project.",
+    "冒險；風險事業"
   ]
 });

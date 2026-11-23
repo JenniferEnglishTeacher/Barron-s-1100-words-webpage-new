@@ -237,6 +237,260 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她對難民的同理心促使她到收容所擔任志工。",
         "added": true,
         "group": "sat-kind"
+      },
+      {
+        "word": "affection",
+        "pos": "n.",
+        "definition": "A feeling of liking and caring for someone.",
+        "chinese": "喜愛；感情",
+        "synonyms": "fondness, warmth, tenderness",
+        "image": "shield",
+        "sentence": "The grandmother hugged the child with deep __________.",
+        "translation": "奶奶滿懷疼愛地擁抱孩子。",
+        "lookup": {
+          "english": "A feeling of liking and caring for someone.",
+          "chinese": "喜愛；感情"
+        },
+        "advSentence": "The villagers speak of their old teacher with great affection.",
+        "advTranslation": "村民們談起他們的老師時充滿感情。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "empathetic",
+        "pos": "adj.",
+        "definition": "Able to understand how others feel.",
+        "chinese": "有同理心的",
+        "synonyms": "compassionate, understanding, sensitive",
+        "image": "shield",
+        "sentence": "An __________ teacher notices when students are upset.",
+        "translation": "有同理心的老師會注意到學生心情不好。",
+        "lookup": {
+          "english": "Able to understand how others feel.",
+          "chinese": "有同理心的"
+        },
+        "advSentence": "Doctors who are empathetic listeners earn their patients' trust.",
+        "advTranslation": "願意同理傾聽的醫生能贏得病人的信任。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "empathize",
+        "pos": "v.",
+        "definition": "To understand and share another person's feelings.",
+        "chinese": "同理；感同身受",
+        "synonyms": "sympathize, identify, relate",
+        "image": "shield",
+        "sentence": "It is easy to __________ with the hero.",
+        "translation": "讀者很容易對主角感同身受。",
+        "lookup": {
+          "english": "To understand and share another person's feelings.",
+          "chinese": "同理；感同身受"
+        },
+        "advSentence": "Volunteers who have lost a parent can empathize with grieving children.",
+        "advTranslation": "失去過父母的志工能體會喪親孩子的感受。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "endearing",
+        "pos": "adj.",
+        "definition": "Making people feel love or affection.",
+        "chinese": "討人喜愛的；惹人憐愛的",
+        "synonyms": "charming, lovable, appealing",
+        "image": "shield",
+        "sentence": "The puppy has an __________ habit of tilting its head.",
+        "translation": "那隻小狗有個討人喜愛的歪頭習慣。",
+        "lookup": {
+          "english": "Making people feel love or affection.",
+          "chinese": "討人喜愛的；惹人憐愛的"
+        },
+        "advSentence": "His clumsy but sincere speech was strangely endearing.",
+        "advTranslation": "他笨拙卻真誠的演講意外地討人喜愛。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ncu-sh"
+        ]
+      },
+      {
+        "word": "humanity",
+        "pos": "n.",
+        "definition": "All people; kindness.",
+        "chinese": "人類；人性",
+        "synonyms": "mankind, kindness, compassion",
+        "image": "shield",
+        "sentence": "Doctors treated the wounded with __________.",
+        "translation": "醫生以人道精神治療傷者。",
+        "lookup": {
+          "english": "All people; kindness.",
+          "chinese": "人類；人性"
+        },
+        "advSentence": "Climate change is one of the greatest challenges facing humanity.",
+        "advTranslation": "氣候變遷是人類面臨的最大挑戰之一。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "lenience",
+        "pos": "n.",
+        "definition": "The quality of being less strict in punishing.",
+        "chinese": "寬大；寬容",
+        "synonyms": "mercy, tolerance, mildness",
+        "image": "shield",
+        "sentence": "The judge showed __________ to the young offender.",
+        "translation": "法官對那名年輕的罪犯從寬處理。",
+        "lookup": {
+          "english": "The quality of being less strict in punishing.",
+          "chinese": "寬大；寬容"
+        },
+        "advSentence": "Some parents worry that too much lenience leads to poor discipline.",
+        "advTranslation": "有些家長擔心過度寬容會導致孩子缺乏紀律。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "maternal",
+        "pos": "adj.",
+        "definition": "Relating to a mother or typical of a mother.",
+        "chinese": "母親的；母性的",
+        "synonyms": "motherly, protective, nurturing",
+        "image": "shield",
+        "sentence": "Her __________ instincts were strong.",
+        "translation": "她的母性本能很強。",
+        "lookup": {
+          "english": "Relating to a mother or typical of a mother.",
+          "chinese": "母親的；母性的"
+        },
+        "advSentence": "The baby elephant stayed close to its maternal herd.",
+        "advTranslation": "小象緊跟在母系象群旁邊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ncu-sh"
+        ]
+      },
+      {
+        "word": "mercy",
+        "pos": "n.",
+        "definition": "Kindness to someone you could punish.",
+        "chinese": "仁慈；寬恕",
+        "synonyms": "compassion, pity, leniency",
+        "image": "shield",
+        "sentence": "The king showed __________ to the prisoners.",
+        "translation": "國王饒恕了囚犯。",
+        "lookup": {
+          "english": "Kindness to someone you could punish.",
+          "chinese": "仁慈；寬恕"
+        },
+        "advSentence": "The sailors were at the mercy of the storm for three days.",
+        "advTranslation": "水手們在暴風雨中聽天由命了三天。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "sympathetic",
+        "pos": "adj.",
+        "definition": "Showing that you understand and care.",
+        "chinese": "同情的；有同感的",
+        "synonyms": "compassionate, understanding, caring",
+        "image": "shield",
+        "sentence": "She was __________ to my problem.",
+        "translation": "她很同情我的問題。",
+        "lookup": {
+          "english": "Showing that you understand and care.",
+          "chinese": "同情的；有同感的"
+        },
+        "advSentence": "The manager was sympathetic to the workers' request for flexible hours.",
+        "advTranslation": "經理對員工彈性工時的要求表示支持。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-ntpc-sh"
+        ]
+      },
+      {
+        "word": "sympathize",
+        "pos": "v.",
+        "definition": "To feel or show understanding of someone's problems.",
+        "chinese": "同情；體諒",
+        "synonyms": "empathize, feel for, understand",
+        "image": "shield",
+        "sentence": "I __________ with your situation.",
+        "translation": "我能體諒你的處境。",
+        "lookup": {
+          "english": "To feel or show understanding of someone's problems.",
+          "chinese": "同情；體諒"
+        },
+        "advSentence": "Many citizens sympathize with the farmers' protest.",
+        "advTranslation": "許多市民同情農民的抗議。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "unconditional",
+        "pos": "adj.",
+        "definition": "Complete and not limited by any conditions.",
+        "chinese": "無條件的",
+        "synonyms": "total, unlimited, absolute",
+        "image": "shield",
+        "sentence": "A mother's love is __________.",
+        "translation": "母親的愛是無條件的。",
+        "lookup": {
+          "english": "Complete and not limited by any conditions.",
+          "chinese": "無條件的"
+        },
+        "advSentence": "The rebels demanded the unconditional release of all prisoners.",
+        "advTranslation": "叛軍要求無條件釋放所有囚犯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "unconditionally",
+        "pos": "adv.",
+        "definition": "Without any conditions.",
+        "chinese": "無條件地",
+        "synonyms": "completely, absolutely, wholeheartedly",
+        "image": "shield",
+        "sentence": "She supports her children __________.",
+        "translation": "她無條件地支持她的孩子。",
+        "lookup": {
+          "english": "Without any conditions.",
+          "chinese": "無條件地"
+        },
+        "advSentence": "Dogs seem to love their owners unconditionally.",
+        "advTranslation": "狗似乎無條件地愛著牠們的主人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
       }
     ],
     "group": "sat-kind",
@@ -298,5 +552,53 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "empathy": [
     "Sensitivity to another's feelings as if they were one's own.",
     "同理心"
+  ],
+  "affection": [
+    "A feeling of liking and caring for someone.",
+    "喜愛；感情"
+  ],
+  "empathetic": [
+    "Able to understand how others feel.",
+    "有同理心的"
+  ],
+  "empathize": [
+    "To understand and share another person's feelings.",
+    "同理；感同身受"
+  ],
+  "endearing": [
+    "Making people feel love or affection.",
+    "討人喜愛的；惹人憐愛的"
+  ],
+  "humanity": [
+    "All people; kindness.",
+    "人類；人性"
+  ],
+  "lenience": [
+    "The quality of being less strict in punishing.",
+    "寬大；寬容"
+  ],
+  "maternal": [
+    "Relating to a mother or typical of a mother.",
+    "母親的；母性的"
+  ],
+  "mercy": [
+    "Kindness to someone you could punish.",
+    "仁慈；寬恕"
+  ],
+  "sympathetic": [
+    "Showing that you understand and care.",
+    "同情的；有同感的"
+  ],
+  "sympathize": [
+    "To feel or show understanding of someone's problems.",
+    "同情；體諒"
+  ],
+  "unconditional": [
+    "Complete and not limited by any conditions.",
+    "無條件的"
+  ],
+  "unconditionally": [
+    "Without any conditions.",
+    "無條件地"
   ]
 });

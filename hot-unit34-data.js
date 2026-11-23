@@ -147,6 +147,308 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Progress on the new bridge was glacial: sluggish bureaucrats, contentious lawsuits filed by neighboring towns, and a myriad of permit delays left the project stagnant for nearly a decade, until frustrated commuters finally organized protests demanding immediate action.",
         "advTranslation": "新橋的工程進度極其緩慢：拖拖拉拉的官僚、鄰近城鎮提起的爭議訴訟，以及無數的許可延宕，讓計畫停滯了將近十年，直到不滿的通勤族終於組織抗議，要求立即採取行動。"
+      },
+      {
+        "word": "anecdotal",
+        "pos": "adj.",
+        "definition": "Based on personal stories rather than scientific evidence.",
+        "chinese": "傳聞的；軼事的（非實證的）",
+        "synonyms": "unscientific, unverified, informal",
+        "image": "shield",
+        "sentence": "Her research findings were heavily criticized by peers because they were based entirely on __________ observations rather than a robust, statistically significant sample size.",
+        "translation": "她的研究結果遭同儕嚴厲批評，因為完全是根據軼事性的觀察，而非穩健、具統計顯著性的樣本。",
+        "lookup": {
+          "english": "Based on personal stories rather than scientific evidence.",
+          "chinese": "傳聞的；軼事的（非實證的）"
+        },
+        "advSentence": "Anecdotal stories about miracle cures are no substitute for scientific evidence.",
+        "advTranslation": "關於神奇療法的傳聞故事無法取代科學證據。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-mtsh-sh"
+        ]
+      },
+      {
+        "word": "characteristic",
+        "pos": "n.",
+        "definition": "A typical quality or feature.",
+        "chinese": "特徵；特色",
+        "synonyms": "trait, feature, attribute",
+        "image": "shield",
+        "sentence": "Curiosity is a __________ of good scientists.",
+        "translation": "好奇心是優秀科學家的特質。",
+        "lookup": {
+          "english": "A typical quality or feature.",
+          "chinese": "特徵；特色"
+        },
+        "advSentence": "Red lanterns are a characteristic feature of the old street.",
+        "advTranslation": "紅燈籠是這條老街的特色。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nycu-sh"
+        ]
+      },
+      {
+        "word": "cite",
+        "pos": "v.",
+        "definition": "To mention as an example or proof.",
+        "chinese": "引用；舉出",
+        "synonyms": "quote, mention, refer to",
+        "image": "shield",
+        "sentence": "She __________d three studies to support her point.",
+        "translation": "她引用了三項研究來支持她的論點。",
+        "lookup": {
+          "english": "To mention as an example or proof.",
+          "chinese": "引用；舉出"
+        },
+        "advSentence": "The judge cited an earlier case to justify the ruling.",
+        "advTranslation": "法官引用先前的案例來證明判決的正當性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "diversify",
+        "pos": "v.",
+        "definition": "To make or become more varied.",
+        "chinese": "使多樣化；分散（投資等）",
+        "synonyms": "vary, broaden, expand",
+        "image": "shield",
+        "sentence": "Farmers began to __________ their crops after the drought.",
+        "translation": "農夫們讓作物多樣化。",
+        "lookup": {
+          "english": "To make or become more varied.",
+          "chinese": "使多樣化；分散（投資等）"
+        },
+        "advSentence": "Taiwan hopes to diversify its energy sources by investing in wind and solar power.",
+        "advTranslation": "臺灣希望透過投資風力與太陽能，使能源來源多樣化。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh",
+          "115-nhvs-vs"
+        ]
+      },
+      {
+        "word": "hallmark",
+        "pos": "n.",
+        "definition": "A typical feature that clearly identifies something.",
+        "chinese": "特徵；標誌",
+        "synonyms": "feature, characteristic, trademark",
+        "image": "shield",
+        "sentence": "Attention to detail is the __________ of her work.",
+        "translation": "注重細節是她作品的特點。",
+        "lookup": {
+          "english": "A typical feature that clearly identifies something.",
+          "chinese": "特徵；標誌"
+        },
+        "advSentence": "Clear, concise writing is the hallmark of a good scientific report.",
+        "advTranslation": "清楚簡潔的文字是優秀科學報告的特徵。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tlsh-sh"
+        ]
+      },
+      {
+        "word": "invoke",
+        "pos": "v.",
+        "definition": "To use a law or idea as a reason; to call on for help.",
+        "chinese": "援引；祈求",
+        "synonyms": "cite, call upon, appeal to",
+        "image": "shield",
+        "sentence": "He __________d the law to defend himself.",
+        "translation": "他援引法律為自己辯護。",
+        "lookup": {
+          "english": "To use a law or idea as a reason; to call on for help.",
+          "chinese": "援引；祈求"
+        },
+        "advSentence": "Politicians often invoke national pride to win support for unpopular policies.",
+        "advTranslation": "政治人物常訴諸民族自尊，為不受歡迎的政策爭取支持。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "justification",
+        "pos": "n.",
+        "definition": "A good reason for doing something.",
+        "chinese": "正當理由；辯護",
+        "synonyms": "reason, grounds, defense",
+        "image": "shield",
+        "sentence": "There is no __________ for violence.",
+        "translation": "暴力沒有正當理由。",
+        "lookup": {
+          "english": "A good reason for doing something.",
+          "chinese": "正當理由；辯護"
+        },
+        "advSentence": "The manager offered no justification for cutting the budget.",
+        "advTranslation": "經理沒有為刪減預算提出任何正當理由。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "justify",
+        "pos": "v.",
+        "definition": "To show a good reason for.",
+        "chinese": "證明…有理",
+        "synonyms": "defend, warrant, explain",
+        "image": "shield",
+        "sentence": "How can you __________ the cost?",
+        "translation": "你要怎麼證明這筆花費是合理的？",
+        "lookup": {
+          "english": "To show a good reason for.",
+          "chinese": "證明…有理"
+        },
+        "advSentence": "Students must justify their answers with evidence from the text.",
+        "advTranslation": "學生必須用文本中的證據來佐證自己的答案。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh",
+          "107-taipei-jh",
+          "115-nhvs-vs",
+          "115-sksc-vs"
+        ]
+      },
+      {
+        "word": "kaleidoscopic",
+        "pos": "adj.",
+        "definition": "Constantly changing in pattern or color.",
+        "chinese": "千變萬化的；五彩繽紛的",
+        "synonyms": "multicolored, ever-changing, varied",
+        "image": "shield",
+        "sentence": "The market was a __________ mix of sights and sounds.",
+        "translation": "市場裡的景象與聲音五彩繽紛、千變萬化。",
+        "lookup": {
+          "english": "Constantly changing in pattern or color.",
+          "chinese": "千變萬化的；五彩繽紛的"
+        },
+        "advSentence": "The festival offered a kaleidoscopic display of costumes, music, and food.",
+        "advTranslation": "這個節慶呈現了服裝、音樂與美食交織的繽紛景象。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh",
+          "108-kh-sh"
+        ]
+      },
+      {
+        "word": "proposition",
+        "pos": "n.",
+        "definition": "A statement or idea; an offer.",
+        "chinese": "主張；提議",
+        "synonyms": "statement, proposal, offer",
+        "image": "shield",
+        "sentence": "That's an interesting __________.",
+        "translation": "這是個有趣的提議。",
+        "lookup": {
+          "english": "A statement or idea; an offer.",
+          "chinese": "主張；提議"
+        },
+        "advSentence": "Building a new airport is an expensive proposition for a small island.",
+        "advTranslation": "對小島而言，興建新機場是一項昂貴的提案。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "signature",
+        "pos": "n.",
+        "definition": "Your name written by you; a typical feature.",
+        "chinese": "簽名；招牌特色",
+        "synonyms": "autograph, hallmark, trademark",
+        "image": "shield",
+        "sentence": "Spicy beef noodles are the restaurant's __________ dish.",
+        "translation": "麻辣牛肉麵是這家餐廳的招牌菜。",
+        "lookup": {
+          "english": "Your name written by you; a typical feature.",
+          "chinese": "簽名；招牌特色"
+        },
+        "advSentence": "Please add your signature at the bottom of the consent form.",
+        "advTranslation": "請在同意書底部簽名。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-moe-sh",
+          "115-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "streak",
+        "pos": "n.",
+        "definition": "A thin line of color; a series of similar events.",
+        "chinese": "條紋；一連串",
+        "synonyms": "stripe, run, trait",
+        "image": "shield",
+        "sentence": "She has a stubborn __________.",
+        "translation": "她有一股倔強的個性。",
+        "lookup": {
+          "english": "A thin line of color; a series of similar events.",
+          "chinese": "條紋；一連串"
+        },
+        "advSentence": "The team's winning streak ended after twelve straight victories.",
+        "advTranslation": "這支球隊在十二連勝後結束了連勝紀錄。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "testament",
+        "pos": "n.",
+        "definition": "Proof of something; a will.",
+        "chinese": "證明；遺囑",
+        "synonyms": "proof, evidence, tribute",
+        "image": "shield",
+        "sentence": "The building is a __________ to his skill.",
+        "translation": "這棟建築證明了他的技藝。",
+        "lookup": {
+          "english": "Proof of something; a will.",
+          "chinese": "證明；遺囑"
+        },
+        "advSentence": "The thriving garden is a testament to her patience and care.",
+        "advTranslation": "這座繁茂的花園證明了她的耐心與用心。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
+      },
+      {
+        "word": "variation",
+        "pos": "n.",
+        "definition": "Changes or differences in amount or form.",
+        "chinese": "變化；變異",
+        "synonyms": "differences, changes, versions",
+        "image": "shield",
+        "sentence": "There are regional __________s in accent.",
+        "translation": "腔調有地區上的差異。",
+        "lookup": {
+          "english": "Changes or differences in amount or form.",
+          "chinese": "變化；變異"
+        },
+        "advSentence": "Small variations in temperature can affect the growth of tea plants.",
+        "advTranslation": "溫度的微小變化就可能影響茶樹的生長。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
       }
     ],
     "quiz": [
@@ -408,5 +710,61 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "glacial": [
     "Extremely slow, like a glacier; also icy cold.",
     "極緩慢的；冰冷的；冰河的"
+  ],
+  "anecdotal": [
+    "Based on personal stories rather than scientific evidence.",
+    "傳聞的；軼事的（非實證的）"
+  ],
+  "characteristic": [
+    "A typical quality or feature.",
+    "特徵；特色"
+  ],
+  "cite": [
+    "To mention as an example or proof.",
+    "引用；舉出"
+  ],
+  "diversify": [
+    "To make or become more varied.",
+    "使多樣化；分散（投資等）"
+  ],
+  "hallmark": [
+    "A typical feature that clearly identifies something.",
+    "特徵；標誌"
+  ],
+  "invoke": [
+    "To use a law or idea as a reason; to call on for help.",
+    "援引；祈求"
+  ],
+  "justification": [
+    "A good reason for doing something.",
+    "正當理由；辯護"
+  ],
+  "justify": [
+    "To show a good reason for.",
+    "證明…有理"
+  ],
+  "kaleidoscopic": [
+    "Constantly changing in pattern or color.",
+    "千變萬化的；五彩繽紛的"
+  ],
+  "proposition": [
+    "A statement or idea; an offer.",
+    "主張；提議"
+  ],
+  "signature": [
+    "Your name written by you; a typical feature.",
+    "簽名；招牌特色"
+  ],
+  "streak": [
+    "A thin line of color; a series of similar events.",
+    "條紋；一連串"
+  ],
+  "testament": [
+    "Proof of something; a will.",
+    "證明；遺囑"
+  ],
+  "variation": [
+    "Changes or differences in amount or form.",
+    "變化；變異"
   ]
 });

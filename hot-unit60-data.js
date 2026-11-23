@@ -327,6 +327,352 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座城市長期面臨可負擔住房短缺的問題。",
         "added": true,
         "group": "sat-permanent"
+      },
+      {
+        "word": "consistency",
+        "pos": "n.",
+        "definition": "Always behaving or happening in the same way; thickness.",
+        "chinese": "一致性；稠度",
+        "synonyms": "uniformity, reliability, steadiness",
+        "image": "shield",
+        "sentence": "__________ is the key to learning a language.",
+        "translation": "一致性是學好語言的關鍵。",
+        "lookup": {
+          "english": "Always behaving or happening in the same way; thickness.",
+          "chinese": "一致性；稠度"
+        },
+        "advSentence": "Stir the sauce until it reaches a smooth consistency.",
+        "advTranslation": "攪拌醬汁直到質地變得滑順。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "cradle-to-grave",
+        "pos": "adj.",
+        "definition": "Lasting through a person's whole life.",
+        "chinese": "從生到死的；終身的",
+        "synonyms": "lifelong, lifetime, comprehensive",
+        "image": "shield",
+        "sentence": "Some countries provide __________ welfare.",
+        "translation": "有些國家提供從出生到死亡的終身福利。",
+        "lookup": {
+          "english": "Lasting through a person's whole life.",
+          "chinese": "從生到死的；終身的"
+        },
+        "advSentence": "Scandinavian countries are known for their cradle-to-grave social safety nets.",
+        "advTranslation": "北歐國家以從生到死的社會安全網聞名。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "durability",
+        "pos": "n.",
+        "definition": "The ability to last a long time without breaking.",
+        "chinese": "耐久性",
+        "synonyms": "sturdiness, toughness, longevity",
+        "image": "shield",
+        "sentence": "Other desirable qualities of concrete, the only building material that can be delivered to the job site in a pliable state, include its strength, economy, and __________.",
+        "translation": "混凝土是唯一能以可塑狀態運到工地的建材，它的其他理想特性包括強度、經濟性與耐久性。",
+        "lookup": {
+          "english": "The ability to last a long time without breaking.",
+          "chinese": "耐久性"
+        },
+        "advSentence": "Hikers choose these boots for their durability on rough trails.",
+        "advTranslation": "登山客選擇這雙靴子是因為它在崎嶇山路上很耐用。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh"
+        ]
+      },
+      {
+        "word": "entrench",
+        "pos": "v.",
+        "definition": "To fix an idea, habit, or system so firmly that it is hard to change.",
+        "chinese": "使根深柢固；確立",
+        "synonyms": "establish, fix, root",
+        "image": "shield",
+        "sentence": "Bad habits become __________d over time.",
+        "translation": "壞習慣會隨時間根深柢固。",
+        "lookup": {
+          "english": "To fix an idea, habit, or system so firmly that it is hard to change.",
+          "chinese": "使根深柢固；確立"
+        },
+        "advSentence": "The old elite worked to entrench their power for generations.",
+        "advTranslation": "舊權貴努力鞏固他們的權力，世代相傳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcsh-sh",
+          "115-hsnu-2-sh"
+        ]
+      },
+      {
+        "word": "etch",
+        "pos": "v.",
+        "definition": "To cut lines or a design into a surface; to fix firmly in the mind.",
+        "chinese": "蝕刻；銘刻",
+        "synonyms": "engrave, imprint, inscribe",
+        "image": "shield",
+        "sentence": "The moment was __________d in her memory forever.",
+        "translation": "那天的情景永遠刻印在她的記憶中。",
+        "lookup": {
+          "english": "To cut lines or a design into a surface; to fix firmly in the mind.",
+          "chinese": "蝕刻；銘刻"
+        },
+        "advSentence": "Artists etch delicate patterns into the glass with acid.",
+        "advTranslation": "藝術家用酸在玻璃上蝕刻出精緻的圖案。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh",
+          "115-lssh-2-sh"
+        ]
+      },
+      {
+        "word": "eternity",
+        "pos": "n.",
+        "definition": "Time without end.",
+        "chinese": "永恆",
+        "synonyms": "forever, infinity, perpetuity",
+        "image": "shield",
+        "sentence": "The wait seemed like an __________.",
+        "translation": "等待感覺像永遠那麼長。",
+        "lookup": {
+          "english": "Time without end.",
+          "chinese": "永恆"
+        },
+        "advSentence": "The ancient Egyptians built pyramids to last for eternity.",
+        "advTranslation": "古埃及人建造金字塔，希望能永垂不朽。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh",
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "immortal",
+        "pos": "adj.",
+        "definition": "Living or lasting forever.",
+        "chinese": "不朽的；永生的",
+        "synonyms": "undying, eternal, everlasting",
+        "image": "shield",
+        "sentence": "Shakespeare's works are __________.",
+        "translation": "莎士比亞的作品是不朽的。",
+        "lookup": {
+          "english": "Living or lasting forever.",
+          "chinese": "不朽的；永生的"
+        },
+        "advSentence": "In the legend, the hero drank a potion that made him immortal.",
+        "advTranslation": "傳說中，英雄喝下一瓶讓他長生不死的藥水。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh",
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "invariant",
+        "pos": "adj.",
+        "definition": "Never changing.",
+        "chinese": "不變的；恆定的",
+        "synonyms": "constant, unchanging, fixed",
+        "image": "shield",
+        "sentence": "The speed of light is __________.",
+        "translation": "光速是恆定不變的。",
+        "lookup": {
+          "english": "Never changing.",
+          "chinese": "不變的；恆定的"
+        },
+        "advSentence": "The ritual follows an invariant order that has not changed for centuries.",
+        "advTranslation": "這個儀式遵循一套數百年來從未改變的順序。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-mtsh-sh"
+        ]
+      },
+      {
+        "word": "irreversible",
+        "pos": "adj.",
+        "definition": "Impossible to change back.",
+        "chinese": "不可逆的",
+        "synonyms": "permanent, irrevocable, unalterable",
+        "image": "shield",
+        "sentence": "As negotiations now advance in the Trump-Kim summit, there is only one acceptable final outcome: complete, verifiable, __________ denuclearization.",
+        "translation": "隨著川金會談判推進，唯一可接受的最終結果就是：完全、可驗證、不可逆的去核化。",
+        "lookup": {
+          "english": "Impossible to change back.",
+          "chinese": "不可逆的"
+        },
+        "advSentence": "Some damage to coral reefs may be irreversible.",
+        "advTranslation": "珊瑚礁的某些損害可能是無法挽回的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh",
+          "104-cyc-jh",
+          "107-cr-jh"
+        ]
+      },
+      {
+        "word": "long-lasting",
+        "pos": "adj.",
+        "definition": "Continuing for a long time.",
+        "chinese": "持久的",
+        "synonyms": "durable, enduring, lasting",
+        "image": "shield",
+        "sentence": "The drug has __________ effects.",
+        "translation": "這種藥的藥效持久。",
+        "lookup": {
+          "english": "Continuing for a long time.",
+          "chinese": "持久的"
+        },
+        "advSentence": "The trip left a long-lasting impression on the students.",
+        "advTranslation": "這趟旅程讓學生留下了深刻持久的印象。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "self-perpetuating",
+        "pos": "adj.",
+        "definition": "Able to continue or renew itself without outside help.",
+        "chinese": "自我延續的；自行持續下去的",
+        "synonyms": "self-sustaining, continuous, cyclical",
+        "image": "shield",
+        "sentence": "It is generally acknowledged that the system of bureaucracy has become a __________ machine.",
+        "translation": "一般公認官僚體系已成了一部自我延續的機器。",
+        "lookup": {
+          "english": "Able to continue or renew itself without outside help.",
+          "chinese": "自我延續的；自行持續下去的"
+        },
+        "advSentence": "Poverty can become a self-perpetuating cycle across generations.",
+        "advTranslation": "貧窮可能成為跨世代自我延續的循環。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "stability",
+        "pos": "n.",
+        "definition": "The state of being steady and not changing.",
+        "chinese": "穩定（性）",
+        "synonyms": "steadiness, security, balance",
+        "image": "shield",
+        "sentence": "Children need __________ at home.",
+        "translation": "孩子需要穩定的家庭環境。",
+        "lookup": {
+          "english": "The state of being steady and not changing.",
+          "chinese": "穩定（性）"
+        },
+        "advSentence": "Investors look for political stability before putting money into a country.",
+        "advTranslation": "投資人在投資一個國家之前，會先看它的政治穩定性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "stabilization",
+        "pos": "n.",
+        "definition": "Making something steady.",
+        "chinese": "穩定化",
+        "synonyms": "steadying, balancing, normalization",
+        "image": "shield",
+        "sentence": "Price __________ is a government goal.",
+        "translation": "物價穩定是政府的目標。",
+        "lookup": {
+          "english": "Making something steady.",
+          "chinese": "穩定化"
+        },
+        "advSentence": "The doctors focused on the stabilization of the patient's breathing.",
+        "advTranslation": "醫生們專注於穩定病人的呼吸。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nehs-cy-sh"
+        ]
+      },
+      {
+        "word": "stabilize",
+        "pos": "v.",
+        "definition": "To make or become steady.",
+        "chinese": "使穩定",
+        "synonyms": "steady, balance, secure",
+        "image": "shield",
+        "sentence": "The patient's condition has __________d.",
+        "translation": "病人的狀況已經穩定。",
+        "lookup": {
+          "english": "To make or become steady.",
+          "chinese": "使穩定"
+        },
+        "advSentence": "The central bank raised interest rates to stabilize the currency.",
+        "advTranslation": "中央銀行調升利率以穩定貨幣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh",
+          "115-lssh-1-sh",
+          "115-sksc-vs",
+          "115-slhs-sh"
+        ]
+      },
+      {
+        "word": "unceasing",
+        "pos": "adj.",
+        "definition": "Never stopping.",
+        "chinese": "不停的；持續的",
+        "synonyms": "constant, continuous, endless",
+        "image": "shield",
+        "sentence": "The __________ rain flooded the roads.",
+        "translation": "連綿不斷的雨淹沒了道路。",
+        "lookup": {
+          "english": "Never stopping.",
+          "chinese": "不停的；持續的"
+        },
+        "advSentence": "The nurses worked with unceasing devotion during the epidemic.",
+        "advTranslation": "疫情期間，護理師們以永不停歇的奉獻精神工作。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh"
+        ]
+      },
+      {
+        "word": "uninterrupted",
+        "pos": "adj.",
+        "definition": "Continuous, without being stopped.",
+        "chinese": "不間斷的",
+        "synonyms": "continuous, unbroken, nonstop",
+        "image": "shield",
+        "sentence": "I need an hour of __________ work.",
+        "translation": "我需要一個小時不被打擾地工作。",
+        "lookup": {
+          "english": "Continuous, without being stopped.",
+          "chinese": "不間斷的"
+        },
+        "advSentence": "The train offers uninterrupted views of the coastline.",
+        "advTranslation": "這班火車沿途能一覽無遺地欣賞海岸線。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh"
+        ]
       }
     ],
     "group": "sat-permanent",
@@ -408,5 +754,69 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "chronic": [
     "Persisting for a long time or constantly recurring.",
     "慢性的;長期的"
+  ],
+  "consistency": [
+    "Always behaving or happening in the same way; thickness.",
+    "一致性；稠度"
+  ],
+  "cradle-to-grave": [
+    "Lasting through a person's whole life.",
+    "從生到死的；終身的"
+  ],
+  "durability": [
+    "The ability to last a long time without breaking.",
+    "耐久性"
+  ],
+  "entrench": [
+    "To fix an idea, habit, or system so firmly that it is hard to change.",
+    "使根深柢固；確立"
+  ],
+  "etch": [
+    "To cut lines or a design into a surface; to fix firmly in the mind.",
+    "蝕刻；銘刻"
+  ],
+  "eternity": [
+    "Time without end.",
+    "永恆"
+  ],
+  "immortal": [
+    "Living or lasting forever.",
+    "不朽的；永生的"
+  ],
+  "invariant": [
+    "Never changing.",
+    "不變的；恆定的"
+  ],
+  "irreversible": [
+    "Impossible to change back.",
+    "不可逆的"
+  ],
+  "long-lasting": [
+    "Continuing for a long time.",
+    "持久的"
+  ],
+  "self-perpetuating": [
+    "Able to continue or renew itself without outside help.",
+    "自我延續的；自行持續下去的"
+  ],
+  "stability": [
+    "The state of being steady and not changing.",
+    "穩定（性）"
+  ],
+  "stabilization": [
+    "Making something steady.",
+    "穩定化"
+  ],
+  "stabilize": [
+    "To make or become steady.",
+    "使穩定"
+  ],
+  "unceasing": [
+    "Never stopping.",
+    "不停的；持續的"
+  ],
+  "uninterrupted": [
+    "Continuous, without being stopped.",
+    "不間斷的"
   ]
 });

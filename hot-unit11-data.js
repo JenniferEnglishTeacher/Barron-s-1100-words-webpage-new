@@ -393,6 +393,154 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "那是一次令人髮指的背叛行為,沒有人能夠原諒。",
         "added": true,
         "group": "hot-11"
+      },
+      {
+        "word": "demoniac",
+        "pos": "adj./n.",
+        "definition": "Like or possessed by a demon.",
+        "chinese": "著魔的（人）",
+        "synonyms": "devilish, fiendish, possessed",
+        "image": "shield",
+        "sentence": "His __________ laughter frightened the children.",
+        "translation": "他著魔般的笑聲嚇壞了孩子們。",
+        "lookup": {
+          "english": "Like or possessed by a demon.",
+          "chinese": "著魔的（人）"
+        },
+        "advSentence": "The actor gave the villain a demoniac grin that chilled the audience.",
+        "advTranslation": "演員讓反派露出惡魔般的獰笑，令觀眾不寒而慄。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "diabolic",
+        "pos": "adj.",
+        "definition": "Extremely evil or cruel; like the devil.",
+        "chinese": "惡魔般的",
+        "synonyms": "devilish, fiendish, wicked",
+        "image": "shield",
+        "sentence": "The villain had a __________ plan.",
+        "translation": "那個反派有個惡毒的計畫。",
+        "lookup": {
+          "english": "Extremely evil or cruel; like the devil.",
+          "chinese": "惡魔般的"
+        },
+        "advSentence": "The detective finally uncovered the diabolic scheme behind the series of thefts.",
+        "advTranslation": "偵探終於揭穿了這一連串竊案背後的惡毒陰謀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "inflict",
+        "pos": "v.",
+        "definition": "To make someone suffer something bad.",
+        "chinese": "施加（傷害）",
+        "synonyms": "impose, cause, deal",
+        "image": "shield",
+        "sentence": "The storm __________d heavy damage.",
+        "translation": "暴風雨造成嚴重的損害。",
+        "lookup": {
+          "english": "To make someone suffer something bad.",
+          "chinese": "施加（傷害）"
+        },
+        "advSentence": "Harsh words can inflict wounds that take years to heal.",
+        "advTranslation": "尖刻的話語可能造成需要多年才能癒合的傷害。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh",
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "oppress",
+        "pos": "v.",
+        "definition": "To treat people cruelly and unfairly.",
+        "chinese": "壓迫",
+        "synonyms": "persecute, subjugate, tyrannize",
+        "image": "shield",
+        "sentence": "The dictator __________d the people.",
+        "translation": "獨裁者壓迫人民。",
+        "lookup": {
+          "english": "To treat people cruelly and unfairly.",
+          "chinese": "壓迫"
+        },
+        "advSentence": "Unjust laws were used to oppress minorities for generations.",
+        "advTranslation": "不公的法律被用來壓迫少數族群長達好幾個世代。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "prejudicial",
+        "pos": "adj.",
+        "definition": "Harmful or unfair to someone's rights or interests.",
+        "chinese": "有損的；造成偏見的",
+        "synonyms": "harmful, damaging, biased",
+        "image": "shield",
+        "sentence": "The evidence was __________ to his case.",
+        "translation": "這項證據對他的案子不利。",
+        "lookup": {
+          "english": "Harmful or unfair to someone's rights or interests.",
+          "chinese": "有損的；造成偏見的"
+        },
+        "advSentence": "The judge excluded the photo because it was more prejudicial than informative.",
+        "advTranslation": "法官排除那張照片，因為它造成的偏見大於提供的資訊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "torture",
+        "pos": "v./n.",
+        "definition": "To cause great pain on purpose.",
+        "chinese": "折磨；拷問",
+        "synonyms": "torment, abuse, agony",
+        "image": "shield",
+        "sentence": "Waiting for the results was __________.",
+        "translation": "等待結果真是一種折磨。",
+        "lookup": {
+          "english": "To cause great pain on purpose.",
+          "chinese": "折磨；拷問"
+        },
+        "advSentence": "International law strictly prohibits the torture of prisoners of war.",
+        "advTranslation": "國際法嚴格禁止對戰俘施以酷刑。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh"
+        ]
+      },
+      {
+        "word": "wicked",
+        "pos": "adj.",
+        "definition": "Very bad; evil.",
+        "chinese": "邪惡的",
+        "synonyms": "evil, sinful, cruel",
+        "image": "shield",
+        "sentence": "The __________ witch cast a spell.",
+        "translation": "邪惡的女巫施了一個咒語。",
+        "lookup": {
+          "english": "Very bad; evil.",
+          "chinese": "邪惡的"
+        },
+        "advSentence": "The fable warns that wicked deeds eventually bring their own punishment.",
+        "advTranslation": "這則寓言警告，邪惡的行為終究會招來報應。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
       }
     ],
     "quiz": [
@@ -784,5 +932,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "heinous": [
     "Hatefully evil.",
     "十惡不赦的"
+  ],
+  "demoniac": [
+    "Like or possessed by a demon.",
+    "著魔的（人）"
+  ],
+  "diabolic": [
+    "Extremely evil or cruel; like the devil.",
+    "惡魔般的"
+  ],
+  "inflict": [
+    "To make someone suffer something bad.",
+    "施加（傷害）"
+  ],
+  "oppress": [
+    "To treat people cruelly and unfairly.",
+    "壓迫"
+  ],
+  "prejudicial": [
+    "Harmful or unfair to someone's rights or interests.",
+    "有損的；造成偏見的"
+  ],
+  "torture": [
+    "To cause great pain on purpose.",
+    "折磨；拷問"
+  ],
+  "wicked": [
+    "Very bad; evil.",
+    "邪惡的"
   ]
 });

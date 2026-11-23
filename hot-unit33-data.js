@@ -195,6 +195,156 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "Critics of suburban sprawl lament the dreary uniformity of its identical houses and shopping centers, arguing that such mundane, derivative architecture reflects a complacent culture that prizes conformity and convenience over innovation, history, and a genuine sense of place.",
         "advTranslation": "郊區擴張的批評者感嘆那些一模一樣的房屋與購物中心單調一致，認為這種平凡無奇、缺乏原創性的建築，反映出一種自滿的文化——重視從眾與便利，勝過創新、歷史與真正的地方感。"
+      },
+      {
+        "word": "appraisal",
+        "pos": "n.",
+        "definition": "Judgments of the value or quality of something.",
+        "chinese": "評估；鑑價",
+        "synonyms": "assessments, evaluations, estimates",
+        "image": "shield",
+        "sentence": "Many real estate brokers render free service regarding customers' property __________s.",
+        "translation": "許多房地產經紀人為客戶提供免費的房產估價服務。",
+        "lookup": {
+          "english": "Judgments of the value or quality of something.",
+          "chinese": "評估；鑑價"
+        },
+        "advSentence": "The annual performance appraisal helps employees set new goals.",
+        "advTranslation": "年度績效評估幫助員工設定新目標。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "checkered",
+        "pos": "adj.",
+        "definition": "Having a history of both good and bad parts.",
+        "chinese": "（經歷）起起落落的；毀譽參半的",
+        "synonyms": "mixed, up-and-down, uneven",
+        "image": "shield",
+        "sentence": "The former ruler's __________ career was marked by dramatic political reforms as well as allegations of systemic corruption, leading historians to conflicting interpretations of his legacy.",
+        "translation": "這位前統治者毀譽參半的生涯，既有戲劇性的政治改革，也有系統性貪腐的指控，使得歷史學家對他的歷史地位看法分歧。",
+        "lookup": {
+          "english": "Having a history of both good and bad parts.",
+          "chinese": "（經歷）起起落落的；毀譽參半的"
+        },
+        "advSentence": "Despite his checkered past, the athlete became a respected coach.",
+        "advTranslation": "儘管過去起起落落，這位運動員後來成為一位受尊敬的教練。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
+      },
+      {
+        "word": "disposition",
+        "pos": "n.",
+        "definition": "A person's natural tendency or usual attitude.",
+        "chinese": "性情；傾向；意向",
+        "synonyms": "temperament, nature, tendency",
+        "image": "shield",
+        "sentence": "She has a cheerful __________.",
+        "translation": "她性情開朗。",
+        "lookup": {
+          "english": "A person's natural tendency or usual attitude.",
+          "chinese": "性情；傾向；意向"
+        },
+        "advSentence": "The dog's gentle disposition makes it ideal for families with children.",
+        "advTranslation": "這隻狗性情溫和，非常適合有小孩的家庭。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hsnu-2-sh"
+        ]
+      },
+      {
+        "word": "gauge",
+        "pos": "v.",
+        "definition": "To measure or estimate.",
+        "chinese": "測量；評估",
+        "synonyms": "measure, assess, judge",
+        "image": "shield",
+        "sentence": "Teachers use quizzes to __________ understanding.",
+        "translation": "老師用小考來評估學生的理解程度。",
+        "lookup": {
+          "english": "To measure or estimate.",
+          "chinese": "測量；評估"
+        },
+        "advSentence": "It is hard to gauge public opinion from a few online comments.",
+        "advTranslation": "光靠幾則網路留言很難判斷民意。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "revaluation",
+        "pos": "n.",
+        "definition": "The act of assessing the value of something again.",
+        "chinese": "重新評估",
+        "synonyms": "reassessment, reappraisal, re-estimate",
+        "image": "shield",
+        "sentence": "A __________ of the currency raised prices.",
+        "translation": "貨幣重新估值使物價上漲。",
+        "lookup": {
+          "english": "The act of assessing the value of something again.",
+          "chinese": "重新評估"
+        },
+        "advSentence": "The revaluation of the old house surprised its owners.",
+        "advTranslation": "老房子的重新估價讓屋主很驚訝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-wlsh-sh"
+        ]
+      },
+      {
+        "word": "subjective",
+        "pos": "adj.",
+        "definition": "Based on personal feelings, not facts.",
+        "chinese": "主觀的",
+        "synonyms": "personal, biased, individual",
+        "image": "shield",
+        "sentence": "Taste in music is __________.",
+        "translation": "音樂品味是主觀的。",
+        "lookup": {
+          "english": "Based on personal feelings, not facts.",
+          "chinese": "主觀的"
+        },
+        "advSentence": "Judging an essay is partly subjective, so teachers use rubrics.",
+        "advTranslation": "評閱作文有部分主觀，所以老師會使用評分規準。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh",
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "tendency",
+        "pos": "n.",
+        "definition": "A likelihood to behave in a certain way.",
+        "chinese": "傾向；趨勢",
+        "synonyms": "inclination, trend, propensity",
+        "image": "shield",
+        "sentence": "Experts have long suspected that sunlight has powerful and perhaps conflicting effects on the body's __________ to develop a variety of diseases, including cancer.",
+        "translation": "專家長久以來懷疑，陽光對人體罹患包括癌症在內各種疾病的傾向，有強大而可能相互矛盾的影響。",
+        "lookup": {
+          "english": "A likelihood to behave in a certain way.",
+          "chinese": "傾向；趨勢"
+        },
+        "advSentence": "Students have a tendency to postpone their hardest assignments.",
+        "advTranslation": "學生有把最難的作業往後拖的傾向。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh",
+          "103-tycg-jh",
+          "115-cysh-2-sh"
+        ]
       }
     ],
     "quiz": [
@@ -540,5 +690,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "uniformity": [
     "The quality of being the same throughout; lack of variation.",
     "一致性；均一"
+  ],
+  "appraisal": [
+    "Judgments of the value or quality of something.",
+    "評估；鑑價"
+  ],
+  "checkered": [
+    "Having a history of both good and bad parts.",
+    "（經歷）起起落落的；毀譽參半的"
+  ],
+  "disposition": [
+    "A person's natural tendency or usual attitude.",
+    "性情；傾向；意向"
+  ],
+  "gauge": [
+    "To measure or estimate.",
+    "測量；評估"
+  ],
+  "revaluation": [
+    "The act of assessing the value of something again.",
+    "重新評估"
+  ],
+  "subjective": [
+    "Based on personal feelings, not facts.",
+    "主觀的"
+  ],
+  "tendency": [
+    "A likelihood to behave in a certain way.",
+    "傾向；趨勢"
   ]
 });

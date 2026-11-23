@@ -323,6 +323,200 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他堅定果決的領導,帶領球隊度過了最艱難的一個賽季。",
         "added": true,
         "group": "hot-17"
+      },
+      {
+        "word": "cling",
+        "pos": "v.",
+        "definition": "To hold tightly; to refuse to give up.",
+        "chinese": "緊抓；堅持",
+        "synonyms": "grip, clutch, adhere",
+        "image": "shield",
+        "sentence": "She continued to __________ to the hope that her lost dog would come home.",
+        "translation": "她始終緊抱著走失的狗會回家的希望。",
+        "lookup": {
+          "english": "To hold tightly; to refuse to give up.",
+          "chinese": "緊抓；堅持"
+        },
+        "advSentence": "Some communities cling to traditions that outsiders consider archaic.",
+        "advTranslation": "有些社群固守外人認為過時的傳統。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "cussed",
+        "pos": "adj.",
+        "definition": "Stubborn and difficult.",
+        "chinese": "頑固的；倔強的",
+        "synonyms": "stubborn, obstinate, contrary",
+        "image": "shield",
+        "sentence": "The __________ old man refused all help.",
+        "translation": "那個頑固的老人拒絕所有幫助。",
+        "lookup": {
+          "english": "Stubborn and difficult.",
+          "chinese": "頑固的；倔強的"
+        },
+        "advSentence": "The cussed mule refused to move another step up the mountain.",
+        "advTranslation": "那頭倔強的騾子拒絕再往山上多走一步。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "intransigence",
+        "pos": "n.",
+        "definition": "Refusal to change one's views or agree.",
+        "chinese": "不妥協；固執",
+        "synonyms": "stubbornness, obstinacy, inflexibility",
+        "image": "shield",
+        "sentence": "The peace talks collapsed predominantly due to the __________ of the rebel faction, whose leaders categorically refused to compromise on their maximalist territorial demands.",
+        "translation": "和平談判之所以破局，主要是因為叛軍派系的頑固不妥協，其領袖斷然拒絕在其極端的領土要求上讓步。",
+        "lookup": {
+          "english": "Refusal to change one's views or agree.",
+          "chinese": "不妥協；固執"
+        },
+        "advSentence": "The union blamed the management's intransigence for the long strike.",
+        "advTranslation": "工會將這場漫長罷工歸咎於資方的不肯妥協。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh",
+          "115-lssh-2-sh"
+        ]
+      },
+      {
+        "word": "perseverance",
+        "pos": "n.",
+        "definition": "Continued effort despite difficulty.",
+        "chinese": "毅力；堅持不懈",
+        "synonyms": "persistence, determination, tenacity",
+        "image": "shield",
+        "sentence": "Peaceful activists blockaded logging roads and protested against the global companies funding the destruction until their __________ brought about the successful negotiations.",
+        "translation": "和平的運動人士封鎖伐木道路並抗議資助破壞的跨國企業，直到他們的堅持不懈促成成功的談判。",
+        "lookup": {
+          "english": "Continued effort despite difficulty.",
+          "chinese": "毅力；堅持不懈"
+        },
+        "advSentence": "Learning a language requires patience and perseverance rather than talent alone.",
+        "advTranslation": "學習語言需要耐心與毅力，而不只是天分。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh",
+          "110-ntpc-sh"
+        ]
+      },
+      {
+        "word": "persist",
+        "pos": "v.",
+        "definition": "To continue firmly despite difficulty.",
+        "chinese": "堅持；持續",
+        "synonyms": "continue, persevere, endure",
+        "image": "shield",
+        "sentence": "If symptoms __________, see a doctor.",
+        "translation": "如果症狀持續，請去看醫生。",
+        "lookup": {
+          "english": "To continue firmly despite difficulty.",
+          "chinese": "堅持；持續"
+        },
+        "advSentence": "Despite repeated failures, the inventor persisted until his design finally worked.",
+        "advTranslation": "儘管一再失敗，發明家仍堅持不懈，直到設計終於成功。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "persistence",
+        "pos": "n.",
+        "definition": "Continuing firmly despite difficulty.",
+        "chinese": "堅持；持續性",
+        "synonyms": "perseverance, tenacity, determination",
+        "image": "shield",
+        "sentence": "Success requires __________.",
+        "translation": "成功需要堅持。",
+        "lookup": {
+          "english": "Continuing firmly despite difficulty.",
+          "chinese": "堅持；持續性"
+        },
+        "advSentence": "The persistence of the drought forced farmers to abandon their fields.",
+        "advTranslation": "乾旱持續不斷，迫使農夫放棄他們的田地。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "resilience",
+        "pos": "n.",
+        "definition": "The ability to recover quickly from problems.",
+        "chinese": "韌性；復原力",
+        "synonyms": "toughness, flexibility, recovery",
+        "image": "shield",
+        "sentence": "Students need __________ to face failure.",
+        "translation": "學生需要韌性來面對失敗。",
+        "lookup": {
+          "english": "The ability to recover quickly from problems.",
+          "chinese": "韌性；復原力"
+        },
+        "advSentence": "The resilience of the coral reef surprised the marine biologists.",
+        "advTranslation": "珊瑚礁的復原力讓海洋生物學家感到驚訝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "tenacity",
+        "pos": "n.",
+        "definition": "The quality of not giving up easily.",
+        "chinese": "堅韌；不屈不撓",
+        "synonyms": "determination, persistence, perseverance",
+        "image": "shield",
+        "sentence": "Her __________ helped her succeed.",
+        "translation": "她的堅韌不拔幫助她成功。",
+        "lookup": {
+          "english": "The quality of not giving up easily.",
+          "chinese": "堅韌；不屈不撓"
+        },
+        "advSentence": "The reporter's tenacity eventually exposed the corruption.",
+        "advTranslation": "記者的鍥而不捨最終揭發了這起貪腐。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh",
+          "115-ntpc-sh",
+          "115-tcivs-vs",
+          "115-tngs-sh"
+        ]
+      },
+      {
+        "word": "withstanding",
+        "pos": "v.",
+        "definition": "Resisting or surviving.",
+        "chinese": "抵擋；承受",
+        "synonyms": "resist, endure, survive",
+        "image": "shield",
+        "sentence": "The building is capable of __________ earthquakes.",
+        "translation": "這棟建築能夠承受地震。",
+        "lookup": {
+          "english": "Resisting or surviving.",
+          "chinese": "抵擋；承受"
+        },
+        "advSentence": "The ancient bridge has stood for centuries, withstanding floods and storms.",
+        "advTranslation": "這座古橋屹立了好幾世紀，承受過洪水與暴風雨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-cr-jh"
+        ]
       }
     ],
     "quiz": [
@@ -675,5 +869,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "resolute": [
     "Firm, determined.",
     "堅定的/果決的"
+  ],
+  "cling": [
+    "To hold tightly; to refuse to give up.",
+    "緊抓；堅持"
+  ],
+  "cussed": [
+    "Stubborn and difficult.",
+    "頑固的；倔強的"
+  ],
+  "intransigence": [
+    "Refusal to change one's views or agree.",
+    "不妥協；固執"
+  ],
+  "perseverance": [
+    "Continued effort despite difficulty.",
+    "毅力；堅持不懈"
+  ],
+  "persist": [
+    "To continue firmly despite difficulty.",
+    "堅持；持續"
+  ],
+  "persistence": [
+    "Continuing firmly despite difficulty.",
+    "堅持；持續性"
+  ],
+  "resilience": [
+    "The ability to recover quickly from problems.",
+    "韌性；復原力"
+  ],
+  "tenacity": [
+    "The quality of not giving up easily.",
+    "堅韌；不屈不撓"
+  ],
+  "withstanding": [
+    "Resisting or surviving.",
+    "抵擋；承受"
   ]
 });

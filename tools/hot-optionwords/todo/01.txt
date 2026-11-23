@@ -1,0 +1,140 @@
+reticence [L1 n. 沉默寡言；含蓄] :: His reticence made him hard to know.
+babble [L2 v. 喋喋不休；牙牙學語] :: The baby babbled happily in her crib.
+fustian [L2 n. 浮誇的言詞] :: His speech was full of empty fustian.
+gab [L2 v. 閒聊；喋喋不休] NEED_S1 :: The two friends gabbed for hours.
+iterate [L2 v. 重複；反覆進行] :: Designers iterate until the product works.
+lengthy [L2 adj. 冗長的] :: One of the largest of all suspension bridges is the lengthy, steel structure spanning the San Francisco Bay.
+reprise [L2 n. 重演；重複] :: During her concert tour, Ginger Star will reprise the famous songs from her early days.
+boast [L3 v. 自誇；擁有] :: The city boasts three world-class museums.
+bumptious [L3 adj. 傲慢自負的；自以為是的] :: The bumptious attitude of the new intern rubbed many of his coworkers the wrong way.
+chauvinistic [L3 adj. 沙文主義的] :: His chauvinistic remarks offended his colleagues.
+gloat [L3 v. 幸災樂禍；沾沾自喜] :: Don't gloat over your rival's failure.
+ostentation [L3 n. 炫耀；賣弄] :: He had been accused of vanity and ostentation in his office, but his reputation for ability and integrity as a judge was high even with his enemies.
+prig [L3 n. 自命清高的人] :: He's a prig who disapproves of everything.
+self-centered [L3 adj. 自我中心的] :: He is too self-centered to notice others.
+strut [L3 v. 昂首闊步] NEED_S1 :: He strutted around the stage.
+vaunt [L3 v. 誇耀；吹噓] NEED_S1 :: The much-vaunted plan failed.
+generic [L4 adj. 一般的；通用的] :: The answer was too generic to be useful.
+generically [L4 adv. 一般地；概括地] :: Generically produced drugs are cheaper.
+stultify [L4 v. 使呆滯；使無效] :: Rote learning can stultify curiosity.
+uninteresting [L4 adj. 無趣的] :: The lecture was uninteresting.
+alleviator [L5 n. 緩和者；減輕物] :: Music can be a powerful alleviator of stress.
+appeasable [L5 adj. 可安撫的] :: The angry customer was not easily appeasable.
+deescalate [L5 v. 降溫；緩和] :: The teacher tried to deescalate the fight.
+intercede [L5 v. 說情；調解] :: She interceded on behalf of the students.
+intervene [L5 v. 干預；介入] :: The teacher intervened to stop the fight.
+mild [L5 adj. 溫和的；輕微的] :: The body temperature of crocodiles is not mild, so they have to warm themselves in the sun during the day.
+reassuring [L5 adj. 令人安心的] :: Her smile was reassuring.
+relieve [L5 v. 緩解；減輕] :: The best way to relieve the anxiety that comes with writing a long essay or report is to start ahead of time.
+tonic [L5 n. 補藥；提神之物] :: The holiday was a tonic for us.
+bonhomie [L6 n. 親切友善；和藹] :: The host's bonhomie made every guest feel welcome.
+charismatic [L6 adj. 有領袖魅力的] :: The cult leader's charismatic personality allowed him to manipulate his followers into surrendering all of their worldly possessions to his organization.
+diplomatic [L6 adj. 外交的；圓滑得體的] :: She gave a diplomatic answer to avoid offending anyone.
+intimacy [L6 n. 親密] :: The small café has a feeling of intimacy.
+mingle [L6 v. 交際；混合] :: She was eager to mingle with the other guests at that party and did not spend too much time chatting with me.
+partake [L6 v. 參與；吃喝] NEED_S1 :: Everyone partook in the celebration.
+pleasantry [L6 n. 客套話；玩笑話] NEED_S1 :: They exchanged pleasantries before the meeting.
+belligerence [L7 n. 好鬥；敵意] :: His belligerence made negotiations impossible.
+ferocious [L7 adj. 兇猛的] :: Saltwater Crocodiles, the most aggressive, actively predatory crocodilian species, carry the most ferocious disposition, and have the physical capability to kill other reptiles.
+ferociously [L7 adv. 兇猛地] :: The dogs barked ferociously.
+fierce [L7 adj. 兇猛的；激烈的] :: Competition for jobs is fierce.
+revenge [L7 n. 報復；復仇] :: He wanted revenge for his brother's death.
+bounteous [L8 adj. 豐富的；慷慨的] :: The farmers celebrated a bounteous harvest.
+extortionate [L8 adj. （價格）過高的；敲詐的] :: Hotels charge extortionate prices during the festival.
+fritter [L8 v. 浪費（時間、金錢）] NEED_S1 :: Despite having important tasks to complete, he chose to fritteraway his time on trivial matters.
+indulgence [L8 n. 放縱；嗜好] :: Chocolate is my one indulgence.
+insatiability [L8 n. 貪得無厭；無法滿足] :: An opulence of story books covered my bed, and I would read away my sleepless nights, with a feeling of insatiability.
+largesse [L8 n. 慷慨贈與；大方] :: The museum depends on the largesse of donors.
+pamper [L8 v. 嬌寵] :: Pamper yourself with a spa day.
+profligacy [L8 n. 揮霍；浪費] :: Government profligacy led to debt.
+rapacity [L8 n. 貪婪] :: The rapacity of the bankers caused the crisis.
+shopaholic [L8 n. 購物狂] :: She is a shopaholic.
+beleaguered [L10 adj. 處境艱難的；受圍困的] :: The beleaguered company cut half its staff.
+discomfiture [L10 n. 尷尬；窘迫] :: The speaker's ill-timed attempt at levity disrupted the proceedings, producing a moment of collective discomfiture that was difficult to dispel.
+embroil [L10 v. 使捲入（紛爭）] :: The company was embroiled in a scandal.
+plague [L10 v. 困擾；折磨] :: After years of civil wars, the country was plagued with unemployment, poverty and source scarcity.
+demoniac [L11 adj./n. 著魔的（人）] :: His demoniac laughter frightened the children.
+diabolic [L11 adj. 惡魔般的] :: The villain had a diabolic plan.
+inflict [L11 v. 施加（傷害）] :: The storm inflicted heavy damage.
+oppress [L11 v. 壓迫] :: The dictator oppressed the people.
+prejudicial [L11 adj. 有損的；造成偏見的] :: The evidence was prejudicial to his case.
+torture [L11 v./n. 折磨；拷問] :: Waiting for the results was torture.
+wicked [L11 adj. 邪惡的] :: The wicked witch cast a spell.
+detractor [L12 n. 批評者；貶低者] :: Although the historian enjoyed widespread admiration, she also had a persistent detractor who regularly published harsh criticisms of her work in academic journals.
+disapproving [L12 adj. 不贊成的；不以為然的] :: She gave him a disapproving look.
+doghouse [L12 n. 失寵；狗屋] :: He's in the doghouse for forgetting her birthday.
+frown [L12 v. 皺眉；不贊成] :: Many parents frown on video games.
+invidious [L12 adj. 不公平的；招人嫉恨的] :: The Supreme Court eventually struck down the statute as invidious, ruling that it was inherently discriminatory and fundamentally incompatible with the nation's founding principles of equality.
+lambaste [L12 v. 嚴厲批評；痛斥] :: In his weekly column, the notoriously harsh theater critic lambasted the playwright's new production, characterizing it as a derivative and unimaginative catastrophe.
+penalize [L12 v. 處罰] :: Late essays will be penalized.
+sermon [L12 n. 講道；說教] :: Spare me the sermon about my diet.
+abstention [L13 n. 棄權；戒除] :: Three abstentions meant the motion passed by a narrow margin.
+casually [L13 adv. 隨意地；漫不經心地] :: He casually mentioned that he had quit his job.
+clinical [L13 adj. 臨床的；冷靜客觀的] :: The drug is now in clinical trials.
+depersonalize [L13 v. 使失去個性；去人性化] :: Online shopping can depersonalize customer service.
+detachment [L13 n. 超然；冷漠；分遣隊] :: He viewed the tragedy with strange detachment.
+frigid [L13 adj. 寒冷的；冷淡的] :: Since Taiwan is situated in the subtropics, its climates range from topical to temperate to frigid.
+robotic [L13 adj. 機器人的；呆板的] :: His robotic voice bored the class.
+tepid [L13 adj. 不熱烈的；微溫的] :: The audience gave a tepid response.
+unconsciously [L13 adv. 無意識地] :: He unconsciously tapped his foot.
+doze [L14 v. 打盹] :: Grandpa dozed in his armchair.
+drowsy [L14 adj. 昏昏欲睡的] :: This medicine may make you drowsy.
+loll [L14 v. 懶洋洋地躺（靠）；垂下] :: The dog lolled in the shade.
+lounge [L14 v./n. 閒躺；休息室] :: We lounged by the pool.
+sloth [L14 n. 懶惰；樹懶] :: Sloth is one of the seven deadly sins.
+slumber [L14 v./n. 睡眠；沉睡] :: The baby slumbered peacefully.
+beholden [L15 adj. 受恩惠的；欠人情的] :: Politicians should not be beholden to wealthy donors.
+cede [L15 v. 讓出；割讓] :: "Literature has never ceded ground, nor given up on dialogue between people," Yang Shuang-zi said. "The century-old inquiries in Taiwan's literature are in fact the century-old pursuit of freedom and equality by Taiwan's people."
+complaisance [L15 n. 順從；殷勤] :: His complaisance made him popular with his boss.
+compliance [L15 n. 順從；遵守] :: Factories must be in compliance with safety rules.
+involuntary [L15 adj. 不自主的；非自願的] :: Blinking is an involuntary action.
+obliged [L15 adj. 有義務的；感激的] :: I felt obliged to help.
+resigned [L15 adj. 順從的；認命的] :: She gave a resigned sigh.
+voluntary [L15 adj. 自願的] :: Attendance is voluntary.
+yield [L15 v. 讓步；產生] :: The research yielded useful results.
+engrossing [L16 adj. 引人入勝的] :: It was an engrossing novel.
+fanatic [L16 adj. 狂熱的] :: He is a fanatic supporter of the team.
+fervor [L16 n. 熱情；熱忱] :: They sang with patriotic fervor.
+heartily [L16 adv. 熱誠地；完全地] :: We laughed heartily at the joke.
+hortative [L16 adj. 勸告的；激勵的] :: The coach gave a hortative speech.
+impetus [L16 n. 推動力] :: Her success in providing peer support on campus has given impetus for preventing cyber bullying.
+incentive [L16 n. 誘因；獎勵] :: The annual academic awards provide an incentive for the students to study hard.
+incentivize [L16 v. 激勵；以誘因鼓勵] :: After the council incentivized the fundraising campaign, the citizens became extremely motivated.
+infatuate [L16 v. 使迷戀；使沉迷] :: Harry's wife was so infatuated with organic food that she refused to consume anything nonorganic.
+inspire [L16 v. 激勵；啟發] :: Her story inspired many young people.
+obsessive [L16 adj. 著迷的；強迫性的] :: He has an obsessive interest in trains.
+preoccupation [L16 n. 心事；全神貫注的事] :: His preoccupation with money worried her.
+riveting [L16 adj. 引人入勝的] :: The documentary was riveting.
+rouse [L16 v. 喚醒；激起] :: The speech roused the crowd.
+vehemence [L16 n. 激烈；猛烈] :: He denied it with vehemence.
+cling [L17 v. 緊抓；堅持] NEED_S1 :: She clung to the hope that he was still alive.
+cussed [L17 adj. 頑固的；倔強的] :: The cussed old man refused all help.
+intransigence [L17 n. 不妥協；固執] :: The peace talks collapsed predominantly due to the intransigence of the rebel faction, whose leaders categorically refused to compromise on their maximalist territorial demands.
+perseverance [L17 n. 毅力；堅持不懈] :: Peaceful activists blockaded logging roads and protested against the global companies funding the destruction until their perseverance brought about the successful negotiations.
+persist [L17 v. 堅持；持續] :: If symptoms persist, see a doctor.
+persistence [L17 n. 堅持；持續性] :: Success requires persistence.
+resilience [L17 n. 韌性；復原力] :: Students need resilience to face failure.
+tenacity [L17 n. 堅韌；不屈不撓] :: Her tenacity helped her succeed.
+withstanding [L17 v. 抵擋；承受] :: The building is capable of withstanding earthquakes.
+chant [L18 n. 吟誦；口號] :: Fans shouted chants during the game.
+croak [L18 v. (蛙)呱呱叫] :: Frogs croaked all night by the pond.
+devocalize [L18 v. 使無聲；去聲] :: Some owners devocalize their barking dogs.
+exclamation [L18 n. 驚呼；感嘆] :: She gave an exclamation of surprise.
+gravelly [L18 adj. 多碎石的；（聲音）沙啞的] :: He spoke in a deep, gravelly voice.
+hubbub [L18 n. 喧鬧；嘈雜聲] :: The hubbub of the market woke us early.
+intonation [L18 n. 語調] :: Rising intonation signals a question.
+muffle [L18 v. 使（聲音）減弱] :: Snow muffled the sound of traffic.
+murmur [L18 v. 低語；喃喃] :: She murmured a quiet thank-you.
+mutter [L18 v. 喃喃自語；抱怨] :: He muttered something about unfair tests.
+percussion [L18 n. 打擊樂器] :: He plays percussion in the band.
+percussive [L18 adj. 敲擊的；打擊樂的] :: The song has a percussive beat.
+purr [L18 v. （貓）發出呼嚕聲] :: The cat purred on my lap.
+reverberate [L18 v. 迴響；產生廣泛影響] :: A few minutes later the sound of the explosion died away, but it's still reverberated in everyone's ears.
+roar [L18 v. 吼叫；轟鳴] :: The lion roared.
+rumble [L18 v. 發出隆隆聲] :: Thunder rumbled in the distance.
+shrillness [L18 n. 尖銳刺耳] :: The shrillness of the alarm woke everyone.
+tinkle [L18 v. 發出叮噹聲] :: Bells tinkled in the wind.
+appreciation [L19 n. 感激；欣賞；增值] :: It was the spiritual dimension of Indian life that was beginning to be appreciated, and with it came a new appreciation and understanding of Indian art.
+bestow [L19 v. 授予；給予] :: The queen bestowed a knighthood on the scientist.
+celebrate [L19 v. 讚揚；頌揚；慶祝] :: The novel is celebrated for its vivid characters.
+commemorate [L19 v. 紀念] :: A statue commemorates the fallen soldiers.

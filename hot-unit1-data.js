@@ -237,6 +237,27 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他省略含糊的回答讓記者們更加困惑。",
         "added": true,
         "group": "hot-01"
+      },
+      {
+        "word": "reticence",
+        "pos": "n.",
+        "definition": "Unwillingness to talk about feelings or facts.",
+        "chinese": "沉默寡言；含蓄",
+        "synonyms": "reserve, silence, restraint",
+        "image": "shield",
+        "sentence": "His __________ made him hard to know.",
+        "translation": "他的沉默寡言讓人很難了解他。",
+        "lookup": {
+          "english": "Unwillingness to talk about feelings or facts.",
+          "chinese": "沉默寡言；含蓄"
+        },
+        "advSentence": "Her reticence about her past only made the curious journalists more tenacious.",
+        "advTranslation": "她對自己的過去守口如瓶，反而讓好奇的記者們更加窮追不捨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-hsnu-sh"
+        ]
       }
     ],
     "quiz": [
@@ -520,5 +541,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "elliptical": [
     "Having the shape of an ellipse; using deliberately brief or indirect expression.",
     "橢圓形的;省略的"
+  ],
+  "reticence": [
+    "Unwillingness to talk about feelings or facts.",
+    "沉默寡言；含蓄"
   ]
 });

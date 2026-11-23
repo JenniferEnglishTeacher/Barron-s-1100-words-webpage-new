@@ -163,6 +163,494 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The aroma of savory dumplings drifted through the night market, and even the most phlegmatic passersby, who had seemed indifferent to the clamor of the vendors, paused to join the line that snaked past the stalls.",
         "advTranslation": "鹹香的餃子香氣在夜市中飄散，就連最冷靜淡漠、看似對攤販吆喝聲毫不在意的路人，也停下腳步，加入那條蜿蜒穿過攤位的排隊人龍。"
+      },
+      {
+        "word": "acidulate",
+        "pos": "v.",
+        "definition": "To make something slightly sour or acidic.",
+        "chinese": "使帶酸味",
+        "synonyms": "sour, acidify, sharpen",
+        "image": "shield",
+        "sentence": "__________ the water with lemon juice to stop the apples from browning.",
+        "translation": "用檸檬汁讓水帶點酸味，防止蘋果變黑。",
+        "lookup": {
+          "english": "To make something slightly sour or acidic.",
+          "chinese": "使帶酸味"
+        },
+        "advSentence": "Chefs often acidulate a sauce with vinegar to balance its richness.",
+        "advTranslation": "廚師常用醋讓醬汁帶點酸味，以平衡濃郁的口感。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "braise",
+        "pos": "v.",
+        "definition": "To cook food slowly in a little liquid in a covered pot.",
+        "chinese": "燉；燜",
+        "synonyms": "stew, simmer, slow-cook",
+        "image": "shield",
+        "sentence": "__________ the beef in red wine for three hours.",
+        "translation": "用紅酒燉牛肉三個小時。",
+        "lookup": {
+          "english": "To cook food slowly in a little liquid in a covered pot.",
+          "chinese": "燉；燜"
+        },
+        "advSentence": "Taiwanese cooks braise pork belly in soy sauce until it is tender.",
+        "advTranslation": "臺灣的廚師用醬油滷五花肉，直到肉質軟嫩。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "carboholic",
+        "pos": "n.",
+        "definition": "A person who craves or eats too many carbohydrates.",
+        "chinese": "嗜吃澱粉的人",
+        "synonyms": "carb lover, bread lover, starch addict",
+        "image": "shield",
+        "sentence": "After eating bread almost every day, the baker became a __________.",
+        "translation": "他幾乎每天都吃麵包，最後成了澱粉控。",
+        "lookup": {
+          "english": "A person who craves or eats too many carbohydrates.",
+          "chinese": "嗜吃澱粉的人"
+        },
+        "advSentence": "The self-described carboholic struggled to give up rice, noodles, and bread.",
+        "advTranslation": "那位自稱澱粉控的人很難戒掉米飯、麵條和麵包。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "devour",
+        "pos": "v.",
+        "definition": "To eat quickly and hungrily; to read eagerly.",
+        "chinese": "狼吞虎嚥；貪婪地閱讀",
+        "synonyms": "gobble, consume, wolf down",
+        "image": "shield",
+        "sentence": "She __________d the novel in one night.",
+        "translation": "她一個晚上就把那本小說讀完了。",
+        "lookup": {
+          "english": "To eat quickly and hungrily; to read eagerly.",
+          "chinese": "狼吞虎嚥；貪婪地閱讀"
+        },
+        "advSentence": "The hungry teenagers devoured three pizzas in ten minutes.",
+        "advTranslation": "飢餓的青少年十分鐘內就吃光三個披薩。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "dough",
+        "pos": "n.",
+        "definition": "A mixture of flour and water for bread.",
+        "chinese": "麵團",
+        "synonyms": "paste, batter, mixture",
+        "image": "shield",
+        "sentence": "Knead the __________ for ten minutes.",
+        "translation": "揉麵團十分鐘。",
+        "lookup": {
+          "english": "A mixture of flour and water for bread.",
+          "chinese": "麵團"
+        },
+        "advSentence": "The baker shaped the dough into small rolls before baking them.",
+        "advTranslation": "麵包師在烘烤前把麵團捏成小圓麵包。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "edible",
+        "pos": "adj.",
+        "definition": "Safe to eat.",
+        "chinese": "可食用的",
+        "synonyms": "eatable, consumable, digestible",
+        "image": "shield",
+        "sentence": "Some flowers are __________.",
+        "translation": "有些花是可以吃的。",
+        "lookup": {
+          "english": "Safe to eat.",
+          "chinese": "可食用的"
+        },
+        "advSentence": "Foragers must know which mushrooms are edible and which are poisonous.",
+        "advTranslation": "採集者必須知道哪些蘑菇可食、哪些有毒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "escalope",
+        "pos": "n.",
+        "definition": "A thin slice of meat that is fried.",
+        "chinese": "薄肉片",
+        "synonyms": "cutlet, schnitzel, fillet",
+        "image": "shield",
+        "sentence": "She ordered a veal __________ with lemon.",
+        "translation": "她點了一份佐檸檬的小牛肉薄片。",
+        "lookup": {
+          "english": "A thin slice of meat that is fried.",
+          "chinese": "薄肉片"
+        },
+        "advSentence": "Pound the chicken into a thin escalope before frying it.",
+        "advTranslation": "把雞肉拍成薄片後再下鍋煎。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "garnish",
+        "pos": "v.",
+        "definition": "To decorate food with a small amount of another food.",
+        "chinese": "（在菜上）裝飾點綴",
+        "synonyms": "decorate, adorn, trim",
+        "image": "shield",
+        "sentence": "You can __________ the fish with lemon slices before serving the dish on the table.",
+        "translation": "上桌前可以用檸檬片裝飾魚。",
+        "lookup": {
+          "english": "To decorate food with a small amount of another food.",
+          "chinese": "（在菜上）裝飾點綴"
+        },
+        "advSentence": "The chef likes to garnish each bowl of soup with fresh cilantro.",
+        "advTranslation": "主廚喜歡在每碗湯上點綴新鮮香菜。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "gastronomic",
+        "pos": "adj.",
+        "definition": "Relating to good food and cooking.",
+        "chinese": "美食的；烹飪的",
+        "synonyms": "culinary, gourmet, epicurean",
+        "image": "shield",
+        "sentence": "Tainan is a __________ paradise.",
+        "translation": "臺南是美食天堂。",
+        "lookup": {
+          "english": "Relating to good food and cooking.",
+          "chinese": "美食的；烹飪的"
+        },
+        "advSentence": "The festival offers a gastronomic tour of the island's regional dishes.",
+        "advTranslation": "這個節慶提供一趟品嚐島上各地菜餚的美食之旅。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "gastronomy",
+        "pos": "n.",
+        "definition": "The art and practice of cooking and eating good food.",
+        "chinese": "美食學；烹飪藝術",
+        "synonyms": "cuisine, cookery, culinary art",
+        "image": "shield",
+        "sentence": "The chef believes that freshness is the most important rule of seafood __________.",
+        "translation": "這位主廚說，好的海鮮料理有三個不變的條件：新鮮、新鮮，還是新鮮。",
+        "lookup": {
+          "english": "The art and practice of cooking and eating good food.",
+          "chinese": "美食學；烹飪藝術"
+        },
+        "advSentence": "French gastronomy has been recognized by UNESCO as part of world cultural heritage.",
+        "advTranslation": "法國美食已被聯合國教科文組織列為世界文化遺產。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
+      },
+      {
+        "word": "grease",
+        "pos": "n.",
+        "definition": "Thick oil or fat.",
+        "chinese": "油脂",
+        "synonyms": "fat, oil, lard",
+        "image": "shield",
+        "sentence": "Clean the __________ off the stove.",
+        "translation": "把爐子上的油污清乾淨。",
+        "lookup": {
+          "english": "Thick oil or fat.",
+          "chinese": "油脂"
+        },
+        "advSentence": "The mechanic's hands were black with grease after fixing the engine.",
+        "advTranslation": "修完引擎後，技師的手沾滿黑色油污。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "grill",
+        "pos": "v.",
+        "definition": "To cook over direct heat; to question intensely.",
+        "chinese": "烤；盤問",
+        "synonyms": "broil, barbecue, interrogate",
+        "image": "shield",
+        "sentence": "Police __________d the suspect for hours.",
+        "translation": "警方盤問嫌犯好幾個小時。",
+        "lookup": {
+          "english": "To cook over direct heat; to question intensely.",
+          "chinese": "烤；盤問"
+        },
+        "advSentence": "We grill fish and corn in the backyard every Moon Festival.",
+        "advTranslation": "每年中秋節我們都在後院烤魚和玉米。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "gulp",
+        "pos": "v.",
+        "definition": "To swallow food or drink quickly.",
+        "chinese": "狼吞虎嚥",
+        "synonyms": "swallow, gobble, guzzle",
+        "image": "shield",
+        "sentence": "He __________d down his coffee.",
+        "translation": "他一口氣喝下咖啡。",
+        "lookup": {
+          "english": "To swallow food or drink quickly.",
+          "chinese": "狼吞虎嚥"
+        },
+        "advSentence": "The nervous candidate gulped water before stepping onto the stage.",
+        "advTranslation": "緊張的候選人上台前大口喝了水。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "harvest",
+        "pos": "v.",
+        "definition": "To gather crops; to collect.",
+        "chinese": "收割；收穫",
+        "synonyms": "gather, collect, reap",
+        "image": "shield",
+        "sentence": "Farmers __________ rice twice a year.",
+        "translation": "農夫一年收割兩次稻米。",
+        "lookup": {
+          "english": "To gather crops; to collect.",
+          "chinese": "收割；收穫"
+        },
+        "advSentence": "Volunteers helped the farmers harvest tea leaves on the misty hillside.",
+        "advTranslation": "志工在雲霧繚繞的山坡上幫農夫採茶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh",
+          "115-moe-sh",
+          "115-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "ingestion",
+        "pos": "n.",
+        "definition": "The act of taking food, drink, or another substance into the body.",
+        "chinese": "攝取；吞食",
+        "synonyms": "consumption, swallowing, intake",
+        "image": "shield",
+        "sentence": "The __________ of plastic harms sea birds.",
+        "translation": "吞食塑膠會傷害海鳥。",
+        "lookup": {
+          "english": "The act of taking food, drink, or another substance into the body.",
+          "chinese": "攝取；吞食"
+        },
+        "advSentence": "Accidental ingestion of cleaning products sends many toddlers to the hospital.",
+        "advTranslation": "誤食清潔用品讓許多幼兒被送進醫院。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-2-sh"
+        ]
+      },
+      {
+        "word": "nutritious",
+        "pos": "adj.",
+        "definition": "Containing many things the body needs to be healthy.",
+        "chinese": "有營養的",
+        "synonyms": "nourishing, healthy, wholesome",
+        "image": "shield",
+        "sentence": "Vegetables are __________.",
+        "translation": "蔬菜很有營養。",
+        "lookup": {
+          "english": "Containing many things the body needs to be healthy.",
+          "chinese": "有營養的"
+        },
+        "advSentence": "The school now serves nutritious lunches instead of fried snacks.",
+        "advTranslation": "學校現在提供營養的午餐，而不是油炸點心。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh",
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "pickled",
+        "pos": "adj.",
+        "definition": "Preserved in vinegar or salt water.",
+        "chinese": "醃漬的",
+        "synonyms": "preserved, marinated, brined",
+        "image": "shield",
+        "sentence": "She served __________ vegetables.",
+        "translation": "她端上了醃漬蔬菜。",
+        "lookup": {
+          "english": "Preserved in vinegar or salt water.",
+          "chinese": "醃漬的"
+        },
+        "advSentence": "Pickled radish adds a crunchy, tangy flavor to the rice dish.",
+        "advTranslation": "醃蘿蔔為這道飯料理增添爽脆酸甜的口感。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-kinmen-jh"
+        ]
+      },
+      {
+        "word": "quench",
+        "pos": "v.",
+        "definition": "To satisfy thirst; to put out a fire.",
+        "chinese": "解渴；熄滅",
+        "synonyms": "satisfy, slake, extinguish",
+        "image": "shield",
+        "sentence": "Water __________es thirst.",
+        "translation": "水能解渴。",
+        "lookup": {
+          "english": "To satisfy thirst; to put out a fire.",
+          "chinese": "解渴；熄滅"
+        },
+        "advSentence": "Firefighters needed hours to quench the flames in the warehouse.",
+        "advTranslation": "消防員花了好幾個小時才撲滅倉庫的火焰。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "repast",
+        "pos": "n.",
+        "definition": "A meal.",
+        "chinese": "餐；飯食",
+        "synonyms": "meal, feast, banquet",
+        "image": "shield",
+        "sentence": "They enjoyed a light __________.",
+        "translation": "他們享用了一頓簡單的餐點。",
+        "lookup": {
+          "english": "A meal.",
+          "chinese": "餐；飯食"
+        },
+        "advSentence": "After the ceremony, guests were invited to a simple repast of tea and cakes.",
+        "advTranslation": "典禮後，賓客受邀享用茶點便餐。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "savour",
+        "pos": "v.",
+        "definition": "To enjoy something slowly.",
+        "chinese": "品味；享受",
+        "synonyms": "relish, enjoy, appreciate",
+        "image": "shield",
+        "sentence": "__________ every moment.",
+        "translation": "好好品味每一刻。",
+        "lookup": {
+          "english": "To enjoy something slowly.",
+          "chinese": "品味；享受"
+        },
+        "advSentence": "Take time to savour the soup; the chef simmered it for twelve hours.",
+        "advTranslation": "慢慢品嚐這碗湯吧，主廚燉了十二個小時。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "stew",
+        "pos": "v./n.",
+        "definition": "To cook slowly; a slowly cooked dish.",
+        "chinese": "燉；燉菜",
+        "synonyms": "simmer, braise, casserole",
+        "image": "shield",
+        "sentence": "Grandma made beef __________.",
+        "translation": "奶奶做了燉牛肉。",
+        "lookup": {
+          "english": "To cook slowly; a slowly cooked dish.",
+          "chinese": "燉；燉菜"
+        },
+        "advSentence": "Let the vegetables stew slowly until the flavors blend together.",
+        "advTranslation": "讓蔬菜慢慢燉煮，直到味道融合在一起。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "wolf",
+        "pos": "v.",
+        "definition": "(wolf down) to eat very quickly.",
+        "chinese": "狼吞虎嚥",
+        "synonyms": "gobble, devour, gulp",
+        "image": "shield",
+        "sentence": "The starving boy began to __________ down his lunch in minutes.",
+        "translation": "那個餓壞的男孩幾分鐘內就把便當狼吞虎嚥吃光了。",
+        "lookup": {
+          "english": "(wolf down) to eat very quickly.",
+          "chinese": "狼吞虎嚥"
+        },
+        "advSentence": "Students who wolf down their lunch rarely notice what they are eating.",
+        "advTranslation": "狼吞虎嚥吃午餐的學生很少注意自己吃了什麼。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "yeast",
+        "pos": "n.",
+        "definition": "A fungus used to make bread rise.",
+        "chinese": "酵母",
+        "synonyms": "leaven, ferment, raising agent",
+        "image": "shield",
+        "sentence": "Add __________ to the dough.",
+        "translation": "在麵團裡加入酵母。",
+        "lookup": {
+          "english": "A fungus used to make bread rise.",
+          "chinese": "酵母"
+        },
+        "advSentence": "Without yeast, the bread will remain flat and dense.",
+        "advTranslation": "沒有酵母，麵包就會又扁又硬。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
       }
     ],
     "quiz": [
@@ -452,5 +940,97 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "savory": [
     "Salty or spicy rather than sweet; appetizing.",
     "鹹香的；美味的；可口的"
+  ],
+  "acidulate": [
+    "To make something slightly sour or acidic.",
+    "使帶酸味"
+  ],
+  "braise": [
+    "To cook food slowly in a little liquid in a covered pot.",
+    "燉；燜"
+  ],
+  "carboholic": [
+    "A person who craves or eats too many carbohydrates.",
+    "嗜吃澱粉的人"
+  ],
+  "devour": [
+    "To eat quickly and hungrily; to read eagerly.",
+    "狼吞虎嚥；貪婪地閱讀"
+  ],
+  "dough": [
+    "A mixture of flour and water for bread.",
+    "麵團"
+  ],
+  "edible": [
+    "Safe to eat.",
+    "可食用的"
+  ],
+  "escalope": [
+    "A thin slice of meat that is fried.",
+    "薄肉片"
+  ],
+  "garnish": [
+    "To decorate food with a small amount of another food.",
+    "（在菜上）裝飾點綴"
+  ],
+  "gastronomic": [
+    "Relating to good food and cooking.",
+    "美食的；烹飪的"
+  ],
+  "gastronomy": [
+    "The art and practice of cooking and eating good food.",
+    "美食學；烹飪藝術"
+  ],
+  "grease": [
+    "Thick oil or fat.",
+    "油脂"
+  ],
+  "grill": [
+    "To cook over direct heat; to question intensely.",
+    "烤；盤問"
+  ],
+  "gulp": [
+    "To swallow food or drink quickly.",
+    "狼吞虎嚥"
+  ],
+  "harvest": [
+    "To gather crops; to collect.",
+    "收割；收穫"
+  ],
+  "ingestion": [
+    "The act of taking food, drink, or another substance into the body.",
+    "攝取；吞食"
+  ],
+  "nutritious": [
+    "Containing many things the body needs to be healthy.",
+    "有營養的"
+  ],
+  "pickled": [
+    "Preserved in vinegar or salt water.",
+    "醃漬的"
+  ],
+  "quench": [
+    "To satisfy thirst; to put out a fire.",
+    "解渴；熄滅"
+  ],
+  "repast": [
+    "A meal.",
+    "餐；飯食"
+  ],
+  "savour": [
+    "To enjoy something slowly.",
+    "品味；享受"
+  ],
+  "stew": [
+    "To cook slowly; a slowly cooked dish.",
+    "燉；燉菜"
+  ],
+  "wolf": [
+    "(wolf down) to eat very quickly.",
+    "狼吞虎嚥"
+  ],
+  "yeast": [
+    "A fungus used to make bread rise.",
+    "酵母"
   ]
 });

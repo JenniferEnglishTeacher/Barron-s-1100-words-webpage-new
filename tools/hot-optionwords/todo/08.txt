@@ -1,0 +1,140 @@
+predominant [L86 adj. 主要的；占優勢的] :: Chinese is the predominant language here.
+proficiency [L86 n. 熟練；精通] :: Students take an English proficiency test.
+supremacy [L86 n. 至高無上；霸權] :: The two powers fought for supremacy.
+tactic [L86 n. 策略；手段] :: Delay was his favorite tactic.
+vanquish [L86 v. 徹底擊敗；征服] :: The army vanquished its enemies.
+wield [L86 v. 揮舞；行使（權力）] :: She wields great influence.
+defective [L87 adj. 有缺陷的；故障的] :: When we opened the box, we noticed that the toy was defective. Its arms and legs were broken off and the head seemed squashed out of shape
+flabby [L87 adj. 鬆弛的；軟弱無力的] :: His muscles became flabby after he stopped training.
+flounder [L87 v. 困難掙扎；不知所措] :: Without a coherent strategy, the organization began to flounder, its leadership mired in indecision and administrative inertia.
+ineffective [L87 adj. 無效的] :: While the proposal aimed to address systemic issues, its overly simplistic approach rendered it largely ineffective in practice.
+lame [L87 adj. 跛的；站不住腳的] :: That's a lame excuse.
+suboptimal [L87 adj. 次佳的；未達最佳的] :: The results were suboptimal.
+abeyance [L88 n. 暫緩；擱置] :: All the plans were held in abeyance pending decision made by the government after thorough investigation.
+adjourn [L88 v. 休會；延期] :: To allow the witness to attend court, the judge decided to adjourn the court case and reschedule it to another day.
+adjournment [L88 n. 休會；延期] :: The judge called for an adjournment until Monday.
+filibuster [L88 n. 冗長演說（議事阻撓）] :: During the civil rights battles of the 1950s and early 1960s, the legislators defeated many anti-discrimination bills through filibusters and other delaying tactics.
+hesitate [L88 v. 猶豫] :: Don't hesitate to ask questions.
+hesitation [L88 n. 猶豫；遲疑] :: She accepted without hesitation.
+lag [L88 v. 落後] :: Rural schools lag behind in technology.
+moratorium [L88 n. 暫停令；禁令期] :: The city declared a moratorium on new hotels.
+stall [L88 v. 停頓；停滯] :: The car stalled on the bridge.
+straggle [L88 v. 落後；蔓生] :: A few students straggled behind.
+suspend [L88 v. 暫停；懸掛；停學] :: He was suspended from school for a week.
+suspension [L88 n. 暫停；停職；懸浮] :: The suspension of flights caused chaos.
+tardy [L88 adj. 遲到的；緩慢的] :: Tardy students must sign in at the office.
+waver [L88 v. 搖擺；動搖] :: Her confidence never wavered.
+agape [L89 adj. 目瞪口呆的] :: The children stood agape at the giant dinosaur skeleton.
+behold [L89 v. 看見；注視] :: The view from the summit was a wonder to behold.
+crop [L89 v. （crop up）突然出現] NEED_S1 :: Problems cropped up at the last minute.
+entrance [L89 v. 使著迷] :: The audience was entranced by her voice.
+gasp [L89 v. 倒抽一口氣；喘氣] :: The audience gasped in amazement.
+hypnotic [L89 adj. 催眠的；令人著迷的] :: The music had a hypnotic rhythm.
+intrigue [L89 v. 引起興趣；密謀] :: The mystery intrigued the students.
+lulu [L89 n. （俚）出色的人或事物] :: That storm was a lulu.
+marvel [L89 v./n. 驚嘆；奇蹟] :: We marveled at the view.
+mind-boggling [L89 adj. 令人難以置信的；難以理解的] :: The size of the universe is mind-boggling.
+sensational [L89 adj. 轟動的；極好的] :: The team are still celebrating after their sensational victory in the FA Cup.
+swoon [L89 v. 昏倒；神魂顛倒] :: Fans swooned when he sang.
+thrillingly [L89 adv. 令人激動地] :: The game ended thrillingly.
+trance [L89 n. 恍惚；出神狀態] :: She seemed to be in a trance.
+unimaginable [L89 adj. 難以想像的] :: The scale of the disaster was unimaginable.
+blazon [L90 v. 宣揚；彰顯] :: The young actor wished that his debut on Broadway would blazon out his great acting ability.
+exhume [L90 v. 掘出（屍體）] :: The body was exhumed for further tests.
+exposure [L90 n. 接觸；暴露；揭露] :: Early exposure to English helps young learners.
+proclamation [L90 n. 宣告；公告] :: The slaves in the States were freed by the Emancipation Proclamation.
+publicity [L90 n. 宣傳；公眾注意] :: The scandal brought bad publicity.
+showcase [L90 n. 展示場；櫥窗] :: The festival is a showcase for new talent.
+telegraph [L90 v. （無意中）洩露意圖] :: The pitcher telegraphed his next throw.
+unearth [L90 v. 發掘；查出] :: The detective unearthed a valuable piece of evidence after carefully searching the crime scene.
+unleash [L90 v. 釋放；發洩] :: The storm unleashed heavy rain.
+endemic [L91 adj. 地方性的；特有的] :: Epidemiologists warn that without robust global vaccination equity, the virus will not be eradicated but rather become endemic, circulating perpetually within vulnerable populations.
+holistically [L91 adv. 整體地；全面地] :: Teachers should assess students holistically.
+homogeneity [L91 n. 同質性] :: The homogeneity of the class made teaching easier.
+inclusive [L91 adj. 包括在內的] :: Candidates are required to take five tests, inclusive of Chinese, English, math, natural science and social science.
+inclusively [L91 adv. 包容地；包括在內地] :: Lessons should be designed inclusively.
+inclusivity [L91 n. 包容性] :: The company values diversity and inclusivity.
+mainstream [L91 adj. 主流的] :: Mainstream media covered the story.
+pandemic [L91 adj. 全球大流行的] :: The pandemic closed schools worldwide.
+predominantly [L91 adv. 主要地] :: The town is predominantly agricultural.
+scattered [L91 adj. 分散的；零星的] :: There will be scattered showers.
+sweep [L91 v. 掃除；席捲] NEED_S1 :: The singer swept the board in several Grammy categories; he was the biggest winner at the ceremony.
+outlier [L92 n. 離群值；異類] :: One score was an outlier.
+peculiar [L92 adj. 奇怪的；特有的] :: There was a peculiar smell in the room.
+queer [L92 adj. 奇怪的；酷兒的] :: There was a queer feeling in the air.
+rarified [L92 adj. 稀有的；稀薄的] :: He moves in rarified academic circles.
+scintilla [L92 n. 微量；一丁點] :: The defendant claimed that there was not a scintilla of evidence to prove that he was guilty.
+seldom [L92 adv. 很少] :: He seldom goes out.
+solely [L92 adv. 僅僅；唯一地] :: He is solely responsible.
+uncharacteristically [L92 adv. 一反常態地] :: He was uncharacteristically quiet.
+unheard [L92 adj. 前所未聞的] :: Such a thing was unheard of in the past.
+absorption [L93 n. 吸收；專注] :: Vitamin C improves the absorption of iron from food.
+achromatic [L93 adj. 無色的；消色差的] :: The artist used an achromatic palette of black, white, and gray.
+alloy [L93 n. 合金] :: Bronze is an alloy of copper and tin.
+arsenic [L93 n. 砷；砒霜] :: The water was contaminated with arsenic.
+calcium [L93 n. 鈣] :: Milk is a good source of calcium.
+circulation [L93 n. 循環；流通；發行量] :: Exercise improves blood circulation.
+conductivity [L93 n. 傳導性] :: Copper has high electrical conductivity.
+cosmos [L93 n. 宇宙] :: Ancient people studied the cosmos through the stars.
+decomposer [L93 n. 分解者] :: Fungi and bacteria are important decomposers.
+decomposition [L93 n. 分解；腐爛] :: Heat speeds up decomposition.
+desiccant [L93 n. 乾燥劑] :: Packets of desiccant keep shoes dry.
+evaporation [L93 n. 蒸發] :: Evaporation is part of the water cycle.
+gene [L93 n. 基因] :: Eye color is determined by genes.
+genetically [L93 adv. 基因上；遺傳地] :: Genetically modified crops resist pests.
+genome [L93 n. 基因組] :: Scientists mapped the human genome.
+granulation [L93 n. 粒化；成粒] :: Sugar granulation affects its texture.
+hereditary [L93 adj. 遺傳的；世襲的] :: Many psychologists believe a sense of humor is hereditary and can be passed from parents to their children.
+irradiate [L93 v. 照射；使發光] :: Food is irradiated to kill bacteria.
+luminance [L93 n. 亮度；發光度] :: Screen luminance affects eye strain.
+mechanics [L93 n. 力學；運作方式] :: Students learned the mechanics of writing.
+mercury [L93 n. 水銀；汞] :: Some fish contain high levels of mercury.
+orbit [L93 v./n. 繞軌道運行；軌道] :: The moon orbits the Earth.
+organic [L93 adj. 有機的] :: Organic vegetables cost more.
+organism [L93 n. 生物；有機體] :: Bacteria are tiny organisms.
+particle [L93 n. 微粒；粒子] :: Dust particles floated in the air.
+quantum [L93 n./adj. 量子；巨大的] :: AI is a quantum leap in technology.
+sidereal [L93 adj. 恆星的；星辰的] :: A sidereal day is shorter than a solar day.
+specimen [L93 n. 樣本；標本] :: Blood specimens were sent to the lab.
+sunspot [L93 n. 太陽黑子] :: Scientists have concluded that sunspots affect rainfall and general weather conditions.
+tectonic [L93 adj. 地殼構造的；（喻）根本性的、巨大的] :: The current trend of "quiet quitting" among young professionals reflects a tectonic shift in the modern workforce, prioritizing personal well-being over corporate loyalty.
+transmission [L93 n. 傳播；傳染] :: Masks reduce the transmission of the virus.
+transmit [L93 v. 傳送；傳播] :: Mosquitoes transmit malaria.
+uranium [L93 n. 鈾] :: Uranium is used in nuclear power plants.
+abdominal [L94 adj. 腹部的] :: She felt a sharp abdominal pain after eating the spoiled seafood.
+addicted [L94 adj. 上癮的；沉迷的] :: Many teenagers are addicted to their phones.
+addiction [L94 n. 成癮] :: He sought treatment for his gambling addiction.
+ailment [L94 n. 小病；疾患] :: Headaches are a common ailment among office workers.
+amputation [L94 n. 截肢] :: The soldier survived the amputation of his leg.
+amyloid [L94 n. 類澱粉蛋白] :: Amyloid plaques build up in the brains of Alzheimer's patients.
+anatomy [L94 n. 解剖學；身體構造] :: Medical students study human anatomy.
+anesthetic [L94 adj. 麻醉的] :: The dentist gave her a local anesthetic.
+anesthetize [L94 v. 麻醉；使麻木] :: Doctors anesthetize patients before surgery.
+appendage [L94 n. 附屬物；附加物] :: An octopus uses its appendages to grab prey.
+bedridden [L94 adj. 臥病在床的] :: After the accident, he was bedridden for months.
+bloodletting [L94 n. 放血（療法）] :: Bloodletting was once a common medical treatment.
+cardiovascular [L94 adj. 心血管的] :: Regular exercise improves cardiovascular health.
+contagious [L94 adj. 傳染性的] :: Laughter is contagious.
+convalescence [L94 n. 康復期] :: Had the nutrition during convalescence been poor, this might have resulted in long-term impairment of growth.
+dementia [L94 n. 失智症] :: Her grandfather suffers from dementia.
+diastole [L94 n. 心臟舒張期] :: Blood fills the heart during diastole.
+disability [L94 n. 身心障礙] NEED_S1 :: The school supports students with disabilities.
+embrocation [L94 n. 擦劑；塗抹藥] :: He rubbed embrocation on his sore knee.
+exhale [L94 v. 呼氣] :: Exhale slowly through your mouth.
+facial [L94 adj. 臉部的] :: Facial expressions show emotion.
+gash [L94 n. 深長的傷口] :: In the battle, the man's mouth was crushed into an ugly, gaping gash.
+gastrointestinal [L94 adj. 腸胃的] :: She suffered from gastrointestinal problems.
+germ [L94 n. 細菌；病菌] :: Wash your hands to kill germs.
+healing [L94 n. 癒合；治療] :: Music can play a role in healing.
+hyposensitize [L94 v. 使減敏；減敏治療] :: Allergy shots hyposensitize patients to pollen.
+impairment [L94 n. 損害；障礙] :: He has a hearing impairment.
+infect [L94 v. 感染] :: The virus infected thousands of people.
+infection [L94 n. 感染] :: The wound developed an infection.
+infectious [L94 adj. 傳染性的] :: Her laughter is infectious.
+jab [L94 v. 打疫苗（口語）；猛戳] NEED_S1 :: Millions were jabbed against the virus.
+laxative [L94 n. 瀉藥] :: The doctor prescribed a mild laxative.
+leprous [L94 adj. 患痲瘋病的] :: Leprous patients were once isolated.
+malarial [L94 adj. 瘧疾的] :: Malarial mosquitoes breed in still water.
+medication [L94 n. 藥物] :: Take your medication after meals.
+metabolic [L94 adj. 新陳代謝的] :: Exercise raises your metabolic rate.
+migraine [L94 n. 偏頭痛] :: She gets migraines when she's stressed.

@@ -147,6 +147,93 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The company's lofty profits seemed to vaporize overnight once auditors exposed its spurious accounting practices, and the ensuing debacle left once-complacent shareholders indignant at the charismatic executives whom they had foolishly esteemed as visionary leaders.",
         "advTranslation": "一旦審計人員揭發這家公司造假的會計手法，其原本高得驚人的利潤彷彿一夜之間蒸發殆盡；隨之而來的慘敗，讓曾經自滿的股東們對那些他們曾愚蠢地敬重為遠見領袖、魅力十足的高層主管憤慨不已。"
+      },
+      {
+        "word": "hurdle",
+        "pos": "n.",
+        "definition": "A problem that must be solved; a barrier to jump over.",
+        "chinese": "障礙；跨欄",
+        "synonyms": "obstacle, barrier, hindrance",
+        "image": "shield",
+        "sentence": "Cost is the biggest __________.",
+        "translation": "成本是最大的障礙。",
+        "lookup": {
+          "english": "A problem that must be solved; a barrier to jump over.",
+          "chinese": "障礙；跨欄"
+        },
+        "advSentence": "Language is often the first hurdle new immigrants must overcome.",
+        "advTranslation": "語言往往是新移民必須克服的第一道障礙。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh",
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "obstruct",
+        "pos": "v.",
+        "definition": "To block.",
+        "chinese": "阻礙；阻擋",
+        "synonyms": "block, hinder, impede",
+        "image": "shield",
+        "sentence": "A fallen tree __________d the road.",
+        "translation": "一棵倒下的樹擋住了道路。",
+        "lookup": {
+          "english": "To block.",
+          "chinese": "阻礙；阻擋"
+        },
+        "advSentence": "Tall buildings obstruct the view of the mountains from the old town.",
+        "advTranslation": "高樓擋住了從舊城區望向群山的視野。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-1-sh"
+        ]
+      },
+      {
+        "word": "obstruction",
+        "pos": "n.",
+        "definition": "Something that blocks; the act of blocking.",
+        "chinese": "阻礙；妨礙",
+        "synonyms": "barrier, blockage, hindrance",
+        "image": "shield",
+        "sentence": "He was charged with __________ of justice.",
+        "translation": "他被控妨礙司法。",
+        "lookup": {
+          "english": "Something that blocks; the act of blocking.",
+          "chinese": "阻礙；妨礙"
+        },
+        "advSentence": "Engineers removed the obstruction from the drainage pipe.",
+        "advTranslation": "工程師清除了排水管中的堵塞物。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh",
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "snag",
+        "pos": "n.",
+        "definition": "An unexpected problem.",
+        "chinese": "意外障礙",
+        "synonyms": "problem, obstacle, hitch",
+        "image": "shield",
+        "sentence": "The plan hit a __________.",
+        "translation": "這個計畫遇到了意外的障礙。",
+        "lookup": {
+          "english": "An unexpected problem.",
+          "chinese": "意外障礙"
+        },
+        "advSentence": "The only snag is that the museum is closed on Mondays.",
+        "advTranslation": "唯一的問題是博物館週一休館。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh"
+        ]
       }
     ],
     "quiz": [
@@ -408,5 +495,21 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "vaporize": [
     "To turn into vapor; to disappear suddenly and completely.",
     "使蒸發；使汽化；消失"
+  ],
+  "hurdle": [
+    "A problem that must be solved; a barrier to jump over.",
+    "障礙；跨欄"
+  ],
+  "obstruct": [
+    "To block.",
+    "阻礙；阻擋"
+  ],
+  "obstruction": [
+    "Something that blocks; the act of blocking.",
+    "阻礙；妨礙"
+  ],
+  "snag": [
+    "An unexpected problem.",
+    "意外障礙"
   ]
 });

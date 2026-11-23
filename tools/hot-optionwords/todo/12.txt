@@ -1,0 +1,140 @@
+prohibitive [L108 adj. （價格）高昂得令人卻步的；禁止的] :: The cost of housing is prohibitive.
+proscription [L108 n. 禁止；排斥] :: The proscription of certain books caused protests.
+rein [L108 n./v. 韁繩；控制] :: The government must rein in spending.
+restrict [L108 v. 限制] :: Access is restricted to staff.
+seal [L108 v. 密封；確定] :: The deal was sealed with a handshake.
+seize [L108 v. 抓住；奪取] :: Seize the opportunity.
+smother [L108 v. 使窒息；覆蓋] :: She smothered the fire with a blanket.
+stifle [L108 v. 扼殺；壓抑] :: Group discussions can be costly and difficult to organize. Furthermore, group dynamics can sometimes stifle views that depart from conventional wisdom.
+strap [L108 v./n. 用帶子綁；手頭緊的] NEED_S1 :: In 1982, Larry Walters rose three miles above Los Angeles while strapped to a seat attached to a huge column of green, red, white, and yellow balloons.
+supervise [L108 v. 監督；管理] :: Teachers supervise students during lunch.
+tether [L108 v. 拴住] :: The goat was tethered to a post.
+throttle [L108 v. 扼殺；限制；掐住] :: European leaders are striving to secure safe passage for oil tankers in the Strait of Hormuz, where scattered attacks have throttled maritime traffic, threatening global energy stability.
+ultimatum [L108 n. 最後通牒] :: The union gave the company an ultimatum.
+withhold [L108 v. 保留；扣留] NEED_S1 :: Jack's promotion is temporarily withheld until the allegations against him are cleared.
+accessory [L109 n. 配件；從犯] :: She chose a silk scarf as the perfect accessory for her dress.
+attire [L109 n. 服裝；衣著] :: Formal attire is required at the ceremony.
+candelabra [L109 n. 燭台；枝狀燭台] :: A silver candelabra stood on the table.
+chalk [L109 n. 粉筆；白堊] :: Dianna and Joanna are different as chalk and cheese.
+chandelier [L109 n. 吊燈] :: A crystal chandelier hung over the stairs.
+cuff [L109 n. 袖口；即興地] :: He spoke off the cuff without any notes.
+drape [L109 v. 披上；覆蓋（布料）] :: The interior designer suggested that they drape the velvet fabric over the sofa to create a luxurious and cozy atmosphere in the living room.
+fabric [L109 n. 布料；結構] :: Crime damages the social fabric.
+garment [L109 n. 衣服；服裝] :: The factory produces cotton garments.
+hatchet [L109 n. 短柄斧；言歸於好] :: The two old enemies finally buried the hatchet.
+jacuzzi [L109 n. 按摩浴缸] :: The hotel rooms have private jacuzzis.
+panga [L109 n. 大砍刀] :: He cut the sugarcane with a panga.
+pannier [L109 n. 馱籃；車邊袋] :: She put her books in the bicycle pannier.
+sartorial [L109 adj. 服裝的] :: He is known for his sartorial elegance.
+spade [L109 n. 鏟子] :: Call a spade a spade.
+wrap [L109 v. 包；裹] NEED_S1 :: Wrapped in paper, the dish of Hainanese chicken and rice is a Singaporean meal and comfort food.
+wrapper [L109 n. 包裝紙] :: Don't throw candy wrappers on the ground.
+aural [L110 adj. 聽覺的] :: Language surrounds us, both in aural and visual modes.
+modality [L110 n. 形式；（感官）模式] NEED_S1 :: Visual and auditory modalities help memory.
+perspire [L110 v. 流汗] :: He perspired in the hot sun.
+sensory [L110 adj. 感官的；知覺的] :: Sensory activities help young learners.
+texture [L110 n. 質地；觸感] :: The cloth has a soft texture.
+throb [L110 v. 抽痛；悸動] NEED_S1 :: My head throbbed with pain.
+tingle [L110 v. 刺痛；發麻] :: My fingers tingled with cold.
+wheeze [L110 v. 喘息；呼哧作響] :: Asthma made him wheeze.
+analyze [L111 v. 分析] :: The scientists analyzed the water samples.
+behavioral [L111 adj. 行為的] :: The therapist studies behavioral changes in children.
+categorization [L111 n. 分類] :: Categorization helps students organize new words.
+characterize [L111 v. 描述…的特徵；以…為特徵] :: The era was characterized by rapid change.
+comb [L111 v. 仔細搜查] :: Police combed the area for evidence.
+comparative [L111 adj. 比較的；相對的] :: The study offers a comparative analysis of two languages.
+conceive [L111 v. 構想；設想] :: The plan was conceived by two engineers.
+conceptual [L111 adj. 概念的] :: The conceptual framework guides the research.
+conjure [L111 v. 使浮現（腦海）] :: The smell of pine conjures memories of Christmas.
+deduce [L111 v. 推斷；推論] :: From the way the rooms were ransacked, we can deduce that the burglar had been inside the house before.
+deductive [L111 adj. 演繹的] :: Deductive reasoning moves from general rules to specific cases.
+detection [L111 n. 偵測；察覺] :: Early detection of cancer saves lives.
+differentiate [L111 v. 區分；區別] :: Teachers differentiate instruction for each learner.
+distinguish [L111 v. 區分；使傑出] :: The characteristic of elasticity is what distinguishes rubber from plastics and fibers.
+entertain [L111 v. 娛樂；考慮（想法）] :: Before the 2008 financial crisis, few banks entertained the thought that housing prices could collapse nationwide and were therefore ill-prepared for the cascading defaults that followed.
+envisage [L111 v. 設想；預想] :: We envisage a school without paper.
+envision [L111 v. 設想；展望] :: She envisions a future in medicine.
+hallucinate [L111 v. 產生幻覺；（AI）一本正經地胡說] :: Generative AI tools are often criticized for their tendency to "hallucinate," producing confident but factually incorrect statements that can mislead unsuspecting users.
+inductively [L111 adv. 歸納地] :: Students learn grammar inductively from examples.
+opt [L111 v. 選擇] :: Many students opted for online classes.
+perception [L111 n. 感知；知覺] :: Public perception of the police has changed.
+perceptual [L111 adj. 知覺的] :: Children develop perceptual skills early.
+pore [L111 v./n. 鑽研；毛孔] :: She pored over the map.
+probe [L111 n. 調查；探測] :: Police launched a probe into the scandal.
+projection [L111 n. 預測；投影] :: Sales projections look good.
+prophecy [L111 n. 預言] :: The prophecy came true.
+reckon [L111 v. 認為；估算] :: I reckon it will rain.
+recollection [L111 n. 回憶；記憶] :: I have no recollection of that day.
+rifle [L111 v./n. 迅速翻找；步槍] :: He rifled through the drawer.
+scan [L111 v. 瀏覽；掃描] :: Scan the article for key words.
+schema [L111 n. 基模；框架] :: Background schema helps reading comprehension.
+schematize [L111 v. 使系統化；圖解] :: The teacher schematized the story on the board.
+scour [L111 v. 徹底搜查；擦洗] :: Police scoured the area for clues.
+sentiment [L111 n. 情感；觀點] :: His speech delivered this morning was aimed at stirring up anti-Japanese sentiment.
+skim [L111 v. 略讀；瀏覽] NEED_S1 :: Skimming for content is a useful reading skill that allows you to grasp the main idea of a passage without reading every word.
+arbutus [L112 n. 野草莓樹] :: The arbutus grows along the rocky coast.
+breed [L112 v. 繁殖；孕育] :: Familiarity breeds contempt.
+canopy [L112 n. 頂篷；樹冠層] :: Monkeys live high in the rainforest canopy.
+carapace [L112 n. （龜、蟹等的）甲殼] :: The turtle pulled its head inside its carapace.
+conifer [L112 n. 針葉樹] :: Conifers keep their needles all winter.
+crustacean [L112 n. 甲殼類動物] :: Shrimp and crabs are crustaceans.
+fertilize [L112 v. 施肥；受精] :: Farmers fertilized the fields in spring.
+foliage [L112 n. 葉子；枝葉] :: The autumn foliage was red and gold.
+heliotrope [L112 n. 向日性植物；天芥菜] :: The daily opening and nightly closing of the leaves of a tamarind tree was observed, but they also found that a heliotrope plant inside a dark room would continue its daily cycles of leaf movement in the absence of sunlight.
+horticulture [L112 n. 園藝] :: She studied horticulture in college.
+integument [L112 n. 外皮；外殼] :: The seed's integument protects it.
+offspring [L112 n. 子女；後代] :: Birds feed their offspring.
+omnivore [L112 n. 雜食動物] :: Omnivores get energy and nutrients from eating a diet containing a large variety of food options, such as plants, animals, algae and fungi. Man is one of them.
+parasite [L112 n. 寄生蟲] :: Ticks are parasites.
+pheromone [L112 n. 費洛蒙] :: Ants use pheromones to communicate.
+pollinate [L112 v. 授粉] :: Bees pollinate flowers.
+pollination [L112 n. 授粉] :: Wind helps pollination.
+proboscis [L112 n. （象等的）長鼻；（昆蟲的）口器] :: Butterflies drink nectar through a proboscis.
+raccoon [L112 n. 浣熊] :: A raccoon raided the trash can.
+scavenge [L112 v. 撿拾（廢物）；覓食腐肉] :: Crows scavenge for food in the trash.
+scavenger [L112 n. 食腐動物；拾荒者] :: Vultures are scavengers.
+sylvan [L112 adj. 森林的；林木茂盛的] :: They walked along a sylvan path.
+topiary [L112 n. 樹木造型修剪] :: The garden is famous for its topiary.
+anthropogenic [L113 adj. 人為的；人類活動造成的] :: Anthropogenic emissions are the main driver of global warming.
+balmy [L113 adj. （天氣）溫和宜人的] :: We enjoyed a balmy evening on the beach.
+biodegradable [L113 adj. 可生物分解的] :: Use biodegradable bags to reduce plastic waste.
+blizzard [L113 n. 暴風雪] :: The blizzard closed all the roads.
+conservancy [L113 n. 保護區管理機構；自然保育] :: The land is managed by a nature conservancy.
+conservationist [L113 n. 自然保護主義者] :: Conservationists are trying to save the tigers.
+continental [L113 adj. 大陸的；洲的] :: On Christmas Eve, a strong continental cold front from the north will probably arrive, traveling east to Taiwan.
+cyclone [L113 n. 氣旋；熱帶風暴] :: The cyclone destroyed thousands of homes.
+fjord [L113 n. 峽灣] :: Norway is famous for its fjords.
+geothermal [L113 adj. 地熱的] :: Iceland uses geothermal energy.
+irrigate [L113 v. 灌溉] :: Farmers irrigate the fields with river water.
+leeward [L113 adj. 背風的] :: The town is on the leeward side of the island.
+meridian [L113 n. 子午線；經線] :: The prime meridian passes through Greenwich.
+parched [L113 adj. 乾涸的；焦乾的] :: The parched land needed rain.
+peninsula [L113 n. 半島] :: Korea is a peninsula.
+promontory [L113 n. 岬；海角] :: A lighthouse stands on the promontory.
+ravine [L113 n. 峽谷；溝壑] :: The car fell into a ravine.
+soaked [L113 adj. 濕透的] :: We got soaked in the rain.
+subaqueous [L113 adj. 水下的] :: Subaqueous volcanoes form islands.
+sweltering [L113 adj. 酷熱的；悶熱的] :: It was a sweltering summer day.
+terrain [L113 n. 地形；地勢] :: The terrain was rough and rocky.
+typhoon [L113 n. 颱風] :: Schools closed because of the typhoon.
+ventilate [L113 v. 使通風] :: Open the windows to ventilate the room.
+vista [L113 n. 遠景；景色] :: The mountain offers a stunning vista.
+broach [L114 v. 提出（話題）；開始討論] :: During the meeting, she carefully broached the controversial issue of corporate malfeasance as she knew it could provoke strong opposition.
+communicative [L114 adj. 溝通的；健談的] :: Communicative language teaching focuses on real interaction.
+inquire [L114 v. 詢問；調查] :: She inquired about the price.
+persuasive [L114 adj. 有說服力的] :: She wrote a persuasive essay.
+plead [L114 v. 懇求；（法庭）答辯] :: She pleaded for more time.
+rejoin [L114 v. 反駁；重新加入] :: "Not true," she rejoined.
+relay [L114 v. 轉達；傳遞] :: Please relay the message to your parents.
+telegram [L114 n. 電報] :: She received a telegram from her son.
+combustible [L115 adj. 易燃的] :: Keep combustible materials away from heat.
+contingency [L115 n. 意外事件；可能性] :: We need a plan for every contingency.
+endanger [L115 v. 危及] :: Pollution endangers marine life.
+eventuality [L115 n. 可能發生的事；不測] :: The insurance industry thrives by monetizing every conceivable eventuality, from a minor fracture to the loss of a life. They profit by commodifying our deep-seated anxiety toward the imagined catastrophes of the future.
+flammable [L115 adj. 易燃的] :: Gasoline is highly flammable.
+hazard [L115 n. 危險；危害] :: Smoking is a health hazard.
+hazardously [L115 adv. 危險地] :: The truck was hazardously overloaded.
+inflammable [L115 adj. 易燃的] :: Keep inflammable liquids away from fire.
+jeopardy [L115 n. 危險] :: Thousands of jobs are in jeopardy.
+peril [L115 n. 危險；危難] :: The sailors faced many perils at sea.
+pose [L115 v. 造成；提出；擺姿勢] :: A small-sized heater is considered convenient and effective for its direct heat to a room, but it can also pose a threat to our house. For example, a fire risk is very likely to exist.

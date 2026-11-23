@@ -307,6 +307,385 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "鳥兒悅耳的鳴唱聲充滿了清晨的空氣。",
         "added": true,
         "group": "hot-18"
+      },
+      {
+        "word": "chant",
+        "pos": "n.",
+        "definition": "Words repeated rhythmically.",
+        "chinese": "吟誦；口號",
+        "synonyms": "slogan, chorus, incantation",
+        "image": "shield",
+        "sentence": "Fans shouted __________s during the game.",
+        "translation": "球迷們在比賽中高喊口號。",
+        "lookup": {
+          "english": "Words repeated rhythmically.",
+          "chinese": "吟誦；口號"
+        },
+        "advSentence": "The monks' low chant echoed through the stone temple.",
+        "advTranslation": "僧侶低沉的吟誦聲在石造寺廟中迴盪。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "croak",
+        "pos": "v.",
+        "definition": "To make the deep sound a frog makes.",
+        "chinese": "(蛙)呱呱叫",
+        "synonyms": "caw, rasp, squawk",
+        "image": "shield",
+        "sentence": "Frogs __________d all night by the pond.",
+        "translation": "青蛙整夜在池塘邊呱呱叫。",
+        "lookup": {
+          "english": "To make the deep sound a frog makes.",
+          "chinese": "(蛙)呱呱叫"
+        },
+        "advSentence": "After cheering all game, the fan could only croak a hoarse goodbye.",
+        "advTranslation": "整場比賽都在加油後，那位球迷只能用沙啞的聲音說再見。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "devocalize",
+        "pos": "v.",
+        "definition": "To make a sound voiceless, or to remove an animal's ability to make sound.",
+        "chinese": "使無聲；去聲",
+        "synonyms": "silence, mute, voice-remove",
+        "image": "shield",
+        "sentence": "Some owners __________ their barking dogs.",
+        "translation": "有些飼主會為愛吠的狗做去聲手術。",
+        "lookup": {
+          "english": "To make a sound voiceless, or to remove an animal's ability to make sound.",
+          "chinese": "使無聲；去聲"
+        },
+        "advSentence": "Animal rights groups argue that it is cruel to devocalize pets.",
+        "advTranslation": "動物權團體主張為寵物去聲是殘忍的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "exclamation",
+        "pos": "n.",
+        "definition": "A sudden short cry or remark.",
+        "chinese": "驚呼；感嘆",
+        "synonyms": "cry, shout, outburst",
+        "image": "shield",
+        "sentence": "She gave an __________ of surprise.",
+        "translation": "她驚訝地叫了一聲。",
+        "lookup": {
+          "english": "A sudden short cry or remark.",
+          "chinese": "驚呼；感嘆"
+        },
+        "advSentence": "An exclamation of delight rose from the crowd as the fireworks began.",
+        "advTranslation": "煙火開始時，人群中爆出一陣歡呼。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh"
+        ]
+      },
+      {
+        "word": "gravelly",
+        "pos": "adj.",
+        "definition": "Full of small stones; (voice) rough and low.",
+        "chinese": "多碎石的；（聲音）沙啞的",
+        "synonyms": "husky, hoarse, rough",
+        "image": "shield",
+        "sentence": "He spoke in a deep, __________ voice.",
+        "translation": "他用低沉沙啞的聲音說話。",
+        "lookup": {
+          "english": "Full of small stones; (voice) rough and low.",
+          "chinese": "多碎石的；（聲音）沙啞的"
+        },
+        "advSentence": "We walked along a gravelly path that crunched under our boots.",
+        "advTranslation": "我們沿著一條碎石小徑走，靴子踩上去嘎吱作響。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "hubbub",
+        "pos": "n.",
+        "definition": "A loud, confused noise of many voices.",
+        "chinese": "喧鬧；嘈雜聲",
+        "synonyms": "noise, din, uproar",
+        "image": "shield",
+        "sentence": "The __________ of the market woke us early.",
+        "translation": "市場的喧鬧聲一早就把我們吵醒。",
+        "lookup": {
+          "english": "A loud, confused noise of many voices.",
+          "chinese": "喧鬧；嘈雜聲"
+        },
+        "advSentence": "Amid the hubbub of the train station, she almost missed the announcement.",
+        "advTranslation": "在車站的嘈雜聲中，她差點錯過廣播。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-kinmen-jh"
+        ]
+      },
+      {
+        "word": "intonation",
+        "pos": "n.",
+        "definition": "The rise and fall of the voice in speaking.",
+        "chinese": "語調",
+        "synonyms": "tone, pitch, cadence",
+        "image": "shield",
+        "sentence": "Rising __________ signals a question.",
+        "translation": "上揚的語調表示疑問句。",
+        "lookup": {
+          "english": "The rise and fall of the voice in speaking.",
+          "chinese": "語調"
+        },
+        "advSentence": "Learners should practice intonation, not just individual sounds.",
+        "advTranslation": "學習者除了個別發音之外，也應該練習語調。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "muffle",
+        "pos": "v.",
+        "definition": "To make a sound quieter.",
+        "chinese": "使（聲音）減弱",
+        "synonyms": "deaden, dampen, silence",
+        "image": "shield",
+        "sentence": "Snow __________d the sound of traffic.",
+        "translation": "雪讓交通的聲音變得模糊微弱。",
+        "lookup": {
+          "english": "To make a sound quieter.",
+          "chinese": "使（聲音）減弱"
+        },
+        "advSentence": "Thick curtains muffle the noise from the busy street below.",
+        "advTranslation": "厚重的窗簾減弱了樓下繁忙街道的噪音。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "murmur",
+        "pos": "v.",
+        "definition": "To speak very softly.",
+        "chinese": "低語；喃喃",
+        "synonyms": "whisper, mutter, mumble",
+        "image": "shield",
+        "sentence": "She __________d a quiet thank-you.",
+        "translation": "她輕聲說了一句謝謝。",
+        "lookup": {
+          "english": "To speak very softly.",
+          "chinese": "低語；喃喃"
+        },
+        "advSentence": "A murmur of disapproval spread through the audience.",
+        "advTranslation": "一陣不以為然的低語在觀眾之間蔓延。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "mutter",
+        "pos": "v.",
+        "definition": "To speak quietly and unclearly, often in complaint.",
+        "chinese": "喃喃自語；抱怨",
+        "synonyms": "mumble, murmur, grumble",
+        "image": "shield",
+        "sentence": "He __________d something about unfair tests.",
+        "translation": "他小聲抱怨考試不公平。",
+        "lookup": {
+          "english": "To speak quietly and unclearly, often in complaint.",
+          "chinese": "喃喃自語；抱怨"
+        },
+        "advSentence": "The old man would mutter to himself as he walked through the park.",
+        "advTranslation": "那位老人走過公園時常常喃喃自語。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-ntpc-jh"
+        ]
+      },
+      {
+        "word": "percussion",
+        "pos": "n.",
+        "definition": "Musical instruments you hit.",
+        "chinese": "打擊樂器",
+        "synonyms": "drums, rhythm section, beat",
+        "image": "shield",
+        "sentence": "He plays __________ in the band.",
+        "translation": "他在樂團負責打擊樂器。",
+        "lookup": {
+          "english": "Musical instruments you hit.",
+          "chinese": "打擊樂器"
+        },
+        "advSentence": "The percussion section gave the march its powerful rhythm.",
+        "advTranslation": "打擊樂組為這首進行曲帶來強勁的節奏。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "percussive",
+        "pos": "adj.",
+        "definition": "Relating to hitting or striking, as with drums.",
+        "chinese": "敲擊的；打擊樂的",
+        "synonyms": "rhythmic, drumming, striking",
+        "image": "shield",
+        "sentence": "The song has a __________ beat.",
+        "translation": "這首歌有強烈的打擊節奏。",
+        "lookup": {
+          "english": "Relating to hitting or striking, as with drums.",
+          "chinese": "敲擊的；打擊樂的"
+        },
+        "advSentence": "The dancers' percussive footwork filled the hall with sound.",
+        "advTranslation": "舞者如擊鼓般的踏步聲響徹整個大廳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "purr",
+        "pos": "v.",
+        "definition": "(of a cat) to make a soft low sound.",
+        "chinese": "（貓）發出呼嚕聲",
+        "synonyms": "hum, murmur, drone",
+        "image": "shield",
+        "sentence": "The cat __________d on my lap.",
+        "translation": "貓咪在我腿上發出呼嚕聲。",
+        "lookup": {
+          "english": "(of a cat) to make a soft low sound.",
+          "chinese": "（貓）發出呼嚕聲"
+        },
+        "advSentence": "The new electric car's engine barely makes a purr.",
+        "advTranslation": "那輛新電動車的引擎幾乎只發出輕微的嗡嗡聲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "reverberate",
+        "pos": "v.",
+        "definition": "To echo; to have wide and continuing effects.",
+        "chinese": "迴響；產生廣泛影響",
+        "synonyms": "echo, resound, have repercussions",
+        "image": "shield",
+        "sentence": "Long after the explosion died away, its sound seemed to __________ in everyone's ears.",
+        "translation": "爆炸聲消散許久之後，那聲響彷彿仍在每個人耳中迴盪。",
+        "lookup": {
+          "english": "To echo; to have wide and continuing effects.",
+          "chinese": "迴響；產生廣泛影響"
+        },
+        "advSentence": "The effects of the decision will reverberate through the economy for years.",
+        "advTranslation": "這項決定的影響將在經濟中持續擴散多年。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh",
+          "108-ntpc-jh"
+        ]
+      },
+      {
+        "word": "roar",
+        "pos": "v.",
+        "definition": "To make a loud deep sound.",
+        "chinese": "吼叫；轟鳴",
+        "synonyms": "bellow, thunder, howl",
+        "image": "shield",
+        "sentence": "The lion __________d.",
+        "translation": "獅子吼叫。",
+        "lookup": {
+          "english": "To make a loud deep sound.",
+          "chinese": "吼叫；轟鳴"
+        },
+        "advSentence": "The crowd let out a deafening roar when the home team scored.",
+        "advTranslation": "地主隊得分時，群眾爆出震耳欲聾的歡呼聲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "rumble",
+        "pos": "v.",
+        "definition": "To make a long, low, deep sound.",
+        "chinese": "發出隆隆聲",
+        "synonyms": "thunder, roar, boom",
+        "image": "shield",
+        "sentence": "Thunder __________d in the distance.",
+        "translation": "遠處雷聲隆隆。",
+        "lookup": {
+          "english": "To make a long, low, deep sound.",
+          "chinese": "發出隆隆聲"
+        },
+        "advSentence": "The rumble of distant trucks kept the residents awake at night.",
+        "advTranslation": "遠處卡車的隆隆聲讓居民夜裡睡不著。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "shrillness",
+        "pos": "n.",
+        "definition": "The quality of being high and loud in sound.",
+        "chinese": "尖銳刺耳",
+        "synonyms": "piercingness, sharpness, harshness",
+        "image": "shield",
+        "sentence": "The __________ of the alarm woke everyone.",
+        "translation": "警報的尖銳聲吵醒了所有人。",
+        "lookup": {
+          "english": "The quality of being high and loud in sound.",
+          "chinese": "尖銳刺耳"
+        },
+        "advSentence": "The shrillness of her voice betrayed her panic.",
+        "advTranslation": "她尖銳的聲音洩露了她的恐慌。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "tinkle",
+        "pos": "v.",
+        "definition": "To make light, high ringing sounds.",
+        "chinese": "發出叮噹聲",
+        "synonyms": "jingle, chime, ring",
+        "image": "shield",
+        "sentence": "Bells __________d in the wind.",
+        "translation": "風鈴在風中叮噹作響。",
+        "lookup": {
+          "english": "To make light, high ringing sounds.",
+          "chinese": "發出叮噹聲"
+        },
+        "advSentence": "The tinkle of ice in the glasses signaled that the party had begun.",
+        "advTranslation": "杯中冰塊的叮噹聲宣告派對開始了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-hccg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -628,5 +1007,77 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "melodious": [
     "Pleasant to hear, like music.",
     "悅耳的;旋律優美的"
+  ],
+  "chant": [
+    "Words repeated rhythmically.",
+    "吟誦；口號"
+  ],
+  "croak": [
+    "To make the deep sound a frog makes.",
+    "(蛙)呱呱叫"
+  ],
+  "devocalize": [
+    "To make a sound voiceless, or to remove an animal's ability to make sound.",
+    "使無聲；去聲"
+  ],
+  "exclamation": [
+    "A sudden short cry or remark.",
+    "驚呼；感嘆"
+  ],
+  "gravelly": [
+    "Full of small stones; (voice) rough and low.",
+    "多碎石的；（聲音）沙啞的"
+  ],
+  "hubbub": [
+    "A loud, confused noise of many voices.",
+    "喧鬧；嘈雜聲"
+  ],
+  "intonation": [
+    "The rise and fall of the voice in speaking.",
+    "語調"
+  ],
+  "muffle": [
+    "To make a sound quieter.",
+    "使（聲音）減弱"
+  ],
+  "murmur": [
+    "To speak very softly.",
+    "低語；喃喃"
+  ],
+  "mutter": [
+    "To speak quietly and unclearly, often in complaint.",
+    "喃喃自語；抱怨"
+  ],
+  "percussion": [
+    "Musical instruments you hit.",
+    "打擊樂器"
+  ],
+  "percussive": [
+    "Relating to hitting or striking, as with drums.",
+    "敲擊的；打擊樂的"
+  ],
+  "purr": [
+    "(of a cat) to make a soft low sound.",
+    "（貓）發出呼嚕聲"
+  ],
+  "reverberate": [
+    "To echo; to have wide and continuing effects.",
+    "迴響；產生廣泛影響"
+  ],
+  "roar": [
+    "To make a loud deep sound.",
+    "吼叫；轟鳴"
+  ],
+  "rumble": [
+    "To make a long, low, deep sound.",
+    "發出隆隆聲"
+  ],
+  "shrillness": [
+    "The quality of being high and loud in sound.",
+    "尖銳刺耳"
+  ],
+  "tinkle": [
+    "To make light, high ringing sounds.",
+    "發出叮噹聲"
   ]
 });

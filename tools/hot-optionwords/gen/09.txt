@@ -1,0 +1,140 @@
+neurologic | 他有神經方面的疾病。 | Neurologic symptoms such as numbness should be checked by a doctor. | 麻木等神經症狀應由醫生檢查。
+ophthalmic | 她在眼科診所工作。 | The ophthalmic surgeon removed the cataract in twenty minutes. | 眼科醫師在二十分鐘內摘除了白內障。
+pancreas | 胰臟會分泌胰島素。 | Diabetes occurs when the pancreas does not make enough insulin. | 當胰臟無法分泌足夠的胰島素時，就會罹患糖尿病。
+pediatrics | 小兒科專門處理嬰兒與兒童的醫療照護。 | She chose pediatrics because she loves working with children. | 她選擇小兒科，因為她喜歡和孩子相處。
+physiological | 壓力會引起生理變化。 | Hunger is a physiological need, while belonging is a psychological one. | 飢餓是生理需求，而歸屬感是心理需求。
+podiatry | 她學的是足科醫學。 | Diabetic patients often need regular podiatry checkups. | 糖尿病患者常需要定期做足部檢查。
+polio | 疫苗幾乎消滅了小兒麻痺症。 | The former president walked with braces after he contracted polio. | 那位前總統感染小兒麻痺後需要靠支架行走。
+puff | 他爬完樓梯氣喘吁吁。 | The old train puffed slowly up the mountain. | 老火車噗噗地緩緩爬上山。
+recuperate | 美洲原住民非常體貼地對待那些歐洲移民，堅持要他們留在營地，直到從苦難中完全康復。 | The athlete needed two months to recuperate from knee surgery. | 那位運動員膝蓋手術後需要兩個月康復。
+rehabilitative | 監獄應該具有矯正功能。 | The hospital offers rehabilitative care for stroke patients. | 這家醫院為中風病人提供復健照護。
+respiratory | 大多數感染 MERS 病毒的人都出現嚴重的呼吸道疾病，症狀包括發燒、咳嗽與呼吸急促。 | Air pollution can cause respiratory problems in young children. | 空氣污染可能導致幼童出現呼吸道問題。
+restorative | 睡眠具有恢復元氣的效果。 | A walk in the forest can be wonderfully restorative. | 在森林裡散步能讓人恢復元氣。
+skeleton | 博物館展示一具恐龍骨骼。 | The skeleton of the new stadium is already visible from the highway. | 從高速公路上已經可以看到新體育場的骨架。
+syndrome | 唐氏症是一種基因疾病。 | Dry eye syndrome is common among people who use screens all day. | 乾眼症在整天使用螢幕的人之中很常見。
+systole | 血壓在心臟收縮期達到最高。 | During systole, the heart pumps blood into the arteries. | 心臟收縮期時，心臟把血液打入動脈。
+urologist | 泌尿科醫師檢查了他的腎臟。 | The urologist recommended drinking more water every day. | 泌尿科醫師建議每天多喝水。
+vaccinate | 孩子們接種了麻疹疫苗。 | Pet owners must vaccinate their dogs against rabies. | 寵物飼主必須為狗施打狂犬病疫苗。
+vaccine | 這種疫苗兒童免費接種。 | Scientists developed the vaccine in less than a year. | 科學家不到一年就研發出這種疫苗。
+vein | 這部電影和他早期作品風格相同。 | The nurse found a vein in his arm to draw blood. | 護理師在他手臂上找到靜脈抽血。
+visage | 他嚴厲的面容嚇壞了孩子們。 | The statue's calm visage has watched over the harbor for centuries. | 這座雕像平靜的面容守望港口已有數百年。
+bot | 機器人程式在社群媒體上散播假新聞。 | The website uses a chat bot to answer simple questions. | 這個網站用聊天機器人回答簡單的問題。
+browsing | 無痕瀏覽並不能對雇主隱藏你的上網活動。 | Hours of aimless browsing left him with no time for homework. | 漫無目的地瀏覽好幾個小時，讓他沒時間寫功課。
+drone | 有些城市用無人機送包裹。 | The drone of the air conditioner made it hard to sleep. | 冷氣的嗡嗡聲讓人難以入睡。
+initialize | 使用前先將裝置初始化。 | The program will initialize all values to zero. | 程式會把所有數值初始化為零。
+mechanism | 大腦有儲存記憶的機制。 | The lock's mechanism was too old to repair. | 這把鎖的機械裝置太舊，無法修理。
+virtual | 我們開了一場視訊會議。 | Students took a virtual tour of the museum from their classroom. | 學生在教室裡進行博物館的虛擬導覽。
+acquisition | 語言習得在幼兒時期自然發生。 | The museum's latest acquisition is a Qing dynasty vase. | 博物館最新購得的藏品是一只清代花瓶。
+advertiser | 廣告商在社群媒體上鎖定年輕觀眾。 | Advertisers pay more to show ads during the World Series. | 廣告商在世界大賽期間播廣告要付更多錢。
+allowance | 我父母每週給我零用錢。 | Each passenger has a baggage allowance of twenty kilograms. | 每位乘客的行李限額為二十公斤。
+barter | 村民用魚交換米。 | Before money existed, people would barter goods and services. | 在金錢出現之前，人們以物易物交換商品和服務。
+commercially | 這項產品尚未在市面上販售。 | The film was praised by critics but failed commercially. | 這部電影受到影評稱讚，但在商業上失敗了。
+commodity | 咖啡是世界貿易中重要的商品。 | Clean water is becoming a precious commodity in many regions. | 在許多地區，乾淨的水正成為珍貴的資源。 | Coffee is an important commodity in world trade.
+consortium | 一個銀行團資助興建了這座橋。 | A consortium of universities shares the expensive telescope. | 一個大學聯盟共用這座昂貴的望遠鏡。
+currency | 歐元是許多歐洲國家的貨幣。 | The idea of a four-day work week is gaining currency. | 每週工作四天的想法越來越受到認同。
+deposit | 河流在出海口沉積泥沙。 | Remember to deposit your paycheck before Friday. | 記得在星期五前把薪水存進銀行。
+disburse | 總理宣布州衛生部將撥款給地方衛生單位，用於研發新型流感的疫苗病毒株。 | The charity will disburse the money directly to flood victims. | 這個慈善團體將把錢直接發放給水災災民。
+divestment | 學生呼籲從化石燃料撤資。 | The company's divestment of its hotel business surprised investors. | 公司出售旗下飯店事業讓投資人感到意外。
+emoluments | 董事的薪酬包括一輛車。 | Officials must report all emoluments they receive from outside jobs. | 官員必須申報所有從外部工作獲得的報酬。
+fiscal | 會計年度在十二月結束。 | The government faces a fiscal crisis after years of overspending. | 多年過度支出後，政府面臨財政危機。
+franchise | 他擁有一家速食加盟店。 | The superhero film franchise has earned billions of dollars. | 這個超級英雄電影系列已經賺進數十億美元。
+indemnify | 根據新政策，公司同意賠償所有員工先前的損失。 | The insurance policy will indemnify you against loss by fire. | 這份保險會賠償你因火災造成的損失。
+indemnity | 公司向受害者支付了賠償金。 | The defeated country was forced to pay a huge indemnity. | 戰敗國被迫支付巨額賠款。
+inheritance | 他把遺產花在旅行上。 | Language is part of our cultural inheritance. | 語言是我們文化傳承的一部分。
+inventory | 這家店每個月盤點存貨。 | She made an inventory of everything in the old house. | 她把老房子裡的所有東西列了一份清單。
+liquidate | 這家經營不善的公司被清算了。 | The family had to liquidate their savings to pay the hospital bills. | 這家人必須變賣積蓄來支付醫藥費。
+manufacturer | 鋼鐵的發明讓建築商能蓋出更堅固的建築，汽車製造商能造出更輕的車輛，主婦也能使用不會生鏽的刀具。 | The manufacturer recalled thousands of cars with faulty brakes. | 製造商召回數千輛煞車有問題的汽車。
+merchandize | 這家店在網路上銷售服飾。 | The museum merchandizes its famous paintings on mugs and T-shirts. | 博物館把名畫印在馬克杯和 T 恤上販售。
+pension | 他靠微薄的退休金生活。 | Many young workers worry that the pension system will go bankrupt. | 許多年輕勞工擔心年金制度會破產。
+ply | 小販在街上兜售商品。 | Ferries ply between Kaohsiung and the outlying islands. | 渡輪往返於高雄與離島之間。 | Street vendors ply their goods along the night market.
+rebate | 你可以申請退稅。 | Buyers of electric scooters receive a government rebate. | 購買電動機車的民眾可獲得政府補助。
+recession | 這些虧損反映出幾乎各行業企業突然停業所造成的嚴重經濟衰退。 | Many small shops closed during the recession. | 經濟衰退期間許多小店關門了。
+remit | Ethan 報了稅，卻沒有繳納應付的稅款。 | Many migrant workers remit money to their families every month. | 許多移工每個月匯款給家人。 | Ethan filed his tax return but failed to remit what he owed.
+subsidiary | 這家公司在亞洲有子公司。 | The phone maker set up a subsidiary to sell its products in India. | 這家手機製造商成立子公司在印度銷售產品。 | The company opened a subsidiary in Vietnam last year.
+subsidizer | 納稅人才是這家航空公司真正的補助者。 | The government is the main subsidizer of public transportation. | 政府是大眾運輸的主要補助者。
+subsidy | 農民獲得政府補助。 | Without the subsidy, many rural bus lines would close. | 沒有補助的話，許多鄉村公車路線會停駛。 | Farmers receive a subsidy for growing organic rice.
+transact | 顧客可以在網路上交易。 | Most people now transact their banking business on their phones. | 現在多數人都在手機上辦理銀行業務。
+usury | 放高利貸曾是一種罪行。 | Many religions have condemned usury throughout history. | 歷史上許多宗教都譴責放高利貸。
+alibi | 嫌犯聲稱犯案時他不在城裡，但調查人員很快發現他所謂的不在場證明有矛盾之處。 | "I was asleep" is not much of an alibi. | 「我在睡覺」算不上什麼不在場證明。
+arraign | 嫌犯以謀殺罪被提審。 | The protesters were arraigned in court the next morning. | 抗議者隔天早上被傳喚出庭。
+assize | 這個案子在郡巡迴法庭審理。 | In old England, judges traveled from town to town to hold the assizes. | 在古代英格蘭，法官巡迴各城鎮舉行巡迴審判。
+burglary | 裝設路燈後，竊盜率下降了。 | The family installed cameras after a burglary next door. | 隔壁遭竊後，這家人裝了監視器。
+confiscate | 海關人員利用先進設備查扣了五個貨櫃，每個貨櫃裝有十公斤海洛因。 | Teachers may confiscate phones that ring during class. | 老師可以沒收在課堂上響起的手機。
+confiscation | 沒收手機讓學生很生氣。 | The court ordered the confiscation of the smuggler's boat. | 法院下令沒收走私者的船。
+contraband | 海關人員查獲了走私品。 | Guards searched the prisoners' cells for contraband. | 獄警搜查囚犯的牢房尋找違禁品。
+convict | 他被判詐欺罪。 | There was not enough evidence to convict the suspect. | 沒有足夠的證據將嫌犯定罪。
+culpability | 法院將判定他是否有罪。 | The company refused to admit any culpability for the oil spill. | 公司拒絕承認對漏油事件有任何責任。
+extort | 那個幫派向店家勒索錢財。 | Hackers tried to extort money by locking the hospital's computers. | 駭客鎖住醫院的電腦，企圖勒索錢財。
+felony | 那名年輕男子被判重罪謀殺，處以二十五年徒刑。 | In many countries, drunk driving that causes death is a felony. | 在許多國家，酒駕致死屬於重罪。
+impeach | 國會投票彈劾總統。 | Lawmakers threatened to impeach the minister over the scandal. | 立法委員揚言要因醜聞彈劾該部長。
+impeachable | 宣誓後說謊是可被彈劾的罪行。 | Critics argued that abusing public funds was an impeachable act. | 批評者認為濫用公款是可被彈劾的行為。
+impeachment | 彈劾審判持續了兩週。 | The impeachment of the president divided the nation. | 總統遭彈劾讓全國陷入分裂。
+impound | 警方扣押了違規停放的車輛。 | Customs officers impound fake goods at the border. | 海關人員在邊境扣押仿冒品。
+imprisonment | 當局發布公告，要求全體公民不得出租或出售任何財產給外國人，違者處以監禁。 | The thief was sentenced to three years' imprisonment. | 那名小偷被判處三年徒刑。
+incarcerate | 他被監禁了十年。 | Some countries incarcerate more of their citizens than others. | 有些國家監禁的人民比例比其他國家高。
+launder | 那個幫派透過賭場洗錢。 | The hotel will launder your clothes overnight. | 飯店會在一夜之間幫你把衣服洗燙好。
+liable | 你要為任何損害負責。 | Wooden houses are liable to catch fire in dry weather. | 木屋在乾燥的天氣容易起火。
+litigate | 公司決定提起訴訟。 | The two companies chose to litigate rather than negotiate. | 兩家公司選擇打官司而不是協商。
+misdemeanor | 順手牽羊屬於輕罪。 | Parking in a fire lane is only a misdemeanor, but it can be dangerous. | 在消防通道停車只是輕微違規，但可能很危險。
+ordinance | 一項市府條例禁止在公園吸菸。 | The new ordinance limits noise after ten at night. | 新條例限制晚上十點後的噪音。
+perjury | 他被控偽證罪。 | The witness committed perjury to protect his brother. | 那名證人為了保護弟弟而作偽證。
+pirate | 盜版電影是違法的。 | Some websites pirate textbooks and sell them cheaply. | 有些網站盜版教科書並廉價販售。 | It is illegal to pirate movies and share them online.
+probate | 這份遺囑正在進行認證。 | The house cannot be sold until probate is complete. | 遺囑認證完成之前，房子不能出售。
+probation | 由於是初犯，犯人沒有被送進監獄，而是被判緩刑六個月。 | New employees work on probation for the first three months. | 新進員工前三個月是試用期。
+proceedings | 對他的法律訴訟已經展開。 | The proceedings of the conference will be published online. | 研討會的會議紀錄將在網路上發表。
+remand | 嫌犯被還押看守。 | The judge decided to remand the suspect until the trial. | 法官決定在審判前將嫌犯還押。
+smuggle | 這些材料被認為可能危害人體健康，禁止進口，但商人仍偷偷走私進來。 | The gang tried to smuggle rare birds across the border. | 那個集團企圖走私稀有鳥類越過邊境。
+statutory | 法定假日照常支薪。 | Employers must follow the statutory minimum wage. | 雇主必須遵守法定最低工資。
+subpoena | 那位調查記者收到傳票，要求他透露近期揭發政府貪腐報導的機密消息來源時，大為震驚。 | The court issued a subpoena ordering the manager to testify. | 法院發出傳票，命令經理出庭作證。
+tribunal | 戰爭罪法庭成立了。 | A labor tribunal will decide whether the dismissal was fair. | 勞資爭議仲裁庭將判定這次解僱是否合理。
+accountability | 選民要求民選官員更加負責。 | Schools need clear accountability for how they spend public money. | 學校需要對公帑的使用有明確的問責機制。
+accountable | 主管要為團隊的成果負責。 | Parents should hold children accountable for their own chores. | 父母應讓孩子對自己的家務負責。
+ambush | 士兵們中了埋伏。 | Reporters were waiting to ambush the actor outside his hotel. | 記者們在飯店外埋伏堵那位演員。
+bombardment | 使用者面臨廣告的狂轟濫炸。 | The city was destroyed by months of bombardment. | 這座城市在數月的轟炸中被摧毀。
+bureaucracy | 官僚體制拖慢了審核流程。 | Small business owners complain about endless bureaucracy. | 小企業主抱怨沒完沒了的官僚程序。
+civilian | 數千名平民逃離戰區。 | The former soldier struggled to adjust to civilian life. | 那名退伍軍人難以適應平民生活。
+codify | 這些規則被編入法律。 | The school decided to codify its unwritten dress rules. | 學校決定把不成文的服裝規定寫成條文。 | Lawmakers plan to codify the new privacy rules.
+colonize | 植物很快就在燒過的森林裡生長蔓延。 | European powers began to colonize Africa in the nineteenth century. | 歐洲列強在十九世紀開始殖民非洲。
+crossbow | 中世紀的士兵用十字弓作戰。 | The hunter aimed his crossbow at the wild boar. | 獵人把十字弓瞄準野豬。
+decentralize | 政府把權力下放給地方議會。 | Online work allows companies to decentralize their offices. | 遠距工作讓企業能分散辦公地點。
+depose | 國王被軍隊罷黜。 | The rebels tried to depose the president by force. | 叛軍試圖以武力推翻總統。
+deputation | 一個工人代表團與經理會面。 | A deputation of parents visited the mayor to ask for a new crossing. | 一群家長代表拜訪市長，要求設置新的行人穿越道。
+electorate | 選民否決了這項提案。 | Young voters now make up a large part of the electorate. | 年輕選民現在佔全體選民很大的比例。
+enact | 國會制定了新的槍枝法。 | Students enacted a scene from the play in front of the class. | 學生在全班面前演出劇中的一幕。
+enlist | 他十八歲加入海軍。 | The school enlisted parents to help with the sports day. | 學校招募家長協助運動會。
+escalade | 士兵們試圖以雲梯攻上城牆。 | The escalade failed when defenders pushed the ladders away. | 守軍把梯子推倒，雲梯攻城因此失敗。
+formalize | 兩家公司正式確立了合作關係。 | The couple decided to formalize their relationship by getting married. | 這對情侶決定以結婚來使彼此的關係正式化。
+gladiator | 角鬥士在羅馬競技場中戰鬥。 | The film tells the story of a gladiator who seeks revenge on an emperor. | 這部電影講述一名角鬥士向皇帝復仇的故事。
+grenade | 士兵丟出一顆手榴彈。 | Police used a smoke grenade to clear the street. | 警方使用煙霧彈驅散街上的人群。
+legislate | 國會針對隱私權訂定新法。 | It is difficult to legislate against rudeness. | 要用立法來對付無禮行為是很困難的。
+lobby | 農民遊說要求降稅。 | Environmental groups lobby for stricter pollution laws. | 環保團體遊說推動更嚴格的污染法規。 | Farmers began to lobby for lower taxes.
+nominate | 她獲得提名角逐一個獎項。 | Each class will nominate one student for the council. | 每班將提名一位學生參選學生會。
+nomination | 這部電影獲得五項提名。 | Her nomination as minister surprised many observers. | 她被提名為部長讓許多觀察家感到意外。
+onslaught | 小鎮撐過了敵軍的猛攻。 | Small shops struggled under the onslaught of online retailers. | 小商店在網路零售商的猛烈衝擊下苦苦掙扎。
+reconnaissance | 軍隊派飛機去偵察。 | Before buying the house, they did some reconnaissance of the neighborhood. | 買房子之前，他們先在附近勘察了一番。
+regime | 根據逃離北韓政權的脫北者所述，穿著被認為「太西化」服裝的人可能遭到公開羞辱或處罰。 | The new exercise regime helped her lose weight. | 新的運動計畫幫助她減重。
+sovereignty | 這個國家捍衛了自己的主權。 | The two countries disagree over the sovereignty of the islands. | 兩國對這些島嶼的主權看法不一。
+theocracy | 伊朗常被形容為神權國家。 | In a theocracy, religious leaders also hold political power. | 在神權國家中，宗教領袖同時掌握政治權力。
+topple | 叛軍推翻了政府。 | Strong winds toppled several trees along the road. | 強風吹倒了路旁好幾棵樹。
+unionists | 工會成員遊行爭取更好的工資。 | Unionists in Northern Ireland want to stay part of the United Kingdom. | 北愛爾蘭的聯合主義者希望留在英國。
+unratified | 這項條約仍未獲批准。 | The unratified agreement has no legal force. | 這項未經批准的協議不具法律效力。
+veto | 總統否決了這項法案。 | Each member of the council has the power to veto a decision. | 理事會的每位成員都有否決權。
+carnival | 這座小鎮每年春天舉辦嘉年華。 | The Rio carnival attracts millions of visitors every year. | 里約嘉年華每年吸引數百萬遊客。
+cathedral | 遊客擠進古老的大教堂。 | The cathedral took more than a century to build. | 這座大教堂花了一個多世紀才建成。
+celibacy | 奉行獨身的人試圖禁慾，避免與他人有任何身體上的親密接觸。 | Catholic priests take a vow of celibacy. | 天主教神父立誓守貞獨身。
+cotillion | 她穿著白色禮服參加沙龍舞會。 | Young women once made their social debut at a cotillion. | 年輕女性過去會在社交舞會上初次登場。
+egalitarian | 國際論壇上讚揚臺灣作為亞洲人權燈塔的重要地位，凸顯其促進更平等、更包容社會的進步政策。 | The school has an egalitarian culture in which students call teachers by their first names. | 這所學校有平等的文化，學生直呼老師的名字。
+ethos | 這所學校的精神重視善良。 | The company's ethos is "customers first." | 這家公司的精神是「顧客至上」。
+halal | 這家餐廳供應清真食物。 | Some convenience stores now sell halal snacks for Muslim visitors. | 有些便利商店現在為穆斯林遊客販售清真零食。
+homophile | 早期爭取同志權益的團體自稱 homophile，意思是「愛同性者」。 | The homophile groups of the 1950s laid the foundation for later gay-rights movements. | 1950 年代的同志團體為後來的同志權益運動奠定了基礎。 | Early gay-rights groups in the 1950s called themselves homophile organizations.
+incantation | 女巫喃喃念著咒語。 | The shaman chanted an incantation to bring rain. | 巫師念誦咒語祈雨。
+invocation | 典禮以祈禱開場。 | The judge's invocation of an old law surprised the lawyers. | 法官援引一條舊法讓律師們很驚訝。
+mantra | 「熟能生巧」是她的座右銘。 | "Reduce, reuse, recycle" has become the mantra of the green movement. | 「減量、重複使用、回收」已成為環保運動的口號。
+masculine | 這個字在法文中是陽性。 | The designer combined soft colors with masculine shapes. | 設計師把柔和的色彩和陽剛的造型結合在一起。
+monastery | 僧侶們住在山中的修道院。 | Visitors can stay overnight at the Buddhist monastery. | 遊客可以在這座佛寺過夜。
+norm | 不同文化有不同的社會規範。 | Working from home has become the norm for many office workers. | 在家工作已成為許多上班族的常態。
+parade | 他開著新車在鎮上四處炫耀。 | Thousands watched the lantern parade through the old town. | 數千人觀看花燈遊行穿過舊城區。
+prayer | 他們晚餐前做禱告。 | The temple is filled with prayers for good exam results. | 廟裡滿是祈求考試順利的祈禱。
+prophet | 穆斯林追隨先知穆罕默德。 | Some economists act like prophets, but their predictions often fail. | 有些經濟學家表現得像先知，但他們的預測常常失準。
+rabbi | 拉比帶領大家禱告。 | The rabbi explained the meaning of the Jewish holiday. | 拉比解釋這個猶太節日的意義。
+redemption | 盜用公款醜聞曝光後，這位身敗名裂的政治人物聲譽已無法挽回，東山再起的希望化為泡影。 | The film is a story of loss and redemption. | 這部電影是一個關於失落與救贖的故事。

@@ -327,6 +327,222 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他神秘的缺席讓辦公室裡的每個人都感到困惑。",
         "added": true,
         "group": "sat-vague"
+      },
+      {
+        "word": "garble",
+        "pos": "v.",
+        "definition": "To confuse or distort a message so it is hard to understand.",
+        "chinese": "曲解；使混亂不清",
+        "synonyms": "distort, jumble, confuse",
+        "image": "shield",
+        "sentence": "The message was __________d over the bad connection.",
+        "translation": "因為收訊不良，訊息變得混亂不清。",
+        "lookup": {
+          "english": "To confuse or distort a message so it is hard to understand.",
+          "chinese": "曲解；使混亂不清"
+        },
+        "advSentence": "The translation app tends to garble long sentences.",
+        "advTranslation": "翻譯軟體往往會把長句翻得亂七八糟。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh",
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "generalization",
+        "pos": "n.",
+        "definition": "A broad statement based on only a few examples.",
+        "chinese": "概括；以偏概全的說法",
+        "synonyms": "overgeneralization, sweeping statement, abstraction",
+        "image": "shield",
+        "sentence": "One rude staff member does not accurately represent our entire dedicated team. Please don't make a __________ about our restaurant based on your bad experience with that one waiter.",
+        "translation": "一位無禮的員工並不能代表我們整個用心的團隊，請不要因為與那位服務生的不愉快經驗，就對我們餐廳以偏概全。",
+        "lookup": {
+          "english": "A broad statement based on only a few examples.",
+          "chinese": "概括；以偏概全的說法"
+        },
+        "advSentence": "\"All teenagers are lazy\" is an unfair generalization.",
+        "advTranslation": "「所有青少年都很懶」是不公平的以偏概全。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nycu-sh"
+        ]
+      },
+      {
+        "word": "indeterminable",
+        "pos": "adj.",
+        "definition": "Impossible to decide or measure exactly.",
+        "chinese": "無法確定的",
+        "synonyms": "uncertain, unknowable, undeterminable",
+        "image": "shield",
+        "sentence": "The age of the painting is __________.",
+        "translation": "這幅畫的年代無法確定。",
+        "lookup": {
+          "english": "Impossible to decide or measure exactly.",
+          "chinese": "無法確定的"
+        },
+        "advSentence": "The cause of the fire remains indeterminable.",
+        "advTranslation": "火災的原因至今仍無法確定。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "obscurity",
+        "pos": "n.",
+        "definition": "The state of not being known or famous.",
+        "chinese": "默默無聞；不出名",
+        "synonyms": "anonymity, unimportance, vagueness",
+        "image": "shield",
+        "sentence": "The novelist spent decades living in __________, only gaining worldwide recognition after her death.",
+        "translation": "這位小說家默默無聞地生活了數十年，直到去世後才獲得全球肯定。",
+        "lookup": {
+          "english": "The state of not being known or famous.",
+          "chinese": "默默無聞；不出名"
+        },
+        "advSentence": "The meaning of the ancient text is lost in obscurity.",
+        "advTranslation": "這篇古文的意義已湮沒不明。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "paradoxical",
+        "pos": "adj.",
+        "definition": "Seeming to contradict itself but possibly true.",
+        "chinese": "矛盾的；似非而是的",
+        "synonyms": "contradictory, puzzling, ironic",
+        "image": "shield",
+        "sentence": "It seems __________ that those people who claim to love animals still purchase fashion products made of animal fur.",
+        "translation": "那些自稱愛護動物的人仍購買動物毛皮製成的時尚產品，看起來很矛盾。",
+        "lookup": {
+          "english": "Seeming to contradict itself but possibly true.",
+          "chinese": "矛盾的；似非而是的"
+        },
+        "advSentence": "It is paradoxical that the more choices we have, the less satisfied we feel.",
+        "advTranslation": "選擇越多，我們卻越不滿足，這是一種矛盾。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh",
+          "106-moe-vs-ae",
+          "109-ntpc-jh",
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "sketchy",
+        "pos": "adj.",
+        "definition": "Not complete or detailed.",
+        "chinese": "粗略的；不完整的",
+        "synonyms": "vague, incomplete, rough",
+        "image": "shield",
+        "sentence": "The details are __________.",
+        "translation": "細節還很粗略。",
+        "lookup": {
+          "english": "Not complete or detailed.",
+          "chinese": "粗略的；不完整的"
+        },
+        "advSentence": "Police have only sketchy information about the suspect.",
+        "advTranslation": "警方對嫌犯只有零星的資訊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "subtlety",
+        "pos": "n.",
+        "definition": "A small but important detail or quality that is hard to notice.",
+        "chinese": "微妙之處；細微差別",
+        "synonyms": "nuance, delicacy, finesse",
+        "image": "shield",
+        "sentence": "Translators must capture the __________ of the original.",
+        "translation": "譯者必須掌握原文的細微之處。",
+        "lookup": {
+          "english": "A small but important detail or quality that is hard to notice.",
+          "chinese": "微妙之處；細微差別"
+        },
+        "advSentence": "The actor performed the role with great subtlety and restraint.",
+        "advTranslation": "這位演員以極細膩而含蓄的方式詮釋這個角色。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh"
+        ]
+      },
+      {
+        "word": "underlying",
+        "pos": "adj.",
+        "definition": "Real but not obvious; basic.",
+        "chinese": "潛在的；根本的",
+        "synonyms": "basic, fundamental, hidden",
+        "image": "shield",
+        "sentence": "The government's new policy was praised for its attempt to address poverty, but critics argued that it failed to confront the __________ causes of economic inequality.",
+        "translation": "政府的新政策因試圖解決貧窮而受到讚揚，但批評者認為它未能處理經濟不平等的根本原因。",
+        "lookup": {
+          "english": "Real but not obvious; basic.",
+          "chinese": "潛在的；根本的"
+        },
+        "advSentence": "Doctors are still searching for the underlying cause of her fatigue.",
+        "advTranslation": "醫生仍在尋找她疲倦的根本原因。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh",
+          "115-cmgsh-sh",
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "unfathomable",
+        "pos": "adj.",
+        "definition": "Impossible to understand fully.",
+        "chinese": "深不可測的；難以理解的",
+        "synonyms": "incomprehensible, mysterious, deep",
+        "image": "shield",
+        "sentence": "Her decision was __________ to us.",
+        "translation": "她的決定讓我們無法理解。",
+        "lookup": {
+          "english": "Impossible to understand fully.",
+          "chinese": "深不可測的；難以理解的"
+        },
+        "advSentence": "The vastness of the universe is unfathomable to most of us.",
+        "advTranslation": "宇宙之浩瀚，對我們大多數人而言難以理解。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "unfathomably",
+        "pos": "adv.",
+        "definition": "In a way too deep or strange to understand.",
+        "chinese": "深不可測地；難以理解地",
+        "synonyms": "incomprehensibly, mysteriously, deeply",
+        "image": "shield",
+        "sentence": "The ocean is __________ deep.",
+        "translation": "海洋深不可測。",
+        "lookup": {
+          "english": "In a way too deep or strange to understand.",
+          "chinese": "深不可測地；難以理解地"
+        },
+        "advSentence": "The ancient forest felt unfathomably old and silent.",
+        "advTranslation": "這片古老的森林感覺古老而寂靜得難以想像。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnssh-sh"
+        ]
       }
     ],
     "group": "sat-vague",
@@ -408,5 +624,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "mysterious": [
     "Difficult or impossible to understand or explain.",
     "神秘的;難以理解的"
+  ],
+  "garble": [
+    "To confuse or distort a message so it is hard to understand.",
+    "曲解；使混亂不清"
+  ],
+  "generalization": [
+    "A broad statement based on only a few examples.",
+    "概括；以偏概全的說法"
+  ],
+  "indeterminable": [
+    "Impossible to decide or measure exactly.",
+    "無法確定的"
+  ],
+  "obscurity": [
+    "The state of not being known or famous.",
+    "默默無聞；不出名"
+  ],
+  "paradoxical": [
+    "Seeming to contradict itself but possibly true.",
+    "矛盾的；似非而是的"
+  ],
+  "sketchy": [
+    "Not complete or detailed.",
+    "粗略的；不完整的"
+  ],
+  "subtlety": [
+    "A small but important detail or quality that is hard to notice.",
+    "微妙之處；細微差別"
+  ],
+  "underlying": [
+    "Real but not obvious; basic.",
+    "潛在的；根本的"
+  ],
+  "unfathomable": [
+    "Impossible to understand fully.",
+    "深不可測的；難以理解的"
+  ],
+  "unfathomably": [
+    "In a way too deep or strange to understand.",
+    "深不可測地；難以理解地"
   ]
 });

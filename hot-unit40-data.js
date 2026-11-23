@@ -309,6 +309,457 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這支牙刷的刷毛在每天使用了好幾個月後已經磨損。",
         "added": true,
         "group": "sat-anger"
+      },
+      {
+        "word": "apoplectic",
+        "pos": "adj.",
+        "definition": "Extremely angry.",
+        "chinese": "暴怒的；中風的",
+        "synonyms": "furious, enraged, livid",
+        "image": "shield",
+        "sentence": "The coach was __________ after the referee's call.",
+        "translation": "裁判判決後，教練氣得火冒三丈。",
+        "lookup": {
+          "english": "Extremely angry.",
+          "chinese": "暴怒的；中風的"
+        },
+        "advSentence": "The landlord became apoplectic when he saw the damage to his apartment.",
+        "advTranslation": "房東看到公寓被破壞，氣得暴跳如雷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "berserk",
+        "pos": "adj.",
+        "definition": "Wild and out of control.",
+        "chinese": "狂暴的",
+        "synonyms": "frenzied, wild, crazed",
+        "image": "shield",
+        "sentence": "The crowd went __________ when the band appeared.",
+        "translation": "樂團出場時群眾陷入瘋狂。",
+        "lookup": {
+          "english": "Wild and out of control.",
+          "chinese": "狂暴的"
+        },
+        "advSentence": "The dog went berserk when a stranger approached the gate.",
+        "advTranslation": "有陌生人靠近大門時，那隻狗變得狂暴起來。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "bridle",
+        "pos": "v.",
+        "definition": "To show anger or resentment (bridle at sth).",
+        "chinese": "（對…）表示憤怒；不滿",
+        "synonyms": "bristle, resent, take offense",
+        "image": "shield",
+        "sentence": "She __________d at the suggestion that she was lazy.",
+        "translation": "她對自己被說成懶惰感到不滿。",
+        "lookup": {
+          "english": "To show anger or resentment (bridle at sth).",
+          "chinese": "（對…）表示憤怒；不滿"
+        },
+        "advSentence": "Many teachers bridle at the idea that their job is easy.",
+        "advTranslation": "許多老師對「教書很輕鬆」的說法感到憤慨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-2-sh"
+        ]
+      },
+      {
+        "word": "crabby",
+        "pos": "adj.",
+        "definition": "Easily annoyed; bad-tempered.",
+        "chinese": "脾氣暴躁的",
+        "synonyms": "grumpy, irritable, cranky",
+        "image": "shield",
+        "sentence": "He is __________ when he hasn't had his coffee.",
+        "translation": "他沒喝咖啡時脾氣很差。",
+        "lookup": {
+          "english": "Easily annoyed; bad-tempered.",
+          "chinese": "脾氣暴躁的"
+        },
+        "advSentence": "The crabby old neighbor complained about every noise.",
+        "advTranslation": "那位脾氣暴躁的老鄰居對每一點聲音都有意見。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-kh-sh"
+        ]
+      },
+      {
+        "word": "fester",
+        "pos": "v.",
+        "definition": "(of a bad feeling or problem) to grow worse over time.",
+        "chinese": "（怨恨等）惡化；潰爛",
+        "synonyms": "worsen, rankle, rot",
+        "image": "shield",
+        "sentence": "Scott let his anger __________ and became bitter and resentful toward his best friend, Rose.",
+        "translation": "Scott 讓怒氣在心中惡化，對好友 Rose 變得滿懷怨恨。",
+        "lookup": {
+          "english": "(of a bad feeling or problem) to grow worse over time.",
+          "chinese": "（怨恨等）惡化；潰爛"
+        },
+        "advSentence": "If the wound is not cleaned, it may fester.",
+        "advTranslation": "傷口若不清潔，可能會化膿。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "flare",
+        "pos": "v.",
+        "definition": "To burn brightly suddenly; to become angry suddenly.",
+        "chinese": "突然燃燒；（情緒）突然爆發",
+        "synonyms": "blaze, erupt, flare up",
+        "image": "shield",
+        "sentence": "Tempers __________d during the meeting.",
+        "translation": "會議中大家的脾氣都爆發了。",
+        "lookup": {
+          "english": "To burn brightly suddenly; to become angry suddenly.",
+          "chinese": "突然燃燒；（情緒）突然爆發"
+        },
+        "advSentence": "Fighting flared again along the border despite the ceasefire.",
+        "advTranslation": "儘管已經停火，邊境的戰火再度爆發。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "furious",
+        "pos": "adj.",
+        "definition": "Extremely angry.",
+        "chinese": "狂怒的",
+        "synonyms": "enraged, livid, irate",
+        "image": "shield",
+        "sentence": "She was __________ when her phone was stolen.",
+        "translation": "她的手機被偷時氣炸了。",
+        "lookup": {
+          "english": "Extremely angry.",
+          "chinese": "狂怒的"
+        },
+        "advSentence": "Furious customers demanded refunds after the concert was canceled.",
+        "advTranslation": "演唱會取消後，憤怒的顧客要求退費。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "incense",
+        "pos": "v./n.",
+        "definition": "To make very angry; a substance burned for its smell.",
+        "chinese": "激怒；香",
+        "synonyms": "enrage, infuriate, anger",
+        "image": "shield",
+        "sentence": "After being teased in the ring, the bull became __________d; it stomped, roared, and finally charged in fury.",
+        "translation": "在鬥牛場上被挑釁後，那頭公牛被激怒了，牠跺腳、吼叫，最後憤怒地衝了過去。",
+        "lookup": {
+          "english": "To make very angry; a substance burned for its smell.",
+          "chinese": "激怒；香"
+        },
+        "advSentence": "The smell of incense drifted from the temple into the street.",
+        "advTranslation": "寺廟的香味飄到街上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh",
+          "107-moe-vs-ae",
+          "115-sssh-1-sh"
+        ]
+      },
+      {
+        "word": "inflame",
+        "pos": "v.",
+        "definition": "Making angrier or more intense; causing swelling.",
+        "chinese": "激怒；煽動；使發炎",
+        "synonyms": "provoke, aggravate, stir up",
+        "image": "shield",
+        "sentence": "His comments __________d the crowd.",
+        "translation": "他的言論激怒了群眾。",
+        "lookup": {
+          "english": "Making angrier or more intense; causing swelling.",
+          "chinese": "激怒；煽動；使發炎"
+        },
+        "advSentence": "Rumors on social media can inflame tensions between communities.",
+        "advTranslation": "社群媒體上的謠言可能激化社群之間的緊張關係。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh"
+        ]
+      },
+      {
+        "word": "infuriate",
+        "pos": "v.",
+        "definition": "To make very angry.",
+        "chinese": "激怒",
+        "synonyms": "enrage, anger, incense",
+        "image": "shield",
+        "sentence": "His arrogance __________d her.",
+        "translation": "他的傲慢激怒了她。",
+        "lookup": {
+          "english": "To make very angry.",
+          "chinese": "激怒"
+        },
+        "advSentence": "Long delays infuriate passengers, especially when no explanation is given.",
+        "advTranslation": "長時間延誤讓乘客非常憤怒，尤其是在沒有任何解釋的時候。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "irritating",
+        "pos": "adj.",
+        "definition": "Annoying.",
+        "chinese": "惱人的",
+        "synonyms": "annoying, vexing, aggravating",
+        "image": "shield",
+        "sentence": "The __________ noise kept me awake.",
+        "translation": "惱人的噪音讓我睡不著。",
+        "lookup": {
+          "english": "Annoying.",
+          "chinese": "惱人的"
+        },
+        "advSentence": "His irritating habit of interrupting others made meetings longer.",
+        "advTranslation": "他愛打斷別人的惱人習慣讓會議變得更冗長。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "moody",
+        "pos": "adj.",
+        "definition": "Often changing mood; often unhappy.",
+        "chinese": "喜怒無常的",
+        "synonyms": "temperamental, sulky, irritable",
+        "image": "shield",
+        "sentence": "Teenagers can be __________.",
+        "translation": "青少年可能情緒起伏很大。",
+        "lookup": {
+          "english": "Often changing mood; often unhappy.",
+          "chinese": "喜怒無常的"
+        },
+        "advSentence": "The moody weather changed from sunshine to rain within minutes.",
+        "advTranslation": "變幻莫測的天氣在幾分鐘內從晴天轉為下雨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "nuisance",
+        "pos": "n.",
+        "definition": "Something annoying.",
+        "chinese": "討厭的人或事",
+        "synonyms": "annoyance, bother, pest",
+        "image": "shield",
+        "sentence": "Mosquitoes are a __________ in summer.",
+        "translation": "夏天蚊子很討厭。",
+        "lookup": {
+          "english": "Something annoying.",
+          "chinese": "討厭的人或事"
+        },
+        "advSentence": "Loud motorcycles at night are a nuisance to the whole neighborhood.",
+        "advTranslation": "夜間吵鬧的機車對整個社區造成困擾。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "outrage",
+        "pos": "n./v.",
+        "definition": "Strong anger; to make very angry.",
+        "chinese": "憤慨；激怒",
+        "synonyms": "anger, fury, indignation",
+        "image": "shield",
+        "sentence": "The decision caused public __________.",
+        "translation": "這個決定引起大眾憤慨。",
+        "lookup": {
+          "english": "Strong anger; to make very angry.",
+          "chinese": "憤慨；激怒"
+        },
+        "advSentence": "The video of the abused dog sparked outrage online.",
+        "advTranslation": "狗被虐待的影片在網路上引發眾怒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "rankle",
+        "pos": "v.",
+        "definition": "To cause lasting anger or bitterness.",
+        "chinese": "使怨恨；使耿耿於懷",
+        "synonyms": "annoy, irk, gall",
+        "image": "shield",
+        "sentence": "The unfair decision still __________s.",
+        "translation": "那個不公平的決定至今仍令人耿耿於懷。",
+        "lookup": {
+          "english": "To cause lasting anger or bitterness.",
+          "chinese": "使怨恨；使耿耿於懷"
+        },
+        "advSentence": "Losing the final on a referee's mistake continued to rankle the players.",
+        "advTranslation": "因裁判失誤輸掉決賽，讓球員們一直耿耿於懷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "resentment",
+        "pos": "n.",
+        "definition": "Anger about being treated unfairly.",
+        "chinese": "憤恨；怨恨",
+        "synonyms": "bitterness, indignation, grudge",
+        "image": "shield",
+        "sentence": "He felt __________ toward his boss.",
+        "translation": "他對老闆心懷怨恨。",
+        "lookup": {
+          "english": "Anger about being treated unfairly.",
+          "chinese": "憤恨；怨恨"
+        },
+        "advSentence": "Unequal pay breeds resentment among workers.",
+        "advTranslation": "同工不同酬會在員工之間滋生怨恨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "ruffle",
+        "pos": "v.",
+        "definition": "To make something uneven; to upset someone.",
+        "chinese": "弄亂；使不安",
+        "synonyms": "disturb, upset, rumple",
+        "image": "shield",
+        "sentence": "Her calm was not __________d by criticism.",
+        "translation": "她的冷靜沒有因批評而動搖。",
+        "lookup": {
+          "english": "To make something uneven; to upset someone.",
+          "chinese": "弄亂；使不安"
+        },
+        "advSentence": "A gentle breeze ruffled the surface of the lake.",
+        "advTranslation": "一陣微風吹皺了湖面。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en",
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "seethe",
+        "pos": "v.",
+        "definition": "To be very angry inside without showing it.",
+        "chinese": "強忍怒火；沸騰",
+        "synonyms": "fume, rage, boil",
+        "image": "shield",
+        "sentence": "She __________d with anger.",
+        "translation": "她氣得怒火中燒。",
+        "lookup": {
+          "english": "To be very angry inside without showing it.",
+          "chinese": "強忍怒火；沸騰"
+        },
+        "advSentence": "He seethed in silence as his rival accepted the award.",
+        "advTranslation": "對手領獎時，他默默地怒火中燒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh",
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "spleen",
+        "pos": "n.",
+        "definition": "Anger or bad temper; an organ near the stomach.",
+        "chinese": "怒氣；脾臟",
+        "synonyms": "anger, bad temper, spite",
+        "image": "shield",
+        "sentence": "He vented his __________ on the referee.",
+        "translation": "他把怒氣發洩在裁判身上。",
+        "lookup": {
+          "english": "Anger or bad temper; an organ near the stomach.",
+          "chinese": "怒氣；脾臟"
+        },
+        "advSentence": "The columnist vented her spleen on the city's new parking rules.",
+        "advTranslation": "專欄作家把怒氣發洩在市政府新的停車規定上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh"
+        ]
+      },
+      {
+        "word": "tantrum",
+        "pos": "n.",
+        "definition": "A sudden period of uncontrolled anger.",
+        "chinese": "發脾氣",
+        "synonyms": "outburst, fit, rage",
+        "image": "shield",
+        "sentence": "The tennis player was known for his after-match __________s, which included an incident when he kicked down an advertising board.",
+        "translation": "那位網球選手以賽後發脾氣聞名，包括曾經踢倒廣告看板。",
+        "lookup": {
+          "english": "A sudden period of uncontrolled anger.",
+          "chinese": "發脾氣"
+        },
+        "advSentence": "The toddler threw a tantrum when his mother turned off the TV.",
+        "advTranslation": "媽媽關掉電視時，那個幼兒大發脾氣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "107-ntpc-jh",
+          "108-kh-sh"
+        ]
+      },
+      {
+        "word": "vent",
+        "pos": "v.",
+        "definition": "To express strong feelings.",
+        "chinese": "發洩",
+        "synonyms": "express, air, release",
+        "image": "shield",
+        "sentence": "He __________d his anger on his brother.",
+        "translation": "他把怒氣發洩在弟弟身上。",
+        "lookup": {
+          "english": "To express strong feelings.",
+          "chinese": "發洩"
+        },
+        "advSentence": "Writing in a journal is a healthy way to vent frustration.",
+        "advTranslation": "寫日記是發洩挫折的一種健康方式。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "113-nssh-sh"
+        ]
       }
     ],
     "group": "sat-anger",
@@ -386,5 +837,89 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "bristle": [
     "To react with anger or indignation; a short, stiff hair.",
     "生氣;豎毛;鬃毛"
+  ],
+  "apoplectic": [
+    "Extremely angry.",
+    "暴怒的；中風的"
+  ],
+  "berserk": [
+    "Wild and out of control.",
+    "狂暴的"
+  ],
+  "bridle": [
+    "To show anger or resentment (bridle at sth).",
+    "（對…）表示憤怒；不滿"
+  ],
+  "crabby": [
+    "Easily annoyed; bad-tempered.",
+    "脾氣暴躁的"
+  ],
+  "fester": [
+    "(of a bad feeling or problem) to grow worse over time.",
+    "（怨恨等）惡化；潰爛"
+  ],
+  "flare": [
+    "To burn brightly suddenly; to become angry suddenly.",
+    "突然燃燒；（情緒）突然爆發"
+  ],
+  "furious": [
+    "Extremely angry.",
+    "狂怒的"
+  ],
+  "incense": [
+    "To make very angry; a substance burned for its smell.",
+    "激怒；香"
+  ],
+  "inflame": [
+    "Making angrier or more intense; causing swelling.",
+    "激怒；煽動；使發炎"
+  ],
+  "infuriate": [
+    "To make very angry.",
+    "激怒"
+  ],
+  "irritating": [
+    "Annoying.",
+    "惱人的"
+  ],
+  "moody": [
+    "Often changing mood; often unhappy.",
+    "喜怒無常的"
+  ],
+  "nuisance": [
+    "Something annoying.",
+    "討厭的人或事"
+  ],
+  "outrage": [
+    "Strong anger; to make very angry.",
+    "憤慨；激怒"
+  ],
+  "rankle": [
+    "To cause lasting anger or bitterness.",
+    "使怨恨；使耿耿於懷"
+  ],
+  "resentment": [
+    "Anger about being treated unfairly.",
+    "憤恨；怨恨"
+  ],
+  "ruffle": [
+    "To make something uneven; to upset someone.",
+    "弄亂；使不安"
+  ],
+  "seethe": [
+    "To be very angry inside without showing it.",
+    "強忍怒火；沸騰"
+  ],
+  "spleen": [
+    "Anger or bad temper; an organ near the stomach.",
+    "怒氣；脾臟"
+  ],
+  "tantrum": [
+    "A sudden period of uncontrolled anger.",
+    "發脾氣"
+  ],
+  "vent": [
+    "To express strong feelings.",
+    "發洩"
   ]
 });

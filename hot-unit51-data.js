@@ -417,6 +417,133 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "評論家寫了一篇針對該作家新小說的嚴厲謾罵。",
         "added": true,
         "group": "sat-criticize-sub"
+      },
+      {
+        "word": "accuse",
+        "pos": "v.",
+        "definition": "To say that someone has done something wrong.",
+        "chinese": "指控；控告",
+        "synonyms": "charge, blame, indict",
+        "image": "shield",
+        "sentence": "He was __________d of stealing company secrets.",
+        "translation": "他被控竊取公司機密。",
+        "lookup": {
+          "english": "To say that someone has done something wrong.",
+          "chinese": "指控；控告"
+        },
+        "advSentence": "It is unfair to accuse someone without any evidence.",
+        "advTranslation": "沒有任何證據就指控別人是不公平的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "confute",
+        "pos": "v.",
+        "definition": "To prove a person or argument to be wrong.",
+        "chinese": "駁倒；證明錯誤",
+        "synonyms": "disprove, refute, rebut",
+        "image": "shield",
+        "sentence": "The scientist __________d the old theory.",
+        "translation": "科學家駁倒了舊理論。",
+        "lookup": {
+          "english": "To prove a person or argument to be wrong.",
+          "chinese": "駁倒；證明錯誤"
+        },
+        "advSentence": "New fossil evidence helped confute the long-held theory.",
+        "advTranslation": "新的化石證據幫助駁倒了這個長期存在的理論。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh"
+        ]
+      },
+      {
+        "word": "derogate",
+        "pos": "v.",
+        "definition": "To treat something as less important or worthy.",
+        "chinese": "貶損；減損",
+        "synonyms": "belittle, disparage, detract",
+        "image": "shield",
+        "sentence": "His remarks __________ from her achievements.",
+        "translation": "他的言論貶低了她的成就。",
+        "lookup": {
+          "english": "To treat something as less important or worthy.",
+          "chinese": "貶損；減損"
+        },
+        "advSentence": "Nothing in the report should derogate from the volunteers' hard work.",
+        "advTranslation": "報告中的任何內容都不應貶低志工們的辛勞。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "detraction",
+        "pos": "n.",
+        "definition": "The act of making something seem less good or valuable.",
+        "chinese": "貶低；誹謗",
+        "synonyms": "disparagement, belittlement, criticism",
+        "image": "shield",
+        "sentence": "His __________ of her work was unfair.",
+        "translation": "他對她作品的貶損並不公平。",
+        "lookup": {
+          "english": "The act of making something seem less good or valuable.",
+          "chinese": "貶低；誹謗"
+        },
+        "advSentence": "Despite the detraction of a few critics, the film was a box-office hit.",
+        "advTranslation": "儘管有少數評論家詆毀，這部電影仍票房大賣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "inculpate",
+        "pos": "v.",
+        "definition": "To show that someone is guilty of a crime.",
+        "chinese": "使負罪；歸罪於",
+        "synonyms": "incriminate, implicate, blame",
+        "image": "shield",
+        "sentence": "The evidence __________d the manager.",
+        "translation": "證據將罪責指向經理。",
+        "lookup": {
+          "english": "To show that someone is guilty of a crime.",
+          "chinese": "使負罪；歸罪於"
+        },
+        "advSentence": "The suspect's own text messages helped inculpate him.",
+        "advTranslation": "嫌犯自己的簡訊成了將他定罪的證據。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "underestimate",
+        "pos": "v.",
+        "definition": "To think something is smaller or less important than it is.",
+        "chinese": "低估",
+        "synonyms": "underrate, undervalue, misjudge",
+        "image": "shield",
+        "sentence": "We __________d the time it would take to get there, so when we arrived at the market it was closed.",
+        "translation": "我們低估了到那裡所需的時間，所以抵達市場時已經關門了。",
+        "lookup": {
+          "english": "To think something is smaller or less important than it is.",
+          "chinese": "低估"
+        },
+        "advSentence": "Never underestimate the power of a good night's sleep.",
+        "advTranslation": "永遠不要低估一夜好眠的力量。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "107-hccg-jh"
+        ]
       }
     ],
     "group": "sat-criticize-sub",
@@ -518,5 +645,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "diatribe": [
     "A bitter, angry, and prolonged verbal or written attack.",
     "謾罵；抨擊；惡毒的斥責"
+  ],
+  "accuse": [
+    "To say that someone has done something wrong.",
+    "指控；控告"
+  ],
+  "confute": [
+    "To prove a person or argument to be wrong.",
+    "駁倒；證明錯誤"
+  ],
+  "derogate": [
+    "To treat something as less important or worthy.",
+    "貶損；減損"
+  ],
+  "detraction": [
+    "The act of making something seem less good or valuable.",
+    "貶低；誹謗"
+  ],
+  "inculpate": [
+    "To show that someone is guilty of a crime.",
+    "使負罪；歸罪於"
+  ],
+  "underestimate": [
+    "To think something is smaller or less important than it is.",
+    "低估"
   ]
 });

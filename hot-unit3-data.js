@@ -389,6 +389,200 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她那自戀的老闆把每個人的功勞都據為己有。",
         "added": true,
         "group": "hot-03"
+      },
+      {
+        "word": "boast",
+        "pos": "v.",
+        "definition": "To talk with too much pride; to have something good.",
+        "chinese": "自誇；擁有",
+        "synonyms": "brag, crow, pride oneself",
+        "image": "shield",
+        "sentence": "The city __________s three world-class museums.",
+        "translation": "這座城市擁有三座世界級的博物館。",
+        "lookup": {
+          "english": "To talk with too much pride; to have something good.",
+          "chinese": "自誇；擁有"
+        },
+        "advSentence": "Rather than boast about his achievements, the modest scientist credited his diligent team.",
+        "advTranslation": "這位謙虛的科學家沒有自吹自擂，而是把功勞歸給勤奮的團隊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
+      },
+      {
+        "word": "bumptious",
+        "pos": "adj.",
+        "definition": "Loudly and annoyingly self-confident.",
+        "chinese": "傲慢自負的；自以為是的",
+        "synonyms": "arrogant, conceited, self-assertive",
+        "image": "shield",
+        "sentence": "The __________ attitude of the new intern rubbed many of his coworkers the wrong way.",
+        "translation": "新來的實習生那種自以為是的態度，惹得許多同事不快。",
+        "lookup": {
+          "english": "Loudly and annoyingly self-confident.",
+          "chinese": "傲慢自負的；自以為是的"
+        },
+        "advSentence": "His bumptious manner alienated colleagues who might otherwise have admired his talent.",
+        "advTranslation": "他自負的態度讓原本可能欣賞他才華的同事都疏遠了他。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh",
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "chauvinistic",
+        "pos": "adj.",
+        "definition": "Believing your own group is better than others.",
+        "chinese": "沙文主義的",
+        "synonyms": "jingoistic, sexist, prejudiced",
+        "image": "shield",
+        "sentence": "His __________ remarks offended his colleagues.",
+        "translation": "他沙文主義的言論冒犯了同事。",
+        "lookup": {
+          "english": "Believing your own group is better than others.",
+          "chinese": "沙文主義的"
+        },
+        "advSentence": "The editorial criticized the chauvinistic assumption that only men could lead the company.",
+        "advTranslation": "社論批評了「只有男性才能領導公司」這種沙文主義的假設。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "gloat",
+        "pos": "v.",
+        "definition": "To show pleasure at your own success or others' failure.",
+        "chinese": "幸災樂禍；沾沾自喜",
+        "synonyms": "crow, brag, rub it in",
+        "image": "shield",
+        "sentence": "Don't __________ over your rival's failure.",
+        "translation": "別對對手的失敗幸災樂禍。",
+        "lookup": {
+          "english": "To show pleasure at your own success or others' failure.",
+          "chinese": "幸災樂禍；沾沾自喜"
+        },
+        "advSentence": "The winning candidate refused to gloat, instead offering a gracious tribute to her opponent.",
+        "advTranslation": "勝選的候選人拒絕幸災樂禍，反而向對手致上得體的敬意。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "ostentation",
+        "pos": "n.",
+        "definition": "Showy display meant to impress others.",
+        "chinese": "炫耀；賣弄",
+        "synonyms": "showiness, flamboyance, display",
+        "image": "shield",
+        "sentence": "He had been accused of vanity and __________ in his office, but his reputation for ability and integrity as a judge was high even with his enemies.",
+        "translation": "他曾被指控在職位上虛榮又愛炫耀，但他作為法官的能力與正直，即使在敵人眼中也評價很高。",
+        "lookup": {
+          "english": "Showy display meant to impress others.",
+          "chinese": "炫耀；賣弄"
+        },
+        "advSentence": "The billionaire avoided ostentation, living in a modest house and driving an old car.",
+        "advTranslation": "這位億萬富翁不愛炫耀，住在樸素的房子裡，開著舊車。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh",
+          "104-ntpc-jh",
+          "105-tycg-jh",
+          "108-ntpc-jh"
+        ]
+      },
+      {
+        "word": "prig",
+        "pos": "n.",
+        "definition": "A person who acts as if they are morally better than others.",
+        "chinese": "自命清高的人",
+        "synonyms": "prude, goody-goody, moralist",
+        "image": "shield",
+        "sentence": "He's a __________ who disapproves of everything.",
+        "translation": "他是個自命清高、什麼都看不慣的人。",
+        "lookup": {
+          "english": "A person who acts as if they are morally better than others.",
+          "chinese": "自命清高的人"
+        },
+        "advSentence": "Nobody invited the prig to the party, since he lectured everyone about their manners.",
+        "advTranslation": "沒人邀請那個自命清高的人參加派對，因為他總是對大家的禮儀說教。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "self-centered",
+        "pos": "adj.",
+        "definition": "Thinking only about yourself.",
+        "chinese": "自我中心的",
+        "synonyms": "selfish, egotistical, narcissistic",
+        "image": "shield",
+        "sentence": "He is too __________ to notice others.",
+        "translation": "他太自我中心，根本不會注意到別人。",
+        "lookup": {
+          "english": "Thinking only about yourself.",
+          "chinese": "自我中心的"
+        },
+        "advSentence": "A self-centered leader rarely earns the loyalty of the people he depends on.",
+        "advTranslation": "自我中心的領導者很少能贏得他所仰賴之人的忠誠。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "strut",
+        "pos": "v.",
+        "definition": "To walk in a proud, confident way.",
+        "chinese": "昂首闊步",
+        "synonyms": "swagger, parade, prance",
+        "image": "shield",
+        "sentence": "He likes to __________ around the stage after every song.",
+        "translation": "每唱完一首歌，他就喜歡在舞台上昂首闊步。",
+        "lookup": {
+          "english": "To walk in a proud, confident way.",
+          "chinese": "昂首闊步"
+        },
+        "advSentence": "After winning the debate, he began to strut around the classroom like a peacock.",
+        "advTranslation": "贏得辯論後，他開始像孔雀一樣在教室裡昂首闊步。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "vaunt",
+        "pos": "v.",
+        "definition": "To boast about or praise too much.",
+        "chinese": "誇耀；吹噓",
+        "synonyms": "boast, brag, flaunt",
+        "image": "shield",
+        "sentence": "The company likes to __________ its new phone as the fastest in the world.",
+        "translation": "這家公司喜歡誇耀它的新手機是全世界最快的。",
+        "lookup": {
+          "english": "To boast about or praise too much.",
+          "chinese": "誇耀；吹噓"
+        },
+        "advSentence": "The company liked to vaunt its eco-friendly image, but critics found its claims dubious.",
+        "advTranslation": "這家公司喜歡誇耀自己的環保形象，但評論者認為其說法可疑。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh",
+          "113-nssh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -829,5 +1023,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "narcissistic": [
     "Having an excessive interest in or admiration of oneself.",
     "自戀的"
+  ],
+  "boast": [
+    "To talk with too much pride; to have something good.",
+    "自誇；擁有"
+  ],
+  "bumptious": [
+    "Loudly and annoyingly self-confident.",
+    "傲慢自負的；自以為是的"
+  ],
+  "chauvinistic": [
+    "Believing your own group is better than others.",
+    "沙文主義的"
+  ],
+  "gloat": [
+    "To show pleasure at your own success or others' failure.",
+    "幸災樂禍；沾沾自喜"
+  ],
+  "ostentation": [
+    "Showy display meant to impress others.",
+    "炫耀；賣弄"
+  ],
+  "prig": [
+    "A person who acts as if they are morally better than others.",
+    "自命清高的人"
+  ],
+  "self-centered": [
+    "Thinking only about yourself.",
+    "自我中心的"
+  ],
+  "strut": [
+    "To walk in a proud, confident way.",
+    "昂首闊步"
+  ],
+  "vaunt": [
+    "To boast about or praise too much.",
+    "誇耀；吹噓"
   ]
 });

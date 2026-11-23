@@ -201,6 +201,195 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "併購案宣布後,他一向冷靜的老闆表現出異常的行為。",
         "added": true,
         "group": "sat-rare"
+      },
+      {
+        "word": "outlier",
+        "pos": "n.",
+        "definition": "A person or thing that is very different from the rest of a group.",
+        "chinese": "離群值；異類",
+        "synonyms": "anomaly, exception, oddity",
+        "image": "shield",
+        "sentence": "One score was an __________.",
+        "translation": "其中一個分數是離群值。",
+        "lookup": {
+          "english": "A person or thing that is very different from the rest of a group.",
+          "chinese": "離群值；異類"
+        },
+        "advSentence": "The researchers removed one outlier before calculating the average.",
+        "advTranslation": "研究人員在計算平均數前剔除了一個離群值。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tysh-sh"
+        ]
+      },
+      {
+        "word": "peculiar",
+        "pos": "adj.",
+        "definition": "Strange or unusual; belonging only to.",
+        "chinese": "奇怪的；特有的",
+        "synonyms": "odd, unusual, distinctive",
+        "image": "shield",
+        "sentence": "There was a __________ smell in the room.",
+        "translation": "房間裡有一股奇怪的味道。",
+        "lookup": {
+          "english": "Strange or unusual; belonging only to.",
+          "chinese": "奇怪的；特有的"
+        },
+        "advSentence": "This custom is peculiar to the island's indigenous people.",
+        "advTranslation": "這項習俗是島上原住民特有的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "queer",
+        "pos": "adj.",
+        "definition": "Strange; (now) relating to LGBTQ+ people.",
+        "chinese": "奇怪的；酷兒的",
+        "synonyms": "strange, odd, peculiar",
+        "image": "shield",
+        "sentence": "There was a __________ feeling in the air.",
+        "translation": "空氣中瀰漫著一種奇怪的感覺。",
+        "lookup": {
+          "english": "Strange; (now) relating to LGBTQ+ people.",
+          "chinese": "奇怪的；酷兒的"
+        },
+        "advSentence": "The library has a section of books by queer authors.",
+        "advTranslation": "圖書館有一區收藏酷兒作家的書籍。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "rarified",
+        "pos": "adj.",
+        "definition": "(= rarefied) very rare or exclusive; with little oxygen.",
+        "chinese": "稀有的；稀薄的",
+        "synonyms": "exclusive, elevated, thin",
+        "image": "shield",
+        "sentence": "He moves in __________ academic circles.",
+        "translation": "他出入於高層的學術圈子。",
+        "lookup": {
+          "english": "(= rarefied) very rare or exclusive; with little oxygen.",
+          "chinese": "稀有的；稀薄的"
+        },
+        "advSentence": "Climbers need oxygen tanks in the rarified air of high mountains.",
+        "advTranslation": "登山者在高山稀薄的空氣中需要氧氣瓶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "scintilla",
+        "pos": "n.",
+        "definition": "A tiny amount.",
+        "chinese": "微量；一丁點",
+        "synonyms": "trace, speck, iota",
+        "image": "shield",
+        "sentence": "The defendant claimed that there was not a __________ of evidence to prove that he was guilty.",
+        "translation": "被告聲稱沒有絲毫證據能證明他有罪。",
+        "lookup": {
+          "english": "A tiny amount.",
+          "chinese": "微量；一丁點"
+        },
+        "advSentence": "There is not a scintilla of truth in the rumor.",
+        "advTranslation": "這個謠言沒有一絲真實性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-hsnu-sh"
+        ]
+      },
+      {
+        "word": "seldom",
+        "pos": "adv.",
+        "definition": "Not often.",
+        "chinese": "很少",
+        "synonyms": "rarely, hardly ever, infrequently",
+        "image": "shield",
+        "sentence": "He __________ goes out.",
+        "translation": "他很少出門。",
+        "lookup": {
+          "english": "Not often.",
+          "chinese": "很少"
+        },
+        "advSentence": "Desert plants seldom need water.",
+        "advTranslation": "沙漠植物很少需要澆水。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh"
+        ]
+      },
+      {
+        "word": "solely",
+        "pos": "adv.",
+        "definition": "Only.",
+        "chinese": "僅僅；唯一地",
+        "synonyms": "only, exclusively, entirely",
+        "image": "shield",
+        "sentence": "He is __________ responsible.",
+        "translation": "他要負全部責任。",
+        "lookup": {
+          "english": "Only.",
+          "chinese": "僅僅；唯一地"
+        },
+        "advSentence": "The decision was based solely on test scores.",
+        "advTranslation": "這個決定完全根據考試成績。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh"
+        ]
+      },
+      {
+        "word": "uncharacteristically",
+        "pos": "adv.",
+        "definition": "In a way not typical of someone or something.",
+        "chinese": "一反常態地",
+        "synonyms": "unusually, atypically, surprisingly",
+        "image": "shield",
+        "sentence": "He was __________ quiet.",
+        "translation": "他一反常態地沉默。",
+        "lookup": {
+          "english": "In a way not typical of someone or something.",
+          "chinese": "一反常態地"
+        },
+        "advSentence": "The usually calm teacher shouted uncharacteristically at the class.",
+        "advTranslation": "那位平常冷靜的老師一反常態地對全班大吼。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-1-sh"
+        ]
+      },
+      {
+        "word": "unheard",
+        "pos": "adj.",
+        "definition": "(unheard of) never known before.",
+        "chinese": "前所未聞的",
+        "synonyms": "unprecedented, unknown, unfamiliar",
+        "image": "shield",
+        "sentence": "Such a thing was __________ of in the past.",
+        "translation": "這種事在過去是前所未聞的。",
+        "lookup": {
+          "english": "(unheard of) never known before.",
+          "chinese": "前所未聞的"
+        },
+        "advSentence": "Her quiet voice went unheard in the noisy meeting.",
+        "advTranslation": "在吵鬧的會議中，她輕柔的聲音沒人聽見。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh"
+        ]
       }
     ],
     "group": "sat-rare",
@@ -255,5 +444,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "aberrant": [
     "Deviating from what is normal or expected.",
     "異常的;脫軌的"
+  ],
+  "outlier": [
+    "A person or thing that is very different from the rest of a group.",
+    "離群值；異類"
+  ],
+  "peculiar": [
+    "Strange or unusual; belonging only to.",
+    "奇怪的；特有的"
+  ],
+  "queer": [
+    "Strange; (now) relating to LGBTQ+ people.",
+    "奇怪的；酷兒的"
+  ],
+  "rarified": [
+    "(= rarefied) very rare or exclusive; with little oxygen.",
+    "稀有的；稀薄的"
+  ],
+  "scintilla": [
+    "A tiny amount.",
+    "微量；一丁點"
+  ],
+  "seldom": [
+    "Not often.",
+    "很少"
+  ],
+  "solely": [
+    "Only.",
+    "僅僅；唯一地"
+  ],
+  "uncharacteristically": [
+    "In a way not typical of someone or something.",
+    "一反常態地"
+  ],
+  "unheard": [
+    "(unheard of) never known before.",
+    "前所未聞的"
   ]
 });

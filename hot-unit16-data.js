@@ -271,6 +271,336 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她對這趟假期興高采烈的描述讓每個人都想去那裡看看。",
         "added": true,
         "group": "hot-16"
+      },
+      {
+        "word": "engrossing",
+        "pos": "adj.",
+        "definition": "So interesting that you give it all your attention.",
+        "chinese": "引人入勝的",
+        "synonyms": "absorbing, fascinating, gripping",
+        "image": "shield",
+        "sentence": "It was an __________ novel.",
+        "translation": "那是一本引人入勝的小說。",
+        "lookup": {
+          "english": "So interesting that you give it all your attention.",
+          "chinese": "引人入勝的"
+        },
+        "advSentence": "The documentary was so engrossing that nobody noticed the time passing.",
+        "advTranslation": "那部紀錄片太引人入勝，沒人注意到時間流逝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "fanatic",
+        "pos": "adj.",
+        "definition": "Having extreme and unreasonable beliefs or enthusiasm.",
+        "chinese": "狂熱的",
+        "synonyms": "zealous, fervent, obsessive",
+        "image": "shield",
+        "sentence": "He is a __________ supporter of the team.",
+        "translation": "他是這支球隊的狂熱支持者。",
+        "lookup": {
+          "english": "Having extreme and unreasonable beliefs or enthusiasm.",
+          "chinese": "狂熱的"
+        },
+        "advSentence": "His fanatic devotion to fitness left little time for friends or family.",
+        "advTranslation": "他對健身的狂熱投入讓他幾乎沒時間陪朋友或家人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-taipei-jh"
+        ]
+      },
+      {
+        "word": "fervor",
+        "pos": "n.",
+        "definition": "Very strong feeling or enthusiasm.",
+        "chinese": "熱情；熱忱",
+        "synonyms": "passion, zeal, enthusiasm",
+        "image": "shield",
+        "sentence": "They sang with patriotic __________.",
+        "translation": "他們滿懷愛國熱忱地唱歌。",
+        "lookup": {
+          "english": "Very strong feeling or enthusiasm.",
+          "chinese": "熱情；熱忱"
+        },
+        "advSentence": "The young volunteers worked with a missionary fervor to rebuild the village.",
+        "advTranslation": "年輕志工們以傳教士般的熱忱投入重建村莊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "heartily",
+        "pos": "adv.",
+        "definition": "With enthusiasm; completely.",
+        "chinese": "熱誠地；完全地",
+        "synonyms": "warmly, enthusiastically, thoroughly",
+        "image": "shield",
+        "sentence": "We laughed __________ at the joke.",
+        "translation": "我們聽了笑話開懷大笑。",
+        "lookup": {
+          "english": "With enthusiasm; completely.",
+          "chinese": "熱誠地；完全地"
+        },
+        "advSentence": "I heartily agree that every child deserves a good education.",
+        "advTranslation": "我完全同意每個孩子都應該得到良好的教育。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "hortative",
+        "pos": "adj.",
+        "definition": "Trying to encourage or urge someone to act.",
+        "chinese": "勸告的；激勵的",
+        "synonyms": "exhortative, encouraging, persuasive",
+        "image": "shield",
+        "sentence": "The coach gave a __________ speech.",
+        "translation": "教練發表了一場激勵人心的演說。",
+        "lookup": {
+          "english": "Trying to encourage or urge someone to act.",
+          "chinese": "勸告的；激勵的"
+        },
+        "advSentence": "The principal's hortative letter urged students to read for pleasure.",
+        "advTranslation": "校長激勵人心的信鼓勵學生為樂趣而閱讀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-kh-sh"
+        ]
+      },
+      {
+        "word": "impetus",
+        "pos": "n.",
+        "definition": "A force that makes something happen or happen faster.",
+        "chinese": "推動力",
+        "synonyms": "motivation, stimulus, push",
+        "image": "shield",
+        "sentence": "Her success in providing peer support on campus has given __________ for preventing cyber bullying.",
+        "translation": "她在校園提供同儕支持的成功，為防制網路霸凌注入了動力。",
+        "lookup": {
+          "english": "A force that makes something happen or happen faster.",
+          "chinese": "推動力"
+        },
+        "advSentence": "The scandal provided fresh impetus for reform.",
+        "advTranslation": "這起醜聞為改革提供了新的動力。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "incentive",
+        "pos": "n.",
+        "definition": "Something that makes you want to do something, like a reward.",
+        "chinese": "誘因；獎勵",
+        "synonyms": "motivation, encouragement, inducement",
+        "image": "shield",
+        "sentence": "The annual academic awards provide an __________ for the students to study hard.",
+        "translation": "年度學業獎項為學生提供努力讀書的誘因。",
+        "lookup": {
+          "english": "Something that makes you want to do something, like a reward.",
+          "chinese": "誘因；獎勵"
+        },
+        "advSentence": "Tax breaks give companies an incentive to invest in green energy.",
+        "advTranslation": "減稅給了企業投資綠能的誘因。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "103-tycg-jh",
+          "106-nehs-jh",
+          "107-moe-vs-ae",
+          "109-hccg-jh",
+          "115-ntpc-sh",
+          "115-tcivs-vs"
+        ]
+      },
+      {
+        "word": "incentivize",
+        "pos": "v.",
+        "definition": "To encourage someone to do something by offering a reward.",
+        "chinese": "激勵；以誘因鼓勵",
+        "synonyms": "motivate, encourage, reward",
+        "image": "shield",
+        "sentence": "After the council __________d the fundraising campaign, the citizens became extremely motivated.",
+        "translation": "市議會為募款活動提供獎勵後，市民變得非常積極。",
+        "lookup": {
+          "english": "To encourage someone to do something by offering a reward.",
+          "chinese": "激勵；以誘因鼓勵"
+        },
+        "advSentence": "The city hopes to incentivize residents to recycle by offering small rewards.",
+        "advTranslation": "市政府希望提供小獎勵，以激勵居民做資源回收。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-sh",
+          "115-sksc-vs"
+        ]
+      },
+      {
+        "word": "infatuate",
+        "pos": "v.",
+        "definition": "To fill with a foolish, strong love or interest.",
+        "chinese": "使迷戀；使沉迷",
+        "synonyms": "captivate, enamor, obsess",
+        "image": "shield",
+        "sentence": "Harry's wife was so __________d with organic food that she refused to consume anything nonorganic.",
+        "translation": "Harry 的太太迷戀有機食品，拒絕吃任何非有機的東西。",
+        "lookup": {
+          "english": "To fill with a foolish, strong love or interest.",
+          "chinese": "使迷戀；使沉迷"
+        },
+        "advSentence": "Many teenagers become infatuated with celebrities they will never meet.",
+        "advTranslation": "許多青少年迷戀著他們永遠不會見到的名人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh",
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "inspire",
+        "pos": "v.",
+        "definition": "To give someone the wish or ideas to do something.",
+        "chinese": "激勵；啟發",
+        "synonyms": "motivate, encourage, stimulate",
+        "image": "shield",
+        "sentence": "Her story __________d many young people.",
+        "translation": "她的故事激勵了許多年輕人。",
+        "lookup": {
+          "english": "To give someone the wish or ideas to do something.",
+          "chinese": "激勵；啟發"
+        },
+        "advSentence": "The ancient ruins continue to inspire artists and poets.",
+        "advTranslation": "這些古老遺跡持續啟發著藝術家與詩人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh",
+          "105-tycg-jh",
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "obsessive",
+        "pos": "adj.",
+        "definition": "Thinking about something too much.",
+        "chinese": "著迷的；強迫性的",
+        "synonyms": "compulsive, fixated, consuming",
+        "image": "shield",
+        "sentence": "He has an __________ interest in trains.",
+        "translation": "他對火車有種近乎強迫的熱愛。",
+        "lookup": {
+          "english": "Thinking about something too much.",
+          "chinese": "著迷的；強迫性的"
+        },
+        "advSentence": "Obsessive checking of social media can erode concentration.",
+        "advTranslation": "強迫性地查看社群媒體會侵蝕專注力。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "preoccupation",
+        "pos": "n.",
+        "definition": "Something you think about all the time.",
+        "chinese": "心事；全神貫注的事",
+        "synonyms": "obsession, concern, fixation",
+        "image": "shield",
+        "sentence": "His __________ with money worried her.",
+        "translation": "他對金錢的執著讓她很擔心。",
+        "lookup": {
+          "english": "Something you think about all the time.",
+          "chinese": "心事；全神貫注的事"
+        },
+        "advSentence": "Her preoccupation with grades left little room for genuine curiosity.",
+        "advTranslation": "她對成績的過度在意，讓真正的好奇心幾乎沒有空間。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "riveting",
+        "pos": "adj.",
+        "definition": "So interesting that you cannot stop paying attention.",
+        "chinese": "引人入勝的",
+        "synonyms": "fascinating, gripping, engrossing",
+        "image": "shield",
+        "sentence": "The documentary was __________.",
+        "translation": "那部紀錄片引人入勝。",
+        "lookup": {
+          "english": "So interesting that you cannot stop paying attention.",
+          "chinese": "引人入勝的"
+        },
+        "advSentence": "The lawyer's riveting closing argument held the jury's attention for an hour.",
+        "advTranslation": "律師引人入勝的結辯吸引陪審團專注了一小時。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh",
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "rouse",
+        "pos": "v.",
+        "definition": "To wake up; to excite.",
+        "chinese": "喚醒；激起",
+        "synonyms": "wake, stir, provoke",
+        "image": "shield",
+        "sentence": "The speech __________d the crowd.",
+        "translation": "那場演講激起了群眾的情緒。",
+        "lookup": {
+          "english": "To wake up; to excite.",
+          "chinese": "喚醒；激起"
+        },
+        "advSentence": "The alarm failed to rouse the exhausted firefighters.",
+        "advTranslation": "鬧鐘沒能叫醒精疲力竭的消防員。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh"
+        ]
+      },
+      {
+        "word": "vehemence",
+        "pos": "n.",
+        "definition": "Strong, forceful feeling or expression.",
+        "chinese": "激烈；猛烈",
+        "synonyms": "intensity, passion, force",
+        "image": "shield",
+        "sentence": "He denied it with __________.",
+        "translation": "他激烈地否認了這件事。",
+        "lookup": {
+          "english": "Strong, forceful feeling or expression.",
+          "chinese": "激烈；猛烈"
+        },
+        "advSentence": "The vehemence of the protest surprised even its organizers.",
+        "advTranslation": "抗議的激烈程度連主辦者都感到驚訝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -587,5 +917,65 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "rapturous": [
     "Characterized by intense pleasure or enthusiasm.",
     "狂喜的;興高采烈的"
+  ],
+  "engrossing": [
+    "So interesting that you give it all your attention.",
+    "引人入勝的"
+  ],
+  "fanatic": [
+    "Having extreme and unreasonable beliefs or enthusiasm.",
+    "狂熱的"
+  ],
+  "fervor": [
+    "Very strong feeling or enthusiasm.",
+    "熱情；熱忱"
+  ],
+  "heartily": [
+    "With enthusiasm; completely.",
+    "熱誠地；完全地"
+  ],
+  "hortative": [
+    "Trying to encourage or urge someone to act.",
+    "勸告的；激勵的"
+  ],
+  "impetus": [
+    "A force that makes something happen or happen faster.",
+    "推動力"
+  ],
+  "incentive": [
+    "Something that makes you want to do something, like a reward.",
+    "誘因；獎勵"
+  ],
+  "incentivize": [
+    "To encourage someone to do something by offering a reward.",
+    "激勵；以誘因鼓勵"
+  ],
+  "infatuate": [
+    "To fill with a foolish, strong love or interest.",
+    "使迷戀；使沉迷"
+  ],
+  "inspire": [
+    "To give someone the wish or ideas to do something.",
+    "激勵；啟發"
+  ],
+  "obsessive": [
+    "Thinking about something too much.",
+    "著迷的；強迫性的"
+  ],
+  "preoccupation": [
+    "Something you think about all the time.",
+    "心事；全神貫注的事"
+  ],
+  "riveting": [
+    "So interesting that you cannot stop paying attention.",
+    "引人入勝的"
+  ],
+  "rouse": [
+    "To wake up; to excite.",
+    "喚醒；激起"
+  ],
+  "vehemence": [
+    "Strong, forceful feeling or expression.",
+    "激烈；猛烈"
   ]
 });

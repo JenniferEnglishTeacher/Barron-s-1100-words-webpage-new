@@ -255,6 +255,115 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座花園是遠離城市喧囂、寧靜休憩的地方。",
         "added": true,
         "group": "sat-calm"
+      },
+      {
+        "word": "equability",
+        "pos": "n.",
+        "definition": "The quality of staying calm and steady.",
+        "chinese": "平穩；心平氣和",
+        "synonyms": "calmness, evenness, composure",
+        "image": "shield",
+        "sentence": "He faced the crisis with __________.",
+        "translation": "他心平氣和地面對危機。",
+        "lookup": {
+          "english": "The quality of staying calm and steady.",
+          "chinese": "平穩；心平氣和"
+        },
+        "advSentence": "Her equability made her an ideal mediator in heated disputes.",
+        "advTranslation": "她的沉穩讓她成為激烈爭端中理想的調解人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh"
+        ]
+      },
+      {
+        "word": "forbear",
+        "pos": "v.",
+        "definition": "To stop yourself from doing something.",
+        "chinese": "克制；忍住（不做）",
+        "synonyms": "refrain, abstain, hold back",
+        "image": "shield",
+        "sentence": "She chose to __________ from commenting on the rumor.",
+        "translation": "她克制住沒有發表意見。",
+        "lookup": {
+          "english": "To stop yourself from doing something.",
+          "chinese": "克制；忍住（不做）"
+        },
+        "advSentence": "Patients should forbear from eating for eight hours before surgery.",
+        "advTranslation": "病人在手術前應禁食八小時。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "refrain",
+        "pos": "v.",
+        "definition": "To stop yourself from doing something.",
+        "chinese": "克制；避免",
+        "synonyms": "abstain, hold back, avoid",
+        "image": "shield",
+        "sentence": "Presenters and recipients at the next Academy Awards would be advised to __________ from rambling thank-yous and unentertaining political proclamations.",
+        "translation": "下屆奧斯卡的頒獎人與得獎者將被建議避免冗長的致謝和無趣的政治宣言。",
+        "lookup": {
+          "english": "To stop yourself from doing something.",
+          "chinese": "克制；避免"
+        },
+        "advSentence": "Please refrain from using your phone during the performance.",
+        "advTranslation": "表演期間請勿使用手機。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh",
+          "103-tycg-jh",
+          "109-hccg-jh",
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "restraint",
+        "pos": "n.",
+        "definition": "Control over one's actions or feelings.",
+        "chinese": "克制；節制",
+        "synonyms": "self-control, moderation, limit",
+        "image": "shield",
+        "sentence": "To protect children properly, laws mandate the use of child safety __________s in all automobiles, such as car seats for infants and toddlers.",
+        "translation": "為了適當保護兒童，法律規定所有汽車都必須使用兒童安全束縛裝置，例如嬰幼兒汽車座椅。",
+        "lookup": {
+          "english": "Control over one's actions or feelings.",
+          "chinese": "克制；節制"
+        },
+        "advSentence": "The police showed great restraint in dealing with the angry crowd.",
+        "advTranslation": "警方在處理憤怒群眾時表現出極大的克制。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh",
+          "115-hsnu-sh"
+        ]
+      },
+      {
+        "word": "thaw",
+        "pos": "v.",
+        "definition": "To melt; to become friendlier.",
+        "chinese": "融化；緩和",
+        "synonyms": "melt, defrost, warm",
+        "image": "shield",
+        "sentence": "Relations between the countries __________d.",
+        "translation": "兩國關係回暖了。",
+        "lookup": {
+          "english": "To melt; to become friendlier.",
+          "chinese": "融化；緩和"
+        },
+        "advSentence": "Leave the frozen chicken in the fridge to thaw overnight.",
+        "advTranslation": "把冷凍雞肉放在冰箱冷藏一夜解凍。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
       }
     ],
     "group": "sat-calm",
@@ -320,5 +429,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "repose": [
     "State of rest.",
     "休息/睡眠"
+  ],
+  "equability": [
+    "The quality of staying calm and steady.",
+    "平穩；心平氣和"
+  ],
+  "forbear": [
+    "To stop yourself from doing something.",
+    "克制；忍住（不做）"
+  ],
+  "refrain": [
+    "To stop yourself from doing something.",
+    "克制；避免"
+  ],
+  "restraint": [
+    "Control over one's actions or feelings.",
+    "克制；節制"
+  ],
+  "thaw": [
+    "To melt; to become friendlier.",
+    "融化；緩和"
   ]
 });

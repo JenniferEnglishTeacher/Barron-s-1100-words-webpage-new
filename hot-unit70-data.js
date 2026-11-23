@@ -219,6 +219,175 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座閃耀的水晶吊燈在舞廳灑下上千點細碎的光芒。",
         "added": true,
         "group": "sat-lively"
+      },
+      {
+        "word": "agility",
+        "pos": "n.",
+        "definition": "The ability to move quickly and easily.",
+        "chinese": "敏捷；靈活",
+        "synonyms": "nimbleness, dexterity, quickness",
+        "image": "shield",
+        "sentence": "The gymnast showed remarkable __________ on the beam.",
+        "translation": "那位體操選手在平衡木上展現驚人的敏捷。",
+        "lookup": {
+          "english": "The ability to move quickly and easily.",
+          "chinese": "敏捷；靈活"
+        },
+        "advSentence": "Mental agility helps older adults stay independent.",
+        "advTranslation": "思維敏捷有助於長者維持獨立生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "expeditious",
+        "pos": "adj.",
+        "definition": "Quick and efficient.",
+        "chinese": "迅速有效率的",
+        "synonyms": "speedy, prompt, efficient",
+        "image": "shield",
+        "sentence": "We appreciate your __________ reply.",
+        "translation": "感謝您迅速的回覆。",
+        "lookup": {
+          "english": "Quick and efficient.",
+          "chinese": "迅速有效率的"
+        },
+        "advSentence": "The court promised an expeditious review of the case.",
+        "advTranslation": "法院承諾會迅速審理這個案子。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-wlsh-sh"
+        ]
+      },
+      {
+        "word": "feverishly",
+        "pos": "adv.",
+        "definition": "With great excitement or hurried energy.",
+        "chinese": "狂熱地；拼命地",
+        "synonyms": "frantically, furiously, excitedly",
+        "image": "shield",
+        "sentence": "Electric vehicles have had a lot of publicity recently, and nearly all major automakers are now __________ working on electric models.",
+        "translation": "電動車最近備受矚目，幾乎所有大型車廠都在拼命研發電動車款。",
+        "lookup": {
+          "english": "With great excitement or hurried energy.",
+          "chinese": "狂熱地；拼命地"
+        },
+        "advSentence": "Volunteers worked feverishly to fill sandbags before the flood.",
+        "advTranslation": "洪水來臨前，志工們拼命趕工裝沙包。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-cr-jh"
+        ]
+      },
+      {
+        "word": "lusty",
+        "pos": "adj.",
+        "definition": "Strong, healthy and full of energy.",
+        "chinese": "精力充沛的；強健的",
+        "synonyms": "vigorous, strong, energetic",
+        "image": "shield",
+        "sentence": "The baby gave a __________ cry.",
+        "translation": "嬰兒發出響亮的哭聲。",
+        "lookup": {
+          "english": "Strong, healthy and full of energy.",
+          "chinese": "精力充沛的；強健的"
+        },
+        "advSentence": "The fans sang the team song with lusty enthusiasm.",
+        "advTranslation": "球迷們熱情洋溢地高唱隊歌。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "posthaste",
+        "pos": "adv.",
+        "definition": "Very quickly; immediately.",
+        "chinese": "火速地；立即",
+        "synonyms": "immediately, quickly, at once",
+        "image": "shield",
+        "sentence": "In this world, no Superman would come swooping out of the sky at the last minute to rescue you from a catastrophe; no rider would arrive __________ with a pardon from the king.",
+        "translation": "在這個世界上，不會有超人在最後一刻從天而降救你脫離災難，也不會有騎士帶著國王的赦令火速趕來。",
+        "lookup": {
+          "english": "Very quickly; immediately.",
+          "chinese": "火速地；立即"
+        },
+        "advSentence": "When he heard his mother was ill, he returned home posthaste.",
+        "advTranslation": "聽到母親生病，他立刻火速趕回家。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-kh-sh",
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "vigor",
+        "pos": "n.",
+        "definition": "Physical or mental strength and energy.",
+        "chinese": "活力；精力",
+        "synonyms": "energy, vitality, strength",
+        "image": "shield",
+        "sentence": "After taking a long vacation, the basketball player is now full of __________ and enthusiasm again.",
+        "translation": "經過長假後，這位籃球員又充滿了活力與熱情。",
+        "lookup": {
+          "english": "Physical or mental strength and energy.",
+          "chinese": "活力；精力"
+        },
+        "advSentence": "The new mayor attacked the city's traffic problems with vigor.",
+        "advTranslation": "新市長大刀闊斧地處理城市的交通問題。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "virility",
+        "pos": "n.",
+        "definition": "Male strength and energy.",
+        "chinese": "男子氣概；陽剛",
+        "synonyms": "manliness, potency, vigor",
+        "image": "shield",
+        "sentence": "The qualities of heroism and __________, combined with their mercantile skills, made the Vikings a powerful and dangerous race.",
+        "translation": "英勇與陽剛的特質，加上經商的技巧，使維京人成為強大而危險的民族。",
+        "lookup": {
+          "english": "Male strength and energy.",
+          "chinese": "男子氣概；陽剛"
+        },
+        "advSentence": "Advertisements often link fast cars with virility.",
+        "advTranslation": "廣告常把跑車和男子氣概連結在一起。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh"
+        ]
+      },
+      {
+        "word": "whirlwind",
+        "pos": "adj.",
+        "definition": "Happening very quickly.",
+        "chinese": "旋風般的；迅速的",
+        "synonyms": "rapid, sudden, hasty",
+        "image": "shield",
+        "sentence": "Maria and Jean had a __________ romance — they met and married within two months.",
+        "translation": "Maria 和 Jean 談了一場旋風式的戀愛——兩個月內就認識並結婚了。",
+        "lookup": {
+          "english": "Happening very quickly.",
+          "chinese": "旋風般的；迅速的"
+        },
+        "advSentence": "The band went on a whirlwind tour of ten cities in twelve days.",
+        "advTranslation": "樂團展開旋風式巡演，十二天內跑了十個城市。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
       }
     ],
     "group": "sat-lively",
@@ -276,5 +445,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "scintillating": [
     "Sparkling.",
     "閃耀的/機智風趣的"
+  ],
+  "agility": [
+    "The ability to move quickly and easily.",
+    "敏捷；靈活"
+  ],
+  "expeditious": [
+    "Quick and efficient.",
+    "迅速有效率的"
+  ],
+  "feverishly": [
+    "With great excitement or hurried energy.",
+    "狂熱地；拼命地"
+  ],
+  "lusty": [
+    "Strong, healthy and full of energy.",
+    "精力充沛的；強健的"
+  ],
+  "posthaste": [
+    "Very quickly; immediately.",
+    "火速地；立即"
+  ],
+  "vigor": [
+    "Physical or mental strength and energy.",
+    "活力；精力"
+  ],
+  "virility": [
+    "Male strength and energy.",
+    "男子氣概；陽剛"
+  ],
+  "whirlwind": [
+    "Happening very quickly.",
+    "旋風般的；迅速的"
   ]
 });

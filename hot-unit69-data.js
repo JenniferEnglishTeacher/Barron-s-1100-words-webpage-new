@@ -309,6 +309,409 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這兩位老朋友在機場巧遇,純屬意外。",
         "added": true,
         "group": "sat-disaster"
+      },
+      {
+        "word": "aftermath",
+        "pos": "n.",
+        "definition": "The period or effects after a bad event.",
+        "chinese": "後果；餘波",
+        "synonyms": "consequence, outcome, wake",
+        "image": "shield",
+        "sentence": "Many families lost their homes in the __________ of the flood.",
+        "translation": "許多家庭在水災後失去了家園。",
+        "lookup": {
+          "english": "The period or effects after a bad event.",
+          "chinese": "後果；餘波"
+        },
+        "advSentence": "In the aftermath of the scandal, the minister resigned.",
+        "advTranslation": "醜聞爆發後，部長辭職了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-hccg-jh"
+        ]
+      },
+      {
+        "word": "avalanche",
+        "pos": "n.",
+        "definition": "A large mass of snow falling down a mountain.",
+        "chinese": "雪崩",
+        "synonyms": "snowslide, landslide, deluge",
+        "image": "shield",
+        "sentence": "Three hikers were buried by an __________.",
+        "translation": "三名登山客被雪崩掩埋。",
+        "lookup": {
+          "english": "A large mass of snow falling down a mountain.",
+          "chinese": "雪崩"
+        },
+        "advSentence": "The celebrity received an avalanche of messages after her wedding.",
+        "advTranslation": "那位名人婚禮後收到如雪崩般大量的訊息。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-moe-sh",
+          "115-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "blaze",
+        "pos": "n.",
+        "definition": "A large, strong fire.",
+        "chinese": "烈火；火焰",
+        "synonyms": "fire, inferno, flames",
+        "image": "shield",
+        "sentence": "Firefighters fought the __________ for six hours.",
+        "translation": "消防員與大火搏鬥了六小時。",
+        "lookup": {
+          "english": "A large, strong fire.",
+          "chinese": "烈火；火焰"
+        },
+        "advSentence": "The garden was a blaze of color in spring.",
+        "advTranslation": "春天時花園裡一片繽紛的色彩。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-hccg-jh"
+        ]
+      },
+      {
+        "word": "brink",
+        "pos": "n.",
+        "definition": "The edge of something dangerous or exciting.",
+        "chinese": "邊緣",
+        "synonyms": "edge, verge, threshold",
+        "image": "shield",
+        "sentence": "The species is on the __________ of extinction.",
+        "translation": "這個物種瀕臨滅絕。",
+        "lookup": {
+          "english": "The edge of something dangerous or exciting.",
+          "chinese": "邊緣"
+        },
+        "advSentence": "The two countries came to the brink of war over the islands.",
+        "advTranslation": "兩國為了那些島嶼一度瀕臨開戰。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "calamitous",
+        "pos": "adj.",
+        "definition": "Causing great damage or suffering.",
+        "chinese": "災難性的",
+        "synonyms": "disastrous, catastrophic, devastating",
+        "image": "shield",
+        "sentence": "New words are born, old words die, and rarely-used words are launched into the spotlight by __________ events, medical breakthroughs, or even new trends in music or fashion.",
+        "translation": "新詞誕生、舊詞消亡，而罕用的詞則因災難事件、醫學突破，甚至音樂或時尚新潮流而受到矚目。",
+        "lookup": {
+          "english": "Causing great damage or suffering.",
+          "chinese": "災難性的"
+        },
+        "advSentence": "The calamitous earthquake destroyed thousands of homes.",
+        "advTranslation": "那場災難性的地震摧毀了數千戶房屋。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh"
+        ]
+      },
+      {
+        "word": "casualty",
+        "pos": "n.",
+        "definition": "A person killed or injured in an accident or war.",
+        "chinese": "傷亡者",
+        "synonyms": "victim, fatality, injury",
+        "image": "shield",
+        "sentence": "Every __________ of the earthquake was taken to the nearest hospital.",
+        "translation": "地震造成重大傷亡。",
+        "lookup": {
+          "english": "A person killed or injured in an accident or war.",
+          "chinese": "傷亡者"
+        },
+        "advSentence": "Truth is often the first casualty of war.",
+        "advTranslation": "真相往往是戰爭的第一個犧牲品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-vs-ae",
+          "107-ntpc-jh"
+        ]
+      },
+      {
+        "word": "dystopia",
+        "pos": "n.",
+        "definition": "An imagined world where everything is very bad.",
+        "chinese": "反烏托邦",
+        "synonyms": "nightmare world, hell, anti-utopia",
+        "image": "shield",
+        "sentence": "The novel describes a __________ ruled by machines.",
+        "translation": "這部小說描寫一個由機器統治的反烏托邦。",
+        "lookup": {
+          "english": "An imagined world where everything is very bad.",
+          "chinese": "反烏托邦"
+        },
+        "advSentence": "Critics warn that unchecked surveillance could turn society into a dystopia.",
+        "advTranslation": "批評者警告，不受限制的監控可能把社會變成反烏托邦。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "forebode",
+        "pos": "v.",
+        "definition": "To be a warning sign of something bad.",
+        "chinese": "預示（凶兆）",
+        "synonyms": "foreshadow, presage, portend",
+        "image": "shield",
+        "sentence": "The dark clouds __________d a storm.",
+        "translation": "烏雲預示著暴風雨。",
+        "lookup": {
+          "english": "To be a warning sign of something bad.",
+          "chinese": "預示（凶兆）"
+        },
+        "advSentence": "The silence in the classroom seemed to forebode a surprise quiz.",
+        "advTranslation": "教室裡的沉默似乎預示著一場突襲小考。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "misfortune",
+        "pos": "n.",
+        "definition": "Bad luck.",
+        "chinese": "不幸",
+        "synonyms": "bad luck, adversity, hardship",
+        "image": "shield",
+        "sentence": "She had the __________ to lose her job.",
+        "translation": "她不幸丟了工作。",
+        "lookup": {
+          "english": "Bad luck.",
+          "chinese": "不幸"
+        },
+        "advSentence": "Some people believe that breaking a mirror brings misfortune.",
+        "advTranslation": "有些人相信打破鏡子會帶來厄運。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "outbreak",
+        "pos": "n.",
+        "definition": "The sudden start of something bad.",
+        "chinese": "爆發",
+        "synonyms": "eruption, epidemic, flare-up",
+        "image": "shield",
+        "sentence": "There was an __________ of flu.",
+        "translation": "流感爆發了。",
+        "lookup": {
+          "english": "The sudden start of something bad.",
+          "chinese": "爆發"
+        },
+        "advSentence": "The outbreak of war forced millions to flee their homes.",
+        "advTranslation": "戰爭爆發迫使數百萬人逃離家園。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "perdition",
+        "pos": "n.",
+        "definition": "Complete ruin; punishment forever after death.",
+        "chinese": "毀滅；地獄",
+        "synonyms": "damnation, ruin, hell",
+        "image": "shield",
+        "sentence": "Greed led him to __________.",
+        "translation": "貪婪使他走向毀滅。",
+        "lookup": {
+          "english": "Complete ruin; punishment forever after death.",
+          "chinese": "毀滅；地獄"
+        },
+        "advSentence": "The preacher warned that greed was the road to perdition.",
+        "advTranslation": "傳教士警告，貪婪是通往沉淪的道路。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-hsnu-sh"
+        ]
+      },
+      {
+        "word": "portend",
+        "pos": "v.",
+        "definition": "To be a sign that something bad will happen.",
+        "chinese": "預示；預兆",
+        "synonyms": "foreshadow, signal, herald",
+        "image": "shield",
+        "sentence": "Dark clouds __________ a storm.",
+        "translation": "烏雲預示暴風雨將至。",
+        "lookup": {
+          "english": "To be a sign that something bad will happen.",
+          "chinese": "預示；預兆"
+        },
+        "advSentence": "Falling sales may portend trouble for the whole industry.",
+        "advTranslation": "銷售下滑可能預示整個產業將出現危機。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "portentously",
+        "pos": "adv.",
+        "definition": "In an ominous or overly solemn way.",
+        "chinese": "不祥地；故作嚴肅地",
+        "synonyms": "ominously, solemnly, pompously",
+        "image": "shield",
+        "sentence": "He spoke __________ about the future.",
+        "translation": "他故作嚴肅地談論未來。",
+        "lookup": {
+          "english": "In an ominous or overly solemn way.",
+          "chinese": "不祥地；故作嚴肅地"
+        },
+        "advSentence": "The narrator speaks portentously, as if every event hides a dark secret.",
+        "advTranslation": "敘述者說話語氣不祥，彷彿每件事都藏著黑暗祕密。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "severe",
+        "pos": "adj.",
+        "definition": "Very serious or bad.",
+        "chinese": "嚴重的；嚴峻的",
+        "synonyms": "serious, extreme, harsh",
+        "image": "shield",
+        "sentence": "The storm caused __________ damage.",
+        "translation": "暴風雨造成嚴重的損害。",
+        "lookup": {
+          "english": "Very serious or bad.",
+          "chinese": "嚴重的；嚴峻的"
+        },
+        "advSentence": "The coach was severe with players who skipped practice.",
+        "advTranslation": "教練對翹掉練習的球員非常嚴厲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh"
+        ]
+      },
+      {
+        "word": "throes",
+        "pos": "n.",
+        "definition": "Violent pains or struggles, especially before an end.",
+        "chinese": "劇痛；掙扎（death throes 垂死掙扎）",
+        "synonyms": "struggle, agony, pangs",
+        "image": "shield",
+        "sentence": "The country was in the __________ of revolution.",
+        "translation": "這個國家正處於革命的動盪之中。",
+        "lookup": {
+          "english": "Violent pains or struggles, especially before an end.",
+          "chinese": "劇痛；掙扎（death throes 垂死掙扎）"
+        },
+        "advSentence": "The company is in the throes of a major reorganization.",
+        "advTranslation": "公司正處於大規模重整的陣痛期。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "toll",
+        "pos": "n.",
+        "definition": "The number of deaths; a fee for using a road.",
+        "chinese": "傷亡人數；通行費",
+        "synonyms": "death count, cost, fee",
+        "image": "shield",
+        "sentence": "The death __________ rose to fifty.",
+        "translation": "死亡人數上升到五十人。",
+        "lookup": {
+          "english": "The number of deaths; a fee for using a road.",
+          "chinese": "傷亡人數；通行費"
+        },
+        "advSentence": "Years of overwork took a heavy toll on his health.",
+        "advTranslation": "多年過勞對他的健康造成嚴重損害。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh",
+          "115-mtsh-sh"
+        ]
+      },
+      {
+        "word": "traumatic",
+        "pos": "adj.",
+        "definition": "Very shocking and upsetting.",
+        "chinese": "造成創傷的",
+        "synonyms": "distressing, painful, shocking",
+        "image": "shield",
+        "sentence": "If you've gone through a(n) __________ experience, you may be struggling with upsetting emotions, frightening memories, or a sense of constant danger.",
+        "translation": "如果你經歷過創傷事件，可能正苦於令人不安的情緒、可怕的回憶，或持續感到危險。",
+        "lookup": {
+          "english": "Very shocking and upsetting.",
+          "chinese": "造成創傷的"
+        },
+        "advSentence": "Moving to a new country can be traumatic for young children.",
+        "advTranslation": "搬到新的國家對幼童來說可能是一種創傷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "traumatize",
+        "pos": "v.",
+        "definition": "To shock and upset someone very badly.",
+        "chinese": "使受創傷",
+        "synonyms": "shock, distress, scar",
+        "image": "shield",
+        "sentence": "The accident __________d her.",
+        "translation": "那場車禍讓她受到心理創傷。",
+        "lookup": {
+          "english": "To shock and upset someone very badly.",
+          "chinese": "使受創傷"
+        },
+        "advSentence": "Violent scenes on the news can traumatize young viewers.",
+        "advTranslation": "新聞中的暴力畫面可能讓年幼的觀眾受到創傷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-ntpc-jh"
+        ]
+      },
+      {
+        "word": "verge",
+        "pos": "n.",
+        "definition": "The edge; (on the verge of) very close to.",
+        "chinese": "邊緣",
+        "synonyms": "brink, edge, threshold",
+        "image": "shield",
+        "sentence": "She was on the __________ of tears.",
+        "translation": "她快要哭出來了。",
+        "lookup": {
+          "english": "The edge; (on the verge of) very close to.",
+          "chinese": "邊緣"
+        },
+        "advSentence": "The small bookstore is on the verge of closing.",
+        "advTranslation": "這家小書店瀕臨關門。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
       }
     ],
     "group": "sat-disaster",
@@ -386,5 +789,81 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "accident": [
     "An unfortunate mishap.",
     "意外事故"
+  ],
+  "aftermath": [
+    "The period or effects after a bad event.",
+    "後果；餘波"
+  ],
+  "avalanche": [
+    "A large mass of snow falling down a mountain.",
+    "雪崩"
+  ],
+  "blaze": [
+    "A large, strong fire.",
+    "烈火；火焰"
+  ],
+  "brink": [
+    "The edge of something dangerous or exciting.",
+    "邊緣"
+  ],
+  "calamitous": [
+    "Causing great damage or suffering.",
+    "災難性的"
+  ],
+  "casualty": [
+    "A person killed or injured in an accident or war.",
+    "傷亡者"
+  ],
+  "dystopia": [
+    "An imagined world where everything is very bad.",
+    "反烏托邦"
+  ],
+  "forebode": [
+    "To be a warning sign of something bad.",
+    "預示（凶兆）"
+  ],
+  "misfortune": [
+    "Bad luck.",
+    "不幸"
+  ],
+  "outbreak": [
+    "The sudden start of something bad.",
+    "爆發"
+  ],
+  "perdition": [
+    "Complete ruin; punishment forever after death.",
+    "毀滅；地獄"
+  ],
+  "portend": [
+    "To be a sign that something bad will happen.",
+    "預示；預兆"
+  ],
+  "portentously": [
+    "In an ominous or overly solemn way.",
+    "不祥地；故作嚴肅地"
+  ],
+  "severe": [
+    "Very serious or bad.",
+    "嚴重的；嚴峻的"
+  ],
+  "throes": [
+    "Violent pains or struggles, especially before an end.",
+    "劇痛；掙扎（death throes 垂死掙扎）"
+  ],
+  "toll": [
+    "The number of deaths; a fee for using a road.",
+    "傷亡人數；通行費"
+  ],
+  "traumatic": [
+    "Very shocking and upsetting.",
+    "造成創傷的"
+  ],
+  "traumatize": [
+    "To shock and upset someone very badly.",
+    "使受創傷"
+  ],
+  "verge": [
+    "The edge; (on the verge of) very close to.",
+    "邊緣"
   ]
 });

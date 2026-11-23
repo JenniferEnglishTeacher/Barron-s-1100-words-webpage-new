@@ -219,6 +219,132 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他厭倦了滿足於平庸的表現。",
         "added": true,
         "group": "sat-clumsy"
+      },
+      {
+        "word": "defective",
+        "pos": "adj.",
+        "definition": "Having a fault; not working properly.",
+        "chinese": "有缺陷的；故障的",
+        "synonyms": "faulty, broken, flawed",
+        "image": "shield",
+        "sentence": "When we opened the box, we noticed that the toy was __________. Its arms and legs were broken off and the head seemed squashed out of shape",
+        "translation": "打開箱子時，我們發現玩具有瑕疵，手腳都斷了，頭也被壓得變形。",
+        "lookup": {
+          "english": "Having a fault; not working properly.",
+          "chinese": "有缺陷的；故障的"
+        },
+        "advSentence": "Customers can return defective products within thirty days.",
+        "advTranslation": "顧客可在三十天內退回瑕疵品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "flabby",
+        "pos": "adj.",
+        "definition": "Soft and fat; weak.",
+        "chinese": "鬆弛的；軟弱無力的",
+        "synonyms": "flaccid, soft, weak",
+        "image": "shield",
+        "sentence": "His muscles became __________ after he stopped training.",
+        "translation": "他停止訓練後肌肉變得鬆弛。",
+        "lookup": {
+          "english": "Soft and fat; weak.",
+          "chinese": "鬆弛的；軟弱無力的"
+        },
+        "advSentence": "The editor cut the flabby paragraphs to make the article sharper.",
+        "advTranslation": "編輯刪掉冗贅鬆散的段落，讓文章更精練。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "flounder",
+        "pos": "v.",
+        "definition": "To struggle and make mistakes.",
+        "chinese": "困難掙扎；不知所措",
+        "synonyms": "struggle, falter, stumble",
+        "image": "shield",
+        "sentence": "Without a coherent strategy, the organization began to __________, its leadership mired in indecision and administrative inertia.",
+        "translation": "由於缺乏一致的策略，這個組織開始陷入困境，領導層深陷猶豫不決與行政惰性之中。",
+        "lookup": {
+          "english": "To struggle and make mistakes.",
+          "chinese": "困難掙扎；不知所措"
+        },
+        "advSentence": "The new student floundered in his first math class but soon caught up.",
+        "advTranslation": "那位新生第一堂數學課時手足無措，但很快就跟上了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "ineffective",
+        "pos": "adj.",
+        "definition": "Not producing the result you want.",
+        "chinese": "無效的",
+        "synonyms": "useless, futile, inadequate",
+        "image": "shield",
+        "sentence": "While the proposal aimed to address systemic issues, its overly simplistic approach rendered it largely __________ in practice.",
+        "translation": "雖然這項提案旨在解決制度性問題，但過於簡化的作法使它在實務上大多無效。",
+        "lookup": {
+          "english": "Not producing the result you want.",
+          "chinese": "無效的"
+        },
+        "advSentence": "The old medicine proved ineffective against the new virus.",
+        "advTranslation": "舊藥對新病毒證明無效。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sksc-vs"
+        ]
+      },
+      {
+        "word": "lame",
+        "pos": "adj.",
+        "definition": "Unable to walk well; weak and unconvincing.",
+        "chinese": "跛的；站不住腳的",
+        "synonyms": "weak, feeble, limping",
+        "image": "shield",
+        "sentence": "That's a __________ excuse.",
+        "translation": "那是個站不住腳的藉口。",
+        "lookup": {
+          "english": "Unable to walk well; weak and unconvincing.",
+          "chinese": "跛的；站不住腳的"
+        },
+        "advSentence": "The lame horse could no longer run in races.",
+        "advTranslation": "那匹跛腳的馬再也無法參加比賽。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "suboptimal",
+        "pos": "adj.",
+        "definition": "Not as good as it could or should be.",
+        "chinese": "次佳的；未達最佳的",
+        "synonyms": "inferior, less than ideal, poor",
+        "image": "shield",
+        "sentence": "The results were __________.",
+        "translation": "結果並不理想。",
+        "lookup": {
+          "english": "Not as good as it could or should be.",
+          "chinese": "次佳的；未達最佳的"
+        },
+        "advSentence": "Studying late at night leads to suboptimal performance the next day.",
+        "advTranslation": "熬夜讀書會導致隔天表現不佳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cmgsh-sh"
+        ]
       }
     ],
     "group": "sat-clumsy",
@@ -276,5 +402,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "mediocre": [
     "Of only moderate quality; not very good.",
     "平庸的;普通的"
+  ],
+  "defective": [
+    "Having a fault; not working properly.",
+    "有缺陷的；故障的"
+  ],
+  "flabby": [
+    "Soft and fat; weak.",
+    "鬆弛的；軟弱無力的"
+  ],
+  "flounder": [
+    "To struggle and make mistakes.",
+    "困難掙扎；不知所措"
+  ],
+  "ineffective": [
+    "Not producing the result you want.",
+    "無效的"
+  ],
+  "lame": [
+    "Unable to walk well; weak and unconvincing.",
+    "跛的；站不住腳的"
+  ],
+  "suboptimal": [
+    "Not as good as it could or should be.",
+    "次佳的；未達最佳的"
   ]
 });

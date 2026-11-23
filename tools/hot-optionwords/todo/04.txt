@@ -1,0 +1,140 @@
+spiral [L44 v. 螺旋式上升（下降）] :: Costs spiraled out of control.
+attenuate [L45 v. 使減弱] :: Thick walls attenuate the noise from the street.
+attrition [L45 n. 消耗；耗損] :: The company reduced staff through natural attrition.
+contraction [L45 n. 收縮] :: Cold causes the contraction of metals.
+decay [L45 v. 腐爛；衰敗] :: Sugar causes teeth to decay.
+deduct [L45 v. 扣除] :: Taxes are deducted from your salary.
+deteriorate [L45 v. 惡化；變壞] :: His health deteriorated quickly.
+deterioration [L45 n. 惡化；退化] :: The deterioration of the bridge alarmed engineers.
+diminution [L45 n. 減少；縮小] :: There was no diminution in her enthusiasm.
+drain [L45 v. 排出；耗盡] :: Paul's job as a construction worker is draining. He has no energy left afterwards to do anything.
+evaporate [L45 v. 蒸發；消失] :: Her confidence evaporated when she saw the test.
+fade [L45 v. 褪色；逐漸消失] :: The memory faded over time.
+halve [L45 v. 減半；對半分] :: We halved the cost by sharing.
+lessen [L45 v. 減輕；減少] :: Exercise lessens stress.
+lighten [L45 v. 減輕；使輕鬆] :: Jokes lightened the mood.
+plummet [L45 v. 驟降；直落] :: A sudden but unknown accident sent the aircraft plummeting into the Mediterranean Sea.
+plunge [L45 v. 暴跌；驟降] :: Stock prices plunged.
+recede [L45 v. 後退；減弱] :: The floodwater receded.
+regress [L45 v. 退步；倒退] :: His English regressed during the summer.
+shrink [L45 v. 縮小] NEED_S1 :: My sweater shrank in the wash.
+trim [L45 v. 修剪；削減] NEED_S1 :: The company trimmed its budget.
+tumble [L45 v. 跌倒；暴跌] :: Share prices tumbled.
+advocacy [L46 n. 倡導；擁護] :: The activist was praised for her advocacy for the rights of marginalized communities, often speaking out against systemic discrimination.
+anchor [L46 v. 錨定；使穩固] :: The boat was anchored near the shore.
+bastion [L46 n. 堡壘；據點] :: The university is a bastion of free speech.
+bulwark [L46 n. 堡壘；屏障] :: A free press is a bulwark against tyranny.
+buoy [L46 v. 鼓舞；使振作] :: The critically praised movie, "The President's Cake" is buoyed by two remarkably assured young performers, portraying conflicts between childlike journey and harsh reality.
+cement [L46 v. 鞏固；使牢固] :: The victory cemented her reputation.
+consolidate [L46 v. 鞏固；合併] :: Review activities help students consolidate new words.
+consolidation [L46 n. 鞏固；合併；整合] :: Sleep plays a role in memory consolidation.
+constructive [L46 adj. 建設性的] :: Teachers should give constructive feedback.
+empower [L46 v. 賦權；使能夠] :: Education empowers women.
+fend [L46 v. 抵擋；避開] :: She fended off reporters' questions.
+fortification [L46 n. 防禦工事；強化] :: The government has started building fortification along the border.
+mobilize [L46 v. 動員] :: The community mobilized to clean the beach.
+nourish [L46 v. 滋養；培育] :: Reading nourishes the mind.
+offset [L46 n. 抵銷（碳抵換）] :: Planting trees can offset carbon emissions.
+optimize [L46 v. 使最佳化] :: We optimized the website for phones.
+propel [L46 v. 推動；推進] NEED_S1 :: The film propelled her to fame.
+rampart [L46 n. 壁壘；防禦土牆] :: Soldiers stood on the castle ramparts.
+reinforce [L46 v. 加強；強化] :: Practice reinforces learning.
+reliance [L46 n. 依賴] :: Our reliance on phones keeps growing.
+shoulder [L46 v. 承擔；肩負] :: Parents shoulder the cost.
+solidification [L46 n. 凝固；鞏固] :: The solidification of lava forms new rock.
+stave [L46 v. 延緩；避開] :: They ate nuts to stave off hunger.
+sturdy [L46 adj. 堅固的；結實的] :: Buy a sturdy pair of hiking boots.
+sustain [L46 v. 維持；支撐] :: It's hard to sustain motivation.
+uphold [L46 v. 維護；支持] :: Judges uphold the law.
+ward [L46 v. 避開；抵擋（ward off）] :: Strictly speaking, the Yanshui Beehive Fireworks is a ceremony for warding off epidemic diseases.
+brittle [L47 adj. 易碎的；脆的] :: Old bones become brittle with age.
+counteractive [L47 adj. 抵消的；反作用的] :: The medicine has a counteractive effect on the poison.
+delegitimize [L47 v. 使失去正當性] :: Fake news can delegitimize elections.
+dilute [L47 v. 稀釋；削弱] :: The new rule dilutes the power of the union.
+dilution [L47 n. 稀釋；削弱] :: The dilution of the medicine reduced its effect.
+erode [L47 v. 侵蝕；逐漸削弱] :: Scandals erode public trust.
+flimsy [L47 adj. 薄而易壞的；脆弱的] :: The prosecutor dismissed the witness's testimony as too flimsy to substantiate such a serious allegation, since it depended largely on conjecture rather than evidence.
+fragility [L47 n. 脆弱；易碎] :: The fragility of the ecosystem worries scientists.
+indefensible [L47 adj. 站不住腳的；無法辯護的] :: His rude behavior was indefensible.
+porous [L47 adj. 多孔的；有漏洞的] :: The border is porous.
+sabotage [L47 v. 蓄意破壞] :: Someone sabotaged the machines.
+saboteur [L47 n. 破壞者] :: The saboteurs were arrested.
+susceptibility [L47 n. 易受影響性；感受性] :: Children have greater susceptibility to infection.
+appreciable [L48 adj. 可觀的；明顯的] :: There was no appreciable difference between the two groups.
+clarity [L48 n. 清晰；明確] :: The teacher explained the rule with great clarity.
+concrete [L48 adj. 具體的；混凝土的] :: Give concrete examples to support your idea.
+conspicuity [L48 n. 顯眼度；醒目性] :: Bright jackets increase cyclists' conspicuity.
+embody [L48 v. 體現；具體表現] NEED_S1 :: The statue embodies freedom.
+epitomize [L48 v. 成為…的典型；集中體現] :: She epitomizes the modern working mother.
+exhibit [L48 v. 表現出；展示] :: The patient exhibited signs of stress.
+explicit [L48 adj. 明確的；清楚表達的] :: The teacher gave explicit instructions.
+explicitly [L48 adv. 明確地] :: Grammar rules are explicitly taught in this course.
+exude [L48 v. 散發；流露] :: She exudes confidence.
+iconic [L48 adj. 代表性的；圖像的] :: "Line" or "What's App?" contain many cute iconic images which promote the use of users and also segregate users from non-users.
+illustrate [L48 v. 說明；舉例；插圖] :: The graph illustrates the rise in prices.
+legibility [L48 n. 易讀性；清晰度] :: Handwriting legibility matters on exams.
+literal [L48 adj. 字面的] :: The literal meaning of the idiom is strange.
+notable [L48 adj. 值得注意的；著名的] :: There are notable differences between the two.
+noticeable [L48 adj. 顯而易見的] :: There was a noticeable improvement.
+pinpoint [L48 v. 精確指出] :: Erhard Loretan, often described as one of the greatest mountaineers of all times, used a compass to pinpoint his location on a map.
+prominence [L48 n. 顯著；突出；重要地位] :: She rose to prominence as a writer.
+radiate [L48 v. 輻射；散發] :: She radiates happiness.
+resounding [L48 adj. 明確的；響亮的] :: The plan was a resounding success.
+scrutable [L48 adj. 可理解的；可解讀的] :: His motives were not easily scrutable.
+strikingly [L48 adv. 顯著地；驚人地] :: The two sisters look strikingly similar.
+understandably [L48 adv. 可理解地] :: She was understandably upset.
+garble [L49 v. 曲解；使混亂不清] :: The message was garbled over the bad connection.
+generalization [L49 n. 概括；以偏概全的說法] :: One rude staff member does not accurately represent our entire dedicated team. Please don't make a generalization about our restaurant based on your bad experience with that one waiter.
+indeterminable [L49 adj. 無法確定的] :: The age of the painting is indeterminable.
+obscurity [L49 n. 默默無聞；不出名] :: The novelist spent decades living in obscurity, only gaining worldwide recognition after her death.
+paradoxical [L49 adj. 矛盾的；似非而是的] :: It seems paradoxical that those people who claim to love animals still purchase fashion products made of animal fur.
+sketchy [L49 adj. 粗略的；不完整的] :: The details are sketchy.
+subtlety [L49 n. 微妙之處；細微差別] :: Translators must capture the subtlety of the original.
+underlying [L49 adj. 潛在的；根本的] :: The government's new policy was praised for its attempt to address poverty, but critics argued that it failed to confront the underlying causes of economic inequality.
+unfathomable [L49 adj. 深不可測的；難以理解的] :: Her decision was unfathomable to us.
+unfathomably [L49 adv. 深不可測地；難以理解地] :: The ocean is unfathomably deep.
+idealize [L50 v. 理想化] :: Young fans idealize pop stars.
+panegyrist [L50 n. 頌揚者；歌功頌德者] :: The king's panegyrists praised his every act.
+accuse [L51 v. 指控；控告] :: He was accused of stealing company secrets.
+confute [L51 v. 駁倒；證明錯誤] :: The scientist confuted the old theory.
+derogate [L51 v. 貶損；減損] :: His remarks derogate from her achievements.
+detraction [L51 n. 貶低；誹謗] :: His detraction of her work was unfair.
+inculpate [L51 v. 使負罪；歸罪於] :: The evidence inculpated the manager.
+underestimate [L51 v. 低估] :: We underestimated the time it would take to get there, so when we arrived at the market it was closed.
+adaptive [L52 adj. 適應性的；調適的] :: Adaptive learning software adjusts to each student's level.
+brook [L52 v. 容忍] :: Democracy can't brook strikes that intimidate citizens and use force to influence policymaking.
+coddle [L52 v. 溺愛；嬌寵] :: Don't coddle children; let them face challenges.
+deflect [L52 v. 使轉向；偏斜；轉移] :: He deflected criticism by blaming others.
+ductile [L52 adj. 可延展的] :: Ductile substances can be easily hammered or stretched into thin wires without breakage. Most metals are good examples with this property, including gold, silver, and copper.
+expediency [L52 n. 權宜；便宜行事] :: He chose expediency over principle.
+flex [L52 v. 彎曲；收縮（肌肉）] :: He flexed his arm to show his muscles.
+indulgent [L52 adj. 縱容的；寬容的] :: Indulgent parents rarely say no.
+loosen [L52 v. 鬆開；使放鬆] :: Loosen your tie and relax.
+plastic [L52 adj. 可塑的；有彈性的] :: The newly implemented curriculum framework is quite plastic; it allows individual schools the flexibility to adapt the core competencies to their unique cultural contexts.
+springy [L52 adj. 有彈性的] :: The mattress is springy.
+sway [L52 v. 搖擺；左右（意見）] :: Voters were swayed by the ads.
+tailor [L52 v. 量身打造] :: Teachers tailor lessons to student needs.
+tailor-made [L52 adj. 量身訂做的] :: The job is tailor-made for her.
+tame [L52 v./adj. 馴服；溫馴的] :: Lions are hard to tame.
+tractability [L52 n. 易處理性；溫順] :: The tractability of the problem made it easy to solve.
+discipline [L53 n. 紀律；學科] :: Learning an instrument requires discipline.
+normative [L53 adj. 規範性的；標準的] :: Normative grammar tells you what is "correct."
+precept [L53 n. 箴言；準則] :: The basic precepts of Buddhism.
+rigid [L53 adj. 僵硬的；嚴格的] :: The rules are too rigid.
+rigidity [L53 n. 僵硬；嚴格] :: The rigidity of the system frustrates teachers.
+stiff [L53 adj. 僵硬的；嚴厲的] :: A terrorist attack took place in the vicinity of the Palace of Westminster in London on 22 March 2017.With deep grief inside, many Londoners, though, chose to keep stiff lipsto hide emotions from revealing.
+stiffen [L53 v. 變僵硬] :: His body stiffened with fear.
+systematic [L53 adj. 有系統的] :: A systematic review of the research.
+tidiness [L53 n. 整潔] :: Tidiness is important in the lab.
+typecast [L53 v. 使定型；老是安排同類角色] :: The actor was typecast as a villain.
+unforgiving [L53 adj. 不寬容的；嚴酷的] :: The desert is an unforgiving place.
+adulterate [L54 v. 摻雜；摻假] :: Olive oil is one of the most adulterated foods. Some products were thinned out with soybean, corn, sunflower, safflower, canola, or palm oil.
+belie [L54 v. 掩飾；與…不符] :: Nina's calm face belied the terror she was feeling. Ostensibly composed, she managed to navigate the room with a grace that effectively masked her inner turmoil from the unsuspecting guests.
+counterfeit [L54 adj. 偽造的] :: Police seized counterfeit banknotes.
+distort [L54 v. 扭曲；曲解] :: Even though the report was presented as objective, its selective use of data suggests that the conclusions may have been deliberately distorted.
+distortion [L54 n. 扭曲；曲解] :: The article is a distortion of the facts.
+duplicate [L54 v. 複製；重複] :: Please don't duplicate the files.
+echo [L54 v. 回響；附和] :: His words echoed his father's views.
+falsification [L54 n. 竄改；偽造] :: The falsification of data ended his career.
+falsify [L54 v. 竄改；偽造] NEED_S1 :: He falsified his tax records.
+faux [L54 adj. 仿製的；假的] :: She wore a faux fur coat.

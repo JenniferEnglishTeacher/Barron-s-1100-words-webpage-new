@@ -327,6 +327,259 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "分析師對明年的經濟給出了樂觀的預測。",
         "added": true,
         "group": "sat-joy"
+      },
+      {
+        "word": "carefree",
+        "pos": "adj.",
+        "definition": "Having no worries or problems.",
+        "chinese": "無憂無慮的",
+        "synonyms": "untroubled, happy-go-lucky, relaxed",
+        "image": "shield",
+        "sentence": "We spent a __________ summer at the beach.",
+        "translation": "我們在海邊度過了無憂無慮的夏天。",
+        "lookup": {
+          "english": "Having no worries or problems.",
+          "chinese": "無憂無慮的"
+        },
+        "advSentence": "Grandpa often talks about his carefree childhood in the countryside.",
+        "advTranslation": "爺爺常談起他在鄉下無憂無慮的童年。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh"
+        ]
+      },
+      {
+        "word": "contently",
+        "pos": "adv.",
+        "definition": "In a satisfied, happy way.",
+        "chinese": "滿足地",
+        "synonyms": "happily, satisfiedly, peacefully",
+        "image": "shield",
+        "sentence": "The cat purred __________ on the sofa.",
+        "translation": "貓咪在沙發上滿足地發出呼嚕聲。",
+        "lookup": {
+          "english": "In a satisfied, happy way.",
+          "chinese": "滿足地"
+        },
+        "advSentence": "After the big meal, the guests leaned back contently in their chairs.",
+        "advTranslation": "飽餐一頓後，客人們心滿意足地靠在椅背上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "ecstasy",
+        "pos": "n.",
+        "definition": "A feeling of great happiness.",
+        "chinese": "狂喜",
+        "synonyms": "rapture, bliss, euphoria",
+        "image": "shield",
+        "sentence": "The fans were in __________ when the team won.",
+        "translation": "球隊獲勝時，球迷欣喜若狂。",
+        "lookup": {
+          "english": "A feeling of great happiness.",
+          "chinese": "狂喜"
+        },
+        "advSentence": "The young violinist played with a look of ecstasy on her face.",
+        "advTranslation": "年輕的小提琴家演奏時臉上流露出狂喜的神情。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "elate",
+        "pos": "v.",
+        "definition": "To make very happy and excited.",
+        "chinese": "使興高采烈",
+        "synonyms": "thrill, delight, overjoy",
+        "image": "shield",
+        "sentence": "The news of her promotion __________d her.",
+        "translation": "升遷的消息讓她興高采烈。",
+        "lookup": {
+          "english": "To make very happy and excited.",
+          "chinese": "使興高采烈"
+        },
+        "advSentence": "The surprising test results elated the whole research team.",
+        "advTranslation": "出乎意料的試驗結果讓整個研究團隊欣喜不已。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "elation",
+        "pos": "n.",
+        "definition": "Great happiness and excitement.",
+        "chinese": "興高采烈；欣喜",
+        "synonyms": "joy, euphoria, exhilaration",
+        "image": "shield",
+        "sentence": "He felt __________ at the finish line.",
+        "translation": "他在終點線感到欣喜若狂。",
+        "lookup": {
+          "english": "Great happiness and excitement.",
+          "chinese": "興高采烈；欣喜"
+        },
+        "advSentence": "Her elation turned to worry when she saw the price of the trip.",
+        "advTranslation": "看到旅費後，她的欣喜轉為擔憂。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "gratification",
+        "pos": "n.",
+        "definition": "Pleasure or satisfaction, especially from getting what one wants.",
+        "chinese": "滿足；快感",
+        "synonyms": "satisfaction, pleasure, fulfillment",
+        "image": "shield",
+        "sentence": "Children must learn to delay __________.",
+        "translation": "孩子必須學會延遲滿足。",
+        "lookup": {
+          "english": "Pleasure or satisfaction, especially from getting what one wants.",
+          "chinese": "滿足；快感"
+        },
+        "advSentence": "Social media offers instant gratification through likes and comments.",
+        "advTranslation": "社群媒體透過按讚與留言提供即時的滿足感。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nhsh115-2-sh"
+        ]
+      },
+      {
+        "word": "joyfully",
+        "pos": "adv.",
+        "definition": "In a very happy way.",
+        "chinese": "喜悅地",
+        "synonyms": "happily, gleefully, cheerfully",
+        "image": "shield",
+        "sentence": "The children ran __________ into the sea.",
+        "translation": "孩子們開心地奔向大海。",
+        "lookup": {
+          "english": "In a very happy way.",
+          "chinese": "喜悅地"
+        },
+        "advSentence": "The villagers joyfully welcomed the first rain after months of drought.",
+        "advTranslation": "數月乾旱後，村民們歡欣地迎接第一場雨。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "jubilation",
+        "pos": "n.",
+        "definition": "Great happiness, especially because of a success.",
+        "chinese": "歡騰；喜悅",
+        "synonyms": "celebration, rejoicing, triumph",
+        "image": "shield",
+        "sentence": "There was __________ when the war ended.",
+        "translation": "戰爭結束時舉國歡騰。",
+        "lookup": {
+          "english": "Great happiness, especially because of a success.",
+          "chinese": "歡騰；喜悅"
+        },
+        "advSentence": "Jubilation filled the streets after the national team won the gold medal.",
+        "advTranslation": "國家隊奪金後，街上一片歡騰。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "positivity",
+        "pos": "n.",
+        "definition": "The practice of being hopeful and optimistic.",
+        "chinese": "正面態度",
+        "synonyms": "optimism, cheerfulness, confidence",
+        "image": "shield",
+        "sentence": "Psychologists explain that there is a difference between always looking at things at the bright side and blind __________.",
+        "translation": "心理學家解釋，總是看事情的光明面和盲目的正向之間是有差別的。",
+        "lookup": {
+          "english": "The practice of being hopeful and optimistic.",
+          "chinese": "正面態度"
+        },
+        "advSentence": "Her positivity helped the team stay motivated during a difficult season.",
+        "advTranslation": "她的正向態度幫助球隊在艱難的球季中保持鬥志。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "recreation",
+        "pos": "n.",
+        "definition": "Activities done for enjoyment.",
+        "chinese": "娛樂；消遣",
+        "synonyms": "leisure, entertainment, relaxation",
+        "image": "shield",
+        "sentence": "The park offers __________ for families.",
+        "translation": "這座公園為家庭提供休閒娛樂。",
+        "lookup": {
+          "english": "Activities done for enjoyment.",
+          "chinese": "娛樂；消遣"
+        },
+        "advSentence": "Hiking is a popular form of recreation in Taiwan's mountains.",
+        "advTranslation": "健行是臺灣山區很受歡迎的休閒活動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "rosy",
+        "pos": "adj.",
+        "definition": "Pink; hopeful.",
+        "chinese": "玫瑰色的；樂觀的",
+        "synonyms": "pink, promising, optimistic",
+        "image": "shield",
+        "sentence": "The future looks __________.",
+        "translation": "未來看起來一片光明。",
+        "lookup": {
+          "english": "Pink; hopeful.",
+          "chinese": "玫瑰色的；樂觀的"
+        },
+        "advSentence": "The report paints a rosy picture that ignores several serious risks.",
+        "advTranslation": "這份報告描繪了過於樂觀的景象，忽略了好幾個重大風險。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "sanguinity",
+        "pos": "n.",
+        "definition": "Cheerful hopefulness.",
+        "chinese": "樂觀；自信",
+        "synonyms": "optimism, confidence, hopefulness",
+        "image": "shield",
+        "sentence": "She faced the future with __________.",
+        "translation": "她樂觀地面對未來。",
+        "lookup": {
+          "english": "Cheerful hopefulness.",
+          "chinese": "樂觀；自信"
+        },
+        "advSentence": "The coach's sanguinity about the season surprised the reporters.",
+        "advTranslation": "教練對本季的樂觀讓記者們感到驚訝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
       }
     ],
     "group": "sat-joy",
@@ -408,5 +661,53 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "optimistic": [
     "Hopeful and confident about the future.",
     "樂觀的"
+  ],
+  "carefree": [
+    "Having no worries or problems.",
+    "無憂無慮的"
+  ],
+  "contently": [
+    "In a satisfied, happy way.",
+    "滿足地"
+  ],
+  "ecstasy": [
+    "A feeling of great happiness.",
+    "狂喜"
+  ],
+  "elate": [
+    "To make very happy and excited.",
+    "使興高采烈"
+  ],
+  "elation": [
+    "Great happiness and excitement.",
+    "興高采烈；欣喜"
+  ],
+  "gratification": [
+    "Pleasure or satisfaction, especially from getting what one wants.",
+    "滿足；快感"
+  ],
+  "joyfully": [
+    "In a very happy way.",
+    "喜悅地"
+  ],
+  "jubilation": [
+    "Great happiness, especially because of a success.",
+    "歡騰；喜悅"
+  ],
+  "positivity": [
+    "The practice of being hopeful and optimistic.",
+    "正面態度"
+  ],
+  "recreation": [
+    "Activities done for enjoyment.",
+    "娛樂；消遣"
+  ],
+  "rosy": [
+    "Pink; hopeful.",
+    "玫瑰色的；樂觀的"
+  ],
+  "sanguinity": [
+    "Cheerful hopefulness.",
+    "樂觀；自信"
   ]
 });

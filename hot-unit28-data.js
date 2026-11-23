@@ -321,6 +321,348 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "",
         "added": true,
         "group": "hot-28"
+      },
+      {
+        "word": "aptly",
+        "pos": "adv.",
+        "definition": "In a way that is suitable or fitting.",
+        "chinese": "恰當地",
+        "synonyms": "fittingly, appropriately, suitably",
+        "image": "shield",
+        "sentence": "The restaurant is __________ named \"Ocean View.\"",
+        "translation": "這家餐廳的名字「海景」取得很恰當。",
+        "lookup": {
+          "english": "In a way that is suitable or fitting.",
+          "chinese": "恰當地"
+        },
+        "advSentence": "The fast-moving film was aptly titled \"Whirlwind.\"",
+        "advTranslation": "這部節奏飛快的電影片名取為《旋風》，十分貼切。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "awareness",
+        "pos": "n.",
+        "definition": "Knowledge or understanding of something.",
+        "chinese": "意識；察覺",
+        "synonyms": "consciousness, recognition, perception",
+        "image": "shield",
+        "sentence": "The campaign raised __________ of mental health.",
+        "translation": "這項活動提升了大眾對心理健康的意識。",
+        "lookup": {
+          "english": "Knowledge or understanding of something.",
+          "chinese": "意識；察覺"
+        },
+        "advSentence": "Travel broadened her awareness of cultures very different from her own.",
+        "advTranslation": "旅行讓她更了解與自己截然不同的文化。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh",
+          "104-cyc-jh"
+        ]
+      },
+      {
+        "word": "comprehend",
+        "pos": "v.",
+        "definition": "To understand fully.",
+        "chinese": "理解",
+        "synonyms": "understand, grasp, fathom",
+        "image": "shield",
+        "sentence": "He could not __________ why she left.",
+        "translation": "他無法理解她為什麼離開。",
+        "lookup": {
+          "english": "To understand fully.",
+          "chinese": "理解"
+        },
+        "advSentence": "Young children cannot fully comprehend the concept of death.",
+        "advTranslation": "年幼的孩子無法完全理解死亡的概念。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
+      },
+      {
+        "word": "faculty",
+        "pos": "n.",
+        "definition": "A natural mental or physical ability.",
+        "chinese": "（心智）官能；能力",
+        "synonyms": "ability, capacity, power",
+        "image": "shield",
+        "sentence": "Even at the age of 100, her mental __________ remained sharp.",
+        "translation": "她直到一百歲都保有清晰的心智能力。",
+        "lookup": {
+          "english": "A natural mental or physical ability.",
+          "chinese": "（心智）官能；能力"
+        },
+        "advSentence": "The ability to reason is a faculty that distinguishes humans from other animals.",
+        "advTranslation": "推理能力是人類與其他動物不同的一種官能。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hsnu-sh"
+        ]
+      },
+      {
+        "word": "foresee",
+        "pos": "v.",
+        "definition": "To know about something before it happens.",
+        "chinese": "預見",
+        "synonyms": "predict, anticipate, foretell",
+        "image": "shield",
+        "sentence": "No one could __________ the economic crisis.",
+        "translation": "沒有人預見到這場經濟危機。",
+        "lookup": {
+          "english": "To know about something before it happens.",
+          "chinese": "預見"
+        },
+        "advSentence": "Few experts could foresee how quickly smartphones would transform daily life.",
+        "advTranslation": "很少專家能預見智慧型手機會多快改變日常生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "hindsight",
+        "pos": "n.",
+        "definition": "Understanding a situation only after it has happened.",
+        "chinese": "事後之明",
+        "synonyms": "retrospect, reflection, afterthought",
+        "image": "shield",
+        "sentence": "In __________, we should have left earlier.",
+        "translation": "事後想想，我們應該早點出發。",
+        "lookup": {
+          "english": "Understanding a situation only after it has happened.",
+          "chinese": "事後之明"
+        },
+        "advSentence": "Hindsight makes every mistake look obvious.",
+        "advTranslation": "事後之明讓每個錯誤看起來都很明顯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae",
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "inquisitive",
+        "pos": "adj.",
+        "definition": "Eager to know or learn things.",
+        "chinese": "好奇的；愛追問的",
+        "synonyms": "curious, questioning, probing",
+        "image": "shield",
+        "sentence": "__________ children ask many questions.",
+        "translation": "好奇的孩子會問很多問題。",
+        "lookup": {
+          "english": "Eager to know or learn things.",
+          "chinese": "好奇的；愛追問的"
+        },
+        "advSentence": "The inquisitive puppy sniffed every corner of its new home.",
+        "advTranslation": "好奇的小狗嗅遍了新家的每個角落。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "instinctive",
+        "pos": "adj.",
+        "definition": "Done naturally without thinking or learning.",
+        "chinese": "本能的；直覺的",
+        "synonyms": "intuitive, natural, automatic",
+        "image": "shield",
+        "sentence": "Fear is an __________ response.",
+        "translation": "恐懼是一種本能的反應。",
+        "lookup": {
+          "english": "Done naturally without thinking or learning.",
+          "chinese": "本能的；直覺的"
+        },
+        "advSentence": "Her instinctive kindness made her an excellent nurse.",
+        "advTranslation": "她天生的善良讓她成為一名優秀的護理師。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh"
+        ]
+      },
+      {
+        "word": "instinctively",
+        "pos": "adv.",
+        "definition": "Without thinking, by instinct.",
+        "chinese": "本能地",
+        "synonyms": "intuitively, automatically, naturally",
+        "image": "shield",
+        "sentence": "She __________ pulled her hand back.",
+        "translation": "她本能地把手縮回來。",
+        "lookup": {
+          "english": "Without thinking, by instinct.",
+          "chinese": "本能地"
+        },
+        "advSentence": "Experienced drivers instinctively slow down near schools.",
+        "advTranslation": "有經驗的駕駛人在學校附近會本能地放慢速度。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "introspect",
+        "pos": "v.",
+        "definition": "To examine your own thoughts and feelings.",
+        "chinese": "自省；內省",
+        "synonyms": "reflect, self-examine, contemplate",
+        "image": "shield",
+        "sentence": "Journaling helps students __________.",
+        "translation": "寫日記幫助學生自我反省。",
+        "lookup": {
+          "english": "To examine your own thoughts and feelings.",
+          "chinese": "自省；內省"
+        },
+        "advSentence": "After the defeat, the coach took time to introspect about his strategy.",
+        "advTranslation": "輸球後，教練花時間反省自己的策略。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "plumb",
+        "pos": "v.",
+        "definition": "To explore or understand something completely.",
+        "chinese": "探究；深入了解",
+        "synonyms": "explore, fathom, probe",
+        "image": "shield",
+        "sentence": "The novel __________s the depths of human sorrow.",
+        "translation": "這部小說深入探究人類悲傷的深處。",
+        "lookup": {
+          "english": "To explore or understand something completely.",
+          "chinese": "探究；深入了解"
+        },
+        "advSentence": "Researchers hope to plumb the mysteries of the deep ocean.",
+        "advTranslation": "研究人員希望探究深海的奧祕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-hsnu-sh"
+        ]
+      },
+      {
+        "word": "pragmatism",
+        "pos": "n.",
+        "definition": "A practical approach to problems rather than following theory.",
+        "chinese": "實用主義；務實",
+        "synonyms": "practicality, realism, common sense",
+        "image": "shield",
+        "sentence": "Her __________ helped solve the crisis.",
+        "translation": "她的務實幫助化解了這場危機。",
+        "lookup": {
+          "english": "A practical approach to problems rather than following theory.",
+          "chinese": "實用主義；務實"
+        },
+        "advSentence": "The mayor's pragmatism won support from both political parties.",
+        "advTranslation": "市長的務實作風贏得兩黨的支持。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "precocity",
+        "pos": "n.",
+        "definition": "The quality of developing skills earlier than usual.",
+        "chinese": "早熟；早慧",
+        "synonyms": "early maturity, advancement, brilliance",
+        "image": "shield",
+        "sentence": "Mozart's __________ amazed audiences.",
+        "translation": "莫札特的早慧令聽眾驚嘆。",
+        "lookup": {
+          "english": "The quality of developing skills earlier than usual.",
+          "chinese": "早熟；早慧"
+        },
+        "advSentence": "The child's precocity in mathematics amazed her teachers.",
+        "advTranslation": "那孩子在數學上的早慧讓老師們驚嘆。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh"
+        ]
+      },
+      {
+        "word": "reflection",
+        "pos": "n.",
+        "definition": "Serious thought; an image in a mirror.",
+        "chinese": "反思；倒影",
+        "synonyms": "contemplation, thought, image",
+        "image": "shield",
+        "sentence": "__________ is key to learning.",
+        "translation": "反思是學習的關鍵。",
+        "lookup": {
+          "english": "Serious thought; an image in a mirror.",
+          "chinese": "反思；倒影"
+        },
+        "advSentence": "She saw her reflection in the still water of the lake.",
+        "advTranslation": "她在平靜的湖面上看見自己的倒影。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "rumination",
+        "pos": "n.",
+        "definition": "Deep or careful thought about something.",
+        "chinese": "沉思；反芻",
+        "synonyms": "contemplation, reflection, brooding",
+        "image": "shield",
+        "sentence": "__________ on mistakes can lead to anxiety.",
+        "translation": "反覆思索錯誤可能導致焦慮。",
+        "lookup": {
+          "english": "Deep or careful thought about something.",
+          "chinese": "沉思；反芻"
+        },
+        "advSentence": "After hours of rumination, he finally decided to change careers.",
+        "advTranslation": "經過數小時的沉思，他終於決定轉換跑道。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "sanely",
+        "pos": "adv.",
+        "definition": "In a reasonable, sensible way.",
+        "chinese": "理智地",
+        "synonyms": "sensibly, rationally, reasonably",
+        "image": "shield",
+        "sentence": "When you are at an intersection of life, you must __________ choose which road to follow in the coming year.",
+        "translation": "當你站在人生的十字路口時，必須理智地選擇來年要走哪條路。",
+        "lookup": {
+          "english": "In a reasonable, sensible way.",
+          "chinese": "理智地"
+        },
+        "advSentence": "Even under pressure, the pilot reacted calmly and sanely.",
+        "advTranslation": "即使在壓力下，機長仍冷靜而理智地應對。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -696,5 +1038,69 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "sophisticated": [
     "Developed to a high degree of complexity and refinement.",
     "先進的；精密的；世故的"
+  ],
+  "aptly": [
+    "In a way that is suitable or fitting.",
+    "恰當地"
+  ],
+  "awareness": [
+    "Knowledge or understanding of something.",
+    "意識；察覺"
+  ],
+  "comprehend": [
+    "To understand fully.",
+    "理解"
+  ],
+  "faculty": [
+    "A natural mental or physical ability.",
+    "（心智）官能；能力"
+  ],
+  "foresee": [
+    "To know about something before it happens.",
+    "預見"
+  ],
+  "hindsight": [
+    "Understanding a situation only after it has happened.",
+    "事後之明"
+  ],
+  "inquisitive": [
+    "Eager to know or learn things.",
+    "好奇的；愛追問的"
+  ],
+  "instinctive": [
+    "Done naturally without thinking or learning.",
+    "本能的；直覺的"
+  ],
+  "instinctively": [
+    "Without thinking, by instinct.",
+    "本能地"
+  ],
+  "introspect": [
+    "To examine your own thoughts and feelings.",
+    "自省；內省"
+  ],
+  "plumb": [
+    "To explore or understand something completely.",
+    "探究；深入了解"
+  ],
+  "pragmatism": [
+    "A practical approach to problems rather than following theory.",
+    "實用主義；務實"
+  ],
+  "precocity": [
+    "The quality of developing skills earlier than usual.",
+    "早熟；早慧"
+  ],
+  "reflection": [
+    "Serious thought; an image in a mirror.",
+    "反思；倒影"
+  ],
+  "rumination": [
+    "Deep or careful thought about something.",
+    "沉思；反芻"
+  ],
+  "sanely": [
+    "In a reasonable, sensible way.",
+    "理智地"
   ]
 });

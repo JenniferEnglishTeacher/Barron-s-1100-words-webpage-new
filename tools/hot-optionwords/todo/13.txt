@@ -1,0 +1,140 @@
+scenario [L115 n. 情境；劇本] :: In the worst-case scenario, we cancel the trip.
+stake [L115 n. （stakes）利害關係；風險] :: The stakes are high.
+threatening [L115 adj. 威脅性的] :: He received threatening messages.
+actuary [L116 n. 精算師] :: The actuary calculated how much the insurance policy should cost.
+applicant [L116 n. 申請人] :: Each applicant must submit two letters of reference.
+apprentice [L116 n. 學徒] :: He worked as an apprentice to a master carpenter.
+carpenter [L116 n. 木匠] :: The carpenter built new kitchen cabinets.
+caseload [L116 n. 案件量] :: Social workers struggle with heavy caseloads.
+coalface [L116 n. 採煤工作面；第一線] :: Teachers at the coalface know what students need.
+correspondent [L116 n. 特派員；通訊記者] :: Our foreign correspondent reports from Tokyo.
+custodian [L116 n. 監護人；保管人] :: The museum is the custodian of rare manuscripts.
+handyman [L116 n. 雜工；修理工] :: We called a handyman to fix the door.
+occupation [L116 n. 職業；佔領] :: Please state your occupation on the form.
+occupational [L116 adj. 職業的] :: Back pain is an occupational hazard for nurses.
+personnel [L116 n. 全體員工；人事] :: Medical personnel worked through the night.
+plumber [L116 n. 水電工；水管工] :: The pipe is leaking again, so you have to call the plumber.
+proxy [L116 n. 代理人；代理權] :: She voted by proxy.
+recruit [L116 v. 招募] :: Many companies still need to recruit in a recession. If you are capable and aggressive, you can find a good job without question.
+sack [L116 v. 開除] :: He was sacked for being late.
+steward [L116 n. 服務員；管家] :: We are stewards of the environment.
+veterinarian [L116 n. 獸醫] :: The veterinarian treated our dog.
+adhesive [L117 adj. 黏性的] :: Use an adhesive tape to seal the box.
+chisel [L117 v. 鑿；雕] :: The sculptor chiseled the marble into a statue.
+embroider [L117 v. 刺繡；添油加醋] :: She embroidered flowers on the pillow.
+framework [L117 n. 架構；框架] :: The CEFR provides a framework for language levels.
+infilling [L117 n. 填充；填建] :: Urban infilling reduces sprawl.
+infrastructure [L117 n. 基礎建設] :: The president's pledge to renew and rebuild infrastructure on a large scale has lifted commodity prices on expectation of higher demand.
+inscribe [L117 v. 刻寫；題寫] :: His name was inscribed on the trophy.
+installation [L117 n. 安裝；裝置藝術] :: Installation of the software takes ten minutes.
+installed [L117 v. 安裝] :: Solar panels were installed on the roof.
+insulation [L117 n. 隔熱材料；絕緣] :: Good insulation lowers heating bills.
+laminate [L117 v. 層壓；護貝] :: Laminate the cards so students can reuse them.
+lubricate [L117 v. 潤滑] :: Though the legal drinking age is 21, students say alcohol lubricate university social life from freshman year; it helps to make social life smoother.
+maintenance [L117 n. 維修；保養] :: The building needs regular maintenance.
+makeshift [L117 adj. 權宜的；臨時湊合的] :: The treaty was criticized for being makeshift, as it provided only a temporary pause in hostilities without addressing the underlying territorial disputes.
+manufacture [L117 v. 製造] :: The company manufactures electric cars.
+mend [L117 v. 修補；改善] :: With Pakistan under attack by the Taliban, Islamabad needs to look at mending relations with Kabul and viewing terrorism as a shared problem.
+perforate [L117 v. 穿孔；打洞] :: The conservator meticulously attempted to perforate the priceless manuscript, using a laser to create a single, extremely small hole for analysis.
+purify [L117 v. 淨化] NEED_S1 :: The machine purifies the water.
+reclaim [L117 v. 取回；收回] :: Reclaim your bag at the counter.
+reclamation [L117 n. 開墾；回收] :: Implementing a "circular economy" involves designing products for easier reclamation and reuse, thereby minimizing the waste sent to landfills.
+reconstruction [L117 n. 重建] :: Reconstruction after the earthquake took years.
+remediate [L117 v. 補救；矯正] :: Teachers remediate gaps in learning.
+retrieve [L117 v. 取回；檢索] :: Retrieve the file from the cloud.
+salvage [L117 n. 搶救；打撈] :: They tried to salvage the sinking ship.
+scrub [L117 v. 擦洗] NEED_S1 :: She scrubbed the floor.
+streamline [L117 v. 精簡；使有效率] :: All the sophisticated procedures in government agencies ought to be streamlined to enhance efficiency.
+tinker [L117 v. 修補；小修小改] :: Although the prototype initially functioned flawlessly, the engineer could not resist continuing to tinker with its circuitry, convinced that even marginal refinements might yield revolutionary results.
+treadle [L117 n. 踏板] :: Old sewing machines had a treadle.
+varnish [L117 v. 上亮光漆] :: He varnished the wooden table.
+weave [L117 v. 蜿蜒穿行；編織] :: She weaves stories into her lessons.
+affiliate [L118 v. 使隸屬；加盟] :: The hospital is affiliated with a local university.
+assemblage [L118 n. 集合；聚集物] :: The museum displays an assemblage of ancient tools.
+associate [L118 v. 聯想；交往] :: Many people associate summer with the beach.
+attach [L118 v. 附上；連接] :: Please attach your résumé to the email.
+bind [L118 v. 綁；使受約束；有約束力的] :: The Paris Climate Agreement is not legally binding, allowing countries to set their own targets without strict enforcement mechanisms.
+cluster [L118 v. 使聚集；歸類成群] :: Instruction focused on specific labor market preparation is clustered into several distinct occupational program areas, ranging from agriculture and business to health and technical trades.
+compile [L118 v. 彙編；收集整理] :: She compiled a list of useful websites.
+conjoin [L118 v. 使結合；連接] :: The twins were conjoined at the hip.
+constitute [L118 v. 構成；等於] :: Women constitute half of the workforce.
+corral [L118 v. 集中；圍攏；整合] NEED_S1 :: My head was swarming with ideas, but corralling them into a cohesive narrative proved to be the real challenge.
+embed [L118 v. 嵌入] NEED_S1 :: Cultural values are embedded in language.
+hitch [L118 v. 搭便車；鉤住] :: They hitched the horse to the cart.
+hook [L118 v./n. 鉤住；吸引人之處] :: A: I thought we were going to have a potluck next week? B: No, it got cancelled, so I'm off the hook. I wouldn't have any idea what dish to bring.
+hybrid [L118 adj. 混合的；混種的] :: In diasporic communities, the younger generation often finds itself caught between preserving ancestral traditions and embracing a more hybrid identity shaped by the host culture.
+integrate [L118 v. 整合；融入] :: We integrate technology into lessons.
+integration [L118 n. 整合；融合] :: The integration of skills improves learning.
+integrative [L118 adj. 整合的] :: The course uses an integrative approach.
+interconnectedness [L118 n. 相互關聯] :: Ecology shows the interconnectedness of all life.
+intertwine [L118 v. 交織；纏繞] :: Their lives were intertwined.
+merge [L118 v. 合併] :: During the economic recession, small companies were often forced to merge with larger ones to survive.
+modular [L118 adj. 模組化的] :: The course has a modular design.
+overlap [L118 v. 重疊] :: The two subjects overlap.
+stack [L118 n./v. 一疊；堆放] :: A stack of papers sat on her desk.
+subsume [L118 v. 納入；包含] :: Several small departments were subsumed into one.
+synthesize [L118 v. 綜合；合成] :: To foster critical thinking, teachers should design assignments that require students to synthesize information from multiple sources and draw their own conclusions.
+thread [L118 n./v. 線；線索；貫穿] NEED_S1 :: A common threadwithin ecological psychology and sociocultural theory both theories is the work of Vygotsky, especially the concept of scaffolding between expert and novice.
+twine [L118 v./n. 纏繞；細繩] :: Vines twined around the fence.
+atomize [L119 v. 霧化；使分裂成個體] :: Social media has atomized communities into isolated users.
+compartmentalization [L119 n. 分隔；區隔化] :: Compartmentalization helps him keep work and family apart.
+disband [L119 v. 解散] :: The band disbanded after ten years.
+discard [L119 v. 丟棄；拋棄] :: Discard any food that is past its date.
+discharge [L119 v. 排放；釋放；讓…出院] :: The factory discharged waste into the river.
+dispersal [L119 n. 散布；擴散] :: Birds help the dispersal of seeds.
+dissect [L119 v. 解剖；詳細分析] :: Students dissected a frog in biology class.
+dissection [L119 n. 剖析；解剖] :: A full legal analysis of the agreement requires the dissection of every sentence written in the contract.
+dissolve [L119 v. 消除；溶解] :: Sugar dissolves in water.
+elimination [L119 n. 消除；淘汰] :: The elimination of poverty is a UN goal.
+eradicator [L119 n. 根除者] :: The new drug is an effective eradicator of the virus.
+eviction [L119 n. 驅逐；逐出] :: While rental costs go higher in California, eviction from rental housing is also a problem. Activists say some landlords have forced people to move from rental units so they can be offered to tech workers, who will pay a higher price.
+excluding [L119 prep. 不包括] :: The price is $50, excluding tax.
+extract [L119 v. 提取；摘錄] :: The dentist extracted two teeth.
+filter [L119 v. 過濾；篩選] :: The app filters spam emails.
+fragmentation [L119 n. 碎片化；分裂] :: Habitat fragmentation threatens wildlife.
+omission [L119 n. 省略；遺漏] :: The omission of her name was an error.
+omit [L119 v. 省略；遺漏] :: Omit the last paragraph.
+partition [L119 n. 分割；隔板] :: A partition divides the office.
+segment [L119 v. 分割；劃分] :: The market is segmented by age.
+slough [L119 v. 蛻（皮）；拋棄] :: Snakes slough their skin.
+strew [L119 v. 撒；散播] NEED_S1 :: Toys were strewn across the floor.
+vacate [L119 v. 騰出；搬離] :: Due to the recent enforcement of new safety regulations, the current occupants of the aging building were required to vacate their rooms promptly to allow for a comprehensive and essential renovation.
+winkle [L119 v. 費力地弄出；挖出] :: To winkle every last mosquito out of their hiding spots is an insuperable task. Though I've brandished everything from coils to zappers, the room remains stubbornly infested.
+annihilate [L120 v. 殲滅；徹底摧毀] :: The storm annihilated the small fishing village.
+annihilation [L120 n. 徹底毀滅；殲滅] :: Nuclear war could lead to the annihilation of humanity.
+butcher [L120 v. 屠殺] :: Invaders butchered the villagers.
+decimate [L120 v. 大量毀滅；大幅削減] :: If measures are not taken, the declining birth rate of this country would decimate a once healthy population.
+demolish [L120 v. 拆除；推翻] :: The old stadium was demolished.
+disembowel [L120 v. 取出內臟；開膛] :: The fisherman disemboweled the fish.
+exterminate [L120 v. 滅絕；根除] :: They hired a company to exterminate the rats.
+extermination [L120 n. 滅絕；根除] :: The extermination of pests is costly.
+fissure [L120 v. 裂開] :: The ground fissured after the earthquake.
+mangle [L120 v. 壓爛；毀損] :: The car was mangled in the crash.
+maul [L120 v. 重傷；粗暴對待] :: The hiker was mauled by a bear.
+ravage [L120 v. 蹂躪；摧毀] NEED_S1 :: At the beginning of 2020, billions of desert locusts crossed the borders from the Arabian Peninsula, ravaging farmland and fields of crops and placing the food security of 32 million people in danger.
+shatter [L120 v. 粉碎；使破滅] :: The news shattered her dreams.
+slay [L120 v. 殺死] NEED_S1 :: The knight slew the dragon.
+stab [L120 v. 刺；捅] NEED_S1 :: He was stabbed in the street.
+vandalism [L120 n. 蓄意破壞公物] :: Vandalism of public property is a crime.
+acquainted [L121 adj. 認識的；熟悉的] :: Are you acquainted with the new history teacher?
+ally [L121 n. 盟友；同盟國] NEED_S1 :: The two nations became allies during the war.
+consort [L121 v. 廝混；結交] :: He was accused of consorting with criminals.
+interaction [L121 n. 互動] :: Classroom interaction improves speaking.
+parasocial [L121 adj. 擬社會的；單向情感連結的] :: Many fans form parasocial bonds with streamers.
+rendezvous [L121 n. 約會；會面] :: They had a secret rendezvous in the park.
+administer [L122 v. 施用；管理；執行] :: The nurse administered the vaccine to each child.
+allot [L122 v. 分配；撥給] NEED_S1 :: Each speaker was allotted five minutes.
+cater [L122 v. 承辦餐點；迎合] :: The course caters to beginners.
+contribute [L122 v. 貢獻；促成] :: The students are expected to acquire reading comprehension skills to analyze the meaning of the text and determine how grammatical objectives contribute towards the purpose.
+designated [L122 adj. 指定的] :: Smoking is permitted only in specially designated areas.
+dispense [L122 v. 分配；發放] :: The machine dispenses hot drinks.
+distribute [L122 v. 分配；分布] :: Food was distributed to the refugees.
+dole [L122 v. 發放] :: The teacher doled out candy to the winners.
+furnish [L122 v. 布置傢俱；提供] :: The witness furnished new information.
+intervention [L122 n. 介入；干預] :: Early intervention helps struggling readers.
+patronage [L122 n. 贊助；惠顧] :: The arts depend on patronage.
+provision [L122 n. 提供；供應] :: The law includes provisions for disabled people.
+volunteer [L122 v./n. 自願；志工] :: She volunteers at the hospital.
+welfare [L122 n. 福祉；社會福利] :: Animal welfare is important.
+accomplishment [L123 n. 成就；完成] :: Finishing the marathon was her proudest accomplishment.
+breakthrough [L123 n. 突破] :: Scientists made a breakthrough in cancer research.

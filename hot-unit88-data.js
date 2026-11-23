@@ -147,6 +147,310 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "由於家庭緊急事件,她不得不推遲她的行程。",
         "added": true,
         "group": "sat-temporary2"
+      },
+      {
+        "word": "abeyance",
+        "pos": "n.",
+        "definition": "A state of being stopped for a while (held in abeyance: put on hold).",
+        "chinese": "暫緩；擱置",
+        "synonyms": "suspension, dormancy, pause",
+        "image": "shield",
+        "sentence": "All the plans were held in __________ pending decision made by the government after thorough investigation.",
+        "translation": "在政府徹底調查後做出決定之前，所有計畫都暫緩執行。",
+        "lookup": {
+          "english": "A state of being stopped for a while (held in abeyance: put on hold).",
+          "chinese": "暫緩；擱置"
+        },
+        "advSentence": "The old rule has been in abeyance since the new law was passed.",
+        "advTranslation": "新法通過後，舊規定就被擱置了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "adjourn",
+        "pos": "v.",
+        "definition": "To stop a meeting or trial for a period of time.",
+        "chinese": "休會；延期",
+        "synonyms": "postpone, suspend, defer",
+        "image": "shield",
+        "sentence": "To allow the witness to attend court, the judge decided to __________ the court case and reschedule it to another day.",
+        "translation": "為了讓證人能出庭，法官決定休庭，改期再審。",
+        "lookup": {
+          "english": "To stop a meeting or trial for a period of time.",
+          "chinese": "休會；延期"
+        },
+        "advSentence": "The meeting will adjourn for lunch at noon.",
+        "advTranslation": "會議將在中午休會用午餐。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae",
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "adjournment",
+        "pos": "n.",
+        "definition": "A temporary stop of a meeting or trial.",
+        "chinese": "休會；延期",
+        "synonyms": "postponement, recess, suspension",
+        "image": "shield",
+        "sentence": "The judge called for an __________ until Monday.",
+        "translation": "法官宣布休庭至星期一。",
+        "lookup": {
+          "english": "A temporary stop of a meeting or trial.",
+          "chinese": "休會；延期"
+        },
+        "advSentence": "The lawyer requested an adjournment to gather more evidence.",
+        "advTranslation": "律師請求延期開庭以蒐集更多證據。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "filibuster",
+        "pos": "n.",
+        "definition": "A very long speech made to delay or block a vote in a lawmaking body.",
+        "chinese": "冗長演說（議事阻撓）",
+        "synonyms": "delaying tactic, obstruction, stalling",
+        "image": "shield",
+        "sentence": "During the civil rights battles of the 1950s and early 1960s, the legislators defeated many anti-discrimination bills through __________s and other delaying tactics.",
+        "translation": "在 1950 年代到 1960 年代初的民權鬥爭期間，議員們透過冗長發言和其他拖延戰術否決了許多反歧視法案。",
+        "lookup": {
+          "english": "A very long speech made to delay or block a vote in a lawmaking body.",
+          "chinese": "冗長演說（議事阻撓）"
+        },
+        "advSentence": "The senator spoke for twenty hours in a filibuster against the bill.",
+        "advTranslation": "那位參議員為阻撓法案進行了長達二十小時的冗長演說。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-ntpc-sh"
+        ]
+      },
+      {
+        "word": "hesitate",
+        "pos": "v.",
+        "definition": "To pause because you are unsure.",
+        "chinese": "猶豫",
+        "synonyms": "pause, waver, falter",
+        "image": "shield",
+        "sentence": "Don't __________ to ask questions.",
+        "translation": "有問題請不要猶豫，儘管問。",
+        "lookup": {
+          "english": "To pause because you are unsure.",
+          "chinese": "猶豫"
+        },
+        "advSentence": "He hesitated for a moment before jumping into the cold river.",
+        "advTranslation": "他猶豫了一下才跳進冰冷的河裡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "hesitation",
+        "pos": "n.",
+        "definition": "A pause because you are not sure.",
+        "chinese": "猶豫；遲疑",
+        "synonyms": "reluctance, uncertainty, delay",
+        "image": "shield",
+        "sentence": "She accepted without __________.",
+        "translation": "她毫不猶豫地接受了。",
+        "lookup": {
+          "english": "A pause because you are not sure.",
+          "chinese": "猶豫；遲疑"
+        },
+        "advSentence": "After a brief hesitation, the shy student raised her hand.",
+        "advTranslation": "短暫遲疑後，那位害羞的學生舉起了手。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "lag",
+        "pos": "v.",
+        "definition": "To move or develop more slowly than others.",
+        "chinese": "落後",
+        "synonyms": "fall behind, trail, straggle",
+        "image": "shield",
+        "sentence": "Rural schools __________ behind in technology.",
+        "translation": "偏鄉學校在科技上落後。",
+        "lookup": {
+          "english": "To move or develop more slowly than others.",
+          "chinese": "落後"
+        },
+        "advSentence": "Wages continue to lag behind rising housing prices.",
+        "advTranslation": "薪資持續落後於不斷上漲的房價。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "moratorium",
+        "pos": "n.",
+        "definition": "An official temporary stop to an activity.",
+        "chinese": "暫停令；禁令期",
+        "synonyms": "ban, suspension, freeze",
+        "image": "shield",
+        "sentence": "The city declared a __________ on new hotels.",
+        "translation": "市政府宣布暫停核准新飯店。",
+        "lookup": {
+          "english": "An official temporary stop to an activity.",
+          "chinese": "暫停令；禁令期"
+        },
+        "advSentence": "Scientists called for a moratorium on gene editing in human embryos.",
+        "advTranslation": "科學家呼籲暫停對人類胚胎進行基因編輯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh",
+          "115-nhsh115-2-sh"
+        ]
+      },
+      {
+        "word": "stall",
+        "pos": "v.",
+        "definition": "To stop making progress.",
+        "chinese": "停頓；停滯",
+        "synonyms": "stop, delay, stop working",
+        "image": "shield",
+        "sentence": "The car __________d on the bridge.",
+        "translation": "車子在橋上熄火了。",
+        "lookup": {
+          "english": "To stop making progress.",
+          "chinese": "停頓；停滯"
+        },
+        "advSentence": "Peace talks stalled when neither side would compromise.",
+        "advTranslation": "雙方都不肯讓步，和談陷入停滯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh",
+          "113-nhsh-2-sh",
+          "115-tlsh-sh"
+        ]
+      },
+      {
+        "word": "straggle",
+        "pos": "v.",
+        "definition": "To move slowly behind others or spread out untidily.",
+        "chinese": "落後；蔓生",
+        "synonyms": "lag, trail, wander",
+        "image": "shield",
+        "sentence": "A few students __________d behind.",
+        "translation": "有幾個學生落在後面。",
+        "lookup": {
+          "english": "To move slowly behind others or spread out untidily.",
+          "chinese": "落後；蔓生"
+        },
+        "advSentence": "Tired hikers straggled into the campsite long after dark.",
+        "advTranslation": "疲憊的登山客在天黑很久後才陸陸續續抵達營地。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh",
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "suspend",
+        "pos": "v.",
+        "definition": "To stop for a time; to hang.",
+        "chinese": "暫停；懸掛；停學",
+        "synonyms": "pause, halt, hang",
+        "image": "shield",
+        "sentence": "He was __________d from school for a week.",
+        "translation": "他被停學一週。",
+        "lookup": {
+          "english": "To stop for a time; to hang.",
+          "chinese": "暫停；懸掛；停學"
+        },
+        "advSentence": "Lanterns were suspended from the temple ceiling.",
+        "advTranslation": "燈籠懸掛在寺廟的天花板上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh",
+          "111-klsh-sh",
+          "113-klsh-sh"
+        ]
+      },
+      {
+        "word": "suspension",
+        "pos": "n.",
+        "definition": "A temporary stop; a punishment of being kept out.",
+        "chinese": "暫停；停職；懸浮",
+        "synonyms": "postponement, halt, exclusion",
+        "image": "shield",
+        "sentence": "The __________ of flights caused chaos.",
+        "translation": "停飛造成一片混亂。",
+        "lookup": {
+          "english": "A temporary stop; a punishment of being kept out.",
+          "chinese": "暫停；停職；懸浮"
+        },
+        "advSentence": "The player received a three-game suspension for fighting.",
+        "advTranslation": "那名球員因打架被禁賽三場。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh",
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "tardy",
+        "pos": "adj.",
+        "definition": "Late or slow.",
+        "chinese": "遲到的；緩慢的",
+        "synonyms": "late, slow, delayed",
+        "image": "shield",
+        "sentence": "__________ students must sign in at the office.",
+        "translation": "遲到的學生必須到辦公室簽到。",
+        "lookup": {
+          "english": "Late or slow.",
+          "chinese": "遲到的；緩慢的"
+        },
+        "advSentence": "The company apologized for its tardy response to complaints.",
+        "advTranslation": "公司為回應客訴太慢而道歉。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "waver",
+        "pos": "v.",
+        "definition": "To move up and down or be uncertain.",
+        "chinese": "搖擺；動搖",
+        "synonyms": "hesitate, falter, vacillate",
+        "image": "shield",
+        "sentence": "Her confidence never __________d.",
+        "translation": "她的信心從未動搖。",
+        "lookup": {
+          "english": "To move up and down or be uncertain.",
+          "chinese": "搖擺；動搖"
+        },
+        "advSentence": "The candle flame wavered in the breeze.",
+        "advTranslation": "燭火在微風中搖曳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh",
+          "104-cyc-jh"
+        ]
       }
     ],
     "group": "sat-temporary2",
@@ -188,5 +492,61 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "postpone": [
     "To delay or reschedule to a later time.",
     "推遲;延後"
+  ],
+  "abeyance": [
+    "A state of being stopped for a while (held in abeyance: put on hold).",
+    "暫緩；擱置"
+  ],
+  "adjourn": [
+    "To stop a meeting or trial for a period of time.",
+    "休會；延期"
+  ],
+  "adjournment": [
+    "A temporary stop of a meeting or trial.",
+    "休會；延期"
+  ],
+  "filibuster": [
+    "A very long speech made to delay or block a vote in a lawmaking body.",
+    "冗長演說（議事阻撓）"
+  ],
+  "hesitate": [
+    "To pause because you are unsure.",
+    "猶豫"
+  ],
+  "hesitation": [
+    "A pause because you are not sure.",
+    "猶豫；遲疑"
+  ],
+  "lag": [
+    "To move or develop more slowly than others.",
+    "落後"
+  ],
+  "moratorium": [
+    "An official temporary stop to an activity.",
+    "暫停令；禁令期"
+  ],
+  "stall": [
+    "To stop making progress.",
+    "停頓；停滯"
+  ],
+  "straggle": [
+    "To move slowly behind others or spread out untidily.",
+    "落後；蔓生"
+  ],
+  "suspend": [
+    "To stop for a time; to hang.",
+    "暫停；懸掛；停學"
+  ],
+  "suspension": [
+    "A temporary stop; a punishment of being kept out.",
+    "暫停；停職；懸浮"
+  ],
+  "tardy": [
+    "Late or slow.",
+    "遲到的；緩慢的"
+  ],
+  "waver": [
+    "To move up and down or be uncertain.",
+    "搖擺；動搖"
   ]
 });

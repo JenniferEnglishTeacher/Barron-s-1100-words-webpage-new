@@ -163,6 +163,112 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The novelist's cynical narrator views every act of philanthropic generosity as a disguise for avarice, dismissing even the most altruistic characters as shrewd opportunists who merely seek public acclaim in a society he regards as hopelessly corrupt.",
         "advTranslation": "這位小說家筆下憤世嫉俗的敘事者，把每一項慈善慷慨之舉都視為貪婪的偽裝，甚至將最無私的角色也貶為只想博取公眾讚揚的精明投機者；在他眼中，這個社會已經無可救藥地腐敗。"
+      },
+      {
+        "word": "ambitious",
+        "pos": "adj.",
+        "definition": "Having a strong wish to succeed.",
+        "chinese": "有雄心的",
+        "synonyms": "aspiring, driven, determined",
+        "image": "shield",
+        "sentence": "The __________ student plans to study medicine.",
+        "translation": "那個有雄心的學生計畫念醫學系。",
+        "lookup": {
+          "english": "Having a strong wish to succeed.",
+          "chinese": "有雄心的"
+        },
+        "advSentence": "The city launched an ambitious plan to plant one million trees.",
+        "advTranslation": "市政府推出種植一百萬棵樹的雄心計畫。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "motive",
+        "pos": "n.",
+        "definition": "A reason for doing something.",
+        "chinese": "動機",
+        "synonyms": "reason, motivation, purpose",
+        "image": "shield",
+        "sentence": "Police could find no __________ for the crime.",
+        "translation": "警方找不到這起犯罪的動機。",
+        "lookup": {
+          "english": "A reason for doing something.",
+          "chinese": "動機"
+        },
+        "advSentence": "Her motive for volunteering was a genuine wish to help others.",
+        "advTranslation": "她當志工的動機是真心想幫助別人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sssh-sh"
+        ]
+      },
+      {
+        "word": "objective",
+        "pos": "n./adj.",
+        "definition": "A goal; not influenced by feelings.",
+        "chinese": "目標；客觀的",
+        "synonyms": "goal, aim, impartial",
+        "image": "shield",
+        "sentence": "The lesson __________ is clear.",
+        "translation": "這節課的學習目標很清楚。",
+        "lookup": {
+          "english": "A goal; not influenced by feelings.",
+          "chinese": "目標；客觀的"
+        },
+        "advSentence": "Journalists should remain objective when reporting on elections.",
+        "advTranslation": "記者在報導選舉時應保持客觀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "outlook",
+        "pos": "n.",
+        "definition": "A person's attitude; what is expected to happen.",
+        "chinese": "觀點；前景",
+        "synonyms": "attitude, view, prospect",
+        "image": "shield",
+        "sentence": "She has a positive __________ on life.",
+        "translation": "她對人生抱持正面的態度。",
+        "lookup": {
+          "english": "A person's attitude; what is expected to happen.",
+          "chinese": "觀點；前景"
+        },
+        "advSentence": "The economic outlook for next year remains uncertain.",
+        "advTranslation": "明年的經濟前景仍不明朗。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "pursue",
+        "pos": "v.",
+        "definition": "To chase; to try to achieve.",
+        "chinese": "追求；追捕",
+        "synonyms": "chase, seek, strive for",
+        "image": "shield",
+        "sentence": "She __________d a career in medicine.",
+        "translation": "她追求醫學方面的職涯。",
+        "lookup": {
+          "english": "To chase; to try to achieve.",
+          "chinese": "追求；追捕"
+        },
+        "advSentence": "He decided to pursue his dream of becoming a chef.",
+        "advTranslation": "他決定追求成為廚師的夢想。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-taipei-jh"
+        ]
       }
     ],
     "quiz": [
@@ -452,5 +558,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "cynical": [
     "Distrustful of others' motives; believing people act only selfishly.",
     "憤世嫉俗的；懷疑他人動機的"
+  ],
+  "ambitious": [
+    "Having a strong wish to succeed.",
+    "有雄心的"
+  ],
+  "motive": [
+    "A reason for doing something.",
+    "動機"
+  ],
+  "objective": [
+    "A goal; not influenced by feelings.",
+    "目標；客觀的"
+  ],
+  "outlook": [
+    "A person's attitude; what is expected to happen.",
+    "觀點；前景"
+  ],
+  "pursue": [
+    "To chase; to try to achieve.",
+    "追求；追捕"
   ]
 });

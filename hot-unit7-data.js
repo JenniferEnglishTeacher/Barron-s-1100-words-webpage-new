@@ -287,6 +287,113 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她在網路上刻薄的言論引發了強烈的反彈。",
         "added": true,
         "group": "hot-07"
+      },
+      {
+        "word": "belligerence",
+        "pos": "n.",
+        "definition": "An aggressive or hostile attitude.",
+        "chinese": "好鬥；敵意",
+        "synonyms": "hostility, aggression, combativeness",
+        "image": "shield",
+        "sentence": "His __________ made negotiations impossible.",
+        "translation": "他的好鬥態度讓協商無法進行。",
+        "lookup": {
+          "english": "An aggressive or hostile attitude.",
+          "chinese": "好鬥；敵意"
+        },
+        "advSentence": "The dictator's belligerence alarmed neighboring countries and triggered an arms race.",
+        "advTranslation": "這位獨裁者的好戰態度令鄰國警覺，並引發軍備競賽。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-moe-sh",
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "ferocious",
+        "pos": "adj.",
+        "definition": "Very fierce and violent.",
+        "chinese": "兇猛的",
+        "synonyms": "fierce, savage, vicious",
+        "image": "shield",
+        "sentence": "Saltwater Crocodiles, the most aggressive, actively predatory crocodilian species, carry the most __________ disposition, and have the physical capability to kill other reptiles.",
+        "translation": "鹹水鱷是最具攻擊性、最主動掠食的鱷魚，性情最為兇猛，並具備殺死其他爬蟲類的體能。",
+        "lookup": {
+          "english": "Very fierce and violent.",
+          "chinese": "兇猛的"
+        },
+        "advSentence": "The proposal faced ferocious opposition from local residents.",
+        "advTranslation": "這項提案遭到當地居民的強烈反對。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "ferociously",
+        "pos": "adv.",
+        "definition": "In a very fierce or violent way.",
+        "chinese": "兇猛地",
+        "synonyms": "fiercely, savagely, violently",
+        "image": "shield",
+        "sentence": "The dogs barked __________.",
+        "translation": "那些狗兇猛地狂吠。",
+        "lookup": {
+          "english": "In a very fierce or violent way.",
+          "chinese": "兇猛地"
+        },
+        "advSentence": "The two candidates competed ferociously for every undecided vote.",
+        "advTranslation": "兩位候選人激烈地爭奪每一張游離票。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "fierce",
+        "pos": "adj.",
+        "definition": "Violent and aggressive; very strong.",
+        "chinese": "兇猛的；激烈的",
+        "synonyms": "ferocious, intense, savage",
+        "image": "shield",
+        "sentence": "Competition for jobs is __________.",
+        "translation": "求職競爭很激烈。",
+        "lookup": {
+          "english": "Violent and aggressive; very strong.",
+          "chinese": "兇猛的；激烈的"
+        },
+        "advSentence": "Fierce winds toppled trees across the island during the typhoon.",
+        "advTranslation": "颱風期間強風吹倒了全島的樹木。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae",
+          "108-ntpc-jh"
+        ]
+      },
+      {
+        "word": "revenge",
+        "pos": "n.",
+        "definition": "Harming someone because they harmed you.",
+        "chinese": "報復；復仇",
+        "synonyms": "retaliation, vengeance, payback",
+        "image": "shield",
+        "sentence": "He wanted __________ for his brother's death.",
+        "translation": "他想為哥哥的死報仇。",
+        "lookup": {
+          "english": "Harming someone because they harmed you.",
+          "chinese": "報復；復仇"
+        },
+        "advSentence": "Many tragedies show how the thirst for revenge can corrupt even noble characters.",
+        "advTranslation": "許多悲劇顯示，對復仇的渴望甚至能腐化高尚的人物。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -631,5 +738,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "vitriolic": [
     "Biting, burning.",
     "刻薄的/惡意的"
+  ],
+  "belligerence": [
+    "An aggressive or hostile attitude.",
+    "好鬥；敵意"
+  ],
+  "ferocious": [
+    "Very fierce and violent.",
+    "兇猛的"
+  ],
+  "ferociously": [
+    "In a very fierce or violent way.",
+    "兇猛地"
+  ],
+  "fierce": [
+    "Violent and aggressive; very strong.",
+    "兇猛的；激烈的"
+  ],
+  "revenge": [
+    "Harming someone because they harmed you.",
+    "報復；復仇"
   ]
 });

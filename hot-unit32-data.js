@@ -179,6 +179,27 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The satirist mocked the haughty aristocrats in his plays, exposing their pretentious manners and supercilious attitudes so incisively that his work offended the very audiences who flocked to see it.",
         "advTranslation": "這位諷刺作家在劇作中嘲弄傲慢的貴族，如此犀利地揭露他們矯揉造作的舉止與目中無人的態度，以至於他的作品冒犯了那些蜂擁而來觀賞的觀眾。"
+      },
+      {
+        "word": "adopt",
+        "pos": "v.",
+        "definition": "To take and use as your own; to legally take a child into your family.",
+        "chinese": "採用；收養",
+        "synonyms": "embrace, assume, take up",
+        "image": "shield",
+        "sentence": "The school __________d a new grading policy.",
+        "translation": "學校採用了新的評分政策。",
+        "lookup": {
+          "english": "To take and use as your own; to legally take a child into your family.",
+          "chinese": "採用；收養"
+        },
+        "advSentence": "The couple decided to adopt a child from the orphanage.",
+        "advTranslation": "這對夫妻決定從孤兒院收養一個孩子。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -496,5 +517,9 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "mock": [
     "To ridicule someone or something, often by imitation.",
     "嘲笑；模仿取笑"
+  ],
+  "adopt": [
+    "To take and use as your own; to legally take a child into your family.",
+    "採用；收養"
   ]
 });

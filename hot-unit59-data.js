@@ -165,6 +165,243 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "難民們被安置在缺乏基本衛生設施、骯髒不堪的營區。",
         "added": true,
         "group": "sat-poverty"
+      },
+      {
+        "word": "absence",
+        "pos": "n.",
+        "definition": "The state of not being present or not existing.",
+        "chinese": "缺乏；不在",
+        "synonyms": "lack, want, deficiency",
+        "image": "shield",
+        "sentence": "The __________ of clean water made the village vulnerable to disease.",
+        "translation": "缺乏乾淨的水讓村莊容易爆發疾病。",
+        "lookup": {
+          "english": "The state of not being present or not existing.",
+          "chinese": "缺乏；不在"
+        },
+        "advSentence": "In the absence of the principal, the vice principal led the meeting.",
+        "advTranslation": "校長不在時，由副校長主持會議。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "burden",
+        "pos": "n.",
+        "definition": "A heavy load or responsibility.",
+        "chinese": "負擔；重擔",
+        "synonyms": "load, weight, strain",
+        "image": "shield",
+        "sentence": "Rising rent is a heavy __________ on young workers.",
+        "translation": "不斷上漲的房租是年輕勞工的沉重負擔。",
+        "lookup": {
+          "english": "A heavy load or responsibility.",
+          "chinese": "負擔；重擔"
+        },
+        "advSentence": "The burden of proof lies with the prosecution.",
+        "advTranslation": "舉證責任在於檢方。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "burdensome",
+        "pos": "adj.",
+        "definition": "Causing a lot of work, worry, or cost.",
+        "chinese": "繁重的；負擔沉重的",
+        "synonyms": "onerous, heavy, taxing",
+        "image": "shield",
+        "sentence": "The new tax rules are __________ for small firms.",
+        "translation": "新的稅務規定對小公司來說負擔很重。",
+        "lookup": {
+          "english": "Causing a lot of work, worry, or cost.",
+          "chinese": "繁重的；負擔沉重的"
+        },
+        "advSentence": "Caring for a sick parent can be burdensome without outside help.",
+        "advTranslation": "沒有外援的話，照顧生病的父母可能是沉重的負擔。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "deficit",
+        "pos": "n.",
+        "definition": "The amount by which money spent is more than money received.",
+        "chinese": "赤字；不足額",
+        "synonyms": "shortfall, deficiency, gap",
+        "image": "shield",
+        "sentence": "The country has a huge budget __________.",
+        "translation": "這個國家有龐大的預算赤字。",
+        "lookup": {
+          "english": "The amount by which money spent is more than money received.",
+          "chinese": "赤字；不足額"
+        },
+        "advSentence": "Children with an attention deficit may need extra support in class.",
+        "advTranslation": "有注意力缺陷的孩子在課堂上可能需要額外協助。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcsh-sh"
+        ]
+      },
+      {
+        "word": "devoid",
+        "pos": "adj.",
+        "definition": "Completely without something (devoid of).",
+        "chinese": "完全沒有的",
+        "synonyms": "lacking, empty, without",
+        "image": "shield",
+        "sentence": "The desert is almost __________ of life.",
+        "translation": "沙漠幾乎沒有生命。",
+        "lookup": {
+          "english": "Completely without something (devoid of).",
+          "chinese": "完全沒有的"
+        },
+        "advSentence": "His speech was devoid of any real solutions.",
+        "advTranslation": "他的演講完全沒有任何實際的解決方案。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdhs-sh",
+          "115-chsh-3-sh"
+        ]
+      },
+      {
+        "word": "impoverish",
+        "pos": "v.",
+        "definition": "To make someone poor.",
+        "chinese": "使貧窮",
+        "synonyms": "make poor, ruin, bankrupt",
+        "image": "shield",
+        "sentence": "War __________d the country.",
+        "translation": "戰爭使這個國家陷入貧窮。",
+        "lookup": {
+          "english": "To make someone poor.",
+          "chinese": "使貧窮"
+        },
+        "advSentence": "Overfishing could impoverish coastal communities that depend on the sea.",
+        "advTranslation": "過度捕撈可能讓依賴海洋的沿海社區陷入貧困。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh",
+          "107-moe-sh",
+          "109-ntpc-jh",
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "insolvency",
+        "pos": "n.",
+        "definition": "Not having enough money to pay debts.",
+        "chinese": "無力償債；破產",
+        "synonyms": "bankruptcy, ruin, failure",
+        "image": "shield",
+        "sentence": "The number of cases of __________ in the real estate sector tripled last year.",
+        "translation": "疫情期間，不動產業的破產案件數量去年增加了兩倍以上。",
+        "lookup": {
+          "english": "Not having enough money to pay debts.",
+          "chinese": "無力償債；破產"
+        },
+        "advSentence": "The airline faced insolvency after months without passengers.",
+        "advTranslation": "數月沒有乘客後，那家航空公司面臨破產。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-sh"
+        ]
+      },
+      {
+        "word": "insolvent",
+        "pos": "adj.",
+        "definition": "Not having enough money to pay debts.",
+        "chinese": "無力償債的；破產的",
+        "synonyms": "bankrupt, broke, ruined",
+        "image": "shield",
+        "sentence": "He was required to declare himself a(n) __________ debtor, to detail all of his debts, and to hold goods valued at no more than $20.",
+        "translation": "他必須宣告自己是無力償債的債務人，詳列所有債務，且持有的財物價值不得超過二十美元。",
+        "lookup": {
+          "english": "Not having enough money to pay debts.",
+          "chinese": "無力償債的；破產的"
+        },
+        "advSentence": "The bank declared the company insolvent and closed its accounts.",
+        "advTranslation": "銀行宣布該公司無力償債，並關閉其帳戶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "insufficient",
+        "pos": "adj.",
+        "definition": "Not enough.",
+        "chinese": "不足的",
+        "synonyms": "inadequate, deficient, lacking",
+        "image": "shield",
+        "sentence": "There is __________ evidence.",
+        "translation": "證據不足。",
+        "lookup": {
+          "english": "Not enough.",
+          "chinese": "不足的"
+        },
+        "advSentence": "Insufficient sleep can harm students' memory and mood.",
+        "advTranslation": "睡眠不足會損害學生的記憶力與情緒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh",
+          "103-klcg-jh"
+        ]
+      },
+      {
+        "word": "meagre",
+        "pos": "adj.",
+        "definition": "Too small in amount.",
+        "chinese": "微薄的",
+        "synonyms": "scanty, insufficient, paltry",
+        "image": "shield",
+        "sentence": "He lived on a __________ salary.",
+        "translation": "他靠微薄的薪水過活。",
+        "lookup": {
+          "english": "Too small in amount.",
+          "chinese": "微薄的"
+        },
+        "advSentence": "The village survived on a meagre harvest that year.",
+        "advTranslation": "那一年村子靠著微薄的收成勉強度日。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-hsnu-sh"
+        ]
+      },
+      {
+        "word": "scant",
+        "pos": "adj.",
+        "definition": "Very little; hardly enough.",
+        "chinese": "不足的；極少的",
+        "synonyms": "little, meager, scarce",
+        "image": "shield",
+        "sentence": "He paid __________ attention to the warning.",
+        "translation": "他對警告不太在意。",
+        "lookup": {
+          "english": "Very little; hardly enough.",
+          "chinese": "不足的；極少的"
+        },
+        "advSentence": "There is scant evidence that the herbal tea cures colds.",
+        "advTranslation": "幾乎沒有證據顯示這種花草茶能治感冒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
       }
     ],
     "group": "sat-poverty",
@@ -210,5 +447,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "squalid": [
     "Extremely dirty or unpleasant, especially due to poverty or neglect.",
     "骯髒的;污穢不堪的"
+  ],
+  "absence": [
+    "The state of not being present or not existing.",
+    "缺乏；不在"
+  ],
+  "burden": [
+    "A heavy load or responsibility.",
+    "負擔；重擔"
+  ],
+  "burdensome": [
+    "Causing a lot of work, worry, or cost.",
+    "繁重的；負擔沉重的"
+  ],
+  "deficit": [
+    "The amount by which money spent is more than money received.",
+    "赤字；不足額"
+  ],
+  "devoid": [
+    "Completely without something (devoid of).",
+    "完全沒有的"
+  ],
+  "impoverish": [
+    "To make someone poor.",
+    "使貧窮"
+  ],
+  "insolvency": [
+    "Not having enough money to pay debts.",
+    "無力償債；破產"
+  ],
+  "insolvent": [
+    "Not having enough money to pay debts.",
+    "無力償債的；破產的"
+  ],
+  "insufficient": [
+    "Not enough.",
+    "不足的"
+  ],
+  "meagre": [
+    "Too small in amount.",
+    "微薄的"
+  ],
+  "scant": [
+    "Very little; hardly enough.",
+    "不足的；極少的"
   ]
 });

@@ -325,6 +325,403 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她獨自籌辦了整場慈善活動,值得所有的讚譽。",
         "added": true,
         "group": "hot-19"
+      },
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "definition": "Gratitude; understanding of value; rise in value.",
+        "chinese": "感激；欣賞；增值",
+        "synonyms": "gratitude, admiration, recognition",
+        "image": "shield",
+        "sentence": "It was the spiritual dimension of Indian life that was beginning to be appreciated, and with it came a new __________ and understanding of Indian art.",
+        "translation": "人們開始欣賞印度生活中的精神層面，並隨之對印度藝術有了新的欣賞與理解。",
+        "lookup": {
+          "english": "Gratitude; understanding of value; rise in value.",
+          "chinese": "感激；欣賞；增值"
+        },
+        "advSentence": "She wrote a note of appreciation to every volunteer who helped.",
+        "advTranslation": "她寫了一張感謝卡給每一位幫忙的志工。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae",
+          "107-nehs-jh",
+          "108-hccg-jh",
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae",
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "bestow",
+        "pos": "v.",
+        "definition": "To give something valuable as an honor.",
+        "chinese": "授予；給予",
+        "synonyms": "confer, grant, award",
+        "image": "shield",
+        "sentence": "The queen __________d a knighthood on the scientist.",
+        "translation": "女王授予這位科學家爵士頭銜。",
+        "lookup": {
+          "english": "To give something valuable as an honor.",
+          "chinese": "授予；給予"
+        },
+        "advSentence": "The village bestowed its highest honor on the doctor who had served it for decades.",
+        "advTranslation": "村子把最高榮譽頒給服務了數十年的醫生。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "celebrate",
+        "pos": "v.",
+        "definition": "To praise someone or something publicly.",
+        "chinese": "讚揚；頌揚；慶祝",
+        "synonyms": "praise, honor, commemorate",
+        "image": "shield",
+        "sentence": "The novel is __________d for its vivid characters.",
+        "translation": "這部小說以生動的角色而備受讚揚。",
+        "lookup": {
+          "english": "To praise someone or something publicly.",
+          "chinese": "讚揚；頌揚；慶祝"
+        },
+        "advSentence": "The festival celebrates the island's diverse cultural heritage.",
+        "advTranslation": "這個節慶頌揚島上多元的文化遺產。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "commemorate",
+        "pos": "v.",
+        "definition": "To do something special to remember an event or person.",
+        "chinese": "紀念",
+        "synonyms": "honor, celebrate, memorialize",
+        "image": "shield",
+        "sentence": "A statue __________s the fallen soldiers.",
+        "translation": "一座雕像紀念陣亡的士兵。",
+        "lookup": {
+          "english": "To do something special to remember an event or person.",
+          "chinese": "紀念"
+        },
+        "advSentence": "A ceremony was held to commemorate the victims of the earthquake.",
+        "advTranslation": "舉行了一場儀式紀念地震罹難者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "108-hccg-jh",
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "confer",
+        "pos": "v.",
+        "definition": "To give an advantage, right, or honor.",
+        "chinese": "賦予；授予",
+        "synonyms": "grant, bestow, award",
+        "image": "shield",
+        "sentence": "The university will __________ an honorary degree on the retired teacher.",
+        "translation": "這所大學授予她榮譽學位。",
+        "lookup": {
+          "english": "To give an advantage, right, or honor.",
+          "chinese": "賦予；授予"
+        },
+        "advSentence": "The award is meant to confer recognition on teachers who inspire their students.",
+        "advTranslation": "這個獎項旨在給予激勵學生的老師應有的肯定。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae",
+          "109-moe-vs-ae",
+          "110-taipei-vs-en",
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "felicitate",
+        "pos": "v.",
+        "definition": "Congratulated.",
+        "chinese": "祝賀",
+        "synonyms": "congratulate, compliment, honor",
+        "image": "shield",
+        "sentence": "The mayor __________d the winners.",
+        "translation": "市長向得獎者表示祝賀。",
+        "lookup": {
+          "english": "Congratulated.",
+          "chinese": "祝賀"
+        },
+        "advSentence": "The principal rose to felicitate the graduating class on their achievements.",
+        "advTranslation": "校長起身祝賀畢業班的成就。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "guerdon",
+        "pos": "n.",
+        "definition": "A reward (literary).",
+        "chinese": "報酬；獎賞",
+        "synonyms": "reward, recompense, prize",
+        "image": "shield",
+        "sentence": "Fame was the __________ of his labor.",
+        "translation": "名聲是他辛勞的報酬。",
+        "lookup": {
+          "english": "A reward (literary).",
+          "chinese": "報酬；獎賞"
+        },
+        "advSentence": "The only guerdon the volunteers wanted was the children's gratitude.",
+        "advTranslation": "志工們唯一想要的回報，就是孩子們的感謝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "hail",
+        "pos": "v.",
+        "definition": "To praise publicly; to call to.",
+        "chinese": "讚揚；招呼",
+        "synonyms": "acclaim, praise, greet",
+        "image": "shield",
+        "sentence": "The film was __________d as a masterpiece.",
+        "translation": "這部電影被譽為傑作。",
+        "lookup": {
+          "english": "To praise publicly; to call to.",
+          "chinese": "讚揚；招呼"
+        },
+        "advSentence": "Critics hailed the young pianist as a prodigy after her debut concert.",
+        "advTranslation": "那位年輕鋼琴家首演後，樂評家盛讚她是神童。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "plaudit",
+        "pos": "n.",
+        "definition": "Praise or approval.",
+        "chinese": "讚揚；喝采",
+        "synonyms": "praise, acclaim, applause",
+        "image": "shield",
+        "sentence": "Her performance won __________s from critics.",
+        "translation": "她的表演贏得評論家的讚揚。",
+        "lookup": {
+          "english": "Praise or approval.",
+          "chinese": "讚揚；喝采"
+        },
+        "advSentence": "The new museum won plaudits for its bold yet unpretentious design.",
+        "advTranslation": "新博物館以大膽卻不浮誇的設計贏得讚揚。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh"
+        ]
+      },
+      {
+        "word": "prestige",
+        "pos": "n.",
+        "definition": "Respect that comes from success or high status.",
+        "chinese": "聲望；威望",
+        "synonyms": "status, reputation, standing",
+        "image": "shield",
+        "sentence": "The university has great __________.",
+        "translation": "這所大學很有聲望。",
+        "lookup": {
+          "english": "Respect that comes from success or high status.",
+          "chinese": "聲望；威望"
+        },
+        "advSentence": "Winning the international prize brought great prestige to the small school.",
+        "advTranslation": "贏得國際大獎為這所小學校帶來極高的聲望。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "definition": "Moving to a higher job; advertising.",
+        "chinese": "升遷；促銷",
+        "synonyms": "advancement, upgrade, advertising",
+        "image": "shield",
+        "sentence": "He got a __________ last month.",
+        "translation": "他上個月升遷了。",
+        "lookup": {
+          "english": "Moving to a higher job; advertising.",
+          "chinese": "升遷；促銷"
+        },
+        "advSentence": "The store's holiday promotion attracted crowds of bargain hunters.",
+        "advTranslation": "這家店的節日促銷吸引大批搶便宜的顧客。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh",
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "rave",
+        "pos": "v.",
+        "definition": "To talk about something with great excitement (rave about).",
+        "chinese": "讚不絕口",
+        "synonyms": "praise, rhapsodize, gush",
+        "image": "shield",
+        "sentence": "Millions of customers __________ about the new drink, calling it a health essential.",
+        "translation": "這款新產品成為全球健康必需品，所以數百萬人對它讚不絕口。",
+        "lookup": {
+          "english": "To talk about something with great excitement (rave about).",
+          "chinese": "讚不絕口"
+        },
+        "advSentence": "Diners rave about the night market's oyster omelets, calling them the best on the island.",
+        "advTranslation": "食客對夜市的蚵仔煎讚不絕口，說那是全島最好吃的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh",
+          "110-taipei-sh"
+        ]
+      },
+      {
+        "word": "recognition",
+        "pos": "n.",
+        "definition": "Knowing again; public praise.",
+        "chinese": "辨識；肯定",
+        "synonyms": "acknowledgment, acclaim, identification",
+        "image": "shield",
+        "sentence": "The widespread use of facial __________ technology in public surveillance has sparked intense debates over the balance between national security and personal privacy.",
+        "translation": "臉部辨識技術在公共監控中的廣泛使用，引發國家安全與個人隱私之間如何平衡的激烈爭論。",
+        "lookup": {
+          "english": "Knowing again; public praise.",
+          "chinese": "辨識；肯定"
+        },
+        "advSentence": "The volunteer received national recognition for decades of service to the community.",
+        "advTranslation": "這位志工因數十年服務社區而獲得全國性的肯定。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "renowned",
+        "pos": "adj.",
+        "definition": "Famous and admired.",
+        "chinese": "有名的；著名的",
+        "synonyms": "famous, celebrated, acclaimed",
+        "image": "shield",
+        "sentence": "She is a __________ scientist.",
+        "translation": "她是一位著名的科學家。",
+        "lookup": {
+          "english": "Famous and admired.",
+          "chinese": "有名的；著名的"
+        },
+        "advSentence": "The town is renowned for its pottery and its centuries-old temples.",
+        "advTranslation": "這座小鎮以陶藝和數百年歷史的廟宇聞名。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "revalorize",
+        "pos": "v.",
+        "definition": "To give a new or higher value to.",
+        "chinese": "重新評價；使增值",
+        "synonyms": "reassess, revalue, upgrade",
+        "image": "shield",
+        "sentence": "We need to __________ vocational education.",
+        "translation": "我們需要重新提升技職教育的價值。",
+        "lookup": {
+          "english": "To give a new or higher value to.",
+          "chinese": "重新評價；使增值"
+        },
+        "advSentence": "Some economists proposed to revalorize the currency after years of inflation.",
+        "advTranslation": "一些經濟學家提議在多年通膨後讓貨幣重新增值。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
+      },
+      {
+        "word": "tout",
+        "pos": "v.",
+        "definition": "To praise or promote something to persuade people.",
+        "chinese": "吹捧；大肆宣傳",
+        "synonyms": "promote, praise, advertise",
+        "image": "shield",
+        "sentence": "The drug was __________d as a miracle cure.",
+        "translation": "這種藥被吹捧為神奇療法。",
+        "lookup": {
+          "english": "To praise or promote something to persuade people.",
+          "chinese": "吹捧；大肆宣傳"
+        },
+        "advSentence": "Advertisers tout the gadget as essential, yet most buyers rarely use it.",
+        "advTranslation": "廣告商吹捧這個小裝置不可或缺，但多數買家卻很少使用。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae",
+          "113-taipei-jh",
+          "115-cmgsh-sh"
+        ]
+      },
+      {
+        "word": "worthiness",
+        "pos": "n.",
+        "definition": "The quality of deserving respect or attention.",
+        "chinese": "價值；值得",
+        "synonyms": "merit, value, deservingness",
+        "image": "shield",
+        "sentence": "The committee judged the __________ of each project.",
+        "translation": "委員會評估每個計畫的價值。",
+        "lookup": {
+          "english": "The quality of deserving respect or attention.",
+          "chinese": "價值；值得"
+        },
+        "advSentence": "Donors want proof of a charity's worthiness before they contribute.",
+        "advTranslation": "捐款人在捐款前希望看到慈善機構值得信賴的證明。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "worthy",
+        "pos": "adj.",
+        "definition": "Deserving respect or attention.",
+        "chinese": "值得的；可敬的",
+        "synonyms": "deserving, admirable, commendable",
+        "image": "shield",
+        "sentence": "The idea is __________ of consideration.",
+        "translation": "這個想法值得考慮。",
+        "lookup": {
+          "english": "Deserving respect or attention.",
+          "chinese": "值得的；可敬的"
+        },
+        "advSentence": "The brave firefighter was a worthy recipient of the city's highest honor.",
+        "advTranslation": "那位勇敢的消防員實至名歸地獲得市府最高榮譽。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh",
+          "104-cr-jh",
+          "107-kinmen-jh"
+        ]
       }
     ],
     "quiz": [
@@ -652,5 +1049,77 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "kudos": [
     "Praise for an achievement.",
     "讚譽/榮耀"
+  ],
+  "appreciation": [
+    "Gratitude; understanding of value; rise in value.",
+    "感激；欣賞；增值"
+  ],
+  "bestow": [
+    "To give something valuable as an honor.",
+    "授予；給予"
+  ],
+  "celebrate": [
+    "To praise someone or something publicly.",
+    "讚揚；頌揚；慶祝"
+  ],
+  "commemorate": [
+    "To do something special to remember an event or person.",
+    "紀念"
+  ],
+  "confer": [
+    "To give an advantage, right, or honor.",
+    "賦予；授予"
+  ],
+  "felicitate": [
+    "Congratulated.",
+    "祝賀"
+  ],
+  "guerdon": [
+    "A reward (literary).",
+    "報酬；獎賞"
+  ],
+  "hail": [
+    "To praise publicly; to call to.",
+    "讚揚；招呼"
+  ],
+  "plaudit": [
+    "Praise or approval.",
+    "讚揚；喝采"
+  ],
+  "prestige": [
+    "Respect that comes from success or high status.",
+    "聲望；威望"
+  ],
+  "promotion": [
+    "Moving to a higher job; advertising.",
+    "升遷；促銷"
+  ],
+  "rave": [
+    "To talk about something with great excitement (rave about).",
+    "讚不絕口"
+  ],
+  "recognition": [
+    "Knowing again; public praise.",
+    "辨識；肯定"
+  ],
+  "renowned": [
+    "Famous and admired.",
+    "有名的；著名的"
+  ],
+  "revalorize": [
+    "To give a new or higher value to.",
+    "重新評價；使增值"
+  ],
+  "tout": [
+    "To praise or promote something to persuade people.",
+    "吹捧；大肆宣傳"
+  ],
+  "worthiness": [
+    "The quality of deserving respect or attention.",
+    "價值；值得"
+  ],
+  "worthy": [
+    "Deserving respect or attention.",
+    "值得的；可敬的"
   ]
 });

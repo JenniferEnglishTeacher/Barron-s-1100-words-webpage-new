@@ -237,6 +237,48 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她孤僻的性格讓團體專案對她來說特別有壓力。",
         "added": true,
         "group": "sat-shy"
+      },
+      {
+        "word": "sheepishly",
+        "pos": "adv.",
+        "definition": "In an embarrassed way.",
+        "chinese": "難為情地",
+        "synonyms": "embarrassedly, shamefacedly, bashfully",
+        "image": "shield",
+        "sentence": "He smiled __________.",
+        "translation": "他難為情地笑了笑。",
+        "lookup": {
+          "english": "In an embarrassed way.",
+          "chinese": "難為情地"
+        },
+        "advSentence": "The boy sheepishly admitted that he had broken the vase.",
+        "advTranslation": "那個男孩難為情地承認是他打破了花瓶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh"
+        ]
+      },
+      {
+        "word": "unpretentious",
+        "pos": "adj.",
+        "definition": "Simple and modest; not trying to impress.",
+        "chinese": "樸實的；不做作的",
+        "synonyms": "modest, simple, humble",
+        "image": "shield",
+        "sentence": "It's an __________ little café.",
+        "translation": "那是一家樸實無華的小咖啡館。",
+        "lookup": {
+          "english": "Simple and modest; not trying to impress.",
+          "chinese": "樸實的；不做作的"
+        },
+        "advSentence": "Despite his fame, the actor remained friendly and unpretentious.",
+        "advTranslation": "儘管很有名，這位演員依然親切而不做作。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
       }
     ],
     "group": "sat-shy",
@@ -298,5 +340,13 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "unsociable": [
     "Not enjoying the company of others; withdrawn.",
     "不善社交的;孤僻的"
+  ],
+  "sheepishly": [
+    "In an embarrassed way.",
+    "難為情地"
+  ],
+  "unpretentious": [
+    "Simple and modest; not trying to impress.",
+    "樸實的；不做作的"
   ]
 });

@@ -325,6 +325,196 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "多年的艱苦生活讓她對別人的抱怨變得冷漠無情。",
         "added": true,
         "group": "hot-13"
+      },
+      {
+        "word": "abstention",
+        "pos": "n.",
+        "definition": "The act of choosing not to do something, especially not voting.",
+        "chinese": "棄權；戒除",
+        "synonyms": "abstinence, refraining, nonvoting",
+        "image": "shield",
+        "sentence": "Three __________s meant the motion passed by a narrow margin.",
+        "translation": "三票棄權意味著該動議以些微差距通過。",
+        "lookup": {
+          "english": "The act of choosing not to do something, especially not voting.",
+          "chinese": "棄權；戒除"
+        },
+        "advSentence": "His abstention from alcohol began after a serious car accident.",
+        "advTranslation": "他在一場嚴重車禍後開始戒酒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "casually",
+        "pos": "adv.",
+        "definition": "In a relaxed way, without much care.",
+        "chinese": "隨意地；漫不經心地",
+        "synonyms": "informally, offhandedly, nonchalantly",
+        "image": "shield",
+        "sentence": "He __________ mentioned that he had quit his job.",
+        "translation": "他漫不經心地提到自己辭職了。",
+        "lookup": {
+          "english": "In a relaxed way, without much care.",
+          "chinese": "隨意地；漫不經心地"
+        },
+        "advSentence": "She casually dismissed the warning, unaware of how serious the danger was.",
+        "advTranslation": "她隨意地忽視了警告，沒有意識到危險有多嚴重。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh"
+        ]
+      },
+      {
+        "word": "clinical",
+        "pos": "adj.",
+        "definition": "Relating to medical treatment; cold and without emotion.",
+        "chinese": "臨床的；冷靜客觀的",
+        "synonyms": "medical, detached, impersonal",
+        "image": "shield",
+        "sentence": "The drug is now in __________ trials.",
+        "translation": "這種藥目前正在進行臨床試驗。",
+        "lookup": {
+          "english": "Relating to medical treatment; cold and without emotion.",
+          "chinese": "臨床的；冷靜客觀的"
+        },
+        "advSentence": "The judge described the crime in cold, clinical detail.",
+        "advTranslation": "法官以冷靜客觀、不帶感情的細節描述了這起罪行。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "depersonalize",
+        "pos": "v.",
+        "definition": "To remove human or individual qualities from something.",
+        "chinese": "使失去個性；去人性化",
+        "synonyms": "dehumanize, objectify, detach",
+        "image": "shield",
+        "sentence": "Online shopping can __________ customer service.",
+        "translation": "網路購物可能使客服失去人情味。",
+        "lookup": {
+          "english": "To remove human or individual qualities from something.",
+          "chinese": "使失去個性；去人性化"
+        },
+        "advSentence": "Large lecture halls can depersonalize education, making students feel like mere numbers.",
+        "advTranslation": "大型講堂可能讓教育失去人情味，使學生覺得自己只是個數字。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "detachment",
+        "pos": "n.",
+        "definition": "Lack of emotional involvement; a small military unit.",
+        "chinese": "超然；冷漠；分遣隊",
+        "synonyms": "aloofness, indifference, unit",
+        "image": "shield",
+        "sentence": "He viewed the tragedy with strange __________.",
+        "translation": "他以一種奇怪的超然態度看待那場悲劇。",
+        "lookup": {
+          "english": "Lack of emotional involvement; a small military unit.",
+          "chinese": "超然；冷漠；分遣隊"
+        },
+        "advSentence": "Scientists must observe their experiments with detachment, setting aside personal hopes.",
+        "advTranslation": "科學家必須以超然的態度觀察實驗，把個人期望放在一邊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "frigid",
+        "pos": "adj.",
+        "definition": "Very cold; unfriendly and unemotional.",
+        "chinese": "寒冷的；冷淡的",
+        "synonyms": "freezing, icy, cold",
+        "image": "shield",
+        "sentence": "Taiwan lies in the subtropics, yet its highest mountains can become __________ in winter.",
+        "translation": "臺灣位於亞熱帶，但最高的山在冬天可能變得酷寒。",
+        "lookup": {
+          "english": "Very cold; unfriendly and unemotional.",
+          "chinese": "寒冷的；冷淡的"
+        },
+        "advSentence": "The new manager's frigid greeting made the staff nervous.",
+        "advTranslation": "新經理冷淡的招呼讓員工們很緊張。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh",
+          "110-moe-sh"
+        ]
+      },
+      {
+        "word": "robotic",
+        "pos": "adj.",
+        "definition": "Like a robot; without feeling.",
+        "chinese": "機器人的；呆板的",
+        "synonyms": "mechanical, automated, emotionless",
+        "image": "shield",
+        "sentence": "His __________ voice bored the class.",
+        "translation": "他呆板的聲音讓全班覺得無聊。",
+        "lookup": {
+          "english": "Like a robot; without feeling.",
+          "chinese": "機器人的；呆板的"
+        },
+        "advSentence": "Robotic arms now perform many repetitive tasks in car factories.",
+        "advTranslation": "機械手臂現在在汽車工廠執行許多重複性的工作。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh"
+        ]
+      },
+      {
+        "word": "tepid",
+        "pos": "adj.",
+        "definition": "Not enthusiastic; slightly warm.",
+        "chinese": "不熱烈的；微溫的",
+        "synonyms": "lukewarm, unenthusiastic, half-hearted",
+        "image": "shield",
+        "sentence": "The audience gave a __________ response.",
+        "translation": "觀眾反應冷淡。",
+        "lookup": {
+          "english": "Not enthusiastic; slightly warm.",
+          "chinese": "不熱烈的；微溫的"
+        },
+        "advSentence": "The proposal received only tepid support from the committee.",
+        "advTranslation": "這項提案只得到委員會不冷不熱的支持。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh"
+        ]
+      },
+      {
+        "word": "unconsciously",
+        "pos": "adv.",
+        "definition": "Without being aware.",
+        "chinese": "無意識地",
+        "synonyms": "involuntarily, automatically, instinctively",
+        "image": "shield",
+        "sentence": "He __________ tapped his foot.",
+        "translation": "他無意識地用腳打拍子。",
+        "lookup": {
+          "english": "Without being aware.",
+          "chinese": "無意識地"
+        },
+        "advSentence": "Children unconsciously imitate the habits of the adults around them.",
+        "advTranslation": "孩子會無意識地模仿周遭大人的習慣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -652,5 +842,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "callous": [
     "Unfeeling.",
     "冷酷無情的"
+  ],
+  "abstention": [
+    "The act of choosing not to do something, especially not voting.",
+    "棄權；戒除"
+  ],
+  "casually": [
+    "In a relaxed way, without much care.",
+    "隨意地；漫不經心地"
+  ],
+  "clinical": [
+    "Relating to medical treatment; cold and without emotion.",
+    "臨床的；冷靜客觀的"
+  ],
+  "depersonalize": [
+    "To remove human or individual qualities from something.",
+    "使失去個性；去人性化"
+  ],
+  "detachment": [
+    "Lack of emotional involvement; a small military unit.",
+    "超然；冷漠；分遣隊"
+  ],
+  "frigid": [
+    "Very cold; unfriendly and unemotional.",
+    "寒冷的；冷淡的"
+  ],
+  "robotic": [
+    "Like a robot; without feeling.",
+    "機器人的；呆板的"
+  ],
+  "tepid": [
+    "Not enthusiastic; slightly warm.",
+    "不熱烈的；微溫的"
+  ],
+  "unconsciously": [
+    "Without being aware.",
+    "無意識地"
   ]
 });

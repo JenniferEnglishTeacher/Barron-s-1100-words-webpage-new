@@ -1,0 +1,140 @@
+scenario | 最壞的情況是我們取消旅行。 | The class acted out a scenario in which a tourist asks for directions. | 全班演出一個遊客問路的情境。
+stake | 風險很高。 | Investors have a stake in the company's success. | 投資人與公司的成敗利害相關。
+threatening | 他收到了威脅訊息。 | Dark, threatening clouds gathered over the harbor. | 陰沉而令人不安的烏雲聚集在港口上空。
+actuary | 精算師計算了這份保單應收的費用。 | The actuary studied how long people in different jobs tend to live. | 精算師研究不同職業的人通常活多久。
+applicant | 每位申請人都必須提交兩封推薦信。 | Over three thousand applicants competed for fifty places. | 三千多名申請者競爭五十個名額。
+apprentice | 他跟隨一位木匠師傅當學徒。 | The young chef started as an apprentice in a famous kitchen. | 這位年輕主廚是從知名餐廳的學徒做起的。
+carpenter | 木匠做了新的廚房櫥櫃。 | The temple was built by skilled carpenters without nails. | 這座廟由技藝精湛的木匠不用釘子建造而成。
+caseload | 社工苦於沉重的案件量。 | The judge's caseload has doubled since last year. | 那位法官的案件量比去年增加了一倍。
+coalface | 第一線的老師最了解學生需要什麼。 | Nurses at the coalface of the pandemic worked long shifts. | 在疫情第一線的護理師輪班時間很長。
+correspondent | 我們的駐外特派員從東京報導。 | The war correspondent risked her life to report the truth. | 那位戰地記者冒著生命危險報導真相。
+custodian | 這座博物館保管珍貴的手稿。 | Parents are the legal custodians of their children. | 父母是孩子的法定監護人。
+handyman | 我們找了修理工來修門。 | My grandfather was a handyman who could fix almost anything. | 我爺爺是個什麼都能修的萬能工。
+occupation | 請在表格上填寫你的職業。 | The occupation of the island by foreign troops lasted fifty years. | 外國軍隊佔領這座島嶼長達五十年。
+occupational | 背痛是護理師的職業傷害。 | Occupational therapy helps patients return to daily tasks. | 職能治療幫助病人恢復日常活動。
+personnel | 醫護人員通宵工作。 | The company's personnel department handles hiring. | 公司的人事部門負責招聘。
+plumber | 水管又漏水了，你得叫水電工來。 | The plumber fixed the leaking pipe in ten minutes. | 水電工十分鐘就修好漏水的水管。
+proxy | 她委託代理人投票。 | Online scores are often used as a proxy for popularity. | 網路評分常被當作受歡迎程度的替代指標。
+recruit | 許多公司即使在經濟衰退時仍需要招募人才；如果你有能力又積極，一定能找到好工作。 | The club hopes to recruit more members at the school fair. | 社團希望在學校博覽會上招募更多社員。
+sack | 他因為遲到被開除。 | The coach was sacked after five straight losses. | 教練在連輸五場後被開除了。
+steward | 我們是環境的守護者。 | The flight steward served tea to the passengers. | 空服員為乘客送上茶。
+veterinarian | 獸醫為我們的狗治療。 | She wanted to become a veterinarian because she loves animals. | 她想成為獸醫，因為她熱愛動物。
+adhesive | 用膠帶把箱子封好。 | Use a strong adhesive to fix the broken handle. | 用強力黏膠把斷掉的把手黏好。
+chisel | 雕刻家把大理石鑿成雕像。 | Workers chiseled the names of the founders into the stone. | 工人把創辦人的名字鑿刻在石頭上。
+embroider | 她在枕頭上繡了花。 | He tends to embroider his stories to make them more exciting. | 他講故事時常常添油加醋，讓故事更精彩。
+framework | 歐洲語言共同參考架構為語言能力提供了分級框架。 | The steel framework of the tower went up in six months. | 這座塔的鋼骨架構在六個月內就完工了。
+infilling | 都市填建能減少城市擴張。 | The plan encourages infilling of empty lots near train stations. | 這項計畫鼓勵在車站附近的空地上填建。
+infrastructure | 總統承諾大規模更新重建基礎建設，因預期需求增加而推升了原物料價格。 | Good infrastructure, such as roads and internet, attracts investment. | 道路與網路等良好的基礎建設能吸引投資。
+inscribe | 他的名字被刻在獎盃上。 | The poet inscribed the book to her mother. | 詩人在書上題字獻給她的母親。
+installation | 軟體安裝需要十分鐘。 | The museum's new installation uses light and sound. | 博物館的新裝置藝術運用了光與聲音。
+installed | 屋頂上安裝了太陽能板。 | The city installed new benches in the park. | 市政府在公園裡安裝了新長椅。
+insulation | 良好的隔熱能降低暖氣費用。 | The old wires had damaged insulation and were dangerous. | 舊電線的絕緣層受損，非常危險。
+laminate | 把卡片護貝，讓學生可以重複使用。 | Factories laminate thin layers of wood to make strong boards. | 工廠把薄木片層壓製成堅固的板材。
+lubricate | 學生說酒精有助於潤滑大學的社交生活。 | Oil the chain regularly to lubricate your bicycle. | 定期幫腳踏車鏈條上油潤滑。 | Students say alcohol helps to lubricate social life at university.
+maintenance | 這棟建築需要定期維護。 | Car maintenance is cheaper than major repairs. | 汽車保養比大修便宜。
+makeshift | 這項條約被批評只是權宜之計，僅暫時停止敵對，沒有解決根本的領土爭端。 | After the earthquake, families slept in makeshift tents. | 地震後，家家戶戶睡在臨時搭建的帳篷裡。
+manufacture | 這家公司製造電動車。 | Taiwan manufactures most of the world's advanced chips. | 臺灣製造全球大部分的先進晶片。
+mend | 巴基斯坦遭塔利班攻擊之際，伊斯蘭堡需要設法修補與喀布爾的關係，並把恐怖主義視為共同問題。 | Grandma mended the hole in my sweater. | 奶奶幫我補好毛衣上的破洞。
+perforate | 這台機器能在整張郵票上打孔，方便撕開。 | Perforate the plastic wrap before heating the food. | 加熱食物前先在保鮮膜上戳幾個洞。 | The machine can perforate a sheet of stamps so they tear off easily.
+purify | 這個濾水器幾秒內就能淨化自來水。 | Many plants help purify the air in your home. | 許多植物有助於淨化家中的空氣。 | This filter can purify tap water in seconds.
+reclaim | 在櫃檯領回你的包包。 | The city plans to reclaim land from the sea for a new airport. | 市政府計畫填海造陸興建新機場。
+reclamation | 推動「循環經濟」包括把產品設計成更容易回收再利用，藉此減少送往掩埋場的垃圾。 | Land reclamation along the coast has destroyed many wetlands. | 沿海的填海造陸已破壞許多濕地。
+reconstruction | 地震後的重建花了好幾年。 | Police used CCTV footage for a reconstruction of the crime. | 警方利用監視器畫面重建犯罪經過。
+remediate | 老師補救學生的學習落差。 | The company must remediate the polluted soil around the factory. | 公司必須整治工廠周圍受污染的土壤。
+retrieve | 從雲端取回檔案。 | The dog ran to retrieve the ball. | 狗跑去把球撿回來。
+salvage | 他們試圖搶救那艘正在下沉的船。 | Volunteers helped salvage books from the flooded library. | 志工協助從淹水的圖書館搶救書籍。
+scrub | 派對後她得刷洗廚房地板。 | Scrub the vegetables well before cooking them. | 煮之前把蔬菜徹底刷洗乾淨。 | She had to scrub the kitchen floor after the party.
+streamline | 政府機關所有繁複的程序都應該精簡，以提升效率。 | The company streamlined its website to make shopping easier. | 公司精簡網站，讓購物更方便。
+tinker | 雖然原型機一開始運作完美，工程師仍忍不住繼續修修補補它的電路，深信即使是微小的改良也可能帶來革命性的成果。 | The government only tinkered with the tax system instead of reforming it. | 政府只是小修小改稅制，而沒有進行改革。
+treadle | 老式縫紉機有一個踏板。 | She pressed the treadle to spin the potter's wheel. | 她踩著踏板讓陶輪轉動。
+varnish | 他為木桌上了亮光漆。 | The carpenter applied a clear varnish to protect the floor. | 木匠塗上一層透明亮光漆來保護地板。
+weave | 她把故事融入她的課程中。 | The indigenous women weave colorful cloth on wooden looms. | 原住民婦女在木製織布機上編織彩色布料。
+affiliate | 這家醫院隸屬於當地一所大學。 | The local radio station is an affiliate of a national network. | 這家地方電台是全國聯播網的加盟台。
+assemblage | 博物館展出一組古代工具。 | The festival drew a colorful assemblage of artists and musicians. | 這個節慶吸引了形形色色的藝術家與音樂家齊聚。
+associate | 許多人把夏天和海灘聯想在一起。 | Parents worry about the people their teenagers associate with. | 父母擔心青少年和什麼樣的人交往。
+attach | 請把你的履歷附在電子郵件中。 | Attach the label to the front of the box. | 把標籤貼在箱子正面。
+bind | 《巴黎氣候協定》不具法律約束力，讓各國可以自行訂定目標，而沒有嚴格的執行機制。 | Use string to bind the old newspapers together. | 用繩子把舊報紙綁在一起。
+cluster | 以特定勞動市場準備為重點的課程被歸類為幾個不同的職業學程領域，從農業、商業到醫療與技術職類。 | Students clustered around the teacher to see the experiment. | 學生們圍在老師身邊看實驗。
+compile | 她整理了一份實用網站清單。 | Researchers compiled data from over two hundred schools. | 研究人員彙整了兩百多所學校的資料。
+conjoin | 這對雙胞胎在臀部相連。 | The two villages were conjoined into one town in 1950. | 這兩個村子在 1950 年合併成一個鎮。
+constitute | 女性佔勞動力的一半。 | Twelve months constitute a year. | 十二個月構成一年。
+corral | 她真正的挑戰是把各種想法整合成一個清楚的故事。 | The ranchers corralled the horses before the storm. | 牧場主人在暴風雨前把馬群趕進圍欄。 | Her real challenge was to corral her ideas into one clear story.
+embed | 文化價值觀常常深植於日常語言之中。 | Journalists were embedded with the soldiers during the war. | 戰爭期間記者隨軍採訪。 | Cultural values often embed themselves in everyday language.
+hitch | 他們把馬拴在馬車上。 | The concert went off without a hitch. | 演唱會順利進行，沒出任何差錯。
+hook | 把雨傘掛在門邊的掛鉤上。 | A good opening line should hook the reader. | 好的開頭句應該能吸引讀者。 | Hang your umbrella on the hook by the door.
+hybrid | 在海外移民社群中，年輕一代常處於保存祖先傳統與擁抱受移居地文化影響的混合身分之間。 | Hybrid cars use both gasoline and electricity. | 油電混合車同時使用汽油和電力。
+integrate | 我們把科技融入課程。 | New immigrants work hard to integrate into the community. | 新移民努力融入社區。
+integration | 技能整合能提升學習成效。 | The integration of indigenous culture into the curriculum is encouraged. | 鼓勵將原住民文化融入課程中。
+integrative | 這門課採用整合式教學法。 | Integrative medicine combines Western and traditional treatments. | 整合醫學結合西醫與傳統療法。
+interconnectedness | 生態學顯示萬物之間的相互關聯。 | The pandemic revealed the interconnectedness of the global economy. | 疫情揭露了全球經濟的相互關聯。
+intertwine | 他們的人生交織在一起。 | In the story, history and legend intertwine. | 在這個故事中，歷史與傳說交織在一起。
+merge | 經濟衰退期間，小公司常被迫與大公司合併以求生存。 | The two rivers merge just south of the city. | 兩條河在城市南邊匯流。
+modular | 這門課採模組化設計。 | Modular homes can be built in a factory and assembled on site. | 模組化房屋可以在工廠製造，再到現場組裝。
+overlap | 這兩個科目有重疊之處。 | The two meetings overlap, so I can only attend one. | 兩場會議時間重疊，所以我只能參加一場。
+stack | 她桌上放著一疊文件。 | Please stack the chairs at the back of the room. | 請把椅子疊放在教室後面。
+subsume | 好幾個小部門被併入一個部門。 | The old rules are subsumed under the new law. | 舊規定被納入新法之中。
+synthesize | 為了培養批判思考，老師應設計需要學生綜合多方來源資訊並自行下結論的作業。 | Plants synthesize sugar from sunlight, water, and carbon dioxide. | 植物利用陽光、水和二氧化碳合成糖分。
+thread | 她所有的小說都貫穿著一條共同主線：尋找歸屬。 | She threaded the needle with red silk. | 她把紅色絲線穿進針孔。 | A common thread runs through all of her novels: the search for home.
+twine | 藤蔓纏繞在圍籬上。 | Tie the tomato plants to the sticks with garden twine. | 用園藝細繩把番茄苗綁在支柱上。
+atomize | 社群媒體已把社群分裂成孤立的個人使用者。 | The spray bottle atomizes the water into a fine mist. | 噴霧瓶把水霧化成細細的水霧。
+compartmentalization | 區隔化幫助他把工作和家庭分開。 | The compartmentalization of knowledge into subjects can limit creativity. | 把知識切割成不同學科可能限制創造力。
+disband | 這個樂團十年後解散了。 | The police ordered the crowd to disband. | 警方命令群眾解散。
+discard | 丟掉任何過期的食物。 | Discard the old belief that intelligence cannot grow. | 拋棄「智力無法成長」的舊觀念。
+discharge | 工廠把廢水排放到河裡。 | The patient was discharged from the hospital after a week. | 病人一週後出院了。
+dispersal | 鳥類幫助種子的散布。 | The police ordered the dispersal of the crowd. | 警方下令驅散群眾。
+dissect | 學生在生物課解剖青蛙。 | The class dissected the poem line by line. | 全班逐行剖析這首詩。
+dissection | 要完整地從法律角度分析這份協議，必須逐句剖析合約中的每一句話。 | Frog dissection is part of the biology lab. | 青蛙解剖是生物實驗課的一部分。
+dissolve | 糖會溶於水。 | The company decided to dissolve the partnership. | 公司決定解除合夥關係。
+elimination | 消除貧窮是聯合國的目標。 | The team suffered elimination in the first round. | 這支隊伍在第一輪就被淘汰了。
+eradicator | 這種新藥能有效根除病毒。 | The new spray is a powerful weed eradicator. | 這種新噴劑是強效的除草劑。
+eviction | 房租上漲導致許多低收入家庭被迫遷出。 | The family faced eviction after they could not pay rent. | 這家人付不出房租後面臨被迫遷出。 | Rising rents have led to the eviction of many low-income families.
+excluding | 價格是五十美元，不含稅。 | The museum is open every day excluding Mondays. | 博物館除了週一以外每天開放。
+extract | 牙醫拔了兩顆牙。 | The teacher read an extract from the novel. | 老師朗讀了小說的一段摘錄。
+filter | 這個應用程式會過濾垃圾郵件。 | Sunlight filtered through the leaves. | 陽光透過樹葉灑落下來。
+fragmentation | 棲地破碎化威脅野生動物。 | The fragmentation of the party weakened it before the election. | 政黨分裂使其在選前實力大減。
+omission | 遺漏她的名字是個錯誤。 | The report's omission of key data made it misleading. | 報告遺漏關鍵數據，使它具有誤導性。
+omit | 刪掉最後一段。 | You can omit the article "the" before most plural nouns. | 大多數複數名詞前可以省略冠詞 the。
+partition | 一道隔板把辦公室隔開。 | The partition of the country in 1947 caused great suffering. | 1947 年的國家分治造成巨大的苦難。
+segment | 市場依年齡區隔。 | Divide the orange into segments and share them. | 把橘子剝成一瓣一瓣分著吃。
+slough | 蛇會蛻皮。 | He tried to slough off his old bad habits. | 他試著擺脫舊有的壞習慣。
+strew | 孩子們喜歡沿著小路撒花瓣。 | Petals were strewn along the path for the wedding. | 婚禮的小徑上撒滿了花瓣。 | The children love to strew flower petals along the path.
+vacate | 由於最近實施新的安全規範，這棟老舊建築的住戶被要求盡快搬離，以便進行全面且必要的整修。 | Please vacate your hotel room by noon. | 請在中午前退房。
+winkle | 要把每一隻蚊子從藏身處揪出來幾乎是不可能的。 | The reporter finally winkled the truth out of the official. | 記者終於從那位官員口中套出真相。 | It is almost impossible to winkle every mosquito out of its hiding place.
+annihilate | 暴風雨徹底摧毀了那座小漁村。 | The champion annihilated her opponent 6–0, 6–0. | 衛冕者以 6 比 0、6 比 0 痛宰對手。
+annihilation | 核戰可能導致人類滅絕。 | Some species face annihilation as their forests disappear. | 隨著森林消失，有些物種面臨滅絕。
+butcher | 侵略者屠殺了村民。 | The butcher cut the pork into thin slices. | 肉販把豬肉切成薄片。
+decimate | 如果不採取措施，這個國家下降的出生率將使曾經健全的人口大幅減少。 | Disease decimated the bee population last year. | 疾病讓去年的蜂群數量大幅減少。
+demolish | 舊體育場被拆除了。 | The lawyer demolished the witness's story in court. | 律師在法庭上徹底推翻了證人的說法。
+disembowel | 漁夫取出魚的內臟。 | Budget cuts threatened to disembowel the art program. | 預算刪減可能讓藝術課程名存實亡。
+exterminate | 他們請公司來撲滅老鼠。 | Invasive cane toads are hard to exterminate. | 外來種海蟾蜍很難根除。
+extermination | 撲滅害蟲的費用很高。 | The museum remembers the victims of the Nazi extermination camps. | 這座博物館紀念納粹滅絕營的受害者。
+fissure | 地震後地面裂開了。 | The old wall fissured as the house slowly sank. | 隨著房子慢慢下陷，舊牆出現裂縫。
+mangle | 那輛車在車禍中被撞得面目全非。 | Machine translation sometimes mangles the meaning of idioms. | 機器翻譯有時會把成語的意思弄得亂七八糟。
+maul | 那名登山客被熊重傷。 | Critics mauled the director's new film. | 評論家把導演的新片批得體無完膚。
+ravage | 蝗蟲群可能在一天之內蹂躪大片農田。 | War continued to ravage the country for a decade. | 戰爭持續蹂躪這個國家長達十年。 | Swarms of locusts can ravage farmland in a single day.
+shatter | 這個消息讓她的夢想破碎。 | The ball shattered the classroom window. | 球打破了教室的窗戶。
+slay | 傳說中，騎士騎馬出征去屠龍。 | In the myth, the hero sets out to slay a sea monster. | 在神話中，英雄出發去斬殺海怪。 | In the legend, the knight rides out to slay the dragon.
+stab | 搶匪威脅要刺傷任何報警的人。 | She felt a stab of pain in her back. | 她背部感到一陣刺痛。 | The robber threatened to stab anyone who called the police.
+vandalism | 蓄意破壞公物是犯罪行為。 | The school installed cameras to prevent vandalism. | 學校裝設監視器以防止蓄意破壞。
+acquainted | 你認識新來的歷史老師嗎？ | Take time to get acquainted with the rules before the game. | 比賽前花點時間熟悉規則。
+ally | 戰後日本成為美國的親密盟友。 | Teachers can be powerful allies for students facing bullying. | 對遭受霸凌的學生而言，老師可以是強而有力的盟友。 | Japan became a close ally of the United States after the war.
+consort | 他被指控與罪犯往來。 | The prince was seen consorting with famous actors. | 有人看到王子與知名演員往來。
+interaction | 課堂互動能提升口說能力。 | The drug may have dangerous interactions with alcohol. | 這種藥與酒精可能產生危險的交互作用。
+parasocial | 許多粉絲與直播主建立了擬社會關係。 | Parasocial relationships with celebrities can feel very real to teenagers. | 與名人的擬社會關係對青少年來說可能感覺非常真實。
+rendezvous | 他們在公園祕密會面。 | The café was a favorite rendezvous for writers. | 那家咖啡館是作家們最愛的聚會地點。
+administer | 護理師為每個孩子施打疫苗。 | A committee will administer the scholarship fund. | 將由委員會管理這筆獎學金基金。
+allot | 每位講者會撥出五分鐘回答問題。 | The teacher will allot ten minutes for each group's presentation. | 老師將分配每組十分鐘報告。 | Each speaker will allot five minutes to questions.
+cater | 這門課是為初學者設計的。 | The restaurant caters for weddings and company parties. | 這家餐廳承辦婚宴和公司聚會。
+contribute | 學生應具備閱讀理解能力，分析文本意義，並判斷文法目標如何促成寫作目的。 | Everyone contributed a dish to the class party. | 每個人都為班級派對貢獻了一道菜。
+designated | 只能在特別指定的區域吸菸。 | The designated driver drank only water at the party. | 指定駕駛在派對上只喝水。
+dispense | 這台機器提供熱飲。 | The pharmacist dispensed the medicine with careful instructions. | 藥師配藥時附上仔細的說明。
+distribute | 食物被分發給難民。 | The teacher distributed the test papers face down. | 老師把考卷背面朝上發下去。
+dole | 老師分發糖果給獲勝者。 | The aunt doled out red envelopes to all the children. | 阿姨發紅包給所有的孩子。
+furnish | 證人提供了新的資訊。 | They furnished the apartment with secondhand furniture. | 他們用二手傢俱布置公寓。
+intervention | 及早介入能幫助閱讀有困難的學生。 | Government intervention kept the bank from collapsing. | 政府介入使銀行免於倒閉。
+patronage | 藝術仰賴贊助。 | The shop thanked customers for their patronage over thirty years. | 這家店感謝顧客三十年來的惠顧。
+provision | 這項法律包含保障身心障礙者的條款。 | The provision of free lunches helped many poor students. | 提供免費午餐幫助了許多貧困學生。
+volunteer | 她在醫院當志工。 | Several students volunteered to clean the beach. | 好幾位學生自願去淨灘。
+welfare | 動物福祉很重要。 | The government spends billions on social welfare programs. | 政府在社會福利計畫上花費數十億元。
+accomplishment | 完成馬拉松是她最自豪的成就。 | Learning to read is a major accomplishment for young children. | 學會閱讀對幼童來說是一項重大成就。
+breakthrough | 科學家在癌症研究上取得突破。 | The peace talks reached a breakthrough after weeks of tension. | 和平談判在數週緊張後取得突破。

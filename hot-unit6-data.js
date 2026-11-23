@@ -291,6 +291,154 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這些一起服役多年的士兵之間有著真摯的袍澤情誼。",
         "added": true,
         "group": "hot-06"
+      },
+      {
+        "word": "bonhomie",
+        "pos": "n.",
+        "definition": "A friendly, cheerful manner.",
+        "chinese": "親切友善；和藹",
+        "synonyms": "geniality, friendliness, cordiality",
+        "image": "shield",
+        "sentence": "The host's __________ made every guest feel welcome.",
+        "translation": "主人親切友善，讓每位客人都覺得賓至如歸。",
+        "lookup": {
+          "english": "A friendly, cheerful manner.",
+          "chinese": "親切友善；和藹"
+        },
+        "advSentence": "Beneath his easy bonhomie, the politician was a shrewd and calculating negotiator.",
+        "advTranslation": "在他隨和友善的外表下，這位政治人物其實是個精明算計的談判者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "charismatic",
+        "pos": "adj.",
+        "definition": "Having a strong personal charm that attracts and influences others.",
+        "chinese": "有領袖魅力的",
+        "synonyms": "magnetic, charming, compelling",
+        "image": "shield",
+        "sentence": "The cult leader's __________ personality allowed him to manipulate his followers into surrendering all of their worldly possessions to his organization.",
+        "translation": "這位邪教領袖極具魅力的人格，使他能操縱信徒交出所有世俗財產給他的組織。",
+        "lookup": {
+          "english": "Having a strong personal charm that attracts and influences others.",
+          "chinese": "有領袖魅力的"
+        },
+        "advSentence": "A charismatic teacher can make even the driest grammar lesson engaging.",
+        "advTranslation": "有魅力的老師能讓最枯燥的文法課也變得引人入勝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "diplomatic",
+        "pos": "adj.",
+        "definition": "Relating to diplomacy; tactful.",
+        "chinese": "外交的；圓滑得體的",
+        "synonyms": "tactful, discreet, political",
+        "image": "shield",
+        "sentence": "She gave a __________ answer to avoid offending anyone.",
+        "translation": "她給了一個圓滑得體的回答，以免冒犯任何人。",
+        "lookup": {
+          "english": "Relating to diplomacy; tactful.",
+          "chinese": "外交的；圓滑得體的"
+        },
+        "advSentence": "The two nations restored diplomatic relations after years of hostility.",
+        "advTranslation": "兩國在多年敵對後恢復了外交關係。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "109-hccg-jh"
+        ]
+      },
+      {
+        "word": "intimacy",
+        "pos": "n.",
+        "definition": "A close personal relationship.",
+        "chinese": "親密",
+        "synonyms": "closeness, familiarity, affection",
+        "image": "shield",
+        "sentence": "The small café has a feeling of __________.",
+        "translation": "這家小咖啡館有種溫馨親密的感覺。",
+        "lookup": {
+          "english": "A close personal relationship.",
+          "chinese": "親密"
+        },
+        "advSentence": "The intimacy of the small theater allowed the audience to see every subtle expression.",
+        "advTranslation": "小劇場的親密感讓觀眾能看到演員每個細微的表情。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "mingle",
+        "pos": "v.",
+        "definition": "To move around and talk with people at a social event.",
+        "chinese": "交際；混合",
+        "synonyms": "socialize, mix, circulate",
+        "image": "shield",
+        "sentence": "She was eager to __________ with the other guests at that party and did not spend too much time chatting with me.",
+        "translation": "她急著想在派對上和其他客人交流，所以沒有花太多時間和我聊天。",
+        "lookup": {
+          "english": "To move around and talk with people at a social event.",
+          "chinese": "交際；混合"
+        },
+        "advSentence": "At the reception, the shy student forced himself to mingle with strangers.",
+        "advTranslation": "在招待會上，那個害羞的學生強迫自己和陌生人交流。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "partake",
+        "pos": "v.",
+        "definition": "To take part in; to eat or drink.",
+        "chinese": "參與；吃喝",
+        "synonyms": "participate, share, consume",
+        "image": "shield",
+        "sentence": "Everyone was invited to __________ in the festival.",
+        "translation": "每個人都受邀參加這個節慶。",
+        "lookup": {
+          "english": "To take part in; to eat or drink.",
+          "chinese": "參與；吃喝"
+        },
+        "advSentence": "Visitors are invited to partake in the traditional tea ceremony.",
+        "advTranslation": "遊客受邀參加傳統茶道儀式。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "pleasantry",
+        "pos": "n.",
+        "definition": "A polite remark made in conversation.",
+        "chinese": "客套話；玩笑話",
+        "synonyms": "small talk, courtesy, banter",
+        "image": "shield",
+        "sentence": "After a polite __________ about the weather, they began the meeting.",
+        "translation": "他們先禮貌地寒暄了一下天氣，才開始開會。",
+        "lookup": {
+          "english": "A polite remark made in conversation.",
+          "chinese": "客套話；玩笑話"
+        },
+        "advSentence": "After a brief pleasantry about the weather, the negotiators got down to business.",
+        "advTranslation": "簡短寒暄天氣之後，談判代表便切入正題。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -586,5 +734,33 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "camaraderie": [
     "Brotherhood, jovial unity.",
     "同志情誼/友愛"
+  ],
+  "bonhomie": [
+    "A friendly, cheerful manner.",
+    "親切友善；和藹"
+  ],
+  "charismatic": [
+    "Having a strong personal charm that attracts and influences others.",
+    "有領袖魅力的"
+  ],
+  "diplomatic": [
+    "Relating to diplomacy; tactful.",
+    "外交的；圓滑得體的"
+  ],
+  "intimacy": [
+    "A close personal relationship.",
+    "親密"
+  ],
+  "mingle": [
+    "To move around and talk with people at a social event.",
+    "交際；混合"
+  ],
+  "partake": [
+    "To take part in; to eat or drink.",
+    "參與；吃喝"
+  ],
+  "pleasantry": [
+    "A polite remark made in conversation.",
+    "客套話；玩笑話"
   ]
 });

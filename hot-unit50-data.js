@@ -237,6 +237,48 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她努力討好公婆,希望贏得他們的好感。",
         "added": true,
         "group": "sat-praise-sub"
+      },
+      {
+        "word": "idealize",
+        "pos": "v.",
+        "definition": "To think of as perfect.",
+        "chinese": "理想化",
+        "synonyms": "glorify, romanticize, exalt",
+        "image": "shield",
+        "sentence": "Young fans __________ pop stars.",
+        "translation": "年輕歌迷會把偶像理想化。",
+        "lookup": {
+          "english": "To think of as perfect.",
+          "chinese": "理想化"
+        },
+        "advSentence": "People often idealize the past and forget its hardships.",
+        "advTranslation": "人們常把過去理想化，而忘了當時的艱辛。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "panegyrist",
+        "pos": "n.",
+        "definition": "A person who writes or speaks in high praise of someone.",
+        "chinese": "頌揚者；歌功頌德者",
+        "synonyms": "eulogist, praiser, flatterer",
+        "image": "shield",
+        "sentence": "The king's __________s praised his every act.",
+        "translation": "國王的歌功頌德者讚美他的每一個舉動。",
+        "lookup": {
+          "english": "A person who writes or speaks in high praise of someone.",
+          "chinese": "頌揚者；歌功頌德者"
+        },
+        "advSentence": "The biography reads less like history than the work of a panegyrist.",
+        "advTranslation": "這本傳記讀起來不像歷史，反倒像歌功頌德者的作品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
       }
     ],
     "group": "sat-praise-sub",
@@ -298,5 +340,13 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ingratiate": [
     "To win confidence, charm.",
     "討好/迎合"
+  ],
+  "idealize": [
+    "To think of as perfect.",
+    "理想化"
+  ],
+  "panegyrist": [
+    "A person who writes or speaks in high praise of someone.",
+    "頌揚者；歌功頌德者"
   ]
 });

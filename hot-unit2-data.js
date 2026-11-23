@@ -319,6 +319,133 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這位教授散漫的寫作風格讓他的文章難以理解。",
         "added": true,
         "group": "hot-02"
+      },
+      {
+        "word": "babble",
+        "pos": "v.",
+        "definition": "To talk quickly in a way that is hard to understand.",
+        "chinese": "喋喋不休；牙牙學語",
+        "synonyms": "chatter, prattle, jabber",
+        "image": "shield",
+        "sentence": "The baby __________d happily in her crib.",
+        "translation": "嬰兒在嬰兒床裡開心地牙牙學語。",
+        "lookup": {
+          "english": "To talk quickly in a way that is hard to understand.",
+          "chinese": "喋喋不休；牙牙學語"
+        },
+        "advSentence": "Nervous speakers often babble, burying their main point under a torrent of trivial details.",
+        "advTranslation": "緊張的講者常常喋喋不休，把重點淹沒在一連串瑣碎細節之中。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "fustian",
+        "pos": "n.",
+        "definition": "Talk or writing that sounds important but means little.",
+        "chinese": "浮誇的言詞",
+        "synonyms": "bombast, pomposity, grandiloquence",
+        "image": "shield",
+        "sentence": "His speech was full of empty __________.",
+        "translation": "他的演講充滿空洞浮誇的言詞。",
+        "lookup": {
+          "english": "Talk or writing that sounds important but means little.",
+          "chinese": "浮誇的言詞"
+        },
+        "advSentence": "Critics dismissed the senator's speech as pure fustian, verbose and devoid of any concrete plan.",
+        "advTranslation": "評論家認為參議員的演講不過是浮誇之詞，冗長又毫無具體計畫。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "gab",
+        "pos": "v.",
+        "definition": "To talk a lot about unimportant things.",
+        "chinese": "閒聊；喋喋不休",
+        "synonyms": "chatter, gossip, babble",
+        "image": "shield",
+        "sentence": "The two old friends love to __________ for hours over coffee.",
+        "translation": "這兩個老朋友喜歡邊喝咖啡邊聊上好幾個小時。",
+        "lookup": {
+          "english": "To talk a lot about unimportant things.",
+          "chinese": "閒聊；喋喋不休"
+        },
+        "advSentence": "The two old friends would gab for hours, oblivious to the café closing around them.",
+        "advTranslation": "這兩個老朋友一聊就是好幾個小時，完全沒注意到咖啡店都要打烊了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-moe-sh"
+        ]
+      },
+      {
+        "word": "iterate",
+        "pos": "v.",
+        "definition": "To repeat a process or statement.",
+        "chinese": "重複；反覆進行",
+        "synonyms": "repeat, reiterate, restate",
+        "image": "shield",
+        "sentence": "Designers __________ until the product works.",
+        "translation": "設計師會反覆修改，直到產品可以運作。",
+        "lookup": {
+          "english": "To repeat a process or statement.",
+          "chinese": "重複；反覆進行"
+        },
+        "advSentence": "Good teachers iterate their lesson plans, refining each activity after observing how students respond.",
+        "advTranslation": "好老師會反覆修正教案，在觀察學生反應後逐一改善每個活動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
+      },
+      {
+        "word": "lengthy",
+        "pos": "adj.",
+        "definition": "Very long.",
+        "chinese": "冗長的",
+        "synonyms": "long, prolonged, protracted",
+        "image": "shield",
+        "sentence": "One of the largest of all suspension bridges is the __________, steel structure spanning the San Francisco Bay.",
+        "translation": "最大的懸索橋之一，就是橫跨舊金山灣那座又長又大的鋼鐵結構。",
+        "lookup": {
+          "english": "Very long.",
+          "chinese": "冗長的"
+        },
+        "advSentence": "The lengthy report was so verbose that the committee asked for a concise summary instead.",
+        "advTranslation": "那份冗長的報告太囉嗦，委員會只好要求改交一份簡潔的摘要。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "reprise",
+        "pos": "n.",
+        "definition": "A repeat of something, especially a piece of music.",
+        "chinese": "重演；重複",
+        "synonyms": "repetition, repeat, recapitulation",
+        "image": "shield",
+        "sentence": "During her concert tour, Ginger Star will __________ the famous songs from her early days.",
+        "translation": "在巡迴演唱會中，Ginger Star 將重新演唱她早期的知名歌曲。",
+        "lookup": {
+          "english": "A repeat of something, especially a piece of music.",
+          "chinese": "重演；重複"
+        },
+        "advSentence": "The orchestra ended the evening with a triumphant reprise of the opening theme.",
+        "advTranslation": "管弦樂團以開場主題的激昂重奏為當晚畫下句點。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en",
+          "115-ttsh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -718,5 +845,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "discursive": [
     "Rambling, lacking order.",
     "散漫的/離題的"
+  ],
+  "babble": [
+    "To talk quickly in a way that is hard to understand.",
+    "喋喋不休；牙牙學語"
+  ],
+  "fustian": [
+    "Talk or writing that sounds important but means little.",
+    "浮誇的言詞"
+  ],
+  "gab": [
+    "To talk a lot about unimportant things.",
+    "閒聊；喋喋不休"
+  ],
+  "iterate": [
+    "To repeat a process or statement.",
+    "重複；反覆進行"
+  ],
+  "lengthy": [
+    "Very long.",
+    "冗長的"
+  ],
+  "reprise": [
+    "A repeat of something, especially a piece of music.",
+    "重演；重複"
   ]
 });

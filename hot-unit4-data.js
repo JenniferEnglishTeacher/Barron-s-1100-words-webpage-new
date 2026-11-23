@@ -359,6 +359,90 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這支隊伍在下半場的表現顯得平庸乏味。",
         "added": true,
         "group": "hot-04"
+      },
+      {
+        "word": "generic",
+        "pos": "adj.",
+        "definition": "General; not specific to one thing.",
+        "chinese": "一般的；通用的",
+        "synonyms": "general, common, nonspecific",
+        "image": "shield",
+        "sentence": "The answer was too __________ to be useful.",
+        "translation": "這個答案太籠統，派不上用場。",
+        "lookup": {
+          "english": "General; not specific to one thing.",
+          "chinese": "一般的；通用的"
+        },
+        "advSentence": "Generic feedback such as \"good job\" does little to help students improve their writing.",
+        "advTranslation": "像「做得好」這種籠統的回饋，對學生改善寫作幫助不大。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tcivs-vs"
+        ]
+      },
+      {
+        "word": "generically",
+        "pos": "adv.",
+        "definition": "In a general way, not specific.",
+        "chinese": "一般地；概括地",
+        "synonyms": "generally, broadly, commonly",
+        "image": "shield",
+        "sentence": "__________ produced drugs are cheaper.",
+        "translation": "學名藥（非品牌藥）比較便宜。",
+        "lookup": {
+          "english": "In a general way, not specific.",
+          "chinese": "一般地；概括地"
+        },
+        "advSentence": "The essay was written so generically that it could have described almost any city.",
+        "advTranslation": "這篇文章寫得太籠統，幾乎可以拿來形容任何一座城市。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
+      },
+      {
+        "word": "stultify",
+        "pos": "v.",
+        "definition": "To make someone feel bored or less able to think.",
+        "chinese": "使呆滯；使無效",
+        "synonyms": "dull, stifle, hamper",
+        "image": "shield",
+        "sentence": "Rote learning can __________ curiosity.",
+        "translation": "死記硬背會扼殺好奇心。",
+        "lookup": {
+          "english": "To make someone feel bored or less able to think.",
+          "chinese": "使呆滯；使無效"
+        },
+        "advSentence": "Endless test drills can stultify even the most inquisitive young minds.",
+        "advTranslation": "無止境的考試練習可能使最有好奇心的年輕心靈也變得呆滯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "uninteresting",
+        "pos": "adj.",
+        "definition": "Boring.",
+        "chinese": "無趣的",
+        "synonyms": "boring, dull, tedious",
+        "image": "shield",
+        "sentence": "The lecture was __________.",
+        "translation": "這堂課很無趣。",
+        "lookup": {
+          "english": "Boring.",
+          "chinese": "無趣的"
+        },
+        "advSentence": "The textbook made a fascinating period of history seem dull and uninteresting.",
+        "advTranslation": "這本課本把一段精彩的歷史寫得枯燥無趣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-kinmen-jh"
+        ]
       }
     ],
     "quiz": [
@@ -718,5 +802,21 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "uninspired": [
     "Lacking creativity, originality, or enthusiasm.",
     "缺乏靈感的;平庸的"
+  ],
+  "generic": [
+    "General; not specific to one thing.",
+    "一般的；通用的"
+  ],
+  "generically": [
+    "In a general way, not specific.",
+    "一般地；概括地"
+  ],
+  "stultify": [
+    "To make someone feel bored or less able to think.",
+    "使呆滯；使無效"
+  ],
+  "uninteresting": [
+    "Boring.",
+    "無趣的"
   ]
 });

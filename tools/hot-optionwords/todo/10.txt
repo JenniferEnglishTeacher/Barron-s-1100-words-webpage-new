@@ -1,0 +1,140 @@
+reincarnate [L99 v. 使轉世；使化身] :: Buddhists believe souls are reincarnated.
+ritual [L99 n. 儀式；慣例] :: Morning tea is my daily ritual.
+ritualistically [L99 adv. 儀式般地；例行公事地] :: He ritualistically checks his email every hour.
+shrine [L99 n. 神龕；聖祠] :: The shrine attracts many pilgrims.
+theology [L99 n. 神學] :: He studied theology at university.
+addendum [L100 n. 附錄；補遺] :: An addendum with new rules was attached to the contract.
+allegorical [L100 adj. 寓言的；諷喻的] :: Animal Farm is an allegorical story about political power.
+almanac [L100 n. 年鑑；曆書] :: Farmers once relied on the almanac to plan planting.
+antonym [L100 n. 反義字] :: "Hot" is the antonym of "cold."
+cabaret [L100 n. 歌舞表演；夜總會] :: She sang in a Paris cabaret.
+caption [L100 n. 圖說；字幕] :: Read the caption under each photo.
+catchy [L100 adj. 琅琅上口的] :: The song has a catchy chorus.
+ceramics [L100 n. 陶瓷製品] :: She studied ceramics in art school.
+choir [L100 n. 合唱團；唱詩班] :: She sings in the church choir.
+clause [L100 n. 子句；條款] :: The contract contains a confidentiality clause.
+code-switching [L100 n. 語碼轉換] :: Bilingual children often use code-switching.
+composition [L100 n. 作文；作曲；組成] :: The chemical composition of the soil was tested.
+decoding [L100 n. 解碼] :: Phonics helps young readers with decoding.
+dramatist [L100 n. 劇作家] :: Shakespeare is the most famous English dramatist.
+encoding [L100 n. 編碼] :: Encoding new words in memory takes repetition.
+frieze [L100 n. （建築）飾帶] :: A carved frieze runs around the temple.
+handicraft [L100 n. 手工藝品] :: The market sells local handicrafts.
+heteronym [L100 n. 同形異音異義字] :: "Lead" (metal) and "lead" (guide) are heteronyms.
+illustration [L100 n. 插圖；例證] :: The book has beautiful illustrations.
+imagery [L100 n. 意象] :: The poem uses vivid imagery.
+indent [L100 v. 縮排] :: Indent the first line of each paragraph.
+inflect [L100 v. （字形）屈折變化] :: Latin verbs inflect for person and tense.
+interlanguage [L100 n. 中介語] :: Errors reveal a learner's interlanguage.
+jot [L100 v. 草草記下] :: Jot down any questions you have.
+literary [L100 adj. 文學的] :: She enjoys literary novels.
+manuscript [L100 n. 手稿；原稿] :: The manuscript was sent to the publisher.
+modal [L100 adj./n. 情態（動詞）] :: "Should" is a modal verb.
+nonfiction [L100 n. 非小說類作品] :: She prefers nonfiction to novels.
+notation [L100 n. 符號；記號法] :: Musical notation is hard to read at first.
+novelist [L100 n. 小說家] :: The novelist won a major prize.
+phonology [L100 n. 音韻學] :: Phonology studies the sound patterns of language.
+pictorial [L100 adj. 圖畫的；以圖片表現的] :: The book is a pictorial history of Taipei.
+portray [L100 v. 描繪；扮演] :: The film portrays life in 1950s Taipei.
+predicate [L100 n. 謂語；述語] :: In "She runs," "runs" is the predicate.
+prefix [L100 n. 字首] :: The root ten or tain, derived from the Latin word tenere ("to hold on"), can be combined with prefixes, suffixes, and other roots to form many English words.
+protagonist [L100 n. 主角] :: The protagonist faces many challenges.
+recitative [L100 n. 宣敘調] :: What would be a fairly long speech in a play is often presented as a recitative in an opera, instead of narration.
+representation [L100 n. 表現；代表] :: Women need more representation in government.
+semiology [L100 n. 符號學] :: Semiology studies signs and symbols.
+signifier [L100 n. 符號；能指] :: In linguistics, a word is a signifier.
+simile [L100 n. 明喻] :: In the Life of Addison, Johnson wrote: "A simile may be compared to lines converging at a point, and is more excellent as the line approach from greater distance." It usually uses "like" or "as" to state something.
+synonym [L100 n. 同義字] :: "Big" and "large" are synonyms.
+tableau [L100 n. 場面；畫面] :: The students created a living tableau.
+tapestry [L100 n. 掛毯；錯綜交織的整體] :: The city is a tapestry of cultures.
+terminology [L100 n. 術語] :: Medical terminology is hard to learn.
+thematic [L100 adj. 主題的] :: The course uses a thematic approach.
+unabridged [L100 adj. 未刪節的] :: Hugo's "Les Miserables" published by Signet is the only completely unabridged paperback edition available today.
+verbification [L100 n. 動詞化（名詞轉作動詞）] :: "To google" is an example of verbification.
+vocative [L100 adj. 呼格的] :: In "John, come here," John is vocative.
+accredited [L101 adj. 經認可的；獲授權的] :: Only accredited journalists may enter the press room.
+archeologist [L101 n. 考古學家] :: The archeologist uncovered pottery from the Bronze Age.
+astrophysicist [L101 n. 天體物理學家] :: The astrophysicist studies black holes.
+citation [L101 n. 引用；嘉獎] :: Every essay must include citations.
+credential [L101 n. 資格；資歷] :: She has strong academic credentials.
+dialectic [L101 n. 辯證法] :: Hegel's dialectic moves from thesis to antithesis.
+ecologist [L101 n. 生態學家] :: Ecologists study how organisms interact.
+enroll [L101 v. 註冊；入學] :: One common practice for identifying language minority students is to send a language survey to newly enrolled students' parents or guardians, asking them about language use in their homes.
+epistemology [L101 n. 認識論；知識論] :: Epistemology asks how we know what we know.
+facilitator [L101 n. 引導者；促進者] :: In this lesson, the teacher acts as a facilitator.
+hermeneutic [L101 adj. 詮釋的；解釋學的] :: A hermeneutic approach focuses on meaning.
+homoscedasticity [L101 n. 變異數同質性] :: The test assumes homoscedasticity.
+humanistic [L101 adj. 人文主義的] :: Humanistic teaching values students' feelings.
+informational [L101 adj. 資訊性的] :: Read the informational text and answer the questions.
+methodological [L101 adj. 方法論的] :: The study has methodological problems.
+module [L101 n. 單元；模組] :: Each module ends with a quiz.
+ontological [L101 adj. 本體論的；存在本質上的] :: The question is ontological rather than practical.
+orientation [L101 n. 新生訓練；方向] :: New students attend an orientation.
+qualification [L101 n. 資格；學歷] :: She has a teaching qualification.
+sabbatical [L101 n. 休假研究期；休假年] :: The professor is on sabbatical.
+scholastic [L101 adj. 學校的；學業的] :: Scholastic achievement isn't everything.
+bounce [L102 v. 彈跳；反彈] :: The ball bounced off the wall.
+brawn [L102 n. 體力；肌肉] :: The job requires brains as well as brawn.
+cascade [L102 v. 傾瀉；如瀑布般落下] :: Water cascaded down the rocks.
+circumduction [L102 n. 環轉運動；繞行] :: Arm circles are an example of circumduction.
+convulse [L102 v. 劇烈抽搐；震動] :: The audience convulsed with laughter.
+dab [L102 v. 輕觸；輕拍] NEED_S1 :: She dabbed her eyes with a tissue.
+fiddle [L102 v. 擺弄；亂動] NEED_S1 :: Stop fiddling with your pen.
+fidget [L102 v. 坐立不安；煩躁地動] :: The children fidgeted during the long speech.
+flap [L102 v. 拍動] NEED_S1 :: The bird flapped its wings.
+flip [L102 v. 翻轉] :: Flip the pancake when bubbles appear.
+flutter [L102 v. 拍動；飄動] :: Flags fluttered in the wind.
+glance [L102 v. 瞥一眼] :: She glanced at her watch.
+glide [L102 v. 滑行；滑翔] :: The eagle glided over the valley.
+grind [L102 v. 磨碎；苦幹] :: Grind the coffee beans just before brewing.
+grope [L102 v. 摸索] NEED_S1 :: Much to our surprise, there is an indirect technique for planet-hunting astronomers that may allow them, for the first time, to quest for the chemical signs of life and prevent themselves from the glare of stars when groping fortheir prey.
+gyrate [L102 v. 旋轉；迴旋] :: The dancers gyrated to the music.
+hover [L102 v. 盤旋；徘徊] :: A helicopter hovered above the building.
+leap [L102 v./n. 跳躍；飛躍] :: Look before you leap.
+nudge [L102 v. 輕推；推動] :: She nudged me to stop talking.
+ooze [L102 v. 滲出；流露] :: Blood oozed from the cut.
+paddle [L102 v. 划槳；涉水] :: We paddled across the lake.
+peck [L102 v. 啄；輕吻] :: The hen pecked at the grain.
+posture [L102 n. 姿勢] :: Good posture prevents back pain.
+seep [L102 v. 滲出；滲漏] :: Water seeped into the basement.
+sling [L102 v./n. 拋；吊帶] :: His arm was in a sling.
+stare [L102 v. 凝視；盯著看] :: Don't stare at people.
+swerve [L102 v. 急轉彎] :: The bus swerved off a mountain road into a gorge, killing some and injuring most of its passengers.
+swing [L102 v. 擺動；轉變] :: By the time evening fell, preparations for the cultural festival were in full swing, with volunteers bustling between booths, musicians rehearsing on stage, and food vendors drawing long, eager lines.
+tramp [L102 v./n. 重步行走；流浪者] :: We tramped through the mud.
+trample [L102 v. 踐踏] :: Don't trample the flowers.
+tremor [L102 n. 震顫；輕微地震] :: A small tremor shook the building.
+tug [L102 v./n. 用力拉] NEED_S1 :: The child tugged at her mother's sleeve.
+twirl [L102 v. 旋轉；捻弄] :: She twirled in her new dress.
+twist [L102 v. 扭轉；曲解] :: He twisted his ankle.
+twitch [L102 v. 抽動] :: Her eye twitched with stress.
+veer [L102 v. 突然轉向] :: The car veered off the road.
+vibrate [L102 v. 振動] :: My phone vibrated.
+waddle [L102 v. 蹣跚而行] :: Ducks waddled across the road.
+wade [L102 v. 涉水；費力處理] :: We waded across the stream.
+waft [L102 v. 飄送] :: The smell of coffee wafted from the kitchen.
+whisk [L102 v. 迅速帶走；拂；攪打] :: The guards whisked the president away.
+wrench [L102 v. 猛扭；扭傷] :: He wrenched his knee.
+writhe [L102 v. （因痛苦）扭動] :: The patient writhed in bed despite the tranquilizer he just took.
+alter [L103 v. 改變；修改] :: The tailor altered the sleeves of my jacket.
+amend [L103 v. 修正；修改] :: Congress voted to amend the constitution.
+bleach [L103 v. 漂白] :: Rising sea temperatures bleach coral reefs.
+lieu [L103 n. 代替] :: We received vouchers in lieu of cash.
+modification [L103 n. 修改；改良] :: The design needs some modification.
+naturalize [L103 v. 使歸化；使自然化] :: The plant has naturalized in Taiwan.
+pivot [L103 v./n. 旋轉；轉向；樞紐] :: The company pivoted to online sales.
+recalibration [L103 n. 重新調整] :: The policy needs recalibration.
+reconfigure [L103 v. 重新配置；重塑] :: We reconfigured the classroom for group work.
+remodel [L103 v. 改造；重新塑造] :: We remodeled the kitchen.
+render [L103 v. 描繪；使成為] :: The artist was able to render the bustling cityscape with such meticulous detail that every building, shadow, and reflection looked almost lifelike.
+repurposing [L103 n. 改作他用] :: Repurposing old buildings saves resources.
+revamp [L103 v. 改進；翻新] :: The Public Television Service said it would invite experts to advise on a revamp of its PeoPo online platform after a woman posted a controversial video.
+reverse [L103 v. 推翻；反轉] :: On September 18, 2014, some 300 years after the fateful marriage, the people of Scotland will finally have their change to reverse that move in a ground-breaking referendum to decide to unite with England or not.
+substitution [L103 n. 替代；替換] :: Substitution drills help students practice grammar.
+swap [L103 v. 交換] :: Let's swap seats.
+tweak [L103 v. 微調] :: We tweaked the lesson plan.
+wean [L103 v. 斷奶；使戒除] :: Try to wean yourself off sugar.
+additionally [L104 adv. 此外；另外] :: Additionally, the plan will create two hundred new jobs.
+alongside [L104 prep. 在旁邊；與…一起] :: Volunteers worked alongside the firefighters.
+alternatively [L104 adv. 或者；另一個選擇是] :: You can take the bus; alternatively, you can walk.
+causal [L104 adj. 因果的] :: There is no proven causal link between the two.

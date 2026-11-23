@@ -207,6 +207,218 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她的書架上擺滿了各式珍貴的初版書。",
         "added": true,
         "group": "hot-20"
+      },
+      {
+        "word": "considerable",
+        "pos": "adj.",
+        "definition": "Large in amount or degree.",
+        "chinese": "相當大的；可觀的",
+        "synonyms": "substantial, significant, sizable",
+        "image": "shield",
+        "sentence": "The project required __________ effort.",
+        "translation": "這個計畫需要相當大的努力。",
+        "lookup": {
+          "english": "Large in amount or degree.",
+          "chinese": "相當大的；可觀的"
+        },
+        "advSentence": "The renovation cost a considerable sum, but it doubled the library's space.",
+        "advTranslation": "整修花了一大筆錢，但讓圖書館空間增加了一倍。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh",
+          "102-taipei-jh"
+        ]
+      },
+      {
+        "word": "immeasurably",
+        "pos": "adv.",
+        "definition": "To an extent too great to be measured.",
+        "chinese": "無可估量地；極大地",
+        "synonyms": "enormously, vastly, infinitely",
+        "image": "shield",
+        "sentence": "Her advice helped me __________.",
+        "translation": "她的建議對我幫助極大。",
+        "lookup": {
+          "english": "To an extent too great to be measured.",
+          "chinese": "無可估量地；極大地"
+        },
+        "advSentence": "The new subway line has improved life in the suburbs immeasurably.",
+        "advTranslation": "新的捷運線大大改善了郊區的生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "incalculable",
+        "pos": "adj.",
+        "definition": "Too great to be measured or counted.",
+        "chinese": "無法估量的；難以計算的",
+        "synonyms": "immeasurable, countless, enormous",
+        "image": "shield",
+        "sentence": "The flood caused __________ damage.",
+        "translation": "洪水造成無法估量的損害。",
+        "lookup": {
+          "english": "Too great to be measured or counted.",
+          "chinese": "無法估量的；難以計算的"
+        },
+        "advSentence": "A good teacher's influence on a child's life is incalculable.",
+        "advTranslation": "一位好老師對孩子一生的影響無法估量。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-2-sh"
+        ]
+      },
+      {
+        "word": "limitless",
+        "pos": "adj.",
+        "definition": "Without any limits.",
+        "chinese": "無限的",
+        "synonyms": "boundless, infinite, unlimited",
+        "image": "shield",
+        "sentence": "Modern offices are constructed with an apparently __________ range of materials and design.",
+        "translation": "現代辦公室用看似無限多樣的材料和設計建造而成。",
+        "lookup": {
+          "english": "Without any limits.",
+          "chinese": "無限的"
+        },
+        "advSentence": "Children's imagination seems limitless when they are given time to play.",
+        "advTranslation": "給孩子時間玩耍時，他們的想像力似乎無窮無盡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "luxuriant",
+        "pos": "adj.",
+        "definition": "Growing thickly and healthily.",
+        "chinese": "茂盛的；繁茂的",
+        "synonyms": "lush, abundant, thick",
+        "image": "shield",
+        "sentence": "After the long winter, the valley was filled with __________ vegetation, as the melting snow provided ample water for the spring bloom.",
+        "translation": "漫長的冬天過後，融雪提供充足的水分，山谷裡長滿了茂盛的植物。",
+        "lookup": {
+          "english": "Growing thickly and healthily.",
+          "chinese": "茂盛的；繁茂的"
+        },
+        "advSentence": "She was admired for her luxuriant black hair.",
+        "advTranslation": "她一頭濃密烏黑的秀髮令人羨慕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "massively",
+        "pos": "adv.",
+        "definition": "To a very large degree.",
+        "chinese": "大規模地；極大地",
+        "synonyms": "hugely, enormously, vastly",
+        "image": "shield",
+        "sentence": "The project was __________ successful.",
+        "translation": "這個計畫極為成功。",
+        "lookup": {
+          "english": "To a very large degree.",
+          "chinese": "大規模地；極大地"
+        },
+        "advSentence": "The concert was massively oversold, leaving hundreds of fans outside.",
+        "advTranslation": "演唱會門票嚴重超賣，數百名歌迷被擋在場外。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "populous",
+        "pos": "adj.",
+        "definition": "Having a large number of people living there.",
+        "chinese": "人口稠密的",
+        "synonyms": "crowded, densely populated, teeming",
+        "image": "shield",
+        "sentence": "India is a __________ country.",
+        "translation": "印度是一個人口眾多的國家。",
+        "lookup": {
+          "english": "Having a large number of people living there.",
+          "chinese": "人口稠密的"
+        },
+        "advSentence": "Taipei is the most populous city in northern Taiwan.",
+        "advTranslation": "臺北是臺灣北部人口最多的城市。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "sprawling",
+        "pos": "adj.",
+        "definition": "Spreading out over a large area in an untidy way.",
+        "chinese": "蔓延的；雜亂延伸的",
+        "synonyms": "spreading, extensive, rambling",
+        "image": "shield",
+        "sentence": "Los Angeles is a __________ city.",
+        "translation": "洛杉磯是一座不斷向外蔓延的城市。",
+        "lookup": {
+          "english": "Spreading out over a large area in an untidy way.",
+          "chinese": "蔓延的；雜亂延伸的"
+        },
+        "advSentence": "The sprawling campus is so large that students ride bikes between classes.",
+        "advTranslation": "校園範圍遼闊，學生要騎腳踏車往返上課。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh",
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "suffice",
+        "pos": "v.",
+        "definition": "To be enough.",
+        "chinese": "足夠；滿足需要",
+        "synonyms": "be enough, satisfy, serve",
+        "image": "shield",
+        "sentence": "A short answer will __________.",
+        "translation": "簡短的回答就足夠了。",
+        "lookup": {
+          "english": "To be enough.",
+          "chinese": "足夠；滿足需要"
+        },
+        "advSentence": "A brief apology will not suffice; the company must compensate the victims.",
+        "advTranslation": "簡短的道歉是不夠的，公司必須賠償受害者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "swarm",
+        "pos": "n./v.",
+        "definition": "A large moving group of insects or people.",
+        "chinese": "一大群；蜂擁",
+        "synonyms": "crowd, throng, flock",
+        "image": "shield",
+        "sentence": "A __________ of bees attacked the hikers.",
+        "translation": "一大群蜜蜂攻擊了登山客。",
+        "lookup": {
+          "english": "A large moving group of insects or people.",
+          "chinese": "一大群；蜂擁"
+        },
+        "advSentence": "Fans swarm around the singer whenever she leaves the studio.",
+        "advTranslation": "每當那位歌手離開錄音室，歌迷就蜂擁而上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
       }
     ],
     "quiz": [
@@ -410,5 +622,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "cornucopia": [
     "An abundant supply of good things.",
     "豐饒之角;豐富多樣"
+  ],
+  "considerable": [
+    "Large in amount or degree.",
+    "相當大的；可觀的"
+  ],
+  "immeasurably": [
+    "To an extent too great to be measured.",
+    "無可估量地；極大地"
+  ],
+  "incalculable": [
+    "Too great to be measured or counted.",
+    "無法估量的；難以計算的"
+  ],
+  "limitless": [
+    "Without any limits.",
+    "無限的"
+  ],
+  "luxuriant": [
+    "Growing thickly and healthily.",
+    "茂盛的；繁茂的"
+  ],
+  "massively": [
+    "To a very large degree.",
+    "大規模地；極大地"
+  ],
+  "populous": [
+    "Having a large number of people living there.",
+    "人口稠密的"
+  ],
+  "sprawling": [
+    "Spreading out over a large area in an untidy way.",
+    "蔓延的；雜亂延伸的"
+  ],
+  "suffice": [
+    "To be enough.",
+    "足夠；滿足需要"
+  ],
+  "swarm": [
+    "A large moving group of insects or people.",
+    "一大群；蜂擁"
   ]
 });

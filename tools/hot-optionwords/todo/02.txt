@@ -1,0 +1,140 @@
+confer [L19 v. 賦予；授予] NEED_S1 :: The university conferred an honorary degree on her.
+felicitate [L19 v. 祝賀] :: The mayor felicitated the winners.
+guerdon [L19 n. 報酬；獎賞] :: Fame was the guerdon of his labor.
+hail [L19 v. 讚揚；招呼] :: The film was hailed as a masterpiece.
+plaudit [L19 n. 讚揚；喝采] :: Her performance won plaudits from critics.
+prestige [L19 n. 聲望；威望] :: The university has great prestige.
+promotion [L19 n. 升遷；促銷] :: He got a promotion last month.
+rave [L19 v. 讚不絕口] NEED_S1 :: A California-based brand has developed a revolutionary new way to reap the benefits of apple cider vinegar while enjoying it at the same time. The new product has become a Worldwide Health Essential, and that's why millions of people are raving about it.
+recognition [L19 n. 辨識；肯定] :: The widespread use of facial recognition technology in public surveillance has sparked intense debates over the balance between national security and personal privacy.
+renowned [L19 adj. 有名的；著名的] :: She is a renowned scientist.
+revalorize [L19 v. 重新評價；使增值] :: We need to revalorize vocational education.
+tout [L19 v. 吹捧；大肆宣傳] :: The drug was touted as a miracle cure.
+worthiness [L19 n. 價值；值得] :: The committee judged the worthiness of each project.
+worthy [L19 adj. 值得的；可敬的] :: The idea is worthy of consideration.
+considerable [L20 adj. 相當大的；可觀的] :: The project required considerable effort.
+immeasurably [L20 adv. 無可估量地；極大地] :: Her advice helped me immeasurably.
+incalculable [L20 adj. 無法估量的；難以計算的] :: The flood caused incalculable damage.
+limitless [L20 adj. 無限的] :: Modern offices are constructed with an apparently limitless range of materials and design.
+luxuriant [L20 adj. 茂盛的；繁茂的] :: After the long winter, the valley was filled with luxuriant vegetation, as the melting snow provided ample water for the spring bloom.
+massively [L20 adv. 大規模地；極大地] :: The project was massively successful.
+populous [L20 adj. 人口稠密的] :: India is a populous country.
+sprawling [L20 adj. 蔓延的；雜亂延伸的] :: Los Angeles is a sprawling city.
+suffice [L20 v. 足夠；滿足需要] :: A short answer will suffice.
+swarm [L20 n./v. 一大群；蜂擁] :: A swarm of bees attacked the hikers.
+acidulate [L21 v. 使帶酸味] :: Acidulate the water with lemon juice to stop the apples from browning.
+braise [L21 v. 燉；燜] :: Braise the beef in red wine for three hours.
+carboholic [L21 n. 嗜吃澱粉的人] :: The bakery keeper became an eventual carboholic after eating bread almost every day.
+devour [L21 v. 狼吞虎嚥；貪婪地閱讀] :: She devoured the novel in one night.
+dough [L21 n. 麵團] :: Knead the dough for ten minutes.
+edible [L21 adj. 可食用的] :: Some flowers are edible.
+escalope [L21 n. 薄肉片] :: She ordered a veal escalope with lemon.
+garnish [L21 v. （在菜上）裝飾點綴] :: You can garnish the fish with lemon slices before serving the dish on the table.
+gastronomic [L21 adj. 美食的；烹飪的] :: Tainan is a gastronomic paradise.
+gastronomy [L21 n. 美食學；烹飪藝術] :: The chef considers the best place in the world to eat seafood is where you can reach eye-witness-live seafood. He says the three focal conditions for great gastronomy and in seafood are immutable: freshness, freshness and freshness.
+grease [L21 n. 油脂] :: Clean the grease off the stove.
+grill [L21 v. 烤；盤問] :: Police grilled the suspect for hours.
+gulp [L21 v. 狼吞虎嚥] :: He gulped down his coffee.
+harvest [L21 v. 收割；收穫] :: Farmers harvest rice twice a year.
+ingestion [L21 n. 攝取；吞食] :: The ingestion of plastic harms sea birds.
+nutritious [L21 adj. 有營養的] :: Vegetables are nutritious.
+pickled [L21 adj. 醃漬的] :: She served pickled vegetables.
+quench [L21 v. 解渴；熄滅] :: Water quenches thirst.
+repast [L21 n. 餐；飯食] :: They enjoyed a light repast.
+savour [L21 v. 品味；享受] :: Savour every moment.
+stew [L21 v./n. 燉；燉菜] :: Grandma made beef stew.
+wolf [L21 v. 狼吞虎嚥] :: Those who cry wolf may find that people will not come to their aid when they may truly be in trouble.
+yeast [L21 n. 酵母] :: Add yeast to the dough.
+forethought [L22 n. 深謀遠慮；事先考慮] :: With a little forethought, we avoided the problem.
+guardedly [L22 adv. 謹慎地；有保留地] :: She spoke guardedly about her plans.
+hasty [L22 adj. 草率的；倉促的] :: Don't make a hasty decision.
+hyper-vigilance [L22 n. 過度警覺] :: Trauma can lead to hyper-vigilance.
+impulse [L22 n. 衝動] :: She bought the dress on impulse.
+monitor [L22 v. 監控；監測] :: Teachers monitor student progress.
+patrol [L22 v./n. 巡邏] :: Police patrol the streets at night.
+pernickety [L22 adj. 吹毛求疵的；過分講究的] :: It seems to me that we are being unnecessarily pernickety on this point.
+precaution [L22 n. 預防措施] :: Take precautions against fire.
+preemptive [L22 adj. 先發制人的；預防性的] :: The country launched a preemptive strike.
+prevention [L22 n. 預防] :: Prevention is better than cure.
+preventive [L22 adj. 預防的] :: If you live in an earthquake zone, it is important to take preventive measures to protect your family and home.
+prophylactic [L22 adj. 預防（疾病）的] :: Some dentists are convinced that the addition of fluoride in water is ineffective as a prophylactic treatment.
+reckless [L22 adj. 魯莽的] :: Too eager to impress his peers, the boy decided to scale the brick walls in a reckless move.
+selective [L22 adj. 有選擇性的] :: The school is very selective.
+sentinel [L22 n. 哨兵；守護者] :: As darkness descended upon the land, the lighthouse keeper lit the beacon atop the rocky cliffs, transforming it into a(n) sentinel of the night. Its piercing light cut through the darkness, guiding ships safely through treacherous waters and warning them of impending danger.
+strategically [L22 adv. 有策略地] :: The store is strategically located.
+afield [L23 adv. 在遠處；離開正軌] :: Students came from as far afield as Kenya and Peru.
+ephemera [L23 n. 短暫之物；一時之物] :: The museum collects postcards and other ephemera.
+episodic [L23 adj. 偶發的；片段的] :: Episodic memory stores personal experiences.
+interim [L23 adj. 暫時的；過渡期的] :: An interim principal was appointed.
+interlude [L23 n. 插曲；間歇] :: The music played during the interlude.
+mutability [L23 n. 易變性；可變性] :: The mutability of language interests linguists.
+perishable [L23 adj. 易腐壞的] :: Keep perishable food in the fridge.
+provisional [L23 adj. 暫時的；臨時的] :: This is a provisional timetable.
+stray [L23 v./adj. 迷路；走失的] :: I tried to concentrate on my homework but my eyes kept straying away from the workbook.
+vanish [L23 v. 消失] :: The magician made the coin vanish.
+anonymity [L25 n. 匿名] :: The donor asked for anonymity.
+conclave [L25 n. 秘密會議] :: The cardinals met in conclave to elect a pope.
+eavesdrop [L25 v. 偷聽] :: Kensaku likes to eavesdrop when other people are speaking so he can improve his English listening skills.
+envelop [L25 v. 包圍；包住] :: Fog enveloped the city.
+espionage [L25 n. 間諜活動] :: He was arrested for industrial espionage.
+evade [L25 v. 迴避；逃避] :: Several reporters asked for information about the budget but the speaker evaded their questions.
+incognito [L25 adv. 隱姓埋名地；微服] :: The movie star traveled incognito.
+indiscreet [L25 adj. 輕率的；不謹慎的] :: It was indiscreet of her to share the secret.
+infiltrate [L25 v. 滲透；潛入] :: Spies infiltrated the government.
+insulate [L25 v. 使隔絕；隔熱] :: The walls are insulated against noise.
+lurk [L25 v. 潛伏；潛藏] :: Eighteen months after the lead pollution of tap water, though the government has declared the water safe to drink, parents are still fearful of lurking health problems, since their kids are still sick.
+mask [L25 v. 掩飾；遮蓋] :: He masked his fear with a smile.
+overhear [L25 v. 無意中聽到] :: Please don't be mistaken. I don't mean to overhear your conversation.
+parry [L25 v. 擋開；巧妙迴避] NEED_S1 :: She parried difficult questions.
+penetrate [L25 v. 穿透；滲透] :: Sunlight cannot penetrate the deep sea.
+prowl [L25 n. 徘徊覓食；四處搜尋（on the prowl）] :: Jack was on the prowl at Tops Supermarket, looking to fill his stomach with complimentary food samples.
+seclusion [L25 n. 隱居；隔絕] :: The writer lived in seclusion.
+secrecy [L25 n. 秘密；保密] :: The plan was made in great secrecy.
+solitude [L25 n. 獨處；孤獨] :: She enjoys the solitude of the mountains.
+unstated [L25 adj. 未明說的] :: There was an unstated rule about dress.
+veil [L25 v./n. 遮蓋；面紗] :: His words were a thinly veiled threat.
+hermit [L26 n. 隱士] :: He lived like a hermit in the mountains.
+kibitzer [L26 n. 愛在旁出主意的人] :: The kibitzer kept telling the players what to do.
+cipher [L27 n. 無足輕重的人；密碼] :: Although he bore the title of chairman, insiders recognized that he was merely a cipher, a powerless figure manipulated by influential financiers who dictated every decision.
+downplay [L27 v. 淡化；輕描淡寫] :: The company downplayed the risks.
+dross [L27 n. 糟粕；渣滓] :: Most of the posts online are dross.
+futile [L27 adj. 徒勞的；無用的] :: All attempts to save the ship were futile.
+grist [L27 n. （磨坊的）穀物；有用之物] :: I never refuse odd jobs to supplement my income. It's all grist to the mill.
+inferior [L27 adj. 較差的；低等的] :: The copy is inferior to the original.
+intrusive [L27 adj. 侵擾的；侵犯隱私的] :: The reporters' questions were intrusive.
+marginalized [L27 adj. 被邊緣化的] :: Schools should support marginalized students.
+shrift [L27 n. （short shrift）草率對待；不予理會] :: Her complaint was given short shrift.
+token [L27 n./adj. 象徵；象徵性的] :: He made a token effort.
+understate [L27 v. 輕描淡寫；少說] :: The report understated the risks.
+aptly [L28 adv. 恰當地] :: The restaurant is aptly named "Ocean View."
+awareness [L28 n. 意識；察覺] :: The campaign raised awareness of mental health.
+comprehend [L28 v. 理解] :: He could not comprehend why she left.
+faculty [L28 n. （心智）官能；能力] NEED_S1 :: She kept her mental faculties until the age of 100.
+foresee [L28 v. 預見] NEED_S1 :: No one foresaw the economic crisis.
+hindsight [L28 n. 事後之明] :: In hindsight, we should have left earlier.
+inquisitive [L28 adj. 好奇的；愛追問的] :: Inquisitive children ask many questions.
+instinctive [L28 adj. 本能的；直覺的] :: Fear is an instinctive response.
+instinctively [L28 adv. 本能地] :: She instinctively pulled her hand back.
+introspect [L28 v. 自省；內省] :: Journaling helps students introspect.
+plumb [L28 v. 探究；深入了解] :: The novel plumbs the depths of human sorrow.
+pragmatism [L28 n. 實用主義；務實] :: Her pragmatism helped solve the crisis.
+precocity [L28 n. 早熟；早慧] :: Mozart's precocity amazed audiences.
+reflection [L28 n. 反思；倒影] :: Reflection is key to learning.
+rumination [L28 n. 沉思；反芻] :: Rumination on mistakes can lead to anxiety.
+sanely [L28 adv. 理智地] :: When you are at an intersection of life, you must sanely choose which road to follow in the coming year.
+ambitious [L31 adj. 有雄心的] :: The ambitious student plans to study medicine.
+motive [L31 n. 動機] :: Police could find no motive for the crime.
+objective [L31 n./adj. 目標；客觀的] :: The lesson objective is clear.
+outlook [L31 n. 觀點；前景] :: She has a positive outlook on life.
+pursue [L31 v. 追求；追捕] :: She pursued a career in medicine.
+adopt [L32 v. 採用；收養] :: The school adopted a new grading policy.
+appraisal [L33 n. 評估；鑑價] :: Many real estate brokers render free service regarding customers' property appraisals.
+checkered [L33 adj. （經歷）起起落落的；毀譽參半的] :: The former ruler's checkered career was marked by dramatic political reforms as well as allegations of systemic corruption, leading historians to conflicting interpretations of his legacy.
+disposition [L33 n. 性情；傾向；意向] :: She has a cheerful disposition.
+gauge [L33 v. 測量；評估] :: Teachers use quizzes to gauge understanding.
+revaluation [L33 n. 重新評估] :: A revaluation of the currency raised prices.
+subjective [L33 adj. 主觀的] :: Taste in music is subjective.
+tendency [L33 n. 傾向；趨勢] :: Experts have long suspected that sunlight has powerful and perhaps conflicting effects on the body's tendency to develop a variety of diseases, including cancer.
+anecdotal [L34 adj. 傳聞的；軼事的（非實證的）] :: Her research findings were heavily criticized by peers because they were based entirely on anecdotal observations rather than a robust, statistically significant sample size.
+characteristic [L34 n. 特徵；特色] :: Curiosity is a characteristic of good scientists.
+cite [L34 v. 引用；舉出] :: She cited three studies to support her point.

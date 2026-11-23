@@ -309,6 +309,116 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他信守自己許下的每一個承諾,證明了自己值得信賴。",
         "added": true,
         "group": "sat-honesty"
+      },
+      {
+        "word": "credibility",
+        "pos": "n.",
+        "definition": "The quality of being believed or trusted.",
+        "chinese": "可信度",
+        "synonyms": "believability, trustworthiness, reliability",
+        "image": "shield",
+        "sentence": "The scandal damaged his __________.",
+        "translation": "這起醜聞損害了他的可信度。",
+        "lookup": {
+          "english": "The quality of being believed or trusted.",
+          "chinese": "可信度"
+        },
+        "advSentence": "Citing reliable sources adds credibility to your argument.",
+        "advTranslation": "引用可靠的來源能增加論點的可信度。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "reliability",
+        "pos": "n.",
+        "definition": "The quality of giving the same results each time.",
+        "chinese": "可靠性；信度",
+        "synonyms": "dependability, trustworthiness, consistency",
+        "image": "shield",
+        "sentence": "Test __________ is important.",
+        "translation": "測驗的信度很重要。",
+        "lookup": {
+          "english": "The quality of giving the same results each time.",
+          "chinese": "可靠性；信度"
+        },
+        "advSentence": "Customers chose the brand for its reliability rather than its style.",
+        "advTranslation": "顧客選擇這個品牌是因為它可靠，而不是因為它的風格。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh"
+        ]
+      },
+      {
+        "word": "transparent",
+        "pos": "adj.",
+        "definition": "Easy to see through or understand.",
+        "chinese": "透明的；顯而易見的",
+        "synonyms": "clear, see-through, open",
+        "image": "shield",
+        "sentence": "The government should be __________.",
+        "translation": "政府應該公開透明。",
+        "lookup": {
+          "english": "Easy to see through or understand.",
+          "chinese": "透明的；顯而易見的"
+        },
+        "advSentence": "The jellyfish's transparent body makes it almost invisible in the water.",
+        "advTranslation": "水母透明的身體讓牠在水中幾乎看不見。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae",
+          "104-cr-jh",
+          "115-cdsh-sh",
+          "115-sksc-vs",
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "unfeigned",
+        "pos": "adj.",
+        "definition": "Sincere; not pretended.",
+        "chinese": "真誠的；非假裝的",
+        "synonyms": "genuine, sincere, heartfelt",
+        "image": "shield",
+        "sentence": "She showed __________ delight.",
+        "translation": "她流露出真誠的喜悅。",
+        "lookup": {
+          "english": "Sincere; not pretended.",
+          "chinese": "真誠的；非假裝的"
+        },
+        "advSentence": "The children greeted their grandmother with unfeigned joy.",
+        "advTranslation": "孩子們以發自內心的喜悅迎接奶奶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "unvarnished",
+        "pos": "adj.",
+        "definition": "Plain and honest, without anything added to make it seem better.",
+        "chinese": "不加掩飾的；坦率的",
+        "synonyms": "plain, honest, straightforward",
+        "image": "shield",
+        "sentence": "All the citizens urged the merchants to reveal the __________ truth in relation to the production of illegal cooking oil.",
+        "translation": "所有市民敦促商人說出生產黑心食用油的真相。",
+        "lookup": {
+          "english": "Plain and honest, without anything added to make it seem better.",
+          "chinese": "不加掩飾的；坦率的"
+        },
+        "advSentence": "The documentary presents an unvarnished picture of life in the slums.",
+        "advTranslation": "這部紀錄片毫不粉飾地呈現貧民窟的生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
       }
     ],
     "group": "sat-honesty",
@@ -386,5 +496,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "trustworthy": [
     "Deserving of trust and confidence.",
     "值得信賴的"
+  ],
+  "credibility": [
+    "The quality of being believed or trusted.",
+    "可信度"
+  ],
+  "reliability": [
+    "The quality of giving the same results each time.",
+    "可靠性；信度"
+  ],
+  "transparent": [
+    "Easy to see through or understand.",
+    "透明的；顯而易見的"
+  ],
+  "unfeigned": [
+    "Sincere; not pretended.",
+    "真誠的；非假裝的"
+  ],
+  "unvarnished": [
+    "Plain and honest, without anything added to make it seem better.",
+    "不加掩飾的；坦率的"
   ]
 });

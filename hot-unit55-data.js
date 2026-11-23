@@ -129,6 +129,112 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她以純粹的信念談論她對未來的規劃。",
         "added": true,
         "group": "sat-genuine"
+      },
+      {
+        "word": "inviolate",
+        "pos": "adj.",
+        "definition": "Not broken, attacked or harmed.",
+        "chinese": "不受侵犯的",
+        "synonyms": "untouched, sacred, intact",
+        "image": "shield",
+        "sentence": "The right to privacy should be __________.",
+        "translation": "隱私權應該神聖不可侵犯。",
+        "lookup": {
+          "english": "Not broken, attacked or harmed.",
+          "chinese": "不受侵犯的"
+        },
+        "advSentence": "For the monks, the silence of the temple was inviolate.",
+        "advTranslation": "對僧侶而言，寺廟的寧靜是不容侵犯的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-ntpc-jh"
+        ]
+      },
+      {
+        "word": "justifiably",
+        "pos": "adv.",
+        "definition": "In a way that has a good reason.",
+        "chinese": "合理地；有正當理由地",
+        "synonyms": "rightly, reasonably, legitimately",
+        "image": "shield",
+        "sentence": "She is __________ proud of her work.",
+        "translation": "她對自己的作品感到自豪是理所當然的。",
+        "lookup": {
+          "english": "In a way that has a good reason.",
+          "chinese": "合理地；有正當理由地"
+        },
+        "advSentence": "Residents were justifiably angry about the unsafe water.",
+        "advTranslation": "居民對不安全的飲水感到憤怒是合情合理的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-1-sh"
+        ]
+      },
+      {
+        "word": "legitimacy",
+        "pos": "n.",
+        "definition": "The quality of being lawful or acceptable.",
+        "chinese": "正當性；合法性",
+        "synonyms": "legality, validity, lawfulness",
+        "image": "shield",
+        "sentence": "They questioned the __________ of the election.",
+        "translation": "他們質疑這場選舉的正當性。",
+        "lookup": {
+          "english": "The quality of being lawful or acceptable.",
+          "chinese": "正當性；合法性"
+        },
+        "advSentence": "The court's ruling gave legitimacy to same-sex marriage.",
+        "advTranslation": "法院的判決賦予同性婚姻合法性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-jh"
+        ]
+      },
+      {
+        "word": "legitimize",
+        "pos": "v.",
+        "definition": "To make something seem acceptable or legal.",
+        "chinese": "使合法化；使正當化",
+        "synonyms": "legalize, validate, authorize",
+        "image": "shield",
+        "sentence": "The vote __________d the new government.",
+        "translation": "投票結果讓新政府取得正當性。",
+        "lookup": {
+          "english": "To make something seem acceptable or legal.",
+          "chinese": "使合法化；使正當化"
+        },
+        "advSentence": "Celebrity endorsements can legitimize questionable products in the eyes of fans.",
+        "advTranslation": "名人代言可能讓可疑的產品在粉絲眼中顯得正當。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh"
+        ]
+      },
+      {
+        "word": "redeem",
+        "pos": "v.",
+        "definition": "To make up for faults; to exchange for something.",
+        "chinese": "彌補；贖回；兌換",
+        "synonyms": "make amends, exchange, rescue",
+        "image": "shield",
+        "sentence": "He __________d himself with a great goal.",
+        "translation": "他用一記漂亮的進球彌補了過錯。",
+        "lookup": {
+          "english": "To make up for faults; to exchange for something.",
+          "chinese": "彌補；贖回；兌換"
+        },
+        "advSentence": "You can redeem these points for free coffee.",
+        "advTranslation": "你可以用這些點數兌換免費咖啡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh",
+          "110-moe-sh"
+        ]
       }
     ],
     "group": "sat-genuine",
@@ -166,5 +272,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "pure": [
     "Not mixed with anything else; free from contamination.",
     "純粹的;純淨的"
+  ],
+  "inviolate": [
+    "Not broken, attacked or harmed.",
+    "不受侵犯的"
+  ],
+  "justifiably": [
+    "In a way that has a good reason.",
+    "合理地；有正當理由地"
+  ],
+  "legitimacy": [
+    "The quality of being lawful or acceptable.",
+    "正當性；合法性"
+  ],
+  "legitimize": [
+    "To make something seem acceptable or legal.",
+    "使合法化；使正當化"
+  ],
+  "redeem": [
+    "To make up for faults; to exchange for something.",
+    "彌補；贖回；兌換"
   ]
 });

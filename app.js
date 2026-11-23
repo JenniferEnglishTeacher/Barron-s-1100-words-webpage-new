@@ -351,7 +351,7 @@ function renderRootsWordList() {
       tab.className = "word-tab";
       tab.innerHTML = `<span class="wt-num"></span><span class="wt-word"></span><span class="wt-pos"></span><span class="wt-zh"></span>`;
       tab.querySelector(".wt-word").textContent = card.word;
-      if (SET === "hot" && card.added) { const star = document.createElement("i"); star.className = "wt-added"; star.title = "Added SAT synonym 新增同義字"; star.textContent = "★"; tab.querySelector(".wt-word").prepend(star); }
+      if (SET === "hot" && card.added) { const star = document.createElement("i"); star.className = "wt-added"; const tk = card.source === "tk"; star.title = tk ? "教甄考題選項字 Teacher-exam option word" : "Added SAT synonym 新增同義字"; star.textContent = tk ? "◆" : "★"; tab.querySelector(".wt-word").prepend(star); }
       tab.querySelector(".wt-pos").textContent = card.pos;
       tab.querySelector(".wt-zh").textContent = card.chinese;
       tab.addEventListener("click", () => {

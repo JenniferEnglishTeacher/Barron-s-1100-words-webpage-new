@@ -183,6 +183,133 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這部小說描述一位叛逆的青少年拒絕接受家族的價值觀。",
         "added": true,
         "group": "sat-betray"
+      },
+      {
+        "word": "betray",
+        "pos": "v.",
+        "definition": "To be disloyal to someone who trusts you.",
+        "chinese": "背叛；出賣",
+        "synonyms": "deceive, double-cross, sell out",
+        "image": "shield",
+        "sentence": "He felt __________d when his friend revealed his secret.",
+        "translation": "朋友洩露他的祕密時，他覺得被背叛了。",
+        "lookup": {
+          "english": "To be disloyal to someone who trusts you.",
+          "chinese": "背叛；出賣"
+        },
+        "advSentence": "Her trembling hands betrayed her nervousness.",
+        "advTranslation": "她顫抖的雙手洩露了她的緊張。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tysh-sh"
+        ]
+      },
+      {
+        "word": "breach",
+        "pos": "n.",
+        "definition": "The breaking of a law, rule, or agreement.",
+        "chinese": "違反；破口",
+        "synonyms": "violation, infringement, break",
+        "image": "shield",
+        "sentence": "The data __________ exposed millions of passwords.",
+        "translation": "資料外洩事件讓數百萬組密碼曝光。",
+        "lookup": {
+          "english": "The breaking of a law, rule, or agreement.",
+          "chinese": "違反；破口"
+        },
+        "advSentence": "Using company data for personal profit is a breach of contract.",
+        "advTranslation": "利用公司資料謀取私利屬於違約行為。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "deserter",
+        "pos": "n.",
+        "definition": "A person who leaves military service without permission.",
+        "chinese": "逃兵；背棄者",
+        "synonyms": "runaway, defector, traitor",
+        "image": "shield",
+        "sentence": "The __________ was caught and punished.",
+        "translation": "那名逃兵被抓到並受到懲罰。",
+        "lookup": {
+          "english": "A person who leaves military service without permission.",
+          "chinese": "逃兵；背棄者"
+        },
+        "advSentence": "The deserter hid in the mountains for years after the war.",
+        "advTranslation": "戰後那名逃兵在山裡躲了好幾年。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "desertion",
+        "pos": "n.",
+        "definition": "The act of leaving a person, place, or duty without permission.",
+        "chinese": "遺棄；擅離職守",
+        "synonyms": "abandonment, defection, flight",
+        "image": "shield",
+        "sentence": "__________ from the army was punished by death.",
+        "translation": "擅離軍隊會被判死刑。",
+        "lookup": {
+          "english": "The act of leaving a person, place, or duty without permission.",
+          "chinese": "遺棄；擅離職守"
+        },
+        "advSentence": "The novel explores a child's pain after her father's desertion.",
+        "advTranslation": "這部小說探討一個孩子在父親拋棄家庭後的痛苦。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "treacherous",
+        "pos": "adj.",
+        "definition": "Very dangerous, especially in a hidden way; disloyal.",
+        "chinese": "危險的；背叛的",
+        "synonyms": "dangerous, disloyal, perilous",
+        "image": "shield",
+        "sentence": "The inclement weather made the expedition even more __________, but all the crew members agreed to continue their journey instead of taking a rest.",
+        "translation": "惡劣的天候讓這趟探險更加危險，但所有隊員都同意繼續前進而不休息。",
+        "lookup": {
+          "english": "Very dangerous, especially in a hidden way; disloyal.",
+          "chinese": "危險的；背叛的"
+        },
+        "advSentence": "The treacherous adviser secretly sold the king's plans to the enemy.",
+        "advTranslation": "那個背信的謀士偷偷把國王的計畫賣給敵人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "treason",
+        "pos": "n.",
+        "definition": "Betraying your country.",
+        "chinese": "叛國罪",
+        "synonyms": "betrayal, treachery, sedition",
+        "image": "shield",
+        "sentence": "He was executed for __________.",
+        "translation": "他因叛國罪被處決。",
+        "lookup": {
+          "english": "Betraying your country.",
+          "chinese": "叛國罪"
+        },
+        "advSentence": "Selling military secrets to a foreign country is considered treason.",
+        "advTranslation": "把軍事機密賣給外國被視為叛國。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-1-sh"
+        ]
       }
     ],
     "group": "sat-betray",
@@ -232,5 +359,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "disaffected": [
     "Rebellious, resentful of authority.",
     "心懷不滿的/叛逆的"
+  ],
+  "betray": [
+    "To be disloyal to someone who trusts you.",
+    "背叛；出賣"
+  ],
+  "breach": [
+    "The breaking of a law, rule, or agreement.",
+    "違反；破口"
+  ],
+  "deserter": [
+    "A person who leaves military service without permission.",
+    "逃兵；背棄者"
+  ],
+  "desertion": [
+    "The act of leaving a person, place, or duty without permission.",
+    "遺棄；擅離職守"
+  ],
+  "treacherous": [
+    "Very dangerous, especially in a hidden way; disloyal.",
+    "危險的；背叛的"
+  ],
+  "treason": [
+    "Betraying your country.",
+    "叛國罪"
   ]
 });

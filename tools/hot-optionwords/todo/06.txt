@@ -1,0 +1,140 @@
+posthaste [L70 adv. 火速地；立即] :: In this world, no Superman would come swooping out of the sky at the last minute to rescue you from a catastrophe; no rider would arrive posthaste with a pardon from the king.
+vigor [L70 n. 活力；精力] :: After taking a long vacation, the basketball player is now full of vigor and enthusiasm again.
+virility [L70 n. 男子氣概；陽剛] :: The qualities of heroism and virility, combined with their mercantile skills, made the Vikings a powerful and dangerous race.
+whirlwind [L70 adj. 旋風般的；迅速的] :: Maria and Jean had a whirlwind romance — they met and married within two months.
+sheepishly [L71 adv. 難為情地] :: He smiled sheepishly.
+unpretentious [L71 adj. 樸實的；不做作的] :: It's an unpretentious little café.
+affection [L72 n. 喜愛；感情] :: The grandmother hugged the child with deep affection.
+empathetic [L72 adj. 有同理心的] :: An empathetic teacher notices when students are upset.
+empathize [L72 v. 同理；感同身受] :: It is easy to empathize with the hero.
+endearing [L72 adj. 討人喜愛的；惹人憐愛的] :: The puppy has an endearing habit of tilting its head.
+humanity [L72 n. 人類；人性] :: Doctors treated the wounded with humanity.
+lenience [L72 n. 寬大；寬容] :: The judge showed lenience to the young offender.
+maternal [L72 adj. 母親的；母性的] :: Her maternal instincts were strong.
+mercy [L72 n. 仁慈；寬恕] :: The king showed mercy to the prisoners.
+sympathetic [L72 adj. 同情的；有同感的] :: She was sympathetic to my problem.
+sympathize [L72 v. 同情；體諒] :: I sympathize with your situation.
+unconditional [L72 adj. 無條件的] :: A mother's love is unconditional.
+unconditionally [L72 adv. 無條件地] :: She supports her children unconditionally.
+alabaster [L73 n. 雪花石膏] :: Her skin was as pale as alabaster.
+allure [L73 v. 引誘；吸引] :: The allure of city life draws many young people.
+ambiance [L73 n. 氣氛；環境] :: Ms. Goodrum's handmade carpets fit in well in her simple country house. The cabin had a rustic ambiance.
+ambience [L73 n. 氣氛；環境] :: Stepping into a forest retreat, one is immediately enveloped by the serene ambience of nature. The rustle of leaves in the breeze, the chirping of birds in the canopy above, and the distant gurgle of a babbling brook combine to create a symphony of tranquility.
+debonair [L73 adj. 溫文爾雅的；瀟灑的] :: The debonair actor smiled at the cameras.
+decorative [L73 adj. 裝飾性的] :: The vase is purely decorative.
+emblazon [L73 v. 以圖案／字樣裝飾] :: The jersey was emblazoned with the team logo.
+encrust [L73 v. 覆以硬殼；鑲嵌] :: The crown was encrusted with jewels.
+esthetic [L73 adj. 美學的] :: The building has great esthetic appeal.
+glisten [L73 v. 閃耀；閃光] :: Her eyes glistened with tears.
+lustrous [L73 adj. 有光澤的] :: She has lustrous black hair.
+ornamentation [L73 n. 裝飾] :: The palace is full of gold ornamentation.
+pageantry [L73 n. 盛況；排場] :: The parade was full of pageantry.
+regalia [L73 n. （典禮用）禮服與徽章] :: Graduates wore their academic regalia.
+seraphic [L73 adj. 天使般的；純潔美好的] :: The child had a seraphic smile.
+sleek [L73 adj. 光滑的；時髦的] :: She drives a sleek sports car.
+slinky [L73 adj. 婀娜的；貼身的] :: She wore a slinky black dress.
+sublimity [L73 n. 崇高；壯美] :: Poets admired the sublimity of the Alps.
+symmetrical [L73 adj. 對稱的] :: A butterfly's wings are symmetrical.
+blotch [L74 n. 斑點；污漬] :: Red blotches appeared on his skin.
+coarse [L74 adj. 粗糙的；粗俗的] :: The fabric felt coarse against her skin.
+contaminate [L74 v. 污染] :: Chemicals contaminated the river.
+corrugated [L74 adj. 有波紋的；瓦楞的] :: The shed had a corrugated iron roof.
+disfiguration [L74 n. 毀容；損毀外觀] :: The burn caused permanent disfiguration.
+disgust [L74 n. 厭惡；噁心] :: She looked at the rotten fish in disgust.
+filthy [L74 adj. 骯髒的] :: His shoes were filthy after the hike.
+greasy [L74 adj. 油膩的] :: The doctor advised him not to have greasy food.
+grubby [L74 adj. 髒的] :: Tammy told her son to wash his grubby hands before dinner because he just came home from a basketball game with his classmates.
+hideous [L74 adj. 醜陋的；可怕的] :: The monster had a hideous face.
+impolitely [L74 adv. 無禮地] :: He impolitely interrupted the speaker.
+pudgy [L74 adj. 矮胖的；圓胖的] :: The baby has pudgy cheeks.
+ramshackle [L74 adj. 搖搖欲墜的；破舊的] :: A ramshackle beach shack in this coastal town was transformed into a luxurious six-bedroom mansion with awe-inspiring clifftop views.
+salacity [L74 n. 好色；猥褻] :: The novel was banned for its salacity.
+scandalous [L74 adj. 可恥的；駭人聽聞的] :: The prices are scandalous.
+soil [L74 v. 弄髒] :: The children soiled their clothes.
+undesirable [L74 adj. 不受歡迎的；不良的] :: The drug has undesirable side effects.
+vulgar [L74 adj. 粗俗的；庸俗的] :: His vulgar jokes offended people.
+arise [L75 v. 出現；發生] NEED_S1 :: Intercultural Bilingual Education, a language-planning model employed throughout Latin America in public education, arose as a political movement asserting space for indigenous languages and culture in the education system.
+bedrock [L75 n. 基礎；根本] :: Her belief in Buddhism has established the bedrock of her life. She cannot do anything without practicing Buddhism.
+blueprint [L75 n. 藍圖；計畫] :: The report offers a blueprint for school reform.
+brew [L75 v. 釀造；醞釀] :: We may as well brew some coffee; we'll be working on these reports all night.
+commence [L75 v. 開始] :: The ceremony will commence at noon.
+descent [L75 n. 血統；下降] :: She is of Korean descent.
+emanate [L75 v. 散發；發源] :: A sweet smell emanated from the bakery.
+embark [L75 v. 開始；著手] :: She embarked on a new career.
+emerge [L75 v. 出現；浮現] :: New problems emerged during the test.
+emergence [L75 n. 出現；興起] :: The emergence of AI changed education.
+fledge [L75 v. 長羽毛；（雛鳥）羽翼漸豐] :: The young birds fledged in June.
+formation [L75 n. 形成；隊形] :: The formation of habits takes time.
+germinate [L75 v. 發芽；萌發] :: The seeds germinate in warm soil.
+hatch [L75 v. 孵化；策劃] :: They hatched a plan to escape.
+ignite [L75 v. 點燃；激起] :: The speech ignited a debate.
+inaugurate [L75 v. 為…舉行就職典禮；開創] :: The new president was inaugurated in May.
+incipience [L75 n. 開端；初期] :: The incipience of the disease is hard to detect.
+incubate [L75 v. 孵化；培育（病菌）] :: The hen incubates her eggs for three weeks.
+incubator [L75 n. 孵化器；保溫箱] :: The university runs a business incubator.
+inherit [L75 v. 繼承；遺傳] :: She inherited her mother's talent.
+initiative [L75 n. 倡議；新措施] :: In response to federal encouragement, more than 80 percent of secondary schools had launched initiatives by 1992 to integrate academic and vocational curricula.
+lineage [L75 n. 血統；淵源] :: The family traces its lineage to the Ming dynasty.
+outline [L75 v./n. 概述；大綱] :: The teacher outlined the course.
+pedigree [L75 n. 血統；家世] :: The dog has an excellent pedigree.
+premiere [L75 n. 首映；首演] :: The film's premiere was in Taipei.
+primordial [L75 adj. 原始的；最初的] :: Old as the continents are, they are apparently not primordial features of the earth but rather secondary features that have formed and evolved during the earth's lifetime.
+prompt [L75 v./adj. 促使；提示；迅速的] :: The news prompted a debate.
+reactivate [L75 v. 使重新運作] :: Facing a possible insufficient power supply this summer, the premier was considering having the first reactor of the First Nuclear Power Plant reactivated.
+rekindle [L75 v. 重新點燃；重燃] :: Seeing that Donnie Yen movie series has rekindled my enthusiasm for learning Chinese kung- fu fighting. I can't wait to sign up for a training program to give it a try.
+resumption [L75 n. 重新開始] :: The resumption of classes is planned for May.
+rudiment [L75 n. 基本原理；雛形] :: She learned the rudiments of Spanish.
+rudimental [L75 adj. 基礎的；初步的] :: He has only rudimental skills.
+spark [L75 v. 引發；激起] :: The decision sparked protests.
+spawn [L75 v. 引發；催生] :: The film spawned three sequels.
+spin-off [L75 n. 衍生產品；副產品] :: The show is a spin-off of a popular series.
+stem [L75 v. 源自；阻止] :: His fear stems from a childhood accident.
+threshold [L75 n. 門檻；臨界點] :: Pain threshold differs from person to person.
+trigger [L75 v./n. 引發；觸發] :: Stress can trigger headaches.
+abandon [L76 v. 拋棄；放棄] :: Susan originally wanted to be a dancer but had to abandon her dream after breaking her right leg in a car accident.
+cease [L76 v. 停止] :: The factory ceased production last year.
+completion [L76 n. 完成] :: The new MRT station is near completion. When it opens, traffic congestion in that area will be eased a lot.
+conclude [L76 v. 結束；推斷出] :: The study concluded that sleep improves memory.
+deactivate [L76 v. 關閉；使停止運作] :: Students are expected to deactivate all electronic devices before entering the examination room.
+deceased [L76 adj. 已故的；死者] :: The deceased left his house to his daughter.
+demise [L76 n. 消亡；終結；死亡] :: Online shopping led to the demise of many bookstores.
+expired [L76 adj. 過期的；屆滿的] :: Your passport has expired.
+extinguish [L76 v. 熄滅；消滅] :: Firefighters extinguished the fire quickly.
+halt [L76 v. 停止；中止] :: Production was halted after the accident.
+interment [L76 n. 埋葬] :: The interment took place in the family tomb.
+rescission [L76 n. 廢除；撤銷] :: The rescission of the contract was approved.
+terminal [L76 adj. 末期的；終點的] :: He has terminal cancer.
+valedictory [L76 adj. 告別的] :: It was the professor's idea to arrange a series of public lectures to the students at this institution with the prerequisite that each speaker would be asked to imagine that this will be his or her valedictory presentation, or the "last lecture."
+aligned [L77 adj. 對齊的；一致的] :: The lesson is aligned with the national curriculum.
+coincide [L77 v. 同時發生；一致] :: His birthday coincides with the national holiday.
+collaborate [L77 v. 合作] :: Video game publisher JUSTDAN announced that it will collaborate with Taiwan video game company JFI Games to develop "Dusk Diver."
+collaborative [L77 adj. 合作的] :: The head of the company believes that creativity is not about single original ideas; it is a(n) collaborative effort made by a community of people who trust and get on with each other.
+collaboratively [L77 adv. 合作地] :: Students worked collaboratively on the project.
+collectively [L77 adv. 集體地；共同地] :: Collectively, we can make a difference.
+communal [L77 adj. 公共的；共有的] :: The apartment has a communal kitchen.
+communion [L77 n. 交融；聖餐] :: He felt a deep communion with nature.
+comparable [L77 adj. 可比較的；相當的] :: The two schools have comparable test scores.
+correspond [L77 v. 符合；通信] :: The results correspond to our predictions.
+covenant [L77 n. 契約；盟約] :: The two nations signed a covenant of peace.
+equity [L77 n. 公平；（資產）淨值] :: Educational equity means every child gets support.
+equivalence [L77 n. 相等；等值] :: Translators look for equivalence of meaning.
+equivalent [L77 adj. 相等的；相當的] :: One euro is roughly equivalent to thirty-five NT dollars.
+intermediary [L77 n. 中間人；調解人] :: To resolve their differences, they employed an intermediary to deal with the two sides.
+jibe [L77 v. 符合；嘲笑] :: His story doesn't jibe with the facts.
+kindred [L77 adj. 同類的；相似的] :: We are kindred spirits.
+likeness [L77 n. 相似；肖像] :: The statue is a good likeness of the king.
+lockstep [L77 n. 步調一致] :: The game's design, narrative, and pacing are all equally important elements that work in lockstep to create an experience like no other.
+mediator [L77 n. 調解人] :: A mediator helped settle the dispute.
+mutual [L77 adj. 互相的；共同的] :: They have mutual respect for each other.
+mutually [L77 adv. 互相地] :: The agreement is mutually beneficial.
+negotiate [L77 v. 談判；協商] NEED_S1 :: Farmers in Assam dig trenches to prevent water from accumulating, but baby elephants, not used to negotiating rough ground, may easily fall into them and get hurt.
+parallel [L77 adj./n. 平行的；相似之處] :: There are parallels between the two stories.
+parley [L77 v. 談判；會談] :: The two sides parleyed for hours.
+reciprocal [L77 adj. 互惠的；相互的] :: The two countries have a reciprocal agreement.
+reciprocity [L77 n. 互惠；相互性] :: Friendship is built on reciprocity.
+resemble [L77 v. 像；類似] :: Cultural assimilation is the process by which a person or a group's language and/or culture come to resemble those of another group.
+seamlessly [L77 adv. 無縫地；順暢地] :: The new system works seamlessly.
+settle [L77 v. 解決；定居] :: They settled the dispute.
+settlement [L77 n. 和解；聚落] :: The two sides reached a settlement.
+symbiotic [L77 adj. 共生的；互利的] :: Bees and flowers have a symbiotic relationship.
+sync [L77 n./v. 同步；協調] :: Sync your phone with your laptop.

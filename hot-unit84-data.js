@@ -255,6 +255,259 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座舊遊樂園沒有留下任何一絲痕跡。",
         "added": true,
         "group": "sat-old2"
+      },
+      {
+        "word": "canonical",
+        "pos": "adj.",
+        "definition": "Accepted as authoritative or standard; according to official rules.",
+        "chinese": "經典的；正統的",
+        "synonyms": "standard, orthodox, authoritative",
+        "image": "shield",
+        "sentence": "Shakespeare's plays are __________ works of English literature.",
+        "translation": "莎士比亞的劇作是英國文學的經典之作。",
+        "lookup": {
+          "english": "Accepted as authoritative or standard; according to official rules.",
+          "chinese": "經典的；正統的"
+        },
+        "advSentence": "The museum displays canonical works of Chinese painting.",
+        "advTranslation": "這座博物館展出中國繪畫的經典作品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "conservatism",
+        "pos": "n.",
+        "definition": "The dislike of sudden change and preference for traditional ways.",
+        "chinese": "保守主義",
+        "synonyms": "traditionalism, orthodoxy, conventionalism",
+        "image": "shield",
+        "sentence": "Political __________ resists rapid change.",
+        "translation": "政治上的保守主義抗拒快速變革。",
+        "lookup": {
+          "english": "The dislike of sudden change and preference for traditional ways.",
+          "chinese": "保守主義"
+        },
+        "advSentence": "The bank's conservatism protected it during the financial crisis.",
+        "advTranslation": "這家銀行的保守作風讓它在金融危機中安然無恙。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "feudal",
+        "pos": "adj.",
+        "definition": "Relating to the medieval system where people worked land for a lord.",
+        "chinese": "封建的",
+        "synonyms": "medieval, manorial, hierarchical",
+        "image": "shield",
+        "sentence": "Japan had a __________ system for centuries.",
+        "translation": "日本曾實行封建制度好幾個世紀。",
+        "lookup": {
+          "english": "Relating to the medieval system where people worked land for a lord.",
+          "chinese": "封建的"
+        },
+        "advSentence": "The feudal lord demanded a share of every farmer's harvest.",
+        "advTranslation": "封建領主要求每個農民繳交部分收成。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh"
+        ]
+      },
+      {
+        "word": "formerly",
+        "pos": "adv.",
+        "definition": "In the past.",
+        "chinese": "以前；先前",
+        "synonyms": "previously, once, earlier",
+        "image": "shield",
+        "sentence": "Taipei was __________ called Taihoku.",
+        "translation": "臺北舊稱「台北」（Taihoku）。",
+        "lookup": {
+          "english": "In the past.",
+          "chinese": "以前；先前"
+        },
+        "advSentence": "The café was formerly a post office.",
+        "advTranslation": "這家咖啡館以前是郵局。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "fossilization",
+        "pos": "n.",
+        "definition": "In SLA, the point where errors become permanent in a learner's language.",
+        "chinese": "（語言學習）僵化現象",
+        "synonyms": "stagnation, petrification, freezing",
+        "image": "shield",
+        "sentence": "__________ occurs when learner errors become permanent.",
+        "translation": "當學習者的錯誤變得永久時，就會出現僵化現象。",
+        "lookup": {
+          "english": "In SLA, the point where errors become permanent in a learner's language.",
+          "chinese": "（語言學習）僵化現象"
+        },
+        "advSentence": "Constant feedback can help prevent the fossilization of pronunciation errors.",
+        "advTranslation": "持續的回饋有助於防止發音錯誤僵化。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "heritage",
+        "pos": "n.",
+        "definition": "Traditions and history passed down.",
+        "chinese": "遺產；傳統",
+        "synonyms": "tradition, legacy, inheritance",
+        "image": "shield",
+        "sentence": "Temples are part of Taiwan's cultural __________.",
+        "translation": "廟宇是臺灣文化遺產的一部分。",
+        "lookup": {
+          "english": "Traditions and history passed down.",
+          "chinese": "遺產；傳統"
+        },
+        "advSentence": "The old street was declared a heritage site.",
+        "advTranslation": "這條老街被列為文化資產。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh"
+        ]
+      },
+      {
+        "word": "heyday",
+        "pos": "n.",
+        "definition": "The time of greatest success or popularity.",
+        "chinese": "全盛時期",
+        "synonyms": "prime, peak, golden age",
+        "image": "shield",
+        "sentence": "In its __________, the empire wielded unparalleled influence, with its cultural and political hegemony extending across vast territories.",
+        "translation": "在全盛時期，這個帝國擁有無與倫比的影響力，其文化與政治霸權遍及廣大領土。",
+        "lookup": {
+          "english": "The time of greatest success or popularity.",
+          "chinese": "全盛時期"
+        },
+        "advSentence": "In its heyday, the fishing port employed thousands of workers.",
+        "advTranslation": "這座漁港全盛時期曾僱用數千名工人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "hoary",
+        "pos": "adj.",
+        "definition": "Very old; grey or white with age.",
+        "chinese": "古老的；（頭髮）灰白的",
+        "synonyms": "ancient, aged, gray",
+        "image": "shield",
+        "sentence": "He told the same __________ old jokes.",
+        "translation": "他講的都是那些老掉牙的笑話。",
+        "lookup": {
+          "english": "Very old; grey or white with age.",
+          "chinese": "古老的；（頭髮）灰白的"
+        },
+        "advSentence": "The hoary old fisherman told stories of storms from long ago.",
+        "advTranslation": "那位白髮蒼蒼的老漁夫講述許久以前的暴風雨故事。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "reactionary",
+        "pos": "adj.",
+        "definition": "Strongly opposed to political or social change.",
+        "chinese": "反動的；保守的",
+        "synonyms": "conservative, right-wing, traditionalist",
+        "image": "shield",
+        "sentence": "__________ groups opposed the reforms.",
+        "translation": "反動團體反對這些改革。",
+        "lookup": {
+          "english": "Strongly opposed to political or social change.",
+          "chinese": "反動的；保守的"
+        },
+        "advSentence": "Some critics called the new law a reactionary step backward.",
+        "advTranslation": "一些批評者稱新法是反動的倒退。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh",
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "reminiscent",
+        "pos": "adj.",
+        "definition": "Making you remember someone or something.",
+        "chinese": "使人想起的",
+        "synonyms": "evocative, suggestive, redolent",
+        "image": "shield",
+        "sentence": "The smell was __________ of my childhood.",
+        "translation": "那個味道讓人想起我的童年。",
+        "lookup": {
+          "english": "Making you remember someone or something.",
+          "chinese": "使人想起的"
+        },
+        "advSentence": "The music was reminiscent of old Taiwanese films.",
+        "advTranslation": "這段音樂讓人想起老臺語片。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "time-honored",
+        "pos": "adj.",
+        "definition": "Respected because it has existed for a long time.",
+        "chinese": "歷史悠久的；由來已久的",
+        "synonyms": "traditional, long-established, venerable",
+        "image": "shield",
+        "sentence": "Dragon boat racing is a __________ tradition.",
+        "translation": "划龍舟是一項歷史悠久的傳統。",
+        "lookup": {
+          "english": "Respected because it has existed for a long time.",
+          "chinese": "歷史悠久的；由來已久的"
+        },
+        "advSentence": "Making rice dumplings is a time-honored family custom.",
+        "advTranslation": "包粽子是一項由來已久的家庭習俗。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "vintage",
+        "pos": "adj.",
+        "definition": "Old but of high quality; typical of a past period.",
+        "chinese": "經典的；古董的；陳年的",
+        "synonyms": "classic, old, antique",
+        "image": "shield",
+        "sentence": "The collector only buys __________ cameras from the 1960s.",
+        "translation": "這位收藏家只買經典的古董相機。",
+        "lookup": {
+          "english": "Old but of high quality; typical of a past period.",
+          "chinese": "經典的；古董的；陳年的"
+        },
+        "advSentence": "She found a vintage dress at the flea market.",
+        "advTranslation": "她在跳蚤市場找到一件復古洋裝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
       }
     ],
     "group": "sat-old2",
@@ -320,5 +573,53 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "vestige": [
     "Evidence, trace.",
     "遺跡/痕跡"
+  ],
+  "canonical": [
+    "Accepted as authoritative or standard; according to official rules.",
+    "經典的；正統的"
+  ],
+  "conservatism": [
+    "The dislike of sudden change and preference for traditional ways.",
+    "保守主義"
+  ],
+  "feudal": [
+    "Relating to the medieval system where people worked land for a lord.",
+    "封建的"
+  ],
+  "formerly": [
+    "In the past.",
+    "以前；先前"
+  ],
+  "fossilization": [
+    "In SLA, the point where errors become permanent in a learner's language.",
+    "（語言學習）僵化現象"
+  ],
+  "heritage": [
+    "Traditions and history passed down.",
+    "遺產；傳統"
+  ],
+  "heyday": [
+    "The time of greatest success or popularity.",
+    "全盛時期"
+  ],
+  "hoary": [
+    "Very old; grey or white with age.",
+    "古老的；（頭髮）灰白的"
+  ],
+  "reactionary": [
+    "Strongly opposed to political or social change.",
+    "反動的；保守的"
+  ],
+  "reminiscent": [
+    "Making you remember someone or something.",
+    "使人想起的"
+  ],
+  "time-honored": [
+    "Respected because it has existed for a long time.",
+    "歷史悠久的；由來已久的"
+  ],
+  "vintage": [
+    "Old but of high quality; typical of a past period.",
+    "經典的；古董的；陳年的"
   ]
 });

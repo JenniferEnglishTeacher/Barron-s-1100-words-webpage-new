@@ -1,0 +1,41 @@
+fruition [L123 n. 實現；完成] :: After years of work, his plan came to fruition.
+materialize [L123 v. 實現；具體化] :: Historically, the field of carving has been dominated by conceptual contributions based upon personal experiences and insights. More recently, an empirical research tradition has begun to materialize.
+payoff [L123 n. 回報；成果] :: The payoff for hard work is success.
+tackle [L123 v. 處理；應付] :: We must tackle climate change.
+blunder [L124 v. 犯大錯；跌跌撞撞地走] :: Forgetting the tickets was a costly blunder.
+breakdown [L124 n. 故障；崩潰；細目分析] :: The car had a breakdown on the highway.
+collapse [L124 n. 崩潰；倒塌] :: The collapse of the bank shocked investors.
+defect [L124 n. 缺陷；瑕疵] :: The cars were recalled because of brake defects.
+flaw [L124 n. 缺點；瑕疵] :: Every plan has its flaws.
+flawed [L124 adj. 有缺陷的] :: The study's method was flawed.
+flop [L124 v./n. 失敗；大失敗] NEED_S1 :: The movie flopped at the box office.
+flunk [L124 v. 考試不及格；被當] :: He flunked the driving test twice.
+forfeit [L124 v. 喪失；被沒收] :: The team forfeited the game.
+glitch [L124 n. 小故障；小差錯] :: My new laptop is not functioning properly: there are all sorts of glitches.
+misallocation [L124 n. 分配不當] :: Misallocation of funds hurt the project.
+misinterpretation [L124 n. 誤解；曲解] :: The rule is open to misinterpretation.
+aviation [L125 n. 航空] :: She hopes to work in the aviation industry.
+commute [L125 n. 通勤（路程）] :: Many people hope to secure a stable job with regular working hours and a reasonable commute, possibly in a large metropolitan city.
+compass [L125 n. 指南針；範圍] :: The hikers used a compass to find their way.
+detour [L125 v. 繞道] :: We detoured around the flooded road.
+exodus [L125 n. 大批離去] :: Hundreds of thousands of people were leaving with just the clothes they had on their backs. It felt as if the whole valley were on the move. It was the biggest exodus in Pashtun history.
+flock [L125 v. 聚集；蜂擁] :: Tourists flock to the night market.
+foremast [L125 n. 前桅] :: The sailors climbed the foremast.
+freight [L125 n. 貨物；貨運] :: The train carries freight across the country.
+funnel [L125 v. 引導；輸送] :: Donations were funneled to the flood victims.
+gondola [L125 n. 纜車車廂；（威尼斯）貢多拉船] :: These children were excited to watch gondolas, a number of smaller enclosed cabins seating two or four persons each, moving across the mountain.
+jaunt [L125 n. 短途遊玩] :: They took a jaunt to the beach.
+lap [L125 n. 一圈；大腿上方] :: She ran ten laps around the track.
+migrate [L125 v. 遷移；遷徙] :: Birds migrate south in winter.
+navigate [L125 v. 航行；應對處理] :: Ben used a stylus to navigate the tablet's menus and he felt impressed by the new technological invention.
+navigation [L125 n. 導航；航行] :: GPS navigation makes driving easier.
+navigator [L125 n. 領航員] :: The navigator plotted the ship's course.
+odyssey [L125 n. 漫長的冒險旅程] :: His odyssey across Asia lasted two years.
+orient [L125 v. 定位；以…為導向] :: The course is oriented toward beginners.
+overtake [L125 v. 超越] NEED_S1 :: China overtook Japan as the second-largest economy.
+pillion [L125 n. 機車後座] :: She rode pillion on his scooter.
+resort [L125 v./n. 訴諸；度假勝地] :: They resorted to violence.
+steer [L125 v. 駕駛；引導] :: She steered the conversation to safer topics.
+trajectory [L125 n. 軌跡；發展軌道] NEED_S1 :: Simulation has been used in many fields. It can be used to predict population changes over a long period of time and also for charting space-satellite trajectories in space exploration.
+traverse [L125 v. 橫越；穿過] NEED_S1 :: Totraversethe continent of Africa is an act involving great danger and difficulty.
+vessel [L125 n. 船隻] :: The fishing vessel returned to port.

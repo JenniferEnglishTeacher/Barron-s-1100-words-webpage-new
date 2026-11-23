@@ -399,6 +399,430 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "重讀那封舊信時,她臉上流露出沉思的表情。",
         "added": true,
         "group": "sat-gloom"
+      },
+      {
+        "word": "compunction",
+        "pos": "n.",
+        "definition": "Feelings of guilt about doing something wrong.",
+        "chinese": "內疚；良心不安",
+        "synonyms": "qualms, scruples, regrets",
+        "image": "shield",
+        "sentence": "He had no __________s about lying.",
+        "translation": "他說謊毫無愧疚。",
+        "lookup": {
+          "english": "Feelings of guilt about doing something wrong.",
+          "chinese": "內疚；良心不安"
+        },
+        "advSentence": "She felt a twinge of compunction about leaving her friend alone.",
+        "advTranslation": "丟下朋友一個人，她感到一陣內疚。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-ntpc-sh"
+        ]
+      },
+      {
+        "word": "compunctious",
+        "pos": "adj.",
+        "definition": "Feeling sorry or guilty.",
+        "chinese": "內疚的；懊悔的",
+        "synonyms": "remorseful, contrite, penitent",
+        "image": "shield",
+        "sentence": "She felt __________ after shouting at her mother.",
+        "translation": "對媽媽大吼後，她感到很內疚。",
+        "lookup": {
+          "english": "Feeling sorry or guilty.",
+          "chinese": "內疚的；懊悔的"
+        },
+        "advSentence": "The compunctious student apologized to the teacher after class.",
+        "advTranslation": "那個心懷愧疚的學生下課後向老師道歉。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "dejection",
+        "pos": "n.",
+        "definition": "A feeling of sadness and lack of hope.",
+        "chinese": "沮喪；灰心",
+        "synonyms": "depression, despondency, gloom",
+        "image": "shield",
+        "sentence": "He walked away in __________ after losing.",
+        "translation": "他輸了之後垂頭喪氣地走開。",
+        "lookup": {
+          "english": "A feeling of sadness and lack of hope.",
+          "chinese": "沮喪；灰心"
+        },
+        "advSentence": "A look of dejection crossed her face when she read the rejection letter.",
+        "advTranslation": "讀到拒絕信時，她臉上掠過一絲沮喪。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "demoralization",
+        "pos": "n.",
+        "definition": "The loss of hope and confidence.",
+        "chinese": "士氣低落",
+        "synonyms": "discouragement, dejection, despondency",
+        "image": "shield",
+        "sentence": "Constant criticism led to __________ among staff.",
+        "translation": "持續的批評導致員工士氣低落。",
+        "lookup": {
+          "english": "The loss of hope and confidence.",
+          "chinese": "士氣低落"
+        },
+        "advSentence": "Repeated defeats led to the demoralization of the army.",
+        "advTranslation": "接連戰敗導致軍隊士氣低落。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh"
+        ]
+      },
+      {
+        "word": "despair",
+        "pos": "n.",
+        "definition": "The feeling of having no hope.",
+        "chinese": "絕望",
+        "synonyms": "hopelessness, desperation, anguish",
+        "image": "shield",
+        "sentence": "Amy was in __________ because her vegetable garden was ruined.",
+        "translation": "Amy 因為她的菜園被毀而陷入絕望。",
+        "lookup": {
+          "english": "The feeling of having no hope.",
+          "chinese": "絕望"
+        },
+        "advSentence": "In despair, the farmers watched the floodwaters destroy their crops.",
+        "advTranslation": "農夫們絕望地看著洪水摧毀他們的作物。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "desperate",
+        "pos": "adj.",
+        "definition": "Feeling hopeless; in great need.",
+        "chinese": "絕望的；極度渴望的",
+        "synonyms": "hopeless, frantic, urgent",
+        "image": "shield",
+        "sentence": "The flood victims were __________ for clean water.",
+        "translation": "水災災民極度需要乾淨的水。",
+        "lookup": {
+          "english": "Feeling hopeless; in great need.",
+          "chinese": "絕望的；極度渴望的"
+        },
+        "advSentence": "In a desperate attempt to win, the team gambled everything on the last play.",
+        "advTranslation": "為了求勝，這支球隊孤注一擲地把一切押在最後一波進攻上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en",
+          "115-slhs-sh"
+        ]
+      },
+      {
+        "word": "devastated",
+        "pos": "adj.",
+        "definition": "Extremely upset or shocked.",
+        "chinese": "極度震驚難過的",
+        "synonyms": "shattered, crushed, heartbroken",
+        "image": "shield",
+        "sentence": "Much of Sri Lanka's coastline was __________ by the December 26 tsunami in 2004, leaving thousands of villagers homeless.",
+        "translation": "2004 年 12 月 26 日的海嘯摧毀了斯里蘭卡大部分的海岸線，數千名村民無家可歸。",
+        "lookup": {
+          "english": "Extremely upset or shocked.",
+          "chinese": "極度震驚難過的"
+        },
+        "advSentence": "She was devastated when her best friend moved abroad.",
+        "advTranslation": "最好的朋友移居國外時，她傷心欲絕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "disillusion",
+        "pos": "n.",
+        "definition": "Disappointment from finding something is not as good as believed.",
+        "chinese": "幻滅；醒悟",
+        "synonyms": "disenchantment, disappointment, awakening",
+        "image": "shield",
+        "sentence": "Years of failure brought __________.",
+        "translation": "多年的失敗帶來了幻滅。",
+        "lookup": {
+          "english": "Disappointment from finding something is not as good as believed.",
+          "chinese": "幻滅；醒悟"
+        },
+        "advSentence": "Many young voters feel disillusion with traditional politics.",
+        "advTranslation": "許多年輕選民對傳統政治感到幻滅。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "dismay",
+        "pos": "n.",
+        "definition": "A feeling of worry and disappointment.",
+        "chinese": "沮喪；驚慌",
+        "synonyms": "alarm, distress, dejection",
+        "image": "shield",
+        "sentence": "To our __________, the show was canceled.",
+        "translation": "令我們沮喪的是，節目被取消了。",
+        "lookup": {
+          "english": "A feeling of worry and disappointment.",
+          "chinese": "沮喪；驚慌"
+        },
+        "advSentence": "Parents expressed dismay at the sudden rise in tuition.",
+        "advTranslation": "家長們對學費突然上漲感到驚慌。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "distress",
+        "pos": "n.",
+        "definition": "Great worry or pain.",
+        "chinese": "痛苦；憂慮",
+        "synonyms": "anguish, suffering, anxiety",
+        "image": "shield",
+        "sentence": "The ship sent out a __________ signal.",
+        "translation": "這艘船發出了求救訊號。",
+        "lookup": {
+          "english": "Great worry or pain.",
+          "chinese": "痛苦；憂慮"
+        },
+        "advSentence": "The loss of her job caused her great emotional distress.",
+        "advTranslation": "失去工作讓她承受巨大的情緒痛苦。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "grim",
+        "pos": "adj.",
+        "definition": "Serious, gloomy, or unpleasant.",
+        "chinese": "嚴峻的；陰森的",
+        "synonyms": "bleak, gloomy, harsh",
+        "image": "shield",
+        "sentence": "The future looks __________ for the company.",
+        "translation": "這家公司的前景看起來很黯淡。",
+        "lookup": {
+          "english": "Serious, gloomy, or unpleasant.",
+          "chinese": "嚴峻的；陰森的"
+        },
+        "advSentence": "The rescue workers faced the grim task of searching the ruins.",
+        "advTranslation": "救援人員面臨搜索廢墟的嚴峻任務。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tngs-sh"
+        ]
+      },
+      {
+        "word": "hangdog",
+        "pos": "adj.",
+        "definition": "Looking ashamed or guilty.",
+        "chinese": "羞愧的；垂頭喪氣的",
+        "synonyms": "guilty, shamefaced, dejected",
+        "image": "shield",
+        "sentence": "He gave me a __________ look.",
+        "translation": "他露出一副羞愧的樣子。",
+        "lookup": {
+          "english": "Looking ashamed or guilty.",
+          "chinese": "羞愧的；垂頭喪氣的"
+        },
+        "advSentence": "The puppy wore a hangdog expression after chewing the shoes.",
+        "advTranslation": "小狗咬壞鞋子後，一臉心虛的樣子。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "morbid",
+        "pos": "adj.",
+        "definition": "Having too much interest in death or unpleasant things.",
+        "chinese": "病態的；陰森的",
+        "synonyms": "gruesome, unhealthy, gloomy",
+        "image": "shield",
+        "sentence": "He has a __________ interest in death.",
+        "translation": "他對死亡有一種病態的興趣。",
+        "lookup": {
+          "english": "Having too much interest in death or unpleasant things.",
+          "chinese": "病態的；陰森的"
+        },
+        "advSentence": "Some readers have a morbid fascination with true-crime stories.",
+        "advTranslation": "有些讀者對真實犯罪故事有一種病態的著迷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "pessimism",
+        "pos": "n.",
+        "definition": "The belief that bad things will happen.",
+        "chinese": "悲觀",
+        "synonyms": "negativity, gloom, cynicism",
+        "image": "shield",
+        "sentence": "There is growing __________ about the economy.",
+        "translation": "人們對經濟越來越悲觀。",
+        "lookup": {
+          "english": "The belief that bad things will happen.",
+          "chinese": "悲觀"
+        },
+        "advSentence": "Her pessimism made her expect failure before she even began.",
+        "advTranslation": "她的悲觀讓她還沒開始就預期會失敗。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "piteous",
+        "pos": "adj.",
+        "definition": "Deserving or causing pity.",
+        "chinese": "可憐的；令人同情的",
+        "synonyms": "pitiful, pathetic, heartbreaking",
+        "image": "shield",
+        "sentence": "The puppy gave a __________ cry.",
+        "translation": "小狗發出可憐的叫聲。",
+        "lookup": {
+          "english": "Deserving or causing pity.",
+          "chinese": "可憐的；令人同情的"
+        },
+        "advSentence": "The orphaned kitten gave a piteous cry from the drain.",
+        "advTranslation": "那隻失去母親的小貓在水溝裡發出可憐的叫聲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "regretfully",
+        "pos": "adv.",
+        "definition": "In a sorry way.",
+        "chinese": "遺憾地",
+        "synonyms": "sadly, sorrowfully, ruefully",
+        "image": "shield",
+        "sentence": "__________, we cannot accept your offer.",
+        "translation": "很遺憾，我們無法接受您的提議。",
+        "lookup": {
+          "english": "In a sorry way.",
+          "chinese": "遺憾地"
+        },
+        "advSentence": "Regretfully, the museum must close for repairs this summer.",
+        "advTranslation": "很遺憾，博物館今年夏天必須閉館整修。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "sepulchral",
+        "pos": "adj.",
+        "definition": "Gloomy and dismal, suggesting death or a tomb.",
+        "chinese": "陰森的；墳墓般的",
+        "synonyms": "gloomy, funereal, somber",
+        "image": "shield",
+        "sentence": "The old Victorian mansion, with its peeling paint and overgrown garden, exuded a(n) __________ atmosphere that made the neighborhood children believe it was haunted.",
+        "translation": "那棟維多利亞式舊宅油漆剝落、花園雜草叢生，散發出陰森的氣息，讓附近的孩子相信它鬧鬼。",
+        "lookup": {
+          "english": "Gloomy and dismal, suggesting death or a tomb.",
+          "chinese": "陰森的；墳墓般的"
+        },
+        "advSentence": "The announcer read the bad news in a sepulchral voice.",
+        "advTranslation": "播報員用陰沉的聲音宣讀這則壞消息。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "sob",
+        "pos": "n./v.",
+        "definition": "Crying noisily.",
+        "chinese": "啜泣",
+        "synonyms": "weeping, crying, wailing",
+        "image": "shield",
+        "sentence": "We heard a quiet __________ from the next room.",
+        "translation": "我們聽到隔壁房間傳來啜泣聲。",
+        "lookup": {
+          "english": "Crying noisily.",
+          "chinese": "啜泣"
+        },
+        "advSentence": "The lost child began to sob as soon as she saw a police officer.",
+        "advTranslation": "那個走失的孩子一看到警察就開始啜泣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "sorrow",
+        "pos": "n.",
+        "definition": "Great sadness.",
+        "chinese": "悲傷",
+        "synonyms": "grief, sadness, anguish",
+        "image": "shield",
+        "sentence": "We share your __________.",
+        "translation": "我們與你同感悲傷。",
+        "lookup": {
+          "english": "Great sadness.",
+          "chinese": "悲傷"
+        },
+        "advSentence": "The whole town shared in the family's sorrow after the accident.",
+        "advTranslation": "意外發生後，全鎮都感受到這個家庭的悲傷。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "wail",
+        "pos": "v.",
+        "definition": "To cry loudly in sadness.",
+        "chinese": "哀號",
+        "synonyms": "howl, cry, moan",
+        "image": "shield",
+        "sentence": "The baby __________d all night.",
+        "translation": "嬰兒整夜哭號。",
+        "lookup": {
+          "english": "To cry loudly in sadness.",
+          "chinese": "哀號"
+        },
+        "advSentence": "Sirens began to wail as the typhoon approached the coast.",
+        "advTranslation": "颱風逼近海岸時，警報聲開始響起。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
       }
     ],
     "group": "sat-gloom",
@@ -496,5 +920,85 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "pensive": [
     "Thoughtful, reflective.",
     "沉思的/憂鬱的"
+  ],
+  "compunction": [
+    "Feelings of guilt about doing something wrong.",
+    "內疚；良心不安"
+  ],
+  "compunctious": [
+    "Feeling sorry or guilty.",
+    "內疚的；懊悔的"
+  ],
+  "dejection": [
+    "A feeling of sadness and lack of hope.",
+    "沮喪；灰心"
+  ],
+  "demoralization": [
+    "The loss of hope and confidence.",
+    "士氣低落"
+  ],
+  "despair": [
+    "The feeling of having no hope.",
+    "絕望"
+  ],
+  "desperate": [
+    "Feeling hopeless; in great need.",
+    "絕望的；極度渴望的"
+  ],
+  "devastated": [
+    "Extremely upset or shocked.",
+    "極度震驚難過的"
+  ],
+  "disillusion": [
+    "Disappointment from finding something is not as good as believed.",
+    "幻滅；醒悟"
+  ],
+  "dismay": [
+    "A feeling of worry and disappointment.",
+    "沮喪；驚慌"
+  ],
+  "distress": [
+    "Great worry or pain.",
+    "痛苦；憂慮"
+  ],
+  "grim": [
+    "Serious, gloomy, or unpleasant.",
+    "嚴峻的；陰森的"
+  ],
+  "hangdog": [
+    "Looking ashamed or guilty.",
+    "羞愧的；垂頭喪氣的"
+  ],
+  "morbid": [
+    "Having too much interest in death or unpleasant things.",
+    "病態的；陰森的"
+  ],
+  "pessimism": [
+    "The belief that bad things will happen.",
+    "悲觀"
+  ],
+  "piteous": [
+    "Deserving or causing pity.",
+    "可憐的；令人同情的"
+  ],
+  "regretfully": [
+    "In a sorry way.",
+    "遺憾地"
+  ],
+  "sepulchral": [
+    "Gloomy and dismal, suggesting death or a tomb.",
+    "陰森的；墳墓般的"
+  ],
+  "sob": [
+    "Crying noisily.",
+    "啜泣"
+  ],
+  "sorrow": [
+    "Great sadness.",
+    "悲傷"
+  ],
+  "wail": [
+    "To cry loudly in sadness.",
+    "哀號"
   ]
 });

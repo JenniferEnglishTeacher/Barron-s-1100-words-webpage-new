@@ -183,6 +183,197 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這位哲學家對科學無法解答的問題始終抱持不可知的態度。",
         "added": true,
         "group": "sat-doubt"
+      },
+      {
+        "word": "disbelief",
+        "pos": "n.",
+        "definition": "Not being able to believe something.",
+        "chinese": "不相信；懷疑",
+        "synonyms": "incredulity, doubt, skepticism",
+        "image": "shield",
+        "sentence": "She stared at the test score in __________.",
+        "translation": "她難以置信地盯著考試分數。",
+        "lookup": {
+          "english": "Not being able to believe something.",
+          "chinese": "不相信；懷疑"
+        },
+        "advSentence": "Fans shook their heads in disbelief as the champion lost.",
+        "advTranslation": "冠軍落敗時，球迷們難以置信地搖頭。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "incredulity",
+        "pos": "n.",
+        "definition": "Inability or unwillingness to believe something.",
+        "chinese": "懷疑；不相信",
+        "synonyms": "disbelief, skepticism, doubt",
+        "image": "shield",
+        "sentence": "She stared at him in __________.",
+        "translation": "她不敢置信地盯著他。",
+        "lookup": {
+          "english": "Inability or unwillingness to believe something.",
+          "chinese": "懷疑；不相信"
+        },
+        "advSentence": "His story about meeting a famous actor was met with incredulity.",
+        "advTranslation": "他說自己遇到一位名演員，大家都不太相信。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "leery",
+        "pos": "adj.",
+        "definition": "Careful because you do not trust something.",
+        "chinese": "存疑的；提防的",
+        "synonyms": "wary, suspicious, cautious",
+        "image": "shield",
+        "sentence": "Investors are __________ of risky stocks.",
+        "translation": "投資人對高風險股票心存疑慮。",
+        "lookup": {
+          "english": "Careful because you do not trust something.",
+          "chinese": "存疑的；提防的"
+        },
+        "advSentence": "Many parents are leery of letting young children use social media.",
+        "advTranslation": "許多家長對讓幼兒使用社群媒體心存戒心。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-hsnu-sh",
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "paranoid",
+        "pos": "adj.",
+        "definition": "Too worried that people are trying to harm you.",
+        "chinese": "多疑的；偏執的",
+        "synonyms": "suspicious, distrustful, fearful",
+        "image": "shield",
+        "sentence": "He became __________ about his privacy.",
+        "translation": "他對自己的隱私變得疑神疑鬼。",
+        "lookup": {
+          "english": "Too worried that people are trying to harm you.",
+          "chinese": "多疑的；偏執的"
+        },
+        "advSentence": "After the burglary, she became paranoid about locking every door.",
+        "advTranslation": "遭竊之後，她變得對鎖好每扇門很神經質。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "refutable",
+        "pos": "adj.",
+        "definition": "Able to be proved wrong.",
+        "chinese": "可駁斥的",
+        "synonyms": "disprovable, arguable, contestable",
+        "image": "shield",
+        "sentence": "A scientific claim must be __________.",
+        "translation": "科學主張必須是可以被駁斥的。",
+        "lookup": {
+          "english": "Able to be proved wrong.",
+          "chinese": "可駁斥的"
+        },
+        "advSentence": "The theory was easily refutable once new data appeared.",
+        "advTranslation": "新資料出現後，這個理論很容易就被推翻。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh"
+        ]
+      },
+      {
+        "word": "superstitious",
+        "pos": "adj.",
+        "definition": "Believing in luck, magic, or signs that have no scientific basis.",
+        "chinese": "迷信的",
+        "synonyms": "irrational, credulous, fearful",
+        "image": "shield",
+        "sentence": "Many athletes are __________.",
+        "translation": "許多運動員都很迷信。",
+        "lookup": {
+          "english": "Believing in luck, magic, or signs that have no scientific basis.",
+          "chinese": "迷信的"
+        },
+        "advSentence": "Superstitious people avoid the number four in Taiwan.",
+        "advTranslation": "在臺灣，迷信的人會避開數字四。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tcvs-vs"
+        ]
+      },
+      {
+        "word": "suspicious",
+        "pos": "adj.",
+        "definition": "Feeling that something is wrong; making people distrust.",
+        "chinese": "懷疑的；可疑的",
+        "synonyms": "doubtful, wary, questionable",
+        "image": "shield",
+        "sentence": "Police found a __________ package.",
+        "translation": "警方發現一個可疑包裹。",
+        "lookup": {
+          "english": "Feeling that something is wrong; making people distrust.",
+          "chinese": "懷疑的；可疑的"
+        },
+        "advSentence": "The teacher grew suspicious when two essays looked almost identical.",
+        "advTranslation": "兩篇作文幾乎一模一樣時，老師起了疑心。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "unconvinced",
+        "pos": "adj.",
+        "definition": "Not believing that something is true.",
+        "chinese": "不相信的；存疑的",
+        "synonyms": "doubtful, skeptical, unpersuaded",
+        "image": "shield",
+        "sentence": "The judge remained __________.",
+        "translation": "法官仍然不相信。",
+        "lookup": {
+          "english": "Not believing that something is true.",
+          "chinese": "不相信的；存疑的"
+        },
+        "advSentence": "Many scientists remain unconvinced by the company's claims.",
+        "advTranslation": "許多科學家對這家公司的說法仍存疑。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-jh"
+        ]
+      },
+      {
+        "word": "unreliable",
+        "pos": "adj.",
+        "definition": "Not able to be trusted.",
+        "chinese": "不可靠的",
+        "synonyms": "untrustworthy, undependable, erratic",
+        "image": "shield",
+        "sentence": "Because the witness had altered her testimony multiple times, and could not provide consistent details, her account was deemed __________ by the jury.",
+        "translation": "由於這名證人多次改變證詞，且無法提供一致的細節，陪審團認為她的說法不可靠。",
+        "lookup": {
+          "english": "Not able to be trusted.",
+          "chinese": "不可靠的"
+        },
+        "advSentence": "The old bus is so unreliable that students often arrive late.",
+        "advTranslation": "那輛老公車太不可靠，學生常常遲到。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sksc-vs"
+        ]
       }
     ],
     "group": "sat-doubt",
@@ -232,5 +423,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "agnostic": [
     "Believing that the existence of God cannot be proven or disproven.",
     "不可知論的"
+  ],
+  "disbelief": [
+    "Not being able to believe something.",
+    "不相信；懷疑"
+  ],
+  "incredulity": [
+    "Inability or unwillingness to believe something.",
+    "懷疑；不相信"
+  ],
+  "leery": [
+    "Careful because you do not trust something.",
+    "存疑的；提防的"
+  ],
+  "paranoid": [
+    "Too worried that people are trying to harm you.",
+    "多疑的；偏執的"
+  ],
+  "refutable": [
+    "Able to be proved wrong.",
+    "可駁斥的"
+  ],
+  "superstitious": [
+    "Believing in luck, magic, or signs that have no scientific basis.",
+    "迷信的"
+  ],
+  "suspicious": [
+    "Feeling that something is wrong; making people distrust.",
+    "懷疑的；可疑的"
+  ],
+  "unconvinced": [
+    "Not believing that something is true.",
+    "不相信的；存疑的"
+  ],
+  "unreliable": [
+    "Not able to be trusted.",
+    "不可靠的"
   ]
 });

@@ -165,6 +165,113 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "訪客們對舞廳裝飾所展現的極致奢華感到驚嘆。",
         "added": true,
         "group": "sat-wealth"
+      },
+      {
+        "word": "chateau",
+        "pos": "n.",
+        "definition": "A large country house or castle in France.",
+        "chinese": "（法國）城堡；莊園",
+        "synonyms": "castle, manor, mansion",
+        "image": "shield",
+        "sentence": "They stayed at a __________ in the Loire Valley.",
+        "translation": "他們住在羅亞爾河谷的一座城堡。",
+        "lookup": {
+          "english": "A large country house or castle in France.",
+          "chinese": "（法國）城堡；莊園"
+        },
+        "advSentence": "The wealthy family bought an old chateau surrounded by vineyards.",
+        "advTranslation": "那個富裕家族買下一座被葡萄園環繞的古堡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "magnate",
+        "pos": "n.",
+        "definition": "A rich and powerful person in business or industry.",
+        "chinese": "大亨；巨頭",
+        "synonyms": "tycoon, mogul, baron",
+        "image": "shield",
+        "sentence": "He became a shipping __________.",
+        "translation": "他成了航運大亨。",
+        "lookup": {
+          "english": "A rich and powerful person in business or industry.",
+          "chinese": "大亨；巨頭"
+        },
+        "advSentence": "The media magnate owns newspapers and TV stations across Asia.",
+        "advTranslation": "這位媒體大亨在亞洲各地擁有報紙和電視台。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "palatial",
+        "pos": "adj.",
+        "definition": "Large and splendid, like a palace.",
+        "chinese": "宮殿般的；富麗堂皇的",
+        "synonyms": "luxurious, grand, splendid",
+        "image": "shield",
+        "sentence": "They live in a __________ house.",
+        "translation": "他們住在宮殿般豪華的房子裡。",
+        "lookup": {
+          "english": "Large and splendid, like a palace.",
+          "chinese": "宮殿般的；富麗堂皇的"
+        },
+        "advSentence": "The hotel lobby was palatial, with marble floors and crystal chandeliers.",
+        "advTranslation": "飯店大廳富麗堂皇，有大理石地板和水晶吊燈。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "privilege",
+        "pos": "n.",
+        "definition": "A special right or advantage.",
+        "chinese": "特權；榮幸",
+        "synonyms": "advantage, right, honor",
+        "image": "shield",
+        "sentence": "It's a __________ to work here.",
+        "translation": "能在這裡工作是我的榮幸。",
+        "lookup": {
+          "english": "A special right or advantage.",
+          "chinese": "特權；榮幸"
+        },
+        "advSentence": "Education should be a right, not a privilege for the wealthy.",
+        "advTranslation": "教育應該是權利，而不是有錢人的特權。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "profitable",
+        "pos": "adj.",
+        "definition": "Making money.",
+        "chinese": "有利潤的",
+        "synonyms": "lucrative, money-making, gainful",
+        "image": "shield",
+        "sentence": "The business is very __________.",
+        "translation": "這門生意非常賺錢。",
+        "lookup": {
+          "english": "Making money.",
+          "chinese": "有利潤的"
+        },
+        "advSentence": "Selling bubble tea abroad has proved highly profitable.",
+        "advTranslation": "在海外賣珍珠奶茶已證明非常有利可圖。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh"
+        ]
       }
     ],
     "group": "sat-wealth",
@@ -210,5 +317,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "opulence": [
     "Wealth, riches.",
     "財富/富裕"
+  ],
+  "chateau": [
+    "A large country house or castle in France.",
+    "（法國）城堡；莊園"
+  ],
+  "magnate": [
+    "A rich and powerful person in business or industry.",
+    "大亨；巨頭"
+  ],
+  "palatial": [
+    "Large and splendid, like a palace.",
+    "宮殿般的；富麗堂皇的"
+  ],
+  "privilege": [
+    "A special right or advantage.",
+    "特權；榮幸"
+  ],
+  "profitable": [
+    "Making money.",
+    "有利潤的"
   ]
 });

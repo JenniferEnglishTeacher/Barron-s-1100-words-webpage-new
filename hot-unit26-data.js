@@ -163,6 +163,48 @@ window.FLASHCARD_UNITS = {
         },
         "advSentence": "The young piano virtuoso played with such exuberant brilliance that critics who usually disparage child prodigies were moved to extol her technique, and the audience's clamor for an encore echoed through a hall famous for its superb acoustics.",
         "advTranslation": "這位年輕的鋼琴大師演奏得如此活力四射、才華洋溢，連平常愛貶低神童的評論家都忍不住讚揚她的技巧；觀眾要求安可的喧鬧聲，迴盪在這座以絕佳音響效果聞名的音樂廳中。"
+      },
+      {
+        "word": "hermit",
+        "pos": "n.",
+        "definition": "A person who lives alone away from others.",
+        "chinese": "隱士",
+        "synonyms": "recluse, loner, anchorite",
+        "image": "shield",
+        "sentence": "He lived like a __________ in the mountains.",
+        "translation": "他像隱士一樣住在山裡。",
+        "lookup": {
+          "english": "A person who lives alone away from others.",
+          "chinese": "隱士"
+        },
+        "advSentence": "The old hermit had not spoken to another person in years.",
+        "advTranslation": "那位年老的隱士多年來沒有和任何人說過話。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "kibitzer",
+        "pos": "n.",
+        "definition": "A person who gives unwanted advice, especially while watching a game.",
+        "chinese": "愛在旁出主意的人",
+        "synonyms": "meddler, busybody, backseat driver",
+        "image": "shield",
+        "sentence": "The __________ kept telling the players what to do.",
+        "translation": "那個在旁邊愛出主意的人一直指點玩家該怎麼做。",
+        "lookup": {
+          "english": "A person who gives unwanted advice, especially while watching a game.",
+          "chinese": "愛在旁出主意的人"
+        },
+        "advSentence": "The chess players asked the kibitzer to keep his advice to himself.",
+        "advTranslation": "棋手們請那位在旁出主意的人別再插嘴。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
       }
     ],
     "quiz": [
@@ -452,5 +494,13 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "virtuoso": [
     "A person with outstanding technical skill, especially in music.",
     "演奏名家；大師"
+  ],
+  "hermit": [
+    "A person who lives alone away from others.",
+    "隱士"
+  ],
+  "kibitzer": [
+    "A person who gives unwanted advice, especially while watching a game.",
+    "愛在旁出主意的人"
   ]
 });

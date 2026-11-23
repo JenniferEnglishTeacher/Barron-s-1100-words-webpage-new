@@ -255,6 +255,198 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "沒被邀請參加這場會議讓她感覺受到了怠慢。",
         "added": true,
         "group": "sat-contempt"
+      },
+      {
+        "word": "abominate",
+        "pos": "v.",
+        "definition": "To hate very strongly.",
+        "chinese": "痛恨；憎惡",
+        "synonyms": "detest, loathe, abhor",
+        "image": "shield",
+        "sentence": "Many people __________ cruelty to animals of any kind.",
+        "translation": "許多人痛恨任何形式的虐待動物。",
+        "lookup": {
+          "english": "To hate very strongly.",
+          "chinese": "痛恨；憎惡"
+        },
+        "advSentence": "The monks abominate violence of every kind.",
+        "advTranslation": "僧侶們憎惡任何形式的暴力。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh"
+        ]
+      },
+      {
+        "word": "averse",
+        "pos": "adj.",
+        "definition": "Strongly disliking or opposed to something.",
+        "chinese": "厭惡的；反對的",
+        "synonyms": "opposed, reluctant, disinclined",
+        "image": "shield",
+        "sentence": "He is not __________ to hard work.",
+        "translation": "他並不排斥辛苦工作。",
+        "lookup": {
+          "english": "Strongly disliking or opposed to something.",
+          "chinese": "厭惡的；反對的"
+        },
+        "advSentence": "Many investors are risk-averse and prefer safe savings accounts.",
+        "advTranslation": "許多投資人厭惡風險，偏好安全的儲蓄帳戶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-kinmen-jh"
+        ]
+      },
+      {
+        "word": "detest",
+        "pos": "v.",
+        "definition": "To hate very much.",
+        "chinese": "憎惡",
+        "synonyms": "hate, loathe, abhor",
+        "image": "shield",
+        "sentence": "I __________ people who are cruel to animals.",
+        "translation": "我憎惡虐待動物的人。",
+        "lookup": {
+          "english": "To hate very much.",
+          "chinese": "憎惡"
+        },
+        "advSentence": "She detests waking up early on weekends.",
+        "advTranslation": "她非常討厭週末早起。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "homophobia",
+        "pos": "n.",
+        "definition": "Fear or hatred of gay people.",
+        "chinese": "恐同",
+        "synonyms": "anti-gay prejudice, intolerance, bigotry",
+        "image": "shield",
+        "sentence": "The school has a policy against __________.",
+        "translation": "學校有反對恐同的政策。",
+        "lookup": {
+          "english": "Fear or hatred of gay people.",
+          "chinese": "恐同"
+        },
+        "advSentence": "The film explores the homophobia faced by young athletes.",
+        "advTranslation": "這部電影探討年輕運動員所面對的恐同歧視。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "offensive",
+        "pos": "adj.",
+        "definition": "Rude or insulting; used for attacking.",
+        "chinese": "冒犯的；攻擊性的",
+        "synonyms": "insulting, rude, aggressive",
+        "image": "shield",
+        "sentence": "His jokes were __________.",
+        "translation": "他的笑話很冒犯人。",
+        "lookup": {
+          "english": "Rude or insulting; used for attacking.",
+          "chinese": "冒犯的；攻擊性的"
+        },
+        "advSentence": "The team switched from defense to an aggressive offensive strategy.",
+        "advTranslation": "球隊從防守轉為積極進攻的策略。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "patronize",
+        "pos": "v.",
+        "definition": "To treat someone as if they were less intelligent.",
+        "chinese": "以高人一等的態度對待",
+        "synonyms": "condescend, talk down to, belittle",
+        "image": "shield",
+        "sentence": "Don't __________ me; I understand.",
+        "translation": "別用高人一等的態度對我，我懂。",
+        "lookup": {
+          "english": "To treat someone as if they were less intelligent.",
+          "chinese": "以高人一等的態度對待"
+        },
+        "advSentence": "Volunteers should help elderly residents without trying to patronize them.",
+        "advTranslation": "志工應協助長輩，而不是以居高臨下的態度對待他們。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "patronizingly",
+        "pos": "adv.",
+        "definition": "In a way that treats someone as less intelligent.",
+        "chinese": "居高臨下地",
+        "synonyms": "condescendingly, superciliously, haughtily",
+        "image": "shield",
+        "sentence": "He smiled __________ at the new intern.",
+        "translation": "他以居高臨下的態度對新來的實習生微笑。",
+        "lookup": {
+          "english": "In a way that treats someone as less intelligent.",
+          "chinese": "居高臨下地"
+        },
+        "advSentence": "The salesman spoke patronizingly, as if we could not understand prices.",
+        "advTranslation": "那位推銷員說話帶著輕視，好像我們看不懂價格一樣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "repel",
+        "pos": "v.",
+        "definition": "To push or drive something away.",
+        "chinese": "擊退；排斥",
+        "synonyms": "drive away, repulse, disgust",
+        "image": "shield",
+        "sentence": "This spray __________s mosquitoes.",
+        "translation": "這種噴霧能驅趕蚊子。",
+        "lookup": {
+          "english": "To push or drive something away.",
+          "chinese": "擊退；排斥"
+        },
+        "advSentence": "The army repelled the attack after a long battle.",
+        "advTranslation": "經過一場漫長的戰鬥，軍隊擊退了攻擊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh",
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "sardonic",
+        "pos": "adj.",
+        "definition": "Mocking in a cold, unpleasant way.",
+        "chinese": "譏諷的；冷笑的",
+        "synonyms": "mocking, sarcastic, sneering",
+        "image": "shield",
+        "sentence": "The novel's appeal lies not in overt moral instruction but in its __________ irony, which invites readers to question social norms without prescribing definitive conclusions.",
+        "translation": "這部小說的魅力不在於明顯的道德說教，而在於其譏諷的反諷，邀請讀者質疑社會規範而不給出定論。",
+        "lookup": {
+          "english": "Mocking in a cold, unpleasant way.",
+          "chinese": "譏諷的；冷笑的"
+        },
+        "advSentence": "He answered the question with a sardonic smile.",
+        "advTranslation": "他帶著譏諷的微笑回答這個問題。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae",
+          "115-cdsh-sh"
+        ]
       }
     ],
     "group": "sat-contempt",
@@ -320,5 +512,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "slight": [
     "Small in degree; a discourteous act or remark.",
     "輕微的;怠慢"
+  ],
+  "abominate": [
+    "To hate very strongly.",
+    "痛恨；憎惡"
+  ],
+  "averse": [
+    "Strongly disliking or opposed to something.",
+    "厭惡的；反對的"
+  ],
+  "detest": [
+    "To hate very much.",
+    "憎惡"
+  ],
+  "homophobia": [
+    "Fear or hatred of gay people.",
+    "恐同"
+  ],
+  "offensive": [
+    "Rude or insulting; used for attacking.",
+    "冒犯的；攻擊性的"
+  ],
+  "patronize": [
+    "To treat someone as if they were less intelligent.",
+    "以高人一等的態度對待"
+  ],
+  "patronizingly": [
+    "In a way that treats someone as less intelligent.",
+    "居高臨下地"
+  ],
+  "repel": [
+    "To push or drive something away.",
+    "擊退；排斥"
+  ],
+  "sardonic": [
+    "Mocking in a cold, unpleasant way.",
+    "譏諷的；冷笑的"
   ]
 });

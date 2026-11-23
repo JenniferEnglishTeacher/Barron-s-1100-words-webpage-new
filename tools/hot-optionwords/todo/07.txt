@@ -1,0 +1,140 @@
+synergize [L77 v. 產生綜效] NEED_S1 :: The two teams are synergizing well.
+tandem [L77 n. 協力；並行] :: Management and labor are learning to work in tandem, as has been evidenced by the sharp drop in strikes.
+truce [L77 n. 休戰] :: Both sides agreed to a truce.
+undistinguishable [L77 adj. 無法區分的] :: The twins are almost undistinguishable.
+adversarial [L78 adj. 對抗性的；對立的] :: The debate became adversarial rather than cooperative.
+afoul [L78 adv. 衝突地；牴觸（run afoul of 與…牴觸）] :: The company ran afoul of environmental laws.
+antagonist [L78 n. 反對者；對手] :: The villain is the antagonist of the story.
+antithetical [L78 adj. 正相反的；對立的] :: The author intentionally crafted a protagonist whose outward humility is antithetical to his latent, overwhelming vanity, thereby creating a psychological tension that remains unresolved until the final chapter.
+backlash [L78 n. 強烈反彈] :: The company's sudden policy change triggered a strong public backlash, with many customers expressing anger and disappointment.
+brabble [L78 v./n. 爭吵；口角] :: The neighbors brabbled over the fence.
+challenger [L78 n. 挑戰者] :: The challenger defeated the champion.
+clash [L78 v. 衝突；牴觸] :: Protesters clashed with police.
+competitively [L78 adv. 競爭地；有競爭力地] :: The product is competitively priced.
+contradictory [L78 adj. 矛盾的] :: The witnesses gave contradictory accounts.
+deadlock [L78 n. 僵局] :: Talks ended in deadlock.
+denial [L78 n. 否認；拒絕] :: He issued a firm denial of the charges.
+deny [L78 v. 否認；拒絕給予] NEED_S1 :: To stop the spread of the pandemic, anyone who failed to wear a mask in the hospital could be denied service and even fined.
+dissimilar [L78 adj. 不相似的] :: Not all of the faculty members come from the same backgrounds and have similar experiences that they tend to adopt dissimilar teaching methods.
+divergence [L78 n. 分歧；（言語）趨異] :: There is a divergence of opinion on this issue.
+estrangement [L78 n. 疏遠；不和] :: Years of estrangement kept the brothers apart.
+factious [L78 adj. 好結黨爭的；派系的] :: Factious politics weakened the government.
+friction [L78 n. 摩擦；不和] :: There is friction between the two departments.
+gauntlet [L78 n. 挑戰；長手套] :: She threw down the gauntlet to her rivals.
+imbalanced [L78 adj. 不平衡的] :: Her diet is imbalanced.
+incompatible [L78 adj. 不相容的；合不來的] :: The software is incompatible with older phones.
+incongruity [L78 n. 不協調；不一致] :: The incongruity of a penguin in the desert made us laugh.
+inverse [L78 adj. 相反的；反向的] :: A documented inverse relationship exists regarding credit accumulation, where an increase in vocational credits earned by a student typically results in a corresponding decrease in academic credits.
+loggerheads [L78 n. 爭執；意見不合] :: The two parties are at loggerheads over the budget.
+lopsided [L78 adj. 不平衡的；一面倒的] :: The team won a lopsided victory.
+objection [L78 n. 反對；異議] :: Does anyone have any objections?
+one-sided [L78 adj. 片面的；一面倒的] :: The article was very one-sided.
+opponent [L78 n. 對手；反對者] :: He defeated his opponent easily.
+partial [L78 adj. 部分的；偏袒的] :: The project was only a partial success.
+polarize [L78 v. 使兩極化] :: The issue has polarized the country.
+reprisal [L78 n. 報復] :: Workers feared reprisals for speaking out.
+rival [L78 n./v. 對手；比得上] :: Her talent rivals that of the professionals.
+rivalry [L78 n. 競爭；敵對] :: The rivalry between the teams is famous.
+stalemate [L78 n. 僵局] :: Tomorrow's meeting between the two leaders is expected to break a diplomatic stalemate that has lasted for ten years.
+tension [L78 n. 緊張；張力] :: There is tension between the two countries.
+vie [L78 v. 競爭] :: Companies vie for customers.
+destigmatize [L79 v. 去污名化] :: The campaign aims to destigmatize mental illness.
+emeritus [L79 adj. 榮譽退休的；名譽的] :: She is a professor emeritus of history.
+induct [L79 v. 使正式就職；吸收入會] :: She was inducted into the Hall of Fame.
+regard [L79 v./n. 視為；尊重] :: His opinions as regards the measures taken to address the disaster have been misunderstood.
+respectable [L79 adj. 體面的；值得尊重的] :: He comes from a respectable family.
+reverent [L79 adj. 虔敬的；恭敬的] :: They stood in reverent silence.
+salute [L79 v. 致敬；讚揚] :: We salute the volunteers.
+abominate [L80 v. 痛恨；憎惡] :: Many people abominate cruelty to animals of any kind.
+averse [L80 adj. 厭惡的；反對的] :: He is not averse to hard work.
+detest [L80 v. 憎惡] :: I detest people who are cruel to animals.
+homophobia [L80 n. 恐同] :: The school has a policy against homophobia.
+offensive [L80 adj. 冒犯的；攻擊性的] :: His jokes were offensive.
+patronize [L80 v. 以高人一等的態度對待] :: Don't patronize me; I understand.
+patronizingly [L80 adv. 居高臨下地] :: He smiled patronizingly at the new intern.
+repel [L80 v. 擊退；排斥] :: This spray repels mosquitoes.
+sardonic [L80 adj. 譏諷的；冷笑的] :: The novel's appeal lies not in overt moral instruction but in its sardonic irony, which invites readers to question social norms without prescribing definitive conclusions.
+amuck [L81 adv. 狂亂地；失控地] :: The bull ran amuck through the market.
+chaotic [L81 adj. 混亂的] :: The airport was chaotic after the storm.
+congest [L81 v. 使擁塞] :: Traffic congested the city center.
+congestion [L81 n. 擁擠；壅塞] :: As cities continue to grow at a dizzying rate, commuters are constantly battling ever-increasing congestion on the roads and a lack of parking, just to get to work.
+disorder [L81 n. 混亂；失調] :: People with sleep disorders should visit psychiatrists or doctors to find out the cause of their problems.
+disrupt [L81 v. 擾亂；中斷] :: Protests disrupted traffic.
+disruption [L81 n. 中斷；干擾] :: The strike caused major disruption.
+fragmented [L81 adj. 分裂的；破碎的] :: As the company expanded rapidly into international markets, its once cohesive corporate culture became increasingly fragmented, leading to internal conflicts.
+gridlock [L81 n. 交通大堵塞；僵局] :: Political gridlock stopped the reform.
+interfere [L81 v. 干擾；妨礙] :: Electronic devices are strictly prohibited during take-offs as they are likely to interfere with the communications between the pilots and control tower.
+jam [L81 n./v. 堵塞；卡住] :: We were stuck in a traffic jam.
+mayhem [L81 n. 混亂；騷亂] :: The sudden blackout caused mayhem in the crowded stadium, with people running to find exits and reunite with their friends.
+melee [L81 n. 混戰；混亂的人群] :: There was a fire alarm in the movie theater and everyone rushed out; fortunately, no one was hurt in the melee.
+patchwork [L81 n. 拼湊物；拼布] :: Discourse is not just a patchwork of preordained sentential meanings; it is a dynamic process of meaning creation.
+rampage [L81 v. 橫衝直撞；暴亂] :: Thousands of Vietnamese set fire to foreign factories and rampaged in industrial zones in the south of the country in an angry reaction to Chinese oil drilling in a part of the South China Sea claimed by Vietnam.
+randomize [L81 v. 隨機化] :: Randomize the order of the questions.
+roil [L81 v. 翻騰；擾亂] :: Tense protests and counter-protests regarding the Israeli-Palestinian conflict are roiling campus life at American colleges, including cancelled classes and numerous student and faculty arrests.
+scramble [L81 v. 爭搶；倉促行動] :: Students scrambled to finish before the bell.
+stochastic [L81 adj. 隨機的；機率性的] :: The movement of magma within a dormant volcano is often stochastic; while geologists can monitor subtle pressure shifts, the exact timing of a potential eruption remains a matter of probability rather than deterministic certainty.
+tamper [L81 v. 竄改；亂動] :: Someone tampered with the evidence.
+tumultuously [L81 adv. 喧騰地；激烈地] :: The crowd cheered tumultuously.
+turmoil [L81 n. 混亂；動盪] :: The country is in political turmoil.
+uncontrollable [L81 adj. 無法控制的] :: She had an uncontrollable urge to laugh.
+volatility [L81 n. 波動性；不穩定] :: The stock market has always experienced volatility, so to some, avoiding it entirely can ensure their long-term wealth and stay away from risks.
+applicability [L82 n. 適用性] :: We tested the applicability of the theory to real classrooms.
+availability [L82 n. 可得性；有空] :: Check the availability of rooms before you book.
+consequential [L82 adj. 重大的；隨之發生的] :: It was one of the most consequential decisions of his career.
+eligible [L82 adj. 有資格的] :: Students with high grades are eligible for scholarships.
+essence [L82 n. 本質；精髓] :: The essence of teaching is inspiring curiosity.
+essentially [L82 adv. 本質上；基本上] :: The two plans are essentially the same.
+feasibility [L82 n. 可行性] :: A study was done on the feasibility of the plan.
+fundamentally [L82 adv. 根本上] :: The two approaches are fundamentally different.
+indispensable [L82 adj. 不可或缺的] NEED_S1 :: Some knowledge of Latin, if only of the meaning of a few hundred words, is indispensableif one is to feel at ease with the English language as an instrument of thought.
+indispensably [L82 adv. 不可或缺地] :: Water is indispensably linked to life.
+necessitate [L82 v. 使成為必要] :: The injury necessitated surgery.
+necessity [L82 n. 必需品；必要性] :: Water is a basic necessity.
+obligation [L82 n. 義務；責任] :: Parents have an obligation to protect their children.
+pivotal [L82 adj. 關鍵的；樞紐的] :: The meeting was a pivotal moment.
+prerequisite [L82 n. 先決條件] :: The closing agreement procedures set forth in the revenue ruling is not a legal prerequisite for the treaty exemption.
+primarily [L82 adv. 主要地] :: The course is primarily for beginners.
+prioritize [L82 v. 優先處理] :: Prioritize your tasks.
+significance [L82 n. 重要性；意義] :: The discovery is of great significance.
+substantive [L82 adj. 實質的；重大的] :: We need substantive changes, not slogans.
+viability [L82 n. 可行性；生存能力] :: The viability of the plan is doubtful.
+worthwhile [L82 adj. 值得的] :: Volunteering is a worthwhile experience.
+dispensable [L83 adj. 可有可無的] :: Luxuries are dispensable in hard times.
+overexertion [L83 n. 用力過度] :: He collapsed from overexertion.
+overexpansion [L83 n. 過度擴張] :: Overexpansion bankrupted the chain.
+overexploitation [L83 n. 過度利用；濫捕] :: Overexploitation of fish stocks is a global issue.
+overextraction [L83 n. 過度開採] :: Overextraction of groundwater causes land to sink.
+overuse [L83 v. 過度使用] :: Don't overuse the word "very."
+canonical [L84 adj. 經典的；正統的] :: Shakespeare's plays are canonical works of English literature.
+conservatism [L84 n. 保守主義] :: Political conservatism resists rapid change.
+feudal [L84 adj. 封建的] :: Japan had a feudal system for centuries.
+formerly [L84 adv. 以前；先前] :: Taipei was formerly called Taihoku.
+fossilization [L84 n. （語言學習）僵化現象] :: Fossilization occurs when learner errors become permanent.
+heritage [L84 n. 遺產；傳統] :: Temples are part of Taiwan's cultural heritage.
+heyday [L84 n. 全盛時期] :: In its heyday, the empire wielded unparalleled influence, with its cultural and political hegemony extending across vast territories.
+hoary [L84 adj. 古老的；（頭髮）灰白的] :: He told the same hoary old jokes.
+reactionary [L84 adj. 反動的；保守的] :: Reactionary groups opposed the reforms.
+reminiscent [L84 adj. 使人想起的] :: The smell was reminiscent of my childhood.
+time-honored [L84 adj. 歷史悠久的；由來已久的] :: Dragon boat racing is a time-honored tradition.
+vintage [L84 adj. 經典的；古董的；陳年的] :: The Supreme Court judges maintain vintage positions when considering cases.
+cutting-edge [L85 adj. 最先進的] :: The lab uses cutting-edge technology.
+emergent [L85 adj. 新興的] :: Emergent literacy begins before school.
+ingenuity [L85 n. 獨創力；巧思] :: The engineers showed great ingenuity.
+mint [L85 v. 鑄造；創造] :: Newly minted graduates entered the job market.
+paradigm-shifting [L85 adj. 典範轉移的] :: The internet was a paradigm-shifting invention.
+trailblazing [L85 adj. 開創性的；先驅的] :: Stephen Hawking is recognized for his trailblazing work on black holes and singularities. His theory shines a gleam on the origin of the universe.
+uniqueness [L85 n. 獨特性] :: Each culture has its uniqueness.
+capitalize [L86 v. 利用（capitalize on）；以大寫書寫] :: The team capitalized on its opponent's mistakes.
+clout [L86 n. 影響力] :: The union has political clout.
+dominant [L86 adj. 主要的；佔優勢的] :: English is the dominant language of the internet.
+employ [L86 v. 運用；僱用] :: Writers employ many techniques to create suspense.
+excel [L86 v. 擅長；勝過] :: She excels in mathematics.
+finesse [L86 n. 手腕；技巧] :: She handled the dispute with finesse.
+flawless [L86 adj. 完美無瑕的] :: A nearly flawless diamond is more valuable than one with imperfections.
+harness [L86 v. 利用；駕馭] :: We need to harness solar power.
+influential [L86 adj. 有影響力的] :: She is an influential writer.
+juggernaut [L86 n. 勢不可擋的龐然大物] :: The company is a tech juggernaut.
+leverage [L86 v. 善用；槓桿運用] :: Taiwan's semiconductor industry is often described as a "Silicon Shield" that provides the island with crucial leverage against external military threats.
+maneuver [L86 v. 操縱；巧妙移動] :: She maneuvered the car into a small space.
+optimum [L86 adj. 最佳的；最適宜的] :: The optimum temperature is 25°C.
+orchestrate [L86 v. 策劃；協調安排] :: She orchestrated the whole event.

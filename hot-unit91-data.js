@@ -255,6 +255,247 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "廣告商受益於這個品牌在社群媒體平台上的普遍存在。",
         "added": true,
         "group": "sat-universal"
+      },
+      {
+        "word": "endemic",
+        "pos": "adj.",
+        "definition": "Regularly found in a particular place or group.",
+        "chinese": "地方性的；特有的",
+        "synonyms": "native, indigenous, widespread",
+        "image": "shield",
+        "sentence": "Epidemiologists warn that without robust global vaccination equity, the virus will not be eradicated but rather become __________, circulating perpetually within vulnerable populations.",
+        "translation": "流行病學家警告，若缺乏全球疫苗公平分配，病毒不會被根除，而會成為地方性流行病，在弱勢族群中持續循環。",
+        "lookup": {
+          "english": "Regularly found in a particular place or group.",
+          "chinese": "地方性的；特有的"
+        },
+        "advSentence": "The Formosan black bear is endemic to Taiwan.",
+        "advTranslation": "臺灣黑熊是臺灣的特有種。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh",
+          "115-chsh-3-sh",
+          "115-lssh-1-sh",
+          "115-lssh-2-sh"
+        ]
+      },
+      {
+        "word": "holistically",
+        "pos": "adv.",
+        "definition": "By considering the whole of something rather than its parts.",
+        "chinese": "整體地；全面地",
+        "synonyms": "comprehensively, wholly, integrally",
+        "image": "shield",
+        "sentence": "Teachers should assess students __________.",
+        "translation": "老師應該全面地評量學生。",
+        "lookup": {
+          "english": "By considering the whole of something rather than its parts.",
+          "chinese": "整體地；全面地"
+        },
+        "advSentence": "Doctors are encouraged to treat patients holistically, not just their symptoms.",
+        "advTranslation": "醫生被鼓勵以整體的方式治療病人，而不只是處理症狀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "homogeneity",
+        "pos": "n.",
+        "definition": "The quality of being all of the same kind.",
+        "chinese": "同質性",
+        "synonyms": "uniformity, sameness, similarity",
+        "image": "shield",
+        "sentence": "The __________ of the class made teaching easier.",
+        "translation": "班上學生程度相近，讓教學更容易。",
+        "lookup": {
+          "english": "The quality of being all of the same kind.",
+          "chinese": "同質性"
+        },
+        "advSentence": "The homogeneity of the village made outsiders stand out.",
+        "advTranslation": "村子的同質性讓外地人格外顯眼。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh",
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "inclusive",
+        "pos": "adj.",
+        "definition": "Including all the things mentioned.",
+        "chinese": "包括在內的",
+        "synonyms": "comprehensive, all-embracing, welcoming",
+        "image": "shield",
+        "sentence": "Candidates are required to take five tests, __________ of Chinese, English, math, natural science and social science.",
+        "translation": "考生必須參加五科考試，包括國文、英文、數學、自然與社會。",
+        "lookup": {
+          "english": "Including all the things mentioned.",
+          "chinese": "包括在內的"
+        },
+        "advSentence": "The school aims to create an inclusive environment for all students.",
+        "advTranslation": "學校致力於為所有學生營造包容的環境。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh",
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "inclusively",
+        "pos": "adv.",
+        "definition": "In a way that includes everyone or everything.",
+        "chinese": "包容地；包括在內地",
+        "synonyms": "comprehensively, openly, fully",
+        "image": "shield",
+        "sentence": "Lessons should be designed __________.",
+        "translation": "課程應以包容的方式設計。",
+        "lookup": {
+          "english": "In a way that includes everyone or everything.",
+          "chinese": "包容地；包括在內地"
+        },
+        "advSentence": "Good leaders speak inclusively so that every member feels valued.",
+        "advTranslation": "好的領導者說話時具包容性，讓每位成員都覺得受到重視。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "inclusivity",
+        "pos": "n.",
+        "definition": "The practice of including and accepting all kinds of people.",
+        "chinese": "包容性",
+        "synonyms": "inclusiveness, openness, acceptance",
+        "image": "shield",
+        "sentence": "The company values diversity and __________.",
+        "translation": "公司重視多元與包容。",
+        "lookup": {
+          "english": "The practice of including and accepting all kinds of people.",
+          "chinese": "包容性"
+        },
+        "advSentence": "The festival promotes inclusivity by offering sign-language interpreters.",
+        "advTranslation": "這個節慶提供手語翻譯，以推動包容性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh"
+        ]
+      },
+      {
+        "word": "mainstream",
+        "pos": "adj.",
+        "definition": "Accepted by most people.",
+        "chinese": "主流的",
+        "synonyms": "conventional, popular, prevailing",
+        "image": "shield",
+        "sentence": "__________ media covered the story.",
+        "translation": "主流媒體報導了這則新聞。",
+        "lookup": {
+          "english": "Accepted by most people.",
+          "chinese": "主流的"
+        },
+        "advSentence": "Bubble tea has entered the mainstream in Europe.",
+        "advTranslation": "珍珠奶茶已經打入歐洲主流市場。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "pandemic",
+        "pos": "adj.",
+        "definition": "Spreading over a whole country or the world.",
+        "chinese": "全球大流行的",
+        "synonyms": "global epidemic, widespread, worldwide",
+        "image": "shield",
+        "sentence": "The __________ closed schools worldwide.",
+        "translation": "全球大流行讓世界各地的學校停課。",
+        "lookup": {
+          "english": "Spreading over a whole country or the world.",
+          "chinese": "全球大流行的"
+        },
+        "advSentence": "The pandemic changed the way people work and study.",
+        "advTranslation": "這場大流行改變了人們工作與學習的方式。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh",
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "predominantly",
+        "pos": "adv.",
+        "definition": "Mainly.",
+        "chinese": "主要地",
+        "synonyms": "mainly, mostly, largely",
+        "image": "shield",
+        "sentence": "The town is __________ agricultural.",
+        "translation": "這座小鎮以農業為主。",
+        "lookup": {
+          "english": "Mainly.",
+          "chinese": "主要地"
+        },
+        "advSentence": "The audience was predominantly young women.",
+        "advTranslation": "觀眾以年輕女性為主。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae",
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "scattered",
+        "pos": "adj.",
+        "definition": "Spread over a wide area.",
+        "chinese": "分散的；零星的",
+        "synonyms": "dispersed, spread out, sparse",
+        "image": "shield",
+        "sentence": "There will be __________ showers.",
+        "translation": "將有零星陣雨。",
+        "lookup": {
+          "english": "Spread over a wide area.",
+          "chinese": "分散的；零星的"
+        },
+        "advSentence": "Toys were scattered all over the living room floor.",
+        "advTranslation": "玩具散落在客廳地板上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh"
+        ]
+      },
+      {
+        "word": "sweep",
+        "pos": "v.",
+        "definition": "To clean with a brush; to spread quickly.",
+        "chinese": "掃除；席捲",
+        "synonyms": "clean, spread, surge",
+        "image": "shield",
+        "sentence": "The singer managed to __________ the Grammy categories that night.",
+        "translation": "那位歌手在多個葛萊美獎項中大獲全勝，是頒獎典禮上的最大贏家。",
+        "lookup": {
+          "english": "To clean with a brush; to spread quickly.",
+          "chinese": "掃除；席捲"
+        },
+        "advSentence": "A wave of protests began to sweep across the country.",
+        "advTranslation": "一波抗議浪潮開始席捲全國。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "115-hcdes-sh"
+        ]
       }
     ],
     "group": "sat-universal",
@@ -320,5 +561,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ubiquity": [
     "The state of being present everywhere at once.",
     "無所不在;普遍存在"
+  ],
+  "endemic": [
+    "Regularly found in a particular place or group.",
+    "地方性的；特有的"
+  ],
+  "holistically": [
+    "By considering the whole of something rather than its parts.",
+    "整體地；全面地"
+  ],
+  "homogeneity": [
+    "The quality of being all of the same kind.",
+    "同質性"
+  ],
+  "inclusive": [
+    "Including all the things mentioned.",
+    "包括在內的"
+  ],
+  "inclusively": [
+    "In a way that includes everyone or everything.",
+    "包容地；包括在內地"
+  ],
+  "inclusivity": [
+    "The practice of including and accepting all kinds of people.",
+    "包容性"
+  ],
+  "mainstream": [
+    "Accepted by most people.",
+    "主流的"
+  ],
+  "pandemic": [
+    "Spreading over a whole country or the world.",
+    "全球大流行的"
+  ],
+  "predominantly": [
+    "Mainly.",
+    "主要地"
+  ],
+  "scattered": [
+    "Spread over a wide area.",
+    "分散的；零星的"
+  ],
+  "sweep": [
+    "To clean with a brush; to spread quickly.",
+    "掃除；席捲"
   ]
 });

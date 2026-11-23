@@ -327,6 +327,342 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "歷史學家研究這場運動,以了解為何有這麼多年輕人被吸引成為無政府主義者。",
         "added": true,
         "group": "sat-rebel"
+      },
+      {
+        "word": "abolitionist",
+        "pos": "n.",
+        "definition": "A person who wants to end slavery or a law.",
+        "chinese": "廢奴主義者；廢除論者",
+        "synonyms": "emancipator, reformer, activist",
+        "image": "shield",
+        "sentence": "In the years before the Civil War, those who opposed slavery, the __________s, were a small, impotent minority.",
+        "translation": "南北戰爭前那些年，反對奴隸制度的廢奴主義者只是弱小、無力的少數。",
+        "lookup": {
+          "english": "A person who wants to end slavery or a law.",
+          "chinese": "廢奴主義者；廢除論者"
+        },
+        "advSentence": "Frederick Douglass became one of the most powerful abolitionist voices of his time.",
+        "advTranslation": "道格拉斯成為當時最有力量的廢奴主義者之一。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-kinmen-jh"
+        ]
+      },
+      {
+        "word": "contravention",
+        "pos": "n.",
+        "definition": "An act that breaks a law or rule.",
+        "chinese": "違反；違背",
+        "synonyms": "violation, breach, infringement",
+        "image": "shield",
+        "sentence": "The factory acted in __________ of safety law.",
+        "translation": "這家工廠違反了安全法規。",
+        "lookup": {
+          "english": "An act that breaks a law or rule.",
+          "chinese": "違反；違背"
+        },
+        "advSentence": "Selling alcohol to minors is in contravention of the law.",
+        "advTranslation": "販賣酒類給未成年人違反法律。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
+      },
+      {
+        "word": "countermand",
+        "pos": "v.",
+        "definition": "To cancel an order already given.",
+        "chinese": "撤銷（命令）",
+        "synonyms": "revoke, cancel, overrule",
+        "image": "shield",
+        "sentence": "The general __________d the order to attack.",
+        "translation": "將軍撤銷了攻擊命令。",
+        "lookup": {
+          "english": "To cancel an order already given.",
+          "chinese": "撤銷（命令）"
+        },
+        "advSentence": "The manager countermanded his assistant's instructions to the staff.",
+        "advTranslation": "經理撤回了助理對員工下的指示。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-kinmen-jh"
+        ]
+      },
+      {
+        "word": "defiance",
+        "pos": "n.",
+        "definition": "Open refusal to obey.",
+        "chinese": "違抗；蔑視",
+        "synonyms": "resistance, disobedience, rebellion",
+        "image": "shield",
+        "sentence": "In __________ of the ban, they held the protest.",
+        "translation": "他們不顧禁令舉行了抗議。",
+        "lookup": {
+          "english": "Open refusal to obey.",
+          "chinese": "違抗；蔑視"
+        },
+        "advSentence": "The student's defiance of the dress code led to a meeting with his parents.",
+        "advTranslation": "這名學生違抗服裝規定，學校因此與他的家長面談。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-hsnu-sh"
+        ]
+      },
+      {
+        "word": "defy",
+        "pos": "v.",
+        "definition": "To openly refuse to obey or follow.",
+        "chinese": "違抗；藐視",
+        "synonyms": "resist, disobey, challenge",
+        "image": "shield",
+        "sentence": "The beauty of the scene seemed to __________ description.",
+        "translation": "這景色之美難以形容。",
+        "lookup": {
+          "english": "To openly refuse to obey or follow.",
+          "chinese": "違抗；藐視"
+        },
+        "advSentence": "The young athlete continues to defy the odds by winning against older rivals.",
+        "advTranslation": "這位年輕運動員持續打敗年長的對手，屢屢跌破眾人眼鏡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "deviance",
+        "pos": "n.",
+        "definition": "Behavior that is different from what is normal or accepted.",
+        "chinese": "偏差行為；越軌",
+        "synonyms": "abnormality, deviation, nonconformity",
+        "image": "shield",
+        "sentence": "Sociologists study social __________.",
+        "translation": "社會學家研究社會偏差行為。",
+        "lookup": {
+          "english": "Behavior that is different from what is normal or accepted.",
+          "chinese": "偏差行為；越軌"
+        },
+        "advSentence": "Some societies treat any deviance from tradition as a threat.",
+        "advTranslation": "有些社會把任何偏離傳統的行為都視為威脅。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tysh-sh"
+        ]
+      },
+      {
+        "word": "deviant",
+        "pos": "adj.",
+        "definition": "Different from what is normal or accepted.",
+        "chinese": "偏離常規的；異常的",
+        "synonyms": "abnormal, aberrant, irregular",
+        "image": "shield",
+        "sentence": "__________ behavior often leads to punishment.",
+        "translation": "偏差行為往往招致懲罰。",
+        "lookup": {
+          "english": "Different from what is normal or accepted.",
+          "chinese": "偏離常規的；異常的"
+        },
+        "advSentence": "Researchers studied why some teenagers develop deviant habits.",
+        "advTranslation": "研究人員探討為什麼有些青少年會養成偏差習慣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hsnu-2-sh"
+        ]
+      },
+      {
+        "word": "liberate",
+        "pos": "v.",
+        "definition": "To set free.",
+        "chinese": "解放",
+        "synonyms": "free, release, emancipate",
+        "image": "shield",
+        "sentence": "The city was __________d in 1945.",
+        "translation": "這座城市在 1945 年被解放。",
+        "lookup": {
+          "english": "To set free.",
+          "chinese": "解放"
+        },
+        "advSentence": "Online learning can liberate students from rigid schedules.",
+        "advTranslation": "線上學習能讓學生擺脫僵化的時間表。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "overstep",
+        "pos": "v.",
+        "definition": "To go beyond what is allowed.",
+        "chinese": "逾越",
+        "synonyms": "exceed, go beyond, transgress",
+        "image": "shield",
+        "sentence": "The officer was warned not to __________ his authority.",
+        "translation": "他逾越了自己的權限。",
+        "lookup": {
+          "english": "To go beyond what is allowed.",
+          "chinese": "逾越"
+        },
+        "advSentence": "A good coach knows when not to overstep the boundaries of a player's private life.",
+        "advTranslation": "好教練知道何時不該越界干涉球員的私生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh"
+        ]
+      },
+      {
+        "word": "rebel",
+        "pos": "v.",
+        "definition": "To fight against those in power.",
+        "chinese": "反叛；造反",
+        "synonyms": "revolt, resist, defy",
+        "image": "shield",
+        "sentence": "Teenagers often __________ against their parents.",
+        "translation": "青少年常常反抗父母。",
+        "lookup": {
+          "english": "To fight against those in power.",
+          "chinese": "反叛；造反"
+        },
+        "advSentence": "Farmers rebelled against the unfair taxes imposed by the king.",
+        "advTranslation": "農民起義反抗國王施加的不公平稅收。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-kinmen-jh"
+        ]
+      },
+      {
+        "word": "recalcitrance",
+        "pos": "n.",
+        "definition": "Refusal to obey or cooperate.",
+        "chinese": "頑抗；不服從",
+        "synonyms": "defiance, obstinacy, disobedience",
+        "image": "shield",
+        "sentence": "The child's __________ frustrated his teacher.",
+        "translation": "那孩子的頑抗讓老師很挫折。",
+        "lookup": {
+          "english": "Refusal to obey or cooperate.",
+          "chinese": "頑抗；不服從"
+        },
+        "advSentence": "The government's recalcitrance delayed the climate agreement.",
+        "advTranslation": "政府的不配合延誤了氣候協議。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "rioter",
+        "pos": "n.",
+        "definition": "A person who takes part in a violent public disturbance.",
+        "chinese": "暴徒",
+        "synonyms": "troublemaker, insurgent, protester",
+        "image": "shield",
+        "sentence": "During the looting, the __________s stole everything they could and then set fire to the buildings.",
+        "translation": "劫掠期間，暴徒偷走所有能拿的東西，然後放火燒了建築物。",
+        "lookup": {
+          "english": "A person who takes part in a violent public disturbance.",
+          "chinese": "暴徒"
+        },
+        "advSentence": "Police arrested dozens of rioters after the violent protest.",
+        "advTranslation": "暴力抗議後，警方逮捕了數十名暴徒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "subversion",
+        "pos": "n.",
+        "definition": "Secret action to weaken or destroy a system or authority.",
+        "chinese": "顛覆",
+        "synonyms": "undermining, sabotage, overthrow",
+        "image": "shield",
+        "sentence": "Big changes often start with acts that looked pointless at the time: small acts of resistance, bold acts of defiance, subtle acts of __________, even witty acts of disobedience.",
+        "translation": "重大變革往往始於當時看似無意義的舉動：小小的抵抗、大膽的違抗、微妙的顛覆，甚至機智的不服從。",
+        "lookup": {
+          "english": "Secret action to weaken or destroy a system or authority.",
+          "chinese": "顛覆"
+        },
+        "advSentence": "The writer was jailed on charges of subversion.",
+        "advTranslation": "那位作家以顛覆罪名被關進監獄。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "subversive",
+        "pos": "adj.",
+        "definition": "Trying to weaken or destroy a government or established system.",
+        "chinese": "顛覆性的",
+        "synonyms": "rebellious, seditious, disruptive",
+        "image": "shield",
+        "sentence": "The book was banned as __________.",
+        "translation": "這本書因被認為具顛覆性而遭禁。",
+        "lookup": {
+          "english": "Trying to weaken or destroy a government or established system.",
+          "chinese": "顛覆性的"
+        },
+        "advSentence": "The comedian's jokes were gently subversive, mocking those in power.",
+        "advTranslation": "這位喜劇演員的笑話帶有溫和的顛覆性，嘲諷掌權者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh"
+        ]
+      },
+      {
+        "word": "unwillingly",
+        "pos": "adv.",
+        "definition": "Without wanting to.",
+        "chinese": "不情願地",
+        "synonyms": "reluctantly, grudgingly, unenthusiastically",
+        "image": "shield",
+        "sentence": "He __________ agreed.",
+        "translation": "他不情願地答應了。",
+        "lookup": {
+          "english": "Without wanting to.",
+          "chinese": "不情願地"
+        },
+        "advSentence": "The child unwillingly handed over the toy to his younger brother.",
+        "advTranslation": "那個孩子不情願地把玩具交給弟弟。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ckhs-sh"
+        ]
+      },
+      {
+        "word": "violate",
+        "pos": "v.",
+        "definition": "Broke a rule or law; disrespected.",
+        "chinese": "違反；侵犯",
+        "synonyms": "break, breach, infringe",
+        "image": "shield",
+        "sentence": "The company __________d safety laws.",
+        "translation": "這家公司違反了安全法規。",
+        "lookup": {
+          "english": "Broke a rule or law; disrespected.",
+          "chinese": "違反；侵犯"
+        },
+        "advSentence": "Posting someone's photo without permission may violate their privacy.",
+        "advTranslation": "未經同意張貼他人的照片可能侵犯其隱私。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh"
+        ]
       }
     ],
     "group": "sat-rebel",
@@ -408,5 +744,69 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "anarchist": [
     "One who wants to eliminate all government.",
     "無政府主義者"
+  ],
+  "abolitionist": [
+    "A person who wants to end slavery or a law.",
+    "廢奴主義者；廢除論者"
+  ],
+  "contravention": [
+    "An act that breaks a law or rule.",
+    "違反；違背"
+  ],
+  "countermand": [
+    "To cancel an order already given.",
+    "撤銷（命令）"
+  ],
+  "defiance": [
+    "Open refusal to obey.",
+    "違抗；蔑視"
+  ],
+  "defy": [
+    "To openly refuse to obey or follow.",
+    "違抗；藐視"
+  ],
+  "deviance": [
+    "Behavior that is different from what is normal or accepted.",
+    "偏差行為；越軌"
+  ],
+  "deviant": [
+    "Different from what is normal or accepted.",
+    "偏離常規的；異常的"
+  ],
+  "liberate": [
+    "To set free.",
+    "解放"
+  ],
+  "overstep": [
+    "To go beyond what is allowed.",
+    "逾越"
+  ],
+  "rebel": [
+    "To fight against those in power.",
+    "反叛；造反"
+  ],
+  "recalcitrance": [
+    "Refusal to obey or cooperate.",
+    "頑抗；不服從"
+  ],
+  "rioter": [
+    "A person who takes part in a violent public disturbance.",
+    "暴徒"
+  ],
+  "subversion": [
+    "Secret action to weaken or destroy a system or authority.",
+    "顛覆"
+  ],
+  "subversive": [
+    "Trying to weaken or destroy a government or established system.",
+    "顛覆性的"
+  ],
+  "unwillingly": [
+    "Without wanting to.",
+    "不情願地"
+  ],
+  "violate": [
+    "Broke a rule or law; disrespected.",
+    "違反；侵犯"
   ]
 });

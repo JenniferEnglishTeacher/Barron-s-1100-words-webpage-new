@@ -129,6 +129,114 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他一生都是這個政黨忠實的支持者。",
         "added": true,
         "group": "sat-loyal"
+      },
+      {
+        "word": "allegiance",
+        "pos": "n.",
+        "definition": "Loyalty to a person, group, or country.",
+        "chinese": "忠誠；效忠",
+        "synonyms": "loyalty, fidelity, devotion",
+        "image": "shield",
+        "sentence": "As an Englishman who'd lived for a long time in Spain, he felt a certain conflict of __________s when the two countries played soccer.",
+        "translation": "身為一個在西班牙住了很久的英國人，每當兩國踢足球時，他都會感到某種忠誠上的矛盾。",
+        "lookup": {
+          "english": "Loyalty to a person, group, or country.",
+          "chinese": "忠誠；效忠"
+        },
+        "advSentence": "Citizens swear allegiance to the constitution, not to any single leader.",
+        "advTranslation": "公民宣誓效忠的是憲法，而不是任何一位領導人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh",
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "attachment",
+        "pos": "n.",
+        "definition": "A feeling of love or connection to someone or something.",
+        "chinese": "依戀；附著",
+        "synonyms": "bond, fondness, connection",
+        "image": "shield",
+        "sentence": "Young children form a strong __________ to their parents.",
+        "translation": "年幼的孩子對父母有強烈的依戀。",
+        "lookup": {
+          "english": "A feeling of love or connection to someone or something.",
+          "chinese": "依戀；附著"
+        },
+        "advSentence": "Please send the report as an email attachment.",
+        "advTranslation": "請把報告以電子郵件附件寄出。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "dedication",
+        "pos": "n.",
+        "definition": "Hard work and commitment.",
+        "chinese": "奉獻；專注",
+        "synonyms": "commitment, devotion, loyalty",
+        "image": "shield",
+        "sentence": "Her __________ to her students is admirable.",
+        "translation": "她對學生的奉獻令人敬佩。",
+        "lookup": {
+          "english": "Hard work and commitment.",
+          "chinese": "奉獻；專注"
+        },
+        "advSentence": "The new library was opened with a dedication ceremony.",
+        "advTranslation": "新圖書館以獻館典禮揭幕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh",
+          "109-hccg-jh"
+        ]
+      },
+      {
+        "word": "patriotism",
+        "pos": "n.",
+        "definition": "Love of and loyalty to one's country.",
+        "chinese": "愛國心",
+        "synonyms": "nationalism, loyalty, devotion",
+        "image": "shield",
+        "sentence": "The song inspired __________.",
+        "translation": "這首歌激發了愛國心。",
+        "lookup": {
+          "english": "Love of and loyalty to one's country.",
+          "chinese": "愛國心"
+        },
+        "advSentence": "Patriotism should not become an excuse for hating other nations.",
+        "advTranslation": "愛國心不應成為仇視其他國家的藉口。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh",
+          "109-ntpc-sh"
+        ]
+      },
+      {
+        "word": "sympathizer",
+        "pos": "n.",
+        "definition": "A person who supports a cause.",
+        "chinese": "同情者；支持者",
+        "synonyms": "supporter, ally, backer",
+        "image": "shield",
+        "sentence": "He was a __________ of the movement.",
+        "translation": "他是這場運動的同情者。",
+        "lookup": {
+          "english": "A person who supports a cause.",
+          "chinese": "同情者；支持者"
+        },
+        "advSentence": "The rebels relied on sympathizers in the villages for food and shelter.",
+        "advTranslation": "叛軍依靠村裡的同情者提供食物與住處。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
       }
     ],
     "group": "sat-loyal",
@@ -166,5 +274,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "adherent": [
     "Backer, supporter.",
     "擁護者/信徒"
+  ],
+  "allegiance": [
+    "Loyalty to a person, group, or country.",
+    "忠誠；效忠"
+  ],
+  "attachment": [
+    "A feeling of love or connection to someone or something.",
+    "依戀；附著"
+  ],
+  "dedication": [
+    "Hard work and commitment.",
+    "奉獻；專注"
+  ],
+  "patriotism": [
+    "Love of and loyalty to one's country.",
+    "愛國心"
+  ],
+  "sympathizer": [
+    "A person who supports a cause.",
+    "同情者；支持者"
   ]
 });

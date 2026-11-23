@@ -309,6 +309,197 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "教授停下來,闡明一個特別令人困惑的公式。",
         "added": true,
         "group": "sat-hide-show"
+      },
+      {
+        "word": "blazon",
+        "pos": "v.",
+        "definition": "To show or announce something clearly and publicly.",
+        "chinese": "宣揚；彰顯",
+        "synonyms": "proclaim, display, publicize",
+        "image": "shield",
+        "sentence": "The young actor wished that his debut on Broadway would __________ out his great acting ability.",
+        "translation": "這位年輕演員希望在百老匯的首演能彰顯他出色的演技。",
+        "lookup": {
+          "english": "To show or announce something clearly and publicly.",
+          "chinese": "宣揚；彰顯"
+        },
+        "advSentence": "Newspapers blazoned the scandal across their front pages.",
+        "advTranslation": "各報紙在頭版大肆報導這起醜聞。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh"
+        ]
+      },
+      {
+        "word": "exhume",
+        "pos": "v.",
+        "definition": "To dig a dead body out of the ground.",
+        "chinese": "掘出（屍體）",
+        "synonyms": "dig up, unearth, disinter",
+        "image": "shield",
+        "sentence": "The body was __________d for further tests.",
+        "translation": "為了進一步檢驗，屍體被挖掘出來。",
+        "lookup": {
+          "english": "To dig a dead body out of the ground.",
+          "chinese": "掘出（屍體）"
+        },
+        "advSentence": "Historians exhume forgotten letters to understand the past.",
+        "advTranslation": "歷史學家挖掘被遺忘的書信以了解過去。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-taipei-jh",
+          "115-nycu-sh"
+        ]
+      },
+      {
+        "word": "exposure",
+        "pos": "n.",
+        "definition": "Being in contact with something; making something public.",
+        "chinese": "接觸；暴露；揭露",
+        "synonyms": "contact, revelation, disclosure",
+        "image": "shield",
+        "sentence": "Early __________ to English helps young learners.",
+        "translation": "及早接觸英語有助於年幼的學習者。",
+        "lookup": {
+          "english": "Being in contact with something; making something public.",
+          "chinese": "接觸；暴露；揭露"
+        },
+        "advSentence": "Long exposure to the sun can damage your skin.",
+        "advTranslation": "長時間曝曬在陽光下會傷害皮膚。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-cr-jh"
+        ]
+      },
+      {
+        "word": "proclamation",
+        "pos": "n.",
+        "definition": "An official public announcement.",
+        "chinese": "宣告；公告",
+        "synonyms": "announcement, declaration, decree",
+        "image": "shield",
+        "sentence": "The slaves in the States were freed by the Emancipation __________.",
+        "translation": "美國各州的奴隸因《解放奴隸宣言》而獲得自由。",
+        "lookup": {
+          "english": "An official public announcement.",
+          "chinese": "宣告；公告"
+        },
+        "advSentence": "The mayor issued a proclamation declaring a day of mourning.",
+        "advTranslation": "市長發布公告，宣布舉行哀悼日。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh",
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "publicity",
+        "pos": "n.",
+        "definition": "Public attention; advertising.",
+        "chinese": "宣傳；公眾注意",
+        "synonyms": "promotion, attention, exposure",
+        "image": "shield",
+        "sentence": "The scandal brought bad __________.",
+        "translation": "這起醜聞帶來負面的宣傳。",
+        "lookup": {
+          "english": "Public attention; advertising.",
+          "chinese": "宣傳；公眾注意"
+        },
+        "advSentence": "The charity concert received a lot of positive publicity.",
+        "advTranslation": "這場慈善音樂會獲得許多正面報導。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "showcase",
+        "pos": "n.",
+        "definition": "An event or place for displaying the best of something.",
+        "chinese": "展示場；櫥窗",
+        "synonyms": "display, exhibition, platform",
+        "image": "shield",
+        "sentence": "The festival is a __________ for new talent.",
+        "translation": "這個節慶是新秀的展示舞台。",
+        "lookup": {
+          "english": "An event or place for displaying the best of something.",
+          "chinese": "展示場；櫥窗"
+        },
+        "advSentence": "The exhibition will showcase the work of young designers.",
+        "advTranslation": "這場展覽將展示年輕設計師的作品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-sh"
+        ]
+      },
+      {
+        "word": "telegraph",
+        "pos": "v.",
+        "definition": "To make your intentions clear without meaning to.",
+        "chinese": "（無意中）洩露意圖",
+        "synonyms": "signal, reveal, betray",
+        "image": "shield",
+        "sentence": "The pitcher __________d his next throw.",
+        "translation": "投手無意中洩露了他下一球的意圖。",
+        "lookup": {
+          "english": "To make your intentions clear without meaning to.",
+          "chinese": "（無意中）洩露意圖"
+        },
+        "advSentence": "A good poker player never telegraphs her intentions.",
+        "advTranslation": "好的撲克牌玩家從不洩露自己的意圖。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "unearth",
+        "pos": "v.",
+        "definition": "To find something after searching; to dig up.",
+        "chinese": "發掘；查出",
+        "synonyms": "dig up, discover, uncover",
+        "image": "shield",
+        "sentence": "The detective __________d a valuable piece of evidence after carefully searching the crime scene.",
+        "translation": "偵探仔細搜查犯罪現場後，挖掘出一項重要證據。",
+        "lookup": {
+          "english": "To find something after searching; to dig up.",
+          "chinese": "發掘；查出"
+        },
+        "advSentence": "Archaeologists unearthed a 3,000-year-old tomb near the river.",
+        "advTranslation": "考古學家在河邊挖掘出一座三千年歷史的古墓。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "unleash",
+        "pos": "v.",
+        "definition": "To suddenly let a strong force or feeling be free.",
+        "chinese": "釋放；發洩",
+        "synonyms": "release, let loose, unchain",
+        "image": "shield",
+        "sentence": "The storm __________d heavy rain.",
+        "translation": "暴風雨帶來豪雨。",
+        "lookup": {
+          "english": "To suddenly let a strong force or feeling be free.",
+          "chinese": "釋放；發洩"
+        },
+        "advSentence": "The new technology could unleash a wave of creativity.",
+        "advTranslation": "這項新技術可能激發一波創意浪潮。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
       }
     ],
     "group": "sat-hide-show",
@@ -386,5 +577,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "clarify": [
     "To make something clearer or easier to understand.",
     "澄清;闡明"
+  ],
+  "blazon": [
+    "To show or announce something clearly and publicly.",
+    "宣揚；彰顯"
+  ],
+  "exhume": [
+    "To dig a dead body out of the ground.",
+    "掘出（屍體）"
+  ],
+  "exposure": [
+    "Being in contact with something; making something public.",
+    "接觸；暴露；揭露"
+  ],
+  "proclamation": [
+    "An official public announcement.",
+    "宣告；公告"
+  ],
+  "publicity": [
+    "Public attention; advertising.",
+    "宣傳；公眾注意"
+  ],
+  "showcase": [
+    "An event or place for displaying the best of something.",
+    "展示場；櫥窗"
+  ],
+  "telegraph": [
+    "To make your intentions clear without meaning to.",
+    "（無意中）洩露意圖"
+  ],
+  "unearth": [
+    "To find something after searching; to dig up.",
+    "發掘；查出"
+  ],
+  "unleash": [
+    "To suddenly let a strong force or feeling be free.",
+    "釋放；發洩"
   ]
 });

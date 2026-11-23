@@ -219,6 +219,219 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "法律是可變的,隨著時間演變以反映社會不斷變化的價值觀。",
         "added": true,
         "group": "hot-23"
+      },
+      {
+        "word": "afield",
+        "pos": "adv.",
+        "definition": "Away from home; to or at a distance.",
+        "chinese": "在遠處；離開正軌",
+        "synonyms": "astray, abroad, far away",
+        "image": "shield",
+        "sentence": "Students came from as far __________ as Kenya and Peru.",
+        "translation": "學生來自遠至肯亞和祕魯的地方。",
+        "lookup": {
+          "english": "Away from home; to or at a distance.",
+          "chinese": "在遠處；離開正軌"
+        },
+        "advSentence": "The discussion wandered far afield from the original topic.",
+        "advTranslation": "討論偏離原本的主題很遠。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "ephemera",
+        "pos": "n.",
+        "definition": "Things that are important or used for only a short time.",
+        "chinese": "短暫之物；一時之物",
+        "synonyms": "short-lived things, trifles, keepsakes",
+        "image": "shield",
+        "sentence": "The museum collects postcards and other __________.",
+        "translation": "這間博物館收藏明信片和其他短暫之物。",
+        "lookup": {
+          "english": "Things that are important or used for only a short time.",
+          "chinese": "短暫之物；一時之物"
+        },
+        "advSentence": "Concert tickets, flyers, and other ephemera reveal how ordinary people lived.",
+        "advTranslation": "演唱會門票、傳單等一時之物，透露了一般人的生活樣貌。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nhsh115-2-sh"
+        ]
+      },
+      {
+        "word": "episodic",
+        "pos": "adj.",
+        "definition": "Happening only now and then.",
+        "chinese": "偶發的；片段的",
+        "synonyms": "intermittent, sporadic, occasional",
+        "image": "shield",
+        "sentence": "__________ memory stores personal experiences.",
+        "translation": "情節記憶儲存個人的經驗。",
+        "lookup": {
+          "english": "Happening only now and then.",
+          "chinese": "偶發的；片段的"
+        },
+        "advSentence": "His episodic headaches made it hard to plan his schedule.",
+        "advTranslation": "他偶發的頭痛讓他很難安排行程。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh"
+        ]
+      },
+      {
+        "word": "interim",
+        "pos": "adj.",
+        "definition": "Temporary, used until something permanent is ready.",
+        "chinese": "暫時的；過渡期的",
+        "synonyms": "temporary, provisional, acting",
+        "image": "shield",
+        "sentence": "An __________ principal was appointed.",
+        "translation": "學校任命了一位代理校長。",
+        "lookup": {
+          "english": "Temporary, used until something permanent is ready.",
+          "chinese": "暫時的；過渡期的"
+        },
+        "advSentence": "In the interim, students will take classes in the temporary classrooms.",
+        "advTranslation": "在過渡期間，學生將在臨時教室上課。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "interlude",
+        "pos": "n.",
+        "definition": "A short period between two events or activities.",
+        "chinese": "插曲；間歇",
+        "synonyms": "interval, break, pause",
+        "image": "shield",
+        "sentence": "The music played during the __________.",
+        "translation": "中場時播放著音樂。",
+        "lookup": {
+          "english": "A short period between two events or activities.",
+          "chinese": "插曲；間歇"
+        },
+        "advSentence": "The vacation was a pleasant interlude in an otherwise hectic year.",
+        "advTranslation": "那次假期是忙碌一年中一段愉快的插曲。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "mutability",
+        "pos": "n.",
+        "definition": "The quality of being able to change.",
+        "chinese": "易變性；可變性",
+        "synonyms": "changeability, variability, instability",
+        "image": "shield",
+        "sentence": "The __________ of language interests linguists.",
+        "translation": "語言的易變性讓語言學家很感興趣。",
+        "lookup": {
+          "english": "The quality of being able to change.",
+          "chinese": "易變性；可變性"
+        },
+        "advSentence": "Buddhist teachings emphasize the mutability of all things.",
+        "advTranslation": "佛教教義強調萬物無常。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh"
+        ]
+      },
+      {
+        "word": "perishable",
+        "pos": "adj.",
+        "definition": "Likely to go bad quickly (often about food).",
+        "chinese": "易腐壞的",
+        "synonyms": "short-lived, decomposable, spoilable",
+        "image": "shield",
+        "sentence": "Keep __________ food in the fridge.",
+        "translation": "把易腐壞的食物放進冰箱。",
+        "lookup": {
+          "english": "Likely to go bad quickly (often about food).",
+          "chinese": "易腐壞的"
+        },
+        "advSentence": "Fame is perishable; today's celebrity is soon forgotten.",
+        "advTranslation": "名聲轉瞬即逝，今天的名人很快就會被遺忘。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "provisional",
+        "pos": "adj.",
+        "definition": "Existing only for now and likely to change.",
+        "chinese": "暫時的；臨時的",
+        "synonyms": "temporary, interim, tentative",
+        "image": "shield",
+        "sentence": "This is a __________ timetable.",
+        "translation": "這是暫定的時間表。",
+        "lookup": {
+          "english": "Existing only for now and likely to change.",
+          "chinese": "暫時的；臨時的"
+        },
+        "advSentence": "The team reached a provisional agreement, pending final approval.",
+        "advTranslation": "團隊達成了初步協議，尚待最後核准。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "stray",
+        "pos": "v./adj.",
+        "definition": "To wander away; lost.",
+        "chinese": "迷路；走失的",
+        "synonyms": "wander, drift, lost",
+        "image": "shield",
+        "sentence": "I tried to concentrate on my homework but my eyes kept __________ing away from the workbook.",
+        "translation": "我試著專心寫功課，但眼睛一直飄離作業本。",
+        "lookup": {
+          "english": "To wander away; lost.",
+          "chinese": "迷路；走失的"
+        },
+        "advSentence": "Volunteers feed the stray cats that live near the old temple.",
+        "advTranslation": "志工們餵養住在老廟附近的流浪貓。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "vanish",
+        "pos": "v.",
+        "definition": "To disappear suddenly.",
+        "chinese": "消失",
+        "synonyms": "disappear, fade, evaporate",
+        "image": "shield",
+        "sentence": "The magician made the coin __________.",
+        "translation": "魔術師讓硬幣消失了。",
+        "lookup": {
+          "english": "To disappear suddenly.",
+          "chinese": "消失"
+        },
+        "advSentence": "Many traditional crafts may vanish unless young people learn them.",
+        "advTranslation": "除非年輕人學習，否則許多傳統工藝可能會消失。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh",
+          "115-slhs-sh",
+          "115-tlsh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -498,5 +711,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "mutable": [
     "Able to change.",
     "可變的/易變的"
+  ],
+  "afield": [
+    "Away from home; to or at a distance.",
+    "在遠處；離開正軌"
+  ],
+  "ephemera": [
+    "Things that are important or used for only a short time.",
+    "短暫之物；一時之物"
+  ],
+  "episodic": [
+    "Happening only now and then.",
+    "偶發的；片段的"
+  ],
+  "interim": [
+    "Temporary, used until something permanent is ready.",
+    "暫時的；過渡期的"
+  ],
+  "interlude": [
+    "A short period between two events or activities.",
+    "插曲；間歇"
+  ],
+  "mutability": [
+    "The quality of being able to change.",
+    "易變性；可變性"
+  ],
+  "perishable": [
+    "Likely to go bad quickly (often about food).",
+    "易腐壞的"
+  ],
+  "provisional": [
+    "Existing only for now and likely to change.",
+    "暫時的；臨時的"
+  ],
+  "stray": [
+    "To wander away; lost.",
+    "迷路；走失的"
+  ],
+  "vanish": [
+    "To disappear suddenly.",
+    "消失"
   ]
 });

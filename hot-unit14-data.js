@@ -237,6 +237,133 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "數週的過度工作讓她感到極度疲憊。",
         "added": true,
         "group": "hot-14"
+      },
+      {
+        "word": "doze",
+        "pos": "v.",
+        "definition": "To sleep lightly for a short time.",
+        "chinese": "打盹",
+        "synonyms": "nap, drowse, snooze",
+        "image": "shield",
+        "sentence": "Grandpa __________d in his armchair.",
+        "translation": "爺爺在扶手椅上打盹。",
+        "lookup": {
+          "english": "To sleep lightly for a short time.",
+          "chinese": "打盹"
+        },
+        "advSentence": "Several students began to doze during the monotonous lecture.",
+        "advTranslation": "好幾個學生在單調的講課中打起瞌睡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "drowsy",
+        "pos": "adj.",
+        "definition": "Tired and almost asleep.",
+        "chinese": "昏昏欲睡的",
+        "synonyms": "sleepy, tired, lethargic",
+        "image": "shield",
+        "sentence": "This medicine may make you __________.",
+        "translation": "這種藥可能讓你昏昏欲睡。",
+        "lookup": {
+          "english": "Tired and almost asleep.",
+          "chinese": "昏昏欲睡的"
+        },
+        "advSentence": "The warm classroom and the droning fan made everyone drowsy after lunch.",
+        "advTranslation": "溫暖的教室和嗡嗡作響的電扇讓大家午餐後都昏昏欲睡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "loll",
+        "pos": "v.",
+        "definition": "To lie, sit, or hang in a lazy, relaxed way.",
+        "chinese": "懶洋洋地躺（靠）；垂下",
+        "synonyms": "lounge, sprawl, droop",
+        "image": "shield",
+        "sentence": "The dog __________d in the shade.",
+        "translation": "狗懶洋洋地躺在樹蔭下。",
+        "lookup": {
+          "english": "To lie, sit, or hang in a lazy, relaxed way.",
+          "chinese": "懶洋洋地躺（靠）；垂下"
+        },
+        "advSentence": "On hot afternoons the cats loll on the cool tiles, too lethargic to move.",
+        "advTranslation": "炎熱的午後，貓咪懶洋洋地躺在涼爽的磁磚上，懶得動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "lounge",
+        "pos": "v./n.",
+        "definition": "To relax lazily; a comfortable room for relaxing.",
+        "chinese": "閒躺；休息室",
+        "synonyms": "relax, loll, sitting room",
+        "image": "shield",
+        "sentence": "We __________d by the pool.",
+        "translation": "我們在泳池邊閒躺。",
+        "lookup": {
+          "english": "To relax lazily; a comfortable room for relaxing.",
+          "chinese": "閒躺；休息室"
+        },
+        "advSentence": "Passengers waited in the airport lounge while the storm delayed their flight.",
+        "advTranslation": "暴風雨延誤了航班，乘客們在機場貴賓室等候。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
+      },
+      {
+        "word": "sloth",
+        "pos": "n.",
+        "definition": "Laziness.",
+        "chinese": "懶惰；樹懶",
+        "synonyms": "laziness, idleness, inactivity",
+        "image": "shield",
+        "sentence": "__________ is one of the seven deadly sins.",
+        "translation": "懶惰是七宗罪之一。",
+        "lookup": {
+          "english": "Laziness.",
+          "chinese": "懶惰；樹懶"
+        },
+        "advSentence": "The sloth hangs upside down in the rainforest canopy, moving with remarkable languor.",
+        "advTranslation": "樹懶倒掛在雨林的樹冠層，動作慢得出奇。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "slumber",
+        "pos": "v./n.",
+        "definition": "To sleep; sleep.",
+        "chinese": "睡眠；沉睡",
+        "synonyms": "sleep, doze, nap",
+        "image": "shield",
+        "sentence": "The baby __________d peacefully.",
+        "translation": "嬰兒安詳地睡著。",
+        "lookup": {
+          "english": "To sleep; sleep.",
+          "chinese": "睡眠；沉睡"
+        },
+        "advSentence": "The town fell into a peaceful slumber after the festival ended.",
+        "advTranslation": "慶典結束後，小鎮陷入一片寧靜的沉睡。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-2-sh",
+          "115-tysh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -521,5 +648,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "enervated": [
     "Drained of energy or vitality.",
     "虛弱無力的;疲憊的"
+  ],
+  "doze": [
+    "To sleep lightly for a short time.",
+    "打盹"
+  ],
+  "drowsy": [
+    "Tired and almost asleep.",
+    "昏昏欲睡的"
+  ],
+  "loll": [
+    "To lie, sit, or hang in a lazy, relaxed way.",
+    "懶洋洋地躺（靠）；垂下"
+  ],
+  "lounge": [
+    "To relax lazily; a comfortable room for relaxing.",
+    "閒躺；休息室"
+  ],
+  "sloth": [
+    "Laziness.",
+    "懶惰；樹懶"
+  ],
+  "slumber": [
+    "To sleep; sleep.",
+    "睡眠；沉睡"
   ]
 });

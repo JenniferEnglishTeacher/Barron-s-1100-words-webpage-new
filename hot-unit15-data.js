@@ -253,6 +253,202 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他身邊圍繞著從不質疑他的忠實部下。",
         "added": true,
         "group": "hot-15"
+      },
+      {
+        "word": "beholden",
+        "pos": "adj.",
+        "definition": "Owing something to someone; obliged.",
+        "chinese": "受恩惠的；欠人情的",
+        "synonyms": "indebted, obligated, grateful",
+        "image": "shield",
+        "sentence": "Politicians should not be __________ to wealthy donors.",
+        "translation": "政治人物不應受制於富有的捐款人。",
+        "lookup": {
+          "english": "Owing something to someone; obliged.",
+          "chinese": "受恩惠的；欠人情的"
+        },
+        "advSentence": "A free press must not be beholden to the government it reports on.",
+        "advTranslation": "自由的媒體不能受制於它所報導的政府。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
+      },
+      {
+        "word": "cede",
+        "pos": "v.",
+        "definition": "To give up land, power, or ground to someone else.",
+        "chinese": "讓出；割讓",
+        "synonyms": "surrender, yield, relinquish",
+        "image": "shield",
+        "sentence": "\"Literature has never __________d ground, nor given up on dialogue between people,\" Yang Shuang-zi said. \"The century-old inquiries in Taiwan's literature are in fact the century-old pursuit of freedom and equality by Taiwan's people.\"",
+        "translation": "「文學從未讓步，也從未放棄人與人之間的對話，」楊双子說。「臺灣文學百年的追問，其實就是臺灣人民百年來對自由與平等的追求。」",
+        "lookup": {
+          "english": "To give up land, power, or ground to someone else.",
+          "chinese": "讓出；割讓"
+        },
+        "advSentence": "Neither side was willing to cede any territory during the negotiations.",
+        "advTranslation": "談判期間雙方都不願割讓任何領土。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-moe-sh",
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "complaisance",
+        "pos": "n.",
+        "definition": "Willingness to please others or accept what they want.",
+        "chinese": "順從；殷勤",
+        "synonyms": "compliance, obligingness, docility",
+        "image": "shield",
+        "sentence": "His __________ made him popular with his boss.",
+        "translation": "他的殷勤順從讓他很受老闆喜愛。",
+        "lookup": {
+          "english": "Willingness to please others or accept what they want.",
+          "chinese": "順從；殷勤"
+        },
+        "advSentence": "Her complaisance made it hard for her to refuse even unreasonable requests.",
+        "advTranslation": "她過於順從，連不合理的要求都很難拒絕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "compliance",
+        "pos": "n.",
+        "definition": "The act of obeying a rule or request.",
+        "chinese": "順從；遵守",
+        "synonyms": "obedience, conformity, adherence",
+        "image": "shield",
+        "sentence": "Factories must be in __________ with safety rules.",
+        "translation": "工廠必須遵守安全規範。",
+        "lookup": {
+          "english": "The act of obeying a rule or request.",
+          "chinese": "順從；遵守"
+        },
+        "advSentence": "Inspectors visit restaurants to check their compliance with hygiene standards.",
+        "advTranslation": "稽查員到餐廳檢查是否符合衛生標準。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae",
+          "105-tycg-jh",
+          "107-moe-vs-ae",
+          "115-nycu-sh"
+        ]
+      },
+      {
+        "word": "involuntary",
+        "pos": "adj.",
+        "definition": "Done without conscious control or choice.",
+        "chinese": "不自主的；非自願的",
+        "synonyms": "automatic, unconscious, forced",
+        "image": "shield",
+        "sentence": "Blinking is an __________ action.",
+        "translation": "眨眼是一種不自主的動作。",
+        "lookup": {
+          "english": "Done without conscious control or choice.",
+          "chinese": "不自主的；非自願的"
+        },
+        "advSentence": "She let out an involuntary gasp when she saw the price.",
+        "advTranslation": "看到價格時，她不由自主地倒抽一口氣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chgsh-sh"
+        ]
+      },
+      {
+        "word": "obliged",
+        "pos": "adj.",
+        "definition": "Forced or required; grateful.",
+        "chinese": "有義務的；感激的",
+        "synonyms": "required, bound, grateful",
+        "image": "shield",
+        "sentence": "I felt __________ to help.",
+        "translation": "我覺得有義務要幫忙。",
+        "lookup": {
+          "english": "Forced or required; grateful.",
+          "chinese": "有義務的；感激的"
+        },
+        "advSentence": "Drivers are obliged by law to stop for pedestrians at crosswalks.",
+        "advTranslation": "依法駕駛人必須在斑馬線前停車讓行人通過。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-moe-sh"
+        ]
+      },
+      {
+        "word": "resigned",
+        "pos": "adj.",
+        "definition": "Accepting something unpleasant that cannot be changed.",
+        "chinese": "順從的；認命的",
+        "synonyms": "accepting, submissive, patient",
+        "image": "shield",
+        "sentence": "She gave a __________ sigh.",
+        "translation": "她認命地嘆了一口氣。",
+        "lookup": {
+          "english": "Accepting something unpleasant that cannot be changed.",
+          "chinese": "順從的；認命的"
+        },
+        "advSentence": "The fans were resigned to another losing season.",
+        "advTranslation": "球迷們已經認命接受又一個輸球的球季。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
+      },
+      {
+        "word": "voluntary",
+        "pos": "adj.",
+        "definition": "Done by choice, not forced.",
+        "chinese": "自願的",
+        "synonyms": "optional, willing, unpaid",
+        "image": "shield",
+        "sentence": "Attendance is __________.",
+        "translation": "出席是自願的。",
+        "lookup": {
+          "english": "Done by choice, not forced.",
+          "chinese": "自願的"
+        },
+        "advSentence": "The museum relies on voluntary donations rather than ticket sales.",
+        "advTranslation": "這間博物館仰賴自願捐款，而不是門票收入。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh"
+        ]
+      },
+      {
+        "word": "yield",
+        "pos": "v.",
+        "definition": "To give way; to produce.",
+        "chinese": "讓步；產生",
+        "synonyms": "give way, produce, surrender",
+        "image": "shield",
+        "sentence": "The research __________d useful results.",
+        "translation": "這項研究產生了有用的結果。",
+        "lookup": {
+          "english": "To give way; to produce.",
+          "chinese": "讓步；產生"
+        },
+        "advSentence": "The stubborn negotiator finally agreed to yield on the issue of wages.",
+        "advTranslation": "頑固的談判代表終於同意在薪資問題上讓步。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh",
+          "115-cmgsh-sh",
+          "115-hsnu-2-sh"
+        ]
       }
     ],
     "quiz": [
@@ -566,5 +762,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "minion": [
     "A servile follower or subordinate.",
     "走狗;下屬"
+  ],
+  "beholden": [
+    "Owing something to someone; obliged.",
+    "受恩惠的；欠人情的"
+  ],
+  "cede": [
+    "To give up land, power, or ground to someone else.",
+    "讓出；割讓"
+  ],
+  "complaisance": [
+    "Willingness to please others or accept what they want.",
+    "順從；殷勤"
+  ],
+  "compliance": [
+    "The act of obeying a rule or request.",
+    "順從；遵守"
+  ],
+  "involuntary": [
+    "Done without conscious control or choice.",
+    "不自主的；非自願的"
+  ],
+  "obliged": [
+    "Forced or required; grateful.",
+    "有義務的；感激的"
+  ],
+  "resigned": [
+    "Accepting something unpleasant that cannot be changed.",
+    "順從的；認命的"
+  ],
+  "voluntary": [
+    "Done by choice, not forced.",
+    "自願的"
+  ],
+  "yield": [
+    "To give way; to produce.",
+    "讓步；產生"
   ]
 });

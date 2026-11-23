@@ -307,6 +307,175 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她選擇就這項不公平的政策向她的經理力爭。",
         "added": true,
         "group": "hot-12"
+      },
+      {
+        "word": "detractor",
+        "pos": "n.",
+        "definition": "A person who criticizes someone or something.",
+        "chinese": "批評者；貶低者",
+        "synonyms": "critic, disparager, attacker",
+        "image": "shield",
+        "sentence": "Although the historian enjoyed widespread admiration, she also had a persistent __________ who regularly published harsh criticisms of her work in academic journals.",
+        "translation": "儘管這位歷史學家廣受推崇，她仍有一位頑固的批評者經常在學術期刊上嚴厲批評她的作品。",
+        "lookup": {
+          "english": "A person who criticizes someone or something.",
+          "chinese": "批評者；貶低者"
+        },
+        "advSentence": "Even her detractors admitted that the new policy had reduced traffic accidents.",
+        "advTranslation": "就連批評她的人也承認，新政策減少了交通事故。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-tnfsh-sh"
+        ]
+      },
+      {
+        "word": "disapproving",
+        "pos": "adj.",
+        "definition": "Showing that you think something is bad.",
+        "chinese": "不贊成的；不以為然的",
+        "synonyms": "critical, censorious, disparaging",
+        "image": "shield",
+        "sentence": "She gave him a __________ look.",
+        "translation": "她用不以為然的眼神看著他。",
+        "lookup": {
+          "english": "Showing that you think something is bad.",
+          "chinese": "不贊成的；不以為然的"
+        },
+        "advSentence": "The teacher's disapproving silence was more effective than any scolding.",
+        "advTranslation": "老師不以為然的沉默比任何責罵都更有效。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "doghouse",
+        "pos": "n.",
+        "definition": "(in the doghouse) in disgrace; a shelter for a dog.",
+        "chinese": "失寵；狗屋",
+        "synonyms": "disfavor, trouble, disgrace",
+        "image": "shield",
+        "sentence": "He's in the __________ for forgetting her birthday.",
+        "translation": "他因為忘了她的生日而失寵了。",
+        "lookup": {
+          "english": "(in the doghouse) in disgrace; a shelter for a dog.",
+          "chinese": "失寵；狗屋"
+        },
+        "advSentence": "After missing the deadline again, the reporter was in the doghouse with his editor.",
+        "advTranslation": "再度錯過截稿期限後，那位記者在主編面前失寵了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "frown",
+        "pos": "v.",
+        "definition": "To make an unhappy or angry face; (frown on) to disapprove.",
+        "chinese": "皺眉；不贊成",
+        "synonyms": "scowl, glower, disapprove",
+        "image": "shield",
+        "sentence": "Many parents __________ on video games.",
+        "translation": "許多家長不贊成玩電動遊戲。",
+        "lookup": {
+          "english": "To make an unhappy or angry face; (frown on) to disapprove.",
+          "chinese": "皺眉；不贊成"
+        },
+        "advSentence": "The librarian frowned at the students chatting loudly near the reading area.",
+        "advTranslation": "圖書館員對著在閱讀區附近大聲聊天的學生皺眉。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "invidious",
+        "pos": "adj.",
+        "definition": "Unfair and likely to cause resentment or offense.",
+        "chinese": "不公平的；招人嫉恨的",
+        "synonyms": "unfair, offensive, discriminatory",
+        "image": "shield",
+        "sentence": "The Supreme Court eventually struck down the statute as __________, ruling that it was inherently discriminatory and fundamentally incompatible with the nation's founding principles of equality.",
+        "translation": "最高法院最終以該法規具歧視性為由將其廢止，裁定其本質上帶有歧視，與國家平等的建國原則根本不相容。",
+        "lookup": {
+          "english": "Unfair and likely to cause resentment or offense.",
+          "chinese": "不公平的；招人嫉恨的"
+        },
+        "advSentence": "Teachers should avoid invidious comparisons between siblings.",
+        "advTranslation": "老師應避免在兄弟姊妹之間做不公平的比較。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hkhs-sh"
+        ]
+      },
+      {
+        "word": "lambaste",
+        "pos": "v.",
+        "definition": "To criticize very harshly.",
+        "chinese": "嚴厲批評；痛斥",
+        "synonyms": "criticize, berate, attack",
+        "image": "shield",
+        "sentence": "In his weekly column, the notoriously harsh theater critic __________d the playwright's new production, characterizing it as a derivative and unimaginative catastrophe.",
+        "translation": "這位以嚴厲著稱的劇評家在每週專欄中痛批這位劇作家的新作，稱之為模仿且缺乏想像力的災難。",
+        "lookup": {
+          "english": "To criticize very harshly.",
+          "chinese": "嚴厲批評；痛斥"
+        },
+        "advSentence": "The coach lambasted his players for their careless defense in the second half.",
+        "advTranslation": "教練痛斥球員們在下半場漫不經心的防守。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh",
+          "115-mtsh-sh"
+        ]
+      },
+      {
+        "word": "penalize",
+        "pos": "v.",
+        "definition": "Punished for breaking a rule.",
+        "chinese": "處罰",
+        "synonyms": "punish, fine, sanction",
+        "image": "shield",
+        "sentence": "Late essays will be __________d.",
+        "translation": "遲交的作文會被扣分。",
+        "lookup": {
+          "english": "Punished for breaking a rule.",
+          "chinese": "處罰"
+        },
+        "advSentence": "The new law will penalize companies that dump waste into rivers.",
+        "advTranslation": "新法將處罰把廢棄物傾倒入河的公司。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "sermon",
+        "pos": "n.",
+        "definition": "A talk on a religious or moral subject.",
+        "chinese": "講道；說教",
+        "synonyms": "lecture, homily, address",
+        "image": "shield",
+        "sentence": "Spare me the __________ about my diet.",
+        "translation": "別再對我的飲食說教了。",
+        "lookup": {
+          "english": "A talk on a religious or moral subject.",
+          "chinese": "講道；說教"
+        },
+        "advSentence": "The pastor's Sunday sermon focused on forgiveness and compassion.",
+        "advTranslation": "牧師週日的講道以寬恕與憐憫為主題。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-taipei-jh"
+        ]
       }
     ],
     "quiz": [
@@ -630,5 +799,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "remonstrate": [
     "To make a forceful protest or objection.",
     "抗議;力爭"
+  ],
+  "detractor": [
+    "A person who criticizes someone or something.",
+    "批評者；貶低者"
+  ],
+  "disapproving": [
+    "Showing that you think something is bad.",
+    "不贊成的；不以為然的"
+  ],
+  "doghouse": [
+    "(in the doghouse) in disgrace; a shelter for a dog.",
+    "失寵；狗屋"
+  ],
+  "frown": [
+    "To make an unhappy or angry face; (frown on) to disapprove.",
+    "皺眉；不贊成"
+  ],
+  "invidious": [
+    "Unfair and likely to cause resentment or offense.",
+    "不公平的；招人嫉恨的"
+  ],
+  "lambaste": [
+    "To criticize very harshly.",
+    "嚴厲批評；痛斥"
+  ],
+  "penalize": [
+    "Punished for breaking a rule.",
+    "處罰"
+  ],
+  "sermon": [
+    "A talk on a religious or moral subject.",
+    "講道；說教"
   ]
 });

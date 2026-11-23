@@ -1,0 +1,140 @@
+predominant | 中文是這裡的主要語言。 | Rice is the predominant crop in the plains of western Taiwan. | 稻米是臺灣西部平原的主要作物。
+proficiency | 學生參加英語能力測驗。 | Her proficiency in three languages helped her find a job abroad. | 她精通三種語言，幫助她在國外找到工作。
+supremacy | 兩大強權爭奪霸權。 | The company has maintained its supremacy in chip manufacturing for years. | 這家公司多年來在晶片製造上保持霸主地位。
+tactic | 拖延是他最愛用的手段。 | Scare tactics rarely persuade teenagers to change their habits. | 恐嚇手段很少能說服青少年改變習慣。
+vanquish | 軍隊徹底擊敗了敵人。 | The hero must vanquish his own fears before he can win. | 英雄必須先戰勝自己的恐懼才能獲勝。
+wield | 她擁有很大的影響力。 | The warrior could wield a heavy sword with one hand. | 那位戰士能單手揮舞沉重的劍。
+defective | 打開箱子時，我們發現玩具有瑕疵，手腳都斷了，頭也被壓得變形。 | Customers can return defective products within thirty days. | 顧客可在三十天內退回瑕疵品。
+flabby | 他停止訓練後肌肉變得鬆弛。 | The editor cut the flabby paragraphs to make the article sharper. | 編輯刪掉冗贅鬆散的段落，讓文章更精練。
+flounder | 由於缺乏一致的策略，這個組織開始陷入困境，領導層深陷猶豫不決與行政惰性之中。 | The new student floundered in his first math class but soon caught up. | 那位新生第一堂數學課時手足無措，但很快就跟上了。
+ineffective | 雖然這項提案旨在解決制度性問題，但過於簡化的作法使它在實務上大多無效。 | The old medicine proved ineffective against the new virus. | 舊藥對新病毒證明無效。
+lame | 那是個站不住腳的藉口。 | The lame horse could no longer run in races. | 那匹跛腳的馬再也無法參加比賽。
+suboptimal | 結果並不理想。 | Studying late at night leads to suboptimal performance the next day. | 熬夜讀書會導致隔天表現不佳。
+abeyance | 在政府徹底調查後做出決定之前，所有計畫都暫緩執行。 | The old rule has been in abeyance since the new law was passed. | 新法通過後，舊規定就被擱置了。
+adjourn | 為了讓證人能出庭，法官決定休庭，改期再審。 | The meeting will adjourn for lunch at noon. | 會議將在中午休會用午餐。
+adjournment | 法官宣布休庭至星期一。 | The lawyer requested an adjournment to gather more evidence. | 律師請求延期開庭以蒐集更多證據。
+filibuster | 在 1950 年代到 1960 年代初的民權鬥爭期間，議員們透過冗長發言和其他拖延戰術否決了許多反歧視法案。 | The senator spoke for twenty hours in a filibuster against the bill. | 那位參議員為阻撓法案進行了長達二十小時的冗長演說。
+hesitate | 有問題請不要猶豫，儘管問。 | He hesitated for a moment before jumping into the cold river. | 他猶豫了一下才跳進冰冷的河裡。
+hesitation | 她毫不猶豫地接受了。 | After a brief hesitation, the shy student raised her hand. | 短暫遲疑後，那位害羞的學生舉起了手。
+lag | 偏鄉學校在科技上落後。 | Wages continue to lag behind rising housing prices. | 薪資持續落後於不斷上漲的房價。
+moratorium | 市政府宣布暫停核准新飯店。 | Scientists called for a moratorium on gene editing in human embryos. | 科學家呼籲暫停對人類胚胎進行基因編輯。
+stall | 車子在橋上熄火了。 | Peace talks stalled when neither side would compromise. | 雙方都不肯讓步，和談陷入停滯。
+straggle | 有幾個學生落在後面。 | Tired hikers straggled into the campsite long after dark. | 疲憊的登山客在天黑很久後才陸陸續續抵達營地。
+suspend | 他被停學一週。 | Lanterns were suspended from the temple ceiling. | 燈籠懸掛在寺廟的天花板上。
+suspension | 停飛造成一片混亂。 | The player received a three-game suspension for fighting. | 那名球員因打架被禁賽三場。
+tardy | 遲到的學生必須到辦公室簽到。 | The company apologized for its tardy response to complaints. | 公司為回應客訴太慢而道歉。
+waver | 她的信心從未動搖。 | The candle flame wavered in the breeze. | 燭火在微風中搖曳。
+agape | 孩子們看著巨大的恐龍骨骼看得目瞪口呆。 | Tourists stood agape as the fireworks lit up Taipei 101. | 煙火點亮臺北 101 時，遊客們看得目瞪口呆。
+behold | 從山頂看到的景色令人嘆為觀止。 | Behold the first snowfall on Hehuan Mountain! | 看哪，合歡山的初雪！
+crop | 問題在最後一刻突然冒了出來。 | Small problems always seem to crop up right before a big event. | 小問題似乎總在大活動前突然冒出來。 | New problems tend to crop up at the last minute.
+entrance | 觀眾被她的歌聲迷住了。 | The children were entranced by the puppet show. | 孩子們被布袋戲迷住了。
+gasp | 觀眾驚訝地倒抽一口氣。 | After the long run, he lay on the grass, gasping for air. | 長跑之後，他躺在草地上大口喘氣。
+hypnotic | 這段音樂有一種令人著迷的節奏。 | The waves made a hypnotic sound against the rocks. | 海浪拍打岩石，發出令人催眠般的聲響。
+intrigue | 這個謎團引起學生的興趣。 | The novel is full of political intrigue in the royal court. | 這部小說充滿宮廷中的政治陰謀。
+lulu | 那場暴風雨可真是猛烈。 | Her excuse for missing class was a real lulu. | 她缺課的理由真是令人嘆為觀止。
+marvel | 我們讚嘆眼前的景色。 | The high-speed rail is a marvel of modern engineering. | 高鐵是現代工程的奇蹟。
+mind-boggling | 宇宙的大小令人難以想像。 | The amount of data we create every day is mind-boggling. | 我們每天產生的資料量多得令人難以置信。
+sensational | 這支隊伍在足總盃中取得驚人的勝利後，仍在慶祝。 | Tabloids publish sensational headlines to attract readers. | 八卦小報刊登聳動的標題來吸引讀者。
+swoon | 他一唱歌，歌迷就神魂顛倒。 | The heroine in the old novel would swoon at every shock. | 老派小說中的女主角每遇到驚嚇就會昏倒。
+thrillingly | 比賽以令人激動的方式結束。 | The roller coaster dropped thrillingly toward the lake. | 雲霄飛車驚險刺激地朝湖面俯衝。
+trance | 她似乎陷入恍惚狀態。 | The drummer's steady beat put the dancers into a trance. | 鼓手穩定的節奏讓舞者進入出神狀態。
+unimaginable | 災難的規模難以想像。 | A world without smartphones seems unimaginable to most teenagers. | 對大多數青少年來說，沒有智慧型手機的世界簡直難以想像。
+blazon | 這位年輕演員希望在百老匯的首演能彰顯他出色的演技。 | Newspapers blazoned the scandal across their front pages. | 各報紙在頭版大肆報導這起醜聞。
+exhume | 為了進一步檢驗，屍體被挖掘出來。 | Historians exhume forgotten letters to understand the past. | 歷史學家挖掘被遺忘的書信以了解過去。
+exposure | 及早接觸英語有助於年幼的學習者。 | Long exposure to the sun can damage your skin. | 長時間曝曬在陽光下會傷害皮膚。
+proclamation | 美國各州的奴隸因《解放奴隸宣言》而獲得自由。 | The mayor issued a proclamation declaring a day of mourning. | 市長發布公告，宣布舉行哀悼日。
+publicity | 這起醜聞帶來負面的宣傳。 | The charity concert received a lot of positive publicity. | 這場慈善音樂會獲得許多正面報導。
+showcase | 這個節慶是新秀的展示舞台。 | The exhibition will showcase the work of young designers. | 這場展覽將展示年輕設計師的作品。
+telegraph | 投手無意中洩露了他下一球的意圖。 | A good poker player never telegraphs her intentions. | 好的撲克牌玩家從不洩露自己的意圖。
+unearth | 偵探仔細搜查犯罪現場後，挖掘出一項重要證據。 | Archaeologists unearthed a 3,000-year-old tomb near the river. | 考古學家在河邊挖掘出一座三千年歷史的古墓。
+unleash | 暴風雨帶來豪雨。 | The new technology could unleash a wave of creativity. | 這項新技術可能激發一波創意浪潮。
+endemic | 流行病學家警告，若缺乏全球疫苗公平分配，病毒不會被根除，而會成為地方性流行病，在弱勢族群中持續循環。 | The Formosan black bear is endemic to Taiwan. | 臺灣黑熊是臺灣的特有種。
+holistically | 老師應該全面地評量學生。 | Doctors are encouraged to treat patients holistically, not just their symptoms. | 醫生被鼓勵以整體的方式治療病人，而不只是處理症狀。
+homogeneity | 班上學生程度相近，讓教學更容易。 | The homogeneity of the village made outsiders stand out. | 村子的同質性讓外地人格外顯眼。
+inclusive | 考生必須參加五科考試，包括國文、英文、數學、自然與社會。 | The school aims to create an inclusive environment for all students. | 學校致力於為所有學生營造包容的環境。
+inclusively | 課程應以包容的方式設計。 | Good leaders speak inclusively so that every member feels valued. | 好的領導者說話時具包容性，讓每位成員都覺得受到重視。
+inclusivity | 公司重視多元與包容。 | The festival promotes inclusivity by offering sign-language interpreters. | 這個節慶提供手語翻譯，以推動包容性。
+mainstream | 主流媒體報導了這則新聞。 | Bubble tea has entered the mainstream in Europe. | 珍珠奶茶已經打入歐洲主流市場。
+pandemic | 全球大流行讓世界各地的學校停課。 | The pandemic changed the way people work and study. | 這場大流行改變了人們工作與學習的方式。
+predominantly | 這座小鎮以農業為主。 | The audience was predominantly young women. | 觀眾以年輕女性為主。
+scattered | 將有零星陣雨。 | Toys were scattered all over the living room floor. | 玩具散落在客廳地板上。
+sweep | 那位歌手在多個葛萊美獎項中大獲全勝，是頒獎典禮上的最大贏家。 | A wave of protests began to sweep across the country. | 一波抗議浪潮開始席捲全國。 | The singer managed to sweep the Grammy categories that night.
+outlier | 其中一個分數是離群值。 | The researchers removed one outlier before calculating the average. | 研究人員在計算平均數前剔除了一個離群值。
+peculiar | 房間裡有一股奇怪的味道。 | This custom is peculiar to the island's indigenous people. | 這項習俗是島上原住民特有的。
+queer | 空氣中瀰漫著一種奇怪的感覺。 | The library has a section of books by queer authors. | 圖書館有一區收藏酷兒作家的書籍。
+rarified | 他出入於高層的學術圈子。 | Climbers need oxygen tanks in the rarified air of high mountains. | 登山者在高山稀薄的空氣中需要氧氣瓶。
+scintilla | 被告聲稱沒有絲毫證據能證明他有罪。 | There is not a scintilla of truth in the rumor. | 這個謠言沒有一絲真實性。
+seldom | 他很少出門。 | Desert plants seldom need water. | 沙漠植物很少需要澆水。
+solely | 他要負全部責任。 | The decision was based solely on test scores. | 這個決定完全根據考試成績。
+uncharacteristically | 他一反常態地沉默。 | The usually calm teacher shouted uncharacteristically at the class. | 那位平常冷靜的老師一反常態地對全班大吼。
+unheard | 這種事在過去是前所未聞的。 | Her quiet voice went unheard in the noisy meeting. | 在吵鬧的會議中，她輕柔的聲音沒人聽見。
+absorption | 維生素 C 能提升人體對食物中鐵的吸收。 | His absorption in the novel made him miss his bus stop. | 他看小說看得太入迷，坐過了公車站。
+achromatic | 這位藝術家使用黑、白、灰的無彩色調色盤。 | Achromatic lenses reduce color distortion in telescopes. | 消色差透鏡能減少望遠鏡中的色差。
+alloy | 青銅是銅與錫的合金。 | Bicycle frames are often made from a light aluminum alloy. | 腳踏車車架常用輕量鋁合金製成。
+arsenic | 水被砷污染了。 | In old mystery novels, arsenic was a favorite poison. | 在老式推理小說中，砒霜是很常見的毒藥。
+calcium | 牛奶是鈣的良好來源。 | Calcium helps keep bones and teeth strong. | 鈣有助於保持骨骼和牙齒強健。
+circulation | 運動能促進血液循環。 | The magazine's circulation has fallen as readers move online. | 隨著讀者轉向網路，這本雜誌的發行量下降了。
+conductivity | 銅的導電性很高。 | Engineers tested the thermal conductivity of the new material. | 工程師測試這種新材料的導熱性。
+cosmos | 古人透過星星研究宇宙。 | The documentary explores our place in the vast cosmos. | 這部紀錄片探討我們在浩瀚宇宙中的位置。
+decomposer | 真菌和細菌是重要的分解者。 | Earthworms act as decomposers, turning dead leaves into rich soil. | 蚯蚓是分解者，把落葉變成肥沃的土壤。
+decomposition | 高溫會加速分解。 | The decomposition of food waste produces methane. | 廚餘分解會產生甲烷。
+desiccant | 乾燥劑包能讓鞋子保持乾燥。 | Electronics are shipped with a desiccant to absorb moisture. | 電子產品運送時會附上乾燥劑吸收濕氣。
+evaporation | 蒸發是水循環的一部分。 | Rapid evaporation leaves salt crystals on the rocks. | 快速蒸發後，岩石上留下鹽的結晶。
+gene | 眼睛的顏色由基因決定。 | Scientists discovered a gene linked to longevity. | 科學家發現一個與長壽有關的基因。
+genetically | 基因改造作物能抵抗害蟲。 | Identical twins are genetically almost the same. | 同卵雙胞胎在基因上幾乎完全相同。
+genome | 科學家完成了人類基因組定序。 | Mapping the genome of rice may help farmers grow better crops. | 繪製稻米基因組圖譜可能有助農民種出更好的作物。
+granulation | 糖的顆粒大小會影響口感。 | Granulation turns fine powder into small pellets that are easier to use. | 造粒將細粉變成更容易使用的小顆粒。
+hereditary | 許多心理學家相信幽默感是遺傳的，可以從父母傳給孩子。 | Some heart diseases are hereditary. | 有些心臟疾病是遺傳性的。
+irradiate | 食物經過輻射照射以殺死細菌。 | The setting sun seemed to irradiate the whole valley with gold. | 夕陽彷彿把整個山谷照耀成金色。
+luminance | 螢幕亮度會影響眼睛疲勞。 | Photographers measure the luminance of a scene before shooting. | 攝影師拍攝前會先測量場景的亮度。
+mechanics | 學生學習寫作的技術層面。 | Physics students study the mechanics of moving objects. | 物理系學生研究物體運動的力學。
+mercury | 有些魚含有高濃度的汞。 | Old thermometers contain a thin line of mercury. | 舊式溫度計裡有一條細細的水銀。
+orbit | 月球繞著地球運行。 | The satellite was launched into orbit last year. | 這顆衛星去年被發射進入軌道。
+organic | 有機蔬菜比較貴。 | Organic matter in the soil helps plants grow. | 土壤中的有機物幫助植物生長。
+organism | 細菌是微小的生物。 | The coral reef is home to thousands of living organisms. | 珊瑚礁是數千種生物的家。
+particle | 灰塵微粒在空中飄浮。 | Fine particles in polluted air can damage the lungs. | 污染空氣中的細懸浮微粒會損害肺部。
+quantum | 人工智慧是科技上的一大躍進。 | Quantum computers may solve problems that ordinary computers cannot. | 量子電腦或許能解決一般電腦無法解決的問題。
+sidereal | 恆星日比太陽日短。 | Ancient astronomers tracked sidereal time to plan their festivals. | 古代天文學家追蹤恆星時來規劃節慶。
+specimen | 血液樣本被送到實驗室。 | The museum has a rare specimen of a giant beetle. | 博物館收藏一件罕見的巨型甲蟲標本。
+sunspot | 科學家們斷定太陽黑子會影響降雨與整體天氣狀況。 | Sunspots appear as dark patches on the surface of the sun. | 太陽黑子是太陽表面上的暗斑。
+tectonic | 年輕專業人士之間「安靜離職」的趨勢反映了現代職場的巨大轉變，人們更重視個人福祉而非對企業的忠誠。 | Taiwan sits where two tectonic plates meet, so earthquakes are common. | 臺灣位於兩個板塊交界處，所以地震很常見。
+transmission | 口罩能減少病毒傳播。 | The live transmission of the game was watched by millions. | 數百萬人觀看了這場比賽的現場轉播。
+transmit | 蚊子會傳播瘧疾。 | Radio towers transmit signals across the island. | 無線電塔把訊號傳送到全島各地。
+uranium | 鈾用於核能發電廠。 | Uranium must be handled with extreme care because it is radioactive. | 鈾具有放射性，必須極度小心處理。
+abdominal | 她吃了不新鮮的海鮮後腹部劇痛。 | Sit-ups strengthen the abdominal muscles. | 仰臥起坐能強化腹部肌肉。
+addicted | 許多青少年對手機上癮。 | He became addicted to online games during the summer. | 他暑假期間迷上了線上遊戲。
+addiction | 他因賭博成癮尋求治療。 | Sugar addiction is a growing concern among nutritionists. | 糖癮日益受到營養學家的關注。
+ailment | 頭痛是上班族常見的小毛病。 | Herbal teas were once used to treat minor ailments. | 花草茶過去被用來治療小病痛。
+amputation | 那名士兵在截肢手術後活了下來。 | Better diabetes care has reduced the number of amputations. | 更好的糖尿病照護減少了截肢案例。
+amyloid | 類澱粉蛋白斑塊會堆積在阿茲海默症患者的大腦中。 | Researchers are testing drugs that clear amyloid from the brain. | 研究人員正在測試清除大腦中類澱粉蛋白的藥物。
+anatomy | 醫學生研讀人體解剖學。 | The artist studied the anatomy of horses to paint them accurately. | 這位畫家研究馬的身體構造，以便精確地畫出牠們。
+anesthetic | 牙醫為她施打局部麻醉。 | The anesthetic wore off a few hours after surgery. | 麻醉藥效在手術後幾小時退去了。
+anesthetize | 醫生在手術前會先為病人麻醉。 | Too much screen time can anesthetize children to violence. | 過多的螢幕時間可能讓孩子對暴力變得麻木。
+appendage | 章魚用觸腕抓取獵物。 | The committee was treated as a mere appendage of the ministry. | 這個委員會被當成部會的附屬單位而已。
+bedridden | 車禍後，他臥床好幾個月。 | Volunteers visit bedridden seniors who live alone. | 志工探訪獨居且臥床的長者。
+bloodletting | 放血曾是一種常見的醫療方式。 | The party's internal bloodletting weakened it before the election. | 黨內的自相殘殺在選前削弱了該黨。
+cardiovascular | 規律運動能促進心血管健康。 | Smoking increases the risk of cardiovascular disease. | 吸菸會增加罹患心血管疾病的風險。
+contagious | 笑聲是會傳染的。 | Chickenpox is highly contagious among young children. | 水痘在幼童之間傳染力很強。
+convalescence | 若康復期間營養不良，可能會導致長期的生長障礙。 | After surgery, she spent her convalescence reading novels at home. | 手術後，她在家看小說度過康復期。
+dementia | 她的祖父患有失智症。 | Social activities may lower the risk of dementia. | 社交活動可能降低罹患失智症的風險。
+diastole | 心臟舒張期時血液充滿心臟。 | Doctors measure blood pressure during both systole and diastole. | 醫生會在心臟收縮期與舒張期測量血壓。
+disability | 學校為身心障礙學生提供支持。 | The new buses are designed for passengers with a disability. | 新公車專為身心障礙乘客設計。 | The school offers support to every student with a disability.
+embrocation | 他在痠痛的膝蓋上塗抹擦劑。 | Athletes rub embrocation on their legs before cold races. | 運動員在寒冷天氣比賽前會在腿上塗抹擦劑。
+exhale | 用嘴巴慢慢吐氣。 | Inhale through your nose and exhale through your mouth. | 用鼻子吸氣，用嘴巴吐氣。
+facial | 臉部表情能顯示情緒。 | The phone uses facial recognition to unlock. | 這支手機使用臉部辨識解鎖。
+gash | 在戰鬥中，那男人的嘴被打得裂開一道醜陋的大傷口。 | He got a deep gash on his leg from the broken glass. | 他的腿被碎玻璃劃出一道深長的傷口。
+gastrointestinal | 她有腸胃方面的問題。 | Spicy food can cause gastrointestinal discomfort for some people. | 辛辣食物可能讓某些人腸胃不適。
+germ | 洗手可以殺死細菌。 | The germ of the idea came to him during a walk. | 這個想法的雛形是他散步時想到的。
+healing | 音樂能在療癒中扮演一定的角色。 | The healing of the wound took several weeks. | 傷口癒合花了好幾週。
+hyposensitize | 過敏針劑能讓患者對花粉減敏。 | Doctors try to hyposensitize children who are allergic to dust mites. | 醫生嘗試為對塵蟎過敏的兒童進行減敏治療。
+impairment | 他有聽力障礙。 | Alcohol causes impairment of judgment and reaction time. | 酒精會損害判斷力與反應時間。
+infect | 病毒感染了數千人。 | Her enthusiasm infected the whole team. | 她的熱情感染了整個團隊。
+infection | 傷口發生了感染。 | Wash your hands often to prevent infection. | 經常洗手以預防感染。
+infectious | 她的笑聲很有感染力。 | Measles is one of the most infectious diseases in the world. | 麻疹是世界上最具傳染力的疾病之一。
+jab | 數百萬人接種了疫苗。 | The boxer threw a quick jab at his opponent's chin. | 拳擊手朝對手的下巴快速刺拳。 | Millions of people lined up to get a jab against the virus.
+laxative | 醫生開了溫和的瀉藥。 | Prunes act as a natural laxative. | 李子乾是一種天然的通便劑。
+leprous | 麻瘋病患者過去曾被隔離。 | The novel tells the story of a leprous beggar who becomes a saint. | 這部小說講述一位患痲瘋病的乞丐成為聖人的故事。
+malarial | 會傳播瘧疾的蚊子在靜止的水中繁殖。 | Travelers to malarial regions should take preventive medicine. | 前往瘧疾流行地區的旅客應服用預防藥物。
+medication | 飯後服藥。 | Some medications should not be taken with grapefruit juice. | 有些藥物不應與葡萄柚汁一起服用。
+metabolic | 運動能提高你的新陳代謝率。 | Diabetes is a metabolic disorder. | 糖尿病是一種代謝疾病。
+migraine | 她壓力大時就會偏頭痛。 | Bright lights can trigger a migraine. | 強光可能引發偏頭痛。

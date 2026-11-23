@@ -255,6 +255,216 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這家餐廳每一餐都提供豐盛的份量。",
         "added": true,
         "group": "hot-08"
+      },
+      {
+        "word": "bounteous",
+        "pos": "adj.",
+        "definition": "Plentiful; generous.",
+        "chinese": "豐富的；慷慨的",
+        "synonyms": "generous, abundant, plentiful",
+        "image": "shield",
+        "sentence": "The farmers celebrated a __________ harvest.",
+        "translation": "農夫們慶祝豐收。",
+        "lookup": {
+          "english": "Plentiful; generous.",
+          "chinese": "豐富的；慷慨的"
+        },
+        "advSentence": "The bounteous rainfall this spring has made the hills lush and green.",
+        "advTranslation": "今年春天豐沛的雨量讓山丘一片青翠繁茂。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-sh"
+        ]
+      },
+      {
+        "word": "extortionate",
+        "pos": "adj.",
+        "definition": "Much too high in price.",
+        "chinese": "（價格）過高的；敲詐的",
+        "synonyms": "exorbitant, excessive, outrageous",
+        "image": "shield",
+        "sentence": "Hotels charge __________ prices during the festival.",
+        "translation": "節慶期間飯店收取過高的價格。",
+        "lookup": {
+          "english": "Much too high in price.",
+          "chinese": "（價格）過高的；敲詐的"
+        },
+        "advSentence": "Tenants protested against the extortionate rents demanded by the landlord.",
+        "advTranslation": "房客抗議房東索取過高的租金。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "fritter",
+        "pos": "v.",
+        "definition": "To waste time or money on unimportant things (fritter away).",
+        "chinese": "浪費（時間、金錢）",
+        "synonyms": "waste, squander, fritter away",
+        "image": "shield",
+        "sentence": "Despite having important tasks to finish, he chose to __________ away his time on trivial matters.",
+        "translation": "雖然有重要的工作要完成，他卻選擇把時間浪費在瑣事上。",
+        "lookup": {
+          "english": "To waste time or money on unimportant things (fritter away).",
+          "chinese": "浪費（時間、金錢）"
+        },
+        "advSentence": "Don't fritter away your allowance on snacks you will soon regret buying.",
+        "advTranslation": "別把零用錢浪費在很快就會後悔買的零食上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "indulgence",
+        "pos": "n.",
+        "definition": "Allowing yourself something pleasant you do not need.",
+        "chinese": "放縱；嗜好",
+        "synonyms": "self-gratification, luxury, treat",
+        "image": "shield",
+        "sentence": "Chocolate is my one __________.",
+        "translation": "巧克力是我唯一的嗜好（放縱）。",
+        "lookup": {
+          "english": "Allowing yourself something pleasant you do not need.",
+          "chinese": "放縱；嗜好"
+        },
+        "advSentence": "Too much indulgence can make children spoiled and ungrateful.",
+        "advTranslation": "過度縱容會讓孩子被寵壞又不知感恩。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "insatiability",
+        "pos": "n.",
+        "definition": "The state of never being satisfied.",
+        "chinese": "貪得無厭；無法滿足",
+        "synonyms": "greed, voracity, endless hunger",
+        "image": "shield",
+        "sentence": "An opulence of story books covered my bed, and I would read away my sleepless nights, with a feeling of __________.",
+        "translation": "一大堆故事書鋪滿我的床，我會在失眠的夜晚一直讀下去，心中有種永不滿足的感覺。",
+        "lookup": {
+          "english": "The state of never being satisfied.",
+          "chinese": "貪得無厭；無法滿足"
+        },
+        "advSentence": "The insatiability of consumer demand drives companies to release new phones every year.",
+        "advTranslation": "消費者永不滿足的需求驅使公司每年推出新手機。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-kh-sh"
+        ]
+      },
+      {
+        "word": "largesse",
+        "pos": "n.",
+        "definition": "Generous giving of money or gifts.",
+        "chinese": "慷慨贈與；大方",
+        "synonyms": "generosity, liberality, bounty",
+        "image": "shield",
+        "sentence": "The museum depends on the __________ of donors.",
+        "translation": "這間博物館仰賴捐贈者的慷慨捐助。",
+        "lookup": {
+          "english": "Generous giving of money or gifts.",
+          "chinese": "慷慨贈與；大方"
+        },
+        "advSentence": "The village school was rebuilt thanks to the largesse of a wealthy alumnus.",
+        "advTranslation": "多虧一位富有校友的慷慨捐助，鄉村學校得以重建。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "pamper",
+        "pos": "v.",
+        "definition": "To give someone too much care and comfort.",
+        "chinese": "嬌寵",
+        "synonyms": "spoil, indulge, coddle",
+        "image": "shield",
+        "sentence": "__________ yourself with a spa day.",
+        "translation": "用一天的水療好好寵愛自己吧。",
+        "lookup": {
+          "english": "To give someone too much care and comfort.",
+          "chinese": "嬌寵"
+        },
+        "advSentence": "Some experts warn that parents who pamper their children may hinder their independence.",
+        "advTranslation": "一些專家警告，過度嬌寵孩子的父母可能妨礙孩子獨立。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-tycg-jh"
+        ]
+      },
+      {
+        "word": "profligacy",
+        "pos": "n.",
+        "definition": "The wasteful use of money or resources.",
+        "chinese": "揮霍；浪費",
+        "synonyms": "extravagance, wastefulness, recklessness",
+        "image": "shield",
+        "sentence": "Government __________ led to debt.",
+        "translation": "政府的揮霍導致負債。",
+        "lookup": {
+          "english": "The wasteful use of money or resources.",
+          "chinese": "揮霍；浪費"
+        },
+        "advSentence": "Years of profligacy left the once-wealthy family on the brink of bankruptcy.",
+        "advTranslation": "多年的揮霍讓這個曾經富有的家族瀕臨破產。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "rapacity",
+        "pos": "n.",
+        "definition": "Strong greed, especially for money.",
+        "chinese": "貪婪",
+        "synonyms": "greed, avarice, voracity",
+        "image": "shield",
+        "sentence": "The __________ of the bankers caused the crisis.",
+        "translation": "銀行家的貪婪引發了這場危機。",
+        "lookup": {
+          "english": "Strong greed, especially for money.",
+          "chinese": "貪婪"
+        },
+        "advSentence": "The rapacity of colonial powers stripped the region of its natural resources.",
+        "advTranslation": "殖民強權的貪婪剝奪了這個地區的自然資源。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "shopaholic",
+        "pos": "n.",
+        "definition": "A person who cannot stop shopping.",
+        "chinese": "購物狂",
+        "synonyms": "compulsive shopper, spendthrift, big spender",
+        "image": "shield",
+        "sentence": "She is a __________.",
+        "translation": "她是個購物狂。",
+        "lookup": {
+          "english": "A person who cannot stop shopping.",
+          "chinese": "購物狂"
+        },
+        "advSentence": "The shopaholic finally admitted that her extravagant spending had become a problem.",
+        "advTranslation": "那個購物狂終於承認她的揮霍已經成了問題。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
       }
     ],
     "quiz": [
@@ -542,5 +752,45 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "generous": [
     "Showing readiness to give freely; ample.",
     "慷慨的;豐厚的"
+  ],
+  "bounteous": [
+    "Plentiful; generous.",
+    "豐富的；慷慨的"
+  ],
+  "extortionate": [
+    "Much too high in price.",
+    "（價格）過高的；敲詐的"
+  ],
+  "fritter": [
+    "To waste time or money on unimportant things (fritter away).",
+    "浪費（時間、金錢）"
+  ],
+  "indulgence": [
+    "Allowing yourself something pleasant you do not need.",
+    "放縱；嗜好"
+  ],
+  "insatiability": [
+    "The state of never being satisfied.",
+    "貪得無厭；無法滿足"
+  ],
+  "largesse": [
+    "Generous giving of money or gifts.",
+    "慷慨贈與；大方"
+  ],
+  "pamper": [
+    "To give someone too much care and comfort.",
+    "嬌寵"
+  ],
+  "profligacy": [
+    "The wasteful use of money or resources.",
+    "揮霍；浪費"
+  ],
+  "rapacity": [
+    "Strong greed, especially for money.",
+    "貪婪"
+  ],
+  "shopaholic": [
+    "A person who cannot stop shopping.",
+    "購物狂"
   ]
 });

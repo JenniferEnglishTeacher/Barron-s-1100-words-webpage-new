@@ -201,6 +201,324 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他是個西洋棋神童,不到十歲就贏得多項錦標賽冠軍。",
         "added": true,
         "group": "sat-surprise"
+      },
+      {
+        "word": "agape",
+        "pos": "adj.",
+        "definition": "With the mouth wide open in surprise.",
+        "chinese": "目瞪口呆的",
+        "synonyms": "astonished, open-mouthed, amazed",
+        "image": "shield",
+        "sentence": "The children stood __________ at the giant dinosaur skeleton.",
+        "translation": "孩子們看著巨大的恐龍骨骼看得目瞪口呆。",
+        "lookup": {
+          "english": "With the mouth wide open in surprise.",
+          "chinese": "目瞪口呆的"
+        },
+        "advSentence": "Tourists stood agape as the fireworks lit up Taipei 101.",
+        "advTranslation": "煙火點亮臺北 101 時，遊客們看得目瞪口呆。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "behold",
+        "pos": "v.",
+        "definition": "To see or look at (formal or literary).",
+        "chinese": "看見；注視",
+        "synonyms": "see, observe, witness",
+        "image": "shield",
+        "sentence": "The view from the summit was a wonder to __________.",
+        "translation": "從山頂看到的景色令人嘆為觀止。",
+        "lookup": {
+          "english": "To see or look at (formal or literary).",
+          "chinese": "看見；注視"
+        },
+        "advSentence": "Behold the first snowfall on Hehuan Mountain!",
+        "advTranslation": "看哪，合歡山的初雪！",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh",
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "crop",
+        "pos": "v.",
+        "definition": "Crop up: to appear or happen suddenly.",
+        "chinese": "（crop up）突然出現",
+        "synonyms": "arise, appear, emerge",
+        "image": "shield",
+        "sentence": "New problems tend to __________ up at the last minute.",
+        "translation": "問題在最後一刻突然冒了出來。",
+        "lookup": {
+          "english": "Crop up: to appear or happen suddenly.",
+          "chinese": "（crop up）突然出現"
+        },
+        "advSentence": "Small problems always seem to crop up right before a big event.",
+        "advTranslation": "小問題似乎總在大活動前突然冒出來。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-sh",
+          "113-nhsh-2-sh"
+        ]
+      },
+      {
+        "word": "entrance",
+        "pos": "v.",
+        "definition": "To fill someone with delight; to charm.",
+        "chinese": "使著迷",
+        "synonyms": "enchant, captivate, fascinate",
+        "image": "shield",
+        "sentence": "The audience was __________d by her voice.",
+        "translation": "觀眾被她的歌聲迷住了。",
+        "lookup": {
+          "english": "To fill someone with delight; to charm.",
+          "chinese": "使著迷"
+        },
+        "advSentence": "The children were entranced by the puppet show.",
+        "advTranslation": "孩子們被布袋戲迷住了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "gasp",
+        "pos": "v.",
+        "definition": "To breathe in suddenly with surprise or pain.",
+        "chinese": "倒抽一口氣；喘氣",
+        "synonyms": "pant, gulp, catch one's breath",
+        "image": "shield",
+        "sentence": "The audience __________d in amazement.",
+        "translation": "觀眾驚訝地倒抽一口氣。",
+        "lookup": {
+          "english": "To breathe in suddenly with surprise or pain.",
+          "chinese": "倒抽一口氣；喘氣"
+        },
+        "advSentence": "After the long run, he lay on the grass, gasping for air.",
+        "advTranslation": "長跑之後，他躺在草地上大口喘氣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "hypnotic",
+        "pos": "adj.",
+        "definition": "Causing a sleepy or trance-like state; strongly holding attention.",
+        "chinese": "催眠的；令人著迷的",
+        "synonyms": "mesmerizing, spellbinding, sleep-inducing",
+        "image": "shield",
+        "sentence": "The music had a __________ rhythm.",
+        "translation": "這段音樂有一種令人著迷的節奏。",
+        "lookup": {
+          "english": "Causing a sleepy or trance-like state; strongly holding attention.",
+          "chinese": "催眠的；令人著迷的"
+        },
+        "advSentence": "The waves made a hypnotic sound against the rocks.",
+        "advTranslation": "海浪拍打岩石，發出令人催眠般的聲響。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-2-sh"
+        ]
+      },
+      {
+        "word": "intrigue",
+        "pos": "v.",
+        "definition": "To make someone very interested.",
+        "chinese": "引起興趣；密謀",
+        "synonyms": "fascinate, interest, plot",
+        "image": "shield",
+        "sentence": "The mystery __________d the students.",
+        "translation": "這個謎團引起學生的興趣。",
+        "lookup": {
+          "english": "To make someone very interested.",
+          "chinese": "引起興趣；密謀"
+        },
+        "advSentence": "The novel is full of political intrigue in the royal court.",
+        "advTranslation": "這部小說充滿宮廷中的政治陰謀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "lulu",
+        "pos": "n.",
+        "definition": "(informal) a remarkable or outstanding person or thing.",
+        "chinese": "（俚）出色的人或事物",
+        "synonyms": "remarkable thing, humdinger, standout",
+        "image": "shield",
+        "sentence": "That storm was a __________.",
+        "translation": "那場暴風雨可真是猛烈。",
+        "lookup": {
+          "english": "(informal) a remarkable or outstanding person or thing.",
+          "chinese": "（俚）出色的人或事物"
+        },
+        "advSentence": "Her excuse for missing class was a real lulu.",
+        "advTranslation": "她缺課的理由真是令人嘆為觀止。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "marvel",
+        "pos": "v./n.",
+        "definition": "To feel great surprise and admiration; a wonderful thing.",
+        "chinese": "驚嘆；奇蹟",
+        "synonyms": "wonder, be amazed, miracle",
+        "image": "shield",
+        "sentence": "We __________d at the view.",
+        "translation": "我們讚嘆眼前的景色。",
+        "lookup": {
+          "english": "To feel great surprise and admiration; a wonderful thing.",
+          "chinese": "驚嘆；奇蹟"
+        },
+        "advSentence": "The high-speed rail is a marvel of modern engineering.",
+        "advTranslation": "高鐵是現代工程的奇蹟。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "mind-boggling",
+        "pos": "adj.",
+        "definition": "Extremely surprising or difficult to imagine or understand.",
+        "chinese": "令人難以置信的；難以理解的",
+        "synonyms": "astonishing, staggering, incredible",
+        "image": "shield",
+        "sentence": "The size of the universe is __________.",
+        "translation": "宇宙的大小令人難以想像。",
+        "lookup": {
+          "english": "Extremely surprising or difficult to imagine or understand.",
+          "chinese": "令人難以置信的；難以理解的"
+        },
+        "advSentence": "The amount of data we create every day is mind-boggling.",
+        "advTranslation": "我們每天產生的資料量多得令人難以置信。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "sensational",
+        "pos": "adj.",
+        "definition": "Very exciting or extremely good.",
+        "chinese": "轟動的；極好的",
+        "synonyms": "amazing, spectacular, shocking",
+        "image": "shield",
+        "sentence": "The team are still celebrating after their __________ victory in the FA Cup.",
+        "translation": "這支隊伍在足總盃中取得驚人的勝利後，仍在慶祝。",
+        "lookup": {
+          "english": "Very exciting or extremely good.",
+          "chinese": "轟動的；極好的"
+        },
+        "advSentence": "Tabloids publish sensational headlines to attract readers.",
+        "advTranslation": "八卦小報刊登聳動的標題來吸引讀者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "swoon",
+        "pos": "v.",
+        "definition": "To faint or be overcome with emotion.",
+        "chinese": "昏倒；神魂顛倒",
+        "synonyms": "faint, collapse, go weak",
+        "image": "shield",
+        "sentence": "Fans __________d when he sang.",
+        "translation": "他一唱歌，歌迷就神魂顛倒。",
+        "lookup": {
+          "english": "To faint or be overcome with emotion.",
+          "chinese": "昏倒；神魂顛倒"
+        },
+        "advSentence": "The heroine in the old novel would swoon at every shock.",
+        "advTranslation": "老派小說中的女主角每遇到驚嚇就會昏倒。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "thrillingly",
+        "pos": "adv.",
+        "definition": "In a very exciting way.",
+        "chinese": "令人激動地",
+        "synonyms": "excitingly, electrifyingly, stirringly",
+        "image": "shield",
+        "sentence": "The game ended __________.",
+        "translation": "比賽以令人激動的方式結束。",
+        "lookup": {
+          "english": "In a very exciting way.",
+          "chinese": "令人激動地"
+        },
+        "advSentence": "The roller coaster dropped thrillingly toward the lake.",
+        "advTranslation": "雲霄飛車驚險刺激地朝湖面俯衝。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "trance",
+        "pos": "n.",
+        "definition": "A sleep-like state in which you are not fully aware of things.",
+        "chinese": "恍惚；出神狀態",
+        "synonyms": "daze, stupor, hypnotic state",
+        "image": "shield",
+        "sentence": "She seemed to be in a __________.",
+        "translation": "她似乎陷入恍惚狀態。",
+        "lookup": {
+          "english": "A sleep-like state in which you are not fully aware of things.",
+          "chinese": "恍惚；出神狀態"
+        },
+        "advSentence": "The drummer's steady beat put the dancers into a trance.",
+        "advTranslation": "鼓手穩定的節奏讓舞者進入出神狀態。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "unimaginable",
+        "pos": "adj.",
+        "definition": "Impossible to imagine.",
+        "chinese": "難以想像的",
+        "synonyms": "unthinkable, incredible, inconceivable",
+        "image": "shield",
+        "sentence": "The scale of the disaster was __________.",
+        "translation": "災難的規模難以想像。",
+        "lookup": {
+          "english": "Impossible to imagine.",
+          "chinese": "難以想像的"
+        },
+        "advSentence": "A world without smartphones seems unimaginable to most teenagers.",
+        "advTranslation": "對大多數青少年來說，沒有智慧型手機的世界簡直難以想像。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-sh",
+          "103-ntpc-vs-ae"
+        ]
       }
     ],
     "group": "sat-surprise",
@@ -252,5 +570,65 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "prodigy": [
     "Marvel, phenomenon.",
     "神童/奇蹟"
+  ],
+  "agape": [
+    "With the mouth wide open in surprise.",
+    "目瞪口呆的"
+  ],
+  "behold": [
+    "To see or look at (formal or literary).",
+    "看見；注視"
+  ],
+  "crop": [
+    "Crop up: to appear or happen suddenly.",
+    "（crop up）突然出現"
+  ],
+  "entrance": [
+    "To fill someone with delight; to charm.",
+    "使著迷"
+  ],
+  "gasp": [
+    "To breathe in suddenly with surprise or pain.",
+    "倒抽一口氣；喘氣"
+  ],
+  "hypnotic": [
+    "Causing a sleepy or trance-like state; strongly holding attention.",
+    "催眠的；令人著迷的"
+  ],
+  "intrigue": [
+    "To make someone very interested.",
+    "引起興趣；密謀"
+  ],
+  "lulu": [
+    "(informal) a remarkable or outstanding person or thing.",
+    "（俚）出色的人或事物"
+  ],
+  "marvel": [
+    "To feel great surprise and admiration; a wonderful thing.",
+    "驚嘆；奇蹟"
+  ],
+  "mind-boggling": [
+    "Extremely surprising or difficult to imagine or understand.",
+    "令人難以置信的；難以理解的"
+  ],
+  "sensational": [
+    "Very exciting or extremely good.",
+    "轟動的；極好的"
+  ],
+  "swoon": [
+    "To faint or be overcome with emotion.",
+    "昏倒；神魂顛倒"
+  ],
+  "thrillingly": [
+    "In a very exciting way.",
+    "令人激動地"
+  ],
+  "trance": [
+    "A sleep-like state in which you are not fully aware of things.",
+    "恍惚；出神狀態"
+  ],
+  "unimaginable": [
+    "Impossible to imagine.",
+    "難以想像的"
   ]
 });

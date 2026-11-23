@@ -1,0 +1,140 @@
+causation | 相關不代表因果。 | Scientists must prove causation, not just a link between two events. | 科學家必須證明因果關係，而不只是兩件事之間的關聯。
+conditional | 這份工作錄取以通過背景調查為條件。 | The bank's loan is conditional on a steady income. | 銀行的貸款以穩定收入為條件。
+corollary | 幸福不是擁有更少或更多，而是想要自己已擁有的。這個道理有一個重要的推論：如果我不想要某樣東西，得到它也不會讓我快樂。 | Higher prices are a natural corollary of rising costs. | 物價上漲是成本增加的必然結果。
+correlation | 研究人員發現睡眠和成績之間有很強的相關性。 | There is a clear correlation between exercise and mood. | 運動與心情之間有明顯的相關性。
+correspondingly | 物價上漲，薪資也相應增加。 | The tasks became harder, and the rewards grew correspondingly. | 任務變得更難，獎勵也相應提高。
+determinant | 一些研究顯示，長壽最有力的決定因素是運動。 | Family income is a key determinant of children's access to tutoring. | 家庭收入是孩子能否上補習班的關鍵因素。
+furthermore | 此外，這個計畫還能省錢。 | The plan is affordable; furthermore, it is good for the environment. | 這個計畫負擔得起，此外對環境也有益。
+hinge | 一切都取決於最後的投票。 | The success of the picnic will hinge on the weather. | 野餐成不成功要看天氣。
+insofar | 我會盡我所能幫忙。 | The plan is fair insofar as everyone pays the same fee. | 就每個人付相同費用這點而言，這個計畫是公平的。
+insomuch | 他累到在晚餐時睡著了。 | The rain was heavy, insomuch that the river overflowed. | 雨勢大到河水都氾濫了。
+ironically | 諷刺的是，消防隊燒毀了。 | Ironically, the safety inspector slipped on the wet floor. | 諷刺的是，安全稽查員在濕地板上滑倒了。
+lest | 球隊安排了密集訓練，以免輸掉比賽。 | Speak softly lest you wake the baby. | 說話小聲一點，以免吵醒寶寶。 | The team trained hard lest they should lose the final.
+likewise | 他很用功，他的妹妹也一樣。 | The teacher stood up, and the students did likewise. | 老師站起來，學生們也跟著站起來。
+nonetheless | 雖然有風險，我們還是試了。 | The test was difficult; nonetheless, most students passed. | 考試很難，儘管如此，大部分學生還是通過了。
+notwithstanding | 儘管下雨，活動仍照常進行。 | Notwithstanding his injury, the player finished the race. | 儘管受了傷，那位選手仍跑完比賽。
+pertain | 這些規定適用於所有學生。 | Please ask only questions that pertain to the lesson. | 請只問與這堂課有關的問題。
+similarly | 同樣地，貓也需要每天照顧。 | Similarly, students who sleep well tend to remember more. | 同樣地，睡得好的學生往往記得更多。
+thereby | 他存了錢，因而避免負債。 | She practiced daily, thereby improving her pronunciation. | 她每天練習，藉此改善了發音。
+therein | 問題就在這裡。 | The town has a small river, and therein swim rare fish. | 小鎮有一條小河，河中有珍稀的魚類。
+whatsoever | 沒有任何證據。 | The new law had no effect whatsoever on traffic. | 新法對交通一點影響也沒有。
+whereas | 有些人喜歡茶，而有些人偏好咖啡。 | The north is cold and wet, whereas the south is warm and sunny. | 北部又冷又濕，而南部溫暖晴朗。
+wherein | 條款列於合約之中。 | She described a dream wherein she could fly over the city. | 她描述了一個夢，夢中她能飛越城市。 | The contract has a section wherein all the terms are listed.
+whereof | 他很清楚自己在說什麼。 | Speak only of things whereof you have personal knowledge. | 只談論你親身了解的事情。
+accessibility | 新的坡道改善了輪椅使用者的無障礙通行。 | Website accessibility helps blind users read online content. | 網站無障礙設計幫助視障使用者閱讀網路內容。
+adjacent | 這家飯店緊鄰火車站。 | The school playground is adjacent to a busy road. | 學校操場緊鄰一條繁忙的道路。
+aloft | 風箏在空中停留了一個多小時。 | The fans held their team's banner aloft. | 球迷們把球隊的旗幟高高舉起。
+ambient | 環境噪音讓錄音很難聽清楚。 | The ambient temperature in the lab must stay below 25°C. | 實驗室的環境溫度必須維持在攝氏 25 度以下。
+amidst | 她在混亂中保持冷靜。 | The temple stands amidst tall trees on the hill. | 那座寺廟矗立在山丘上的高大樹林之中。
+backdrop | 這場選舉在經濟危機的背景下舉行。 | The mountains provided a stunning backdrop for the wedding photos. | 群山為婚紗照提供了壯麗的背景。
+chamber | 會議在議事廳舉行。 | The heart has four chambers. | 心臟有四個腔室。
+compartment | 把你的包包放在上方置物櫃。 | The ship has watertight compartments to prevent sinking. | 這艘船有防水隔艙以防沉沒。
+contiguity | 兩塊農地相鄰，方便共用工具。 | The contiguity of the two parks creates a large green corridor. | 兩座公園相連，形成一條大型綠色廊道。
+contiguous | 美國本土相連的四十八州彼此接壤。 | The two rooms are contiguous, connected by a sliding door. | 這兩個房間相連，以拉門相通。
+dwell | 很少人住在沙漠裡。 | Don't dwell on your mistakes; learn from them. | 別一直糾結於你的錯誤，從中學習吧。
+environs | 巴黎及其周邊地區吸引數百萬遊客。 | Taipei and its environs offer many hiking trails. | 臺北及其周邊地區有許多登山步道。
+esplanade | 我們在夕陽下沿著海濱步道散步。 | Families gather on the riverside esplanade on summer evenings. | 夏天傍晚，家家戶戶聚集在河濱步道上。
+fringe | 海洋平均深度近四公里，周圍環繞著長達三十六萬公里的海岸線。 | Palm trees fringe the white sandy beach. | 棕櫚樹環繞著白色沙灘。
+hermitage | 那位僧人隱居到一處修行所。 | The writer turned his mountain cabin into a quiet hermitage. | 那位作家把山中小屋變成一處寧靜的隱居所。
+inhabit | 企鵝棲息於南極。 | Rare frogs inhabit the wetlands near the river. | 稀有的青蛙棲息在河邊的濕地。
+intersection | 紐約現代藝術館的新展覽探討藝術與建築的交會。 | Be careful at the busy intersection near the school. | 在學校附近繁忙的十字路口要小心。 | The new exhibition explores the intersection of art and architecture.
+interspersed | 講課中穿插了分組活動。 | The novel is interspersed with old family photos. | 這本小說穿插著舊家庭照片。
+junction | 兩條重要的地鐵線都經過這裡，使這座車站成為整個都會區的重要轉運樞紐。 | Turn left at the junction and follow the river. | 在交叉口左轉，然後沿著河走。
+lateral | 水平思考指的是有創意地解決問題。 | The player made a lateral pass to his teammate. | 那名球員向隊友橫傳。
+latitudinal | 緯度差異會影響氣候。 | Scientists studied latitudinal patterns in bird migration. | 科學家研究鳥類遷徙的緯度模式。
+lattice | 玫瑰沿著木製格架攀爬。 | Salt crystals form a regular lattice. | 鹽的晶體形成規則的晶格。
+layout | 我喜歡這間公寓的格局。 | The magazine changed its page layout to attract younger readers. | 這本雜誌改變版面設計以吸引年輕讀者。
+midst | 在危機之中，她保持冷靜。 | We are in the midst of exam season. | 我們正處於考試季當中。
+niche | 她在教學領域找到自己的定位。 | The small company found a profitable niche in handmade soap. | 這家小公司在手工皂市場找到有利可圖的利基。
+perpendicular | 登山者們展現了極大的勇氣與技巧，登上了那些垂直的懸崖。 | Draw a line perpendicular to the base of the triangle. | 畫一條垂直於三角形底邊的線。
+proximal | 學生在近側發展區中，在協助下能完成獨自做不到的事。 | The doctor examined the proximal end of the bone. | 醫生檢查了骨頭的近端。 | In Vygotsky's zone of proximal development, learners succeed with help.
+ramp | 工廠提高了產量。 | The building has a ramp for wheelchair users. | 這棟建築有供輪椅使用者通行的坡道。
+rectilinear | 這棟建築採直線設計。 | The city's rectilinear streets make it easy to find your way. | 這座城市的棋盤式直線街道讓人很容易找到路。
+reside | 她住在臺北。 | Power resides with the people in a democracy. | 在民主制度中，權力屬於人民。
+residential | 這裡是一個安靜的住宅區。 | The new residential tower has three hundred apartments. | 新的住宅大樓有三百戶公寓。
+reticulate | 這片葉子有網狀葉脈。 | The python's reticulate pattern helps it hide in the forest. | 網紋蟒的網狀花紋幫助牠在森林中隱藏。
+schematic | 工程師畫了一份示意圖。 | The schematic diagram shows how the circuit works. | 這張示意圖顯示電路如何運作。
+situated | 學校位於河邊。 | The hotel is ideally situated near the night market. | 這家飯店位置絕佳，就在夜市附近。
+spatial | 建築師需要空間感。 | Video games may improve children's spatial skills. | 電玩可能提升孩子的空間能力。
+superstratum | 法語在英語上形成了上層語言。 | Japanese acted as a superstratum on some Taiwanese words. | 日語對某些臺語詞彙產生了上層語言的影響。
+veranda | 我喜歡我家的木地板、綠色庭院和迷人的陽台。 | Grandpa likes to drink tea on the veranda in the evening. | 爺爺喜歡傍晚在陽台上喝茶。
+vicinity | 附近有很多商店。 | Police searched the vicinity of the school for the missing boy. | 警方在學校附近搜尋失蹤的男孩。
+altitude | 在高海拔地區呼吸變得比較困難。 | The plane climbed to an altitude of ten thousand meters. | 飛機爬升到一萬公尺的高度。
+asymmetry | 雇主與勞工之間存在權力不對稱。 | The asymmetry of her face made the portrait more interesting. | 她臉部的不對稱讓這幅肖像更有趣。
+barely | 我勉強通過考試，分數不高，但很高興不用重考。 | The baby was so tired she could barely keep her eyes open. | 寶寶累到幾乎睜不開眼睛。
+bisection | 這個角的二等分線把它分成兩個相等的部分。 | The bisection of the island by a mountain range shapes its climate. | 山脈把島嶼一分為二，影響了它的氣候。
+density | 東京的人口密度很高。 | Ice floats because it has a lower density than water. | 冰會浮起來，因為它的密度比水低。
+dimension | 這個問題有道德層面。 | Measure the dimensions of the room before buying a sofa. | 買沙發前先量好房間的尺寸。
+echelon | 她晉升到公司的高層。 | The lower echelons of the army had little information about the plan. | 軍隊的基層對這項計畫所知甚少。
+elevation | 這座小鎮位於海拔兩千公尺。 | Her elevation to principal surprised no one. | 她升任校長，沒有人感到意外。
+extent | 你同意到什麼程度？ | The full extent of the damage became clear the next day. | 損害的全部程度在隔天才清楚。
+fragment | 考古學家發現了陶器碎片。 | She could only remember fragments of the dream. | 她只記得夢的片段。
+incidence | 你有顯示一般人口中左撇子發生率的數據嗎？ | The incidence of asthma is higher in polluted cities. | 污染嚴重的城市氣喘發生率較高。 | Do you have figures on the incidence of left-handedness in the population?
+likelihood | 下雨的可能性很低。 | Wearing a helmet reduces the likelihood of serious injury. | 戴安全帽能降低重傷的可能性。
+macroscopic | 肉眼可見的生物不需要顯微鏡就能看到。 | Economists study macroscopic trends such as national growth. | 經濟學家研究國家成長等宏觀趨勢。
+magnitude | 我們沒有意識到問題的嚴重性。 | The earthquake had a magnitude of 7.2. | 那場地震的規模是 7.2。
+makeup | 這座城市的族群組成已經改變。 | The actress spent two hours in makeup before filming. | 那位女演員拍攝前花了兩小時化妝。
+measurable | 設定可測量的學習目標。 | The new program produced measurable improvements in reading. | 新計畫在閱讀上帶來可測量的進步。
+proportion | 很大比例的學生通過了。 | The drawing is out of proportion; the head is too big. | 這幅畫比例不對，頭太大了。
+proportionate | 懲罰應該與罪行相稱。 | Your rent should be proportionate to your income. | 你的房租應該與你的收入成比例。
+quantify | 幸福很難量化。 | Researchers tried to quantify the benefits of green spaces. | 研究人員試圖量化綠地的效益。
+quotient | 情緒商數在職場很重要。 | Divide 20 by 4, and the quotient is 5. | 20 除以 4，商數是 5。
+remnant | 舊城牆的殘跡仍屹立著。 | The shop sells fabric remnants at low prices. | 這家店低價出售零碼布料。
+residual | 可能會有殘餘的疼痛。 | Residual chemicals on fruit should be washed off. | 水果上殘留的化學物質應該洗掉。
+residue | 大臺北地區販售的不少豆干製品被發現含有不合格的化學物質殘留。 | Wipe the sticky residue off the table. | 把桌上黏黏的殘留物擦掉。
+respective | 他們各自回家了。 | The two teams returned to their respective cities after the game. | 比賽後兩隊各自回到自己的城市。
+scattering | 劇院裡只坐了零星幾個人。 | A scattering of snow covered the mountain peaks. | 山峰上覆蓋著薄薄一層雪。
+scope | 這項任務超出這門課的範圍。 | There is plenty of scope for improvement in your essay. | 你的作文還有很大的進步空間。
+spectrum | 學生的能力分布範圍很廣。 | A rainbow shows the full spectrum of visible light. | 彩虹展現了可見光的完整光譜。
+stratify | 社會依收入分層。 | Many schools stratify students into different ability groups. | 許多學校把學生分到不同能力的班組。 | Some societies stratify people by income and education.
+stratum | 每一層岩層都訴說一段故事。 | The new tax affects every stratum of society. | 新稅影響社會的每個階層。
+trace | 她追溯了家族歷史。 | The police found no trace of the missing hiker. | 警方找不到失蹤登山客的任何蹤跡。
+velocity | 太陽輻射撞擊這些微粒，使它們失去軌道速度，最終墜入最近的行星。 | Wind velocity increased as the typhoon approached. | 颱風逼近時，風速增強了。
+frequency | 颱風的頻率正在增加。 | Tune the radio to a different frequency. | 把收音機調到不同的頻率。
+henceforth | 從今以後，所有報告都必須線上繳交。 | Henceforth, the library will open on Sundays. | 從今以後，圖書館週日也開放。
+hitherto | 這項研究發現了一種迄今未知的物種。 | The letters reveal a hitherto hidden side of the poet. | 這些信揭露了這位詩人至今未為人知的一面。
+immediacy | 電視直播有一種即時感。 | Social media gives news a new immediacy. | 社群媒體賦予新聞新的即時性。
+initially | 起初我不喜歡這座城市。 | Initially shy, she soon became the most active student in class. | 她一開始很害羞，但很快就成為班上最活躍的學生。
+instantaneous | 死亡是瞬間的。 | Online banking makes money transfers almost instantaneous. | 網路銀行讓轉帳幾乎是即時完成。
+intercalate | 閏年會插入額外的一天。 | The lunar calendar intercalates an extra month every few years. | 農曆每隔幾年就會插入一個閏月。
+intermission | 我們在中場休息時買了飲料。 | The concert has a fifteen-minute intermission. | 這場音樂會有十五分鐘的中場休息。
+occurrence | 地震在這裡是常見的事。 | Power cuts are a rare occurrence in the city. | 停電在這座城市很少見。
+pending | 這項決定正在等待審查。 | The road will remain closed pending repairs. | 在修復完成之前，這條路將持續封閉。
+preceded | 用餐前先有一段簡短的致詞。 | Thunder preceded the heavy rain. | 大雨之前先打了雷。
+precedence | 安全優先於速度。 | Homework takes precedence over video games. | 寫功課比玩電動優先。
+precedential | 這項判決具有判例價值。 | The court's decision has precedential weight for similar cases. | 法院的判決對類似案件具有先例效力。
+predecessor | 新款比舊款更快。 | The new mayor promised to finish his predecessor's projects. | 新市長承諾完成前任的計畫。
+premature | 現在慶祝還太早。 | The premature baby stayed in hospital for two months. | 那個早產兒在醫院住了兩個月。
+procedure | 遵守安全程序。 | The surgery is a simple procedure that takes an hour. | 這項手術是一個簡單的程序，只需一小時。
+progression | 這種疾病的進展很緩慢。 | The course offers a clear progression from basic to advanced skills. | 這門課提供從基礎到進階技能的清楚進程。
+punctuate | 她的演講不時被掌聲打斷。 | Remember to punctuate your sentences correctly. | 記得正確地為句子加上標點。
+recurrent | 她有反覆發作的頭痛。 | Flooding is a recurrent problem in the low-lying village. | 淹水是這個低窪村莊反覆出現的問題。
+regularity | 公車班次非常規律。 | She exercises with great regularity. | 她運動非常規律。
+simultaneous | 同步口譯很困難。 | The two explosions were almost simultaneous. | 兩次爆炸幾乎同時發生。
+simultaneously | 兩件事同時發生。 | It is hard to listen and take notes simultaneously. | 同時聽講和做筆記很困難。
+slate | 音樂會預定七點開始。 | The new library is slated to open next spring. | 新圖書館預定明年春天開幕。 | The concert is slated to begin at seven.
+succession | 她連續贏得三個冠軍。 | The prince was next in the line of succession. | 王子是下一順位的王位繼承人。
+tick | 時鐘滴答作響。 | Tick the box if you agree. | 如果同意，請在方框內打勾。
+urgency | 有一種急迫感。 | The doctor stressed the urgency of treatment. | 醫生強調治療的急迫性。
+urgently | 急需捐血者。 | The village urgently needs clean water after the flood. | 水災後，這個村莊急需乾淨的水。
+boundary | 每個孩子都需要在遊戲時間和讀書時間之間有清楚的界線。 | The river forms the boundary between the two counties. | 這條河是兩個縣的分界。 | Every child needs a clear boundary between play time and study time.
+captive | 那隻老虎在動物園裡出生並被圈養。 | The movie kept the audience captive for three hours. | 這部電影讓觀眾三小時目不轉睛。
+captivity | 熊貓在圈養環境下很少繁殖。 | The soldier spent two years in captivity. | 那名士兵被囚禁了兩年。
+capture | 這張照片捕捉了那一刻的喜悅。 | Police captured the escaped prisoner near the border. | 警方在邊界附近抓到那名逃犯。
+carte | 董事會授予新任執行長全權處理權，讓他大刀闊斧改革虧損的部門。 | The chef was given carte blanche to design the new menu. | 主廚獲得全權設計新菜單。
+confine | 病人被限制在床上。 | Please confine your answer to one page. | 請把答案限制在一頁之內。
+confinement | 單獨監禁可能傷害心理健康。 | Long confinement indoors during the typhoon made the children restless. | 颱風期間長時間待在室內，讓孩子們坐立難安。
+constraint | 時間限制迫使我們略過最後一章。 | Budget constraints delayed the construction of the new gym. | 預算限制延後了新體育館的興建。
+curb | 市政府開始收費以遏止車流。 | Parents should curb their children's screen time. | 父母應該限制孩子使用螢幕的時間。
+curfew | 為了保障行動自由，抗議者強烈抨擊他們城市的軍事宵禁。 | Teenagers in the program must follow a ten o'clock curfew. | 參加這個計畫的青少年必須遵守晚上十點的門禁。
+detain | 南韓檢方拘留了上個月沉沒渡輪所屬公司的執行長，涉嫌超載貨物。 | I'm sorry to detain you, but I have one more question. | 很抱歉耽誤你，但我還有一個問題。
+deterrent | 在美國早期，被定罪的竊賊、小偷甚至偽鈔製造者常被判死刑，這被認為能嚇阻其他罪犯。 | Speed cameras act as a deterrent to reckless drivers. | 測速照相機對魯莽駕駛有嚇阻作用。 | In early America, the death penalty was thought to be a deterrent to other criminals.
+dictate | 預算將決定我們能聘用多少位老師。 | The manager dictated a letter to his assistant. | 經理口述一封信讓助理打字。
+directive | 政府發布了關於配戴口罩的指令。 | The principal sent a directive about the new school uniform. | 校長發出關於新制服的指示。
+enjoin | 法院禁止這家公司販售該產品。 | The monks are enjoined to speak as little as possible. | 僧侶們被要求盡量少說話。
+immobilize | 石膏固定了他骨折的手臂。 | The heavy snow immobilized the entire city. | 大雪讓整座城市動彈不得。
+impose | 政府對含糖飲料課稅。 | Parents should not impose their dreams on their children. | 父母不應把自己的夢想強加在孩子身上。
+intercept | 防守球員攔截了傳球。 | Customs officers intercepted a package of illegal drugs. | 海關人員攔截了一個裝有毒品的包裹。
+limitation | 每項研究都有其限制。 | Knowing your limitations is part of growing up. | 了解自己的極限是成長的一部分。
+maroon | 水手們被困在一座島上。 | The heavy snow left travelers marooned in the mountain village. | 大雪讓旅客被困在山村裡。
+permissible | 可以使用字典嗎？ | Phones are permissible only during lunch break. | 只有在午休時間才允許使用手機。

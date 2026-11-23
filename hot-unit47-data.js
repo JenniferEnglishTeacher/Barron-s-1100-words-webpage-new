@@ -165,6 +165,285 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "黑煙從這輛卡車的排氣管中冒出。",
         "added": true,
         "group": "sat-weaken"
+      },
+      {
+        "word": "brittle",
+        "pos": "adj.",
+        "definition": "Hard but easily broken.",
+        "chinese": "易碎的；脆的",
+        "synonyms": "fragile, breakable, delicate",
+        "image": "shield",
+        "sentence": "Old bones become __________ with age.",
+        "translation": "骨頭隨著年紀變得脆弱。",
+        "lookup": {
+          "english": "Hard but easily broken.",
+          "chinese": "易碎的；脆的"
+        },
+        "advSentence": "The peace between the two tribes was brittle and easily broken.",
+        "advTranslation": "兩個部落之間的和平很脆弱，一觸即碎。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh",
+          "110-taipei-vs-en",
+          "115-moe-sh",
+          "115-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "counteractive",
+        "pos": "adj.",
+        "definition": "Working against the effect of something.",
+        "chinese": "抵消的；反作用的",
+        "synonyms": "counteracting, neutralizing, opposing",
+        "image": "shield",
+        "sentence": "The medicine has a __________ effect on the poison.",
+        "translation": "這種藥對毒物有抵銷作用。",
+        "lookup": {
+          "english": "Working against the effect of something.",
+          "chinese": "抵消的；反作用的"
+        },
+        "advSentence": "Counteractive measures were taken to stop the spread of false rumors.",
+        "advTranslation": "當局採取了對抗措施來阻止不實謠言擴散。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "delegitimize",
+        "pos": "v.",
+        "definition": "To make something seem not legal or acceptable.",
+        "chinese": "使失去正當性",
+        "synonyms": "discredit, undermine, invalidate",
+        "image": "shield",
+        "sentence": "Fake news can __________ elections.",
+        "translation": "假新聞可能使選舉失去正當性。",
+        "lookup": {
+          "english": "To make something seem not legal or acceptable.",
+          "chinese": "使失去正當性"
+        },
+        "advSentence": "Personal attacks are often used to delegitimize opponents rather than refute them.",
+        "advTranslation": "人身攻擊常被用來使對手失去正當性，而非反駁他們的論點。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh"
+        ]
+      },
+      {
+        "word": "dilute",
+        "pos": "v.",
+        "definition": "To make weaker, often by adding water.",
+        "chinese": "稀釋；削弱",
+        "synonyms": "weaken, water down, thin",
+        "image": "shield",
+        "sentence": "The new rule __________s the power of the union.",
+        "translation": "新規定削弱了工會的權力。",
+        "lookup": {
+          "english": "To make weaker, often by adding water.",
+          "chinese": "稀釋；削弱"
+        },
+        "advSentence": "Dilute the juice with water before giving it to small children.",
+        "advTranslation": "給小孩喝之前先用水把果汁稀釋。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "114-taipei-jh"
+        ]
+      },
+      {
+        "word": "dilution",
+        "pos": "n.",
+        "definition": "Making something weaker or thinner.",
+        "chinese": "稀釋；削弱",
+        "synonyms": "weakening, thinning, reduction",
+        "image": "shield",
+        "sentence": "The __________ of the medicine reduced its effect.",
+        "translation": "藥物稀釋後效果降低了。",
+        "lookup": {
+          "english": "Making something weaker or thinner.",
+          "chinese": "稀釋；削弱"
+        },
+        "advSentence": "Critics feared a dilution of the original vision of the project.",
+        "advTranslation": "批評者擔心計畫的原始理念會被削弱。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "erode",
+        "pos": "v.",
+        "definition": "To gradually weaken or destroy something.",
+        "chinese": "侵蝕；逐漸削弱",
+        "synonyms": "wear away, weaken, undermine",
+        "image": "shield",
+        "sentence": "Scandals __________ public trust.",
+        "translation": "醜聞會侵蝕大眾的信任。",
+        "lookup": {
+          "english": "To gradually weaken or destroy something.",
+          "chinese": "侵蝕；逐漸削弱"
+        },
+        "advSentence": "Waves continue to erode the cliffs along the eastern coast.",
+        "advTranslation": "海浪持續侵蝕東海岸的懸崖。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sksc-vs"
+        ]
+      },
+      {
+        "word": "flimsy",
+        "pos": "adj.",
+        "definition": "Thin and easily broken or torn; weak.",
+        "chinese": "薄而易壞的；脆弱的",
+        "synonyms": "weak, fragile, unconvincing",
+        "image": "shield",
+        "sentence": "The prosecutor dismissed the witness's testimony as too __________ to substantiate such a serious allegation, since it depended largely on conjecture rather than evidence.",
+        "translation": "檢察官認為證人的證詞太薄弱，不足以證實如此嚴重的指控，因為它主要依賴臆測而非證據。",
+        "lookup": {
+          "english": "Thin and easily broken or torn; weak.",
+          "chinese": "薄而易壞的；脆弱的"
+        },
+        "advSentence": "The flimsy tent collapsed in the first strong wind.",
+        "advTranslation": "那頂不牢靠的帳篷在第一陣強風中就倒塌了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh",
+          "115-cysh-2-sh"
+        ]
+      },
+      {
+        "word": "fragility",
+        "pos": "n.",
+        "definition": "The quality of being easily broken or damaged.",
+        "chinese": "脆弱；易碎",
+        "synonyms": "delicacy, weakness, frailty",
+        "image": "shield",
+        "sentence": "The __________ of the ecosystem worries scientists.",
+        "translation": "生態系的脆弱令科學家擔憂。",
+        "lookup": {
+          "english": "The quality of being easily broken or damaged.",
+          "chinese": "脆弱；易碎"
+        },
+        "advSentence": "The pandemic revealed the fragility of global supply chains.",
+        "advTranslation": "疫情揭露了全球供應鏈的脆弱。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hcdes-sh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "indefensible",
+        "pos": "adj.",
+        "definition": "Impossible to justify or defend.",
+        "chinese": "站不住腳的；無法辯護的",
+        "synonyms": "inexcusable, unjustifiable, untenable",
+        "image": "shield",
+        "sentence": "His rude behavior was __________.",
+        "translation": "他無禮的行為是無法辯解的。",
+        "lookup": {
+          "english": "Impossible to justify or defend.",
+          "chinese": "站不住腳的；無法辯護的"
+        },
+        "advSentence": "Cutting funds for school lunches is morally indefensible.",
+        "advTranslation": "刪減學校午餐經費在道德上站不住腳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "porous",
+        "pos": "adj.",
+        "definition": "Having many small holes; easy to pass through or weak.",
+        "chinese": "多孔的；有漏洞的",
+        "synonyms": "permeable, leaky, absorbent",
+        "image": "shield",
+        "sentence": "The border is __________.",
+        "translation": "這段邊界漏洞百出。",
+        "lookup": {
+          "english": "Having many small holes; easy to pass through or weak.",
+          "chinese": "多孔的；有漏洞的"
+        },
+        "advSentence": "Porous rocks allow rainwater to soak deep into the ground.",
+        "advTranslation": "多孔的岩石讓雨水能深深滲入地下。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chgsh-sh"
+        ]
+      },
+      {
+        "word": "sabotage",
+        "pos": "v.",
+        "definition": "To damage or destroy something on purpose.",
+        "chinese": "蓄意破壞",
+        "synonyms": "undermine, wreck, disrupt",
+        "image": "shield",
+        "sentence": "Someone __________d the machines.",
+        "translation": "有人蓄意破壞了機器。",
+        "lookup": {
+          "english": "To damage or destroy something on purpose.",
+          "chinese": "蓄意破壞"
+        },
+        "advSentence": "Constant negative comments can sabotage a team's confidence.",
+        "advTranslation": "不斷的負面評論可能破壞團隊的信心。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "saboteur",
+        "pos": "n.",
+        "definition": "A person who deliberately damages or destroys things.",
+        "chinese": "破壞者",
+        "synonyms": "wrecker, destroyer, subversive",
+        "image": "shield",
+        "sentence": "The __________s were arrested.",
+        "translation": "破壞者們被逮捕了。",
+        "lookup": {
+          "english": "A person who deliberately damages or destroys things.",
+          "chinese": "破壞者"
+        },
+        "advSentence": "The saboteur cut the power lines before the attack.",
+        "advTranslation": "破壞者在攻擊前剪斷了電線。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cysh-1-sh"
+        ]
+      },
+      {
+        "word": "susceptibility",
+        "pos": "n.",
+        "definition": "The state of being easily affected or harmed.",
+        "chinese": "易受影響性；感受性",
+        "synonyms": "vulnerability, sensitivity, proneness",
+        "image": "shield",
+        "sentence": "Children have greater __________ to infection.",
+        "translation": "兒童較容易受到感染。",
+        "lookup": {
+          "english": "The state of being easily affected or harmed.",
+          "chinese": "易受影響性；感受性"
+        },
+        "advSentence": "Lack of sleep increases susceptibility to colds.",
+        "advTranslation": "睡眠不足會增加罹患感冒的機率。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh",
+          "115-tnssh-sh"
+        ]
       }
     ],
     "group": "sat-weaken",
@@ -210,5 +489,57 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "exhaust": [
     "To use up completely; the fumes from an engine.",
     "耗盡;排氣"
+  ],
+  "brittle": [
+    "Hard but easily broken.",
+    "易碎的；脆的"
+  ],
+  "counteractive": [
+    "Working against the effect of something.",
+    "抵消的；反作用的"
+  ],
+  "delegitimize": [
+    "To make something seem not legal or acceptable.",
+    "使失去正當性"
+  ],
+  "dilute": [
+    "To make weaker, often by adding water.",
+    "稀釋；削弱"
+  ],
+  "dilution": [
+    "Making something weaker or thinner.",
+    "稀釋；削弱"
+  ],
+  "erode": [
+    "To gradually weaken or destroy something.",
+    "侵蝕；逐漸削弱"
+  ],
+  "flimsy": [
+    "Thin and easily broken or torn; weak.",
+    "薄而易壞的；脆弱的"
+  ],
+  "fragility": [
+    "The quality of being easily broken or damaged.",
+    "脆弱；易碎"
+  ],
+  "indefensible": [
+    "Impossible to justify or defend.",
+    "站不住腳的；無法辯護的"
+  ],
+  "porous": [
+    "Having many small holes; easy to pass through or weak.",
+    "多孔的；有漏洞的"
+  ],
+  "sabotage": [
+    "To damage or destroy something on purpose.",
+    "蓄意破壞"
+  ],
+  "saboteur": [
+    "A person who deliberately damages or destroys things.",
+    "破壞者"
+  ],
+  "susceptibility": [
+    "The state of being easily affected or harmed.",
+    "易受影響性；感受性"
   ]
 });

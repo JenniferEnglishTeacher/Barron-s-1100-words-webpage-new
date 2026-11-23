@@ -183,6 +183,91 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這座市集廣場在週六早上總是特別熱鬧忙碌。",
         "added": true,
         "group": "sat-diligent"
+      },
+      {
+        "word": "assiduity",
+        "pos": "n.",
+        "definition": "Careful and hard work.",
+        "chinese": "勤勉；刻苦",
+        "synonyms": "diligence, persistence, industry",
+        "image": "shield",
+        "sentence": "She prepared for the exam with great __________.",
+        "translation": "她非常勤奮地準備考試。",
+        "lookup": {
+          "english": "Careful and hard work.",
+          "chinese": "勤勉；刻苦"
+        },
+        "advSentence": "The researcher's assiduity finally paid off with a major discovery.",
+        "advTranslation": "研究人員的勤勉終於換來重大發現。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "productive",
+        "pos": "adj.",
+        "definition": "Producing a lot; useful.",
+        "chinese": "有生產力的；有成效的",
+        "synonyms": "efficient, fruitful, useful",
+        "image": "shield",
+        "sentence": "We had a __________ meeting.",
+        "translation": "我們開了一場有成效的會議。",
+        "lookup": {
+          "english": "Producing a lot; useful.",
+          "chinese": "有生產力的；有成效的"
+        },
+        "advSentence": "Productive farmland is disappearing as cities expand.",
+        "advTranslation": "隨著城市擴張，肥沃的農地正在消失。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "productively",
+        "pos": "adv.",
+        "definition": "In a useful way that produces results.",
+        "chinese": "有成效地",
+        "synonyms": "efficiently, fruitfully, usefully",
+        "image": "shield",
+        "sentence": "In spite of the fast development of technology, machines should be designed to make people work more __________ instead of replacing them.",
+        "translation": "儘管科技快速發展，機器應被設計成幫助人們更有效率地工作，而非取代他們。",
+        "lookup": {
+          "english": "In a useful way that produces results.",
+          "chinese": "有成效地"
+        },
+        "advSentence": "Students who plan their time can study more productively.",
+        "advTranslation": "會規劃時間的學生能讀書讀得更有效率。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-hccg-jh"
+        ]
+      },
+      {
+        "word": "toil",
+        "pos": "v.",
+        "definition": "To work very hard for a long time.",
+        "chinese": "辛勞工作",
+        "synonyms": "labor, work hard, slave",
+        "image": "shield",
+        "sentence": "Farmers __________d in the fields.",
+        "translation": "農夫在田裡辛勤勞動。",
+        "lookup": {
+          "english": "To work very hard for a long time.",
+          "chinese": "辛勞工作"
+        },
+        "advSentence": "Migrant workers toil long hours on fishing boats for low wages.",
+        "advTranslation": "移工們在漁船上長時間辛勞工作，薪水卻很低。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh",
+          "110-moe-sh"
+        ]
       }
     ],
     "group": "sat-diligent",
@@ -232,5 +317,21 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "busy": [
     "Having a great deal to do; full of activity.",
     "忙碌的"
+  ],
+  "assiduity": [
+    "Careful and hard work.",
+    "勤勉；刻苦"
+  ],
+  "productive": [
+    "Producing a lot; useful.",
+    "有生產力的；有成效的"
+  ],
+  "productively": [
+    "In a useful way that produces results.",
+    "有成效地"
+  ],
+  "toil": [
+    "To work very hard for a long time.",
+    "辛勞工作"
   ]
 });

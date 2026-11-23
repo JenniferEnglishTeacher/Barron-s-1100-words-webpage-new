@@ -1,0 +1,140 @@
+causation [L104 n. 因果關係] :: Correlation does not prove causation.
+conditional [L104 adj. 有條件的] :: The job offer is conditional on a background check.
+corollary [L104 n. 必然結果；推論] :: Happiness is not having less, or more; happiness is wanting what I have. And this truth has an important corollary: If I don't want something, getting it won't make me happy.
+correlation [L104 n. 相關性] :: Researchers found strong correlations between sleep and grades.
+correspondingly [L104 adv. 相應地] :: Prices rose and wages increased correspondingly.
+determinant [L104 n. 決定因素] :: Some studies suggest that the most powerful determinant of longevity is exercise.
+furthermore [L104 adv. 此外] :: Furthermore, the plan saves money.
+hinge [L104 v. 取決於] :: Everything hinges on the final vote.
+insofar [L104 adv. 在…範圍內] :: I'll help insofar as I can.
+insomuch [L104 adv. 到如此程度；（insomuch as）因為] :: He was tired, insomuch that he fell asleep at dinner.
+ironically [L104 adv. 諷刺的是] :: Ironically, the fire station burned down.
+lest [L104 conj. 以免] :: The team arranged an intensive training lest they lost the game.
+likewise [L104 adv. 同樣地] :: He studied hard; likewise, his sister did too.
+nonetheless [L104 adv. 儘管如此；然而] :: It was risky; nonetheless, we tried.
+notwithstanding [L104 prep./adv. 儘管；雖然] :: Notwithstanding the rain, the event continued.
+pertain [L104 v. 與…有關] :: These rules pertain to all students.
+similarly [L104 adv. 同樣地] :: Similarly, cats need daily care.
+thereby [L104 adv. 藉此；因而] :: He saved money, thereby avoiding debt.
+therein [L104 adv. 在那裡；在其中] :: Therein lies the problem.
+whatsoever [L104 adv. 一點也（沒有）] :: There is no evidence whatsoever.
+whereas [L104 conj. 然而；反之] :: Some like tea, whereas others prefer coffee.
+wherein [L104 adv. （正式）在其中；在那裡] :: The contract wherein the terms are listed.
+whereof [L104 adv. （正式）關於那個；關於什麼] :: He knows whereof he speaks.
+accessibility [L105 n. 可及性；無障礙] :: The new ramps improve accessibility for wheelchair users.
+adjacent [L105 adj. 鄰近的；毗連的] :: The hotel is adjacent to the train station.
+aloft [L105 adv. 在空中；在高處] :: The kite stayed aloft for over an hour.
+ambient [L105 adj. 周圍環境的] :: Ambient noise made the recording hard to hear.
+amidst [L105 prep. 在……之中] :: She remained calm amidst the chaos.
+backdrop [L105 n. 背景；背景幕] :: The election took place against a backdrop of economic crisis.
+chamber [L105 n. 房間；會議廳] :: The meeting took place in the council chamber.
+compartment [L105 n. 隔間；車廂] :: Put your bag in the overhead compartment.
+contiguity [L105 n. 鄰接；接近] :: Contiguity of the two farms made sharing tools easy.
+contiguous [L105 adj. 鄰近的；相連的] :: The forty-eight contiguous states share borders.
+dwell [L105 v. 居住] :: Few people dwell in the desert.
+environs [L105 n. 周圍地區；近郊] :: Paris and its environs attract millions of tourists.
+esplanade [L105 n. （海濱）散步大道] :: We strolled along the esplanade at sunset.
+fringe [L105 v. 環繞…的邊緣] :: Oceans average nearly four kilometers in depth and are fringed with coastlines that run for 360,000 kilometers.
+hermitage [L105 n. 隱居處] :: The monk retired to a hermitage.
+inhabit [L105 v. 居住於；棲息於] :: Penguins inhabit the Antarctic.
+intersection [L105 n. 交叉路口；交集] :: A new exhibition at New York's MoMA, Endless House: Intersections of Art and Architecture, “considers the single-family home and archetypes of dwelling as themes for the creative endeavors of architects and artists”.
+interspersed [L105 adj. 點綴的；散布的] :: Lectures were interspersed with group work.
+junction [L105 n. 交會點；樞紐] :: With both important subway lines passing through it, the station has become an important junction of the entire metropolitan area.
+lateral [L105 adj. 側面的；橫向的] :: Lateral thinking means solving problems creatively.
+latitudinal [L105 adj. 緯度的] :: Latitudinal differences affect climate.
+lattice [L105 n. 格子；網格] :: Roses climbed the wooden lattice.
+layout [L105 n. 布局；版面配置] :: I like the layout of this apartment.
+midst [L105 n. 中間；當中] :: In the midst of the crisis, she stayed calm.
+niche [L105 n. 利基；適當位置] :: She found her niche in teaching.
+perpendicular [L105 adj. 垂直的；陡峭的] :: The climbers had great courage and skills to get on top of the perpendicular cliffs.
+proximal [L105 adj. 近側的；鄰近的] :: Vygotsky's zone of proximal development.
+ramp [L105 n./v. 坡道；提升] :: The factory ramped up production.
+rectilinear [L105 adj. 直線的] :: The building has a rectilinear design.
+reside [L105 v. 居住] :: She resides in Taipei.
+residential [L105 adj. 住宅的] :: This is a quiet residential area.
+reticulate [L105 adj. 網狀的] :: The leaf has reticulate veins.
+schematic [L105 adj. 示意的；概要的] :: The engineer drew a schematic plan.
+situated [L105 adj. 位於…的] :: The school is situated near the river.
+spatial [L105 adj. 空間的] :: Architects need spatial awareness.
+superstratum [L105 n. 上層] :: French formed a superstratum on English.
+veranda [L105 n. 陽台；走廊] :: I love the wooden floors, green yard and charming veranda of my house.
+vicinity [L105 n. 附近；鄰近地區] :: There are many shops in the vicinity.
+altitude [L106 n. 海拔；高度] :: Breathing becomes harder at high altitudes.
+asymmetry [L106 n. 不對稱] :: There is an asymmetry of power between employers and workers.
+barely [L106 adv. 幾乎沒有；勉強] :: I barely passed the test. The score is not high, but I'm glad I don't have to take the test again.
+bisection [L106 n. 二等分] :: The bisection of the angle created two equal parts.
+density [L106 n. 密度] :: Tokyo has a high population density.
+dimension [L106 n. 尺寸；面向] :: The problem has a moral dimension.
+echelon [L106 n. 階層；等級] :: She reached the upper echelons of the company.
+elevation [L106 n. 高度；提升] :: The town lies at an elevation of 2,000 meters.
+extent [L106 n. 程度；範圍] :: To what extent do you agree?
+fragment [L106 n. 碎片] :: Archaeologists found fragments of pottery.
+incidence [L106 n. 發生率] :: Do you have any figures showing the incidence of left-handedness is in the general population?
+likelihood [L106 n. 可能性] :: There is little likelihood of rain.
+macroscopic [L106 adj. 肉眼可見的；宏觀的] :: Macroscopic organisms can be seen without a microscope.
+magnitude [L106 n. 規模；重大] :: We didn't realize the magnitude of the problem.
+makeup [L106 n. 組成；化妝品；補考] :: The ethnic makeup of the city has changed.
+measurable [L106 adj. 可測量的] :: Set measurable learning goals.
+proportion [L106 n. 比例；部分] :: A large proportion of students passed.
+proportionate [L106 adj. 成比例的；相稱的] :: The punishment should be proportionate to the crime.
+quantify [L106 v. 量化] :: It's hard to quantify happiness.
+quotient [L106 n. 商數；程度] :: Emotional quotient (EQ) matters at work.
+remnant [L106 n. 殘餘；剩餘部分] :: Remnants of the old wall still stand.
+residual [L106 adj. 殘餘的] :: There may be residual pain.
+residue [L106 n. 殘留物；殘渣] :: Quite a lot of dried tofu products sold in the greater Taipei area have been found to contain residue of unacceptable chemicals.
+respective [L106 adj. 各自的] :: They returned to their respective homes.
+scattering [L106 n. 少量；散布] :: A scattering of people sat in the theater.
+scope [L106 n. 範圍；空間] :: The task is beyond the scope of this course.
+spectrum [L106 n. 範圍；光譜] :: Students span a wide spectrum of abilities.
+stratify [L106 v. 使分層；分級] NEED_S1 :: Society is stratified by income.
+stratum [L106 n. 地層；階層] :: Each stratum of rock tells a story.
+trace [L106 v./n. 追溯；痕跡] :: She traced her family history.
+velocity [L106 n. 速度；速率] :: Solar radiation bombarding the particles causes them to lose orbital velocity and eventually fall into the nearest planet.
+frequency [L107 n. 頻率] :: The frequency of typhoons is increasing.
+henceforth [L107 adv. 從此以後] :: Henceforth, all reports must be submitted online.
+hitherto [L107 adv. 迄今；到目前為止] :: The study revealed a hitherto unknown species.
+immediacy [L107 n. 直接性；即時性] :: Live TV has a sense of immediacy.
+initially [L107 adv. 起初] :: Initially, I didn't like the city.
+instantaneous [L107 adj. 瞬間的；即刻的] :: Death was instantaneous.
+intercalate [L107 v. 插入；置閏] :: An extra day is intercalated in leap years.
+intermission [L107 n. 中場休息] :: We bought drinks during the intermission.
+occurrence [L107 n. 發生；事件] :: Earthquakes are a common occurrence here.
+pending [L107 prep. 在…之前；等待…期間] :: The decision is pending review.
+preceded [L107 v. 先於] :: A short speech preceded the meal.
+precedence [L107 n. 優先；優先權] :: Safety takes precedence over speed.
+precedential [L107 adj. 有先例作用的] :: The ruling has precedential value.
+predecessor [L107 n. 前任；前身] :: The new model is faster than its predecessor.
+premature [L107 adj. 過早的；早產的] :: It is premature to celebrate.
+procedure [L107 n. 程序；手續] :: Follow the safety procedures.
+progression [L107 n. 進展；發展] :: The progression of the disease was slow.
+punctuate [L107 v. 不時打斷；加標點] :: Her speech was punctuated by applause.
+recurrent [L107 adj. 反覆發生的] :: She suffers from recurrent headaches.
+regularity [L107 n. 規律性] :: Buses run with great regularity.
+simultaneous [L107 adj. 同時的] :: Simultaneous interpretation is difficult.
+simultaneously [L107 adv. 同時地] :: Two events happened simultaneously.
+slate [L107 v. 預定；排定] :: It is a significant turning point in the relationship when the couple decide to have a clean slate after a month-long cold war.
+succession [L107 n. 一連串；連續；繼承] :: She won three titles in succession.
+tick [L107 v./n. 滴答作響；打勾] :: The clock ticked loudly.
+urgency [L107 n. 急迫性] :: There is a sense of urgency.
+urgently [L107 adv. 緊急地] :: Blood donors are urgently needed.
+boundary [L108 n. 界線；邊界] NEED_S1 :: Parents should set clear boundaries for children.
+captive [L108 adj. 被俘的；被關住的] :: The tiger was born captive in a zoo.
+captivity [L108 n. 囚禁；圈養] :: Pandas rarely breed in captivity.
+capture [L108 v. 捕捉；擄獲；捕捉（神韻）] :: The photo captured the joy of the moment.
+carte [L108 phr. 全權委託] :: The board granted the newly appointed CEO carte blanche to overhaul the failing division, trusting him to make major decisions independently.
+confine [L108 v. 限制；侷限] :: The patient was confined to bed.
+confinement [L108 n. 監禁；限制] :: Solitary confinement can harm mental health.
+constraint [L108 n. 限制；約束] :: Time constraints forced us to skip the last chapter.
+curb [L108 v. 遏止；抑制] :: The city introduced fees to curb traffic.
+curfew [L108 n. 宵禁] :: To ensure the mobility rights, protesters inveigh against the military curfew in their city.
+detain [L108 v. 拘留；扣押] :: South Korean prosecutors detained the chief executive of the company that owns the ferry that sank last month over an allegation of cargo overloading.
+deterrent [L108 n. 威懾；遏止物] :: In early America, convicted burglars, thieves and even counterfeiters often received the death penalty, which was thought to be a/an deterrent to other criminals.
+dictate [L108 v. 支配；口述] :: Budget will dictate how many teachers we can hire.
+directive [L108 n. 指令；命令] :: The government issued a directive on mask wearing.
+enjoin [L108 v. 命令；禁止] :: The court enjoined the company from selling the product.
+immobilize [L108 v. 使不能動] :: The cast immobilized his broken arm.
+impose [L108 v. 強加；徵收] :: The government imposed a tax on sugar drinks.
+intercept [L108 v. 攔截] :: The defender intercepted the pass.
+limitation [L108 n. 限制；局限] :: Every study has limitations.
+maroon [L108 v. 使受困；放逐於荒島] :: The sailors were marooned on an island.
+permissible [L108 adj. 可允許的；許可的] :: Is it permissible to use a dictionary?

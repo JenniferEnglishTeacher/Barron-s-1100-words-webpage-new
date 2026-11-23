@@ -255,6 +255,112 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她自信滿滿,足以不看筆記就完成這場簡報。",
         "added": true,
         "group": "sat-certainty"
+      },
+      {
+        "word": "irrefutable",
+        "pos": "adj.",
+        "definition": "Impossible to prove wrong.",
+        "chinese": "無可辯駁的",
+        "synonyms": "undeniable, indisputable, incontrovertible",
+        "image": "shield",
+        "sentence": "The evidence was __________.",
+        "translation": "證據無可辯駁。",
+        "lookup": {
+          "english": "Impossible to prove wrong.",
+          "chinese": "無可辯駁的"
+        },
+        "advSentence": "The video provided irrefutable proof that the referee had made a mistake.",
+        "advTranslation": "這段影片提供了無可辯駁的證據，證明裁判判錯了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-nehs-jh"
+        ]
+      },
+      {
+        "word": "tenet",
+        "pos": "n.",
+        "definition": "A principle or belief.",
+        "chinese": "信條；原則",
+        "synonyms": "principle, belief, doctrine",
+        "image": "shield",
+        "sentence": "Equality is a key __________ of democracy.",
+        "translation": "平等是民主的核心信條。",
+        "lookup": {
+          "english": "A principle or belief.",
+          "chinese": "信條；原則"
+        },
+        "advSentence": "A basic tenet of good teaching is to start from what students already know.",
+        "advTranslation": "好教學的基本原則之一，是從學生已知的知識開始。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-nehs-jh",
+          "115-tcivs-vs"
+        ]
+      },
+      {
+        "word": "unassailable",
+        "pos": "adj.",
+        "definition": "Impossible to attack or question.",
+        "chinese": "無懈可擊的",
+        "synonyms": "unbeatable, irrefutable, invulnerable",
+        "image": "shield",
+        "sentence": "Her argument was __________.",
+        "translation": "她的論點無懈可擊。",
+        "lookup": {
+          "english": "Impossible to attack or question.",
+          "chinese": "無懈可擊的"
+        },
+        "advSentence": "The champion built an unassailable lead in the first half.",
+        "advTranslation": "衛冕者在上半場就建立了無法撼動的領先。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-sh"
+        ]
+      },
+      {
+        "word": "unassailably",
+        "pos": "adv.",
+        "definition": "In a way that cannot be attacked or doubted.",
+        "chinese": "無懈可擊地",
+        "synonyms": "indisputably, unquestionably, securely",
+        "image": "shield",
+        "sentence": "The team is __________ ahead.",
+        "translation": "這支球隊遙遙領先、無人能撼動。",
+        "lookup": {
+          "english": "In a way that cannot be attacked or doubted.",
+          "chinese": "無懈可擊地"
+        },
+        "advSentence": "The scientist's reputation is unassailably high among her peers.",
+        "advTranslation": "這位科學家在同儕之間的聲望高得無可撼動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nycu-sh"
+        ]
+      },
+      {
+        "word": "undebatable",
+        "pos": "adj.",
+        "definition": "Not open to argument.",
+        "chinese": "無可爭辯的",
+        "synonyms": "indisputable, undeniable, unquestionable",
+        "image": "shield",
+        "sentence": "His talent is __________.",
+        "translation": "他的才華是無庸置疑的。",
+        "lookup": {
+          "english": "Not open to argument.",
+          "chinese": "無可爭辯的"
+        },
+        "advSentence": "The benefits of clean water for public health are undebatable.",
+        "advTranslation": "乾淨的水對公共衛生的好處是無可爭辯的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh"
+        ]
       }
     ],
     "group": "sat-certainty",
@@ -320,5 +426,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "confident": [
     "Feeling sure or self-assured.",
     "有信心的"
+  ],
+  "irrefutable": [
+    "Impossible to prove wrong.",
+    "無可辯駁的"
+  ],
+  "tenet": [
+    "A principle or belief.",
+    "信條；原則"
+  ],
+  "unassailable": [
+    "Impossible to attack or question.",
+    "無懈可擊的"
+  ],
+  "unassailably": [
+    "In a way that cannot be attacked or doubted.",
+    "無懈可擊地"
+  ],
+  "undebatable": [
+    "Not open to argument.",
+    "無可爭辯的"
   ]
 });

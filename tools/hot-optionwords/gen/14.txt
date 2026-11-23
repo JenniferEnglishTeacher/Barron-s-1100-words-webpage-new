@@ -1,0 +1,41 @@
+fruition | 經過多年努力，他的計畫終於實現了。 | Her dream of opening a bakery finally came to fruition last year. | 她開麵包店的夢想終於在去年實現了。
+materialize | 過去雕刻領域主要由基於個人經驗與洞見的概念性貢獻主導；近來，實證研究的傳統開始出現。 | The promised pay raise never materialized. | 承諾的加薪始終沒有實現。
+payoff | 努力的回報就是成功。 | The payoff for years of saving was a trip around the world. | 多年儲蓄的回報是一趟環遊世界之旅。
+tackle | 我們必須處理氣候變遷問題。 | The new mayor promised to tackle traffic jams in the city center. | 新市長承諾要解決市中心的塞車問題。
+blunder | 忘了帶票是一個代價很高的大錯。 | The minister's blunder during the interview went viral online. | 部長在訪問中的失言在網路上瘋傳。
+breakdown | 車子在高速公路上拋錨了。 | The report includes a breakdown of costs by month. | 報告包含按月份列出的費用明細。
+collapse | 銀行倒閉震驚了投資人。 | The old bridge collapsed during the earthquake. | 那座舊橋在地震中倒塌了。
+defect | 這些車因煞車缺陷被召回。 | The doctor found a small defect in the baby's heart. | 醫生在嬰兒的心臟發現一個小缺陷。
+flaw | 每個計畫都有它的缺點。 | Pride was the tragic hero's fatal flaw. | 驕傲是這位悲劇英雄的致命缺點。
+flawed | 這項研究的方法有缺陷。 | The film is flawed but still worth watching. | 這部電影有瑕疵，但仍值得一看。
+flop | 評論家預期這部電影票房會慘敗。 | Despite the expensive ads, the new phone was a flop. | 儘管廣告花費高昂，新手機還是賣得一敗塗地。 | Critics expected the movie to flop at the box office.
+flunk | 他駕照考試考了兩次都沒過。 | Students who flunk the final exam must retake the course. | 期末考不及格的學生必須重修這門課。
+forfeit | 這支隊伍棄權輸掉了比賽。 | If you cancel late, you will forfeit your deposit. | 如果太晚取消，你的訂金將被沒收。
+glitch | 我的新筆電運作不正常，出現各種小故障。 | A technical glitch delayed the launch of the website. | 一個技術小故障延誤了網站上線。
+misallocation | 資金分配不當損害了這個計畫。 | The misallocation of teachers left rural schools understaffed. | 教師分配不當讓偏鄉學校人手不足。
+misinterpretation | 這條規定容易被誤解。 | A misinterpretation of the data led to the wrong conclusion. | 對數據的誤解導致錯誤的結論。
+aviation | 她希望進入航空業工作。 | Aviation history began with the Wright brothers' first flight. | 航空史始於萊特兄弟的首次飛行。
+commute | 許多人希望在大都市找到一份工時固定、通勤距離合理的穩定工作。 | Thousands of workers commute from Taoyuan to Taipei every day. | 每天有數千名上班族從桃園通勤到臺北。
+compass | 登山客用指南針找路。 | The issue is beyond the compass of this short report. | 這個議題超出這份簡短報告的範圍。
+detour | 我們繞過淹水的道路。 | We took a detour through the old town to avoid traffic. | 我們繞道經過老城區來避開車潮。
+exodus | 數十萬人只帶著身上的衣服離開，彷彿整個山谷都在移動，這是普什圖歷史上最大規模的出走。 | There is an exodus of young people from the countryside to the cities. | 年輕人大批從鄉村湧向城市。
+flock | 遊客湧向夜市。 | A flock of sheep blocked the narrow mountain road. | 一群羊擋住了狹窄的山路。
+foremast | 水手們爬上前桅。 | The storm snapped the ship's foremast in two. | 暴風雨把船的前桅折成兩半。
+freight | 火車載運貨物橫越全國。 | Air freight is fast but expensive. | 空運速度快但價格昂貴。
+funnel | 捐款被轉送給水災災民。 | Use a funnel to pour the oil into the bottle. | 用漏斗把油倒進瓶子裡。
+gondola | 孩子們興奮地看著一個個可坐兩到四人的小型密閉纜車車廂越過山頭。 | Tourists ride a gondola along the canals of Venice. | 遊客乘坐貢多拉船遊覽威尼斯的運河。
+jaunt | 他們到海邊短途遊玩。 | We took a quick jaunt to Jiufen on Saturday. | 我們週六去九份短暫一遊。
+lap | 她繞著跑道跑了十圈。 | The cat curled up in her lap and fell asleep. | 貓咪蜷在她的大腿上睡著了。
+migrate | 鳥類冬天往南遷徙。 | Many young workers migrate to the city in search of jobs. | 許多年輕勞工為了找工作而移居城市。
+navigate | Ben 用觸控筆操作平板的選單，對這項新科技發明感到驚艷。 | Ships navigate the strait carefully because of strong currents. | 由於水流強勁，船隻小心翼翼地航行通過海峽。
+navigation | GPS 導航讓開車更容易。 | The museum's website has simple navigation for young users. | 博物館網站的導覽設計簡單，方便年輕使用者。
+navigator | 領航員規劃了船的航線。 | Polynesian navigators crossed the Pacific using the stars. | 玻里尼西亞的航海家利用星辰橫越太平洋。
+odyssey | 他橫越亞洲的漫長旅程持續了兩年。 | The novel follows a young girl's odyssey to find her lost father. | 這部小說描述一個小女孩尋找失蹤父親的漫長旅程。
+orient | 這門課以初學者為導向。 | Hikers use the sun to orient themselves when they have no map. | 登山客沒有地圖時會利用太陽辨別方位。
+overtake | 電動車的銷量可能很快就會超越汽油車。 | It is dangerous to overtake another car on a curve. | 在彎道超車很危險。 | Electric cars may soon overtake gasoline cars in sales.
+pillion | 她坐在他機車的後座。 | Passengers riding pillion must also wear a helmet. | 坐在機車後座的乘客也必須戴安全帽。
+resort | 他們訴諸暴力。 | The family spent a week at a beach resort in Kenting. | 這家人在墾丁的海灘度假村待了一週。
+steer | 她把話題引導到比較安全的方向。 | It is hard to steer a boat in strong winds. | 在強風中很難操控船隻。
+trajectory | 工程師仔細計算火箭的軌跡。 | Her career followed an upward trajectory after the award. | 得獎後，她的事業一路向上發展。 | Engineers carefully calculated the rocket's trajectory.
+traverse | 橫越非洲大陸是一件充滿危險與困難的事。 | The new bridge will traverse the river at its widest point. | 新橋將橫跨河面最寬的地方。 | To traverse the continent of Africa involves great danger and difficulty.
+vessel | 漁船返回港口。 | Arteries are the vessels that carry blood away from the heart. | 動脈是把血液從心臟輸送出去的血管。

@@ -235,6 +235,370 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他的沉默完全是故意的,目的是要讓她感到不自在。",
         "added": true,
         "group": "hot-22"
+      },
+      {
+        "word": "forethought",
+        "pos": "n.",
+        "definition": "Careful thought and planning for the future.",
+        "chinese": "深謀遠慮；事先考慮",
+        "synonyms": "planning, foresight, prudence",
+        "image": "shield",
+        "sentence": "With a little __________, we avoided the problem.",
+        "translation": "稍微事先想一想，我們就避開了這個問題。",
+        "lookup": {
+          "english": "Careful thought and planning for the future.",
+          "chinese": "深謀遠慮；事先考慮"
+        },
+        "advSentence": "With careful forethought, the hikers packed extra water for the long climb.",
+        "advTranslation": "登山客經過周詳考慮，為長途攀登多帶了水。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-slhs-sh"
+        ]
+      },
+      {
+        "word": "guardedly",
+        "pos": "adv.",
+        "definition": "In a careful way, not showing much feeling.",
+        "chinese": "謹慎地；有保留地",
+        "synonyms": "cautiously, warily, carefully",
+        "image": "shield",
+        "sentence": "She spoke __________ about her plans.",
+        "translation": "她謹慎地談論自己的計畫。",
+        "lookup": {
+          "english": "In a careful way, not showing much feeling.",
+          "chinese": "謹慎地；有保留地"
+        },
+        "advSentence": "The minister spoke guardedly, unwilling to reveal details of the negotiations.",
+        "advTranslation": "部長說話小心保留，不願透露談判細節。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ckhs-sh"
+        ]
+      },
+      {
+        "word": "hasty",
+        "pos": "adj.",
+        "definition": "Done too quickly, without care.",
+        "chinese": "草率的；倉促的",
+        "synonyms": "hurried, rash, careless",
+        "image": "shield",
+        "sentence": "Don't make a __________ decision.",
+        "translation": "別做草率的決定。",
+        "lookup": {
+          "english": "Done too quickly, without care.",
+          "chinese": "草率的；倉促的"
+        },
+        "advSentence": "His hasty reply contained several embarrassing errors.",
+        "advTranslation": "他倉促的回覆中有好幾個令人尷尬的錯誤。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-slhs-sh"
+        ]
+      },
+      {
+        "word": "hyper-vigilance",
+        "pos": "n.",
+        "definition": "A state of being extremely alert to possible danger.",
+        "chinese": "過度警覺",
+        "synonyms": "extreme alertness, watchfulness, wariness",
+        "image": "shield",
+        "sentence": "Trauma can lead to __________.",
+        "translation": "創傷可能導致過度警覺。",
+        "lookup": {
+          "english": "A state of being extremely alert to possible danger.",
+          "chinese": "過度警覺"
+        },
+        "advSentence": "Soldiers returning from war often struggle with hyper-vigilance in crowded places.",
+        "advTranslation": "從戰場返鄉的士兵在擁擠場所常苦於過度警覺。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "impulse",
+        "pos": "n.",
+        "definition": "A sudden strong desire to do something.",
+        "chinese": "衝動",
+        "synonyms": "urge, whim, instinct",
+        "image": "shield",
+        "sentence": "She bought the dress on __________.",
+        "translation": "她一時衝動買下了那件洋裝。",
+        "lookup": {
+          "english": "A sudden strong desire to do something.",
+          "chinese": "衝動"
+        },
+        "advSentence": "He resisted the impulse to check his phone during the exam.",
+        "advTranslation": "他忍住了在考試時看手機的衝動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-sh"
+        ]
+      },
+      {
+        "word": "monitor",
+        "pos": "v.",
+        "definition": "To watch and check over time.",
+        "chinese": "監控；監測",
+        "synonyms": "observe, track, supervise",
+        "image": "shield",
+        "sentence": "Teachers __________ student progress.",
+        "translation": "老師監看學生的學習進度。",
+        "lookup": {
+          "english": "To watch and check over time.",
+          "chinese": "監控；監測"
+        },
+        "advSentence": "Scientists monitor the volcano for any sign of an eruption.",
+        "advTranslation": "科學家監測這座火山是否有任何噴發跡象。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "patrol",
+        "pos": "v./n.",
+        "definition": "To guard an area by moving around it.",
+        "chinese": "巡邏",
+        "synonyms": "guard, police, watch",
+        "image": "shield",
+        "sentence": "Police __________ the streets at night.",
+        "translation": "警察晚上在街上巡邏。",
+        "lookup": {
+          "english": "To guard an area by moving around it.",
+          "chinese": "巡邏"
+        },
+        "advSentence": "Coast guard boats patrol the strait day and night.",
+        "advTranslation": "海巡艇日夜在海峽巡邏。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "pernickety",
+        "pos": "adj.",
+        "definition": "Giving too much attention to small, unimportant details.",
+        "chinese": "吹毛求疵的；過分講究的",
+        "synonyms": "fussy, finicky, picky",
+        "image": "shield",
+        "sentence": "It seems to me that we are being unnecessarily __________ on this point.",
+        "translation": "在我看來，我們在這一點上太過吹毛求疵了。",
+        "lookup": {
+          "english": "Giving too much attention to small, unimportant details.",
+          "chinese": "吹毛求疵的；過分講究的"
+        },
+        "advSentence": "The pernickety editor checked every comma twice before approving the article.",
+        "advTranslation": "那位吹毛求疵的編輯每個逗號都檢查兩遍才核准文章。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "precaution",
+        "pos": "n.",
+        "definition": "An action taken to prevent danger.",
+        "chinese": "預防措施",
+        "synonyms": "safeguard, measure, protection",
+        "image": "shield",
+        "sentence": "Take __________s against fire.",
+        "translation": "做好防火措施。",
+        "lookup": {
+          "english": "An action taken to prevent danger.",
+          "chinese": "預防措施"
+        },
+        "advSentence": "As a precaution, the school canceled outdoor activities during the heat wave.",
+        "advTranslation": "為了預防起見，學校在熱浪期間取消了戶外活動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-ntpc-jh"
+        ]
+      },
+      {
+        "word": "preemptive",
+        "pos": "adj.",
+        "definition": "Done to prevent something from happening.",
+        "chinese": "先發制人的；預防性的",
+        "synonyms": "preventive, anticipatory, precautionary",
+        "image": "shield",
+        "sentence": "The country launched a __________ strike.",
+        "translation": "這個國家發動了先發制人的攻擊。",
+        "lookup": {
+          "english": "Done to prevent something from happening.",
+          "chinese": "先發制人的；預防性的"
+        },
+        "advSentence": "The company took preemptive measures to protect customer data from hackers.",
+        "advTranslation": "公司採取預防性措施，保護客戶資料不被駭客入侵。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "prevention",
+        "pos": "n.",
+        "definition": "Stopping something from happening.",
+        "chinese": "預防",
+        "synonyms": "avoidance, deterrence, protection",
+        "image": "shield",
+        "sentence": "__________ is better than cure.",
+        "translation": "預防勝於治療。",
+        "lookup": {
+          "english": "Stopping something from happening.",
+          "chinese": "預防"
+        },
+        "advSentence": "Crime prevention programs focus on giving young people safe places to go.",
+        "advTranslation": "犯罪預防計畫著重於提供年輕人安全的去處。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "103-kinmen-jh",
+          "107-moe-vs-ae",
+          "109-moe-vs-ae"
+        ]
+      },
+      {
+        "word": "preventive",
+        "pos": "adj.",
+        "definition": "Meant to stop something bad from happening.",
+        "chinese": "預防的",
+        "synonyms": "protective, precautionary, prophylactic",
+        "image": "shield",
+        "sentence": "If you live in an earthquake zone, it is important to take __________ measures to protect your family and home.",
+        "translation": "如果你住在地震帶，採取預防措施保護家人和住家很重要。",
+        "lookup": {
+          "english": "Meant to stop something bad from happening.",
+          "chinese": "預防的"
+        },
+        "advSentence": "Regular checkups are an important form of preventive care.",
+        "advTranslation": "定期健康檢查是預防保健的重要方式。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "prophylactic",
+        "pos": "adj.",
+        "definition": "Intended to prevent disease.",
+        "chinese": "預防（疾病）的",
+        "synonyms": "preventive, protective, precautionary",
+        "image": "shield",
+        "sentence": "Some dentists are convinced that the addition of fluoride in water is ineffective as a __________ treatment.",
+        "translation": "有些牙醫認為在水中加氟作為預防措施是無效的。",
+        "lookup": {
+          "english": "Intended to prevent disease.",
+          "chinese": "預防（疾病）的"
+        },
+        "advSentence": "Doctors gave the travelers prophylactic medicine against malaria.",
+        "advTranslation": "醫生給旅客服用預防瘧疾的藥。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-ntpc-sh"
+        ]
+      },
+      {
+        "word": "reckless",
+        "pos": "adj.",
+        "definition": "Not caring about danger.",
+        "chinese": "魯莽的",
+        "synonyms": "rash, careless, heedless",
+        "image": "shield",
+        "sentence": "Too eager to impress his peers, the boy decided to scale the brick walls in a __________ move.",
+        "translation": "那男孩太急著想讓同儕刮目相看，竟魯莽地決定攀爬磚牆。",
+        "lookup": {
+          "english": "Not caring about danger.",
+          "chinese": "魯莽的"
+        },
+        "advSentence": "Reckless driving causes thousands of accidents every year.",
+        "advTranslation": "魯莽駕駛每年造成數千起事故。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh",
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "selective",
+        "pos": "adj.",
+        "definition": "Choosing carefully.",
+        "chinese": "有選擇性的",
+        "synonyms": "discerning, careful, particular",
+        "image": "shield",
+        "sentence": "The school is very __________.",
+        "translation": "這所學校的錄取非常嚴格。",
+        "lookup": {
+          "english": "Choosing carefully.",
+          "chinese": "有選擇性的"
+        },
+        "advSentence": "Readers today must be selective about which online sources they trust.",
+        "advTranslation": "現今的讀者必須審慎選擇要相信哪些網路資訊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-taipei-jh",
+          "103-ntpc-jh"
+        ]
+      },
+      {
+        "word": "sentinel",
+        "pos": "n.",
+        "definition": "A guard or watcher.",
+        "chinese": "哨兵；守護者",
+        "synonyms": "guard, sentry, watchman",
+        "image": "shield",
+        "sentence": "At night the lighthouse became a __________, guiding ships through treacherous waters.",
+        "translation": "夜幕降臨時，燈塔看守人點亮燈火，讓燈塔成為守護夜晚的哨兵，引導船隻安全通過險惡的水域。",
+        "lookup": {
+          "english": "A guard or watcher.",
+          "chinese": "哨兵；守護者"
+        },
+        "advSentence": "Tall cypress trees stood like silent sentinels along the mountain road.",
+        "advTranslation": "高大的柏樹像沉默的哨兵般矗立在山路旁。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "strategically",
+        "pos": "adv.",
+        "definition": "In a carefully planned way.",
+        "chinese": "有策略地",
+        "synonyms": "tactically, cleverly, deliberately",
+        "image": "shield",
+        "sentence": "The store is __________ located.",
+        "translation": "這家店的位置很有策略。",
+        "lookup": {
+          "english": "In a carefully planned way.",
+          "chinese": "有策略地"
+        },
+        "advSentence": "The general strategically placed his troops on the high ground.",
+        "advTranslation": "將軍有策略地把部隊部署在高地上。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -542,5 +906,73 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "deliberate": [
     "Done consciously and intentionally.",
     "故意的/深思熟慮的"
+  ],
+  "forethought": [
+    "Careful thought and planning for the future.",
+    "深謀遠慮；事先考慮"
+  ],
+  "guardedly": [
+    "In a careful way, not showing much feeling.",
+    "謹慎地；有保留地"
+  ],
+  "hasty": [
+    "Done too quickly, without care.",
+    "草率的；倉促的"
+  ],
+  "hyper-vigilance": [
+    "A state of being extremely alert to possible danger.",
+    "過度警覺"
+  ],
+  "impulse": [
+    "A sudden strong desire to do something.",
+    "衝動"
+  ],
+  "monitor": [
+    "To watch and check over time.",
+    "監控；監測"
+  ],
+  "patrol": [
+    "To guard an area by moving around it.",
+    "巡邏"
+  ],
+  "pernickety": [
+    "Giving too much attention to small, unimportant details.",
+    "吹毛求疵的；過分講究的"
+  ],
+  "precaution": [
+    "An action taken to prevent danger.",
+    "預防措施"
+  ],
+  "preemptive": [
+    "Done to prevent something from happening.",
+    "先發制人的；預防性的"
+  ],
+  "prevention": [
+    "Stopping something from happening.",
+    "預防"
+  ],
+  "preventive": [
+    "Meant to stop something bad from happening.",
+    "預防的"
+  ],
+  "prophylactic": [
+    "Intended to prevent disease.",
+    "預防（疾病）的"
+  ],
+  "reckless": [
+    "Not caring about danger.",
+    "魯莽的"
+  ],
+  "selective": [
+    "Choosing carefully.",
+    "有選擇性的"
+  ],
+  "sentinel": [
+    "A guard or watcher.",
+    "哨兵；守護者"
+  ],
+  "strategically": [
+    "In a carefully planned way.",
+    "有策略地"
   ]
 });

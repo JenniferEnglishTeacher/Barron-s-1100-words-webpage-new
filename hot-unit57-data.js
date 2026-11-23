@@ -183,6 +183,113 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "一次粗略的檢查未能發現嚴重的結構損壞。",
         "added": true,
         "group": "sat-lazy2"
+      },
+      {
+        "word": "disregard",
+        "pos": "v.",
+        "definition": "To ignore.",
+        "chinese": "忽視；不理會",
+        "synonyms": "ignore, neglect, overlook",
+        "image": "shield",
+        "sentence": "He __________d the doctor's advice.",
+        "translation": "他不理會醫生的建議。",
+        "lookup": {
+          "english": "To ignore.",
+          "chinese": "忽視；不理會"
+        },
+        "advSentence": "Drivers who disregard traffic lights put everyone at risk.",
+        "advTranslation": "無視紅綠燈的駕駛人讓每個人都陷入危險。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sksc-vs"
+        ]
+      },
+      {
+        "word": "goldbrick",
+        "pos": "v.",
+        "definition": "To avoid work by pretending to be sick or busy.",
+        "chinese": "偷懶；裝病逃避工作",
+        "synonyms": "shirk, slack off, malinger",
+        "image": "shield",
+        "sentence": "Instead of completing his assignments, he decided to __________ by pretending to be ill to avoid work.",
+        "translation": "他沒有完成作業，而是決定裝病逃避工作。",
+        "lookup": {
+          "english": "To avoid work by pretending to be sick or busy.",
+          "chinese": "偷懶；裝病逃避工作"
+        },
+        "advSentence": "The manager could tell which workers liked to goldbrick when he was away.",
+        "advTranslation": "經理看得出來哪些員工在他不在時喜歡偷懶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nssh-sh"
+        ]
+      },
+      {
+        "word": "negligence",
+        "pos": "n.",
+        "definition": "Failure to take proper care.",
+        "chinese": "疏忽；過失",
+        "synonyms": "carelessness, neglect, laxity",
+        "image": "shield",
+        "sentence": "The accident was caused by __________.",
+        "translation": "這起事故是因疏失造成的。",
+        "lookup": {
+          "english": "Failure to take proper care.",
+          "chinese": "疏忽；過失"
+        },
+        "advSentence": "The hospital was sued for medical negligence.",
+        "advTranslation": "這家醫院因醫療疏失被告。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "truancy",
+        "pos": "n.",
+        "definition": "The act of staying away from school without permission.",
+        "chinese": "逃學；曠課",
+        "synonyms": "absence, skipping school, hooky",
+        "image": "shield",
+        "sentence": "Since Johnny had no proper reason for missing school, his absence should be treated as __________.",
+        "translation": "由於 Johnny 缺課沒有正當理由，他的缺席應被視為曠課。",
+        "lookup": {
+          "english": "The act of staying away from school without permission.",
+          "chinese": "逃學；曠課"
+        },
+        "advSentence": "Schools are trying new ways to reduce truancy among teenagers.",
+        "advTranslation": "學校正嘗試新方法來減少青少年逃學。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "truant",
+        "pos": "n.",
+        "definition": "A student who stays away from school without permission.",
+        "chinese": "逃學者；曠課者",
+        "synonyms": "absentee, dodger, runaway",
+        "image": "shield",
+        "sentence": "The school called the __________'s parents.",
+        "translation": "學校打電話給逃學學生的家長。",
+        "lookup": {
+          "english": "A student who stays away from school without permission.",
+          "chinese": "逃學者；曠課者"
+        },
+        "advSentence": "The truant was found playing video games at an internet café.",
+        "advTranslation": "那個逃學的學生被發現在網咖打電動。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh",
+          "107-nehs-jh"
+        ]
       }
     ],
     "group": "sat-lazy2",
@@ -233,5 +340,25 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "cursory": [
     "Hasty, not thorough.",
     "粗略的/草率的"
+  ],
+  "disregard": [
+    "To ignore.",
+    "忽視；不理會"
+  ],
+  "goldbrick": [
+    "To avoid work by pretending to be sick or busy.",
+    "偷懶；裝病逃避工作"
+  ],
+  "negligence": [
+    "Failure to take proper care.",
+    "疏忽；過失"
+  ],
+  "truancy": [
+    "The act of staying away from school without permission.",
+    "逃學；曠課"
+  ],
+  "truant": [
+    "A student who stays away from school without permission.",
+    "逃學者；曠課者"
   ]
 });

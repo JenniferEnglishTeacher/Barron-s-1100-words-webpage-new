@@ -271,6 +271,240 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這道傷口只是表皮的,幾天內就痊癒了。",
         "added": true,
         "group": "hot-27"
+      },
+      {
+        "word": "cipher",
+        "pos": "n.",
+        "definition": "A person without power or importance; a secret code.",
+        "chinese": "無足輕重的人；密碼",
+        "synonyms": "nobody, nonentity, code",
+        "image": "shield",
+        "sentence": "Although he bore the title of chairman, insiders recognized that he was merely a __________, a powerless figure manipulated by influential financiers who dictated every decision.",
+        "translation": "雖然他頂著董事長頭銜，內部人士都知道他只是個傀儡，由有影響力的金主操縱每項決策。",
+        "lookup": {
+          "english": "A person without power or importance; a secret code.",
+          "chinese": "無足輕重的人；密碼"
+        },
+        "advSentence": "Without a strong personality, the new manager became a mere cipher in the company.",
+        "advTranslation": "由於缺乏強烈的個性，新經理在公司裡淪為無足輕重的人物。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "downplay",
+        "pos": "v.",
+        "definition": "To make something seem less important than it is.",
+        "chinese": "淡化；輕描淡寫",
+        "synonyms": "minimize, understate, play down",
+        "image": "shield",
+        "sentence": "The company __________d the risks.",
+        "translation": "公司淡化了風險。",
+        "lookup": {
+          "english": "To make something seem less important than it is.",
+          "chinese": "淡化；輕描淡寫"
+        },
+        "advSentence": "The minister tried to downplay the seriousness of the water shortage.",
+        "advTranslation": "部長試圖淡化缺水問題的嚴重性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh",
+          "115-cysh-2-sh"
+        ]
+      },
+      {
+        "word": "dross",
+        "pos": "n.",
+        "definition": "Something of very low quality; waste.",
+        "chinese": "糟粕；渣滓",
+        "synonyms": "rubbish, junk, garbage",
+        "image": "shield",
+        "sentence": "Most of the posts online are __________.",
+        "translation": "網路上大部分的貼文都是糟粕。",
+        "lookup": {
+          "english": "Something of very low quality; waste.",
+          "chinese": "糟粕；渣滓"
+        },
+        "advSentence": "A good editor separates the gold of an essay from its dross.",
+        "advTranslation": "好的編輯能把文章的精華與糟粕分開。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "futile",
+        "pos": "adj.",
+        "definition": "Having no chance of success; useless.",
+        "chinese": "徒勞的；無用的",
+        "synonyms": "useless, vain, fruitless",
+        "image": "shield",
+        "sentence": "All attempts to save the ship were __________.",
+        "translation": "所有拯救這艘船的努力都徒勞無功。",
+        "lookup": {
+          "english": "Having no chance of success; useless.",
+          "chinese": "徒勞的；無用的"
+        },
+        "advSentence": "It is futile to argue with someone who refuses to listen.",
+        "advTranslation": "和拒絕傾聽的人爭論是徒勞的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "grist",
+        "pos": "n.",
+        "definition": "Grain to be ground; (all grist to the mill) anything useful.",
+        "chinese": "（磨坊的）穀物；有用之物",
+        "synonyms": "material, useful matter, fodder",
+        "image": "shield",
+        "sentence": "I never refuse odd jobs to supplement my income. It's all __________ to the mill.",
+        "translation": "我從不拒絕打零工來補貼收入，任何事都有用處。",
+        "lookup": {
+          "english": "Grain to be ground; (all grist to the mill) anything useful.",
+          "chinese": "（磨坊的）穀物；有用之物"
+        },
+        "advSentence": "Every conversation he overheard became grist for his novels.",
+        "advTranslation": "他無意中聽到的每段對話都成了他小說的素材。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-ntpc-jh"
+        ]
+      },
+      {
+        "word": "inferior",
+        "pos": "adj.",
+        "definition": "Lower in quality or rank.",
+        "chinese": "較差的；低等的",
+        "synonyms": "lesser, poorer, second-rate",
+        "image": "shield",
+        "sentence": "The copy is __________ to the original.",
+        "translation": "這個複製品比原作差。",
+        "lookup": {
+          "english": "Lower in quality or rank.",
+          "chinese": "較差的；低等的"
+        },
+        "advSentence": "Cheap materials made the furniture inferior and short-lived.",
+        "advTranslation": "廉價材料讓這套傢俱品質低劣、壽命短暫。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh"
+        ]
+      },
+      {
+        "word": "intrusive",
+        "pos": "adj.",
+        "definition": "Entering into someone's private matters in an unwelcome way.",
+        "chinese": "侵擾的；侵犯隱私的",
+        "synonyms": "invasive, interfering, prying",
+        "image": "shield",
+        "sentence": "The reporters' questions were __________.",
+        "translation": "記者的問題很侵犯隱私。",
+        "lookup": {
+          "english": "Entering into someone's private matters in an unwelcome way.",
+          "chinese": "侵擾的；侵犯隱私的"
+        },
+        "advSentence": "Intrusive advertisements pop up every few seconds on that website.",
+        "advTranslation": "那個網站每隔幾秒就跳出擾人的廣告。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nhvs-vs"
+        ]
+      },
+      {
+        "word": "marginalized",
+        "pos": "adj.",
+        "definition": "Treated as unimportant and pushed to the edge of society.",
+        "chinese": "被邊緣化的",
+        "synonyms": "excluded, sidelined, disadvantaged",
+        "image": "shield",
+        "sentence": "Schools should support __________ students.",
+        "translation": "學校應該支持被邊緣化的學生。",
+        "lookup": {
+          "english": "Treated as unimportant and pushed to the edge of society.",
+          "chinese": "被邊緣化的"
+        },
+        "advSentence": "The program gives marginalized communities access to legal advice.",
+        "advTranslation": "這個計畫讓弱勢社群也能獲得法律諮詢。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-hsnu-sh"
+        ]
+      },
+      {
+        "word": "shrift",
+        "pos": "n.",
+        "definition": "(give short shrift to) to treat with little attention or consideration.",
+        "chinese": "（short shrift）草率對待；不予理會",
+        "synonyms": "short shrift, little attention, dismissal",
+        "image": "shield",
+        "sentence": "Her complaint was given short __________.",
+        "translation": "她的抱怨被草率打發了。",
+        "lookup": {
+          "english": "(give short shrift to) to treat with little attention or consideration.",
+          "chinese": "（short shrift）草率對待；不予理會"
+        },
+        "advSentence": "The committee gave short shrift to the students' suggestions.",
+        "advTranslation": "委員會對學生的建議不予理會。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-lssh-1-sh"
+        ]
+      },
+      {
+        "word": "token",
+        "pos": "n./adj.",
+        "definition": "A symbol; done only to look good.",
+        "chinese": "象徵；象徵性的",
+        "synonyms": "symbol, sign, nominal",
+        "image": "shield",
+        "sentence": "He made a __________ effort.",
+        "translation": "他只是做做樣子努力了一下。",
+        "lookup": {
+          "english": "A symbol; done only to look good.",
+          "chinese": "象徵；象徵性的"
+        },
+        "advSentence": "She gave him a small gift as a token of her gratitude.",
+        "advTranslation": "她送他一份小禮物，表示感謝之意。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-vs-ae",
+          "115-slhs-sh"
+        ]
+      },
+      {
+        "word": "understate",
+        "pos": "v.",
+        "definition": "To describe something as smaller or less important than it really is.",
+        "chinese": "輕描淡寫；少說",
+        "synonyms": "downplay, minimize, play down",
+        "image": "shield",
+        "sentence": "The report __________d the risks.",
+        "translation": "這份報告低估了風險。",
+        "lookup": {
+          "english": "To describe something as smaller or less important than it really is.",
+          "chinese": "輕描淡寫；少說"
+        },
+        "advSentence": "It would understate the case to call the flood merely inconvenient.",
+        "advTranslation": "若只說這場洪水「不方便」，那就太輕描淡寫了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh",
+          "115-tysh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -584,5 +818,49 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "superficial": [
     "On the surface, slight.",
     "表面的/膚淺的"
+  ],
+  "cipher": [
+    "A person without power or importance; a secret code.",
+    "無足輕重的人；密碼"
+  ],
+  "downplay": [
+    "To make something seem less important than it is.",
+    "淡化；輕描淡寫"
+  ],
+  "dross": [
+    "Something of very low quality; waste.",
+    "糟粕；渣滓"
+  ],
+  "futile": [
+    "Having no chance of success; useless.",
+    "徒勞的；無用的"
+  ],
+  "grist": [
+    "Grain to be ground; (all grist to the mill) anything useful.",
+    "（磨坊的）穀物；有用之物"
+  ],
+  "inferior": [
+    "Lower in quality or rank.",
+    "較差的；低等的"
+  ],
+  "intrusive": [
+    "Entering into someone's private matters in an unwelcome way.",
+    "侵擾的；侵犯隱私的"
+  ],
+  "marginalized": [
+    "Treated as unimportant and pushed to the edge of society.",
+    "被邊緣化的"
+  ],
+  "shrift": [
+    "(give short shrift to) to treat with little attention or consideration.",
+    "（short shrift）草率對待；不予理會"
+  ],
+  "token": [
+    "A symbol; done only to look good.",
+    "象徵；象徵性的"
+  ],
+  "understate": [
+    "To describe something as smaller or less important than it really is.",
+    "輕描淡寫；少說"
   ]
 });

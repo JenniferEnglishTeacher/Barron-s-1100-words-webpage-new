@@ -1,0 +1,140 @@
+diversify [L34 v. 使多樣化；分散（投資等）] NEED_S1 :: Farmers diversified their crops.
+hallmark [L34 n. 特徵；標誌] :: Attention to detail is the hallmark of her work.
+invoke [L34 v. 援引；祈求] :: He invoked the law to defend himself.
+justification [L34 n. 正當理由；辯護] :: There is no justification for violence.
+justify [L34 v. 證明…有理] :: How can you justify the cost?
+kaleidoscopic [L34 adj. 千變萬化的；五彩繽紛的] :: The market was a kaleidoscopic mix of sights and sounds.
+proposition [L34 n. 主張；提議] :: That's an interesting proposition.
+signature [L34 n. 簽名；招牌特色] :: Spicy beef noodles are the restaurant's signature dish.
+streak [L34 n. 條紋；一連串] :: She has a stubborn streak.
+testament [L34 n. 證明；遺囑] :: The building is a testament to his skill.
+variation [L34 n. 變化；變異] :: There are regional variations in accent.
+hurdle [L35 n. 障礙；跨欄] :: Cost is the biggest hurdle.
+obstruct [L35 v. 阻礙；阻擋] :: A fallen tree obstructed the road.
+obstruction [L35 n. 阻礙；妨礙] :: He was charged with obstruction of justice.
+snag [L35 n. 意外障礙] :: The plan hit a snag.
+con [L36 v./n. 詐騙；缺點] :: The conservative party participated in a debate on the pros and cons of capitalism, and surprisingly, they were convinced of the benefits of free market.
+deceive [L36 v. 欺騙] :: Don't be deceived by his friendly smile.
+deception [L36 n. 欺騙] :: The magician's act was pure deception.
+decoy [L36 v. 誘騙；引誘] :: Hunters used wooden ducks to decoy birds.
+delusive [L36 adj. 虛妄的；騙人的] :: He clung to the delusive hope of winning the lottery.
+entice [L36 v. 誘使；吸引] NEED_S1 :: The success of extensive reading depends largely on enticing students to read. To awaken or encourage a desire to read, the texts made available should ideally be as varied as the learners who read them and the purposes for which they want to read.
+gambit [L36 n. 策略；開局讓棋] :: His opening gambit was to offer a discount.
+gimmick [L36 n. 噱頭；花招] :: The free gift is just a marketing gimmick.
+imposture [L36 n. 冒充；詐騙] :: His imposture as a doctor was finally exposed.
+lure [L36 v. 引誘] :: Big salaries lure workers to the city.
+misleading [L36 adj. 誤導的] :: The ad was misleading.
+plagiarism [L36 n. 抄襲；剽竊] :: Using another person's ideas or words without proper citation is considered plagiarism and may result in serious academic consequences.
+plagiarize [L36 v. 抄襲；剽竊] :: Students who plagiarize will fail.
+propaganda [L36 n. 宣傳；政治宣傳] :: War propaganda shaped public opinion.
+seduce [L36 v. 誘惑；引誘] :: Many were seduced by easy money.
+snare [L36 v. 誘捕；使落入圈套] :: The hunter snared a rabbit.
+stunt [L36 n. 特技；噱頭] :: The acrobat pulled off an amazing stunt for the audience and received standing ovation.
+tempting [L36 adj. 誘人的] :: The dessert looks tempting.
+untruthfully [L36 adv. 不誠實地] :: He answered untruthfully.
+waylay [L36 v. 攔路；伏擊] NEED_S1 :: Reporters waylaid the actor at the airport.
+credibility [L37 n. 可信度] :: The scandal damaged his credibility.
+reliability [L37 n. 可靠性；信度] :: Test reliability is important.
+transparent [L37 adj. 透明的；顯而易見的] :: The government should be transparent.
+unfeigned [L37 adj. 真誠的；非假裝的] :: She showed unfeigned delight.
+unvarnished [L37 adj. 不加掩飾的；坦率的] :: All the citizens urged the merchants to reveal the unvarnished truth in relation to the production of illegal cooking oil.
+adventurous [L38 adj. 愛冒險的] :: My adventurous sister has hiked across three continents.
+dare [L38 v. 敢於；膽敢] :: No one dared to speak.
+dauntlessly [L38 adv. 無畏地] :: The firefighters dauntlessly entered the burning building.
+doughty [L38 adj. 勇猛的；堅毅的] :: The doughty explorer crossed the Arctic.
+invincible [L38 adj. 無敵的] :: Some analysts were saying Netscape had a(n) invincible lead in the browser business, even against Microsoft.
+unabashed [L38 adj. 不害臊的；不掩飾的] :: He is an unabashed fan of K-pop.
+unabashedly [L38 adv. 毫不掩飾地] :: Mike is a very shy and quite staff in this international bank. Yet, it is amazing to observe that he unabashedly argued with two American customers for their bad debts.
+venture [L38 v./n. 冒險；風險事業] :: They ventured into the forest.
+aquiver [L39 adj. 顫抖的] :: The puppy was aquiver with excitement.
+arachnophobia [L39 n. 蜘蛛恐懼症] :: Her arachnophobia kept her out of the garden shed.
+cower [L39 v. 畏縮；退縮] :: The dog cowered under the table during the storm.
+dread [L39 v. 懼怕；擔心] :: Many students dread oral exams.
+formidable [L39 adj. 可怕的；難對付的] :: She is a formidable opponent.
+fret [L39 v. 煩惱；焦慮] :: Don't fret about small mistakes.
+insecure [L39 adj. 缺乏安全感的；不安全的] :: Although he claimed to be indifferent to criticism, his defensive reactions, which often escalated minor disagreements, suggested a rather insecure disposition.
+jittery [L39 adj. 緊張不安的] :: I always feel jittery before exams.
+nerve-wracking [L39 adj. 令人神經緊繃的] :: Waiting for exam results is nerve-wracking.
+ophidiophobia [L39 n. 懼蛇症] :: Most people have ophidiophobia. They are afraid of snakes.
+panic [L39 v./n. 驚慌] :: Don't panic during an earthquake.
+quail [L39 n. 鵪鶉；畏縮] :: He quailed at the thought of speaking in public.
+retreat [L39 v. 撤退；後退] :: The army retreated.
+spooky [L39 adj. 陰森的；令人毛骨悚然的] :: The old house was spooky.
+tense [L39 adj./n. 緊張的；時態] :: The atmosphere was tense.
+unnerve [L39 v. 使不安；使喪失勇氣] :: The silence unnerved him.
+apoplectic [L40 adj. 暴怒的；中風的] :: The coach was apoplectic after the referee's call.
+berserk [L40 adj. 狂暴的] :: The crowd went berserk when the band appeared.
+bridle [L40 v. （對…）表示憤怒；不滿] :: She bridled at the suggestion that she was lazy.
+crabby [L40 adj. 脾氣暴躁的] :: He is crabby when he hasn't had his coffee.
+fester [L40 v. （怨恨等）惡化；潰爛] :: Scott let his anger fester and became bitter and resentful toward his best friend, Rose.
+flare [L40 v. 突然燃燒；（情緒）突然爆發] :: Tempers flared during the meeting.
+furious [L40 adj. 狂怒的] :: She was furious when her phone was stolen.
+incense [L40 v./n. 激怒；香] :: After being teased in the ring, the bull became incensed; it stomped, roared, and finally charged in fury.
+inflame [L40 v. 激怒；煽動；使發炎] :: His comments inflamed the crowd.
+infuriate [L40 v. 激怒] :: His arrogance infuriated her.
+irritating [L40 adj. 惱人的] :: The irritating noise kept me awake.
+moody [L40 adj. 喜怒無常的] :: Teenagers can be moody.
+nuisance [L40 n. 討厭的人或事] :: Mosquitoes are a nuisance in summer.
+outrage [L40 n./v. 憤慨；激怒] :: The decision caused public outrage.
+rankle [L40 v. 使怨恨；使耿耿於懷] :: The unfair decision still rankles.
+resentment [L40 n. 憤恨；怨恨] :: He felt resentment toward his boss.
+ruffle [L40 v. 弄亂；使不安] :: Her calm was not ruffled by criticism.
+seethe [L40 v. 強忍怒火；沸騰] :: She seethed with anger.
+spleen [L40 n. 怒氣；脾臟] :: He vented his spleen on the referee.
+tantrum [L40 n. 發脾氣] :: The tennis player was known for his after-match tantrums, which included an incident when he kicked down an advertising board.
+vent [L40 v. 發洩] :: He vented his anger on his brother.
+equability [L41 n. 平穩；心平氣和] :: He faced the crisis with equability.
+forbear [L41 v. 克制；忍住（不做）] NEED_S1 :: She forbore from commenting.
+refrain [L41 v. 克制；避免] :: Presenters and recipients at the next Academy Awards would be advised to refrain from rambling thank-yous and unentertaining political proclamations.
+restraint [L41 n. 克制；節制] :: To protect children properly, laws mandate the use of child safety restraints in all automobiles, such as car seats for infants and toddlers.
+thaw [L41 v. 融化；緩和] :: Relations between the countries thawed.
+compunction [L42 n. 內疚；良心不安] :: He had no compunctions about lying.
+compunctious [L42 adj. 內疚的；懊悔的] :: She felt compunctious after shouting at her mother.
+dejection [L42 n. 沮喪；灰心] :: He walked away in dejection after losing.
+demoralization [L42 n. 士氣低落] :: Constant criticism led to demoralization among staff.
+despair [L42 n. 絕望] :: Amy was in despair because her vegetable garden was ruined.
+desperate [L42 adj. 絕望的；極度渴望的] :: The flood victims were desperate for clean water.
+devastated [L42 adj. 極度震驚難過的] :: Much of Sri Lanka's coastline was devastated by the December 26 tsunami in 2004, leaving thousands of villagers homeless.
+disillusion [L42 n. 幻滅；醒悟] :: Years of failure brought disillusion.
+dismay [L42 n. 沮喪；驚慌] :: To our dismay, the show was canceled.
+distress [L42 n. 痛苦；憂慮] :: The ship sent out a distress signal.
+grim [L42 adj. 嚴峻的；陰森的] :: The future looks grim for the company.
+hangdog [L42 adj. 羞愧的；垂頭喪氣的] :: He gave me a hangdog look.
+morbid [L42 adj. 病態的；陰森的] :: He has a morbid interest in death.
+pessimism [L42 n. 悲觀] :: There is growing pessimism about the economy.
+piteous [L42 adj. 可憐的；令人同情的] :: The puppy gave a piteous cry.
+regretfully [L42 adv. 遺憾地] :: Regretfully, we cannot accept your offer.
+sepulchral [L42 adj. 陰森的；墳墓般的] :: The old Victorian mansion, with its peeling paint and overgrown garden, exuded a(n) sepulchral atmosphere that made the neighborhood children believe it was haunted.
+sob [L42 n./v. 啜泣] NEED_S1 :: We heard sobbing from the next room.
+sorrow [L42 n. 悲傷] :: We share your sorrow.
+wail [L42 v. 哀號] :: The baby wailed all night.
+carefree [L43 adj. 無憂無慮的] :: We spent a carefree summer at the beach.
+contently [L43 adv. 滿足地] :: The cat purred contently on the sofa.
+ecstasy [L43 n. 狂喜] :: The fans were in ecstasy when the team won.
+elate [L43 v. 使興高采烈] :: The news of her promotion elated her.
+elation [L43 n. 興高采烈；欣喜] :: He felt elation at the finish line.
+gratification [L43 n. 滿足；快感] :: Children must learn to delay gratification.
+joyfully [L43 adv. 喜悅地] :: The children ran joyfully into the sea.
+jubilation [L43 n. 歡騰；喜悅] :: There was jubilation when the war ended.
+positivity [L43 n. 正面態度] :: Psychologists explain that there is a difference between always looking at things at the bright side and blind positivity.
+recreation [L43 n. 娛樂；消遣] :: The park offers recreation for families.
+rosy [L43 adj. 玫瑰色的；樂觀的] :: The future looks rosy.
+sanguinity [L43 n. 樂觀；自信] :: She faced the future with sanguinity.
+accumulate [L44 v. 累積；積聚] :: Dust accumulated on the shelves of the empty house.
+blossom [L44 v. 開花；蓬勃發展] :: Their friendship blossomed into romance.
+boom [L44 v. 蓬勃發展；轟隆作響] :: This year the number of Internet users going online with a mobile device, such as a smartphone or a tablet, overtook those doing so on a personal computer for the first time. And not surprisingly, e-commerce is booming.
+burgeon [L44 v. 迅速發展；萌芽] :: The government does have a plan to build affordable and decent housing, but past upgrading projects have not met the burgeoning demand.
+elevate [L44 v. 提高；提升] :: The new law elevated the status of teachers.
+enlarge [L44 v. 擴大；放大] :: Can you enlarge this photo?
+escalate [L44 v. 升級；擴大] NEED_S1 :: When proponents of free speech encounter those who would strongly regulate entertainment, the argument over revolting content in movies will likelyescalate.
+exponentially [L44 adv. 以指數方式；急劇地] :: TSMC expects its 2-nanometer chip capacity to grow exponentially from 2026 onward, ensuring that Taiwan remains at the forefront of the global artificial intelligence revolution.
+increasingly [L44 adv. 越來越] :: Online learning is increasingly popular.
+intensification [L44 n. 加劇；強化] :: The intensification of farming harms soil.
+proliferate [L44 v. 激增；擴散] :: Moving factories from China to Southeast Asia has proliferated. For example, more and more business people are swarming into India.
+proliferation [L44 n. 激增；擴散] :: The proliferation of computer use in foreign and second language education has brought with it an expansion of research into the area of computer-assisted language learning.
+quadruple [L44 v. 使成四倍] :: The government in China is now pouring money into transforming its education sector; in the last decade alone it quadrupled its number of annual university graduates.
+rebound [L44 v. 反彈；回升] :: Prices rebounded after the crisis.
+resurgence [L44 n. 復甦；再起] :: There is a resurgence of interest in vinyl records.
+sharply [L44 adv. 急劇地；嚴厲地] :: Prices rose sharply.
+soar [L44 v. 飆升；翱翔] :: According to UN, food prices soared nearly 40 percent in the last year; they have increased substantially.
+spike [L44 v. 急升；驟增] :: Prices spiked during the typhoon.

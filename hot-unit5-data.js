@@ -231,6 +231,197 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "暴風雨過後,一股平靜的氛圍籠罩了整個村莊。",
         "added": true,
         "group": "hot-05"
+      },
+      {
+        "word": "alleviator",
+        "pos": "n.",
+        "definition": "Something that makes a problem or pain less severe.",
+        "chinese": "緩和者；減輕物",
+        "synonyms": "reliever, soother, palliative",
+        "image": "shield",
+        "sentence": "Music can be a powerful __________ of stress.",
+        "translation": "音樂可以是強大的紓壓良方。",
+        "lookup": {
+          "english": "Something that makes a problem or pain less severe.",
+          "chinese": "緩和者；減輕物"
+        },
+        "advSentence": "For many lonely seniors, a pet is an effective alleviator of isolation and gloom.",
+        "advTranslation": "對許多孤單的長者而言，寵物能有效減輕孤立與憂鬱。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "appeasable",
+        "pos": "adj.",
+        "definition": "Able to be calmed or satisfied.",
+        "chinese": "可安撫的",
+        "synonyms": "placable, pacifiable, conciliable",
+        "image": "shield",
+        "sentence": "The angry customer was not easily __________.",
+        "translation": "那位生氣的顧客不容易安撫。",
+        "lookup": {
+          "english": "Able to be calmed or satisfied.",
+          "chinese": "可安撫的"
+        },
+        "advSentence": "The toddler was easily appeasable with a song and a cuddle.",
+        "advTranslation": "那個幼兒只要一首歌和一個擁抱就很容易安撫。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "deescalate",
+        "pos": "v.",
+        "definition": "To make a situation less intense or dangerous.",
+        "chinese": "降溫；緩和",
+        "synonyms": "defuse, calm, reduce",
+        "image": "shield",
+        "sentence": "The teacher tried to __________ the fight.",
+        "translation": "老師試圖讓這場打架降溫。",
+        "lookup": {
+          "english": "To make a situation less intense or dangerous.",
+          "chinese": "降溫；緩和"
+        },
+        "advSentence": "Trained mediators know how to deescalate a heated argument before it turns violent.",
+        "advTranslation": "受過訓練的調解人知道如何在激烈爭執演變成暴力之前讓它降溫。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-taipei-jh"
+        ]
+      },
+      {
+        "word": "intercede",
+        "pos": "v.",
+        "definition": "To speak to someone in authority on behalf of another.",
+        "chinese": "說情；調解",
+        "synonyms": "mediate, intervene, plead",
+        "image": "shield",
+        "sentence": "She __________d on behalf of the students.",
+        "translation": "她為學生們出面說情。",
+        "lookup": {
+          "english": "To speak to someone in authority on behalf of another.",
+          "chinese": "說情；調解"
+        },
+        "advSentence": "The principal agreed to intercede with the parents on the teacher's behalf.",
+        "advTranslation": "校長同意代表那位老師去向家長說情。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-taipei-jh",
+          "115-cmgsh-sh"
+        ]
+      },
+      {
+        "word": "intervene",
+        "pos": "v.",
+        "definition": "To become involved in a situation to change it.",
+        "chinese": "干預；介入",
+        "synonyms": "step in, intercede, interfere",
+        "image": "shield",
+        "sentence": "The teacher __________d to stop the fight.",
+        "translation": "老師出面制止了這場打架。",
+        "lookup": {
+          "english": "To become involved in a situation to change it.",
+          "chinese": "干預；介入"
+        },
+        "advSentence": "When the debate became acrimonious, the moderator had to intervene.",
+        "advTranslation": "當辯論變得尖酸刻薄時，主持人不得不出面介入。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-kinmen-jh"
+        ]
+      },
+      {
+        "word": "mild",
+        "pos": "adj.",
+        "definition": "Gentle; not severe.",
+        "chinese": "溫和的；輕微的",
+        "synonyms": "gentle, slight, moderate",
+        "image": "shield",
+        "sentence": "The body temperature of crocodiles is not __________, so they have to warm themselves in the sun during the day.",
+        "translation": "鱷魚的體溫並不溫和（不恆定），所以白天得曬太陽取暖。",
+        "lookup": {
+          "english": "Gentle; not severe.",
+          "chinese": "溫和的；輕微的"
+        },
+        "advSentence": "Despite the mild criticism, the author was gracious and thanked her reviewers.",
+        "advTranslation": "儘管只是溫和的批評，作者仍很有風度地感謝評論者。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-klcg-jh"
+        ]
+      },
+      {
+        "word": "reassuring",
+        "pos": "adj.",
+        "definition": "Making you feel less worried.",
+        "chinese": "令人安心的",
+        "synonyms": "comforting, encouraging, soothing",
+        "image": "shield",
+        "sentence": "Her smile was __________.",
+        "translation": "她的微笑令人安心。",
+        "lookup": {
+          "english": "Making you feel less worried.",
+          "chinese": "令人安心的"
+        },
+        "advSentence": "The doctor's calm, reassuring voice helped the anxious patient relax.",
+        "advTranslation": "醫生平靜、令人安心的聲音幫助焦慮的病人放鬆下來。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nhvs-vs"
+        ]
+      },
+      {
+        "word": "relieve",
+        "pos": "v.",
+        "definition": "To make pain or worry less.",
+        "chinese": "緩解；減輕",
+        "synonyms": "ease, alleviate, soothe",
+        "image": "shield",
+        "sentence": "The best way to __________ the anxiety that comes with writing a long essay or report is to start ahead of time.",
+        "translation": "要緩解寫長篇報告帶來的焦慮，最好的方法就是提早開始。",
+        "lookup": {
+          "english": "To make pain or worry less.",
+          "chinese": "緩解；減輕"
+        },
+        "advSentence": "A short walk can relieve stress and restore your focus.",
+        "advTranslation": "短暫散步就能緩解壓力、恢復專注。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-south-jh",
+          "108-cr-jh"
+        ]
+      },
+      {
+        "word": "tonic",
+        "pos": "n.",
+        "definition": "Something that makes you feel better.",
+        "chinese": "補藥；提神之物",
+        "synonyms": "boost, restorative, stimulant",
+        "image": "shield",
+        "sentence": "The holiday was a __________ for us.",
+        "translation": "這次假期讓我們重新振作。",
+        "lookup": {
+          "english": "Something that makes you feel better.",
+          "chinese": "補藥；提神之物"
+        },
+        "advSentence": "The team's unexpected victory was a tonic for the whole demoralized town.",
+        "advTranslation": "球隊出乎意料的勝利讓整個士氣低落的小鎮重新振作起來。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-ntpc-sh"
+        ]
       }
     ],
     "quiz": [
@@ -586,5 +777,41 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "calm": [
     "Not showing or feeling nervousness or excitement; a state of peace.",
     "冷靜的;平靜"
+  ],
+  "alleviator": [
+    "Something that makes a problem or pain less severe.",
+    "緩和者；減輕物"
+  ],
+  "appeasable": [
+    "Able to be calmed or satisfied.",
+    "可安撫的"
+  ],
+  "deescalate": [
+    "To make a situation less intense or dangerous.",
+    "降溫；緩和"
+  ],
+  "intercede": [
+    "To speak to someone in authority on behalf of another.",
+    "說情；調解"
+  ],
+  "intervene": [
+    "To become involved in a situation to change it.",
+    "干預；介入"
+  ],
+  "mild": [
+    "Gentle; not severe.",
+    "溫和的；輕微的"
+  ],
+  "reassuring": [
+    "Making you feel less worried.",
+    "令人安心的"
+  ],
+  "relieve": [
+    "To make pain or worry less.",
+    "緩解；減輕"
+  ],
+  "tonic": [
+    "Something that makes you feel better.",
+    "補藥；提神之物"
   ]
 });

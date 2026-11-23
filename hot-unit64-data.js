@@ -255,6 +255,175 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "這位賣弄學問的人在這場閒談中糾正了每一個細微的錯誤。",
         "added": true,
         "group": "sat-knowledge"
+      },
+      {
+        "word": "enlighten",
+        "pos": "v.",
+        "definition": "To give someone knowledge or understanding.",
+        "chinese": "啟發；開導",
+        "synonyms": "inform, educate, illuminate",
+        "image": "shield",
+        "sentence": "The lecture __________d us about climate science.",
+        "translation": "這場演講讓我們對氣候科學有所了解。",
+        "lookup": {
+          "english": "To give someone knowledge or understanding.",
+          "chinese": "啟發；開導"
+        },
+        "advSentence": "Could you enlighten me about how the new system works?",
+        "advTranslation": "你可以跟我說明一下新系統怎麼運作嗎？",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "enlightenment",
+        "pos": "n.",
+        "definition": "The state of understanding something clearly.",
+        "chinese": "啟蒙；開化",
+        "synonyms": "insight, understanding, awareness",
+        "image": "shield",
+        "sentence": "Buddhists seek spiritual __________.",
+        "translation": "佛教徒追求心靈的覺悟。",
+        "lookup": {
+          "english": "The state of understanding something clearly.",
+          "chinese": "啟蒙；開化"
+        },
+        "advSentence": "The Enlightenment encouraged people to question tradition through reason.",
+        "advTranslation": "啟蒙運動鼓勵人們以理性質疑傳統。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-ntpc-jh",
+          "115-tngs-sh"
+        ]
+      },
+      {
+        "word": "internalize",
+        "pos": "v.",
+        "definition": "To accept an idea so it becomes part of how you think.",
+        "chinese": "內化",
+        "synonyms": "absorb, assimilate, learn",
+        "image": "shield",
+        "sentence": "Students __________ rules through practice.",
+        "translation": "學生透過練習把規則內化。",
+        "lookup": {
+          "english": "To accept an idea so it becomes part of how you think.",
+          "chinese": "內化"
+        },
+        "advSentence": "Children internalize the values they see at home.",
+        "advTranslation": "孩子會內化他們在家中看到的價值觀。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "knowledgeable",
+        "pos": "adj.",
+        "definition": "Knowing a lot.",
+        "chinese": "知識淵博的",
+        "synonyms": "well-informed, learned, expert",
+        "image": "shield",
+        "sentence": "The guide was __________ about local history.",
+        "translation": "導遊對當地歷史非常熟悉。",
+        "lookup": {
+          "english": "Knowing a lot.",
+          "chinese": "知識淵博的"
+        },
+        "advSentence": "Knowledgeable staff helped us choose the right tea.",
+        "advTranslation": "學識豐富的店員幫我們挑選合適的茶。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-1-sh"
+        ]
+      },
+      {
+        "word": "literate",
+        "pos": "adj.",
+        "definition": "Able to read and write.",
+        "chinese": "識字的",
+        "synonyms": "educated, able to read, knowledgeable",
+        "image": "shield",
+        "sentence": "Digitally __________ students can judge whether online sources are reliable.",
+        "translation": "具備數位素養的學生能判斷網路資訊的來源。",
+        "lookup": {
+          "english": "Able to read and write.",
+          "chinese": "識字的"
+        },
+        "advSentence": "Only half of the adults in the region were literate a century ago.",
+        "advTranslation": "一百年前，這個地區只有一半的成人識字。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh"
+        ]
+      },
+      {
+        "word": "retention",
+        "pos": "n.",
+        "definition": "The act of keeping something.",
+        "chinese": "保留；保持",
+        "synonyms": "memory, keeping, preservation",
+        "image": "shield",
+        "sentence": "Spaced practice improves __________.",
+        "translation": "間隔練習能提升記憶保留。",
+        "lookup": {
+          "english": "The act of keeping something.",
+          "chinese": "保留；保持"
+        },
+        "advSentence": "Employee retention improves when workers feel valued.",
+        "advTranslation": "員工覺得受到重視時，留任率就會提高。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "scholarly",
+        "pos": "adj.",
+        "definition": "Having or showing a lot of knowledge from study.",
+        "chinese": "有學問的；學術的",
+        "synonyms": "academic, learned, erudite",
+        "image": "shield",
+        "sentence": "She wrote a __________ article.",
+        "translation": "她寫了一篇學術文章。",
+        "lookup": {
+          "english": "Having or showing a lot of knowledge from study.",
+          "chinese": "有學問的；學術的"
+        },
+        "advSentence": "The professor's scholarly manner impressed the visiting students.",
+        "advTranslation": "教授學者般的風範讓來訪的學生印象深刻。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-kh-sh"
+        ]
+      },
+      {
+        "word": "worldly",
+        "pos": "adj.",
+        "definition": "Experienced in life; relating to material things.",
+        "chinese": "世故的；世俗的",
+        "synonyms": "sophisticated, experienced, material",
+        "image": "shield",
+        "sentence": "She is __________ and well-traveled.",
+        "translation": "她見多識廣、遊歷豐富。",
+        "lookup": {
+          "english": "Experienced in life; relating to material things.",
+          "chinese": "世故的；世俗的"
+        },
+        "advSentence": "The monk gave up all worldly possessions to live in the mountains.",
+        "advTranslation": "那位僧人放棄一切世俗財物，到山中修行。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-jh"
+        ]
       }
     ],
     "group": "sat-knowledge",
@@ -320,5 +489,37 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "pedant": [
     "A person who is overly concerned with minor details or rules.",
     "拘泥細節的人;賣弄學問者"
+  ],
+  "enlighten": [
+    "To give someone knowledge or understanding.",
+    "啟發；開導"
+  ],
+  "enlightenment": [
+    "The state of understanding something clearly.",
+    "啟蒙；開化"
+  ],
+  "internalize": [
+    "To accept an idea so it becomes part of how you think.",
+    "內化"
+  ],
+  "knowledgeable": [
+    "Knowing a lot.",
+    "知識淵博的"
+  ],
+  "literate": [
+    "Able to read and write.",
+    "識字的"
+  ],
+  "retention": [
+    "The act of keeping something.",
+    "保留；保持"
+  ],
+  "scholarly": [
+    "Having or showing a lot of knowledge from study.",
+    "有學問的；學術的"
+  ],
+  "worldly": [
+    "Experienced in life; relating to material things.",
+    "世故的；世俗的"
   ]
 });

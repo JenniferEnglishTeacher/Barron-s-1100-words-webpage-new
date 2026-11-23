@@ -269,6 +269,90 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "由於沒有明確的主持人,這場會議很快就陷入混亂。",
         "added": true,
         "group": "hot-10"
+      },
+      {
+        "word": "beleaguered",
+        "pos": "adj.",
+        "definition": "Experiencing a lot of difficulties or criticism.",
+        "chinese": "處境艱難的；受圍困的",
+        "synonyms": "troubled, besieged, harassed",
+        "image": "shield",
+        "sentence": "The __________ company cut half its staff.",
+        "translation": "這家陷入困境的公司裁掉了一半員工。",
+        "lookup": {
+          "english": "Experiencing a lot of difficulties or criticism.",
+          "chinese": "處境艱難的；受圍困的"
+        },
+        "advSentence": "The beleaguered mayor faced criticism from every side after the flood.",
+        "advTranslation": "水災之後，處境艱難的市長受到各方批評。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-sssh-1-sh"
+        ]
+      },
+      {
+        "word": "discomfiture",
+        "pos": "n.",
+        "definition": "A feeling of embarrassment or unease.",
+        "chinese": "尷尬；窘迫",
+        "synonyms": "embarrassment, unease, confusion",
+        "image": "shield",
+        "sentence": "The speaker's ill-timed attempt at levity disrupted the proceedings, producing a moment of collective __________ that was difficult to dispel.",
+        "translation": "講者時機不當的玩笑打亂了議程，造成一陣難以化解的集體尷尬。",
+        "lookup": {
+          "english": "A feeling of embarrassment or unease.",
+          "chinese": "尷尬；窘迫"
+        },
+        "advSentence": "To his discomfiture, the student realized he had prepared for the wrong exam.",
+        "advTranslation": "讓他窘迫的是，那個學生發現自己準備錯了考試。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cdsh-sh"
+        ]
+      },
+      {
+        "word": "embroil",
+        "pos": "v.",
+        "definition": "To involve someone in a difficult argument or situation.",
+        "chinese": "使捲入（紛爭）",
+        "synonyms": "involve, entangle, implicate",
+        "image": "shield",
+        "sentence": "The company was __________d in a scandal.",
+        "translation": "這家公司捲入了一樁醜聞。",
+        "lookup": {
+          "english": "To involve someone in a difficult argument or situation.",
+          "chinese": "使捲入（紛爭）"
+        },
+        "advSentence": "The two neighbors became embroiled in a bitter dispute over a fence.",
+        "advTranslation": "兩位鄰居因為一道圍籬而捲入激烈的糾紛。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "plague",
+        "pos": "v.",
+        "definition": "To cause continuous trouble.",
+        "chinese": "困擾；折磨",
+        "synonyms": "trouble, afflict, torment",
+        "image": "shield",
+        "sentence": "After years of civil war, the country was __________d by unemployment, poverty, and food shortages.",
+        "translation": "經過多年內戰，這個國家飽受失業、貧窮與糧食短缺之苦。",
+        "lookup": {
+          "english": "To cause continuous trouble.",
+          "chinese": "困擾；折磨"
+        },
+        "advSentence": "Doubts continued to plague her even after she accepted the job offer.",
+        "advTranslation": "即使接受了工作邀約，疑慮仍持續困擾著她。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-vs-ae"
+        ]
       }
     ],
     "quiz": [
@@ -606,5 +690,21 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "chaos": [
     "Absolute disorder.",
     "混亂/混沌"
+  ],
+  "beleaguered": [
+    "Experiencing a lot of difficulties or criticism.",
+    "處境艱難的；受圍困的"
+  ],
+  "discomfiture": [
+    "A feeling of embarrassment or unease.",
+    "尷尬；窘迫"
+  ],
+  "embroil": [
+    "To involve someone in a difficult argument or situation.",
+    "使捲入（紛爭）"
+  ],
+  "plague": [
+    "To cause continuous trouble.",
+    "困擾；折磨"
   ]
 });

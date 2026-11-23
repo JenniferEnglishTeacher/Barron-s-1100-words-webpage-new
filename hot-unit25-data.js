@@ -257,6 +257,457 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "她隱藏的怨氣終於在這場家庭晚餐上爆發了出來。",
         "added": true,
         "group": "hot-25"
+      },
+      {
+        "word": "anonymity",
+        "pos": "n.",
+        "definition": "The state of having your name not known.",
+        "chinese": "匿名",
+        "synonyms": "namelessness, secrecy, incognito",
+        "image": "shield",
+        "sentence": "The donor asked for __________.",
+        "translation": "捐款人要求匿名。",
+        "lookup": {
+          "english": "The state of having your name not known.",
+          "chinese": "匿名"
+        },
+        "advSentence": "The internet's anonymity can encourage cruel comments.",
+        "advTranslation": "網路的匿名性可能助長殘忍的留言。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-moe-vs-ae",
+          "115-hcdes-sh"
+        ]
+      },
+      {
+        "word": "conclave",
+        "pos": "n.",
+        "definition": "A private or secret meeting.",
+        "chinese": "秘密會議",
+        "synonyms": "secret meeting, assembly, council",
+        "image": "shield",
+        "sentence": "The cardinals met in __________ to elect a pope.",
+        "translation": "樞機主教們召開祕密會議選出教宗。",
+        "lookup": {
+          "english": "A private or secret meeting.",
+          "chinese": "秘密會議"
+        },
+        "advSentence": "Party leaders held a private conclave to choose their candidate.",
+        "advTranslation": "黨內領袖舉行祕密會議來選出候選人。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "eavesdrop",
+        "pos": "v.",
+        "definition": "To listen secretly to other people's conversation.",
+        "chinese": "偷聽",
+        "synonyms": "listen in, overhear, snoop",
+        "image": "shield",
+        "sentence": "Kensaku likes to __________ when other people are speaking so he can improve his English listening skills.",
+        "translation": "Kensaku 喜歡在別人說話時偷聽，以提升自己的英文聽力。",
+        "lookup": {
+          "english": "To listen secretly to other people's conversation.",
+          "chinese": "偷聽"
+        },
+        "advSentence": "It is rude to eavesdrop on other people's phone calls.",
+        "advTranslation": "偷聽別人講電話是很不禮貌的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-moe-sh",
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "envelop",
+        "pos": "v.",
+        "definition": "To cover or surround completely.",
+        "chinese": "包圍；包住",
+        "synonyms": "surround, cover, wrap",
+        "image": "shield",
+        "sentence": "Fog __________d the city.",
+        "translation": "霧籠罩了城市。",
+        "lookup": {
+          "english": "To cover or surround completely.",
+          "chinese": "包圍；包住"
+        },
+        "advSentence": "A deep silence seemed to envelop the empty classroom.",
+        "advTranslation": "一片深沉的寂靜似乎籠罩著空蕩蕩的教室。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-ntpc-jh"
+        ]
+      },
+      {
+        "word": "espionage",
+        "pos": "n.",
+        "definition": "The activity of finding out secret information about another country or company.",
+        "chinese": "間諜活動",
+        "synonyms": "spying, intelligence, surveillance",
+        "image": "shield",
+        "sentence": "He was arrested for industrial __________.",
+        "translation": "他因工業間諜罪被捕。",
+        "lookup": {
+          "english": "The activity of finding out secret information about another country or company.",
+          "chinese": "間諜活動"
+        },
+        "advSentence": "The novel tells a tale of Cold War espionage and betrayal.",
+        "advTranslation": "這部小說講述冷戰時期的間諜活動與背叛。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-taivs-vs"
+        ]
+      },
+      {
+        "word": "evade",
+        "pos": "v.",
+        "definition": "To avoid dealing with something, such as a question.",
+        "chinese": "迴避；逃避",
+        "synonyms": "avoid, dodge, escape",
+        "image": "shield",
+        "sentence": "Several reporters asked for information about the budget but the speaker __________d their questions.",
+        "translation": "好幾位記者詢問預算資訊，但發言人迴避了他們的問題。",
+        "lookup": {
+          "english": "To avoid dealing with something, such as a question.",
+          "chinese": "迴避；逃避"
+        },
+        "advSentence": "The suspect managed to evade the police for three weeks.",
+        "advTranslation": "嫌犯設法躲避警方長達三週。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-en"
+        ]
+      },
+      {
+        "word": "incognito",
+        "pos": "adv.",
+        "definition": "With your true identity hidden.",
+        "chinese": "隱姓埋名地；微服",
+        "synonyms": "in disguise, anonymously, secretly",
+        "image": "shield",
+        "sentence": "The movie star traveled __________.",
+        "translation": "那位電影明星微服出遊。",
+        "lookup": {
+          "english": "With your true identity hidden.",
+          "chinese": "隱姓埋名地；微服"
+        },
+        "advSentence": "The prince traveled incognito to see how ordinary citizens lived.",
+        "advTranslation": "王子微服出巡，想看看一般百姓如何生活。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-kinmen-jh"
+        ]
+      },
+      {
+        "word": "indiscreet",
+        "pos": "adj.",
+        "definition": "Careless about saying things that should be kept secret.",
+        "chinese": "輕率的；不謹慎的",
+        "synonyms": "careless, tactless, unwise",
+        "image": "shield",
+        "sentence": "It was __________ of her to share the secret.",
+        "translation": "她把祕密說出去實在太不謹慎了。",
+        "lookup": {
+          "english": "Careless about saying things that should be kept secret.",
+          "chinese": "輕率的；不謹慎的"
+        },
+        "advSentence": "An indiscreet post on social media cost him his job.",
+        "advTranslation": "社群媒體上一則不謹慎的貼文讓他丟了工作。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-hccg-jh"
+        ]
+      },
+      {
+        "word": "infiltrate",
+        "pos": "v.",
+        "definition": "To secretly enter a place or group.",
+        "chinese": "滲透；潛入",
+        "synonyms": "penetrate, sneak in, permeate",
+        "image": "shield",
+        "sentence": "Spies __________d the government.",
+        "translation": "間諜滲透了政府。",
+        "lookup": {
+          "english": "To secretly enter a place or group.",
+          "chinese": "滲透；潛入"
+        },
+        "advSentence": "Plastic particles have infiltrated even the deepest parts of the ocean.",
+        "advTranslation": "塑膠微粒甚至已滲入海洋最深處。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae",
+          "110-moe-sh",
+          "115-hcdes-sh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "insulate",
+        "pos": "v.",
+        "definition": "To protect something from heat, cold, noise, or outside influence.",
+        "chinese": "使隔絕；隔熱",
+        "synonyms": "protect, shield, isolate",
+        "image": "shield",
+        "sentence": "The walls are __________d against noise.",
+        "translation": "牆壁做了隔音處理。",
+        "lookup": {
+          "english": "To protect something from heat, cold, noise, or outside influence.",
+          "chinese": "使隔絕；隔熱"
+        },
+        "advSentence": "Wealthy neighborhoods are often insulated from the problems of the city.",
+        "advTranslation": "富裕社區常與城市的問題隔絕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "106-taipei-jh"
+        ]
+      },
+      {
+        "word": "lurk",
+        "pos": "v.",
+        "definition": "To exist or wait in a hidden, threatening way.",
+        "chinese": "潛伏；潛藏",
+        "synonyms": "hide, skulk, lie in wait",
+        "image": "shield",
+        "sentence": "Parents still feared that health problems might __________ in the water.",
+        "translation": "自來水鉛污染十八個月後，雖然政府宣布水可以安全飲用，家長們仍擔心潛藏的健康問題。",
+        "lookup": {
+          "english": "To exist or wait in a hidden, threatening way.",
+          "chinese": "潛伏；潛藏"
+        },
+        "advSentence": "Dangers lurk beneath the calm surface of the river.",
+        "advTranslation": "危險潛藏在平靜的河面之下。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-jh",
+          "114-hsnu-sh"
+        ]
+      },
+      {
+        "word": "mask",
+        "pos": "v.",
+        "definition": "To hide or cover.",
+        "chinese": "掩飾；遮蓋",
+        "synonyms": "hide, conceal, disguise",
+        "image": "shield",
+        "sentence": "He __________d his fear with a smile.",
+        "translation": "他用微笑掩飾恐懼。",
+        "lookup": {
+          "english": "To hide or cover.",
+          "chinese": "掩飾；遮蓋"
+        },
+        "advSentence": "Strong spices were once used to mask the taste of spoiled meat.",
+        "advTranslation": "過去人們用濃烈的香料掩蓋變質肉類的味道。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "105-tycg-jh"
+        ]
+      },
+      {
+        "word": "overhear",
+        "pos": "v.",
+        "definition": "To hear something by accident.",
+        "chinese": "無意中聽到",
+        "synonyms": "eavesdrop, catch, hear",
+        "image": "shield",
+        "sentence": "Please don't be mistaken. I don't mean to __________ your conversation.",
+        "translation": "請別誤會，我不是故意聽到你們的談話。",
+        "lookup": {
+          "english": "To hear something by accident.",
+          "chinese": "無意中聽到"
+        },
+        "advSentence": "I happened to overhear two teachers discussing the exam results.",
+        "advTranslation": "我碰巧聽到兩位老師在討論考試結果。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "110-taipei-vs-ae"
+        ]
+      },
+      {
+        "word": "parry",
+        "pos": "v.",
+        "definition": "To block a blow or avoid a question skillfully.",
+        "chinese": "擋開；巧妙迴避",
+        "synonyms": "deflect, evade, sidestep",
+        "image": "shield",
+        "sentence": "The spokesperson tried to __________ the reporters' difficult questions.",
+        "translation": "她巧妙地迴避了難回答的問題。",
+        "lookup": {
+          "english": "To block a blow or avoid a question skillfully.",
+          "chinese": "擋開；巧妙迴避"
+        },
+        "advSentence": "The fencer managed to parry every thrust from her opponent.",
+        "advTranslation": "那位擊劍選手成功擋開對手的每一次刺擊。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh"
+        ]
+      },
+      {
+        "word": "penetrate",
+        "pos": "v.",
+        "definition": "To go into or through.",
+        "chinese": "穿透；滲透",
+        "synonyms": "pierce, enter, permeate",
+        "image": "shield",
+        "sentence": "Sunlight cannot __________ the deep sea.",
+        "translation": "陽光無法穿透深海。",
+        "lookup": {
+          "english": "To go into or through.",
+          "chinese": "穿透；滲透"
+        },
+        "advSentence": "Few outsiders ever penetrate the secretive world of the fashion industry.",
+        "advTranslation": "很少外人能真正打入時尚產業神祕的圈子。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-taipei-jh",
+          "106-moe-sh",
+          "115-tngs-sh"
+        ]
+      },
+      {
+        "word": "prowl",
+        "pos": "n.",
+        "definition": "The act of moving around quietly looking for something.",
+        "chinese": "徘徊覓食；四處搜尋（on the prowl）",
+        "synonyms": "roam, stalk, hunt",
+        "image": "shield",
+        "sentence": "Jack was on the __________ at Tops Supermarket, looking to fill his stomach with complimentary food samples.",
+        "translation": "Jack 在超市裡四處覓食，想用免費試吃品填飽肚子。",
+        "lookup": {
+          "english": "The act of moving around quietly looking for something.",
+          "chinese": "徘徊覓食；四處搜尋（on the prowl）"
+        },
+        "advSentence": "Leopards prowl the forest at night in search of prey.",
+        "advTranslation": "豹子夜間在森林裡徘徊覓食。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ttsh-sh"
+        ]
+      },
+      {
+        "word": "seclusion",
+        "pos": "n.",
+        "definition": "The state of being private and away from other people.",
+        "chinese": "隱居；隔絕",
+        "synonyms": "isolation, privacy, solitude",
+        "image": "shield",
+        "sentence": "The writer lived in __________.",
+        "translation": "那位作家過著隱居生活。",
+        "lookup": {
+          "english": "The state of being private and away from other people.",
+          "chinese": "隱居；隔絕"
+        },
+        "advSentence": "The monastery offers seclusion from the noise of modern life.",
+        "advTranslation": "修道院讓人遠離現代生活的喧囂。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh",
+          "107-ntpc-jh"
+        ]
+      },
+      {
+        "word": "secrecy",
+        "pos": "n.",
+        "definition": "Keeping things secret.",
+        "chinese": "秘密；保密",
+        "synonyms": "confidentiality, privacy, concealment",
+        "image": "shield",
+        "sentence": "The plan was made in great __________.",
+        "translation": "這個計畫是在高度保密下擬定的。",
+        "lookup": {
+          "english": "Keeping things secret.",
+          "chinese": "秘密；保密"
+        },
+        "advSentence": "The negotiations were shrouded in secrecy until the deal was signed.",
+        "advTranslation": "在協議簽署之前，談判一直籠罩在祕密之中。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ntpc-sh"
+        ]
+      },
+      {
+        "word": "solitude",
+        "pos": "n.",
+        "definition": "The state of being alone.",
+        "chinese": "獨處；孤獨",
+        "synonyms": "isolation, loneliness, privacy",
+        "image": "shield",
+        "sentence": "She enjoys the __________ of the mountains.",
+        "translation": "她享受山中的獨處。",
+        "lookup": {
+          "english": "The state of being alone.",
+          "chinese": "獨處；孤獨"
+        },
+        "advSentence": "Some writers need complete solitude to concentrate on their work.",
+        "advTranslation": "有些作家需要完全獨處才能專心創作。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-cyc-jh"
+        ]
+      },
+      {
+        "word": "unstated",
+        "pos": "adj.",
+        "definition": "Not said directly.",
+        "chinese": "未明說的",
+        "synonyms": "implicit, unspoken, implied",
+        "image": "shield",
+        "sentence": "There was an __________ rule about dress.",
+        "translation": "關於服裝有一條不成文的規定。",
+        "lookup": {
+          "english": "Not said directly.",
+          "chinese": "未明說的"
+        },
+        "advSentence": "The unstated goal of the meeting was to replace the manager.",
+        "advTranslation": "這場會議未明說的目的是要撤換經理。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "104-tycg-jh"
+        ]
+      },
+      {
+        "word": "veil",
+        "pos": "v./n.",
+        "definition": "To cover or hide; a thin cloth over the face.",
+        "chinese": "遮蓋；面紗",
+        "synonyms": "cover, mask, conceal",
+        "image": "shield",
+        "sentence": "His words were a thinly __________d threat.",
+        "translation": "他的話是一種幾乎不加掩飾的威脅。",
+        "lookup": {
+          "english": "To cover or hide; a thin cloth over the face.",
+          "chinese": "遮蓋；面紗"
+        },
+        "advSentence": "A veil of mist covered the mountains in the early morning.",
+        "advTranslation": "清晨時一層薄霧籠罩著群山。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-cksh-sh"
+        ]
       }
     ],
     "quiz": [
@@ -520,5 +971,89 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "concealed": [
     "Kept hidden or out of sight.",
     "隱藏的;隱蔽的"
+  ],
+  "anonymity": [
+    "The state of having your name not known.",
+    "匿名"
+  ],
+  "conclave": [
+    "A private or secret meeting.",
+    "秘密會議"
+  ],
+  "eavesdrop": [
+    "To listen secretly to other people's conversation.",
+    "偷聽"
+  ],
+  "envelop": [
+    "To cover or surround completely.",
+    "包圍；包住"
+  ],
+  "espionage": [
+    "The activity of finding out secret information about another country or company.",
+    "間諜活動"
+  ],
+  "evade": [
+    "To avoid dealing with something, such as a question.",
+    "迴避；逃避"
+  ],
+  "incognito": [
+    "With your true identity hidden.",
+    "隱姓埋名地；微服"
+  ],
+  "indiscreet": [
+    "Careless about saying things that should be kept secret.",
+    "輕率的；不謹慎的"
+  ],
+  "infiltrate": [
+    "To secretly enter a place or group.",
+    "滲透；潛入"
+  ],
+  "insulate": [
+    "To protect something from heat, cold, noise, or outside influence.",
+    "使隔絕；隔熱"
+  ],
+  "lurk": [
+    "To exist or wait in a hidden, threatening way.",
+    "潛伏；潛藏"
+  ],
+  "mask": [
+    "To hide or cover.",
+    "掩飾；遮蓋"
+  ],
+  "overhear": [
+    "To hear something by accident.",
+    "無意中聽到"
+  ],
+  "parry": [
+    "To block a blow or avoid a question skillfully.",
+    "擋開；巧妙迴避"
+  ],
+  "penetrate": [
+    "To go into or through.",
+    "穿透；滲透"
+  ],
+  "prowl": [
+    "The act of moving around quietly looking for something.",
+    "徘徊覓食；四處搜尋（on the prowl）"
+  ],
+  "seclusion": [
+    "The state of being private and away from other people.",
+    "隱居；隔絕"
+  ],
+  "secrecy": [
+    "Keeping things secret.",
+    "秘密；保密"
+  ],
+  "solitude": [
+    "The state of being alone.",
+    "獨處；孤獨"
+  ],
+  "unstated": [
+    "Not said directly.",
+    "未明說的"
+  ],
+  "veil": [
+    "To cover or hide; a thin cloth over the face.",
+    "遮蓋；面紗"
   ]
 });

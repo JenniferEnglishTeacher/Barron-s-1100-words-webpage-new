@@ -327,6 +327,135 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他提出了一個房裡沒有人相信的荒謬可笑的說法。",
         "added": true,
         "group": "sat-ignorance"
+      },
+      {
+        "word": "illiterate",
+        "pos": "adj.",
+        "definition": "Unable to read or write.",
+        "chinese": "文盲的；不識字的",
+        "synonyms": "unable to read, uneducated, unlettered",
+        "image": "shield",
+        "sentence": "Many adults in the village were __________.",
+        "translation": "村裡許多成人不識字。",
+        "lookup": {
+          "english": "Unable to read or write.",
+          "chinese": "文盲的；不識字的"
+        },
+        "advSentence": "Many people today are financially illiterate and struggle to manage debt.",
+        "advTranslation": "現今許多人缺乏理財知識，難以管理債務。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "107-cr-jh"
+        ]
+      },
+      {
+        "word": "imbecility",
+        "pos": "n.",
+        "definition": "Extreme stupidity.",
+        "chinese": "愚蠢；低能",
+        "synonyms": "stupidity, idiocy, foolishness",
+        "image": "shield",
+        "sentence": "The __________ of the plan was obvious.",
+        "translation": "這個計畫的愚蠢顯而易見。",
+        "lookup": {
+          "english": "Extreme stupidity.",
+          "chinese": "愚蠢；低能"
+        },
+        "advSentence": "The critic mocked the imbecility of the movie's plot.",
+        "advTranslation": "評論家嘲笑這部電影情節的愚蠢。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh"
+        ]
+      },
+      {
+        "word": "inexperience",
+        "pos": "n.",
+        "definition": "Lack of knowledge or skill from practice.",
+        "chinese": "缺乏經驗",
+        "synonyms": "inexpertness, naivety, greenness",
+        "image": "shield",
+        "sentence": "His mistakes were due to __________.",
+        "translation": "他的錯誤是因為缺乏經驗。",
+        "lookup": {
+          "english": "Lack of knowledge or skill from practice.",
+          "chinese": "缺乏經驗"
+        },
+        "advSentence": "The young coach's inexperience showed in the final minutes of the game.",
+        "advTranslation": "年輕教練的缺乏經驗在比賽最後幾分鐘表露無遺。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-ncu-sh"
+        ]
+      },
+      {
+        "word": "insane",
+        "pos": "adj.",
+        "definition": "Mentally ill; very foolish.",
+        "chinese": "瘋狂的；荒唐的",
+        "synonyms": "crazy, mad, absurd",
+        "image": "shield",
+        "sentence": "It would be __________ to drive in this storm.",
+        "translation": "在這種暴風雨中開車簡直是瘋了。",
+        "lookup": {
+          "english": "Mentally ill; very foolish.",
+          "chinese": "瘋狂的；荒唐的"
+        },
+        "advSentence": "Working three jobs at once seemed insane to her friends.",
+        "advTranslation": "同時做三份工作在她朋友看來簡直瘋狂。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ntpc-jh",
+          "104-cr-jh"
+        ]
+      },
+      {
+        "word": "lunatic",
+        "pos": "adj.",
+        "definition": "Very foolish or crazy.",
+        "chinese": "瘋狂的；愚蠢的",
+        "synonyms": "insane, crazy, foolish",
+        "image": "shield",
+        "sentence": "It was a __________ idea.",
+        "translation": "那是個瘋狂的主意。",
+        "lookup": {
+          "english": "Very foolish or crazy.",
+          "chinese": "瘋狂的；愚蠢的"
+        },
+        "advSentence": "Driving at that speed on a mountain road is lunatic.",
+        "advTranslation": "在山路上開那麼快簡直是瘋了。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-taipei-jh",
+          "115-cmgsh-sh"
+        ]
+      },
+      {
+        "word": "unwittingly",
+        "pos": "adv.",
+        "definition": "Without knowing or intending to.",
+        "chinese": "不知不覺地；無意中",
+        "synonyms": "unknowingly, unintentionally, accidentally",
+        "image": "shield",
+        "sentence": "During a live broadcast of the international summit, the prime minister __________ whispered a derogatory remark about a foreign diplomat, oblivious to the fact that his lapel microphone was still active.",
+        "translation": "在國際高峰會的直播中，首相無意間低聲說了一句貶低某外國外交官的話，完全沒察覺領夾麥克風仍開著。",
+        "lookup": {
+          "english": "Without knowing or intending to.",
+          "chinese": "不知不覺地；無意中"
+        },
+        "advSentence": "Tourists may unwittingly break local customs by pointing with their feet.",
+        "advTranslation": "遊客可能在不知情下用腳指東西而觸犯當地習俗。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-chsh-3-sh",
+          "115-lssh-1-sh"
+        ]
       }
     ],
     "group": "sat-ignorance",
@@ -408,5 +537,29 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "ludicrous": [
     "So foolish or unreasonable as to be laughable.",
     "荒謬可笑的"
+  ],
+  "illiterate": [
+    "Unable to read or write.",
+    "文盲的；不識字的"
+  ],
+  "imbecility": [
+    "Extreme stupidity.",
+    "愚蠢；低能"
+  ],
+  "inexperience": [
+    "Lack of knowledge or skill from practice.",
+    "缺乏經驗"
+  ],
+  "insane": [
+    "Mentally ill; very foolish.",
+    "瘋狂的；荒唐的"
+  ],
+  "lunatic": [
+    "Very foolish or crazy.",
+    "瘋狂的；愚蠢的"
+  ],
+  "unwittingly": [
+    "Without knowing or intending to.",
+    "不知不覺地；無意中"
   ]
 });

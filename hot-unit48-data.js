@@ -363,6 +363,498 @@ window.FLASHCARD_UNITS = {
         "advTranslation": "他對稅法的解釋出奇地易懂,即使對非專業人士來說也是如此。",
         "added": true,
         "group": "sat-clear"
+      },
+      {
+        "word": "appreciable",
+        "pos": "adj.",
+        "definition": "Large enough to be noticed.",
+        "chinese": "可觀的；明顯的",
+        "synonyms": "noticeable, significant, considerable",
+        "image": "shield",
+        "sentence": "There was no __________ difference between the two groups.",
+        "translation": "兩組之間沒有明顯的差異。",
+        "lookup": {
+          "english": "Large enough to be noticed.",
+          "chinese": "可觀的；明顯的"
+        },
+        "advSentence": "The new policy has had an appreciable effect on air quality.",
+        "advTranslation": "新政策對空氣品質產生了顯著的影響。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "109-hccg-jh"
+        ]
+      },
+      {
+        "word": "clarity",
+        "pos": "n.",
+        "definition": "The quality of being clear.",
+        "chinese": "清晰；明確",
+        "synonyms": "clearness, lucidity, precision",
+        "image": "shield",
+        "sentence": "The teacher explained the rule with great __________.",
+        "translation": "老師非常清楚地解釋了這條規則。",
+        "lookup": {
+          "english": "The quality of being clear.",
+          "chinese": "清晰；明確"
+        },
+        "advSentence": "After a long walk, she returned with new clarity about her decision.",
+        "advTranslation": "散步一大圈後，她對自己的決定有了新的清晰想法。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-nhvs-vs"
+        ]
+      },
+      {
+        "word": "concrete",
+        "pos": "adj.",
+        "definition": "Real and specific; made of cement.",
+        "chinese": "具體的；混凝土的",
+        "synonyms": "specific, tangible, definite",
+        "image": "shield",
+        "sentence": "Give __________ examples to support your idea.",
+        "translation": "舉出具體的例子來支持你的想法。",
+        "lookup": {
+          "english": "Real and specific; made of cement.",
+          "chinese": "具體的；混凝土的"
+        },
+        "advSentence": "The workers poured concrete for the foundation of the new library.",
+        "advTranslation": "工人為新圖書館的地基灌注混凝土。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-ntpc-sh",
+          "102-ntpc-vs-ae"
+        ]
+      },
+      {
+        "word": "conspicuity",
+        "pos": "n.",
+        "definition": "The quality of being easy to notice.",
+        "chinese": "顯眼度；醒目性",
+        "synonyms": "visibility, noticeability, prominence",
+        "image": "shield",
+        "sentence": "Bright jackets increase cyclists' __________.",
+        "translation": "鮮豔的外套能提高騎士的醒目程度。",
+        "lookup": {
+          "english": "The quality of being easy to notice.",
+          "chinese": "顯眼度；醒目性"
+        },
+        "advSentence": "Reflective tape improves the conspicuity of trucks at night.",
+        "advTranslation": "反光貼條能提升卡車在夜間的醒目度。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-blsh-sh"
+        ]
+      },
+      {
+        "word": "embody",
+        "pos": "v.",
+        "definition": "To be a clear example of an idea or quality.",
+        "chinese": "體現；具體表現",
+        "synonyms": "represent, personify, symbolize",
+        "image": "shield",
+        "sentence": "The statue is meant to __________ freedom and hope.",
+        "translation": "這座雕像象徵自由。",
+        "lookup": {
+          "english": "To be a clear example of an idea or quality.",
+          "chinese": "體現；具體表現"
+        },
+        "advSentence": "The young volunteers embody the spirit of the community.",
+        "advTranslation": "這些年輕志工體現了社區的精神。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-ntpc-sh",
+          "108-ntpc-vs-ae",
+          "113-klsh-sh"
+        ]
+      },
+      {
+        "word": "epitomize",
+        "pos": "v.",
+        "definition": "To be a perfect example of something.",
+        "chinese": "成為…的典型；集中體現",
+        "synonyms": "typify, embody, exemplify",
+        "image": "shield",
+        "sentence": "She __________s the modern working mother.",
+        "translation": "她是現代職業媽媽的典型。",
+        "lookup": {
+          "english": "To be a perfect example of something.",
+          "chinese": "成為…的典型；集中體現"
+        },
+        "advSentence": "The temple fair epitomizes the lively folk culture of southern Taiwan.",
+        "advTranslation": "廟會集中體現了南臺灣熱鬧的民俗文化。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-taipei-jh",
+          "111-klsh-sh"
+        ]
+      },
+      {
+        "word": "exhibit",
+        "pos": "v.",
+        "definition": "To show a feeling, quality or sign.",
+        "chinese": "表現出；展示",
+        "synonyms": "display, show, demonstrate",
+        "image": "shield",
+        "sentence": "The patient __________d signs of stress.",
+        "translation": "那位病人表現出壓力的徵兆。",
+        "lookup": {
+          "english": "To show a feeling, quality or sign.",
+          "chinese": "表現出；展示"
+        },
+        "advSentence": "The museum will exhibit works by local indigenous artists.",
+        "advTranslation": "博物館將展出在地原住民藝術家的作品。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh",
+          "115-tnssh-sh"
+        ]
+      },
+      {
+        "word": "explicit",
+        "pos": "adj.",
+        "definition": "Stated very clearly, with nothing hidden.",
+        "chinese": "明確的；清楚表達的",
+        "synonyms": "clear, direct, specific",
+        "image": "shield",
+        "sentence": "The teacher gave __________ instructions.",
+        "translation": "老師給了明確的指示。",
+        "lookup": {
+          "english": "Stated very clearly, with nothing hidden.",
+          "chinese": "明確的；清楚表達的"
+        },
+        "advSentence": "The contract makes explicit who is responsible for repairs.",
+        "advTranslation": "合約明確規定由誰負責修繕。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-hsnu-2-sh",
+          "115-sksc-vs",
+          "115-taipei-jh"
+        ]
+      },
+      {
+        "word": "explicitly",
+        "pos": "adv.",
+        "definition": "Clearly and directly.",
+        "chinese": "明確地",
+        "synonyms": "clearly, plainly, directly",
+        "image": "shield",
+        "sentence": "Grammar rules are __________ taught in this course.",
+        "translation": "這門課明確教授文法規則。",
+        "lookup": {
+          "english": "Clearly and directly.",
+          "chinese": "明確地"
+        },
+        "advSentence": "The sign explicitly forbids swimming in the reservoir.",
+        "advTranslation": "告示明確禁止在水庫游泳。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "108-kh-sh"
+        ]
+      },
+      {
+        "word": "exude",
+        "pos": "v.",
+        "definition": "To show a quality or feeling strongly.",
+        "chinese": "散發；流露",
+        "synonyms": "radiate, emanate, ooze",
+        "image": "shield",
+        "sentence": "She __________s confidence.",
+        "translation": "她散發出自信。",
+        "lookup": {
+          "english": "To show a quality or feeling strongly.",
+          "chinese": "散發；流露"
+        },
+        "advSentence": "The old bakery exudes the warm smell of fresh bread every morning.",
+        "advTranslation": "那家老麵包店每天早上都散發出新鮮麵包的溫暖香氣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-klsh-sh",
+          "115-hlgs-sh"
+        ]
+      },
+      {
+        "word": "iconic",
+        "pos": "adj.",
+        "definition": "Very famous and seen as a symbol of something.",
+        "chinese": "代表性的；圖像的",
+        "synonyms": "emblematic, symbolic, famous",
+        "image": "shield",
+        "sentence": "Messaging apps are full of cute __________ images that users love to send.",
+        "translation": "LINE 這類通訊軟體有許多可愛的代表性貼圖。",
+        "lookup": {
+          "english": "Very famous and seen as a symbol of something.",
+          "chinese": "代表性的；圖像的"
+        },
+        "advSentence": "Taipei 101 has become an iconic symbol of Taiwan.",
+        "advTranslation": "臺北 101 已成為臺灣的代表性地標。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-tycg-jh"
+        ]
+      },
+      {
+        "word": "illustrate",
+        "pos": "v.",
+        "definition": "To explain with examples or pictures.",
+        "chinese": "說明；舉例；插圖",
+        "synonyms": "demonstrate, show, depict",
+        "image": "shield",
+        "sentence": "The graph __________s the rise in prices.",
+        "translation": "這張圖表說明了物價的上漲。",
+        "lookup": {
+          "english": "To explain with examples or pictures.",
+          "chinese": "說明；舉例；插圖"
+        },
+        "advSentence": "The teacher used a short story to illustrate the meaning of kindness.",
+        "advTranslation": "老師用一則短篇故事來說明善良的意義。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "102-cr-jh",
+          "108-ntpc-jh"
+        ]
+      },
+      {
+        "word": "legibility",
+        "pos": "n.",
+        "definition": "The quality of being clear enough to read or recognize.",
+        "chinese": "易讀性；清晰度",
+        "synonyms": "readability, clarity, clearness",
+        "image": "shield",
+        "sentence": "Handwriting __________ matters on exams.",
+        "translation": "字跡清晰在考試中很重要。",
+        "lookup": {
+          "english": "The quality of being clear enough to read or recognize.",
+          "chinese": "易讀性；清晰度"
+        },
+        "advSentence": "The designer chose a large font to improve legibility on small screens.",
+        "advTranslation": "設計師選用大字體以提高在小螢幕上的易讀性。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-blsh-sh"
+        ]
+      },
+      {
+        "word": "literal",
+        "pos": "adj.",
+        "definition": "Having the most basic meaning of a word.",
+        "chinese": "字面的",
+        "synonyms": "word-for-word, exact, plain",
+        "image": "shield",
+        "sentence": "The __________ meaning of the idiom is strange.",
+        "translation": "這個成語的字面意思很奇怪。",
+        "lookup": {
+          "english": "Having the most basic meaning of a word.",
+          "chinese": "字面的"
+        },
+        "advSentence": "A literal translation of the poem would lose its beauty.",
+        "advTranslation": "逐字直譯會讓這首詩失去美感。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-ptcg-jh"
+        ]
+      },
+      {
+        "word": "notable",
+        "pos": "adj.",
+        "definition": "Important or interesting.",
+        "chinese": "值得注意的；著名的",
+        "synonyms": "remarkable, noteworthy, prominent",
+        "image": "shield",
+        "sentence": "There are __________ differences between the two.",
+        "translation": "兩者之間有顯著的差異。",
+        "lookup": {
+          "english": "Important or interesting.",
+          "chinese": "值得注意的；著名的"
+        },
+        "advSentence": "The town is notable for its well-preserved Japanese-era buildings.",
+        "advTranslation": "這座小鎮以保存良好的日治時期建築聞名。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "noticeable",
+        "pos": "adj.",
+        "definition": "Easy to see or notice.",
+        "chinese": "顯而易見的",
+        "synonyms": "obvious, visible, marked",
+        "image": "shield",
+        "sentence": "There was a __________ improvement.",
+        "translation": "有了明顯的進步。",
+        "lookup": {
+          "english": "Easy to see or notice.",
+          "chinese": "顯而易見的"
+        },
+        "advSentence": "The difference in air quality was noticeable after the factory closed.",
+        "advTranslation": "工廠關閉後，空氣品質的差異非常明顯。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-south-jh"
+        ]
+      },
+      {
+        "word": "pinpoint",
+        "pos": "v.",
+        "definition": "To find or show the exact position of something.",
+        "chinese": "精確指出",
+        "synonyms": "identify, locate, pin down",
+        "image": "shield",
+        "sentence": "Erhard Loretan, often described as one of the greatest mountaineers of all times, used a compass to __________ his location on a map.",
+        "translation": "常被譽為史上最偉大登山家之一的 Erhard Loretan，用指南針在地圖上精確找出自己的位置。",
+        "lookup": {
+          "english": "To find or show the exact position of something.",
+          "chinese": "精確指出"
+        },
+        "advSentence": "Doctors used a scan to pinpoint the cause of her headaches.",
+        "advTranslation": "醫生用掃描精確找出她頭痛的原因。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "prominence",
+        "pos": "n.",
+        "definition": "The state of being important, well known, or easy to see.",
+        "chinese": "顯著；突出；重要地位",
+        "synonyms": "importance, fame, prominence",
+        "image": "shield",
+        "sentence": "She rose to __________ as a writer.",
+        "translation": "她成為知名作家。",
+        "lookup": {
+          "english": "The state of being important, well known, or easy to see.",
+          "chinese": "顯著；突出；重要地位"
+        },
+        "advSentence": "The issue of food safety gained prominence after the scandal.",
+        "advTranslation": "那起醜聞之後，食品安全議題受到重視。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-blsh-sh"
+        ]
+      },
+      {
+        "word": "radiate",
+        "pos": "v.",
+        "definition": "To send out heat, light, or energy.",
+        "chinese": "輻射；散發",
+        "synonyms": "emit, give off, exude",
+        "image": "shield",
+        "sentence": "She __________s happiness.",
+        "translation": "她散發出幸福的光采。",
+        "lookup": {
+          "english": "To send out heat, light, or energy.",
+          "chinese": "輻射；散發"
+        },
+        "advSentence": "Heat radiates from the stone walls long after sunset.",
+        "advTranslation": "日落後很久，石牆仍持續散發熱氣。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-cr-jh"
+        ]
+      },
+      {
+        "word": "resounding",
+        "pos": "adj.",
+        "definition": "Very great, clear, or emphatic.",
+        "chinese": "明確的；響亮的",
+        "synonyms": "emphatic, decisive, loud",
+        "image": "shield",
+        "sentence": "The plan was a __________ success.",
+        "translation": "這個計畫獲得空前的成功。",
+        "lookup": {
+          "english": "Very great, clear, or emphatic.",
+          "chinese": "明確的；響亮的"
+        },
+        "advSentence": "The voters gave a resounding \"no\" to the nuclear plant.",
+        "advTranslation": "選民對核電廠投下壓倒性的反對票。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "115-fyhs-2-sh"
+        ]
+      },
+      {
+        "word": "scrutable",
+        "pos": "adj.",
+        "definition": "Able to be understood by careful study.",
+        "chinese": "可理解的；可解讀的",
+        "synonyms": "understandable, comprehensible, decipherable",
+        "image": "shield",
+        "sentence": "His motives were not easily __________.",
+        "translation": "他的動機不容易看透。",
+        "lookup": {
+          "english": "Able to be understood by careful study.",
+          "chinese": "可理解的；可解讀的"
+        },
+        "advSentence": "Clear headings make a long report more scrutable for busy readers.",
+        "advTranslation": "清楚的標題讓忙碌的讀者更容易理解長篇報告。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh"
+        ]
+      },
+      {
+        "word": "strikingly",
+        "pos": "adv.",
+        "definition": "In a way that is very noticeable.",
+        "chinese": "顯著地；驚人地",
+        "synonyms": "remarkably, noticeably, notably",
+        "image": "shield",
+        "sentence": "The two sisters look __________ similar.",
+        "translation": "這兩姊妹長得驚人地相似。",
+        "lookup": {
+          "english": "In a way that is very noticeable.",
+          "chinese": "顯著地；驚人地"
+        },
+        "advSentence": "The new museum is strikingly modern compared with the old buildings around it.",
+        "advTranslation": "跟周圍的老建築相比，新博物館顯得格外現代。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "103-moe-sh"
+        ]
+      },
+      {
+        "word": "understandably",
+        "pos": "adv.",
+        "definition": "In a way that is easy to understand.",
+        "chinese": "可理解地",
+        "synonyms": "naturally, reasonably, of course",
+        "image": "shield",
+        "sentence": "She was __________ upset.",
+        "translation": "她難過是可以理解的。",
+        "lookup": {
+          "english": "In a way that is easy to understand.",
+          "chinese": "可理解地"
+        },
+        "advSentence": "Understandably, parents were worried when the school bus was late.",
+        "advTranslation": "校車遲到時，家長擔心是可以理解的。",
+        "added": true,
+        "source": "tk",
+        "exams": [
+          "113-nhsh-1-sh"
+        ]
       }
     ],
     "group": "sat-clear",
@@ -452,5 +944,97 @@ window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {
   "comprehensible": [
     "Able to be understood.",
     "可理解的;易懂的"
+  ],
+  "appreciable": [
+    "Large enough to be noticed.",
+    "可觀的；明顯的"
+  ],
+  "clarity": [
+    "The quality of being clear.",
+    "清晰；明確"
+  ],
+  "concrete": [
+    "Real and specific; made of cement.",
+    "具體的；混凝土的"
+  ],
+  "conspicuity": [
+    "The quality of being easy to notice.",
+    "顯眼度；醒目性"
+  ],
+  "embody": [
+    "To be a clear example of an idea or quality.",
+    "體現；具體表現"
+  ],
+  "epitomize": [
+    "To be a perfect example of something.",
+    "成為…的典型；集中體現"
+  ],
+  "exhibit": [
+    "To show a feeling, quality or sign.",
+    "表現出；展示"
+  ],
+  "explicit": [
+    "Stated very clearly, with nothing hidden.",
+    "明確的；清楚表達的"
+  ],
+  "explicitly": [
+    "Clearly and directly.",
+    "明確地"
+  ],
+  "exude": [
+    "To show a quality or feeling strongly.",
+    "散發；流露"
+  ],
+  "iconic": [
+    "Very famous and seen as a symbol of something.",
+    "代表性的；圖像的"
+  ],
+  "illustrate": [
+    "To explain with examples or pictures.",
+    "說明；舉例；插圖"
+  ],
+  "legibility": [
+    "The quality of being clear enough to read or recognize.",
+    "易讀性；清晰度"
+  ],
+  "literal": [
+    "Having the most basic meaning of a word.",
+    "字面的"
+  ],
+  "notable": [
+    "Important or interesting.",
+    "值得注意的；著名的"
+  ],
+  "noticeable": [
+    "Easy to see or notice.",
+    "顯而易見的"
+  ],
+  "pinpoint": [
+    "To find or show the exact position of something.",
+    "精確指出"
+  ],
+  "prominence": [
+    "The state of being important, well known, or easy to see.",
+    "顯著；突出；重要地位"
+  ],
+  "radiate": [
+    "To send out heat, light, or energy.",
+    "輻射；散發"
+  ],
+  "resounding": [
+    "Very great, clear, or emphatic.",
+    "明確的；響亮的"
+  ],
+  "scrutable": [
+    "Able to be understood by careful study.",
+    "可理解的；可解讀的"
+  ],
+  "strikingly": [
+    "In a way that is very noticeable.",
+    "顯著地；驚人地"
+  ],
+  "understandably": [
+    "In a way that is easy to understand.",
+    "可理解地"
   ]
 });

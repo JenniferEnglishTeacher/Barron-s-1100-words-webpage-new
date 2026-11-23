@@ -1,0 +1,140 @@
+fictitious [L54 adj. 虛構的] :: We are very interested in the source of the rumors, though knowing they are absolutely fictitious .
+illusive [L54 adj. 虛幻的；迷惑人的] :: Fame proved to be illusive.
+mimic [L54 v. 模仿] NEED_S1 :: The parrot kept mimicking my voice.
+mirage [L54 n. 海市蜃樓] :: Under the relentless desert sun, Gloria thought she saw water shimmering in the distance, but it was actually a(n) mirage, caused by the refraction of light in the heated air.
+myth [L54 n. 神話；迷思] :: It's a myth that goldfish have three-second memories.
+phantasm [L54 n. 幻象；幻影] :: He saw phantasms in the fog.
+purportedly [L54 adv. 據稱；號稱] :: The letter was purportedly written by the king.
+quack [L54 n. 庸醫；江湖郎中] :: The quack sold fake medicine.
+replicate [L54 v. 複製；重現] :: Scientists failed to replicate the results.
+semblance [L54 n. 外表；表象；些許] :: The once-thriving industrial town became a semblance of its former self after the primary manufacturing plant relocated overseas.
+supposedly [L54 adv. 據說；據稱] :: The house is supposedly haunted.
+synthetic [L54 adj. 合成的；人造的] :: Nylon is a synthetic fiber.
+inviolate [L55 adj. 不受侵犯的] :: The right to privacy should be inviolate.
+justifiably [L55 adv. 合理地；有正當理由地] :: She is justifiably proud of her work.
+legitimacy [L55 n. 正當性；合法性] :: They questioned the legitimacy of the election.
+legitimize [L55 v. 使合法化；使正當化] :: The vote legitimized the new government.
+redeem [L55 v. 彌補；贖回；兌換] :: He redeemed himself with a great goal.
+assiduity [L56 n. 勤勉；刻苦] :: She prepared for the exam with great assiduity.
+productive [L56 adj. 有生產力的；有成效的] :: We had a productive meeting.
+productively [L56 adv. 有成效地] :: In spite of the fast development of technology, machines should be designed to make people work more productively instead of replacing them.
+toil [L56 v. 辛勞工作] :: Farmers toiled in the fields.
+disregard [L57 v. 忽視；不理會] :: He disregarded the doctor's advice.
+goldbrick [L57 v. 偷懶；裝病逃避工作] :: Instead of completing his assignments, he decided to goldbrick by pretending to be ill to avoid work.
+negligence [L57 n. 疏忽；過失] :: The accident was caused by negligence.
+truancy [L57 n. 逃學；曠課] :: Since Johnny had no proper reason for missing school, his absence should be treated as truancy.
+truant [L57 n. 逃學者；曠課者] :: The school called the truant's parents.
+chateau [L58 n. （法國）城堡；莊園] :: They stayed at a chateau in the Loire Valley.
+magnate [L58 n. 大亨；巨頭] :: He became a shipping magnate.
+palatial [L58 adj. 宮殿般的；富麗堂皇的] :: They live in a palatial house.
+privilege [L58 n. 特權；榮幸] :: It's a privilege to work here.
+profitable [L58 adj. 有利潤的] :: The business is very profitable.
+absence [L59 n. 缺乏；不在] :: The absence of clean water made the village vulnerable to disease.
+burden [L59 n. 負擔；重擔] :: Rising rent is a heavy burden on young workers.
+burdensome [L59 adj. 繁重的；負擔沉重的] :: The new tax rules are burdensome for small firms.
+deficit [L59 n. 赤字；不足額] :: The country has a huge budget deficit.
+devoid [L59 adj. 完全沒有的] :: The desert is almost devoid of life.
+impoverish [L59 v. 使貧窮] :: War impoverished the country.
+insolvency [L59 n. 無力償債；破產] NEED_S1 :: During the pandemic period, the number of insolvencies in the real estate sector more than tripled last year.
+insolvent [L59 adj. 無力償債的；破產的] :: He was required to declare himself a(n) insolvent debtor, to detail all of his debts, and to hold goods valued at no more than $20.
+insufficient [L59 adj. 不足的] :: There is insufficient evidence.
+meagre [L59 adj. 微薄的] :: He lived on a meagre salary.
+scant [L59 adj. 不足的；極少的] :: He paid scant attention to the warning.
+consistency [L60 n. 一致性；稠度] :: Consistency is the key to learning a language.
+cradle-to-grave [L60 adj. 從生到死的；終身的] :: Some countries provide cradle-to-grave welfare.
+durability [L60 n. 耐久性] :: Other desirable qualities of concrete, the only building material that can be delivered to the job site in a pliable state, include its strength, economy, and durability.
+entrench [L60 v. 使根深柢固；確立] :: Bad habits become entrenched over time.
+etch [L60 v. 蝕刻；銘刻] :: With each delicate stroke of the brush, the artist etched beauty onto the blank canvas before him. Colors danced and merged, forming intricate patterns that seemed to come alive under his skilled hand.
+eternity [L60 n. 永恆] :: The wait seemed like an eternity.
+immortal [L60 adj. 不朽的；永生的] :: Shakespeare's works are immortal.
+invariant [L60 adj. 不變的；恆定的] :: The speed of light is invariant.
+irreversible [L60 adj. 不可逆的] :: As negotiations now advance in the Trump-Kim summit, there is only one acceptable final outcome: complete, verifiable, irreversible denuclearization.
+long-lasting [L60 adj. 持久的] :: The drug has long-lasting effects.
+self-perpetuating [L60 adj. 自我延續的；自行持續下去的] :: It is generally acknowledged that the system of bureaucracy has become a self-perpetuating machine.
+stability [L60 n. 穩定（性）] :: Children need stability at home.
+stabilization [L60 n. 穩定化] :: Price stabilization is a government goal.
+stabilize [L60 v. 使穩定] :: The patient's condition has stabilized.
+unceasing [L60 adj. 不停的；持續的] :: The unceasing rain flooded the roads.
+uninterrupted [L60 adj. 不間斷的] :: I need an hour of uninterrupted work.
+abolitionist [L61 n. 廢奴主義者；廢除論者] :: In the years before the Civil War, those who opposed slavery, the abolitionists, were a small, impotent minority.
+contravention [L61 n. 違反；違背] :: The factory acted in contravention of safety law.
+countermand [L61 v. 撤銷（命令）] :: The general countermanded the order to attack.
+defiance [L61 n. 違抗；蔑視] :: In defiance of the ban, they held the protest.
+defy [L61 v. 違抗；藐視] NEED_S1 :: The beauty of the scene defies description.
+deviance [L61 n. 偏差行為；越軌] :: Sociologists study social deviance.
+deviant [L61 adj. 偏離常規的；異常的] :: Deviant behavior often leads to punishment.
+liberate [L61 v. 解放] :: The city was liberated in 1945.
+overstep [L61 v. 逾越] NEED_S1 :: He overstepped his authority.
+rebel [L61 v. 反叛；造反] :: Teenagers often rebel against their parents.
+recalcitrance [L61 n. 頑抗；不服從] :: The child's recalcitrance frustrated his teacher.
+rioter [L61 n. 暴徒] :: During the looting, the rioters stole everything they could and then set fire to the buildings.
+subversion [L61 n. 顛覆] :: Big changes often start with acts that looked pointless at the time: small acts of resistance, bold acts of defiance, subtle acts of subversion, even witty acts of disobedience.
+subversive [L61 adj. 顛覆性的] :: The book was banned as subversive.
+unwillingly [L61 adv. 不情願地] :: He unwillingly agreed.
+violate [L61 v. 違反；侵犯] :: The company violated safety laws.
+allegiance [L62 n. 忠誠；效忠] :: As an Englishman who'd lived for a long time in Spain, he felt a certain conflict of allegiances when the two countries played soccer.
+attachment [L62 n. 依戀；附著] :: Young children form a strong attachment to their parents.
+dedication [L62 n. 奉獻；專注] :: Her dedication to her students is admirable.
+patriotism [L62 n. 愛國心] :: The song inspired patriotism.
+sympathizer [L62 n. 同情者；支持者] :: He was a sympathizer of the movement.
+betray [L63 v. 背叛；出賣] :: He felt betrayed when his friend revealed his secret.
+breach [L63 n. 違反；破口] :: The data breach exposed millions of passwords.
+deserter [L63 n. 逃兵；背棄者] :: The deserter was caught and punished.
+desertion [L63 n. 遺棄；擅離職守] :: Desertion from the army was punished by death.
+treacherous [L63 adj. 危險的；背叛的] :: The inclement weather made the expedition even more treacherous, but all the crew members agreed to continue their journey instead of taking a rest.
+treason [L63 n. 叛國罪] :: He was executed for treason.
+enlighten [L64 v. 啟發；開導] :: The lecture enlightened us about climate science.
+enlightenment [L64 n. 啟蒙；開化] :: Buddhists seek spiritual enlightenment.
+internalize [L64 v. 內化] :: Students internalize rules through practice.
+knowledgeable [L64 adj. 知識淵博的] :: The guide was knowledgeable about local history.
+literate [L64 adj. 識字的] :: Digital literate students can judge online sources.
+retention [L64 n. 保留；保持] :: Spaced practice improves retention.
+scholarly [L64 adj. 有學問的；學術的] :: She wrote a scholarly article.
+worldly [L64 adj. 世故的；世俗的] :: She is worldly and well-traveled.
+illiterate [L65 adj. 文盲的；不識字的] :: Many adults in the village were illiterate.
+imbecility [L65 n. 愚蠢；低能] :: The imbecility of the plan was obvious.
+inexperience [L65 n. 缺乏經驗] :: His mistakes were due to inexperience.
+insane [L65 adj. 瘋狂的；荒唐的] :: It would be insane to drive in this storm.
+lunatic [L65 adj. 瘋狂的；愚蠢的] :: It was a lunatic idea.
+unwittingly [L65 adv. 不知不覺地；無意中] :: During a live broadcast of the international summit, the prime minister unwittingly whispered a derogatory remark about a foreign diplomat, oblivious to the fact that his lapel microphone was still active.
+disbelief [L66 n. 不相信；懷疑] :: She stared at the test score in disbelief.
+incredulity [L66 n. 懷疑；不相信] :: She stared at him in incredulity.
+leery [L66 adj. 存疑的；提防的] :: Investors are leery of risky stocks.
+paranoid [L66 adj. 多疑的；偏執的] :: He became paranoid about his privacy.
+refutable [L66 adj. 可駁斥的] :: A scientific claim must be refutable.
+superstitious [L66 adj. 迷信的] :: Many athletes are superstitious.
+suspicious [L66 adj. 懷疑的；可疑的] :: Police found a suspicious package.
+unconvinced [L66 adj. 不相信的；存疑的] :: The judge remained unconvinced.
+unreliable [L66 adj. 不可靠的] :: Because the witness had altered her testimony multiple times, and could not provide consistent details, her account was deemed unreliable by the jury.
+irrefutable [L67 adj. 無可辯駁的] :: The evidence was irrefutable.
+tenet [L67 n. 信條；原則] :: Equality is a key tenet of democracy.
+unassailable [L67 adj. 無懈可擊的] :: Her argument was unassailable.
+unassailably [L67 adv. 無懈可擊地] :: The team is unassailably ahead.
+undebatable [L67 adj. 無可爭辯的] :: His talent is undebatable.
+bless [L68 v. 祝福；保佑] :: They felt blessed to have such good neighbors.
+odds [L68 n. 機率；可能性] :: Against all odds, they won.
+unscathed [L68 adj. 毫髮無傷的] :: She escaped the crash unscathed.
+windfall [L68 n. 意外之財] :: The lottery win was a windfall.
+aftermath [L69 n. 後果；餘波] :: Many families lost their homes in the aftermath of the flood.
+avalanche [L69 n. 雪崩] :: Three hikers were buried by an avalanche.
+blaze [L69 n. 烈火；火焰] :: Firefighters fought the blaze for six hours.
+brink [L69 n. 邊緣] :: The species is on the brink of extinction.
+calamitous [L69 adj. 災難性的] :: New words are born, old words die, and rarely-used words are launched into the spotlight by calamitous events, medical breakthroughs, or even new trends in music or fashion.
+casualty [L69 n. 傷亡者] NEED_S1 :: The earthquake caused heavy casualties.
+dystopia [L69 n. 反烏托邦] :: The novel describes a dystopia ruled by machines.
+forebode [L69 v. 預示（凶兆）] :: The dark clouds foreboded a storm.
+misfortune [L69 n. 不幸] :: She had the misfortune to lose her job.
+outbreak [L69 n. 爆發] :: There was an outbreak of flu.
+perdition [L69 n. 毀滅；地獄] :: Greed led him to perdition.
+portend [L69 v. 預示；預兆] :: Dark clouds portend a storm.
+portentously [L69 adv. 不祥地；故作嚴肅地] :: He spoke portentously about the future.
+severe [L69 adj. 嚴重的；嚴峻的] :: The storm caused severe damage.
+throes [L69 n. 劇痛；掙扎（death throes 垂死掙扎）] :: The country was in the throes of revolution.
+toll [L69 n. 傷亡人數；通行費] :: The death toll rose to fifty.
+traumatic [L69 adj. 造成創傷的] :: If you've gone through a(n) traumatic experience, you may be struggling with upsetting emotions, frightening memories, or a sense of constant danger.
+traumatize [L69 v. 使受創傷] :: The accident traumatized her.
+verge [L69 n. 邊緣] :: She was on the verge of tears.
+agility [L70 n. 敏捷；靈活] :: The gymnast showed remarkable agility on the beam.
+expeditious [L70 adj. 迅速有效率的] :: We appreciate your expeditious reply.
+feverishly [L70 adv. 狂熱地；拼命地] :: Electric vehicles have had a lot of publicity recently, and nearly all major automakers are now feverishly working on electric models.
+lusty [L70 adj. 精力充沛的；強健的] :: The baby gave a lusty cry.
