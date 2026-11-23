@@ -1240,3 +1240,22 @@ body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-d
 .syn-chip.hot-link.ant:hover { background: #8a3b2d; border-color: #8a3b2d; color: #fff; }
 .syn-chip.hot-more, .syn-chip.hot-also { text-decoration: none; color: #4b5e2a; background: #eef4e4; border-color: #c5d6a8; font-weight: 700; padding: 2px 9px; }
 .wt-added { font-style: normal; font-size: 9px; color: #d7a936; margin-right: 3px; vertical-align: .2em; }
+
+/* 2026-11-23: Zone 7 — SAT 難度詞彙題, teal accent */
+:root { --sq: #0f766e; --sq-dark: #115e59; --sq-soft: #e6f6f4; }
+.zone-tabs { grid-template-columns: repeat(7, minmax(0, 1fr)); }
+@media (max-width: 1600px) { .zone-tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (max-width: 1100px) { .zone-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) { .zone-tabs { grid-template-columns: 1fr; } }
+.zone-satq .zone-num { color: var(--sq-dark); }
+.zone-satq.active { border-color: var(--sq); background: var(--sq-soft); }
+.zone-satq.active .zone-num { background: var(--sq); color: #fff; }
+.satq-group { margin: 0 0 18px; }
+.satq-level { margin: 0 0 8px; padding-bottom: 4px; border-bottom: 2px solid rgba(15,118,110,.35); color: var(--sq-dark); font-size: 19px; }
+.satq-level span { margin-left: 6px; color: var(--muted); font-size: 14px; font-weight: 600; }
+.satq-chips { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 8px; }
+.satq-chip { display: flex; flex-direction: column; padding: 10px 12px; border: 1px solid rgba(15,118,110,.3); border-radius: 10px; background: #fff; color: var(--sq-dark); text-decoration: none; }
+.satq-chip:hover { background: var(--sq-soft); border-color: var(--sq); }
+.satq-chip small { color: var(--muted); font-size: 12px; }
+.satq-chip.started { background: #fffbea; }
+.satq-chip.done { background: #ecfdf3; border-color: #16a34a; }

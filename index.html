@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261117mk">
+  <link rel="stylesheet" href="styles.css?v=20261123sq">
 </head>
 <body><div class="site-crosslink" style="background:#fff8e1;border-bottom:1px solid #f0d58a;"><a href="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,"Noto Sans TC",sans-serif;color:#7a4b00;text-decoration:none;">🔗 前往 SAT Vocabulary Studio（字根・字首・Digital SAT 文法與模擬測驗） →</a></div><div class="site-crosslink" style="background:#e8f1ff;border-bottom:1px solid #b9cdf3;"><a href="teacher-exam/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,&quot;Noto Sans TC&quot;,sans-serif;color:#1d4ed8;text-decoration:none;">📝 前往 中等教育英文教師甄試 選擇題練習（國中・高中・高職） →</a></div>
   <main class="app-shell board-shell">
@@ -38,6 +38,10 @@
       <button class="zone-tab zone-mk" type="button" role="tab" data-zone="mk" aria-controls="zone-mk">
         <span class="zone-num">6</span>
         <span class="zone-text"><strong>SAT Must-Know 306 + 386</strong><small id="mkCount">30 units · 587 words</small></span>
+      </button>
+      <button class="zone-tab zone-satq" type="button" role="tab" data-zone="satq" aria-controls="zone-satq">
+        <span class="zone-num">7</span>
+        <span class="zone-text"><strong>SAT 難度詞彙題</strong><small id="satqCount">Vocabulary in Context</small></span>
       </button>
     </nav>
 
@@ -105,6 +109,13 @@
       <p class="roots-search-note" id="rootsSearchNote" aria-live="polite"></p>
       <div class="roots-groups" id="rootsGroups"></div>
     </section>
+    <section class="zone-panel" id="zone-satq" role="tabpanel" aria-label="SAT-level vocabulary questions" hidden>
+      <div class="zone-head">
+        <h2>SAT 難度詞彙題 <span id="satqHead">Vocabulary in Context</span></h2>
+        <p>Single-sentence vocabulary questions from past Taiwan English-teacher selection exams, close to Digital SAT <i>Words in Context</i> difficulty. Hover a highlighted SAT word for its meaning and sound; double-click to open its flashcard. 選自歷屆教甄單句字彙題，難度近 Digital SAT；滑過 SAT 單字看解釋、點兩下開字卡，答錯自動進錯題本。 <a href="sat-level/wrong.html">錯題本 →</a></p>
+      </div>
+      <div id="board-satq"></div>
+    </section>
   </main>
   <script src="dashboard-data.js?v=20261111zh"></script>
   <script src="hot-dashboard-data.js?v=20261123tk"></script>
@@ -113,6 +124,7 @@
   <script src="mk-dashboard-data.js?v=20261117mk"></script>
   <script src="roots-sets.js?v=20261110s"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261117mk"></script>
+  <script src="sat-level/data/exams.js?v=1"></script>
+  <script src="dashboard.js?v=20261123sq"></script>
 </body>
 </html>

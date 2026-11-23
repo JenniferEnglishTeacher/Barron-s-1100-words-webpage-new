@@ -77,7 +77,7 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots"];
+const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots", "satq"];
 let zone = "barrons";
 
 function setZone(next, push = true) {
@@ -424,3 +424,32 @@ buildBoard("mk");
 refresh();
 setZone(location.hash.slice(1) || "barrons", false);
 loadBatches();
+
+// ---------- Zone 7: SAT 難度詞彙題 (sets of teacher-exam vocabulary MCQs → sat-level/exam.html) ----------
+(function renderSatq() {
+  const list = window.TK_EXAM_LIST || [];
+  const tiers = window.SATQ_TIERS || [];
+  const wrap = document.querySelector("#board-satq");
+  if (!wrap || !list.length) return;
+  let prog = {};
+  try { prog = JSON.parse(localStorage.getItem("satq-progress")) || {}; } catch (e) { prog = {}; }
+  const total = list.reduce((n, x) => n + x.count, 0);
+  document.querySelector("#satqCount").textContent = `${list.length} sets · ${total.toLocaleString()} Qs`;
+  document.querySelector("#satqHead").textContent = `${total.toLocaleString()} questions · ${list.length} sets × 20 · 3 levels`;
+  tiers.forEach((t, ti) => {
+    const group = document.createElement("div");
+    group.className = "satq-group";
+    group.innerHTML = `<h3 class="satq-level">${t[0]} <span>${t[1]}</span></h3><div class="satq-chips"></div>`;
+    const chips = group.querySelector(".satq-chips");
+    list.filter(x => x.tier === ti).forEach(x => {
+      const done = Object.keys(prog[x.id] || {}).length;
+      const a = document.createElement("a");
+      a.className = "satq-chip" + (done >= x.count ? " done" : done ? " started" : "");
+      a.href = `sat-level/exam.html?id=${x.id}`;
+      a.title = x.sample.join(", ") + " …";
+      a.innerHTML = `<strong>Set ${x.set}</strong><small>${done ? `${done}/${x.count} 已答` : `${x.count} 題`}</small>`;
+      chips.append(a);
+    });
+    wrap.append(group);
+  });
+})();

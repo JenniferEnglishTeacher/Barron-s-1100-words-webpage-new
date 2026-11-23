@@ -1,0 +1,5 @@
+.tk-srcline{margin:.4em 0 0;font-size:.78rem;color:#8a8f98}
+.sq-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px;margin-bottom:1.4em}
+.sq-set{display:flex;flex-direction:column;gap:2px}
+.sq-sample{font-size:.8rem;color:#6b7280;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sq-set.is-complete{border-color:#16a34a;background:#f0fdf4}
