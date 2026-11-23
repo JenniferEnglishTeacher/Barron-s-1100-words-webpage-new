@@ -5,7 +5,7 @@ window.TK_EXAMS["115-hsnu-sh"]={
  "level": "高中",
  "title": "國立臺灣師大附中 115 學年度第 1 次教師甄選　英文科",
  "part": "Part One: Choice Questions（第 1–30 題）",
- "note": "非官方答案，由 Claude 作答。第 II 大題原卷題號 1–10，本頁改為 21–30。Part Two 非選（克漏字與閱讀命題、題組設計、翻譯）不在此頁。",
+ "note": "試題：學校公告原卷。答案：取自轉載題本末頁 Answer key（雲端資料夾，非學校公告原檔）。第 II 大題原卷題號 1–10，本頁改為 21–30。Part Two 非選（克漏字與閱讀命題、題組設計、翻譯）不在此頁。",
  "source": "https://www.hs.ntnu.edu.tw/",
  "official": false,
  "groups": [
@@ -121,8 +121,7 @@ window.TK_EXAMS["115-hsnu-sh"]={
      "n": 6,
      "stem": "",
      "opts": [],
-     "ans": "A",
-     "note": "有爭議"
+     "ans": "C"
     },
     {
      "n": 7,
@@ -146,8 +145,7 @@ window.TK_EXAMS["115-hsnu-sh"]={
      "n": 10,
      "stem": "",
      "opts": [],
-     "ans": "J",
-     "note": "有爭議"
+     "ans": "A"
     }
    ]
   },
@@ -346,7 +344,7 @@ window.TK_EXAMS["115-hsnu-sh"]={
      "n": 21,
      "stem": "",
      "opts": [],
-     "ans": "B"
+     "ans": "H"
     },
     {
      "n": 22,
@@ -364,8 +362,7 @@ window.TK_EXAMS["115-hsnu-sh"]={
      "n": 24,
      "stem": "",
      "opts": [],
-     "ans": "G",
-     "note": "有爭議"
+     "ans": "G"
     },
     {
      "n": 25,
