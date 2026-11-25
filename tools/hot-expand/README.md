@@ -12,3 +12,8 @@ lesson dropdown and the "SAT 同義字 / 反義字" chips on the card back.
 the lesson files and rewrites hot-words.js / hot-dashboard-data.js (both carry a one-time fix for saved review-list keys, see
 `prune-map.json`). Always run prune.py after build.py, then bump `?v=`.
 - After any rebuild here, run `python3 tools/hot-level/build.py` (基礎/進階 levels + MCQ choices).
+
+## Hand-built synonym-group lessons (126+, 2026-11-25)
+`tools/hot-extra/lesson<N>.json` + `python3 tools/hot-extra/build.py` (then tools/hot-level/build.py, bump `?v=`).
+Lesson 126 Stirring Up and Unsettling 煽動與擾亂 (agitate, foment, perturb…) ↔ antonym lessons 5 Calming and Soothing, 41 Calm and Composure.
+If tools/hot-expand/build.py is ever rerun, run tools/hot-extra/build.py again afterwards so lesson 126's meta and the back-links stay.

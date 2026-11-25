@@ -5,6 +5,7 @@ Rules (Jennifer, 2026-11-25):
   Lessons 1-35 (book lessons): Core = the book's own Hot Words (cards without "added"); Advanced = ★ added synonyms + ◆ 教甄 words.
   Lessons 36-92 (SAT synonym groups): Core = the group's original SAT words (not "added") + Must-Know 306/386 words
                                        + book Hot Words; Advanced = the later ★/◆ additions.
+  Lessons 126+ (hand-built SAT synonym groups, tools/hot-extra): same rule as 36-92.
   Lessons 93-125 (◆ topic lessons): Core = Must-Know / book Hot Words, or everyday-academic words (wordfreq Zipf >= 3.4);
                                      Advanced = the rarer rest.
 Only Core words are listed, so a word added to a lesson later is Advanced until this script runs again.
@@ -34,6 +35,10 @@ for n in range(1, 31):
 N = lesson_count()
 lessons = {n: list(load_units(os.path.join(ROOT, f"hot-unit{n}-data.js")).values())[0]["cards"] for n in range(1, N + 1)}
 book = {c["word"].lower() for n in range(1, 36) for c in lessons[n] if not c.get("added")}
+_s = open(os.path.join(ROOT, "hot-words.js"), encoding="utf8").read()
+_meta = json.JSONDecoder().raw_decode(_s[_s.index("{", _s.index("window.HOT_LESSON_META")):])[0]
+# hand-built SAT synonym-group lessons (tools/hot-extra, 126+) follow the lessons 36-92 rule
+SYN_GROUP = {int(k) for k, m in _meta.items() if int(k) > 125 and str(m.get("group", "")).startswith("sat-")}
 
 core, stats = {}, {"core": 0, "adv": 0}
 for n, cards in lessons.items():
@@ -42,7 +47,7 @@ for n, cards in lessons.items():
         w = c["word"].lower()
         if n <= 35:
             ok = not c.get("added")
-        elif n <= 92:
+        elif n <= 92 or n in SYN_GROUP:
             ok = not c.get("added") or w in mk or w in book
         else:
             ok = w in mk or w in book or zipf_frequency(w, "en") >= ZIPF_CORE
@@ -83,6 +88,8 @@ opts, made, short = {}, 0, []
 for n, cards in lessons.items():
     away = {n, *META.get(str(n), {}).get("antonymLessons", [])}
     away |= {int(L) for L, m in META.items() if n in m.get("antonymLessons", [])}
+    away |= set(META.get(str(n), {}).get("mcqAvoid", []))
+    away |= {int(L) for L, m in META.items() if n in m.get("mcqAvoid", [])}
     lo = {}
     for c in cards:
         w = c["word"].lower()

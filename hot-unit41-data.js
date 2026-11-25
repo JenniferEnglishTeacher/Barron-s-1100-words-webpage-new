@@ -368,7 +368,8 @@ window.FLASHCARD_UNITS = {
     ],
     "group": "sat-calm",
     "antonymLessons": [
-      40
+      40,
+      126
     ]
   }
 };
