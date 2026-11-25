@@ -1259,3 +1259,23 @@ body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-d
 .satq-chip small { color: var(--muted); font-size: 12px; }
 .satq-chip.started { background: #fffbea; }
 .satq-chip.done { background: #ecfdf3; border-color: #16a34a; }
+
+/* Zone 8 易混淆字 Confusables (board) */
+:root { --cf: #b4235a; --cf-dark: #8a1745; --cf-soft: #fdeef4; }
+.zone-cf .zone-num { color: var(--cf-dark); }
+.zone-cf.active { border-color: var(--cf); background: var(--cf-soft); }
+.zone-cf.active .zone-num { background: var(--cf); color: #fff; }
+.cf-level { color: var(--cf-dark); border-bottom-color: rgba(180,35,90,.35); }
+.cf-chip { color: var(--cf-dark); border-color: rgba(180,35,90,.3); }
+.cf-chip:hover { background: var(--cf-soft); border-color: var(--cf); }
+.cf-chip em { margin-top: 2px; color: var(--muted); font-size: 12px; font-style: normal; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cf-hits[hidden] { display: none; }
+.cf-hits { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; padding: 12px; border: 1px dashed rgba(180,35,90,.4); border-radius: 12px; background: #fff; }
+.cf-hits a { display: flex; flex-direction: column; padding: 8px 12px; border: 1px solid rgba(180,35,90,.3); border-radius: 10px; color: var(--cf-dark); text-decoration: none; }
+.cf-hits a small { color: var(--muted); }
+.cf-hits a:hover { background: var(--cf-soft); }
+/* 易混淆字 chip on every flashcard */
+.cf-link-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 6px; }
+.cf-link-row .syn-label { color: var(--cf-dark); }
+.cf-link-chip { padding: 3px 9px; border: 1px solid rgba(180,35,90,.35); border-radius: 999px; background: var(--cf-soft); color: var(--cf-dark); font-size: 13px; font-weight: 700; text-decoration: none; }
+.cf-link-chip:hover { background: #fbd9e6; }

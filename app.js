@@ -567,7 +567,7 @@ function renderSatRelations(card) {
 }
 
 function renderSynonyms(card) {
-  if (SET === "roots") { renderWordParts(card); renderSatRelations(card); if (els.synonyms.children.length > 1) els.synonyms.hidden = false; return; }
+  if (SET === "roots") { renderWordParts(card); renderSatRelations(card); renderCfLink(card); if (els.synonyms.children.length > 1) els.synonyms.hidden = false; return; }
   const words = String(card.synonyms || "").split(/\s*[,;]\s*/).map(w => w.trim()).filter(Boolean);
   const label = document.createElement("span");
   label.className = "syn-label";
@@ -620,6 +620,28 @@ function renderSynonyms(card) {
   }
   if (SET === "hot" && window.HOT_LESSON_META?.[state.unit]?.group) renderHotGroup(card);
   else renderSatRelations(card);
+  renderCfLink(card);
+}
+
+// ---------- 易混淆字 (Zone 8): link a card to its confusable group(s) (cf-index.js) ----------
+function renderCfLink(card) {
+  const hits = (window.CF_INDEX || {})[String(card.word).toLowerCase().replace(/\s*\(.*?\)\s*/g, " ").trim()];
+  if (!hits || !hits.length) return;
+  const row = document.createElement("span");
+  row.className = "cf-link-row";
+  const head = document.createElement("span");
+  head.className = "syn-label";
+  head.textContent = "⚠ 易混淆字 Confusables:";
+  row.append(head, ...hits.map(([n, gid, name]) => {
+    const a = document.createElement("a");
+    a.className = "cf-link-chip";
+    a.href = `cf-unit${n}.html#g=${gid}`;
+    a.textContent = name;
+    a.title = "開啟易混淆字對照卡";
+    a.addEventListener("click", event => event.stopPropagation());
+    return a;
+  }));
+  els.synonyms.append(row);
 }
 
 // Roots sets: show the word's etymology note and its prefix/root group where other books show synonyms.

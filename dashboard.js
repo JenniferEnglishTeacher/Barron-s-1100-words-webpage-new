@@ -77,7 +77,7 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots", "satq"];
+const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots", "satq", "cf"];
 let zone = "barrons";
 
 function setZone(next, push = true) {
@@ -332,6 +332,7 @@ clearBtn.addEventListener("click", () => {
 function applySearch(scroll = true) {
   const q = search.value.trim().toLowerCase();
   if (zone === "roots") { filterBatches(q); return; }
+  if (zone === "cf") { filterCf(q); return; }
   const panel = document.querySelector(`#zone-${zone}`);
   panel.querySelectorAll(".board-word").forEach(btn => {
     btn.classList.toggle("dim", Boolean(q) && !btn.textContent.toLowerCase().includes(q));
@@ -448,6 +449,51 @@ loadBatches();
       a.href = `sat-level/exam.html?id=${x.id}`;
       a.title = x.sample.join(", ") + " …";
       a.innerHTML = `<strong>Set ${x.set}</strong><small>${done ? `${done}/${x.count} 已答` : `${x.count} 題`}</small>`;
+      chips.append(a);
+    });
+    wrap.append(group);
+  });
+})();
+
+// ---------- Zone 8: 易混淆字 Confusables (24 units by type → cf-unitN.html) ----------
+function filterCf(q) {
+  const hits = document.querySelector("#cfSearchHits");
+  if (!hits) return;
+  const idx = window.CF_INDEX || {}, meta = window.CF_META || [], types = window.CF_TYPES || [];
+  if (!q) { hits.hidden = true; hits.replaceChildren(); return; }
+  const found = Object.keys(idx).filter(w => w.includes(q)).sort((a, b) => (b.startsWith(q) - a.startsWith(q)) || a.localeCompare(b)).slice(0, 30);
+  hits.hidden = false;
+  if (!found.length) { hits.textContent = "沒有找到這個字的易混淆組。"; return; }
+  hits.replaceChildren(...found.flatMap(w => idx[w].map(([n, gid, name]) => {
+    const m = meta.find(x => x.n === n) || {}, t = (types.find(x => x[0] === m.type) || [, ""])[1];
+    const a = document.createElement("a");
+    a.href = `cf-unit${n}.html#g=${gid}`;
+    a.innerHTML = `<strong>${name}</strong><small>${t} U${m.local}</small>`;
+    return a;
+  })));
+}
+(function renderCf() {
+  const wrap = document.querySelector("#board-cf");
+  const meta = window.CF_META || [], types = window.CF_TYPES || [];
+  if (!wrap || !meta.length) return;
+  let prog = {};
+  try { prog = JSON.parse(localStorage.getItem("cf-progress")) || {}; } catch (e) { prog = {}; }
+  const groups = meta.reduce((n, m) => n + m.count, 0);
+  document.querySelector("#cfCount").textContent = `${meta.length} units · ${groups} groups`;
+  document.querySelector("#cfHead").textContent = `${groups} groups · ${meta.length} units × 10 · 4 types`;
+  const DESC = { A: "長得像、意思不同", B: "看字根字首會誤會真正意思", C: "常見字的 SAT 僻義", D: "常被用錯、寫錯的字" };
+  types.forEach(([code, name, en]) => {
+    const group = document.createElement("div");
+    group.className = "satq-group cf-group";
+    group.innerHTML = `<h3 class="satq-level cf-level">${name} <span>${en} · ${DESC[code] || ""}</span></h3><div class="satq-chips"></div>`;
+    const chips = group.querySelector(".satq-chips");
+    meta.filter(m => m.type === code).forEach(m => {
+      const best = prog[m.n];
+      const a = document.createElement("a");
+      a.className = "satq-chip cf-chip" + (best >= 80 ? " done" : best != null ? " started" : "");
+      a.href = `cf-unit${m.n}.html`;
+      a.title = m.sample.join(" · ") + " …";
+      a.innerHTML = `<strong>U${m.local}</strong><small>${best != null ? `最佳 ${best}%` : `${m.count} 組`}</small><em>${m.sample[0]}</em>`;
       chips.append(a);
     });
     wrap.append(group);
