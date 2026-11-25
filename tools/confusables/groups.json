@@ -1892,7 +1892,7 @@
  },
  {
   "type": "A",
-  "name": "indigent/indignant/indigenous",
+  "name": "indigent/indignant/indigenous/indignity/indict/indiscriminate/indispensable/diligent",
   "words": [
    {
     "word": "indigent",
@@ -1929,11 +1929,71 @@
     "tr": "早在外來伐木者到來前，原住民社群已永續管理這片森林數百年。",
     "lvl": 1,
     "src": "Barron's U16；Hot Words L30；字根字首 U105"
+   },
+   {
+    "word": "indignity",
+    "pos": "n.",
+    "def_": "treatment that makes someone feel ashamed or lose self-respect",
+    "zh": "侮辱；有失尊嚴的對待",
+    "syn": "humiliation, insult, disgrace",
+    "ant": "honor, respect",
+    "sent": "Prisoners complained about the indignity of being searched in front of visitors.",
+    "tr": "囚犯抱怨在訪客面前被搜身是一種侮辱。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "indict",
+    "pos": "v.",
+    "def_": "to formally charge with a serious crime",
+    "zh": "起訴；控告",
+    "syn": "charge, accuse, prosecute",
+    "ant": "acquit, exonerate",
+    "sent": "A grand jury voted to indict the mayor on charges of bribery.",
+    "tr": "大陪審團投票決定以賄賂罪起訴市長。",
+    "lvl": 3,
+    "src": "Barron's U20；字根字首 U43"
+   },
+   {
+    "word": "indiscriminate",
+    "pos": "adj.",
+    "def_": "done without careful choice; random",
+    "zh": "不加選擇的；任意的",
+    "syn": "random, unselective, wholesale",
+    "ant": "selective, discriminating",
+    "sent": "The indiscriminate use of antibiotics has helped bacteria become resistant to them.",
+    "tr": "濫用抗生素已使細菌產生抗藥性。",
+    "lvl": 2,
+    "src": "Barron's U1；Hot Words L81；字根字首 U39"
+   },
+   {
+    "word": "indispensable",
+    "pos": "adj.",
+    "def_": "absolutely necessary",
+    "zh": "不可或缺的",
+    "syn": "essential, vital, crucial",
+    "ant": "unnecessary, dispensable",
+    "sent": "A reliable water supply is indispensable to any farm in a dry region.",
+    "tr": "可靠的水源對乾燥地區的任何農場都不可或缺。",
+    "lvl": 2,
+    "src": "Hot Words L82"
+   },
+   {
+    "word": "diligent",
+    "pos": "adj.",
+    "def_": "working hard and carefully",
+    "zh": "勤勉的；勤奮的",
+    "syn": "industrious, assiduous, hardworking",
+    "ant": "lazy, negligent",
+    "sent": "Thanks to years of diligent practice, the pianist could play the difficult piece from memory.",
+    "tr": "多年勤奮練習，這位鋼琴家能憑記憶彈奏這首難曲。",
+    "lvl": 2,
+    "src": "Hot Words L56；306/386 U9；字根字首 U178"
    }
   ],
-  "tip_zh": "indigent 貧困（in need）；indignant 憤慨（dignity 尊嚴受辱）；indigenous 本土原生（genous 出生於此）",
-  "tip_en": "indigent = poor; indignant = angry at injustice; indigenous = native",
-  "trap": "三字都是 indig- 開頭，閱讀時極易看錯。",
+  "tip_zh": "indigent 貧困（in need）；indignant 憤慨（dignity 尊嚴受辱 → 生氣）；indignity 侮辱（n.，讓人失去 dignity 的對待）；indigenous 本土原生（genous 出生於此）；indict 起訴（c 不發音，唸 in-DITE）；indiscriminate 不加選擇的；indispensable 不可或缺的（dispense 分掉 → 不能少）；diligent 勤奮的（開頭不是 in-）",
+  "tip_en": "indigent = poor; indignant = angry at injustice; indignity = humiliating treatment; indigenous = native; indict = charge with a crime; indiscriminate = random, unselective; indispensable = essential; diligent = hardworking",
+  "trap": "八字都以 indi- 開頭或長得很像：indignant 是形容詞「憤慨」，indignity 是名詞「侮辱」；indigent 和 diligent 只差開頭兩個字母；indict 的 c 不發音。",
   "score": 2.3333333333333335,
   "unit": "形近字 U5",
   "id": "形近-044",

@@ -83,7 +83,7 @@
     const head = el("header", "cf-card-head", `<span class="cf-id">${esc(g.id)}</span><h2>${esc(g.name)}</h2>${sb(g.words.map(w => w.w).filter((x, i, a) => a.indexOf(x) === i).join(", "), "Listen to all")}`);
     const tip = el("div", "cf-tip", `<p class="zh"><span>分辨口訣</span>${esc(g.tipZh)}</p><p class="en"><span>Tip</span>${esc(g.tipEn)}</p>`);
     const trap = el("p", "cf-trap", `<span>⚠ 陷阱</span>${esc(g.trap)}`);
-    const grid = el("div", "cf-grid cols" + g.words.length);
+    const grid = el("div", "cf-grid cols" + Math.min(g.words.length, 5));
     g.words.forEach(w => grid.append(wordCol(w, g)));
     card.append(head, tip, trap, grid);
     return card;
