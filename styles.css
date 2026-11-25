@@ -1303,3 +1303,12 @@ body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-d
 .quiz-mode button { border: 1px solid var(--hot, #b8541a); background: #fff; color: var(--hot-dark, #8a3c10); border-radius: 999px; padding: 5px 12px; font: inherit; font-size: .9rem; cursor: pointer; }
 .quiz-mode button.on { background: var(--hot, #b8541a); color: #fff; }
 .word-row[hidden] { display: none !important; }
+/* ★ 只考星號字 (MCQ on every unit / lesson / set page) */
+.quiz-star { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0 0 12px; }
+.quiz-star button { border: 1px solid #c9a227; background: #fff; color: #7a5c00; border-radius: 999px; padding: 5px 12px; font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer; }
+.quiz-star button b { margin-left: 2px; }
+.quiz-star button.on { background: #c9a227; border-color: #c9a227; color: #fff; }
+.quiz-star-note { font-size: .88rem; color: #7a5c00; }
+.mini-star { flex: none; padding: 4px 9px; border-radius: 8px; background: #c9a227; color: #fff !important; font-size: 12.5px; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.mini-star:hover { filter: brightness(1.08); text-decoration: underline; }
+.mini-star[hidden] { display: none; }

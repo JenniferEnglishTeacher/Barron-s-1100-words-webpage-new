@@ -369,8 +369,8 @@ window.FLASHCARD_UNITS = {
             "text": "eminent"
           }
         ],
-        "answer": "B",
-        "answerWord": "indiscriminate"
+        "answer": "C",
+        "answerWord": "steeped"
       },
       {
         "number": 3,
@@ -417,8 +417,8 @@ window.FLASHCARD_UNITS = {
             "text": "replete"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "D",
+        "answerWord": "replete"
       },
       {
         "number": 5,
@@ -441,8 +441,8 @@ window.FLASHCARD_UNITS = {
             "text": "voracious"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "B",
+        "answerWord": "indiscriminate"
       },
       {
         "number": 6,
@@ -489,8 +489,8 @@ window.FLASHCARD_UNITS = {
             "text": "implore"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "A",
+        "answerWord": "prognosticate"
       },
       {
         "number": 8,
@@ -513,8 +513,8 @@ window.FLASHCARD_UNITS = {
             "text": "paradox"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "D",
+        "answerWord": "paradox"
       },
       {
         "number": 9,
@@ -537,8 +537,8 @@ window.FLASHCARD_UNITS = {
             "text": "automaton"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "D",
+        "answerWord": "automaton"
       },
       {
         "number": 10,
@@ -561,8 +561,8 @@ window.FLASHCARD_UNITS = {
             "text": "tinge"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "B",
+        "answerWord": "realm"
       },
       {
         "number": 11,
@@ -585,8 +585,8 @@ window.FLASHCARD_UNITS = {
             "text": "tinge"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "A",
+        "answerWord": "annals"
       },
       {
         "number": 12,
@@ -609,8 +609,8 @@ window.FLASHCARD_UNITS = {
             "text": "implore"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "B",
+        "answerWord": "compound"
       },
       {
         "number": 13,
@@ -633,8 +633,8 @@ window.FLASHCARD_UNITS = {
             "text": "abode"
           }
         ],
-        "answer": "C",
-        "answerWord": "annals"
+        "answer": "A",
+        "answerWord": "tinge"
       },
       {
         "number": 14,
@@ -657,8 +657,8 @@ window.FLASHCARD_UNITS = {
             "text": "drudgery"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "D",
+        "answerWord": "drudgery"
       },
       {
         "number": 15,
@@ -681,8 +681,8 @@ window.FLASHCARD_UNITS = {
             "text": "prognosticate"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "C",
+        "answerWord": "badger"
       },
       {
         "number": 16,
@@ -705,8 +705,8 @@ window.FLASHCARD_UNITS = {
             "text": "compound"
           }
         ],
-        "answer": "C",
-        "answerWord": "badger"
+        "answer": "B",
+        "answerWord": "implore"
       },
       {
         "number": 17,
@@ -729,8 +729,8 @@ window.FLASHCARD_UNITS = {
             "text": "eminent"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "C",
+        "answerWord": "interminable"
       },
       {
         "number": 18,
@@ -753,8 +753,8 @@ window.FLASHCARD_UNITS = {
             "text": "automaton"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "A",
+        "answerWord": "abode"
       },
       {
         "number": 19,
@@ -777,8 +777,8 @@ window.FLASHCARD_UNITS = {
             "text": "prognosticate"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "A",
+        "answerWord": "perceive"
       },
       {
         "number": 20,
@@ -801,8 +801,8 @@ window.FLASHCARD_UNITS = {
             "text": "technology"
           }
         ],
-        "answer": "",
-        "answerWord": ""
+        "answer": "D",
+        "answerWord": "technology"
       }
     ]
   }

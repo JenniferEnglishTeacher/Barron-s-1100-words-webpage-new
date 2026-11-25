@@ -407,6 +407,7 @@ function toggleRootsReview(realIndex) {
     if (SET === "roots") localStorage.setItem(ROOTS_REVIEW_CARDS, JSON.stringify(details));
   } catch (error) { /* private mode: nothing to save */ }
   renderWordList();
+  if (starOnly) renderQuiz();
 }
 
 function renderRootsWordList() {
@@ -478,7 +479,7 @@ function renderRootsWordList() {
 
 // The board or another card page changed the review list: refresh the stars.
 window.addEventListener("storage", event => {
-  if (event.key === REVIEW_KEY) renderRootsWordList();
+  if (event.key === REVIEW_KEY) { renderRootsWordList(); if (starOnly) renderQuiz(); }
 });
 
 function renderWordList() {
@@ -784,7 +785,7 @@ function hotQuiz() {
   const index = window.HOT_INDEX || {};
   const list = [];
   cards().forEach(card => {
-    if (!inLevel(card)) return;
+    if (!starOnly && !inLevel(card)) return;
     const hand = hotQuizMode === "cz" && own.find(q => (q.answerWord || "").toLowerCase() === card.word.toLowerCase());
     if (hand) { list.push(hand); return; }
     const wrong = wrongs[card.word];
@@ -820,16 +821,62 @@ function renderQuizHead() {
   seg.querySelectorAll("button").forEach(b => b.classList.toggle("on", b.dataset.mode === hotQuizMode));
 }
 
+// ★ 只考星號字: the MCQ keeps only the words of this unit/lesson/set that are on the review list
+// (☆ in the word list here, or clicked red on the board — the same list).
+let starOnly = new URLSearchParams(location.search).get("star") === "1";
+function starredWords() {
+  const saved = new Set(readStore(REVIEW_KEY, []));
+  return new Set(cards().filter((card, i) => saved.has(rootsKey(i))).map(card => card.word.toLowerCase()));
+}
+function renderStarBar(starredCount) {
+  let bar = els.quizSection.querySelector(".quiz-star");
+  if (!bar) {
+    bar = document.createElement("div");
+    bar.className = "quiz-star";
+    [["0", "全部題目 All"], ["1", "★ 只考星號字 Starred only"]].forEach(([v, label]) => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.dataset.star = v;
+      b.dataset.label = label;
+      b.addEventListener("click", () => {
+        starOnly = v === "1";
+        const url = new URL(location.href);
+        if (starOnly) url.searchParams.set("star", "1"); else url.searchParams.delete("star");
+        history.replaceState(null, "", url);
+        renderQuiz();
+      });
+      bar.append(b);
+    });
+    const note = document.createElement("span");
+    note.className = "quiz-star-note";
+    bar.append(note);
+    els.quizSection.querySelector(".quiz-heading").insertAdjacentElement("afterend", bar);
+  }
+  bar.querySelectorAll("button").forEach(b => {
+    b.classList.toggle("on", (b.dataset.star === "1") === starOnly);
+    b.innerHTML = b.dataset.star === "1" ? `${b.dataset.label} <b>${starredCount}</b>` : b.dataset.label;
+  });
+  bar.querySelector(".quiz-star-note").textContent = starOnly && !starredCount
+    ? "這一組還沒有星號字：在單字表點 ☆（或在 Board 點單字變紅）就會加入。"
+    : starOnly ? "只出你標了 ★ 的字" : "";
+}
+
 function renderQuiz() {
-  const quiz = hasLevels ? hotQuiz() : units[state.unit].quiz || [];
+  let quiz = hasLevels ? hotQuiz() : units[state.unit].quiz || [];
   if (hasLevels && els.quizSection) renderQuizHead();
   if (!els.quizSection || !els.quizList || !els.quizScore) return;
-  els.quizSection.hidden = quiz.length === 0;
+  const starred = starredWords();
+  const total = quiz.length;
+  const starredQuiz = quiz.filter(q => starred.has(String(q.answerWord || "").toLowerCase()));
+  if (starOnly) quiz = starredQuiz;
+  renderStarBar(starred.size);
+  els.quizSection.hidden = total === 0 && !starOnly;
+  if (starOnly && hasLevels) els.quizSection.querySelector(".quiz-heading h2").textContent = "MCQ Practice · ★ 星號字";
   els.quizList.replaceChildren();
 
   let correctCount = 0;
   quiz.forEach((question, index) => {
-    const key = hasLevels ? `${state.unit}-${hotLevel}-${hotQuizMode}-${question.answerWord}` : `${state.unit}-${index}`;
+    const key = hasLevels ? `${state.unit}-${hotQuizMode}-${question.answerWord}` : `${state.unit}-${question.answerWord || index}`;
     const selected = state.quizAnswers[key];
     const answered = Boolean(selected);
     if (selected === question.answer) correctCount += 1;

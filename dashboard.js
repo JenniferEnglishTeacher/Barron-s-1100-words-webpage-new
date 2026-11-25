@@ -166,6 +166,7 @@ function buildBoard(book) {
         <div class="unit-actions">
           <a class="mini-cards" href="${cfg.page(u.unit)}"${lvAttr(cfg.page(u.unit))}>🗂 Flashcards</a>
           <a class="mini-quiz" href="${quizHref}"${quizAttrs}${lvAttr(quizHref)}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
+          <a class="mini-star" href="${cfg.page(u.unit)}?star=1#quiz" title="只考這一組標了紅色／★ 的字 Quiz only your starred words" hidden>★ 考星號字 <b></b></a>
         </div>
       </div>${isHot ? `<p class="lv-count"></p>` : ""}`;
     if (u.level) {
@@ -296,6 +297,14 @@ function toggleWord(key) {
 function refresh() {
   const set = new Set(marked);
   document.querySelectorAll(".board-word").forEach(btn => btn.classList.toggle("marked", set.has(btn.dataset.key)));
+  // ★ 考星號字: each unit / lesson shows a quiz link for just its marked words.
+  document.querySelectorAll(".unit-block").forEach(block => {
+    const link = block.querySelector(".mini-star");
+    if (!link) return;
+    const n = block.querySelectorAll(".board-word.marked").length;
+    link.hidden = n === 0;
+    link.querySelector("b").textContent = n;
+  });
   countEl.textContent = marked.length;
   // Zone 3 set chips show how many of their words are on the review list.
   const perSet = {};
