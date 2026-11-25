@@ -39,7 +39,7 @@ def cards_for(word):
 
 # ---------- inflection of cloze options (answer form in the sentence -> same form for the others) ----------
 IRREG = {"forbear": "forbore"}
-DOUBLE = {"infer": "inferred", "demur": "demurred"}
+DOUBLE = {"infer": "inferred", "demur": "demurred", "oversee": "oversaw"}
 
 
 def past(b):
@@ -114,19 +114,20 @@ for code, tname, ten in TYPES:
                 for w in g["words"]:  # 例句選對字: options = the group's words, in the sentence's form
                     tok = find_token(w["word"], w["sent"])
                     kind = form_of(tok, w["word"])
-                    opts = [cap(inflect(o["word"], o["pos"], kind) if o is not w else tok.lower(), tok) for o in g["words"]]
+                    mem = [o for o in g["words"] if o is w or o["word"] not in w.get("ex", [])]   # near-synonyms that would also fit are left out
+                    opts = [cap(tok.lower() if o is w else inflect(o["word"], o["pos"], kind), tok) for o in mem]
                     blank = re.sub(r"\b" + re.escape(tok) + r"\b", "_____", w["sent"], count=1)
                     qs.append({"k": "cz", "w": w["word"], "q": blank, "full": w["sent"], "t": w["tr"],
-                               "o": opts, "a": [o["word"] for o in g["words"]].index(w["word"])})
+                               "o": opts, "oh": [o["word"] for o in mem], "a": mem.index(w)})
                 for w in g["words"]:  # 判斷真意: options = meanings of the group's words (+ fillers to reach 4)
-                    opts = [meaning(o) for o in g["words"]]
-                    fill = [x for x in pool if x["word"] not in [o["word"] for o in g["words"]] and x["pos"][:1] == w["pos"][:1]]
+                    mem = [o for o in g["words"] if o is w or o["word"] not in w.get("ex", [])]
+                    opts = [meaning(o) for o in mem]
+                    fill = [x for x in pool if x["word"] not in [o["word"] for o in g["words"]] and x["word"] not in w.get("ex", []) and x["pos"][:1] == w["pos"][:1]]
                     rng.shuffle(fill)
                     for x in fill:
                         if len(opts) >= 4: break
                         if meaning(x) not in opts: opts.append(meaning(x))
-                    qs.append({"k": "tm", "w": w["word"], "q": w["word"], "pos": w["pos"], "o": opts,
-                               "a": [o["word"] for o in g["words"]].index(w["word"])})
+                    qs.append({"k": "tm", "w": w["word"], "q": w["word"], "pos": w["pos"], "o": opts, "a": mem.index(w)})
             else:
                 common, sat = g["words"]
                 opts = [meaning(sat), meaning(common)]

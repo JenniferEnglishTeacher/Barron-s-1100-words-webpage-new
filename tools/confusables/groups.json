@@ -1,7 +1,7 @@
 [
  {
   "type": "A",
-  "name": "notable/notorious",
+  "name": "notable/notorious/notional",
   "words": [
    {
     "word": "notable",
@@ -26,11 +26,23 @@
     "tr": "這個路口以車禍頻傳惡名遠播，市府終於裝了紅綠燈。",
     "lvl": 1,
     "src": "字根字首 U204"
+   },
+   {
+    "word": "notional",
+    "pos": "adj.",
+    "def_": "existing only as an idea or in theory",
+    "zh": "概念上的；名義上的",
+    "syn": "theoretical, hypothetical, nominal",
+    "ant": "actual, real",
+    "sent": "The plan's savings are only notional, since no one has tested whether the new system actually works.",
+    "tr": "這個計畫省下的錢只是理論上的，因為沒人測試過新系統是否真的可行。",
+    "lvl": 3,
+    "src": "306/386 U19；字根字首 U204"
    }
   ],
-  "tip_zh": "notable 值得注意（好或中性）；notorious 惡名昭彰（-ious 臭名遠播）",
-  "tip_en": "notable = remarkable; notorious = famous for something bad",
-  "trap": "兩字都含 not（知道），notorious 常被誤用為「有名的」正面意思。",
+  "tip_zh": "notable 值得注意（好或中性）；notorious 惡名昭彰（-ious 臭名遠播）；notional 概念上的、紙上的（notion 想法）",
+  "tip_en": "notable = remarkable; notorious = famous for something bad; notional = existing only in theory",
+  "trap": "兩字都含 not（知道），notorious 常被誤用為「有名的」正面意思。notional 也以 not- 開頭，卻是「只在理論上」。",
   "score": 1.0,
   "unit": "形近字 U1",
   "id": "形近-001",
@@ -185,7 +197,7 @@
  },
  {
   "type": "A",
-  "name": "sober/somber",
+  "name": "sober/somber/somnolent",
   "words": [
    {
     "word": "sober",
@@ -210,11 +222,23 @@
     "tr": "追悼會氣氛陰沉，天空灰濛濛的，弔唁者默默站著。",
     "lvl": 2,
     "src": "Barron's U33；Hot Words L42；字根字首 U65"
+   },
+   {
+    "word": "somnolent",
+    "pos": "adj.",
+    "def_": "sleepy; causing sleep",
+    "zh": "昏昏欲睡的；催眠的",
+    "syn": "drowsy, sleepy, soporific",
+    "ant": "alert, wakeful",
+    "sent": "The somnolent hum of the old fan made it hard for students to stay awake after lunch.",
+    "tr": "老電扇催眠般的嗡嗡聲，讓學生午飯後很難保持清醒。",
+    "lvl": 4,
+    "src": "VA U29；字根字首 U223"
    }
   ],
-  "tip_zh": "sober 沒喝酒、頭腦清醒；somber 多了 m，想成 mourning（哀悼）→ 陰沉憂鬱",
-  "tip_en": "sober = not drunk, clear-headed; somber has an extra M for \"mourning\" → dark and gloomy",
-  "trap": "兩字只差一個 m，又都帶「嚴肅」的味道，學生常把 somber 當成 sober 的拼法變體。",
+  "tip_zh": "sober 沒喝酒、頭腦清醒；somber 多了 m，想成 mourning（哀悼）→ 陰沉憂鬱；somnolent 昏昏欲睡（somn 睡眠，像 insomnia 失眠）",
+  "tip_en": "sober = not drunk, clear-headed; somber has an extra M for \"mourning\" → dark and gloomy; somnolent = sleepy (somn = sleep)",
+  "trap": "兩字只差一個 m，又都帶「嚴肅」的味道，學生常把 somber 當成 sober 的拼法變體。somnolent 也以 som- 開頭，但字根 somn 是「睡眠」，和 somber 的陰沉不同。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-005",
@@ -222,7 +246,7 @@
  },
  {
   "type": "A",
-  "name": "contiguous/contagious",
+  "name": "contiguous/contagious/conspicuous",
   "words": [
    {
     "word": "contiguous",
@@ -247,11 +271,23 @@
     "tr": "她的笑聲極具感染力，不久全場觀眾也跟著大笑。",
     "lvl": 1,
     "src": "Hot Words L94"
+   },
+   {
+    "word": "conspicuous",
+    "pos": "adj.",
+    "def_": "easy to see or notice",
+    "zh": "顯眼的；引人注目的",
+    "syn": "noticeable, obvious, prominent",
+    "ant": "inconspicuous, hidden",
+    "sent": "Wearing a bright red coat at the funeral, she was conspicuous among the mourners in black.",
+    "tr": "她在葬禮上穿著鮮紅外套，在一身黑衣的弔唁者中十分顯眼。",
+    "lvl": 2,
+    "src": "Hot Words L48；306/386 U6；字根字首 U15"
    }
   ],
-  "tip_zh": "contiguous 相鄰的（contact 接觸邊界）；contagious 傳染的（-gious 像 germs 病菌）",
-  "tip_en": "contiguous = touching, adjacent; contagious = spreading by contact",
-  "trap": "字形相近且都有「接觸」概念，但一個講位置，一個講傳染。",
+  "tip_zh": "contiguous 相鄰的（contact 接觸邊界）；contagious 傳染的（-gious 像 germs 病菌）；conspicuous 顯眼的（spic 看 → 很容易被看到）",
+  "tip_en": "contiguous = touching, adjacent; contagious = spreading by contact; conspicuous = easy to see",
+  "trap": "字形相近且都有「接觸」概念，但一個講位置，一個講傳染。conspicuous 同樣是 con-…-uous 結構，常和 contiguous 一起出現在選項。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-006",
@@ -259,7 +295,7 @@
  },
  {
   "type": "A",
-  "name": "venerable/vulnerable",
+  "name": "venerable/vulnerable/veritable",
   "words": [
    {
     "word": "venerable",
@@ -284,11 +320,23 @@
     "tr": "嬰兒免疫系統尚未健全，特別容易受到感染。",
     "lvl": 1,
     "src": "Barron's U24,28；字根字首 U234"
+   },
+   {
+    "word": "veritable",
+    "pos": "adj.",
+    "def_": "real; used to emphasize a description",
+    "zh": "真正的；名副其實的",
+    "syn": "genuine, real, true",
+    "ant": "fake, so-called",
+    "sent": "After the rain, the dry valley became a veritable garden of wildflowers.",
+    "tr": "雨後，乾燥的山谷成了名副其實的野花花園。",
+    "lvl": 2,
+    "src": "Hot Words L55；306/386 U30；字根字首 U146"
    }
   ],
-  "tip_zh": "venerable 德高望重（venerate 尊敬）；vulnerable 脆弱易受傷（vulner 傷口）",
-  "tip_en": "venerable = respected for age; vulnerable = easily hurt",
-  "trap": "字形相似，學生常把 venerable 看成 vulnerable；一個受尊敬，一個易受傷。",
+  "tip_zh": "venerable 德高望重（venerate 尊敬）；vulnerable 脆弱易受傷（vulner 傷口）；veritable 名副其實的（veri 真實，像 verify）",
+  "tip_en": "venerable = respected for age; vulnerable = easily hurt; veritable = real, true",
+  "trap": "字形相似，學生常把 venerable 看成 vulnerable；一個受尊敬，一個易受傷。veritable 也是 ve-…-able，但 veri 是「真實」，不是「尊敬」。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-007",
@@ -296,7 +344,7 @@
  },
  {
   "type": "A",
-  "name": "immunity/impunity",
+  "name": "immunity/impunity/immutable",
   "words": [
    {
     "word": "immunity",
@@ -321,11 +369,23 @@
     "tr": "由於沒人執法，污染者肆無忌憚地把廢棄物倒進河裡。",
     "lvl": 2,
     "src": "Barron's U5；VA U28；字根字首 U37"
+   },
+   {
+    "word": "immutable",
+    "pos": "adj.",
+    "def_": "unchanging; impossible to change",
+    "zh": "不可改變的",
+    "syn": "unchangeable, fixed, permanent",
+    "ant": "changeable, mutable",
+    "sent": "The laws of physics are often described as immutable, the same everywhere in the universe.",
+    "tr": "物理定律常被形容為不可改變的，在宇宙各處都相同。",
+    "lvl": 3,
+    "src": "Hot Words L60；VA U33；字根字首 U36,38,157"
    }
   ],
-  "tip_zh": "immunity 免疫、豁免（immune）；impunity 不受懲罰（punish 被免除）",
-  "tip_en": "immunity = protection; impunity = freedom from punishment",
-  "trap": "只差 m／p，常在「with impunity（逍遙法外）」片語中被誤用。",
+  "tip_zh": "immunity 免疫、豁免（immune）；impunity 不受懲罰（punish 被免除）；immutable 不可改變的（mut 改變，像 mutation）",
+  "tip_en": "immunity = protection; impunity = freedom from punishment; immutable = unchangeable",
+  "trap": "只差 m／p，常在「with impunity（逍遙法外）」片語中被誤用。immutable 也以 imm- 開頭，三字都和「免除」或「不變」有關，容易一起被混淆。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-008",
@@ -333,7 +393,7 @@
  },
  {
   "type": "A",
-  "name": "intimate/intimidate",
+  "name": "intimate/intimidate/intricate",
   "words": [
    {
     "word": "intimate",
@@ -358,11 +418,23 @@
     "tr": "幫派企圖恐嚇證人，讓沒人敢出庭作證。",
     "lvl": 2,
     "src": "Barron's U4；Hot Words L30；字根字首 U44"
+   },
+   {
+    "word": "intricate",
+    "pos": "adj.",
+    "def_": "very detailed and complicated",
+    "zh": "錯綜複雜的；精細的",
+    "syn": "complex, elaborate, detailed",
+    "ant": "simple, plain",
+    "sent": "The watchmaker spent weeks assembling the intricate gears inside the tiny clock.",
+    "tr": "鐘錶匠花了數週組裝小鐘裡精細複雜的齒輪。",
+    "lvl": 1,
+    "src": "306/386 U16；字根字首 U44"
    }
   ],
-  "tip_zh": "intimate (adj.) 親密，(v.) 暗示；intimidate 恐嚇（timid 害怕 → 讓人膽怯）",
-  "tip_en": "intimate = close / to hint; intimidate = frighten",
-  "trap": "intimidate 看起來像 intimate 加長版，其實核心是 timid（膽小）。",
+  "tip_zh": "intimate (adj.) 親密，(v.) 暗示；intimidate 恐嚇（timid 害怕 → 讓人膽怯）；intricate 錯綜複雜的（tric 像 trick 繞來繞去）",
+  "tip_en": "intimate = close / to hint; intimidate = frighten; intricate = complicated",
+  "trap": "intimidate 看起來像 intimate 加長版，其實核心是 timid（膽小）。intricate 和 intimate 只差 tric／tim，閱讀時要看清楚。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-009",
@@ -370,7 +442,7 @@
  },
  {
   "type": "A",
-  "name": "extant/extent",
+  "name": "extant/extent/extinct",
   "words": [
    {
     "word": "extant",
@@ -395,11 +467,23 @@
     "tr": "科學家仍在評估漏油造成損害的完整範圍。",
     "lvl": 1,
     "src": "Hot Words L106"
+   },
+   {
+    "word": "extinct",
+    "pos": "adj.",
+    "def_": "no longer existing",
+    "zh": "滅絕的；已熄滅的",
+    "syn": "vanished, dead, defunct",
+    "ant": "extant, living",
+    "sent": "The dodo became extinct in the 1600s, soon after sailors arrived on its island.",
+    "tr": "渡渡鳥在水手登島後不久，於 1600 年代滅絕。",
+    "lvl": 1,
+    "src": "Barron's U30；字根字首 U29"
    }
   ],
-  "tip_zh": "extant 現存的（ant 像 still standing 還在）；extent 範圍程度（extend 延伸）",
-  "tip_en": "extant = still existing; extent = degree, range",
-  "trap": "發音相近，常被誤寫。extant 是形容詞，extent 是名詞。",
+  "tip_zh": "extant 現存的（ant 像 still standing 還在）；extent 範圍程度（extend 延伸）；extinct 滅絕的，正好是 extant 的反義",
+  "tip_en": "extant = still existing; extent = degree, range; extinct = no longer existing (opposite of extant)",
+  "trap": "發音相近，常被誤寫。extant 是形容詞，extent 是名詞。extinct 與 extant 長得像、意思相反，常被放在同一題。",
   "score": 1.5,
   "unit": "形近字 U1",
   "id": "形近-010",
@@ -407,7 +491,7 @@
  },
  {
   "type": "A",
-  "name": "disparate/desperate",
+  "name": "disparate/desperate/disparage",
   "words": [
    {
     "word": "disparate",
@@ -432,11 +516,23 @@
     "tr": "極度缺水的健行者喝了明知可能不安全的溪水。",
     "lvl": 1,
     "src": "Hot Words L42"
+   },
+   {
+    "word": "disparage",
+    "pos": "v.",
+    "def_": "to speak of as having little value",
+    "zh": "貶低；輕視",
+    "syn": "belittle, denigrate, deprecate",
+    "ant": "praise, extol",
+    "sent": "Rather than disparage his rivals' work, the scientist praised what he had learned from it.",
+    "tr": "這位科學家沒有貶低對手的研究，反而稱讚自己從中學到的東西。",
+    "lvl": 3,
+    "src": "Barron's U6；Hot Words L51；306/386 U9；VA U15；字根字首 U23"
    }
   ],
-  "tip_zh": "disparate 截然不同（dis- 不 + par 相等）；desperate 絕望、拚命（despair）",
-  "tip_en": "disparate = very different; desperate = hopeless, frantic",
-  "trap": "發音接近，學生常讀成同一個字。",
+  "tip_zh": "disparate 截然不同（dis- 不 + par 相等）；desperate 絕望、拚命（despair）；disparage 貶低（dis- + par 同等 → 說成不如人）",
+  "tip_en": "disparate = very different; desperate = hopeless, frantic; disparage = belittle",
+  "trap": "發音接近，學生常讀成同一個字。disparage 與 disparate 只差字尾，一個是動詞「貶低」，一個是形容詞「迥異」。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-011",
@@ -444,7 +540,7 @@
  },
  {
   "type": "A",
-  "name": "ambiguous/ambivalent",
+  "name": "ambiguous/ambivalent/ambidextrous",
   "words": [
    {
     "word": "ambiguous",
@@ -469,11 +565,23 @@
     "tr": "她對出國感到矛盾：對工作很興奮，卻捨不得離開家人。",
     "lvl": 2,
     "src": "Hot Words L29；306/386 U2；VA U10；字根字首 U161"
+   },
+   {
+    "word": "ambidextrous",
+    "pos": "adj.",
+    "def_": "able to use both hands equally well",
+    "zh": "雙手都靈巧的",
+    "syn": "two-handed, versatile",
+    "ant": "",
+    "sent": "Being ambidextrous, the pitcher could throw with either hand.",
+    "tr": "這位投手雙手都很靈巧，左右手都能投球。",
+    "lvl": 3,
+    "src": "字根字首 U161"
    }
   ],
-  "tip_zh": "ambiguous 意思模稜兩可（說的話有兩種解讀）；ambivalent 心情矛盾（val 價值，兩邊都想要）",
-  "tip_en": "ambiguous = unclear in meaning; ambivalent = having mixed feelings",
-  "trap": "都有 ambi-（兩邊），但 ambiguous 形容訊息，ambivalent 形容人的感受。",
+  "tip_zh": "ambiguous 意思模稜兩可（說的話有兩種解讀）；ambivalent 心情矛盾（val 價值，兩邊都想要）；ambidextrous 雙手都靈巧（ambi 兩邊 + dexter 右手）",
+  "tip_en": "ambiguous = unclear in meaning; ambivalent = having mixed feelings; ambidextrous = skilled with both hands",
+  "trap": "都有 ambi-（兩邊），但 ambiguous 形容訊息，ambivalent 形容人的感受。三字都以 ambi-（兩邊）開頭：ambiguous 意思有兩種、ambivalent 心情兩邊拉扯、ambidextrous 兩手都行。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-012",
@@ -481,7 +589,7 @@
  },
  {
   "type": "A",
-  "name": "auspicious/suspicious",
+  "name": "auspicious/suspicious/auspices",
   "words": [
    {
     "word": "auspicious",
@@ -506,11 +614,23 @@
     "tr": "同一輛廂型車繞大樓三圈後，警衛起了疑心。",
     "lvl": 1,
     "src": "Hot Words L66"
+   },
+   {
+    "word": "auspices",
+    "pos": "n.",
+    "def_": "(under the auspices of) with the support or protection of",
+    "zh": "贊助；主辦",
+    "syn": "sponsorship, support, patronage",
+    "ant": "",
+    "sent": "The concert was held under the auspices of the city's arts council.",
+    "tr": "這場音樂會由市藝術委員會主辦。",
+    "lvl": 2,
+    "src": "新增"
    }
   ],
-  "tip_zh": "auspicious 吉利的（auspice 觀鳥占卜得吉兆）；suspicious 可疑的（suspect）",
-  "tip_en": "auspicious = favorable; suspicious = distrustful",
-  "trap": "只多了 au，學生常以為意思相近，其實 auspicious 是正面的「好兆頭」。",
+  "tip_zh": "auspicious 吉利的（auspice 觀鳥占卜得吉兆）；suspicious 可疑的（suspect）；auspices 贊助、主辦（under the auspices of）",
+  "tip_en": "auspicious = favorable; suspicious = distrustful; auspices = sponsorship",
+  "trap": "只多了 au，學生常以為意思相近，其實 auspicious 是正面的「好兆頭」。auspices 和 auspicious 同源（古代觀鳥占卜），名詞多用在 under the auspices of。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-013",
@@ -518,7 +638,7 @@
  },
  {
   "type": "A",
-  "name": "deference/difference",
+  "name": "deference/difference/reverence",
   "words": [
    {
     "word": "deference",
@@ -543,11 +663,23 @@
     "tr": "兩款機型的主要差別在於螢幕尺寸。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "reverence",
+    "pos": "n.",
+    "def_": "deep respect",
+    "zh": "崇敬；敬畏",
+    "syn": "respect, veneration, awe",
+    "ant": "contempt, disrespect",
+    "sent": "Visitors spoke in whispers, filled with reverence for the ancient temple.",
+    "tr": "遊客低聲細語，對這座古老的寺廟充滿崇敬。",
+    "lvl": 2,
+    "src": "Hot Words L79；字根字首 U217"
    }
   ],
-  "tip_zh": "deference 尊重順從（defer 讓步）；difference 差異",
-  "tip_en": "deference = respectful submission; difference = unlikeness",
-  "trap": "發音相近，常被唸成同一字；in deference to 表「出於尊重」。",
+  "tip_zh": "deference 尊重順從（defer 讓步）；difference 差異；reverence 崇敬（revere 尊敬）",
+  "tip_en": "deference = respectful submission; difference = unlikeness; reverence = deep respect",
+  "trap": "發音相近，常被唸成同一字；in deference to 表「出於尊重」。reverence 和 deference 都是 -erence 結尾、都有「尊重」，但 deference 偏「順從」，reverence 偏「崇敬」。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-014",
@@ -555,7 +687,7 @@
  },
  {
   "type": "A",
-  "name": "oblivious/obvious",
+  "name": "oblivious/obvious/oblique",
   "words": [
    {
     "word": "oblivious",
@@ -580,11 +712,23 @@
     "tr": "顯而易見的解決辦法是先修好漏水再重漆天花板。",
     "lvl": 1,
     "src": "Hot Words L48；字根字首 U204"
+   },
+   {
+    "word": "oblique",
+    "pos": "adj.",
+    "def_": "indirect; slanting",
+    "zh": "間接的；傾斜的",
+    "syn": "indirect, roundabout, slanted",
+    "ant": "direct, straight",
+    "sent": "Instead of asking for a raise, he made an oblique comment about how expensive rent had become.",
+    "tr": "他沒有直接要求加薪，而是拐彎抹角地提到房租變得多貴。",
+    "lvl": 2,
+    "src": "字根字首 U76"
    }
   ],
-  "tip_zh": "oblivious 渾然不覺（oblivion 遺忘）；obvious 明顯的",
-  "tip_en": "oblivious = unaware; obvious = easy to see",
-  "trap": "字形接近，學生常把 oblivious 看成 obvious，意思其實相反方向：一個沒注意，一個很容易注意。",
+  "tip_zh": "oblivious 渾然不覺（oblivion 遺忘）；obvious 明顯的；oblique 間接的、斜的（拐彎抹角，不是 obvious 的直接明顯）",
+  "tip_en": "oblivious = unaware; obvious = easy to see; oblique = indirect",
+  "trap": "字形接近，學生常把 oblivious 看成 obvious，意思其實相反方向：一個沒注意，一個很容易注意。oblique 也以 ob- 開頭，意思卻接近 obvious 的反面。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-015",
@@ -702,7 +846,7 @@
  },
  {
   "type": "A",
-  "name": "prestige/pristine",
+  "name": "prestige/pristine/vestige",
   "words": [
    {
     "word": "prestige",
@@ -727,11 +871,23 @@
     "tr": "收藏家多付錢買這本漫畫，因為它保存得完好如新。",
     "lvl": 2,
     "src": "字根字首 U212"
+   },
+   {
+    "word": "vestige",
+    "pos": "n.",
+    "def_": "a small remaining trace of something",
+    "zh": "痕跡；殘餘",
+    "syn": "trace, remnant, relic",
+    "ant": "",
+    "sent": "A few broken columns are the only vestige of the ancient city.",
+    "tr": "幾根斷柱是這座古城僅存的遺跡。",
+    "lvl": 3,
+    "src": "Barron's U43；Hot Words L84；字根字首 U233"
    }
   ],
-  "tip_zh": "prestige 聲望；pristine 原始純淨、嶄新（pri = prime 最初的）",
-  "tip_en": "prestige = respect, status; pristine = perfectly clean, unspoiled",
-  "trap": "開頭 pr- 與 -stige／-stine 相近，閱讀時易看錯。",
+  "tip_zh": "prestige 聲望；pristine 原始純淨、嶄新（pri = prime 最初的）；vestige 痕跡、殘餘（-stige 結尾）",
+  "tip_en": "prestige = respect, status; pristine = perfectly clean, unspoiled; vestige = trace",
+  "trap": "開頭 pr- 與 -stige／-stine 相近，閱讀時易看錯。vestige 和 prestige 只差開頭，一個是殘跡，一個是聲望。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-018",
@@ -739,7 +895,7 @@
  },
  {
   "type": "A",
-  "name": "rigorous/vigorous",
+  "name": "rigorous/vigorous/timorous",
   "words": [
    {
     "word": "rigorous",
@@ -764,11 +920,23 @@
     "tr": "每天三十分鐘的劇烈運動能降低心臟病風險。",
     "lvl": 2,
     "src": "Hot Words L70；字根字首 U145"
+   },
+   {
+    "word": "timorous",
+    "pos": "adj.",
+    "def_": "showing fear and lack of confidence",
+    "zh": "膽小的；畏縮的",
+    "syn": "timid, fearful, shy",
+    "ant": "bold, confident",
+    "sent": "The timorous puppy hid under the couch whenever a stranger entered the room.",
+    "tr": "每當陌生人進屋，那隻膽小的小狗就躲到沙發下。",
+    "lvl": 4,
+    "src": "Barron's U12；Hot Words L39；字根字首 U229"
    }
   ],
-  "tip_zh": "rigorous 嚴格嚴謹（rigid 僵硬不放寬）；vigorous 精力充沛（vigor 活力）",
-  "tip_en": "rigorous = thorough, strict; vigorous = energetic",
-  "trap": "只差第一個字母，常一起當干擾選項。",
+  "tip_zh": "rigorous 嚴格嚴謹（rigid 僵硬不放寬）；vigorous 精力充沛（vigor 活力）；timorous 膽小的（timid 膽怯）",
+  "tip_en": "rigorous = thorough, strict; vigorous = energetic; timorous = timid",
+  "trap": "只差第一個字母，常一起當干擾選項。三字都是 -orous 結尾，只能靠開頭 rig（嚴）、vig（力）、tim（怕）分辨。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-019",
@@ -874,7 +1042,7 @@
  },
  {
   "type": "A",
-  "name": "prodigy/progeny",
+  "name": "prodigy/progeny/protege",
   "words": [
    {
     "word": "prodigy",
@@ -899,11 +1067,23 @@
     "tr": "農夫只挑最耐旱的植株來育種，希望它們的後代能熬過乾季。",
     "lvl": 2,
     "src": "Barron's U16；VA U41；字根字首 U78,105"
+   },
+   {
+    "word": "protege",
+    "pos": "n.",
+    "def_": "a young person helped and guided by an experienced one",
+    "zh": "門生；被提攜者",
+    "syn": "pupil, apprentice, mentee",
+    "ant": "mentor",
+    "sent": "The famous chef trained her protege for years before letting him run the kitchen.",
+    "tr": "這位名廚培訓門生多年，才讓他掌管廚房。",
+    "lvl": 3,
+    "src": "新增"
    }
   ],
-  "tip_zh": "prodigy 神童（prodigious 驚人的天才）；progeny 子孫後代（pro- 向前 + gen 生）",
-  "tip_en": "prodigy = a gifted child; progeny = offspring (gen = birth)",
-  "trap": "兩字開頭都是 pro-，字尾 -gy／-geny 相近，容易把「後代」誤認為「神童」。",
+  "tip_zh": "prodigy 神童（prodigious 驚人的天才）；progeny 子孫後代（pro- 向前 + gen 生）；protege 門生（被 protect 保護提攜的人）",
+  "tip_en": "prodigy = a gifted child; progeny = offspring (gen = birth); protege = person guided by a mentor",
+  "trap": "兩字開頭都是 pro-，字尾 -gy／-geny 相近，容易把「後代」誤認為「神童」。protege 也以 pro- 開頭、也指「年輕人」，但重點是「被提攜」，不是天才或後代。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-022",
@@ -972,7 +1152,7 @@
  },
  {
   "type": "A",
-  "name": "judicious/judicial",
+  "name": "judicious/judicial/ludicrous",
   "words": [
    {
     "word": "judicious",
@@ -997,11 +1177,23 @@
     "tr": "憲法把司法部門與總統的行政權分開。",
     "lvl": 1,
     "src": "字根字首 U194"
+   },
+   {
+    "word": "ludicrous",
+    "pos": "adj.",
+    "def_": "so foolish that it is laughable",
+    "zh": "荒謬可笑的",
+    "syn": "absurd, ridiculous, preposterous",
+    "ant": "sensible, reasonable",
+    "sent": "Charging fifty dollars for a bottle of water is ludicrous.",
+    "tr": "一瓶水收五十美元實在荒謬。",
+    "lvl": 2,
+    "src": "Hot Words L65；字根字首 U198"
    }
   ],
-  "tip_zh": "judicious 明智審慎（-ious 形容人的判斷力）；judicial 司法的（-ial 跟法院有關）",
-  "tip_en": "judicious = wise; judicial = relating to courts",
-  "trap": "都來自 judge，但 judicious 與法院無關，是「判斷力好」。",
+  "tip_zh": "judicious 明智審慎（-ious 形容人的判斷力）；judicial 司法的（-ial 跟法院有關）；ludicrous 荒謬可笑（lud 玩笑）",
+  "tip_en": "judicious = wise; judicial = relating to courts; ludicrous = ridiculous",
+  "trap": "都來自 judge，但 judicious 與法院無關，是「判斷力好」。ludicrous 只和 judicious 差開頭，意思卻相反：一個明智、一個荒謬。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-024",
@@ -1095,7 +1287,7 @@
  },
  {
   "type": "A",
-  "name": "verbal/verbose",
+  "name": "verbal/verbose/verbatim/verbiage",
   "words": [
    {
     "word": "verbal",
@@ -1120,11 +1312,35 @@
     "tr": "這份冗長的報告長達兩百頁，卻只有三項新發現。",
     "lvl": 3,
     "src": "Barron's U6；Hot Words L2；VA U4；字根字首 U233"
+   },
+   {
+    "word": "verbatim",
+    "pos": "adv./adj.",
+    "def_": "in exactly the same words",
+    "zh": "逐字地；一字不差的",
+    "syn": "word for word, exactly, literally",
+    "ant": "paraphrased",
+    "sent": "The reporter quoted the senator's statement verbatim so that no one could accuse her of changing it.",
+    "tr": "記者逐字引用參議員的聲明，免得有人指控她改動內容。",
+    "lvl": 2,
+    "src": "字根字首 U233"
+   },
+   {
+    "word": "verbiage",
+    "pos": "n.",
+    "def_": "too many words, often unnecessary ones",
+    "zh": "冗詞；廢話",
+    "syn": "wordiness, padding, jargon",
+    "ant": "conciseness",
+    "sent": "Cut the verbiage and tell me in one sentence what the report recommends.",
+    "tr": "刪掉那些冗詞，用一句話告訴我報告建議什麼。",
+    "lvl": 3,
+    "src": "字根字首 U233"
    }
   ],
-  "tip_zh": "verbal 口頭的、文字的；verbose 囉嗦的（-ose 多 → 話太多）",
-  "tip_en": "verbal = in words; verbose = using too many words",
-  "trap": "都來自 verb（字詞），但 verbose 是負面的「冗長」。",
+  "tip_zh": "verbal 口頭的、文字的；verbose 囉嗦的（-ose 多 → 話太多）；verbatim 逐字地；verbiage 冗詞（n.）",
+  "tip_en": "verbal = in words; verbose = using too many words; verbatim = word for word; verbiage = excess words",
+  "trap": "都來自 verb（字詞），但 verbose 是負面的「冗長」。四字都來自 verb（字）：verbose 是「囉嗦的」，verbiage 是名詞「冗詞」，verbatim 則是「一字不差」。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-027",
@@ -1132,7 +1348,7 @@
  },
  {
   "type": "A",
-  "name": "ascetic/aesthetic",
+  "name": "ascetic/aesthetic/anesthetic",
   "words": [
    {
     "word": "ascetic",
@@ -1157,11 +1373,23 @@
     "tr": "建築師選擇弧形屋頂是基於美感考量，而非結構需要。",
     "lvl": 1,
     "src": "Hot Words L29,73；字根字首 U161"
+   },
+   {
+    "word": "anesthetic",
+    "pos": "n.",
+    "def_": "a drug that stops feeling or pain",
+    "zh": "麻醉劑",
+    "syn": "painkiller, numbing agent",
+    "ant": "",
+    "sent": "The dentist gave her an anesthetic before pulling the tooth.",
+    "tr": "牙醫拔牙前先幫她打了麻醉劑。",
+    "lvl": 2,
+    "src": "Hot Words L94"
    }
   ],
-  "tip_zh": "ascetic 苦行禁慾（as 像 abstain 戒）；aesthetic 美學的（esthetic 感受美）",
-  "tip_en": "ascetic = self-denying; aesthetic = concerning beauty",
-  "trap": "發音接近，學生常把 ascetic 當 aesthetic 的拼法錯誤。",
+  "tip_zh": "ascetic 苦行禁慾（as 像 abstain 戒）；aesthetic 美學的（esthetic 感受美）；anesthetic 麻醉劑（an- 沒有 + esthetic 感覺）",
+  "tip_en": "ascetic = self-denying; aesthetic = concerning beauty; anesthetic = drug that removes feeling",
+  "trap": "發音接近，學生常把 ascetic 當 aesthetic 的拼法錯誤。anesthetic 其實是 an-（沒有）＋ aesthetic（感覺），美學和麻醉同字根，只差一個否定字首。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-028",
@@ -1169,7 +1397,7 @@
  },
  {
   "type": "A",
-  "name": "inept/inert",
+  "name": "inept/inert/inapt",
   "words": [
    {
     "word": "inept",
@@ -1194,11 +1422,23 @@
     "tr": "氦是惰性氣體，不會燃燒，也不和其他物質反應。",
     "lvl": 2,
     "src": "Barron's U10；Hot Words L14；字根字首 U40"
+   },
+   {
+    "word": "inapt",
+    "pos": "adj.",
+    "def_": "not suitable or appropriate",
+    "zh": "不恰當的；不適合的",
+    "syn": "inappropriate, unsuitable, unfitting",
+    "ant": "apt, appropriate",
+    "sent": "A heavy wool coat is inapt for a summer hike in the desert.",
+    "tr": "厚重的羊毛大衣不適合夏天在沙漠健行。",
+    "lvl": 4,
+    "src": "新增"
    }
   ],
-  "tip_zh": "inept 笨拙無能（in + apt 不適合）；inert 惰性靜止（ert 不動）",
-  "tip_en": "inept = clumsy, incompetent; inert = motionless, inactive",
-  "trap": "只差一個字母，一個形容能力，一個形容不動或化學惰性。",
+  "tip_zh": "inept 笨拙無能（in + apt 不適合）；inert 惰性靜止（ert 不動）；inapt 不恰當的（in + apt 合適 → 不合適）",
+  "tip_en": "inept = clumsy, incompetent; inert = motionless, inactive; inapt = unsuitable",
+  "trap": "只差一個字母，一個形容能力，一個形容不動或化學惰性。inept 和 inapt 同源：inept 多指人「笨拙無能」，inapt 指事物「不適用」。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-029",
@@ -1267,7 +1507,7 @@
  },
  {
   "type": "A",
-  "name": "palpable/palatable",
+  "name": "palpable/palatable/palpitate",
   "words": [
    {
     "word": "palpable",
@@ -1292,11 +1532,23 @@
     "tr": "為了讓選民更能接受這個計畫，市長刪除了加稅提案。",
     "lvl": 2,
     "src": "Hot Words L21；字根字首 U207"
+   },
+   {
+    "word": "palpitate",
+    "pos": "v.",
+    "def_": "(of the heart) to beat quickly and strongly",
+    "zh": "（心臟）劇烈跳動",
+    "syn": "throb, pound, flutter",
+    "ant": "",
+    "sent": "Her heart began to palpitate as she waited for the judges to announce the winner.",
+    "tr": "等評審宣布得主時，她的心臟開始怦怦狂跳。",
+    "lvl": 4,
+    "src": "新增"
    }
   ],
-  "tip_zh": "palpable 摸得到、明顯（palp 觸摸）；palatable 可口、可接受（palate 上顎 → 好入口）",
-  "tip_en": "palpable = obvious; palatable = acceptable, tasty",
-  "trap": "兩字都是 pal- 開頭，字尾相同，常被互換。",
+  "tip_zh": "palpable 摸得到、明顯（palp 觸摸）；palatable 可口、可接受（palate 上顎 → 好入口）；palpitate 心悸（palp 觸摸、跳動）",
+  "tip_en": "palpable = obvious; palatable = acceptable, tasty; palpitate = beat rapidly",
+  "trap": "兩字都是 pal- 開頭，字尾相同，常被互換。palpitate 和 palpable 同字根 palp，一個是「心跳很快」，一個是「明顯可感」。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-031",
@@ -1304,7 +1556,7 @@
  },
  {
   "type": "A",
-  "name": "belated/elated",
+  "name": "belated/elated/berate",
   "words": [
    {
     "word": "belated",
@@ -1329,11 +1581,23 @@
     "tr": "得知短篇小說獲得全國大獎，她欣喜若狂。",
     "lvl": 2,
     "src": "Hot Words L43；字根字首 U26,159"
+   },
+   {
+    "word": "berate",
+    "pos": "v.",
+    "def_": "to scold angrily",
+    "zh": "嚴厲斥責",
+    "syn": "scold, rebuke, reprimand",
+    "ant": "praise",
+    "sent": "The coach berated the players for arriving late to the final game.",
+    "tr": "教練嚴厲斥責球員決賽遲到。",
+    "lvl": 3,
+    "src": "Hot Words L12；VA U35；字根字首 U166"
    }
   ],
-  "tip_zh": "belated 遲來的（late）；elated 興高采烈（ela 像 elevator 心情上升）",
-  "tip_en": "belated = late; elated = very happy",
-  "trap": "belated 只比 elated 多 b，學生容易看成「高興的」。",
+  "tip_zh": "belated 遲來的（late）；elated 興高采烈（ela 像 elevator 心情上升）；berate 斥責（be- + rate 罵）",
+  "tip_en": "belated = late; elated = very happy; berate = scold angrily",
+  "trap": "belated 只比 elated 多 b，學生容易看成「高興的」。berate 和 belated 都是 be- 開頭，只差 r／l 與字尾。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-032",
@@ -1341,7 +1605,7 @@
  },
  {
   "type": "A",
-  "name": "ineffable/ineffective",
+  "name": "ineffable/ineffective/ineffectual",
   "words": [
    {
     "word": "ineffable",
@@ -1365,12 +1629,30 @@
     "sent": "The new medicine proved ineffective, so doctors returned to the older treatment.",
     "tr": "新藥證實無效，醫師只好改回舊療法。",
     "lvl": 1,
-    "src": "Hot Words L87"
+    "src": "Hot Words L87",
+    "ex": [
+     "ineffectual"
+    ]
+   },
+   {
+    "word": "ineffectual",
+    "pos": "adj.",
+    "def_": "not able to produce results; weak",
+    "zh": "無能的；不起作用的",
+    "syn": "weak, powerless, inept",
+    "ant": "capable, effective",
+    "sent": "The ineffectual manager held many meetings but never made a decision.",
+    "tr": "這位無能的經理開了很多會，卻從未做出決定。",
+    "lvl": 3,
+    "src": "Barron's U9；306/386 U15；字根字首 U39",
+    "ex": [
+     "ineffective"
+    ]
    }
   ],
-  "tip_zh": "ineffable 無法言喻（ef- 說出來 → 說不出）；ineffective 無效的",
-  "tip_en": "ineffable = too great for words; ineffective = not working",
-  "trap": "前五個字母相同，學生常誤以為 ineffable 也是「無效的」。",
+  "tip_zh": "ineffable 無法言喻（ef- 說出來 → 說不出）；ineffective 無效的；ineffectual 無能的、沒用的（多形容人）",
+  "tip_en": "ineffable = too great for words; ineffective = not working; ineffectual = weak, unable to get results (often of people)",
+  "trap": "前五個字母相同，學生常誤以為 ineffable 也是「無效的」。ineffective 和 ineffectual 意思接近：ineffective 多指方法、藥物無效，ineffectual 多指人無能。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-033",
@@ -1610,7 +1892,7 @@
  },
  {
   "type": "A",
-  "name": "peculiar/pecuniary",
+  "name": "peculiar/pecuniary/peculate",
   "words": [
    {
     "word": "peculiar",
@@ -1635,11 +1917,23 @@
     "tr": "該董事被揭露與合約有金錢利益關係後辭職。",
     "lvl": 3,
     "src": "Barron's U19；字根字首 U208"
+   },
+   {
+    "word": "peculate",
+    "pos": "v.",
+    "def_": "to steal money one is trusted to manage",
+    "zh": "盜用（公款）",
+    "syn": "embezzle, misappropriate",
+    "ant": "",
+    "sent": "The treasurer was caught trying to peculate funds from the charity's account.",
+    "tr": "財務被抓到企圖盜用慈善機構帳戶的資金。",
+    "lvl": 4,
+    "src": "VA U21；字根字首 U208"
    }
   ],
-  "tip_zh": "peculiar 奇特的；pecuniary 金錢的（pecu 古時以牲畜當錢）",
-  "tip_en": "peculiar = strange; pecuniary = relating to money",
-  "trap": "開頭 pecu- 相同，學生常把 pecuniary 當成 peculiar 的變化。",
+  "tip_zh": "peculiar 奇特的；pecuniary 金錢的（pecu 古時以牲畜當錢）；peculate 盜用公款（pecu 錢，同 pecuniary）",
+  "tip_en": "peculiar = strange; pecuniary = relating to money; peculate = embezzle",
+  "trap": "開頭 pecu- 相同，學生常把 pecuniary 當成 peculiar 的變化。peculate 和 pecuniary 同字根 pecu（錢），和 peculiar 只差字尾。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-038",
@@ -1781,7 +2075,7 @@
  },
  {
   "type": "A",
-  "name": "ardent/arduous",
+  "name": "ardent/arduous/ardor",
   "words": [
    {
     "word": "ardent",
@@ -1806,11 +2100,23 @@
     "tr": "這段艱辛的攀登花了九小時，好幾位健行者半途折返。",
     "lvl": 2,
     "src": "306/386 U3；VA U2；字根字首 U163"
+   },
+   {
+    "word": "ardor",
+    "pos": "n.",
+    "def_": "great enthusiasm or passion",
+    "zh": "熱情；熱忱",
+    "syn": "passion, zeal, fervor",
+    "ant": "apathy, indifference",
+    "sent": "Her ardor for science never faded, even after decades in the lab.",
+    "tr": "她對科學的熱忱即使在實驗室數十年也從未消退。",
+    "lvl": 4,
+    "src": "字根字首 U163"
    }
   ],
-  "tip_zh": "ardent 熱烈的（ard 燃燒，像 ardor）；arduous 艱難費力的（ard 陡峭難爬）",
-  "tip_en": "ardent = passionate; arduous = difficult",
-  "trap": "開頭 ard- 相同，一個形容人的熱情，一個形容任務的艱辛。",
+  "tip_zh": "ardent 熱烈的（ard 燃燒，像 ardor）；arduous 艱難費力的（ard 陡峭難爬）；ardor 熱忱（n.，ardent 的名詞）",
+  "tip_en": "ardent = passionate; arduous = difficult; ardor = passion (noun of ardent)",
+  "trap": "開頭 ard- 相同，一個形容人的熱情，一個形容任務的艱辛。ardor 是 ardent 的名詞，和 arduous 的「艱難」無關。",
   "score": 2.0,
   "unit": "形近字 U5",
   "id": "形近-041",
@@ -1818,7 +2124,7 @@
  },
  {
   "type": "A",
-  "name": "negligent/negligible",
+  "name": "negligent/negligible/eligible",
   "words": [
    {
     "word": "negligent",
@@ -1843,11 +2149,23 @@
     "tr": "價差微不足道，就選你比較喜歡的款式吧。",
     "lvl": 2,
     "src": "Barron's U42；Hot Words L27；306/386 U18；VA U1；字根字首 U203"
+   },
+   {
+    "word": "eligible",
+    "pos": "adj.",
+    "def_": "allowed or qualified to do or receive something",
+    "zh": "有資格的",
+    "syn": "qualified, entitled, suitable",
+    "ant": "ineligible",
+    "sent": "Citizens over eighteen are eligible to vote in national elections.",
+    "tr": "年滿十八歲的公民有資格在全國選舉中投票。",
+    "lvl": 1,
+    "src": "Hot Words L82"
    }
   ],
-  "tip_zh": "negligent 疏忽失職的（形容人）；negligible 微不足道的（-ible 可以忽略的）",
-  "tip_en": "negligent = careless; negligible = tiny, unimportant",
-  "trap": "都來自 neglect，但一個是「人疏忽」，一個是「數量可以忽略」。",
+  "tip_zh": "negligent 疏忽失職的（形容人）；negligible 微不足道的（-ible 可以忽略的）；eligible 有資格的（e- 出 + lig 選 → 被選出來）",
+  "tip_en": "negligent = careless; negligible = tiny, unimportant; eligible = qualified",
+  "trap": "都來自 neglect，但一個是「人疏忽」，一個是「數量可以忽略」。eligible 和 negligible 同字根 lig（選）：negligible 是「不值得選、可忽略」，eligible 是「夠格被選」。",
   "score": 2.0,
   "unit": "形近字 U5",
   "id": "形近-042",
@@ -1855,7 +2173,7 @@
  },
  {
   "type": "A",
-  "name": "gratuitous/gratitude",
+  "name": "gratuitous/gratitude/gratuity",
   "words": [
    {
     "word": "gratuitous",
@@ -1880,11 +2198,23 @@
     "tr": "她寫信給消防員，感謝他們救了她的家。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "gratuity",
+    "pos": "n.",
+    "def_": "a tip given for service",
+    "zh": "小費；賞錢",
+    "syn": "tip, bonus",
+    "ant": "",
+    "sent": "Many restaurants add a fifteen percent gratuity to the bill for large groups.",
+    "tr": "許多餐廳會對大團體帳單加收一成五的小費。",
+    "lvl": 3,
+    "src": "Barron's U42；字根字首 U106,155"
    }
   ],
-  "tip_zh": "gratuitous 無端的、多餘的（gratis 免費 → 沒理由地給）；gratitude 感激",
-  "tip_en": "gratuitous = unnecessary, unjustified; gratitude = thankfulness",
-  "trap": "gratuitous 看起來像 gratitude，學生常以為是「感激的」。",
+  "tip_zh": "gratuitous 無端的、多餘的（gratis 免費 → 沒理由地給）；gratitude 感激；gratuity 小費（grat 感謝 → 表達謝意的錢）",
+  "tip_en": "gratuitous = unnecessary, unjustified; gratitude = thankfulness; gratuity = tip",
+  "trap": "gratuitous 看起來像 gratitude，學生常以為是「感激的」。gratuity 和 gratuitous 字形最像，但一個是小費（n.），一個是「無端的」（adj.）。",
   "score": 2.0,
   "unit": "形近字 U5",
   "id": "形近-043",
@@ -2197,7 +2527,7 @@
  },
  {
   "type": "A",
-  "name": "censure/censor",
+  "name": "censure/censor/censorious",
   "words": [
    {
     "word": "censure",
@@ -2222,11 +2552,23 @@
     "tr": "政府試圖審查這部紀錄片，剪掉所有出現抗議的畫面。",
     "lvl": 2,
     "src": "字根字首 U171"
+   },
+   {
+    "word": "censorious",
+    "pos": "adj.",
+    "def_": "severely critical of others",
+    "zh": "愛挑剔的；吹毛求疵的",
+    "syn": "critical, disapproving, judgmental",
+    "ant": "approving, tolerant",
+    "sent": "Her censorious mother-in-law commented on everything from her cooking to her clothes.",
+    "tr": "她那愛挑剔的婆婆，從她的廚藝到衣著都要評論一番。",
+    "lvl": 4,
+    "src": "VA U32；字根字首 U171"
    }
   ],
-  "tip_zh": "censure 嚴厲譴責（sure 說得很確定地罵）；censor 審查刪除（or 是人 → 審查員）",
-  "tip_en": "censure = harsh official criticism; censor = remove or ban content",
-  "trap": "兩字發音相近，又都跟「權威管控」有關；但 censure 是用嘴批評，censor 是動手刪改。",
+  "tip_zh": "censure 嚴厲譴責（sure 說得很確定地罵）；censor 審查刪除（or 是人 → 審查員）；censorious 愛挑剔的（像 censor 一樣到處挑毛病）",
+  "tip_en": "censure = harsh official criticism; censor = remove or ban content; censorious = severely critical",
+  "trap": "兩字發音相近，又都跟「權威管控」有關；但 censure 是用嘴批評，censor 是動手刪改。censorious 是形容詞，意思接近 censure（譴責），拼法卻像 censor（審查）。",
   "score": 2.5,
   "unit": "形近字 U5",
   "id": "形近-049",
@@ -2234,7 +2576,7 @@
  },
  {
   "type": "A",
-  "name": "credible/credulous",
+  "name": "credible/credulous/creditable/credence",
   "words": [
    {
     "word": "credible",
@@ -2259,11 +2601,35 @@
     "tr": "輕信的讀者沒查證來源，就把這篇假文章轉發了數千次。",
     "lvl": 4,
     "src": "字根字首 U151"
+   },
+   {
+    "word": "creditable",
+    "pos": "adj.",
+    "def_": "deserving praise, though not outstanding",
+    "zh": "值得稱讚的；尚可的",
+    "syn": "commendable, respectable, praiseworthy",
+    "ant": "shameful, discreditable",
+    "sent": "For a first attempt, her painting was a creditable piece of work.",
+    "tr": "以第一次嘗試來說，她的畫作值得稱讚。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "credence",
+    "pos": "n.",
+    "def_": "belief that something is true",
+    "zh": "相信；可信度",
+    "syn": "belief, acceptance, credibility",
+    "ant": "disbelief, doubt",
+    "sent": "Scientists gave little credence to the rumor until the data were released.",
+    "tr": "數據公布前，科學家並不太相信這個傳聞。",
+    "lvl": 2,
+    "src": "VA U8；字根字首 U151"
    }
   ],
-  "tip_zh": "credible 可信的（事情）；credulous 輕信的（人，-ulous 像 ridiculous 太好騙）",
-  "tip_en": "credible = believable; credulous = too ready to believe",
-  "trap": "同字根 cred（相信），但 credible 形容說法，credulous 形容太容易相信的人。",
+  "tip_zh": "credible 可信的（事情）；credulous 輕信的（人，-ulous 像 ridiculous 太好騙）；creditable 值得稱讚的（credit 功勞）；credence 相信（n.，give credence to）",
+  "tip_en": "credible = believable; credulous = too ready to believe; creditable = praiseworthy; credence = belief",
+  "trap": "同字根 cred（相信），但 credible 形容說法，credulous 形容太容易相信的人。四字都來自 cred（相信）：credible 可信、credulous 輕信、credence 相信（n.），creditable 卻是「值得稱讚」。",
   "score": 2.5,
   "unit": "形近字 U5",
   "id": "形近-050",
@@ -2271,7 +2637,7 @@
  },
  {
   "type": "A",
-  "name": "official/officious",
+  "name": "official/officious/officiate",
   "words": [
    {
     "word": "official",
@@ -2296,11 +2662,23 @@
     "tr": "一位好管閒事的鄰居一直告訴我們該如何布置自家花園。",
     "lvl": 4,
     "src": "VA U11；字根字首 U205"
+   },
+   {
+    "word": "officiate",
+    "pos": "v.",
+    "def_": "to act as the official in charge of a ceremony or game",
+    "zh": "主持（儀式）；擔任裁判",
+    "syn": "preside, referee, conduct",
+    "ant": "",
+    "sent": "A judge will officiate at the wedding in the city park.",
+    "tr": "一位法官將在市立公園主持婚禮。",
+    "lvl": 3,
+    "src": "新增"
    }
   ],
-  "tip_zh": "official 官方的；officious 愛管閒事、多管閒事（-ious 熱心過頭）",
-  "tip_en": "official = authorized; officious = intrusively eager to help or command",
-  "trap": "officious 看起來像 official 的形容詞變化，但其實是「好管閒事」。",
+  "tip_zh": "official 官方的；officious 愛管閒事、多管閒事（-ious 熱心過頭）；officiate 主持、擔任裁判（v.）",
+  "tip_en": "official = authorized; officious = intrusively eager to help or command; officiate = preside over",
+  "trap": "officious 看起來像 official 的形容詞變化，但其實是「好管閒事」。officiate 是動詞，和 official、officious 同源，常被誤寫。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-051",
@@ -2308,7 +2686,7 @@
  },
  {
   "type": "A",
-  "name": "gregarious/egregious",
+  "name": "gregarious/egregious/segregate",
   "words": [
    {
     "word": "gregarious",
@@ -2333,11 +2711,23 @@
     "tr": "報告稱此錯誤極其嚴重，因為工程師忽略了三次警告。",
     "lvl": 2,
     "src": "Barron's U5；VA U20；字根字首 U26,147"
+   },
+   {
+    "word": "segregate",
+    "pos": "v.",
+    "def_": "to separate one group from others",
+    "zh": "隔離；分開",
+    "syn": "separate, isolate, divide",
+    "ant": "integrate, unite",
+    "sent": "Until 1954, many American states were allowed to segregate schools by race.",
+    "tr": "1954 年以前，美國許多州可依種族隔離學校。",
+    "lvl": 3,
+    "src": "字根字首 U64,100,147"
    }
   ],
-  "tip_zh": "gregarious 合群（greg = 群）；egregious 糟糕透頂（e- 跳出群外 → 突出地壞）",
-  "tip_en": "gregarious = sociable; egregious = outstandingly bad",
-  "trap": "兩字都含 greg（群），egregious 原指「出類拔萃」，現多指「糟到極點」。",
+  "tip_zh": "gregarious 合群（greg = 群）；egregious 糟糕透頂（e- 跳出群外 → 突出地壞）；segregate 隔離（se- 分開 + greg 群 → 從群中分出）",
+  "tip_en": "gregarious = sociable; egregious = outstandingly bad; segregate = separate from the group",
+  "trap": "兩字都含 greg（群），egregious 原指「出類拔萃」，現多指「糟到極點」。三字都含 greg（群）：gregarious 合群、egregious 跳出群外（極糟）、segregate 把群分開。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-052",
@@ -2345,7 +2735,7 @@
  },
  {
   "type": "A",
-  "name": "lucid/lurid",
+  "name": "lucid/lurid/livid",
   "words": [
    {
     "word": "lucid",
@@ -2370,11 +2760,23 @@
     "tr": "報紙刊登犯罪的駭人細節來吸引更多讀者。",
     "lvl": 3,
     "src": "Barron's U11；字根字首 U198"
+   },
+   {
+    "word": "livid",
+    "pos": "adj.",
+    "def_": "extremely angry",
+    "zh": "暴怒的；（皮膚）青紫的",
+    "syn": "furious, enraged, irate",
+    "ant": "calm, pleased",
+    "sent": "The manager was livid when he discovered that the shipment had been sent to the wrong country.",
+    "tr": "經理發現貨物寄錯國家時氣炸了。",
+    "lvl": 2,
+    "src": "Barron's U45；Hot Words L40；字根字首 U197"
    }
   ],
-  "tip_zh": "lucid 清晰（luc 光 → 透亮）；lurid 駭人聽聞、刺眼俗豔（r = red 血紅）",
-  "tip_en": "lucid = clear; lurid = shocking, sensational",
-  "trap": "只差 c／r，一個正面清楚，一個負面聳動。",
+  "tip_zh": "lucid 清晰（luc 光 → 透亮）；lurid 駭人聽聞、刺眼俗豔（r = red 血紅）；livid 暴怒的（氣到臉色發青）",
+  "tip_en": "lucid = clear; lurid = shocking, sensational; livid = furious",
+  "trap": "只差 c／r，一個正面清楚，一個負面聳動。livid 和 lucid、lurid 都是 l-…-id，三字意思完全不同。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-053",
@@ -2382,7 +2784,7 @@
  },
  {
   "type": "A",
-  "name": "virtuoso/virtuous",
+  "name": "virtuoso/virtuous/virtual",
   "words": [
    {
     "word": "virtuoso",
@@ -2407,11 +2809,23 @@
     "tr": "這則寓言把歸還失落錢包的正直農夫塑造成孩子的榜樣。",
     "lvl": 2,
     "src": "306/386 U30；字根字首 U234"
+   },
+   {
+    "word": "virtual",
+    "pos": "adj.",
+    "def_": "almost or nearly; existing online rather than physically",
+    "zh": "幾乎的；實際上的；虛擬的",
+    "syn": "near, practical, online",
+    "ant": "actual, real",
+    "sent": "Because of the snowstorm, the city came to a virtual standstill.",
+    "tr": "因為暴風雪，整座城市幾乎陷入停擺。",
+    "lvl": 1,
+    "src": "Hot Words L95"
    }
   ],
-  "tip_zh": "virtuoso 技藝精湛的大師（-oso 音樂術語 → 演奏家）；virtuous 有德行的（virtue 美德）",
-  "tip_en": "virtuoso = master performer; virtuous = morally good",
-  "trap": "同源於 virtue，但 virtuoso 講技藝，virtuous 講道德。",
+  "tip_zh": "virtuoso 技藝精湛的大師（-oso 音樂術語 → 演奏家）；virtuous 有德行的（virtue 美德）；virtual 近乎的、實際上的；也指虛擬的",
+  "tip_en": "virtuoso = master performer; virtuous = morally good; virtual = almost; online",
+  "trap": "同源於 virtue，但 virtuoso 講技藝，virtuous 講道德。virtual 也以 virtu- 開頭，SAT 常考 a virtual + 名詞＝「幾乎是…」。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-054",
@@ -2419,7 +2833,7 @@
  },
  {
   "type": "A",
-  "name": "elegy/eulogy",
+  "name": "elegy/eulogy/effigy",
   "words": [
    {
     "word": "elegy",
@@ -2444,11 +2858,23 @@
     "tr": "葬禮上，他女兒發表動人悼詞，講述他對陌生人的善意。",
     "lvl": 2,
     "src": "字根字首 U82,111"
+   },
+   {
+    "word": "effigy",
+    "pos": "n.",
+    "def_": "a model or image of a person, often made to show dislike",
+    "zh": "肖像；（示威用的）人偶",
+    "syn": "figure, dummy, likeness",
+    "ant": "",
+    "sent": "Protesters burned an effigy of the dictator outside the embassy.",
+    "tr": "抗議者在大使館外焚燒獨裁者的人偶。",
+    "lvl": 3,
+    "src": "Barron's U7；字根字首 U26"
    }
   ],
-  "tip_zh": "elegy 哀歌（詩）；eulogy 悼詞、頌詞（eu- 好話 + logy 說）",
-  "tip_en": "elegy = mournful poem; eulogy = speech praising someone",
-  "trap": "都與死亡有關，但 elegy 是詩歌形式，eulogy 是演講、讚美。",
+  "tip_zh": "elegy 哀歌（詩）；eulogy 悼詞、頌詞（eu- 好話 + logy 說）；effigy 人像、肖像（fig 像 figure）",
+  "tip_en": "elegy = mournful poem; eulogy = speech praising someone; effigy = model of a person",
+  "trap": "都與死亡有關，但 elegy 是詩歌形式，eulogy 是演講、讚美。effigy 字尾和 elegy、eulogy 一樣是 -gy，但和死亡無關，是「人像」。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-055",
@@ -2456,7 +2882,7 @@
  },
  {
   "type": "A",
-  "name": "congenial/congenital",
+  "name": "congenial/congenital/genial",
   "words": [
    {
     "word": "congenial",
@@ -2468,7 +2894,10 @@
     "sent": "The small seminar offered a congenial atmosphere where shy students felt free to speak.",
     "tr": "小型研討課氣氛融洽，讓害羞學生也敢發言。",
     "lvl": 3,
-    "src": "Barron's U25；Hot Words L6；VA U1；字根字首 U14,105"
+    "src": "Barron's U25；Hot Words L6；VA U1；字根字首 U14,105",
+    "ex": [
+     "genial"
+    ]
    },
    {
     "word": "congenital",
@@ -2481,11 +2910,26 @@
     "tr": "這名嬰兒天生患有先天性心臟疾病，需要手術。",
     "lvl": 2,
     "src": "字根字首 U14,105"
+   },
+   {
+    "word": "genial",
+    "pos": "adj.",
+    "def_": "friendly and cheerful",
+    "zh": "親切的；和藹的",
+    "syn": "friendly, amiable, cordial",
+    "ant": "unfriendly, surly",
+    "sent": "The genial host greeted every guest by name.",
+    "tr": "這位和藹的主人能叫出每位客人的名字並一一問候。",
+    "lvl": 3,
+    "src": "Hot Words L6；字根字首 U105",
+    "ex": [
+     "congenial"
+    ]
    }
   ],
-  "tip_zh": "congenial 意氣相投、宜人（genial 親切）；congenital 先天的（genital → 出生就有）",
-  "tip_en": "congenial = pleasant, compatible; congenital = present from birth",
-  "trap": "只差 -tal；congenital 與「出生」有關，不是「親切」。",
+  "tip_zh": "congenial 意氣相投、宜人（genial 親切）；congenital 先天的（genital → 出生就有）；genial 親切和藹（形容一個人）",
+  "tip_en": "congenial = pleasant, compatible; congenital = present from birth; genial = friendly and cheerful",
+  "trap": "只差 -tal；congenital 與「出生」有關，不是「親切」。genial 與 congenial 意思相近：genial 是人很和藹，congenial 是「意氣相投、氣氛宜人」。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-056",
@@ -2493,7 +2937,7 @@
  },
  {
   "type": "A",
-  "name": "decorous/decorative",
+  "name": "decorous/decorative/decorum",
   "words": [
    {
     "word": "decorous",
@@ -2518,11 +2962,23 @@
     "tr": "這些雕花板純屬裝飾，並不支撐屋頂。",
     "lvl": 1,
     "src": "Hot Words L73"
+   },
+   {
+    "word": "decorum",
+    "pos": "n.",
+    "def_": "proper and polite behavior",
+    "zh": "禮節；得體",
+    "syn": "propriety, etiquette, dignity",
+    "ant": "impropriety",
+    "sent": "The judge reminded the crowd to maintain decorum in the courtroom.",
+    "tr": "法官提醒群眾在法庭內保持禮節。",
+    "lvl": 3,
+    "src": "Barron's U30；字根字首 U177"
    }
   ],
-  "tip_zh": "decorous 舉止得體（decorum 禮節）；decorative 裝飾的（decorate）",
-  "tip_en": "decorous = proper in behavior; decorative = ornamental",
-  "trap": "兩字同源，但 decorous 講禮儀，decorative 講外觀裝飾。",
+  "tip_zh": "decorous 舉止得體（decorum 禮節）；decorative 裝飾的（decorate）；decorum 禮節（n.，decorous 的名詞）",
+  "tip_en": "decorous = proper in behavior; decorative = ornamental; decorum = proper behavior",
+  "trap": "兩字同源，但 decorous 講禮儀，decorative 講外觀裝飾。decorum 是 decorous 的名詞，和 decorative（裝飾）無關。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-057",
@@ -2530,7 +2986,7 @@
  },
  {
   "type": "A",
-  "name": "diffuse/defuse",
+  "name": "diffuse/defuse/infuse",
   "words": [
    {
     "word": "diffuse",
@@ -2555,11 +3011,23 @@
     "tr": "老師請兩名學生冷靜說明觀點，化解了這場爭吵。",
     "lvl": 3,
     "src": "字根字首 U18,152"
+   },
+   {
+    "word": "infuse",
+    "pos": "v.",
+    "def_": "to fill with a quality; to soak in liquid",
+    "zh": "注入；灌輸；浸泡",
+    "syn": "instill, imbue, fill",
+    "ant": "drain",
+    "sent": "The new coach managed to infuse the team with confidence.",
+    "tr": "新教練成功為球隊注入信心。",
+    "lvl": 3,
+    "src": "字根字首 U43,152"
    }
   ],
-  "tip_zh": "diffuse 散播擴散（dif- 分散 + fuse 倒）；defuse 拆除引信、化解（de- 去除 + fuse 引信）",
-  "tip_en": "diffuse = spread out; defuse = calm a tense situation",
-  "trap": "發音接近，學生寫作時常把 defuse the tension 寫成 diffuse。",
+  "tip_zh": "diffuse 散播擴散（dif- 分散 + fuse 倒）；defuse 拆除引信、化解（de- 去除 + fuse 引信）；infuse 注入、灌輸（in- 倒進去）",
+  "tip_en": "diffuse = spread out; defuse = calm a tense situation; infuse = fill with a quality",
+  "trap": "發音接近，學生寫作時常把 defuse the tension 寫成 diffuse。三字都是 -fuse（倒）：diffuse 向四方散開、defuse 拆除引信、infuse 倒進去。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-058",
@@ -2567,7 +3035,7 @@
  },
  {
   "type": "A",
-  "name": "effusive/elusive",
+  "name": "effusive/elusive/evasive",
   "words": [
    {
     "word": "effusive",
@@ -2592,11 +3060,23 @@
     "tr": "儘管研究數十年，治癒感冒的方法依然難以找到。",
     "lvl": 2,
     "src": "Barron's U10；306/386 U10；字根字首 U26"
+   },
+   {
+    "word": "evasive",
+    "pos": "adj.",
+    "def_": "avoiding direct answers",
+    "zh": "閃爍其詞的；逃避的",
+    "syn": "vague, indirect, equivocal",
+    "ant": "direct, frank",
+    "sent": "When asked about the missing funds, the mayor gave evasive answers.",
+    "tr": "被問到失蹤的資金時，市長閃爍其詞。",
+    "lvl": 2,
+    "src": "字根字首 U27"
    }
   ],
-  "tip_zh": "effusive 熱情洋溢（ef- 往外 + fuse 倒出情感）；elusive 難以捉摸（elude 躲避）",
-  "tip_en": "effusive = overflowing with emotion; elusive = hard to catch",
-  "trap": "字形相近，但 effusive 是情感外露，elusive 是難以捉住或理解。",
+  "tip_zh": "effusive 熱情洋溢（ef- 往外 + fuse 倒出情感）；elusive 難以捉摸（elude 躲避）；evasive 閃躲的（evade 逃避）",
+  "tip_en": "effusive = overflowing with emotion; elusive = hard to catch; evasive = avoiding direct answers",
+  "trap": "字形相近，但 effusive 是情感外露，elusive 是難以捉住或理解。evasive 和 elusive 都有「躲」：elusive 是東西難以捉摸，evasive 是人故意迴避。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-059",
@@ -2604,7 +3084,7 @@
  },
  {
   "type": "A",
-  "name": "strident/stringent",
+  "name": "strident/stringent/astringent",
   "words": [
    {
     "word": "strident",
@@ -2629,11 +3109,23 @@
     "tr": "嚴格的安全規定要求工人在工地隨時戴安全帽。",
     "lvl": 2,
     "src": "Hot Words L53；字根字首 U226"
+   },
+   {
+    "word": "astringent",
+    "pos": "n./adj.",
+    "def_": "a substance that tightens the skin; sharply critical",
+    "zh": "收斂劑；尖刻的",
+    "syn": "harsh, severe, caustic",
+    "ant": "mild, gentle",
+    "sent": "The lotion contains an astringent that tightens the skin and reduces oil.",
+    "tr": "這款化妝水含收斂成分，能緊緻肌膚、減少油脂。",
+    "lvl": 3,
+    "src": "字根字首 U4"
    }
   ],
-  "tip_zh": "strident 刺耳尖銳（strid 像 shriek 尖叫）；stringent 嚴格的（string 綁得很緊）",
-  "tip_en": "strident = loud and harsh; stringent = strict",
-  "trap": "字形接近，但 strident 形容聲音或語氣，stringent 形容規則。",
+  "tip_zh": "strident 刺耳尖銳（strid 像 shriek 尖叫）；stringent 嚴格的（string 綁得很緊）；astringent 收斂的；（言詞）尖刻的",
+  "tip_en": "strident = loud and harsh; stringent = strict; astringent = tightening; sharply critical",
+  "trap": "字形接近，但 strident 形容聲音或語氣，stringent 形容規則。astringent 是 a- ＋ stringent，同樣有「緊」的意思，也可形容尖刻的評論。",
   "score": 2.5,
   "unit": "形近字 U6",
   "id": "形近-060",
@@ -2641,7 +3133,7 @@
  },
  {
   "type": "A",
-  "name": "illustrious/industrious",
+  "name": "illustrious/industrious/lustrous",
   "words": [
    {
     "word": "illustrious",
@@ -2666,11 +3158,23 @@
     "tr": "勤奮的螞蟻整個下午都把麵包屑搬回巢裡。",
     "lvl": 3,
     "src": "Hot Words L56；字根字首 U193"
+   },
+   {
+    "word": "lustrous",
+    "pos": "adj.",
+    "def_": "shining softly",
+    "zh": "有光澤的",
+    "syn": "shiny, glossy, gleaming",
+    "ant": "dull",
+    "sent": "The cat's lustrous black fur shone in the sunlight.",
+    "tr": "那隻貓光亮的黑毛在陽光下閃耀。",
+    "lvl": 3,
+    "src": "Hot Words L73"
    }
   ],
-  "tip_zh": "illustrious 顯赫著名（illustrate 照亮 → 光彩）；industrious 勤勉的（industry 勤勞）",
-  "tip_en": "illustrious = famous, distinguished; industrious = hardworking",
-  "trap": "字尾相同、長度相近，學生常互相混淆。",
+  "tip_zh": "illustrious 顯赫著名（illustrate 照亮 → 光彩）；industrious 勤勉的（industry 勤勞）；lustrous 有光澤的（luster 光澤；illustrious 也含 lustr）",
+  "tip_en": "illustrious = famous, distinguished; industrious = hardworking; lustrous = shiny",
+  "trap": "字尾相同、長度相近，學生常互相混淆。illustrious 本來就含 lustr（光），所以是「顯赫有光彩」；lustrous 則是真的「發亮」。",
   "score": 2.5,
   "unit": "形近字 U7",
   "id": "形近-061",
@@ -2678,7 +3182,7 @@
  },
  {
   "type": "A",
-  "name": "pragmatic/dogmatic",
+  "name": "pragmatic/dogmatic/enigmatic",
   "words": [
    {
     "word": "pragmatic",
@@ -2703,11 +3207,23 @@
     "tr": "這位武斷的教授否定所有與他理論相悖的研究。",
     "lvl": 3,
     "src": "Hot Words L53,67；字根字首 U97,142,179"
+   },
+   {
+    "word": "enigmatic",
+    "pos": "adj.",
+    "def_": "mysterious and hard to understand",
+    "zh": "謎樣的；費解的",
+    "syn": "mysterious, puzzling, cryptic",
+    "ant": "clear, obvious",
+    "sent": "The Mona Lisa's enigmatic smile has puzzled viewers for centuries.",
+    "tr": "蒙娜麗莎謎樣的微笑讓觀者困惑了數世紀。",
+    "lvl": 2,
+    "src": "Hot Words L49；字根字首 U181"
    }
   ],
-  "tip_zh": "pragmatic 務實的（practice 實際做）；dogmatic 武斷教條的（dogma 教條）",
-  "tip_en": "pragmatic = practical; dogmatic = rigidly opinionated",
-  "trap": "字尾相同，常一起出現在 SAT 題目描述人物態度。",
+  "tip_zh": "pragmatic 務實的（practice 實際做）；dogmatic 武斷教條的（dogma 教條）；enigmatic 謎樣的（enigma 謎）",
+  "tip_en": "pragmatic = practical; dogmatic = rigidly opinionated; enigmatic = mysterious",
+  "trap": "字尾相同，常一起出現在 SAT 題目描述人物態度。三字都是 -matic 結尾，enigmatic 形容神祕難解，和態度務實或武斷無關。",
   "score": 2.5,
   "unit": "形近字 U7",
   "id": "形近-062",
@@ -2715,7 +3231,7 @@
  },
  {
   "type": "A",
-  "name": "precocious/precarious",
+  "name": "precocious/precarious/prescient",
   "words": [
    {
     "word": "precocious",
@@ -2740,11 +3256,23 @@
     "tr": "花瓶危險地擺在架子最邊緣。",
     "lvl": 2,
     "src": "Hot Words L10；306/386 U21；字根字首 U212"
+   },
+   {
+    "word": "prescient",
+    "pos": "adj.",
+    "def_": "knowing about events before they happen",
+    "zh": "有先見之明的",
+    "syn": "farsighted, prophetic, visionary",
+    "ant": "shortsighted",
+    "sent": "Her prescient warning about the housing bubble came two years before the crash.",
+    "tr": "她對房市泡沫的先見警告，比崩盤早了兩年。",
+    "lvl": 3,
+    "src": "字根字首 U60,150"
    }
   ],
-  "tip_zh": "precocious 早熟的（pre- 提早 + coc 煮熟）；precarious 岌岌可危（care 小心翼翼才撐得住）",
-  "tip_en": "precocious = developed early; precarious = unstable, risky",
-  "trap": "都是 prec- 開頭，學生常混淆兩者。",
+  "tip_zh": "precocious 早熟的（pre- 提早 + coc 煮熟）；precarious 岌岌可危（care 小心翼翼才撐得住）；prescient 有先見之明（pre- 事先 + sci 知道）",
+  "tip_en": "precocious = developed early; precarious = unstable, risky; prescient = knowing in advance",
+  "trap": "都是 prec- 開頭，學生常混淆兩者。prescient 也以 pre- 開頭：precocious 是提早成熟，prescient 是提早知道。",
   "score": 2.5,
   "unit": "形近字 U7",
   "id": "形近-063",
@@ -2789,7 +3317,7 @@
  },
  {
   "type": "A",
-  "name": "prolific/prolix",
+  "name": "prolific/prolix/proliferate",
   "words": [
    {
     "word": "prolific",
@@ -2814,11 +3342,23 @@
     "tr": "法官要求律師縮短他冗長的論述。",
     "lvl": 4,
     "src": "VA U21；字根字首 U213"
+   },
+   {
+    "word": "proliferate",
+    "pos": "v.",
+    "def_": "to increase rapidly in number",
+    "zh": "激增；擴散",
+    "syn": "multiply, spread, mushroom",
+    "ant": "decline, dwindle",
+    "sent": "Coffee shops have proliferated downtown, with three new ones opening this month.",
+    "tr": "市中心的咖啡店激增，這個月就新開了三家。",
+    "lvl": 3,
+    "src": "Hot Words L44"
    }
   ],
-  "tip_zh": "prolific 多產的（pro- 向前 + fic 做 → 產量多）；prolix 冗長囉嗦（lix 拖拉）",
-  "tip_en": "prolific = productive; prolix = wordy",
-  "trap": "都是 proli- 開頭，學生常以為 prolix 也是「多產」。",
+  "tip_zh": "prolific 多產的（pro- 向前 + fic 做 → 產量多）；prolix 冗長囉嗦（lix 拖拉）；proliferate 激增（v.，prolific 的動詞親戚）",
+  "tip_en": "prolific = productive; prolix = wordy; proliferate = multiply rapidly",
+  "trap": "都是 proli- 開頭，學生常以為 prolix 也是「多產」。proliferate 和 prolific 同源（大量產生），prolix 只是長得像。",
   "score": 2.5,
   "unit": "形近字 U7",
   "id": "形近-065",
@@ -2924,7 +3464,7 @@
  },
  {
   "type": "A",
-  "name": "prodigal/prodigious",
+  "name": "prodigal/prodigious/propitious",
   "words": [
    {
     "word": "prodigal",
@@ -2949,11 +3489,23 @@
     "tr": "建造金字塔需要驚人的勞力，動用數千名工人歷時數十年。",
     "lvl": 3,
     "src": "Barron's U32；VA U13；字根字首 U78"
+   },
+   {
+    "word": "propitious",
+    "pos": "adj.",
+    "def_": "likely to bring success; favorable",
+    "zh": "吉利的；有利的",
+    "syn": "favorable, auspicious, promising",
+    "ant": "unfavorable, inauspicious",
+    "sent": "With clear skies and calm winds, conditions were propitious for the launch.",
+    "tr": "天空晴朗、風勢平靜，發射條件十分有利。",
+    "lvl": 4,
+    "src": "Barron's U13；Hot Words L68；字根字首 U78"
    }
   ],
-  "tip_zh": "prodigal 揮霍浪費（浪子回頭 the prodigal son）；prodigious 巨大驚人",
-  "tip_en": "prodigal = wasteful; prodigious = enormous, amazing",
-  "trap": "prodigal 看起來像 prodigy（神童），學生常以為是「天才的」；其實是「揮霍的」。",
+  "tip_zh": "prodigal 揮霍浪費（浪子回頭 the prodigal son）；prodigious 巨大驚人；propitious 吉利、有利的",
+  "tip_en": "prodigal = wasteful; prodigious = enormous, amazing; propitious = favorable",
+  "trap": "prodigal 看起來像 prodigy（神童），學生常以為是「天才的」；其實是「揮霍的」。propitious 與 prodigious 字尾相近（-itious／-igious），意思接近 auspicious。",
   "score": 3.0,
   "unit": "形近字 U7",
   "id": "形近-068",
@@ -2961,7 +3513,7 @@
  },
  {
   "type": "A",
-  "name": "ingenious/ingenuous",
+  "name": "ingenious/ingenuous/disingenuous/ingenuity",
   "words": [
    {
     "word": "ingenious",
@@ -2986,11 +3538,35 @@
     "tr": "這位天真的年輕實習生相信了業務員的每一個承諾。",
     "lvl": 4,
     "src": "Hot Words L37；字根字首 U43,105"
+   },
+   {
+    "word": "disingenuous",
+    "pos": "adj.",
+    "def_": "not sincere; pretending to know less than one does",
+    "zh": "不真誠的；虛偽的",
+    "syn": "insincere, dishonest, deceitful",
+    "ant": "sincere, candid",
+    "sent": "It was disingenuous of the company to claim it had never heard of the problem, since employees had reported it for years.",
+    "tr": "公司宣稱從未聽過這個問題實在不誠實，因為員工多年來一直在反映。",
+    "lvl": 2,
+    "src": "Hot Words L36；VA U22；字根字首 U23"
+   },
+   {
+    "word": "ingenuity",
+    "pos": "n.",
+    "def_": "the quality of being clever and inventive",
+    "zh": "巧思；獨創性",
+    "syn": "inventiveness, creativity, resourcefulness",
+    "ant": "dullness",
+    "sent": "With great ingenuity, the students built a working robot from recycled parts.",
+    "tr": "學生們發揮巧思，用回收零件做出一台能運作的機器人。",
+    "lvl": 2,
+    "src": "Hot Words L85"
    }
   ],
-  "tip_zh": "ingenious 有 i = idea 點子多 → 聰明巧妙；ingenuous 有 u = you are naive → 天真坦率",
-  "tip_en": "ingenious = clever; ingenuous = innocent, naive",
-  "trap": "只差一個字母；學生常把 ingenuous 當「聰明」，其實是「天真、不設防」。",
+  "tip_zh": "ingenious 有 i = idea 點子多 → 聰明巧妙；ingenuous 有 u = you are naive → 天真坦率；disingenuous 不真誠（dis- + ingenuous 坦率 → 假坦率）；ingenuity 巧思（n.，是 ingenious 的名詞）",
+  "tip_en": "ingenious = clever; ingenuous = innocent, naive; disingenuous = insincere; ingenuity = cleverness (noun of ingenious)",
+  "trap": "只差一個字母；學生常把 ingenuous 當「聰明」，其實是「天真、不設防」。ingenuity 雖然長得像 ingenuous，卻是 ingenious（聰明）的名詞；disingenuous 是 ingenuous 的反義。",
   "score": 3.0,
   "unit": "形近字 U7",
   "id": "形近-069",
@@ -2998,7 +3574,7 @@
  },
  {
   "type": "A",
-  "name": "complacent/complaisant",
+  "name": "complacent/complaisant/placate",
   "words": [
    {
     "word": "complacent",
@@ -3023,11 +3599,23 @@
     "tr": "這位殷勤的主人答應了每個要求，連晚餐都延後了。",
     "lvl": 4,
     "src": "字根字首 U174"
+   },
+   {
+    "word": "placate",
+    "pos": "v.",
+    "def_": "to make someone less angry",
+    "zh": "安撫；平息",
+    "syn": "pacify, appease, soothe",
+    "ant": "provoke, enrage",
+    "sent": "The airline offered free hotel rooms to placate the stranded passengers.",
+    "tr": "航空公司提供免費飯店房間，安撫受困乘客。",
+    "lvl": 3,
+    "src": "Hot Words L5；VA U29；字根字首 U210"
    }
   ],
-  "tip_zh": "complacent 自滿鬆懈（placent 安心過頭）；complaisant 樂於順從（-saint 像聖人一樣好說話）",
-  "tip_en": "complacent = smugly satisfied; complaisant = eager to please",
-  "trap": "發音幾乎一樣；complacent 是負面的自滿，complaisant 則是順從討好。",
+  "tip_zh": "complacent 自滿鬆懈（placent 安心過頭）；complaisant 樂於順從（-saint 像聖人一樣好說話）；placate 安撫（plac 使高興，同 complacent、complaisant）",
+  "tip_en": "complacent = smugly satisfied; complaisant = eager to please; placate = calm someone's anger",
+  "trap": "發音幾乎一樣；complacent 是負面的自滿，complaisant 則是順從討好。三字同字根 plac（使高興）：complacent 太滿意自己、complaisant 想讓別人高興、placate 讓生氣的人平息。",
   "score": 3.0,
   "unit": "形近字 U7",
   "id": "形近-070",
@@ -3084,7 +3672,7 @@
  },
  {
   "type": "A",
-  "name": "inequity/iniquity",
+  "name": "inequity/iniquity/ubiquity",
   "words": [
    {
     "word": "inequity",
@@ -3109,11 +3697,23 @@
     "tr": "講道譴責那些從他人苦難中牟利者的邪惡。",
     "lvl": 3,
     "src": "Barron's U43；VA U33；字根字首 U40"
+   },
+   {
+    "word": "ubiquity",
+    "pos": "n.",
+    "def_": "the state of being everywhere",
+    "zh": "無所不在",
+    "syn": "omnipresence, pervasiveness, prevalence",
+    "ant": "rarity, scarcity",
+    "sent": "The ubiquity of smartphones has changed how people read the news.",
+    "tr": "智慧型手機無所不在，改變了人們讀新聞的方式。",
+    "lvl": 3,
+    "src": "Hot Words L91；字根字首 U231"
    }
   ],
-  "tip_zh": "inequity 不公平（in + equity 公平）；iniquity 邪惡（i 開頭像 evil 的罪孽）",
-  "tip_en": "inequity = unfairness; iniquity = wickedness",
-  "trap": "發音幾乎相同；inequity 是制度上的不公，iniquity 是道德上的罪惡。",
+  "tip_zh": "inequity 不公平（in + equity 公平）；iniquity 邪惡（i 開頭像 evil 的罪孽）；ubiquity 無所不在（ubiqu 到處）",
+  "tip_en": "inequity = unfairness; iniquity = wickedness; ubiquity = being everywhere",
+  "trap": "發音幾乎相同；inequity 是制度上的不公，iniquity 是道德上的罪惡。ubiquity 與 iniquity 都是 -iquity 結尾，一個是到處都有，一個是罪惡。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-072",
@@ -3121,7 +3721,7 @@
  },
  {
   "type": "A",
-  "name": "insidious/invidious",
+  "name": "insidious/invidious/perfidious/fastidious",
   "words": [
    {
     "word": "insidious",
@@ -3146,11 +3746,35 @@
     "tr": "要父母說出最疼哪個孩子，會讓他們陷入招怨的處境。",
     "lvl": 4,
     "src": "Hot Words L12"
+   },
+   {
+    "word": "perfidious",
+    "pos": "adj.",
+    "def_": "deceitful and disloyal",
+    "zh": "背信棄義的",
+    "syn": "treacherous, disloyal, faithless",
+    "ant": "loyal, faithful",
+    "sent": "The perfidious ally signed a secret deal with the enemy.",
+    "tr": "那個背信的盟友與敵人簽了秘密協議。",
+    "lvl": 4,
+    "src": "Barron's U36；Hot Words L63；VA U36；字根字首 U57"
+   },
+   {
+    "word": "fastidious",
+    "pos": "adj.",
+    "def_": "very attentive to detail; hard to please",
+    "zh": "挑剔的；講究的",
+    "syn": "meticulous, fussy, particular",
+    "ant": "careless, sloppy",
+    "sent": "A fastidious cook, he weighed every ingredient to the gram.",
+    "tr": "他是講究的廚師，每樣食材都秤到公克。",
+    "lvl": 3,
+    "src": "Barron's U34；Hot Words L31；VA U8；字根字首 U183"
    }
   ],
-  "tip_zh": "insidious 暗中為害（inside 從裡面慢慢侵蝕）；invidious 招人嫉妒、令人反感（envy 嫉妒）",
-  "tip_en": "insidious = harmful in a subtle way; invidious = unfair, causing resentment",
-  "trap": "兩字都是 in-…-dious，都含負面意思，但重點不同：一個是「隱伏」，一個是「招怨」。",
+  "tip_zh": "insidious 暗中為害（inside 從裡面慢慢侵蝕）；invidious 招人嫉妒、令人反感（envy 嫉妒）；perfidious 背信的（per- 違背 + fid 信任）；fastidious 挑剔講究",
+  "tip_en": "insidious = harmful in a subtle way; invidious = unfair, causing resentment; perfidious = treacherous; fastidious = very particular",
+  "trap": "兩字都是 in-…-dious，都含負面意思，但重點不同：一個是「隱伏」，一個是「招怨」。四字都是 -idious 結尾，靠字根分辨：sid 坐（潛伏）、vid 看（嫉妒）、fid 信任（背信）、fastid 挑剔。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-073",
@@ -3158,7 +3782,7 @@
  },
  {
   "type": "A",
-  "name": "precipitate/precipitous",
+  "name": "precipitate/precipitous/precipitation",
   "words": [
    {
     "word": "precipitate",
@@ -3183,11 +3807,23 @@
     "tr": "健行者沿著陡峭小徑緩緩前進，下方數百公尺就是河流。",
     "lvl": 3,
     "src": "字根字首 U212"
+   },
+   {
+    "word": "precipitation",
+    "pos": "n.",
+    "def_": "rain, snow, or hail that falls",
+    "zh": "降水（雨、雪等）",
+    "syn": "rainfall, rain, snowfall",
+    "ant": "drought",
+    "sent": "The region receives most of its precipitation in winter, when storms come in from the ocean.",
+    "tr": "這個地區的降水大多在冬季，也就是風暴從海上吹來的時候。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "precipitate 倉促的（行動太快）；precipitous 陡峭的（-ous 形容懸崖）",
-  "tip_en": "precipitate = hasty (action); precipitous = steep (cliff, drop)",
-  "trap": "兩字都來自「頭朝下墜落」，但 precipitate 形容決定，precipitous 形容坡度或劇降。",
+  "tip_zh": "precipitate 倉促的（行動太快）；precipitous 陡峭的（-ous 形容懸崖）；precipitation 降水（從天上「頭朝下」落下）",
+  "tip_en": "precipitate = hasty (action); precipitous = steep (cliff, drop); precipitation = rain or snow",
+  "trap": "兩字都來自「頭朝下墜落」，但 precipitate 形容決定，precipitous 形容坡度或劇降。precipitation 和 precipitate、precipitous 同源（墜落），閱讀科學文章時多指降雨。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-074",
@@ -3195,7 +3831,7 @@
  },
  {
   "type": "A",
-  "name": "vocation/avocation",
+  "name": "vocation/avocation/vacation",
   "words": [
    {
     "word": "vocation",
@@ -3220,11 +3856,23 @@
     "tr": "她的本業是外科醫師，週末則把繪畫當作業餘嗜好。",
     "lvl": 4,
     "src": "字根字首 U1,156"
+   },
+   {
+    "word": "vacation",
+    "pos": "n.",
+    "def_": "a period of rest away from work or school",
+    "zh": "假期",
+    "syn": "holiday, break, leave",
+    "ant": "",
+    "sent": "The family spent their summer vacation camping by the lake.",
+    "tr": "這家人暑假在湖邊露營。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "vocation 正職、天職（voc 呼喚 → 被召喚的工作）；avocation 業餘嗜好（a- 離開正職）",
-  "tip_en": "vocation = calling, career; avocation = hobby",
-  "trap": "只多一個 a，意思卻相反：一個是正職，一個是正職以外的嗜好。",
+  "tip_zh": "vocation 正職、天職（voc 呼喚 → 被召喚的工作）；avocation 業餘嗜好（a- 離開正職）；vacation 假期（vac 空 → 空出時間）",
+  "tip_en": "vocation = calling, career; avocation = hobby; vacation = holiday",
+  "trap": "只多一個 a，意思卻相反：一個是正職，一個是正職以外的嗜好。vacation 和 vocation 只差一個母音，avocation 也不是 vacation。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-075",
@@ -3232,7 +3880,7 @@
  },
  {
   "type": "A",
-  "name": "impudent/imprudent",
+  "name": "impudent/imprudent/prudent",
   "words": [
    {
     "word": "impudent",
@@ -3257,11 +3905,23 @@
     "tr": "把全部積蓄投入一家未經考驗的公司是不明智的。",
     "lvl": 3,
     "src": "Barron's U24；Hot Words L30；306/386 U14；字根字首 U36,38"
+   },
+   {
+    "word": "prudent",
+    "pos": "adj.",
+    "def_": "wise and careful about the future",
+    "zh": "審慎的；精明的",
+    "syn": "wise, sensible, cautious",
+    "ant": "imprudent, reckless",
+    "sent": "It is prudent to save part of every paycheck for emergencies.",
+    "tr": "每份薪水存一部分以備急用是明智的。",
+    "lvl": 2,
+    "src": "Barron's U31；Hot Words L28；VA U3；字根字首 U213"
    }
   ],
-  "tip_zh": "impudent 厚顏無禮（pudor 羞恥 → 不知羞）；imprudent 不明智（prudent 謹慎 → 不謹慎）",
-  "tip_en": "impudent = rude; imprudent = unwise",
-  "trap": "只差一個 r；impudent 是態度問題，imprudent 是判斷問題。",
+  "tip_zh": "impudent 厚顏無禮（pudor 羞恥 → 不知羞）；imprudent 不明智（prudent 謹慎 → 不謹慎）；prudent 審慎的（imprudent 的反義）",
+  "tip_en": "impudent = rude; imprudent = unwise; prudent = wise and careful",
+  "trap": "只差一個 r；impudent 是態度問題，imprudent 是判斷問題。prudent 是 imprudent 的反義，impudent（無禮）則和它無關。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-076",
@@ -3269,7 +3929,7 @@
  },
  {
   "type": "A",
-  "name": "incipient/insipid",
+  "name": "incipient/insipid/recipient",
   "words": [
    {
     "word": "incipient",
@@ -3294,11 +3954,23 @@
     "tr": "評論家認為續集平淡乏味，情節可預料、角色扁平。",
     "lvl": 3,
     "src": "Hot Words L4；字根字首 U40"
+   },
+   {
+    "word": "recipient",
+    "pos": "n.",
+    "def_": "a person who receives something",
+    "zh": "接受者；得獎者",
+    "syn": "receiver, beneficiary, winner",
+    "ant": "donor, giver",
+    "sent": "Each recipient of the scholarship will receive five thousand dollars.",
+    "tr": "每位獎學金得主將獲得五千美元。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "incipient 剛開始的（incipit 開始）；insipid 平淡乏味（sip 喝一口沒味道）",
-  "tip_en": "incipient = beginning; insipid = bland",
-  "trap": "字形相似，但一個講時間起點，一個講味道或內容平淡。",
+  "tip_zh": "incipient 剛開始的（incipit 開始）；insipid 平淡乏味（sip 喝一口沒味道）；recipient 接受者（receive 接受）",
+  "tip_en": "incipient = beginning; insipid = bland; recipient = receiver",
+  "trap": "字形相似，但一個講時間起點，一個講味道或內容平淡。recipient 和 incipient 只差字首，一個是接受者（n.），一個是初期的（adj.）。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-077",
@@ -3306,7 +3978,7 @@
  },
  {
   "type": "A",
-  "name": "truculent/turbulent",
+  "name": "truculent/turbulent/succulent",
   "words": [
    {
     "word": "truculent",
@@ -3331,11 +4003,23 @@
     "tr": "這個國家經歷了動盪的十年，罷工、抗議不斷，政府更換三次。",
     "lvl": 2,
     "src": "Barron's U7；字根字首 U230"
+   },
+   {
+    "word": "succulent",
+    "pos": "adj.",
+    "def_": "juicy and delicious; (of plants) thick and storing water",
+    "zh": "多汁的；肉質的",
+    "syn": "juicy, tender, moist",
+    "ant": "dry",
+    "sent": "The chef served succulent slices of roast pork.",
+    "tr": "主廚端上多汁的烤豬肉片。",
+    "lvl": 2,
+    "src": "Barron's U41；字根字首 U226"
    }
   ],
-  "tip_zh": "truculent 好鬥兇狠（truc 像 truck 撞過來）；turbulent 動盪不安（turbine 攪動）",
-  "tip_en": "truculent = aggressive; turbulent = chaotic",
-  "trap": "字尾都是 -ulent，學生常混淆；truculent 形容人，turbulent 形容局勢、氣流。",
+  "tip_zh": "truculent 好鬥兇狠（truc 像 truck 撞過來）；turbulent 動盪不安（turbine 攪動）；succulent 多汁的（succ 汁液）",
+  "tip_en": "truculent = aggressive; turbulent = chaotic; succulent = juicy",
+  "trap": "字尾都是 -ulent，學生常混淆；truculent 形容人，turbulent 形容局勢、氣流。三字都是 -ulent 結尾，只能靠開頭分辨。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-078",
@@ -3343,7 +4027,7 @@
  },
  {
   "type": "A",
-  "name": "diffident/dissident",
+  "name": "diffident/dissident/confident",
   "words": [
    {
     "word": "diffident",
@@ -3368,11 +4052,23 @@
     "tr": "這位異議人士因發表批評政權的文章而坐牢十年。",
     "lvl": 2,
     "src": "Hot Words L61；VA U9；字根字首 U23,133"
+   },
+   {
+    "word": "confident",
+    "pos": "adj.",
+    "def_": "feeling sure of oneself",
+    "zh": "有自信的",
+    "syn": "self-assured, sure, poised",
+    "ant": "diffident, insecure",
+    "sent": "After weeks of practice, she felt confident walking onto the stage.",
+    "tr": "練習數週後，她自信地走上舞台。",
+    "lvl": 1,
+    "src": "Hot Words L67；306/386 U6；字根字首 U14"
    }
   ],
-  "tip_zh": "diffident 害羞缺乏自信（dif- 不 + fid 信任）；dissident 異議分子（dis- 分開 + sid 坐 → 不坐同一邊）",
-  "tip_en": "diffident = shy; dissident = protester",
-  "trap": "兩字字形接近，但 diffident 是個性，dissident 是政治立場。",
+  "tip_zh": "diffident 害羞缺乏自信（dif- 不 + fid 信任）；dissident 異議分子（dis- 分開 + sid 坐 → 不坐同一邊）；confident 有自信（con- 完全 + fid 信任，diffident 的反義）",
+  "tip_en": "diffident = shy; dissident = protester; confident = self-assured (opposite of diffident)",
+  "trap": "兩字字形接近，但 diffident 是個性，dissident 是政治立場。confident 和 diffident 同字根 fid（信任），字首相反：con- 有信心，dif- 沒信心。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-079",
@@ -3380,7 +4076,7 @@
  },
  {
   "type": "A",
-  "name": "equable/equitable",
+  "name": "equable/equitable/equanimity",
   "words": [
    {
     "word": "equable",
@@ -3405,11 +4101,23 @@
     "tr": "法院裁定兩名合夥人公平分配財產。",
     "lvl": 2,
     "src": "字根字首 U182"
+   },
+   {
+    "word": "equanimity",
+    "pos": "n.",
+    "def_": "calmness, especially in difficult situations",
+    "zh": "沉著；鎮定",
+    "syn": "composure, calm, poise",
+    "ant": "anxiety, agitation",
+    "sent": "She accepted the disappointing news with equanimity and began planning her next step.",
+    "tr": "她沉著地接受了令人失望的消息，開始規劃下一步。",
+    "lvl": 3,
+    "src": "Barron's U28,35；Hot Words L41；VA U15；字根字首 U88"
    }
   ],
-  "tip_zh": "equable 情緒平穩、氣候溫和（equal 平均不起伏）；equitable 公平公正（equity 公平）",
-  "tip_en": "equable = calm, even; equitable = fair",
-  "trap": "都源於 equ（相等），但 equable 講穩定，equitable 講公平分配。",
+  "tip_zh": "equable 情緒平穩、氣候溫和（equal 平均不起伏）；equitable 公平公正（equity 公平）；equanimity 沉著（equ 平 + anim 心 → 心平氣和）",
+  "tip_en": "equable = calm, even; equitable = fair; equanimity = calmness",
+  "trap": "都源於 equ（相等），但 equable 講穩定，equitable 講公平分配。equanimity 是名詞，意思接近 equable（性情平和），但和 equitable（公平）無關。",
   "score": 3.0,
   "unit": "形近字 U8",
   "id": "形近-080",
@@ -3466,7 +4174,7 @@
  },
  {
   "type": "A",
-  "name": "obtuse/abstruse",
+  "name": "obtuse/abstruse/obscure",
   "words": [
    {
     "word": "obtuse",
@@ -3491,11 +4199,23 @@
     "tr": "量子理論的講座深奧到連研究生都難以跟上。",
     "lvl": 4,
     "src": "Hot Words L49；VA U13；字根字首 U1,142"
+   },
+   {
+    "word": "obscure",
+    "pos": "adj./v.",
+    "def_": "not well known or hard to understand; to hide from view",
+    "zh": "晦澀的；不知名的；遮蔽",
+    "syn": "unclear, unknown, hide",
+    "ant": "clear, famous",
+    "sent": "Thick clouds obscured the top of the mountain all afternoon.",
+    "tr": "整個下午厚厚的雲層都遮住了山頂。",
+    "lvl": 1,
+    "src": "Barron's U27；Hot Words L30,49；306/386 U19；字根字首 U76"
    }
   ],
-  "tip_zh": "obtuse 遲鈍（人反應慢；鈍角）；abstruse 深奧難懂（abs- 藏起來 → 意思被藏住）",
-  "tip_en": "obtuse = slow to understand; abstruse = hard to understand",
-  "trap": "兩字都和「理解」有關：obtuse 是人不懂，abstruse 是內容難懂。",
+  "tip_zh": "obtuse 遲鈍（人反應慢；鈍角）；abstruse 深奧難懂（abs- 藏起來 → 意思被藏住）；obscure 晦澀、不知名；（v.）遮蔽",
+  "tip_en": "obtuse = slow to understand; abstruse = hard to understand; obscure = unclear, little known; to hide",
+  "trap": "兩字都和「理解」有關：obtuse 是人不懂，abstruse 是內容難懂。obscure 和 abstruse 都可形容「難懂」，但 obscure 還有「不出名」和「遮住」的意思。",
   "score": 3.0,
   "unit": "形近字 U9",
   "id": "形近-082",
@@ -3503,7 +4223,7 @@
  },
  {
   "type": "A",
-  "name": "recede/secede",
+  "name": "recede/secede/concede/accede",
   "words": [
    {
     "word": "recede",
@@ -3528,11 +4248,38 @@
     "tr": "1860 和 1861 年間，十一個南方州投票脫離美國聯邦。",
     "lvl": 3,
     "src": "字根字首 U64"
+   },
+   {
+    "word": "concede",
+    "pos": "v.",
+    "def_": "to admit something is true, often unwillingly; to give up",
+    "zh": "承認；讓步",
+    "syn": "admit, acknowledge, yield",
+    "ant": "deny, dispute",
+    "sent": "After the votes were counted, the candidate conceded defeat and congratulated her opponent.",
+    "tr": "開票結束後，候選人承認落敗並向對手道賀。",
+    "lvl": 2,
+    "src": "306/386 U6；字根字首 U13,95"
+   },
+   {
+    "word": "accede",
+    "pos": "v.",
+    "def_": "to agree to a demand or request",
+    "zh": "同意；答應",
+    "syn": "agree, consent, comply",
+    "ant": "refuse, reject",
+    "sent": "The company finally acceded to the workers' demands for safer equipment.",
+    "tr": "公司終於答應工人要求更安全設備的訴求。",
+    "lvl": 3,
+    "src": "VA U17；字根字首 U2,95",
+    "ex": [
+     "concede"
+    ]
    }
   ],
-  "tip_zh": "recede 後退（re- 往回）；secede 脫離（se- 分開，國家脫離聯邦）",
-  "tip_en": "recede = move back; secede = withdraw formally",
-  "trap": "只差一個字母；secede 專指正式脫離組織或國家。",
+  "tip_zh": "recede 後退（re- 往回）；secede 脫離（se- 分開，國家脫離聯邦）；concede 承認、讓步；accede 同意（要求）",
+  "tip_en": "recede = move back; secede = withdraw formally; concede = admit, give in; accede = agree",
+  "trap": "只差一個字母；secede 專指正式脫離組織或國家。四字都是 -cede（走），差在字首：re- 往回、se- 分開、con- 讓步、ac- 朝向（同意）。",
   "score": 3.0,
   "unit": "形近字 U9",
   "id": "形近-083",
@@ -3540,7 +4287,7 @@
  },
  {
   "type": "A",
-  "name": "tacit/taciturn",
+  "name": "tacit/taciturn/tactile",
   "words": [
    {
     "word": "tacit",
@@ -3565,11 +4312,23 @@
     "tr": "這位寡言的農夫每個問題都只用一個字回答。",
     "lvl": 3,
     "src": "Hot Words L1；VA U6；字根字首 U227"
+   },
+   {
+    "word": "tactile",
+    "pos": "adj.",
+    "def_": "relating to the sense of touch",
+    "zh": "觸覺的",
+    "syn": "tangible, touchable, sensory",
+    "ant": "",
+    "sent": "Young children learn through tactile experiences such as playing with sand and clay.",
+    "tr": "幼兒透過玩沙、玩黏土等觸覺經驗學習。",
+    "lvl": 2,
+    "src": "306/386 U28；字根字首 U136"
    }
   ],
-  "tip_zh": "tacit 心照不宣、默許的（不用說出口的同意）；taciturn 沉默寡言的（形容人）",
-  "tip_en": "tacit = understood without words; taciturn = habitually silent",
-  "trap": "同字根 tac（沉默），tacit 形容協議或理解，taciturn 形容個性。",
+  "tip_zh": "tacit 心照不宣、默許的（不用說出口的同意）；taciturn 沉默寡言的（形容人）；tactile 觸覺的（tact 觸摸，和 tacit 的 tac 沉默不同）",
+  "tip_en": "tacit = understood without words; taciturn = habitually silent; tactile = relating to touch",
+  "trap": "同字根 tac（沉默），tacit 形容協議或理解，taciturn 形容個性。tactile 長得像 tacit，但字根是 tact（觸摸），不是 tac（沉默）。",
   "score": 3.0,
   "unit": "形近字 U9",
   "id": "形近-084",
@@ -3577,7 +4336,7 @@
  },
  {
   "type": "A",
-  "name": "contemptible/contemptuous",
+  "name": "contemptible/contemptuous/contemplative",
   "words": [
    {
     "word": "contemptible",
@@ -3602,11 +4361,23 @@
     "tr": "被問到新人能否打敗她時，冠軍輕蔑地笑了一聲。",
     "lvl": 3,
     "src": "Barron's U24；Hot Words L3,80；字根字首 U15"
+   },
+   {
+    "word": "contemplative",
+    "pos": "adj.",
+    "def_": "thoughtful; spending time in deep thought",
+    "zh": "沉思的；冥想的",
+    "syn": "thoughtful, reflective, pensive",
+    "ant": "thoughtless",
+    "sent": "After the funeral, he took a long, contemplative walk along the beach.",
+    "tr": "葬禮後，他沿著海灘沉思地走了很久。",
+    "lvl": 3,
+    "src": "字根字首 U15"
    }
   ],
-  "tip_zh": "contemptible 可鄙的（-ible 被看不起）；contemptuous 輕蔑的（-uous 看不起別人）",
-  "tip_en": "contemptible = deserving contempt; contemptuous = showing contempt",
-  "trap": "一個是「被」鄙視，一個是「去」鄙視，主被動容易搞反。",
+  "tip_zh": "contemptible 可鄙的（-ible 被看不起）；contemptuous 輕蔑的（-uous 看不起別人）；contemplative 沉思的（contemplate 沉思）",
+  "tip_en": "contemptible = deserving contempt; contemptuous = showing contempt; contemplative = thoughtful",
+  "trap": "一個是「被」鄙視，一個是「去」鄙視，主被動容易搞反。contemplative 也以 contemp- 開頭，和「輕蔑」毫無關係。",
   "score": 3.0,
   "unit": "形近字 U9",
   "id": "形近-085",
@@ -3725,7 +4496,7 @@
  },
  {
   "type": "A",
-  "name": "replete/deplete",
+  "name": "replete/deplete/replenish",
   "words": [
    {
     "word": "replete",
@@ -3750,11 +4521,23 @@
     "tr": "過度捕撈已使北大西洋的鱈魚數量枯竭。",
     "lvl": 3,
     "src": "Hot Words L45；字根字首 U19,121"
+   },
+   {
+    "word": "replenish",
+    "pos": "v.",
+    "def_": "to fill up again",
+    "zh": "補充；重新裝滿",
+    "syn": "refill, restock, renew",
+    "ant": "deplete, exhaust",
+    "sent": "After the long hike, we stopped at a stream to replenish our water bottles.",
+    "tr": "長途健行後，我們在溪邊停下來補充水壺。",
+    "lvl": 2,
+    "src": "Barron's U42；306/386 U24；字根字首 U62,121"
    }
   ],
-  "tip_zh": "replete 充滿的（re- 再次 + plete 填滿）；deplete 耗盡（de- 去除 + plete）",
-  "tip_en": "replete = full; deplete = use up",
-  "trap": "同字根 plete（滿），字首相反，意思也相反。",
+  "tip_zh": "replete 充滿的（re- 再次 + plete 填滿）；deplete 耗盡（de- 去除 + plete）；replenish 補充（re- 再 + plen 滿），正好是 deplete 的反義",
+  "tip_en": "replete = full; deplete = use up; replenish = refill",
+  "trap": "同字根 plete（滿），字首相反，意思也相反。三字同字根 ple／plen（滿）：replete 滿的、deplete 耗盡、replenish 再補滿。",
   "score": 3.0,
   "unit": "形近字 U9",
   "id": "形近-089",
@@ -4056,7 +4839,7 @@
  },
  {
   "type": "A",
-  "name": "deprecate/depreciate",
+  "name": "deprecate/depreciate/appreciate",
   "words": [
    {
     "word": "deprecate",
@@ -4081,11 +4864,23 @@
     "tr": "新車一開出經銷商，就開始折舊貶值。",
     "lvl": 3,
     "src": "Hot Words L45；字根字首 U19"
+   },
+   {
+    "word": "appreciate",
+    "pos": "v.",
+    "def_": "to increase in value; to value highly",
+    "zh": "增值；欣賞",
+    "syn": "rise, gain, value",
+    "ant": "depreciate",
+    "sent": "Homes near the new subway station appreciated quickly after it opened.",
+    "tr": "新捷運站通車後，附近的房子迅速增值。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "deprecate 不贊成、貶低（pray against 反對）；depreciate 貶值（price 價格下降）",
-  "tip_en": "deprecate = express disapproval; depreciate = lose value",
-  "trap": "只差一個 i；depreciate 本身有 price 的影子，記得「價格」→ 貶值。",
+  "tip_zh": "deprecate 不贊成、貶低（pray against 反對）；depreciate 貶值（price 價格下降）；appreciate 增值（ap- 朝向 + preci 價格），是 depreciate 的反義",
+  "tip_en": "deprecate = express disapproval; depreciate = lose value; appreciate = rise in value",
+  "trap": "只差一個 i；depreciate 本身有 price 的影子，記得「價格」→ 貶值。depreciate／appreciate 是一組反義（貶值／增值），deprecate 則是「不贊成」。",
   "score": 3.5,
   "unit": "形近字 U10",
   "id": "形近-096",
@@ -4093,7 +4888,7 @@
  },
  {
   "type": "A",
-  "name": "salutary/salubrious",
+  "name": "salutary/salubrious/salutation",
   "words": [
    {
     "word": "salutary",
@@ -4118,11 +4913,23 @@
     "tr": "病患被送到空氣宜人的山上療養肺病。",
     "lvl": 4,
     "src": "Barron's U32；VA U18；字根字首 U219"
+   },
+   {
+    "word": "salutation",
+    "pos": "n.",
+    "def_": "a greeting",
+    "zh": "問候；稱呼語",
+    "syn": "greeting, welcome, address",
+    "ant": "farewell",
+    "sent": "Begin a formal letter with a salutation such as \"Dear Professor Lee.\"",
+    "tr": "正式信件要以「Dear Professor Lee」之類的稱呼語開頭。",
+    "lvl": 3,
+    "src": "字根字首 U219"
    }
   ],
-  "tip_zh": "salutary 有益的（經驗、教訓帶來好處）；salubrious 有益健康的（環境、空氣）",
-  "tip_en": "salutary = beneficial (lesson); salubrious = healthful (climate)",
-  "trap": "兩字都源自 salus（健康），但 salutary 多指教訓有益，salubrious 指環境宜人健康。",
+  "tip_zh": "salutary 有益的（經驗、教訓帶來好處）；salubrious 有益健康的（環境、空氣）；salutation 問候語（salute 敬禮、致意）",
+  "tip_en": "salutary = beneficial (lesson); salubrious = healthful (climate); salutation = greeting",
+  "trap": "兩字都源自 salus（健康），但 salutary 多指教訓有益，salubrious 指環境宜人健康。salutation 和 salutary 同源（salus 健康、平安），古人問候就是祝人平安。",
   "score": 3.5,
   "unit": "形近字 U10",
   "id": "形近-097",
@@ -4130,7 +4937,7 @@
  },
  {
   "type": "A",
-  "name": "veracity/voracity",
+  "name": "veracity/voracity/vivacity/verity",
   "words": [
    {
     "word": "veracity",
@@ -4155,11 +4962,35 @@
     "tr": "蝗蟲食量驚人，數小時內就把整片田地啃光。",
     "lvl": 4,
     "src": "新增"
+   },
+   {
+    "word": "vivacity",
+    "pos": "n.",
+    "def_": "liveliness and energy",
+    "zh": "活潑；朝氣",
+    "syn": "liveliness, energy, spirit",
+    "ant": "dullness",
+    "sent": "The actress's vivacity made her the center of attention at every party.",
+    "tr": "這位女演員活潑有朝氣，在每場派對上都是焦點。",
+    "lvl": 4,
+    "src": "字根字首 U145"
+   },
+   {
+    "word": "verity",
+    "pos": "n.",
+    "def_": "a true principle or belief",
+    "zh": "真理；真實",
+    "syn": "truth, principle, fact",
+    "ant": "falsehood",
+    "sent": "The novel questions the old verity that hard work always leads to success.",
+    "tr": "這部小說質疑「努力必有成果」這條老真理。",
+    "lvl": 3,
+    "src": "字根字首 U233"
    }
   ],
-  "tip_zh": "veracity 真實（veri = true）；voracity 貪食（vora = 吞食，voracious）",
-  "tip_en": "veracity = truthfulness; voracity = greediness",
-  "trap": "只差 e／o，一個講「真實」，一個講「狼吞虎嚥」。",
+  "tip_zh": "veracity 真實（veri = true）；voracity 貪食（vora = 吞食，voracious）；vivacity 活潑（viv 生命）；verity 真理（veri 真實，同 veracity）",
+  "tip_en": "veracity = truthfulness; voracity = greediness; vivacity = liveliness; verity = truth",
+  "trap": "只差 e／o，一個講「真實」，一個講「狼吞虎嚥」。四字長相接近：veracity 與 verity 都是「真」，voracity 是貪食，vivacity 是活潑。",
   "score": 3.5,
   "unit": "形近字 U10",
   "id": "形近-098",
@@ -4228,7 +5059,7 @@
  },
  {
   "type": "A",
-  "name": "exhort/extort",
+  "name": "exhort/extort/distort",
   "words": [
    {
     "word": "exhort",
@@ -4253,11 +5084,23 @@
     "tr": "駭客鎖住醫院的病歷，企圖勒索數百萬元。",
     "lvl": 3,
     "src": "Hot Words L97"
+   },
+   {
+    "word": "distort",
+    "pos": "v.",
+    "def_": "to twist out of the true shape or meaning",
+    "zh": "扭曲；曲解",
+    "syn": "twist, misrepresent, warp",
+    "ant": "clarify",
+    "sent": "The article distorted the scientist's words to make her seem opposed to vaccines.",
+    "tr": "這篇文章扭曲了科學家的話，讓她看起來像反對疫苗。",
+    "lvl": 2,
+    "src": "Hot Words L54"
    }
   ],
-  "tip_zh": "exhort 勸告激勵（hort 鼓勵）；extort 勒索（tort 扭 → 扭出錢來）",
-  "tip_en": "exhort = urge strongly; extort = obtain by threats",
-  "trap": "只差 h／t；一個用言語鼓勵，一個用威脅索取。",
+  "tip_zh": "exhort 勸告激勵（hort 鼓勵）；extort 勒索（tort 扭 → 扭出錢來）；distort 扭曲（tort 扭，同 extort）",
+  "tip_en": "exhort = urge strongly; extort = obtain by threats; distort = twist",
+  "trap": "只差 h／t；一個用言語鼓勵，一個用威脅索取。distort 和 extort 同字根 tort（扭）：extort 扭出錢來，distort 把事實扭曲。",
   "score": 3.5,
   "unit": "形近字 U10",
   "id": "形近-100",
@@ -4265,7 +5108,7 @@
  },
  {
   "type": "A",
-  "name": "dissemble/disassemble",
+  "name": "dissemble/disassemble/resemble",
   "words": [
    {
     "word": "dissemble",
@@ -4290,11 +5133,23 @@
     "tr": "技術員必須拆開筆電才能更換破裂的螢幕。",
     "lvl": 3,
     "src": "新增"
+   },
+   {
+    "word": "resemble",
+    "pos": "v.",
+    "def_": "to look or seem like",
+    "zh": "像；與…相似",
+    "syn": "look like, mirror, match",
+    "ant": "differ from",
+    "sent": "The twins resemble each other so closely that even their teachers mix them up.",
+    "tr": "這對雙胞胎長得非常像，連老師都會搞混。",
+    "lvl": 1,
+    "src": "Hot Words L77"
    }
   ],
-  "tip_zh": "dissemble 掩飾偽裝（semble 像 resemble 裝作看起來）；disassemble 拆解（assemble 組裝的反義）",
-  "tip_en": "dissemble = hide true feelings; disassemble = take apart",
-  "trap": "只差 as 兩個字母；dissemble 是「裝」，disassemble 是「拆」。",
+  "tip_zh": "dissemble 掩飾偽裝（semble 像 resemble 裝作看起來）；disassemble 拆解（assemble 組裝的反義）；resemble 相像（semble 像，同 dissemble）",
+  "tip_en": "dissemble = hide true feelings; disassemble = take apart; resemble = look like",
+  "trap": "只差 as 兩個字母；dissemble 是「裝」，disassemble 是「拆」。dissemble 和 resemble 同字根 semble（像）：resemble 真的像，dissemble 是裝得像。",
   "score": 3.5,
   "unit": "形近字 U11",
   "id": "形近-101",
@@ -4339,7 +5194,7 @@
  },
  {
   "type": "A",
-  "name": "peremptory/perfunctory",
+  "name": "peremptory/perfunctory/preemptive",
   "words": [
    {
     "word": "peremptory",
@@ -4364,11 +5219,23 @@
     "tr": "警衛隨便瞄了一眼我們的包包就揮手放行。",
     "lvl": 3,
     "src": "Barron's U6；Hot Words L13；VA U9；字根字首 U57"
+   },
+   {
+    "word": "preemptive",
+    "pos": "adj.",
+    "def_": "done to prevent something expected",
+    "zh": "先發制人的；預防性的",
+    "syn": "preventive, anticipatory",
+    "ant": "reactive",
+    "sent": "The city made a preemptive decision to close schools before the hurricane arrived.",
+    "tr": "市府在颶風來臨前，預先決定停課。",
+    "lvl": 3,
+    "src": "Hot Words L22"
    }
   ],
-  "tip_zh": "peremptory 專斷、不容分說（emptory 像 empty 沒得商量）；perfunctory 敷衍了事（function 隨便執行）",
-  "tip_en": "peremptory = commanding, no discussion; perfunctory = careless, routine",
-  "trap": "兩字都是 per- 開頭、-ory 結尾，常被混用。",
+  "tip_zh": "peremptory 專斷、不容分說（emptory 像 empty 沒得商量）；perfunctory 敷衍了事（function 隨便執行）；preemptive 先發制人（pre- 事先 + empt 拿）",
+  "tip_en": "peremptory = commanding, no discussion; perfunctory = careless, routine; preemptive = done in advance to prevent",
+  "trap": "兩字都是 per- 開頭、-ory 結尾，常被混用。preemptive 和 peremptory 都含 empt（拿），一個是事先行動，一個是專斷命令。",
   "score": 3.5,
   "unit": "形近字 U11",
   "id": "形近-103",
@@ -4376,7 +5243,7 @@
  },
  {
   "type": "A",
-  "name": "reprieve/reprove",
+  "name": "reprieve/reprove/reproach",
   "words": [
    {
     "word": "reprieve",
@@ -4400,12 +5267,30 @@
     "sent": "The librarian reproved the students for talking loudly near the reading room.",
     "tr": "圖書館員責備學生在閱覽室附近大聲講話。",
     "lvl": 4,
-    "src": "Hot Words L12；VA U32；字根字首 U62"
+    "src": "Hot Words L12；VA U32；字根字首 U62",
+    "ex": [
+     "reproach"
+    ]
+   },
+   {
+    "word": "reproach",
+    "pos": "v./n.",
+    "def_": "to express disappointment or disapproval",
+    "zh": "責備；責難",
+    "syn": "blame, criticize, rebuke",
+    "ant": "praise",
+    "sent": "Her parents never reproached her for failing the exam; they simply helped her study.",
+    "tr": "她考試不及格，父母從不責備她，只是幫她讀書。",
+    "lvl": 3,
+    "src": "Barron's U33；Hot Words L12；字根字首 U62",
+    "ex": [
+     "reprove"
+    ]
    }
   ],
-  "tip_zh": "reprieve 緩刑、暫緩（prieve 像 relieve 鬆口氣）；reprove 責備（prove 證明你錯了）",
-  "tip_en": "reprieve = temporary relief; reprove = scold",
-  "trap": "字形接近，意思一好一壞。",
+  "tip_zh": "reprieve 緩刑、暫緩（prieve 像 relieve 鬆口氣）；reprove 責備（prove 證明你錯了）；reproach 責備（近義於 reprove，帶「失望」的語氣）",
+  "tip_en": "reprieve = temporary relief; reprove = scold; reproach = express disappointment",
+  "trap": "字形接近，意思一好一壞。reproach 和 reprove 意思接近，都和 reprieve（緩刑）相反。",
   "score": 3.5,
   "unit": "形近字 U11",
   "id": "形近-104",
@@ -4450,7 +5335,7 @@
  },
  {
   "type": "A",
-  "name": "exacerbate/exasperate",
+  "name": "exacerbate/exasperate/exaggerate",
   "words": [
    {
     "word": "exacerbate",
@@ -4475,11 +5360,23 @@
     "tr": "不斷延誤激怒了已等候六小時的乘客。",
     "lvl": 4,
     "src": "Hot Words L40；字根字首 U27"
+   },
+   {
+    "word": "exaggerate",
+    "pos": "v.",
+    "def_": "to describe something as bigger or worse than it is",
+    "zh": "誇大",
+    "syn": "overstate, inflate, embellish",
+    "ant": "understate, minimize",
+    "sent": "Fishermen often exaggerate the size of the fish that got away.",
+    "tr": "漁夫常誇大那條跑掉的魚有多大。",
+    "lvl": 2,
+    "src": "306/386 U11；字根字首 U27,85"
    }
   ],
-  "tip_zh": "exacerbate 使（問題）惡化（acerb 酸苦 → 更糟）；exasperate 激怒（人）（asper 粗糙 → 惹毛）",
-  "tip_en": "exacerbate = make a problem worse; exasperate = annoy a person",
-  "trap": "兩字開頭都是 exa-，常被互換；exacerbate 的受詞是問題，exasperate 的受詞是人。",
+  "tip_zh": "exacerbate 使（問題）惡化（acerb 酸苦 → 更糟）；exasperate 激怒（人）（asper 粗糙 → 惹毛）；exaggerate 誇大（agger 堆高）",
+  "tip_en": "exacerbate = make a problem worse; exasperate = annoy a person; exaggerate = overstate",
+  "trap": "兩字開頭都是 exa-，常被互換；exacerbate 的受詞是問題，exasperate 的受詞是人。三字都以 exa- 開頭、-ate 結尾：使惡化、激怒、誇大。",
   "score": 3.5,
   "unit": "形近字 U11",
   "id": "形近-106",
@@ -4487,7 +5384,7 @@
  },
  {
   "type": "A",
-  "name": "pedagogue/demagogue",
+  "name": "pedagogue/demagogue/pedant",
   "words": [
    {
     "word": "pedagogue",
@@ -4512,11 +5409,23 @@
     "tr": "那名煽動家把所有問題歸咎於移民，以贏得群眾支持。",
     "lvl": 3,
     "src": "VA U34；字根字首 U85"
+   },
+   {
+    "word": "pedant",
+    "pos": "n.",
+    "def_": "a person too concerned with small details or rules",
+    "zh": "學究；書呆子",
+    "syn": "nitpicker, purist, stickler",
+    "ant": "",
+    "sent": "Only a pedant would interrupt a moving speech to correct a minor grammar mistake.",
+    "tr": "只有學究才會打斷一場感人的演講去糾正小小的文法錯誤。",
+    "lvl": 4,
+    "src": "Hot Words L64；字根字首 U117"
    }
   ],
-  "tip_zh": "pedagogue 教師（ped 兒童 + agogue 引導）；demagogue 煽動家（dem 人民 + agogue 帶風向）",
-  "tip_en": "pedagogue = teacher; demagogue = manipulative political leader",
-  "trap": "字尾相同，學生常把兩者混為一談；demagogue 是貶義。",
+  "tip_zh": "pedagogue 教師（ped 兒童 + agogue 引導）；demagogue 煽動家（dem 人民 + agogue 帶風向）；pedant 學究（只在乎小規則的人）",
+  "tip_en": "pedagogue = teacher; demagogue = manipulative political leader; pedant = person fussy about small rules",
+  "trap": "字尾相同，學生常把兩者混為一談；demagogue 是貶義。pedant 也以 ped- 開頭，和 pedagogue 有關，但帶貶義。",
   "score": 3.5,
   "unit": "形近字 U11",
   "id": "形近-107",
@@ -4683,7 +5592,7 @@
  },
  {
   "type": "A",
-  "name": "venal/venial",
+  "name": "venal/venial/menial",
   "words": [
    {
     "word": "venal",
@@ -4708,11 +5617,23 @@
     "tr": "遲到五分鐘只是可原諒的小錯，不是取消整場面試的理由。",
     "lvl": 4,
     "src": "Barron's U36；VA U24；字根字首 U232"
+   },
+   {
+    "word": "menial",
+    "pos": "adj.",
+    "def_": "(of work) not requiring skill; lowly",
+    "zh": "卑微的；粗活的",
+    "syn": "humble, lowly, unskilled",
+    "ant": "skilled, important",
+    "sent": "As a new intern, he was given menial tasks such as making copies and fetching coffee.",
+    "tr": "身為新實習生，他被分配到影印、買咖啡之類的雜活。",
+    "lvl": 3,
+    "src": "Barron's U32；字根字首 U200"
    }
   ],
-  "tip_zh": "venal 可收買的（vend 賣 → 把自己賣掉）；venial 可原諒的小錯（i 像一個小點 = 小過失）",
-  "tip_en": "venal = for sale, bribable; venial = small and forgivable",
-  "trap": "只差一個 i；venal 是嚴重的貪腐，venial 卻是無傷大雅的小錯，意思天差地遠。",
+  "tip_zh": "venal 可收買的（vend 賣 → 把自己賣掉）；venial 可原諒的小錯（i 像一個小點 = 小過失）；menial 卑微的、粗活的",
+  "tip_en": "venal = for sale, bribable; venial = small and forgivable; menial = lowly, unskilled",
+  "trap": "只差一個 i；venal 是嚴重的貪腐，venial 卻是無傷大雅的小錯，意思天差地遠。menial 和 venial、venal 字尾都是 -al／-ial，只能靠開頭分辨。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-111",
@@ -4720,7 +5641,7 @@
  },
  {
   "type": "A",
-  "name": "abjure/adjure",
+  "name": "abjure/adjure/conjure",
   "words": [
    {
     "word": "abjure",
@@ -4745,11 +5666,23 @@
     "tr": "教練在最後幾分鐘鄭重懇求球員保持冷靜、相信平時的訓練。",
     "lvl": 4,
     "src": "字根字首 U2"
+   },
+   {
+    "word": "conjure",
+    "pos": "v.",
+    "def_": "to make appear as if by magic; to call to mind",
+    "zh": "變出；使浮現",
+    "syn": "summon, evoke, produce",
+    "ant": "",
+    "sent": "The smell of cinnamon conjures memories of my grandmother's kitchen.",
+    "tr": "肉桂的香味讓我想起祖母的廚房。",
+    "lvl": 2,
+    "src": "Hot Words L111"
    }
   ],
-  "tip_zh": "abjure（ab- 離開）發誓放棄；adjure（ad- 朝向）鄭重懇求別人",
-  "tip_en": "abjure = swear away (renounce); adjure = urge someone solemnly",
-  "trap": "只差 b／d，兩字都含 jur（發誓），但方向相反：一個是自己放棄，一個是要求別人。",
+  "tip_zh": "abjure（ab- 離開）發誓放棄；adjure（ad- 朝向）鄭重懇求別人；conjure 變魔術、喚起（con- + jure 發誓 → 唸咒召喚）",
+  "tip_en": "abjure = swear away (renounce); adjure = urge someone solemnly; conjure = make appear, call to mind",
+  "trap": "只差 b／d，兩字都含 jur（發誓），但方向相反：一個是自己放棄，一個是要求別人。三字都是 -jure（發誓）：abjure 發誓放棄、adjure 鄭重懇求、conjure 唸咒變出。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-112",
@@ -4880,7 +5813,7 @@
  },
  {
   "type": "A",
-  "name": "sententious/tendentious",
+  "name": "sententious/tendentious/pretentious",
   "words": [
    {
     "word": "sententious",
@@ -4905,11 +5838,23 @@
     "tr": "這部紀錄片只訪問政策支持者，被批評立場偏頗。",
     "lvl": 4,
     "src": "新增"
+   },
+   {
+    "word": "pretentious",
+    "pos": "adj.",
+    "def_": "trying to seem more important or intelligent than one is",
+    "zh": "自命不凡的；做作的",
+    "syn": "showy, affected, pompous",
+    "ant": "modest, unpretentious",
+    "sent": "The pretentious restaurant described its plain toast as \"artisanal grain on a bed of dairy.\"",
+    "tr": "這家自命不凡的餐廳把普通吐司說成「乳製品襯底的職人穀物」。",
+    "lvl": 2,
+    "src": "Hot Words L3；字根字首 U60,138"
    }
   ],
-  "tip_zh": "sententious 愛說教（sentence 一句句格言）；tendentious 有偏見傾向（tend 傾向）",
-  "tip_en": "sententious = preachy; tendentious = biased",
-  "trap": "兩字字尾相同，都帶貶義，但一個是「說教」，一個是「偏頗」。",
+  "tip_zh": "sententious 愛說教（sentence 一句句格言）；tendentious 有偏見傾向（tend 傾向）；pretentious 自命不凡（pretend 假裝）",
+  "tip_en": "sententious = preachy; tendentious = biased; pretentious = trying to seem important",
+  "trap": "兩字字尾相同，都帶貶義，但一個是「說教」，一個是「偏頗」。三字都是 -tentious 結尾：sententious 說教、tendentious 偏頗、pretentious 裝模作樣。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-116",
@@ -4917,7 +5862,7 @@
  },
  {
   "type": "A",
-  "name": "turbid/turgid",
+  "name": "turbid/turgid/torpid",
   "words": [
    {
     "word": "turbid",
@@ -4942,11 +5887,23 @@
     "tr": "讀者放棄了這本浮誇的小說，因為每句都塞滿多餘的形容詞。",
     "lvl": 4,
     "src": "Hot Words L2；字根字首 U230"
+   },
+   {
+    "word": "torpid",
+    "pos": "adj.",
+    "def_": "slow and inactive; sluggish",
+    "zh": "遲鈍的；蟄伏的",
+    "syn": "sluggish, lethargic, dormant",
+    "ant": "active, lively",
+    "sent": "Snakes become torpid in cold weather and barely move until spring.",
+    "tr": "天冷時蛇會變得遲鈍，到春天前幾乎不動。",
+    "lvl": 4,
+    "src": "Hot Words L14；VA U37；字根字首 U229"
    }
   ],
-  "tip_zh": "turbid 混濁的（turbulent 攪動 → 水濁）；turgid 浮腫、文字浮誇（g = grand 誇大）",
-  "tip_en": "turbid = muddy; turgid = swollen, pompous",
-  "trap": "只差 b／g；turbid 形容液體，turgid 形容腫脹或浮誇的文筆。",
+  "tip_zh": "turbid 混濁的（turbulent 攪動 → 水濁）；turgid 浮腫、文字浮誇（g = grand 誇大）；torpid 遲鈍、蟄伏（torpor 麻木）",
+  "tip_en": "turbid = muddy; turgid = swollen, pompous; torpid = sluggish",
+  "trap": "只差 b／g；turbid 形容液體，turgid 形容腫脹或浮誇的文筆。三字都是 t-…-id 結構：turbid 混濁、turgid 腫脹浮誇、torpid 遲緩不動。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-117",
@@ -4991,7 +5948,7 @@
  },
  {
   "type": "A",
-  "name": "exculpate/inculpate",
+  "name": "exculpate/inculpate/culpable/inculcate",
   "words": [
    {
     "word": "exculpate",
@@ -5016,11 +5973,35 @@
     "tr": "這些電子郵件顯示經理批准了詐欺，讓他罪責難逃。",
     "lvl": 4,
     "src": "Hot Words L51"
+   },
+   {
+    "word": "culpable",
+    "pos": "adj.",
+    "def_": "deserving blame",
+    "zh": "有罪的；該受責備的",
+    "syn": "guilty, blameworthy, responsible",
+    "ant": "innocent, blameless",
+    "sent": "The investigation found the driver culpable for the accident because he had been texting.",
+    "tr": "調查發現駕駛應為車禍負責，因為他當時在傳訊息。",
+    "lvl": 3,
+    "src": "Barron's U15；VA U31；字根字首 U176"
+   },
+   {
+    "word": "inculcate",
+    "pos": "v.",
+    "def_": "to teach an idea by repeating it often",
+    "zh": "反覆灌輸",
+    "syn": "instill, teach, drill",
+    "ant": "",
+    "sent": "Parents try to inculcate good manners in their children from an early age.",
+    "tr": "父母從小就努力向孩子灌輸良好禮貌。",
+    "lvl": 4,
+    "src": "字根字首 U43"
    }
   ],
-  "tip_zh": "exculpate 開脫（ex- 移出 + culp 罪）；inculpate 歸罪（in- 放入罪）",
-  "tip_en": "exculpate = clear from blame; inculpate = blame",
-  "trap": "字根 culp（罪）相同，字首方向相反，學生常記反。",
+  "tip_zh": "exculpate 開脫（ex- 移出 + culp 罪）；inculpate 歸罪（in- 放入罪）；culpable 有罪的（culp 罪）；inculcate 反覆灌輸（calc 踩 → 踩進腦中，與罪無關）",
+  "tip_en": "exculpate = clear from blame; inculpate = blame; culpable = blameworthy; inculcate = teach by repetition",
+  "trap": "字根 culp（罪）相同，字首方向相反，學生常記反。inculcate 長得像 inculpate，卻和「罪」無關；culpable 則和 exculpate、inculpate 同字根。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-119",
@@ -5028,7 +6009,7 @@
  },
  {
   "type": "A",
-  "name": "impugn/impute",
+  "name": "impugn/impute/pugnacious",
   "words": [
    {
     "word": "impugn",
@@ -5053,11 +6034,23 @@
     "tr": "把公司虧損歸咎於一名員工並不公平。",
     "lvl": 4,
     "src": "VA U8；字根字首 U42"
+   },
+   {
+    "word": "pugnacious",
+    "pos": "adj.",
+    "def_": "eager to argue or fight",
+    "zh": "好鬥的；好爭吵的",
+    "syn": "combative, belligerent, aggressive",
+    "ant": "peaceable, gentle",
+    "sent": "The pugnacious senator seemed to enjoy picking fights with reporters.",
+    "tr": "那位好鬥的參議員似乎很喜歡和記者起衝突。",
+    "lvl": 4,
+    "src": "Barron's U4；Hot Words L7；VA U11；字根字首 U91,214"
    }
   ],
-  "tip_zh": "impugn 質疑抨擊（pugn 打 → 攻擊名譽）；impute 歸咎於（put 放到某人身上）",
-  "tip_en": "impugn = challenge as false; impute = attribute blame",
-  "trap": "兩字都是 imp- 開頭的指控動詞，差別在「攻擊真實性」與「把責任算到某人頭上」。",
+  "tip_zh": "impugn 質疑抨擊（pugn 打 → 攻擊名譽）；impute 歸咎於（put 放到某人身上）；pugnacious 好鬥的（pugn 打，同 impugn）",
+  "tip_en": "impugn = challenge as false; impute = attribute blame; pugnacious = eager to fight",
+  "trap": "兩字都是 imp- 開頭的指控動詞，差別在「攻擊真實性」與「把責任算到某人頭上」。pugnacious 和 impugn 同字根 pugn（打），一個是好鬥的性格，一個是攻擊對方的說法。",
   "score": 4.0,
   "unit": "形近字 U12",
   "id": "形近-120",
@@ -5065,7 +6058,7 @@
  },
  {
   "type": "B",
-  "name": "infamous/famous",
+  "name": "infamous/famous/infamy",
   "words": [
    {
     "word": "infamous",
@@ -5090,11 +6083,23 @@
     "tr": "這位知名主廚在家鄉開了一家小餐廳。",
     "lvl": 1,
     "src": "字根字首 U183"
+   },
+   {
+    "word": "infamy",
+    "pos": "n.",
+    "def_": "the state of being well known for something bad",
+    "zh": "惡名；醜行",
+    "syn": "notoriety, disgrace, shame",
+    "ant": "fame, honor",
+    "sent": "The president called the surprise attack \"a date which will live in infamy.\"",
+    "tr": "總統稱這場偷襲是「一個將永遠蒙羞的日子」。",
+    "lvl": 3,
+    "src": "字根字首 U40"
    }
   ],
-  "tip_zh": "in- 在這裡不是「不有名」，而是「壞名聲」→ 惡名昭彰",
-  "tip_en": "infamous = famous for bad reasons",
-  "trap": "學生以為 infamous = not famous（沒沒無聞），其實是「很有名，但是壞名聲」。",
+  "tip_zh": "in- 在這裡不是「不有名」，而是「壞名聲」→ 惡名昭彰；infamy 惡名（n.，infamous 的名詞）",
+  "tip_en": "infamous = famous for bad reasons; infamy = bad reputation",
+  "trap": "學生以為 infamous = not famous（沒沒無聞），其實是「很有名，但是壞名聲」。infamy 和 infamous 一樣，in- 不是「沒有名氣」，而是「壞名聲」。",
   "score": 1.0,
   "unit": "字根字首誤導 U1",
   "id": "字根-001",
@@ -5102,7 +6107,7 @@
  },
  {
   "type": "B",
-  "name": "invaluable/worthless",
+  "name": "invaluable/worthless/valueless/priceless",
   "words": [
    {
     "word": "invaluable",
@@ -5114,7 +6119,10 @@
     "sent": "Her years of field experience proved invaluable when the team got lost in the mountains.",
     "tr": "隊伍在山中迷路時，她多年的野外經驗變得無比珍貴。",
     "lvl": 2,
-    "src": "新增"
+    "src": "新增",
+    "ex": [
+     "priceless"
+    ]
    },
    {
     "word": "worthless",
@@ -5126,12 +6134,45 @@
     "sent": "After the company went bankrupt, its shares became worthless.",
     "tr": "公司破產後，股票變得一文不值。",
     "lvl": 1,
-    "src": "字根字首 U235"
+    "src": "字根字首 U235",
+    "ex": [
+     "valueless"
+    ]
+   },
+   {
+    "word": "valueless",
+    "pos": "adj.",
+    "def_": "having no value",
+    "zh": "沒有價值的",
+    "syn": "worthless, useless",
+    "ant": "valuable, invaluable",
+    "sent": "The old coins turned out to be valueless copies.",
+    "tr": "那些舊錢幣原來是不值錢的仿製品。",
+    "lvl": 4,
+    "src": "新增",
+    "ex": [
+     "worthless"
+    ]
+   },
+   {
+    "word": "priceless",
+    "pos": "adj.",
+    "def_": "so valuable that no price can be put on it",
+    "zh": "無價的；極珍貴的",
+    "syn": "invaluable, precious, irreplaceable",
+    "ant": "worthless",
+    "sent": "The museum's most priceless treasure is a crown worn by the first king.",
+    "tr": "博物館最珍貴的寶物是第一位國王戴過的王冠。",
+    "lvl": 1,
+    "src": "新增",
+    "ex": [
+     "invaluable"
+    ]
    }
   ],
-  "tip_zh": "in- 在這裡不是「沒有」，而是「價值大到無法估算」→ 極珍貴",
-  "tip_en": "invaluable = too valuable to measure, not \"without value\"",
-  "trap": "看到 in-（不）+ valuable，學生以為是「沒價值」；其實與 priceless 同義。真正「沒價值」是 worthless / valueless。",
+  "tip_zh": "in- 在這裡不是「沒有」，而是「價值大到無法估算」→ 極珍貴；valueless 真正「沒價值」；priceless 和 invaluable 同義「無價」",
+  "tip_en": "invaluable = too valuable to measure, not \"without value\"; valueless = worthless; priceless = invaluable",
+  "trap": "看到 in-（不）+ valuable，學生以為是「沒價值」；其實與 priceless 同義。真正「沒價值」是 worthless / valueless。valueless／worthless 是「沒價值」，invaluable／priceless 卻是「無價之寶」，長得像、意思相反。",
   "score": 1.5,
   "unit": "字根字首誤導 U1",
   "id": "字根-002",
@@ -5139,7 +6180,7 @@
  },
  {
   "type": "B",
-  "name": "travesty/tragedy",
+  "name": "travesty/tragedy/parody",
   "words": [
    {
     "word": "travesty",
@@ -5151,7 +6192,10 @@
     "sent": "Holding the trial without allowing the defendant a lawyer was a travesty of justice.",
     "tr": "不讓被告請律師就開審，根本是對正義的嘲弄。",
     "lvl": 2,
-    "src": "VA U27；字根字首 U70"
+    "src": "VA U27；字根字首 U70",
+    "ex": [
+     "parody"
+    ]
    },
    {
     "word": "tragedy",
@@ -5164,11 +6208,26 @@
     "tr": "大橋倒塌是一場奪走數十條人命的悲劇。",
     "lvl": 1,
     "src": "Hot Words L69；字根字首 U229"
+   },
+   {
+    "word": "parody",
+    "pos": "n.",
+    "def_": "a funny imitation that copies a style to make fun of it",
+    "zh": "諧仿；模仿嘲諷之作",
+    "syn": "spoof, satire, imitation",
+    "ant": "",
+    "sent": "The comedy show performed a parody of the evening news, with puppets as reporters.",
+    "tr": "這個喜劇節目用玩偶當記者，演出晚間新聞的諧仿版。",
+    "lvl": 1,
+    "src": "字根字首 U80",
+    "ex": [
+     "travesty"
+    ]
    }
   ],
-  "tip_zh": "travesty 不是旅行也不是悲劇，而是「拙劣的模仿、扭曲」（trans 變裝 + vest 衣服）",
-  "tip_en": "travesty = absurd distortion (dressed up badly)",
-  "trap": "學生看到 trav- 想到 travel，或在 a travesty of justice 中把它當 tragedy；其實是「荒謬可笑的扭曲」。",
+  "tip_zh": "travesty 不是旅行也不是悲劇，而是「拙劣的模仿、扭曲」（trans 變裝 + vest 衣服）；parody 諧仿（刻意模仿來搞笑）",
+  "tip_en": "travesty = absurd distortion (dressed up badly); parody = humorous imitation",
+  "trap": "學生看到 trav- 想到 travel，或在 a travesty of justice 中把它當 tragedy；其實是「荒謬可笑的扭曲」。travesty 和 parody 都是「拙劣模仿」，但 parody 是故意搞笑，travesty 多指「荒謬的扭曲」。",
   "score": 1.5,
   "unit": "字根字首誤導 U1",
   "id": "字根-003",
@@ -5176,7 +6235,7 @@
  },
  {
   "type": "B",
-  "name": "penultimate/ultimate",
+  "name": "penultimate/ultimate/ultimatum",
   "words": [
    {
     "word": "penultimate",
@@ -5201,11 +6260,23 @@
     "tr": "這項計畫的最終目標是為每個村莊提供乾淨的水。",
     "lvl": 1,
     "src": "Barron's U13；Hot Words L76；字根字首 U231"
+   },
+   {
+    "word": "ultimatum",
+    "pos": "n.",
+    "def_": "a final demand with a threat if it is not met",
+    "zh": "最後通牒",
+    "syn": "final demand, threat",
+    "ant": "",
+    "sent": "The landlord gave the tenants an ultimatum: pay the rent by Friday or leave.",
+    "tr": "房東對房客下最後通牒：週五前付租金，否則搬走。",
+    "lvl": 2,
+    "src": "Hot Words L108"
    }
   ],
-  "tip_zh": "pen- = paene「幾乎」→ penultimate 是「倒數第二」，不是「終極」",
-  "tip_en": "penultimate = second to last",
-  "trap": "學生以為 penultimate 是「最最終的」，常在閱讀中誤解順序。",
+  "tip_zh": "pen- = paene「幾乎」→ penultimate 是「倒數第二」，不是「終極」；ultimatum 最後通牒（ultim 最後）",
+  "tip_en": "penultimate = second to last; ultimatum = final demand",
+  "trap": "學生以為 penultimate 是「最最終的」，常在閱讀中誤解順序。ultimatum 是名詞，和 ultimate、penultimate 同字根 ultim（最後）。",
   "score": 1.5,
   "unit": "字根字首誤導 U1",
   "id": "字根-004",
@@ -5250,7 +6321,7 @@
  },
  {
   "type": "B",
-  "name": "oversight/overlook",
+  "name": "oversight/overlook/oversee",
   "words": [
    {
     "word": "oversight",
@@ -5275,11 +6346,23 @@
     "tr": "編輯漏看了標題的錯字，讀者馬上就發現了。",
     "lvl": 2,
     "src": "306/386 U20；字根字首 U206"
+   },
+   {
+    "word": "oversee",
+    "pos": "v.",
+    "def_": "to supervise",
+    "zh": "監督；管理",
+    "syn": "supervise, manage, direct",
+    "ant": "",
+    "sent": "A new committee will oversee the construction of the bridge.",
+    "tr": "新委員會將監督大橋的興建。",
+    "lvl": 2,
+    "src": "字根字首 U56"
    }
   ],
-  "tip_zh": "oversight 有兩個相反意思：「監督」與「疏忽」；看上下文判斷",
-  "tip_en": "oversight = supervision OR an unintentional mistake",
-  "trap": "學生只知道 over + sight =「看過去」，不知道它常指「疏失」或「監管」。",
+  "tip_zh": "oversight 有兩個相反意思：「監督」與「疏忽」；看上下文判斷；oversee 監督（over 在上 + see 看）",
+  "tip_en": "oversight = supervision OR an unintentional mistake; oversee = supervise",
+  "trap": "學生只知道 over + sight =「看過去」，不知道它常指「疏失」或「監管」。oversee 是「監督」，overlook 卻常是「忽略」，oversight 兩個意思都有。",
   "score": 1.5,
   "unit": "字根字首誤導 U1",
   "id": "字根-006",
@@ -5287,7 +6370,7 @@
  },
  {
   "type": "B",
-  "name": "preposterous/prosperous",
+  "name": "preposterous/prosperous/posterity",
   "words": [
    {
     "word": "preposterous",
@@ -5312,11 +6395,23 @@
     "tr": "隨著與亞洲的貿易擴大，這個港口成為繁榮的城市。",
     "lvl": 1,
     "src": "Hot Words L58；字根字首 U213"
+   },
+   {
+    "word": "posterity",
+    "pos": "n.",
+    "def_": "all future generations",
+    "zh": "後代；後世",
+    "syn": "future generations, descendants",
+    "ant": "ancestors",
+    "sent": "The diaries were saved for posterity in the national library.",
+    "tr": "這些日記被保存在國家圖書館，留給後世。",
+    "lvl": 2,
+    "src": "字根字首 U59"
    }
   ],
-  "tip_zh": "preposterous = pre（前）+ post（後）顛倒 → 荒謬至極；不是 prosperous（繁榮的）",
-  "tip_en": "preposterous = absurd (before and after reversed)",
-  "trap": "字形與 prosperous 接近，學生常看錯成「繁榮的」。",
+  "tip_zh": "preposterous = pre（前）+ post（後）顛倒 → 荒謬至極；不是 prosperous（繁榮的）；posterity 後世（post 之後）",
+  "tip_en": "preposterous = absurd (before and after reversed); posterity = future generations",
+  "trap": "字形與 prosperous 接近，學生常看錯成「繁榮的」。posterity 和 preposterous 都含 post（之後），preposterous 是「前後顛倒 → 荒謬」。",
   "score": 1.5,
   "unit": "字根字首誤導 U1",
   "id": "字根-007",
@@ -5435,7 +6530,7 @@
  },
  {
   "type": "B",
-  "name": "unassuming/assuming",
+  "name": "unassuming/assuming/presumptuous",
   "words": [
    {
     "word": "unassuming",
@@ -5459,12 +6554,30 @@
     "sent": "His assuming manner annoyed the committee, who felt he expected the job to be his.",
     "tr": "他自以為是的態度惹惱了委員會，大家覺得他認定職位非他莫屬。",
     "lvl": 1,
-    "src": "新增"
+    "src": "新增",
+    "ex": [
+     "presumptuous"
+    ]
+   },
+   {
+    "word": "presumptuous",
+    "pos": "adj.",
+    "def_": "too bold; acting without the right to do so",
+    "zh": "放肆的；自以為是的",
+    "syn": "arrogant, forward, bold",
+    "ant": "modest, humble",
+    "sent": "It was presumptuous of him to start planning the victory party before the votes were counted.",
+    "tr": "選票還沒開完他就開始籌備慶功宴，實在太自以為是。",
+    "lvl": 3,
+    "src": "Hot Words L3；VA U26；字根字首 U60",
+    "ex": [
+     "assuming"
+    ]
    }
   ],
-  "tip_zh": "unassuming 不是「不假設」，而是「謙遜、不擺架子」；assuming 作形容詞是「傲慢自大」",
-  "tip_en": "unassuming = modest",
-  "trap": "學生把 assume 理解為「假設」，於是誤讀 unassuming。",
+  "tip_zh": "unassuming 不是「不假設」，而是「謙遜、不擺架子」；assuming 作形容詞是「傲慢自大」；presumptuous 自以為是（presume 擅自認定），和 assuming 同義",
+  "tip_en": "unassuming = modest; presumptuous = too bold",
+  "trap": "學生把 assume 理解為「假設」，於是誤讀 unassuming。presumptuous 和 assuming 都是「自以為是」，unassuming 才是「謙遜」。",
   "score": 2.0,
   "unit": "字根字首誤導 U2",
   "id": "字根-011",
@@ -5546,7 +6659,7 @@
  },
  {
   "type": "B",
-  "name": "noisome/noisy",
+  "name": "noisome/noisy/noxious",
   "words": [
    {
     "word": "noisome",
@@ -5558,7 +6671,10 @@
     "sent": "A noisome odor rose from the swamp in the summer heat.",
     "tr": "夏日炎熱中，沼澤散發令人作嘔的惡臭。",
     "lvl": 4,
-    "src": "Barron's U34；VA U22；字根字首 U204"
+    "src": "Barron's U34；VA U22；字根字首 U204",
+    "ex": [
+     "noxious"
+    ]
    },
    {
     "word": "noisy",
@@ -5571,11 +6687,26 @@
     "tr": "外面吵鬧的施工讓人根本無法專心。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "noxious",
+    "pos": "adj.",
+    "def_": "harmful or poisonous",
+    "zh": "有毒的；有害的",
+    "syn": "toxic, poisonous, harmful",
+    "ant": "harmless, wholesome",
+    "sent": "The factory was fined for releasing noxious gases into the air.",
+    "tr": "這家工廠因排放有毒氣體到空氣中而被罰款。",
+    "lvl": 3,
+    "src": "Hot Words L11；306/386 U19；字根字首 U204",
+    "ex": [
+     "noisome"
+    ]
    }
   ],
-  "tip_zh": "noisome 和 noise 無關，來自 annoy → 令人作嘔、有害",
-  "tip_en": "noisome comes from \"annoy\": offensive, foul-smelling",
-  "trap": "看到 noise 就以為是「吵鬧的」；noisome 是指氣味噁心或有害。",
+  "tip_zh": "noisome 和 noise 無關，來自 annoy → 令人作嘔、有害；noxious 有毒的（nox 傷害），意思接近 noisome",
+  "tip_en": "noisome comes from \"annoy\": offensive, foul-smelling; noxious = harmful, poisonous",
+  "trap": "看到 noise 就以為是「吵鬧的」；noisome 是指氣味噁心或有害。noisome、noxious 都是「有害、難聞」，跟 noise（噪音）毫無關係。",
   "score": 2.5,
   "unit": "字根字首誤導 U2",
   "id": "字根-014",
@@ -5583,7 +6714,7 @@
  },
  {
   "type": "B",
-  "name": "bemused/amused",
+  "name": "bemused/amused/muse",
   "words": [
    {
     "word": "bemused",
@@ -5608,11 +6739,23 @@
     "tr": "孩子們被小丑的超大鞋子逗樂了。",
     "lvl": 2,
     "src": "新增"
+   },
+   {
+    "word": "muse",
+    "pos": "v.",
+    "def_": "to think deeply about something",
+    "zh": "沉思；冥想",
+    "syn": "ponder, reflect, contemplate",
+    "ant": "",
+    "sent": "Sitting by the window, she began to muse about what her life would be like in ten years.",
+    "tr": "她坐在窗邊，開始沉思十年後的生活會是什麼樣子。",
+    "lvl": 1,
+    "src": "字根字首 U202"
    }
   ],
-  "tip_zh": "bemused = 困惑出神（be- 使…處在 muse 沉思中）；amused 才是覺得好笑",
-  "tip_en": "bemused = puzzled; amused = entertained",
-  "trap": "看起來像 amused 加了 be-，學生常以為是「被逗樂」。",
+  "tip_zh": "bemused = 困惑出神（be- 使…處在 muse 沉思中）；amused 才是覺得好笑；muse 沉思（bemused 的字源：被困在沉思中）",
+  "tip_en": "bemused = puzzled; amused = entertained; muse = think deeply",
+  "trap": "看起來像 amused 加了 be-，學生常以為是「被逗樂」。bemused 來自 muse（沉思），所以是「困惑出神」，不是 amused（被逗樂）。",
   "score": 2.5,
   "unit": "字根字首誤導 U2",
   "id": "字根-015",
@@ -5620,7 +6763,7 @@
  },
  {
   "type": "B",
-  "name": "fulsome/full",
+  "name": "fulsome/full/wholesome",
   "words": [
    {
     "word": "fulsome",
@@ -5645,11 +6788,23 @@
     "tr": "這份報告完整交代火災當晚發生的事。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "wholesome",
+    "pos": "adj.",
+    "def_": "good for health or moral well-being",
+    "zh": "有益健康的；健全的",
+    "syn": "healthy, nutritious, decent",
+    "ant": "unhealthy, harmful",
+    "sent": "The school replaced soda machines with wholesome snacks like fruit and nuts.",
+    "tr": "學校把汽水販賣機換成水果、堅果等健康零食。",
+    "lvl": 2,
+    "src": "字根字首 U235"
    }
   ],
-  "tip_zh": "fulsome 不是「充分的」，而是「過分、虛偽地」稱讚（讚美多到令人反感）",
-  "tip_en": "fulsome = excessive and insincere, not just \"full\"",
-  "trap": "看到 full 就以為是「豐富、充分的」；SAT 中 fulsome praise 帶貶義。",
+  "tip_zh": "fulsome 不是「充分的」，而是「過分、虛偽地」稱讚（讚美多到令人反感）；wholesome 有益健康的（-some 表「具有…性質」）",
+  "tip_en": "fulsome = excessive and insincere, not just \"full\"; wholesome = healthy",
+  "trap": "看到 full 就以為是「豐富、充分的」；SAT 中 fulsome praise 帶貶義。fulsome 和 wholesome 都是 -some 結尾，fulsome 卻是負面的「過分恭維」。",
   "score": 2.5,
   "unit": "字根字首誤導 U2",
   "id": "字根-016",
@@ -5731,7 +6886,7 @@
  },
  {
   "type": "B",
-  "name": "uncanny/canny",
+  "name": "uncanny/canny/uncouth",
   "words": [
    {
     "word": "uncanny",
@@ -5756,11 +6911,23 @@
     "tr": "他是精明的投資人，在鐵路通車前數年就買下車站附近土地。",
     "lvl": 3,
     "src": "Hot Words L28；字根字首 U170"
+   },
+   {
+    "word": "uncouth",
+    "pos": "adj.",
+    "def_": "rude and lacking good manners",
+    "zh": "粗魯的；沒教養的",
+    "syn": "rude, crude, unrefined",
+    "ant": "polite, refined",
+    "sent": "His uncouth habit of talking with his mouth full embarrassed his date.",
+    "tr": "他滿嘴食物還講話的粗魯習慣，讓約會對象很尷尬。",
+    "lvl": 3,
+    "src": "Hot Words L87；字根字首 U231"
    }
   ],
-  "tip_zh": "uncanny 不是「不精明」，而是「詭異得不可思議」；canny = 精明",
-  "tip_en": "uncanny = strangely unnatural, not \"not shrewd\"",
-  "trap": "un- 讓人以為與 canny 相反，其實兩者意思無關。",
+  "tip_zh": "uncanny 不是「不精明」，而是「詭異得不可思議」；canny = 精明；uncouth 粗魯的（couth 古字「熟悉的」，現在幾乎不單獨用）",
+  "tip_en": "uncanny = strangely unnatural, not \"not shrewd\"; uncouth = rude",
+  "trap": "un- 讓人以為與 canny 相反，其實兩者意思無關。uncouth 和 uncanny 一樣是 un- 開頭，但原字 couth 幾乎不用，別以為有對應的「正面字」。",
   "score": 2.5,
   "unit": "字根字首誤導 U2",
   "id": "字根-019",
@@ -5842,7 +7009,7 @@
  },
  {
   "type": "B",
-  "name": "histrionic/historic",
+  "name": "histrionic/historic/historical",
   "words": [
    {
     "word": "histrionic",
@@ -5867,11 +7034,26 @@
     "tr": "登月是數百萬人觀看的歷史性成就。",
     "lvl": 1,
     "src": "字根字首 U191"
+   },
+   {
+    "word": "historical",
+    "pos": "adj.",
+    "def_": "relating to history or the past",
+    "zh": "歷史的；歷史上的",
+    "syn": "past, archival",
+    "ant": "",
+    "sent": "The museum displays historical documents from the colonial period.",
+    "tr": "博物館展示殖民時期的歷史文件。",
+    "lvl": 1,
+    "src": "新增",
+    "ex": [
+     "historic"
+    ]
    }
   ],
-  "tip_zh": "histrionic 和 history 無關，來自 histrio（演員）→ 誇張做作、像演戲",
-  "tip_en": "histrionic = overly dramatic",
-  "trap": "學生看到 histor- 以為是「歷史的」。",
+  "tip_zh": "histrionic 和 history 無關，來自 histrio（演員）→ 誇張做作、像演戲；historical 有關歷史的（historic 是「具歷史意義的」）",
+  "tip_en": "histrionic = overly dramatic; historical = relating to history",
+  "trap": "學生看到 histor- 以為是「歷史的」。historic 和 historical 常被混用：historic 是「歷史性的、重大的」，historical 只是「與歷史有關」；histrionic 則和歷史無關。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-022",
@@ -5916,7 +7098,7 @@
  },
  {
   "type": "B",
-  "name": "effete/effective",
+  "name": "effete/effective/efficacious",
   "words": [
    {
     "word": "effete",
@@ -5940,12 +7122,30 @@
     "sent": "The new vaccine was highly effective, preventing nine out of ten infections.",
     "tr": "新疫苗非常有效，可預防九成的感染。",
     "lvl": 1,
-    "src": "新增"
+    "src": "新增",
+    "ex": [
+     "efficacious"
+    ]
+   },
+   {
+    "word": "efficacious",
+    "pos": "adj.",
+    "def_": "producing the desired result",
+    "zh": "有效的",
+    "syn": "effective, successful, potent",
+    "ant": "ineffective",
+    "sent": "Rest and fluids remain the most efficacious treatment for the common cold.",
+    "tr": "休息和多喝水仍是治感冒最有效的方法。",
+    "lvl": 3,
+    "src": "字根字首 U26,103",
+    "ex": [
+     "effective"
+    ]
    }
   ],
-  "tip_zh": "effete 不是 effective，而是「衰弱無力、頹廢軟弱」（原指生育後耗盡）",
-  "tip_en": "effete = weak, decadent",
-  "trap": "看到 eff- 以為與 effect、effective 相關，誤解為「有效的」。",
+  "tip_zh": "effete 不是 effective，而是「衰弱無力、頹廢軟弱」（原指生育後耗盡）；efficacious 有效的（＝ effective，SAT 常用的正式字）",
+  "tip_en": "effete = weak, decadent; efficacious = effective",
+  "trap": "看到 eff- 以為與 effect、effective 相關，誤解為「有效的」。efficacious 和 effective 同義，effete 卻是「衰弱頹廢」。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-024",
@@ -5990,7 +7190,7 @@
  },
  {
   "type": "B",
-  "name": "unwonted/unwanted",
+  "name": "unwonted/unwanted/wont",
   "words": [
    {
     "word": "unwonted",
@@ -6015,11 +7215,23 @@
     "tr": "這個應用程式能封鎖電話行銷的騷擾來電。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "wont",
+    "pos": "n./adj.",
+    "def_": "habit; accustomed",
+    "zh": "習慣；慣於",
+    "syn": "habit, custom, accustomed",
+    "ant": "",
+    "sent": "As was his wont, the professor arrived exactly five minutes early.",
+    "tr": "照他的習慣，教授剛好提早五分鐘到。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "unwonted 來自 wont（習慣）→ 不尋常的；不是 unwanted（不想要的）",
-  "tip_en": "unwonted = unusual",
-  "trap": "只差一個字母，學生直接讀成 unwanted。",
+  "tip_zh": "unwonted 來自 wont（習慣）→ 不尋常的；不是 unwanted（不想要的）；wont 習慣（as is his wont），unwonted ＝ 不合習慣",
+  "tip_en": "unwonted = unusual; wont = habit",
+  "trap": "只差一個字母，學生直接讀成 unwanted。wont 不是 won't；unwonted 正是由 wont（習慣）加 un- 而來。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-026",
@@ -6027,7 +7239,7 @@
  },
  {
   "type": "B",
-  "name": "inured/injured",
+  "name": "inured/injured/insured",
   "words": [
    {
     "word": "inured",
@@ -6052,11 +7264,23 @@
     "tr": "受傷的球員被擔架抬出場。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "insured",
+    "pos": "adj.",
+    "def_": "covered by insurance",
+    "zh": "有保險的",
+    "syn": "covered, protected",
+    "ant": "uninsured",
+    "sent": "Because the car was insured, the repairs cost the owner nothing.",
+    "tr": "因為車子有保險，車主不用付任何修理費。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "inured 是「習以為常、變得麻木」（in + ure 使用到習慣），不是 injured",
-  "tip_en": "inured = accustomed to hardship",
-  "trap": "字形像 injured，學生以為是「受傷的」。",
+  "tip_zh": "inured 是「習以為常、變得麻木」（in + ure 使用到習慣），不是 injured；insured 有保險的（insure）",
+  "tip_en": "inured = accustomed to hardship; insured = covered by insurance",
+  "trap": "字形像 injured，學生以為是「受傷的」。inured、injured、insured 只差一個字母：習慣、受傷、有保險。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-027",
@@ -6064,7 +7288,7 @@
  },
  {
   "type": "B",
-  "name": "impertinent/pertinent",
+  "name": "impertinent/pertinent/pertinacious",
   "words": [
    {
     "word": "impertinent",
@@ -6089,11 +7313,23 @@
     "tr": "摘要中請只寫相關的細節。",
     "lvl": 2,
     "src": "Barron's U10；字根字首 U57,137"
+   },
+   {
+    "word": "pertinacious",
+    "pos": "adj.",
+    "def_": "holding firmly to an opinion or purpose; stubborn",
+    "zh": "執著的；頑固的",
+    "syn": "stubborn, persistent, tenacious",
+    "ant": "irresolute",
+    "sent": "The pertinacious reporter kept asking the same question until the minister finally answered.",
+    "tr": "那位執著的記者一再追問同一個問題，直到部長終於回答。",
+    "lvl": 4,
+    "src": "字根字首 U57,137"
    }
   ],
-  "tip_zh": "impertinent 除了「不相關」，更常用為「無禮、冒失」",
-  "tip_en": "impertinent = rude, not only \"not pertinent\"",
-  "trap": "學生只想到「不切題」，SAT 卻常用它形容無禮的態度。",
+  "tip_zh": "impertinent 除了「不相關」，更常用為「無禮、冒失」；pertinacious 頑固執著（per- 徹底 + tenac 緊抓）",
+  "tip_en": "impertinent = rude, not only \"not pertinent\"; pertinacious = stubbornly persistent",
+  "trap": "學生只想到「不切題」，SAT 卻常用它形容無禮的態度。pertinacious 長得像 pertinent，其實和 tenacious 同源，意思是「死纏不放」。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-028",
@@ -6101,7 +7337,7 @@
  },
  {
   "type": "B",
-  "name": "disaffected/unaffected",
+  "name": "disaffected/unaffected/affected",
   "words": [
    {
     "word": "disaffected",
@@ -6126,11 +7362,23 @@
     "tr": "鄉村地區大致未受停電影響。",
     "lvl": 2,
     "src": "字根字首 U73"
+   },
+   {
+    "word": "affected",
+    "pos": "adj.",
+    "def_": "artificial and pretentious",
+    "zh": "做作的；矯揉造作的",
+    "syn": "pretentious, artificial, mannered",
+    "ant": "natural, sincere",
+    "sent": "His affected British accent disappeared as soon as he got angry.",
+    "tr": "他一生氣，那做作的英國腔就不見了。",
+    "lvl": 1,
+    "src": "新增"
    }
   ],
-  "tip_zh": "disaffected 不是「不受影響」，而是「不滿、疏離（失去 affection 好感）」",
-  "tip_en": "disaffected = dissatisfied, alienated",
-  "trap": "學生以為 dis- + affected = 沒受影響；真正「不受影響」是 unaffected。",
+  "tip_zh": "disaffected 不是「不受影響」，而是「不滿、疏離（失去 affection 好感）」；affected 作形容詞常是「做作的」，不只是「受影響的」",
+  "tip_en": "disaffected = dissatisfied, alienated; affected = artificial, pretentious",
+  "trap": "學生以為 dis- + affected = 沒受影響；真正「不受影響」是 unaffected。affected 除了「受影響」，SAT 常考「做作」；unaffected 也可指「真誠自然」。",
   "score": 2.5,
   "unit": "字根字首誤導 U3",
   "id": "字根-029",
@@ -6212,7 +7460,7 @@
  },
  {
   "type": "B",
-  "name": "superfluous/superlative",
+  "name": "superfluous/superlative/superficial/supercilious",
   "words": [
    {
     "word": "superfluous",
@@ -6237,11 +7485,35 @@
     "tr": "這座博物館以頂尖的古錢幣收藏聞名。",
     "lvl": 3,
     "src": "新增"
+   },
+   {
+    "word": "superficial",
+    "pos": "adj.",
+    "def_": "concerned only with the surface; not deep",
+    "zh": "膚淺的；表面的",
+    "syn": "shallow, surface, cursory",
+    "ant": "deep, thorough",
+    "sent": "The report gave only a superficial analysis and ignored the real causes of the problem.",
+    "tr": "這份報告只做了膚淺的分析，忽略問題的真正原因。",
+    "lvl": 1,
+    "src": "Barron's U26；Hot Words L27；306/386 U27；字根字首 U66,104"
+   },
+   {
+    "word": "supercilious",
+    "pos": "adj.",
+    "def_": "behaving as if one is better than others",
+    "zh": "傲慢的；目中無人的",
+    "syn": "arrogant, haughty, condescending",
+    "ant": "humble, modest",
+    "sent": "The supercilious waiter looked down at customers who could not pronounce the French dishes.",
+    "tr": "那個傲慢的服務生瞧不起不會唸法國菜名的客人。",
+    "lvl": 4,
+    "src": "Hot Words L3；VA U13；字根字首 U66"
    }
   ],
-  "tip_zh": "superfluous 的 super- 是「超過」→ 多餘的，不是「超讚」；最好的是 superlative",
-  "tip_en": "superfluous = more than needed",
-  "trap": "學生以為 super- 一定是「超級好」。",
+  "tip_zh": "superfluous 的 super- 是「超過」→ 多餘的，不是「超讚」；最好的是 superlative；superficial 膚淺的（super 上 + face 表面）；supercilious 傲慢（cilium 眉毛 → 挑眉看人）",
+  "tip_en": "superfluous = more than needed; superficial = shallow; supercilious = arrogant",
+  "trap": "學生以為 super- 一定是「超級好」。四字都以 super- 開頭，但只有 superlative 是「最好的」。",
   "score": 2.5,
   "unit": "字根字首誤導 U4",
   "id": "字根-032",
@@ -6249,7 +7521,7 @@
  },
  {
   "type": "B",
-  "name": "restive/restful",
+  "name": "restive/restful/restless",
   "words": [
    {
     "word": "restive",
@@ -6261,7 +7533,10 @@
     "sent": "The crowd grew restive as the concert was delayed for a second hour.",
     "tr": "演唱會延誤第二個小時，群眾愈來愈焦躁。",
     "lvl": 3,
-    "src": "Hot Words L61；字根字首 U62,134"
+    "src": "Hot Words L61；字根字首 U62,134",
+    "ex": [
+     "restless"
+    ]
    },
    {
     "word": "restful",
@@ -6274,11 +7549,26 @@
     "tr": "這座花園是下班後讀書的寧靜去處。",
     "lvl": 3,
     "src": "新增"
+   },
+   {
+    "word": "restless",
+    "pos": "adj.",
+    "def_": "unable to stay still or relax",
+    "zh": "坐立不安的；焦躁的",
+    "syn": "fidgety, uneasy, agitated",
+    "ant": "calm, relaxed",
+    "sent": "The restless child kept kicking the seat in front of him during the long flight.",
+    "tr": "長途飛行中，那個坐不住的孩子一直踢前面的座椅。",
+    "lvl": 1,
+    "src": "306/386 U25；字根字首 U217",
+    "ex": [
+     "restive"
+    ]
    }
   ],
-  "tip_zh": "restive 不是「休息」，而是「不安、難駕馭」（像不肯前進的馬）",
-  "tip_en": "restive = restless, impatient; restful = calm",
-  "trap": "看到 rest 就以為是「平靜的」；restive 恰好相反。",
+  "tip_zh": "restive 不是「休息」，而是「不安、難駕馭」（像不肯前進的馬）；restless 坐立不安，和 restive 意思接近",
+  "tip_en": "restive = restless, impatient; restful = calm; restless = unable to keep still",
+  "trap": "看到 rest 就以為是「平靜的」；restive 恰好相反。restive 和 restless 都是「不安」，restful 才是「讓人放鬆」。",
   "score": 3.0,
   "unit": "字根字首誤導 U4",
   "id": "字根-033",
@@ -6360,7 +7650,7 @@
  },
  {
   "type": "B",
-  "name": "impregnable/impregnate",
+  "name": "impregnable/impregnate/impenetrable",
   "words": [
    {
     "word": "impregnable",
@@ -6372,7 +7662,10 @@
     "sent": "The castle sat on a cliff, making it nearly impregnable to attackers.",
     "tr": "城堡建在懸崖上，敵人幾乎攻不破。",
     "lvl": 3,
-    "src": "字根字首 U36,38"
+    "src": "字根字首 U36,38",
+    "ex": [
+     "impenetrable"
+    ]
    },
    {
     "word": "impregnate",
@@ -6385,11 +7678,26 @@
     "tr": "木材以油浸透，以防雨水侵蝕。",
     "lvl": 3,
     "src": "字根字首 U42"
+   },
+   {
+    "word": "impenetrable",
+    "pos": "adj.",
+    "def_": "impossible to enter or go through; impossible to understand",
+    "zh": "無法穿透的；費解的",
+    "syn": "impassable, dense, incomprehensible",
+    "ant": "penetrable, accessible",
+    "sent": "The jungle was so thick that it was nearly impenetrable.",
+    "tr": "叢林茂密到幾乎無法穿越。",
+    "lvl": 2,
+    "src": "Hot Words L49；306/386 U14；字根字首 U38",
+    "ex": [
+     "impregnable"
+    ]
    }
   ],
-  "tip_zh": "impregnable = im-（不）+ prehendere（抓住）→ 攻不破的；與懷孕的 impregnate 無關",
-  "tip_en": "impregnable = unable to be captured",
-  "trap": "學生看到 pregn- 聯想到 pregnant，搞錯意思。",
+  "tip_zh": "impregnable = im-（不）+ prehendere（抓住）→ 攻不破的；與懷孕的 impregnate 無關；impenetrable 無法穿越的（penetrate 穿透），和 impregnable 意思接近",
+  "tip_en": "impregnable = unable to be captured; impenetrable = impossible to pass through",
+  "trap": "學生看到 pregn- 聯想到 pregnant，搞錯意思。impregnable 和 impenetrable 都表示「進不去」，但 impregnable 多用於城堡、立場「攻不破」。",
   "score": 3.0,
   "unit": "字根字首誤導 U4",
   "id": "字根-036",
@@ -6434,7 +7742,7 @@
  },
  {
   "type": "B",
-  "name": "antediluvian/antidote",
+  "name": "antediluvian/antidote/antecedent/antipathy",
   "words": [
    {
     "word": "antediluvian",
@@ -6459,11 +7767,35 @@
     "tr": "笑聲可以是壓力的解藥。",
     "lvl": 2,
     "src": "Hot Words L31；字根字首 U5"
+   },
+   {
+    "word": "antecedent",
+    "pos": "n.",
+    "def_": "something that comes before",
+    "zh": "先例；前身",
+    "syn": "precursor, forerunner, predecessor",
+    "ant": "successor",
+    "sent": "The abacus is an early antecedent of the modern calculator.",
+    "tr": "算盤是現代計算機的早期前身。",
+    "lvl": 3,
+    "src": "306/386 U3；字根字首 U95"
+   },
+   {
+    "word": "antipathy",
+    "pos": "n.",
+    "def_": "a strong dislike",
+    "zh": "反感；厭惡",
+    "syn": "hostility, aversion, dislike",
+    "ant": "sympathy, liking",
+    "sent": "Her antipathy toward cruelty to animals led her to become a vegetarian.",
+    "tr": "她對虐待動物的厭惡讓她成為素食者。",
+    "lvl": 3,
+    "src": "Barron's U37；306/386 U3；字根字首 U5,115"
    }
   ],
-  "tip_zh": "ante- 是「之前」（不是 anti- 反對）：antediluvian = 大洪水之前 → 極古老過時",
-  "tip_en": "ante- = before; anti- = against",
-  "trap": "學生把 ante- 和 anti- 混為一談，以為 antediluvian 是「反洪水的」。",
+  "tip_zh": "ante- 是「之前」（不是 anti- 反對）：antediluvian = 大洪水之前 → 極古老過時；antecedent 前身（ante- 之前）；antipathy 反感（anti- 反對 + path 感覺）",
+  "tip_en": "ante- = before; anti- = against; antecedent = forerunner; antipathy = strong dislike",
+  "trap": "學生把 ante- 和 anti- 混為一談，以為 antediluvian 是「反洪水的」。ante-（之前）：antediluvian、antecedent；anti-（反對）：antidote、antipathy，只差一個字母。",
   "score": 3.0,
   "unit": "字根字首誤導 U4",
   "id": "字根-038",
@@ -6471,7 +7803,7 @@
  },
  {
   "type": "B",
-  "name": "sanctimonious/saintly",
+  "name": "sanctimonious/saintly/sanctity",
   "words": [
    {
     "word": "sanctimonious",
@@ -6496,11 +7828,23 @@
     "tr": "她對難搞病人聖人般的耐心，讓她成為病房最受愛戴的護理師。",
     "lvl": 3,
     "src": "字根字首 U219"
+   },
+   {
+    "word": "sanctity",
+    "pos": "n.",
+    "def_": "holiness; the quality of being very important",
+    "zh": "神聖；神聖不可侵犯",
+    "syn": "holiness, sacredness, inviolability",
+    "ant": "",
+    "sent": "The court stressed the sanctity of human life in its ruling.",
+    "tr": "法院在判決中強調人命的神聖。",
+    "lvl": 2,
+    "src": "字根字首 U219"
    }
   ],
-  "tip_zh": "sanctimonious 不是「神聖的」，而是「假裝虔誠、道貌岸然」",
-  "tip_en": "sanctimonious = hypocritically pious",
-  "trap": "看到 sanct-（神聖）以為是讚美，其實是貶義。",
+  "tip_zh": "sanctimonious 不是「神聖的」，而是「假裝虔誠、道貌岸然」；sanctity 神聖（n.，正面）",
+  "tip_en": "sanctimonious = hypocritically pious; sanctity = holiness",
+  "trap": "看到 sanct-（神聖）以為是讚美，其實是貶義。sanctity 是真的神聖，sanctimonious 卻是「假裝神聖」。",
   "score": 3.0,
   "unit": "字根字首誤導 U4",
   "id": "字根-039",
@@ -6508,7 +7852,7 @@
  },
  {
   "type": "B",
-  "name": "prepossessing/possessive",
+  "name": "prepossessing/possessive/unprepossessing",
   "words": [
    {
     "word": "prepossessing",
@@ -6533,11 +7877,23 @@
     "tr": "佔有慾強的孩子不准任何人碰他的玩具。",
     "lvl": 2,
     "src": "新增"
+   },
+   {
+    "word": "unprepossessing",
+    "pos": "adj.",
+    "def_": "not attractive or appealing",
+    "zh": "不起眼的；不討喜的",
+    "syn": "unattractive, plain, unappealing",
+    "ant": "attractive, appealing",
+    "sent": "Despite its unprepossessing appearance, the little shop sells the best dumplings in the city.",
+    "tr": "儘管外表不起眼，這家小店賣的是全市最好吃的餃子。",
+    "lvl": 4,
+    "src": "字根字首 U73"
    }
   ],
-  "tip_zh": "prepossessing 是「討人喜歡、有吸引力的」（預先佔據你的好感），與 possessive（佔有慾強）無關",
-  "tip_en": "prepossessing = attractive, appealing",
-  "trap": "看到 possess 以為與「佔有」有關；unprepossessing 則是「不起眼的」。",
+  "tip_zh": "prepossessing 是「討人喜歡、有吸引力的」（預先佔據你的好感），與 possessive（佔有慾強）無關；unprepossessing 不起眼（prepossessing 的反義）",
+  "tip_en": "prepossessing = attractive, appealing; unprepossessing = unattractive",
+  "trap": "看到 possess 以為與「佔有」有關；unprepossessing 則是「不起眼的」。unprepossessing 是 prepossessing 的反義，兩者都和「佔有」無關。",
   "score": 3.0,
   "unit": "字根字首誤導 U4",
   "id": "字根-040",
@@ -6545,7 +7901,7 @@
  },
  {
   "type": "B",
-  "name": "enervate/energize",
+  "name": "enervate/energize/venerate",
   "words": [
    {
     "word": "enervate",
@@ -6570,11 +7926,23 @@
     "tr": "教練的演說在決賽前激勵了全隊。",
     "lvl": 3,
     "src": "字根字首 U25"
+   },
+   {
+    "word": "venerate",
+    "pos": "v.",
+    "def_": "to respect deeply",
+    "zh": "尊敬；崇拜",
+    "syn": "revere, honor, worship",
+    "ant": "despise, scorn",
+    "sent": "Many cultures venerate their ancestors with yearly ceremonies.",
+    "tr": "許多文化每年舉行儀式來敬拜祖先。",
+    "lvl": 4,
+    "src": "Hot Words L19,79；VA U8；字根字首 U128,232"
    }
   ],
-  "tip_zh": "e- 是「抽出」，nerv 神經 → 把神經力氣抽掉 → 使衰弱，與 energize 相反",
-  "tip_en": "enervate = drain energy (e- out + nerve)",
-  "trap": "enervate 看起來像 energy + ate，學生常以為是「使充滿活力」，其實正好相反。",
+  "tip_zh": "e- 是「抽出」，nerv 神經 → 把神經力氣抽掉 → 使衰弱，與 energize 相反；venerate 尊敬（vener 尊崇）",
+  "tip_en": "enervate = drain energy (e- out + nerve); venerate = respect deeply",
+  "trap": "enervate 看起來像 energy + ate，學生常以為是「使充滿活力」，其實正好相反。venerate 和 enervate 字母幾乎一樣，只是排列不同，意思完全無關。",
   "score": 3.5,
   "unit": "字根字首誤導 U5",
   "id": "字根-041",
@@ -6656,7 +8024,7 @@
  },
  {
   "type": "B",
-  "name": "impassive/impassioned",
+  "name": "impassive/impassioned/passive",
   "words": [
    {
     "word": "impassive",
@@ -6681,11 +8049,23 @@
     "tr": "這名學生發表激昂演說，呼籲學校禁用塑膠瓶。",
     "lvl": 3,
     "src": "Hot Words L16"
+   },
+   {
+    "word": "passive",
+    "pos": "adj.",
+    "def_": "accepting what happens without active response",
+    "zh": "被動的；消極的",
+    "syn": "inactive, submissive, docile",
+    "ant": "active, assertive",
+    "sent": "Instead of waiting in a passive way for help, the villagers began rebuilding the bridge themselves.",
+    "tr": "村民沒有被動地等待援助，而是自己動手重建橋樑。",
+    "lvl": 1,
+    "src": "字根字首 U115"
    }
   ],
-  "tip_zh": "im- + passive 不是「不被動 → 主動激動」；impassive 來自 passion → 「沒有情緒的」",
-  "tip_en": "impassive = expressionless (without passion)",
-  "trap": "學生以為 impassive = not passive = 熱烈，其實是「面無表情」；熱烈激昂是 impassioned。",
+  "tip_zh": "im- + passive 不是「不被動 → 主動激動」；impassive 來自 passion → 「沒有情緒的」；passive 被動的（impassive 的陷阱來源）",
+  "tip_en": "impassive = expressionless (without passion); passive = not acting",
+  "trap": "學生以為 impassive = not passive = 熱烈，其實是「面無表情」；熱烈激昂是 impassioned。impassive 看起來像 im- ＋ passive，其實和 passive 意思完全無關。",
   "score": 3.5,
   "unit": "字根字首誤導 U5",
   "id": "字根-044",
@@ -6730,7 +8110,7 @@
  },
  {
   "type": "B",
-  "name": "inhabitable/uninhabitable",
+  "name": "inhabitable/uninhabitable/habitable",
   "words": [
    {
     "word": "inhabitable",
@@ -6742,7 +8122,10 @@
     "sent": "Engineers are studying whether underground caves on Mars could be made inhabitable.",
     "tr": "工程師正研究火星地下洞穴能否改造成適合居住。",
     "lvl": 4,
-    "src": "新增"
+    "src": "新增",
+    "ex": [
+     "habitable"
+    ]
    },
    {
     "word": "uninhabitable",
@@ -6755,11 +8138,26 @@
     "tr": "地震使鎮上半數建築無法居住。",
     "lvl": 3,
     "src": "新增"
+   },
+   {
+    "word": "habitable",
+    "pos": "adj.",
+    "def_": "suitable to live in",
+    "zh": "適合居住的",
+    "syn": "livable, inhabitable",
+    "ant": "uninhabitable",
+    "sent": "Scientists search for planets with liquid water that might be habitable.",
+    "tr": "科學家尋找可能有液態水、適合居住的行星。",
+    "lvl": 2,
+    "src": "新增",
+    "ex": [
+     "inhabitable"
+    ]
    }
   ],
-  "tip_zh": "inhabitable 的 in- 是「在裡面」→ 可居住的（= habitable）；不能住是 uninhabitable",
-  "tip_en": "inhabitable = habitable",
-  "trap": "跟 inflammable 一樣，學生以為 in- 是否定，把「可居住」誤解為「不可居住」。",
+  "tip_zh": "inhabitable 的 in- 是「在裡面」→ 可居住的（= habitable）；不能住是 uninhabitable；habitable 可居住的，和 inhabitable 同義",
+  "tip_en": "inhabitable = habitable; habitable = livable",
+  "trap": "跟 inflammable 一樣，學生以為 in- 是否定，把「可居住」誤解為「不可居住」。habitable、inhabitable 意思一樣，只有 uninhabitable 才是「不能住」。",
   "score": 3.5,
   "unit": "字根字首誤導 U5",
   "id": "字根-046",
@@ -6804,7 +8202,7 @@
  },
  {
   "type": "B",
-  "name": "inflammable/nonflammable",
+  "name": "inflammable/nonflammable/flammable/inflammatory",
   "words": [
    {
     "word": "inflammable",
@@ -6816,7 +8214,10 @@
     "sent": "Keep inflammable liquids such as gasoline away from heaters and open flames.",
     "tr": "汽油等易燃液體應遠離暖氣與明火。",
     "lvl": 4,
-    "src": "Hot Words L115"
+    "src": "Hot Words L115",
+    "ex": [
+     "flammable"
+    ]
    },
    {
     "word": "nonflammable",
@@ -6829,11 +8230,38 @@
     "tr": "劇院布幕必須使用不易燃的布料。",
     "lvl": 4,
     "src": "新增"
+   },
+   {
+    "word": "flammable",
+    "pos": "adj.",
+    "def_": "easily set on fire",
+    "zh": "易燃的",
+    "syn": "combustible, inflammable",
+    "ant": "nonflammable, fireproof",
+    "sent": "Paint thinner is highly flammable, so never use it near a stove.",
+    "tr": "油漆稀釋劑非常易燃，絕不可在爐子旁使用。",
+    "lvl": 2,
+    "src": "Hot Words L115",
+    "ex": [
+     "inflammable"
+    ]
+   },
+   {
+    "word": "inflammatory",
+    "pos": "adj.",
+    "def_": "likely to cause anger or violence; causing swelling",
+    "zh": "煽動性的；發炎的",
+    "syn": "provocative, incendiary, inflaming",
+    "ant": "calming",
+    "sent": "The politician's inflammatory speech led to fights in the streets.",
+    "tr": "那位政客的煽動性演說引發街頭衝突。",
+    "lvl": 1,
+    "src": "字根字首 U43"
    }
   ],
-  "tip_zh": "inflammable 的 in- 是「進入（火焰）」，= flammable 易燃；不易燃要用 nonflammable",
-  "tip_en": "in- here means \"into flame,\" so inflammable = flammable",
-  "trap": "學生以為 in- 是否定，把 inflammable 當「不可燃」，在安全標示上會出大錯。",
+  "tip_zh": "inflammable 的 in- 是「進入（火焰）」，= flammable 易燃；不易燃要用 nonflammable；flammable 易燃（＝ inflammable）；inflammatory 煽動性的、發炎的",
+  "tip_en": "in- here means \"into flame,\" so inflammable = flammable; flammable = inflammable; inflammatory = provocative",
+  "trap": "學生以為 in- 是否定，把 inflammable 當「不可燃」，在安全標示上會出大錯。inflammable 和 flammable 同義；inflammatory 則多指言論「煽動」或身體「發炎」。",
   "score": 4.0,
   "unit": "字根字首誤導 U5",
   "id": "字根-048",
@@ -6841,7 +8269,7 @@
  },
  {
   "type": "B",
-  "name": "ingratiate/ingratitude",
+  "name": "ingratiate/ingratitude/ingrate",
   "words": [
    {
     "word": "ingratiate",
@@ -6866,11 +8294,23 @@
     "tr": "她幫了那麼多，他的忘恩負義讓她很受傷。",
     "lvl": 4,
     "src": "新增"
+   },
+   {
+    "word": "ingrate",
+    "pos": "n.",
+    "def_": "an ungrateful person",
+    "zh": "忘恩負義的人",
+    "syn": "ungrateful person",
+    "ant": "",
+    "sent": "After all the help his friends gave him, only an ingrate would refuse to visit them in the hospital.",
+    "tr": "朋友幫了他那麼多，只有忘恩負義的人才會連去醫院探望都不肯。",
+    "lvl": 4,
+    "src": "新增"
    }
   ],
-  "tip_zh": "ingratiate 不是「忘恩」，而是「討好、巴結」（in + gratia 好感 → 進入別人好感）",
-  "tip_en": "ingratiate = win favor",
-  "trap": "看到 ingrat- 以為與 ingratitude（忘恩負義）相關。",
+  "tip_zh": "ingratiate 不是「忘恩」，而是「討好、巴結」（in + gratia 好感 → 進入別人好感）；ingrate 忘恩負義的人（n.，ingratitude 是這種行為）",
+  "tip_en": "ingratiate = win favor; ingrate = ungrateful person",
+  "trap": "看到 ingrat- 以為與 ingratitude（忘恩負義）相關。ingrate 才真正和 ingratitude 相關；ingratiate 是「討好」。",
   "score": 4.0,
   "unit": "字根字首誤導 U5",
   "id": "字根-049",
@@ -8432,7 +9872,7 @@
  },
  {
   "type": "D",
-  "name": "complement/compliment",
+  "name": "complement/compliment/complementary/complimentary",
   "words": [
    {
     "word": "complement",
@@ -8457,11 +9897,35 @@
     "tr": "評審稱讚她的表演時，她臉紅了。",
     "lvl": 1,
     "src": "字根字首 U13,121"
+   },
+   {
+    "word": "complementary",
+    "pos": "adj.",
+    "def_": "completing each other; going well together",
+    "zh": "互補的",
+    "syn": "matching, supplementary, harmonious",
+    "ant": "conflicting",
+    "sent": "Blue and orange are complementary colors, so they stand out when placed side by side.",
+    "tr": "藍色和橘色是互補色，並排時特別醒目。",
+    "lvl": 1,
+    "src": "Hot Words L34；306/386 U5；字根字首 U12,121"
+   },
+   {
+    "word": "complimentary",
+    "pos": "adj.",
+    "def_": "given free; expressing praise",
+    "zh": "免費的；讚美的",
+    "syn": "free, courtesy, flattering",
+    "ant": "critical",
+    "sent": "The hotel offers complimentary breakfast to every guest.",
+    "tr": "這家飯店為每位住客提供免費早餐。",
+    "lvl": 2,
+    "src": "新增"
    }
   ],
-  "tip_zh": "complement 有 e = complete 使完整、互補；compliment 有 i = I like you 讚美",
-  "tip_en": "complement = complete; compliment = praise",
-  "trap": "發音相同，寫作常拼錯；SAT 常考 complement 的「互補」。",
+  "tip_zh": "complement 有 e = complete 使完整、互補；compliment 有 i = I like you 讚美；complementary 互補的；complimentary 免費贈送的、讚美的",
+  "tip_en": "complement = complete; compliment = praise; complementary = completing each other; complimentary = free, praising",
+  "trap": "發音相同，寫作常拼錯；SAT 常考 complement 的「互補」。complimentary 除了「讚美的」，還常指「免費招待的」；complementary 則是「互補的」。",
   "score": 1.0,
   "unit": "易混用法 U1",
   "id": "用法-002",
@@ -8506,7 +9970,7 @@
  },
  {
   "type": "D",
-  "name": "council/counsel",
+  "name": "council/counsel/consul",
   "words": [
    {
     "word": "council",
@@ -8531,11 +9995,23 @@
     "tr": "選大學前，她向以前的老師徵詢意見。",
     "lvl": 1,
     "src": "字根字首 U174"
+   },
+   {
+    "word": "consul",
+    "pos": "n.",
+    "def_": "a government official living in a foreign city to help citizens",
+    "zh": "領事",
+    "syn": "diplomat, envoy",
+    "ant": "",
+    "sent": "The consul in Osaka issued her a new passport within two days.",
+    "tr": "駐大阪領事兩天內就為她補發了新護照。",
+    "lvl": 1,
+    "src": "字根字首 U174"
    }
   ],
-  "tip_zh": "council 議會（cil 像 city 市議會）；counsel 建議、律師（sel 像 sell advice）",
-  "tip_en": "council = group; counsel = advice / lawyer",
-  "trap": "發音相同，寫作常混淆。",
+  "tip_zh": "council 議會（cil 像 city 市議會）；counsel 建議、律師（sel 像 sell advice）；consul 領事（派駐外國城市的官員）",
+  "tip_en": "council = group; counsel = advice / lawyer; consul = official in a foreign city",
+  "trap": "發音相同，寫作常混淆。council（議會）、counsel（建議／律師）、consul（領事）發音相近，寫作時常拼錯。",
   "score": 1.0,
   "unit": "易混用法 U1",
   "id": "用法-004",
@@ -8629,7 +10105,7 @@
  },
  {
   "type": "D",
-  "name": "comprise/compose",
+  "name": "comprise/compose/constitute",
   "words": [
    {
     "word": "comprise",
@@ -8653,12 +10129,30 @@
     "sent": "Small family farms compose most of the region's agriculture.",
     "tr": "小型家庭農場構成該地區大部分的農業。",
     "lvl": 2,
-    "src": "306/386 U5；字根字首 U13,123"
+    "src": "306/386 U5；字根字首 U13,123",
+    "ex": [
+     "constitute"
+    ]
+   },
+   {
+    "word": "constitute",
+    "pos": "v.",
+    "def_": "to make up or form a whole",
+    "zh": "構成；組成",
+    "syn": "form, make up, compose",
+    "ant": "",
+    "sent": "Women constitute more than half of the university's students.",
+    "tr": "女性占這所大學學生的一半以上。",
+    "lvl": 1,
+    "src": "Hot Words L118",
+    "ex": [
+     "compose"
+    ]
    }
   ],
-  "tip_zh": "整體 comprises 部分（包含）；部分 compose 整體（組成）；is comprised of 為常見誤用",
-  "tip_en": "the whole comprises the parts; the parts compose the whole",
-  "trap": "SAT 文法題會考主詞方向：The team comprises ten players／Ten players compose the team。",
+  "tip_zh": "整體 comprises 部分（包含）；部分 compose 整體（組成）；is comprised of 為常見誤用；constitute 構成（部分 constitute 整體，用法同 compose）",
+  "tip_en": "the whole comprises the parts; the parts compose the whole; constitute = make up",
+  "trap": "SAT 文法題會考主詞方向：The team comprises ten players／Ten players compose the team。部分 compose／constitute 整體；整體 comprises 部分，方向別搞反。",
   "score": 1.5,
   "unit": "易混用法 U1",
   "id": "用法-007",
@@ -8666,7 +10160,7 @@
  },
  {
   "type": "D",
-  "name": "discreet/discrete",
+  "name": "discreet/discrete/discretion",
   "words": [
    {
     "word": "discreet",
@@ -8691,11 +10185,23 @@
     "tr": "這項計畫分成五個獨立階段，各有截止日。",
     "lvl": 1,
     "src": "字根字首 U22"
+   },
+   {
+    "word": "discretion",
+    "pos": "n.",
+    "def_": "the freedom to decide; the quality of being careful about what one says",
+    "zh": "自行決定權；謹慎",
+    "syn": "judgment, choice, tact",
+    "ant": "indiscretion",
+    "sent": "Teachers may use their discretion in deciding whether to accept late work.",
+    "tr": "老師可自行決定是否接受遲交的作業。",
+    "lvl": 1,
+    "src": "306/386 U9；字根字首 U22"
    }
   ],
-  "tip_zh": "discreet 謹慎低調（ee 兩個眼睛默默看）；discrete 分離的（t 把兩個 e 隔開）",
-  "tip_en": "discreet = careful, tactful; discrete = separate",
-  "trap": "發音相同；discrete 常出現在科學文章（discrete units）。",
+  "tip_zh": "discreet 謹慎低調（ee 兩個眼睛默默看）；discrete 分離的（t 把兩個 e 隔開）；discretion 自行決定權；謹慎（discreet 的名詞）",
+  "tip_en": "discreet = careful, tactful; discrete = separate; discretion = freedom to decide; tact",
+  "trap": "發音相同；discrete 常出現在科學文章（discrete units）。discretion 是 discreet 的名詞，不是 discrete（分離的）的名詞。",
   "score": 1.5,
   "unit": "易混用法 U1",
   "id": "用法-008",
@@ -8703,7 +10209,7 @@
  },
  {
   "type": "D",
-  "name": "averse/adverse",
+  "name": "averse/adverse/adversity",
   "words": [
    {
     "word": "averse",
@@ -8728,11 +10234,23 @@
     "tr": "有不良副作用的報告後，該藥被下架。",
     "lvl": 1,
     "src": "Barron's U9；字根字首 U2,146"
+   },
+   {
+    "word": "adversity",
+    "pos": "n.",
+    "def_": "difficult or unlucky situations",
+    "zh": "逆境；困苦",
+    "syn": "hardship, misfortune, difficulty",
+    "ant": "prosperity",
+    "sent": "She showed great courage in the face of adversity after losing her home in the flood.",
+    "tr": "洪水奪走她的家後，她在逆境中展現了極大的勇氣。",
+    "lvl": 2,
+    "src": "Hot Words L10,69；字根字首 U3,146"
    }
   ],
-  "tip_zh": "averse 人「反感、不願意」（averse to risk）；adverse 事情「不利的」（adverse effects）",
-  "tip_en": "averse = unwilling (people); adverse = harmful (things)",
-  "trap": "只差 d，SAT 常考兩者的搭配對象。",
+  "tip_zh": "averse 人「反感、不願意」（averse to risk）；adverse 事情「不利的」（adverse effects）；adversity 逆境（adverse 不利的 → 名詞）",
+  "tip_en": "averse = unwilling (people); adverse = harmful (things); adversity = hardship",
+  "trap": "只差 d，SAT 常考兩者的搭配對象。adversity 是 adverse 的名詞；averse 的名詞則是 aversion（反感）。",
   "score": 1.5,
   "unit": "易混用法 U1",
   "id": "用法-009",
@@ -8777,7 +10295,7 @@
  },
  {
   "type": "D",
-  "name": "explicit/implicit",
+  "name": "explicit/implicit/explicate",
   "words": [
    {
     "word": "explicit",
@@ -8802,11 +10320,23 @@
     "tr": "她的沉默隱含對計畫的批評。",
     "lvl": 2,
     "src": "306/386 U14；字根字首 U42"
+   },
+   {
+    "word": "explicate",
+    "pos": "v.",
+    "def_": "to explain in detail",
+    "zh": "詳細解釋；闡明",
+    "syn": "explain, interpret, clarify",
+    "ant": "obscure",
+    "sent": "The professor spent an entire class explicating a single poem.",
+    "tr": "教授花了整堂課詳細解說一首詩。",
+    "lvl": 4,
+    "src": "Hot Words L90；VA U39；字根字首 U28"
    }
   ],
-  "tip_zh": "explicit 明確說出的（ex- 向外講出來）；implicit 隱含的（im- 藏在裡面）",
-  "tip_en": "explicit = stated clearly; implicit = implied",
-  "trap": "SAT 閱讀題常問作者 explicitly 或 implicitly 表達了什麼。",
+  "tip_zh": "explicit 明確說出的（ex- 向外講出來）；implicit 隱含的（im- 藏在裡面）；explicate 詳細解釋（ex- 打開 + plic 摺 → 把摺起來的展開）",
+  "tip_en": "explicit = stated clearly; implicit = implied; explicate = explain in detail",
+  "trap": "SAT 閱讀題常問作者 explicitly 或 implicitly 表達了什麼。explicate、explicit、implicit 同字根 plic（摺）：攤開說明 vs 摺在裡面。",
   "score": 1.5,
   "unit": "易混用法 U2",
   "id": "用法-011",
@@ -8814,7 +10344,7 @@
  },
  {
   "type": "D",
-  "name": "elicit/illicit",
+  "name": "elicit/illicit/solicit",
   "words": [
    {
     "word": "elicit",
@@ -8839,11 +10369,26 @@
     "tr": "海關人員查獲一批非法走私的稀有鳥類。",
     "lvl": 2,
     "src": "字根字首 U38"
+   },
+   {
+    "word": "solicit",
+    "pos": "v.",
+    "def_": "to ask for something",
+    "zh": "請求；徵求",
+    "syn": "request, ask for, seek",
+    "ant": "",
+    "sent": "The museum is soliciting donations to repair its roof.",
+    "tr": "博物館正在募款修繕屋頂。",
+    "lvl": 2,
+    "src": "Barron's U9；字根字首 U223",
+    "ex": [
+     "elicit"
+    ]
    }
   ],
-  "tip_zh": "elicit 引出（e- 向外拉出回應）；illicit 違法的（il- = illegal）",
-  "tip_en": "elicit = draw out; illicit = illegal",
-  "trap": "發音相近，詞性不同：elicit 動詞，illicit 形容詞。",
+  "tip_zh": "elicit 引出（e- 向外拉出回應）；illicit 違法的（il- = illegal）；solicit 請求、徵求（donations, opinions）",
+  "tip_en": "elicit = draw out; illicit = illegal; solicit = ask for",
+  "trap": "發音相近，詞性不同：elicit 動詞，illicit 形容詞。elicit（引出回應）、solicit（主動請求）、illicit（違法）三字都以 -licit 結尾。",
   "score": 2.0,
   "unit": "易混用法 U2",
   "id": "用法-012",
@@ -8851,7 +10396,7 @@
  },
  {
   "type": "D",
-  "name": "precede/proceed",
+  "name": "precede/proceed/precedent",
   "words": [
    {
     "word": "precede",
@@ -8876,11 +10421,23 @@
     "tr": "火災警報結束後，考試照原定計畫進行。",
     "lvl": 1,
     "src": "字根字首 U95"
+   },
+   {
+    "word": "precedent",
+    "pos": "n.",
+    "def_": "an earlier event used as an example for later ones",
+    "zh": "先例",
+    "syn": "example, model, standard",
+    "ant": "",
+    "sent": "The court's decision set a precedent for similar cases in the future.",
+    "tr": "法院的判決為日後類似案件立下先例。",
+    "lvl": 1,
+    "src": "Barron's U30；字根字首 U60,95"
    }
   ],
-  "tip_zh": "precede 在…之前（pre- 前面）；proceed 繼續進行（pro- 向前走）",
-  "tip_en": "precede = come before; proceed = go forward",
-  "trap": "拼法相近，寫作常把 proceed 寫成 procede。",
+  "tip_zh": "precede 在…之前（pre- 前面）；proceed 繼續進行（pro- 向前走）；precedent 先例（n.，precede 在前）",
+  "tip_en": "precede = come before; proceed = go forward; precedent = earlier example",
+  "trap": "拼法相近，寫作常把 proceed 寫成 procede。precedent 是名詞，拼法跟 precede 一樣是 -cede-，不是 proceed 的 -ceed。",
   "score": 2.0,
   "unit": "易混用法 U2",
   "id": "用法-013",
@@ -8888,7 +10445,7 @@
  },
  {
   "type": "D",
-  "name": "evoke/invoke",
+  "name": "evoke/invoke/provoke/revoke",
   "words": [
    {
     "word": "evoke",
@@ -8913,11 +10470,38 @@
     "tr": "律師援引 1964 年的判決支持她的論點。",
     "lvl": 2,
     "src": "Hot Words L34"
+   },
+   {
+    "word": "provoke",
+    "pos": "v.",
+    "def_": "to cause a strong reaction, especially anger",
+    "zh": "激怒；引起",
+    "syn": "anger, trigger, spark",
+    "ant": "calm, soothe",
+    "sent": "The referee's unfair call provoked angry shouts from the fans.",
+    "tr": "裁判不公的判決引來球迷憤怒的叫喊。",
+    "lvl": 2,
+    "src": "306/386 U22；字根字首 U78,156",
+    "ex": [
+     "evoke"
+    ]
+   },
+   {
+    "word": "revoke",
+    "pos": "v.",
+    "def_": "to officially cancel",
+    "zh": "撤銷；吊銷",
+    "syn": "cancel, withdraw, annul",
+    "ant": "grant, issue",
+    "sent": "The city revoked the restaurant's license after it failed three health inspections.",
+    "tr": "這家餐廳三次未通過衛生檢查後，市府吊銷了它的執照。",
+    "lvl": 2,
+    "src": "字根字首 U63,156"
    }
   ],
-  "tip_zh": "evoke 喚起（回憶、感覺，e- 引出來）；invoke 援引（法律、權威）、祈求（in- 呼喚進來）",
-  "tip_en": "evoke = bring to mind; invoke = cite, appeal to",
-  "trap": "兩字都譯「喚起／召喚」，但 evoke 對象是感受，invoke 對象是規則或權威。",
+  "tip_zh": "evoke 喚起（回憶、感覺，e- 引出來）；invoke 援引（法律、權威）、祈求（in- 呼喚進來）；provoke 激怒、引起（pro- 向前叫出）；revoke 撤銷（re- 叫回來）",
+  "tip_en": "evoke = bring to mind; invoke = cite, appeal to; provoke = cause anger; revoke = cancel",
+  "trap": "兩字都譯「喚起／召喚」，但 evoke 對象是感受，invoke 對象是規則或權威。四字都是 -voke（叫喚），差在字首：e- 叫出感覺、in- 叫來權威、pro- 挑起反應、re- 收回。",
   "score": 2.0,
   "unit": "易混用法 U2",
   "id": "用法-014",
@@ -8999,7 +10583,7 @@
  },
  {
   "type": "D",
-  "name": "perpetrate/perpetuate",
+  "name": "perpetrate/perpetuate/perpetual",
   "words": [
    {
     "word": "perpetrate",
@@ -9024,11 +10608,23 @@
     "tr": "把科學家畫成老先生的卡通延續了狹隘的刻板印象。",
     "lvl": 2,
     "src": "Barron's U23；字根字首 U57"
+   },
+   {
+    "word": "perpetual",
+    "pos": "adj.",
+    "def_": "never ending; continuing forever",
+    "zh": "永久的；不斷的",
+    "syn": "endless, constant, eternal",
+    "ant": "temporary",
+    "sent": "The city seems to be in a perpetual state of construction.",
+    "tr": "這座城市似乎永遠在施工。",
+    "lvl": 1,
+    "src": "Hot Words L60；306/386 U21；字根字首 U57"
    }
   ],
-  "tip_zh": "perpetrate 犯下（壞事，perpetrator 犯人）；perpetuate 使延續（perpetual 永久的）",
-  "tip_en": "perpetrate = commit a crime; perpetuate = make last",
-  "trap": "字形相近，perpetuate stereotypes 是「延續刻板印象」。",
+  "tip_zh": "perpetrate 犯下（壞事，perpetrator 犯人）；perpetuate 使延續（perpetual 永久的）；perpetual 永久的（perpetuate 的形容詞）",
+  "tip_en": "perpetrate = commit a crime; perpetuate = make last; perpetual = never ending",
+  "trap": "字形相近，perpetuate stereotypes 是「延續刻板印象」。perpetual 和 perpetuate 一家，都是「延續」；perpetrate 則是犯罪。",
   "score": 2.5,
   "unit": "易混用法 U2",
   "id": "用法-017",
@@ -9073,7 +10669,7 @@
  },
  {
   "type": "D",
-  "name": "loath/loathe",
+  "name": "loath/loathe/loathsome",
   "words": [
    {
     "word": "loath",
@@ -9098,11 +10694,23 @@
     "tr": "很多學生討厭一人包辦全部工作的分組報告。",
     "lvl": 2,
     "src": "Barron's U3；字根字首 U197"
+   },
+   {
+    "word": "loathsome",
+    "pos": "adj.",
+    "def_": "causing hatred or disgust",
+    "zh": "令人厭惡的",
+    "syn": "disgusting, hateful, repulsive",
+    "ant": "lovable, delightful",
+    "sent": "The villain in the story is a loathsome man who cheats orphans out of their money.",
+    "tr": "故事裡的反派是個騙取孤兒錢財的可惡之人。",
+    "lvl": 3,
+    "src": "Hot Words L74；字根字首 U197"
    }
   ],
-  "tip_zh": "loath（adj.）不情願的；loathe（v.）厭惡，多一個 e 動詞要「動」",
-  "tip_en": "loath = unwilling; loathe = hate",
-  "trap": "只差一個 e，詞性和意思不同。",
+  "tip_zh": "loath（adj.）不情願的；loathe（v.）厭惡，多一個 e 動詞要「動」；loathsome 令人厭惡的（loathe 的形容詞）",
+  "tip_en": "loath = unwilling; loathe = hate; loathsome = disgusting",
+  "trap": "只差一個 e，詞性和意思不同。loathsome 來自 loathe（厭惡），loath 卻是「不情願的」。",
   "score": 2.5,
   "unit": "易混用法 U2",
   "id": "用法-019",
@@ -9110,7 +10718,7 @@
  },
  {
   "type": "D",
-  "name": "allude/elude",
+  "name": "allude/elude/delude",
   "words": [
    {
     "word": "allude",
@@ -9135,11 +10743,23 @@
     "tr": "小偷躲避警方追捕長達三週。",
     "lvl": 3,
     "src": "字根字首 U26"
+   },
+   {
+    "word": "delude",
+    "pos": "v.",
+    "def_": "to make someone believe something false",
+    "zh": "欺騙；使誤信",
+    "syn": "deceive, mislead, fool",
+    "ant": "enlighten",
+    "sent": "Don't delude yourself into thinking the test will be easy.",
+    "tr": "別自欺欺人以為考試會很簡單。",
+    "lvl": 3,
+    "src": "Barron's U22；Hot Words L36；字根字首 U19"
    }
   ],
-  "tip_zh": "allude 間接提及（al- 指向）；elude 逃避、難以理解（e- 溜出去）",
-  "tip_en": "allude = refer indirectly; elude = escape",
-  "trap": "發音相近；allude to 後接被提到的事物。",
+  "tip_zh": "allude 間接提及（al- 指向）；elude 逃避、難以理解（e- 溜出去）；delude 欺騙（delusion 的動詞）",
+  "tip_en": "allude = refer indirectly; elude = escape; delude = deceive",
+  "trap": "發音相近；allude to 後接被提到的事物。三字都是 -lude（玩），al- 暗指、e- 逃脫、de- 欺騙。",
   "score": 3.0,
   "unit": "易混用法 U2",
   "id": "用法-020",
@@ -9147,7 +10767,7 @@
  },
  {
   "type": "D",
-  "name": "prescribe/proscribe",
+  "name": "prescribe/proscribe/ascribe",
   "words": [
    {
     "word": "prescribe",
@@ -9172,11 +10792,23 @@
     "tr": "新法禁止在所有公共建築內吸菸。",
     "lvl": 4,
     "src": "306/386 U22；VA U21；字根字首 U78,130"
+   },
+   {
+    "word": "ascribe",
+    "pos": "v.",
+    "def_": "to say that something is caused by or belongs to someone",
+    "zh": "歸因於；歸屬於",
+    "syn": "attribute, credit, assign",
+    "ant": "",
+    "sent": "Historians ascribe the empire's fall to a series of poor harvests.",
+    "tr": "歷史學家把帝國的衰亡歸因於連年歉收。",
+    "lvl": 3,
+    "src": "字根字首 U4,130"
    }
   ],
-  "tip_zh": "prescribe 開藥方、規定（pre- 事先寫好）；proscribe 禁止（pro- 公告出去禁止）",
-  "tip_en": "prescribe = recommend, order; proscribe = forbid",
-  "trap": "只差一個字母，意思幾乎相反。",
+  "tip_zh": "prescribe 開藥方、規定（pre- 事先寫好）；proscribe 禁止（pro- 公告出去禁止）；ascribe 歸因於（ascribe A to B）",
+  "tip_en": "prescribe = recommend, order; proscribe = forbid; ascribe = attribute",
+  "trap": "只差一個字母，意思幾乎相反。三字都是 -scribe（寫），ascribe 是「寫在某人帳上 → 歸因」。",
   "score": 3.0,
   "unit": "易混用法 U3",
   "id": "用法-021",
@@ -9184,7 +10816,7 @@
  },
  {
   "type": "D",
-  "name": "emigrate/immigrate",
+  "name": "emigrate/immigrate/migrate",
   "words": [
    {
     "word": "emigrate",
@@ -9209,11 +10841,23 @@
     "tr": "許多家庭移民到加拿大尋找更好的工作。",
     "lvl": 3,
     "src": "字根字首 U37,42"
+   },
+   {
+    "word": "migrate",
+    "pos": "v.",
+    "def_": "to move from one place to another, often with the seasons",
+    "zh": "遷徙；移居",
+    "syn": "move, relocate, travel",
+    "ant": "stay",
+    "sent": "Every autumn, millions of birds migrate south to warmer regions.",
+    "tr": "每年秋天，數百萬隻鳥向南遷徙到溫暖的地區。",
+    "lvl": 2,
+    "src": "Hot Words L125"
    }
   ],
-  "tip_zh": "emigrate 移出（e- = exit 離開母國）；immigrate 移入（im- = into 進入新國家）",
-  "tip_en": "emigrate from; immigrate to",
-  "trap": "學生常不清楚哪個搭配 from、哪個搭配 to。",
+  "tip_zh": "emigrate 移出（e- = exit 離開母國）；immigrate 移入（im- = into 進入新國家）；migrate 遷徙（不強調出或入，動物也可用）",
+  "tip_en": "emigrate from; immigrate to; migrate = move from place to place",
+  "trap": "學生常不清楚哪個搭配 from、哪個搭配 to。migrate 是總稱，emigrate 強調「移出」、immigrate 強調「移入」。",
   "score": 3.0,
   "unit": "易混用法 U3",
   "id": "用法-022",
@@ -9221,7 +10865,7 @@
  },
  {
   "type": "D",
-  "name": "militate/mitigate",
+  "name": "militate/mitigate/litigate",
   "words": [
    {
     "word": "militate",
@@ -9246,11 +10890,23 @@
     "tr": "沿河植樹可減輕洪水的影響。",
     "lvl": 2,
     "src": "Hot Words L5；306/386 U18；字根字首 U85,113"
+   },
+   {
+    "word": "litigate",
+    "pos": "v.",
+    "def_": "to take a dispute to a court of law",
+    "zh": "打官司；訴訟",
+    "syn": "sue, take to court",
+    "ant": "settle",
+    "sent": "Rather than litigate for years, the two companies agreed to settle the dispute privately.",
+    "tr": "兩家公司不想打好幾年官司，同意私下和解。",
+    "lvl": 3,
+    "src": "Hot Words L97"
    }
   ],
-  "tip_zh": "militate 起作用（militate against 不利於）；mitigate 減輕（mitigate the damage）",
-  "tip_en": "militate = work against; mitigate = lessen",
-  "trap": "常被誤用成 mitigate against；正確是 militate against。",
+  "tip_zh": "militate 起作用（militate against 不利於）；mitigate 減輕（mitigate the damage）；litigate 打官司（lit 爭論）",
+  "tip_en": "militate = work against; mitigate = lessen; litigate = go to court",
+  "trap": "常被誤用成 mitigate against；正確是 militate against。三字只差一兩個字母：militate 起作用、mitigate 減輕、litigate 訴訟。",
   "score": 3.0,
   "unit": "易混用法 U3",
   "id": "用法-023",
@@ -9295,7 +10951,7 @@
  },
  {
   "type": "D",
-  "name": "disburse/disperse",
+  "name": "disburse/disperse/dispense",
   "words": [
    {
     "word": "disburse",
@@ -9320,11 +10976,23 @@
     "tr": "演唱會後警方用擴音器疏散人群。",
     "lvl": 2,
     "src": "字根字首 U23"
+   },
+   {
+    "word": "dispense",
+    "pos": "v.",
+    "def_": "to give out; (dispense with) to do without",
+    "zh": "分發；省去",
+    "syn": "distribute, provide, do without",
+    "ant": "withhold",
+    "sent": "The machine dispenses free water to anyone with a reusable bottle.",
+    "tr": "這台機器為帶環保瓶的人免費供水。",
+    "lvl": 2,
+    "src": "Hot Words L122"
    }
   ],
-  "tip_zh": "disburse 支付（burse = purse 錢包）；disperse 驅散、散開（spers 散）",
-  "tip_en": "disburse = pay out; disperse = scatter",
-  "trap": "發音相近，一個關於錢，一個關於散開。",
+  "tip_zh": "disburse 支付（burse = purse 錢包）；disperse 驅散、散開（spers 散）；dispense 分發（藥、水等）；dispense with 省去",
+  "tip_en": "disburse = pay out; disperse = scatter; dispense = give out",
+  "trap": "發音相近，一個關於錢，一個關於散開。disburse 發錢、disperse 散開、dispense 分發物品，三字都以 dis- 開頭、長得很像。",
   "score": 3.0,
   "unit": "易混用法 U3",
   "id": "用法-025",
