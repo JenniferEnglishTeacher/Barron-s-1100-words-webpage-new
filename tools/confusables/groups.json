@@ -592,7 +592,7 @@
  },
  {
   "type": "A",
-  "name": "casual/causal",
+  "name": "casual/causal/caustic",
   "words": [
    {
     "word": "casual",
@@ -617,12 +617,24 @@
     "tr": "研究發現睡眠與成績有相關，卻無法證明兩者有因果關係。",
     "lvl": 2,
     "src": "Hot Words L104"
+   },
+   {
+    "word": "caustic",
+    "pos": "adj.",
+    "def_": "bitterly sarcastic; able to burn or corrode",
+    "zh": "尖酸刻薄的；腐蝕性的",
+    "syn": "biting, scathing, acerbic",
+    "ant": "gentle, kind",
+    "sent": "Her caustic remarks about her coworkers' ideas made everyone afraid to speak up in meetings.",
+    "tr": "她對同事想法的尖酸批評，讓大家在會議上都不敢發言。",
+    "lvl": 2,
+    "src": "Barron's U3；字根字首 U171"
    }
   ],
-  "tip_zh": "casual 隨意的；causal 因果的（cause 原因）",
-  "tip_en": "casual = relaxed; causal = relating to cause and effect",
-  "trap": "只是 s 和 u 換位；SAT 閱讀常考 causal relationship，看成 casual 就全錯。",
-  "score": 1.5,
+  "tip_zh": "casual 隨意的；causal 因果的（cause 原因）；caustic 尖酸刻薄、有腐蝕性（像強酸一樣傷人）",
+  "tip_en": "casual = relaxed; causal = relating to cause and effect; caustic = bitterly sarcastic, corrosive",
+  "trap": "三字都以 ca- 開頭：casual 和 causal 只是 s 和 u 換位，caustic 也以 caus- 開頭；SAT 閱讀常考 causal relationship 和形容批評的 caustic，看錯就全錯。",
+  "score": 1.6666666666666667,
   "unit": "形近字 U2",
   "id": "形近-016",
   "typeName": "形近字"
