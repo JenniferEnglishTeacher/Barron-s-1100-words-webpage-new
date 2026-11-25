@@ -17,7 +17,8 @@ VER = sys.argv[1] if len(sys.argv) > 1 else "1"
 G = json.load(open(os.path.join(HERE, "groups.json"), encoding="utf8"))
 W = json.load(open(os.path.join(HERE, "words.json"), encoding="utf8"))
 TYPES = [("A", "形近字", "Look-alikes"), ("B", "字根字首誤導", "Misleading word parts"),
-         ("C", "熟字僻義", "Familiar words, SAT meanings"), ("D", "易混用法", "Commonly confused usage")]
+         ("C", "熟字僻義", "Familiar words, SAT meanings"), ("D", "易混用法", "Commonly confused usage"),
+         ("E", "字根形近", "Same prefix, look-alike roots")]
 ZONE = {"B": ("Barron's U", "unit{}.html"), "H": ("Hot Words L", "hot-unit{}.html"), "M": ("Must-Know U", "mk-unit{}.html"),
         "V": ("Verbal Advantage U", "va-unit{}.html"), "R": ("字根字首 Set ", "roots-unit{}.html")}
 ORDER = "BHMVR"
@@ -98,9 +99,12 @@ n = 0
 for code, tname, ten in TYPES:
     gs = [g for g in G if g["type"] == code]
     pool = [w for g in gs for w in (g["words"][1:] if code == "C" else g["words"])]
-    for ui in range(0, len(gs), 10):
+    starts = list(range(0, len(gs), 10))
+    if len(starts) > 1 and len(gs) - starts[-1] < 5:   # a short tail joins the previous unit, so unit numbers never shift
+        starts.pop()
+    for k, ui in enumerate(starts):
         n += 1
-        chunk = gs[ui:ui + 10]
+        chunk = gs[ui:starts[k + 1] if k + 1 < len(starts) else len(gs)]
         out_groups = []
         for g in chunk:
             words = []

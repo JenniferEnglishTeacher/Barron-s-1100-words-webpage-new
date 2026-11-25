@@ -537,8 +537,8 @@ function filterCf(q) {
   try { prog = JSON.parse(localStorage.getItem("cf-progress")) || {}; } catch (e) { prog = {}; }
   const groups = meta.reduce((n, m) => n + m.count, 0);
   document.querySelector("#cfCount").textContent = `${meta.length} units · ${groups} groups`;
-  document.querySelector("#cfHead").textContent = `${groups} groups · ${meta.length} units × 10 · 4 types`;
-  const DESC = { A: "長得像、意思不同", B: "看字根字首會誤會真正意思", C: "常見字的 SAT 僻義", D: "常被用錯、寫錯的字" };
+  document.querySelector("#cfHead").textContent = `${groups} groups · ${meta.length} units · ${types.length} types`;
+  const DESC = { A: "長得像、意思不同", B: "看字根字首會誤會真正意思", C: "常見字的 SAT 僻義", D: "常被用錯、寫錯的字", E: "同字首（ex- / con- / com- / in- / per-…）、字根只差一點：-spect- vs -spir-、-voc- vs -vac-、-dict- vs -duct-…" };
   types.forEach(([code, name, en]) => {
     const group = document.createElement("div");
     group.className = "satq-group cf-group";

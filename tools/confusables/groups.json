@@ -11182,5 +11182,2122 @@
   "unit": "易混用法 U3",
   "id": "用法-030",
   "typeName": "易混用法"
+ },
+ {
+  "type": "A",
+  "name": "weary/wary/dreary/wiry/blurry/awry",
+  "words": [
+   {
+    "word": "weary",
+    "pos": "adj.",
+    "def_": "very tired, especially after long effort",
+    "zh": "疲倦的；厭倦的",
+    "syn": "exhausted, fatigued, worn out",
+    "ant": "energetic, refreshed",
+    "sent": "After twelve hours on the bus, the weary travelers fell asleep the moment they reached the hotel.",
+    "tr": "坐了十二小時的巴士後，疲憊的旅客一到旅館就睡著了。",
+    "lvl": 1,
+    "src": "字根字首 U235"
+   },
+   {
+    "word": "wary",
+    "pos": "adj.",
+    "def_": "careful because of possible danger or problems",
+    "zh": "小心提防的；謹慎的",
+    "syn": "cautious, guarded, suspicious",
+    "ant": "trusting, careless",
+    "sent": "Investors are wary of companies that promise huge profits with no risk at all.",
+    "tr": "投資人對保證零風險又高獲利的公司都十分提防。",
+    "lvl": 2,
+    "src": "Barron's U33；Hot Words L22,66；字根字首 U234"
+   },
+   {
+    "word": "dreary",
+    "pos": "adj.",
+    "def_": "dull, gloomy, and depressing",
+    "zh": "沉悶的；陰鬱的",
+    "syn": "gloomy, dismal, bleak",
+    "ant": "cheerful, lively",
+    "sent": "The town looked dreary under the gray November sky, with empty streets and closed shops.",
+    "tr": "在十一月灰濛濛的天空下，空蕩的街道和關閉的商店讓小鎮顯得陰沉。",
+    "lvl": 2,
+    "src": "Hot Words L42；字根字首 U179"
+   },
+   {
+    "word": "wiry",
+    "pos": "adj.",
+    "def_": "thin but strong and tough",
+    "zh": "瘦而結實的",
+    "syn": "sinewy, lean, tough",
+    "ant": "flabby, plump",
+    "sent": "The old farmer was small and wiry, yet he could lift sacks that younger men struggled with.",
+    "tr": "這位老農夫個子小卻精瘦結實，能扛起年輕人都吃力的麻袋。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "blurry",
+    "pos": "adj.",
+    "def_": "not clear; hard to see because the edges are not sharp",
+    "zh": "模糊的",
+    "syn": "fuzzy, hazy, indistinct",
+    "ant": "sharp, clear",
+    "sent": "Without her glasses, the words on the whiteboard looked blurry to her.",
+    "tr": "沒戴眼鏡時，白板上的字在她眼中一片模糊。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "awry",
+    "pos": "adj./adv.",
+    "def_": "away from the planned course; wrong",
+    "zh": "出錯的；歪斜的",
+    "syn": "amiss, astray, wrong",
+    "ant": "right, as planned",
+    "sent": "The surprise party went awry when the guest of honor arrived an hour early.",
+    "tr": "主角早到一小時，驚喜派對就這樣搞砸了。",
+    "lvl": 3,
+    "src": "VA U27；字根字首 U164"
+   }
+  ],
+  "tip_zh": "weary 疲倦（身心累）；wary 提防（ware 小心）；dreary 陰沉沉悶（形容天氣、地方、事物）；wiry 精瘦結實（wire 鐵絲般）；blurry 模糊（blur）；awry 出錯、歪掉（a- + wry 歪）",
+  "tip_en": "weary = tired; wary = cautious; dreary = gloomy; wiry = thin but strong; blurry = unclear; awry = gone wrong",
+  "trap": "六個字都以 -ry 結尾、長得很像：weary 與 wary 只差一個 e，意思從「累」變成「提防」；awry 唸 /əˈraɪ/，不是 /ˈɔːri/，也和 wary 無關。",
+  "score": 2.0,
+  "unit": "形近字 U12",
+  "id": "形近-121",
+  "typeName": "形近字"
+ },
+ {
+  "type": "E",
+  "name": "inspect/inspire/respect/respire",
+  "words": [
+   {
+    "word": "inspect",
+    "pos": "v.",
+    "def_": "to look at something closely to check it",
+    "zh": "檢查；視察",
+    "syn": "examine, scrutinize, check",
+    "ant": "overlook, ignore",
+    "sent": "Customs officers inspect every suitcase that arrives on flights from the region.",
+    "tr": "海關人員會檢查從該地區航班抵達的每一件行李。",
+    "lvl": 1,
+    "src": "306/386 U16；字根字首 U43"
+   },
+   {
+    "word": "inspire",
+    "pos": "v.",
+    "def_": "to fill someone with the urge or ability to do something",
+    "zh": "啟發；激勵",
+    "syn": "motivate, encourage, stimulate",
+    "ant": "discourage, deter",
+    "sent": "Her grandmother's stories about the war inspire her to study history in college.",
+    "tr": "祖母講述的戰爭故事激勵她在大學攻讀歷史。",
+    "lvl": 1,
+    "src": "Hot Words L16"
+   },
+   {
+    "word": "respect",
+    "pos": "v.",
+    "def_": "to admire someone or treat something with consideration",
+    "zh": "尊敬；尊重",
+    "syn": "esteem, honor, admire",
+    "ant": "disdain, scorn",
+    "sent": "Players on both teams respect the referee, even when they disagree with a call.",
+    "tr": "兩隊球員即使不同意判決，也都尊重裁判。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "respire",
+    "pos": "v.",
+    "def_": "to breathe",
+    "zh": "呼吸",
+    "syn": "breathe, inhale and exhale",
+    "ant": "suffocate",
+    "sent": "Fish respire through their gills, taking oxygen from the water around them.",
+    "tr": "魚用鰓呼吸，從周圍的水中攝取氧氣。",
+    "lvl": 3,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "-spect- = 看（inspect 往裡看＝檢查；respect 回頭再看＝尊重）；-spir- = 呼吸（inspire 吸進氣＝啟發；respire 一再呼吸＝呼吸）",
+  "tip_en": "-spect- = look (inspect, respect); -spir- = breathe (inspire, respire)",
+  "trap": "同樣的字首 in- / re- 加上 -spect- 或 -spir-，只差兩三個字母，意思一個是「看」、一個是「呼吸」。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-001",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "expect/expire/aspect/aspire",
+  "words": [
+   {
+    "word": "expect",
+    "pos": "v.",
+    "def_": "to think something will happen",
+    "zh": "預期；期待",
+    "syn": "anticipate, foresee, await",
+    "ant": "doubt",
+    "sent": "Forecasters expect heavy rain to reach the coast by Friday night.",
+    "tr": "氣象預報員預期週五晚上大雨會抵達沿海。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "expire",
+    "pos": "v.",
+    "def_": "to come to an end; to stop being valid",
+    "zh": "到期；失效",
+    "syn": "lapse, end, run out",
+    "ant": "renew, begin",
+    "sent": "Check your passport before you book, because many countries refuse visitors whose passports expire within six months.",
+    "tr": "訂票前先檢查護照，許多國家會拒絕護照六個月內到期的旅客入境。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "aspect",
+    "pos": "n.",
+    "def_": "one part or feature of something",
+    "zh": "方面；面向",
+    "syn": "feature, facet, element",
+    "ant": "",
+    "sent": "The cost of housing is only one aspect of the problem; low wages matter just as much.",
+    "tr": "房價只是問題的一個面向，低薪同樣重要。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "aspire",
+    "pos": "v.",
+    "def_": "to hope strongly to achieve something",
+    "zh": "渴望；立志",
+    "syn": "aim, seek, long",
+    "ant": "",
+    "sent": "Many young athletes aspire to compete in the Olympics one day.",
+    "tr": "許多年輕運動員立志有一天能參加奧運。",
+    "lvl": 2,
+    "src": "Barron's U14；Hot Words L31；字根字首 U4"
+   }
+  ],
+  "tip_zh": "ex-spect 往外看→預期；ex-(s)pire 把氣吐盡→斷氣、到期；a-spect 朝某方向看→面向；a-spire 朝某目標喘氣→渴望",
+  "tip_en": "expect = look out for; expire = breathe out → end; aspect = a side you look at; aspire = breathe toward → long for",
+  "trap": "expire 是 ex- + spire（s 被 x 吃掉了），容易看成 expect；aspire 與 aspect 也只差 -ire / -ect。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-002",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "conspicuous/conspire/suspicious",
+  "words": [
+   {
+    "word": "conspicuous",
+    "pos": "adj.",
+    "def_": "very easy to see or notice",
+    "zh": "顯眼的；引人注目的",
+    "syn": "noticeable, obvious, prominent",
+    "ant": "inconspicuous, hidden",
+    "sent": "Wearing a bright orange jacket made him conspicuous in the crowd of dark suits.",
+    "tr": "他穿著亮橘色外套，在一群深色西裝中非常顯眼。",
+    "lvl": 2,
+    "src": "Hot Words L48；306/386 U6；字根字首 U15"
+   },
+   {
+    "word": "conspire",
+    "pos": "v.",
+    "def_": "to plan secretly with others to do something harmful",
+    "zh": "共謀；密謀",
+    "syn": "plot, scheme, collude",
+    "ant": "",
+    "sent": "The two officials were accused of working together to conspire against the mayor.",
+    "tr": "這兩名官員被控聯手密謀對付市長。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "suspicious",
+    "pos": "adj.",
+    "def_": "feeling that something is wrong or someone is dishonest",
+    "zh": "懷疑的；可疑的",
+    "syn": "distrustful, doubtful, wary",
+    "ant": "trusting",
+    "sent": "The guard grew suspicious when the same van circled the building three times.",
+    "tr": "同一輛廂型車繞大樓三圈時，警衛起了疑心。",
+    "lvl": 1,
+    "src": "Hot Words L66"
+   }
+  ],
+  "tip_zh": "con-spic-uous 大家都看得到→顯眼；con-spire 一起呼吸→同聲出氣→密謀；su(b)-spic-ious 從下面偷看→懷疑",
+  "tip_en": "conspicuous: -spic- look → easy to see; conspire: -spir- breathe together → plot; suspicious: look from below → distrustful",
+  "trap": "conspicuous 與 conspire 都是 consp- 開頭，一個是「看」（spic），一個是「呼吸」（spir）；別把 conspicuous 想成「陰謀的」。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-003",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "perspicacious/perspicuous/perspire/perspective",
+  "words": [
+   {
+    "word": "perspicacious",
+    "pos": "adj.",
+    "def_": "quick to notice and understand things",
+    "zh": "有洞察力的；敏銳的",
+    "syn": "perceptive, astute, shrewd",
+    "ant": "obtuse, dull",
+    "sent": "The perspicacious editor noticed that two chapters described the same event in different ways.",
+    "tr": "敏銳的編輯注意到有兩章以不同方式描述同一件事。",
+    "lvl": 4,
+    "src": "Barron's U23；Hot Words L28；VA U35；字根字首 U57,135"
+   },
+   {
+    "word": "perspicuous",
+    "pos": "adj.",
+    "def_": "clearly expressed and easy to understand",
+    "zh": "（文字）清楚易懂的",
+    "syn": "lucid, clear, intelligible",
+    "ant": "obscure, vague",
+    "sent": "Her perspicuous instructions meant that no one had to ask a single question.",
+    "tr": "她的說明清楚易懂，沒有人需要再發問。",
+    "lvl": 4,
+    "src": "字根字首 U135"
+   },
+   {
+    "word": "perspire",
+    "pos": "v.",
+    "def_": "to sweat",
+    "zh": "流汗",
+    "syn": "sweat, swelter",
+    "ant": "",
+    "sent": "Runners perspire heavily in the humid afternoon heat.",
+    "tr": "跑者在潮濕的午後高溫中大量流汗。",
+    "lvl": 2,
+    "src": "Hot Words L110"
+   },
+   {
+    "word": "perspective",
+    "pos": "n.",
+    "def_": "a particular way of thinking about something; point of view",
+    "zh": "觀點；看法",
+    "syn": "viewpoint, outlook, standpoint",
+    "ant": "",
+    "sent": "Reading letters from soldiers gave the class a new perspective on the war.",
+    "tr": "閱讀士兵的家書讓全班對那場戰爭有了新的觀點。",
+    "lvl": 1,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "per- 穿透 + -spic- 看：perspicacious 看得透（人）、perspicuous 讓人看得透（文字）；per-spire 從皮膚透出氣→流汗；per-spect-ive 看出去的角度",
+  "tip_en": "perspicacious = sharp-eyed (a person); perspicuous = clear (writing); perspire = sweat; perspective = point of view",
+  "trap": "perspicacious 形容「人」很敏銳；perspicuous 形容「文字」很清楚——SAT 最愛考這對。perspire 雖然也是 persp- 開頭，卻是 -spir-（呼吸）。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-004",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "evoke/evacuate/evocative",
+  "words": [
+   {
+    "word": "evoke",
+    "pos": "v.",
+    "def_": "to bring a feeling, memory, or image into the mind",
+    "zh": "喚起；引起（情感、回憶）",
+    "syn": "elicit, summon, call up",
+    "ant": "suppress",
+    "sent": "The smell of fresh bread can evoke memories of his grandmother's kitchen.",
+    "tr": "新鮮麵包的香味會喚起他對祖母廚房的回憶。",
+    "lvl": 2,
+    "src": "306/386 U11；字根字首 U27,156"
+   },
+   {
+    "word": "evacuate",
+    "pos": "v.",
+    "def_": "to move people out of a dangerous place",
+    "zh": "撤離；疏散",
+    "syn": "clear, vacate, remove",
+    "ant": "occupy",
+    "sent": "Officials ordered residents to evacuate the coastal towns before the typhoon arrived.",
+    "tr": "颱風來臨前，官員下令沿海鄉鎮居民撤離。",
+    "lvl": 2,
+    "src": "字根字首 U27,143"
+   },
+   {
+    "word": "evocative",
+    "pos": "adj.",
+    "def_": "bringing strong images, memories, or feelings to mind",
+    "zh": "引起回憶的；令人浮想聯翩的",
+    "syn": "suggestive, vivid, reminiscent",
+    "ant": "",
+    "sent": "The novel opens with an evocative description of a fishing village at dawn.",
+    "tr": "小說以一段令人浮想聯翩的漁村黎明描寫開場。",
+    "lvl": 3,
+    "src": "字根字首 U27,156"
+   }
+  ],
+  "tip_zh": "-voc-/-vok- = 聲音、喊：e-voke 喊出來→喚起；e-voc-ative 會喚起回憶的；-vac- = 空：e-vac-uate 弄空→撤離",
+  "tip_en": "-voc-/-vok- = call (evoke, evocative); -vac- = empty (evacuate)",
+  "trap": "evoke / evacuate 只差 o 和 a：o 是聲音（voice），a 是空的（vacuum）。evocative 是 evoke 的形容詞，與撤離無關。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-005",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "vociferous/vacuous/voracious",
+  "words": [
+   {
+    "word": "vociferous",
+    "pos": "adj.",
+    "def_": "expressing opinions loudly and forcefully",
+    "zh": "大聲疾呼的；喧嚷的",
+    "syn": "clamorous, vocal, outspoken",
+    "ant": "quiet, silent",
+    "sent": "The plan to close the library drew vociferous protests from parents and students.",
+    "tr": "關閉圖書館的計畫引來家長和學生強烈的抗議。",
+    "lvl": 3,
+    "src": "Hot Words L18；VA U31；字根字首 U92,159"
+   },
+   {
+    "word": "vacuous",
+    "pos": "adj.",
+    "def_": "showing no intelligence or serious thought; empty",
+    "zh": "空洞的；愚蠢的",
+    "syn": "empty, mindless, inane",
+    "ant": "thoughtful, intelligent",
+    "sent": "Critics dismissed the movie's dialogue as vacuous chatter with nothing to say.",
+    "tr": "影評人認為這部電影的對白只是空洞的閒聊，毫無內容。",
+    "lvl": 3,
+    "src": "Hot Words L65；VA U13,32；字根字首 U143"
+   },
+   {
+    "word": "voracious",
+    "pos": "adj.",
+    "def_": "wanting a great amount of something, especially food or information",
+    "zh": "貪婪的；求知若渴的",
+    "syn": "insatiable, ravenous, avid",
+    "ant": "",
+    "sent": "A voracious reader, she finished three novels during the long weekend.",
+    "tr": "她是個嗜書如命的讀者，長週末就讀完了三本小說。",
+    "lvl": 2,
+    "src": "Barron's U1；VA U26；字根字首 U234"
+   }
+  ],
+  "tip_zh": "voc-iferous 大聲喊（voc 聲音 + fer 帶）；vac-uous 空的（vacuum）；vor-acious 吞食（vor 吃）",
+  "tip_en": "vociferous = loud (voc = voice); vacuous = empty (vac); voracious = hungry (vor = devour)",
+  "trap": "三個字都以 v-…-ous 結尾：voc 是「聲音」、vac 是「空」、vor 是「吃」，只看字首字母很容易全部搞混。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-006",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "invoke/revoke/vacant/vacate",
+  "words": [
+   {
+    "word": "invoke",
+    "pos": "v.",
+    "def_": "to mention a law, rule, or idea to support an argument; to call on",
+    "zh": "援引；祈求",
+    "syn": "cite, appeal to, call upon",
+    "ant": "",
+    "sent": "The lawyer decided to invoke her client's right to remain silent.",
+    "tr": "律師決定援引當事人保持緘默的權利。",
+    "lvl": 3,
+    "src": "Hot Words L34"
+   },
+   {
+    "word": "revoke",
+    "pos": "v.",
+    "def_": "to officially cancel something such as a license or law",
+    "zh": "撤銷；吊銷",
+    "syn": "cancel, withdraw, annul",
+    "ant": "grant, issue",
+    "sent": "The city may revoke the restaurant's license if it fails another health inspection.",
+    "tr": "若餐廳再次未通過衛生稽查，市府可能吊銷其執照。",
+    "lvl": 2,
+    "src": "字根字首 U63,156"
+   },
+   {
+    "word": "vacant",
+    "pos": "adj.",
+    "def_": "empty; not filled or occupied",
+    "zh": "空著的；空缺的",
+    "syn": "empty, unoccupied, available",
+    "ant": "occupied, full",
+    "sent": "The position of head coach has been vacant since the season ended.",
+    "tr": "球季結束後，總教練一職一直懸缺。",
+    "lvl": 1,
+    "src": "字根字首 U143"
+   },
+   {
+    "word": "vacate",
+    "pos": "v.",
+    "def_": "to leave a place so it is empty",
+    "zh": "騰出；搬離",
+    "syn": "leave, quit, evacuate",
+    "ant": "occupy",
+    "sent": "Guests must vacate their rooms by eleven o'clock on the day they check out.",
+    "tr": "房客須在退房當天十一點前騰出房間。",
+    "lvl": 2,
+    "src": "Hot Words L119"
+   }
+  ],
+  "tip_zh": "-vok- = 喊：in-voke 喊進來→援引；re-voke 喊回來→撤銷。-vac- = 空：vacant 空著的；vacate 使變空→搬離",
+  "tip_en": "invoke = call on; revoke = call back, cancel; vacant = empty; vacate = make empty, leave",
+  "trap": "invoke / revoke 字首不同、意思相反方向；vacant（形容詞）與 vacate（動詞）都來自「空」，和 -vok-「喊」只差一個母音。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-007",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "indict/induct/induce",
+  "words": [
+   {
+    "word": "indict",
+    "pos": "v.",
+    "def_": "to formally charge someone with a serious crime",
+    "zh": "起訴；控告",
+    "syn": "charge, accuse, prosecute",
+    "ant": "acquit, exonerate",
+    "sent": "The grand jury voted to indict the former mayor on bribery charges.",
+    "tr": "大陪審團投票以賄賂罪起訴前市長。",
+    "lvl": 3,
+    "src": "Barron's U20；字根字首 U43"
+   },
+   {
+    "word": "induct",
+    "pos": "v.",
+    "def_": "to formally admit someone into an organization or position",
+    "zh": "使正式加入；使就職",
+    "syn": "install, admit, initiate",
+    "ant": "expel",
+    "sent": "The league will induct three retired players into its Hall of Fame this summer.",
+    "tr": "聯盟今年夏天將讓三位退休球員進入名人堂。",
+    "lvl": 3,
+    "src": "Hot Words L79"
+   },
+   {
+    "word": "induce",
+    "pos": "v.",
+    "def_": "to cause something to happen; to persuade",
+    "zh": "引起；誘使",
+    "syn": "cause, bring about, persuade",
+    "ant": "prevent",
+    "sent": "Some medicines induce drowsiness, so patients should not drive after taking them.",
+    "tr": "有些藥物會引起嗜睡，病人服用後不應開車。",
+    "lvl": 2,
+    "src": "字根字首 U43,148"
+   }
+  ],
+  "tip_zh": "in-dict 說進去（dict 說）→ 正式控告；in-duct 帶進去（duct 引導）→ 使就職；in-duce 引導→誘發",
+  "tip_en": "indict = speak against → charge; induct = lead in → admit; induce = lead to → cause",
+  "trap": "indict 唸 /ɪnˈdaɪt/（c 不發音）；indict 與 induct 只差 i/u：i 是「說」，u 是「引導」。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-008",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "predict/predicate/product",
+  "words": [
+   {
+    "word": "predict",
+    "pos": "v.",
+    "def_": "to say that something will happen in the future",
+    "zh": "預測",
+    "syn": "forecast, foresee, anticipate",
+    "ant": "",
+    "sent": "Few economists were able to predict how quickly prices would rise.",
+    "tr": "很少經濟學家能預測物價會漲得多快。",
+    "lvl": 1,
+    "src": "306/386 U21；字根字首 U60"
+   },
+   {
+    "word": "predicate",
+    "pos": "v.",
+    "def_": "to base something on a particular fact or idea",
+    "zh": "以…為基礎（常用被動 be predicated on）",
+    "syn": "base, found, ground",
+    "ant": "",
+    "sent": "The entire plan is predicated on the assumption that interest rates will stay low.",
+    "tr": "整個計畫都建立在利率會維持低檔的假設上。",
+    "lvl": 4,
+    "src": "Hot Words L100"
+   },
+   {
+    "word": "product",
+    "pos": "n.",
+    "def_": "something that is made or grown to be sold; a result",
+    "zh": "產品；結果",
+    "syn": "goods, output, result",
+    "ant": "",
+    "sent": "The company's newest product is a phone that folds in half.",
+    "tr": "這家公司最新的產品是一支可以對折的手機。",
+    "lvl": 1,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "pre-dict 事先說→預測；pre-dic-ate 事先宣告為根據→以…為基礎；pro-duct 向前引導出來的東西→產品、結果",
+  "tip_en": "predict = say before; predicate = declare as a basis; product = what is led forth",
+  "trap": "predict 和 predicate 都是 pre + dic(t)，但 predicate 不是「預測」，是「以…為前提」；product 的 -duct- 是「引導」。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-009",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "dedicate/deduct/deduce",
+  "words": [
+   {
+    "word": "dedicate",
+    "pos": "v.",
+    "def_": "to give your time or energy to something",
+    "zh": "奉獻；致力於",
+    "syn": "devote, commit, pledge",
+    "ant": "",
+    "sent": "She plans to dedicate her retirement to teaching children to read.",
+    "tr": "她打算把退休生活奉獻於教孩子讀書。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "deduct",
+    "pos": "v.",
+    "def_": "to take away an amount from a total",
+    "zh": "扣除；減去",
+    "syn": "subtract, take off, withhold",
+    "ant": "add",
+    "sent": "The landlord will deduct the cost of the broken window from the deposit.",
+    "tr": "房東會從押金中扣除破窗的費用。",
+    "lvl": 2,
+    "src": "Hot Words L45"
+   },
+   {
+    "word": "deduce",
+    "pos": "v.",
+    "def_": "to reach a conclusion from the facts available",
+    "zh": "推論；推斷",
+    "syn": "infer, conclude, reason",
+    "ant": "",
+    "sent": "From the muddy boots by the door, the detective was able to deduce that someone had just come in from the rain.",
+    "tr": "偵探從門邊沾滿泥巴的靴子推斷有人剛從雨中進來。",
+    "lvl": 2,
+    "src": "Hot Words L111"
+   }
+  ],
+  "tip_zh": "de-dic-ate 宣告（dic）獻出去→奉獻；de-duct 往下帶走→扣除（數字）；de-duce 往下引導→推論（想法）",
+  "tip_en": "dedicate = declare for a purpose; deduct = take away (numbers); deduce = reason out (ideas)",
+  "trap": "deduct 與 deduce 名詞都是 deduction，所以最容易混：扣錢用 deduct，推理用 deduce。",
+  "score": 2.0,
+  "unit": "字根形近 U1",
+  "id": "字形-010",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "contradict/conduct/conducive",
+  "words": [
+   {
+    "word": "contradict",
+    "pos": "v.",
+    "def_": "to say the opposite of what someone else has said",
+    "zh": "反駁；與…矛盾",
+    "syn": "deny, refute, oppose",
+    "ant": "confirm, agree",
+    "sent": "The new data contradict the scientist's earlier claim that the lake was getting cleaner.",
+    "tr": "新數據與科學家先前「湖水越來越乾淨」的說法相矛盾。",
+    "lvl": 2,
+    "src": "306/386 U7；字根字首 U17"
+   },
+   {
+    "word": "conduct",
+    "pos": "v.",
+    "def_": "to organize and carry out an activity",
+    "zh": "進行；實施",
+    "syn": "carry out, perform, run",
+    "ant": "",
+    "sent": "The students will conduct a survey of how much water each family uses.",
+    "tr": "學生將進行一項調查，了解每個家庭用多少水。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "conducive",
+    "pos": "adj.",
+    "def_": "helping something to happen",
+    "zh": "有助於…的（+ to）",
+    "syn": "favorable, helpful, beneficial",
+    "ant": "harmful, detrimental",
+    "sent": "A quiet, well-lit room is conducive to careful reading.",
+    "tr": "安靜明亮的房間有助於專心閱讀。",
+    "lvl": 3,
+    "src": "Barron's U37；字根字首 U13,148"
+   }
+  ],
+  "tip_zh": "contra-dict 反著說→反駁；con-duct 一起帶領→進行；con-duc-ive 引導往某方向→有助於",
+  "tip_en": "contradict = speak against; conduct = lead together → carry out; conducive = leading to → helpful",
+  "trap": "contradict 的 -dict 是「說」；conduct / conducive 的 -duc(t)- 是「引導」。conducive 後面固定接 to。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-011",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "concede/coincide/concise",
+  "words": [
+   {
+    "word": "concede",
+    "pos": "v.",
+    "def_": "to admit that something is true, often unwillingly; to give up",
+    "zh": "（勉強）承認；讓步",
+    "syn": "admit, acknowledge, yield",
+    "ant": "deny, dispute",
+    "sent": "After the final votes were counted, the senator agreed to concede the election.",
+    "tr": "最後選票開完後，那位參議員同意承認敗選。",
+    "lvl": 2,
+    "src": "306/386 U6；字根字首 U13,95"
+   },
+   {
+    "word": "coincide",
+    "pos": "v.",
+    "def_": "to happen at the same time",
+    "zh": "同時發生；一致",
+    "syn": "concur, synchronize, correspond",
+    "ant": "differ",
+    "sent": "The festival will coincide with the full moon this year.",
+    "tr": "今年的節慶剛好與滿月同時發生。",
+    "lvl": 2,
+    "src": "Hot Words L77"
+   },
+   {
+    "word": "concise",
+    "pos": "adj.",
+    "def_": "giving information clearly in few words",
+    "zh": "簡潔的；簡明的",
+    "syn": "brief, succinct, terse",
+    "ant": "wordy, verbose",
+    "sent": "Keep your answer concise; the form allows only fifty words.",
+    "tr": "回答請簡潔，表格只允許五十個字。",
+    "lvl": 1,
+    "src": "Hot Words L1；306/386 U6；字根字首 U13,99"
+   }
+  ],
+  "tip_zh": "con-cede 一起走、退一步→讓步；co-in-cide 一起落在…上→同時發生；con-cise 整個切齊（cis 切）→簡潔",
+  "tip_en": "concede = step back, admit; coincide = fall together; concise = cut short",
+  "trap": "concede 的 -cede 是「走」，concise 的 -cis- 是「切」；coincide 的 -cide 雖然長得像「殺」，其實來自 cadere（落下）。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-012",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "recede/recess/regicide",
+  "words": [
+   {
+    "word": "recede",
+    "pos": "v.",
+    "def_": "to move back or become less",
+    "zh": "後退；減弱",
+    "syn": "retreat, ebb, subside",
+    "ant": "advance, rise",
+    "sent": "Once the floodwaters recede, families can return to clean their homes.",
+    "tr": "洪水退去後，居民就能回家清理。",
+    "lvl": 2,
+    "src": "Hot Words L45"
+   },
+   {
+    "word": "recess",
+    "pos": "n.",
+    "def_": "a break from work or school",
+    "zh": "休息；休會",
+    "syn": "break, interval, pause",
+    "ant": "",
+    "sent": "During recess, the children rushed outside to play soccer.",
+    "tr": "下課休息時，孩子們衝到外面踢足球。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "regicide",
+    "pos": "n.",
+    "def_": "the killing of a king",
+    "zh": "弒君",
+    "syn": "",
+    "ant": "",
+    "sent": "In the play, the general's ambition leads him to regicide and, finally, to his own ruin.",
+    "tr": "在劇中，將軍的野心讓他走向弒君，最後也毀了自己。",
+    "lvl": 4,
+    "src": "字根字首 U99"
+   }
+  ],
+  "tip_zh": "re-cede 往回走→後退；re-cess 退回去的時間→休息；regi- 國王 + -cide 殺→弒君",
+  "tip_en": "recede = go back; recess = a time of stepping back, a break; regicide = king-killing",
+  "trap": "-cede / -cess 是「走」，-cide 是「殺」：recede 與 regicide 只差 -gi-，意思天差地遠。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-013",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "precede/proceed/precise",
+  "words": [
+   {
+    "word": "precede",
+    "pos": "v.",
+    "def_": "to come or happen before something",
+    "zh": "在…之前",
+    "syn": "come before, antedate, predate",
+    "ant": "follow, succeed",
+    "sent": "A short speech by the principal will precede the award ceremony.",
+    "tr": "頒獎典禮之前會先有校長的簡短致詞。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "proceed",
+    "pos": "v.",
+    "def_": "to continue or go forward",
+    "zh": "繼續進行；前進",
+    "syn": "continue, advance, go on",
+    "ant": "halt, stop",
+    "sent": "After the fire alarm stopped, the teacher told the class to proceed with the test.",
+    "tr": "火警鈴停了之後，老師要全班繼續考試。",
+    "lvl": 1,
+    "src": "字根字首 U95"
+   },
+   {
+    "word": "precise",
+    "pos": "adj.",
+    "def_": "exact and accurate",
+    "zh": "精確的",
+    "syn": "exact, accurate, specific",
+    "ant": "vague, approximate",
+    "sent": "The recipe gives precise amounts, down to a quarter of a gram.",
+    "tr": "這份食譜給的份量非常精確，細到四分之一公克。",
+    "lvl": 1,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "pre-cede 走在前面→在…之前；pro-ceed 往前走→繼續（注意 -ceed 拼法）；pre-cise 事先切齊→精確",
+  "tip_en": "precede = go before; proceed = go forward; precise = cut exactly",
+  "trap": "precede（在前）和 proceed（繼續）只差字首又拼法不同（-cede / -ceed）；precise 的 -cis- 是「切」。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-014",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "incisive/incessant/incite",
+  "words": [
+   {
+    "word": "incisive",
+    "pos": "adj.",
+    "def_": "clear, sharp, and direct in thinking or expression",
+    "zh": "一針見血的；犀利的",
+    "syn": "sharp, penetrating, acute",
+    "ant": "vague, superficial",
+    "sent": "Her incisive questions quickly exposed the weaknesses in the company's plan.",
+    "tr": "她犀利的提問很快就揭露了公司計畫的弱點。",
+    "lvl": 3,
+    "src": "Barron's U14；Hot Words L28；字根字首 U43,99"
+   },
+   {
+    "word": "incessant",
+    "pos": "adj.",
+    "def_": "continuing without stopping",
+    "zh": "不停的；持續不斷的",
+    "syn": "constant, ceaseless, unending",
+    "ant": "occasional, intermittent",
+    "sent": "The incessant noise from the construction site kept the neighbors awake all week.",
+    "tr": "工地不停的噪音讓鄰居整週都睡不好。",
+    "lvl": 3,
+    "src": "Hot Words L60；306/386 U15；VA U14；字根字首 U39,95"
+   },
+   {
+    "word": "incite",
+    "pos": "v.",
+    "def_": "to encourage people to do something violent or wrong",
+    "zh": "煽動；激起",
+    "syn": "provoke, stir up, instigate",
+    "ant": "calm, discourage",
+    "sent": "The speaker was arrested for trying to incite the crowd to attack the police.",
+    "tr": "演講者因企圖煽動群眾攻擊警察而被捕。",
+    "lvl": 2,
+    "src": "306/386 U15；字根字首 U43"
+   }
+  ],
+  "tip_zh": "in-cis-ive 切進去→一針見血；in-cess-ant 不（in-）停止（cess 走開）→不停的；in-cite 喚起（cite 召喚）→煽動",
+  "tip_en": "incisive = cutting into → sharp; incessant = not ceasing; incite = call up → stir to action",
+  "trap": "incessant 的 in- 是「不」，不是「進入」；incisive 的 -cis- 是「切」，和 incite 只差兩個字母。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-015",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "exceed/excess/excise",
+  "words": [
+   {
+    "word": "exceed",
+    "pos": "v.",
+    "def_": "to be more than a number or limit",
+    "zh": "超過；超出",
+    "syn": "surpass, go beyond, top",
+    "ant": "fall short",
+    "sent": "Drivers who exceed the speed limit near schools face double fines.",
+    "tr": "在學校附近超速的駕駛會被處以加倍罰款。",
+    "lvl": 1,
+    "src": "306/386 U11；字根字首 U27,95"
+   },
+   {
+    "word": "excess",
+    "pos": "n.",
+    "def_": "an amount that is more than needed or allowed",
+    "zh": "過量；超額",
+    "syn": "surplus, overabundance, glut",
+    "ant": "shortage, deficit",
+    "sent": "Drain off the excess oil before you serve the fried fish.",
+    "tr": "上菜前先把炸魚多餘的油瀝掉。",
+    "lvl": 2,
+    "src": "字根字首 U27,95"
+   },
+   {
+    "word": "excise",
+    "pos": "v.",
+    "def_": "to cut out or remove completely",
+    "zh": "切除；刪除",
+    "syn": "remove, cut out, delete",
+    "ant": "insert",
+    "sent": "The editor decided to excise two paragraphs that repeated the same point.",
+    "tr": "編輯決定刪除兩段重複同一論點的文字。",
+    "lvl": 3,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "ex-ceed 走出界外→超過（動詞，-ceed）；ex-cess 走出去的部分→過量（名詞）；ex-cis-e 切出去→切除",
+  "tip_en": "exceed = go beyond (v.); excess = too much (n.); excise = cut out",
+  "trap": "exceed 是動詞、excess 是名詞，同一個字根 -ced-/-cess- 卻拼法不同；excise 的 -cis- 是「切」（也可當名詞「貨物稅」）。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-016",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "aggregate/aggravate/aggrandize",
+  "words": [
+   {
+    "word": "aggregate",
+    "pos": "n./v.",
+    "def_": "a total made by adding several things together; to combine",
+    "zh": "總計；聚集",
+    "syn": "total, sum, combine",
+    "ant": "separate",
+    "sent": "The team's aggregate score over two games was higher than any other team's.",
+    "tr": "這支隊伍兩場比賽的總得分比其他隊都高。",
+    "lvl": 3,
+    "src": "Hot Words L34；字根字首 U3,147"
+   },
+   {
+    "word": "aggravate",
+    "pos": "v.",
+    "def_": "to make a bad situation worse; to annoy",
+    "zh": "使惡化；激怒",
+    "syn": "worsen, exacerbate, irritate",
+    "ant": "alleviate, ease",
+    "sent": "Scratching the rash will only aggravate it.",
+    "tr": "抓疹子只會讓它更嚴重。",
+    "lvl": 2,
+    "src": "306/386 U2；字根字首 U3"
+   },
+   {
+    "word": "aggrandize",
+    "pos": "v.",
+    "def_": "to make someone or something seem more powerful or important",
+    "zh": "誇大；擴大（權勢）",
+    "syn": "exalt, inflate, magnify",
+    "ant": "belittle",
+    "sent": "The dictator built huge statues to aggrandize himself.",
+    "tr": "獨裁者建造巨大雕像來抬高自己的地位。",
+    "lvl": 4,
+    "src": "VA U34；字根字首 U3"
+   }
+  ],
+  "tip_zh": "ag-greg-ate 聚成一群（greg 群）→總計；ag-grav-ate 加重（grav 重）→使惡化；ag-grand-ize 變大→誇大權勢",
+  "tip_en": "aggregate = gathered into a flock (greg); aggravate = made heavier (grav); aggrandize = made grand",
+  "trap": "aggregate 與 aggravate 只差 -reg- / -rav-：一個是「群」，一個是「重」；aggravate 不是「聚集」。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-017",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "congregate/segregate/gravitate",
+  "words": [
+   {
+    "word": "congregate",
+    "pos": "v.",
+    "def_": "to come together in a group",
+    "zh": "聚集；集合",
+    "syn": "gather, assemble, convene",
+    "ant": "disperse",
+    "sent": "Fans began to congregate outside the stadium hours before the game.",
+    "tr": "比賽前好幾個小時，球迷就開始聚集在球場外。",
+    "lvl": 2,
+    "src": "字根字首 U14,147"
+   },
+   {
+    "word": "segregate",
+    "pos": "v.",
+    "def_": "to keep people or things separate from others",
+    "zh": "隔離；分開",
+    "syn": "separate, isolate, divide",
+    "ant": "integrate",
+    "sent": "Please segregate the recyclables from the rest of the trash.",
+    "tr": "請把可回收物和其他垃圾分開。",
+    "lvl": 2,
+    "src": "字根字首 U64,100,147"
+   },
+   {
+    "word": "gravitate",
+    "pos": "v.",
+    "def_": "to be drawn toward something or someone",
+    "zh": "被吸引（+ toward）",
+    "syn": "be drawn, incline, lean",
+    "ant": "",
+    "sent": "At parties, shy guests tend to gravitate toward the kitchen.",
+    "tr": "派對上，害羞的客人常會往廚房靠過去。",
+    "lvl": 3,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "con-greg-ate 聚成一群→集合；se-greg-ate 離開群體→隔離；grav-itate 被重力拉向→被吸引",
+  "tip_en": "congregate = flock together; segregate = set apart from the flock; gravitate = be pulled toward (gravity)",
+  "trap": "congregate / segregate 都是 -greg-（群），字首相反；gravitate 來自 gravity（重力），後面固定接 toward。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-018",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "excoriate/excruciate/excavate/extricate/exacerbate",
+  "words": [
+   {
+    "word": "excoriate",
+    "pos": "v.",
+    "def_": "to criticize someone very severely",
+    "zh": "嚴厲批評；痛斥",
+    "syn": "condemn, denounce, lambaste",
+    "ant": "praise, commend",
+    "sent": "Reviewers excoriate the film for its lazy plot and wooden acting.",
+    "tr": "影評人痛批這部電影劇情草率、演技呆板。",
+    "lvl": 4,
+    "src": "Barron's U44；Hot Words L12；VA U22；字根字首 U27"
+   },
+   {
+    "word": "excruciate",
+    "pos": "v.",
+    "def_": "to cause great pain (most often used as excruciating)",
+    "zh": "使極度痛苦",
+    "syn": "torment, torture, agonize",
+    "ant": "soothe",
+    "sent": "He felt an excruciating pain in his ankle after the fall.",
+    "tr": "他摔倒後腳踝一陣劇痛。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "excavate",
+    "pos": "v.",
+    "def_": "to dig in the ground to find buried objects or make a hole",
+    "zh": "挖掘；開挖",
+    "syn": "dig, unearth, dig up",
+    "ant": "bury, fill",
+    "sent": "Archaeologists plan to excavate the site where the ancient temple once stood.",
+    "tr": "考古學家計畫挖掘這座古廟原本的遺址。",
+    "lvl": 2,
+    "src": "字根字首 U27"
+   },
+   {
+    "word": "extricate",
+    "pos": "v.",
+    "def_": "to free someone or something from a difficult situation",
+    "zh": "使脫離；解救",
+    "syn": "free, release, disentangle",
+    "ant": "entangle, trap",
+    "sent": "Firefighters needed an hour to extricate the driver from the crushed car.",
+    "tr": "消防員花了一小時才把駕駛從撞爛的車中救出。",
+    "lvl": 3,
+    "src": "字根字首 U29"
+   },
+   {
+    "word": "exacerbate",
+    "pos": "v.",
+    "def_": "to make a problem or bad situation worse",
+    "zh": "使惡化；加劇",
+    "syn": "worsen, aggravate, intensify",
+    "ant": "alleviate, relieve",
+    "sent": "Cutting the number of buses will only exacerbate traffic in the city center.",
+    "tr": "減少公車班次只會讓市中心的交通更糟。",
+    "lvl": 3,
+    "src": "Barron's U7；306/386 U11；字根字首 U27"
+   }
+  ],
+  "tip_zh": "都是 ex- 開頭的 -ate 動詞：ex-coriate 剝掉皮（corium 皮）→痛斥；ex-cruci-ate 釘上十字架（cruc）→劇痛；ex-cav-ate 挖空（cav 洞）；ex-tric-ate 從糾纏（tric）中拉出→解救；ex-acerb-ate 使更苦（acerb 酸苦）→惡化",
+  "tip_en": "excoriate = strip the skin → criticize harshly; excruciate = crucify → torment; excavate = hollow out → dig; extricate = pull out of tangles; exacerbate = make bitter → worsen",
+  "trap": "五個字都是 ex- + 四五個字母 + -ate，看到 ex…ate 就要停下來看中間的字根；excoriate 是「痛罵」不是「挖」，exacerbate 是「惡化」不是「誇大」。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-019",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "expend/expand/expound",
+  "words": [
+   {
+    "word": "expend",
+    "pos": "v.",
+    "def_": "to use or spend time, energy, or money",
+    "zh": "花費；耗費",
+    "syn": "spend, use up, consume",
+    "ant": "save, conserve",
+    "sent": "Hummingbirds expend a huge amount of energy just to stay in the air.",
+    "tr": "蜂鳥光是停在空中就要耗費大量能量。",
+    "lvl": 3,
+    "src": "字根字首 U28,119"
+   },
+   {
+    "word": "expand",
+    "pos": "v.",
+    "def_": "to become or make larger",
+    "zh": "擴大；擴張",
+    "syn": "enlarge, grow, extend",
+    "ant": "shrink, contract",
+    "sent": "The bakery plans to expand into the empty shop next door.",
+    "tr": "麵包店打算擴展到隔壁的空店面。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "expound",
+    "pos": "v.",
+    "def_": "to explain something in detail",
+    "zh": "詳細說明；闡述",
+    "syn": "explain, elaborate, explicate",
+    "ant": "",
+    "sent": "The professor loves to expound on her theory long after class has ended.",
+    "tr": "教授總愛在下課後還繼續詳細闡述她的理論。",
+    "lvl": 4,
+    "src": "字根字首 U28,123"
+   }
+  ],
+  "tip_zh": "ex-pend 把錢秤出去（pend 秤、付）→花費；ex-pand 往外展開（pand 張開）→擴大；ex-pound 擺出來（pon 放）→闡述",
+  "tip_en": "expend = pay out (pend); expand = spread out (pand); expound = set out (pon) → explain",
+  "trap": "expend / expand 只差 e / a：e 是「花掉」，a 是「變大」；expound 常接 on，意思是「詳細說明」。",
+  "score": 2.0,
+  "unit": "字根形近 U2",
+  "id": "字形-020",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "expedite/expedient/expiate",
+  "words": [
+   {
+    "word": "expedite",
+    "pos": "v.",
+    "def_": "to make a process happen faster",
+    "zh": "加速；促進",
+    "syn": "speed up, hasten, accelerate",
+    "ant": "delay, hinder",
+    "sent": "Paying an extra fee will expedite the processing of your visa.",
+    "tr": "多付一筆費用可以加速簽證的辦理。",
+    "lvl": 3,
+    "src": "Barron's U32；VA U10；字根字首 U28,117"
+   },
+   {
+    "word": "expedient",
+    "pos": "adj./n.",
+    "def_": "useful for a purpose, though perhaps not fair or right",
+    "zh": "權宜的；方便的",
+    "syn": "convenient, practical, advantageous",
+    "ant": "impractical",
+    "sent": "Rather than fix the old roof, the owners found it expedient to cover it with plastic for the winter.",
+    "tr": "屋主沒修舊屋頂，而是權宜地用塑膠布蓋著過冬。",
+    "lvl": 4,
+    "src": "Barron's U42；字根字首 U28,117"
+   },
+   {
+    "word": "expiate",
+    "pos": "v.",
+    "def_": "to make up for a wrong you have done",
+    "zh": "贖（罪）；彌補",
+    "syn": "atone for, redeem, make amends",
+    "ant": "",
+    "sent": "He volunteered at the shelter for years, hoping to expiate his guilt over the accident.",
+    "tr": "他在收容所當了多年志工，希望能為那場意外贖罪。",
+    "lvl": 4,
+    "src": "字根字首 U28"
+   }
+  ],
+  "tip_zh": "ex-ped-ite 把腳（ped）從羈絆中拿出來→加速；ex-ped-ient 讓腳能走出去→權宜、方便；ex-pi-ate 透過虔誠（pi）贖罪",
+  "tip_en": "expedite = free the feet → speed up; expedient = convenient (often not principled); expiate = atone",
+  "trap": "expedite（動詞，加速）與 expedient（形容詞，權宜的）同字根；expiate 看起來像 expire，卻是「贖罪」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-021",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "extenuate/extinguish/extirpate",
+  "words": [
+   {
+    "word": "extenuate",
+    "pos": "v.",
+    "def_": "to make a wrong seem less serious (most often extenuating circumstances)",
+    "zh": "減輕（罪過）；使情有可原",
+    "syn": "mitigate, excuse, lessen",
+    "ant": "aggravate",
+    "sent": "The judge accepted that there were extenuating circumstances and gave a lighter sentence.",
+    "tr": "法官認可有情有可原的情況，因而輕判。",
+    "lvl": 4,
+    "src": "字根字首 U29"
+   },
+   {
+    "word": "extinguish",
+    "pos": "v.",
+    "def_": "to put out a fire or light; to end something",
+    "zh": "熄滅；消滅",
+    "syn": "put out, quench, snuff out",
+    "ant": "ignite, kindle",
+    "sent": "Campers must extinguish their fires completely before leaving the site.",
+    "tr": "露營者離開前必須把火完全熄滅。",
+    "lvl": 2,
+    "src": "Hot Words L76"
+   },
+   {
+    "word": "extirpate",
+    "pos": "v.",
+    "def_": "to destroy something completely",
+    "zh": "根除；滅絕",
+    "syn": "eradicate, root out, eliminate",
+    "ant": "",
+    "sent": "The new law aims to extirpate corruption from local government.",
+    "tr": "新法旨在根除地方政府的貪腐。",
+    "lvl": 4,
+    "src": "VA U23；字根字首 U29"
+   }
+  ],
+  "tip_zh": "ex-tenu-ate 使變薄（tenu 細）→減輕罪責；ex-tingu-ish 撲滅；ex-stirp-ate 連根（stirp 根）拔出→根除",
+  "tip_en": "extenuate = make thin → lessen blame; extinguish = put out; extirpate = pull out by the roots",
+  "trap": "三個字都以 ext- 開頭；extenuating circumstances 是固定說法（情有可原），extirpate 比 extinguish 更強調「連根拔除」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-022",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "exigent/exiguous/exorbitant",
+  "words": [
+   {
+    "word": "exigent",
+    "pos": "adj.",
+    "def_": "needing urgent attention; demanding",
+    "zh": "急迫的；苛求的",
+    "syn": "urgent, pressing, critical",
+    "ant": "",
+    "sent": "The hospital set aside its usual rules to deal with the exigent situation after the earthquake.",
+    "tr": "地震後，醫院暫停一般規定以處理緊急狀況。",
+    "lvl": 4,
+    "src": "字根字首 U28,85"
+   },
+   {
+    "word": "exiguous",
+    "pos": "adj.",
+    "def_": "very small in amount",
+    "zh": "微薄的；稀少的",
+    "syn": "meager, scanty, sparse",
+    "ant": "abundant, plentiful",
+    "sent": "The artist lived on an exiguous income, selling only a few paintings a year.",
+    "tr": "這位藝術家靠微薄的收入過活，一年只賣出幾幅畫。",
+    "lvl": 4,
+    "src": "字根字首 U182"
+   },
+   {
+    "word": "exorbitant",
+    "pos": "adj.",
+    "def_": "much too high in price or amount",
+    "zh": "過高的；過分的",
+    "syn": "excessive, outrageous, inflated",
+    "ant": "reasonable, modest",
+    "sent": "Tourists complained about the exorbitant prices at the airport restaurants.",
+    "tr": "遊客抱怨機場餐廳價格高得離譜。",
+    "lvl": 3,
+    "src": "Hot Words L20；字根字首 U28"
+   }
+  ],
+  "tip_zh": "exig-ent 逼出來的→急迫；exigu-ous 被量得很少→微薄；ex-orbit-ant 跑出軌道→過分、過高",
+  "tip_en": "exigent = urgent; exiguous = scanty; exorbitant = out of orbit → too high",
+  "trap": "exigent 與 exiguous 只差 -ent / -uous，一個是「急」，一個是「少」；exorbitant 幾乎只用在價格。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-023",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "exert/exempt/exact",
+  "words": [
+   {
+    "word": "exert",
+    "pos": "v.",
+    "def_": "to use force, effort, or influence",
+    "zh": "施加；運用",
+    "syn": "apply, use, wield",
+    "ant": "",
+    "sent": "Large companies often exert pressure on lawmakers to change tax rules.",
+    "tr": "大公司常向立法者施壓，要求修改稅法。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "exempt",
+    "pos": "adj./v.",
+    "def_": "free from a duty or rule that others must follow",
+    "zh": "被免除的；豁免",
+    "syn": "excused, free, immune",
+    "ant": "liable, subject",
+    "sent": "Students who score above ninety are exempt from the final exam.",
+    "tr": "考九十分以上的學生免考期末考。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "exact",
+    "pos": "v.",
+    "def_": "to demand and get something, often by force",
+    "zh": "強求；索取（代價）",
+    "syn": "extract, demand, impose",
+    "ant": "",
+    "sent": "The long war continued to exact a heavy toll on the farming villages.",
+    "tr": "長年戰爭持續讓農村付出慘重代價。",
+    "lvl": 3,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "ex-ert 把力推出去→施加；ex-empt 被取出（empt 拿）→豁免；ex-act 逼出來→索取（作動詞時不是「精確」）",
+  "tip_en": "exert = put forth; exempt = taken out → free from; exact (v.) = force out → demand",
+  "trap": "exact 當動詞是「強索」（exact a toll / exact revenge），不是形容詞「精確」；exempt from 是「免除」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-024",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "commend/command/commence",
+  "words": [
+   {
+    "word": "commend",
+    "pos": "v.",
+    "def_": "to praise someone formally",
+    "zh": "讚揚；表揚",
+    "syn": "praise, applaud, laud",
+    "ant": "criticize, condemn",
+    "sent": "The mayor will commend the two teenagers who pulled a child from the river.",
+    "tr": "市長將表揚那兩位從河中救起孩童的青少年。",
+    "lvl": 2,
+    "src": "Hot Words L19；字根字首 U12"
+   },
+   {
+    "word": "command",
+    "pos": "v.",
+    "def_": "to order someone to do something; to deserve and get",
+    "zh": "命令；博得",
+    "syn": "order, direct, instruct",
+    "ant": "obey",
+    "sent": "A great speaker can command the attention of a room without raising her voice.",
+    "tr": "優秀的演說者不必提高音量就能吸引全場注意。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "commence",
+    "pos": "v.",
+    "def_": "to begin",
+    "zh": "開始",
+    "syn": "begin, start, initiate",
+    "ant": "conclude, end",
+    "sent": "The ceremony will commence at ten o'clock sharp.",
+    "tr": "典禮將在十點整開始。",
+    "lvl": 2,
+    "src": "Hot Words L75"
+   }
+  ],
+  "tip_zh": "com-mend 交託、讚揚（mend 託付）；com-mand 下令（mand 命令）；com-mence 一起開始",
+  "tip_en": "commend = praise; command = order; commence = begin",
+  "trap": "commend / command 只差 e / a：e 是「讚美」，a 是「命令」；commence 是正式的 begin。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-025",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "compel/comply/compile",
+  "words": [
+   {
+    "word": "compel",
+    "pos": "v.",
+    "def_": "to force someone to do something",
+    "zh": "強迫；迫使",
+    "syn": "force, oblige, coerce",
+    "ant": "",
+    "sent": "The law can compel witnesses to appear in court.",
+    "tr": "法律可以強制證人出庭。",
+    "lvl": 2,
+    "src": "字根字首 U142"
+   },
+   {
+    "word": "comply",
+    "pos": "v.",
+    "def_": "to obey a rule or request",
+    "zh": "遵守；服從（+ with）",
+    "syn": "obey, follow, conform",
+    "ant": "defy, disobey",
+    "sent": "All restaurants must comply with the new safety rules by June.",
+    "tr": "所有餐廳必須在六月前遵守新的安全規定。",
+    "lvl": 2,
+    "src": "字根字首 U174"
+   },
+   {
+    "word": "compile",
+    "pos": "v.",
+    "def_": "to collect information and put it together",
+    "zh": "編纂；彙編",
+    "syn": "collect, gather, assemble",
+    "ant": "",
+    "sent": "Volunteers will compile a list of every tree in the park.",
+    "tr": "志工將彙整公園裡每一棵樹的清單。",
+    "lvl": 2,
+    "src": "Hot Words L118"
+   }
+  ],
+  "tip_zh": "com-pel 一起推（pel 推）→強迫；com-ply 完成要求（ple 滿）→遵守；com-pile 堆在一起（pil 堆）→彙編",
+  "tip_en": "compel = drive together → force; comply = fulfill → obey; compile = pile together",
+  "trap": "compel（別人強迫你）與 comply（你自己遵守）方向相反；comply 後面接 with。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-026",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "compulsive/compulsory/compelling",
+  "words": [
+   {
+    "word": "compulsive",
+    "pos": "adj.",
+    "def_": "unable to stop doing something",
+    "zh": "強迫性的；無法克制的",
+    "syn": "obsessive, uncontrollable, addictive",
+    "ant": "",
+    "sent": "He is a compulsive checker who returns home three times to see if the door is locked.",
+    "tr": "他有強迫性的檢查習慣，會回家三次確認門有沒有鎖。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "compulsory",
+    "pos": "adj.",
+    "def_": "required by law or a rule",
+    "zh": "義務的；強制的",
+    "syn": "mandatory, obligatory, required",
+    "ant": "optional, voluntary",
+    "sent": "In Taiwan, education is compulsory until the end of junior high school.",
+    "tr": "在台灣，國中畢業前都是義務教育。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "compelling",
+    "pos": "adj.",
+    "def_": "very interesting or convincing",
+    "zh": "引人入勝的；令人信服的",
+    "syn": "convincing, persuasive, gripping",
+    "ant": "weak, unconvincing",
+    "sent": "The lawyer presented compelling evidence that her client had been at home that night.",
+    "tr": "律師提出令人信服的證據，證明當事人當晚在家。",
+    "lvl": 2,
+    "src": "306/386 U5；字根字首 U12,118"
+   }
+  ],
+  "tip_zh": "都來自 compel（推）：compulsive 被內在衝動推著→強迫性的；compulsory 被規定推著→強制的；compelling 推動人心→令人信服",
+  "tip_en": "compulsive = driven from inside; compulsory = required by rule; compelling = convincing or gripping",
+  "trap": "compulsive 形容「人或行為」（無法克制），compulsory 形容「規定」（必修、義務）；compelling 是正面的「有說服力」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-027",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "confide/confine/confound",
+  "words": [
+   {
+    "word": "confide",
+    "pos": "v.",
+    "def_": "to tell someone a secret because you trust them",
+    "zh": "吐露（秘密）；信賴",
+    "syn": "reveal, disclose, entrust",
+    "ant": "conceal",
+    "sent": "She decided to confide in her older sister about the problems at school.",
+    "tr": "她決定向姊姊吐露在學校遇到的問題。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "confine",
+    "pos": "v.",
+    "def_": "to keep someone or something within limits",
+    "zh": "限制；監禁",
+    "syn": "restrict, limit, imprison",
+    "ant": "free, release",
+    "sent": "The doctor told him to confine himself to bed for three days.",
+    "tr": "醫生要他臥床三天。",
+    "lvl": 2,
+    "src": "Hot Words L108"
+   },
+   {
+    "word": "confound",
+    "pos": "v.",
+    "def_": "to confuse and surprise someone; to prove wrong",
+    "zh": "使困惑；推翻（預測）",
+    "syn": "baffle, perplex, bewilder",
+    "ant": "clarify",
+    "sent": "The team's sudden success continued to confound the experts who had predicted a losing season.",
+    "tr": "這支球隊突如其來的好成績讓原本預言戰績慘淡的專家跌破眼鏡。",
+    "lvl": 3,
+    "src": "VA U30；字根字首 U14,152"
+   }
+  ],
+  "tip_zh": "con-fid-e 完全信任（fid 信）→吐露；con-fin-e 在邊界（fin）內→限制；con-found 倒在一起→使困惑",
+  "tip_en": "confide = trust (fid); confine = keep within limits (fin); confound = confuse",
+  "trap": "confide / confine 只差 d / n：d 是「信任」，n 是「邊界」；confide in 某人＝向某人吐露。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-028",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "convene/convince/convict",
+  "words": [
+   {
+    "word": "convene",
+    "pos": "v.",
+    "def_": "to come together for a meeting; to call a meeting",
+    "zh": "召集；集會",
+    "syn": "assemble, gather, summon",
+    "ant": "adjourn, disperse",
+    "sent": "The council will convene next Tuesday to discuss the budget.",
+    "tr": "議會下週二將召開會議討論預算。",
+    "lvl": 3,
+    "src": "字根字首 U15"
+   },
+   {
+    "word": "convince",
+    "pos": "v.",
+    "def_": "to make someone believe that something is true",
+    "zh": "說服；使相信",
+    "syn": "persuade, satisfy, assure",
+    "ant": "dissuade",
+    "sent": "It took several months to convince her parents that she could travel alone.",
+    "tr": "她花了好幾個月才讓父母相信她能獨自旅行。",
+    "lvl": 1,
+    "src": "字根字首 U16"
+   },
+   {
+    "word": "convict",
+    "pos": "v.",
+    "def_": "to officially decide in court that someone is guilty",
+    "zh": "判…有罪",
+    "syn": "condemn, sentence",
+    "ant": "acquit",
+    "sent": "The jury needed only two hours to convict the man of theft.",
+    "tr": "陪審團只花兩小時就判那名男子竊盜罪成立。",
+    "lvl": 2,
+    "src": "Hot Words L97"
+   }
+  ],
+  "tip_zh": "con-ven-e 一起來（ven 來）→召開會議；con-vinc-e 完全征服（vinc 征服）→說服；con-vict 被征服（vict）→判有罪",
+  "tip_en": "convene = come together; convince = conquer (an argument); convict = conquer (in court) → find guilty",
+  "trap": "convince / convict 同字根（vinc / vict 征服），一個在辯論中「說服」，一個在法庭上「定罪」；convene 是「開會」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-029",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "conserve/converse/conversant",
+  "words": [
+   {
+    "word": "conserve",
+    "pos": "v.",
+    "def_": "to protect something from harm or waste",
+    "zh": "保存；節約",
+    "syn": "preserve, save, protect",
+    "ant": "waste, squander",
+    "sent": "Turn off the lights when you leave the room to conserve electricity.",
+    "tr": "離開房間時關燈以節約用電。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "converse",
+    "pos": "v.",
+    "def_": "to have a conversation",
+    "zh": "交談",
+    "syn": "talk, chat, communicate",
+    "ant": "",
+    "sent": "The two leaders were able to converse in French without an interpreter.",
+    "tr": "兩位領袖能不靠翻譯直接用法語交談。",
+    "lvl": 2,
+    "src": "字根字首 U15,146"
+   },
+   {
+    "word": "conversant",
+    "pos": "adj.",
+    "def_": "having knowledge or experience of something",
+    "zh": "熟悉的；精通的（+ with）",
+    "syn": "familiar, knowledgeable, versed",
+    "ant": "unfamiliar, ignorant",
+    "sent": "Applicants must be conversant with basic accounting software.",
+    "tr": "應徵者必須熟悉基本的會計軟體。",
+    "lvl": 3,
+    "src": "VA U12；字根字首 U15,146"
+   }
+  ],
+  "tip_zh": "con-serv-e 完整保存（serv 保存）；con-vers-e 轉來轉去（vers 轉）→交談；con-vers-ant 常打交道→熟悉",
+  "tip_en": "conserve = keep safe; converse = talk; conversant (with) = familiar with",
+  "trap": "conserve / converse 只差 s 和 v 的位置；conversant 不是「健談的」，而是「熟悉、精通」。",
+  "score": 2.0,
+  "unit": "字根形近 U3",
+  "id": "字形-030",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "contract/contort/contour",
+  "words": [
+   {
+    "word": "contract",
+    "pos": "v.",
+    "def_": "to become smaller; to make a formal agreement",
+    "zh": "收縮；訂約",
+    "syn": "shrink, tighten; agree",
+    "ant": "expand",
+    "sent": "Metal rails contract slightly on cold winter nights.",
+    "tr": "寒冷的冬夜裡，金屬軌道會稍微收縮。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "contort",
+    "pos": "v.",
+    "def_": "to twist something out of its normal shape",
+    "zh": "扭曲",
+    "syn": "twist, distort, deform",
+    "ant": "straighten",
+    "sent": "The acrobat can contort her body into shapes that seem impossible.",
+    "tr": "這位特技演員能把身體扭成看似不可能的形狀。",
+    "lvl": 3,
+    "src": "Barron's U40；字根字首 U15,139"
+   },
+   {
+    "word": "contour",
+    "pos": "n.",
+    "def_": "the outline or shape of something",
+    "zh": "輪廓；外形",
+    "syn": "outline, profile, shape",
+    "ant": "",
+    "sent": "The map shows every contour of the mountain range in fine detail.",
+    "tr": "地圖詳細標出山脈的每一條輪廓。",
+    "lvl": 3,
+    "src": "新增"
+   }
+  ],
+  "tip_zh": "con-tract 拉在一起（tract 拉）→收縮、訂約；con-tort 扭在一起（tort 扭）→扭曲；con-tour 繞一圈（tour 轉）→輪廓",
+  "tip_en": "contract = draw together; contort = twist together; contour = turn around → outline",
+  "trap": "contort 與 contour 只差 -rt / -ur，一個是動詞「扭曲」，一個是名詞「輪廓」；contract 也可指「收縮」。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-031",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "consent/consist/consign",
+  "words": [
+   {
+    "word": "consent",
+    "pos": "n./v.",
+    "def_": "permission or agreement",
+    "zh": "同意；准許",
+    "syn": "permission, approval, assent",
+    "ant": "refusal",
+    "sent": "Students under eighteen need a parent's consent to join the trip.",
+    "tr": "未滿十八歲的學生參加旅行需要家長同意。",
+    "lvl": 2,
+    "src": "字根字首 U14,132"
+   },
+   {
+    "word": "consist",
+    "pos": "v.",
+    "def_": "to be made up of (+ of)",
+    "zh": "由…組成（+ of）",
+    "syn": "comprise, be made up of",
+    "ant": "",
+    "sent": "The committee will consist of four teachers and two parents.",
+    "tr": "委員會將由四位老師和兩位家長組成。",
+    "lvl": 1,
+    "src": "新增"
+   },
+   {
+    "word": "consign",
+    "pos": "v.",
+    "def_": "to send or hand over; to put somewhere to be forgotten",
+    "zh": "託運；把…擱置",
+    "syn": "entrust, deliver, relegate",
+    "ant": "",
+    "sent": "After the new model came out, the old phones were consigned to a drawer.",
+    "tr": "新款上市後，舊手機就被丟進抽屜裡了。",
+    "lvl": 4,
+    "src": "字根字首 U14"
+   }
+  ],
+  "tip_zh": "con-sent 一起感覺（sent 感覺）→同意；con-sist 站在一起（sist 站）→組成；con-sign 蓋印交出（sign 記號）→託付、擱置",
+  "tip_en": "consent = feel together → agree; consist (of) = stand together → be made of; consign = hand over",
+  "trap": "consist of（由…組成）不能用被動；consign A to B 是「把 A 交給／擱到 B」，常帶貶意（consigned to history）。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-032",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "consecutive/consequential/consecrate",
+  "words": [
+   {
+    "word": "consecutive",
+    "pos": "adj.",
+    "def_": "following one after another without a break",
+    "zh": "連續的",
+    "syn": "successive, straight, uninterrupted",
+    "ant": "intermittent",
+    "sent": "The team has won seven consecutive games.",
+    "tr": "這支隊伍已經連勝七場。",
+    "lvl": 2,
+    "src": "新增"
+   },
+   {
+    "word": "consequential",
+    "pos": "adj.",
+    "def_": "important; having significant results",
+    "zh": "重大的；後果嚴重的",
+    "syn": "significant, momentous, important",
+    "ant": "trivial, insignificant",
+    "sent": "Choosing a college major is one of the most consequential decisions a student makes.",
+    "tr": "選大學主修是學生最重大的決定之一。",
+    "lvl": 3,
+    "src": "Hot Words L82"
+   },
+   {
+    "word": "consecrate",
+    "pos": "v.",
+    "def_": "to declare something holy; to dedicate formally",
+    "zh": "使神聖；奉獻",
+    "syn": "sanctify, bless, dedicate",
+    "ant": "desecrate",
+    "sent": "The bishop will consecrate the new church on Sunday.",
+    "tr": "主教將於週日為新教堂祝聖。",
+    "lvl": 4,
+    "src": "VA U30；字根字首 U14,128"
+   }
+  ],
+  "tip_zh": "con-secut-ive 一個跟著一個（secu 跟隨）→連續；con-sequ-ential 有後果的→重大的；con-secr-ate 完全神聖（sacr 神聖）→祝聖",
+  "tip_en": "consecutive = following in order; consequential = having big consequences; consecrate = make sacred",
+  "trap": "consecutive 與 consequential 都來自 sequ（跟隨），但一個是「連續」，一個是「重大」；consecrate 的 -secr- 是「神聖」。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-033",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "condense/condescend/contend",
+  "words": [
+   {
+    "word": "condense",
+    "pos": "v.",
+    "def_": "to make something shorter or more compact",
+    "zh": "濃縮；精簡",
+    "syn": "shorten, abridge, compress",
+    "ant": "expand, lengthen",
+    "sent": "Can you condense this ten-page report into a one-page summary?",
+    "tr": "你能把這份十頁報告濃縮成一頁摘要嗎？",
+    "lvl": 2,
+    "src": "字根字首 U13"
+   },
+   {
+    "word": "condescend",
+    "pos": "v.",
+    "def_": "to behave as if you are better than others",
+    "zh": "以高人一等的態度對待",
+    "syn": "patronize, talk down to",
+    "ant": "",
+    "sent": "Good teachers never condescend to students who ask simple questions.",
+    "tr": "好老師絕不會對問簡單問題的學生擺出高高在上的態度。",
+    "lvl": 3,
+    "src": "Barron's U30；字根字首 U13"
+   },
+   {
+    "word": "contend",
+    "pos": "v.",
+    "def_": "to argue that something is true; to compete",
+    "zh": "主張；競爭",
+    "syn": "argue, maintain; compete",
+    "ant": "",
+    "sent": "Some historians contend that the treaty made another war inevitable.",
+    "tr": "有些史學家主張這份條約讓另一場戰爭無法避免。",
+    "lvl": 3,
+    "src": "字根字首 U15,138"
+   }
+  ],
+  "tip_zh": "con-dens-e 變得很密（dens 密）→濃縮；con-de-scend 屈尊往下（scend 爬）→擺架子；con-tend 一起伸展（tend 伸）→主張、競爭",
+  "tip_en": "condense = make dense; condescend = climb down → act superior; contend = strive → argue",
+  "trap": "condescend 是「放低身段」但帶有輕視，不是謙虛；contend that… 是「主張」，contend with… 是「對付」。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-034",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "comprehensive/comprehensible/apprehensive",
+  "words": [
+   {
+    "word": "comprehensive",
+    "pos": "adj.",
+    "def_": "including everything or almost everything",
+    "zh": "全面的；廣泛的",
+    "syn": "thorough, complete, extensive",
+    "ant": "limited, partial",
+    "sent": "The museum's guide offers a comprehensive history of the city, from its founding to the present day.",
+    "tr": "博物館的導覽手冊提供了這座城市從建城至今的完整歷史。",
+    "lvl": 2,
+    "src": "Barron's U11；字根字首 U13"
+   },
+   {
+    "word": "comprehensible",
+    "pos": "adj.",
+    "def_": "able to be understood",
+    "zh": "可理解的；易懂的",
+    "syn": "understandable, intelligible, clear",
+    "ant": "incomprehensible",
+    "sent": "The scientist rewrote the article in plain language so that it would be comprehensible to ten-year-olds.",
+    "tr": "科學家用淺白的語言改寫文章，讓十歲孩子也能看懂。",
+    "lvl": 3,
+    "src": "Hot Words L48；字根字首 U13"
+   },
+   {
+    "word": "apprehensive",
+    "pos": "adj.",
+    "def_": "worried that something bad will happen",
+    "zh": "憂慮的；擔心的",
+    "syn": "anxious, uneasy, nervous",
+    "ant": "calm, confident",
+    "sent": "Many students feel apprehensive on the night before an important exam.",
+    "tr": "許多學生在重要考試前一晚都很焦慮。",
+    "lvl": 2,
+    "src": "Hot Words L39；字根字首 U4"
+   }
+  ],
+  "tip_zh": "com-prehens-ive 全部抓住（prehend 抓）→全面的；com-prehens-ible 能被抓住→可理解；ap-prehens-ive 抓住不放（心裡）→擔心",
+  "tip_en": "comprehensive = covering everything; comprehensible = understandable; apprehensive = anxious",
+  "trap": "comprehensive（全面）≠ comprehensible（可理解）：-ive 是「包含很多」，-ible 是「能被懂」；apprehensive 是「擔憂」不是「理解」。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-035",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "exhale/exhume/exhaust",
+  "words": [
+   {
+    "word": "exhale",
+    "pos": "v.",
+    "def_": "to breathe out",
+    "zh": "呼氣；吐出",
+    "syn": "breathe out, expire",
+    "ant": "inhale",
+    "sent": "Take a deep breath, hold it, and then exhale slowly.",
+    "tr": "深吸一口氣，憋住，然後慢慢吐氣。",
+    "lvl": 1,
+    "src": "Hot Words L94"
+   },
+   {
+    "word": "exhume",
+    "pos": "v.",
+    "def_": "to dig a dead body out of the ground",
+    "zh": "（從墳墓）挖出；發掘",
+    "syn": "dig up, disinter, unearth",
+    "ant": "bury, inter",
+    "sent": "Scientists received permission to exhume the king's remains for DNA testing.",
+    "tr": "科學家獲准挖出國王的遺骸做 DNA 檢測。",
+    "lvl": 4,
+    "src": "Hot Words L90"
+   },
+   {
+    "word": "exhaust",
+    "pos": "v.",
+    "def_": "to tire out completely; to use up",
+    "zh": "使筋疲力盡；用盡",
+    "syn": "tire out, drain; use up",
+    "ant": "refresh; replenish",
+    "sent": "Long hikes in the summer heat exhaust even experienced climbers.",
+    "tr": "夏日高溫下長途健行，連經驗豐富的登山客都會累垮。",
+    "lvl": 1,
+    "src": "Hot Words L47；字根字首 U28"
+   }
+  ],
+  "tip_zh": "ex-hal-e 把氣（hal 呼吸）吐出；ex-hum-e 從土裡（hum 土）挖出；ex-haust 汲盡（haust 汲水）→用盡、累垮",
+  "tip_en": "exhale = breathe out; exhume = take out of the earth; exhaust = draw out → use up",
+  "trap": "exhale / exhume 只差 -al- / -um-：一個是「呼吸」，一個是「土」（humus）；exhume 只用在挖出遺體或比喻翻出舊事。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-036",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "extraneous/extrinsic/extemporaneous",
+  "words": [
+   {
+    "word": "extraneous",
+    "pos": "adj.",
+    "def_": "not related to the main subject; unnecessary",
+    "zh": "無關的；多餘的",
+    "syn": "irrelevant, unnecessary, superfluous",
+    "ant": "relevant, essential",
+    "sent": "Remove any extraneous details so the reader can focus on your main argument.",
+    "tr": "刪掉不相關的細節，讓讀者專注在你的主要論點。",
+    "lvl": 3,
+    "src": "Barron's U32；Hot Words L27,83；306/386 U11；字根字首 U30"
+   },
+   {
+    "word": "extrinsic",
+    "pos": "adj.",
+    "def_": "coming from outside, not part of the thing itself",
+    "zh": "外在的；非本質的",
+    "syn": "external, outside, foreign",
+    "ant": "intrinsic",
+    "sent": "Grades and prizes are extrinsic rewards; the joy of learning is an intrinsic one.",
+    "tr": "成績和獎品是外在的獎勵；學習的樂趣則是內在的。",
+    "lvl": 4,
+    "src": "Barron's U15；字根字首 U131"
+   },
+   {
+    "word": "extemporaneous",
+    "pos": "adj.",
+    "def_": "spoken or done without preparation",
+    "zh": "即席的；未經準備的",
+    "syn": "impromptu, unrehearsed, spontaneous",
+    "ant": "prepared, rehearsed",
+    "sent": "Each contestant had to give an extemporaneous speech on a topic chosen at random.",
+    "tr": "每位參賽者都要針對隨機抽到的題目即席演講。",
+    "lvl": 4,
+    "src": "字根字首 U29"
+   }
+  ],
+  "tip_zh": "extra- / extr- = 外：extraneous 外來的→無關；extrinsic 外在的（↔ intrinsic）；ex-tempor-aneous 出於當下（tempor 時間）→即席的",
+  "tip_en": "extraneous = not relevant; extrinsic = coming from outside; extemporaneous = off-the-cuff",
+  "trap": "extraneous 是「與主題無關、多餘」，extrinsic 是「外在的（動機、價值）」，兩者都含 extr-；extemporaneous ＝ impromptu。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-037",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "concur/concord/concoct",
+  "words": [
+   {
+    "word": "concur",
+    "pos": "v.",
+    "def_": "to agree with someone or something",
+    "zh": "同意；一致",
+    "syn": "agree, accord, assent",
+    "ant": "disagree, dissent",
+    "sent": "Most doctors concur that regular exercise lowers the risk of heart disease.",
+    "tr": "多數醫生都同意規律運動能降低心臟病風險。",
+    "lvl": 3,
+    "src": "Barron's U5；Hot Words L77；VA U1；字根字首 U13,153"
+   },
+   {
+    "word": "concord",
+    "pos": "n.",
+    "def_": "agreement and peace between people or groups",
+    "zh": "和諧；一致",
+    "syn": "harmony, accord, peace",
+    "ant": "discord, conflict",
+    "sent": "For decades the two villages lived in concord, sharing the same river and market.",
+    "tr": "數十年來兩個村子和睦相處，共用同一條河和市場。",
+    "lvl": 4,
+    "src": "Hot Words L77；字根字首 U13,101"
+   },
+   {
+    "word": "concoct",
+    "pos": "v.",
+    "def_": "to make up a story or excuse; to mix together",
+    "zh": "捏造；調製",
+    "syn": "invent, fabricate, devise",
+    "ant": "",
+    "sent": "He tried to concoct an excuse for missing practice, but his coach saw through it.",
+    "tr": "他想捏造一個沒來練習的藉口，卻被教練識破。",
+    "lvl": 3,
+    "src": "Barron's U17；字根字首 U13"
+   }
+  ],
+  "tip_zh": "con-cur 一起跑（cur 跑）→意見一致；con-cord 心（cord）在一起→和諧；con-coct 一起煮（coct 煮）→調製、捏造",
+  "tip_en": "concur = run together → agree; concord = hearts together → harmony; concoct = cook together → make up",
+  "trap": "concur 是動詞（同意），concord 是名詞（和睦）；concoct 常指「捏造」故事或藉口。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-038",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "commiserate/commensurate/commemorate",
+  "words": [
+   {
+    "word": "commiserate",
+    "pos": "v.",
+    "def_": "to express sympathy for someone's trouble",
+    "zh": "表示同情；慰問（+ with）",
+    "syn": "sympathize, console, comfort",
+    "ant": "",
+    "sent": "After the loss, players from the winning team went over to commiserate with their opponents.",
+    "tr": "比賽結束後，獲勝隊的球員走過去安慰對手。",
+    "lvl": 4,
+    "src": "VA U11；字根字首 U12"
+   },
+   {
+    "word": "commensurate",
+    "pos": "adj.",
+    "def_": "matching in size, amount, or degree",
+    "zh": "相稱的；相當的（+ with）",
+    "syn": "proportionate, equivalent, corresponding",
+    "ant": "disproportionate",
+    "sent": "Salary will be commensurate with experience.",
+    "tr": "薪資依經驗而定（與經驗相稱）。",
+    "lvl": 4,
+    "src": "VA U14；字根字首 U12"
+   },
+   {
+    "word": "commemorate",
+    "pos": "v.",
+    "def_": "to honor the memory of a person or event",
+    "zh": "紀念",
+    "syn": "honor, celebrate, memorialize",
+    "ant": "",
+    "sent": "A statue in the square will commemorate the workers who built the railway.",
+    "tr": "廣場上的雕像將紀念興建鐵路的工人。",
+    "lvl": 3,
+    "src": "Hot Words L19"
+   }
+  ],
+  "tip_zh": "com-miser-ate 一起悲傷（miser 悲慘）→同情；com-mensur-ate 同樣尺度（mensur 量）→相稱；com-memor-ate 一起記住（memor 記憶）→紀念",
+  "tip_en": "commiserate = share sorrow; commensurate = of equal measure; commemorate = remember together",
+  "trap": "三個字都是 comm- + -rate，SAT 很愛把 commensurate（相稱）和 commemorate（紀念）放在一起。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-039",
+  "typeName": "字根形近"
+ },
+ {
+  "type": "E",
+  "name": "compunction/compulsion/compassion",
+  "words": [
+   {
+    "word": "compunction",
+    "pos": "n.",
+    "def_": "a feeling of guilt that stops you from doing something wrong",
+    "zh": "內疚；良心不安",
+    "syn": "remorse, guilt, qualm",
+    "ant": "",
+    "sent": "The thief felt no compunction about taking money from a charity box.",
+    "tr": "那名小偷從慈善捐款箱拿錢時毫無愧疚。",
+    "lvl": 4,
+    "src": "Hot Words L42；VA U19；字根字首 U13"
+   },
+   {
+    "word": "compulsion",
+    "pos": "n.",
+    "def_": "a strong urge to do something that is hard to resist",
+    "zh": "強烈衝動；強迫",
+    "syn": "urge, impulse, obsession",
+    "ant": "",
+    "sent": "She feels a compulsion to check her phone every few minutes.",
+    "tr": "她每隔幾分鐘就忍不住想看手機。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "compassion",
+    "pos": "n.",
+    "def_": "sympathy and concern for the suffering of others",
+    "zh": "同情；憐憫",
+    "syn": "sympathy, empathy, kindness",
+    "ant": "cruelty, indifference",
+    "sent": "The nurse treated every patient with patience and compassion.",
+    "tr": "那位護理師以耐心和同情心對待每位病人。",
+    "lvl": 2,
+    "src": "Barron's U36；字根字首 U12"
+   }
+  ],
+  "tip_zh": "com-punct-ion 刺痛（punct 刺）→良心不安；com-puls-ion 推（puls）→強迫、衝動；com-pass-ion 一起受苦（pass 受苦）→同情",
+  "tip_en": "compunction = a sting of conscience; compulsion = an irresistible urge; compassion = shared suffering → sympathy",
+  "trap": "compunction 幾乎都用在否定句（no / without compunction＝毫無愧疚）；compulsion 是「控制不住的衝動」，兩者只差 -nct- / -ls-。",
+  "score": 2.0,
+  "unit": "字根形近 U4",
+  "id": "字形-040",
+  "typeName": "字根形近"
  }
 ]
