@@ -28,6 +28,7 @@ body[data-set="cf"] .eyebrow, body[data-set="cf"] #unitTitle { color: var(--cf-d
 .cf-grid.cols2 { grid-template-columns: repeat(2, 1fr); }
 .cf-grid.cols3 { grid-template-columns: repeat(3, 1fr); }
 .cf-grid.cols4 { grid-template-columns: repeat(2, 1fr); }
+.cf-grid.cols5 { grid-template-columns: repeat(3, 1fr); }
 .cf-word { padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: #fcfdfe; scroll-margin-top: 90px; }
 .cf-word-head { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
 .cf-word-head h3 { margin: 0; font-size: 22px; color: var(--ink); }
@@ -86,6 +87,6 @@ body[data-set="cf"] .eyebrow, body[data-set="cf"] #unitTitle { color: var(--cf-d
 .cf-muted { color: var(--muted); font-size: 13px; }
 .cf-shell > #cf-root > .primary-button, .cf-shell > #cf-root > .secondary-button { margin: 0 8px 8px 0; }
 @media (max-width: 760px) {
-  .cf-tip, .cf-grid.cols2, .cf-grid.cols3, .cf-grid.cols4 { grid-template-columns: 1fr; }
+  .cf-tip, .cf-grid.cols2, .cf-grid.cols3, .cf-grid.cols4, .cf-grid.cols5 { grid-template-columns: 1fr; }
   .cf-card { padding: 12px; }
 }

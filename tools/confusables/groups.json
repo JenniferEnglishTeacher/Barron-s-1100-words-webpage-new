@@ -641,7 +641,7 @@
  },
  {
   "type": "A",
-  "name": "conscientious/conscious",
+  "name": "conscientious/conscious/contentious/conscience",
   "words": [
    {
     "word": "conscientious",
@@ -666,11 +666,35 @@
     "tr": "在寂靜的房間裡，她開始意識到時鐘大聲滴答作響。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "contentious",
+    "pos": "adj.",
+    "def_": "causing or likely to cause argument",
+    "zh": "有爭議的；好爭吵的",
+    "syn": "controversial, disputed, quarrelsome",
+    "ant": "uncontroversial, agreeable",
+    "sent": "Whether to build the new dam remained a contentious issue that split the town council for years.",
+    "tr": "是否興建新水壩一直是個有爭議的議題，讓鎮議會分裂多年。",
+    "lvl": 2,
+    "src": "Hot Words L7；306/386 U6；VA U16；字根字首 U15,138"
+   },
+   {
+    "word": "conscience",
+    "pos": "n.",
+    "def_": "a person's inner sense of right and wrong",
+    "zh": "良心；良知",
+    "syn": "morals, scruples, principles",
+    "ant": "",
+    "sent": "Her conscience would not let her keep the wallet she had found on the bus.",
+    "tr": "她的良心不允許她留下在公車上撿到的錢包。",
+    "lvl": 1,
+    "src": "字根字首 U14,150"
    }
   ],
-  "tip_zh": "conscientious 盡責認真（conscience 良心驅使）；conscious 有意識的、察覺到的",
-  "tip_en": "conscientious = careful, diligent; conscious = aware",
-  "trap": "兩字開頭相同，conscientious 與「良心、負責」有關，不是「意識」。",
+  "tip_zh": "conscientious 盡責認真（conscience 良心驅使）；conscious 有意識的；conscience 良心（n.）；contentious 有爭議的（contend 爭論）",
+  "tip_en": "conscientious = diligent; conscious = aware; conscience = sense of right and wrong; contentious = causing argument",
+  "trap": "四字開頭都是 con-：conscientious、conscience、conscious 共用 sci（知道），contentious 只是長得像，來自 contend（爭論）。",
   "score": 1.5,
   "unit": "形近字 U2",
   "id": "形近-017",
@@ -887,7 +911,7 @@
  },
  {
   "type": "A",
-  "name": "allusion/illusion/delusion",
+  "name": "allusion/illusion/delusion/hallucination",
   "words": [
    {
     "word": "allusion",
@@ -920,15 +944,27 @@
     "zh": "妄想；錯誤信念",
     "syn": "misconception, fantasy, self-deception",
     "ant": "reality, truth",
-    "sent": "He clung to the delusion that his failing company would recover without any changes.",
-    "tr": "他固守著妄想，以為不做任何改變，瀕臨倒閉的公司也會好轉。",
+    "sent": "The patient suffered from the delusion that he was a famous king, and no evidence could change his mind.",
+    "tr": "這名病人深陷妄想，以為自己是有名的國王，任何證據都無法改變他的想法。",
     "lvl": 2,
     "src": "Hot Words L29；字根字首 U19"
+   },
+   {
+    "word": "hallucination",
+    "pos": "n.",
+    "def_": "seeing or hearing something that is not really there",
+    "zh": "幻覺",
+    "syn": "vision, apparition, figment",
+    "ant": "reality",
+    "sent": "Lack of sleep can cause a hallucination in which a person hears voices that no one else can hear.",
+    "tr": "睡眠不足可能引發幻覺，讓人聽見別人聽不到的聲音。",
+    "lvl": 3,
+    "src": "字根字首 U189"
    }
   ],
-  "tip_zh": "allusion 典故暗指（al- 指向）；illusion 錯覺（眼睛被騙）；delusion 妄想（深信不疑的錯誤）",
-  "tip_en": "allusion = indirect reference; illusion = false perception; delusion = false belief held firmly",
-  "trap": "三字字尾都是 -lusion；allusion 與欺騙無關，illusion 與 delusion 則差在「看錯」與「信錯」。",
+  "tip_zh": "allusion 典故暗指（al- 指向）；illusion 錯覺（眼睛被騙）；delusion 妄想（深信不疑的錯誤）；hallucination 幻覺（根本不存在卻看見、聽見）",
+  "tip_en": "allusion = indirect reference; illusion = false perception; delusion = false belief held firmly; hallucination = perceiving something that is not there",
+  "trap": "四字長得像；allusion 與欺騙無關；illusion 是「看錯真實存在的東西」，hallucination 是「看見、聽見根本不存在的東西」，delusion 則是「信錯」。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-023",
@@ -1010,7 +1046,7 @@
  },
  {
   "type": "A",
-  "name": "tenuous/tenacious",
+  "name": "tenuous/tenacious/attenuated",
   "words": [
    {
     "word": "tenuous",
@@ -1035,11 +1071,23 @@
     "tr": "這位堅持不懈的記者每天打電話給機關，持續一年，直到官員公開文件。",
     "lvl": 2,
     "src": "Barron's U34；Hot Words L17；306/386 U28；字根字首 U137"
+   },
+   {
+    "word": "attenuated",
+    "pos": "adj.",
+    "def_": "weakened; made thin or less strong",
+    "zh": "減弱的；變細的",
+    "syn": "weakened, diluted, thinned",
+    "ant": "strengthened, intensified",
+    "sent": "The vaccine contains an attenuated virus, weakened in the lab so that it cannot cause disease.",
+    "tr": "疫苗含有減毒病毒，在實驗室中被減弱，因此不會致病。",
+    "lvl": 3,
+    "src": "Barron's U31；字根字首 U4"
    }
   ],
-  "tip_zh": "tenuous 薄弱的（thin 細細一條）；tenacious 頑強的（-acious 抓得很緊）",
-  "tip_en": "tenuous = thin, weak; tenacious = holding firmly",
-  "trap": "同字根 ten（拉、握），但 tenuous 是「拉得細細快斷」，tenacious 是「緊抓不放」。",
+  "tip_zh": "tenuous 薄弱的（thin 細細一條）；tenacious 頑強的（-acious 抓得很緊）；attenuated 被減弱的（at- + tenu 細 → 被弄細、弄弱）",
+  "tip_en": "tenuous = thin, weak; tenacious = holding firmly; attenuated = made weaker or thinner",
+  "trap": "三字同字根 ten／tenu（拉、細）：tenuous 是「細得快斷」，attenuated 是「被弄細、弄弱」，tenacious 是「緊抓不放」。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-026",
@@ -1158,7 +1206,7 @@
  },
  {
   "type": "A",
-  "name": "inhabit/inhibit",
+  "name": "inhabit/inhibit/prohibit/exhibit",
   "words": [
    {
     "word": "inhabit",
@@ -1183,11 +1231,35 @@
     "tr": "低溫會抑制細菌生長，所以食物放冰箱保存得較久。",
     "lvl": 2,
     "src": "306/386 U15；字根字首 U43,107"
+   },
+   {
+    "word": "prohibit",
+    "pos": "v.",
+    "def_": "to forbid officially",
+    "zh": "禁止",
+    "syn": "ban, forbid, outlaw",
+    "ant": "permit, allow",
+    "sent": "The new law prohibits smoking in all restaurants, and offenders must pay a fine.",
+    "tr": "新法禁止在所有餐廳吸菸，違者須繳罰款。",
+    "lvl": 2,
+    "src": "字根字首 U107"
+   },
+   {
+    "word": "exhibit",
+    "pos": "v./n.",
+    "def_": "to show publicly; an object displayed in a museum",
+    "zh": "展示；展覽品",
+    "syn": "display, show, present",
+    "ant": "conceal, hide",
+    "sent": "The museum will exhibit the ancient pottery in a new gallery next spring.",
+    "tr": "博物館明年春天將在新展廳展出這批古陶器。",
+    "lvl": 1,
+    "src": "Hot Words L48"
    }
   ],
-  "tip_zh": "inhabit 居住（habit 住所，in = 在裡面）；inhibit 抑制（hibit 握住不讓動）",
-  "tip_en": "inhabit = live in; inhibit = restrain",
-  "trap": "只差一個母音；inhabit 的 in- 是「在裡面」，不是否定。",
+  "tip_zh": "inhabit 居住（in 在裡面）；inhibit 抑制；prohibit 禁止（pro- 擋在前面）；exhibit 展示（ex- 拿出來給人看）",
+  "tip_en": "inhabit = live in; inhibit = restrain; prohibit = forbid; exhibit = display",
+  "trap": "四字都以 -habit／-hibit 結尾（拿住），差在字首：in- 在裡面、pro- 擋在前面、ex- 拿出來；inhabit 的 in- 不是否定。",
   "score": 2.0,
   "unit": "形近字 U3",
   "id": "形近-030",
@@ -1306,7 +1378,7 @@
  },
  {
   "type": "A",
-  "name": "simulate/stimulate/stipulate",
+  "name": "simulate/stimulate/stipulate/speculate",
   "words": [
    {
     "word": "simulate",
@@ -1343,11 +1415,23 @@
     "tr": "租約明定房客不得在公寓內養寵物。",
     "lvl": 3,
     "src": "Barron's U3；VA U28；字根字首 U225"
+   },
+   {
+    "word": "speculate",
+    "pos": "v.",
+    "def_": "to form a theory without firm evidence; to invest at a risk",
+    "zh": "推測；投機",
+    "syn": "guess, conjecture, theorize",
+    "ant": "know, confirm",
+    "sent": "Without the missing pages, historians can only speculate about why the expedition turned back.",
+    "tr": "少了遺失的那幾頁，歷史學家只能推測探險隊為何折返。",
+    "lvl": 2,
+    "src": "306/386 U26；字根字首 U135"
    }
   ],
-  "tip_zh": "simulate 模擬（similar）；stimulate 刺激（stim 刺）；stipulate 規定（合約條款）",
-  "tip_en": "simulate = imitate; stimulate = encourage activity; stipulate = specify as a condition",
-  "trap": "三字只差一兩個字母，閱讀時要看清楚中間是 mu、mul 還是 pul。",
+  "tip_zh": "simulate 模擬（similar）；stimulate 刺激（stim 刺）；stipulate 規定（合約條款）；speculate 推測（spec 看 → 看著猜）",
+  "tip_en": "simulate = imitate; stimulate = encourage activity; stipulate = specify as a condition; speculate = guess, theorize",
+  "trap": "四字都是 -ulate 結尾、只差中間字母，閱讀時要看清楚中間是 im、tim、tip 還是 pec。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-034",
@@ -1404,7 +1488,7 @@
  },
  {
   "type": "A",
-  "name": "compliant/complicit",
+  "name": "compliant/complicit/compliment/complement",
   "words": [
    {
     "word": "compliant",
@@ -1429,11 +1513,35 @@
     "tr": "知道詐欺卻保持沉默的員工也是共犯。",
     "lvl": 2,
     "src": "字根字首 U13"
+   },
+   {
+    "word": "compliment",
+    "pos": "n./v.",
+    "def_": "a remark of praise",
+    "zh": "讚美；恭維",
+    "syn": "praise, flattery, tribute",
+    "ant": "insult, criticism",
+    "sent": "She blushed when the judge paid her a compliment on her performance.",
+    "tr": "評審稱讚她的表演時，她臉紅了。",
+    "lvl": 1,
+    "src": "字根字首 U13,121"
+   },
+   {
+    "word": "complement",
+    "pos": "v./n.",
+    "def_": "to complete or go well with",
+    "zh": "補足；互補",
+    "syn": "complete, enhance, supplement",
+    "ant": "",
+    "sent": "The spicy sauce complements the sweet flavor of the grilled fish.",
+    "tr": "辛辣醬汁和烤魚的甜味相得益彰。",
+    "lvl": 1,
+    "src": "字根字首 U12,121"
    }
   ],
-  "tip_zh": "compliant 順從的（comply 遵守）；complicit 共謀的（accomplice 共犯）",
-  "tip_en": "compliant = obedient; complicit = involved in wrongdoing",
-  "trap": "字形接近，但 compliant 是守規矩，complicit 是參與壞事。",
+  "tip_zh": "compliant 順從的（comply 遵守）；complicit 共謀的（accomplice 共犯）；compliment 讚美（i = I like you）；complement 互補（e = complete）",
+  "tip_en": "compliant = obedient; complicit = involved in wrongdoing; compliment = praise; complement = complete, go well with",
+  "trap": "四字都以 compl- 開頭；compliment 和 complement 發音相同，compliant 和 complicit 只差字尾，意思卻完全不同。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-036",
@@ -1441,7 +1549,7 @@
  },
  {
   "type": "A",
-  "name": "predilection/prediction",
+  "name": "predilection/prediction/predestination/predicament",
   "words": [
    {
     "word": "predilection",
@@ -1466,11 +1574,35 @@
     "tr": "經濟學家對經濟衰退的預測隔年應驗了。",
     "lvl": 1,
     "src": "新增"
+   },
+   {
+    "word": "predestination",
+    "pos": "n.",
+    "def_": "the belief that events are decided in advance by God or fate",
+    "zh": "命運前定；宿命論",
+    "syn": "fate, destiny, predetermination",
+    "ant": "free will",
+    "sent": "Some early Protestants believed in predestination, the idea that God had already chosen who would be saved.",
+    "tr": "一些早期新教徒相信預定論，認為上帝早已決定誰會得救。",
+    "lvl": 3,
+    "src": "新增"
+   },
+   {
+    "word": "predicament",
+    "pos": "n.",
+    "def_": "a difficult or unpleasant situation",
+    "zh": "困境；窘境",
+    "syn": "dilemma, plight, quandary",
+    "ant": "solution",
+    "sent": "Having missed the last train, the tourists found themselves in a predicament with no hotel nearby.",
+    "tr": "錯過末班車後，遊客陷入困境，附近又沒有旅館。",
+    "lvl": 2,
+    "src": "Hot Words L10；字根字首 U212"
    }
   ],
-  "tip_zh": "predilection 偏好（dilect = delight 喜歡）；prediction 預言（dict 說）",
-  "tip_en": "predilection = preference; prediction = forecast",
-  "trap": "只差 le；predilection 與預測毫無關係。",
+  "tip_zh": "predilection 偏好（dilect = delight 喜歡）；prediction 預言（dict 說）；predestination 命中注定（destination 終點早已決定）；predicament 困境",
+  "tip_en": "predilection = preference; prediction = forecast; predestination = fate decided in advance; predicament = difficult situation",
+  "trap": "四字都以 pred- 開頭，但只有 prediction、predestination 的 pre- 是「預先」；predicament 是困境，predilection 是偏好，都跟預測無關。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-037",
@@ -1515,7 +1647,7 @@
  },
  {
   "type": "A",
-  "name": "persuasive/pervasive",
+  "name": "persuasive/pervasive/perseverant/perverse/preservative",
   "words": [
    {
     "word": "persuasive",
@@ -1540,11 +1672,47 @@
     "tr": "智慧型手機普及到幾乎沒有青少年記得沒手機的生活。",
     "lvl": 2,
     "src": "Hot Words L91；306/386 U21；字根字首 U57"
+   },
+   {
+    "word": "perseverant",
+    "pos": "adj.",
+    "def_": "continuing steadily despite difficulty",
+    "zh": "堅忍不拔的；有毅力的",
+    "syn": "persistent, tenacious, determined",
+    "ant": "irresolute, quitting",
+    "sent": "A perseverant learner, she practiced the violin every day for ten years before her first concert.",
+    "tr": "她是很有毅力的學習者，在第一次演奏會前每天練小提琴，持續十年。",
+    "lvl": 4,
+    "src": "新增"
+   },
+   {
+    "word": "perverse",
+    "pos": "adj.",
+    "def_": "deliberately unreasonable; contrary to what is expected",
+    "zh": "故意作對的；反常的",
+    "syn": "contrary, stubborn, wayward",
+    "ant": "reasonable, cooperative",
+    "sent": "Out of a perverse desire to annoy his parents, he wore a heavy coat on the hottest day of the year.",
+    "tr": "他出於故意作對的心態，為了惹惱父母，在一年中最熱的一天穿上厚外套。",
+    "lvl": 2,
+    "src": "Barron's U6；字根字首 U57,146"
+   },
+   {
+    "word": "preservative",
+    "pos": "n.",
+    "def_": "a substance used to keep food from spoiling",
+    "zh": "防腐劑",
+    "syn": "additive, preserver",
+    "ant": "",
+    "sent": "Salt was the most common preservative before people had refrigerators.",
+    "tr": "在人們有冰箱之前，鹽是最常見的防腐劑。",
+    "lvl": 3,
+    "src": "新增"
    }
   ],
-  "tip_zh": "persuasive 有說服力的（persuade）；pervasive 遍布的（pervade 滲透）",
-  "tip_en": "persuasive = convincing; pervasive = widespread",
-  "trap": "只差 su；pervasive 不是說服，是「無所不在」。",
+  "tip_zh": "persuasive 有說服力（persuade）；pervasive 遍布（pervade）；perseverant 有毅力（persevere 堅持）；perverse 故意作對、反常（pervert 扭曲）；preservative 防腐劑（preserve 保存）",
+  "tip_en": "persuasive = convincing; pervasive = widespread; perseverant = persistent; perverse = deliberately contrary; preservative = substance that keeps food fresh",
+  "trap": "五字都以 per-／pre- 開頭、字母重疊很多，SAT 常用 pervasive、perverse 當干擾選項，要看清楚中間字母。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-039",
@@ -1552,7 +1720,7 @@
  },
  {
   "type": "A",
-  "name": "aggravate/aggregate",
+  "name": "aggravate/aggregate/aggrandize/alleviate",
   "words": [
    {
     "word": "aggravate",
@@ -1577,11 +1745,35 @@
     "tr": "這個網站彙整數百個來源的新聞。",
     "lvl": 1,
     "src": "Hot Words L34；字根字首 U3,147"
+   },
+   {
+    "word": "aggrandize",
+    "pos": "v.",
+    "def_": "to increase the power, wealth, or importance of; to make seem greater",
+    "zh": "擴大（權勢、財富）；吹捧",
+    "syn": "enlarge, glorify, exalt",
+    "ant": "diminish, belittle",
+    "sent": "The dictator built huge statues of himself to aggrandize his image across the country.",
+    "tr": "這位獨裁者建造自己的巨大雕像，在全國抬高自身形象。",
+    "lvl": 4,
+    "src": "VA U34；字根字首 U3"
+   },
+   {
+    "word": "alleviate",
+    "pos": "v.",
+    "def_": "to make pain or a problem less severe",
+    "zh": "減輕；緩和",
+    "syn": "relieve, ease, mitigate",
+    "ant": "aggravate, worsen",
+    "sent": "Doctors recommend an ice pack to alleviate the swelling after a sprain.",
+    "tr": "醫師建議用冰敷來減輕扭傷後的腫脹。",
+    "lvl": 2,
+    "src": "Barron's U32；Hot Words L5；字根字首 U3"
    }
   ],
-  "tip_zh": "aggravate 使惡化（grav 重 → 更重）；aggregate 總計、聚集（greg 群 → 聚成一群）",
-  "tip_en": "aggravate = make worse; aggregate = combine",
-  "trap": "字形接近，aggregate 和惡化毫無關係。",
+  "tip_zh": "aggravate 使惡化（grav 重 → 更重）；aggregate 總計、聚集（greg 群）；aggrandize 擴大權勢、吹捧（grand 大）；alleviate 減輕（lev 輕，aggravate 的反義）",
+  "tip_en": "aggravate = make worse; aggregate = combine; aggrandize = make greater in power or status; alleviate = make less severe (opposite of aggravate)",
+  "trap": "四字都以 a- 開頭、長度相近：aggravate（加重）和 alleviate（減輕）意思相反，aggrandize 是「變大、吹捧」，aggregate 則和輕重無關。",
   "score": 2.0,
   "unit": "形近字 U4",
   "id": "形近-040",
