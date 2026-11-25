@@ -77,11 +77,11 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-const ZONES = ["barrons", "hot", "va", "va2", "mk", "roots", "satq", "cf"];
-let zone = "barrons";
+const ZONES = ["mk", "hot", "barrons", "va", "va2", "cf", "roots", "satq"];
+let zone = "mk";
 
 function setZone(next, push = true) {
-  zone = ZONES.includes(next) ? next : "barrons";
+  zone = ZONES.includes(next) ? next : "mk";
   ZONES.forEach(z => {
     document.querySelector(`#zone-${z}`).hidden = z !== zone;
     const tab = document.querySelector(`.zone-tab[data-zone="${z}"]`);
@@ -423,7 +423,7 @@ buildBoard("va");
 buildBoard("va2");
 buildBoard("mk");
 refresh();
-setZone(location.hash.slice(1) || "barrons", false);
+setZone(location.hash.slice(1) || "mk", false);
 loadBatches();
 
 // ---------- Zone 7: SAT 難度詞彙題 (sets of teacher-exam vocabulary MCQs → sat-level/exam.html) ----------

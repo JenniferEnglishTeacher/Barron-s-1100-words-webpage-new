@@ -9,23 +9,23 @@
 <body><div class="site-crosslink" style="background:#fff8e1;border-bottom:1px solid #f0d58a;"><a href="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,"Noto Sans TC",sans-serif;color:#7a4b00;text-decoration:none;">🔗 前往 SAT Vocabulary Studio（字根・字首・Digital SAT 文法與模擬測驗） →</a></div><div class="site-crosslink" style="background:#e8f1ff;border-bottom:1px solid #b9cdf3;"><a href="teacher-exam/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,&quot;Noto Sans TC&quot;,sans-serif;color:#1d4ed8;text-decoration:none;">📝 前往 中等教育英文教師甄試 選擇題練習（國中・高中・高職） →</a></div>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow">Barron's 1100 · Hot Words for the SAT · 字根字首 · Verbal Advantage Lv.1–10 · SAT Must-Know 306 + 386 · 易混淆字</p>
+      <p class="eyebrow">SAT Must-Know 306 + 386 · Hot Words for the SAT · Barron's 1100 · Verbal Advantage Lv.1–10 · 易混淆字 · 字根字首</p>
       <h1>SAT Vocabulary Board</h1>
       <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a unit's flashcards (sample sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>按「🗂 Flashcards」進入該單元字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
     </header>
 
     <nav class="zone-tabs" role="tablist" aria-label="Word collections">
-      <button class="zone-tab zone-barrons" type="button" role="tab" data-zone="barrons" aria-controls="zone-barrons">
+            <button class="zone-tab zone-mk" type="button" role="tab" data-zone="mk" aria-controls="zone-mk">
         <span class="zone-num">1</span>
-        <span class="zone-text"><strong>Barron's 1100 Words</strong><small id="barronsCount">46 units</small></span>
+        <span class="zone-text"><strong>SAT Must-Know 306 + 386</strong><small id="mkCount">30 units · 587 words</small></span>
       </button>
       <button class="zone-tab zone-hot" type="button" role="tab" data-zone="hot" aria-controls="zone-hot">
         <span class="zone-num">2</span>
         <span class="zone-text"><strong>Hot Words for the SAT</strong><small id="hotCount">35 lessons</small></span>
       </button>
-      <button class="zone-tab zone-roots" type="button" role="tab" data-zone="roots" aria-controls="zone-roots">
+      <button class="zone-tab zone-barrons" type="button" role="tab" data-zone="barrons" aria-controls="zone-barrons">
         <span class="zone-num">3</span>
-        <span class="zone-text"><strong>字根 / 字首 / 無法歸類</strong><small>Roots · Prefixes · Unclassified</small></span>
+        <span class="zone-text"><strong>Barron's 1100 Words</strong><small id="barronsCount">46 units</small></span>
       </button>
       <button class="zone-tab zone-va" type="button" role="tab" data-zone="va" aria-controls="zone-va">
         <span class="zone-num">4</span>
@@ -35,17 +35,17 @@
         <span class="zone-num">5</span>
         <span class="zone-text"><strong>Verbal Advantage Lv.6–10</strong><small id="va2Count">字彙的力量2 · 25 units</small></span>
       </button>
-      <button class="zone-tab zone-mk" type="button" role="tab" data-zone="mk" aria-controls="zone-mk">
+      <button class="zone-tab zone-cf" type="button" role="tab" data-zone="cf" aria-controls="zone-cf">
         <span class="zone-num">6</span>
-        <span class="zone-text"><strong>SAT Must-Know 306 + 386</strong><small id="mkCount">30 units · 587 words</small></span>
+        <span class="zone-text"><strong>易混淆字 Confusables</strong><small id="cfCount">形近・字根誤導・熟字僻義・易混用法</small></span>
+      </button>
+      <button class="zone-tab zone-roots" type="button" role="tab" data-zone="roots" aria-controls="zone-roots">
+        <span class="zone-num">7</span>
+        <span class="zone-text"><strong>字根 / 字首 / 無法歸類</strong><small>Roots · Prefixes · Unclassified</small></span>
       </button>
       <button class="zone-tab zone-satq" type="button" role="tab" data-zone="satq" aria-controls="zone-satq">
-        <span class="zone-num">7</span>
-        <span class="zone-text"><strong>SAT 難度詞彙題</strong><small id="satqCount">Vocabulary in Context</small></span>
-      </button>
-      <button class="zone-tab zone-cf" type="button" role="tab" data-zone="cf" aria-controls="zone-cf">
         <span class="zone-num">8</span>
-        <span class="zone-text"><strong>易混淆字 Confusables</strong><small id="cfCount">形近・字根誤導・熟字僻義・易混用法</small></span>
+        <span class="zone-text"><strong>SAT 難度詞彙題</strong><small id="satqCount">Vocabulary in Context</small></span>
       </button>
     </nav>
 
@@ -138,6 +138,6 @@
   <script src="vendor/xlsx.full.min.js"></script>
   <script src="sat-level/data/exams.js?v=1"></script>
   <script src="cf-index.js?v=20261125a"></script>
-  <script src="dashboard.js?v=20261125cf"></script>
+  <script src="dashboard.js?v=20261125ord"></script>
 </body>
 </html>
