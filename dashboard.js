@@ -97,6 +97,48 @@ function setZone(next, push = true) {
 document.querySelectorAll(".zone-tab").forEach(tab => tab.addEventListener("click", () => setZone(tab.dataset.zone)));
 window.addEventListener("hashchange", () => setZone(location.hash.slice(1), false));
 
+// ---------- Hot Words levels: 基礎 Core (book / core SAT words) and 進階 Advanced (later extensions) ----------
+const HOT_LEVELS = { core: "基礎 Core", adv: "進階 Advanced", all: "全部 All" };
+const HOT_CORE_SETS = Object.fromEntries(Object.entries(window.HOT_CORE || {}).map(([u, ws]) => [u, new Set(ws)]));
+const hotLevelOf = (unit, word) => (HOT_CORE_SETS[unit] && !HOT_CORE_SETS[unit].has(word) ? "adv" : "core");
+let hotLevel = (() => {
+  const q = new URLSearchParams(location.search).get("lv");
+  if (HOT_LEVELS[q]) return q;
+  try { const v = localStorage.getItem("hot-level"); if (HOT_LEVELS[v]) return v; } catch (error) { /* ignore */ }
+  return "core";
+})();
+function setHotLevel(level) {
+  hotLevel = level;
+  try { localStorage.setItem("hot-level", level); } catch (error) { /* ignore */ }
+  const board = document.querySelector("#board-hot");
+  board.dataset.lv = level;
+  document.querySelectorAll("#hotLevelSeg button").forEach(b => b.classList.toggle("on", b.dataset.lv === level));
+  board.querySelectorAll(".hot-block").forEach(block => {
+    const u = block.dataset.unit;
+    block.querySelectorAll("a[data-lvlink]").forEach(a => { a.href = a.dataset.base.replace("LV", level); });
+    block.classList.toggle("lv-empty", level !== "all" && !block.querySelector(`.board-word.lv-${level}`));
+    const n = block.querySelectorAll(level === "all" ? ".board-word" : `.board-word.lv-${level}`).length;
+    block.querySelector(".lv-count").textContent = `${HOT_LEVELS[level]} · ${n} 字`;
+  });
+}
+function buildHotLevelBar() {
+  const seg = document.querySelector("#hotLevelSeg");
+  if (!seg) return;
+  const totals = { core: 0, adv: 0 };
+  HOT.forEach(u => u.cards.forEach(c => { totals[hotLevelOf(String(u.unit), c.w)] += 1; }));
+  totals.all = totals.core + totals.adv;
+  seg.replaceChildren(...Object.keys(HOT_LEVELS).map(level => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.dataset.lv = level;
+    b.className = `hl-btn hl-${level}`;
+    b.innerHTML = `${HOT_LEVELS[level]} <b>${totals[level]}</b>`;
+    b.addEventListener("click", () => setHotLevel(level));
+    return b;
+  }));
+  setHotLevel(hotLevel);
+}
+
 // ---------- Word boards (zones 1 and 2) ----------
 function buildBoard(book) {
   const cfg = BOOKS[book];
@@ -111,18 +153,21 @@ function buildBoard(book) {
     }
     const section = document.createElement("section");
     section.className = `unit-block ${book}-block`;
+    section.dataset.unit = String(u.unit);
+    const isHot = book === "hot";
     const quizHref = book === "barrons"
       ? `${QUIZ_BASE}Week${String(u.unit).padStart(2, "0")}_Quiz_Barrons1100.html`
       : `${cfg.page(u.unit)}#quiz`;
+    const lvAttr = path => (isHot ? ` data-lvlink data-base="${path.replace(/(#|$)/, "?lv=LV$1")}"` : "");
     const quizAttrs = book === "barrons" ? ' target="_blank" rel="noopener"' : "";
     section.innerHTML = `
       <div class="unit-block-head">
-        <div class="unit-title"><a class="unit-number" href="${cfg.page(u.unit)}">${cfg.unitName} ${u.unit}</a></div>
+        <div class="unit-title"><a class="unit-number" href="${cfg.page(u.unit)}"${lvAttr(cfg.page(u.unit))}>${cfg.unitName} ${u.unit}</a></div>
         <div class="unit-actions">
-          <a class="mini-cards" href="${cfg.page(u.unit)}">🗂 Flashcards</a>
-          <a class="mini-quiz" href="${quizHref}"${quizAttrs}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
+          <a class="mini-cards" href="${cfg.page(u.unit)}"${lvAttr(cfg.page(u.unit))}>🗂 Flashcards</a>
+          <a class="mini-quiz" href="${quizHref}"${quizAttrs}${lvAttr(quizHref)}>📝 ${book === "barrons" ? "Quiz" : "MCQ"}</a>
         </div>
-      </div>`;
+      </div>${isHot ? `<p class="lv-count"></p>` : ""}`;
     if (u.level) {
       const lv = document.createElement("p");
       lv.className = "unit-theme";
@@ -141,7 +186,7 @@ function buildBoard(book) {
       const key = cfg.key(u.unit, i);
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "board-word";
+      btn.className = book === "hot" ? `board-word lv-${hotLevelOf(String(u.unit), card.w)}` : "board-word";
       btn.dataset.key = key;
       btn.textContent = card.w;
       btn.addEventListener("pointerenter", event => {
@@ -223,7 +268,8 @@ function cardUrl(cfg, unit, word) {
 
 function openCard(cfg, unit, word) {
   hideTip();
-  window.open(cardUrl(cfg, unit, word), "_blank", "noopener");
+  const lvq = cfg === BOOKS.hot ? `?lv=${hotLevelOf(String(unit), word)}` : "";
+  window.open(cardUrl(cfg, unit, word).replace("#", `${lvq}#`), "_blank", "noopener");
 }
 
 function hideTip() {
@@ -334,6 +380,7 @@ function applySearch(scroll = true) {
   if (zone === "roots") { filterBatches(q); return; }
   if (zone === "cf") { filterCf(q); return; }
   const panel = document.querySelector(`#zone-${zone}`);
+  if (zone === "hot") document.querySelector("#board-hot").classList.toggle("searching", Boolean(q));
   panel.querySelectorAll(".board-word").forEach(btn => {
     btn.classList.toggle("dim", Boolean(q) && !btn.textContent.toLowerCase().includes(q));
     btn.classList.toggle("hit", Boolean(q) && btn.textContent.toLowerCase().startsWith(q));
@@ -413,12 +460,13 @@ function filterBatches(q) {
 
 // ---------- Start ----------
 document.querySelector("#barronsCount").textContent = `${BARRONS.length} units · ${BARRONS.reduce((n, u) => n + u.cards.length, 0)} words`;
-document.querySelector("#hotCount").textContent = `${HOT.length} lessons · ${HOT.reduce((n, u) => n + u.cards.length, 0)} words`;
+document.querySelector("#hotCount").textContent = `${HOT.length} lessons · ${HOT.reduce((n, u) => n + u.cards.length, 0)} words · 基礎／進階`;
 document.querySelector("#va2Count").textContent = `${VA2.length} units · ${VA2.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#mkCount").textContent = `${MK.length} units · ${MK.reduce((n, u) => n + u.cards.length, 0)} words`;
 document.querySelector("#vaCount").textContent = `${VA.length} units · ${VA.reduce((n, u) => n + u.cards.length, 0)} words`;
 buildBoard("barrons");
 buildBoard("hot");
+buildHotLevelBar();
 buildBoard("va");
 buildBoard("va2");
 buildBoard("mk");

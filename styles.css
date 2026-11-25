@@ -1279,3 +1279,27 @@ body[data-set="mk"] .eyebrow, body[data-set="mk"] #unitTitle { color: var(--mk-d
 .cf-link-row .syn-label { color: var(--cf-dark); }
 .cf-link-chip { padding: 3px 9px; border: 1px solid rgba(180,35,90,.35); border-radius: 999px; background: var(--cf-soft); color: var(--cf-dark); font-size: 13px; font-weight: 700; text-decoration: none; }
 .cf-link-chip:hover { background: #fbd9e6; }
+
+/* ---------- Hot Words: 基礎 Core / 進階 Advanced levels (2026-11-25) ---------- */
+.hot-level-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 10px 0 4px; padding: 10px 14px; border: 1px solid rgba(184, 84, 26, 0.30); border-radius: 12px; background: var(--hot-soft, #fdf0e6); }
+.hot-level-bar .hl-label { font-weight: 700; color: var(--hot-dark, #8a3c10); }
+.hot-level-bar .hl-seg { display: inline-flex; border-radius: 999px; overflow: hidden; border: 1px solid rgba(184, 84, 26, 0.45); }
+.hot-level-bar .hl-btn { border: 0; padding: 7px 14px; background: #fff; color: var(--hot-dark, #8a3c10); font: inherit; font-weight: 600; cursor: pointer; }
+.hot-level-bar .hl-btn + .hl-btn { border-left: 1px solid rgba(184, 84, 26, 0.35); }
+.hot-level-bar .hl-btn b { font-weight: 700; opacity: .75; margin-left: 2px; }
+.hot-level-bar .hl-btn.on { background: var(--hot, #b8541a); color: #fff; }
+.hot-level-bar .hl-btn.hl-core.on { background: #2e7d32; }
+.hot-level-bar .hl-btn.hl-adv.on { background: #6a1b9a; }
+.hot-level-bar .hl-btn:disabled { opacity: .4; cursor: default; }
+.hot-level-bar .hl-note { font-size: .9rem; color: #5b4636; }
+.app-shell > .hot-level-bar { margin: 0 0 12px; }
+.lv-count { margin: 2px 0 6px; font-size: .82rem; font-weight: 700; color: var(--hot-dark, #8a3c10); }
+#board-hot[data-lv="core"]:not(.searching) .board-word.lv-adv,
+#board-hot[data-lv="adv"]:not(.searching) .board-word.lv-core { display: none; }
+#board-hot:not(.searching) .hot-block.lv-empty { display: none; }
+#board-hot[data-lv="all"] .board-word.lv-adv, #board-hot.searching .board-word.lv-adv { border-style: dashed; color: #6a1b9a; }
+.word-row.lv-adv .wt-word { color: #6a1b9a; }
+.quiz-mode { display: inline-flex; gap: 6px; margin: 0 0 12px; }
+.quiz-mode button { border: 1px solid var(--hot, #b8541a); background: #fff; color: var(--hot-dark, #8a3c10); border-radius: 999px; padding: 5px 12px; font: inherit; font-size: .9rem; cursor: pointer; }
+.quiz-mode button.on { background: var(--hot, #b8541a); color: #fff; }
+.word-row[hidden] { display: none !important; }

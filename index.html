@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SAT Vocabulary Board</title>
-  <link rel="stylesheet" href="styles.css?v=20261125cf">
+  <link rel="stylesheet" href="styles.css?v=20261125lv">
 </head>
 <body><div class="site-crosslink" style="background:#fff8e1;border-bottom:1px solid #f0d58a;"><a href="https://jenniferenglishteacher.github.io/SAT-learning-and-quiz-combined-sources/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,"Noto Sans TC",sans-serif;color:#7a4b00;text-decoration:none;">🔗 前往 SAT Vocabulary Studio（字根・字首・Digital SAT 文法與模擬測驗） →</a></div><div class="site-crosslink" style="background:#e8f1ff;border-bottom:1px solid #b9cdf3;"><a href="teacher-exam/index.html" style="display:block;margin:0 auto;padding:10px 16px;text-align:center;font:600 15px/1.4 system-ui,-apple-system,&quot;Noto Sans TC&quot;,sans-serif;color:#1d4ed8;text-decoration:none;">📝 前往 中等教育英文教師甄試 選擇題練習（國中・高中・高職） →</a></div>
   <main class="app-shell board-shell">
@@ -73,6 +73,8 @@
       <div class="zone-head">
         <h2>Hot Words for the SAT <span>by lesson theme</span></h2>
         <p><b>🗂 Flashcards</b> (or the lesson name) opens the lesson's flashcards; double-click a word to open its card; 📝 MCQ jumps to the practice test. 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡，📝 MCQ 進入練習題。</p>
+        <div class="hot-level-bar board-level"><span class="hl-label">選難度 Level</span><div class="hl-seg" id="hotLevelSeg" role="group" aria-label="Level"></div>
+          <span class="hl-note"><b>基礎</b>＝核心常考字，先學熟 · <b>進階</b>＝延伸的艱澀字，學有餘力再挑戰。字卡和 📝 MCQ 都只出所選難度的字。</span></div>
       </div>
       <div class="unit-board" id="board-hot"></div>
     </section>
@@ -138,6 +140,7 @@
   <script src="vendor/xlsx.full.min.js"></script>
   <script src="sat-level/data/exams.js?v=1"></script>
   <script src="cf-index.js?v=20261125e"></script>
-  <script src="dashboard.js?v=20261125ord"></script>
+  <script src="hot-levels.js?v=20261125lv"></script>
+  <script src="dashboard.js?v=20261125lv"></script>
 </body>
 </html>

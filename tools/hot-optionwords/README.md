@@ -6,3 +6,4 @@ Cards carry `"source": "tk"` (◆ in the word list) and `"exams"` (paper ids).
 - `src.json` — word data (lesson, POS, definition, 中文, synonyms, example sentence, exams) + lesson themes
 - `gen/*.txt` — one line per word: `word | 例句中譯 | advanced sentence | 進階例句中譯 [| replacement front sentence]`
 - Rebuild: `python3 tools/hot-optionwords/build.py` (idempotent; calls tools/hot-expand/prune.py), then bump `?v=` on the html pages.
+- After any rebuild here, run `python3 tools/hot-level/build.py` (基礎/進階 levels + MCQ choices).

@@ -64,6 +64,73 @@ function currentCard() {
   return cards()[state.order[state.index]];
 }
 
+// ---------- Hot Words: 基礎 Core / 進階 Advanced (hot-levels.js lists each lesson's Core words) ----------
+const HOT_LEVELS = { core: "基礎 Core", adv: "進階 Advanced", all: "全部 All" };
+const HOT_LV_KEY = "hot-level";
+const hasLevels = SET === "hot" && Boolean(window.HOT_CORE);
+function readLevel() {
+  const q = new URLSearchParams(location.search).get("lv");
+  if (HOT_LEVELS[q]) return q;
+  try { const saved = localStorage.getItem(HOT_LV_KEY); if (HOT_LEVELS[saved]) return saved; } catch (error) { /* ignore */ }
+  return "core";
+}
+let hotLevel = hasLevels ? readLevel() : "all";
+function cardLevel(card, unit = state.unit) {
+  const core = window.HOT_CORE?.[unit];
+  return !core || core.includes(card.word) ? "core" : "adv";
+}
+function inLevel(card, level = hotLevel) {
+  return level === "all" || cardLevel(card) === level;
+}
+function levelCount(level) {
+  return cards().filter(card => inLevel(card, level)).length;
+}
+function lessonHref(unit) {
+  return SETCFG.page(unit) + (hasLevels ? `?lv=${hotLevel}` : "");
+}
+function setHotLevel(level, keepCard = false) {
+  const word = keepCard ? currentCard()?.word : null;
+  hotLevel = level;
+  try { localStorage.setItem(HOT_LV_KEY, level); } catch (error) { /* ignore */ }
+  const url = new URL(location.href);
+  url.searchParams.set("lv", level);
+  history.replaceState(null, "", url);
+  resetOrder();
+  if (word) { const at = state.order.findIndex(i => cards()[i].word === word); if (at >= 0) state.index = at; }
+  render();
+}
+function renderLevelBar() {
+  if (!hasLevels) return;
+  let bar = document.querySelector("#hotLevelBar");
+  if (!bar) {
+    bar = document.createElement("div");
+    bar.id = "hotLevelBar";
+    bar.className = "hot-level-bar";
+    bar.innerHTML = `<span class="hl-label">難度 Level</span><div class="hl-seg" role="group" aria-label="Level"></div><span class="hl-note"></span>`;
+    Object.keys(HOT_LEVELS).forEach(level => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.dataset.lv = level;
+      b.className = `hl-btn hl-${level}`;
+      b.addEventListener("click", () => setHotLevel(level));
+      bar.querySelector(".hl-seg").append(b);
+    });
+    document.querySelector(".topbar").insertAdjacentElement("afterend", bar);
+  }
+  bar.querySelectorAll(".hl-btn").forEach(b => {
+    const n = levelCount(b.dataset.lv);
+    b.innerHTML = `${HOT_LEVELS[b.dataset.lv]} <b>${n}</b>`;
+    b.classList.toggle("on", b.dataset.lv === hotLevel);
+    b.disabled = n === 0;
+    b.setAttribute("aria-pressed", String(b.dataset.lv === hotLevel));
+  });
+  bar.querySelector(".hl-note").textContent = hotLevel === "core"
+    ? "核心常考字：先把這些學熟 Learn these first"
+    : hotLevel === "adv" ? "延伸字：較艱澀，學有餘力再挑戰 Extension words" : "基礎 + 進階";
+  const back = document.querySelector(".back-link");
+  if (back) back.href = `index.html?lv=${hotLevel}#hot`;
+}
+
 function init() {
   for (let n = 1; n <= SETCFG.count; n += 1) {
     const option = document.createElement("option");
@@ -149,6 +216,7 @@ function applyHashTarget() {
   const target = decodeURIComponent(match[1]).toLowerCase();
   const realIndex = cards().findIndex(card => card.word.toLowerCase() === target);
   if (realIndex < 0) return;
+  if (hasLevels && !state.order.includes(realIndex)) { hotLevel = cardLevel(cards()[realIndex]); resetOrder(); }
   state.index = state.order.indexOf(realIndex);
   state.flipped = true;
   setTimeout(() => els.flashcard.scrollIntoView({ behavior: "smooth", block: "center" }), 150);
@@ -165,6 +233,10 @@ function createMemoryChant() {
 
 function resetOrder() {
   state.order = cards().map((_, index) => index);
+  if (hasLevels) {
+    if (!state.order.some(i => inLevel(cards()[i]))) hotLevel = "all";
+    state.order = state.order.filter(i => inLevel(cards()[i]));
+  }
   state.index = 0;
   state.flipped = false;
 }
@@ -172,7 +244,7 @@ function resetOrder() {
 function bindEvents() {
   els.unitSelect.addEventListener("change", () => {
     if (!units[els.unitSelect.value]) {
-      location.href = SETCFG.page(els.unitSelect.value);
+      location.href = lessonHref(els.unitSelect.value);
       return;
     }
     state.unit = els.unitSelect.value;
@@ -252,6 +324,7 @@ function render() {
   const data = units[state.unit];
   const card = currentCard();
   els.unitTitle.textContent = data.title;
+  renderLevelBar();
   els.unitSelect.value = state.unit;
   state.flipped = true;
   els.flashcard.classList.add("flipped");
@@ -384,6 +457,8 @@ function renderRootsWordList() {
   els.wordList.querySelectorAll(".word-row").forEach(row => {
     const realIndex = Number(row.dataset.real);
     const orderedIndex = state.order.indexOf(realIndex);
+    row.hidden = hasLevels && orderedIndex < 0;
+    if (hasLevels) row.classList.toggle("lv-adv", cardLevel(list[realIndex]) === "adv");
     const isSaved = saved.has(rootsKey(realIndex));
     if (isSaved) savedHere += 1;
     row.classList.toggle("active", orderedIndex === state.index);
@@ -695,15 +770,66 @@ function createQuizSection() {
   els.quizScore = section.querySelector("#quizScore");
 }
 
+// Hot Words: the lesson's hand-written MCQ covers the book words (lessons 1–35); every other card is asked from its
+// dSAT sentence with the 3 wrong choices in hot-mcq.js. "選英文解釋" asks for the English definition instead.
+let hotQuizMode = "cz";
+function seeded(seedText) {
+  let h = 2166136261;
+  for (const ch of seedText) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
+  return () => { h = Math.imul(h ^ (h >>> 15), 2246822507); h = Math.imul(h ^ (h >>> 13), 3266489909); h ^= h >>> 16; return (h >>> 0) / 4294967296; };
+}
+function hotQuiz() {
+  const own = units[state.unit].quiz || [];
+  const wrongs = window.HOT_MCQ?.[state.unit] || {};
+  const index = window.HOT_INDEX || {};
+  const list = [];
+  cards().forEach(card => {
+    if (!inLevel(card)) return;
+    const hand = hotQuizMode === "cz" && own.find(q => (q.answerWord || "").toLowerCase() === card.word.toLowerCase());
+    if (hand) { list.push(hand); return; }
+    const wrong = wrongs[card.word];
+    if (!wrong) return;
+    const rnd = seeded(`${state.unit}:${card.word}:${hotQuizMode}`);
+    const choices = [card.word, ...wrong].map(w => ({ w, sort: rnd() })).sort((a, b) => a.sort - b.sort).map(x => x.w);
+    const text = w => hotQuizMode === "cz" ? w : (w === card.word ? card.definition : index[w.toLowerCase()]?.[2] || w);
+    const options = choices.map((w, i) => ({ letter: "ABCD"[i], text: text(w) }));
+    list.push({
+      question: hotQuizMode === "cz" ? card.sentence : `${card.word} (${card.pos}) means…`,
+      options, answer: "ABCD"[choices.indexOf(card.word)], answerWord: card.word
+    });
+  });
+  return list;
+}
+function renderQuizHead() {
+  const head = els.quizSection.querySelector(".quiz-heading h2");
+  head.textContent = `MCQ Practice · ${HOT_LEVELS[hotLevel]}`;
+  let seg = els.quizSection.querySelector(".quiz-mode");
+  if (!seg) {
+    seg = document.createElement("div");
+    seg.className = "quiz-mode";
+    [["cz", "例句選字 Sentence"], ["ed", "選英文解釋 Definition"]].forEach(([mode, label]) => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.dataset.mode = mode;
+      b.textContent = label;
+      b.addEventListener("click", () => { hotQuizMode = mode; renderQuiz(); });
+      seg.append(b);
+    });
+    els.quizSection.querySelector(".quiz-heading").insertAdjacentElement("afterend", seg);
+  }
+  seg.querySelectorAll("button").forEach(b => b.classList.toggle("on", b.dataset.mode === hotQuizMode));
+}
+
 function renderQuiz() {
-  const quiz = units[state.unit].quiz || [];
+  const quiz = hasLevels ? hotQuiz() : units[state.unit].quiz || [];
+  if (hasLevels && els.quizSection) renderQuizHead();
   if (!els.quizSection || !els.quizList || !els.quizScore) return;
   els.quizSection.hidden = quiz.length === 0;
   els.quizList.replaceChildren();
 
   let correctCount = 0;
   quiz.forEach((question, index) => {
-    const key = `${state.unit}-${index}`;
+    const key = hasLevels ? `${state.unit}-${hotLevel}-${hotQuizMode}-${question.answerWord}` : `${state.unit}-${index}`;
     const selected = state.quizAnswers[key];
     const answered = Boolean(selected);
     if (selected === question.answer) correctCount += 1;

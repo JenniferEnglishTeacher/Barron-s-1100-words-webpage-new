@@ -11,3 +11,4 @@ lesson dropdown and the "SAT 同義字 / 反義字" chips on the card back.
 `remove.json` lists words Jennifer dropped as too obscure ({lesson: [words]}). `python3 tools/hot-expand/prune.py` removes them from
 the lesson files and rewrites hot-words.js / hot-dashboard-data.js (both carry a one-time fix for saved review-list keys, see
 `prune-map.json`). Always run prune.py after build.py, then bump `?v=`.
+- After any rebuild here, run `python3 tools/hot-level/build.py` (基礎/進階 levels + MCQ choices).
