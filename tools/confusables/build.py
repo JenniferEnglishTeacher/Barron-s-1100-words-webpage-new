@@ -108,7 +108,7 @@ for code, tname, ten in TYPES:
                 words.append({"w": w["word"], "pos": w["pos"], "def": w["def_"], "zh": w["zh"],
                               "sense": ("常見義" if i == 0 else "SAT義") if code == "C" else "",
                               "syn": w["syn"], "ant": w["ant"], "s": w["sent"], "t": w["tr"], "lv": w["lvl"],
-                              "new": w["src"] == "新增", "cards": cards_for(w["word"])})
+                              "new": w["src"] == "新增", "cards": cards_for(w["word"]), **({"ex": w["ex"]} if w.get("ex") else {})})
             qs = []
             if code != "C":
                 for w in g["words"]:  # 例句選對字: options = the group's words, in the sentence's form
